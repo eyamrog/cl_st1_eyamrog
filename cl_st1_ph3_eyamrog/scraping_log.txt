@@ -1,0 +1,722 @@
+2024-09-20 13:18:26,977 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000000.txt
+2024-09-20 13:18:26,979 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000000.pdf
+2024-09-20 13:18:27,925 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000001.txt
+2024-09-20 13:18:27,926 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000001.pdf
+2024-09-20 13:18:29,059 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000002.txt
+2024-09-20 13:18:29,060 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000002.pdf
+2024-09-20 13:18:30,506 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000003.txt
+2024-09-20 13:18:30,508 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000003.pdf
+2024-09-20 13:18:31,432 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000004.txt
+2024-09-20 13:18:31,434 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000004.pdf
+2024-09-20 13:18:32,469 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000005.txt
+2024-09-20 13:18:32,472 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000005.pdf
+2024-09-20 13:18:33,371 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000006.txt
+2024-09-20 13:18:33,372 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000006.pdf
+2024-09-20 13:18:34,246 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000007.txt
+2024-09-20 13:18:34,246 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000007.pdf
+2024-09-20 13:18:35,131 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000008.txt
+2024-09-20 13:18:35,134 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000008.pdf
+2024-09-20 13:18:36,131 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000009.txt
+2024-09-20 13:18:36,132 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000009.pdf
+2024-09-20 13:18:37,026 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000010.txt
+2024-09-20 13:18:37,028 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000010.pdf
+2024-09-20 13:18:37,997 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000011.txt
+2024-09-20 13:18:37,998 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000011.pdf
+2024-09-20 13:18:39,309 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000012.txt
+2024-09-20 13:18:39,311 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000012.pdf
+2024-09-20 13:18:40,390 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000013.txt
+2024-09-20 13:18:40,391 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000013.pdf
+2024-09-20 13:18:41,959 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000014.txt
+2024-09-20 13:18:41,960 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000014.pdf
+2024-09-20 13:18:43,082 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000015.txt
+2024-09-20 13:18:43,083 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000015.pdf
+2024-09-20 13:18:44,381 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000016.txt
+2024-09-20 13:18:44,383 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000016.pdf
+2024-09-20 13:18:45,310 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000017.txt
+2024-09-20 13:18:45,311 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000017.pdf
+2024-09-20 13:18:46,267 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000018.txt
+2024-09-20 13:18:46,268 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000018.pdf
+2024-09-20 13:18:47,300 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000019.txt
+2024-09-20 13:18:47,302 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000019.pdf
+2024-09-20 13:18:48,278 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000020.txt
+2024-09-20 13:18:48,280 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000020.pdf
+2024-09-20 13:18:49,188 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000021.txt
+2024-09-20 13:18:49,189 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000021.pdf
+2024-09-20 13:18:50,605 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000022.txt
+2024-09-20 13:18:50,606 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000022.pdf
+2024-09-20 13:18:51,618 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000023.txt
+2024-09-20 13:18:51,619 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000023.pdf
+2024-09-20 13:18:52,685 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000024.txt
+2024-09-20 13:18:52,687 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000024.pdf
+2024-09-20 13:18:53,723 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000025.txt
+2024-09-20 13:18:53,725 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000025.pdf
+2024-09-20 13:18:54,912 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000026.txt
+2024-09-20 13:18:54,913 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000026.pdf
+2024-09-20 13:18:56,314 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000027.txt
+2024-09-20 13:18:56,316 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000027.pdf
+2024-09-20 13:18:57,530 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000028.txt
+2024-09-20 13:18:57,533 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000028.pdf
+2024-09-20 13:18:58,538 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000029.txt
+2024-09-20 13:18:58,540 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000029.pdf
+2024-09-20 13:18:59,456 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000030.txt
+2024-09-20 13:18:59,459 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000030.pdf
+2024-09-20 13:19:00,655 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000031.txt
+2024-09-20 13:19:00,659 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000031.pdf
+2024-09-20 13:19:01,601 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000032.txt
+2024-09-20 13:19:01,602 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000032.pdf
+2024-09-20 13:19:02,572 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000033.txt
+2024-09-20 13:19:02,573 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000033.pdf
+2024-09-20 13:19:03,555 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000034.txt
+2024-09-20 13:19:03,555 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000034.pdf
+2024-09-20 13:19:04,530 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000035.txt
+2024-09-20 13:19:04,531 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000035.pdf
+2024-09-20 13:19:05,447 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000036.txt
+2024-09-20 13:19:05,447 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000036.pdf
+2024-09-20 13:19:06,659 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000037.txt
+2024-09-20 13:19:06,660 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000037.pdf
+2024-09-20 13:19:07,667 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000038.txt
+2024-09-20 13:19:07,669 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000038.pdf
+2024-09-20 13:19:08,594 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000039.txt
+2024-09-20 13:19:08,595 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000039.pdf
+2024-09-20 13:19:09,536 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000040.txt
+2024-09-20 13:19:09,537 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000040.pdf
+2024-09-20 13:19:10,427 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000041.txt
+2024-09-20 13:19:10,428 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000041.pdf
+2024-09-20 13:19:11,276 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000042.txt
+2024-09-20 13:19:11,277 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000042.pdf
+2024-09-20 13:19:12,358 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000043.txt
+2024-09-20 13:19:12,360 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000043.pdf
+2024-09-20 13:19:13,343 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000044.txt
+2024-09-20 13:19:13,345 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000044.pdf
+2024-09-20 13:19:14,365 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000045.txt
+2024-09-20 13:19:14,367 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000045.pdf
+2024-09-20 13:19:15,583 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000046.txt
+2024-09-20 13:19:15,584 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000046.pdf
+2024-09-20 13:19:16,526 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000047.txt
+2024-09-20 13:19:16,527 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000047.pdf
+2024-09-20 13:19:17,462 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000048.txt
+2024-09-20 13:19:17,463 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000048.pdf
+2024-09-20 13:19:18,579 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000049.txt
+2024-09-20 13:19:18,580 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000049.pdf
+2024-09-20 13:19:20,597 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000050.txt
+2024-09-20 13:19:20,599 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000050.pdf
+2024-09-20 13:19:21,606 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000051.txt
+2024-09-20 13:19:21,607 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000051.pdf
+2024-09-20 13:19:23,097 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000052.txt
+2024-09-20 13:19:23,101 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000052.pdf
+2024-09-20 13:19:23,981 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000053.txt
+2024-09-20 13:19:23,983 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000053.pdf
+2024-09-20 13:19:24,887 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000054.txt
+2024-09-20 13:19:24,888 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000054.pdf
+2024-09-20 13:19:25,915 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000055.txt
+2024-09-20 13:19:25,918 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000055.pdf
+2024-09-20 13:19:27,030 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000056.txt
+2024-09-20 13:19:27,031 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000056.pdf
+2024-09-20 13:19:27,971 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000057.txt
+2024-09-20 13:19:27,972 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000057.pdf
+2024-09-20 13:19:29,199 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000058.txt
+2024-09-20 13:19:29,202 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000058.pdf
+2024-09-20 13:19:30,170 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000059.txt
+2024-09-20 13:19:30,171 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000059.pdf
+2024-09-20 13:19:31,172 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000060.txt
+2024-09-20 13:19:31,174 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000060.pdf
+2024-09-20 13:19:32,174 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000061.txt
+2024-09-20 13:19:32,176 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000061.pdf
+2024-09-20 13:19:33,070 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000062.txt
+2024-09-20 13:19:33,071 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000062.pdf
+2024-09-20 13:19:34,032 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000063.txt
+2024-09-20 13:19:34,033 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000063.pdf
+2024-09-20 13:19:35,109 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000064.txt
+2024-09-20 13:19:35,111 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000064.pdf
+2024-09-20 13:19:36,007 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000065.txt
+2024-09-20 13:19:36,008 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000065.pdf
+2024-09-20 13:19:36,973 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000066.txt
+2024-09-20 13:19:36,975 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000066.pdf
+2024-09-20 13:19:38,187 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000067.txt
+2024-09-20 13:19:38,188 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000067.pdf
+2024-09-20 13:19:39,185 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000068.txt
+2024-09-20 13:19:39,188 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000068.pdf
+2024-09-20 13:19:40,263 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000069.txt
+2024-09-20 13:19:40,264 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000069.pdf
+2024-09-20 13:19:41,112 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000070.txt
+2024-09-20 13:19:41,113 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000070.pdf
+2024-09-20 13:19:42,142 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000071.txt
+2024-09-20 13:19:42,143 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000071.pdf
+2024-09-20 13:19:43,128 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000072.txt
+2024-09-20 13:19:43,129 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000072.pdf
+2024-09-20 13:19:44,051 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000073.txt
+2024-09-20 13:19:44,052 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000073.pdf
+2024-09-20 13:19:45,061 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000074.txt
+2024-09-20 13:19:45,062 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000074.pdf
+2024-09-20 13:19:46,032 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000075.txt
+2024-09-20 13:19:46,033 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000075.pdf
+2024-09-20 13:19:46,974 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000076.txt
+2024-09-20 13:19:46,975 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000076.pdf
+2024-09-20 13:19:47,920 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000077.txt
+2024-09-20 13:19:47,921 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000077.pdf
+2024-09-20 13:19:49,108 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000078.txt
+2024-09-20 13:19:49,110 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000078.pdf
+2024-09-20 13:19:50,198 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000079.txt
+2024-09-20 13:19:50,204 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000079.pdf
+2024-09-20 13:19:51,312 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000080.txt
+2024-09-20 13:19:51,315 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000080.pdf
+2024-09-20 13:19:52,275 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000081.txt
+2024-09-20 13:19:52,277 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000081.pdf
+2024-09-20 13:19:53,645 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000082.txt
+2024-09-20 13:19:53,647 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000082.pdf
+2024-09-20 13:19:54,593 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000083.txt
+2024-09-20 13:19:54,594 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000083.pdf
+2024-09-20 13:19:55,645 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000084.txt
+2024-09-20 13:19:55,647 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000084.pdf
+2024-09-20 13:19:56,715 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000085.txt
+2024-09-20 13:19:56,715 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000085.pdf
+2024-09-20 13:19:57,685 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000086.txt
+2024-09-20 13:19:57,686 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000086.pdf
+2024-09-20 13:19:58,717 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000087.txt
+2024-09-20 13:19:58,719 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000087.pdf
+2024-09-20 13:19:59,787 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000088.txt
+2024-09-20 13:19:59,789 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000088.pdf
+2024-09-20 13:20:00,728 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000089.txt
+2024-09-20 13:20:00,730 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000089.pdf
+2024-09-20 13:20:01,656 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000090.txt
+2024-09-20 13:20:01,657 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000090.pdf
+2024-09-20 13:20:02,762 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000091.txt
+2024-09-20 13:20:02,764 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000091.pdf
+2024-09-20 13:20:03,728 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000092.txt
+2024-09-20 13:20:03,730 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000092.pdf
+2024-09-20 13:20:05,311 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000093.txt
+2024-09-20 13:20:05,316 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000093.pdf
+2024-09-20 13:20:06,890 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000094.txt
+2024-09-20 13:20:06,895 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000094.pdf
+2024-09-20 13:20:07,905 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000095.txt
+2024-09-20 13:20:07,907 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000095.pdf
+2024-09-20 13:20:09,238 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000096.txt
+2024-09-20 13:20:09,242 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000096.pdf
+2024-09-20 13:20:10,723 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000097.txt
+2024-09-20 13:20:10,728 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000097.pdf
+2024-09-20 13:20:11,787 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000098.txt
+2024-09-20 13:20:11,789 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000098.pdf
+2024-09-20 13:20:12,819 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000099.txt
+2024-09-20 13:20:12,821 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000099.pdf
+2024-09-20 13:20:14,761 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000100.txt
+2024-09-20 13:20:14,763 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000100.pdf
+2024-09-20 13:20:16,048 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000101.txt
+2024-09-20 13:20:16,055 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000101.pdf
+2024-09-20 13:20:17,368 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000102.txt
+2024-09-20 13:20:17,371 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000102.pdf
+2024-09-20 13:20:18,471 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000103.txt
+2024-09-20 13:20:18,472 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000103.pdf
+2024-09-20 13:20:20,729 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000104.txt
+2024-09-20 13:20:20,735 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000104.pdf
+2024-09-20 13:20:22,281 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000105.txt
+2024-09-20 13:20:22,283 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000105.pdf
+2024-09-20 13:20:23,189 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000106.txt
+2024-09-20 13:20:23,190 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000106.pdf
+2024-09-20 13:20:24,362 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000107.txt
+2024-09-20 13:20:24,364 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000107.pdf
+2024-09-20 13:20:25,702 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000108.txt
+2024-09-20 13:20:25,706 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000108.pdf
+2024-09-20 13:20:26,797 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000109.txt
+2024-09-20 13:20:26,800 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000109.pdf
+2024-09-20 13:20:28,667 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000110.txt
+2024-09-20 13:20:28,672 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000110.pdf
+2024-09-20 13:20:29,789 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000111.txt
+2024-09-20 13:20:29,791 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000111.pdf
+2024-09-20 13:20:30,978 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000112.txt
+2024-09-20 13:20:30,982 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000112.pdf
+2024-09-20 13:20:32,134 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000113.txt
+2024-09-20 13:20:32,137 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000113.pdf
+2024-09-20 13:20:33,411 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000114.txt
+2024-09-20 13:20:33,415 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000114.pdf
+2024-09-20 13:20:34,581 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000115.txt
+2024-09-20 13:20:34,584 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000115.pdf
+2024-09-20 13:20:35,955 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000116.txt
+2024-09-20 13:20:35,961 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000116.pdf
+2024-09-20 13:20:37,281 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000117.txt
+2024-09-20 13:20:37,285 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000117.pdf
+2024-09-20 13:20:39,051 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000118.txt
+2024-09-20 13:20:39,056 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000118.pdf
+2024-09-20 13:20:44,777 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000119.txt
+2024-09-20 13:20:44,797 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000119.pdf
+2024-09-20 13:20:46,047 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000120.txt
+2024-09-20 13:20:46,050 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000120.pdf
+2024-09-20 13:20:48,324 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000121.txt
+2024-09-20 13:20:48,328 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000121.pdf
+2024-09-20 13:20:49,393 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000122.txt
+2024-09-20 13:20:49,396 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000122.pdf
+2024-09-20 13:20:50,782 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000123.txt
+2024-09-20 13:20:50,785 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000123.pdf
+2024-09-20 13:20:52,131 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000124.txt
+2024-09-20 13:20:52,134 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000124.pdf
+2024-09-20 13:20:53,838 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000125.txt
+2024-09-20 13:20:53,844 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000125.pdf
+2024-09-20 13:20:55,022 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000126.txt
+2024-09-20 13:20:55,025 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000126.pdf
+2024-09-20 13:20:56,590 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000127.txt
+2024-09-20 13:20:56,595 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000127.pdf
+2024-09-20 13:20:58,236 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000128.txt
+2024-09-20 13:20:58,243 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000128.pdf
+2024-09-20 13:21:01,271 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000129.txt
+2024-09-20 13:21:01,282 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000129.pdf
+2024-09-20 13:21:04,269 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000130.txt
+2024-09-20 13:21:04,282 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000130.pdf
+2024-09-20 13:21:05,338 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000131.txt
+2024-09-20 13:21:05,340 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000131.pdf
+2024-09-20 13:21:06,760 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000132.txt
+2024-09-20 13:21:06,764 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000132.pdf
+2024-09-20 13:21:08,269 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000133.txt
+2024-09-20 13:21:08,272 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000133.pdf
+2024-09-20 13:21:09,376 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000134.txt
+2024-09-20 13:21:09,377 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000134.pdf
+2024-09-20 13:21:10,805 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000135.txt
+2024-09-20 13:21:10,810 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000135.pdf
+2024-09-20 13:21:12,378 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000136.txt
+2024-09-20 13:21:12,382 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000136.pdf
+2024-09-20 13:21:13,804 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000137.txt
+2024-09-20 13:21:13,808 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000137.pdf
+2024-09-20 13:21:15,374 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000138.txt
+2024-09-20 13:21:15,378 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000138.pdf
+2024-09-20 13:21:16,652 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000139.txt
+2024-09-20 13:21:16,654 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000139.pdf
+2024-09-20 13:21:17,851 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000140.txt
+2024-09-20 13:21:17,852 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000140.pdf
+2024-09-20 13:21:19,555 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000141.txt
+2024-09-20 13:21:19,560 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000141.pdf
+2024-09-20 13:21:20,875 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000142.txt
+2024-09-20 13:21:20,879 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000142.pdf
+2024-09-20 13:21:22,000 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000143.txt
+2024-09-20 13:21:22,003 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000143.pdf
+2024-09-20 13:21:23,081 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000144.txt
+2024-09-20 13:21:23,083 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000144.pdf
+2024-09-20 13:21:24,508 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000145.txt
+2024-09-20 13:21:24,513 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000145.pdf
+2024-09-20 13:21:25,772 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000146.txt
+2024-09-20 13:21:25,775 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000146.pdf
+2024-09-20 13:21:26,940 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000147.txt
+2024-09-20 13:21:26,943 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000147.pdf
+2024-09-20 13:21:28,251 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000148.txt
+2024-09-20 13:21:28,253 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000148.pdf
+2024-09-20 13:21:29,164 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000149.txt
+2024-09-20 13:21:29,164 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000149.pdf
+2024-09-20 13:21:30,372 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000150.txt
+2024-09-20 13:21:30,375 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000150.pdf
+2024-09-20 13:21:31,623 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000151.txt
+2024-09-20 13:21:31,628 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000151.pdf
+2024-09-20 13:21:32,731 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000152.txt
+2024-09-20 13:21:32,734 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000152.pdf
+2024-09-20 13:21:34,075 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000153.txt
+2024-09-20 13:21:34,076 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000153.pdf
+2024-09-20 13:21:35,493 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000154.txt
+2024-09-20 13:21:35,495 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000154.pdf
+2024-09-20 13:21:37,039 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000155.txt
+2024-09-20 13:21:37,042 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000155.pdf
+2024-09-20 13:21:38,527 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000156.txt
+2024-09-20 13:21:38,530 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000156.pdf
+2024-09-20 13:21:39,788 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000157.txt
+2024-09-20 13:21:39,792 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000157.pdf
+2024-09-20 13:21:41,026 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000158.txt
+2024-09-20 13:21:41,029 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000158.pdf
+2024-09-20 13:21:42,608 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000159.txt
+2024-09-20 13:21:42,613 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000159.pdf
+2024-09-20 13:21:43,689 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000160.txt
+2024-09-20 13:21:43,692 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000160.pdf
+2024-09-20 13:21:45,556 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000161.txt
+2024-09-20 13:21:45,561 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000161.pdf
+2024-09-20 13:21:47,292 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000162.txt
+2024-09-20 13:21:47,297 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000162.pdf
+2024-09-20 13:21:48,955 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000163.txt
+2024-09-20 13:21:48,960 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000163.pdf
+2024-09-20 13:21:50,202 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000164.txt
+2024-09-20 13:21:50,206 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000164.pdf
+2024-09-20 13:21:51,360 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000165.txt
+2024-09-20 13:21:51,362 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000165.pdf
+2024-09-20 13:21:52,703 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000166.txt
+2024-09-20 13:21:52,705 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000166.pdf
+2024-09-20 13:21:54,159 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000167.txt
+2024-09-20 13:21:54,161 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000167.pdf
+2024-09-20 13:21:55,296 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000168.txt
+2024-09-20 13:21:55,297 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000168.pdf
+2024-09-20 13:21:56,867 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000169.txt
+2024-09-20 13:21:56,869 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000169.pdf
+2024-09-20 13:21:58,198 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000170.txt
+2024-09-20 13:21:58,201 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000170.pdf
+2024-09-20 13:21:59,776 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000171.txt
+2024-09-20 13:21:59,778 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000171.pdf
+2024-09-20 13:22:01,055 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000172.txt
+2024-09-20 13:22:01,058 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000172.pdf
+2024-09-20 13:22:02,772 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000173.txt
+2024-09-20 13:22:02,779 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000173.pdf
+2024-09-20 13:22:04,670 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000174.txt
+2024-09-20 13:22:04,677 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000174.pdf
+2024-09-20 13:22:06,909 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000175.txt
+2024-09-20 13:22:06,914 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000175.pdf
+2024-09-20 13:22:09,269 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000176.txt
+2024-09-20 13:22:09,277 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000176.pdf
+2024-09-20 13:22:10,452 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000177.txt
+2024-09-20 13:22:10,455 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000177.pdf
+2024-09-20 13:22:11,722 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000178.txt
+2024-09-20 13:22:11,726 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000178.pdf
+2024-09-20 13:22:12,841 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000179.txt
+2024-09-20 13:22:12,843 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000179.pdf
+2024-09-20 13:22:14,095 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000180.txt
+2024-09-20 13:22:14,098 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000180.pdf
+2024-09-20 13:22:15,459 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000181.txt
+2024-09-20 13:22:15,463 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000181.pdf
+2024-09-20 13:22:16,445 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000182.txt
+2024-09-20 13:22:16,446 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000182.pdf
+2024-09-20 13:22:17,383 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000183.txt
+2024-09-20 13:22:17,385 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000183.pdf
+2024-09-20 13:22:18,519 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000184.txt
+2024-09-20 13:22:18,521 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000184.pdf
+2024-09-20 13:22:19,442 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000185.txt
+2024-09-20 13:22:19,443 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000185.pdf
+2024-09-20 13:22:20,463 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000186.txt
+2024-09-20 13:22:20,464 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000186.pdf
+2024-09-20 13:22:21,424 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000187.txt
+2024-09-20 13:22:21,425 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000187.pdf
+2024-09-20 13:22:22,465 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000188.txt
+2024-09-20 13:22:22,466 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000188.pdf
+2024-09-20 13:22:23,415 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000189.txt
+2024-09-20 13:22:23,416 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000189.pdf
+2024-09-20 13:22:24,493 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000190.txt
+2024-09-20 13:22:24,493 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000190.pdf
+2024-09-20 13:22:25,368 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000191.txt
+2024-09-20 13:22:25,368 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000191.pdf
+2024-09-20 13:22:26,217 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000192.txt
+2024-09-20 13:22:26,218 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000192.pdf
+2024-09-20 13:22:27,238 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000193.txt
+2024-09-20 13:22:27,240 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000193.pdf
+2024-09-20 13:22:28,666 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000194.txt
+2024-09-20 13:22:28,680 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000194.pdf
+2024-09-20 13:22:29,802 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000195.txt
+2024-09-20 13:22:29,803 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000195.pdf
+2024-09-20 13:22:31,874 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000196.txt
+2024-09-20 13:22:31,879 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000196.pdf
+2024-09-20 13:22:32,754 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000197.txt
+2024-09-20 13:22:32,754 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000197.pdf
+2024-09-20 13:22:33,619 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000198.txt
+2024-09-20 13:22:33,620 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000198.pdf
+2024-09-20 13:22:34,814 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000199.txt
+2024-09-20 13:22:34,815 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000199.pdf
+2024-09-20 13:22:35,850 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000200.txt
+2024-09-20 13:22:35,852 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000200.pdf
+2024-09-20 13:22:36,867 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000201.txt
+2024-09-20 13:22:36,868 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000201.pdf
+2024-09-20 13:22:38,300 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000202.txt
+2024-09-20 13:22:38,302 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000202.pdf
+2024-09-20 13:22:39,480 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000203.txt
+2024-09-20 13:22:39,481 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000203.pdf
+2024-09-20 13:22:40,564 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000204.txt
+2024-09-20 13:22:40,566 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000204.pdf
+2024-09-20 13:22:42,042 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000205.txt
+2024-09-20 13:22:42,045 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000205.pdf
+2024-09-20 13:22:43,006 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000206.txt
+2024-09-20 13:22:43,007 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000206.pdf
+2024-09-20 13:22:43,908 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000207.txt
+2024-09-20 13:22:43,908 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000207.pdf
+2024-09-20 13:22:45,927 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000208.txt
+2024-09-20 13:22:45,932 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000208.pdf
+2024-09-20 13:22:46,887 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000209.txt
+2024-09-20 13:22:46,887 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000209.pdf
+2024-09-20 13:22:47,901 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000210.txt
+2024-09-20 13:22:47,902 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000210.pdf
+2024-09-20 13:22:49,337 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000211.txt
+2024-09-20 13:22:49,338 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000211.pdf
+2024-09-20 13:22:50,545 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000212.txt
+2024-09-20 13:22:50,545 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000212.pdf
+2024-09-20 13:22:51,560 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000213.txt
+2024-09-20 13:22:51,561 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000213.pdf
+2024-09-20 13:22:52,679 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000214.txt
+2024-09-20 13:22:52,681 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000214.pdf
+2024-09-20 13:22:54,195 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000215.txt
+2024-09-20 13:22:54,199 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000215.pdf
+2024-09-20 13:22:55,297 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000216.txt
+2024-09-20 13:22:55,297 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000216.pdf
+2024-09-20 13:22:56,281 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000217.txt
+2024-09-20 13:22:56,284 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000217.pdf
+2024-09-20 13:22:58,423 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000218.txt
+2024-09-20 13:22:58,432 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000218.pdf
+2024-09-20 13:22:59,350 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000219.txt
+2024-09-20 13:22:59,351 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000219.pdf
+2024-09-20 13:23:00,343 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000220.txt
+2024-09-20 13:23:00,344 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000220.pdf
+2024-09-20 13:23:01,260 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000221.txt
+2024-09-20 13:23:01,261 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000221.pdf
+2024-09-20 13:23:02,213 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000222.txt
+2024-09-20 13:23:02,213 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000222.pdf
+2024-09-20 13:23:03,191 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000223.txt
+2024-09-20 13:23:03,193 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000223.pdf
+2024-09-20 13:23:04,169 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000224.txt
+2024-09-20 13:23:04,170 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000224.pdf
+2024-09-20 13:23:05,199 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000225.txt
+2024-09-20 13:23:05,200 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000225.pdf
+2024-09-20 13:23:06,319 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000226.txt
+2024-09-20 13:23:06,320 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000226.pdf
+2024-09-20 13:23:07,314 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000227.txt
+2024-09-20 13:23:07,314 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000227.pdf
+2024-09-20 13:23:08,278 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000228.txt
+2024-09-20 13:23:08,280 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000228.pdf
+2024-09-20 13:23:09,059 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000229.txt
+2024-09-20 13:23:09,059 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000229.pdf
+2024-09-20 13:23:10,074 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000230.txt
+2024-09-20 13:23:10,074 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000230.pdf
+2024-09-20 13:23:11,604 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000231.txt
+2024-09-20 13:23:11,607 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000231.pdf
+2024-09-20 13:23:12,807 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000232.txt
+2024-09-20 13:23:12,808 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000232.pdf
+2024-09-20 13:23:13,911 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000233.txt
+2024-09-20 13:23:13,912 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000233.pdf
+2024-09-20 13:23:14,914 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000234.txt
+2024-09-20 13:23:14,915 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000234.pdf
+2024-09-20 13:23:16,052 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000235.txt
+2024-09-20 13:23:16,053 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000235.pdf
+2024-09-20 13:23:17,153 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000236.txt
+2024-09-20 13:23:17,154 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000236.pdf
+2024-09-20 13:23:18,340 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000237.txt
+2024-09-20 13:23:18,341 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000237.pdf
+2024-09-20 13:23:19,330 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000238.txt
+2024-09-20 13:23:19,330 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000238.pdf
+2024-09-20 13:23:20,559 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000239.txt
+2024-09-20 13:23:20,559 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000239.pdf
+2024-09-20 13:23:21,439 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000240.txt
+2024-09-20 13:23:21,440 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000240.pdf
+2024-09-20 13:23:22,541 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000241.txt
+2024-09-20 13:23:22,542 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000241.pdf
+2024-09-20 13:23:24,091 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000242.txt
+2024-09-20 13:23:24,092 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000242.pdf
+2024-09-20 13:23:25,435 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000243.txt
+2024-09-20 13:23:25,436 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000243.pdf
+2024-09-20 13:23:26,563 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000244.txt
+2024-09-20 13:23:26,564 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000244.pdf
+2024-09-20 13:23:27,728 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000245.txt
+2024-09-20 13:23:27,729 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000245.pdf
+2024-09-20 13:23:28,971 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000246.txt
+2024-09-20 13:23:28,972 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000246.pdf
+2024-09-20 13:23:30,252 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000247.txt
+2024-09-20 13:23:30,253 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000247.pdf
+2024-09-20 13:23:31,222 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000248.txt
+2024-09-20 13:23:31,223 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000248.pdf
+2024-09-20 13:23:32,272 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000249.txt
+2024-09-20 13:23:32,272 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000249.pdf
+2024-09-20 13:23:33,705 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000250.txt
+2024-09-20 13:23:33,706 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000250.pdf
+2024-09-20 13:23:34,774 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000251.txt
+2024-09-20 13:23:34,775 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000251.pdf
+2024-09-20 13:23:35,718 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000252.txt
+2024-09-20 13:23:35,719 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000252.pdf
+2024-09-20 13:23:37,042 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000253.txt
+2024-09-20 13:23:37,043 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000253.pdf
+2024-09-20 13:23:38,033 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000254.txt
+2024-09-20 13:23:38,034 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000254.pdf
+2024-09-20 13:23:39,994 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000255.txt
+2024-09-20 13:23:39,995 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000255.pdf
+2024-09-20 13:23:41,164 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000256.txt
+2024-09-20 13:23:41,165 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000256.pdf
+2024-09-20 13:23:42,194 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000257.txt
+2024-09-20 13:23:42,194 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000257.pdf
+2024-09-20 13:23:43,244 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000258.txt
+2024-09-20 13:23:43,244 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000258.pdf
+2024-09-20 13:23:44,225 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000259.txt
+2024-09-20 13:23:44,225 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000259.pdf
+2024-09-20 13:23:45,175 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000260.txt
+2024-09-20 13:23:45,176 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000260.pdf
+2024-09-20 13:23:46,199 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000261.txt
+2024-09-20 13:23:46,200 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000261.pdf
+2024-09-20 13:23:47,219 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000262.txt
+2024-09-20 13:23:47,220 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000262.pdf
+2024-09-20 13:23:48,144 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000263.txt
+2024-09-20 13:23:48,145 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000263.pdf
+2024-09-20 13:23:49,086 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000264.txt
+2024-09-20 13:23:49,087 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000264.pdf
+2024-09-20 13:23:50,250 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000265.txt
+2024-09-20 13:23:50,251 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000265.pdf
+2024-09-20 13:23:51,272 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000266.txt
+2024-09-20 13:23:51,273 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000266.pdf
+2024-09-20 13:23:52,304 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000267.txt
+2024-09-20 13:23:52,304 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000267.pdf
+2024-09-20 13:23:53,308 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000268.txt
+2024-09-20 13:23:53,309 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000268.pdf
+2024-09-20 13:23:54,355 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000269.txt
+2024-09-20 13:23:54,356 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000269.pdf
+2024-09-20 13:23:55,477 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000270.txt
+2024-09-20 13:23:55,479 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000270.pdf
+2024-09-20 13:23:56,571 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000271.txt
+2024-09-20 13:23:56,571 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000271.pdf
+2024-09-20 13:23:57,617 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000272.txt
+2024-09-20 13:23:57,618 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000272.pdf
+2024-09-20 13:23:58,560 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000273.txt
+2024-09-20 13:23:58,561 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000273.pdf
+2024-09-20 13:23:59,512 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000274.txt
+2024-09-20 13:23:59,513 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000274.pdf
+2024-09-20 13:24:00,507 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000275.txt
+2024-09-20 13:24:00,507 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000275.pdf
+2024-09-20 13:24:01,605 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000276.txt
+2024-09-20 13:24:01,606 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000276.pdf
+2024-09-20 13:24:02,601 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000277.txt
+2024-09-20 13:24:02,601 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000277.pdf
+2024-09-20 13:24:03,674 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000278.txt
+2024-09-20 13:24:03,675 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000278.pdf
+2024-09-20 13:24:04,979 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000279.txt
+2024-09-20 13:24:04,981 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000279.pdf
+2024-09-20 13:24:06,014 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000280.txt
+2024-09-20 13:24:06,015 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000280.pdf
+2024-09-20 13:24:06,951 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000281.txt
+2024-09-20 13:24:06,951 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000281.pdf
+2024-09-20 13:24:07,787 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000282.txt
+2024-09-20 13:24:07,788 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000282.pdf
+2024-09-20 13:24:08,627 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000283.txt
+2024-09-20 13:24:08,628 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000283.pdf
+2024-09-20 13:24:09,485 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000284.txt
+2024-09-20 13:24:09,485 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000284.pdf
+2024-09-20 13:24:10,288 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000285.txt
+2024-09-20 13:24:10,289 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000285.pdf
+2024-09-20 13:24:11,542 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000286.txt
+2024-09-20 13:24:11,547 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000286.pdf
+2024-09-20 13:24:12,542 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000287.txt
+2024-09-20 13:24:12,543 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000287.pdf
+2024-09-20 13:24:13,589 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000288.txt
+2024-09-20 13:24:13,590 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000288.pdf
+2024-09-20 13:24:14,667 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000289.txt
+2024-09-20 13:24:14,668 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000289.pdf
+2024-09-20 13:24:15,734 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000290.txt
+2024-09-20 13:24:15,734 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000290.pdf
+2024-09-20 13:24:17,078 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000291.txt
+2024-09-20 13:24:17,079 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000291.pdf
+2024-09-20 13:24:18,102 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000292.txt
+2024-09-20 13:24:18,103 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000292.pdf
+2024-09-20 13:24:19,013 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000293.txt
+2024-09-20 13:24:19,014 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000293.pdf
+2024-09-20 13:24:20,097 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000294.txt
+2024-09-20 13:24:20,098 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000294.pdf
+2024-09-20 13:24:21,695 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000295.txt
+2024-09-20 13:24:21,700 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000295.pdf
+2024-09-20 13:24:22,617 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000296.txt
+2024-09-20 13:24:22,618 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000296.pdf
+2024-09-20 13:24:23,528 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000297.txt
+2024-09-20 13:24:23,529 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000297.pdf
+2024-09-20 13:24:24,715 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000298.txt
+2024-09-20 13:24:24,715 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000298.pdf
+2024-09-20 13:24:25,634 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000299.txt
+2024-09-20 13:24:25,634 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000299.pdf
+2024-09-20 13:24:26,830 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000300.txt
+2024-09-20 13:24:26,832 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000300.pdf
+2024-09-20 13:24:27,740 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000301.txt
+2024-09-20 13:24:27,740 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000301.pdf
+2024-09-20 13:24:29,180 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000302.txt
+2024-09-20 13:24:29,184 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000302.pdf
+2024-09-20 13:24:30,133 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000303.txt
+2024-09-20 13:24:30,133 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000303.pdf
+2024-09-20 13:24:31,169 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000304.txt
+2024-09-20 13:24:31,170 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000304.pdf
+2024-09-20 13:24:32,166 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000305.txt
+2024-09-20 13:24:32,168 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000305.pdf
+2024-09-20 13:24:33,049 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000306.txt
+2024-09-20 13:24:33,051 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000306.pdf
+2024-09-20 13:24:33,908 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000307.txt
+2024-09-20 13:24:33,909 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000307.pdf
+2024-09-20 13:24:34,682 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000308.txt
+2024-09-20 13:24:34,682 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000308.pdf
+2024-09-20 13:24:35,537 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000309.txt
+2024-09-20 13:24:35,538 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000309.pdf
+2024-09-20 13:24:36,751 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000310.txt
+2024-09-20 13:24:36,754 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000310.pdf
+2024-09-20 13:24:37,860 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000311.txt
+2024-09-20 13:24:37,861 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000311.pdf
+2024-09-20 13:24:38,862 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000312.txt
+2024-09-20 13:24:38,863 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000312.pdf
+2024-09-20 13:24:39,629 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000313.txt
+2024-09-20 13:24:39,630 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000313.pdf
+2024-09-20 13:24:40,809 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000314.txt
+2024-09-20 13:24:40,811 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000314.pdf
+2024-09-20 13:24:41,687 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000315.txt
+2024-09-20 13:24:41,688 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000315.pdf
+2024-09-20 13:24:42,709 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000316.txt
+2024-09-20 13:24:42,710 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000316.pdf
+2024-09-20 13:24:44,062 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000317.txt
+2024-09-20 13:24:44,066 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000317.pdf
+2024-09-20 13:24:45,070 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000318.txt
+2024-09-20 13:24:45,070 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000318.pdf
+2024-09-20 13:24:45,955 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000319.txt
+2024-09-20 13:24:45,955 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000319.pdf
+2024-09-20 13:24:47,028 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000320.txt
+2024-09-20 13:24:47,029 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000320.pdf
+2024-09-20 13:24:48,202 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000321.txt
+2024-09-20 13:24:48,203 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000321.pdf
+2024-09-20 13:24:49,329 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000322.txt
+2024-09-20 13:24:49,330 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000322.pdf
+2024-09-20 13:24:50,369 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000323.txt
+2024-09-20 13:24:50,369 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000323.pdf
+2024-09-20 13:24:51,324 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000324.txt
+2024-09-20 13:24:51,324 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000324.pdf
+2024-09-20 13:24:52,236 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000325.txt
+2024-09-20 13:24:52,236 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000325.pdf
+2024-09-20 13:24:53,165 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000326.txt
+2024-09-20 13:24:53,166 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000326.pdf
+2024-09-20 13:24:54,077 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000327.txt
+2024-09-20 13:24:54,077 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000327.pdf
+2024-09-20 13:24:54,961 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000328.txt
+2024-09-20 13:24:54,962 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000328.pdf
+2024-09-20 13:24:56,203 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000329.txt
+2024-09-20 13:24:56,206 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000329.pdf
+2024-09-20 13:24:57,140 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000330.txt
+2024-09-20 13:24:57,140 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000330.pdf
+2024-09-20 13:24:58,485 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000331.txt
+2024-09-20 13:24:58,489 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000331.pdf
+2024-09-20 13:24:59,722 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000332.txt
+2024-09-20 13:24:59,724 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000332.pdf
+2024-09-20 13:25:00,637 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000333.txt
+2024-09-20 13:25:00,638 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000333.pdf
+2024-09-20 13:25:01,514 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000334.txt
+2024-09-20 13:25:01,515 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000334.pdf
+2024-09-20 13:25:02,543 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000335.txt
+2024-09-20 13:25:02,543 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000335.pdf
+2024-09-20 13:25:03,460 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000336.txt
+2024-09-20 13:25:03,461 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000336.pdf
+2024-09-20 13:25:04,576 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000337.txt
+2024-09-20 13:25:04,577 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000337.pdf
+2024-09-20 13:25:05,560 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000338.txt
+2024-09-20 13:25:05,561 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000338.pdf
+2024-09-20 13:25:06,472 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000339.txt
+2024-09-20 13:25:06,472 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000339.pdf
+2024-09-20 13:25:07,366 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000340.txt
+2024-09-20 13:25:07,367 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000340.pdf
+2024-09-20 13:25:08,441 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000341.txt
+2024-09-20 13:25:08,442 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000341.pdf
+2024-09-20 13:25:09,498 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000342.txt
+2024-09-20 13:25:09,499 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000342.pdf
+2024-09-20 13:25:10,650 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000343.txt
+2024-09-20 13:25:10,654 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000343.pdf
+2024-09-20 13:25:11,622 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000344.txt
+2024-09-20 13:25:11,622 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000344.pdf
+2024-09-20 13:25:12,566 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000345.txt
+2024-09-20 13:25:12,567 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000345.pdf
+2024-09-20 13:25:13,782 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000346.txt
+2024-09-20 13:25:13,783 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000346.pdf
+2024-09-20 13:25:14,717 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000347.txt
+2024-09-20 13:25:14,718 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000347.pdf
+2024-09-20 13:25:15,784 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000348.txt
+2024-09-20 13:25:15,785 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000348.pdf
+2024-09-20 13:25:16,804 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000349.txt
+2024-09-20 13:25:16,805 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000349.pdf
+2024-09-20 13:25:17,784 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000350.txt
+2024-09-20 13:25:17,785 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000350.pdf
+2024-09-20 13:25:18,806 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000351.txt
+2024-09-20 13:25:18,807 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000351.pdf
+2024-09-20 13:25:19,901 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000352.txt
+2024-09-20 13:25:19,903 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000352.pdf
+2024-09-20 13:25:21,284 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000353.txt
+2024-09-20 13:25:21,285 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000353.pdf
+2024-09-20 13:25:22,527 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000354.txt
+2024-09-20 13:25:22,527 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000354.pdf
+2024-09-20 13:25:23,604 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000355.txt
+2024-09-20 13:25:23,604 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000355.pdf
+2024-09-20 13:25:24,575 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000356.txt
+2024-09-20 13:25:24,575 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000356.pdf
+2024-09-20 13:25:25,761 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000357.txt
+2024-09-20 13:25:25,763 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000357.pdf
+2024-09-20 13:25:27,006 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000358.txt
+2024-09-20 13:25:27,008 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000358.pdf
+2024-09-20 13:25:28,084 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000359.txt
+2024-09-20 13:25:28,085 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000359.pdf
+2024-09-20 13:25:29,139 - INFO - Text successfully extracted and saved to cl_st1_ph3_eyamrog/t000360.txt
+2024-09-20 13:25:29,140 - INFO - PDF successfully saved to cl_st1_ph3_eyamrog/t000360.pdf
