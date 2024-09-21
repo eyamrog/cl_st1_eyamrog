@@ -1,0 +1,290 @@
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 115: e200179, 2020
+1|4
+online | memorias.ioc.fiocruz.br
+SHORT COMMUNICATION
+Coagulation modifiers targeting SARS-CoV-2 main protease Mpro 
+for COVID-19 treatment: an in silico approach
+Ísis Venturi Biembengut, Tatiana de Arruda Campos Brasil de Souza/+
+Fundação Oswaldo Cruz-Fiocruz, Instituto Carlos Chagas, Laboratório de Proteômica Estrutural e Computacional, Curitiba, PR, Brasil
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection depends on viral polyprotein processing, catalysed by 
+the main proteinase (Mpro). The solution of the SARS-CoV-2 Mpro structure allowed the investigation of potential inhibitors. 
+This work aims to provide first evidences of the applicability of commercially approved drugs to treat coronavirus disease-19 
+(COVID-19). We screened 4,334 compounds to found potential inhibitors of SARS-CoV-2 replication using an in silico approach. 
+Our results evidenced the potential use of coagulation modifiers in COVID-19 treatment due to the structural similarity of 
+SARS-CoV-2 Mpro and human coagulation factors thrombin and Factor Xa. Further in vitro and in vivo analysis are needed to 
+corroborate these results.
+Key words: structure - ligand binding - in silico approach - COVID-19 - SARS-CoV-2 Mpro
+Humanity is trying to understand coronavirus dis­
+ease-19 (COVID-19) at the same time severe acute respi­
+ratory syndrome coronavirus 2 (SARS-CoV-2) infection 
+overcomes frontiers and spreads out through the world. 
+Four human infecting species of coronavirus (HcoV-
+229E, HcoV-OC43, HcoV-NL63, and HcqV-HKU1) were 
+already known as causative agent of cold and pneumo­
+nia; this viral family was responsible for the SARS-CoV 
+and Middle East respiratory syndrome (MERS-CoV) 
+outbreaks. The consequences from the species that 
+emerged from Wuhan, China are far more catastrophic.
+SARS-CoV-2 infection depends on viral polyprotein 
+processing, an event catalysed by the main proteinase 
+(Mpro) (also known as 3CLpro). Since Mpro is unique 
+in the virus and not found in the host cells, this protein 
+is a prominent target for the development of antivirals 
+against coronavirus infections.(1) Recently, the solution 
+of the SARS-CoV-2 Mpro tridimensional structure al­
+lowed the investigation of potential inhibitors of viral 
+replication. Mpro is composed of three domains (I- chy­
+motrypsin, II- picornavirus 3C protease-like and III-
+globular cluster involved in protein dimerisation) and 
+crystallography structures indicate the region between 
+domains I and II for protein activity inhibition. That re­
+gion contains the catalytic cysteine 145.
+The crystal structure of SARS-CoV-2 Mpro was 
+published by Zhang et al.(2) We selected a list of exist­
+ing antivirals drugs (64 compounds) and protease inhibi­
+tors (80 compounds) from the Drugbank Database(3) as 
+ligands. The DrugBank database was used for a larger 
+screening, evaluating 4190 compounds randomly se­
+doi: 10.1590/0074-02760200179
++ Corresponding author: tatiana.brasil@fiocruz.br
+ http://orcid.org/0000-0002-1850-6080
+Received 17 April 2020
+Accepted 18 May 2020
+lected. The crystal protein structure (PDB 6Y2E) was 
+energy-minimised using MMTK package on Chimera 
+version 1.14.(4) In silico molecular docking of ligand 
+selection was performed using PyRx-virtual screening 
+tool consisting of AutoDock(5) and AutoDockvina.(6)
+The PyRx-virtual screening tool was used for dock­
+ing with the protocol: (i) the SARS-CoV-2 Mpro protein 
+structure (PDB 6Y2E) was checked for missing atoms, 
+bonds and contacts, removal of water molecules and en­
+ergy minimisation was done with following parameters, 
+force field: Amber ff14SB, steepest descent steps: 100, 
+steepest descent step size: 0.02 Å, conjugate gradient 
+steps: 10, conjugate gradient step size: 0.02 Å using mo­
+lecular modelling toolkit (MMTK) package on Chimera 
+version 1.14.(4) This minimised structure was used as the 
+receptor for docking analysis. (ii) The minimised struc­
+ture was saved as a pdb file and imported into PyRx soft­
+ware. (iii) Ligands are imported in pdb format as well. 
+Autodock Tools module was used to generate pdbqt input 
+files. (iv) Autodock Vina algorithm was used to perform 
+docking with the selected ligands. In Autodock Vina the 
+grid box was set to cover the active site of Mpro with 
+the following dimensions in Å: centre (x, y, z) = (-16.46, 
+-26.70, 1.58), dimensions (x, y, z) = (23.34, 19.09, 10.98). 
+The docking simulation was then run at an exhaustive­
+ness of eight. The docking results were evaluated using 
+the lowest Binding Affinity score (kcal/mol) predicted by 
+the build in scoring function of Autodock Vina module.
+The results showed 1,321 molecules with scores above 
+6.5 as Mpro partners [Supplementary data (Table)]. 
+Due to the urgency in providing therapeutics to patients, 
+we focus on the analysis of commercially approved 
+drugs. Argatroban (blood clotting), Linagliptin (diabe­
+tes), Saquinavir (antiviral), Edoxaban (blood clotting), 
+Apixaban (blood clotting), Cilazapril (ACE inhibitor), 
+Betrixaban (blood clotting), Alogliptin (dipeptidyl pepti­
+dase 4 inhibitors), Sitagliptin (dipeptidyl peptidase 4 in­
+hibitors), Ramipril (ACE inhibitor), Lopinavir (antiviral), 
+Saxagliptin (diabetes), Indinavir (antiviral), Zofenopril 
+(ACE inhibitor), Nelfinavir (antiviral), Quinapril (ACE 
+inhibitor), Dihydroergotamine (antimigraine agents), 
+Ísis Venturi Biembengut, Tatiana de Arruda Campos Brasil de Souza
+2|4
+Risperidone (atypical antipsychotics), Astemizole (anti­
+histamine) presented the higher scores (Fig. 1). The list 
+includes antiviral components (as expected) and drugs 
+classified as coagulation modifiers (4) and ACE inhibi­
+tors (4).
+Lin et al.(7) propose a pathogenic mechanism for the 
+disease, based on clinical evidence and studies of other 
+coronavirus strains. They divide the clinical phase in the 
+viraemia phase, acute phase and the recovery. The spe­
+cific effects of COVID-19 on the cardiovascular system 
+remain unclear, though there have been reports of acute 
+cardiac injury, arrhythmias, hypotension, tachycardia, 
+and a high proportion of concomitant cardiovascular 
+disease in infected individuals, particularly those who 
+require more intensive care.(8) Also, there are signs of 
+coagulopathy in many patients, usually associated with 
+death.(9) Among coagulation modifiers, Argatroban is a 
+direct thrombin inhibitor(10) for prophylaxis or treatment 
+of thrombosis in patients with heparin-induced thrombo­
+cytopenia. The three other compounds (Edoxaban, Apix­
+aban, Betrixaban) bind to factor Xa.(11) Edoxaban is used 
+to prevent stroke and systemic embolism in patients with 
+atrial fibrillation.(12) Apixaban is indicated for the control 
+of recurrence of thromboembolic events, such as stroke in 
+patients with non-valve atrial fibrillation. Betrixaban in­
+hibits free and prothrombinase bound factor Xa in a con­
+centration-dependent manner.(13,14) Betrixaban was more 
+potent at inhibiting thrombin-antithrombin complex.(15)
+Superposing of SARS-CoV-2 Mpro with factor Xa and 
+thrombin structures presents a rmsd value of 2.57Ᾰ and 
+2.49Ᾰ, respectively. These low values are an indication of 
+fold similarity (Fig. 2A-B). Thrombin, the known target 
+of Argabotran, is a serine protease(16) as Mpro is a pro­
+tease itself with Leu-Gln↓(Ser,Ala,Gly) as a recognition 
+sequence.(2) This similarity may indicate a direct pertur­
+bation in pro-clotting coagulation by COVID-19 through 
+Mpro protein. In fact, changes in pro-clotting factors 
+in COVID-19 patients were already detected showing 
+significant decreased antithrombin (AT) values and in­
+creased D-dimer, fibrin/fibrinogen degradation products 
+(FDP) and fibrinogen (FIB).(17) Additionally, the gradual 
+progression of disease severity was mirrored by increas­
+ing values of D-dimer and FDP. This pattern might indi­
+cate the activation of a coagulation system due to throm­
+Fig. 1: two dimensional representation of Argatroban (A), Linagliptin (B), Saquinavir (C), Edoxaban (D), Apixaban (E), Cilazapril (F), 
+Betrixaban (H), Alogliptin (H), Sitagliptin (I), Ramipril (J), Lopinavir (K), Saxagliptin (L), Indinavir (M), Zofenopril (N), Nelfinavir (O), 
+Quinapril (P), Dihydroergotamine (Q), Risperidone (R), Astemizole (S).
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 115, 2020
+3|4
+bosis or disseminated intravascular coagulation (DIC).
+(18) Heparin, as an anticoagulant therapy, was associated 
+with a better prognosis in some patients.(9) Also, the risk 
+of developing DIC due to SARS-CoV-2 infection which 
+has an obvious negative impact on the prognosis,(19,20) was 
+previously speculated.(21) Moreover, excessive activation 
+of fibrinolysis may be observed during cardiopulmonary 
+bypass also leading to DIC and haemorrhage.(22)
+The feasibility and robustness	
+of our interactions 
+are strengthened by comparing the docking results of 
+thrombin interaction with Argatroban and the correspond­
+ing crystallographic structure deposited under the code 
+4HFP. Both structures present a rmsd of 0.49Ᾰ, indicat­
+ing both docking and experimental structures are almost 
+identical (Fig. 2C). In addition, the comparison of dock­
+ing results of factor Xa interaction with Apixaban and the 
+corresponding crystallographic structure deposited under 
+the code 2P16 present a rmsd of 0.11Ᾰ, which also cor­
+roborates with the assertiveness of our approach (Fig. 2D). 
+Finally, it is important to highlight that the score of throm­
+bin interaction with Argatroban is 9.6 kcal/mol against 8.3 
+kcal/mol with SARS-CoV-2 Mpro. Otherwise, Apixaban 
+interaction with Factor Xa presents a score of 5.1 kcal/mol 
+against 7.0 kcal/mol with SARS-Cov-2 [Supplementary 
+data (Table)]. All these are preliminary evidence that Ar­
+gatroban has more affinity to Thrombin, but Apixaban 
+tends to have more affinity to SARS-CoV-2 Mpro.
+We also performed fold similarity investigation for 
+the ACE inhibitors (ACEIs) with Mpro. The high rmsd 
+values (6.03 Ᾰ and 5.57 Ᾰ for the ACE receptors struc­
+tures deposited under the codes 2X92 and 2EWB, re­
+spectively) indicate the low structural conservation 
+among those proteins. Also, the use of ACE inhibitors 
+contributes for the up-regulation of ACE2 expression.
+(23,24) Even as a potential target for the treatment of coro­
+navirus infection, some groups suggest that the use of 
+these inhibitors could lead to higher viral loads, because 
+the ACE2 augmented expression.(25) This could be a 
+drawback for the use of ACEIs as COVID19 treatment.
+In conclusion, we show the potential applicability of 
+some coagulation compounds for the first time to our 
+knowledge to treat COVID-19 infection. We highlight 
+the fold similarity among SARS-CoV-2 Mpro and co­
+agulation factors thrombin and Factor Xa. The effects 
+of this similarity should urgently be investigated by in 
+vitro approaches.
+Fig. 2: superposing of main proteinase (Mpro) (domains I and II) with thrombin (A) and factor Xa (B). C and D highlights the similarity of 
+docked results and crystallography structures. C- Docked Argatroban (blue) compared to the experimentally solved (purple, PDB code 4HFP) 
+structure complexed to thrombin. D- Apixaban docked with factor Xa (red) and its crystallography structure (green, PDB code 2P16).
+Ísis Venturi Biembengut, Tatiana de Arruda Campos Brasil de Souza
+4|4
+ACKNOWLEDGEMENTS
+To Dr Paulo Costa Carvalho and Dr Maria da Gloria 
+Carvalho for assistance in correction and preparation of the 
+manuscript. We would also like to thank Ms Stephanie Mo­
+rais for kindly downloading the structures of some inhibitors 
+and Marlon DM Santos for the assistance with computational 
+requirements.
+AUTHORS’ CONTRIBUTION
+IVB conducted all the methodology and wrote the paper; 
+TACBS conceived the idea of the project, supervised all steps, 
+performed structural analysis and wrote the manuscript to­
+gether with IVB. The authors declare no conflict of interest.
+REFERENCES
+1.	 Yang H, Xie W, Xue X, Yang K, Ma J, Liang W, et al. Design of 
+wide-spectrum inhibitors targeting coronavirus main proteases. 
+PLoS Biology. 2005; 3(11): e428.
+2.	 Zhang L, Lin D, Sun X, Curth U, Drosten C, Sauerhering L, et al. 
+Crystal structure of SARS-CoV-2 main protease provides a ba­
+sis for design of improved α-ketoamide inhibitors. Science. 2020; 
+368(6489): 409-12.
+3.	 Wishart DS, Feunang YD, Guo AC, Lo EJ, Marcu A, Grant JR, et 
+al. DrugBank 5.0: a major update to the DrugBank database for 
+2018. Nucleic Acids Res. 2018. 46(D1): 1074-82.
+4.	 Hinsen K. The molecular modeling toolkit: a new approach to mo­
+lecular simulations. J Comput Chem. 2000; 21(2): 79-85.
+5.	 Morris GM, Huey R, Lindstrom W, Sanner MF, Belew RK, Good­
+sell DS, et al. AutoDock4 and AutoDockTools4: automated dock­
+ing with selective receptor flexibility. J Comput Chem. 2009; 
+30(16): 2785-91.
+6.	 Trott O, Olson AJ. AutoDock Vina: improving the speed and ac­
+curacy of docking with a new scoring function, efficient optimiza­
+tion, and multithreading. J Comput Chem. 2010; 31(2): 455-61.
+7.	 Lin L, Lu L, Cao W, Li T. Hypothesis for potential pathogenesis of 
+SARS-CoV-2 infection ― a review of immune changes in patients 
+with viral pneumonia. Emerg Microbes Infect. 2020; 9(1): 727-32.
+8.	 Beck DL. Coronavirus disease 2019 (COVID-19) provides potent re­
+minder of the risk of infectious agents. Cardiology Magazine. 2020.
+9.	 Tang N, Bai H, Chen X, Gong J, Li D, Sun Z. Anticoagulant treat­
+ment is associated with decreased mortality in severe coronavi­
+rus disease 2019 patients with coagulopathy. J Thromb Haemost. 
+2020; 18(5): 1094-9
+10.	Di Nisio M, Middeldorp S, Büller HR. Direct thrombin inhibitors. 
+N Engl J Med. 2005; 353(10): 1028-40.
+11.	Bächli E. New anticoagulants - direct factor Xa-inhibitors. Ther 
+Umsch. 2012; 69(11): 635-41.
+12.	Cervantes CE, Merino JL, Barrios V. Edoxaban for the prevention 
+of stroke in patients with atrial fibrillation. Expert Rev Cardiovasc 
+Ther. 2019; 17(4): 319-30.
+13.	Connolly SJ, Eikelboom J, Dorian P, Hohnloser SH, Gretler DD, 
+Sinha U, et al. Betrixaban compared with warfarin in patients with 
+atrial fibrillation: results of a phase 2, randomized, dose-ranging 
+study (Explore-Xa). Eur Heart J. 2013; 34(20): 1498-505.
+14.	Zhang P, Huang W, Wang L, Bao L, Jia ZJ, Bauer SM, et al. Dis­
+covery of betrixaban (PRT054021), N-(5-chloropyridin-2-yl)-
+2-(4-(N,N-dimethylcarbamimidoyl)benzamido)-5-methoxyben­
+zamide, a highly potent, selective, and orally efficacious factor Xa 
+inhibitor. Bioorg Med Chem Lett. 2009; 19(8): 2179-85.
+15.	Skelley JW, Thomason AR, Nolen JC, Candidate P. Betrixaban 
+(Bevyxxa): a direct-acting oral anticoagulant factor Xa inhibitor. 
+PT. 2018; 43(2): 85-120.
+16.	Bode W, Mayr I, Baumann U, Huber R, Stone SR, Hofsteenge 
+J. The refined 1.9 A crystal structure of human alpha-thrombin: 
+interaction with D-Phe-Pro-Arg chloromethylketone and signifi­
+cance of the Tyr-Pro-Pro-Trp insertion segment. EMBO J. 1989; 
+8(11): 3467-75.
+17.	Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters 
+are associated with poor prognosis in patients with novel corona­
+virus pneumonia. J Thromb Haemost. 2020; 18(4): 844-7.
+18.	Venugopal A. Disseminated intravascular coagulation. Indian J 
+Anaesth. 2014; 58(5): 603-8.
+19.	Kawano N, Wada H, Uchiyama T, Kawasugi K, Madoiwa S, 
+Takezako N, et al. Analysis of the association between resolution 
+of disseminated intravascular coagulation (DIC) and treatment 
+outcomes in post-marketing surveillance of thrombomodulin al­
+pha for DIC with infectious disease and with hematological ma­
+lignancy by organ failure. Thromb J. 2020; 18(2): doi: 10.1186/
+s12959-020-0216-6.
+20.	Levi M, Ten CH. Disseminated intravascular coagulation. N Engl 
+J Med. 1999; 341(8): 586-592.
+21.	Han H, Yang L, Liu R, Liu F, Wu K, Li J, et al. Prominent changes 
+in blood coagulation of patients with SARS-CoV-2 infection. Clin 
+Chem Lab Med. 2020; pii: /j/cclm.ahead-of-print/cclm-2020-
+0188/cclm-2020-0188.xml. doi: 10.1515/cclm-2020-0188. [Epub 
+ahead of print].
+22.	Ezihe-Ejiofor JA, Hutchinson N. Anticlotting mechanisms 1: 
+physiology and pathology. BJA Education. 2013; 13(3): 87-92.
+23.	Ferrario CM, Jessup J, Chappell MC, Averill DB, Brosnihan KB, 
+Tallant EA, et al. Effect of angiotensin-converting enzyme inhibi­
+tion and angiotensin II receptor blockers on cardiac angiotensin-
+converting enzyme 2. Circulation. 2005; 111(20): 2605-10.
+24.	Watkins J. Preventing a covid-19 pandemic. BMJ. 2020; 368: m810.
+25.	Chu C-M, Poon LLM, Cheng VCC, Chan K-S, Hung IFN, Wong 
+MML, et al. Initial viral load and the outcomes of SARS. CMAJ. 
+2004; 171(11): 1349-52.

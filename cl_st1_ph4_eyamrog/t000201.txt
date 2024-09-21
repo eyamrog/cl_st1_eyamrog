@@ -1,0 +1,723 @@
+ 
+ 
+MOBILITY RESTRICTIONS FOR THE CONTROL OF 
+COVID-19 EPIDEMIC 
+ 
+Bráulio Roberto Gonçalves Marinho Couto1 - ORCID: 0000-0002-5314-5161 
+Joaquim José da Cunha Junior2 - ORCID: 0000-0002-5083-9600 
+Cristóvão de Deus Martins Oliveira3 - ORCID: 0000-0001-6229-4938 
+Gregory Lauar e Souza3 - ORCID: 0000-0003-1525-5412 
+Handerson Dias Duarte de Carvalho3 - ORCID: 0000-0002-3685-8936 
+Rhayssa Fernanda Andrade Rocha3 - ORCID: 0000-0002-0557-8472 
+André Luiz Alvim4 - ORCID: 0000-0001-6119-6762 
+Carlos Ernesto Ferreira Starling5 - ORCID: 0000-0002-0446-6962 
+ 
+1Doctoral Degree in Bioinformatics, Centro Universitário de Belo Horizonte – Belo 
+Horizonte (MG), Brazil. 
+2Doctoral Degree in Production Engineering, Centro Universitário de Belo Horizonte – 
+Belo Horizonte (MG), Brazil. 
+3Medical student, Centro Universitário de Belo Horizonte – Belo Horizonte (MG), Brazil. 
+4Master’s Degree. Nursing School, Universidade Federal de Minas Gerais – Belo Horizonte 
+(MG), Brazil. 
+5Master’s Degree in Medicine, Lifecenter Hospital – Belo Horizonte (MG), Brazil. 
+ 
+ 
+Corresponding author: 
+Bráulio Roberto Gonçalves Marinho Couto – Centro Universitário de Belo Horizonte – Rua 
+Pedro Natalício de Moraes, 223, ap. 201 – Buritis – CEP: 30575-275 – Belo Horizonte 
+(MG), Brazil – E-mail: brauliocouto@biobytebrasil.com 
+ 
+ABSTRACT 
+Objective: To determine whether the SEIR model, associated to mobility changes 
+parameters, can determine the likelihood of establishing control over an epidemic in a city, 
+state or country.  
+Study design and setting: The critical step in the prediction of COVID-19 by a SEIR 
+model are the values of the basic reproduction number (R0) and the infectious period, in 
+days. R0 and the infectious periods were calculated by mathematical constrained 
+optimization, and used to determine the numerically minimum SEIR model errors in a 
+country, based on COVID-19 data until April 11th. The Community Mobility Reports from 
+Google Maps (<https://www.google.com/covid19/mobility>) provided mobility changes on 
+April 5th compared to the baseline (Jan 3th to Feb 6th). The data was used to measure the 
+non-pharmacological intervention adherence. The impact of each mobility component was 
+calculated by logistic regression models. COVID-19 control was defined by SEIR model 
+R0<1.0 in a country.  
+Results: The ECDC has registered 1,653,204 COVID-19 worldwide on April 11th. Sixteen 
+countries presented 78% of all cases. Of the six Google Maps mobility parameters, the 
+“Stay at home” parameter was the strongest one to control COVID-19 in a country: an 
+increase of 50% in mobility trends for places of residence has a 99% chance of outbreak 
+control. 
+ 
+Conclusions: Residential mobility restriction presented itself as the most effective 
+measure. The SEIR model associated with mobility parameters proved to be a useful tool in 
+determining the chance of COVID-19 outbreak control. 
+KEYWORDS: coronavirus infections; agent based modeling; 2019-nCoV pandemic; 
+prevention and control; social distance. 
+ 
+INTRODUCTION 
+ 
+In December 2009, a cluster of patients with pneumonia was reported in the city of 
+Wuhan, capital of Hubei province, China, caused by a novel coronavirus, named severe 
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This name was attributed to the 
+virus due to its genetic relation to another coronavirus, responsible for the severe acute 
+respiratory syndrome (SARS) outbreak of 20031,2. In February 2020, the World Health 
+Organization (WHO) announced COVID-19 as the name of this new disease2. On January 
+30th, 2020, the WHO declared that the outbreak of the new coronavirus (formerly called 
+2019-nCoV) constituted a Public Health Emergency of International Concern (PHEIC), 
+advising countries to prepare for containment measures3. On March 11th, 2020, the WHO 
+characterized COVID-19 as a pandemic4. 
+Viral transmission is not fully understood yet. The spread of SARS-CoV-2 from 
+person-to-person, via respiratory droplets, is the predominant hypothesis5. Individuals with 
+asymptomatic infections or within the incubation period are also believed to transmit the 
+virus6,7. 
+Non-pharmacological interventions for the prevention of transmission and infection 
+of this pathogen include isolation at home, voluntary quarantine at home, social distancing 
+ 
+from the entire population, especially the elderly, and temporary closure of schools, 
+universities, and workplaces8. 
+Mathematical models can provide a better understanding of the transmission 
+dynamics of COVID-19. Using a well-fitted mathematical model, it is possible to 
+extrapolate current information about the epidemic, to estimate the chances for future 
+outbreak control, and to provide guidance for the creation of mitigation strategies by public 
+health agents.  
+The modeling of infectious diseases can be done by compartmental mathematical 
+models such as SIR (susceptible-infected-recovered), SEIR (susceptible-exposed-infected-
+recovered), SIS (susceptible-infected-susceptible), MSIR (maternally derived immunity-
+susceptible-infected-recovered)9. The objective of the study was to evaluate whether the 
+SEIR model, associated with different community mobility restriction parameters, can 
+determine the chances of controlling COVID-19 outbreaks. 
+ 
+METHODS 
+ 
+The 
+susceptible-exposed-infected-recovered 
+(SEIR) 
+compartmentalized 
+epidemiological model has been previously used during the initial wave of the H1N1 
+influenza pandemic in 2009. A susceptible person (S) is exposed to the virus and becomes a 
+latent or exposed individual (E). After the incubation period, latent individuals become 
+infected (I), who can be recovered (R) in a specific period of time by a recovery rate (dead 
+people are included in the recovered group). Increased transmission and recovery rates 
+ultimately abbreviate the total duration of the epidemic10. 
+ 
+The SEIR model is defined by a system of four ordinary differential equations, 
+which are described in the algorithm (Figures 1A and 1B). For the mathematical modeling 
+of the spread of COVID-19, four parameters of the SEIR model were obtained by 
+international experiences: the incubation period=3.7 days11, the proportion of critical 
+cases=0.0511, the overall case-fatality rate=0.02311, and the estimated proportion of 
+asymptomatic patients with COVID-19=0.1812. These values can be modified for a specific 
+region, but, the critical step in the prediction of COVID-19 by the model is the value of the 
+basic reproduction number (R0) and the infectious period, in days (T_infectious), which 
+were calculated by mathematical constrained optimization. 
+ 
+A
+ 
+B 
+SEIR: susceptible-exposed-infected-recovered. 
+Figure 1 – Algorithm for the SEIR model applied to COVID-19: (A) initialization; (B) 
+calculation of new COVID-19 cases day-by-day. 
+ 
+ 
+A Solver from Microsoft® Excel  or NEOS Server, for example (https://neos-
+server.org/neos/), can be used for finding numerically minimum of a function Z, which 
+represents the sum of squared errors between each new case of COVID-19 observed in one 
+day, and the cases predicted by the SEIR model in three phases (Equation 1): 
+ 
+ 
+(1) 
+Subject to 
+T_phase_I≤D 
+0.5≤R0_phase_I≤20 
+2≤T_infectious_phase_I≤14 
+T_phase_II≤T_phase_I 
+0.5≤R0_phase_II≤20 
+2≤T_infectious_phase_II≤14 
+0.5≤R0_phase_III≤20 
+2≤T_infectious_phase_III≤14 
+ 
+ 
+ 
+In which:  
+ 
+Ii = number of COVID-19 new cases observed in a city, state or country during the day i; 
+Îi = number of COVID-19 new cases predicted by the model in the day i; 
+D = total days of the epidemic in a city, state or country; 
+T_phase_I = duration of the first phase of the epidemic (days); 
+R0_phase_I = basic reproduction number for COVID-19 from the first phase of the epidemic; 
+T_infectious_phase_I = infectious period from the first phase of the epidemic (days); 
+T_phase_II = duration of the second phase of the epidemic (days); 
+R0_phase_II = basic reproduction number for COVID-19 from the second phase of the epidemic; 
+T_infectious_phase_II = infectious period from the second phase of the epidemic (days); 
+R0_phase_III = basic reproduction number for COVID-19 from the third phase of the epidemic; 
+T_infectious_phase_III = infectious period from the third phase of the epidemic (days). 
+In Equation 1, values of the number of COVID-19 new cases predicted by the day-
+by-day (Îi,) model are calculated for a specific country by using the algorithm for the SEIR 
+model applied to COVID-19 (Figures 1A and 1B). A video (available in Portuguese only) 
+with an explanation about the COVID-19 SEIR modeling in Microsoft® Excel, in addition 
+to 
+a 
+spreadsheet 
+are 
+available 
+at: 
+<https://www.dropbox.com/sh/28db9ljm1uoppdq/AADOfqLRqoDj6JO0qpF4zAHSa?dl=0
+>. 
+The Community Mobility Reports from Google Maps aim to provide insights into 
+what has changed in response to policies aimed at combating COVID-19 
+(<https://www.google.com/covid19/mobility/>). The reports chart movement trends over 
+time by geographic regions, across different categories of places such as retail and 
+recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. 
+This data is retrieved from users mobile phone location tracking, obtained with previous 
+user consent. The Mobility Report from Google Maps was used to measure adherence to 
+ 
+non-pharmacological intervention (Google LLC “Google COVID-19 Community Mobility 
+Reports”).  
+The impact of each mobility component was caused by logistic regression models, 
+and the outcome control in a country is defined by a basic reproduction number (R0) below 
+1.0.  
+Six logistic regression models were built for each Google Maps mobility parameter: 
+Retail & recreation (mobility trends for places like restaurants, cafes, shopping centers, 
+theme parks, museums, libraries, and movie theaters); Grocery and pharmacy (mobility 
+trends for places like grocery markets, food warehouses, farmers markets, specialty food 
+shops, drug stores, and pharmacies); Parks (mobility trends for places like national parks, 
+public beaches, marinas, dog parks, plazas, and public gardens); Transit stations (mobility 
+trends for places like public transport hubs such as subway, bus, and train stations); 
+Workplaces (mobility trends for places of work); and Residential (mobility trends for 
+places of residence). The percentage of mobility changes in each country was the exposure 
+variable for the logistic regression modeling.  
+ 
+RESULTS 
+ 
+On April 11th, the European Centre for Disease Prevention and Control (ECDC) 
+registered 1,653,204 COVID-19 cases (<https://www.ecdc.europa.eu/en/publications-
+data/download-todays-data-geographic-distribution-covid-19-cases-worldwide>) from 206 
+countries and territories, of which only 16 (8%) accounted for 78% of all cases (Figure 2).  
+ 
+ 
+ 
+ 
+Figure 2 – Pareto distribution of COVID-19 cases on April 11th, 2020. 
+ 
+Table 1 shows the changes in mobility on April 5th compared to the baseline (5-
+week period; Jan 3rd to Feb 6th, 2020) and the numbers of reproduction (R0) and infectious 
+periods, in days (T_infectious),  for these 16 countries. Only Spain, Austria, Switzerland, 
+Italy, and Israel had R0 less than 1.0, i.e., only five countries had controlled the epidemic on 
+April 5th. Figure 3 shows the SEIR models the countries. 
+ 
+ 
+ 
+SEIR: susceptible-exposed-infected-recovered. 
+Figure 3 – SEIR models: R0 and T_infectious are values that minimize the model error in 
+predicting new COVID-19 cases day-by-day. 
+ 
+ 
+Table 1. The Community Mobility Reports from Google Maps: Mobility changes on April 5th 
+compared to the baseline (5-week period; Jan 3rd–Feb 6th, 2020): T_infectious and R0 obtained by 
+using COVID-19 new cases day-by-day in each country, adjusted to the SEIR model by 
+mathematical constrained optimization. 
+ 
+  
+  
+Days 
+after 
+first 
+cases 
+Mobility changes on April 5th compared to the baseline (5-week period; Jan 3rd–Feb 
+6th, 2020) 
+  
+  
+Country 
+Cases 
+on 
+April 
+11th 
+Population 
+(2018) 
+Retail & 
+recreation 
+Grocery 
+& 
+pharmacy 
+Parks 
+Transit 
+stations 
+Workplaces 
+Residential 
+T_infectious 
+(days) 
+R0 
+Spain 
+157,022 
+71 
+46,723,749 
+-94% 
+-77% 
+-90% 
+-89% 
+-68% 
+23% 
+14.0 
+0.5 
+Austria 
+13,560 
+46 
+8,847,037 
+-82% 
+-55% 
+-11% 
+-64% 
+-46% 
+12% 
+7.3 
+0.5 
+Switzerland 
+24,228 
+46 
+8,516,543 
+-76% 
+-25% 
+42% 
+-48% 
+-42% 
+12% 
+10.4 
+0.6 
+Italy 
+147,577 
+72 
+60,431,283 
+-95% 
+-82% 
+-90% 
+-86% 
+-62% 
+24% 
+14.0 
+0.7 
+Israel 
+10,408 
+47 
+8,883,800 
+-75% 
+6% 
+-52% 
+-57% 
+-60% 
+30% 
+8.2 
+0.7 
+Belgium 
+26,667 
+68 
+11,422,068 
+-76% 
+-36% 
+-13% 
+-60% 
+-46% 
+15% 
+8.7 
+1.2 
+Netherlands 
+23,097 
+44 
+17,231,017 
+-54% 
+-16% 
+41% 
+-52% 
+-29% 
+8% 
+7.0 
+1.2 
+France 
+90,676 
+78 
+66,987,244 
+-85% 
+-62% 
+-73% 
+-82% 
+-53% 
+17% 
+13.9 
+1.2 
+Portugal 
+15,472 
+40 
+10,281,762 
+-84% 
+-60% 
+-88% 
+-82% 
+-55% 
+23% 
+11.6 
+1.3 
+Germany 
+117,658 
+75 
+82,927,922 
+-58% 
+-13% 
+61% 
+-47% 
+-30% 
+8% 
+14.0 
+1.6 
+UK 
+70,272 
+72 
+66,488,991 
+-82% 
+-41% 
+-29% 
+-70% 
+-54% 
+15% 
+6.3 
+2.0 
+Sweden 
+9,685 
+71 
+10,183,175 
+-25% 
+-9% 
+69% 
+-37% 
+-18% 
+6% 
+14.0 
+2.5 
+Turkey 
+47,029 
+29 
+82,319,724 
+-76% 
+-40% 
+-61% 
+-76% 
+-48% 
+19% 
+13.3 
+2.5 
+USA 
+501,560 
+82 
+327,167,434 
+-49% 
+-20% 
+-20% 
+-54% 
+-40% 
+13% 
+8.8  
+2.3 
+Canada 
+22,133 
+77 
+37,058,856 
+-63% 
+-45% 
+-13% 
+-67% 
+-46% 
+14% 
+14.0 
+2.6 
+Brazil 
+19,638 
+43 
+209,469,333 
+-67% 
+-24% 
+-66% 
+-57% 
+-30% 
+15% 
+9.3 
+2.6 
+UK: United Kingdom; USA: United States of America. 
+ 
+The basic numbers of reproduction (R0) and infectious periods, in days 
+(T_infectious), in Table 1 were calculated for the third phase of the epidemic by the 
+mathematical constrained optimization used to find the numerically minimum of a Z 
+function (Equation 1) in each country, based on real COVID-19 data until April 11th. These 
+numbers represent every new cases, meaning that R0<1 represent a controlled scenario, and 
+values higher than one stand for an uncontrolled one, that is, the higher the figure the more 
+the infection is spread. 
+ 
+Table 2 summarizes the impact of each mobility component on epidemic control. 
+The chance of control is calculated by logistic regression models. The logistic regression 
+used logistic coefficients for each of the 6 parameters based on Google Maps® localization 
+data. These logistic coefficients were then used to calculate the minimum mobility 
+restrictions for each parameter and also the chance to control the outbreak in case such 
+restriction percentages were met.  
+ 
+Table 2. Logistic regression models to evaluate the chance of an epidemic control based on 
+the non-pharmacological interventions adherence. 
+ 
+Mobility changes parameter 
+Logistic regression 
+unstandardized 
+coefficients 
+Minimum mobility 
+restrictions for 
+COVID-19 control 
+Constant 
+Logistic 
+coefficient  
+Percentage 
+(%) 
+Chance 
+of 
+outbreak 
+control 
+(%) 
+Retail & 
+recreation 
+Mobility trends for places 
+like restaurants, cafes, 
+shopping centers, theme 
+parks, museums, libraries, 
+and movie theaters. 
+-11.127 
+-13.4 
+-100 
+91 
+Grocery & 
+pharmacy 
+Mobility trends for places 
+like grocery markets, food 
+warehouses, farmers 
+markets, specialty food 
+shops, drug stores, and 
+pharmacies. 
+-1.720 
+-2.3 
+-100 
+64 
+Parks 
+Mobility trends for places 
+like national parks, public 
+beaches, marinas, dog 
+parks, plazas, and public 
+gardens. 
+-1.048 
+-0.9 
+-100 
+46 
+Transit 
+stations 
+Mobility trends for places 
+like public transport hubs 
+such as subway, bus, and 
+train stations. 
+-2.774 
+-3.0 
+-100 
+56 
+Workplaces Mobility trends for places 
+of work. 
+-7.258 
+-13.2 
+-72 
+90 
+ 
+Residential 
+Mobility trends for places 
+of residence. 
+-3.779 
+17.7 
++34 
+90 
+ 
+Residential mobility restriction presented the highest logistic coefficient (17.7), i.e., 
+this parameter had a high impact on outbreak control, considering that a 32% increase in 
+the isolation of people in their households can generate a 90% chance of controlling the 
+outbreak.  
+Workplace mobility restriction was the second most effective measure, considering 
+a minimum restriction of 56% for an outbreak control chance of 53%. Retail and recreation 
+mobility presented 53 and 86%, respectively. Transit stations (96 and 54%) were also 
+assessed. Park mobility restriction demonstrated the least efficacy in outbreak control, 
+considering that absolute restriction (100%) provided the lowest chance of outbreak control 
+(46%). 
+The impact of each Google Maps mobility component on the probability of 
+epidemic control was simulated in Figure 4: “stay at home” and “stay out of the workplace” 
+are the strongest ways to control COVID-19 spreading. Based on these simulations in the 
+graph, it is possible to evaluate the impact of each mobility component. For example, to 
+achieve at least a 50% chance of epidemic control, it is necessary an increase of only 22% 
+in the mobility trends for places of residence. On the other hand, a reduction in all other 
+components is necessary to a successful control of the epidemic: 56% cutback in the 
+mobility trends for places of work; minus 84% in places like restaurants, cafes, shopping 
+centers, theme parks, museums, libraries, and movie theaters; minus 76% in places like 
+grocery markets, food warehouses, farmers markets, specialty food shops, drug stores, and 
+pharmacies; minus 92% in places like public transport hubs such as subway, bus, and train 
+stations. Even a 100% reduction in the mobility trends for places like national parks, public 
+ 
+beaches, marinas, dog parks, plazas, and public gardens it is not enough to control the 
+COVID-19. 
+ 
+ 
+ 
+ 
+Figure 4 – Simulation of the impact of the mobility component in the chance of outbreak 
+control: analysis by using the logistic regression model summarized in Table 2. 
+ 
+DISCUSSION 
+ 
+This study is based on a mathematical modeling which, in spite of being subject to 
+limitations, can foretell COVID-19 cases in a region. The analysis was not performed by a 
+statistical modeling process, but rather by a numerical perspective. The reproduction 
+number of COVID-19 was estimated according to the cases confirmed and registered in 
+each country. Although R0 was higher than initially expected, estimates based on likelihood 
+ 
+and model analysis have shown that R0 could be as high as 6.513. These higher values are 
+compatible with other studies, such as Liu et al., which concluded that the reproductive 
+number of COVID-19 is higher than that of SARS coronavirus14. 
+Analyzing R0 values, it is possible to measure the spread or control of the epidemic 
+in each country. Table 1 shows that of the 16 countries analyzed, only 5 show R0<1, which 
+represents a controlled epidemic. These 5 countries had mean R0 of 0.6 and the biggest 
+change in Residential mobility in the period. The remaining 11 countries had mean R0 of 
+1.9. There was a raise in 20% of the population at home compared to the baseline in these 5 
+countries on April 5th, whereas the other 11 countries had a 14% increase. This indicates the 
+correlation between the change in populational Residential mobility and the control of the 
+epidemic.   
+A 50% rate of social isolation at home is estimated to be considered sufficient to 
+control COVID-19 epidemic. Residential mobility restriction presented itself as the most 
+effective measure for the least amount of effort, considering an increase of 50% in the 
+mobility trends for places of residence has a 99% chance of outbreak control. It is 
+speculated that residency isolation would indirectly reduce the total number of individuals 
+in public places. 
+The degree to which mobility restrictions increase or decrease the overall epidemic 
+size depends on the level of risk in each community and the characteristics of the disease15. 
+More research is required in order to estimate the optimal balance between mobility 
+restriction, outbreak control, economy, and freedom of movement. 
+ 
+CONFLICT OF INTERESTS 
+The authors declare no conflict of interests. 
+ 
+ 
+ 
+AUTHORS’ CONTRIBUTIONS 
+Study conception, study design and data acquisition: Starling CEF, Junior JJC, Couto 
+BRGM, Oliveira CDM, Souza GL, Carvalho HDD, Rocha RFA, Alvim AL. Statistical 
+analysis: Couto BRGM. 
+ 
+REFERENCES 
+1. 
+Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from 
+Patients with Pneumonia in China, 2019. N Engl J Med. 2020;382:727-33. 
+http://doi.org/10.1056/nejmoa2001017 
+2. 
+Wang Y, Wang Y, Chen Y, Qin Q. Unique epidemiological and clinical features of 
+the emerging 2019 novel coronavirus pneumonia (COVID‐19) implicate special 
+control measures. J Med Virol. 2020;92(6):568-76. http://doi.org/10.1002/jmv.25748 
+3. 
+World Health Organization. Statement on the meeting of the International Health 
+Regulations (2005) Emergency Committee regarding the outbreak of novel 
+coronavirus (2019-nCoV). WHO; 2020. 
+4. 
+World Health Organization. WHO Director-General’s opening remarks at the 
+mission briefing on COVID-19 [Internet]. WHO; 2020 [accessed on Mar 11, 2020]. 
+Available 
+at: 
+https://www.who.int/dg/speeches/detail/who-director-general-s-
+opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020 
+5. 
+Chan JFW, Yuan S, Kok KH, To KK-W, Chu H, Yang J, et al. A familial cluster of 
+pneumonia associated with the 2019 novel coronavirus indicating person-to-person 
+transmission: 
+a 
+study 
+of 
+a 
+family 
+cluster. 
+Lancet. 
+2020;395:514-23. 
+ 
+http://doi.org/10.1016/S0140-6736(20)30154-9 
+6. 
+Bai Y, Yao L, Wei T, Tian F, Jin D-Y, Chen L, et al. Presumed Asymptomatic 
+Carrier 
+Transmission 
+of 
+COVID-19. 
+JAMA. 
+2020;323(14):1406-7. 
+http://doi.org/10.1001/jama.2020.2565 
+7. 
+Yu P, Zhu J, Zhang Z, Han Y, Huang L. A familial cluster of infection associated 
+with the 2019 novel coronavirus indicating potential person-to-person transmission 
+during 
+the 
+incubation 
+period. 
+J 
+Infect 
+Dis. 
+2020;221(11):1757-61. 
+http://doi.org/10.1093/infdis/jiaa077 
+8. 
+Agrawal S, Goel AD, Gupta N. Emerging prophylaxis strategies against COVID-19. 
+Monaldi Arch Chest Dis. 2020;90(1). http://doi.org/10.4081/monaldi.2020.1289 
+9. 
+Radcliffe J, Bailey NTJ. The Mathematical Theory of Infectious Diseases and its 
+Applications. 
+2ª ed. 
+J Royal 
+Statist Soc 
+Appl 
+Stat. 1977;26(1):85-7. 
+http://doi.org/10.2307/2346882 
+10. 
+Ridenhour B, Kowalik JM, Shay DK. Unraveling R0: Considerations for public 
+health 
+applications. 
+Am 
+J 
+Public 
+Health. 
+2014;104(2):e32-41. 
+http://doi.org/10.2105/AJPH.2013.301704 
+11. 
+Wu Z, McGoogan JM. Characteristics of and Important Lessons From the 
+Coronavirus 
+Disease 
+2019 
+(COVID-19) 
+Outbreak 
+in 
+China. 
+JAMA. 
+2020;323(13):1239-42. http://dx.doi.org/10.1001/jama.2020.2648  
+12. 
+Mizumoto, K, Kagaya, K, Zarebski A, Chowell G. Estimating the asymptomatic 
+proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond 
+Princess cruise ship, Yokohama, Japan, 2020. Euro Surveill. 2020;25(10). 
+http://dx.doi.org/10.2807/1560-7917.ES.2020.25.10.2000180 
+13. 
+Shen M, Peng Z, Xiao Y, Zhang L. Modelling the epidemic trend of the 2019 novel 
+ 
+coronavirus 
+outbreak 
+in 
+China. 
+bioRxiv. 
+2020. 
+http://dx.doi.org/10.1101/2020.01.23.916726 
+14. 
+Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive number of COVID-
+19 is higher compared to SARS coronavirus. J Travel Med. 2020;27(2). 
+http://dx.doi.org/10.1093/jtm/taaa021 
+15. 
+Espinoza B, Castillo-Chavez C, Perrings C. Mobility Restrictions for the Control of 
+Epidemics: 
+when 
+do 
+they 
+work? 
+SSRN. 
+2019. 
+http://dx.doi.org/10.2139/ssrn.3496928 

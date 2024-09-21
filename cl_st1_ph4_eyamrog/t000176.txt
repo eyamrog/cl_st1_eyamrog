@@ -1,0 +1,1001 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/0004-282X20200089
+Neurological consultations and diagnoses in a large, dedicated
+COVID-19 university hospital
+Adalberto  Studart-Neto, Bruno Fukelmann Guedes, Raphael De Luca E  Tuma, Antonio Edvan
+Camelo Filho, Gabriel Taricani  Kubota, Bruno Diógenes Iepsen, Gabriela Pantaleão  Moreira,
+Júlia Chartouni  Rodrigues, Maíra Medeiros Honorato  Ferrari, Rafael Bernhard  Carra, Raphael
+Ribeiro , Mariana Hiromi Manoel  Oku, Sara  Terrim, Cesar Castello Branco  Lopes, Carlos
+Eduardo Borges  Passos Neto, Matheus  Dalben, Julia Carvalhinho Carlos  De Souza, José Pedro
+Soares  Baima, Tomás Fraga Ferreira  Da Silva, Cristiane Araujo Martins Moreno, Andre Macedo
+Serafim  Silva, Carlos Otto  Heise, Rodrigo Holanda  Mendonça, Ida  Fortini, Jerusa  Smid, Tarso 
+Adoni, Marcia Rubia Rodrigues  Gonçalves, Samira Luisa Apóstolos  Pereira, Lecio Figueira 
+Pinto, Helio Rodrigues  Gomes, Edmar  Zanotelli, Sonia Maria Dozzi  Brucki, Adriana Bastos 
+Conforto, Luiz Henrique Martin Castro, Ricardo  Nitrini
+https://doi.org/10.1590/0004-282X20200089
+Submitted on: 2020-07-16
+Posted on: 2020-07-16 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+10.1590/0004-282X20200089  
+Original Article 
+ 
+Neurological consultations and diagnoses in a large, 
+dedicated COVID-19 university hospital 
+Consultas neurológicas e diagnósticos em um grande hospital 
+universitário dedicado a COVID-19 
+ 
+Adalberto STUDART-NETO1* 0000-0003-2260-5986 
+Bruno Fukelmann GUEDES1* 0000-0001-8391-21170 
+Raphael de LUCA E TUMA1 0000-0002-2100-5869 
+Antonio Edvan CAMELO FILHO1 0000-0002-1213-1687 
+Gabriel Taricani KUBOTA1 0000-0001-7790-8111 
+Bruno Diógenes IEPSEN1 0000-0002-6828-9600 
+Gabriela Pantaleão MOREIRA1 0000-0002-4482-5659 
+Júlia Chartouni RODRIGUES1 0000-0002-8121-7572 
+Maíra Medeiros Honorato FERRARI1 0000-0002-9504-4211 
+Rafael Bernhard CARRA1 0000-0001-6898-8455 
+Raphael Ribeiro SPERA1 0000-0003-3066-3457 
+Mariana Hiromi Manoel OKU1 0000-0003-3677-9100 
+Sara TERRIM1 0000-0001-8524-0705 
+Cesar Castello Branco LOPES1 0000-0002-5731-2553 
+Carlos Eduardo Borges PASSOS NETO1 0000-0001-6350-188X 
+Matheus DALBEN1 0000-0002-2996-9451 
+Julia Carvalhinho Carlos DE SOUZA1 0000-0002-2319-5037 
+José Pedro Soares BAIMA1 0000-0003-2708-1181 
+Tomás Fraga Ferreira DA SILVA1 0000-0003-3364-7540 
+Cristiane Araujo Martins MORENO1 0000-0002-5867-6359 
+Andre Macedo Serafim SILVA1 0000-0002-5792-5878 
+Carlos Otto HEISE1 0000-0003-3956-3073 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Rodrigo Holanda MENDONÇA1 0000-0001-7520-3353 
+Ida FORTINI1 0000-0003-1084-340x 
+Jerusa SMID1,2 0000-0001-9513-0964 
+Tarso ADONI1,3 0000-0002-5008-2783 
+Marcia Rubia Rodrigues GONÇALVES1 0000-0001-7819-4499 
+Samira Luisa Apóstolos PEREIRA1 0000-0003-3493-1199 
+Lecio Figueira PINTO1 0000-0002-2694-5120 
+Helio Rodrigues GOMES1,4 0000-0003-4461-0305 
+Edmar ZANOTELLI1 0000-0002-4991-6760 
+Sonia Maria Dozzi BRUCKI1 0000-0002-8303-6732 
+Adriana Bastos CONFORTO1 0000-0001-7869-3490 
+Luiz Henrique Martins CASTRO1 0000-0003-1878-2012 
+Ricardo NITRINI1 0000-0002-5721-1525 
+ 
+1Universidade de São Paulo, Faculdade de Medicina, Hospital das Clínicas, 
+Departamento de Neurologia, São Paulo SP, Brazil. 
+2Instituto de Infectologia Emílio Ribas, São Paulo SP, Brazil. 
+3Hospital Sírio-Libanês, São Paulo SP, Brazil. 
+4Universidade de São Paulo, Faculdade de Medicina, Hospital das Clínicas, Divisão de 
+Laboratório Central, São Paulo SP, Brazil. 
+ 
+Correspondence: Ricardo Nitrini; E-mail: rnitrini@uol.com.br.  
+Conflicts of interest: There is no conflict of interests to declare. 
+Authors’ contributions: Studart-Neto and Guedes: conceptualized the paper, collected 
+data, participated in consensus meetings, analyzed data and wrote the initial draft. They 
+contributed equally to the present work. 
+Tuma, Camelo Filho, Kubota, Iepsen, Moreira, Rodrigues, Ferrari, Carra, Spera, Oko, 
+Lopes, Passos Neto, Dalben, de Souza, Baima, Ferreira da Silva, Moreno, Serafim Silva, 
+Heise, Mendonça. Fortini, Smid, Adoni, Gonçalves, Pereira, Pinto, Gomes, Zanotelli, 
+Brucki, Conforto, and Castro: collected data, participated in consensus meetings, 
+reviewed the manuscript for important intellectual content. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Nitrini: conceptualized the paper, participated in consensus meetings, wrote and reviewed 
+the manuscript for intellectual content, supervised the study. 
+Received on June 18, 2020; Received in its final form on June 22, 2020; Accepted on 
+June 22, 2020. 
+ 
+ 
+ABSTRACT 
+Background: More than one-third of COVID-19 patients present neurological symptoms 
+ranging from anosmia to stroke and encephalopathy. Furthermore, pre-existing 
+neurological conditions may require special treatment and may be associated with worse 
+outcomes. Notwithstanding, the role of neurologists in COVID-19 is probably 
+underrecognized. Objective: The aim of this study was to report the reasons for 
+requesting neurological consultations by internists and intensivists in a COVID-19-
+dedicated hospital. Methods: This retrospective study was carried out at Hospital das 
+Clínicas da Faculdade de Medicina da Universidade de São Paulo, Brazil, a 900-bed 
+COVID-19 dedicated center (including 300 intensive care unit beds). COVID-19 diagnosis 
+was confirmed by SARS-CoV-2-RT-PCR in nasal swabs. All inpatient neurology 
+consultations between March 23rd and May 23rd, 2020 were analyzed. Neurologists 
+performed the neurological exam, assessed all available data to diagnose the 
+neurological condition, and requested additional tests deemed necessary. Difficult 
+diagnoses were established in consensus meetings. After diagnosis, neurologists were 
+involved in the treatment. Results: Neurological consultations were requested for 89 out 
+of 1,208 (7.4%) inpatient COVID admissions during that period. Main neurological 
+diagnoses included: encephalopathy (44.4%), stroke (16.7%), previous neurological 
+diseases (9.0%), seizures (9.0%), neuromuscular disorders (5.6%), other acute brain 
+lesions (3.4%), and other mild nonspecific symptoms (11.2%). Conclusions: Most 
+neurological consultations in a COVID-19-dedicated hospital were requested for severe 
+conditions that could have an impact on the outcome. First-line doctors should be able to 
+recognize neurological symptoms; neurologists are important members of the medical 
+team in COVID-19 hospital care.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Keywords: Coronavirus Infections; COVID-19; Neurology; Seizures; Stroke; Metabolic 
+Encephalopathy; Neuromuscular Diseases. 
+ 
+ 
+RESUMO 
+Introdução: Mais de um terço dos pacientes com COVID-19 apresentam sintomas 
+neurológicos que variam de anosmia a AVC e encefalopatia. Além disso, doenças 
+neurológicas prévias podem exigir tratamento especial e estar associadas a piores 
+desfechos. Não obstante, o papel dos neurologistas na COVID-19 é provavelmente 
+pouco reconhecido. Objetivo: O objetivo deste estudo foi relatar os motivos para solicitar 
+consultas neurológicas por clínicos e intensivistas em um hospital dedicado à COVID-
+19. Métodos: Estudo retrospectivo realizado no Hospital das Clínicas da Faculdade de 
+Medicina da Universidade de São Paulo, Brasil, um centro dedicado à COVID-19 com 
+900 leitos (incluindo 300 leitos para unidades de terapia intensiva). O diagnóstico de 
+COVID-19 foi confirmado por SARS-CoV-2-RT-PCR em swabs nasais. Todas as 
+interconsultas de neurologia hospitalar entre 23 de março e 23 de maio de 2020 foram 
+analisadas. Os neurologistas realizaram o exame neurológico, avaliaram todos os dados 
+disponíveis para diagnosticar a patologia neurológica e solicitaram exames adicionais 
+conforme necessidade. Diagnósticos difíceis foram estabelecidos em reuniões de 
+consenso. Após o diagnóstico, os neurologistas participaram da condução dos casos. 
+Resultados: Foram solicitadas consultas neurológicas para 89 de 1.208 (7,4%) em 
+pacientes internados por COVID-19 durante o período. Os principais diagnósticos 
+neurológicos incluíram: encefalopatia (44,4%), acidente vascular cerebral (16,7%), 
+doenças neurológicas prévias 
+(9,0%), crises 
+epilépticas 
+(9,0%), 
+transtornos 
+neuromusculares (5,6%), outras lesões encefálicas agudas (3,4%) e outros sintomas 
+leves inespecíficos (11,2%). Conclusões: A maioria das consultas neurológicas em um 
+hospital dedicado à COVID-19 foi solicitada para condições graves que poderiam afetar 
+o desfecho clínico. Os médicos na linha de frente devem ser capazes de reconhecer 
+sintomas neurológicos. Os neurologistas são membros importantes da equipe médica no 
+atendimento hospitalar à COVID-19. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Palavras-chave: Infecções por Coronavírus; COVID-19; Neurologia; Convulsões; 
+Acidente Vascular Cerebral; Encefalopatias; Doenças Neuromusculares. 
+ 
+ 
+INTRODUCTION 
+ 
+ 
+In March 2020, the World Health Organization declared COVID-19 a pandemic disease 
+with unknown consequences1. As of mid-May 2020, there had been almost five million 
+reported infections, and more than 300,000 deaths worldwide caused by SARS-CoV-22. 
+Although COVID-19 was initially described as a mainly respiratory disease, accumulating 
+evidence suggests neuropsychiatric complications play an important role in the 
+disease3,4. In a Chinese retrospective cohort, impaired consciousness was observed in 
+7.5% of COVID-19 patients, and in 14.8% of severe cases5. Neurological signs are almost 
+ubiquitous in very severe COVID-19 patients, with agitation or positive CAM-ICU findings 
+noted in over 65% of cases3. COVID-19 may also be complicated by encephalopathy, 
+headache, and stroke. 
+Pre-existing neurological disease is associated with increased disease severity and 
+poorer outcome in COVID-196-8. Likewise, comorbid SARS-CoV-2 infection can lead to 
+higher rates of disability in acute neurological patients9. There is also an emerging 
+concern on the potential negative impact of COVID-19 in the management of chronic 
+neurological diseases such as Parkinson’s disease10 and epilepsy11. 
+These issues underscore the importance of inpatient neurological evaluation and 
+treatment during the pandemic. Neurology societies have highlighted the importance of 
+reorganizing neurology consultation services for in- and outpatient clinics12-15. Although a 
+few retrospective case series have described the occurrence of specific neurological 
+symptoms and signs in COVID-19 patients3-5, we were not able to find systematic reports 
+of the real-life experience of consulting neurologists, other than the anecdotal editorial by 
+Bersano and Pantoni12. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+The objective of this study was to report the main reasons for requesting neurological 
+consultations by internists and intensivists in a COVID-19 dedicated hospital and the 
+frequency of individual neurological diagnoses in a real-life situation over a 60-day period. 
+ 
+ 
+METHODS 
+ 
+ 
+Study design and participants 
+ 
+ 
+In March 2020, the Instituto Central do Hospital das Clínicas da Faculdade de Medicina 
+da Universidade de São Paulo, Brazil (ICHC-HCFMUSP) was designated a COVID-
+dedicated tertiary referral center, with 900 beds (including three hundred Intensive Care 
+Units – ICU – beds). Since its reorganization, a team of seven neurologists and eight 
+neurology residents was assigned to provide on-demand consultations exclusively for 
+COVID-19 patients. 
+Patients with confirmed or suspected COVID-19 requiring hospitalization underwent 
+SARS-CoV-2 RNA detection with throat swab real-time reverse transcription-polymerase 
+chain reaction (RT-PCR). In high clinical suspicion PCR-negative cases, a repeat RT-
+PCR test was performed.  
+This retrospective study enrolled exclusively PCR-positive cases evaluated by the 
+neurology inpatient consultation team between March 23rd and May 23rd, 2020. This is a 
+real-life situation study: neurological consultations were requested at the discretion of 
+each patient’s attending physician. 
+Patient clinical evaluation included clinical examination, routine laboratory testing (blood 
+cell count, biochemical analysis, liver and renal function tests, C-reactive protein, D-
+dimer, lactate dehydrogenase, creatine phosphokinase) and chest computed tomography 
+(CT). Patients were divided into two groups based on the severity of the respiratory 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+symptoms (severe and non-severe). Severe respiratory symptoms were defined as 
+respiratory insufficiency requiring mechanical ventilation. 
+For each case, the reason for requesting the neurological consultation and the final 
+neurological diagnosis were recovered from the specialist consult electronic form. 
+Neurological evaluation consisted of neurological examination and additional ancillary 
+tests (brain CT, Magnetic Resonance Imaging – MRI, cerebrospinal fluid – CSF – 
+analysis), requested at the neurologist’s discretion. 
+Difficult diagnosis cases were presented in a consensus meeting with the Neurology 
+Department staff at Hospital das Clínicas. In cases with two or more neurological 
+diagnoses, the final diagnosis was that of the most severe condition, or of the more 
+plausible cause for the condition (for example: in an encephalopathy due to a confirmed 
+stroke, the final diagnosis was stroke). Neurological diagnoses were finally classified into 
+four 
+main 
+groups: 
+encephalopathy, 
+cerebrovascular 
+disease, 
+epilepsy, 
+and 
+neuromuscular disease. A fifth group (named “others”) included diagnoses not fitting in 
+the four other groups (i.e., headache, vertigo), including management or follow-up of pre-
+existing neurological conditions. 
+ 
+ 
+Statistical analysis 
+ 
+ 
+All analyses were performed with the Statistical Package for Social Sciences software, 
+version 21.0 (SPSS, IBM Statistics, Chicago, IL, USA). Categorical variables were 
+expressed as absolute and relative frequencies and compared using Pearson’s χ2 
+univariate analysis. All continuous variables were expressed as mean and standard 
+deviations and compared with Student’s t-test or Mann-Whitney test according to 
+normality distribution. All tests were two-tailed. Statistical significance was accepted at 
+p<0.05. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Standard protocol approvals 
+ 
+ 
+The institutional review board approved the investigation protocol, and waived the 
+informed consent, since this was a retrospective study, and no patient had undergone an 
+experimental intervention. 
+ 
+ 
+RESULTS 
+ 
+ 
+During the studied period, 1,208 patients with confirmed COVID-19 were admitted to the 
+hospital and 89 neurological consultation requests were placed (7.4%). The number of 
+neurological consultations rose from 0.3 consults/day in the first week, to 3.6/day in the 
+last week, representing a twelve-fold increase (Figure 1). 
+ 
+ 
+ 
+Figure 1. The solid line displays the number of patients who underwent initial neurological 
+evaluation between March 23rd and May 23rd, 2020 at Instituto Central do Hospital das 
+Clínicas da Faculdade de Medicina da Universidade de São Paulo, Brazil (ICHC-
+HCFMUSP). The dotted red line indicates the 7-day moving average. For any given day 
+(D0), this number corresponds to the mean of all 7 values ranging from D-3 to D+3, and 
+annotated on D0, and is therefore available from March 25th through May 21st. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+ 
+ 
+Approximately half of the patients had severe respiratory conditions, requiring orotracheal 
+intubation and mechanical ventilation (Table 1). Mean age of the 89 cases was 57.4+/-
+15.9 years, with no difference between groups; the majority of patients (61.8%) were men. 
+Hypertension and diabetes mellitus were the most common comorbidities. The most 
+prevalent typical symptoms of COVID-19 were fever, cough, and dyspnea. Anosmia and 
+dysgeusia were rarely reported by patients. Thirty-nine patients (43.8%) had a previous 
+neurological diagnosis (Table 1). 
+The main reasons for neurological consultation were: altered level of consciousness, 
+muscle weakness, and psychomotor agitation. In eleven cases, the neurologist was called 
+to assist in the management and follow-up of patients with pre-existing neurological 
+diseases without acute neurological manifestations (Table 2). In some cases, two or more 
+symptoms were reported by the clinician on neurological consultation requests. Main 
+ancillary exams performed were brain CT (in 71 patients) and lumbar puncture (in 27 
+patients), while brain MRI was performed in only 15 patients (20.0%). 
+ 
+Table 1. Clinical features of patients with COVID-19 evaluated by the Neurology team 
+between March 23rd and May 23rd, 2020 at Instituto Central do Hospital das Clínicas da 
+Faculdade de Medicina da Universidade de São Paulo, Brazil (ICHC-HCFMUSP). 
+ 
+ 
+Characteristics 
+Nonsevere 
+respiratory 
+condition 
+Severe 
+respiratory 
+condition 
+Total 
+p-value 
+Number of patients 
+44 
+45 
+89 
+ 
+Age, mean (SD), y 
+57.7 (16.2) 
+56.9 (15.8) 
+57.4 (15.9) 
+0.811 
+Gender 
+ 
+ 
+ 
+ 
+Female 
+15 (34.1%) 
+19 (42.2%) 
+34 (38.2%) 
+0.515 
+COVID-19 symptoms 
+ 
+ 
+ 
+ 
+Fever 
+24 (60%) 
+33 (76.7%) 
+57 (68.7%) 
+0.155 
+Cough 
+30 (75%) 
+29 (67.4%) 
+59 (71.1%) 
+0.478 
+Dyspnea 
+22 (56.4%) 
+37 (84.1%) 
+59 (71.1%) 
+0.008 
+Myalgia 
+5 (12.8%) 
+13 (29.5%) 
+18 (21.7%) 
+0.108 
+Fatigue 
+15 (38.5%) 
+14(31.8%) 
+29 (34.9%) 
+0.645 
+Diarrhea 
+5 (12.8%) 
+3 (6.8%) 
+8 (9.6%) 
+0.465 
+Anosmia 
+3 (8.1%) 
+5 (11.4%) 
+8 (9.9%) 
+0.570 
+Dysgeusia 
+0 
+3 (9.4%) 
+3 (4.8%) 
+0.135 
+Comorbidities 
+ 
+ 
+ 
+ 
+Hypertension 
+23 (59.0%) 
+28 (65.1%) 
+51 (62.2%) 
+0.651 
+Diabetes 
+12 (30.8%) 
+19 (44.2%) 
+31 (37.8%) 
+0.257 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+ 
+Table 2. Reason for Neurological Consultation in patients with COVID-19 between March 
+23rd and May 23rd, 2020 at Instituto Central do Hospital das Clínicas da Faculdade de 
+Medicina da Universidade de São Paulo, Brazil (ICHC-HCFMUSP). 
+ 
+ 
+ 
+ 
+Symptom 
+(reported 
+by 
+the 
+internist) 
+Nonsevere 
+respiratory 
+condition 
+Severe 
+respiratory 
+condition 
+Total 
+p-value 
+Altered level of consciousness 
+17 (38.6%) 
+18 (40.0%) 
+35 (39.3%) 
+0.534 
+Psychomotor agitation 
+8 (18.2%) 
+4 (8.9%) 
+12 (13.5%) 
+0.166 
+Slow awakening from sedation 
+0  
+5 (11.1%) 
+5 (5.6%) 
+0.029 
+Focal neurological signs 
+2 (4.5%) 
+1 (2.2%) 
+3 (3.4%) 
+0.491 
+Muscle weakness 
+6 (13.6%) 
+10 (22.2%) 
+16 (18.0%) 
+0.219 
+Vertigo 
+1 (2.3%) 
+1 (2.2%) 
+2 (2.2%) 
+0.747 
+Headache 
+3 (6.8%) 
+0 
+3 (3.4%) 
+0.117 
+Seizure and transient changes in 
+consciousness 
+3 (6.8%) 
+4 (8.9%) 
+7 (7.9%) 
+0.513 
+Seizure in epileptic patient 
+4 (9.1%) 
+1 (2.2%) 
+5 (5.6%) 
+0.173 
+Movement disorder*  
+2 (4.5%) 
+4 (8.9%) 
+6 (6.7%) 
+0.349 
+Management or follow-up of pre-
+existing neurological disease 
+6 (13.6%) 
+5 (11.1%) 
+11 (12.4%)  
+0.484 
+*Myoclonus, nonspecific psychomotor agitation. 
+ 
+ 
+ 
+ 
+The most prevalent diagnoses were delirium/encephalopathy, stroke, previous 
+neurological diseases, seizures, neuromuscular disorders, other acute brain lesions, as 
+well as other mild nonspecific symptoms (Table 3 and Figure 2). 
+Associations between some reasons for neurological consultation requested by the 
+internist and the final diagnoses established by the neurologist were found: altered level 
+of 
+consciousness 
+correlated 
+with 
+encephalopathy, 
+muscle 
+weakness 
+with 
+cerebrovascular disease, seizure and transient changes in consciousness with epilepsy 
+(Table 4).  
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Table 3. Final neurological diagnoses of COVID-19 patients evaluated by the Neurology 
+team between March 23rd and May 23rd, 2020 at Instituto Central do Hospital das Clínicas 
+da Faculdade de Medicina da Universidade de São Paulo, Brazil (ICHC-HCFMUSP). 
+ 
+ 
+Neurological diagnosis 
+Nonsevere 
+respiratory 
+condition 
+Severe 
+respiratory 
+condition 
+Total 
+Diffuse encephalopathy 
+20 (45.5%) 
+20 (44.4%) 
+40 (44.4%) 
+Stroke  
+5 (11.4%) 
+6 (13.3%) 
+11 (12.3%)  
+Cerebral venous thrombosis 
+1 (2.3%) 
+1 (2.2%) 
+2 (2.2%) 
+Intracranial hemorrhage 
+1 (2.3%) 
+1 (2.2%) 
+2 (2.2%) 
+Acute 
+non-vascular 
+structural 
+encephalic 
+lesions* 
+1 (2.3%) 
+2 (4.4%) 
+3 (3.4%) 
+Seizure in epileptic patient 
+2 (4.5%) 
+2 (4.4%) 
+4 (4.5%) 
+Acute symptomatic or provoked seizure 
+2 (4.5%) 
+2 (4.4%) 
+4 (4.5%) 
+Peripheral neuropathy 
+0 
+3 (6.7%) 
+3 (3.4%) 
+Rhabdomyolysis 
+2 (4.5%) 
+0 
+2 (2.2%) 
+Pre-existing neurological disease 
+4 (9.1%) 
+4 (8.9%) 
+8 (9.0%) 
+Others** 
+6 (13.6%) 
+4 (8.9%) 
+10 (11.2%) 
+*Wernicke 
+encephalopathy 
+and 
+central pontine myelinolysis 
+(01 
+case), 
+acute 
+disseminated 
+encephalomyelitis (01 case), and Posterior Reversible Encephalopathy Syndrome (01 case). 
+ 
+ 
+ 
+ 
+Figure 2. Graphic distribution of neurological diagnoses by disease group in the period 
+between March 23rd and May 23rd, 2020 at Instituto Central do Hospital das Clínicas da 
+Faculdade de Medicina da Universidade de São Paulo, Brazil (ICHC-HCFMUSP). Group 
+“Others” included “management or follow-up of previous neurological disease”, 
+headache, vertigo, syncope, somatoform disorder, and primary psychosis.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Table 4. Association between reason for neurological consultation and final diagnosis by 
+disease group. 
+ 
+ 
+ 
+Final diagnosis by disease group 
+ 
+ 
+ 
+p-value 
+ 
+Reason for Neurological 
+consultation 
+Encephalopathy 
+Seizure 
+and 
+Epilepsy  
+Cerebrovascular 
+disease  
+Neuromuscular 
+disorder 
+Others 
+ 
+Altered 
+level 
+of 
+consciousness 
+28 (80.0%) 
+1 (2.9%) 
+4 (11.4%) 
+1 (2.9%) 
+1 (2.9%) 
+<0.001 
+Psychomotor agitation 
+7 (58.3%) 
+1 (8.3%) 
+2 (16.7%) 
+1 (8.3%) 
+1 (8.3%) 
+0.925 
+Slow 
+awakening 
+from 
+sedation 
+4 (80.0%) 
+ 0 
+1 (20.0%) 
+0 
+0 
+0.562 
+Focal neurological signal 
+1 (33.3%) 
+0  
+2 (13.3%) 
+0 
+0 
+0.215 
+Muscle weakness 
+3 (18.8%) 
+0 
+7 (43.8%) 
+5 (31.3%) 
+1 (6.3%) 
+<0.001 
+Vertigo 
+0 
+0 
+1 (50.0%) 
+0 
+1 (50.0%) 
+0.403 
+Headache 
+0 
+0 
+0 
+0 
+3 (100%) 
+0.004 
+Seizure 
+and 
+transient 
+changes in consciousness 
+4 (57.1%) 
+3 (42.9%) 
+0 
+0 
+0 
+0.011 
+Seizure in epileptic patient 
+0 
+4 (80.0%) 
+0 
+0 
+1 (20.0%) 
+<0.001 
+Movement Disorder 
+4 (66.7%) 
+0 
+1 (16.7%) 
+0 
+1 (16.7%) 
+0.808 
+Management or follow-up 
+of 
+pre-existing 
+neurological disease 
+3 (27.3%) 
+0 
+1 (9.1%) 
+2 (18.2%) 
+5 (45.5%) 
+0.001 
+ 
+ 
+DISCUSSION 
+ 
+ 
+In this study, 89 neurological consults were analyzed, requested among 1,208 COVID-19 
+patients admitted to a single University-based tertiary referral hospital dedicated to severe 
+COVID-19 patient care (7.4% of total cases). In this setting, patients were evaluated by 
+neurologists with the same training; more difficult cases were discussed in a weekly 
+consensus meeting with the neurology department staff.  
+More than half of these complications (65.1%) were severe or potentially severe, 
+consisting of encephalopathy, acute cerebrovascular disease, and non-vascular acute 
+encephalic lesions, some of which can cause serious neurological sequelae. These 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+severe complications were seen both in patients who required mechanical ventilation and 
+in those with less severe degrees of the disease. 
+In the early stage of the COVID-19 pandemic, Mao et al. reported the occurrence of 
+neurological manifestations in 214 patients admitted to three COVID-19 dedicated 
+hospitals in Wuhan, China5. In a retrospective analysis of medical records, the authors 
+found that 78 (36.4%) of the patients had central or peripheral nervous system 
+involvement. Manifestations ranged from mild, such as anosmia and headache, to stroke 
+and encephalopathy. Although the reported frequency in the Wuhan study was high, 
+severe central nervous system (CNS) diagnoses (acute cerebrovascular diseases and 
+impaired consciousness) were reported in 28.2% of these 78 patients.  
+Another study applying a similar methodology to that used in Wuhan5 found neurological 
+manifestations in 512 (57.4%) of 841 patients in two COVID-19 hospitals in Spain4. 
+Severe manifestations of CNS involvement, using the same disease categorization used 
+in the present study, were described in 36.5% of the cases4. 
+In an observational case series, Helms et al. recorded neurological manifestations in 58 
+consecutive patients admitted to the hospital due to COVID-19-related acute respiratory 
+distress syndrome, in Strasbourg, France. All patients were treated in ICUs. Agitation was 
+noted in 69% of the patients when neuromuscular blockade was discontinued. Diffuse 
+corticospinal tract signs were observed in 67% of patients. The severity of the 
+neurological manifestation in these cases with acute respiratory failure was even higher 
+than in our sample3. 
+The lower frequency and the greater severity of neurological involvement that we found 
+were most likely due to case ascertainment, similarly to the real-life situation, in which 
+neurologists are called to evaluate patients who present signs or symptoms that concern 
+internists or intensivists. Therefore, a bias toward potentially more serious and, therefore, 
+less frequent manifestations was present in our study. 
+Our data also revealed that neurological manifestations are frequent both in cases that 
+required mechanical ventilation, as well as in less severe ones. The fact that more serious 
+neurological conditions, such as stroke and encephalopathy, were equally frequent in 
+more and in less severe patient groups was unexpected.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+Neurological manifestations in COVID-19 can be due to indirect nervous system 
+involvement resulting from systemic diseases, such as hypoxia, uremia, coagulopathy, 
+and critical care neuropathy, due to the invasion of the CNS by SARS-CoV-2, or caused 
+by other mechanisms such as inflammatory and immune-mediated (including post-
+infectious) reactions.  
+Factors that support an indirect (systemic) mechanism for neurological complications of 
+SARS-COV2 infection, such as encephalopathy, are the absence of SARS-CoV2 genetic 
+material in the CSF, and the lack of signs of brain involvement on neuroimaging (CT and 
+MRI) in the vast majority of cases in which these tests were obtained16. More recently, 
+postmortem pathological examination of brain specimens obtained from 18 patients who 
+died from COVID-19 failed to demonstrate inflammatory changes indicative of 
+encephalitis or changes related to a direct viral effect and disclosed only hypoxic 
+changes17. 
+On the other hand, case reports and small case series provided evidence of direct CNS 
+involvement in COVID-19 infection. Moriguchi et al., in Japan, reported a 
+meningoencephalitis case with medial temporal lobe lesions on MRI, in which SARS-
+CoV-2 was detected in the CSF by RT-PCR18. In the previously cited study by Helms et 
+al., leptomeningeal enhancement was noted on MRI in 8/13 patients, and bilateral 
+frontotemporal hypoperfusion was noted in all 11 patients who underwent perfusion MRI3. 
+In another report, MRI showed a subtle hyperintensity in the olfactory bulbs and cortical 
+hyperintensity in the right gyrus rectus, consistent with local invasion and direct brain 
+parenchymal lesion by SARS-CoV-2 in a case with anosmia19. Most remarkable was the 
+documented finding of the presence of SARS-CoV-2 in neurons and endothelial cells in 
+the frontal lobe of a case of COVID-19 on electronic microscopy, which was confirmed by 
+detection of SARS-CoV-2 genetic material in the brain with RT-PCR20. In that case, PCR 
+for SARS-CoV-2 was negative in the CSF. 
+SARS-CoV-2 
+encephalopathy 
+may 
+be 
+also 
+caused 
+by 
+acute 
+necrotizing 
+encephalopathy21,22 and encephalitis related to an exaggerated inflammatory reaction in 
+the CNS, with high cytokine and other inflammatory mediators levels in the CSF23,24, 
+probably related to a hyperinflammatory systemic reaction against SARS-CoV-2, with a 
+breakdown of the blood-brain barrier. Alternatively, encephalitis may be caused by a 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+CNS-specific inflammatory response23,24. Acute disseminated encephalomyelitis (ADEM) 
+has been reported in SARS-CoV-2 patients, indicating a probable virally triggered 
+immune-mediated mechanism leading to CNS inflammatory lesions25,26.  
+In our study, the occurrence of neurological manifestations in cases with less severe 
+COVID-19 systemic disease, may indicate that neurological symptoms, at least in part of 
+our cases, occurred regardless of systemic involvement, and that neurological symptoms 
+are probably due to heterogeneous causes. Further studies are needed to elucidate the 
+precise mechanism underlying the neurological manifestations of SARS-CoV-227, which 
+will contribute to the development of more rational therapeutic interventions and, possibly, 
+reduce the severity of the impact of SARS-CoV-2 in the nervous system. 
+The limitations of our study are those of a retrospective study. The history of COVID-19 
+pre-admission symptoms and neurological symptoms, for instance, was frequently 
+obtained from relatives of critically ill or confused patients and could be prone to recall 
+bias. Some potentially relevant clinical and demographical information, such as the 
+prevalence of obesity or angiotensin-converting enzyme inhibitors, were not available. 
+Our patient population originated from neurology consultation requested by internists, 
+which corresponds to 7.4% of the total COVID-19 population in our hospital. This makes 
+our study inadequate to evaluate the total prevalence of specific signs and diagnoses in 
+the general COVID-19 population. Perception of the need for a neurological evaluation, 
+especially in severely ill patients, may have varied among different medical teams. Of 
+note, the daily number of requests for neurological consultations increased along the 
+study period, probably reflecting an increased awareness of the frequency and severity 
+of neurological manifestations of SARS-CoV-2 infection, as well as of the importance of 
+neurology specialized care for this patient population. Like all studies carried out in 
+COVID-19 dedicated hospitals, there were restrictions on the availability of MRI, CT, 
+electroencephalography, 
+CSF, 
+electroneuromyography, 
+and 
+neuropathological 
+examinations. Also, the purpose of this work was not to evaluate the details of each case 
+to establish the pathophysiology of stroke, encephalopathy, seizures, and other 
+neurological conditions, which we intend to do in forthcoming manuscripts. Along the 
+same lines, neuroimaging and CSF findings are also being prepared for future 
+communications.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+The main conclusions of this study are:  
+ Severe neurological complications that require neurologist interventions are 
+relatively common in COVID-19 patients.  
+ These complications are equally frequent in patients with severe respiratory failure, 
+who require respiratory assistance, and less severely ill patients, without significant 
+respiratory symptoms.  
+ Neurologists should be part of the medical team of COVID-19 in dedicated 
+hospitals, and internists must be trained to recognize signs of neurological 
+complications and to appropriately request neurology consultations in such cases.  
+Future studies are needed to further understand the pathophysiology of nervous system 
+manifestations in SARS-CoV-2 patients, so that more effective therapeutic interventions 
+can be implemented to prevent and minimize severe neurological complications. 
+ 
+ 
+References 
+1. Mahase E. Covid-19: WHO declares pandemic because of “alarming levels” of 
+spread, 
+severity, 
+and 
+inaction. 
+BMJ. 
+2020 
+Mar;368:m1036. 
+https://doi.org/10.1136/bmj.m1036 
+2. Johns Hopkins University & Medicine. COVID-19 Dashboard by the Center for 
+Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). 
+Available from: coronavirus.jhu.edu/map.html.  
+3. Helms J, Kremer S, Merdji H, Clere-Jehl R, Schenck M, Kummerlen C, et al. 
+Neurologic features in severe SARS-CoV-2 infection. N Engl J Med. 2020 
+Jun;382(23):2268-70. https://doi.org/10.1056/NEJMc2008597 
+4. Romero-Sánchez CM, Díaz-Maroto I, Fernández-Díaz E, Sánchez-Larsen Á, 
+Layos-Romero A, García-García J, et al. Neurologic manifestations in hospitalized 
+patients with COVID-19: The ALBACOVID registry. Neurology. 2020 Jun. 
+https://doi.org/10.1212/WNL.0000000000009937 
+5. Mao L, Jin H, Wang M, Hu Y, Chen S, He Q, et al. Neurologic manifestations of 
+hospitalized patients with coronavirus disease 2019 in Wuhan, China. JAMA 
+Neurol. 2020 Apr;77(6):683-90. https://doi.org/10.1001/jamaneurol.2020.1127 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+6. Aggarwal G, Lippi G, Henry BM. Cerebrovascular disease is associated with an 
+increased disease severity in patients with Coronavirus Disease 2019 (COVID-19): 
+A pooled analysis of published literature. Int J Stroke. 2020 Jun;15(4):385-9. 
+https://doi.org/10.1177/1747493020921664 
+7. Yin R, Yang Z, Wei Y, Li Y, Chen H, Liu Z, et al. Clinical characteristics of 106 
+patients with neurological diseases and co-morbid coronavirus disease 2019: a 
+retrospective 
+study. 
+medRxiv. 
+2020.04.29.20085415. 
+https://doi.org/10.1101/2020.04.29.20085415 
+8. Pranata R, Huang I, Lim MA, Wahjoepramono PEJ, July J. Impact of 
+cerebrovascular and cardiovascular diseases on mortality and severity of COVID-
+19 - systematic review, meta-analysis, and meta-regression. J Stroke Cerebrovasc 
+Dis. 
+2020 
+May;29(8):104949. 
+https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.104949 
+9. Benussi A, Pilotto A, Premi E, Libri I, Giunta M, Agosti C, et al. Clinical 
+characteristics and outcomes of inpatients with neurologic disease and COVID-19 
+in 
+Brescia, 
+Lombardy, 
+Italy. 
+Neurology. 
+2020 
+May; 
+10.1212/WNL.0000000000009848. 
+https://doi.org/10.1212/WNL.0000000000009848 
+10. Bhidayasiri R, Virameteekul S, Kim J-M, Pal PK, Chung S-J. COVID-19: an early 
+review of its global impact and considerations for Parkinson’s disease patient care. 
+J Mov Disord. 2020 Apr;13(2):105-14. https://doi.org/10.14802/jmd.20042 
+11. Kuroda N. Epilepsy and COVID-19: Associations and important considerations. 
+Epilepsy 
+Behav. 
+2020 
+Apr;108(2020):107122. 
+https://doi.org/10.1016/j.yebeh.2020.107122 
+12. Bersano A, Pantoni L. On being a neurologist in Italy at the time of the COVID-19 
+outbreak. 
+Neurology. 
+Neurology. 
+2020 
+May;94(21):905-6. 
+https://doi.org/10.1212/WNL.0000000000009508 
+13. Majersik JJ, Reddy VK. Acute neurology during the COVID-19 pandemic: 
+Supporting 
+the 
+front 
+line. 
+Neurology. 
+2020 
+Jun;94(24):1055-7. 
+https://doi.org/10.1212/WNL.0000000000009564 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+14. Sellner J, Taba P, Öztürk S, Helbok R. The need for neurologists in the care of 
+COVID-19 patients. Eur J Neurol. 2020 Apr. https://doi.org/10.1111/ene.14257 
+15. Rubin MA, Bonnie RJ, Epstein L, Hemphill C, Kirschen M, Lewis A, et al. AAN 
+position statement: The COVID-19 pandemic and the ethical duties of the 
+neurologist. 
+Neurology. 
+2020 
+May;10.1212/WNL.0000000000009744. 
+https://doi.org/10.1212/WNL.0000000000009744 
+16. Radmanesh A, Raz E, Zan E, Derman A, Kaminetzky M. Brain imaging use and 
+findings in COVID-19: A single academic center experience in the epicenter of 
+disease in the United States. AJNR Am J Neuroradiol. 2020 May. 
+https://doi.org/10.3174/ajnr.A6610 
+17. Solomon IH, Normandin E, Bhattacharyya S, Mukerji SS, Keller K, Ali AS, et al. 
+Neuropathological features of Covid-19. N Engl J Med. 2020 Jun. 
+https://doi.org/10.1056/NEJMc2019373 
+18. Moriguchi T, Harii N, Goto J, Harada D, Sugawara H, Takamino J, et al. A first 
+case of meningitis/encephalitis associated with SARS-Coronavirus-2. Int J Infect 
+Dis. 2020 Mar;94(2020):55-58. https://doi.org/10.1016/j.ijid.2020.03.062 
+19. Politi LS, Salsano E, Grimaldi M. Magnetic resonance imaging alteration of the 
+brain in a patient with coronavirus disease 2019 (COVID-19) and anosmia. JAMA 
+Neurol. 2020 May. https://doi.org/10.1001/jamaneurol.2020.2125 
+20. Paniz-Mondolfi A, Bryce C, Grimes Z, Gordon RE, Reidy J, Lednicky J, et al. 
+Central nervous system involvement by severe acute respiratory syndrome 
+coronavirus-2 
+(SARS-CoV-2). 
+J 
+Med 
+Virol. 
+2020 
+Jul;92(7):699-702. 
+https://doi.org/10.1002/jmv.25915 
+21. Dixon L, Varley J, Gontsarova A, Mallon D, Tona F, Muir D, et al. COVID-19-related 
+acute necrotizing encephalopathy with brain stem involvement in a patient with 
+aplastic anemia. Neurol Neuroimmunol Neuroinflamm. 2020 May;7(5):e789. 
+https://doi.org/10.1212/NXI.0000000000000789 
+22. Poyiadji N, Shahin G, Noujaim D, Stone M, Patel S, Griffith B. COVID-19-
+associated Acute hemorrhagic necrotizing encephalopathy: CT and MRI Features. 
+Radiology. 2020 Mar:201187. https://doi.org/10.1148/radiol.2020201187 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+23. Bernard-Valnet R, Pizzarotti B, Anichini A, Demars Y, Russo E, Schmidhauser M, 
+et al. Two patients with acute meningo-encephalitis concomitant to SARS-CoV-2 
+infection. Eur J Neurol. 2020 Mar. https://doi.org/10.1111/ene.14298 
+24. Pilotto A, Odolini S, Masciocchi S, Comelli A, Volonghi I, Gazzina S, et al. Steroid-
+responsive encephalitis in coronavirus disease 2019. Ann Neurol. 2020 May. 
+https://doi.org/10.1002/ana.25783 
+25. Novi G, Rossi T, Pedemonte E, Saitta L, Rolla C, Roccatagliata L, et al. Acute 
+disseminated 
+encephalomyelitis 
+after 
+SARS-CoV-2 
+infection. 
+Neurol 
+Neuroimmunol 
+Neuroinflamm. 
+2020 
+Jun;7(5):e797. 
+https://doi.org/10.1212/NXI.0000000000000797 
+26. Parsons T, Banks S, Bae C, Gelber J, Alahmadi H, Tichauer M. COVID-19-
+associated acute disseminated encephalomyelitis (ADEM). J Neurol. 2020 May. 
+https://doi.org/10.1007/s00415-020-09951-9 
+27. Munhoz RP, Pedroso JL, Nascimento FA, Almeida SM, Barsottini OGP, Cardoso 
+FEC, et al. Neurological complications in patients with SARS-CoV-2 infection: a 
+systematic 
+review. 
+Arq 
+Neuropsiquiatr. 
+2020 
+Mat;78(5):290-300. 
+https://doi.org/10.1590/0004-282x20200051 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/0004-282X20200089
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

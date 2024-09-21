@@ -1,0 +1,2930 @@
+Status: Preprint has not been submitted for publication
+Effect of the synthesis route on the phase formation and
+dielectric property in Ba,(Zr,Ti)O3-(Ba,Ca)TiO3 ceramics
+André Bonaventura, Rangel Graudiston Aredes, Renato Boschilia, Eduardo  Antonelli
+DOI: 10.1590/SciELOPreprints.1232
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The authors declare that in the event that this manuscript has previously been submitted to a journal and
+being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
+server.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed and published by a journal, the authors declare that they have received
+authorization from the journal to make this deposit.
+Submitted on (YYYY-MM-DD): 2020-09-19
+Posted on (YYYY-MM-DD): 2020-09-30
+Powered by TCPDF (www.tcpdf.org)
+1  
+Effect  of  the  synthesis  route  on  the  phase  formation  and  dielectric  property  
+in  Ba,(Zr,Ti)O 3 -(Ba,Ca)TiO 3   ceramics  
+ 
+ 
+André   L.   Bonaventura,   Rangel   G.   Aredes,   Renato   Boschilia,   Eduardo   Antonelli  
+ 
+ 
+Advanced   Ceramic   Laboratory,  Science   and  Technology   Institute,   Universidade   Federal  
+de   São  Paulo,   12231-280,   São  José   dos   Campos,   SP,  Brazil  
+e-mail:   fisico.bonaventura@gmail.com  
+ 
+ 
+Keywords:  Phase  Transition,  Ferroelectrics,  BCZT,  Ceramics.  
+ 
+Abstract  
+Ceramics  of (1−x)Ba(Zr 0.2 Ti 0.8 )O 3 –x(Ba 0.7 Ca 0.3 )TiO 3  (BZT-BCT) are  one  of  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+promising  candidates  to  substitute  the  lead  zirconate  titanate  (PZT)  ceramics.  Some  authors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+have  named  these  compositions  as Ba 1-x Ca x Ti 1-y Zr y O 3  ( BCZT ) while  others  as  BZT-BCT.  That 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+way,  this  terminology  can  lead  the  interpretation  that  ceramics  of  BCZT  were  prepared  from 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+precursor  powders  ``direct  route”  (carbonates,  oxides,  etc),  while  ceramics  of  BZT-BCT  are 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+synthesized  by  the  mixture  of  BZT  and  BCT  solid  solutions  in  a  “composite  route.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Therefore,  this  paper  aims  to  put  light  into  the  influence  of  the  processing  route  on  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+properties  of  these  compositions.  The  method  used  was  the  preparation  of  the  ceramics  by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+two  routes:  BCZT,  named  as  a  monophasic  system,  prepared  by  the  direct  route  and 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BZT-BCT,  designed  polyphasic  system,  prepared  by  a  composite  route.  The  results  show  that 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+the  processing  influences  the  structure,  microstructure,  dielectric  properties,  and  phase 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+transitions  of  the  ceramics.  These  findings  are  particularly  relevant  for  the  discussion  of  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+phase   development   and   compositional   complexity   of   these   materials.  
+ 
+ 
+ 
+2  
+ 
+1. Introduction   
+Ceramics  with  piezoelectric  properties  are  applied  as  sensors,  actuators,  and  transducers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1].  Traditionally,  high  piezoelectric  coefficients  are  obtained  in  Lead  zirconate  titanate  (PZT) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+based  ceramics  [2,  3].  However,  due  to  the  toxicity  of  lead,  researches  have  been  performed  to 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+obtain   lead-free   ceramics   with   piezoelectric   properties   similar   to   PZT   [1,   4].   
+In  2009  Liu  and  Ren  published  a  paper  about  a  ceramic  system  with  excellent 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+piezoelectric  properties  [2].  This  paper  discusses  the  case  of  one  composition  close  to  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+morphotropic  phase  boundary,  defined  as  Ba(Zr 0.2 Ti 0.8 )O 3 –x(Ba 0.7 Ca 0.3 )TiO 3 .  According  to 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+these  authors,  the  material  was  produced  through  a  pseudo-binary  system,  called  BZT-xBCT, 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+where  x  is  the  molar  percent  of  BCT.  Since  then,  many  works  have  been  performed  to 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+understand  the  mechanism  that  explains  the  high  piezoelectric  values  of  these  compositions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[5,  6,  7].  Nevertheless,  the  literature  has  reporting  works  with  the  composition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1-x)Ba(Zr 0.2 Ti 0.8 )O 3 –x(Ba 0.7 Ca 0.3 )TiO 3 using  two  definitions,  BCZT  with  a  direct  formulations 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+(Ba 0.85 Ca 0.15 )(Zr 0.1 Ti 0.9 )O 3 [8,  9,  10]  and  BZT-BCT  with  a  composite  formulations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.5BaTi 0.8 Zr 0.2 O 3 -0.5Ba 0.7 Ca 0.3 TiO 3 )  [11,  12,  13].  These  different  definitions  referred  to  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+same   atomic   composition.  
+The  compositions  of  BCZT  have  attracted  the  attention  of  researchers  due  to  its  high 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+piezoelectric  coefficients  [9].  However,  these  coefficients  are  observed  only  in  a  small 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+temperature  range  due  to  the  phase  transitions  of  the  ceramic  system.  In  this  context,  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+excellent  properties  of  these  materials  are  sometimes  attributed  to  phase  coexistence  [12]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+However,  the  explanation  of  this  phase  coexistence  is  not  attributed  to  a  polyphasic  material 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+but   related   to   an   exotic   crystallographic   characteristic.  
+Therefore,  this  paper  aims  to  put  a  light  in  the  influence  of  the  route  processing  on  the 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lead-free  ceramics  properties,  investigating  the  structures,  microstructures,  and  dielectric 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3  
+properties  of  BCZT  and  BZT-BCT.  The  method  used  was  the  preparation  of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5Ba(Zr 0.2 Ti 0.8 )O 3 –0.5(Ba 0.7 Ca 0.3 )TiO 3 ceramics  by  two  routes,  the  direct  route  (BCZT) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+defined  as  a  monophasic  system,  and  the  composite  route  (BZT-BCT)  defined  as  a  polyphasic 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+system.  
+ 
+2. Experimental   Procedure  
+The  ceramics  were  prepared  through  the  conventional  solid-state  reaction  method, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+starting  from  high-purity  precursor  powders  of  BaCO 3  (Sigma-Aldrich,  99%),  TiO 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Sigma-Aldrich,  99%),  ZrO 2  (Sigma-Aldrich,  99%)  and  CaCO 3  (Vetec,  99%).  These  raw 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+materials   were   mixed   according   to   the   formulations:  
+BaCO 3 +CaCO 3 +ZrO 2 +TiO 2   =>   Ba 0.85 Ca 0.15 Ti 0.90 Zr 0.10 O 3 +CO 2  (BCZT)  
+BaCO 3 +   ZrO 2 +TiO 2   =>   BaZr 0.20 Ti 0.80 O 3 +CO 2  (BZT)  
+BaCO 3 +   TiO 2 +CaCO 3   =>   Ba 0.70 Ca 0.30 TiO 3 +CO 2  (BCT)   
+The  raw  materials  were  ball  milled  for  24  h  and  the  mixtures  were  calcined  at  1200  ºC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+for  2  h  and  ball  milled  again  for  24  h  into  fine  powders,  compacted  into  disk-shaped  samples, 
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and   then   sintered   at   1380  ºC   for   3  h.  This   methodology   was   named   here   direct   route.  
+For  the  composite  route,  t he  calcined  powders  of  BZT  and  BCT  were  mixed  in  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+proportion  of  50%  BCT  and  50%  BZT  ( BZT-BCT).  These  powder  were  ball  milled  for  24  h 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+and  also  compacted  into  disk-shaped  samples  and  then  sintered  at  1380  ºC  for  10  min,  3  h, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+and  24  h.  The  final  density  of  each  sintered  specimen  was  determined  by  the  Archimedes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+method,   showing   values   of   the   BaTiO 3 ’s   theoretical   density   of   above   95%   in   all   cases.  
+The  differential  scanning  calorimetry  (DSC)  was  performed  using  a  NETZSCH  STA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+449.  The  experiments  were  performed  in  an  atmosphere  of  synthetic  air  (O 2 /N 2 -  ¼),  with  a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+heating  rate  of  10 o C/min  using  alumina  crucible. The  crystallographic  structure  was 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+investigated  using  a  Rigaku Ultima  IV  diffractometer (with  monochromatic  Cu  Kα  radiation, 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4  
+λ =  1.5406  Å) .  The  microstructure  developments  were  investigated  with  a  scanning  electron 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+microscope  (FEI  -  Inspect  S50).  The  grain  size  of  the  ceramics  was  evaluated  by  the  intercept 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+method  directly  on  the  SEM  images  [14]. Electrical  measurements,  in  terms  of  impedance  ( Z* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+=  Z´  +  jZ” ),  which  was  then  convertible  to  complex  permittivity  as ε*  =  ε´  +  jε” ,  were 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+carried  out  from  room  temperature  to  about  200 
+o C  using  a  Solartron  SI  1260 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+impedance/gain-phase  analyzer  in  the  frequency  range  of f  =  100  Hz  to  13  MHz. Electric 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+contacts  consisted  of  silver  (Ag)  paste  previously  applied  on  both  parallel  faces  of  the  pellets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and   diffused   at   550  ºC   for   30  min.  
+ 
+3. Results  
+Figure  1a  and  b  show  the  DSC/TG  curves  obtained  from  the  mixture  of  the  reagents 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+used  in  the  synthesis  of  BZT  and  for  the  combination  of  the  calcinated  powders  of  BCT  and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BZT,  respectively.  The  curve  for  the  reagents  (Figure  1a)  exhibits  a  multi-step  process  that  is 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+completed  at  about  1300  ºC.  Between  1030 o C  and  1180 o C  there  is  a  loss  of  14  %  in  mass  that 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+is  attributed  to  the  BaCO 3  decomposition  and  the  CO 2  oxidation.  The  endothermic  peaks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+observed  at  829 o C  and  986 o C  are  linked  with  structural  phases  transitions  of  the  BaCO 3  [15]. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  appreciable  exothermic  reaction  at  1200 o C  was  attributed  to  the  BCZT  formation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contrary  to  the  reagents  trend,  the  results  obtained  from  the  calcined  powders  do  not  show  a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+clear  thermodynamic  event  that  can  be  indicative  of  reaction  between  the  compositions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Figure  1b).  It  is  essential  to  point  out  that,  for  this  experiment,  no  following  thermal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+treatment  was  performed  after  the  mixture  of  BCT  and  BZT  powders.  In  particular,  an 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+endothermic  event  is  observed  around  1300 o C.  This  event  is  here  attributed  to  a  fusion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+process   and   suggests   the   formation   of   a   Ti 4+    rich   phase   during   the   heating   process.  
+ 
+5  
+ 
+Figure  1  -  Simultaneous  DSC/TG  curves:  (a)  mixture  of  the  reagents  to  BZT  formation  and 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)  mixture  of  the  calcinated  powders  of  BZT  and  BCT  (50BCT-50BZT).  The  experiments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+were  performed  in  an  atmosphere  of  synthetic  air  (O 2 /N 2 -  ¼),  with  a  heating  rate  of  10 o C/min 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+using   alumina   crucible.  
+ 
+Figure  2  shows  the  XRD  patterns  for  BCT,  BZT,  and  BCZT  compounds  after 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+calcination  (at  1200  °C  for  2h).  The  figure  also  presented  the  XRD  patterns  for  the  BZT-BCT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+compounds  after  milling  (not  performed  other  calcination).  The  patterns  were  compared  with 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+files  of  the  Inorganic  Crystal  Structure  Database  (ICSD).  The  patterns  for  BCT  were  indexed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6  
+with  tetragonal  symmetry  (ICSD-71368)  and  only  one  phase  was  observed.  The  XRD  patterns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+for  BZT  reflect  the  formation  of  two  phases  that  were  identified  as  majority  phase  BZT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ICSD-291454)  and  minority  phase  BaZrO 3  (BZ)  (ICSD-974600).  The  presence  of  this  phase 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+at  the  calcined  powder  is  indicative  that  the  temperature  should  be  higher.  As  expected,  the 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BZT-BCT  composition  reflects  the  formation  of  two  distinct  phases  that  were  identified  to  be 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+isostructural   with   the   tetragonal   BZT   and   BCT.  
+ 
+Figure  2  -  XRD  patterns  of  BZT,  BCT,  BCZT  calcined  at  1200  °C  for  2h  and  the  mixture  of 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BZT-BCT  
+ 
+Figure  3  shows  the  XRD  patterns,  measured  at  room  temperature,  for  BCZT  and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BZT-BCT  samples  after  sintering.  The  samples  were  milled  to  perform  the  characterizations, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and  the  XRD  patterns  were  compared  with  the  files  of  ICSD.  The  XRD  result  for  BCZT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+indicates  that  the  ceramic  is  completely  crystallized  into  a  single-phase  perovskite  and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+isostructural  with  the  ICSD-186490.  No  traces  of  the  second  phase  are  observed  for  this 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+composition.  However,  for  BZT-BCT  ceramic  two  phases  were  identified,  being  tetragonal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(BCT)   and   orthorhombic   (BZT),   as   shown   in   figure   3-b.  
+7  
+ 
+ 
+Figure  3  -  XRD  patterns  of  BCZT  and  BZT-BCT  ceramics  sintered  at  1380  ºC  for  3h  a)  2θ  = 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+20  –  80º   and   b)   2θ   =   44.5  –  46.5 o . 
+ 
+The  microstructures  from  the  BCZT  and  BZT-BCT  samples  are  presented  in  Figures  4a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+and  b.  The  grain  size  determined  by  the  intercept  method  was  1.5 ±  0.5 μm  for  BCZT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ceramics.  Interestingly  here,  the  microstructure  of  the  sintered  BZT-BCT  presents  a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+homogeneous  microstructure  with  a  grain  size  of  9 ±  4  μm.  These  differences  in  grain  growth 
+ 
+ 
+  
+ 
+ 
+    
+ 
+ 
+  
+ 
+ 
+suggest  the  formation  of  a  liquid  phase  during  the  BZT-BCT  sintering  process.  The  liquid 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+phase   normally   enhances   mass  transport   between   grains,   promoting   a   grain   growth   process.  
+ 
+8  
+ 
+ 
+Fig.   4.  SEM   micrographs   of   the   ceramics   sintered   at   1380  ºC   for   3h:   a)   BCZT   and   b)  
+BZT-BCT  
+ 
+The  temperature  dependence  of  dielectric  constants  and  tan(δ)  of  BCZT  and  BZT-BCT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ceramics,  measured  at  frequencies  of  100  Hz,  1  kHz,  10  kHz,  and  100  kHz,  are  presented  in 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figures  5a  and  5b,  respectively.  The  ε’  curve  of  BCZT  ceramics,  at  least,  exhibit  two  apparent 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+anomalies  that  can  be  related  to  two  phase  transitions,  the  first  associated  to  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rhombohedral  (R)  –  Tetragonal  (T)  phase  transition,  and  the  second  with  Tetragonal  (T)  – 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Cubic  (C)  phase  transition  [1].  This  behavior  is  similar  to  that  observed  by  Liu  et  al.  [2].  In 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+the  figure,  it  is  possible  to  note  that  the  maximum  point  in  R/T  transitions  cannot  be  defined 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9  
+due  to  their  diffusivity.  However,  an  inflection  point  at  ~50  ℃  was  taking  as  a  reference.  The 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+maximum  of  the  anomaly  associated  with  T-C  transition  was  observed  at  ~83  ℃.  The  curve  of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ε”  shows  anomalies  at  ~46  ℃  and  ~77  ℃.  As  can  be  observed  in  Figure  5b,  the  composite 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+methodology  results  in  ceramics  with  different  dielectric  behavior,  once  that  only  one  phase 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+transition  is  observed  at  ~93  ℃.  This  study  was  conducted  on  the  ceramics  of  the  same 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+composition.  Thus  it  is  reasonable  to  postulate  that  the  observed  differences  are  related  to  the 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+methodology   of   synthesis   and,   therefore,   with   the   trend   of   phase   formation   of   BZT-BCT. 
+To  complete  data  analyses  are  presented  in  Figure  5c  the  results  of  permittivity  as  a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+function  of  temperature  for  the  sintered  BZT-BCT  ceramics  at  the  same  temperature  (1380  ºC) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+and  at  different  times  of  treatment:  10  min,  3  h,  and  24  h.  The  objective  was  to  check  if  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+BZT-BCT  methodology  converges  to  BCZT  behavior  if  the  thermodynamic  is  provided.  As 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+can  be  observed  in  Figure  5c,  when  the  time  of  sintering  is  increased  from  10  min  to  3  h,  one 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+    
+ 
+increment  on  the  dielectric  values  was  observed.  However,  it  was  not  observed  significant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+modifications  in  the  temperature  of  the  phase  transition.  From  3  h  to  24  h,  no  significant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+changes  are  observed,  and  the  conclusion  is  that  the  possible  phase  development  is  already 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+concluded  with  3  h  of  thermal  treatment  and  the  BZT-BCT  does  not  converge  to  BCZT 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+methodology.  
+ 
+10  
+ 
+ 
+ 
+Fig.  5.  Temperature  dependence  of  dielectric  constant  of  (a)  BCZT  and  (b)  BZT-BCT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sintered  at  1380  ºC  for  3h  at  1,  10,  100  kHz.  (c)  Temperature  dependence  of  the  dielectric 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+constant   of   BZT-BCT   sintered   at   1380  ºC   for   10  min,   3  h,  and   24  h.  
+ 
+ 
+4. Discussion  
+As  can  be  observed  in  Figure  2,  the  milling  processing  of  the  mixture  of  BZT  and  BCT  no 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+offered  energy  for  BCZT  phase  formation.  Thus,  the  two  phases  are  observed  in  the  XRD  of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BZT-BCT.  These  powders,  with  the  two  phases,  were  studied  by  thermal  analyses  (Figure  1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and  it  is  possible  to  conclude  that  no  thermodynamic  event  can  be  observed  between  the  BCT 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and  BZT  powders  during  the  heating  program.  Thus,  the  single  phase  formation  would  be 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+expected  to  occur  from  a  slow  diffusion  process  between  the  BCT  and  BZT  elements. 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Besides,  a  possible  fusion  is  observed  in  the  DTA  curves  of  BZT-BCT  at  ~1300 o C.  This 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fusion  can  be  related  to  a  possible  Ti 4+  rich  phase.  A  non-homogeneous  diffusion  of  different 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ions  could  explain  this  phase  formation  during  the  thermal  treatment  of  the  composite. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interestingly  here,  this  Ti 4+ -rich  phase  can  define  the  major  grain  size  observed  for  BZT-BCT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11  
+when  compared  with  BCZT  ceramics  (Figure  3).  This  increase  in  grain  size  in  the  composite 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+route  suggests  an  intergranular  liquid  phase  that  is  formed  during  the  materials’  sintering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+process.  This  effect  is  often  observed  in  BaTiO 3 -based  ceramics  treated  at  temperatures  above 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+about   1300  o C   [16].  
+The  XRD  of  the  sintered  ceramics  (1380 o C/3h)  reveals  that  the  different  routes  of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+processing  results  in  different  crystalline  structures,  and  thus,  it  is  reasonable  to  expect 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+different  dielectric  behavior.  As  observed  in  Figure  5a  and  b,  while  the  dielectric  profile  of  the 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+BZT-BCT  ceramics  shows  only  one  anomaly,  the  BCZT  ceramics  present  two  dielectric 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+anomalies.  The  direct  comparison  reveals  that  the  BCZT  rout  results  in  ceramics  with 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+structure  and  behavior  similar  to  that  reported  by  Liu  and  Ren,  2009  [2].  From  this  phase 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+diagram  would  be  expected  one  single  phase  transition  for  compositions  below  the  triple 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+point.  In  other  words,  the  composite  route  (BZT-BCT)  could  result  in  a  different  composition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+than  that  project.  As  can  also  be  observed  in  Figure  5a  and  b,  for  both  the  ceramics,  only  one 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+anomaly  associated  with  the  T-C  phase  transition  is  determined  in  temperature  spectra.  For 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+BCZT  the  maximum  of  the  curve  is  observed  at  ~83 o C  while  it  occurs  at  ~93 o C  for 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BZT-BCT,  thus  one  shift  of  ~10 o C.  The  determination  of  the  temperature  of  transition  by  the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dielectric  curve  is  largely  used  as  an  indicator  of  the  phase  and  composition  of  ceramics.  This 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+being  the  case,  the  shift  in  the  temperature  of  transition  can  also  be  interpreted  as  differences 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in   compositions.  
+To  advance  this  discussion,  Figure  5c  presents  the  dielectric  behavior  of  the  BZT-BCT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sintered  at  different  times.  The  question  here  is:  Could  the  behavior  of  BZT-BCT  shift  to  the 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+BCZT  if  the  thermodynamic  conditions  are  provided?  Interestingly,  even  after  thermal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+treatment  of  24  h,  the  samples  of  BZT-BCT  presented  the  same  overall  behavior  (only  one 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+observed  phase  transition)  of  the  sample  sintered  for  3  hours.  On  the  other  hand,  we  observed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+an  increase  in  permittivity  values  when  the  time  of  sintering  is  increased  from  10  min  for  3  h. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+12  
+Consequently,  there  is  some  phase  development  or  microstructural  changes  in  this  interval  of 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+time.  However,  after  3  h  of  thermal  treatment,  no  significant  alterations  were  observed. 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Considering  that  this  study  was  conducted  on  ceramics  of  the  same  compositions,  it  is 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+reasonable  to  postulate  that  the  composite  method  results  in  ceramics  of  different  crystalline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+structures.  Thus,  the  complex  crystalline  structure  of  this  class  of  materials  is  a  consequence 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+of  intrinsic  characteristics.  However,  it  is  also  dependent  on  extrinsic  characteristics  and  the 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+methodology   of   the   synthesis.  
+ 
+5. Conclusions  
+Based  on  all  performed  characterizations,  we  can  conclude  that  the  trend  of  phase 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+development  is  dependent  on  the  methodology  and  the  composite  rout  (BZT-BCT)  does  not 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+converge  to  the  direct  route  (BCZT)  being  observed  by  the  coexistence  of  crystalline  phases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+for  this  methodology.  This  dynamic  results  in  larger  grain  size  and,  principally,  in  different 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dielectric   behavior.  
+ 
+6. Acknowledgment  
+This  work  was  supported  by  CNPq  (Grant#  2014/456879-5)  and  FAPESP  (Grant# 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2011/08497-6),   two  Brazilian   research-   funding   agencies.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13  
+7. References  
+[1] 
+M.  Acosta,  Strain  Mechanisms  in  Lead-Free  Ferroelectrics  for  Actuators,  2015. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+doi:10.1007/978-3-319-27756-1.  
+[2] 
+W.  Liu,  X.  Ren,  Large  piezoelectric  effect  in  Pb-free  ceramics,  Phys.  Rev.  Lett.  103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2009)   1–4.  doi:10.1103/PhysRevLett.103.257602.  
+[3] 
+Y.  Zhang,  J.  Glaum,  C.  Groh,  M.C.  Ehmke,  J.E.  Blendell,  K.J.  Bowman,  M.J.  Hoffman, 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Correlation 
+ Between 
+ Piezoelectric 
+ Properties 
+ and 
+ Phase 
+ Coexistence 
+ in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Ba,Ca)(Ti,Zr)O 3 
+ Ceramics, 
+ J 
+ Am 
+ Ceram 
+ Soc. 
+ 2891 
+ (2014)  2885–2891. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+doi:10.1111/jace.13047.  
+[4] 
+J.  Rödel,  K.G.  Webber,  R.  Dittmer,  W.  Jo,  M.  Kimura,  D.  Damjanovic,  Transferring 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lead-free  piezoelectric  ceramics  into  application,  J.  Eur.  Ceram.  Soc.  35  (2015) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1659–1681.  doi:10.1016/j.jeurceramsoc.2014.12.013.  
+[5] 
+D.S.  Keeble,  F.  Benabdallah,  P.  a.  Thomas,  M.  Maglione,  J.  Kreisel,  Revised  structural 
+ 
+  
+   
+ 
+ 
+  
+ 
+ 
+ 
+phase  diagram  of  (Ba 0.7 Ca 0.3 TiO 3 )-(BaZr 0.2 Ti 0.8 O 3 ),  Appl.  Phys.  Lett.  102  (2013) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+092903.  doi:10.1063/1.4793400.  
+[6] 
+Y.  Tian,  L.  Wei,  X.  Chao,  Z.  Liu,  Z.  Yang,  Phase  transition  behavior  and  large 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+piezoelectricity 
+ near 
+ the 
+ morphotropic 
+ phase 
+ boundary 
+ of 
+ lead-free 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Ba 0.85 Ca 0.15 )(Zr 0.1 Ti 0.9 )O 3  ceramics,  J.  Am.  Ceram.  Soc.  96  (2013)  496–502. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+doi:10.1111/jace.12049.  
+[7] 
+D.  Damjanovic,  A.  Biancoli,  L.  Batooli,  A.  Vahabzadeh,  J.  Trodahl,  Elastic,  dielectric, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+and 
+ piezoelectric 
+ anomalies 
+ and 
+ Raman 
+ spectroscopy 
+ of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5Ba(Ti 0.8 Zr 0.2 )O 3 -0.5(Ba 0.7 Ca 0.3 )TiO 3 , 
+ Appl. 
+ Phys. 
+ Lett. 
+ 100 
+ (2012) 
+ 7–11. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+doi:10.1063/1.4714703.  
+[8] 
+J.  Hao,  J.  ,  Bai,  W.  ,  Li,  W.  and  Zhai,  Correlation  Between  the  Microstructure  and 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Electrical  Properties  in  High-Performance  (Ba 0.85 Ca 0.15 )(Zr 0.1 Ti 0.9 )O 3  Lead-Free 
+ 
+ 
+ 
+ 
+ 
+ 
+Piezoelectric 
+ Ceramics, 
+ J 
+ Am 
+ Ceram 
+ Soc. 
+ 95 
+ (2012) 
+ 1998–2006. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+doi:10.1111/j.1551-2916.2012.05146.x.  
+[9] 
+Z.  Long,  P,  and  Yi,  Fabrication  and  properties  of (Ba 0.85 Ca 0.15 )(Ti 0.9 Zr 0.1 )O 3  ceramics  and 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+their  multilayer  piezoelectric  actuators,  Int  J  Appl  Ceram  Technol.  14  (2017)  16–21. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+doi:10.1111/ijac.12611.  
+14  
+[10] D.A.  Ochoa,  A.  Reyes-montero,  F.  Su,  L.  Pardo,  J.E.  García,  M.E.  Villafuerte-castrej, 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assessment  of  the  functional  properties  stability  in  (Ba 0.85 Ca 0.15 )(Zr 0.1 Ti 0.9 )O 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+piezoceramics:  Huge  dielectric  and  piezoelectric  nonlinearity,  J.  Alloys  Compd.  774 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+(2019)   410–417.  doi:10.1016/j.jallcom.2018.10.060.  
+[11] 
+L.  Zhang,  M.  Zhang,  L.  Wang,  C.  Zhou,  Z.  Zhang,  Y.  Yao,  L.  Zhang,  D.  Xue,  X.  Lou, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X.  Ren,  Phase  transitions  and  the  piezoelectricity  around  morphotropic  phase  boundary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in  Ba(Zr 0.2 Ti 0.8 )O 3 -x(Ba 0.7 Ca 0.3 )TiO 3  lead-free  solid  solution,  Appl.  Phys.  Lett.  105 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2014)   162908.  doi:10.1063/1.4899125.  
+[12] M.  Acosta,  N.  Novak,  W.  Jo,  J.  Rödel,  Relationship  between  electromechanical 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+properties  and  phase  diagram  in  the  Ba(Zr 0.2 Ti 0.8 )O 3 -x(Ba 0.7 Ca 0.3 )TiO 3  lead-free 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+piezoceramic,   Acta   Mater.  80  (2014)   48–55.  doi:10.1016/j.actamat.2014.07.058.  
+[13] X.  Liu,  M.  Zhu,  Z.  Chen,  B.  Fang,  J.  Ding,  X.  Zhao,  H.  Xu,  Structure  and  electrical 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+properties  of  Li-doped BaTiO 3 –CaTiO 3 –BaZrO 3  lead-free  ceramics  prepared  by  citrate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+method,   613  (2014)   219–225.  doi:10.1016/j.jallcom.2014.06.046.  
+[14] American  Society  for  Testing  and  Materials  –  ASTM.E1382.  Standard  test  methods  for 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+determining  average  grain  size  using  semiautomatic  and  automatic  image  analysis.  v. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+03.01.  Annual   Book   of   ASTM   Standards,   ASTM;   1991.,  n.d.  
+[15] E.  Antonelli,  M.I.B.  Bernardi,  A.C.  Hernandes,  Pós  nanométricos  de BaZrO 3 (BaZrO 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nanometric  powders):  preparação  e  caracterização  de  cerâmicas,  Cerâmica.  51  (2005) 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+430–435.  doi:10.1590/S0366-69132005000400019.  
+[16] E.  Antonelli,  M.  Letonturier,  J.C.  M’Peko,  a.  C.  Hernandes,  Microstructural,  structural 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and  dielectric  properties  of Er 3+ -modified  BaTi 0.85 Zr 0.15 O 3  ceramics,  J.  Eur.  Ceram.  Soc. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+29  (2009)   1449–1455.  doi:10.1016/j.jeurceramsoc.2008.09.009.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15  
+Informações   para   SciELO   Preprints:  
+Contribuições   dos   autores   no  manuscrito:  
+Todos   os   autores   contribuíram   igualmente   para   o  manuscrito   apresentado.  
+ 
+Declaração   de   conflito   de   interesses   no  manuscrito  
+Todos   os   autores   declaram   que   não   há   conflito   de   interesses.  
+ 
+ORCID   de   todos   os   autores:  
+André   L.   Bonaventura   (ORCID:   0000-0001-9255-4737)  
+https://orcid.org/0000-0001-9255-4737  
+Rangel   G.   Aredes   (ORCID:   0000-0003-0459-1023)  
+https://orcid.org/0000-0003-0459-1023  
+Renato   Boschilia   (ORCID:   0000-0002-2737-9511)  
+https://orcid.org/0000-0002-2737-9511 
+Eduardo   Antonelli   (ORCID:   0000-0001-5029-1115)   
+https://orcid.org/0000-0001-5029-1115 
+ 
+ 

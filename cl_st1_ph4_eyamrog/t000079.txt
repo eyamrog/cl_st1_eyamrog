@@ -1,0 +1,689 @@
+Publication status: Preprint has been submitted for publication in journal
+Can risk of sarcopenia predict poorer quality of life in
+hemodialysis patients?
+Sâmia Marques Lourenço Landim, Paulo Roberto Santos, Kailane Martins Cardoso, Luciana
+Abreu Sousa, Victor Lavinas Santos
+https://doi.org/10.1590/SciELOPreprints.3352
+Submitted on: 2021-12-13
+Posted on: 2021-12-14 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Modalidade do manuscrito: 
+Artigo Original 
+ 
+Título: 
+Can risk of sarcopenia predict poorer quality of life in hemodialysis patients? 
+ 
+Título resumido: 
+Risk of sarcopenia and quality of life 
+ 
+Título em português: 
+Risco de sarcopenia pode predizer pior qualidade de vida entre pacientes em hemodiálise? 
+ 
+Título resumido em português: 
+Risco de sarcopenia e qualidade de vida 
+ 
+Nome dos autores: 
+Paulo Roberto Santos, Doutor em Ciências Médicas, ORCID https://orcid.org/0000-0002-
+3092-4808 1  
+ 
+Sâmia Marques Lourenço Landim, Mestranda, ORCID https://orcid.org/0000-0001-5983-
+557X 1  
+ 
+Kailane Martins Cardoso, Mestranda, ORCID https://orcid.org/0000-0002-7463-8600 1 
+ 
+Luciana Abreu Sousa, Mestre em Ciências da Saúde, ORCID https://orcid.org/0000-0001-
+6510-6947 1 
+ 
+Victor Lavinas Santos, Graduando, ORICID https://orcid.org/0000-0002-3151-5221 2 
+ 
+Afiliação dos autores: 
+1 Universidade Federal do Ceará, campus Sobral, Programa de Pós-graduação em Ciências da 
+Saúde, Sobral, CE, Brasil  
+ 
+2 Universidade de Fortaleza, Curso de Medicina, Fortaleza, CE, Brasil 
+ 
+Autor de correspondência: 
+Paulo Roberto Santos, Rua Bento Albuquerque 1122 apt 1602, Cocó, Fortaleza, Ceará, Brazil, 
+CEP 60.192-055 e-mail: paulonefro@outlook.com 
+ 
+Nome da agência de fomentos: 
+Não houve subsídios 
+ 
+Declaração de conflito de interesse: 
+Não há conflito de interesse 
+ 
+Contribuição dos autores: 
+ 
+Paulo Roberto Santos foi responsável pela concepção e desenho do estudo, pela interpretação 
+dos dados, assim como revisão e aprovação final do manuscrito.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+Sâmia Marques Lourenço Landim coletou os dados e contribui na escrita do manuscrito.  
+ 
+Kailane Martins Cardoso coletou os dados e contribui na escrita do manuscrito.  
+ 
+Luciana Abreu Sousa coletou os dados e contribui na escrita do manuscrito.  
+ 
+Victor Lavinas Santos contribui na escrita do manuscrito. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+ABSTRACT 
+ 
+Background: Sarcopenia and low quality of life (QOL) are widely found among hemodialysis 
+(HD) patients. We aimed to verify whether risk of sarcopenia can predict QOL level in patients 
+submitted to HD. 
+Methods: The sample was formed by 147 chronic kidney disease patients undergoing HD in 
+October 2020 at a single dialysis center.  Demographic and clinical data were collected. Risk 
+of sarcopenia was classified using the SARC-F questionnaire. QOL was evaluated by the 
+Brazilian version of the SF-36. QOL scores were compared between patients with and without 
+risk of sarcopenia. Multivariate linear regression was performed to test risk of sarcopenia as an 
+independent predictor of QOL scores. 
+Results: There were 62 (42.2%) patients classified as having risk of sarcopenia. In the 
+comparison of QOL scores between patients with and without risk of sarcopenia, scores of 
+seven dimensions were significantly lower among patients with sarcopenia risk, the only 
+exception being role-emotional. Risk of sarcopenia was an independent predictor of six 
+dimensions of QOL, except for role-emotional and mental health. 
+Conclusion: We found risk of sarcopenia to be an independent predictor of QOL among HD 
+patients. Our results point to the possibility of improving patients’ QOL by intervening to 
+minimize the risk of sarcopenia. 
+ 
+Keyword: Chronic Kidney Failure; Hemodialysis; Quality of Life; Sarcopenia 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+RESUMO 
+ 
+Introdução: Sarcopenia e baixa qualidade de vida (QV) são amplamente encontradas entre 
+pacientes em hemodiálise (HD). Nosso objetivo foi verificar se o risco de sarcopenia prediz o 
+nível de QV nesta população. 
+Métodos: A amostra foi formada por 147 pacientes em HD em outubro de 2020 em um único 
+centro de diálise. Dados demográficos e clínicos foram coletados. O risco de sarcopenia foi 
+classificado pelo questionário SARC-F. A QV foi avaliada pela versão brasileira do SF-36. Os 
+escores de QV foram comparados entre pacientes com e sem risco de sarcopenia. A regressão 
+linear multivariada foi realizada para testar o risco de sarcopenia como preditor independente 
+dos escores de QV. 
+Resultados: Havia 62 (42,2%) pacientes classificados como tendo risco de sarcopenia. 
+Comparando os escores de QV entre pacientes com e sem risco de sarcopenia, os escores de 7 
+dimensões foram significativamente menores entre os pacientes com risco de sarcopenia, 
+exceto aspectos emocionais. O risco de sarcopenia foi um preditor independente de 6 dimensões 
+da QV, exceto para aspectos emocionais e saúde mental. 
+Conclusão: O risco de sarcopenia é um preditor independente de QV entre os pacientes em 
+HD. Nossos resultados apontam para a possibilidade de melhorar a QV dos pacientes intervindo 
+para minimizar o risco de sarcopenia. 
+ 
+Palavras-chave: Falência Renal Crônica; Hemodiálise; Qualidade de vida; Sarcopenia 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+INTRODUCTION 
+ 
+Chronic kidney disease (CKD) is related to a high rate of morbidity and mortality and a high 
+cost to the health system, so it is an important public health problem. It is estimated that the 
+number of patients undergoing renal replacement therapy in Brazil is greater than 133,000 and 
+that more than 90% of these patients are on hemodialysis (HD). The prevalence and incidence 
+of these patients per million inhabitants (PMP) is 665 and 218, respectively, and has been 
+increasing due to the increase in hypertensive and diabetic patients, in addition to the aging of 
+the population1-2. 
+ 
+Sarcopenia is also considered to be an important public health problem, since it is related to 
+unfavorable clinical outcomes such as decreased quality of life (QOL), risk of falls, functional 
+disability, depression, limited mobility, hospitalization and increased mortality3-6. Sarcopenia 
+is a muscle disease associated with low muscle strength, low muscle quantity/quality and low 
+physical performance. It can be acute or chronic and can be classified as primary, when only 
+associated with aging and no other cause is evident; or secondary, when causes other than aging 
+are present. Some factors involved with the development of sarcopenia are inflammatory 
+processes, physical inactivity and inadequate intake of energy or protein. All these factors may 
+be present in individuals undergoing HD6-9.  
+ 
+The risk of sarcopenia in CKD patients is multifactorial and is worse in the advanced stages, 
+mainly in patients undergoing HD. Some factors involved with sarcopenia in CKD patients are 
+aging, inflammation, uremia, hormonal imbalance, malnutrition, anemia, metabolic acidosis, 
+electrolyte disorder, lifestyle changes and muscle fiber atrophy. Of these, inflammation is a 
+main risk for the development of sarcopenia9. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+ 
+CKD complications such as anemia, cardiovascular disease, osteodystrophy, depression and 
+sarcopenia are associated with low QOL in patients on HD10. Compared to other chronic 
+diseases, like heart failure, chronic lung disease, arthritis and cancer, patients with CKD on HD 
+present the worst QOL level11. Besides the impact on patients’ QOL coming from common 
+symptoms such as fatigue, itching, anorexia, pain, sleep disorders, anxiety and nausea; CKD 
+patients on HD experience powerful stressors: severe dietary restrictions, sexual dysfunction, 
+time loss that influences employment, dependence on a machine and high mortality10,12,13. 
+Unfortunately, several of these factors that decrease QOL are unmodifiable. 
+ 
+The association between sarcopenia and QOL is not well studied among Brazilian patients on 
+HD. Due to the extreme difficulty and lack of consensus about how to improve QOL among 
+HD patients, it is crucial to seek modifiable variables associated with lower QOL level. Risk of 
+sarcopenia can be minimized by well-known interventions. Thus, risk of sarcopenia can be a 
+potential target for medical interventions in order to improve patients’ QOL.  
+ 
+We aimed to verify if risk of sarcopenia can predict the QOL level among CKD patients 
+submitted to HD. 
+ 
+METHODS 
+ 
+Study design 
+The study was analytical, cross-sectional and observational, carried out in a single dialysis 
+center located in the city of Sobral, northern region of Ceará state. This dialysis center is a 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+reference for CKD patients from several cities covering an area of 35,560 km2 (37.3 
+inhabitants/km2). 
+ 
+Study population 
+The study population was 200 CKD patients who were undergoing HD in October 2020. The 
+sample was formed by 147 patients. The criteria for exclusion were: 3 patients with age below 
+18 years; 4 who were hospitalized; 7 with presence of advanced neurologic disease and/or 
+cognitive deficit that prevented filling out the questionnaire; 17 with active infection; and 22 
+with less than 3 months on HD. All patients were undergoing conventional HD (three sessions 
+of 4 h per week) with polysulfone dialyzers (maximum number of reuses = 12). The study 
+protocol and informed consent were approved by the ethics committee of Federal University of 
+Ceará (CAAE 31240420.5.0000.5053). 
+ 
+Demographic and clinical data 
+We used the dialysis center’s medical records to obtain the demographic data, length of time 
+on dialysis, type of vascular access and underlying etiology of CKD. The underlying renal 
+disease was classified according to clinical criteria instead of by histopathology. Classification 
+of economic class was according to criteria of the form issued by the Brazilian Association of 
+Research Institutes14. This validated instrument grades economic class into five subgroups: A 
+(best status) through E (worst status). Besides income level, its criteria include educational level 
+of the head of household and ownership of household appliances. Each patient was assigned a 
+low, medium or high risk index based on comorbidity using Khan’s comorbidity index, which 
+takes into consideration the age in three classes and nine comorbidities: diabetes, myocardial 
+infarction, angina pectoris, congestive heart failure, liver cirrhosis, obstructive pulmonary 
+disease, systemic collagen disease, pulmonary fibrosis, and visceral malignancy15. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+ 
+Measurement of quality of life (QOL) 
+The QOL was evaluated by the validated Brazilian version of the Medical Outcomes Study 36-
+Item Short Form Health Questionnaire (SF-36). This questionnaire generates scores from 0 
+(worst) to 100 (best) for 8 dimensions of QOL related to physical, psychological and social 
+functioning: physical functioning (PF), role-physical (RP), bodily pain (BP), general health 
+(GH), vitality (VT), social functioning (SF), role-emotional (RE) and mental health (MH). PF 
+measures the patient’s performance regarding daily activities; RP analyzes the impact of 
+physical health on life; BP evaluates pain level and its impact on normal daily activities; GH 
+evaluates the subjective perception of the present and future health status and resistance to 
+illness; VT measures the patient’s feelings about his/her energy level, vitality, and moments of 
+fatigue; SF measures the impact of health on routine social activities; RE measures the 
+influences of emotional status on daily activities; and MH assesses humor and well-being, 
+including depression and anxiety16. 
+ 
+Risk of sarcopenia 
+We used the validated SARC-F questionnaire as a diagnostic test for risk of sarcopenia. This 
+questionnaire is composed of five components (strength, assistance with walking, rising from 
+a chair, climbing stairs, and falls), ranging from 0 to 10, with a maximum of 2 points for each 
+component. The presence of risk of sarcopenia is classified with a score greater than or equal 
+to 417-19. 
+ 
+Statistical analyses 
+Shapiro’s test was used to test the normal distribution of the continuous variables, which were 
+expressed as mean ± SD or median (min-max), respectively, if they presented normal or 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+abnormal distribution. Categorical variables are denoted by absolute number and percentage. 
+Comparisons were performed by the Student-t and Mann–Whitney tests for continuous 
+variables, respectively, with or without normal distribution. We performed multivariate linear 
+regression to find independent predictors of QOL scores (dependent variables) considering as 
+independent variables: male gender, age, comorbidity index, and risk of sarcopenia. Statistical 
+significance was considered to be a p-value < 0.05. All the statistical analyses were performed 
+using the SPSS version 22.0 program package. 
+ 
+RESULTS 
+ 
+Demographic and clinical characteristics of the sample are reported in Table 1. There were 62 
+(42.2%) patients classified as having risk of sarcopenia. The comparison of QOL scores 
+between patients with and without risk of sarcopenia is reported in Table 2. Only the dimension 
+RE did not differ in the comparisons. In the multivariate analysis, the presence of risk of 
+sarcopenia was an independent predictor for the scores of six among eight dimensions of QOL, 
+the exceptions being RE and MH (Table 3). 
+ 
+Table 1 – Sample characteristics 
+Variables 
+ 
+Gender, N(%) 
+Male 
+Female 
+ 
+104 (70.7) 
+43 (29.3) 
+Age,  mean ± SD 
+55.4 ± 16.9   
+Social class, N(%) 
+A 
+B 
+C 
+D 
+ 
+1 (0.7) 
+18 (12.2) 
+71 (48.3) 
+54 (36.8) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+E 
+3 (2.0) 
+Renal disease, N(%) 
+Hypertensive nephropathy 
+Glomerulonephritis 
+Diabetic nephropathy 
+Obstructive uropathy 
+Polycystic kidney disease 
+Chronic pyelonephritis 
+Lupus 
+Undetermined 
+ 
+45 (30.6) 
+30 (20.4) 
+21 (14.3) 
+11 (7.5) 
+9 (6.1) 
+2 (1.4) 
+3 (2.0) 
+26 (17.7) 
+Time on hemodialysis, months 
+51.2 ± 45.8 
+Vascular access, N(%) 
+Fistula 
+Catheter 
+ 
+120 (81.7) 
+27 (18.3) 
+Comorbidity index, N(%) 
+Low 
+Medium 
+High 
+ 
+58 (39.5) 
+50 (34.0) 
+39 (26.5) 
+ 
+ 
+Table 2 - Comparison of quality of life scores between patients with and without risk of 
+sarcopenia 
+Dimensions of  
+quality of life 
+Without risk 
+With risk 
+Whole sample         P 
+PF, median(min-max)  
+70 (10-100) 
+25 (0-90) 
+55 (0-100) 
+<0.001 
+RP, median(min-max) 
+25 (0-75) 
+0 (0-100) 
+0 (0-100) 
+<0.001 
+BP, median(min-max) 
+74 (0-100) 
+47 (0-100) 
+62 (0-100) 
+<0.001 
+GH, mean ± SD 
+50.0 ± 42.2 
+22.7 ± 20.9 
+63.4 ± 32.0 
+0.032 
+VT, median(min-max) 
+70 (20-100) 
+55 (0-90) 
+65 (0-100) 
+<0.001 
+SF, median(min-max) 
+87.5 (0-100) 
+62.5 (0-100) 
+75 (0-100) 
+<0.001 
+RE, mean ± SD 
+53.3 ± 43.4 
+45.7 ± 44.8 
+50.1 ± 44.0 
+0.300 
+MH, median(min-max) 
+84 (20-100) 
+74 (16-100) 
+76 (16-100) 
+0.029 
+PF: Physical functioning; RP: Role-physical; BP: Bodily pain; GH: General health; VT: 
+Vitality; SF: Social functioning; RE: Role-emotional; MH: Mental health. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+Table 3 – Linear regression for multivariate analysis of predictors of quality of life 
+scores 
+Dimensions of 
+quality of life 
+Predictors 
+Coefficient 
+P 
+PF 
+Risk of sarcopenia 
+5.286 
+<0.001 
+Male gender 
+0.829 
+0.408 
+Age 
+1.467 
+0.144 
+Comorbidity index 
+2.207 
+0.028 
+RP 
+Risk of sarcopenia 
+4.879 
+<0.001 
+Male gender 
+3.494 
+<0.001 
+Age 
+0.926 
+0.355 
+Comorbidity index 
+1.124 
+0.262 
+BP 
+Risk of sarcopenia 
+3.749 
+<0.001 
+Male gender 
+0.410 
+0.682 
+Age 
+1.234 
+0.219 
+Comorbidity index 
+0.455 
+0.649 
+GH 
+Risk of sarcopenia 
+2.336 
+0.020 
+Male gender 
+0.282 
+0.777 
+Age 
+2.793 
+0.005 
+Comorbidity index 
+1.587 
+0.114 
+VT 
+Risk of sarcopenia 
+3.159 
+0.002 
+Male gender 
+0.725 
+0.469 
+Age 
+0.823 
+0.411 
+Comorbidity index 
+2.045 
+0.042 
+SF 
+Risk of sarcopenia 
+4.271 
+<0.001 
+Male gender 
+1.875 
+0.062 
+Age 
+1.615 
+0.108 
+Comorbidity index 
+0.821 
+0.412 
+RE 
+Risk of sarcopenia 
+0.712 
+0.477 
+Male gender 
+0.930 
+0.353 
+Age 
+1.627 
+0.106 
+Comorbidity index 
+0.657 
+0.512 
+MH 
+Risk of sarcopenia 
+1.662 
+0.098 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+Male gender 
+1.418 
+0.158 
+Age 
+0.168 
+0.866 
+Comorbidity index 
+1.102 
+0.272 
+PF: Physical functioning; RP: Role-physical; BP: Bodily pain; GH: General health; VT: 
+Vitality; SF: Social functioning; RE: Role-emotional; MH: Mental health. 
+ 
+DISCUSSION 
+ 
+The characteristics of our sample were similar to those related to living in underdeveloped 
+areas: low average age, low economic class, only 26.5% classified as having high comorbidity 
+index, and predominance of glomerulonephritis as cause of CKD instead of diabetes. Despite 
+the low average age and low comorbidity level, we found a high percentage (42.2%) of patients 
+with risk of sarcopenia.  
+ 
+Sarcopenia is a condition associated with aging and chronic diseases due to the increased 
+catabolism that exists in these conditions. Patients on HD have even greater catabolism, which 
+increases the risk of sarcopenia20-22. The sarcopenic state has been associated with worse QOL 
+dimensions, especially with regard to physical aspects, as found in our study. This is due to the 
+fact that it is related to greater physical frailty, greater risk of falls and greater dependence on 
+others for daily activities6,23. A multicenter study carried out among elderly patients on HD 
+showed that sarcopenic patients had worse QOL compared to non-sarcopenic patients, with SF-
+36 scores below 50 among sarcopenic patients22. In our sample of patients with mean age of 
+55.4 years, we found the same result: sarcopenia was associated with lower QOL in the majority 
+of QOL dimensions. It is noteworthy that the dimensions of QOL that were not associated with 
+sarcopenia were the dimensions characterized as mental: RE and MH. As expected, physical 
+aspects of QOL were more affected in patients classified as at risk of sarcopenia. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+In addition, a literature review evaluated six studies on sarcopenia and QOL. Of these studies, 
+five used the same instrument to evaluate QOL as ours, the SF-36. This review shows the 
+association of sarcopenia with an important decline in QOL6. However, it will be necessary to 
+evaluate particularities in specific groups, such as women and younger patients. At least one 
+study evaluated the relationship between sarcopenia, sarcopenic obesity and QOL in elderly 
+women and did not find a significant relationship between sarcopenia and QOL23. Based on our 
+study, male gender was not a predictor of lower QOL level. In a population-based sample of 
+healthy young people, Kull et al.24 also found that individuals with sarcopenia presented lower 
+scores in the dimensions RP and VT, two typical dimensions related to physical aspects.  
+ 
+Among the types of renal replacement therapy, HD is highlighted as the one that affects most 
+patients’ QOL. The QOL of patients with CKD has been found to be worse in those undergoing 
+HD than those undergoing peritoneal dialysis or kidney transplantation25-28. There is growing 
+interest in considering QOL of patients undergoing HD, but there is no consensus about how to 
+improve these patients’ QOL. This difficulty is certainly due to the fact that the main factors 
+negatively affecting QOL are unmodifiable. Our interest in sarcopenia is based on the fact that 
+sarcopenia is a modifiable factor. There are many strategies to minimize the risk of sarcopenia 
+in HD patients, comprising adapted exercise programs, nutritional approaches and 
+pharmacologic interventions. Formal exercise prescription designed to increase muscle strength 
+can be achieved by resistance exercises that can be performed even during dialysis sessions. 
+Nutritional supplementation with Polycose and oral branched-chain amino acids seems to be 
+promising to increase lean body mass. Also, anabolic strategies are effective at minimizing 
+sarcopenia, including the use of anabolic steroids, growth hormones and testosterone8,29-33. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+In our multivariate linear regression, the risk of sarcopenia was a statistically significant 
+predictor of virtually all dimensions of QOL, except for the RE and MH. Concerning the other 
+variables used in the multivariate analysis, age was a predictor only for the dimension of GH; 
+and higher comorbidity index was predictor of PF and VT scores.  
+ 
+The high percentage of patients with risk of sarcopenia in a sample of relatively young 
+individuals is noteworthy. We have no doubt that a simple questionnaire, quickly applied, such 
+as SARC-F, can be useful in screening patients at risk of sarcopenia in dialysis centers. In that 
+respect, classifying patients with risk of sarcopenia can be a first step to recommend 
+interventions to minimize sarcopenia, as well as the hard but necessary task of improving 
+patients’ QOL. 
+ 
+CONCLUSION 
+ 
+We found risk of sarcopenia to be a strong and independent predictor of QOL among HD 
+patients. Since sarcopenia risk can be diminished by several interventions, we propose 
+conducting routine screening of sarcopenia risk as a way to help improve patients’ QOL. 
+ 
+REFERENCES 
+ 
+1. Neves PDMM, Sesso RCC, Thomé FS, Lugon JR, Nascimento MM. Brazilian dialysis 
+survey 2019. Braz J Nephrol 2021;43(2):217-227. doi: 10.1590/2175-8239-jbn-2020-0161. 
+2. Neves PDMM, Sesso RCC, Thomé FS, Lugon JR, Nascimento MM. Brazilian dialysis 
+census: analysis of data from the 2009-2018 decade. Braz J Nephrol 2020 Mai;42(2):191-200. 
+doi: 10.1590/2175-8239-jbn-2019-0234. 
+3. Beaudart C, Biver E, Reginster JY, Rizzoli R, Rolland Y, Bautmans I, Petermans J, Gillain 
+S, Buckinx F, Dardenne N, Bruyère O. Validation of the SarQoLâ, a specific health-related 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+quality of life questionnaire for sarcopenia. J Cachexia Sarcopenia Muscle 2017;8(2):238-244. 
+doi: 10.1002/jcsm.12149. 
+4. Magalhães AM, Dias DA, Menezes KKP, Alves LC, Ferreira MCC, Silva SF. Avaliação de 
+força, independência e qualidade de vida do paciente em hemodiálise. Rev Neurocienc 
+2020;28:1-24. doi: 10.1002/jcsm.12149 
+5. Farias DH, Melo BC, Minatel V, Calles ACN, Lira JLF. Sarcopenia e sua influência na 
+mobilidade de pacientes com doença renal crônica: uma revisão sistemática. Cons Saude 
+[Internet] 
+2019 
+Jun 
+30 
+[cited 
+2021 
+Apr 
+20];18(2):293-300. 
+Availiable 
+from: 
+https://doi.org/10.5585/ConsSaude.v18n2.10546.  
+6. Tsekoura M, Kastrinis A, Katsoulaki M, Billis E, Gliatis J. Sarcopenia and its impact on 
+quality of life. GeneDis 2016. Adv Exp Med Biol. 2017;987:213-218. Availiable from 
+https://doi.org/10/1007/978-3-319-57379-3_19. 
+7. Cruz-Jentoft AJ, Bahat G, Bauer J, Boirie Y, Bruyère O, Cederholm T, Cooper C, Landi F, 
+Rolland Y, Sayer AA, Schneider SM, Sieber CC, Topinkova E, Vandewoude M, Visser M, 
+Zamboni M. Sarcopenia: Revised European consensus on definition and diagnosis. Age Ageing 
+2019;48(1):16-31. doi: 10.1093/ageing/afy169. 
+8. Sousa VA, Oliveira D, Mansur HN, Fernandes NMS, Bastos MG. Sarcopenia in chronic 
+kidney disease. Braz J Nephrol 2015;37:98-105. doi: 10.5935/0101-2800.20150014 
+9. Foley RN, Wang C, Ishani A, Collins AJ, Murray AM. Kidney function and sarcopenia in 
+the United States general population: NHANES III. Am J Nephrol 2007 May;27(3):279-286. 
+doi: 10.1159/000101827. 
+10. Santos PR. Qualidade de vida entre pacientes com doença renal crônica em hemodiálise: 
+seguimento de dois anos [tese]. Fortaleza: Universidade Federal do Ceará; 2009.  
+11. Mittal SK, Ahern L, Flaster E, Maesaka JK, Fishbane S. Self-assessed physical and mental 
+function of haemodialysis patients. Nephrol Dial Transplant 2001;16(7):1387-1394. doi: 
+10.1093/ndt/16.7.1387. 
+12. Jesus NM, Souza GF, Mendes-Rodrigues C, Almeida Neto OP, Rodrigues DDM, Cunha 
+CM. Quality of life of individuals with chronic kidney disease on dialysis. Braz J Nephrol 
+2019;41(3):364-374. doi: 10.1590/2175-8239-JBN-2018-0152. 
+13. Murtagh FEM, Addington-Hall J, Higginson IJ. The prevalence of symptoms in end-stage 
+renal disease: a systematic review. Adv Chronic Kidney Dis 2007;14(1):82-99. doi: 
+10.1053/j.ackd.2006.10.001 
+14. Associação Brasileira de Empresas e Pesquisa. Alterações na aplicação do Critério Brasil. 
+ABEP – Associação Brasileira Econômica de Pesquisa 2019:1-6. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+15. Khan IH. Comorbidity: the major challenge for survival and quality of life in end-stage 
+renal disease. Nephrol Dial Transplant 1998;13:76-79. doi:10.193/ndt/13.suppl_1.76. 
+16. Ciconelli RM, Ferraz MB, Santos W, Meinão I, Quaresma MR. Tradução para a língua 
+portuguesa e validação do questionário genérico de avaliação de qualidade de vida SF-36 
+(Brasil SF-36). Rev Bras Reumatol 1999 mai/jun;39(3):143-150. 
+17.Malmstrom TK, Morley JE. SARC-F: A simple questionnaire to rapidly diagnose 
+sarcopenia. J Am Med Directors Assoc [Internet] 2013 Aug;14(8):531-532. Available from: 
+http://dx.doi.org/10.1016/j.jamda.2013.05.018 
+18. Yang M, Hu X, Xie L, Zhang L, Zhou J, Lin J, Wang Y, Li Y, Han Z, Zhang D, Zuo Y, Li 
+Y, Wu L . SARC-F for sarcopenia screening in community-dwelling older adults are 3 items 
+enough? Medicine [Internet] 2018 [cited 2020 Jan 21];97(30). Available from: 
+http://dx.doi.org/10.1097/MD.0000000000011726 
+19. Piotrowicz K, Głuszewska A, Czesak J, Fedyk-Łukasik M, Klimek E, Sánchez-Rodríguez 
+D, Skalska A, Gryglewska B, Grodzicki T, Gasowski J. SARC-F as a case-finding tool for 
+sarcopenia according to the EWGSOP2. National validation and comparison with other 
+diagnostic standards. Aging: Clinical and Experimental Research [Internet] 2021; Available 
+from: https://doi.org/10.1007/s40520-020-01782-y. 
+20. Teixeira VON, Filippin LI, Xavier RM. Mecanismos de perda muscular da sarcopenia. Rev 
+Bras Reumatol 2012;52(2):247-259. 
+21. Moorthi RN, Avin KG. Clinical relevance of sarcopenia in chronic kidney disease. Curr 
+Opin Nephrol Hypertens 2017 May 1;26(3):219-228. doi: 10.1097/MNH.0000000000000318. 
+22. Pardo FL. Sarcopenia em pacientes idosos com doença renal crônica em hemodiálise 
+[dissertação]. Rio de Janeiro (RJ): Universidade do Estado do Rio de Janeiro; 2012. 
+23. Silva Neto LS, Karnikowiski MGO, Tavares AB, Lima RM. Associação entre sarcopenia, 
+obesidade sarcopênica e força muscular com variáveis relacionadas de qualidade de vida em 
+idosas. Rev Bras Fisioter 2012 Sep;16(5):360-367. doi: 10.1590/S1413-35552012005000044. 
+24. Kull M, Kallikorm R, Lember M. Impact of a new sarco-osteopenia definition on health-
+related quality of life in a population-based cohort in Northern Europe. J Clin Densitometry 
+2012 Jan;15(1):32-38. doi: 10.1016/j.jocd.2011.08.007. 
+25. Chuasuwan A, Pooripussarakul S, Thakkinstian A, Ingsathit A, Pattanaprateep O. 
+Comparisons of quality of life between patients underwent peritoneal dialysis and 
+hemodialysis: a systematic review and meta-analysis. Health Qual Life Outcomes 2020;18:1-
+11. doi: 10.1186/s12955-020-01449-2. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+26. Chen JY, Wan EYF, Choi EPH, Chan AKC, Chan KHY, Tsang JPY, Lam CLK. The health-
+related quality of life of chinese patients on hemodialysis and peritoneal dialysis key points for 
+decision makers. Patient 2017;10:799-808. doi: 10.1007/s40271-017-0256-6. 
+27. Gonçalves FA, Dalosso IF, Borba JMC, Bucaneve J, Valerio NMP, Okamoto CT, Bucharles 
+SGE. Qualidade de vida de pacientes renais crônicos em hemodiálise ou diálise peritoneal: 
+estudo comparativo em um serviço de referência de Curitiba – PR. Braz J Nephrol 2015 Oct 
+1;37(4):467-474. doi: 10.5935/0101-2800.20150074. 
+28. Czyżewski Ł, Sańko-Resmer J, Wyzgał J, Kurowski A. Assessment of health-related quality 
+of life of patients after kidney transplantation in comparison with hemodialysis and peritoneal 
+dialysis. Ann Transplant. 2014 Nov 9;19(1):576–585. doi: 10.12659/AOT.891265. 
+29. Hernandez HJ, Obamwonyi G, Harris-Love MO. Physical Therapy Considerations for 
+Chronic Kidney Disease and Secondary Sarcopenia. J Funct Morphol Kinesiol 2018 Jan 
+5;3(1):1-12. doi: 10.3390/jfmk3010005. 
+30. Yu R, Chen J, Xu J, Cao J, Wang Y, Thomas SS, Hu Zhaoyong. Supression of muscle 
+wasting by the plant-derived compound ursolic acid in a model of chronic kidney disease. J 
+Cachexia Sarcopenia Muscle 2017;8:327-341. doi: 10.1002/jcsm.12162. 
+31. Chatzipetrou V, Bégin MJ, Hars M, Trombetti A. Sarcopenia in chronic kidney disease: a 
+scoping review of prevalence, risk factors, association with outcomes and treatment. Calcif 
+Tissue Int [Internet] 2021 Aug 12. Available from: https://doi.org/10.1007/s00223-021-00898-
+1. 
+32. Watanabe H, Enoki Y, Maruyama T. Sarcopenia in chronic kidney disease: factors, 
+mechanisms and therapeutic interventions. Biol Pharm Bull 2019;42:1437-1445. doi: 
+10.1248/bpb.b19-00513. 
+33. Ikizler TA, Cano NJ, Franch H, Fouque D, Himmelfarb J, Kalantar-Zadeh K, Martin KK, 
+Stenvinkel P, TerWee P, Teta D, Wang AY, Wanner C. Prevention and treatment of protein 
+energy wasting in chronic kidney disease patients: a consensus statement by the International 
+Society of Renal Nutrition and Metabolism. Kidney Int 2013 May 22;84(6):1096-1107. 
+doi:10.1038/ki.2013.147. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3352
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

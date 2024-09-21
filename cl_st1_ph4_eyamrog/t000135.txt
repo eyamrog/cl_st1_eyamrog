@@ -1,0 +1,1088 @@
+Status: Preprint has been submitted for publication in journal
+Impact of the COVID-19 pandemic on Prenatal, Diabetes and
+medical appointments in the Brazilian National Health System
+Luiz Alexandre  Chisini,  Eduardo Dickie de  Castilhos, Francine dos Santos  Costa, Otávio
+Pereira  D’Avila
+https://doi.org/10.1590/1980-549720210013
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+Submitted on (YYYY-MM-DD): 2021-03-09
+Posted on (YYYY-MM-DD): 2021-03-09
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Artigo especial 
+DOI: 10.1590/1980-549720210013 
+e210013 
+ 
+Impact of the COVID-19 pandemic on Prenatal, Diabetes and medical 
+appointments in the Brazilian National Health System 
+Impacto da pandemia COVID-19 no Pré-natal, Diabetes e consulta médica no Sistema 
+Único de Saúde Brasileiro 
+Running title: COVID-19 and Brazilian National Health System 
+ 
+Luiz Alexandre Chisini, ORCID: https://orcid.org/0000-0002-3695-0361 
+Biological and Health Sciences Center, Graduate Program in Dentistry, University of 
+Vale do Taquari, Lajeado, RS, Brazil. 
+ Eduardo Dickie de Castilhos, ORCID: https://orcid.org/0000-0002-7072-6558 
+Department of Social and Preventive Dentistry, Graduate Program in Dentistry, Federal 
+University of Pelotas, Pelotas, RS, Brazil. Address: 457, Gonçalves Chaves St. 4th floor, 
+Pelotas – Brazil. 
+Francine dos Santos Costa, ORCID: https://orcid.org/0000-0001-9558-937X 
+Biological and Health Sciences Center, Graduate Program in Dentistry, University of 
+Vale do Taquari, Lajeado, RS, Brazil.  
+Otávio 
+Pereira 
+D’Avila, 
+ORCID: 
+https://orcid.org/0000-0003-1852-7858 
+Department of Social and Preventive Dentistry, Graduate Program in Dentistry, Federal 
+University of Pelotas, Pelotas, RS, Brazil. Address: 457, Gonçalves Chaves St. 4th floor, 
+Pelotas – Brazil. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+2 
+ 
+Corresponding author: Luiz Alexandre Chisini - Graduate Program in Dentistry – 
+Universidade do Vale do Taquari - Address: 171, Avelino Talini St. Lajeado - RS - 
+Brazil - ZIP: 95914-014 - Pelotas, Brazil - email: alexandrechisini@gmail.com 
+ 
+Declarations of interest: none 
+Funding: none 
+ 
+Statement of author contributions: LAC and FSC conceived the ideas, analyzed the 
+data, collected the data and wrote the paper. OPD and EDC conceived the ideas, 
+collected the data and wrote the paper. 
+ 
+Conflict of interest:  
+Luiz Alexandre Chisini has no conflict of interest; Eduardo Dickie de Castilhos has no 
+conflict of interest; Francine dos Santos Costa has no conflict of interest; Otávio Pereira 
+D’Avila has no conflict of interest 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+3 
+ 
+Abstract 
+Objectives: the purpose of this study was to describe the impact of the COVID-19 
+pandemic on Primary Health Care in Brazil.  
+Methods: This retrospective ecological study was carried out using Brazilian 
+municipality data obtained from the information systems of the National Public Health 
+System. The outcomes were medical appointments, prenatal procedures and diabetes 
+care. The exposure variable was the occurrence of the COVID-19 pandemic, based on 
+the first case notified in Brazil. Multilevel mixed-effects negative binomial regression 
+was used to analyze the association between the number of procedures per 10,000 
+inhabitants and COVID-19. 
+Results: Data from 5,564 Brazilian municipalities were included in the present study. 
+Regarding medical appointments, the largest reduction occasioned by the pandemic 
+occurred in May (IRR = 0.27, CI 95% [0.24 – 0.30]). As far as prenatal procedures are 
+concerned, the reduction was 65% (IRR= 0.35, CI 95% [0.32 – 0.38], also in May. In 
+addition, diabetes care saw the biggest reductions in April 2020 (IRR = 0.24, CI 95% 
+[0.11 – 0.53]) and May 2020 (IRR = 0.19, CI 95% [0.09 – 0.43]). From February to 
+December 2020, the pandemic had a significant effect on the total number of procedures 
+evaluated. 
+Conclusion: The findings showed a reduction in prenatal procedures, diabetes and 
+medical consultations performed in Brazil’s Primary Health Care, subsequent to the 
+onset of the COVID-19 pandemic.  
+Keywords: COVID-19, Prenatal Care, Diabetes, Medical Care, Primary Health Care 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+4 
+ 
+Resumo 
+Objetivos: o objetivo do estudo foi descrever o impacto da pandemia COVID-19 na 
+Atenção Primária à Saúde Brasileira. 
+Métodos: Estudo ecológico retrospectivo realizado com dados de municípios 
+Brasileiros dos sistemas de informação do Sistema Único de Saúde. Os desfechos do 
+estudo foram as consultas médicas, procedimentos de pré-natal e tratamento de diabetes. 
+A exposição foi a ocorrência da pandemia de COVID-19, a partir do primeiro caso 
+notificado no Brasil. Regressões binomiais negativas de efeitos mistos multinível foram 
+utilizadas para analisar a associação entre o número de procedimentos por 10.000 
+habitantes e a pandemia de COVID-19. 
+Resultados: Dados de 5.564 municípios brasileiros foram incluídos no presente estudo. 
+Em relação à consulta médica, a maior redução devido à pandemia ocorreu em maio 
+(IRR = 0,27, IC 95% [0,24 - 0,30]). Para os procedimentos de pré-natal, a redução foi 
+de 65% (IRR= 0.35, IC 95% [0.32 – 0.38]) em maio. Ainda assim, os procedimentos de 
+tratamento do diabetes tiveram maiores reduções em abril (IRR = 0,24, IC 95% [0,11 - 
+0,53]) e maio (IRR = 0,19, IC 95% [0,09 - 0,43]) de 2020. De fevereiro a dezembro de 
+2020 a pandemia impactou significantemente no total de procedimentos avaliados. 
+Conclusão: Os achados mostraram uma redução de procedimentos de pré-natal, 
+diabetes e consultas médicas realizadas na Atenção Primária à Saúde do Brasil, após o 
+início da pandemia de COVID-19. 
+ 
+Palavras-chave: COVID-19, Cuidados Pré-natais, Diabetes, Cuidados médicos, 
+Atenção Primária à Saúde 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+5 
+ 
+Introduction 
+Since 2019, the coronavirus pandemic has changed the global picture and the 
+organization of health services 1-4. The first case of COVID-19 in Brazil was recorded in 
+February and from then until December 2020, almost 200 thousand lives have been lost 
+and almost 8 million cases notified 5. The problems related to the health systems’ 
+capacity to cope with the consequences of the pandemic worldwide are well 
+documented in the literature and the limitations go far beyond attending cases of the 
+disease. The problems are also related to attending the other health demands of the 
+population 6. 
+The Unified Health System in Brazil (SUS) covers almost 75% of the Brazilian 
+population in the country, while the supplementary health care system caters to the 
+remaining 25%. In the context of the pandemic, the System is expected to be equipped 
+to provide assistance to the growing number of cases of COVID-19 while still attending 
+to other acute and chronic conditions 7. Unfortunately, deficiencies in Brazil’s 
+healthcare networks, which are still fragmented and inadequate, the lack of coordination 
+between health care hierarchies as well as underfunding, have become even more 
+evident during the pandemic 7, 8.  
+Primary Health Care (PHC) has played an essential role in the context of the 
+pandemic with effective care coordination 9. PHC can be responsible for maintaining 
+preventive actions, attending to priority groups and responding to certain emergency 
+cases related to chronic diseases 7, 10. In addition, it plays an important role in containing 
+the dissemination and monitoring of mild or asymptomatic cases in home isolation, in 
+addition to engaging with the community. The impact of the pandemic on PHC and 
+health services in Brazil with regard to some aspects of care is not yet known. Thus, the 
+purpose of this article was to describe the impact of the COVID-19 pandemic on 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+6 
+ 
+Primary Health Care with regard to medical appointments, diabetes care and prenatal 
+procedures in the National Health System in Brazil. 
+ 
+ 
+Methods 
+Study design 
+This is an ecological, retrospective, observational study using secondary data 
+from several public databases, comprising all 5,564 Brazilian municipalities and with 
+data from information systems in the National Public System (Sistema Único de Saúde - 
+SUS). This equates to 99.9% of Brazil’s 5,570 municipalities. All of the data that 
+comprised the study variables were extracted from secondary databases in the public 
+domain, not therefore requiring approval from the Research Ethics Committee. Data 
+collection was carried out by a single researcher in February 2021. 
+Outcomes 
+      
+The outcomes of the present study were the rate of medical procedures, with 
+information 
+available 
+on 
+the 
+Outpatient 
+Information 
+System 
+(SIA-SUS; 
+http://sia.datasus.gov.br/principal/index.php). The procedures were categorized into 
+three groups: a) Medical appointments (home appointments /care and medical 
+appointments in Primary Health Care); b) Prenatal procedures (prenatal appointments of 
+partner, prenatal appointments, puerperal appointments, fast-testing for HIV detection in 
+the expectant mother or father/partner, fast-testing of pregnancy, fast-testing for syphilis 
+in the expectant mother or father/partner), c) Diabetes care (diabetes treatment, diabetic 
+foot examination, research into glucose in urine). We also calculated the total number of 
+the abovementioned procedures. Thus, the absolute number of procedures per 10,000 
+inhabitants was calculated monthly (February to December of 2018, 2019 and 2020) for 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+7 
+ 
+each group. Estimates of inhabitants in 2019 were based on information provided by the 
+Brazilian Institute of Geography and Statistics (IBGE; http://www.ibge.gov.br) 
+ 
+ 
+Exposure 
+The exposure variable was the occurrence of the COVID-19 pandemic and seeks 
+to estimate the impact of Sars-Cov-19 on the Public Health System in Brazil. The figure 
+for the rate of procedures in the current pandemic (February to December 2020) was 
+monthly, compared (to avoid seasonal variations) to the rate of procedures in the 
+equivalent months in 2019 and 2018 (pre-pandemic). We are assuming that the first 
+confirmed case of Sars-Covid-19 in Brazil occurred in February 2020. 
+ 
+Covariables 
+The confounding variable evaluated in the present study was the population size 
+of municipalities, which was obtained from the Brazilian Institute of Geography and 
+Statistics and categorized as a) ≤ 20,000 inhabitants; b) 20,001 to 50,000 inhabitants; c) 
+50,001 to 150,000 inhabitants; d) > 150,000 inhabitants 11. Data relating to coverage by 
+the Family Health Strategy and Oral Health Teams were collected monthly (Proportion 
+-%) at the municipality level. They were obtained from the information and 
+management of primary care databases and were categorized as follows: a) absent (0%); 
+b) incipient (< 30%); c) intermediate (30 - 70%); and d) consolidated (≥ 70%). 
+Municipalities with an HDI below 0.55 were classified as low HDI, between 0.55 and 
+0.699 as average HDI, between 0.70 and 0.799 as high HDI and with HDI of 0.80 or 
+more as very high. The Gini index (collected from the databases of the United Nations 
+Development Program, http://www.atlasbrasil.org.br/2013/) was used continuously in 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+8 
+ 
+the model. Brazil is geopolitically divided into five regions, namely: Southeast, South, 
+Midwest, North and Northeast. The proportion of physicians and nurses per 10,000 
+inhabitants for 2020 was collected from the National Register of Health Establishments 
+(CNES), human resources section. Additionally, we calculated the rate of basic health 
+units per 10,000 inhabitants. 
+Data analysis 
+The 
+analysis 
+was 
+performed 
+using 
+STATA 
+16.0 
+software 
+(https://www.stata.com). Descriptive analysis was performed using mean rates, standard 
+deviation, minimum, maximum and median of the variables. Multilevel mixed-effects 
+negative binomial regression was used to analyze the association between the 
+procedures and the impact of COVID-19, from February 2018 to December 2020. A 
+stepwise backward procedure was used to select variables in the adjusted model. Only 
+variables presenting a p-value < 0.250 were retained in the final model. Incidence rate 
+ratios and 95% confidence intervals were estimated in the regressions. 
+ 
+ 
+Results 
+Of Brazil’s 5,570 municipalities, 99.9% were included in the present sample. 
+Table 1 displays the description of the rates of procedures and the respective 
+characteristics of the co-variables. The mean rate of medical appointment procedures 
+per 10 thousand inhabitants/month, considering the period prior to the pandemic, was 
+424.1 (SD 5,626.2) procedures and during the pandemic period, 232.7 (SD 1,471.3). 
+The rate of prenatal procedures prior to the pandemic was 23.6 (SD 759.8) and 13.2 (SD 
+650.6) for the period of the pandemic. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+9 
+ 
+ 
+      Table 1. Description of procedure rates and characteristics of health services in 
+Brazilian municipalities (N = 5,564) 
+ 
+ 
+Variables 
+ 
+Mean 
+ 
+SD 
+ 
+ 
+Minimum 
+ 
+ 
+ 
+Median 
+ 
+ 
+ 
+Maximum 
+Rate of medical appointment procedures per 10 
+thousand inhabitants/month, Feb to Dec 
+2018/2019 (SIA-SUS) 
+424.1 
+5,626.2 
+0 
+0 
+805,915.3 
+Rate of medical appointments per 10 thousand 
+inhabitants/month, Feb to Dec 2020 (SIA-SUS) 
+232.7 
+1,471.3 
+0 
+0 
+156,979.9 
+Rate of prenatal procedures per 10 thousand 
+inhabitants/month, Feb to Dec 2018/219 (SIA-
+SUS) 
+23.6 
+759.8 
+0 
+0 
+158,461.7 
+Rate of prenatal procedures per 10 thousand 
+inhabitants/month, Feb to Dec 2020 (SIA-SUS) 
+13.2 
+650.6 
+0 
+0 
+155,895.1 
+Rate of diabetes care per 10 thousand 
+inhabitants/month, Feb to Dec 2018/2019 (SIA-
+SUS) 
+2.8 
+212.1 
+0 
+0 
+67,138.4 
+Rate of diabetes care per 10 thousand 
+inhabitants/month, Feb to Dec 2020 (SIA-SUS) 
+ 
+0.13 
+5.1 
+0 
+0 
+1,094.6 
+Family health strategy coverage as % of 
+inhabitants, 2020 (SIAB) 
+89.7 
+20.9 
+0 
+100 
+100 
+IDH of Brazilian municipalities 2010 (UNDP) 
+0.66 
+0.07 
+0.42 
+0.66 
+0.86 
+Gini index of Brazilian municipalities 2010 
+(UNDP) 
+0.50 
+0.07 
+0.28 
+0.50 
+0.81 
+Rate of basic health unities per 10 thousand 
+inhabitants, 2020 (CNES) 
+0.000035 
+0.0001951 
+0 
+0.0003325 
+0.0018981 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+10 
+ 
+Rate of physicians per 10 thousand inhabitants, 
+2020 (CNES) 
+0.011 
+0.0049 
+0 
+0.010 
+0.066 
+Rate of nurses per 10 thousand inhabitants, 2020 
+(CNES) 
+0.0009 
+0.0005 
+0 
+0.0008 
+0.006 
+SD: Standard deviation 
+ 
+ 
+Table 2 displays the incidence rate ratio of the monthly investigated procedures 
+in accordance with the period of the pandemic and compared with the respective months 
+in 2018 and 2019. Considering the total rate of procedures, a significant decrease was 
+also observed in February (IRR = 0.60, CI 95% [0.55 – 0.64]); this decrease was even 
+greater in March (IRR = 0.48, CI 95% [0.45 – 0.52]) and April (IRR = 0.27, CI 95% 
+[0.25 – 0.29]); it remained significant throughout the period of assessment. 
+A similar trend was observed for medical appointments, which fell by 36% in 
+February (IRR = 0.64, CI 95% [0.57 – 0.72]) with the biggest reduction occurring in 
+May (IRR = 0.27, CI 95% [0.24 – 0.30]), remaining significant until December. A 
+steady decrease was also observed in prenatal procedures, starting with a reduction of 
+36% in February. The reduction was less evident in June (IRR = 0.63, CI 95% [0.59 – 
+0.66]) and September (IRR = 0.61, CI 95% [0.58 – 0.65]). On the other hand, the 
+number of diabetes treatment procedures did not fall significantly in February (IRR = 
+1.51, CI 95% [0.88 – 2.61]) or March (IRR = 0.58, CI 95% [0.33 – 1.01]), but saw the 
+biggest decreases in April (IRR = 0.24, CI 95% [0.11 – 0.53]) and May (IRR = 0.19, CI 
+95% [0.09 – 0.43]), all in 2020. After this period, the reduction was significant only in 
+August (IRR = 0.61, CI 95% [0.38 – 0.99]) and December (IRR = 0.29, CI 95% [0.16 – 
+0.54]). 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+11 
+ 
+Table 2. Incidence rate ratio (IRR) and 95% confidence interval (95% CI) for total no. 
+of procedures, medical appointments, prenatal procedures and diabetes care, in models 
+of multilevel mixed-effects negative binomial regression for Brazilian municipalities  
+(N = 5,564).  
+ 
+ 
+Impact of COVID 19 compared to the period prior to the Pandemic 
+Group of procedures 
+(reference: 
+prior 
+to 
+pandemic)  
+Crude 
+Adjusted 
+ 
+IRR 
+95% CI 
+p-value 
+IRR 
+95% CI 
+p-value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2020 
+Total procedures 
+0.60 
+0.56 – 0.65 
+<0.001 
+0.60 
+ 0.55 – 0.60 
+<0.001 
+Medical appointments  
+0.72 
+0.64 – 0.82 
+<0.001 
+0.64 
+ 0.57 – 0.72 
+<0.001 
+Prenatal procedures 
+0.64 
+0.59 – 0.68 
+<0.001 
+0.64 
+ 0.59 – 0.68 
+<0.001 
+Diabetes care 
+1.51 
+0.88 – 2.61 
+0.135 
+1.43 
+ 0.82 – 2.48 
+0.199 
+ 
+March 2020 
+Total procedures 
+0.48 
+0.45 – 0.52 
+<0.001 
+0.48 
+0.45 – 0.52 
+<0.001 
+Medical appointments  
+0.64 
+0.57 – 0.72 
+<0.001 
+0.54 
+0.47 – 0.61 
+<0.001 
+Prenatal procedures 
+0.48 
+0.44 – 0.52 
+<0.001 
+0.48 
+0.45 – 0.51 
+<0.001 
+Diabetes care 
+0.62 
+0.34 – 1.09 
+0.100 
+0.58 
+0.33 – 1.01 
+0.056 
+ 
+April 2020 
+Total procedures 
+0.27 
+0.25 – 0.29 
+<0.001 
+0.27 
+0.25 – 0.29 
+<0.001 
+Medical appointments 
+0.38 
+0.33 – 0.42 
+<0.001 
+0.33 
+0.29 – 0.37 
+<0.001 
+Prenatal procedures 
+0.48 
+0.44 – 0.51 
+<0.001 
+0.38 
+0.35 – 0.42 
+<0.001 
+Diabetes care 
+0.23 
+0.10 – 0.54 
+0.001 
+0.24 
+0.11 – 0.53 
+<0.001 
+ 
+ 
+May 2020 
+Total procedures 
+0.23 
+0.21 – 0.24 
+<0.001 
+0.23 
+0.21 – 0.25 
+<0.001 
+Medical appointments 
+0.34 
+0.30 – 0.39 
+<0.001 
+0.27 
+0.24 – 0.30 
+<0.001 
+Prenatal procedures 
+0.51 
+0.46 – 0.57 
+<0.001 
+0.35 
+0.32 – 0.38 
+<0.001 
+Diabetes care 
+0.21 
+0.08 – 0.52 
+0.001 
+0.19 
+0.09 – 0.43 
+<0.001 
+ 
+June 2020 
+Total procedures 
+0.48 
+0.45 – 0.51 
+<0.001 
+0.48  
+0.45 – 0.51 
+<0.001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+12 
+ 
+Medical appointments 
+0.56  
+0.49 – 0.63 
+<0.001 
+0.41  
+0.38 – 0.44 
+<0.001 
+Prenatal procedures 
+0.63 
+0.59 – 0.66 
+<0.001 
+0.63 
+0.59 – 0.66 
+<0.001 
+Diabetes care 
+0.62  
+0.34 – 1.14 
+0.129 
+0.61 
+0.35 – 1.07 
+0.086 
+ 
+July 2020 
+Total procedures 
+0.49 
+0.47 – 0.53 
+<0.001 
+0.49 
+0.46 – 0.52 
+<0.001 
+Medical appointments 
+0.66 
+0.58 – 0.74 
+<0.001 
+0.44 
+0.41 – 0.48 
+<0.001 
+Prenatal procedures 
+0.59 
+0.56 – 0.63 
+<0.001 
+0.59 
+0.56 – 0.63 
+<0.001 
+Diabetes care 
+0.73 
+0.41 – 1.31 
+0.299 
+0.71 
+0.43 – 1.20 
+0.212 
+ 
+August 2020 
+Total procedures 
+0.48 
+0.46 – 0.51 
+<0.001 
+0.48 
+0.46 – 0.51 
+<0.001 
+Medical appointments 
+0.54 
+0.48 – 0.61 
+<0.001 
+0.45 
+0.41 – 0.48 
+<0.001 
+Prenatal procedures 
+0.56 
+0.53 – 0.59 
+<0.001 
+0.56 
+0.53 – 0.59 
+<0.001 
+Diabetes care 
+0.62 
+0.37 – 0.99 
+0.049 
+0.61 
+0.38 – 0.99 
+0.047 
+ 
+ 
+ 
+ 
+September 2020 
+Total procedures 
+0.54 
+0.51 – 0.57 
+<0.001 
+0.54 
+0.51 – 0.57 
+<0.001 
+Medical appointments 
+0.65 
+0.58 – 0.74 
+<0.001 
+0.50 
+0.46 – 0.54 
+<0.001 
+Prenatal procedures 
+0.61 
+0.58 – 0.64 
+<0.001 
+0.61 
+0.58 – 0.65 
+<0.001 
+Diabetes care 
+0.81 
+0.47 – 1.39 
+0.458 
+0.79 
+0.47 – 1.32 
+0.378 
+ 
+October 2020 
+Total procedures 
+0.50 
+0.47 – 0.53 
+<0.001 
+0.50 
+0.47 – 0.53 
+<0.001 
+Medical appointments 
+0.59 
+0.52 – 0.67 
+<0.001 
+0.45 
+0.41 – 0.48 
+<0.001 
+Prenatal procedures 
+0.59 
+0.56 – 0.63 
+<0.001 
+0.59 
+0.56 – 0.62 
+<0.001 
+Diabetes care 
+0.91 
+0.54 – 1.54 
+0.741 
+0.92 
+0.52 – 1.57 
+0.758 
+ 
+November 2020 
+Total procedures 
+0.53 
+0.50 – 0.57 
+<0.001 
+0.54 
+0.50 – 0.57 
+<0.001 
+Medical appointments 
+0.68 
+0.60 – 0.77 
+<0.001 
+0.65 
+0.57 – 0.74 
+<0.001 
+Prenatal procedures 
+0.62 
+0.59 – 0.66 
+<0.001 
+0.62 
+0.58 – 0.65 
+<0.001 
+Diabetes care 
+0.74 
+0.43 – 1.29 
+0.301 
+0.73 
+0.45 – 1.20 
+0.227 
+ 
+December 2020 
+Total procedures 
+0.37 
+0.35 – 0.39 
+<0.001 
+0.37 
+0.34 – 0.39 
+<0.001 
+Medical appointments 
+0.59 
+0.52 – 0.68 
+<0.001 
+0.60 
+0.53 – 0.69 
+<0.001 
+Prenatal procedures 
+0.46 
+0.43 – 0.49 
+<0.001 
+0.45 
+0.43 – 0.49 
+<0.001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+13 
+ 
+Diabetes care 
+0.28 
+0.14 – 0.55 
+<0.001 
+0.29 
+0.16 – 0.54 
+<0.001 
+ 
+ 
+* Human Development Index; Populational size; Gini index; Coverage by the Family Health Strategy; 
+Rate of basic health units; rate of nurses; rate of doctors; Brazilian Regions.  
+ 
+ 
+Discussion 
+The findings showed a significant reduction in the availability of medical 
+appointments and the performance of procedures involving prenatal and diabetes care 
+between the periods compared. Considering the total number of procedures, all months 
+(from February to December) witnessed a decrease in the rate of procedures. This may 
+be explained by the large number of health professionals having been redeployed to 
+combat the pandemic, not to mention that health professionals run a higher risk of 
+contracting Sars-Covid-19 than the general public and, consequently, being unable to 
+work.12 In addition, the fear of contamination has caused individuals to seek health 
+services less frequently, especially in emergency situations. Thus, elective treatments 
+have been postponed. 13 To corroborate this, no organized action by PHC to confront 
+Covid-19 has been implemented at the national level in Brazil. Similarly, monitoring 
+and control actions have not been directed towards people with health conditions that 
+need assistance on an ongoing basis. These may be some of the reasons for the results 
+observed in this study.12 
+Emerging countries, like Brazil, still face an agenda that involves an 
+epidemiological transition caused by an aging population and a triple burden of diseases 
+or health conditions defined by acute health conditions (infectious diseases), external 
+causes and health conditions that need continuous care, organized based on a strong 
+PHC structure 14. PHC services in Brazil are still largely focused on addressing acute 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+14 
+ 
+conditions and are largely inefficient in healthcare conditions that require continuous 
+care. 15  
+The significant decrease in PHC during the pandemic period under analysis may 
+further compromise the population's health conditions. Continuous care during 
+pregnancy - prenatal care - has been reported as a protective factor for maternal and 
+child health 16, 17 and has been negatively affected during the entire pandemic period in 
+2020. Outcomes for the increase in neonatal, postnatal and premature birth mortality 
+have been associated with the purview of PHC  18. Moreover, hospital admissions for 
+conditions within the ambit of PHC have been presented as a mark of effectiveness for 
+these services 19, 20. These conditions are represented by an extensive list that includes 
+chronic diseases and their complications. More specifically in Brazil, it has been 
+possible to observe a significant reduction in hospitalizations due to care-sensitive 
+conditions in recent years 21. However, a reduction in the rate of these improvements, as 
+well as difficulties in the management of chronic diseases, has been pointed to as a 
+major concern for PHC in the country 22.  
+Among the health conditions that require continuous care, at the PHC level, 
+prenatal care, diabetes and hypertension are prominent. In December 2019, the Ministry 
+of Health launched a reform of the Brazilian PHC in order to improve access and 
+efficiency in the sector 23. A set of indicators was presented, linked to payment for 
+performance 23, 24 aimed at monitoring these conditions. However, due to an initial rule 
+of transition between the different payment models and, subsequently, the declaration of 
+a state of pandemic in the country, the resources linked to the Performance Pay Program 
+(P4P) were guaranteed in their entirety, with the PHC being exempt from presenting the 
+results of the indicators25. These factors already demonstrate the great difficulty of the 
+Brazilian PHC model with the quality of the services provided. Data presented in this 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+15 
+ 
+study corroborate the difficulty of achieving better results and the scenario presented by 
+the pandemic is adding to this challenge 26.  
+Controlled detachment causes numerous concerns in the world in terms of the 
+potential unintended consequences for the interruption, or partial functioning, or change 
+of focus of PHC services. The World Health Organization has observed a 75% 
+reduction in services for non-communicable diseases such as diabetes and hypertension 
+27. This reduction was more profound in lower-income countries 27. The aforementioned 
+data reinforce the concern about a delayed treatment and monitoring agenda for patients 
+who live in conditions that require continuous health care. Specifically, regarding the 
+conditions addressed in this study (diabetes and prenatal), this postponed agenda may 
+bring about an increase in mortality, infant mortality and disability in 2021. 
+The WHO noted that the underlying causes for existing disruptions to non-
+communicable disease services vary between income groups, with disruptions to 
+transportation, insufficient personal protective equipment, insufficient staff, lack of 
+inventory and availability of essential drugs and services that impact low- and middle-
+income countries to a greater degree 27. The solutions pointed out by the authors 
+permeate the adoption of patient screening models, the use of appropriate electronic 
+records, expanded access to medical consultation through the use of telemedicine 
+systems, development of specific protocols for the health care of specific non-
+communicable diseases for the duration of the pandemic 28. Fundamentally, keeping 
+strongly in mind the essential attributes of PHC: access, longitudinality, integrality and 
+coordination of care. 
+As regards the limitations of the present study, we used public secondary data 
+from the Ministry of Health. In pandemic conditions, there may be a relaxation 
+regarding the professionals' commitment to communicating and updating the data. Some 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+16 
+ 
+important information regarding conditions of interest to the topic, such as 
+hypertension, was not available. The data regarding the number of procedures are the 
+only ones made available by the Ministry of Health at the municipal level. In ecological 
+studies, although data do not directly measure quality and access to care, they can point 
+to root problems in PHC services. Ecological designs also have the potential for 
+systematic differences between areas in the measurement or recording of variables. The 
+estimates do not indicate a causal effect, and inferences at the individual level cannot be 
+made from the results of aggregate data, as it is not a causal interference study. 
+This is the first study known to the authors which shows a reduction in prenatal 
+procedures, diabetes and medical consultations in middle-income countries. This data is 
+extremely important to alert the scientific community and managers about the 
+postponed agenda for 2021. Studies with primary data or data that can point out the 
+possible effects on mortality, infant mortality, drop in immunization and the 
+development of disabilities, are fundamental for detailing this gap. Although the 
+recording of procedures for actions directed towards chronic and prenatal diseases 
+points to a reduction in actions, the formalization of new procedures such as 
+Teleconsultation in Primary Care can benefit the reorganization of PHC services in the 
+SUS, to reduce the repressed demand and mitigate a post-pandemic rebound effect 
+resulting from the discontinuation of care. It is important that, in addition to PHC 
+practices, the effect of the pandemic is monitored in relation to morbidity and mortality 
+patterns in hospital services resulting from preventable causes in PHC, aiming to direct 
+and restructure health practices even during the period of restrictive measures to combat 
+COVID-19. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+17 
+ 
+References 
+1. 
+Rodriguez-Morales A, Bonilla-Aldana D, Tiwari R, Sah R, Rabaan A, K D. 
+COVID-19, an Emerging Coronavirus Infection: Current Scenario and Recent 
+Developments - An Overview. J Pure Appl Microbiol,. 2020;14(1). 4.  
+2. 
+Lieberman-Cribbin W, Alpert N, Gonzalez A, Schwartz RM, Taioli E. Three 
+months of informational trends in COVID-19 across New York City. J Public Health 
+(Oxf). 2020;42(3):448-50. 4. http://dx.doi.org10.1093/pubmed/fdaa082 
+3. 
+Mahajan UV, Larkins-Pettigrew M. Racial demographics and COVID-19 
+confirmed cases and deaths: a correlational analysis of 2886 US counties. J Public 
+Health (Oxf). 2020;42(3):445-7. 4. http://dx.doi.org10.1093/pubmed/fdaa070 
+4. 
+Chisini LA, Sartori LRM, Costa FDS, Salvi LC, Demarco FF. COVID-19 
+pandemic impact on prosthetic treatments in the Brazilian Public Health System. Oral 
+Dis. 2020. 4. http://dx.doi.org10.1111/odi.13668 
+5. 
+WHO. 
+World 
+Health 
+Organization. 
+https://www.who.int/docs/default-
+source/coronaviruse/situation-reports/20200802-covid-19-sitrep-
+195.pdf?sfvrsn=5e5da0c5_2. Accessed September 15, 2020. 2020. 4.  
+6. 
+Center TLAG. Quick COVID-19 survey. The Larry Green Center website. 
+Accessed June 17, 2020. https://www.green-center.org/covid-survey; Office for 
+National Statistics. Analysis of death registrations not involving coronavirus (covid-19-
+19), England and Wales: 28 December 2019 to 1 May 2020. 2020 June. Report No.) 
+2020. 4.  
+7. 
+Daumas RP, Silva GAE, Tasca R, Leite IDC, Brasil P, Greco DB, et al. The role 
+of primary care in the Brazilian healthcare system: limits and possibilities for fighting 
+COVID-19. 
+Cad 
+Saude 
+Publica. 
+2020;36(6):e00104120. 
+4. 
+http://dx.doi.org10.1590/0102-311X00104120 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+18 
+ 
+8. 
+Viana ALD, Bousquat A, Melo GA, Negri Filho A, Medina MG. 
+Regionalization and Health Networks. Cien Saude Colet. 2018;23(6):1791-8. 4. 
+http://dx.doi.org10.1590/1413-81232018236.05502018 
+9. 
+Ceulemans M, Verbakel J, Van Calsteren K, Eerdekens A, Allegaert K, Foulon 
+V. SARS-CoV-2 Infections and Impact of the COVID-19 Pandemic in Pregnancy and 
+Breastfeeding: Results from an Observational Study in Primary Care in Belgium Int J 
+Environ Res Public Health.17(18):E6766. 4.  
+10. 
+Souza CDF, Gois-Santos VT, Correia DS, Martins-Filho PR, Santos VS. The 
+need to strengthen Primary Health Care in Brazil in the context of the COVID-19 
+pandemic. Braz Oral Res. 2020;34:e047. 4. http://dx.doi.org10.1590/1807-3107bor-
+2020.vol34.0047 
+11. 
+Chisini L, San Martin A, Pires A, Noronha T, Demarco F, Conde M, et al. A 19-
+years study of the dental procedures performed in the Brazilian Unifed Health System. 
+Cad Saúde Colet. 2019;27(3). 4.  
+12. 
+Dyer O. Covid-19: Brazil's president rallies supporters against social distancing. 
+BMJ. 2020;369:m1589. 4. http://dx.doi.org10.1136/bmj.m1589 
+13. 
+Garrafa E, Levaggi R, Miniaci R, Paolillo C. When fear backfires: Emergency 
+department accesses during the Covid-19 pandemic. Health Policy. 2020;124(12):1333-
+9. 4. http://dx.doi.org10.1016/j.healthpol.2020.10.006 
+14. 
+Giovanella L, Mendonca MHM, Buss PM, Fleury S, Gadelha CAG, Galvao 
+LAC, et al. From Alma-Ata to Astana. Primary health care and universal health 
+systems: an inseparable commitment and a fundamental human right. Cad Saude 
+Publica. 2019;35(3):e00012219. 4. http://dx.doi.org10.1590/0102-311X00012219 
+15. 
+Facchini L, Tomasi E, Dilélio A. Quality of Primary Health Care in Brazil: 
+advances, challenges and perspectives. Saúde Debate. 2018;42(1):208-22. 4.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+19 
+ 
+16. 
+Austin AE, Gottfredson NC, Zolotor AJ, Halpern CT, Marshall SW, Parrish JW, 
+et al. Preconception and Prenatal Predictors of Early Experiences of Risk and Protection 
+Among 
+Alaska 
+Children. 
+Matern 
+Child 
+Health 
+J. 
+2020;24(1):82-9. 
+4. 
+http://dx.doi.org10.1007/s10995-019-02823-3 
+17. 
+Ickovics JR, Lewis JB, Cunningham SD, Thomas J, Magriples U. Transforming 
+prenatal care: Multidisciplinary team science improves a broad range of maternal-child 
+outcomes. Am Psychol. 2019;74(3):343-55. 4. http://dx.doi.org10.1037/amp0000435 
+18. 
+Tuon RA, Ambrosano GM, Silva SM, Pereira AC. [Telephone monitoring 
+service for pregnant women and impact on prevalence of prematurity and associated 
+risk factors in Piracicaba, Sao Paulo State, Brazil]. Cad Saude Publica. 2016;32(7). 4. 
+http://dx.doi.org10.1590/0102-311X00107014 
+19. 
+Billings J, Zeitel L, Lukomnik J, Carey TS, Blank AE, Newman L. Impact of 
+socioeconomic status on hospital use in New York City. Health Aff (Millwood). 
+1993;12(1):162-73. 4. http://dx.doi.org10.1377/hlthaff.12.1.162 
+20. 
+Roos LL, Walld R, Uhanova J, Bond R. Physician visits, hospitalizations, and 
+socioeconomic status: ambulatory care sensitive conditions in a Canadian setting. 
+Health 
+Serv 
+Res. 
+2005;40(4):1167-85. 
+4. 
+http://dx.doi.org10.1111/j.1475-
+6773.2005.00407.x 
+21. 
+Bastos ML, Menzies D, Hone T, Dehghani K, Trajman A. Correction: The 
+impact of the Brazilian family health on selected primary care sensitive conditions: A 
+systematic 
+review. 
+PLoS 
+One. 
+2017;12(12):e0189557. 
+4. 
+http://dx.doi.org10.1371/journal.pone.0189557 
+22. 
+Bank TW. A Fair Adjustment: Efficiency and Equity of Public Spending in 
+Brazil. 2017 [access 2019 Nov 28]. 2017. 4.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)
+20 
+ 
+23. 
+Harzheim E, D'Avila OP, Ribeiro DC, Ramos LG, Silva LED, Santos C, et al. 
+New funding for a new Brazilian Primary Health Care. Cien Saude Colet. 
+2020;25(4):1361-74. 4. http://dx.doi.org10.1590/1413-81232020254.35062019 
+24. 
+Sellera PEG, Pedebos LA, Harzheim E, Medeiros OL, Ramos LG, Martins C, et 
+al. Monitoring and evaluation of Primary Health Care attributes at the national level: 
+new 
+challenges. 
+Cien 
+Saude 
+Colet. 
+2020;25(4):1401-12. 
+4. 
+http://dx.doi.org10.1590/1413-81232020254.36942019 
+25. 
+Brazil. Technical Note Nº 5/2020-DESF/SAPS/MS. Access in Sep 22, 2020. 
+Available 
+on: 
+https://egestorab.saude.gov.br/image/?file=20200204_N_SEIMS-
+0013327270-NotaTecnicaIndicadores_3604088260565235807.pdf. 2020. 4.  
+26. 
+Noronha K, Guedes GR, Turra CM, Andrade MV, Botega L, Nogueira D, et al. 
+The COVID-19 pandemic in Brazil: analysis of supply and demand of hospital and ICU 
+beds and mechanical ventilators under different scenarios. Cad Saude Publica. 
+2020;36(6):e00115320. 4. http://dx.doi.org10.1590/0102-311X00115320 
+27. 
+WHO. The impact of the COVID-19 pandemic on noncommunicable disease 
+resources and services: results of a rapid assessment. Geneva: World Health 
+Organization. 2020. 4.  
+28. 
+Hong WZ, Chan GC, Chua HR. Continuing Chronic Disease Care During 
+COVID-19 
+and 
+Beyond. 
+J 
+Am 
+Med 
+Dir 
+Assoc. 
+2020;21(7):991-2. 
+4. 
+http://dx.doi.org10.1016/j.jamda.2020.05.013 
+ 
+Recebido em 10/02/2021 
+Aprovado em 01/03/2021 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210013
+Powered by TCPDF (www.tcpdf.org)

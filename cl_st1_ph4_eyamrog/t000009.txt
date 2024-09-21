@@ -1,0 +1,904 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/1678-460x202339457247
+Information and communication technologies in contextual
+target situation analysis:  improving Online CEAP course design
+in developing countries
+Bruna Gabriela Augusto Marçal Vieira
+https://doi.org/10.1590/1678-460x202257247
+Submitted on: 2022-09-26
+Posted on: 2022-09-26 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+https://doi.org/10.1590/1678-460x202257247   
+ 
+Information and communication technologies in contextual target situation analysis:  
+improving Online CEAP course design in developing countries 
+Tecnologias de Informação e Comunicação na análise contextual da situação-alvo: 
+aprimorando o desenho de cursos de CEAP online em países em desenvolvimento 
+ 
+Bruna Gabriela Augusto Marçal Vieira1 
+ 
+Abstract       
+ 
+This paper discusses the benefits of information and communication technologies (ICT) in the 
+contextual target situation analysis at a distance to design online critical English for academic 
+purposes (CEAP) courses. A contextual investigation of the publishing process of high-impact 
+journals in computer science is presented, which is aimed at identifying issues that might 
+influence the publication of Brazilian researchers’ papers. The beliefs and experiences of 
+Brazilian authors in the aforementioned process were analyzed through electronic 
+questionnaires and remote interviews. Moreover, research articles’ reviews were studied to 
+identify the community´s criteria for accepting or rejecting papers. Via ICT, a wider 
+contextual analysis was possible with participants located in different parts of the world. 
+Results provided relevant information about researching and publishing in the field, which 
+may substantiate the design of tasks aimed at improving students’ critical academic literacy. 
+For developing continental countries such as Brazil, saving time and resources through ICT in 
+CEAP courses’ design means the possibility of investing in a more relevant instruction, which 
+better attends to students’ contextual needs and wants.   
+Keywords: contextual genre analysis, target situation, needs analysis, online CEAP, ICT 
+ 
+Resumo       
+Este trabalho discute os benefícios de Tecnologias de Informação e Comunicação (TIC) na  
+ 
+1 Universidade Estadual Paulista – UNESP. São José do Rio Preto / Centro Federal de 
+Educação Tecnológica de Minas Gerais – CEFET-MG. Araxá – Brazil. 
+https://orcid.org/0000-0003-3651-1198. E-mail: brunagabriela@cefetmg.br    
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+análise contextual a distância da situação-alvo durante a elaboração de um curso online de 
+inglês para fins acadêmicos em sua perspectiva crítica. Essa análise, com foco no processo de 
+publicação acadêmica em periódicos de alto impacto na área de ciência da computação, 
+buscou identificar fatores que possam influenciar o aceite de artigos produzidos por 
+pesquisadores brasileiros. Crenças e a experiência de autores brasileiros foram analisadas no 
+referido processo via questionários eletrônicos e entrevistas remotas. Ademais, pareceres de 
+artigos de pesquisa foram estudados, e os critérios avaliativos dessa comunidade, 
+identificados. Por meio das TICs, uma ampla análise contextual foi possível, contemplando 
+pesquisadores localizados em diversas partes do globo. Os resultados revelam práticas de 
+pesquisa e publicação na área que podem fundamentar o desenho de tarefas voltadas à 
+promoção do letramento acadêmico dos alunos. Em países em desenvolvimento, como o 
+Brasil, economizar tempo e recursos, por meio das TICs, durante o desenho de cursos 
+significa a possibilidade de investimento em um ensino relevante, que melhor atenda às 
+necessidades discentes. 
+Palavras-chave: análise contextual de gênero, situação-alvo, análise de necessidades, inglês 
+para fins acadêmico crítico, TIC 
+ 
+1. Introduction 
+ 
+Education, as a dialogical social practice, is a dynamic and complex system that emerges out 
+of the interaction of multiple factors (Mason, 2008). Society, individuals, institutions, 
+disciplinary content, pedagogical and psychological theories are, at the same time, constituted 
+within the interaction of social, historical, cultural, ideological, and financial factors, as well 
+as elements that shape and are shaped by education. From this perspective, educational 
+features are singular to contextual needs and constraints. Moreover, they are contextually 
+organized in a never-ending movement of change. 
+ 
+The advent of new technologies, or ICT (information and communication technologies), in 
+the turn of the century, has drastically changed innumerous social systems (Warschauer, 
+2002), including that of education. The inclusion of ICT in the teaching and learning 
+processes has affected educational systems around the globe differently, causing, in the first 
+moments, chaos and instability. Hara and Kling (2000), for instance, approached the 
+influences of ICT on students, showing that lack of prompt feedback and technical problems 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+were two reasons for students’ frustration in a web-based, distance language course in the 
+United States. As far as the teachers/instructors are concerned, Lam (2000) showed that the 10 
+language teachers interviewed in Canada about their use of ICT in their classes believed that 
+the perceived limitations were related to the rush of institutions to obtain technological 
+innovations without preparing teachers adequately. Regarding the institutions’ perspective, 
+Karagiorgi (2005) reported the challenges to implement ICT in several elementary schools in 
+Cyprus. 
+ 
+Almost twenty years have passed since the inclusion of ICT in education. All these years of 
+experience exchange among teachers, researchers, and institutions – provided by ICT – have 
+led to educational (re)organization and improvement. Recent works in the literature illustrate 
+the new possibilities brought by the digital era. Regarding research and practice of language 
+teaching and learning, ICT has contributed to modernizing traditional teaching approaches 
+and practices (cf. Eckhaus, 2018) and to developing new teaching tools and materials (cf. 
+Sahraini & Syamsudarni, 2018). English for specific purposes (ESP) has also benefited from 
+ICT in mainly two ways (Bloch, 2012): (i) changing traditional types of language learning 
+with new tools, and (ii) creating new forms of communicating, enabling students to engage 
+with their discourse community during classes. Less attention has been given to the use of 
+ICT in needs analysis though, especially regarding the target situation. When analyzing the 
+future communicative needs of students, technology has mainly been used in the investigation 
+of linguistic (cf. Ha & Hyland, 2017) and textual features (cf. Supatranont, 2012) of 
+specialized discourse. This paper presents the benefits of using ICT to investigate contextual 
+features of language use in the target situation.  
+ 
+A three-phase investigation was carried out through multiple technological tools for gathering 
+information about contextual issues involved in the production and publication of research 
+articles by Brazilian computer science experts to design an online critical English for 
+academic purpose (CEAP) course for graduates. This paper aims to demonstrate how ICT 
+may contribute to contextual target situation analysis at a distance, expanding the scope of 
+investigation as well as saving time and resources in courses’ preparation. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+2. Literature review 
+ 
+In this section, the complexity of language teaching and learning in CEAP courses is explored 
+to justify the need for a contextual target situation analysis during needs analysis, which is not 
+common in EAP/ESP literature. Afterwards, the use of ICT for such an investigation is 
+presented, as a way to carry it out during the design of online CEAP courses.  
+ 
+CEAP and the complexity of language teaching and learning 
+ 
+Language teaching and learning, as with any other social practice, is a complex system, 
+whose results depend on the interaction of an array of elements (Larsen-Freeman, 1997). 
+Subjects, target language, language of instruction, students’ native language, materials, tasks, 
+assessing tools, language and teaching theories, target discourse community, institutional and 
+economic constraints, and so on, are all elements involved in language teaching and learning. 
+Besides, each of them is also a complex system that emerges out of the interaction of other 
+elements. Languages, for example, are the social, cultural, and ideological result of the 
+interaction of people and artifacts to communicate/act in society.      
+ 
+English for Specific Purposes (ESP) has acknowledged the complexity of language use, 
+teaching, and learning. Therefore, one of the main principles of this approach is specificity. It 
+refers to the linguistic, textual, and contextual configuration of discourse in a given social 
+practice (target situation), which needs to be recognized to prepare students to engage in that 
+practice through genre use (Hyland, 2002). It also refers to the needs of a given group of 
+students (present situation) to develop their knowledge of those genres to the level that is 
+recognized by a given discourse community. 
+ 
+Needs analysis is the process through which ESP practitioners investigate specificity in the 
+target and present situation (Songhori, 2008). This process materializes praxis, the second 
+main principle of the approach. Kumaravadivelu (2001) calls it practicality and explains that 
+when analyzing the specificities of the discourse to be taught and the specificities of the 
+classroom, teachers assume the role of scientists, whose theories become the basis of their 
+own teaching. Since the preliminary work of Swales (1990) in ESP, both principles have 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+oriented ESP practice in occupational (EOP – English for occupational purposes) and 
+academic (EAP – English for academic purposes) settings. 
+ 
+EAP has been successfully implemented to the teaching of academic discourse, to both native 
+and non-native students. Once it focuses on the specialized language that students need to 
+produce in the academic environment, it usually becomes a requirement for scholars so they 
+can be prepared for academic communication. The problem is that in many countries, such as 
+the U.S., EAP has been seen as a service subservient discipline, whose sole aim is to prepare 
+students to communication across the curriculum or in academia (Benesch, 2001). In order to 
+fight against this underrepresentation, the critical perspective of EAP (CEAP) aims at putting 
+into the forefront the complexity of language teaching and learning in the university, 
+evidencing the potentialities of EAP pedagogy to promote students’ social awareness rather 
+than just developing their linguistic skills. 
+ 
+CEAP advocates, then, for a third main principle: criticism, which stands for a bigger focus 
+on contextual issues during language classes. That means approaching injustices and 
+inequalities in the target and in the present situation (Benesch, 1996). By analyzing and 
+reflecting upon contextual elements which, at the same time, shape and are shaped by the 
+target language, Benesch (2009) explains that CEAP may help students to reconceptualize 
+their sense of citizenship, their own identities, and their critical thinking regarding their roles 
+in the target discourse community. They might be able, then, not only to recognize and 
+reproduce their peers’ discourse, but also to identify what needs to be changed, when and 
+how, promoting social improvements in the community.  
+ 
+A critical approach to EAP implies new roles for teachers and students, who are not only seen 
+as technician and novice members of the discourse community, but, respectively, as 
+transformative practitioners (Morgan, 2009) and legitimate members of the community who 
+can also be agents of change (Benesch, 1996). In this respect, CEAP turns out to be a good 
+investment in developing countries, where university students need to be prepared for 
+academic communication and for the pursuit of scientific equity. 
+ 
+ICT, as one of the main contemporary tools for human interaction, should also be an object of 
+discussion in CEAP classes, once they start changing social systems, enabling them to 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+become more globalized, and, nonetheless, increase social and economic discrepancies.1 In 
+education, after a long period of adaptation, however, the use of ICT starts to bring good 
+results. Thus, besides being an object of discussion, their use for language course design, 
+implementation, and analysis tends to increase shortly. 
+ 
+In CEAP pedagogy, technological devices may be used to assess students’ performance in 
+CEAP tasks, their development throughout classes, and the validity of the courses (cf. Chun, 
+2009). The advent of new modes of instruction (computer-assisted language learning - CALL 
+and distance or blended learning) is one of the major benefits ICT brought to CEAP courses’ 
+implementation (cf. Arnó-Macià & Rueda-Ramos, 2011). Finally, insofar as CEAP course 
+design is concerned, ICT may be used for the elaboration of tasks, syllabus structuration, and 
+needs analysis, for analyzing the present (cf. Vieira & Aranha, 2015a, 2015b; Vieira, 2017; 
+Aranha & Vieira, 2018, Vieira, 2020) or target situation (Vieira, 2019b). The next section 
+focuses on the use of ICT in the target situation analysis. 
+ 
+Target situation analysis: a breeding ground for the use of ICT in CEAP 
+ 
+Target situation analysis (TSA) is one of the main investigations to be conducted during needs 
+analysis for CEAP course design. It comprehends what the learner needs to know to function 
+effectively in the target situation (Songhori, 2008). TSA, then, is one of the procedures taken 
+by the teacher in ESP/CEAP pedagogy to assure specificity, so they understand how language 
+is used in the target discourse community and then can translate students’ needs into 
+linguistic, literacy, and pedagogical tasks.  
+ 
+Hyland (2007) explains that early studies focused on lexical and syntactic features of 
+particular registers. Later, interest moved to the rhetorical macro-structure of specialist texts. 
+Now a deeper interest in specific discourse communities leads to a pursuit of the 
+understanding of community-situated language use and describing specific target texts 
+required by learners. This investigation typically involves either experienced members of the 
+community, the genres produced and consumed by them, or both.   
+ 
+ 
+1 For a deeper understanding of the complex influences of ICT on social systems, cf. Warschauer’s (2003) 
+discussion on the technological divide.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Regarding experienced members, questionnaires, interviews, and field observation are 
+common instruments for data gathering, aiming at identifying the genres that students might 
+use in the target situation, as well as the skills they must develop in their English abilities (cf. 
+Sarmento, 2012). Genre analysis, on the other hand, tends to rely on texts produced and 
+consumed by the community. It can be done either in a textual perspective — through which 
+linguistic and rhetoric patterns of the target genre(s) are identified (cf. Cheng, 2008) — or in 
+an intertextual one, aiming at identifying the genre system through which the members carry 
+out their activity (cf. Molle & Prior, 2008).  
+ 
+For the CEAP course design, nevertheless, there is a need for widening the scope of TSA. 
+Since CEAP also focuses on contextual issues of the present and target situations, TSA must 
+provide ways of eliciting information on social, political, and ideological features of the 
+discourse community, which promotes and sustains power relations among members. In this 
+context, Benesch (1996) advocates for a critical perspective on a needs analysis that 
+acknowledges the hierarchical configuration of institutions. Concerning the TSA, a critical 
+perspective also identifies the socio-cognitive demands related to the use of English by the 
+target community, but goes further and treats them as a site of possible reform. ICT, then, has 
+much to contribute to contextual target situation analysis.  
+ 
+The use of ICT in contextual TSA has been most frequently used for data analysis, once most 
+CEAP courses in the literature are locally implemented, allowing the teacher the opportunity 
+to investigate the target discourse community in locus. Dehnad et al. (2010), for example, 
+made use of computer software (SPSS) to analyze data collected from a questionnaire given 
+to graduate students from a medical and management university, along with interviews 
+conducted with the heads of departments, the students, and a high-ranking administrator of 
+the university, to revise the syllabus of a CEAP course.  
+ 
+For distance education in extensive territories, such as Brazil, however, locus procedures may 
+be time- and resources-consuming, which can be solved using ICT for data gathering as 
+proposed in this paper. The next two sections present a contextual TSA for the design of an 
+online CEAP course for Brazilian computer science graduate students. Special attention will 
+be given to the use of ICT for data gathering and how it has facilitated the investigation of 
+critical issues at a distance. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+3. The Study 
+ 
+Although the language of instruction in Brazilian universities is Portuguese, because of 
+globalization, students have been required to read and write in English - the academic lingua 
+franca (Ferreira & Lousada, 2016). Applicants to computer science graduate programs from 
+most public universities in the country, for example, need to pass an English proficiency exam 
+which tests their reading comprehension of academic texts. Moreover, once admitted to the 
+program, graduates must publish at least one paper in high-impact journals to get their post-
+graduation degree (Vieira, 2015a). Despite that, few institutions offer English writing courses 
+for the development of students’ academic literacy (Aranha, 2009). To provide an accessible 
+way for these learners to get prepared for academic writing communication, online CEAP 
+courses have been proposed. 
+ 
+In 2014, Vieira conducted a detailed needs analysis to investigate the purposes for which 
+Brazilian computer science graduates need English in the academic environment. Results 
+indicated that students’ immediate need is to write research articles and abstracts. Departing 
+from this result, a TSA focused on both genres was recently conducted. Besides a textual 
+analysis (to be presented in future work), a contextual analysis was done to investigate critical 
+issues that regulate the use of both genres by the community. More specifically, the 
+contextual TSA presented here aimed at identifying issues that might influence the acceptance 
+of Brazilian computer scientists’ papers in high-impact journals. 
+ 
+Once both genres circulate in a variety of contexts (production, legitimation, publication, 
+distribution, and preservation) (cf. Khosrowjerdi, 2011), the contextual TSA focused on the 
+contexts in which the students have active participation, starting from production and ending 
+in the publication process of research articles. Still, an array of subjects, institutions and 
+factors are involved in those processes, such as authors, referees, funding agencies, and so on. 
+Thus, the contextual investigation mainly focused on understanding research article 
+production and publication in high-impact journals through the lens of those whom the target 
+students wish to become in a near future: the authors.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Brazilian experts who have published articles in the higher ranked journals in each of seven 
+subfields in computer science, according to the Journal Citation Reports2 (JCR), over a five-
+year period were invited to take part in this investigation. Differently from CEAP courses that 
+take place in English-speaking countries or in countries where instruction is in English, the 
+target situation here does not emerge from the interactions of a local community, but rather 
+from a global one engaged in the process of academic publication in computer science. 
+Investigating the contextual features of this target situation in person would be extremely 
+time- and resource-consuming. Thus, as a viable alternative, ICT was used for both data 
+gathering and analysis at a distance. Table 1 presents the ICT tools used in each of the three 
+phases of the contextual TSA. 
+ 
+Table 1 — Phases of contextual TSA 
+ 
+Phase 
+Instruments for 
+data gathering 
+ICT tools 
+Phase 1 
+Questionnaire 
+Google web search, Google Docs, Web pages, 
+Microsoft Word, Microsoft Excel. 
+Phase 2 
+Interviews 
+E-mail, Skype, aTube Catcher, audio recorder, 
+Microsoft Word, ELAN, AntConc. 
+Phase 3 
+Document analysis 
+E-mail, Adobe Acrobat Reader DC, Microsoft Word, 
+AntConc. 
+ 
+Phase 1 aimed at raising the profile of those scientists. Phase 2 was divided into two parts, 
+each having a different objective: investigating the ability of the participants to produce 
+publishable research articles in high-impact journals (Part 1); and deepening the discussion 
+about some contextual factors investigated in the questionnaire (Part 2). Finally, ending the 
+investigation, Phase 3 focused on the analysis of reviews received by the authors about 
+submitted papers to computer science journals.3  
+ 
+2 It is an online platform, created by the database Web of Science, for scientific journal evaluation in every field of 
+expertise. Based on the number of citations received by a journal in a given period, the journals are ranked. The 
+more citations a journal gets, the better its position in the rank, demonstrating its impact factor in a certain field. 
+3 Because there were humans involved in this investigation, a research project was submitted to the Ethical Board 
+of the Institute of Biosciences, Humanities and Exact Sciences (Ibilce) of São Paulo State University (Unesp) 
+(certificate number: 64609417.9.0000.5466). The project was approved by the Committee (review number 
+1.994.945), as well as its final report (review number 2.970.646). Besides, all participants signed an Informed 
+Consent.   
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+4. ICT in CEAP’s critical needs analysis: a means to specificity, praxis and criticism 
+ 
+Out of the 6.086 research articles published from 2011 to 2016 in the seven journals 
+investigated, 67 were written by or in collaboration with 127 Brazilian researchers. Table 2 
+presents the number of papers published by each journal in the considered period and the 
+number of Brazilian researchers who produced them. When there was no contact information 
+of the authors available in the published article, the Google web search engine was used to 
+look up their profiles in a Brazilian database for researchers and institutions (Lattes)4. An e-
+mail was then sent to each author, inviting him/her to participate in the research through 
+answering an online questionnaire on Google Docs. The link to the questionnaire was added 
+to the e-mail.5 
+ 
+Table 2 — Number of Brazilian experts who have published research articles in the 
+investigated journals  
+ 
+Subfield 
+Journal 
+JCR Quantity 
+Information Systems 
+IEEE Communications Survey and Tutorials     
+1 
+30 
+Artificial Intelligence 
+IEEE Transactions on Fuzzy Systems 
+2 
+30 
+Theory and Methods 
+IEEE Transactions on Evolutionary 
+Computation 
+5 
+15 
+Interdisciplinary 
+Applications 
+Computer Aided-Civil and Infrastructure 
+Engineering 
+7 
+0 
+Cybernetics 
+IEEE Transactions on Cybernetics 
+10 
+17 
+Hardware and 
+Architecture 
+IEEE Transactions on Neural Network and 
+Learning Systems  
+11 
+22 
+Software Engineering 
+ACM Transactions on Graphics 
+17 
+15 
+Total 
+ 
+ 
+1296 
+ 
+ 
+ 
+4 http://lattes.cnpq.br/ 
+5 The questionnaire used in Phase 1 of contextual TSA is available at 
+https://docs.google.com/forms/d/e/1FAIpQLSdObnSvwlnFO1OzBE4ygIUVMp-tEev-JI-
+3Qx1FCn0mjGFizQ/viewform  
+6 Although the total number of researchers here is 129, there were 127 Brazilian (co)authors, because two of them 
+took part in more than one publication. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Phase 1 – Questionnaire 
+ 
+ 
+Eleven questions investigated social, academic, and scientific information about the authors, 
+as well as their opinion on the influence of some contextual factors in the publishing process 
+of high-impact journals. Thirty-eight authors participated in this phase, representing 29.92% 
+of the invited experts – more than the minimum (10–20%) amount that represents a reliable 
+sample of data, according to Oliveira and Grácio (2005).    
+ 
+Data analysis was based on Aaker and Day (1990), in whose methodology nominal and 
+ordinal analyses of tabulated data are conducted. In the former, personal, academic, and 
+professional features of the subjects were identified, and in the latter, features that recurred 
+among participants were analyzed. Because the questionnaire was online, data were 
+automatically tabulated, and Microsoft Word and Excel were used for data description and 
+analysis, as well as for the design of tables and charts.  
+ 
+Questionnaires are a typical instrument used for data gathering during needs analysis by ESP 
+practitioners (Flowerdew & Peacock, 2001). Using ICT, however, the benefits of 
+questionnaires increase. First, online questionnaires might be more dynamic employing 
+multiple stimuli that digital tools make possible, such as charts, figures, and animations. 
+Moreover, sending questionnaires by e-mail is useful because they can be easily re-sent as 
+many times as necessary, the time of response may be decreased, and participants have the 
+convenience of answering them wherever and whenever they can. Besides all those benefits, 
+in the present research, the use of online questionnaires made it possible to reach members 
+from distant locations. Figure 1 presents those data.  
+ 
+Among the participants, there were Brazilian computer scientists from four regions of the 
+country and researchers who were then abroad. Considering that Brazilian computer science 
+graduate students need English to share their research results with their peers around the 
+globe, and because the target audience of the considered online CEAP course was students 
+from around Brazil, the conduction of this global investigation of the target discourse 
+community responded to this contextual specificity. Those different backgrounds have led to 
+distinct experiences with academic publication among the researchers, which were deeply 
+investigated in Phase 2, and will be discussed below. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Figure 1 — Country/region of the participants of Phase 1 
+  
+ 
+   
+Phase 2 – Interviews 
+ 
+A sample of 29% of the questionnaire respondents agreed to participate in the next phase of 
+the research. By e-mail, eleven participants were invited for the interviews, which were 
+conducted individually through Skype video calls. aTube Catcher was used to record the 
+interactions, and so was an audio recorder device as an alternate tool.  
+ 
+After the interviews were finished, they were transcribed using ELAN, software for audio and 
+video transcription. Data analysis was based on a six-step methodology for content analysis, 
+proposed by Huckin (2004), in which, after defining the unities of analysis, data must be 
+tabulated for interpretation. There were over eight hours of transcribed data; therefore, 
+AntCon – software for text analysis – was used to optimize the work. 
+ 
+Each interview, as mentioned above, was divided into two parts. Part 1 followed a Gordon 
+and Dawes (2005) array protocol, in which the beliefs, strategies, and external behavior of 
+participants were investigated to understand the structure of their experience in writing and 
+22
+4
+6
+1
+2
+1
+2
+Southeast-Brazil
+South-Brazil
+Northeast-Brazil
+North-Brazil
+Canada
+USA
+Switzerland
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+publishing papers in high-impact journals in the field. Questions related to the following 
+issues were asked:  
+ 
+(i) 
+the concept of publishable articles in computer science high-impact journals;  
+(ii) 
+knowledge and skills necessary to produce that kind of paper;  
+(iii) 
+difficulties and limitations that Brazilian computer scientists face during the process of 
+producing and publishing research articles, as well as strategies for overcoming them;  
+(iv) 
+evidence that the papers fit the expected conditions for publication; and  
+(v) 
+motivation for publishing in high-impact journals in the field.  
+ 
+The questions were structured into an array (Figure 2), adapted from Gordon and Dawes 
+(2015). Microsoft Word was used, which was filled in with the participants’ answers. The 
+interviewees had access to the array, thanks to Skype’s screen sharing tool, so they could 
+actively participate in the process of data gathering, following, and correcting the researcher’s 
+interpretation of their answers. That method adopts a second-person perspective, wherein the 
+researcher acts as a mediator, helping participants access their subjective experiences by 
+questioning them (Keranen et al., 2012). Additionally, it enables a deeper involvement of 
+researcher and participant with the data, once both are responsible for the information raised.   
+ 
+Part 2 was conducted as a typical semi-structured interview. Participants were presented with 
+data gathered from the analyzed questionnaire regarding contextual factors – such as sexism, 
+xenophobia, social and academic bias – that, according to the 38 respondents, might influence 
+the publication of papers, as well as to the profile of Brazilian computer scientists who have 
+published in refereed journals. Then, they were asked to interpret those findings (cf. Vieira, 
+2019b). 
+ 
+The use of ICT in Phase 2 was also substantial for investigating critical issues at a distance. 
+Firstly, it made it possible to perpetuate research practices that are typical in face-to-face 
+interviews, such as audio and video recording, thanks to a lot of software that is freely 
+available on the web. Besides, sharing the screen with the participants in Part 1 was central to 
+assuring the second-person perspective for data gathering; moreover, it turned out to be a 
+better procedure than the printed version. Once the participant has a full view of the array on 
+the screen, s/he can more clearly accompany the data inserted in the array by the researcher 
+and comment/correct them instantaneously without needing to erase the paper, and the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+researcher ends the interview with the data already tabulated in digital version and ready to be 
+analyzed.  
+ 
+Figure 2 — Array protocol used in Part 1 of the interview 
+ 
+ 
+ 
+Finally, in addition to enabling the researcher to reach participants distant from her, in 
+different regions of Brazil and abroad, conducting the interviews online also gave the 
+participants the convenience of being interviewed at the best time and place for them. All 
+these benefits brought using ICT in the contextual TSA contributed not only to reaching the 
+specificity that Needs Analysis requires – discussed above, in the previous subsection – but 
+also to assuring the criticism CEAP pedagogy advocates for. Interviewing members of a 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+global community enabled the teacher/researcher to observe and recognize beliefs, behaviors, 
+accesses, restrictions, and power relations that the different backgrounds might perpetuate 
+among the researchers in the field. Figure 3 shows, divided by region, participants’ evaluation 
+of their English knowledge to write academic texts, their international academic experience, 
+and how they perceive the level of influence of contextual issues on the acceptance of 
+Brazilian computer scientists’ papers by high-impact journals in the field.  
+ 
+Figure 3 — Participants’ evaluation of some critical issues regarding international academic 
+writing and publication 
+ 
+ 
+ 
+While more than 70% of all interviewees believed they have good/very good command of 
+English to write academic papers, and 65% had already had some type of international 
+academic experience, the one in northern Brazil presented a bad evaluation of his English 
+academic writing and stated that he had never had any type of international experiences. Such 
+a difference may be motivated by numerous reasons, including personal ones. Among them, 
+the unequal investments in education that the government makes in different states of Brazil 
+cannot be ignored.  
+ 
+The website Terra (n.d.) based on data from the National Institute for Educational Studies and 
+Research “Anísio Teixeira” (INEP), showed that the Amazon, a northern state in Brazil, 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Good/very
+good
+command of
+English
+International
+academic
+experience
+Coauthorship International
+partnership
+Nationality
+Academic
+degree
+SE - Brazil
+S - Brazil
+NE - Brazil
+N - Brazil
+Abroad
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+invested R$ 3,075.89 a year per student while, for instance, Santa Catarina, a southern state, 
+invested R$ 6,829.52. Being education a complex system, it is not possible to state that every 
+student from the North is lesser prepared for international academic writing than the students 
+from the South due to the different public education they get. As elements that influence 
+educational practices, however, contextual issues, such as economy and politics, need to be 
+considered in the needs analysis for CEAP courses. ICT, as shown in this paper, may help 
+teachers/course developers to investigate at a distance how those issues impact specific 
+educational contexts. 
+ 
+In this respect, data in Figure 3 also show huge discrepancies among participants located in 
+different countries/regions concerning their perception of contextual issues that might 
+influence the publication process of computer science high-impact journals. “Having co-
+authorship with a well-known researcher in the field” was perceived as a big influence on the 
+process by 75% of Brazilians located in the South of the country, and half of the participants 
+in the South and the Northeast believed that the level of the researchers’ degrees influences 
+their papers’ acceptance. Four of the five contextual factors investigated were considered 
+influential to the publication process by the interviewees located in the Southeast, whereas 
+just a few participants who were then abroad considered only two factors.  
+ 
+All this information was fundamental for designing tasks to prepare the target students 
+(computer science graduate students from around Brazil) better for the different contextual 
+limitations and constraints they might face in academia, how to overcome those problems, 
+and/or work on solutions to eliminate them, changing research practices and contributing to 
+the development of their community. Praxis, then, was also affected by using ICT in the 
+contextual TSA, since the possibility of investigating members of a global community 
+provided the teacher/researcher with rich information upon which she based her teaching 
+practices. This issue is discussed deeply in the next subsection. 
+ 
+Phase 3 – Textual analysis 
+ 
+At the end of the interview, each participant was asked to share with the teacher/researcher a 
+received review of papers that had been either accepted or rejected by a computer science 
+high-impact journal. By e-mail, 17 texts were sent by them, representing 12 different 
+publishing processes – four of which recommended rejection of the paper, and the other eight 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+accepted the work. For data analysis, Huckin’s (2004) content analysis methodology was also 
+used, as well as AntConc for raising specific information from the texts.  
+ 
+Carrying out this phase was possible only with the use of ICT. The very concept of research 
+article reviews encompasses a digital dimension. Nowadays, academic publishing processes 
+are conducted online; thus, all the interactions between editors and authors, editors and 
+referees, and editors and editorial boards are via the internet. To have access to these texts, it 
+would be necessary for the researcher to use ICT, not only because the authors are in distant 
+locations, but because the texts per se are in digital format.  
+ 
+Having access to this material contributed to raising the reliability of the research since 
+another perspective on the publication process of high-impact journals in the field could be 
+analyzed: that of the referees. The analysis of the reviews showed the most common issues 
+that the referees consider to reject or recommend the publication of a paper. Table 3 presents 
+an overview of the frequency with which the referees criticized or evidenced authors’ good 
+work regarding each unit of analysis investigated. 
+ 
+Table 3 — Categories of factors considered by referees to reject and accept manuscripts for 
+publication in computer science high-impact journals 
+ 
+Categories 
+Recommendation 
+to reject 
+Recommendation 
+to accept 
+Contextual - positive 
+90% 
+63% 
+Contextual - negative 
+90% 
+50% 
+Textual - positive 
+60% 
+57% 
+Textual - negative 
+60% 
+63% 
+Linguistic - positive 
+0% 
+13% 
+Linguistic - negative 
+40% 
+28% 
+Publishing process - positive 
+10% 
+18% 
+Publishing process - negative 
+20% 
+13% 
+Formatting - negative 
+10% 
+31% 
+ 
+The referees most often commented on contextual issues related to the conduction of the 
+research, such as “originality”, “contribution to existing knowledge”, and “impact of results”, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+either for rejecting the paper (90%) or recommending its publication (50–63%). Textual 
+issues regarding the selection and organization of information in the paper, like “quality of 
+cited work”, “clarity of the methodology”, and “accuracy of data analysis”, were the second 
+most mentioned, for either criticizing (60-63%) them or evidencing the authors’ good work 
+(57–60%). Finally, linguistic issues concerning “syntax”, “spelling” and “coherence” were the 
+least mentioned, followed by formatting and issues related to the publishing process.  
+ 
+This information helped the teacher/researcher understand the order of relevance of each 
+investigated factor (contextual, textual, linguistic, etc.) to the acceptance/rejection of Brazilian 
+computer scientists’ papers by high-impact journals. It is clear, in Table 3, that, although a 
+good ability to write papers in English is considered in the referees’ reviews, it is not a 
+defining criterion for recommending the publication of the paper or not. Rather, the validity 
+and originality of the work are what counts more, followed by clarity, organization, and 
+accuracy of the information in the manuscript. After assessing students’ present situation, the 
+teacher/researcher could plan an appropriate syllabus and design effective tasks to fulfill 
+students’ needs (cf. Vieira, 2019a).  
+ 
+5. Conclusion 
+ 
+This paper aimed to discuss the benefits of using ICT to conduct a contextual TSA at a 
+distance. Results show that this use was essential for two main reasons: besides facilitating 
+data analysis through multiple computer programs, such as Microsoft Word, Microsoft Excel, 
+and AntConc, they enabled the researcher to gather data at a distance and to ensure the 
+specificity, praxis, and criticism that CEAP pedagogy advocates for. 
+ 
+First, the conduction of a global investigation of the target discourse community responded to 
+the specific needs of the target audience: students from around Brazil who need to share their 
+research results with their peers located around the globe. Those different backgrounds have 
+led to distinct experiences with academic literacy and publication, which could be properly 
+investigated at a distance, expanding the scope of the contextual TSA as well as saving time 
+and resources in course preparation.  
+ 
+As far as criticism is concerned, ICT made possible the investigation of, among other things, 
+the experience and beliefs of members of this global discourse community concerning the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+conduct and sharing of research in computer science. Results helped the teacher/researcher 
+understand the causes of the contextual specificities identified, and their influence on the 
+engagement of Brazilian researchers with international peers. 
+ 
+Finally, this investigation conducted using ICT tools and instruments informed the 
+teacher/researcher on how to better select and organize content in the syllabus of the course, 
+according to their level of relevance in manuscript analysis by referees. Thus, they 
+substantiated the teacher/researcher praxis, once they provided relevant information, which 
+she used to plan, organize, and conduct her teaching practice (Vieira, 2019a). The use of ICT, 
+as shown in this paper, makes possible a wider contextual investigation of the TSA, reaching 
+not only a local but also a global community with which students need to engage during their 
+academic practices. 
+ 
+In Brazil, a continental developing country that is just starting the internationalization process 
+of universities and where there barely are academic writing courses to help students in this 
+task, online EAP/CEAP courses may represent the only opportunity for these novice 
+researchers to develop their academic writing skills. However, the design of such courses may 
+be a big challenge for teachers and course developers, due to social, cultural, ideological, and 
+economic discrepancies among different regions of the country. To assure the specificity ESP 
+pedagogy advocates for, present and target situation analysis must also investigate contextual 
+issues regarding discursive practices in the target discourse community in each region where 
+students are from. Carrying out this investigation in locus, in this case, may be time- and 
+resource-demanding. Contextual TSA at a distance, then, appears as the best solution to 
+assure specificity, criticism, and praxis for the design of courses that fully attend to students’ 
+needs and wants with fewer investments, which is only possible thanks to ICT.  
+ 
+At this point, it is necessary to consider that, although ICT makes possible the improvement 
+of contextual TSA for reaching a global discourse community, it may also limit such an 
+improvement in regions and countries where teachers and course developers have no access to 
+them. Unfortunately, the scientific equity that CEAP aims to promote among students 
+depends on an array of factors that are out of instructors’ control. It is important, however, 
+that ESP teachers and practitioners keep on searching for ways to bring more access to 
+underrepresented minorities through language courses. As Bazerman et al. (2009, pp. XIV) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+remember, “advancing the communicative competence of all, making available the genres of 
+power and cooperation, is a matter of social capacity and social justice”. 
+ 
+Acknowledgements 
+This research was carried out with the support of Coordination of Superior Level Staff 
+Improvement (CAPES) (funding code 001); and The São Paulo Research Foundation 
+(FAPESP) (funding codes 15/11088-1 and 16/06589-4). My sincere acknowledgements to 
+Lecturer Norman Douglas Bradley, from University of California in Santa Barbara, for kindly 
+proofreading this paper.  
+ 
+Ethics Committee Approval Statement 
+ 
+This investigation was approved by the Research Ethics Committee from UNESP – Instituto 
+de Biociências Letras e Ciências Exatas on March 23, 2017. 
+ 
+Conflict of interests 
+ 
+The corresponding author has no conflict of interest to declare and bears full responsibility 
+for the submission. 
+ 
+References  
+ 
+Aaker, D. A., & Day, G. S. (1990). Marketing Research (4th. ed.). John Wiley & Sons. 
+Aranha, S. (2009). The development of a genre-based writing course for graduate students in 
+two fields. In C. Bazerman, A. Bonini, & D. Figueiredo (Eds.), Genre in a changing world 
+(pp. 465-482). (10th ed.). The WAC Clearinghouse and Parlor Press. 
+Aranha, S., & Vieira, B. G. A. M. (2018). Conhecimento de língua, gênero e registro 
+acadêmicos em foco: atividades na análise de necessidades de um curso de EAP para pós-
+graduandos em ciência da computação. In: M. M. FERREIRA, & V. C. R. STELLA (Orgs.). 
+Redação acadêmica: múltiplos olhares para o ensino da escrita acadêmica em português 
+e línguas estrangeiras (pp. 191-220). 1st. ed. Humanitas. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Arnó-Macià, E., & Rueda-Ramos, C. (2011). Promoting reflection on science, technology, 
+and society among engineering students through an EAP online learning environment. 
+Journal of English for Academic Purposes, 10(1), 19-31. 
+https://doi.org/10.1016/j.jeap.2010.12.004  
+Bazerman, C., Bonini, A., & Figueiredo, D. (Eds.). (2009). Genre in a changing world (10th 
+ed.). The WAC Clearinghouse and Parlor Press. 
+Benesch, S. (1996). Needs Analysis and curriculum development in EAP: an example of a 
+critical approach. TESOL Quarterly, 30, 723-738. 
+Benesch, S. (2001). Critical English for academic purposes. Blackwell Publishing Ltda. 
+Benesch, S. (2009). Theorizing and practicing critical English for academic purposes. Journal 
+of English for Academic Purposes, 8(2), 81-85. https://doi.org/10.10161j jeap.2008.09 .002  
+Bloch, J. (2012).  Technology in ESP. In B. Paltridge, & S. Starfield (Eds.), The handbook of 
+English for specific purposes (pp. 385-402). John Wiley & Sons. 
+Cheng, A. (2008). Analyzing genre exemplars in preparation for writing: The case of an L2 
+graduate student in the ESP genre-based instructional framework of academic literacy. 
+Applied Linguistics, 29(1), 50-71. https://doi.org/10.1093/applin/amm021  
+Chun, C. W. (2009). Contesting neoliberal discourses in EAP: Critical praxis in an IEP 
+classroom. Journal of English for Academic Purposes, 8(2), 111-120. 
+https://doi.org/10.1016/j.jeap.2008.09.005  
+Dehnad, A., Bagherzadeh, R., Bigdeli, S., Hatami, K., & Hosseini, F. (2010). Syllabus 
+revision: a needs analysis Study. Procedia-Social and Behavioral Sciences, 9, 1307-1312. 
+https://doi.org/10.1016/j.sbspro.2010.12.325  
+Eckhaus, R. (2018). Supporting the adoption of business case studies in ESP instruction 
+through technology. The Asian ESP Journal, 14, 280-298. 
+Ferreira, M. M.; Lousada, E. G. (2016). Ações do Laboratório de Letramento Acadêmico da 
+USP: promovendo a escrita acadêmica na graduação e na pós-graduação. Ilha do Desterro, 
+69(3), 125-140. https://doi.org/10.5007/2175-8026.2016v69n3p125  
+Flowerdew, J., & Peacock, M. (2001). Research perspectives on English for academic 
+purposes. Cambridge University Press. 
+Gordon, D., & Dawes, G. (2005). Expanding your world: Modeling the structure of 
+experience. Desert Rain. 
+Ha, A. Y. H., & Hyland, K. (2017). What is technicality? A Technicality Analysis Model for 
+EAP vocabulary. Journal of English for Academic Purposes, 28, 35-49. 
+https://doi.org/10.1016/j.jeap.2017.06.003  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Hara, N., & Kling, R. (2000). Student distress in a web-based distance education course. 
+Information, Communication & Society, 3(4), 557-579. 
+https://doi.org/10.1080/13691180010002297  
+Huckin, T. (2004). Content analysis: what texts talk about. In C. Bazerman, & P. Prior (Eds.). 
+What writing does and how it does it: An introduction to analyzing texts and textual practices 
+(pp. 13-32). Lawrence Erlbaum Associates. 
+Hyland, K. (2002). Specificity revisited: how far should we go? English for Specific 
+Purposes, 21, 385-395. 
+Hyland, K. (2007). English for specific purposes. In J. Cummins, & C. Davidson, 
+International handbook of English language teaching (pp. 391-402). Springer. 
+Karagiorgi, Y. (2005). Throwing light into the black box of implementation: ICT in Cyprus 
+elementary schools. Educational Media International, 42(1), 19-32. 
+https://doi.org/10.1080/09523980500116654 
+Keranen, N., Encinas, F., & Bazerman, C. (2012). Immersed in the game of science: beliefs, 
+emotions, and strategies of NNES scientists who regularly publish in English. In C. Bazerman 
+(Eds.). International advances in writing research: cultures, places and measures (pp. 387-
+402). The WAC Clearinghouse and Parlor Press. 
+Khosrowjerdi, M. (2011). Designing a viable scientific communication model: VSM 
+approach. Library Hi Tech, 29(2), 359-372. 
+Kumaravadivelu, B. (2001). Toward a postmethod pedagogy. TESOL quarterly, 35(4), 537-
+560. https://doi.org/10.2307/3588427 
+Lam, Y. (2000). Technophilia vs. technophobia: A preliminary look at why second-language 
+teachers do or do not use technology in their classrooms. Canadian Modern Language 
+Review, 56(3), 389-420. 
+Larsen-Freeman, D. (1997). Chaos: complexity science and second language acquisition. 
+Applied Linguistics, 18(2), 141-165. 
+Mason, M. (2008). What is complexity theory and what are its implications for educational 
+change? Educational Philosophy and Theory, 40(1), 35–49. https://doi.org/10.1111/j.1469-
+5812.2007.00413.x   
+Molle, D., & Prior, P. (2008). Multimodal genre systems in EAP writing pedagogy: 
+Reflecting on a needs analysis. Tesol Quarterly, 42(4), 541-566. 
+https://doi.org/10.1002/j.1545-7249.2008.tb00148.x 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Morgan, B. (2009). Fostering transformative practitioners for critical EAP: Possibilities and 
+challenges. Journal of English for Academic Purposes, 8(2), 86-99. 
+https://doi.org/10.1016/j.jeap.2008.09.001  
+Oliveira, E. F. T., & Grácio, M.C.C. (2005). Análise a respeito do tamanho de amostras 
+aleatórias simples: uma aplicação na área de Ciência da Informação. DataGramaZero Revista 
+de Ciência da Informação, João Pessoa, 6(3), 1-11. 
+Sahraini, Syamsudarni. (2018). Helping Slamic Higher Education Students Learn Listening 
+Skills by Using Video-cast. The Asian ESP Journal, 14(7.2), 176-194. 
+Sarmento, M. E. D. R. (2012). Análise de necessidades de inglês para fins específicos em um 
+curso de graduação em turismo [Master's thesis, Universidade Federal do Rio Grande do 
+Norte]. UFRN Campus Repository. https://repositorio.ufrn.br/handle/123456789/16227  
+Songhori, M. H. (2008). Introduction to needs analysis. English for Specific Purposes World, 
+7(4), 1-25. 
+Supatranont, P. (2012). Developing a writing template of research article abstracts: A corpus-
+based method. Procedia-Social and Behavioral Sciences, 66, 144-156. 
+https://doi.org/10.1016/j.sbspro.2012.11.256  
+Swales, J. M. (1990). Genre Analysis: English in academic and research settings. Cambridge 
+University Press. 
+Terra. (n.d.). Investimento da Educação Pública. Retrieved January 30, 2020, from 
+http://noticias.terra.com.br/educacao/infograficos/gasto-publico-educacao/  
+Warschauer, M. (2002). Reconceptualizing the digital divide. First monday, 7(7). 
+https://firstmonday.org/ojs/index.php/fm/article/download/967/888?inline=1  
+Warschauer, M. (2003). Demystifying the digital divide. Scientific American, 289(2), 42-47. 
+Vieira, B. G. A. M. (2014). Passos para a elaboração de um curso de EAP para pós-
+graduandos em Ciência da Computação [Master's thesis, São Paulo State University]. 
+UNESP Campus Repository. https://repositorio.unesp.br/handle/11449/122198  
+Vieira, B. G. A. M. (2017). Genre knowledge in the needs analysis process: using a writing 
+activity to assess present situation. Revista Trama (UNIOESTE online), 13, 29-53. 
+Vieira, B. G. A. M. (2019a). Do crítico ao complexo: uma pedagogia em inglês para fins 
+específicos para a promoção do letramento acadêmico de pós-graduandos brasileiros a 
+distância [Doctoral Dissertation, São Paulo State University]. UNESP Campus Repository. 
+https://repositorio.unesp.br/bitstream/handle/11449/182147/vieira_bgam_dr_sjrp.pdf?sequenc
+e=5&isAllowed=y  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+Vieira, B. G. A. M. (2019b). A pedagogia crítico-complexa e a análise da situação-alvo: 
+investigando preconceitos e privilégios na academia. Revista do GEL, 16, 140-164. 
+https://doi.org/10.21165/gel.v16i3.2772  
+Vieira, B. G. A. M. (2020). Present situation analysis within critical-complex pedagogy: 
+surfing the text, the context and the discourse. Letras, 125-150. 
+https://doi.org/10.5902/2176148543333  
+Vieira, B. G. A. M, & Aranha, S. (2015a). O primeiro passo na trajetória da elaboração de um 
+curso de EAP para pós-graduandos em Ciência da Computação: análise de necessidades. 
+Entretextos (UEL), 15, 139-171. 
+Vieira, B. G. A. M, & Aranha, S. (2015b). A Análise de Necessidades na trajetória da 
+elaboração de um curso de EAP para pós-graduandos em ciência da computação. The 
+ESPecialist, 36, 49-72. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202257247
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

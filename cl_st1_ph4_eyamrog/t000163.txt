@@ -1,0 +1,1336 @@
+Status: Preprint has not been submitted for publication
+Mental Health of Dentists during the COVID-19 Pandemic: A
+Critical Literature Review
+Isla Camilla Carvalho Laureano, Lunna Farias, Alessandro Leite Cavalcanti
+DOI: 10.1590/SciELOPreprints.1148
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The authors declare that in the event that this manuscript has previously been submitted to a journal and
+being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
+server.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed and published by a journal, the authors declare that they have received
+authorization from the journal to make this deposit.
+Submitted on (YYYY-MM-DD): 2020-08-27
+Posted on (YYYY-MM-DD): 2020-08-28
+Powered by TCPDF (www.tcpdf.org)
+Mental Health of Dentists during the COVID-19 Pandemic: A Critical Literature 
+Review 
+ 
+Mental Health of Dentists and COVID-19 
+ 
+Isla Camilla Carvalho Laureano¹, Lunna Farias¹, Alessandro Leite Cavalcanti1 
+ 
+¹Departament of Dentistry, School of Dentistry, State University of Paraíba, Campina 
+Grande, Paraíba, Brazil. 
+ 
+Corresponding Author: 
+Isla Camilla Carvalho Laureano 
+Universidade Estadual da Paraíba, Departamento de Odontologia, Avenida das 
+Baraúnas, S/N – Bodocongó Campina Grande/PB, Brasil. CEP: 58429-500. 
+E-mail: carvalhoisla@gmail.com 
+ 
+Email 
+addresses: 
+carvalhoisla@gmail.com, 
+lunna_farias@hotmail.com, 
+alessandrouepb@gmail.com  
+ 
+Collaborators 
+ICCL and LF wrote the manuscript. ALC conceived the study idea and wrote the 
+manuscript. All authors read and approved the final manuscript.  
+ 
+ORCID Isla Camilla Carvalho Laureano: 0000-0002-6621-1834 
+ORCID Lunna Farias: 0000-0002-4077-6706 
+ORCID Alessandro Cavalcanti: 0000-0003-3572-3332  
+ 
+We declare that all authors of this manuscript have made substantial contributions to 
+the conception of the paper, the acquisition, analysis and interpretation of data and the 
+writing of the manuscript. All approved the submitted version. 
+ 
+We further declare that there are no conflicts of interest between the authors of this 
+manuscript, with companies that may eventually benefit from the results of the study. 
+ 
+ABSTRACT 
+The effects of the Coronavirus Disease 2019 (COVID-19) pandemic on the mental 
+health of healthcare professionals has become a concern, particularly among those 
+who are in close contact with infected patients, including dentists. The aim of this 
+critical literature review was to analyze the possible implications of the COVID-19 
+pandemic on the mental health of dentists. This bibliographic search was carried out 
+in the PubMed, Web of Science and Scopus databases, using the following search 
+keywords “Psychiatry OR anxiety OR fear OR depression OR psychological distress 
+OR mental health” AND “COVID-19 OR SARS-CoV-2” AND “Dentists OR dental 
+practice. Original research publications that included data on the mental health status 
+of dentists during the COVID-19 pandemic were included. Data were tabulated in 
+Microsoft Excel 2016 for Windows and descriptively presented. Eleven publications 
+were eligible for this review. All studies had cross-sectional design. Most of them used 
+questionnaires created by study researchers (81.8%) and were carried out in Italy 
+(45.5%). The number of participants ranged from 14 to 1,500. Effects on the mental 
+health of dentists during the COVID-19 pandemic were observed, regarding fear of 
+contamination, anxiety, concerns, stress, depression, job insecurity, subjective 
+overload, perceived risk and feelings and emotions. It was concluded that the COVID-
+19 pandemic had negative impact on the mental health of dentists, with high 
+prevalence of fear, anxiety and concern, among other psychological symptoms. 
+ 
+Indexing terms: Fear. Mental Health. COVID-19. Dentists. 
+ 
+ 
+INTRODUCTION 
+  
+At the end of 2019, in the province of Wuhan, China, the spread of a new virus 
+of the family Coronaviridae was detected, the same as the causative agent of the 
+Severe Acute Respiratory Syndrome (SARS) pandemic in 2002-2003 [1,2]. This virus 
+spread rapidly around the world, causing an infectious respiratory disease that became 
+known as Coronavirus Disease 2019 (COVID-19) [1,2]. In March 2020, the World 
+Health Organization recognized the disease as a public health problem and raised the 
+contamination status to the COVID-19 pandemic [3]. Currently, the disease is found in 
+216 countries, accounting to more than 18.5 million confirmed cases and 700,000 
+deaths, with the Americas concentrating almost 10 million diagnosed individuals [4]. 
+  
+SARS-CoV-2 is a positive, spherical, enveloped RNA virus with approximate 
+size of 30 kilobase (kbp) [5], which can be transmitted by direct contact - coughing, 
+sneezing and inhalation of droplets -, and by contact with mucous membranes - oral, 
+nasal and ocular [6]. Thus, people who are in close contact with patients with COVID-
+19, including health professionals, are at increased risk of contamination [2,7]. Dentists 
+in particular, have high risk of contamination and great potential to infect their family 
+members and other patients, as they work close to the oral cavity of patients in direct 
+contact with salivary fluids and in closed environment [8]. 
+  
+Most infected individuals have mild symptoms [2], with common fever and 
+cough, and may also experience shortness of breath, muscle pain, confusion, 
+headache, sore throat, diarrhea and vomiting [9]. Among the most severe cases, 
+patients develop Acute Respiratory Distress Syndrome (ARDS), cardiac arrhythmia 
+and shock [9]. Older individuals and the presence of comorbidities are associated with 
+worse prognosis [10]. 
+  
+Social isolation and distancing measures have been adopted by the 
+governments of different countries to prevent contagion and spread of the virus [11], 
+such as severe restrictions on dental practice, in which dentists were allowed to 
+perform only emergency procedures in several countries, such as China [2], Italy [12], 
+United States of America [13], Brazil [14] and the United Kingdom [15]. These 
+conditions generated financial consequences, insecurity and anxiety, leading to 
+greater risk for the emergence of mental health problems [7,16]. Workers who were 
+forced to stop working due to the pandemic reported increase in suffering and decline 
+in general health [17]. 
+  
+In addition, social networks and the media in their various forms, spreading 
+alarming news about the growing number of infected people, may have adversely 
+affected the population and generated situations of stress, fear of contamination, 
+personal frustration and difficulties in obtaining protective equipment [18], as well as 
+stigma of COVID-19 and concerns about the well-being of themselves and their 
+families [19]. 
+  
+Therefore, this critical review aims to analyze the possible implications of the 
+COVID-19 pandemic on the mental health of dentists. 
+ 
+METHODS 
+  
+This is a bibliographic search conducted through the analysis of articles indexed 
+until July 2020 in PubMed (U.S. National Institutes of Health's National Library of 
+Medicine), Web of Science (Clarivate Analytics) and Scopus (Elsevier) databases. For 
+the study, the search keywords used were “Psychiatry OR anxiety OR fear OR 
+depression OR psychological distress OR mental health” AND “COVID-19 OR SARS-
+CoV-2” AND “dentists OR dental practice”. The PRISMA guidelines were followed 
+(Available: http://prisma-statement.org/). 
+  
+Articles eligible for the study were original research publications that presented 
+data on the mental health status of dentists during the COVID-19 pandemic. Review 
+and editorial articles were excluded. The analysis of studies was independently carried 
+out by two researchers (ICCL and LF). At the end of the analysis, information collected 
+was compared and differences were discussed. In cases of lack of consensus, a third 
+researcher (ALC) decided to include or exclude the article. 
+  
+The following variables were collected: information about the article (authors 
+and year of publication), country, study design and research instrument, sample, sex, 
+age, mental health conditions, COVID-19 status (positive or negative), risk group (yes 
+or no), main results (related to the mental health of dentists). Data were tabulated using 
+the Microsoft Excel 2016 software for Windows (Microsoft Press, Redmond, WA, USA) 
+and were descriptively presented. 
+ 
+RESULTS 
+  
+Eighty-eight articles were found and distributed as follows: 14 in PubMed, 8 in 
+Web of Science and 66 in Scopus. After removing duplicates, 70 studies remained, of 
+which 15 were selected from reading of titles and abstracts. Of these, two systematic 
+review articles were excluded because they did not meet the eligibility criteria. All other 
+articles identified were analyzed in full. After full reading, two articles were excluded: 
+one for not presenting information about the mental health of dentists and the other for 
+not showing data specifically collected from dentists, but from health workers in 
+general. At the end, 11 articles were included in this review (Figure 1). 
+ Regarding geographical distribution, most studies were carried out by 
+researchers in Italy (45.5%), followed by India (36.4%). Regarding the methodological 
+design, all studies had cross-sectional design, using questionnaires (100%), with 
+predominance of questionnaires created by study researchers (81.8%). The sample 
+size ranged from 14 [20], to 1500 participants [21], with Chinese and Italian individuals, 
+respectively. In most studies, participants were men (55.6%) and young adults 
+(55.6%). Six studies evaluated the fear of dentists during COVID-19 pandemic; six 
+studies, anxiety; five studies, concerns; five, stress; two, depression; two, job 
+insecurity; two, subjective overload; one, perceived risk and one, feelings and 
+emotions. Only one study found dentists diagnosed with COVID-19 (50%) [22], and 
+the frequency of dentists in the risk group ranged from 4.5% [23] in Italy to 28.8% [24] 
+in Poland (Table 1). 
+ 
+ 
+DISCUSSION 
+  
+The COVID-19 pandemic brought changes around the world, such as situations 
+of social distancing and isolation associated with the proposed restriction measures to 
+control the disease [20]. In this context, mental health problems among health 
+professionals resulting from changes in various daily routine aspects are gaining 
+prominence [20]. This review highlights the significant impact of COVID-19 on the 
+mental health of dentists and aims to inform these professionals about adversities 
+experienced, to enable greater understanding of the problems that may affect the 
+dental class and to assist in the planning of actions in this pandemic moment. 
+  
+Feelings of fear, anxiety and stress have been reported in most studies [8,22-
+24,26,27]. Fear was associated with the fear of being infected by a patient or co-
+worker, taking the infection to their families and possibly causing permanent effects 
+[7,8,22,25]. The dentist works in an environment with intense generation of aerosols 
+and close contact with patients and their salivary secretions, which significantly 
+increases their chances of contamination, justifying this behavior. Staying in hospital 
+or in social isolation, possibility of infection, and the increase in mortality in the country 
+were also causes for feelings of fear [8]. It is possible to infer that the lack of knowledge 
+about the viral behavior pattern in the population can directly influence this behavior. 
+  
+Two studies [20,22] used the General Anxiety Disorder-7 (GAD-7) to check the 
+level of anxiety and both identified increase in anxiety disorders in this period. These 
+data suggest that the pandemic is a source of anxiety for dentists and other 
+professionals who are part of the dental team. The symptom was mainly related to the 
+routine of care when treating patients with suspicious symptoms [20,22]. The guidance 
+of the World Health Organization is that the suspected or diagnosed individual remains 
+in isolation until recovery or presenting negative diagnosis for COVID-19 [3]. However, 
+in cases of dental emergencies, the dentist will need to intervene to minimize or resolve 
+the patient's problem, and there may be need for close contact between patient and 
+professional and, therefore, greater likelihood of infection. 
+  
+The prevalence of generalized anxiety symptoms found in studies [20,29] is 
+relevant, since high GAD-7 scores have been shown to be associated with reduced 
+productivity at work, increased inflammatory processes and, consequently, decreased 
+immune system response [20,29]. Being immunocompromised may be related to 
+worse prognosis in confirmed COVID-19 cases. In addition to anxiety, the highest 
+stress levels were found among dentists included in a risk group [27]. 
+  
+Depressive symptoms have also been identified [7,26]. Younger or less 
+experienced individuals reported having greater fear of losing their jobs, indicating 
+increase in depressive symptoms [7]. It is suggested that these professionals may be 
+in a less stable and financially more insecure job condition. Knowing more than one 
+person who died due to COVID-19 was also associated with higher levels of depressive 
+symptoms [7]. The loss of close people makes these professionals more sensitive to 
+the situation and aware of the disease severity. 
+  
+Regarding patient management concerns, significant number of dentists 
+(57.8%) reported that they would like to request test results for COVID-19 from all 
+patients before performing any aerosol-generating treatment procedure [25]. Rapid 
+diagnostic tests for COVID-19 have low sensitivity and there is a period of latency and 
+virus manifestation that varies between populations, making the test result unsafe [30]. 
+In addition, the cost of tests can make their performance unviable. The adoption of this 
+criterion for access to care can make it even more difficult for the patient to seek the 
+dental office. Another concern reported was the impossibility of purchasing personal 
+protective equipment due to the lack of these products on the market [20]. 
+  
+Other less common psychological effects reported were job insecurity, 
+subjective overload, perceived risk and feelings and emotions. For Italian dentists 
+[7,21], perceived job insecurity was associated with depressive symptoms and this 
+association increased with fear of COVID-19 infection [7]. The perception of job 
+insecurity is the fear of losing or maintaining it [31]. Measures to avoid virus contagion 
+such as social distancing, isolation and limitation of dental activities resulted in financial 
+losses and, possibly, in the perception of job insecurity. Professionals with higher fear 
+of COVID-19 infection may consider their jobs at greater risk, because, if they are 
+contaminated, they would be unable to work for a specified period [7]. 
+  
+Subjective overload differed significantly among different countries - China, 
+India, Israel, Italy and the United Kingdom, with the highest average value in the United 
+Kingdom, followed by China, Italy, India and Israel [23]. When subjective overload and 
+psychological distress correlations were compared between countries, the highest 
+values were observed among Italian dentists compared to Chinese, Indian and Israeli 
+dentists [23]. Subjective overload refers to perceptions and feelings that surround 
+circumstances experienced by individuals in various aspects of the daily life, and not 
+just the professional aspect [32]. However, included studies used instruments that 
+assessed subjective work-related overload [23,27], demonstrating that Italian dentists 
+experienced higher levels of stress at work, possibly due to the scenario observed in 
+the country. This association between subjective overload and psychological distress 
+can be explained by the Karasek's [33] demand-control-support model, in which stress 
+experience is the result of the interaction between stressor, the individual's perception 
+of control over the stressor and social support. In the context of uncertainties 
+surrounding the COVID-19 pandemic, dentists have poor control, resulting in greater 
+subjective overload [27]. Additionally, COVID-19 numbers may have a different impact 
+on overload subjective and psychological distress experienced by individuals from 
+different cultures and countries [23]. 
+  
+The assessment of perceived risk among Italian orthodontists in relation to 
+COVID-19 revealed that most professionals considered dental practice to be of high 
+risk for themselves and their families [26]. Regarding orthodontic care, there was 
+higher frequency of professionals who considered it to be of lower risk [26], since 
+Orthodontics can be classified as a specialty that represents little risk of contamination, 
+since care is faster, generates less aerosols and most patients are in the age group 
+least affected by the virus [34]. However, orthodontists should be aware of the SARS-
+CoV-2 transmission pathways, screen suspected patients, follow official protection 
+guidelines for controlling virus transmission and request patient cooperation. 
+  
+Other psychological consequences reported were the high frequency of some 
+level of sadness and moderate frequency of anger related to COVID-19 [22]. This result 
+corroborates findings of a recent review on the effects of quarantine in previous 
+outbreaks, which demonstrated that health professionals were more psychologically 
+affected, reported more anger, fear and sadness [35], suggesting the importance of 
+psychological attention to health professionals, including dentists, during pandemics. 
+In addition, the creation of programs to provide economic support for professionals and 
+encourage the use of applications or computer programs to facilitate communication 
+via the Internet with patients, which are measures that can help reduce the impact on 
+the mental health of these professionals, including dentists. 
+  
+All studies included in this review were carried out through the distribution of an 
+online questionnaire [8,20-25,27,28]. Digital tools gained prominence in studies during 
+the COVI-19 pandemic, as they are a means of obtaining information quickly and 
+directed to their target populations. Other advantages include answering 
+questionnaires via cell phone, obtaining data in real time, sending questionnaire via 
+links from one person to another and knowledge of the instant diagnosis of the health 
+situation [36]. On the other hand, the use of non-validated questionnaires and 
+convenience samples end up by influencing data generalization [37]. 
+ 
+CONCLUSION 
+  
+The COVID-19 pandemic had a negative impact on the mental health of 
+dentists, with high prevalence of fear, anxiety and concern, among other psychological 
+symptoms. The support and monitoring of these professionals is highly necessary to 
+minimize traumatic episodes resulting from the COVID-19 pandemic. 
+ 
+REFERENCES 
+1. Phelan AL, Katz R, Gostin LO. The Novel Coronavirus Originating in Wuhan, China: 
+Challenges for Global Health Governance [published online ahead of print, 2020 Jan 
+30]. JAMA. 2020;10.1001/jama.2020.1097. doi:10.1001/jama.2020.1097 
+ 
+2. Meng L, Hua F, Bian Z. Coronavirus Disease 2019 (COVID-19): Emerging and 
+Future Challenges for Dental and Oral Medicine. J Dent Res. 2020;99(5):481-487. 
+doi:10.1177/0022034520914246  
+ 
+3. World Health Organization. Archived: WHO Timeline - COVID-19. 2020. [cited 2020 
+Ago 6]. Available from: https://www.who.int/news-room/detail/27-04-2020-who-
+timeline---covid-19  
+ 
+4. World Health Organization. Coronavirus disease (COVID-19) pandemic. 2020b. 
+[cited 2020 Ago 6]. Available from:  https://www.who.int/emergencies/diseases/novel-
+coronavirus-2019  
+ 
+5. Mousavizadeh L, Ghasemi S. Genotype and phenotype of COVID-19: Their roles in 
+pathogenesis [published online ahead of print, 2020 Mar 31]. J Microbiol Immunol 
+Infect. 2020;S1684-1182(20)30082-7. doi:10.1016/j.jmii.2020.03.022 
+ 
+6. Lo Giudice R. The Severe Acute Respiratory Syndrome Coronavirus-2 (SARS CoV-
+2) in Dentistry. Management of Biological Risk in Dental Practice. Int J Environ Res 
+Public Health. 2020;17(9):3067. doi:10.3390/ijerph17093067 
+ 
+7. Gasparro R, Scandurra C, Maldonato NM, Dolce P, Bochicchio V, Valletta A, et al. 
+Perceived Job Insecurity and Depressive Symptoms among Italian Dentists: The 
+Moderating Role of Fear of COVID-19. Int J Environ Res Public Health. 
+2020;17(5):5338. doi:10.3390/ijerph17155338 
+ 
+8. Ahmed MA, Jouhar R, Ahmed N, Adnan S, Aftab M, Zafaret MS, al. Fear and 
+Practice Modifications among Dentists to Combat Novel Coronavirus Disease (COVID-
+19) 
+Outbreak. 
+Int 
+J 
+Environ 
+Res 
+Public 
+Health. 
+2020;17(8):2821. 
+doi:10.3390/ijerph17082821 
+ 
+9. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. 2020. Epidemiological and 
+clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, 
+China: a descriptive study. Lancet. 2020;395(10223):507-513. doi:10.1016/S0140-
+6736(20)30211-7 
+ 
+10. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical Characteristics of 138 
+Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, 
+China [published online ahead of print, 2020 Feb 7]. JAMA. 2020;323(11):1061-1069. 
+doi:10.1001/jama.2020.1585 
+ 
+11. Maciel PP, Júnior HM, Martelli DRB, Machado RA, de Andrade PV, da Cruz Perez 
+DE, et al. COVID-19 Pandemic: Oral Repercussions and its Possible Impact on Oral 
+Health. Pesq 
+Bras 
+Odontop 
+Clín 
+Integ. 
+2020;20(supp1):e0138. 
+doi: 
+10.1590/pboci.2020.135 
+ 
+12. Governo Italiano: Presidenza del Consiglio dei Ministri. Decreto #IoRestoaCasa, 
+domande frequenti sulle misure adottate dal Governo. Rome (Italy): Governo Italiano; 
+2020. [cited 2020 Ago 6]. Available from: http://www.governo.it/it/faq-iorestoacasa.  
+ 
+13. American Dental Association. Summary of ADA Guidance During the COVID-19 
+Crisis. 
+2020. 
+[cited 
+2020 
+Ago 
+6]. 
+Available 
+from: 
+https://success.ada.org/~/media/CPS/Files/COVID/COVID-
+19_Int_Guidance_Summary.pdf?utm_source=adaorg&utm_medium=covid-
+resources-lp&utm_content=cv-pm-summary-guidance&utm_campaign=covid-
+19&_ga=2.153317240.1307346859.1585573040-
+13458067.1578068990?utm_source=adaorg&utm_medium=adanews&utm_content=
+cv-pm-summary-guidance&utm_campaign=covid-19 
+ 
+14. BRASIL. Secretaria de Atenção Primária à Saúde (SAPS). Nota Técnica Nº 
+9/2020-CGSB/DESF/SAPS/MS. 2020. [cited 2020 Ago 6]. Available from: 
+https://website.cfo.org.br/wp-content/uploads/2020/03/COVID-19_ATENDIMENTO-
+ODONTOLOGICO-NO-SUS.pdf 
+ 
+15. Hurley S, Neligan M. Issue 3: Preparedness letter for primary dental care – 25 
+March 
+2020. 
+2020. 
+[cited 
+2020 
+Ago 
+6]. 
+Available 
+from:  
+https://www.england.nhs.uk/coronavirus/wp-content/ uploads/sites/52/2020/03/issue-
+3-preparedness-letterfor-primary-dental-care-25-march-2020.pdf  
+ 
+16. Farooq I, Ali S. COVID-19 outbreak and its monetary implications for dental 
+practices, hospitals and healthcare workers [published online ahead of print, 2020 Apr 
+3]. Postgrad Med J. 2020;postgradmedj-2020-137781. doi:10.1136/postgradmedj-
+2020-137781 
+ 
+17. Zhang SX, Wang Y, Rauch A, Wei F. Health, distress, and life satisfaction of people 
+one-month into COVID-19 outbreak in China. medRxiv 2020, in press. doi: 
+10.2139/ssrn.3555216 
+ 
+18. González-Olmo MJ, Ortega-Martínez AR, Delgado-Ramos B, Romero-Maroto M, 
+Carrillo-Diaz María. Perceived vulnerability to Coronavirus infection: impact on dental 
+practice. Braz Oral Res. 2020;34:e044). doi:10.1590/1807-3107bor-2020.vol34.0044  
+ 
+19. Gavin B, Hayden J, Adamis D, McNicholas F. Caring for the Psychological Well-
+Being of Healthcare Professionals in the Covid-19 Pandemic Crisis. Ir Med J. 
+2020;113(4):51. 
+20. Mahendran K, Patel S, Sproat C. Psychosocial effects of the COVID-19 pandemic 
+on staff in a dental school hospital. Br Dent J. 2020;229(2):127-132. doi: 
+10.1038/s41415-020-1792-3 
+21. Stefani A, Bruno G, Mutinelli S, Gracco A. COVID-19 Outbreak Perception in Italian 
+Dentists. 
+Int 
+J 
+Environ 
+Res 
+Public 
+Health. 
+2020;17(11):3867. 
+doi:10.3390/ijerph17113867 
+ 
+22. Consolo U, Bellini P, Bencivenni D, Iani C, Checchi V. Epidemiological Aspects 
+and Psychological Reactions to COVID-19 of Dental Practitioners in the Northern Italy 
+Districts of Modena and Reggio Emilia. Int J Environ Res Public Health. 
+2020;17(10):3459. doi:10.3390/ijerph17103459 
+ 
+23. Mijiritsky E, Hamama-Raz Y, Liu F, Datarkar NA, Mangani L, Caplan J, et al. 
+Subjective Overload and Psychological Distress among Dentists during COVID-19. Int 
+J Environ Res Public Health. 2020;17,5074. doi:10.3390/ijerph17145074 
+ 
+24. Tysiąc-Miśta M, Dziedzic A. The Attitudes and Professional Approaches of Dental 
+Practitioners during the COVID-19 Outbreak in Poland: A Cross-Sectional Survey. Int 
+J Environ Res Public Health. 2020;17(13):4703. doi:10.3390/ijerph17134703 
+ 
+25. Kinariwala N, Samaranayake LP, Perera I, Patel Z. Concerns and fears of Indian 
+dentists on professional practice during the coronavirus disease 2019 (COVID-19) 
+pandemic. Oral Dis. 2020;00:1–3. doi:10.1111/odi.13459 
+ 
+26.  Martina S, Amato A, Rongo R, Caggiano M, Amato M. The Perception of COVID-
+19 among Italian Dentists: An Orthodontic Point of View. Int J Environ Res Public 
+Health. 2020;17(12):4384. doi:10.3390/ijerph17124384 
+ 
+27. Shacham M, Hamama-Raz Y, Kolerman R, Mijiritsky O, Ben-Ezra M, Mijiritsky E. 
+COVID-19 Factors and Psychological Factors Associated with Elevated Psychological 
+Distress among Dentists and Dental Hygienists in Israel. Int J Environ Res Public 
+Health. 2020;17(8):2900. doi:10.3390/ijerph17082900 
+28. Nair AKR, Karumaran CS, Kattula D, Thavarajah R, Mohandoss AA. Stress levels 
+of Indian endodontists during COVID-19 pandemic. Rev Cubana Estomatol. 
+2020;57(3):e3445. 
+29. Hou R, Garner M, Holmes C, Osmond C, Teeling J, Lau L, Baldin DS. Peripheral 
+inflammatory cytokines and immune balance in Generalised Anxiety Disorder: Case-
+controlled 
+study. 
+Brain 
+Behav 
+Immun. 
+2017;62:212-218. 
+doi: 
+10.1016/j.bbi.2017.01.021 
+30. Ministério da Saúde. Departamento de Gestão e Incorporação de Tecnologias e 
+Inovação em Saúde – DGITIS/SCTIE. Acurácia dos testes diagnósticos registrados 
+na ANVISA para a COVID-19. Brasília - DF, 2020;1-35. 
+31. De Witte H, Naswell K. “Objective” vs. “subjective” job insecurity: Consequences 
+of temporary work for job satisfaction and organizational commitment in four European 
+countries. 
+Econ 
+Ind. 
+Democracy. 
+2003,24,149-188. 
+doi: 
+10.1177/0143831X03024002002. 
+ 
+32. Hatton C, Rivers M, Mason H, Mason L, Kiernan C, Emerson E, et al. Staff 
+stressors and staff outcomes in services for adults with intellectual disabilities: the Staff 
+Stressor Questionnaire. Res Dev Disabil. 1999;20(4):269-285. doi:10.1016/s0891-
+4222(99)00009-8 
+ 
+33. Karasek RA. Job Demands, Job Decision Latitude, and Mental Strain: Implications 
+for Job Redesign. Adm Sci Q. 1979,24,285-308. doi: 10.2307/2392498 
+ 
+34. Zhang J, Litvinova M, Wang W, Wang Y, Deng X, Chen X, et al. Evolving 
+Epidemiology and Transmission Dynamics of Coronavirus Disease 2019 Outside 
+Hubei Province, China: A Descriptive and Modelling Study. Lancet Infect Dis. 
+2020b,20(7):793-802. doi: 10.1016/S1473-3099(20)30230-9  
+ 
+35. Brooks SK, Webster RK, Smith LE, Woodland L, Wessely S, Greenberg N, et al. 
+The psychological impact of quarantine and how to reduce it: rapid review of the 
+evidence. The 
+Lancet 
+2020;395(10227):912-920. 
+doi: 
+10.1016/S0140-
+6736(20)30460-8 
+ 
+36. Fariniuk, T. Smart cities and the pandemic: digital technologies on the urban 
+management of Brazilian cities. Brazilian Journal of Public Administration. 
+2020;54(4):860-873. doi: 10.1590/0034-761220200272x  
+ 
+37. Patino CM, Ferreira JC. Validade interna e externa: você pode aplicar resultados 
+de pesquisa para seus pacientes? J Bras Pneumol. 2018;44(3):183-183. doi: 
+10.1590/s1806-37562018000000164  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Flowchart of selection procedure for the articles included in the review.
+IDENTIFICATION 
+PuBMed 
+(n = 14) 
+Web os Science 
+(n = 8) 
+  
+Scopus  
+(n= 66) 
+Registration after removal of duplicate articles  
+(n = 70) 
+SCREENING 
+Selected articles  
+(n = 15) 
+Records excluded because they do 
+not meet the proposed criteria  
+(n = 2) 
+ELIGIBILITY 
+Completed articles accessed by 
+eligibility  
+(n = 13) 
+INCLUDED 
+Studies included in the review 
+(n = 11) 
+Records excluded 
+because they do not 
+meet the proposed 
+criteria  
+(n =2) 
+Table 1. Distribution of studies on the implications of the COVID-19 pandemic on the mental health of dentists. 
+AUTHOR(S) YEAR COUNTRY 
+DESIGN AND 
+INSTRUMENTS 
+SAMPLE 
+(n) 
+SEX 
+(%) 
+AGE 
+(years) 
+MENTAL 
+HEALTH 
+CONDITIONS 
+COVID-
+19 
+STATUS 
+RISK 
+GROUP 
+MAIN RESULTS 
+Ahmed et al. 
+[8] 
+2020 
+Saudi 
+Arabia, 
+Pakistan, 
+India, United 
+Arab 
+Emirates, 
+People’s 
+Republic of 
+China, Italy, 
+United 
+Kingdom, 
+Australia, 
+Malaysia, 
+United 
+States of 
+America, 
+Ireland, 
+Israel, New 
+Zealand, 
+South Africa, 
+Turkey, 
+Germany, 
+Kuwait, 
+Canada, 
+Hungary, 
+France 
+Poland, 
+Bulgaria, 
+Republic of 
+the Congo, 
+Mexico, 
+Finland, 
+Romania, 
+Egypt, 
+Cross-sectional 
+Online survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+registered at online 
+website 
+(Kwiksurveys) and 
+validated 
+650 
+25% 
+were 
+male 
+and 
+75% 
+female 
+20-30 years: 
+54% 
+31-40 years: 
+39% 
+41-50 years: 
+5% 
+51-60 years: 
+1.85% 
+> 60 years: 
+0.15% 
+Fear, anxiety 
+and 
+nervousness 
+n.a. 
+n.a. 
+87% of participants were afraid of getting infected 
+with COVID-19 from either a patient or a co-
+worker; 90% were anxious while treating a 
+coughing or a patient suspected to be infected with 
+COVID-19; More than 72% of participants felt 
+nervous when talking to patients in close vicinity; 
+92% were afraid of carrying the infection from 
+dental practice to their families, and 77% were 
+afraid of getting quarantined if they got infected; 
+73% were anxiety concerning the cost of 
+treatment if they got infected and 86% felt afraid 
+while they learnt about mortalities because of 
+COVID-19. 
+ 
+Switzerland, 
+Demark, 
+Bahrain 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consolo et 
+al. [22] 
+2020 
+Italy 
+Cross-sectional 
+Anonymous online 
+survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+created using the 
+Google Forms and 
+GAD-7 
+356 
+60.4% 
+were 
+male 
+and 
+39.6% 
+female 
+< 35 years: 
+16.6% 
+35-55 years: 
+48.6% 
+> 55 years: 
+34.8% 
+Feelings and 
+emotions 
+experienced 
+while thinking at 
+the COVID-19 
+outbreak, 
+dentists’ 
+perception of 
+infection 
+likelihood for 
+themselves and 
+patients, 
+anxiety, 
+concerns 
+ 
+1.1% 
+n.a. 
+85.1% of dentists reported being concerned of 
+contracting COVID-19 during their clinical activity; 
+83.4%, 83.7%, 96.6%, 74.7%, 55.9%, reported 
+feeling some level of fear, anxiety, worry, sadness 
+and anger when they think about COVID-19, 
+respectively.  The results of the GAD-7evaluation 
+showed that 9% of respondents reported a severe 
+anxiety. 
+The GAD-7 score was positively correlated to the 
+level of concern about the professional future (r 
+(356) = 0.32, p < 0.001) and the level of concern 
+of contracting the COVID-19 (r (356) = 0.26, p < 
+0.001). 
+Dentists aged between 35 and 55 years were 
+those more concerned about their professional 
+future. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gasparro et 
+al. [7] 
+2020 
+Italy 
+Cross-sectional 
+Anonymous online 
+survey 
+questionnaire  
+Single-item based 
+on the work by 
+Strazdins et al., 
+FCV-19S and short 
+version of the 
+DSM-5 
+ SMDA 
+735 
+67.3% 
+were 
+male 
+and 
+32.7% 
+female 
+Mean 44.80 
+±12.44 
+Interval 27-
+70 
+Fear, perceived 
+job insecurity, 
+depression 
+n.a. 
+n.a. 
+Mean perceived job insecurity (1–5): 3.57±1.15 
+Mean fear (7–35): 15.03±5.45 
+Mean depressive symptoms (0–27): 5.66±5.22  
+Perceived job insecurity (b = 0.58, p < 0.001, 95% 
+CI [0.35,0.70]) and fear of COVID-19 (b = 2.11, p 
+< 0.001, 95% CI [1.58,2.60]) were positively 
+associated with depressive symptoms. Fear of 
+COVID-19 significantly moderated the relationship 
+between perceived job insecurity and depressive 
+symptoms (b = 0.61, p = 0.007, 95% CI 
+[0.14,1.06]), suggesting that the association 
+between perceived job insecurity and depressive 
+symptoms increases with the levels of fear of 
+COVID-19,. 
+The regression coefficients of age and number of 
+people who had died known personally were also 
+statistically significant (p = 0.014 and p = 0.049, 
+respectively). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kinariwala et 
+al. [25] 
+2020 
+India 
+Cross-sectional  
+Online survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, based 
+on guidelines of 
+Centre for Disease 
+Control (CDC), 
+Ministry of Health 
+and Family Welfare 
+of the Government 
+of India, and the 
+Dental Council of 
+India (DCI) 
+403 
+n.a. 
+n.a. 
+Anxiety, 
+concerns 
+n.a. 
+n.a. 
+As for patient management concerns, a small 
+majority of dentist (57.8%) perceived that they like 
+to request COVID-19 test results from all patients 
+prior 
+to 
+any 
+aerosol-generating 
+treatment 
+procedures. 
+54.3% of the respondents were not confident and 
+35.7% were hesitant to commence their post-
+pandemic dental practices and the main reason 
+was the risk of contracting SARS-CoV-2 infection 
+via a patient (45.9%). 
+75.5% 
+were 
+worried 
+about 
+medico-legal 
+consequences of post-pandemic dental care 
+provision. 
+62% users of the COVID-19 tracking mobile 
+application introduced by the Indian government in 
+(Aarogya Setu), were significantly better prepared, 
+with modest concerns, than non-users in providing 
+patient care (p = 0.0001). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Martina et al. 
+[26] 
+2020 
+Italy 
+Cross-sectional  
+Online survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+created using the 
+SurveyMonkey and 
+PHQ-4 
+ 
+349 
+50.1% 
+were 
+male 
+and 
+49.9% 
+female 
+20-29 years: 
+18.6% 
+30-39 years 
+31.5% 
+40-49 years: 
+16.3% 
+50-59 years: 
+21.8% 
+60-69 years: 
+10% 
+> 70 
+years:1.7% 
+Perceived risk, 
+anxiety, 
+distress, fear, 
+depression 
+None of 
+the 
+participant
+s were 
+diagnosed 
+as 
+COVID-
+positive 
+but only 
+35 were 
+tested 
+(10%)  
+n.a. 
+PHQ-4: 22% reported moderate/high distress.  
+Returning to daily work activities was a source of 
+anxiety for 192 participants and this was 
+associated with the level of distress (odds ratio 
+(OR) = 3.7; p < 0.001). 92.3% were consider 
+dental practice as at higher risk; 88% were 
+consider their work of higher risk for their families 
+and 63.1% were consider orthodontic procedures 
+at lower risk. 
+There was an association between the number of 
+dentists that dealt with fewer than 5 emergencies 
+during this period and the level of fear facing the 
+emergencies (OR 1.8; p = 0.035), there was an 
+association between the level of distress (PHQ-4) 
+and the fear during emergencies (OR 0.1; p < 
+0.001). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mijiritsky et 
+al. [23] 
+2020 
+China, India, 
+Israel, Italy, 
+and the 
+United 
+Kingdom 
+Cross-sectional  
+Online survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+Demands Scale—
+Short Version and 
+K6 
+1.302 
+ 
+China: 514 
+India: 470 
+Israel: 202 
+Italy: 88 
+United 
+Kingdom: 
+27 
+55.4%: 
+male 
+China  
+54.3%: 
+male 
+India 
+69.8%: 
+male 
+Israel 
+73.9%: 
+male 
+Italy 
+70.4%: 
+male 
+United 
+Kingdo
+m 
+Mean China 
+38.70 ± 8.30 
+Mean India 
+34.90 ± 9.40 
+Mean Israel 
+47.00 ± 
+11.40 
+Mean Italy 
+44.80 ± 
+12.50 
+Mean United 
+Kingdom  
+44.70 ± 9.60 
+Fear, subjective 
+overload, 
+distress  
+n.a. 
+China 
+5.8%  
+India 7.7%  
+Israel 
+23.3%  
+Italy 4.5%  
+United 
+Kingdom 
+11.1% 
+Mean fear of contract COVID-19: 2.5±0.9 China, 
+2.4±0.9 India, 2.7±0.8 Israel, 2.5±0.9 Italy, 3.1±0.8 
+United Kingdom. 
+Mean fear infect family COVID-19: 2.3±0.9 China, 
+2.5±0.9 India, 3.0±0.9 Israel, 2.8±0.9 Italy, 3.1±0.9 
+United Kingdom. 
+Mean subjective overload: 16.1±4.6 China, 
+14.8±4.8 India, 14.4±5.8 Israel, 15.7±5.7 Italy, 
+18.6±4.8 United Kingdom. 
+Mean psychological distress: 12.6±4.7 China, 
+12.2±4.2 India, 12.0±4.6 Israel, 12.7±4.8 Italy, 
+14.6±5.0 United Kingdom. 
+Significant differences among countries for fear of 
+contracting COVID-19 from patients (F = 8.53, p 
+<0.0001), fear of family contracting COVID-19 (F 
+= 23.25, p <0.0001), subjective overload (F = 9.09, 
+p <0.0001) and psychological distress (F = 2.49, p 
+<0.05). 
+The 
+comparison 
+of 
+correlations 
+between 
+subjective overload and psychological distress 
+across the countries was the highest among 
+Italian dentists in comparison to the Chinese 
+dentists (Z = -2.76, p <0.01), Indian dentists (Z = -
+2.09, p <0.05), and Israeli dentists (Z = -2.45, p 
+<0.05). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shacham et 
+al. [27] 
+2020 
+Israel 
+Cross-sectional  
+Online survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+Demands Scale—
+Short Version and 
+K6 
+338 
+58.6% 
+were 
+female  
+Mean 46.39 
+± 
+11.18 
+Interval 
+24-74 
+Fear, subjective 
+overload, 
+distress 
+n.a. 
+19.5%  
+Mean fear of contracting COVID-19 from patients: 
+2.88±0.88 
+Risk of elevated psychological distress: 11.5% of 
+the sample 
+Elevated psychological distress was found among 
+those who have background illness (OR = 3.023 
+(IC 95%: 1.186–7.705); p = 0.021), fear of 
+contracting COVID-19 from a patient (OR = 2.110 
+(IC 95%: 1.236– 3.603); p = 0.006) and higher 
+subjective overload (OR = 1.073 (IC 95%: 1.010-
+1.141); p = 0.022).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tysiąc-Miśta 
+et al. [24] 
+2020 
+Poland 
+Cross-sectional 
+Anonymous online 
+survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+created using the 
+Google Forms 
+875 
+82.5% 
+were 
+female 
+and 
+17.5% 
+male 
+Mean 39.10 
+± 11.00  
+Interval 24-
+75  
+Fear, anxiety 
+n.a. 
+28.8% 
+71.2% of the respondents decided to entirely 
+suspend their dental practice; of this, 57.6% fear 
+for the health and life of the members of family and 
+51.2% fear for their health and life. 
+Mean anxiety: 3.61±1.01 
+Significant difference in the self-reported feeling of 
+anxiety occurred between the group of non-
+working female dentists and the group of working 
+male dentists (p <0.01). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stefani et al. 
+[21] 
+2020 
+Italy 
+Cross-sectional 
+Anonymous online 
+survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+created using the 
+Google Forms 
+1500 
+44.2% 
+were 
+male 
+and 
+55.8% 
+female 
+ 
+< 30 years: 
+12.1% 
+30-39 years: 
+27.6% 
+40-49 years: 
+27.8% 
+Above 50 
+years: 
+32.5% 
+Confidence in 
+being able to 
+work safely, 
+worry about 
+going back to 
+work and 
+consequently 
+being at risk of 
+contagion, 
+worry about the 
+income loss  
+n.a. 
+n.a. 
+Mean confidence at treating a suspected case of 
+COVID-19 (score range 1-10): 2.7 ± 2.2 
+Mean worry about going back to work and 
+consequently being at risk of contagion (score 
+range 1-10): 7.3 ± 2.2  
+Mean worry about the income loss of your dental 
+office because of lockdown (score range 1-10): 
+8.3 ± 2.0  
+Mean worry about the consequence of income 
+loss for them and/or their family because of 
+lockdown (score range 1-10): 7.9 ± 1.1 
+Female dentists were less confident at treating a 
+suspected case of COVID-19, more worried with 
+returning to work, more worried with the 
+consequences of income loss for them and / or 
+their family than among male dentists (p <0.05). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nair et al. 
+[28] 
+2020 
+India 
+Cross-sectional 
+Anonymous online 
+survey 
+questionnaire 
+Questionnaire 
+developed by 
+researchers, 
+created using the 
+Google Forms, 
+PSS and CPDI 
+586 
+53.07% 
+were 
+male 
+and 
+46.93% 
+female 
+< 25 years: 
+7.17% 
+25-35 years: 
+55.46% 
+36-45 years: 
+24.91% 
+Above 45 
+years: 12.46 
+Stress and 
+distress 
+n.a. 
+n.a. 
+PSS documented perceived moderate perceived 
+stress (PS) (score 14-26) among 406 (69.28 %) 
+and high PS in 63 (10.75%) respondents 
+CPDI recorded 224 (38.23%) and 80 (13.65%) 
+experienced mild-moderate and severe distress, 
+respectively 
+Scale PSS: 
+Female endodontists (RRR = 2.46, p = 0.01) were 
+significantly associated with an increased risk of 
+high PS as compared to males 
+Younger age group (25-35years) individuals were 
+observed to experience increased high PS in 
+comparison with older age group (> 45 years) 
+Scale CPDI:  
+Younger age, particularly among the age group of 
+< 25 (RRR = 9.75; p = 0.002), 25-35 years (RRR 
+= 4.60; p = 0.004) in comparison with > 45 years 
+age and postgraduate students under supervised 
+training (RRR = 0.35; p = 0.02) in comparison with 
+solo practitioners had significantly higher risk of 
+severe distress 
+Specialist employed through only consultations 
+was associated with higher risk for both mild to 
+moderate (RRR = 2.90; p = 0.02)  
+The mean PSS score in phase-1 period (n = 515) 
+was 18.28 ± 6.45 (17.72 - 18.84) while the same 
+after announcement of phase-2 lockdown (n = 71) 
+was 21.18 ± 6.86 (19.56 – 22.81) with the p = 
+0.0005. For the CDPI, the scores were 30.96 ± 
+15.85 (29.59 - 32.33) and 36.18 ± 18.87 (31.72 - 
+40.65) respectively with p = 0.0113 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mahendran 
+et al. [20] 
+2020 
+China 
+Cross-sectional 
+Questionnaire 
+printed or digital 
+GAD-7 
+14 
+n.a. 
+n.a. 
+Generalised 
+anxiety, concern 
+with the impact 
+of COVID-19 on 
+friends and 
+family, personal 
+health, and 
+nature of the 
+disease 
+n.a. 
+n.a. 
+GAD-7: 57.1% none; 21.4% mild; 7.1% severe 
+(14.3% missing data) 
+Average GAD-7 score based on job role: 4.75 
+GAD-7: 7-item Generalized Anxiety Disorder; FCV-19S: 7-item Fear of COVID-19 Scale; SMDA: 9-item Severity Measure for Depression – Adult; PHQ-4: 
+Patient Health Questionnaire-4 items;  K6: 6-item Kessler psychological distress scale;  PSS: 10-item Perceived Stress Scale; CPDI: 24-item COVID-19 
+Peritraumatic Distress Index 

@@ -1,0 +1,571 @@
+Status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.34119/bjhrv4n4-246
+Subjective knowledge of school adolescents about the health
+effects of smoking and association with smoking status
+Leonardo Essado Rios, Maria do Carmo Matias Freire
+https://doi.org/10.1590/SciELOPreprints.2158
+Submitted on: 2021-04-21
+Posted on: 2021-04-23 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Subjective knowledge of school adolescents about the health effects of smoking and 
+association with smoking status 
+Conhecimento subjetivo de escolares adolescentes sobre os efeitos do tabagismo na 
+saúde e associação com status tabágico 
+Leonardo Essado Rios (https://orcid.org/0000-0002-3096-9141)1 
+Maria do Carmo Matias Freire (https://orcid.org/0000-0001-6078-6728)2 
+1 Instituto Federal de Goiás. Av. Universitária s/n, Vale das Goiabeiras. 75402-556 Inhumas GO Brasil. 
+leonardo.rios@ifg.edu.br 
+2 Programa de Pós-graduação em Odontologia, Faculdade de Odontologia, Universidade Federal de Goiás. 
+Av. Universitária s/n, Setor Leste Universitário. 74605-020 Goiânia, GO Brasil. 
+Abstract This study aimed to assess the subjective knowledge (SK) of adolescents about 
+the health effects of smoking and association with smoking status. A cross-sectional 
+school survey was carried out in Goiás, Midwestern Brazil. Participants were 3034 
+students aged 13-19. SK was assessed by three questions about ‘How do you evaluate 
+your knowledge on:’ (1) ‘Effects of smoking on the general health of people who smoke’, 
+(2) ‘Effects of smoking on the oral health of people who smoke’, (3) ‘Effects of other 
+people smoking on the health of people who do not smoke (passive smokers)’. Smoking 
+status categories were never-smoker, former smoker, and smoker. Poisson regression 
+was used in the statistical analysis. Prevalence ratios and 95% confidence intervals (CI) 
+are reported. About half of the participants had low SK about general health effects of 
+smoking, and most had low SK about oral health (62.9%) and second-hand effects 
+(61.5%). Compared with smokers and former smokers, never-smokers were more likely 
+to have low SK about general (1.52; 95%CI=1.25-1.85), oral (1.17; 95%CI=1.03-1.32) 
+and second-hand effects (1.21; 95%CI=1.16-1.38) of smoking. Adolescents’ SK about the 
+health effects of smoking tended to be low, especially among never smokers. 
+Key words Adolescent, Knowledge, Smoking 
+Resumo O estudo visou avaliar o conhecimento subjetivo (CS) de adolescentes sobre os 
+efeitos do tabagismo na saúde e associação com status tabágico. Realizou-se um 
+inquérito escolar transversal no estado de Goiás. Participaram 3.034 alunos de 13-19 
+anos. O CS foi avaliado por três perguntas sobre 'Como você avalia seu conhecimento 
+sobre:' (1) 'Efeitos do cigarro na saúde geral das pessoas que fumam', (2) 'Efeitos do 
+cigarro na saúde bucal das pessoas que fumam', (3) 'Efeitos da fumaça do cigarro na 
+saúde das pessoas que não fumam (fumantes passivos)'. As categorias do status tabágico 
+foram nunca fumante, ex-fumante e fumante. Regressão de Poisson foi utilizada na 
+análise estatística. Razões de prevalência e intervalos de confiança (IC) de 95% são 
+reportados. Cerca de metade dos participantes tinha CS baixo sobre efeitos do tabagismo 
+na saúde geral, e a maioria tinha CS baixo sobre efeitos na saúde bucal (62,9%) e efeitos 
+do fumo passivo (61,5%). Comparados aos fumantes e ex-fumantes, os nunca fumantes 
+foram mais propensos a ter baixo CS sobre o efeito na saúde geral (1,52; IC 95% = 1,25-
+1,85), oral (1,17; IC 95% = 1,03-1,32) e efeitos do fumo passivo (1,21; IC 95% = 1,16-
+1,38). O CS dos adolescentes sobre os efeitos do tabagismo na saúde tende a ser baixo, 
+especialmente entre os que nunca fumaram. 
+Palavras-chave Adolescente, Conhecimento, Tabagismo 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+2 
+ 
+INTRODUCTION 
+Smoking and exposure to tobacco smoke negatively impact health with the development 
+of several chronic non-communicable diseases, diseases of the respiratory system and 
+contagious diseases1. In the oral cavity, smoking also causes a devastating effect, causing 
+neoplasms and contributing to the etiology of periodontal diseases2. 
+Among the various forms of presentation of tobacco products, smoked combustible 
+cigarettes remain the most used worldwide3. Given that most adult smokers started 
+smoking during adolescence4, the adolescent population is one of the most important 
+target groups for preventing smoking initiation1,3. Among the adolescent smokers, it is 
+essential to promote smoking cessation interventions1. 
+Many adolescents may not be aware that smoking is harmful for their health4-9, especially 
+regarding second-hand smoking10-13 and oral health effects14. A lack of knowledge about 
+the hazards of smoking has been described as a predictor of smoking status13,15-18 and 
+susceptibility to smoking19-21 in this population group. Adolescents from Aboriginal and 
+Black groups may be less likely than White adolescents to link smoking to health 
+effects22. Also, male students have been found to have less knowledge of the health 
+hazards of smoking than their female counterparts23. 
+Previous studies on adolescents' knowledge about smoking effects on health have focused 
+on their objective knowledge measured by an objective test, instead of their subjective 
+knowledge (SK). SK refers to the knowledge that individuals perceive to have24-26. The 
+measurement of SK about a product among its users or potential users is important 
+because it can indicate not only their knowledge levels, but also their level of self-
+confidence about what they know24-26. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+3 
+ 
+Furthermore, the extant literature typically analyzed knowledge about smoking effects on 
+health as a predictor of adolescent smoking. As the main global strategy to warn people 
+about the harmful effects of cigarettes has been to warn smokers through the packaging 
+of tobacco products1, it can be suggested that smoking status has assumed the role of 
+predictor of this knowledge among adolescents. 
+As consumers or potential consumers of both tobacco products and antitobacco messages, 
+how do the adolescents evaluate their level of knowledge about the health effects of 
+smoking? In this study, the aim was to assess the SK of adolescents about the health 
+effects of smoking and association with smoking status. 
+METHODS 
+We carried out a cross-sectional school survey. Participants were adolescent students 
+from the Federal Institute of Education Science and Technology of Goiás (IFG). This is 
+a public educational institution that has high schools in 13 municipalities of Goiás, in the 
+Midwest region of Brazil, including one of the Brazilian capital cities. All the IFG schools 
+(n=14) took part in the survey.  
+The sample size was calculated using the online OpenEpi tool and the following 
+parameters for calculating proportions: (1) estimated population of IFG high school 
+students in 2018, aged up to 19 years old (n=3694); (2) 5.9% expected frequency of 
+current cigarette use (in the last 30 days) and 19.4% of cigarette experimentation, based 
+on prevalence among Brazilian public school students aged 16 to 17 found by the National 
+School Student Health Survey in 2015; (3) 2% sample error; and (4) 95% confidence 
+interval. The minimum number estimated for the sample was 467 students for the ‘current 
+smoker’ outcome and 1068 for the ‘tobacco use experimentation’ outcome. To ensure the 
+sample size, all the IFG high-school students aged between 13 and 19 years old who were 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+4 
+ 
+attending classes when the data were collected were invited to participate in the survey 
+(n=3043). 
+The survey protocol was approved by the Research Ethics Committee (REC) of the 
+sponsor institution, the Federal University of Goiás, Brazil (Approval #2142027). The 
+REC exempted the survey from obtaining formal permissions from parents or guardians 
+of underage adolescents (Approval #2431088). Subsequently, the protocol was approved 
+by the REC of the institution where data were collected (Approval #2556510). Formal 
+authorizations were given by school administrators, and all the participants signed 
+informed consent forms. 
+Data were collected in a self-administered printed questionnaire, including validated 
+scales and a set of questions specifically designed for this survey. The new questions were 
+based on a literature review and later assessed by a group of six PhD researchers with 
+experience in studies based on health questionnaires. The instrument was also pre-tested 
+in a sample of 14 adolescents who were not part of the study’s target population27. 
+The outcome variables were low SK in relation to general and oral health, and second-
+hand effects of smoking. The choice for these three variables was based on the health 
+content in cigarette pack warnings in Brazil. Questions were: 
+‘How do you evaluate your knowledge about’ 
+(1) ‘Effects of smoking on the general health of people who smoke’ 
+(2) ‘Effects of smoking on the oral health of people who smoke’ 
+(3) ‘Effects of other people smoking on the health of people who do not smoke (passive 
+smokers)’ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+5 
+ 
+The answer categories for each question were: ‘no knowledge’, ‘little knowledge’, 
+‘average knowledge’, ‘good knowledge’, or ‘excellent knowledge’. Based on the 
+responses, the sample was divided into low SK (no + little + average knowledge) and 
+high SK (good + excellent). 
+The main independent variable was the adolescents’ smoking status, which was obtained 
+in two yes/no questions: (1) ‘Have you ever tried smoking cigarettes, even one or two 
+puffs?’, (2) ‘Currently, do you smoke cigarettes? (Select yes if you smoked at least one 
+cigarette in the past 30 days)’. Those who answered ‘no’ to both questions were classified 
+as never-smokers; those who answered ‘yes’ to the first and ‘no’ to the second question 
+were former smokers; and those with two positive answers were smokers. 
+Covariates were social exposure to smoking and sociodemographic characteristics of the 
+adolescents. Social exposure to smoking (No / Yes) was based on the information 
+provided by the adolescents on the smoking status of their parents, friends, and romantic 
+partners. If any of those were smokers, adolescents were classified as being socially 
+exposed to smoking. Sociodemographic variables were: Age: 13 – 19 years; Gender: 
+Male / Female; Race/skin color according to official categories in Brazil: White / Black / 
+Brown / Yellow / Indigenous; Educational level of the adolescents’ mothers, with seven 
+categories ranging from no education to higher education. 
+In the statistical analysis, the IBM SPSS Statistics Software (v24) was used. We describe 
+our data using counts (n) and proportions (%). Poisson regression with robust variance 
+was used to estimate the raw and adjusted associations between the smoking status and 
+SK. Prevalence ratios (PR) and 95% confidence intervals (CI) are reported. 
+The inclusion of covariates in the multivariable models was not based on statistical 
+significance, but on the extant knowledge about the determinants of smoking among 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+6 
+ 
+adolescents. Therefore, all the study covariates were included. To avoid reporting 
+fallacious findings, estimates for associations between SK and the covariates were not 
+reported. 
+RESULTS 
+A total of 3034 adolescents participated in the study (response rate = 99.7%). They were 
+mostly female (53.6%), Brown (50.9%), and their mean age was 16 years (SD=1.1). The 
+educational level of their mothers was mainly high school (32.4%) or higher education 
+(29.4%). The majority had never experimented cigarettes (72.7%) and were socially 
+exposed to smoking (65.6%) (Table 1). 
+The prevalence of low SK was 47.8% regarding effects of smoking on general health, and 
+above 60% regarding both oral and second-hand effects (Table 1). The higher prevalence 
+of low SK about each of these three effects occurred among never-smokers (Figure 1). 
+In both the unadjusted and adjusted Poisson regression analyses, low SK was statistically 
+associated with the adolescents’ smoking status (Table 2). In comparison with smokers, 
+never-smokers were 52% more likely to have low SK about smoking effects on general 
+health, 17% more likely to have low SK about oral effects, and 21% more likely to have 
+low SK about second-hand effects. Furthermore, former smokers were 41% more likely 
+to have low SK about general health effects, and 16% more likely to have low SK on the 
+second-hand effects of smoking, compared to smokers. 
+DISCUSSION 
+In this study, adolescent students reported their levels of SK about the effects of smoking 
+on general and oral health, and second-hand smoking effect. High rates of low SK were 
+observed, especially about the effects on oral health and the second-hand effects, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+7 
+ 
+indicating possibilities for improvements. These findings agree with several previous 
+studies that observed low levels of OK on the harms of smoking among adolescents5-14. 
+When we compared the adolescents’ SK according to their smoking status, controlling 
+for social exposure to smoking and sociodemographic characteristics, higher rates of low 
+SK were reported by never-smokers in comparison with smokers and former smokers. 
+This finding may be reflecting the current global situation when it comes to warning 
+people about the dangers of smoking. While the coverage of mandatory health warnings 
+in packs of tobacco products increased substantially worldwide during the past decade, a 
+decrease in mass media campaigns was observed1. 
+Noticing health warning labels on cigarette packages has been associated with increased 
+cognition about the harms of smoking28-33. Health warnings in tobacco products are one 
+of the most powerful anti-smoking interventions of the W axis of the Monitor, Prevent, 
+Offer, Warn, Enforce and Raise (MPOWER) initiative operated by the World Health 
+Organization to help countries controlling the smoking epidemics worldwide1. However, 
+because it mainly reaches people when they are exposed to tobacco products, it should be 
+considered a high-risk strategy of anti-smoking education. 
+Anti-tobacco mass media campaigns are also effective anti-smoking interventions to 
+reduce tobacco use1,31, and cost-effective to fully educate large populations about the risks 
+of tobacco use and exposure to second-hand smoke1. Because the goal is to inform the 
+whole population about the dangers of smoking, they should be recognized as population-
+based strategy of anti-smoking education. 
+Considering that knowledge about the health effects of smoking may reduce tobacco 
+use34,35, our findings suggest that the awareness of non-smokers should be specially 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+8 
+ 
+targeted for the achievement of the fourth MPOWER global measure to promote smoking 
+control: to warn people about the dangers of tobacco1. 
+An analogy can be drawn between improving smokers’ knowledge about the harms of 
+smoking and improving pregnant adolescents’ knowledge about the risks of becoming 
+pregnant, which is to say that it is unacceptable to wait for adolescents to become smokers 
+and only then provide warnings to them about the health harms of smoking. It may be too 
+late, given that their knowledge may be overwhelmed by nicotine dependence36. 
+By itself, knowledge and its rational assessment may not drive the smoking behaviour37. 
+Still, it is an essential domain related to the psychological capability of individuals to 
+change their smoking behaviour, along with motivation and the opportunity to change35. 
+The ‘smoking kills’ warning should be delivered properly to each adolescent, in addition 
+to reaching those who are exposed to tobacco products. Although a high-risk education 
+strategy to improve tobacco users’ knowledge is important, an intensification of 
+population education strategies is now crucial to promote equity in the right to 
+information about the dangers of tobacco use among adolescents. 
+The limitations of this study include its observational design which does not allow causal 
+inference. Also, only public schools were included. An analysis among adolescents from 
+public and private schools would have guaranteed better representativeness and, 
+therefore, generalizability of the findings. 
+In summary, adolescents tended to perceive that they had low knowledge about the effects 
+of smoking and second-hand smoking on general and oral health. Low SK was associated 
+with the smoking status, meaning that, compared to smokers and former smokers, never-
+smokers had lower SK about the health effects of smoking. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+9 
+ 
+Authors’ contributions 
+LE Rios and MCM Freire participated in the conception, design, and data analysis and 
+interpretation. LE Rios collected the data, carried out the statistical analysis and wrote the 
+first version of the paper. MCM Freire performed critical review of the manuscript. Both 
+authors approved the current version. 
+Conflicts of interest 
+The authors have no conflicts of interest to disclose. 
+Funding 
+This work was funded by the Foundation for Research Support of the State of Goiás, 
+Brazil (FAPEG) (Public call Nº 04/2017 – Research Program for the Unified Health 
+System [PP-SUS], and Public call Nº 03/2018 – Scholarships for master's and doctoral 
+training); and The Coordination for the Improvement of Higher Education Personnel 
+(CAPES), Brazil (Financing code 001). 
+REFERENCES 
+1. World Health Organization. WHO report on the global tobacco epidemic, 2019: 
+Offer help to quit tobacco use. Geneva: World Health Organization; 2019.  
+2. World Health Organization. WHO Monograph on tobacco cessation and oral 
+health integration. Geneva: World Health Organization, 2017. 
+3. World Health Organization. Adolescents: health risks and solutions. Geneva: 
+World Health Organization, 2018. 
+4. Nuyts PAW, Kuipers MAG, Willemsen MC, Kunst AE. Trends in age of smoking 
+initiation in the Netherlands: a shift towards older ages? Addiction 2018; 113(3): 
+524–532.  
+5. Bertani AL, Garcia T, Tanni SE, Godoy I. Tobacco in Adolescence: Importance 
+to Knowledge the Health Hazards and Preventive Measures. J Addict Res Ther 
+2015; 6:1000218. 
+6. Mounach S, Zahrou F-E, Mahdaoui E, Belakhel L, Khazraji YC, El Berri H. 
+Evolution of attitudes, trends and perceptions of smoking among middle and 
+secondary school students in the Gharb Region, Morocco, 2010–2015. Afr J Prm 
+Health Care Fam Med. 2019; 11(1): a1914. 
+7. Sharma I, Chalise S. The Knowledge and Attitude Regarding the Health Effect of 
+Smoking among Secondary Level Students in Nepal. Asian J Humanit Soc Studies 
+2018; 6(2): 83-90. 
+8. Herawati L, Budiman JA, Haryono W, Mulyani W. Jayapura Teenagers Smoking 
+Behavior.  J Community Health 2017; 42: 78–82. 
+9. Xu X, Chen C, Abdullah AS, Sharma M, Liu H, Zhao Y. Knowledge about and 
+sources of smoking-related knowledge, and influencing factors among male 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+10 
+ 
+urban secondary school students in Chongqing, China. SpringerPlus 2016; 5: 
+1879. 
+10. Kaleta D, Polanska K, Wojtysiak P, Szatko F. Involuntary Smoking in 
+Adolescents, Their Awareness of Its Harmfulness, and Attitudes towards 
+Smoking in the Presence of NonSmokers. Int J Environ Res Public Health 2017; 
+14: 1095.  
+11. Raina R, Krishna M, Murali R, Shamala A, Yalamalli M, Kumar AV. Knowledge, 
+attitude and behavioral determinants of tobacco use among 13-15 year old school 
+children. J Int Soc Prev Community Dent 2015; 5 (4): 321–326. 
+12. Vasconcelos HG, Vaz SHS, Rodrigues FOS, Oliveira DLV, Prado LFR, Saliba 
+PS. Associação entre a prevalência do tabagismo e o perfil socioeconômico de 
+estudantes do ensino médio em uma Cidade do Estado de Minas Gerais. Braz J 
+Health Rev 2020; 3(4): 9667-9679. 
+13. Veeranki SP, John RM, Ibrahim A, Pillendla D, Thrasher JF, Owusu D, Ouma 
+AEO, Mamudu HM. Age of smoking initiation among adolescents in Africa.  Int 
+J Public Health 2017; 62:63–72. 
+14. Lawal FB, Fagbule OF. Knowledge of School-Going Adolescents About the Oral 
+Effects of Tobacco Usage in Ibadan, Southwest Nigeria.  Int Q Community Health 
+Educ 2020; 40(4): 337–343. 
+15. Cosci F, Zagà V, Bertoli G, Campiotti A. Significant others, knowledge, and 
+belief on smoking as factors associated with tobacco use in Italian adolescents. 
+ISRN Addict 2013; Article ID 968505.  
+16. Ho SY, Chen J, Leung LT, Mok HY, Wang MP, Lam TH. Adolescent Smoking 
+in Hong Kong: Prevalence, Psychosocial Correlates, and Prevention. J Adolesc 
+Health 2019; 64(6): S19-S27.  
+17. Mbongwe1 B, Tapera R, Phaladze N, Lord A, Zetola NM. Predictors of smoking 
+among primary and secondary school students in Botswana.  PLoS One 2017; 
+12(4): e0175640. https://doi.org/10.1371/journal.pone.0175640 
+18. Okagua J, Opara P, Alex-Hart BA. Prevalence and determinants of cigarette 
+smoking among adolescents in secondary schools in Port Harcourt, Southern 
+Nigeria. Int J Adolesc Med Health 2016; 28(1): 19–24. 
+19. Aslam SK, Zaheer S, Rao S, Shafique K. Prevalence and determinants of 
+susceptibility to cigarette smoking among school students in Pakistan: secondary 
+analysis of Global Youth Tobacco Survey. Subst Abuse Treat Prev Policy 2014; 
+9, 10.  
+20. Bobo FT, Thanasekaran P, Joice AJR, Yadecha B, Alebel A. Susceptibility to 
+cigarette smoking and associated factors among high school students in western 
+Ethiopia. BMC Res Notes 2018; 11: 626. 
+21. Veeranki SP, Mamudu HM, Anderson JL, Zheng S. Worldwide Never-Smoking 
+Youth Susceptibility to Smoking. J Adolesc Health 2014; 54: 144-150. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+11 
+ 
+22. Elton-Marshall T, Wijesingha R, Kennedy RD, Hammond D. Disparities in 
+knowledge about the health effects of smoking among adolescents following the 
+release of new pictorial health warning labels. Prev Med 2018; 111: 358-365. 
+23. Huong NT, Kien NT, Giang KB, Minh HV, Hai PT, Huyen DT et al. Knowledge 
+and Attitude Towards Tobacco Smoking among 13-15 Year-Old School Children 
+in Viet Nam - Findings from GYTS 2014. Asian Pac J Cancer Prev 2016; 17 
+(Suppl. 1): 37-42. 
+24. Flynn LR, Goldsmith RE. A Short, Reliable Measure of Subjective Knowledge.  
+J Bus Res 1999; 46: 57–66. 
+25. Raju PS, Lonial SC, Mangold WG. Differential Effects of Subjective Knowledge, 
+Objective Knowledge, and Usage Experience on Decision Making: An 
+Exploratory Investigation. J Consum Psychol 1995; 4(2): 153-180. 
+26. Brucks M. The effects of product class knowledge on information search 
+behavior. J Consum Res 1985; 12(1): 1-16. 
+27. Rios LE, Freire MCM. Opinion of school adolescent smokers about smoking 
+cessation counselling and treatment in health services: cross-sectional study, State 
+of Goiás, Brazil, 2018. Epidemiol Serv Saúde 2020; 29(4): e2019604. 
+28. Chiosi JJ, Andes L, Asma S, Palipudi K, McAfee T. Warning about the harms of 
+tobacco use in 22 countries: findings from a cross-sectional household survey. 
+Tob Control 2016; 25: 393–401.  
+29. Magnan RE, Cameron LD. Do Young Adults Perceive That Cigarette Graphic 
+Warnings Provide New Knowledge About the Harms of Smoking? Ann Behav 
+Med 2015; 49 (4): 594-604.  
+30. Pepper JK, Nguyen Zarndt A, Eggers M E, Nonnemaker JM, Portnoy DB. Impact 
+of Pictorial Cigarette Warnings Compared with Surgeon General’s Warnings on 
+Understanding of the Negative Health Consequences of Smoking. Nicotine Tob 
+Res 2020; 22(10): 1795-1804. 
+31. Duke JC, Farrelly MC, Alexander TN, MacMonegle AJ, Zhao X, Allen JA, 
+Delahanty JC, Rao P, Nonnemaker J. Effect of a National Tobacco Public 
+Education Campaign on Youth's Risk Perceptions and Beliefs About Smoking. 
+Am J Health Promot 2018; 32(5):1248-1256. 
+32. Mourik DA, Nagelhout GE, Willemsen MC, Putte B, Vries H. Differences in 
+smokers’ awareness of the health risks of smoking before and after introducing 
+pictorial tobacco health warnings: findings from the 2012–2017 international 
+tobacco control (ITC) Netherlands surveys. BMC Public Health 2020; 20: 512. 
+33. Mannocci A, Guerra F, Colamesta V, Backhaus I, Firenze A, Provenzano S, Fiore 
+M, Ferrara M, Langiano E, De Vito E, Lorini C, Bonaccorsi G, Villari P, La Torre 
+G, Collaborative Group. The Adolescent Label Impact Index in a Multicentric 
+Observational Study. Have the Tobacco Advertisements an Impact on the 
+Adolescents? J Child Adolesc Subst Abuse 2019; 28(5): 331-342. 
+34. Ahluwalia IB, Smith T, Arrazola RA et al. Current Tobacco Smoking, Quit 
+Attempts, and Knowledge About Smoking Risks Among Persons Aged ≥15 Years 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+12 
+ 
+- Global Adult Tobacco Survey, 28 Countries, 2008–2016. MMWR Morb Mortal 
+Wkly Rep 2018; 67: 1072–1076.  
+35. Michie S, Atkins L, West R. The Behavior Change Wheel: A Guide to Designing 
+Interventions. London: Silverback Publishing, 2014. 
+36. West R, Shiffman S. Smoking cessation, 3rd ed. Abingdon: Health Press, 2016. 
+37. Kelly MP, Barker M. Why is changing health-related behaviour so difficult? 
+Public Health 2016; 136: 109-116. 
+ 
+Table 1. Participants’ sociodemographic and smoking-related characteristics (n=3034). 
+Characteristics 
+N 
+% 
+Race/skin color* 
+ 
+ 
+Black 
+397 
+13.1 
+Brown 
+1543 
+50.9 
+White 
+952 
+31.4 
+Yellow 
+116 
+3.8 
+Indigenous 
+14 
+0.5 
+Not reported 
+12 
+0.4 
+Sex 
+ 
+ 
+Male 
+1404 
+46.3 
+Female 
+1625 
+53.6 
+Not reported 
+5 
+0.1 
+Mothers’ level of education 
+ 
+ 
+Illiterate 
+23 
+0.8 
+Incomplete elementary school 
+376 
+12.4 
+Elementary school 
+163 
+5.4 
+Incomplete High-school 
+258 
+8.5 
+High school 
+982 
+32.4 
+Incomplete higher education 
+225 
+7.4 
+Higher education 
+892 
+29.4 
+Not known / not reported 
+115 
+3.8 
+Smoking status 
+ 
+ 
+Smokers 
+241 
+7.9 
+Former smokers 
+584 
+19.2 
+Never-smokers 
+2201 
+72.6 
+Not reported 
+8 
+0.3 
+Social exposure to smoking 
+ 
+ 
+Yes 
+1991 
+65.6 
+No 
+1043 
+34.4 
+Low subjective knowledge about the health effects of 
+smoking 
+ 
+ 
+General health effects 
+1447 
+47.8 
+Second-hand effects 
+1865 
+61.5 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)
+13 
+ 
+Oral health effects 
+1910 
+62.9 
+*Description of race/skin color according to the official categories in Brazil. 
+ 
+Figure 1. Percentages of low subjective knowledge about the health effects of smoking among adolescents, according 
+to their smoking status. Source: Authors. 
+ 
+ 
+Table 2. Poisson regression between smoking status and low subjective knowledge about the health effects of 
+smoking among adolescent students in Goiás, Midwestern Brazil. 
+ 
+Low subjective knowledge 
+ 
+General health effects  
+Oral health effects 
+Second-hand effects 
+Smoking status 
+Unadjusted PR (95%CI) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Never-smokers 
+1.62 (1.34; 1.96)1 
+1.23 (1.08; 1.38)1 
+1.27 (1.12; 1.44)1 
+Former smokers 
+1.44 (1.17; 1.77)1 
+1.13 (0.98; 1.29) 
+1.19 (1.04; 1.37)3 
+Smokers 
+1 
+1 
+1 
+ 
+Adjusted PR (95%CI) * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Never-smokers 
+1.52 (1.25; 1.85)1 
+1.17 (1.03; 1.32)3 
+1.21 (1.06; 1.38)2 
+Former smokers 
+1.41 (1.14; 1.74)2 
+1.09 (0.95; 1.25) 
+1.16 (1.01; 1.34)3 
+Smokers 
+1 
+1 
+1 
+* Adjusted for mother’s level of education, social exposure to smoking, race/skin color, age, and sex. 
+Significance level: 1 p < 0.001; 2 p < 0.01; 3 p < 0.05 (Wald test). 
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+SM O K E R S
+FORM ER SM OKERS
+N EVER - SM OKERS
+LOW SUBJECTIVE KNOWLEDGE (%)
+SMOKING STATUS
+General health effects
+Oral health effects
+Secondhand effects
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2158
+Powered by TCPDF (www.tcpdf.org)

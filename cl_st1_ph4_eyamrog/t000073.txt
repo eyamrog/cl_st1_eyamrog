@@ -1,0 +1,843 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906-03/2021
+A first review of Gasteroid fungi (Agaricomycetes,
+Basidiomycota) in Paraguay
+Yanine Maubet  Cano, Michelle Campi Gaona, Larissa Trierveiler-Pereira
+https://doi.org/10.1590/2236-8906-03/2021
+Submitted on: 2022-01-04
+Posted on: 2022-01-04 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Article 
+https://doi.org/10.1590/2236-8906-03/2021 
+ 
+ 
+1. Universidad Nacional de Asunción, Facultad de Ciencias Exactas y Naturales, Avenida Mariscal 
+Estigarribia Km 10, CP 2169 San Lorenzo, Central, Paraguay  
+2. Universidade Federal de São Carlos, Centro de Ciências da Natureza, Campus Lagoa do Sino, 
+Rodovia Lauri Simões de Barros, Km 12, SP-189, Bairro Aracaçú, 18290-000 Buri, SP, Brazil  
+3. Corresponding author: ymaubet@gmail.com 
+ 
+ 
+A first review of Gasteroid fungi (Agaricomycetes, Basidiomycota) in Paraguay 
+ 
+Yanine Maubet Cano1,3, Michelle Campi Gaona1 and Larissa Trierveiler-Pereira2 
+ 
+Título resumido: Gasteroid fungi in Paraguay: a checklist 
+ 
+ 
+Yanine Maubet Cano: https://orcid.org/0000-0002-0322-6238 
+Michelle Campi Gaona: https://orcid.org/ORCID 0000-0001-8809-0159 
+Larissa Trierveiler-Pereira: https://orcid.org/ORCID 0000-0002-1276-2083 
+ 
+ 
+ABSTRACT – (A first review of Gasteroid fungi (Agaricomycetes, Basidiomycota) in Paraguay). 
+Based on the available literature, a list of 40 gasteroid species recorded in Paraguay since the earliest 
+known collection is presented. A total of forty species are reported, distributed among 16 genera and 
+4 families. This work represents the first compilation of data available on this group of fungi for 
+Paraguay. These numbers reveal the scarce amount of species formally cited for the Paraguayan 
+Funga. 
+Keywords: bird-nest fungi, earth-stars, neotropical fungal diversity, puffballs, stinkhorns 
+ 
+RESUMEN – (Una primera revisión de los hongos gasteroides (Agaricomycetes, Basidiomycota) en 
+Paraguay). Con base en la literatura disponible, se presenta una lista de 40 especies de gasteroides 
+registradas en Paraguay desde los primeros registros conocidos. Se reporta un total de cuarenta 
+especies, distribuidas en 16 géneros y 4 familias. Este trabajo representa la primera compilación de 
+datos disponibles de este grupo de hongos para Paraguay. Estos números nos revela la escasa cantidad 
+de especies citadas formalmente para la Funga del país. 
+Palabras clave: diversidad de Funga neotropical, estrellas de tierra, falo hediondo, hongos nido de 
+pájaro, hongos polvera 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+2 
+ 
+ 
+Introduction 
+ 
+Gasteroid fungi present a wide range of basidiomata structure and these distinctive 
+characteristics lead to the designation of many genera as monotypic or with few species represented. 
+The existing bibliographic information on the group of gasteroid Funga in the last century was 
+limited to a few citations made by Spegazzinii (1884, 1888, 1891) who recorded 12 species from the 
+country:Geastrum saccatum Fr. [as Geaster saccatus], Tulostoma cyclophorum Lloyd [as Tylostoma 
+berteroanum], Lycoperdon lilacinum (Mont. & Berk.) Speg., Lycoperdon pseudo-lilacinum Speg., 
+Lycoperdon pseudogemmatum Speg., Simblum sphaerocephalum Schltdl., Geastrum saccatum 
+[Geaster spegazzinianus], Lanopila guaranitica Speg., Bovista dubiosa Speg. and Lycoperdon 
+scleroderma Speg. 
+ Most of the new citations were made by contemporary mycologists since the last publication 
+of Spegazzini, 122 years ago. The next recording of gasteroid fungi in the country occurred in 2013 
+(Campi et al. 2013), and more recent studies have been carried out by Campi and collaborators 
+(Campi et al. 2015, Campi & Maubet 2015a, 2015b, Campi et al. 2017, Maubet et al. 2018) 
+ In the last decade the record of gasteroid fungi has increased but despite the efforts of 
+mycologists in recent years, knowledge about the gasteroid mycobiota in Paraguay remains scattered 
+and incomplete since the collections have been made sporadically and in very few areas.  
+Paraguay comprises two distinct geographical regions, the eastern and western, which are 
+separated by the Paraguay River. The western region is also known as the Chaco. Which include 3 
+ecoregions: Humid Chaco, Dry Chaco, and Pantanal. The ecoregions of eastern Paraguay includes 
+the Humid Chaco, Atlantic Forest, and Cerrado (Dinerstein et al. 1995). 
+This study is a revision of the available data and an update of the records of species of 
+gasteroid fungi from Paraguay. 
+ 
+ 
+Materials and methods 
+ 
+This checklist has been compiled based on literature records of gasteroid fungi recorded from 
+Paraguay. The information retrieved from the literature includes distribution records per department 
+(figure 1), notes about habitat and substrate, and detailed descriptions and remarks of the basidiomata. 
+The current taxonomic position is indicated, as have been described in previous publications and a 
+brief introduction of the most outstanding characteristics of each species is provided. The 
+classification and nomenclature followed the database Mycobank (http://www.mycobank.org). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+3 
+ 
+Genera and species are listed alphabetically (table 1) and the authorities for the binomials, as well as 
+the author names and spellings, are in accordance to Robert et al. (2005) database.  
+ 
+Results and Discussion 
+ 
+The 40 gasteroid fungi species recorded in Paraguay are distributed among 16 genera and four 
+families. The most highly represented family is Agaricaceae with 14 species (39%), followed by 
+Phallaceae and Geastraceae (with 10 species each respectively, 28%). Geastrum is the genus with the 
+highest number of species with nine taxa (25%). The departments with the most records were the 
+Central department, corresponding to the humid Chaco ecoregion, with 19 records (47.5%) and the 
+Paraguarí department, corresponding to the transition ecoregion between humid Chaco and Atlantic 
+Forest, with 15 records (37.5%), two species of gasteroid fungi were cited for the Atlantic Forest 
+ecoregion (5%), eight species for the Pantanal ecoregion (20%) and two species for the dry Chaco 
+(5%). 
+It is not possible to speak of the most represented species in terms of distribution since the 
+country lacks extensive samplings to represent all the ecoregions appropriately. Dring (1973) and 
+Miller & Miller (1988) estimated a hundred genera of gasteromycetes, therefore the diversity of this 
+group is still not well represented in Paraguay, since only 15 genera are recorded in the literature. 
+ 
+Checklist for the gasteroid species in Paraguay 
+ 
+Agaricaceae Chevall. 
+Battarrea phalloides (Dicks.) Pers. 
+Basionym: Lycoperdon phalloides Dicks. 
+Locality: BO (Campi et al. 2016b). 
+Identification. Species easily recognizable for presenting a high basidiome about 10-30 cm including 
+the spore sac, rapid development, rust in color, stipe expending up to 25 cm in length and bearing a 
+spore sac; exoperidium remaining as a volva and apically as scales on the endoperidium; 
+endoperidium and spore sac hemispherical to conical, 2.8 cm to 7.2 cm in diam., later splitting circular 
+along the middle and deteriorating. Volva membranous up to 15 cm in diameter, presenting similar 
+color and surface as the stipe, partially adhered to the stipe base (Rea 1942, Garrido-Benavent 2014, 
+Campi et al. 2016b). 
+ 
+Calvatia cyathiformis (Bosc) Morgan 
+Basionym: Lycoperdon cyathiforme Bosc 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+4 
+ 
+Localities: CE (Campi et al. in press) 
+Identification. The main characteristic of this species is a globose, compact basidiome when young, 
+which develop a basal portion like an inverted pear or a loaf of bread at maturity. The surface can be 
+commonly brown and broken up into mosaic-like scales. The gleba is purplish and pulverulent at 
+maturity (Zeller & Smith 1964, Morales & Kimbrough 1978). 
+ 
+Calvatia rugosa (Berk. & M.A. Curtis) D.A. Reid 
+Basionym: Lycoperdon rugosum Berk. & M.A. Curtis 
+Locality: SP, AP (Campi & Maubet 2016, Campi et al. in press) 
+Identification. The main characteristic is the presence of the orange pigment that stains the basidioma 
+when it is cut (Cortez et al. 2008). Another distinctive feature is its long rhizomorphic extension of 
+20-200 mm in diameter and 10-100 mm high, which folds at the base and is attached by one or more 
+thin rhizomorphs (Wright & Albertó 2006). 
+ 
+Calvatia lilacina (Mont. & Berk.) Henn 
+Basionym: Bovista lilacina Berk. & Mont. 
+Locality: PR (Spegazzini 1884, 1888). 
+Identification. Bates et al. (2009) reported Calvatia lilacina as a synonym of Calvatia fragilis in 
+Arizona, USA. On the other hand both species are treated as independent by Trierveiler-Pereira & 
+Baseia (2009) in Brazil. Cortez et al. (2012) consider this species a synonym of C. cyathiformis but 
+other authors differ and consider C. cyathiformis as a different species (Verma et al. 2018). 
+Comments: C. lilacina was recorded for Spegazzinii (1884) as Lycoperdon lilacinum. 
+ 
+Cyathus earlei Lloyd 
+Locality: PR (Campi et al. in press). 
+Identification. This species is characterized by an exoperidium without plication, covered by a light 
+color tomentum, organized in small tufts, endoperidium smooth or inconspicuously plicate, with a 
+light, shiny color, contrasting with the exterior layer and peridioles with a double-layer cortex (Cruz 
+et al. 2014). 
+ 
+Cyathus limbatus Tul. & C. Tul  
+Basionym: Cyathodes limbatum (Tul. & C. Tul.) 
+Localities: AP, CE, PR (Maubet et al. 2017, Campi et al. in press). 
+Identification. This species is characterized by having plicate peridium on the internal and external 
+surface, large peridioles (7-10 mm × 6-7 mm) with bilayered cortex, dark brown to black peridioles 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+5 
+ 
+and basidiospores of 10-12 × 16-22 μm. Another distinctive feature of the species is that at the base 
+of the pseudostipe a woolly golden brown subicule is formed (Brodie & Dennis 1954, Trierveiler-
+Pereira & Baseia 2010). 
+ 
+Cyathus poeppigii Tul. & C. Tul 
+Basionym: Cyathodes poeppigii (Tul. & C. Tul.) 
+Localities: CE (Campi & Maubet 2015a, Maubet et al. 2017). 
+Identification. The most remarkable diagnostic characteristics of the species are the large size of the 
+basidiospores (20-28 × 30-42 µm) and the deep internal and external striations of the peridium 
+(Brodie and Dennis 1954). 
+ 
+Cyathus setosus H.J. Brodie 
+Localities: PR (Maubet et al. 2017). 
+Identification. C. setosus is characterized by a conical peridium, of intense dark brown coloration, 
+smooth external surface and a slightly plicated internal surface, with dark conspicuous setae 0.5-1 
+mm long, large peridioles without a tunic, double cortex, and a small subiculum (Brodie 1967, 
+Trierveiler-Pereira & Baseia 2013). 
+ 
+Cyathus stercoreus (Schwein.) De Toni 
+Basionym: Nidularia stercorea Schwein. 
+Locality: CG, PR, SP (Maubet et al. 2017, Campi et al. 2013b). 
+Identification. The morphological characteristics of the species are the absence of folds, either internal 
+or external, in the peridium, the presence of hairs grouped into golden brown strands covering the 
+entire basidioma in the immature state, these hairs fall with age leaving the peridium with smooth 
+appearance at maturity and taking a dark color ranging from light brown to gray (Maubet et al. 2017). 
+ 
+Cyathus striatus (Huds.) Willd. 
+Basionym: Peziza striata Huds. 
+Locality: AR (Gullón 2011). 
+Identification. Easy to recognize by the hirsute exoperidium with a shiny and striate inner surface. 
+Microscopically, it has large ovoid basidiospores (14-17 × 7-9) (Baseia & Milanez 2001). 
+ 
+Podaxis pistillaris (L.) Fr. 
+Basionym: Lycoperdon pistillare L. 
+Localities: BO, CR (Campi et al. 2015b, Campi et al. in press). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+6 
+ 
+Identification. This species is characterized by the hard and fibrous pseudostipe that penetrates the 
+gleba. The gleba is covered by a scaly, sub-cylindrical peridium which turns dark and powdery in the 
+mature stage (Morse 1933). 
+ 
+Lycoperdon pseudogemmatum Speg. 
+Locality: PR (Spegazzinii 1884). 
+Identification. Cortez et al. (2013) consider this species a possible synonym of Lycoperdon perlatum, 
+a highly variable species, which is characterized by the presence of spines in the conical exoperidium 
+with a rounded apex. 
+ 
+Lycoperdon pseudolilacinum Speg. 
+Locality: PR (Spegazzinii 1884). 
+Identification. This species resembles L. lilacinum but differs in the color of the gleba and the very 
+fragile peridium (Spegazzini 1884). 
+ 
+Tulostoma cyclophorum Lloyd 
+Basionym: Tulostoma berteroanum f. pampeanum Speg. 
+Locality: CE, PR (Spegazzini 1884, Campi et al. 2016a). 
+Identification. This species is easily distinguishable by persistent membranous exoperidium in old 
+specimens, endoperidium with a velvety texture and abundant mycosclereids well visible to the 
+stereoscope on its surface, a mamiform and fimbriated mouth, and by the globose basidiospores with 
+ridges which offer a characteristic cross-linked to sub-crosslinked morphology (Campi et al. 2016a). 
+Comments: This species was recorded as Tulostoma berteroanum by Spegazzini (1884). 
+ 
+Tulostoma pygmaeum Lloyd 
+Locality: PR (Campi et al. in press) 
+Identification. This species is characterized by its tubular mouth, hyphal exoperidium, and 
+basidiospores with a distinct verrucose ornamentation (Moreno et al. 1995). 
+ 
+Vascellum pampeanum (Speg.) Homrich, in Homrich & Wright 
+Basionym: Lycoperdon pampeanum Speg. 
+Locality: CE (Campi & Maubet 2016). 
+Identification. V. pampeanum is characterized by having a diaphragm that separates the gleba from 
+the subgleba, the presence of mycosclereids on the surface of the exoperidium and the presence of 
+eucapilicium (Homrich & Wright 1988). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+7 
+ 
+ 
+Geastraceae Corda 
+ 
+Geastrum argentinum (Speg.)  
+Basionym: Geastrum argentines Speg. 
+Locality: AP (Campi et al. 2018). 
+Identification. G. argentinum is characterized by emerging from a whitish subicule and by an external 
+surface of the velvety mycelial layer which is detached from fibrous tissue (Zamora et al. 2014).  
+ 
+Geastrum coronatum Pers. 
+Basionym: Geastrum limbatum Fr. 
+Locality: CE (Campi & Maubet 2015b). 
+Identification. This species is mainly characterized by arched basidiomata, dark brown and asperulate 
+endoperidium, a myceliar layer covered with abundant debris, a fibrillose peristome, larger pedicel 
+(up to 4 mm high), and basidiospores with prominent truncate warts (Sunhede 1989, Soto & Wright 
+2000, Alves & Cortez 2016). 
+ 
+Geastrum hariotii Lloyd 
+Basionym: Geaster harioti Lloyd 
+Locality: AP (Campi et al. 2018). 
+Identification. The species is characterized by having non-hygroscopic exoperidium, endoperidium 
+sessile or with a very short stipe, peristoma strongly plicated and well defined. (Trierveiler-Pereira & 
+Silveira 2012). 
+ 
+Geastrum minimum Schwein. 
+Locality: CE (Campi et al. 2015a). 
+Identification. G. minimum is normally treated as a single, rather variable species, mostly small-sized 
+and often showing quite large crystals of calcium oxalate on the endoperidial surface (Zamora et al. 
+2014) 
+ 
+Geastrum pampeanum var. pallidum Speg. 
+Basionym: Geastrum pampeanus var. pallidus Speg. 
+Locality: AP (Campi et al. 2018). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+8 
+ 
+Identification. This species is characterized by a small basidiomata (17-30 mm wide), non-
+hygroscopic exoperidium, sessile endoperidium and basidiospores of 3.5-5 μm diam. (Campi et al. 
+2018). 
+ 
+Geastrum pusillipilosum J.O. Sousa, Alfredo, R.J. Ferreira, M.P Martín & Baseia 
+Locality: PR (Campi et al. in press). 
+Identification. Recognized by a small basidiomata (up to 17 mm wide), an exoperidium covered with 
+short hairs (up to 1 mm), a fibrillose peristome and basidiospores of 4.4-6 × 4.3-5.9 (-6.8) μm diam 
+(Crous et al. 2016, Lima & Baseia 2018). 
+ 
+Geastrum saccatum Fr. 
+Localities: AP, CE, PR (Spegazzini 1884, Campi et al. 2018). 
+Identification. This species is characterized by a large basidiomata (up to 8 cm in diameter), involute 
+lacinias, non-hygroscopic, a prominent conspicuous collar around the endoperidium from the 
+pseudoparenchymal layer of exoperidium, sessile endoperidium, delimited or unbounded fibrous 
+peristoma (Sunhede 1989). 
+ 
+Geastrum schweinitzii (Berk. & M.A. Curtis) Zeller 
+Basionym: Coilomyces schweinitzii Berk. & M.A. Curtis 
+Locality: CE (Campi & Maubet 2015b).  
+Identification. This species is recognized by small cespitose basidiomata and by the presence of a 
+white to yellowish, subiculum that spreads throughout the substrate, which is generally decomposing 
+wood (Baseia et al. 2003). Some specimens previously identified as G. schweinitzii for the neotropics 
+were different species based on phylogenetic analysis and thus the species could be endemic of the 
+region were the type material was collected (Accioly et al. 2019) 
+ 
+Geastrum triplex Jungh. in Tijdschr 
+Locality: SP, CE, AP (Campi et al. 2013b, Campi et al. 2018).  
+Identification. This species is characterized by large basidiomata (up to 8 cm in diameter), involute 
+lacinias, non-hygroscopic, prominent conspicuous collar around the endoperidium from the 
+pseudoparenchymal layer of exoperidium, sessile endoperidium, delimited or unbounded fibrous 
+peristoma. (Campi et al. 2018). Recent phylogenetic studies suggest that the morphological concept 
+of the species actually represents an assemblage of closely related species which vary in the 
+distribution patterns (Kasuya et al. 2012). 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+9 
+ 
+Geastrum violaceum Rick 
+Locality: AR (Campi et al. 2013a). 
+Identification. This species is mainly distinguished by the pink, red to pale violet color of the 
+exoperidium, a character that easily separates it from other species of the genus (Trierveiler-Pereira 
+& Silveira 2012). 
+ 
+Myriostoma calongei Baseia, J.O. Sousa & M.P. Martín 
+Locality: PR (Campi et al. in press). 
+Identification. This species is characterized by a verrucose endoperidium, with prominent triangular 
+processes and could be restricted to South America (Sousa et al. 2017). 
+ 
+ 
+Phallaceae Corda 
+Blumenavia rhacodes Möller 
+Locality: CR (Campi et al. in press). 
+Identification. The species is characterized by a pale orange to greyish orange (beige) receptacle 
+consisting of 3-5 columns, and glebifers occuring on lateral expansions (“teeth”) distributed along 
+the column’s margins (Trierveiler-Pereira et al. 2019, Melanda et al. 2020). 
+ 
+Clathrus argentinus Domínguez 
+Locality: CE (Campi et al. in press). 
+Identification. This species is characterized by having the receptacle arms not joined at the base and 
+a strongly yellow basal mycelium, and glebiferous zones with digitiform extensions, are at the 
+intersection of the arms that form the network (Domínguez de Toledo 1985). 
+ 
+Clathrus chrysomycelinus Möller 
+Basionym: Clathrella chrysomycelina (Möller) E. Fisch. 
+Locality: PR (Maubet et al. 2018). 
+Identification. This species is characterized by obovoid, perforate, white to yellowish receptacle, 
+isodiametric meshes, having the receptacle arms joined at the base and a strong yellow basal 
+mycelium. In addition, the glebe is confined to glebifers at the inner side of the arm’s intersections 
+(Dring et al. 1971, Dring 1980).  
+Comments: Maubet et al. (2018) mention that the material was collected in Ybycui city, reviewing 
+the herbarium material, the right collection site corresponds to Piribebuy city, Cordillera Department. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+10 
+ 
+Clathrus columnatus Bosc 
+ 
+Basionym: Laternea columnata (Bosc) Nees  
+Locality: CE (Campi et al. 2017). 
+Identification. Species characterized by having 2-5 robust spongy reddish to orange columns free at 
+the base and fused at the apex. The gleba is spread on the internal portion of the columns and not 
+confined to a glebifer (Sandoval-Leiva et al. 2014, Magnago et al. 2013). 
+ 
+Clathrus crispus Turpin 
+Basionym: Clathrella crispa (Turpin) E. Fisch.  
+Locality: AP (Maubet et al. 2018). 
+Identification. This species is characterized by having a small receptacle (5 cm or less, some larger 
+up to 15 cm), globose to subglobose of reddish coloration, with somewhat regular meshes (usually 
+round at the apex and more elongated towards the base) and with a corrugated and folded membrane 
+surrounding the meshes where the gleba is located (Dring 1980).  
+ 
+Itajahya galericulata Möller, Bras. 
+Localities: CE, PR (Campi et al. 2017, in press). 
+Identification. Characterized by massive ‘eggs’ (3‒8 cm high), a white pseudostipe, a hemispherical, 
+wig-like receptacle with a flat apex that is covered with a calyptra (membranous cap) (Trierveiler-
+Pereira et al. 2019).  
+ 
+Itajahya rosea (Delile) E. Fisch. 
+Basionym: Phallus roseus Delile 
+Localities: CE (Campi et al. 2017) 
+Identification. This species, which has a phalloid shape, is characterized by the presence of a calyptra 
+at the apex of the receptacle and the pinkish pseudostipe (Ottoni et al. 2010). 
+ 
+Lysurus sphaerocephalum (Schltdl.) Hern. Caff., Urcelay, Hosaka & L.S. Domínguez  
+Basionym: Simblum sphaerocephalum Schltdl. 
+Localities: CE, PR (Spegazzini 1891, Campi et al. in press) 
+Identification. The diagnostic features of the species are the fertile portion of the receptacle that is an 
+irregular net, reddish, enclosing the stipe, which exceeds the stipe width. Stipe reddish and stylized, 
+length clearly exceeds width, not striate (Hernández-Caffot et al. 2018). 
+ 
+Mutinus argentinus Speg. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+11 
+ 
+Localities: CE, CR (Campi et al. 2017, Maubet et al. 2018). 
+Identification. The species is characterized by a pinkish pseudostipe that tapers towards the apex, and 
+a granulose, bright red fertile part with a small pore at the tip when mature (Trierveiler-Pereira et al. 
+2019). 
+Comments: Maubet et al. (2018) mention that the material was collected in Ybycui city, reviewing 
+the herbarium material the right collection site corresponds to Piribebuy city, Cordillera Department. 
+ 
+Phallus campanulatus Berk. 
+Locality: CE (Campi et al. in press) 
+Identification. The species is characterized by a whitish pseudostipe with small perforations, an off 
+white, perforate, narrow campanulate, wrinkled to minutely rugulose receptacle with a toothed 
+margin. The pore at the receptacle apex is so prominent that a ring-like structure can be observed 
+around it (Trierveiler-Pereira et al. 2019). 
+ 
+Phallus indusiatus Vent. 
+Localities:CE (Maubet et al. 2018). 
+Identification. The species is characterized by a whitish pseudostipe, a reticulate, white receptacle 
+and the long, white indusium. Mycelial strands are often abundant and have purplish pigments 
+(Trierveiler-Pereira et al. 2019). 
+ 
+Sclerodermataceae Corda 
+ 
+Pisolithus arhizus (Scop.) Rauschert 
+Basionym: Lycoperdon arrizon Scop. 
+Locality: CE (Campi et al. 2015a) 
+Identification. This species is recognized by its epigeous, globose basidiomata, echinate basidiospores 
+(Campi et al. 2015a). 
+ 
+Scleroderma bovista Fr. 
+Locality: CE (Campi et al. 2015a) 
+Identification. The species is characterized by the presence of a smooth yellowish-brown peridium, 
+with some reddish dark brown areas, basidiospores (11‒) 12‒14 (‒16) µm in diameter, with a well-
+developed crosshair (Nouhra et al. 2012). 
+ 
+Acknowledgements 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+12 
+ 
+This work was carried out within the framework of the project PINV18-699 “Development of 
+molecular tools for the taxonomic identification of fungi from 3 Ecoregions of Paraguay”, funded by 
+the Consejo Nacional de Ciencias y Tecnología (CONACYT). The authors thanks to Professor 
+Andrea Weiler, for the contribution with the map. Anonymous reviewers are generous acknowledged, 
+for discussions and comments that improved the manuscript. Sc. Andrew G. Cervantes is 
+acknowledged, for the revision of the manuscript’s English and for the valuable contribution to the 
+writing. 
+ 
+Author Contributions 
+Yanine Maubet Cano: Conceptualization of manuscipt draft, Contribution to critical revision; 
+Contribution to data collection. 
+Michelle Campi Gaona: Contribution to data collection; Contribution to critical revision; 
+Contribution to manuscript preparation. 
+Larissa Trierveiler-Pereira: Contribution to manuscript preparation; Contribution to data collection, 
+Contribution to critical revision, adding intellectual content. 
+ 
+Conflicts of interest 
+The authors declare there is no conflict of interest. 
+ 
+Literature cited 
+Accioly, T., Sousa, J.O., Moreau, P.A., Lécuru, C., Silva, B.D., Roy, M., Gardes, M., Baseia, I.G. & 
+Martín, M.P. 2019. Hidden fungal diversity from the Neotropics: Geastrum hirsutum, G. schweinitzii 
+(Basidiomycota, Geastrales) and their allies. PloS one 14(2): e0211388. 
+Alves, C.R. & Cortez, V.G. 2016. Gasteroid Phallomycetidae (Basidiomycota) from the Parque 
+Estadual São Camilo, Paraná, Brazil. Iheringia Série Botânica 71: 27-42. 
+Baseia, I.G. & Milanez, A.I. 2001. Cyathus (Gasteromycetes) in areas of the Brazilian cerrado region, 
+São Pau-lo State. Mycotaxon 80: 493-502. 
+Baseia, I.G., Cavalcanti, M.A. & Milanez, A.I. 2003. Additions to our knowledge of the genus 
+Geastrum (Phallales: Geastraceae) in Brazil. Mycotaxon 85: 409-416. 
+Bates, S.T., Roberson, R.W. & Desjardin, D.E. 2009. Arizona gasteroid fungi I: Lycoperdaceae 
+(Agaricales, Basidiomycota). Fungal Diversity 37: 153-207. 
+Brodie, H. & Dennis, R. 1954. The Nidulariaceae of the West Indies. Transactions of the British 
+Mycological Society 37(2): 151-160. 
+Brodie, H.J. 1967. Cyathus setosus, a new member of the Nidulariaceae from Jamaica. Canadian Journal 
+of Botany 45: 1-3. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+13 
+ 
+Campi, M.G., De Madrignac, B., Flecha, A.M. & Gullón, M. 2013a. Geastrum violaceum Rick 
+(Geastraceae, Basidiomycota) nuevo registro para Paraguay. Reportes Científicos 4(2): 15-18. 
+Campi, M.G., De Madrignac, B., Flecha, A.M. & Ortellado, A. 2013b. Hongos de la Reserva Natural 
+Laguna Blanca. Salpa SA, Paraguay. 
+Campi, M.G. & Maubet, Y. 2015a. Cyathus poeppigii (Agaricales, Basidiomycetes): nuevo registro 
+para Paraguay. Steviana 7: 74-78. 
+Campi, M.G. & Maubet, Y. 2015b. Especies de Geastrum (Geastraceae, Basidiomycota) nuevos 
+registros para Paraguay. Steviana 7: 79-88. 
+Campi, M.G., Maubet, Y. & Britos, L. 2015a. Mycorrhizal fungi associated with plantations of Pinus 
+taeda L. from the National University of Asunción, Paraguay. Mycosphere, 6(4), 486-492. 
+Campi, M.G., Maubet, Y. & Weiler, A. 2015b. Podaxis pistillaris (Basidiomycota, Agaricomycetes) 
+nuevo registro para el Chaco paraguayo. Boletín de la Sociedad Micológica de Madrid 39: 77-81. 
+Campi, M.G. & Maubet, Y. 2016. Nuevos registros de Calvatia rugosa (Berk. & M.A. Curtis) D.A. 
+Reid y Vascellum pampeanum (Speg.) Homrich (Agaricaceae-Basidiomycota) en Paraguay. Steviana, 
+8(1): 43-49. 
+Campi, M.G., Maubet, Y., Moreno, G. & Altés, A. 2016a. Tulostoma cyclophorum (Basidiomycota, 
+Agaricomycetes) new record for Paraguay. Bol. Soc. Micol. Madrid 40: 129-132. 
+Campi, M.G., Maubet, Y. & Weiler, A. 2016b. Nueva cita de hongo xerófito para el Chaco paraguayo: 
+Batarrea phalloides (Basidiomycota, Agaricomycetes). Bol. Soc. Micol. Madrid 41: 47-52. 
+Campi, M.G., Trierveiler-Pereira, L. & Maubet, Y. 2017. New records of Phallales from Paraguay. 
+Mycotaxon, 132(2): 361-372. 
+Campi, M., Maubet, Y. & Trierveiler-Pereira, L. 2018. “Estrellas de tierra” Geastrum (Geastraceae, 
+Basidiomycota): nuevas citas para el Pantanal paraguayo. Steviana 10(2): 3-16. 
+Campi, M., Maubet, Y. & Trierveiler-Pereira, L. (in press). Rediscovery of Clathrus argentinus and 
+new contributions to the gasteroid mycobiota of Paraguay. Current Research in Environmental & 
+Applied Mycology. 
+Cortez, V.G., Baseia, I.G. & Silveira, R.M. 2008. Gasteromicetos (Basidiomycota) no Parque Estadual 
+de Itapuã, Viamão, Rio Grande do Sul, Brasil. Biociências (Porto Alegre) 6(3): 291-299. 
+Cortez, V.G., Baseia, I.G. & da Silveira, R.M.B. 2012. Gasteroid mycobiota of Rio Grande do Sul, 
+Brazil: Calvatia, Gastropila and Langermannia (Lycoperdaceae). Kew Bulletin, 67(3): 471-482. 
+Cortez, V.G., Baseia, I.G. & da Silveira, R.M. 2013. Gasteroid mycobiota of Rio Grande do Sul, Brazil: 
+Lycoperdon and Vascellum. Mycosphere 4(4): 745-758. 
+Crous, P.W., Wingfield, M.J., Burgess, T.I., Hardy, G.S.J., Crane, C., Barrett, S., ... Stchigel A.M. 
+2016. Fungal Planet description sheets: 469-557. Persoonia: Molecular Phylogeny and Evolution of 
+Fungi, 37: 218. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+14 
+ 
+Cruz, R.H., Assis, S.F., Silva, M.A. & Baseia, I.G. 2014. Revision of the genus Cyathus 
+(Basidiomycota) from the herbaria of northeast Brazil. Mycosphere, 5(4): 531-540. 
+Dinerstein, E., Olson, D.M., Graham, D.J, Webster, A.L., Primm, S.A, Bookbinder, M.P. & Ledec, 
+G. 1995. Una Evaluación del Estado de Conservación de las Eco-regiones Terrestres de América 
+Latina y el Caribe. Banco Mundial, Washington DC. 
+Domínguez de Toledo, L.S. 1995. Gasteromycetes (Eumycota) del Centro y Oeste de la Argentina. II. 
+Orden Phallales. Darwiniana. 32(1-4): 195-210. 
+Dring, D.M., Meeker, J. & Goos, R. 1971. Clathrus oahuensis, a new species from Hawai. Mycologia 
+63(4): 893-897. 
+Dring, D.M. 1973. Gasteromycetes. In: Ainsworth GC, Sparrow FK, Sussman AS (Eds) The fungi. An 
+advanced treatise. Academic Press, New York and London, 451-478. 
+Dring, D.M. 1980. Contributions towards a rational arrangement of the Clathraceae. Kew Bulletin 35(1): 
+1-96. 
+Garrido-Benavent, I. 2014. The Battarrea phalloides-stevenii complex: multiple sources of evidence as 
+a strategy to unveil cryptic species within poorly characterized taxa. Bull.Soc. Micol. Valenciana 19: 
+17-35. 
+Gullón, M. 2011. Hongos Superiores del Refugio biológico Tati Yupi. Hernandarias. Paraguay. Biota 
+15: 1-68. 
+Hernandez Caffot, M.L., Hosaka, K., Domínguez, L.S. & Urcelay, C. 2018. Molecular and 
+morphological data validate the new combination of Lysurus sphaerocephalum from Argentina, with 
+some additional records on Phallales (Agaricomycetes). Mycologia, 110(2): 419-433. 
+Homrich, M.H. & Wright, J.E. 1988. South American Gasteromycetes. II. The genus Vascellum. 
+Canadian Journal of Botany 66: 1285-1307. 
+Lima, A.A. & Baseia, I.G. 2018. Gasteroid fungi (Basidiomycota) from two protected natural areas in 
+Rio Grande do Norte State, Brazil. Journal of Fungal Biology, 8(6): 585-605. 
+Kasuya, T., Hosaka, K., Uno, K. & Kakishima, M. 2012. Phylogenetic placement of Geastrum 
+melanocephalum and polyphyly of Geastrum triplex. Mycoscience 53: 411-426. 
+Magnago, A.C., Trierveiler-Pereira, L. & Neves, M.A. 2013. Phallales (Agaricomycetes, Fungi) from 
+the tropical Atlantic Forest of Brazil. Journal of the Torrey Botanical Society 140 (2): 236-244.  
+Maubet, Y., Campi, M.G., Armoa, J. & Cristaldo, E. 2017. Nuevas citas de Cyathus Haller 
+(Agaricaceae, Basidiomycetes) para Paraguay y ampliación de la distribución del género. Steviana, 
+9(1): 31-39. 
+Maubet, Y., Campi, M.G., Trierveiler-Pereira, L. & Moreno, G. 2018. Contribución a la Micobiota 
+Gasteroide de Paraguay. Nuevas citas. Bol. Soc. Micol. Madrid 42: 119-128. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+15 
+ 
+Melanda, G.C., Accioly T., Ferreira, R.J., Rodrigues, A.C., Cabral, T.S., Coelho, G., ... & Baseia, 
+I.G. 2020. Diversity trapped in cages: Revision of Blumenavia Möller (Clathraceae, Basidiomycota) 
+reveals three hidden species. PloS one 15(5): e0232467. 
+Miller, H.R. & Miller, O.K. 1988. Gasteromycetes: Morphological and Developmental Features, with 
+Keys to the Orders, Families, and Genera. Eureka Mad River Press, California-USA. 
+Moreno, G., Altés, A., Ochoa, C. & Wright, J.E. 1995. Contribution to the study of the 
+Tulostomataceae in Baja California, Mexico. I. Mycologia 87(1): 96-120. 
+Morales, M.I., Kimbrough, J.W. 1978. The Lycoperdaceae of North Central Florida I. The genera 
+Calvatia and Disciseda. Revista de Biologia Tropical 26(1): 227-236. 
+Morse, E.E. 1933. A study of the genus Podaxis. Mycologia 25(1): 1-31. 
+Nouhra, E., Hernandez Caffot, M., Pastor, N. & Crespo, E. 2012. The species of Scleroderma from 
+Argentina, including a new species from the Nothofagus forest. Mycologia 104(2): 488-495.  
+Ottoni, B.S., Silva, B.D.B., Fazolino, E.P. & Baseia, I.G. 2010. Phallus roseus, first record from the 
+neotropics. Mycotaxon 112: 5-8. 
+Rea, P.M. 1942. Fungi of southern California. I. Mycologia 34: 563-574. 
+Robert, V., Stegehuis, G. & Stalpers, J. 2005. The MycoBank engine and related databases. 
+Available at http://www.mycobank.org (access 14-XII-2019). 
+Sandoval-Leiva, P., Henríquez, J.L. & Trierveiler-Pereira, L. 2014. Additions to the Chilean phalloid 
+mycota. Mycotaxon 128: 45-54. 
+Sousa, J., Suz, L.M., García, M.A., Alfredo, D.S., Conrado, L.M., Marinho, P., Ainswoth, A.M., 
+Baseia, I.G. & Martín, M.P. 2017. More than one fungus in the pepper pot: Integrative taxonomy 
+unmasks hidden species within Myriostoma coliforme (Geastraceae, Basidiomycota). PloS one 12(6): 
+e0177873.  
+Soto, M. & Wright, J.E. 2000. Taxonomía del género Geastrum (Basidiomycetes, Lycoperdales) en la 
+provincia de Buenos Aires, Argentina. Boletín de la Sociedad Argentina de Botánica 34: 185-
+Spegazzini, C. 1884. Fungi Guaranitici. Pugillus 1. Anales de la Sociedad Científica Argentina 17(3): 
+119-134. 
+Spegazzini, C. 1888. Fungi Guaranitici. Pugillus II. Anales de la Sociedad Científica Argentina 26(1): 
+5-74. 
+Spegazzini, C. 1891. Fungi Guaranitici nonnulli novi vel critici. Revista Argentina de Historia Natural 
+1(3): 168-177. 
+Sunhede, S. 1989. Geastraceae (Basidiomycotina) morphology, ecology and systematics with emphasis 
+on the north Europearn species. Synopsis Fungorum 1. Oslo: Fungiflora. 
+Trierveiler-Pereira, L. & Baseia, I.G. 2009. A checklist of the Brazilian gasteroid fungi 
+(Basidiomycota). Mycotaxon 108: 441-444. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+16 
+ 
+Trierveiler-Pereira, L. & Baseia, I.G. 2010. Contribution to the knowledge of gasteroid fungi 
+(Agaricomycetes, Basidiomycota) from the state of Paraíba, Brazil. Revista Brasileira de Biociências, 
+9(2):167-173. 
+Trierveiler-Pereira, L. & Silveira, R.M.B. 2012. On the Geastrum species (Geastraceae, 
+Basidiomycota) described by Rick. Phytotaxa, 61(1): 37-46. 
+Trierveiler-Pereira, L. & Baseia, I.G 2013. Cyathus species (Basidiomycota: Fungi) from the Atlantic 
+Forest of Pernambuco, Brazil: taxonomy and ecological notes. Revista Mexicana de Biodiversidad, 
+84(1): 1-6. 
+Trierveiler-Pereira, L., Meijer, A.A.R. & Silveira, R.M.B. 2019. Phallales (Agaricomycetes, Fungi) 
+from Southern Brazil. Studies in Fungi 4(1): 162-184. 
+Verma, R.K., Mishra, S.N., Pandro, V. & Thakur, A.K. 2018. Diversity and distribution of Calvatia 
+species in India: a new record from central India. International Journal of Current Microbiology and 
+Applied Science 7(9): 2540-2551. 
+Wright, J.E. & Albertó, E. 2006. Guía de los hongos de la Región Pampeana II. Hongos sin laminillas. 
+Editorial L.O.L.A, Buenos Aires-Argentina. 
+Zamora, J.C., Calonge, F.D. & Martín, M.P. 2014. Integrative taxonomy reveals an unexpected 
+diversity in Geastrum section Geastrum (Geastrales, Basidiomycota). Persoonia 34: 130-165. 
+Zeller, S.M., Smith, A.H. 1964. The genus Calvatia in North America. Lloydia 27(3): 148-186. 
+ 
+Received: 05/01/2021 
+Accepted: 20/12/2021 
+Associate Editor: Alice da Cruz Lima Gerlach 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+17 
+ 
+ 
+ 
+Figure 1. Map of Paraguay with the Departments where gasteroid mushrooms have been collected 
+are. AP: Alto Paraguay, AR-Alto Paraná, AM: Amambay, BO: Boquerón, CG: Caaguazú, CZ: 
+Caazapá, CA: Canindeyú, CE: Central, CO: Concepción, CR: Cordillera, GU: Guairá, IT: Itapúa, MI: 
+Misiones, ÑE: Neembucú, PR: Paraguarí, PH: Presidente Hayes, SP: San Pedro.  
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+Article 
+https://doi.org/10.1590/2236-8906-03/2021 
+ 
+ 
+1. Universidad Nacional de Asunción, Facultad de Ciencias Exactas y Naturales, Avenida Mariscal Estigarribia Km 10, CP 2169 San Lorenzo, Central, 
+Paraguay  
+2. Universidade Federal de São Carlos, Centro de Ciências da Natureza, Campus Lagoa do Sino, Rodovia Lauri Simões de Barros, Km 12, SP-189, Bairro 
+Aracaçú, 18290-000 Buri, SP, Brazil  
+3. Corresponding author: ymaubet@gmail.com 
+ 
+ 
+Table 1. List of species cited in Paraguay in alphabetical order, the collection locations and the reference. 
+ 
+Species 
+Locality 
+Reference 
+1 
+Battarrea phalloides (Dicks.) Pers. 
+Boquerón 
+Campi et al. 2016b 
+2 
+Blumenavia rhacodes Möller 
+Cordillera 
+Campi et al. in press 
+3 
+Calvatia cyathiformis (Bosc) Morgan 
+Central, Boquerón 
+Campi et al. in press 
+4 
+Calvatia lilacina (Mont. & Berk.) Henn. 
+Paraguarí 
+Spegazzini 1884, 1888 
+5 
+Calvatia rugosa (Berk. & M.A. Curtis) D.A. Reid 
+San Pedro, Alto Paraguay 
+Campi & Maubet 2016, Campi et al. in press 
+6 
+Clathrus argentinus L.S. Domínguez 
+Central 
+Campi et al. in press 
+7 
+Clathrus chrysomycelinus Möller 
+Cordillera 
+Maubet et al. 2018 
+8 
+Clathrus columnatus Bosc 
+Central 
+Campi et al. 2017 
+9 
+Clathrus crispus Turpin 
+Alto Paraguay 
+Maubet et al. 2018 
+10 Cyathus earlei Lloyd 
+Paraguarí 
+Campi et al. in press 
+11 Cyathus limbatus Tul. & C. Tul. 
+Alto Paraguay, Central, Paraguarí 
+Maubet et al. 2017, Campi et al. 2020 
+12 Cyathus poeppigii Tul. & C. Tul. 
+Central 
+Campi & Maubet 2015a, Maubet et al. 2017 
+13 Cyathus setosus H.J. Brodie 
+Paraguarí 
+Maubet et al. 2017 
+14 Cyathus stercoreus (Schwein.) De Toni 
+Caaguazú, Paraguarí, San Pedro 
+Maubet et al. 2017, Campi et al. 2013. 
+15 Cyathus striatus (Huds.) Willd. 
+Alto Paraná 
+Gullón 2011 
+16 Geastrum argentinum Speg. 
+Alto Paraguay 
+Campi et al. 2018 
+17 Geastrum coronatum Pers. 
+Central 
+Campi & Maubet 2015b 
+18 Geastrum hariotii Lloyd 
+Alto Paraguay 
+Campi et al. 2018 
+19 Geastrum minimum Schwein. 
+Central 
+Campi et al. 2015a 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+19 
+ 
+20 Geastrum pampeanum var. pallidum Speg. 
+Alto Paraguay 
+Campi et al. 2018 
+21 Geastrum pusillipilosum J.O. Sousa, Alfredo, R.J. Ferreira, M.P Martín & Baseia 
+Paraguarí 
+Campi et al. in press 
+22 Geastrum saccatum Fr. 
+Alto Paraguay, Central, Paraguarí 
+Spegazzini (1884) as Geaster saccatus, 
+Campi & Maubet 2015b, Campi et al. 2018 
+23 Geastrum schweinitzii (Berk. & M.A. Curtis) Zeller 
+Central 
+Campi & Maubet 2015b 
+24 Geastrum triplex Jungh. 
+Central, Alto Paraguay, San Pedro 
+Campi et al. 2013, Campi & Maubet 2015b, 
+Campi et al. 2018 
+25 Geastrum violaceum Rick 
+Alto Paraná 
+Campi et al. 2013a 
+26 Itajahya galericulata Möller 
+Central 
+Campi et al. 2017 
+27 Itajahya rosea (Delile) E. Fisch. 
+Central 
+Campi et al. 2017 
+28 Lycoperdon pseudogemmatum Speg. 
+Paraguarí 
+Spegazzini (1884) 
+29 Lycoperdon pseudolilacinum Speg. 
+Paraguarí 
+Spegazzini (1884) 
+30 Lysurus sphaerocephalum (Schltdl.) Hern. Caff., Urcelay, Hosaka & L.S. Domínguez 
+Paraguarí 
+Spegazzini (1891) as Simblum 
+sphaerocephalum, Campi et al. in press 
+31 Mutinus argentines Speg. 
+Central, Cordillera 
+Campi et al. 2017, Maubet et al. 2018 
+32 Myriostoma calongei Baseia, J.O. Sousa & M.P. Martín 
+Paraguarí 
+Campi et al. in press 
+33 Phallus campanulatus Berk. 
+Central 
+Campi et al. in press 
+34 Phallus indusiatus Vent. 
+Central 
+Maubet et al. 2018 
+35 Pisolithus arhizus (Scop.) Rauschert 
+Central 
+Campi et al. 2015a 
+36 Podaxis pistillaris (L.) Fr. 
+Boquerón, Cordillera 
+Campi et al. 2015b, Campi et al. 2020 
+37 Scleroderma bovista Fr. 
+Central 
+Campi et al. 2015a 
+38 Tulostoma cyclophorum Lloyd 
+Central, Paraguarí 
+Spegazzini 1884, 1891 Campi et al. 2016a 
+39 Tulostoma pygmaeum Lloyd 
+Paraguarí 
+Campi et al. in press 
+40 Vascellum pampeanum (Speg.) Homrich 
+Central 
+Campi & Maubet, 2016a 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+Article 
+https://doi.org/10.1590/2236-8906-03/2021 
+ 
+ 
+1. Universidad Nacional de Asunción, Facultad de Ciencias Exactas y Naturales, Avenida Mariscal 
+Estigarribia Km 10, CP 2169 San Lorenzo, Central, Paraguay  
+2. Universidade Federal de São Carlos, Centro de Ciências da Natureza, Campus Lagoa do Sino, 
+Rodovia Lauri Simões de Barros, Km 12, SP-189, Bairro Aracaçú, 18290-000 Buri, SP, Brazil  
+3. Corresponding author: ymaubet@gmail.com 
+ 
+ 
+ 
+CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE 
+PREPRINTS DO SCIELO 
+ 
+Ao Comitê Editorial de HOEHNEA 
+ 
+Declaro, em meu próprio nome e nos dos demais Autores, que concordo com a publicação 
+do Artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “A first review of Gasteroid fungi 
+(Agaricomycetes, Basidiomycota) in Paraguay” de autoria de Yanine Maubet Cano, Michelle 
+Campi Gaona e Larissa Trierveiler-Pereira, no Portal de Preprints do SciELO Brasil 
+(https://preprints.scielo.org/index.php/scielo/preprints/section/biological). 
+Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não  está 
+sendo considerado para publicação em outro periódico, quer seja no formato impresso e/ou 
+eletrônico. 
+ 
+San Lorenzo, 29 de Decembro de 2021. 
+ 
+ 
+ 
+ 
+ 
+Biol. Yanine Maubet 
+Laboratorio de Análisis de Recursos Vegetales 
+Área Micología FACEN 
+Universidad Nacional de Asunción, Paraguay. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-03/2021
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

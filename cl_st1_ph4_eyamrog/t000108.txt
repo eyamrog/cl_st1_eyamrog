@@ -1,0 +1,557 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906-76/2020
+A new species of Pleroma (Melastomataceae) from Mantiqueira
+Range, Minas Gerais State, Brazil
+Luciana Leitão  Justino, Paulo José Fernandes  Guimarães, Berenice Chiavegatto  Campos,
+Fátima Regina Gonçalves  Salimena
+https://doi.org/10.1590/2236-8906-76/2020
+Submitted on: 2021-07-17
+Posted on: 2021-07-19 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+1 
+ 
+A new species of Pleroma (Melastomataceae) from Mantiqueira Range, Minas 
+Gerais State, Brazil1 
+ 
+Luciana Leitão Justino2,5, Paulo José Fernandes Guimarães3, Berenice Chiavegatto 
+Campos4 and Fátima Regina Gonçalves Salimena2 
+Título resumido: A new species of Pleroma (Melastomataceae) from Minas Gerais 
+State. 
+ 
+NÚMEROS DOS ORCIDs DE CADA AUTOR - Exigência da Equipe SciELO: 
+Luciana Leitão Justino: http://orcid.org/0000-0001-9652-5271 
+Paulo José Fernandes Guimarães: https://orcid.org/0000-0001-5266-4552 
+Berenice Chiavegatto Campos: https://orcid.org/0000-0002-5448-8887 
+Fátima Regina Gonçalves Salimena: https://orcid.org/0000-0002-9000-4683 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Parte da Dissertação da primeira Autora 
+2. Universidade Federal de Juiz de Fora, Programa de Pós-Graduação em Ecologia, 
+Campus Universitário, Rua José Lourenço Kelmer, s.n., Martelos, 36036-900 Juiz de 
+Fora, MG, Brazil 
+3. Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Diretoria de Pesquisa 
+Científica, Rua Pacheco Leão 915, 22460-030 Rio de Janeiro, RJ, Brazil 
+4. Centro de Ensino Superior de Juiz de Fora, Campus Arnaldo Janssen, Rua Luz 
+Interior 345, Santa Luzia, 36030-776 Juiz de Fora, MG, Brazil 
+5. Corresponding author: luciana_lj@hotmail.com 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+2 
+ 
+ABSTRACT – (A new species of Pleroma (Melastomataceae) from Mantiqueira Range, 
+Minas Gerais State, Brazil). Pleroma eglanduliferum, Justino & P.J.F. Guim. sp. nov. a 
+new species of Melastomataceae (Melastomateae) from the Atlantic Forest of Minas 
+Gerais State, Brazil, is described and illustrated, with their affinities and diagnostic 
+characters discussed. Pleroma eglanduliferum is closely related to P. heteromallum (D. 
+Don) D. Don and P. tedescoi Meirelles, L. Kollmann & R. Goldenb.) P.J.F . Guim. & 
+Michelang. by plant architecture, with quadrangular branches and similar leaf in shape 
+and indument. However, they can be distinguished by the variation in the stamens 
+morphology and sizes of bracteoles. Pleroma eglanduliferum must be included in 
+Critically Endangered category, since it is known only from one population, in a 
+restricted area. 
+Keywords: conservation, Melastomateae, Serra Negra, taxonomy, Tibouchina 
+ 
+RESUMO – (Uma nova espécie de Pleroma (Melastomataceae) da Serra da 
+Mantiqueira, MG, Brasil). Pleroma eglanduliferum Justino & P.J.F. Guim. sp. nov., 
+uma nova espécie da Mata Atlântica do Estado de Minas Gerais é descrita e ilustrada, 
+com suas afinidades e caracteres diagnósticos discutidos. Pleroma eglanduliferum é 
+semelhante a P. heteromallum (D. Don) D. Don e P. tedescoi (Meirelles, L.Kollmann & 
+R.Goldenb.) P.J.F.Guim. & Michelang. pela arquitetura da planta com ramos 
+quadrangulares e no formato, e indumento das folhas. No entanto, podem ser 
+diferenciadas pela morfologia dos estames e tamanho das bratéolas. Pleroma 
+eglanduliferum deve ser incluída na categoria Criticamente Ameaçada, já que possui 
+apenas uma população conhecida para uma área restrita. 
+Palavras-chave: conservação, Melastomateae, Serra Negra, taxonomia, Tibouchina. 
+ 
+Introduction 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+3 
+ 
+ 
+The Mantiqueira Range region is one of the most important orographic groups in 
+Brazilian southeast, covering part of the States of Minas Gerais, São Paulo and Rio de 
+Janeiro, and sheltering 20% of the remnants of the Atlantic Forest of Minas Gerais 
+(Costa and Hermann 2006).  
+This mountain chain consists of a mosaic of environments of grassland and 
+forest vegetation with high biological diversity and great occurrence of endemisms, a 
+condition normally registered in tropical montane environments (Martinelli 2007, 
+Salimena et al. 2013). The Serra Negra region, in the southern Minas Gerais, between 
+the municipalities of Lima Duarte, Rio Preto, Santa Bárbara do Monte Verde and 
+Olaria, is composed of vegetation characterized by forests and grassland, especially 
+cloud forests and “campos rupestres” (rocky grasslands), occurring at altitudes between 
+1.300 to 1.700 m (Salimena et al. 2013). In addition, the region is notable for integrating 
+the southeastern corridor of the Mantiqueira Complex, which is formed by remnants of 
+primary vegetation with a high degree of connectivity between them (Salimena et al. 
+2013). 
+ Among the most representative botanical families of the Atlantic Domain, the 
+Melastomataceae stands out, with a total of 510 taxa (Flora do Brasil 2020). Pleroma D. 
+Don is a genus of Melastomataceae with about 160 species with Neotropical 
+distribution, found mainly in areas of Atlantic Forest and Cerrado domains, rarely in the 
+Caatinga (Guimarães et al. 2019). Only five species reach the northwest and west 
+of South America (Freitas et al. 2013; Fraga and Guimarães 2014, Oliveira et al. 2014, 
+Guimarães et al. 2019). The group was traditionally treated as a synonym with of genus 
+Tibouchina Aublet sensu Cogniaux (1885, 1891). Tibouchina was fragmented into four 
+well-supported genera by morphological, molecular and geographic distribution 
+characteristics (Michelangeli et al. 2013, Guimarães et al. 2019), being Tibouchina s.s., 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+4 
+ 
+limited to only 35 taxa with distribution restricted to Cerrado environments (Silva et al. 
+2014, Guimarães 2014, Guimarães et al. 2019). The Tibouchina species found in eastern 
+Brazil was transferred to two distinct groups, Pleroma and Chaetogastra DC. 
+(Guimarães et al. 2019). 
+The taxa inserted in Pleroma are characterized by the deciduous sepals in the fruits, 
+hypanthium without scale-like trichomes, stamens with anthers from purple to lilac 
+(rarely cream or white), pedoconnective well developed below the thecae and filaments 
+usually covered by setose or glandular trichomes. They occur in diverse environments, 
+found from forest areas, fields of altitudes and rock fields, to shrub-tree restinga 
+formations (Fraga and Guimarães 2014, Guimarães and Freitas 2015). In the floristic 
+survey carried out in Serra Negra we found three species of Chaetogastra and ten 
+species of Pleroma (Justino 2016), one of which is a new species described here. 
+ 
+Materials and methods 
+For this work, collections deposited at the CESJ herbarium (acronyms according 
+Thiers 2020) were consulted. These specimens were compared, and had their macro and 
+micro-morphological characters, geographical and ecological information analyzed. 
+This taxonomic treatment was carried out according to the last phylogenetic of tribe 
+Melastomateae (Michelangeli et al. 2013, Guimarães et al. 2019). We used taxonomic 
+keys provided by Silva et al. (2014) and Guimarães and Silva (2014) to distinguish 
+species of Tibouchina s.s. and allied genera from Brazil. The map was elaborated using 
+ArcGISsoftware 9.3 (ESRI 2008). The conservation assessments follow criteria from 
+International Union of Conservation of Nature (IUCN 2019). 
+ 
+Taxonomic treatment  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+5 
+ 
+Pleroma eglanduliferum Justino & P.J.F. Guim. sp. nov.- Type: Brazil. Minas Gerais: 
+Rio Preto. Serra Negra, trail for the Burro de Ouro, 21° 58'11''S; 43°53'21''W, 1,400 m 
+elev., 25 February 2015, fl., L.L. Justino, J.H.C Ribeiro, M.C.A Mota, J.F.B Pastore 
+134 (holotype: CESJ; isotype: RB). (figures 1, 2) 
+Diagnosis: Pleroma eglanduliferum can be distinguished by its larger bracteoles with 7-
+11 × 3-7 mm, larger than hypanthia 4−5 × ca. 3 mm, which is covered with strigose 
+eglandular trichomes, and dimorphic stamens with connective glabrous throughout, 
+including appendages.  
+Shrubs 1-1.5 m tall. Young branches, petioles, inflorescences, hypanthia, sepals covered 
+with strigose eglandular trichomes; stems and young branches 4-angled. Leaves 
+chartaceous; petioles 3-7 mm long; blades 0.8-4.5 × 0.5-3.2 cm, ovate, base subcordate, 
+apex obtuse, margins entire, ciliate, adaxial surface strigose-sericeous, abaxial surface 
+velutinous, with hispidulous-sericeous trichomes above the midrib and lateral veins, 5-
+veined, with a thinner pair of main veins just inside the leaf margin, all nerves confluent 
+at the base of blade. Thyrsus 5.5-11.5 cm long; bracteoles 7-11 × 3-7 mm, caducous at 
+anthesis, lanceolate, concave, apex acute, adaxial surface glabrous, abaxial surface 
+strigose. Flowers 5-merous; pedicellate, pedicels 1-3 mm; hypanthia  4-5 × ca. 3 mm, 
+campanulate; sepals 1-2 × 3-5 mm, laceolate, apex acute, margins ciliate, caducous in 
+fruit; petals 1.8-2 × 1.9-2.2 cm, obovate, apex truncate, margin shortly ciliate, purple 
+and white at the base, changing to red later; stamens 10, dimorphic, filaments covered 
+with glandular trichomes, anthers subulate, with the apical pore 0.1 mm diam, 
+pedoconnective prolonged ca. 1 mm, appendages 0.2-0.5 mm, bilobed, glabrous; 
+antesepalous with filaments  6-7 mm long, anthers 5-6 mm long, magenta; antepetalous 
+with filaments 4-5 mm long, anthers ca. 4 mm long, white; ovary ca. 4 × 3 mm, 2/3 
+fused to the hypanthium, apex free, apical portion densely covered with setoso-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+6 
+ 
+glandular trichomes; style ca. 4 mm long, sparsely setose. Capsule 4-5 × 4-4.5 mm, 
+globose; seeds ca. 1 × 0.5 mm, cochleate, testa tuberculate. 
+Etymology - The epithet refers to the absence of glands over the stamen connective, 
+including appendices of both whorles. 
+Habitat and distribution - Pleroma eglanduliferum is endemic to the State of Minas 
+Gerais, Brazil, known only in the country of Rio Preto (figure 3). This region is 
+characterized by rocky fields on sandy soil with outcrops, which rise more or less 
+abruptly above the surrounding landscape dominated by the Atlantic Rain Forest. The 
+habitat of P. eglanduliferum is characterized by rather sparse herbaceous and shrubby 
+vegetation, growing on rocky outcrop with high solar incidence during the day (figure 
+2). 
+Conservation status - Following IUCN (2019) criteria B2a and D, we propose this 
+specie to treated as ‘Critically Endangered’ (CR), since it is known only from one 
+population, in a restricted area, despite the fact that this one population is located within 
+a protected area (Minas Gerais 2018). This status is also given because the region is 
+prone to the effects of human activity (Pinus and Eucalyptus planting, real-estate 
+speculation, disorganized visitation, illegal collection of plant and grazing). We hope 
+that the risks will be controlled and that the level of threat will decrease with the recent 
+legalization of the area as a conservation unit. However, futher field studies are required 
+to identify patterns, population size and threats, since the species was only found within 
+the limits of the Parque Estadual da Serra Negra da Mantiqueira. 
+Notes - Pleroma heteromallum (D. Don) D. Don and Pleroma tedescoi (Meirelles, 
+L.Kollmann & R.Goldenb.) P.J.F.Guim. & Michelang. are closely related by plant 
+architecture, with quadrangular branches, similar leaf shape and indument, thysoid 
+inflorescences, 5-merous flowers, purple petals and stamens with glandular trichomes 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+7 
+ 
+on their filaments. It is also important to highlight that all the three species share similar 
+habitat growing on rocky outcrops. However, P. heteromallum can be distinguished 
+from P. eglanduliferum by the presence of glandular trichomes in the pedoconnective of 
+the antisepalous stamens, and bracteoles slightly smaller than the hypanthium. In 
+addition, P. tedescoi can also be distinguished from P. eglanduliferum in having 
+hypanthia covered with glandular trichomes, isomorphic stamens between the whorle, 
+and bracteoles slightly smaller than the hypanthia.  
+Pleroma heteromallum has a wide distribution occurring in the southeastern and 
+northeastern regions of Brazil and less frequently in the western center of the country 
+(Guimarães 1997). In the State of Minas Gerais, P. heteromallum is registered to 700-
+1700 meters of elevation (Guimarães 1997). Pleroma tedescoi, on the other hand, 
+occurs only in Espírito Santo State, to 1700-1800 meters of elevation (Meirelles et al. 
+2012). The summary and main characters comparison is presented in Table 1. 
+ 
+Acknowledgments 
+We thank the owner of the property, Mr. Altair Batista Nogueira, for the permission to 
+collect the species; to Samuel Pipano Rodrigues, for the beautiful illustration; to Rafael 
+da Silva Ribeiro (Núcleo de Computação Científica e Geoprocessamento do Jardim 
+Botânico do Rio de Janeiro), for constructing the geographic distribution map, and to 
+José Hugo Campos, for the help on field studies and the construction of the 
+photographic board. 
+ 
+ 
+ 
+Author Contributions 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+8 
+ 
+Luciana Leitão Justino: Substantial contribution in the concept and design of the study; 
+Contribution to data collection; Contribution to data analysis and interpretation, 
+Contribution to manuscript preparation. 
+Paulo José Fernandes Guimarães: Substantial Contribution in the concept of manuscript 
+preparation; Contribution to data analysis and interpretation; Contribution to critical 
+revision, adding intellectual content. 
+Berenice Chiavegatto Campos: Contribution to critical revision, adding intellectual 
+content. 
+Fátima Regina Gonçalves Salimena: Contribution to data collection; Contribution to 
+critical revision, adding intellectual content. 
+ 
+Conflicts of interest 
+There is no conflict of interest. 
+ 
+Literature cited 
+Cogniaux, A.C. 1885. Melastomataceae. Tribus II. Tibouchineae. In: Martius CFP de, 
+Eichler, A. G. (eds), Flora Brasiliensis, v. 14, part. 3. Frid. Fleischer, Lipsiae, pp. 
+205-480 and pp. 596-604.  
+Cogniaux, A.C. 1891. Melastomaceae. In: A. Candolle and C. Candolle (eds), 
+Monographiae phanerogamarum, v. 7, G. Masson, Paris. 
+Costa, C. and Herrmann, G. 2006. O corredor ecológico da Mantiqueira. In: C.M.R. 
+Costa et al. (eds). Plano de ação do corredor ecológico da Mantiqueira. Valor 
+Natural, Belo Horizonte, pp. 13-29.  
+ESRI - Environmental Systems Research Institute. 2008. ArcGis, Software Version 
+9.3. Available at http://pro.arcgis.com/en/pro-app/ (accessed in 14-IV-2020) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+9 
+ 
+Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. Available at 
+http://floradobrasil.jbrj.gov.br/ (accessed in 8-IV-2020). 
+Fraga, C.N. & Guimarães, P.J.F. 2014. Two new species of Pleroma 
+(Melastomataceae) from Espírito Santo, Brazil. Phytotaxa 166: 77-84.  
+Freitas, J.G., Santos, A.K.A., Guimarães, P.J.F. & Oliveira, R.P. 2013. A new and 
+unusual species of Tibouchina (Melastomataceae) occurring in caatinga vegetation 
+in Bahia, Brazil. Systematic Botany. 38: 418-423.  
+Guimarães, P.J.F. 1997. Estudos taxonômicos de Tibouchina sect. Pleroma (D.Don) 
+Cogn. (Melastomataceae). Tese de Doutorado, Universidade Estadual de Campinas, 
+Campinas. 
+Guimarães, P.J.F. 2014. Two new species of Tibouchina (Melastomataceae) from 
+Brazil. Novon 23. 
+Guimarães, P.J.F. & Silva, M.F.O. 2014. Aciotis, Acisanthera, Marcetia e Pterolepis 
+(Melastomeae-Melastomataceae) no estado do Rio de Janeiro. Rodriguésia 65: 
+1023-1035.  
+Guimarães, P.J.F. & Freitas, J.G. 2015. Two New Species of Pleroma 
+(Melastomataceae) from Brazil. Systematic Botany 40: 553-560.  
+Guimarães, P.J.F., Michelangeli, F.A., Sosa, K. & Gómez, J.R.S. 2019. Systematics 
+of Tibouchina and allies (Melastomataceae: Melastomateae): A new taxonomic 
+classification. Taxon 68: 937-1002.  
+IUCN Standards and Petitions Subcommittee. 2019. Guidelines for using the IUCN Red 
+List Categories and Criteria. Version 14. Prepared by the Standards and Petitions 
+Subcommittee. Available at http://www.iucnredlist.org/documents/RedListGuidelines.pdf 
+(accessed in 14-IV-2020). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+10 
+ 
+Justino, L.L. 2016. Melastomataceae A. Juss. da Serra Negra, Minas Gerais: 
+tratamento taxonômico, distribuição nas fitofisionomias e similaridade florística. 
+Dissertação de Mestrado, Universidade Federal de Juiz de Fora, Juiz de Fora. 
+Lino, C.F. & Albuquerque, J.L. 2007. O Mosaico de Unidades de Conservação da 
+Serra da Mantiqueira - Mosaico Mantiqueira. Mosaicos de unidades de conservação 
+no corredor da Serra do Mar. In: H. Dias (ed), Mosaicos de Unidades de 
+Conservação no Corredor da Serra do Mar, vol. 32. - Conselho Nacional da Reserva 
+da Biosfera da Mata Atlântica, São Paulo, pp. 71-84. 
+Martinelli, G. 2007. Mountain biodiversity in Brazil. Revista Brasileira de Botânica. 
+30: 587-597.  
+Meirelles, J., Kollmann, L.J.C. & Goldenberg, R. 2012. Tibouchina tedescoi: a new 
+species in Tibouchina sect. Pleroma (Melastomataceae) from Espírito Santo, Brazil. 
+Kew Bulletin 67: 1-5.  
+Michelangeli, F.A., Guimarães, P.J.F., Penneys, D.S., Almeda, F. & Kriebel, R. 
+2013. Phylogenetic relationships and distribution of New World Melastomeae 
+(Melastomataceae). Botanical Journal of Linnean Society 171: 38-60.  
+Minas Gerais. 2018. Decreto com numeração especial 301, de 04 de julho de 2018. 
+Cria o Parque Estadual Serra Negra da Mantiqueira e dá outras providências. Diário 
+do Executivo, Belo Horizonte, pag. 9 col. 2. Available at 
+https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DNE&
+num=301&comp=&ano=2018 (accessed in 8-IV-2020). 
+Oliveira, A.L.F., Romero, R. & Guimarães, P.J.F. 2014. A new Brazilian species and 
+some synonyms in Pleroma (Melastomataceae). Brittonia 66: 353-357. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+11 
+ 
+Salimena, F.R.G., Matozinhos, C.N., Abreu, N.L., Ribeiro, J.H.C., Souza, F.S. & 
+Menini Neto, L. 2013. Flora Fanerogâmica da Serra Negra, Minas Gerais, Brasil. 
+2013. Rodriguésia 64: 311-320.  
+Silva, M.F.O., Guimarães, P.J.F. & Michelangeli, F.A. 2014. Nomenclatural and 
+taxonomic novelties in the tribe Melastomeae (Melastomataceae). Phytotaxa 186: 
+222-228.  
+Thiers, B. 2020. [continuously updated] index herbariorum: a global directory of public 
+herbaria and associated staff. New York Botanical Garden’s Virtual Herbarium. 
+Avaliable at http://sweetgum.nybg.org/ih/ (acessed in 15-XI-2020) 
+ 
+Received: 24.06.2020 
+Accepted: 26.02.2021 
+Associate Editor: Maria Beatriz Caruso 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+12 
+ 
+Table 1. Morphological comparison between Pleroma eglanduliferum Justino & P.J.F. 
+Guimarães, P. heteromallum (D. Don) D. Don and Pleroma tedescoi (Meirelles, 
+L.Kollmann & R.Goldenb.) P.J.F.Guim. & Michelang.  
+Characters 
+P. eglanduliferum  
+P. heteromallum 
+P. tedescoi 
+Plant height (m) 
+0.7-2  
+0.7-2  
+1-1.5  
+Petiole (mm) 
+3-7  
+30-66 
+5-24  
+Leaf dimensions 
+(length×width) 
+(cm) 
+ 
+0.8-4.5 × 0.5-3.2  
+ 
+12.5-21 × 8.5-15  
+ 
+1.8-8.7 ×1.3-6  
+Bracteoles 
+dimensions 
+(length×width) 
+(mm) 
+ 
+7-11×  3-7  
+ 
+3-4 × 2-2.5  
+ 
+4.7-7.2 × ca. 1.8  
+Hypanthia 
+dimensions 
+(length×width) 
+(mm) 
+ 
+4-5 × 3  
+ 
+4-5 × 3 
+ 
+6.2-8.5 x ca. 5  
+Stamens size, 
+difference 
+between whorls 
+ 
+dimorphic 
+ 
+dimorphic 
+ 
+isomorphic 
+Stamens 
+connectives, 
+indumentum 
+ 
+glabrous 
+ 
+glandular 
+ 
+glabrous 
+Distribution in 
+Brazil 
+Minas Gerais State 
+wide distribution 
+Espírito Santo 
+State 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+13 
+ 
+ 
+Figure 1. Pleroma eglanduliferum Justino & P.J.F. Guim. a. Flowering branches. b. 
+Incomplete dichasium with two bracts and one lateral bud. c. Antesepalous stamen 
+(lateral view). d Antepetalous stamen (lateral view). e. Seed. Voucher: Justino et al. 
+134. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+14 
+ 
+ 
+Figure 2. Pleroma eglanduliferum Justino & P.J.F. Guim., sp. nov. a. Flowering 
+branches; b. Habitat in rocky fields on a soil with outcrops. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+15 
+ 
+ 
+Figure 3. Map showing the geographical distribution of Pleroma eglanduliferum Justino 
+& P.J.F. Guimarães in the municipality of Rio Preto, Minas Gerais State, Brazil (black 
+triangles). 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Scietific note 
+DOI: https://doi.org/10.1590/2236-8906-76/2020 
+ 
+ 
+16 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-76/2020
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

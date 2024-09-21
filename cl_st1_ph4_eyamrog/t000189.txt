@@ -1,0 +1,869 @@
+Vitamin A and D deficiencies in the prognosis of respiratory tract infections: A 
+systematic review with perspectives for COVID-19 and a critical analysis on 
+supplementation 
+ 
+Vitamin A and D deficiencies: Perspectives for COVID-19 
+ 
+Maria Izabel Siqueira de Andradea (ORCID: 0000-0003-1087-1320) 
+Patrícia Fortes Cavalcanti de Macêdob (ORCID: 0000-0002-2728-0431) 
+Tafnes Laís Pereira Santos de Oliveirac (ORCID: 0000-0002-5904-8557) 
+Niedja Maria da Silva Limad (ORCID: 0000-0002-5185-1636) 
+Isabella da Costa Ribeiroc (ORCID: 0000-0002-3817-2073) 
+Thayná Menezes Santosd (ORCID: 0000-0002-2920-2373) 
+ 
+aFederal University of Alagoas, Faculty of Nutrition, Brazil, ZIP Code: 57072-900, 
+author’s email: andrademizabel@gmail.com 
+bFederal University of Bahia, Brazil, School of Nutrition, ZIP Code: 40110-907, author’s 
+email: macedopatriciafortes@gmail.com 
+cFederal University of Pernambuco, Health Sciences Center, Brazil, ZIP Code: 50670-
+901, author’s email: tafnes_lais@hotmail.com; isabella_ribeiro12@hotmail.com 
+dFederal University of Pernambuco, Academic Center of Vitoria, Brazil, ZIP Code: 
+55608-250, author’s email: niedjanutricionista@gmail.com; thay.meenezes@gmail.com 
+ 
+Correspondence: 
+Maria Izabel Siqueira de Andrade. Faculty of Nutrition, Department of Nutrition, Campus 
+A.C. Simões, Lourival Melo Mota Avenue, ZIP Code: 57072-900, Maceió, AL, Brazil.  
+Email: andrademizabel@gmail.com. Telephone number: +55 81 99894 3348. 
+ 
+Conflict of Interests: The authors report the non-existence of any kind of conflict of 
+interests. 
+ 
+Financial Support: The authors did not receive any financial support. 
+ 
+Individual Collaboration: Maria Izabel Siqueira de Andrade: study design, 
+bibliographic search, database construction, data analysis, interpretation of results, 
+writing, review and approval of the final version of the manuscript. Patrícia Fortes 
+Cavalcanti de Macêdo: study design, bibliographic search, database construction, data 
+analysis, interpretation of results, writing, review and approval of the final version of the 
+manuscript. Tafnes Laís Pereira Santos de Oliveira: study design, bibliographic search, 
+database construction, data analysis, interpretation of results, writing, review and 
+approval of the final version of the manuscript. Niedja Maria da Silva Lima: study 
+design, bibliographic search, database construction, data analysis, review and approval of 
+the final version. Isabella da Costa Ribeiro: data analysis, writing, review and approval 
+of the final version of the manuscript. Thayná Menezes Santos: bibliographic search, 
+data analysis, review and approval of the final version. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT 
+ 
+OBJECTIVE: Considering the rapid spread of COVID-19, the scientific community has 
+been looking for ways to recognize factors that may interfere with the outcome of viral 
+infection. Despite the lack of studies with the new coronavirus, it is known that adequate 
+serum levels of micronutrients are essential for the organic response to infectious 
+diseases. Thus, we aim to review the effects of vitamin A, D, iron, zinc, or folate 
+deficiency on the prognosis of patients with respiratory infections with manifestations 
+similar to COVID-19 and discuss about supplementation of the nutrients analyzed in this 
+review. METHODS: The search was conducted in the databases PubMed, Lilacs, and 
+SciELO, including observational studies published between 2010-2020, with results for 
+individuals with respiratory tract infections with manifestations similar to COVID-19. 
+RESULTS: Six articles met the inclusion criteria, all of which were related to 
+deficiencies of vitamins A and D. In general, vitamin A deficiency was associated with 
+cough, fever, and greater total respiratory resistance. Regarding vitamin D, the lack of 
+this nutrient led to higher rates of ICU admission, the need for mechanical ventilation, 
+and mortality. Evidence linking specific relationships between nutritional deficiencies 
+and COVID-19 remain lacking due to the small number of studies and heterogeneities in 
+population subgroups. CONCLUSION: In conclusion, deficiencies of vitamins A and D 
+seem to negatively affect the prognosis of respiratory tract infections. Supplementation 
+of these nutrients for prevention or treatment of patients diagnosed with COVID-19 
+should respect serum levels, nutritional status and housing conditions (e.g.,endemic 
+location) of individuals. 
+ 
+KEYWORDS: Micronutrients; vitamin A; vitamin D; coronavirus; respiratory tract 
+infections. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+Coronavirus (COVID-19) is a viral respiratory illness caused by the new 
+coronavirus (2019-nCoV) that emerged in December 2019 in the city of Wuhan/China 
+[1]. The rapid geographical spread of the new coronavirus has represented a major 
+challenge for public health [2]. According to the World Health Organization (WHO) 
+report [2], until April 30, 2020, the world pandemic resulted in 3.090.445 confirmed cases 
+and more than 217 thousand deaths resulting from clinical manifestations secondary to 
+infection (fever, dry cough, and shortness of breath) [3,4]. 
+Possible risk factors that affect the disease prognosis in patients infected with the 
+new coronavirus include advanced age, presence of chronic non-communicable diseases, 
+such as hypertension, diabetes mellitus, and cardiovascular diseases [5,6], as well as 
+immune dysregulation [7]. 
+The importance of adequate nutritional status to modulate the immune response 
+and decrease the risk of infections is well established in the literature [8,9]. Micronutrients 
+such as vitamin A, D, iron, zinc, and folate, are highlighted for their participation in 
+several stages of the immune response, including differentiation, proliferation and 
+functioning of innate immune cells; regulation of cytokine; and production/development 
+of antibodies [8]. 
+Considering the lack of scientific evidence regarding the role of nutritional 
+deficiencies in the prognosis of viral infections and, given the current global pandemic 
+scenario of COVID-19, the present study aimed to assess, based on the literature, the 
+effects of deficiency of vitamin A, D, iron, zinc or folate in the prognosis of patients with 
+respiratory infections with manifestations similar to COVID-19 and discuss about 
+supplementation of the nutrients included for qualitative analysis in this review. 
+ 
+Methods 
+Guidelines 
+The study design and conduct of this systematic review comprised the 
+recommendations of the Preferred Reporting Items for Systematic Reviews (PRISMA) 
+[10] guidelines and the research protocol was registered in the International Prospective 
+Register of Systematic Reviews (PROSPERO) [11], under registration number 
+CRD42020178982. 
+ 
+ 
+Bibliographic search strategy 
+The methodological procedure was carried out from March to 30 April 2020, 
+based on the following guiding question, elaborated according to the acronym PECO 
+[12]: “Deficiency of vitamin A, D, iron, zinc or folate in individuals with respiratory 
+infections with manifestations similar to COVID-19 leads to a worse prognosis when 
+compared to those without deficiency?”. 
+The electronic search was performed in the databases: Publisher Medline 
+(PubMed), Latin American and Caribbean Health Sciences Literature Resource 
+(LILACS) and Scientific Electronic Library Online (SciELO). For the search strategy, 
+the following descriptors were used: “Nutritional Deficiency”, “Vitamin A”, “Vitamin 
+D”, “Zinc”, “Iron”, “Anemia”, “Folate”, “Folic Acid”, “Respiratory Tract Infections”, 
+“Influenza”, and “Coronavirus”. The descriptors were identified in the Medical Subject 
+Headings 
+(Mesh), 
+available 
+at 
+the 
+U.S. 
+National 
+Library 
+of 
+Medicine 
+(http://www.nlm.nih.gov/mesh/), and in the list of Health Sciences Descriptors 
+(http://decs.bvs.br). 
+The search algorithm for PubMed was: (("malnutrition"[MeSH Terms] OR 
+"malnutrition"[All Fields] OR ("nutritional"[All Fields] AND "deficiency"[All Fields]) 
+OR "nutritional deficiency"[All Fields]) AND ("vitamin a"[MeSH Terms] OR "vitamin 
+a"[All Fields])) AND ("respiratory tract infections"[MeSH Terms] OR ("respiratory"[All 
+Fields] AND "tract"[All Fields] AND "infections"[All Fields]) OR "respiratory tract 
+infections"[All Fields]). The keywords were changed to provide the inclusion of articles 
+with the other micronutrients and infectious conditions (influenza or coronavirus). 
+ 
+Eligibility criteria 
+The articles selection criteria included original observational studies, carried out 
+with respiratory infected individuals manifesting similar COVID-19 symptons, published 
+in the last 10 years (between 2010 and 2020), in English, Spanish or Portuguese. The 
+similarity of manifestations of the respiratory infections included in this review with the 
+symptoms of COVID-19 was assessed based on the Epidemiological Bulletin on 2019-
+nCoV [13], which refers to a broad common clinical spectrum between COVID-19 and 
+other colds, with manifestations ranging from coughing, fever, and shortness of breath to 
+severe pneumonia. 
+Studies as reviews, letters to the editor, theses, and dissertations addressing 
+bacterial infections like tuberculosis, carried out with experimental models, and whose 
+analytical methodology was the assessment of the association between the infection 
+leading to nutritional deficiency were excluded from the present review. To increase the 
+sensitivity of the search for studies related to iron deficiency, the term "anemia" was 
+included as a descriptor, however, researches that identified anemia exclusively by 
+assessing hematocrit and hemoglobin, and did not evaluate iron status by ferritin and 
+transferrin receptor [14,15], were not considered eligible for the study. 
+ 
+Study screening and inclusion 
+The articles screening followed three stages: reading the title, reading the abstract, 
+and reading full-text articles. After reading the titles and abstracts, the full texts were read 
+to identify those who met the inclusion criteria, according to the pre-established protocol. 
+The authors independently evaluated the articles and, later, they were gathered for 
+confrontation and confirmation of the investigated data to reduce bias and heterogeneity 
+in the analyzes. 
+ 
+Quality assessment of articles 
+The articles included in this review received scores from 0 to 22 points, according 
+to the initiative Strengthening the Reporting of Observational Studies in Epidemiology 
+(STROBE) [16].  
+ 
+Data extraction 
+Data extraction was performed in Microsoft Excel 2016 version, using a protocol 
+prepared by the researchers, containing the following data: title of the article, author, 
+place and year of publication, objective and type of study, sample size, characteristics of 
+the study population, diagnosis/clinical manifestation of the infection, the prevalence of 
+nutritional deficiency, and clinical outcomes associated with the deficiency. 
+ 
+Results 
+Screening and characteristics of included studies 
+The search for articles resulted in the identification of 1,691 articles 
+corresponding to the respective surveyed micronutrients. Of these, we excluded 29 
+because they were duplicated. Among the remaining 1,662, after applying the eligibility 
+criteria based on the information provided in the titles and abstracts 1,615 were 
+eliminated. A total of 47 articles were read in full and, in the final stage, 6 studies were 
+considered eligible for this review (Figure 1). 
+According to STROBE, the median quality of the articles was 17.7 (Interquartile 
+Range=15.6-18.8), with scores ranging from 15.6 to 20 points. All studies included met 
+percentages higher than 50% of this indicator (Chart 1). 
+The selected studies were published between 2012 and 2018, involving 
+participants from Europe [17], South America [18–20], North America [21], and Asia 
+[22] (Chart 1), with a total of 4,352 individuals (3,388 children and 964 adults and 
+elderlies) of both sexes, with diagnosed community-acquired pneumonia [18,22], acute 
+upper respiratory tract infections [20] or acute lower respiratory infections [17,21], and 
+predicting clinical symptoms of viral infections, such as cough with fever [19]. 
+Four studies were carried out at a hospital [17,18,21,22], one in a specialized 
+clinic, [20] and one in primary schools [19] (Chart 1). The included studies were two 
+cross-sectional studies [18,20] two prospectives [17,19] one population-based 
+observational study [21] and one with retrospective design [22]. 
+Regarding the nutrients considered in the search stage, we found articles that met 
+the inclusion criteria for vitamin A [19–21] and vitamin D [17,18,21,22].  
+ 
+Vitamin A 
+Vitamin A deficiency in non-hospitalized children between 0 and 12 years old 
+with respiratory tract infections, reached a prevalence of 12-46% [19–21], and a severe 
+deficit reached 1.2-3.9% of the participants [19,20]. Serum retinol levels were inversely 
+related to cough with fever (p=0.05) [19], and to an increase in total respiratory resistance 
+in individuals without wheezing (p<0.05) [20]. Children with vitamin deficiency were 
+more likely admitted to the ICU (p<0.05), an association that lost significance when 
+adjusted analyzes were conducted [21], and those with severe deficit were 2.4-fold more 
+likely to present cough with fever. An increase of 10mg/dL of plasma retinol was a 
+protective factor contributing to 10% fewer days of cough with fever (p<0.001) and 6% 
+fewer visits to the doctor (p<0.05) [19]. Amaral et al. [20] observed that patients with 
+infections without wheezing and with vitamin A deficiency had difficulty recovering of 
+respiratory resistance even after clinical treatment for infection (Chart 2). 
+ 
+ 
+ 
+Vitamin D 
+All included studies that assessed the impact of vitamin D, regardless of age, were 
+conducted with hospitalized patients. In children, the prevalence of vitamin D deficiency 
+ranged from 12% to 85% [17,21] and was positively associated with a higher risk of 
+severe signs of breathing difficulties (OR:5.065; 95%CI:1.998;12.842; p<0.001) [17]. 
+Children with vitamin D levels below 20ng/mL presented 117% more chances of using 
+oxygen support and 217% more chances of needing respiratory support [17]. In addition, 
+Hurwitz et al. [21] showed that vitamin D deficit in the pediatric group contributed to 
+greater chances of ICU admission (OR: 3.29; 95%CI: 1.20;9.02; p<0.05) and mechanical 
+ventilation (OR: 11.2; 95%CI: 2.27;55.25; p<0.001). In hospitalized adults and elderlies, 
+vitamin D deficiency was prevalent in 80 to 85% of the sample [18,22]. Brance et al. [18] 
+found no association between the disease symptoms and levels of respiratory infection. 
+Kim et al. [22] observed that, after statistical adjustments, there was an increased risk for 
+mortality in 28 days in the group with 25-hydroxyvitamin D (25(OH)D) deficiency (OR: 
+3.31; 95%CI: 1.17– 9.39; p<0.05) (Chart 2). 
+ 
+Discussion 
+Vitamin A and D deficiencies and outcomes of respiratory infections  
+Evidence suggests that micronutrient deficiency is one of the main etiological 
+factors involved in the global burden of diseases, where deficiencies in vitamins A, D, 
+iron, zinc, and folate stand out as important public health problems, especially in 
+developing countries [23–25]. Such epidemiological scenario led to the choice of these 
+micronutrients to be addressed in the present review. 
+During the search stages, investigations involving analysis of iron, zinc, and folate 
+did not meet the necessary criteria for inclusion in this study, thus the results were limited 
+to findings corresponding to vitamin A and D, showing that the deficiency of these 
+nutrients appears to be a predictor of clinical complications in the course of the assessed 
+respiratory infections. 
+Indeed, studies confirm that maintaining nutritional status is associated with 
+immune integrity [26–28] and International Society for Immunonutrition reinforces the 
+importance of eating diversified and balanced foods, rich in antioxidant nutrients, aiming 
+to promote healthy eating practices in times of pandemic [29]. 
+Among the nutrients with such characteristics, vitamin A is part of the 
+intervention strategies, since it reduces the susceptibility to pathogens in the mucosal 
+epithelium of digestive and respiratory tract [8], playing an essential role in the regulation 
+of growth, differentiation and gene expression of airway epithelial cells [30]. 
+The described functions may in part explain the results related to vitamin A in the 
+present study, which demonstrated that the deficiency of this nutrient in children was 
+associated with outcomes such as cough with fever, a greater number of visits to the 
+doctor, greater total respiratory resistance, and less response to clinical treatment of acute 
+upper respiratory infection. 
+Supporting this tendency Qi et al. [31] in a survey with 684 Chinese children (age 
+range 5 months to 12 years old), observed that vitamin A deficiency (retinol<0.2mg/L) 
+was a risk factor for the development of acute respiratory tract infection (p<0.05). It is 
+worth noting the possibility of non-causal effects in these findings, as it is known that 
+vitamin A concentrations may decrease in the presence of infectious conditions due to the 
+acute phase response [32]. 
+Barbosa et al. [33] when following Brazilian children with and without 
+pneumonia, found that serum retinol levels were statistically lower during the 
+inflammatory process than after recovery (1.11±0.43 vs. 1.38±0.30μmol/L; p<0.05). The 
+authors attributed this finding due to the acute phase response associated with reduced 
+mobilization of hepatic nutrient reserves, as well as the increased need for retinol 
+secondary to the improved activity of immune cells in pneumonia. 
+Although the results related to vitamin D are heterogeneous, it is known that 
+vitamin D deficiency has been a common nutritional disorder in patients diagnosed with 
+respiratory tract infections [34,35]. Inamo et al (2011) [36], in their hospital-based 
+retrospective case study, observed that Japanese children (mean age 14.03±11.43 months) 
+with bronchiolitis or pneumonia who had vitamin D deficiency (<10ng/mL) were the ones 
+who most needed oxygen and/or ventilation support (p<0.01). 
+On the other hand, Xu et al (2016) [37], when evaluating 2,694 children and adults 
+in Hong Kong, did not find an association between the lowest serum concentrations of 
+25(OH)D (<50nmol/l) and the risk of infections by influenza virus (RR: 1.15; 95%CI: 
+0.73;1.83; p=0.55) after adjusting for age, sex, chronic disease, and vaccination history. 
+However, the authors observed an association with the incidence of influenza-like 
+symptoms (presence of fever ≥37.8ºC and cough or sore throat) (RR: 1.70; 95%CI: 
+1.14;2.51; p=0.01). 
+According to a case-control study conducted by Mamani et al (2017) [35] with 
+149 adults diagnosed with community-acquired pneumonia, the risk of pneumonia among 
+individuals with deficient levels of vitamin D (<10ng/mL) was 3.69-fold (95%CI: 
+1.46;9.31) greater than those with sufficient levels (>20ng/mL) (p<0.01). 
+The biochemical profile of vitamin D in patients diagnosed with COVID-19 is 
+still unknown. Thus, it is suggested that determining vitamin D levels in baseline blood 
+samples may be a way of investigating the impact of vitamin D levels on the prognosis 
+of COVID-19 and justifying the possible therapeutic action of vitamin D in the treatment 
+of 2019-nCoV. 
+ 
+Perspectives on Vitamin D and A supplementation  
+Zhang and Liu [38], in a recent publication, discuss possible nutritional 
+interventions for 2019-nCoV and claim that vitamin A can be a promising strategy for 
+the treatment and the prevention of lung infections, however, they do not suggest dosages 
+or protocol for supplementation.  
+Cochrane review published by Chen et al. [39] demonstrated unexpected effects 
+for megadose supplementation (100.000-206.000 IU/day) or low doses (5.000 IU/day or 
+8.333-10.000 IU/week or 20.000-45.000 IU every two months) of vitamin A in children 
+from 0 to 7 years old. The results showed no effect and some of the studies revealed 
+exacerbation of clinical symptoms (cough with fever, tachypnea and higher incidence of 
+acute respiratory infections) in children who used vitamin supplementation. The authors 
+report that beneficial effects may be more prominent in children with pre-existing 
+malnutrition, concluding that low doses of vitamin A leads to fewer side effects and 
+shows similar benefits to those found in megadose supplementation. 
+In a research conducted by Mawson [30], an extensive consideration about 
+vitamin A supplementation in Influenza infection was available, verifying that 
+supplemental vitamin A seems to induce Influenza-like symptoms, a hypothesis 
+formulated given the increase in respiratory symptoms reported in the studies analyzed 
+by the review. Nevertheless, the author concludes that retinoids can act both to fight 
+infection and to induce symptoms, with the serum vitamin D concentration being a critical 
+factor determining the action of retinoids (previous vitamin D deficiency seems to 
+determine greater toxicity of endogenous retinoids). 
+Clinical trials on vitamin D supplementation that assessed the prevention of 
+respiratory infections and/or the severity of the disease indicated heterogeneous results 
+[40-44], which can be explained by the varying doses of vitamin D (400 to 100.000 IU 
+per day, week and/or single dose), and protocol duration (5 days to 8 months). However, 
+a meta-analysis including 25 randomized controlled trials and totaling 10,933 participants 
+showed a protective effect of vitamin D supplementation against acute respiratory tract 
+infection [45]. 
+A recent literature review [46], discussing the evidence on vitamin D 
+supplementation during COVID-19 pandemic, proposed that, in the hospital setting, 
+patients and staff should take vitamin D supplements to increase 25(OH)D for at least 
+40–50ng/mL (100–125nmol/L). To achieve these concentrations, the authors suggested 
+taking 10,000IU/d for a month and then decrease to 5,000IU/d for maintenance. However, 
+it is stated that “The hypothesis that vitamin D supplementation can reduce the risk of 
+influenza and COVID-19 incidence and death should be investigated in trials to determine 
+the appropriate doses, serum 25(OH)D concentrations, and the presence of any safety 
+issues.” 
+ 
+Conclusions 
+In summary, deficiencies of vitamins A and D may negatively affect the prognosis 
+of respiratory tract infections and supplementation of these nutrients for prevention or 
+treatment of patients diagnosed with COVID-19 should respect serum levels, nutritional 
+status and endemic areas.  
+Some limitations must be considered when interpreting the presented data, such 
+as the inclusion of observational studies, interfering in some causality relationships; the 
+heterogeneity of the selected studies made it impossible to calculate a summary measure 
+(meta-analysis), however, the use of strategies such as checking the quality of articles can 
+help to control this bias; and the absence of original studies with a nutritional approach 
+in patients with COVID-19 restricted inferential aspects. 
+It is worth emphasizing the importance of recognizing endemic nutritional 
+deficiencies in communities dealing with the 2019-nCoV pandemic, so that specialized 
+measures can be taken to control deficits in serum vitamins and minerals and, 
+consequently, control the prognosis of infectious conditions. 
+ 
+References 
+ 
+1. 
+Zhu N, Zhang D, Wang W, Li X, Yang B, Song J et al. A novel coronavirus from 
+patients with pneumonia in China, 2019. N Engl J Med. 2020; 382: 727-33. 
+2. 
+World Health Organization. Coronavirus disease 2019 (COVID-19): situation 
+report, 84. 2020. 
+3. 
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y et al. Clinical features of patients 
+infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020; 
+395(10223):497-506. 
+4. 
+Zhu L, Wang J, Huang R, Liu L, Zhao H, Wu C et al. Clinical characteristics of a 
+case series of children with coronavirus disease 2019. Pediatr Pulmonol. 2020; 
+55(6): 1430-32. 
+5. 
+Dong XC, Li JM, Bai JY, Liu ZQ, Zhou PH, Gao L et al. Epidemiological 
+characteristics of confirmed COVID-19 cases in Tianjin. Zhonghua liu Xing Bing 
+xue za zhi= Zhonghua Liuxingbingxue Zazhi. 2020;41(5):638-642. 
+6. 
+Huang Y, Lu Z, Li R, Wang B. Does comorbidity increase the risk of patients 
+with COVID-19: evidence from meta-analysis. Aging (Albany NY). 
+2020;12(7):6049-6057. 
+7. 
+Saghazadeh A, Rezaei N. Immune-epidemiological parameters of the novel 
+coronavirus–a perspective. Expert Rev Clin Immunol. 2020; 6: 1-6. 
+8. 
+Gombart AF, Pierre A, Maggini S. A Review of Micronutrients and the Immune 
+System–Working in Harmony to Reduce the Risk of Infection. Nutrients. 
+2020;12(1):236. 
+9. 
+Calder PC, Carr AC, Gombart AF, Eggersdorfer M. Optimal nutritional status for 
+a well-functioning immune system is an important factor to protect against viral 
+infections. Nutrients. 2020;12(4):1181. 
+10. 
+Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC, Ioannidis JP et al. 
+The PRISMA statement for reporting systematic reviews and meta-analyses of 
+studies that evaluate health care interventions: explanation and elaboration. Ann 
+Intern Med. 2009;151(4):W-65. 
+11. 
+Preferred Reporting Items for Systematic Reviews. International prospective 
+register 
+of 
+systematic 
+reviews. 
+https://www.crd.york.ac.uk/PROSPERO/ 
+(accessed in 10 Apr 2020). 
+12. 
+Ministério da Saúde. Secretaria de Ciência, Tecnologia e Insumos Estratégicos. 
+Departamento de Ciência e Tecnologia. Methodological guideline: how to 
+conduct a systematic review and meta-analysis of observational comparative 
+studies of risk factors and prognosis. Normas e Manuais Técnicos. 2014. 
+13. 
+Ministério da Saúde. Secretaria de Vigilância em Saúde. Centro de Operações em 
+Emergência em Saúde Pública. New Coronavirus Disease 2019 - COVID-19. 
+2020:1-18. 
+14. 
+World Health Organization. Nutritional anemias: tools for effective prevention 
+and control. Geneva, 2017. 
+15. 
+World Health Organization. Assessing the iron status of populations: report of a 
+Joint World Health Organization/Centers for Disease Control and Prevention 
+Technical Consultation on the Assessment of Iron Status at the Population Level. 
+Geneva, Switzerland, 6-8, April, 2004. 
+16. 
+Malta M, Cardoso LO, Bastos FI, Magnanini MMF, Silva CMFP da. STROBE 
+initiative: guidelines on reporting observational studies. Rev Saude Publica. 
+2010;44(3):559-565. 
+17. 
+Cebey-López M, Pardo-Seco J, Gómez-Carballa A, Martinón-Torres N, Rivero-
+Calle I, Justicia A et al. Role of vitamin D in hospitalized children with lower tract 
+acute respiratory infections. J Pediatr Gastroenterol Nutr. 2016;62(3):479-485. 
+18. 
+Brance ML, Miljevic JN, Tizziani R, Taberna ME, Grossi GP, Toni P et al. Serum 
+25‐hydroxyvitamin D levels in hospitalized adults with community‐acquired 
+pneumonia. Clin Respir J. 2018;12(7):2220-2227. 
+19. 
+Thornton KA, Mora-Plazas M, Marín C, Villamor E. Vitamin A deficiency is 
+associated with gastrointestinal and respiratory morbidity in school-age children. 
+J Nutr. 2014;144(4):496-503. 
+20. 
+Amaral CT, Pontes NN, Maciel BLL, Bezerra HS, Triesta AN, Jeronimo SM et 
+al. Vitamin A deficiency alters airway resistance in children with acute upper 
+respiratory infection. Pediatr Pulmonol. 2013;48(5):481-489. 
+21. 
+Hurwitz JL, Jones BG, Penkert RR, Gansebom S, Sun Y, Tang L et al. Low 
+retinol-binding protein and vitamin D levels are associated with severe outcomes 
+in children hospitalized with lower respiratory tract infection and respiratory 
+syncytial virus or human metapneumovirus detection. J Pediatr. 2017;187:323-
+327. 
+22. 
+Kim HJ, Jang JG, Hong KS, Park JK, Choi EY. Relationship between serum 
+vitamin D concentrations and clinical outcome of community-acquired 
+pneumonia. Int J Tuberc Lung Dis. 2015;19(6):729-734. 
+23. 
+Bailey RL, West Jr KP, Black RE. The epidemiology of global micronutrient 
+deficiencies. Ann Nutr Metab. 2015;66(Suppl. 2):22-33. 
+24. 
+de Carvalho CA, de Almeida Fonsêca PC, Priore SE, Franceschini S do CC, de 
+Novaes JF. Food consumption and nutritional adequacy in Brazilian children: a 
+systematic review. Rev Paul Pediatr. 2015;33(2):211-221. 
+25. 
+Darnton-Hill I. Public Health Aspects in the Prevention and Control of Vitamin 
+Deficiencies. Curr Dev Nutr. 2019;3(9):nzz075. 
+26. 
+Naja F, Hamadeh R. Nutrition amid the COVID-19 pandemic: a multi-level 
+framework for action. Eur J Clin Nutr. 2020:1-5. 
+27. 
+Guillin OM, Vindry C, Ohlmann T, Chavatte L. Selenium, Selenoproteins and 
+Viral Infection. Nutrients. 2019;11(9). doi:10.3390/nu11092101 
+28. 
+Childs CE, Calder PC, Miles EA. Diet and Immune Function. Nutrients. 
+2019;11(8). doi:10.3390/nu11081933. 
+29. 
+ISIN 
+Position 
+Statement 
+on 
+Nutrition, 
+Immunity 
+and 
+COVID-19. 
+2020;(March):2020. 
+30. 
+Mawson AR. Role of Fat-Soluble Vitamins A and D in the Pathogenesis of 
+Influenza: A New Perspective. ISRN Infect Dis. 2012;2013. 
+31. 
+Qi YJ, Niu QL, Zhu XL, Zhao XZ, Yang WW, Wang XJ. Relationship between 
+deficiencies in vitamin A and E and occurrence of infectious diseases among 
+children. Eur Rev Med Pharmacol Sci. 2016;20(23):5009-5012. 
+32. 
+Thurnham DI, McCabe GP, Northrop-Clewes CA, Nestel P. Effects of subclinical 
+infection on plasma retinol concentrations and assessment of prevalence of 
+vitamin A deficiency: meta-analysis. Lancet. 2003;362(9401):2052-2058. 
+33. 
+Barbosa KC, Cunha DF, Jordão Jr AA, Weffort VR, Cunha SF. Transient 
+decreased retinol serum levels in children with pneumonia and acute phase 
+response. J Pediatr. 2011;87(5):457-460. 
+34. 
+Xu C, Fang VJ, Perera RA, Kam AM, Ng S, Chan YH et al. Serum 25-
+Hydroxyvitamin D Was Not Associated with Influenza Virus Infection in 
+Children and Adults in Hong Kong, 2009-2010. J Nutr. 2016;146(12):2506-2512. 
+doi:10.3945/jn.116.234856. 
+35. 
+Mamani M, Muceli N, Basir HRG, Vasheghani M, Poorolajal J. Association 
+between serum concentration of 25-hydroxyvitamin D and community-acquired 
+pneumonia: A case-control study. Int J Gen Med. 2017;10:423. 
+36. 
+Inamo Y, Hasegawa M, Saito K, Hayashi R, Ishikawa T, Yoshino Y et al. Serum 
+vitamin D concentrations and associated severity of acute lower respiratory tract 
+infections in Japanese hospitalized children. Pediatr Int. 2011;53(2):199-201. 
+37. 
+Xu C, Fang VJ, Perera RA, Kam AM, Ng S, Chan YH et al. Serum 25-
+Hydroxyvitamin D Was Not Associated with Influenza Virus Infection in 
+Children and Adults in Hong Kong, 2009-2010. J Nutr. 2016;146(12):2506-2512. 
+doi:10.3945/jn.116.234856. 
+38. 
+Zhang L, Liu Y. Potential interventions for novel coronavirus in China: a systemic 
+review. J Med Virol. 2020. 
+39. 
+Chen H, Zhuo Q, Yuan W, Wang J, Wu T. Vitamin A for preventing acute lower 
+respiratory tract infections in children up to seven years of age. Cochrane 
+Database Syst Rev. 2008;(1). 
+40. 
+Loeb M, Dang AD, Thiem VD, Thanabalan V, Wang B, Nguyen NB et al. Effect 
+of vitamin D supplementation to reduce respiratory infections in children and 
+adolescents in Vietnam: a randomized controlled trial. Influenza Other Respi 
+Viruses. 2019;13(2):176-183. 
+41. 
+Aglipay M, Birken CS, Parkin PC, Loeb MB, Thorpe K, Chen Y et al. Effect of 
+high-dose vs standard-dose wintertime vitamin D supplementation on viral upper 
+respiratory tract infections in young healthy children. Jama. 2017;318(3):245-254. 
+42. 
+Urashima M, Segawa T, Okazaki M, Kurihara M, Wada Y, Ida H. Randomized 
+trial of vitamin D supplementation to prevent seasonal influenza A in 
+schoolchildren. Am J Clin Nutr. 2010;91(5):1255-1260. 
+43. 
+Manaseki‐Holland S, Qader G, Isaq Masher M, Bruce J, Zulf Mughal M, 
+Chandramohan D et al. Effects of vitamin D supplementation to children 
+diagnosed with pneumonia in Kabul: a randomised controlled trial. Trop Med Int 
+Heal. 2010;15(10):1148-1155. 
+44. 
+Choudhary N, Gupta P. Vitamin D supplementation for severe pneumonia—a 
+randomized controlled trial. Indian Pediatr. 2012;49(6):449-454. 
+45. 
+Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P et al. 
+Vitamin D supplementation to prevent acute respiratory tract infections: 
+systematic review and meta-analysis of individual participant data. BMJ. 
+2017;356:i6583. 
+46. 
+Grant WB, Lahore H, McDonnell SL, Baggerly CA, French CB, Aliano JL et al. 
+Evidence that vitamin D supplementation could reduce risk of influenza and 
+COVID-19 infections and deaths. Nutrients. 2020;12(4):988. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. PRISMA Flowchart for inclusion of studies in the systematic review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Records identified after 
+database searching  
+(n=1,691) 
+Records after duplicates 
+removed (n=29) 
+Records excluded (n=1,615) 
+Full-text articles assessed for 
+eligibility (n=47) 
+Full-text excluded, with reasons 
+(n=41): 
+Did not evaluate the outcomes 
+established for research: 17 
+Thesis or reviews: 5 
+Other languages: 4 
+Infection of bacterial origin: 1 
+Intervention study: 1 
+Did not assess iron status: 13 
+Studies included in qualitative 
+synthesis  
+(n=6) 
+Identification 
+Screening 
+Eligibility 
+Included 
+Records screened (n=1,662) 
+Chart 1. General characteristics and quality score of selected articles included in the systematic 
+review. 
+𝑥±SD= Mean ± Standard Deviation; IQR= Interquartile Range.  
+M= Male; F= Female; USA= United States of America. 
+*Evaluation of the quality of articles, according to the initiative Strengthening the Reporting of Observational Studies in Epidemiology 
+(STROBE). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference 
+Location, 
+year 
+Study design 
+Population (n) 
+Population characteristics 
+Score* 
+Brance  
+et al. 
+Argentina, 
+2018 
+Cross-Sectional 
+167 hospitalized 
+adults 
+Age range: 18-96 years old 
+(𝑥±SD=57,4±19,6 years) 
+41% M; 59% F 
+15.6 
+Hurwitz 
+et al. 
+USA,  
+2017 
+Population-
+based 
+observational 
+study 
+90 hospitalized 
+children 
+Median age:  
+19 months (IQR=10-30) 
+52% M; 48% F 
+15.6 
+Cebey-
+López et al. 
+Spain, 
+2016 
+Prospective 
+hospital-based 
+347 hospitalized 
+children 
+Median age:  
+8.4 months (IQR=2.6-21.1) 
+62.1% M; 37.9% F 
+18.5 
+Kim  
+et al. 
+South 
+Korea, 
+2015 
+Retrospective 
+observational 
+797 hospitalized 
+adults and elderlies  
+Age range: 18-96 years old  
+(𝑥±SD=68.1±14.6 years) 
+66% M; 34% F 
+17.5 
+Thornton  
+et al. 
+Colombia, 
+2014 
+School-based 
+prospective 
+cohort 
+2,774 children from 
+primary schools in 
+public schools 
+Age range: 5-12 years old 
+(𝑥±SD=8.7±1.8 years)   
+50.5% M; 49.5% F 
+20.0 
+Amaral  
+et al. 
+Brazil,  
+2012 
+Cross-Sectional 
+177 children recruited 
+at a pediatric clinic 
+Age range: 4-6 years old 
+(𝑥±SD=59±1.58 months) 
+50.3% M; 49.7% F 
+17.9 
+Chart 2. Infection/symptoms related to respiratory infection, prevalence of nutritional deficiency and clinical outcomes associated with nutritional deficiency 
+reported in the included studies in the systematic review. 
+IRR= Incidence Rate Ratios; 95%CI= 95% Confidence Interval; 𝑥±SD= Mean ± Standard Deviation. *p-value indicative of statistical significance when <0,05.  
+MRDR= Modified Relative Dose Response; ICU = Intensive Care Unit. 
+Included studies that assessed the prognosis of respiratory infections with manifestations similar to COVID-19 in vitamin A deficiency 
+Author, year 
+Infection/ 
+Symptoms  
+Method for diagnosis of 
+deficiency 
+Deficiency 
+(%) 
+Outcomes associated with nutritional deficiency 
+Hurwitz et al, 
+2017 
+Lower respiratory tract infection with 
+detection of respiratory syncytial virus 
+(RSV) and/or human metapneumovirus 
+(HMPV) 
+Retinol binding protein (deficiency 
+<15ng/mL or <7µmol/L) 
+46% 
+In the univariate analysis, patients with vitamin A 
+deficiency had higher rates of ICU admission (27% vs. 
+8%; p=0.02). In the inverse probability-weighted 
+estimation model, vitamin A lost its association with the 
+analyzed outcomes (ICU admission (p=0.198), need for 
+mechanical ventilation (p=0.437), and length of hospital 
+stay (p=0.449)). 
+Thornton et 
+al, 2014 
+Cough with fever (a predictor of Influenza 
+infection, and a variety of viral and bacterial 
+infections) 
+Serum retinol (deficiency=10-
+19.9µg/dL and severe deficiency 
+<10.0 µg/dL) 
+Deficiency =12.3% 
+Severe deficiency =1.2% 
+Vitamin A concentrations were inversely related to 
+cough with fever (p=0.05). Children with severe vitamin 
+A deficiency had 2.4-fold more days of cough with fever 
+(IRR: 2.36; 95%CI: 1.30;4.31). After adjusting for 
+explanatory variables (gender, age, educational level and 
+maternal parity, household food insecurity, and 
+hemoglobin), each 10mg/dL of plasma retinol 
+contributed for 10% fewer days of cough with fever 
+(p<0.001) and 6% fewer visits to the doctor (p=0.01). 
+Amaral et al, 
+2012 
+Acute upper respiratory tract infection and 
+Acute upper respiratory tract  
+infection with wheezing 
+Serum retinol (deficiency=10-
+20µg/dL and severe deficiency 
+<10µg/dL) and Modified Relative 
+Dose Response - MRDR (>0.060) 
+Deficiency=24.2% 
+Severe deficiency=3.9% 
+Deficiency assessed by 
+MRDR=26.8% 
+ 
+There was a significant inverse linear relationship 
+between MRDR or retinol and decreased total 
+respiratory resistance for individuals in the infection 
+group without wheezing (the lower the MRDR, the 
+greater the deficiency of vitamin A stores, and the 
+greater the total respiratory resistance (p=0.015); and the 
+lower the retinol, the greater the total respiratory 
+resistance (p=0.02)). Patients with the infection without 
+wheezing, and with vitamin A deficiency (assessed by 
+MRDR) did not show a reduction in total respiratory 
+resistance after clinical treatment for the infection (Mean 
+total respiratory resistance in infection 
+(𝑥±SD=1.14±0.22) vs. recovery (𝑥±SD=1.15±0.21); 
+p=0.565). 
+Chart 2 (Continuation). Infection/symptoms related to respiratory infection, prevalence of nutritional deficiency and clinical outcomes associated with a 
+nutritional deficiency reported in the included studies in the systematic review. 
+OR=Odds Ratio; 95%CI= 95% Confidence Interval; SD=Standard Deviation. *p-value indicative of statistical significance when <0,05.  
+25(OH)D= 25-hydroxyvitamin D; ICU = Intensive Care Unit.  
+Included studies that evaluated the prognosis of respiratory infections with manifestations similar to COVID-19 in vitamin D deficiency 
+Author, year 
+Infection/ 
+Symptoms 
+Method for diagnosis of 
+deficiency 
+Deficiency 
+(%) 
+Outcomes associated with nutritional deficiency 
+Brance et al, 
+2018 
+Community-acquired pneumonia 
+25(OH)D 
+(deficiency <20ng/mL) 
+85% 
+There were no significant differences in symptoms 
+(fever, sputum, hypothermia, dyspnoea, chest pain, and 
+length of hospital stay) and in the physical examination 
+of patients hospitalized with pneumonia, findings that 
+occurred regardless of serum levels of 25(OH)D. 
+Hurwitz et al, 
+2017 
+Lower respiratory tract infection with 
+detection of respiratory syncytial virus 
+(RSV) and/or human metapneumovirus 
+(HMPV) 
+25(OH)D 
+(deficiency <20ng/mL) 
+12% 
+Children with vitamin D deficiency admitted to the ICU, 
+had a greater need for mechanical ventilation when 
+compared to those without deficiency in the univariate 
+analysis (27% vs. 4%; p=0.02). The inverse probability-
+weighted estimation model shows that vitamin D 
+deficiency remained associated with the need for 
+mechanical ventilation (OR: 11.2; 95%CI: 2.27;55.25; 
+p<0.001), demonstrating statistical significance with ICU 
+admission (OR: 3.29; 95%CI: 1.20;9.02; p=0.018). 
+Cebey-López 
+et al, 2016 
+Acute lower respiratory tract infection 
+25(OH)D 
+(deficiency <20ng/mL) 
+62.8% 
+Patients with 25(OH)D deficiency had a higher risk of 
+severe signs of respiratory distress (OR: 5.065; 95%CI: 
+1.998;12.842; p<0.001) than patients with normal values 
+of this nutrient. Children with levels below 20ng/mL 
+showed 117% more chances of using oxygen support 
+and 217% more chances of needing respiratory support. 
+Kim et al, 
+2015 
+Community-acquired pneumonia 
+25(OH)D 
+(deficiency <20ng/mL) 
+80.4% 
+28-day mortality was significantly higher in the group 
+with 25(OH)D deficiency than in the non-deficient group 
+(8.3% vs. 2.6%; p = 0.01). After statistical adjustments, 
+the risk for mortality at 28 days in the 25(OH)D deficient 
+group was OR: 3.31 (95%CI: 1.17;9.39; p=0.03). 

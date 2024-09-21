@@ -1,0 +1,209 @@
+Status: Preprint has not been submitted for publication
+Is the SARS-COV2 mortality rate coefficient decreasing over
+time?
+Lecio Montanheiro, Cesar Dartora
+DOI: 10.1590/SciELOPreprints.1093
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The authors declare that in the event that this manuscript has previously been submitted to a journal and
+being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
+server.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed and published by a journal, the authors declare that they have received
+authorization from the journal to make this deposit.
+Submitted on (YYYY-MM-DD): 2020-08-12
+Posted on (YYYY-MM-DD): 2020-08-17
+Powered by TCPDF (www.tcpdf.org)
+Is the SARS-COV2 mortality rate coeﬃcient decreasing over
+time?
+C. A. Dartora1, https://orcid.org/0000-0001-5110-5214 ∗,
+Lecio V. Montanheiro 1 https://orcid.org/0000-0002-7566-6910
+1 DELT, Universidade Federal do Paran´a (UFPR), Brazil
+Abstract
+The outbreak of novel SARS-COV2, which started in China late 2019, rapidly gained the
+pandemic status.
+Mathematical models are required to have good accuracy in predicting the
+oubreak evolution, to allow governments and local authorities to take actions aiming at minimizing
+the damage for the public health. In the current context there are many uncertainties concerning
+the parameters entering the SIR model. Here we analyse the evolution of the death rate coeﬃcient
+in Italy, USA and Brazil. Experimental data supports the conclusion that it is decreasing over time.
+Keywords: SARS-COV2, SIR model, death rate coeﬃcient
+∗Corresponding author’s email: dartora@ufpr.br
+Phone: +55 41 33 61 32 22 Fax: +55 41 33 61 32 28
+1
+The epidemic outbreak leading to the so-called COVID-19 disease, caused by the novel
+coronavirus SARS-COV2, had started in the late 2019, in the province of Hubei, China.
+The exact date and location of patient zero is still uncertain, but given the high contagon
+rate it quickly disseminated throughout the world, being declared pandemic by the World
+Health Organization (WHO) in March 2020. Within this scenario, mathematical models
+are crucial in making predictons allowing governments and local authorities to take safety
+measures aiming at minimizing the potential damaged that can be caused to the population
+and the health systems [1]. These models are based on the so-called susceptible-infected-
+recovered (SIR) model and its variants [2–5], but key parameters entering it, such as infection
+and mortality rate coeﬃcients, suﬀered from enormous uncertainties at the very beginning,
+rendering predictions which missed the target by far. The Imperial College London model
+predicted in early March 2020 more than 500 thosands of deaths in the UK and more than
+2 millions in the USA [6, 7]. Therefore, it takes time, while the epidemic unfolds, for a
+reliable amount of experimental evidence to be collected, allowing the model parameters to
+be known with less uncertainty. It must be emphasized that there are still many doubts
+about the correct model to be used in describing the time evolution of SARS-COV2 epidemic
+process, but it is relatively safe to assume that an infected person which recovered become
+immune, at least in the time window being considered.
+In the present paper we will analyse the evolution of the death rate coeﬃcient µ in Italy,
+USA and Brazil.
+Current data supports the conclusion that it is decreasing over time,
+obeying an exponential law for suﬃciently large time scales. The causes for that behavior,
+to the best of our knowledge, are unknown.
+For the sake of simplicity we will take as the starting point the SIRD model, whose
+equations are written below:
+dS
+dt = −αSI ,
+(1)
+dI
+dt = αSI −1
+τ I −µI ,
+(2)
+dR
+dt
+= 1
+τ I ,
+(3)
+dD
+dt
+= µI ,
+(4)
+where S(t), I(t), R(t) and D(t) correspond to the susceptible, actively infected, recovered
+and dead populations, respectively. For a time scale smaller than 2 years we can neglect
+2
+the populational growth for our purposes here. This way, the total population P0 at t = 0
+is susceptible, but for time t the constancy of P0 = S(t) + I(t) + R(t) + D(t) holds. The
+model parameters are the transmission rate coeﬃcient α, the average recovery time τ and
+the mortality rate coeﬃcient µ. These input parameters can be time-dependent. The set of
+equations can be renormalized by P0, yielding relative values. This way, the transmission
+rate coeﬃcient must be renormalized to α′ = αP0.
+From equation (4) we obtain:
+µ(t) = dD(t)/dt
+I(t)
+,
+(5)
+where dD(t)/dt it the daily death rate while I(t) it the actively infected population. Data
+is taken from the website Worldometer [8], which aggregates information on the coronavirus
+pandemic worldwide, until July 18th 2020. The moving averages for a 7-day period are
+being considered, which remove the fast variations that seem to come mainly from the lag
+in numbers accumulated during the weekends and released latter.
+The time evolution of the SARS-COV2 outbreak in the USA is displayed in Figure 1.
+The time t = 0 corresponds to the day when the total number of active cases surpassed 100.
+Looking at Figure 1-(a) one can see a plateau forming in the interval 80 < t < 100 days, the
+a rapid growing in the active cases is observed. However, the daily deaths, measured by the
+death rate dD/dt did not increased proportionally, as illustrated in Figure 1-(b). As a matter
+of fact, it has been decreasing since t = 50 days. The mortality rate coeﬃcient calculated
+with the known data is decreasing exponentially and can be well ﬁtted for suﬃciently long
+time (t > 30 days) by an exponential funcion of the form µ(t) = 10−4 + 1.5 × 10−2e−t/30.
+Assuming the uncertainty in total number of deaths is far lower than in the real active cases,
+since there are a large number of asymptomatic of mildly aﬀected patients which go under
+the radar of oﬃcial data, the absolute value of µ(t) suﬀers from an uncertainty of one or two
+orders of magnitude. It has been estimated that the real number of active cases can be 10
+to 100 times the registered cases worldwide.
+Similar conclusions can be drawn using data from Brazil and Italy, shown in Figures
+2 and 3, also displaying an exponential decay behavior for µ(t) at large time scale. The
+relaxation time in these cases is around 30 days. USA and Brazil have in common their
+vast territorial area, much larger than the area of Italy, making it diﬃcult to apply the SIR
+model neglecting spatial variations for USA and Brazil. From current date, the outbreak
+3
+FIG. 1: Evolution of SARS-COV2 outbreak in the USA: (a) Active cases I(t), (b) Death rate
+dD(t)/dt and (c) Mortality rate coeﬃcient µ(t). The time t = 0 correspondo to the day when the
+total active cases surpassed 100. The dashed red curve in (c) displays the approximated function
+µ(t) = 10−4 + 1.5 × 10−2e−t/30.
+is near the end in Italy, as can be seen clearly from Figures 3-(a) and 3-(b). Initially, it
+was thought that ∼67% of the population should be infected to obtain herd immunity, but
+novel models taking into account population heterogeneity signiﬁcantly lowers that number
+to ∼40% or less [9, 10]. Nonetheless, the general behavior of µ(t) among the three countries
+is very similar until now, and the behaviour can be modeled as µ(t) = A + Be−t/t0.
+Going further, we tried to ﬁt the evolution of the outbreak in Italy, using the function
+µ(t) = 10−3 + 3 × 10−2e−t/30 for the mortality rate coeﬃcient. In equations (1)-(4) we used
+α′ = 0.14, adjusted for the ﬁtting, τ is taken to be 14 days, based on publicly available
+information related to the averaged recovery time. For simulations, we set the normalized
+4
+FIG. 2: Evolution of SARS-COV2 outbreak in Brazil: (a) Active cases I(t), (b) Death rate dD(t)/dt
+and (c) Mortality rate coeﬃcient µ(t). The time t = 0 correspondo to the day when the total
+active cases surpassed 100. The dashed red curve in (c) displays the approximated function µ(t) =
+10−3 + 3.8 × 10−2e−t/30.
+initial conditions to I0 = 10−2, D0 = 0, R0 = 0, and a total susceptible population of P0 = 5
+millions. A better ﬁtting at the end of the outbreak was aimed. Figures 4-(a) to 4-(c) display
+the time evolution. The total number of deaths can be calculated integrating (4), leading
+to the following:
+Df =
+Z tf
+0
+µ(t)I(t)dt ,
+(6)
+which yielded a total of 36 × 103 deaths at the end of the outbreak, not far from the real
+5
+FIG. 3: Evolution of SARS-COV2 outbreak in Italy: (a) Active cases I(t), (b) Death rate dD(t)/dt
+and (c) Mortality rate coeﬃcient µ(t). The time t = 0 correspondo to the day when the total
+active cases surpassed 100. The dashed red curve in (c) displays the approximated function µ(t) =
+10−3 + 3 × 10−2e−t/30.
+value.
+The success obtained using a very simple model for the case of Italy encouraged us to
+simulate the outbreak time evolution for Brazil. Certainly, the obtained results cannot be
+taken too much seriously, mainly due to country’s gigantic territorial extension. Improve-
+ments to the model aiming to include geographical aspects could be done quite easily. The
+results of the SIR model simulations for Brazil are shown in Figures 5-(a) to 5-(c), con-
+6
+FIG. 4: Simulation of the SARS-COV2 outbreak in Italy using the SIR model: (a) Active cases
+I(t), (b) Death rate dD(t)/dt and (c) Mortality rate coeﬃcient µ(t). Simulated values are compared
+to the publicly available data.
+sidering α′ = 0.135, τ = 14 days, I0 = 4 × 10−4 and a susceptible population of P0 = 50
+millions. This way, the predicted total number of deaths can reach 120, 000 at the end of
+the outbreak, but it can to be underestimated, given the current scenario in Brazil [11].
+In conclusion, taking the current available data on the SARS-COV2 outbreak into con-
+sideration, it seems plausible that the mortality rate coeﬃcient is decreasing over time. The
+real caused for that are unknown, to the best of our knowledge, but a few hypotheses can
+be put forward, to be known: i) unreliability of the available data, mainly at the beginning
+7
+FIG. 5: Simulation of the SARS-COV2 outbreak in Italy using the SIR model: (a) Active cases
+I(t), (b) Death rate dD(t)/dt and (c) Mortality rate coeﬃcient µ(t). Simulated values are compared
+to the publicly available data.
+of the outbreak process in the various regions, when the total number of active cases is
+much more uncertain and can be easily underestimated; ii) natural processes, some of them
+related to mutations weakening of the virus during transmission.
+Acknowledgements
+C.A. Dartora would like to thank the Brazilian agency CNPq for partial ﬁnancial support
+through grant number 301848/2017-3.
+8
+The authors declare to have had equal contributions on the paper.
+The authors declare no conﬂict of interests on developing the paper.
+[1] Bootsma, M. C.; Ferguson, N. M. Proc. Natl Acad. Sci. USA 104, 7588 (2007).
+[2] Shaman, J. et al. Nature Communications 4, 2837 (2013).
+[3] Bjornstad, O. N.; Shea, K. ; Krzywinski, M.; Altman, N. Nature Methods 17, 557-558 (2020).
+[4] R¨udiger, S.; Plietzsch, A.; Sagu´es, F.; Sokolov, I. M.; Kurths, J.; Scientiﬁc Reports 10, 5919
+(2020).
+[5] Giordano, G. et al. Nature Medicine 26, 855 (2020).
+[6] Ferguson, N. M. et al. Preprint at Spiral https://doi.org/10.25561/77482 (2020).
+[7] Adam, D. , Nature 580,316 (2020).
+[8] Worldometer on Coronavirus, http://worldometers.info/coronavirus/. Last access: July 18th,
+2020.
+[9] M. G. M. Gomes, R. M. Corder, J. G. King, K. E. Langwig, C. Souto-Maior, J. Carneiro,
+G. Goncalves, C. Penha-Goncalves, M. U. Ferreira, R. Aguas, Individual variation in
+susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold. medRxiv
+10.1101/2020.04.27.20081893 [Preprint]. 21 May 2020;
+[10] F. Ball, T. Britton, P. Trapman, Population heterogeneity and consequences for herd immunity
+to SARS-CoV-2, Version 1, Zenodo (2020); doi:10.5281/zenodo.3899252.
+[11] Candido, Darlan S. et al, Science 10.1126/science.abd2161 (2020).
+9

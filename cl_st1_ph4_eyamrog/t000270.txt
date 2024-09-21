@@ -1,0 +1,540 @@
+Status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906-23/2019
+PEFI algal flora: a half-century of investigation
+Carlos Eduardo de Mattos Bicudo
+https://doi.org/10.1590/2236-8906-23/2019
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Submitted on (YYYY-MM-DD): 2020-05-08
+Posted on (YYYY-MM-DD): 2021-05-19
+Powered by TCPDF (www.tcpdf.org)
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-23/2019
+Powered by TCPDF (www.tcpdf.org)
+http://dx.doi.org/10.1590/2236-8906-23/2019
+Special article of PEFI
+How to cite: Bicudo, C.E.M. 2020. PEFI algal flora: a half-century of investigation. Hoehnea 47: e232019. http://dx.doi.
+org/10.1590/2236-8906-23/2019.
+PEFI algal flora: a half-century of investigation
+Carlos E. de M. Bicudo1,2
+Received: 15 March 2019; accepted: 14 Juny 2019
+1.	 Instituto de Botânica, Núcleo de Pesquisa em Ecologia, caixa postal 68041, 04045-972 São Paulo, SP, Brasil
+2.	 Corresponding author: cbicudo@terra.com.br
+ABSTRACT – (PEFI algal flora: a half-century of investigation) The survey of the algal flora of the Parque Estadual das 
+Fontes do Ipiranga (PEFI) started in 1962, with the disclosure of occurrence of 17 desmid species, collected from the São 
+Paulo Botanical Gardens hydrophytoterium. However, in an organized way, it took place only 28 years later, in 1990, with 
+the conception of the “Parque Estadual das Fontes do Ipiranga Cryptogamic flora”. The flora is essentially based on material 
+gathered from the plankton, periphyton and surface sediments of the PEFI water bodies, and also included samples from 
+trees barks, rocks, and soil. Forty-two fascicles of the algal flora have already been published, revealing 869 taxa including 
+species, varieties and taxonomic formae. It is estimated that 95% of the local algal flora have already been surveyed and 
+that its conclusion will be reached by the end of the year 2020.
+Keywords: algal flora, floristic survey, taxonomy
+RESUMO - (Flora ficológica do PEFI: meio século de estudo). O inventário florístico das algas do Parque Estadual das 
+Fontes do Ipiranga (PEFI) foi iniciado em 1962, com a divulgação da ocorrência de 17 espécies de desmidiáceas, coletadas 
+no hidrofitotério do Jardim Botânico de São Paulo. De modo organizado, entretanto, foi só 28 anos depois, em 1990, re-
+sultado da criação da “Flora Criptogâmica do Parque Estadual das Fontes do Ipiranga”. A flora está alicerçada em material 
+coletado basicamente do plâncton, perifíton e de sedimentos superficiais de corpos d’água do Parque, mas também incluiu 
+amostras coletadas de troncos de árvores, rochas e solo. Foram publicados até o momento 42 fascículos da flora, em que 
+foram inventariados 869 táxons de algas, incluindo espécies, variedades e formas taxonômicas. Estima-se que 95% da flora 
+de algas da área já tenha sido inventariada e conjectura-se sua conclusão para o final de 2020.
+Palavras-chave: flora ficológica, inventário florístico, taxonomia
+Introduction
+	
+First publication dealing with the PEFI, Parque 
+Estadual das Fontes do Ipiranga biota most probably 
+was the third contribution to the knowledge of the 
+Brazilian orchids by Schlechter & Hoehne (1926), 
+where the authors listed, among others, 13 species for 
+the PEFI area.
+	
+Forty-six years elapsed until the publication of the 
+first attempt ever to know the PEFI algal biodiversity. 
+The pioneers, Bicudo & Bicudo (1962), studied 
+material collected from the hydrophytoterium, an 
+artificial system designed for display of aquatic plants 
+at the São Paulo Botanical Gardens. Seventeen desmid 
+species were there disclosed (Closterium cynthia De 
+Notaris, C. leibleinii Kützing, C. moniliferum (Bory) 
+Ehrenberg, C. navicula (Brébisson) Lütkemuller, C. 
+parvulum Nägeli, C. setaceum Ehrenberg, C. venus 
+Kützing, Desmidium cylindricum Greville, Euastrum 
+ansatum Ehrenberg, E. oblongum (Greville) Ralfs, 
+Micrasterias denticulata Brébisson, M. laticeps 
+Nordstedt, M. rotata (Greville) Ralfs, Pleurotaenium 
+ovatum Nordstedt, P. truncatum (Brébisson) Nägeli, 
+Staurastrum cuspidatum Brébisson and S. erlangense 
+Reinsch) accompanied by description and illustration. 
+Two years later, Bicudo & Bicudo (1965) continued 
+their inventory identifying more 23 desmid taxa 
+including 16 species and six varieties that are not typical 
+of their respective species, and a taxonomic forma also 
+not typical, but of its respective variety. Closterium 
+gracile Brébisson, C. laterale Nordstedt, C. turgidum 
+Ehrenberg var. giganteum Nordstedt, Cosmarium 
+ocellatum Eichler & Gutwinski, Desmidium baileyi 
+(Ralfs) Nordstedt f. tetragonum Nordstedt, D. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-23/2019
+Powered by TCPDF (www.tcpdf.org)
+2	
+swartzii C. Agardh var. amblyodon (Itzigsohn) 
+Rabenhorst, Micrasterias laticeps Nordstedt var. 
+acuminata Krieger, M. pinnatifida (Kützing) Ralfs, 
+M. truncata (Corda) Brébisson var. truncata, M. 
+truncata (Corda) Brébisson var. excavata Nordstedt, 
+Sphaerozosma granulatum Roy & Bisset, Staurastrum 
+inaequale Nordstedt, S. punctulatum Brébisson, S. 
+quadrangulare Brébisson var. quadrangulare, S. 
+quadrangulare Brébisson var. longispinum Börgesen, 
+S. rotula Nordstedt, S. trifidum Nordstedt var. tortum 
+(Börgesen) Grönblad and Tetmemorus granulatus 
+(Brébisson) Ralfs) were then identified accompanied 
+by description and illustration for each taxon. Material 
+studied was gathered from artificial tanks, ditches 
+and rain pools located within the PEFI area, without 
+however specified them.
+	
+Various other publications followed without, 
+however, any organizing plan. In 1990 the “Flora 
+Criptogâmica do Parque Estadual das Fontes do 
+Ipiranga” (Ipiranga Sources State Park Cryptogamic 
+Flora) was created divided into three sections: (1) 
+algae, (2) fungi and lichens, and (3) bryophytes. The 
+following information summarizes the results from 
+the 28 years devoted to the survey of the PEFI algal 
+flora.
+Material and methods
+Study area - Area of present study is the PEFI, Parque 
+Estadual das Fontes do Ipiranga (Ipiranga sources 
+State Park) located in the southeast region of the 
+Municipality São Paulo between parallels 23°38'08''S 
+and 23°40'18''S and meridians 43°36'48''W and 
+43°36'00''W. PEFI includes the extension of 526.30 ha, 
+and the 24 sources of the Ipiranga Creek, that supply 
+nine reservoirs locally called lakes. Emphasis should 
+be put, because of their size, on the Garças, Cisnes, 
+Ninfeias and IAG reservoirs. For more details 
+concerning the Garças, Ninfeias and IAG reservoirs, 
+please check Bicudo et al. (2002).
+Methods - Plankton, periphyton and surface sediments 
+material was basically collected. Plankton samples 
+were gathered using a cone-shaped net made of a 
+± 20 µm mesh nylon fabric, that was successively 
+passed as many times as needed in the superficial 30 cm 
+layer of the water bodies to gather a macroscopically 
+detectable amount of material at the bottom of the 
+flask tied to the end of the net. Samples from levels 
+located below the surface up to near the system 
+bottom, i.e. from the water column were collected 
+using a van Dorn sampler. Periphyton samples were 
+gathered by collecting littoral plant specimens, which 
+were scrapped still in the field or at the laboratory 
+with a razor blade or a brush made of marten’s hair, 
+in order to obtain the material more closely adhered 
+to the substrate. Sometimes, plant specimens were 
+manually squeezed to get the material loosely attached 
+to their surface. Algae inhabiting ravines living among 
+bryophytes or ferns were sampled using suction 
+pipets. Rocks, tree trunks and cement walls were also 
+scrapped with a spatula used to remove wall painting 
+to collect enough material for examination. Material 
+inhabiting sediments deposited at reservoir bottoms 
+was collected with a van Dorn sampler. Bicudo & 
+Menezes (2017) detail all methods mentioned above.
+	
+Almost all material collected during the present 
+inventory is deposited at the Instituto de Botânica 
+Herbarium “Maria Eneyda P. Kauffmann Fidalgo” 
+(SP). A few samples were not deposited, because 
+for some reason were lost or damaged during the 
+examination.
+List of publications
+	
+Follow in the chronological order, the list of the 
+publications of the “Flora Criptogâmica do Parque 
+Estadual das Fontes do Ipiranga”.
+Bicudo, C.E.M. 1991. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+1: Chloromonadophyceae. Hoehnea 18(1): 77-85, 
+fig. 1-20.
+Castro, A.A.J., Bicudo, C.E.M. & Bicudo, D.C. 
+1991. Criptógamos do Parque Estadual das Fontes 
+do Ipiranga, São Paulo, SP. Algas, 2: Cryptophyceae. 
+Hoehnea 18(1): 87-106, fig. 1-90 (1992).
+Necchi Júnior, O. & Bicudo, D.C. 1992. Criptógamos 
+do Parque Estadual das Fontes do Ipiranga, São Paulo, 
+SP. Algas, 3: Rhodophyceae. Hoehnea 19(1-2): 89-92, 
+fig. 1-8.
+Picelli-Vicentim, M.M. & Bicudo, C.E.M. 1993. 
+Criptógamos do Parque Estadual das Fontes do 
+Ipiranga, São Paulo, SP. Algas, 4: Charophyceae. 
+Hoehnea 20(1-2): 9-22, fig. 1-121.
+Xavier, M.B. 1994. Criptógamos do Parque Estadual 
+das Fontes do Ipiranga, São Paulo, SP. Algas, 
+5 Euglenophyceae (Euglenaceae pigmentadas). 
+Hoehnea 21(1-2): 47-73, fig. 1-107.
+Sormus, L. & Bicudo, C.E.M. 1994. Criptógamos do 
+Parque Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 6: Zygnemaphyceae (Closteriaceae). Hoehnea 
+21(1-2): 75-92, fig. 1-51.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-23/2019
+Powered by TCPDF (www.tcpdf.org)
+Bicudo: PEFI Algal Flora
+  3
+Bicudo, C.E.M. 1995. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+7: Prasinophyceae. Hoehnea 22(1-2): 61-75, fig. 1-23.
+Azevedo, M.T.P., Nogueira, N.M.C. & Sant’Anna, 
+C.L. 1996. Criptógamos do Parque Estadual das Fontes 
+do Ipiranga, São Paulo, SP. Algas, 8: Cyanophyceae. 
+Hoehnea 23(1): 1-38, fig. 1-158.
+Bicudo, C.E.M., Sormus, L. & Schetty, S.P. 1997. 
+Criptógamos do Parque Estadual das Fontes do 
+Ipiranga, São Paulo, SP. Algas, 9: Zygnemaphyceae 
+(Peniaceae). Hoehnea 24(1): 101-105, fig. 1-6.
+Bicudo, C.E.M. & Sormus, L. 1997. Criptógamos do 
+Parque Estadual das Fontes do Ipiranga, São Paulo, 
+SP. Algas, 10: Zygnemaphyceae (Desmidiaceae, 
+Micrasterias). Hoehnea 24(2): 75-87, fig. 1-23.
+Bicudo, C.E.M., Sormus, L. & Schetty, S.P. 1998. 
+Criptógamos do Parque Estadual das Fontes do 
+Ipiranga, São Paulo, SP. Algas, 11: Zygnemaphyceae 
+(Desmidiaceae, Haplotaenium, Pleurotaenium, 
+Tetmemorus e Triploceras). Hoehnea 25(1): 33-43, 
+fig. 1-16.
+Bicudo, C.E.M., Sormus, L. & Schetty, S.P. 1999. 
+Criptógamos do Parque Estadual das Fontes do 
+Ipiranga, São Paulo, SP. Algas, 12: Zygnemaphyceae 
+(Desmidiaceae 2: Desmidium, Groenbladia, 
+Hyalotheca, Spondylosium e Teilingia). Hoehnea 
+26(1): 75-85, fig. 1-20.
+Bicudo, D.C., Morandi, L.L. & Ludwig, T.A.V. 
+1999. Criptógamos do Parque Estadual das Fontes do 
+Ipiranga, São Paulo, SP. Algas, 13: Bacillariophyceae 
+(Eunotiales). Hoehnea 26(2): 173-184, fig. 1-21.
+Bicudo, C.E.M. & Bicudo, D.C. 2001. Criptógamos 
+do Parque Estadual das Fontes do Ipiranga, São Paulo, 
+SP. Algas, 14: Craspedomonadophyceae. Hoehnea 
+28(1): 21-38, fig. 1-43.
+Bicudo, C.E.M. & Santos, C.I. 2001. Criptógamos do 
+Parque Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 15: Chlorophyceae (Trentepohliales). Hoehnea 
+28(3): 183-190, fig. 1-13.
+Bicudo, C.E.M. & Pereira, F.C. 2003. Criptógamos do 
+Parque Estadual das Fontes do Ipiranga, São Paulo, 
+SP. Algas, 16: Chlorophyceae (Ulotrichales). Hoehnea 
+30(1): 31-37, fig. 1-12.
+Bicudo, C.E.M., Bicudo, D.C., Ferragut, C., Lopes, 
+M.R.M. & Pires, P.R. 2003. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 17: Chrysophyceae. Hoehnea 30(2): 127-153, 
+fig. 1-103.
+Bicudo, C.E.M. 2004. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+18: Chlorophyceae (Volvocales). Revista Brasileira de 
+Botânica 27(1): 85-102, fig. 1-41.
+Bicudo, D.C., Oliveira, A.M., Ferragut, C. & Bicudo, 
+C.E.M. 2006. Criptógamos do Parque Estadual 
+das Fontres do Ipiranga, São Paulo, SP. Algas, 19: 
+Eustigmatophyceae. Hoehnea 31(2): 97-101, fig. 1-8.
+Morandi, L.L., Ritter, L.M.O., Moro, R.S. & Bicudo, 
+C.E.M. 2006. Criptógamos do Parque Estadual 
+das Fontes do Ipiranga, São Paulo, SP. Algas, 20: 
+Coscinodiscophyceae. Hoehnea 33(1): 115-122, fig. 
+1-19.
+Bicudo, D.C., Bicudo, C.E.M., Oliveira, A.M., 
+Ferragut, C., Fonseca, B.M., Lopes, M.R.M. & 
+Lima, I.R.N. 2006. Criptógamos do Parque Estadual 
+das Fontes do Ipiranga, São Paulo, SP. Algas, 21: 
+Xanthophyceae. Hoehnea 33(3): 291-316, fig. 1-66.
+Araújo, A. & Bicudo, C.E.M. 2006. Criptógamos do 
+Parque Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 22: Zygnemaphyceae (gêneros Actinotaenium, 
+Cosmarium e Heimansia). Hoehnea 33(2): 219-237, 
+fig. 1-30.
+Elkis, I.C. & Bicudo, C.E.M. 2006. Criptógamos do 
+Parque Estadual das Fontes do Ipiranga, São Paulo, 
+SP. Algas, 23: Oedogoniophyceae. Hoehnea 33(4): 
+511-520, fig. 1-19.
+Bicudo, C.E.M., Faustino, S.M.M., Godinho, L.R. & 
+Oliveira, M. 2007. Criptógamos do Parque Estadual 
+das Fontes do Ipiranga, São Paulo, SP. Algas, 24: 
+Zygnemaphyceae (Desmidiales: Octacanthium, 
+Staurastrum e Saurodesmus). Hoehnea 34(4): 
+497‑517, fig. 1-31.
+Rocha, A.C.R. & Bicudo, C.E.M. 2008. Criptógamos 
+do Parque Estadual das Fontes do Ipiranga, São 
+Paulo, SP. Algas, 25: Bacillariophyceae (Naviculales, 
+Pinnulariaceae). Hoehnea 35(4): 597-618, fig. 1-52.
+Fernandes, S. & Bicudo, C.E.M. 2009. Criptógamos 
+do Parque Estadual das Fontes do Ipiranga, São 
+Paulo, SP. Algas 26: Chlorophyceae (famílias 
+Chlorococcaceae e Coccomyxaceae). Hoehnea 36(1): 
+173-191, fig. 1-48, tab. 1-2.
+Bicudo, C.E.M. 2010. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+27: Euglenophyceae (famílias Petalomonadaceae e 
+Scytomonadaceae). Hoehnea 37(2): 331-335, fig. 1-3.
+Bicudo, C.E.M. 2010. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+28: Euglenophyceae (família Eutreptiaceae). Hoehnea 
+37(2): 377-381, fig. 1-4.
+Bicudo, C.E.M. 2010. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 29: Euglenophyceae (família Peranemaceae). 
+Hoehnea 37(2): 383-402, fig. 1-37.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-23/2019
+Powered by TCPDF (www.tcpdf.org)
+4	
+Godinho, L.R., Comas-Gonzáles, A. & Bicudo, 
+C.E.M. 2010. Criptógamos do Parque Estadual 
+das Fontes do Ipiranga, São Paulo, SP. Algas, 30: 
+Chlorophyceae (família Scenedesmaceae). Hoehnea 
+37(3): 513-553, fig. 1-123.
+Bicudo, C.E.M. 2011. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+31: Euglenophyceae (Euglenaceae não pigmentadas). 
+Hoehnea 38(1): 31-36, fig. 1-5.
+Bicudo, C.E.M. 2011. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 32: Dinophyceae (famílias Dinococcaceae, 
+Gymnodiniaceae e Hemidiniaceae). Hoehnea 38(1): 
+97-108, fig. 1-24.
+Bicudo, C.E.M. 2012. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 33: Chlorophyceae (famílias Palmellaceae, 
+Hormotilaceae e Dictyosphaeriaceae). Hoehnea 39(4): 
+565-575, fig. 1-16.
+Tucci, A., Bento, N.R.M., Rosal, C. & Bicudo, C.E.M. 
+2014. Criptógamos do Parque Estadual das Fontes do 
+Ipiranga, São Paulo, SP. Algas, 34: Chlorophyceae 
+(Golenkiniaceae e Micractiniaceae). Hoehnea 41(2): 
+307-314, fig. 1-9.
+Bicudo, C.E.M. 2013. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+35: Dinophyceae (família Peridiniaceae). Hoehnea 
+40(4): 611-617, fig. 1-5.
+Marquardt, G.C. & Bicudo, C.E.M. 2014. Criptógamos 
+do Parque Estadual das Fontes do Ipiranga, São Paulo, 
+SP. Algas, 36: Bacillariophyceae (Cymbellales). 
+Hoehnea 41(2): 209-246, fig. 1-194.
+Bicudo, C.E.M. & Bicudo, D.C. 2014. Criptógamos do 
+Parque Estadual das Fontes do Ipiranga, São Paulo, SP. 
+Algas, 37: Chlorophyceae (Chaetophorales). Hoehnea 
+41(3): 411-422, fig. 1-31.
+Bicudo, C.E.M. 2014. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+38: Chlorophyceae (Tetrasporales e Siphonocladales). 
+Hoehnea 41(3): 337-343, fig. 1-10.
+Loaiza-Restado, A.M. & Bicudo, C.E.M. 2014. 
+Criptógamos do Parque Estadual das Fontes do 
+Ipiranga, São Paulo, SP. Algas, 40: Chlorophyceae 
+(Hydrodictyaceae). Hoehnea 41(3): 353-364, fig. 1-12.
+Tucci, A., Sawatani, M., Rosini, E.F., Lopes, R.I. 
+& Bicudo, C.E.M. 2015. Criptógamos do Parque 
+Estadual das Fontes do Ipiranga, São Paulo, SP. Algas, 
+41: Chlorophyceae (Oocystaceae). Hoehnea 42(3): 
+603-614, fig. 1-15.
+Ferreira, K.S.M. & Bicudo, C.E.M. 2017. Criptógamos 
+do Parque Estadual das Fontes do Ipiranga, São Paulo, 
+SP. Algas, 42: Bacillariophyceae (Surirellales). 
+Hoehnea 44(1): 10-28, fig. 1-35, tab. 1.
+Final remarks
+	
+Except for fascicle 18 that encompassed the 
+Volvocales (Chlorophyceae) published in the “Revista 
+Brasileira de Botânica” (today “Brazilian Journal 
+of Botany”), all other fascicles were published in 
+“Hoehnea”, that was the journal established for 
+publication of the “Flora Ficológica do PEFI” (PEFI 
+Algal Flora). Forty-two fascicles were already 
+published and it is expected that the flora will be 
+completed towards the end of year 2020. Below 
+(table 1) with the list of groups already studied and 
+the number of taxa identified for each one.
+Taxonomic group
+Number of táxons
+Bacillariophyceae (*)
+115
+Charophyceae
+5
+Chlorophyceae (*)
+172
+Chrysophyceae
+51
+Craspedomonadophyceae
+23
+Cryptophyceae
+21
+Cyanobacteria
+86
+Dinophyceae
+32
+Euglenophyceae
+99
+Eustigmatophyceae
+5
+Oedogoniophyceae
+15
+Prasinophyceae
+21
+Raphidophyceae
+8
+Rhodophyceae
+2
+Xanthophyceae
+47
+Zygnematophyceae
+167
+Total
+869
+(*) Group still incompletely studied.
+	
+Survey of the PEFI freshwater algae is practically 
+completed. It includes over 50 years of random samplings 
+accomplished in the PEFI water bodies. The collection 
+was made in nine reservoirs (Garças, Ninfeias, IAG, 
+Cisnes, Bambus I, Bambus II, Bugios, Monjolo and 
+Girinos) locally called “lakes”, the hydrophytoterium (a 
+place for exhibition of aquatic plants in the São Paulo 
+Table 1. List of taxonomic groups (classes) studied and the 
+respective number of taxa identified (species, varieties, and 
+taxonomic formae) for each group.
+Fonte: Marca d'água - primeira página - lagos e Alameda von Martius - Jardim Botânico de São Paulo
+Acervo iconográfico do Instituto de Botânica
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-23/2019
+Powered by TCPDF (www.tcpdf.org)
+Bicudo: PEFI Algal Flora
+  5
+Botanical Gardens), and a creek (Pirarungáua Creek). 
+All those places were visited randomly more than once 
+and some of them (Garças, Ninfeias, and IAG) during 
+successive months in the case of ecology projects. About 
+1,000 sample units were gathered during the 57 years 
+duration of present inventory. It is still missing, however, 
+the survey of the Radiococcaceae (Chlorophyceae), 
+and from the Bacillariophyta are already ready the 
+Coscinodiscophyceae and from the Bacillariophyceae, the 
+Eunotiaceae, Pinnulariaceae, Cymbellales, Surirellales, 
+and Rhopalodiales. Consequently, all other diatom 
+groups are until now missing.
+	
+Nine hundred and eighty-six samples were 
+already collected for the present survey. Ninfeias 
+Lake was the PEFI most visited place, with 327 
+samples. Follow the Garças Lake with 177 samples, 
+the hydrophytoterium with 157, and the IAG Lake 
+with 152 samples collected. Ninfeias Lake also is 
+the system that encompassed the largest number 
+of taxa identified, followed by Garças Lake. The 
+hydrophytoterium comes in the third place, but it is 
+a very much handled system, to the point that we do 
+not know anymore its real floristic composition.
+	
+Plankton material (423) represents the largest 
+number of samples, followed by periphyton (294), 
+benthos (54), and the surface sediments (28). A sampling 
+of soil material, epiphyton, tree trunks, and epilithon 
+was also carried out in a smaller, but appropriate scale. 
+It is very important to comment that gathering of 
+periphytic material contributed to the knowledge with 
+approximately 40% of total PEFI’s inventoried taxa, 
+which would not be inventoried if only plankton material 
+was collected. Another kind of sample that contributed 
+significantly to the survey of the PEFI algal flora, mostly 
+of the diatoms and non-pigmented euglenoids, was that 
+of reservoirs’ surface sediments.
+	
+Sixteen algal classes had representatives 
+documented for the PEFI area. There are presently 
+surveyed 869 taxa, including species, varieties, and 
+taxonomic formae. We believe that c. 95% of all taxa 
+occurring in the PEFI area was already inventoried. 
+Chlorophyceae are the richest group in terms of 
+number of species. Addition of the Radiococcaceae to 
+the total number of taxa will certainly be very small. 
+Following, are the Zygnematophyceae with 167 taxa, 
+whose survey is already concluded for the PEFI area. 
+In the third place, are the Bacillariophyceae with 115 
+taxa, but this number for sure does not represent the 
+participation of this algal group in the total number of 
+taxa identified for the Park. Chlorophyceae includes a 
+high number of genera, however, just a few of them 
+with a high number of species. Zygnematophyceae do 
+not include as many genera as the Chlorophyceae, but 
+two of them (Cosmarium and Staurastrum) presented 
+a high number of species in the Park, making high the 
+class total number of taxa. The Bacillariophyceae surely 
+includes the World largest number of taxa, and that 
+considerable species-rich groups are still to be surveyed.
+	
+The highest species, varieties and taxonomic 
+formae numbers identified during this research called 
+our attention. However, it may be explained first because 
+of the enormous sampling effort represented by more 
+than 50 years of intensive gathering. Duration of the 
+sampling period surely implies the identification of 
+a higher number of taxa. During the present survey, 
+besides the sampling effort, obviously also interfered 
+with the PEFI high taxonomic richness the sampling 
+in the different water bodies compartments represented 
+by the investigation of the plankton, periphyton and the 
+surface sediments of semilentic systems (reservoirs). The 
+last two compartments contributed nearly 40% to the 
+total number of taxa of present flora. The scenery above 
+undoubtedly led to the inventory of the most complete 
+freshwater algal flora ever carried out in Brazil.
+Acknowledgments
+	
+A flora is not one-man product. It is team work. Our 
+most sincere thanks to the 20 professional researchers 
+and the 19 students that helped materialization up to 
+now of the “PEFI Algal Flora”.
+Literature cited
+Bicudo, C.E.M. & Bicudo, R.M.T. 1962. Contribuição ao 
+conhecimento das Desmidiaceae do Parque do Estado, 
+S. Paulo. Rickia 1: 207-225, pl. 1-5.
+Bicudo, C.E.M. & Bicudo, R.M.T. 1965. Contribuição ao 
+conhecimento das Desmidiaceae do Parque do Estado, 
+São Paulo, 2. Rickia 2: 39-54, pl. 1-3.
+Bicudo, C.E.M., Carmo, C.F., Bicudo, D.C., Henry, R., 
+Pião, A.C.S., Santos, C.M. & Lopes, M.R.M. 2002. 
+Morfologia e morfometria de três reservatórios do PEFI. 
+In: D.C. Bicudo, M.C. Forti & C.E.M. Bicudo (orgs.). 
+Parque Estadual das Fontes do Ipiranga: Unidade de 
+Conservação que resiste à urbanização de São Paulo. 
+Secretaria do Meio Ambiente do Estado de São Paulo, 
+São Paulo. pp. 143-160.
+Bicudo, C.E.M. & Menezes, M. 2017. Gêneros de algas de 
+águas continentais do Brasil: chave para identificação e 
+descrições. 3 ed. Editora RiMa, São Carlos.
+Schlechter, R. & Hoehne, F.C. 1926. Contribuições ao 
+conhecimento das Orchidáceas do Brasil (Beiträge zur 
+Orchideenkunde Brasiliens), 3. Arquivos de Botanica 
+do Estado de São Paulo 1: 159-349, pl. 1-26.
+ISSN da publicação online 2236-8906
+This is an open-access article distributed under the terms of the Creative Commons Attribution License 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-23/2019
+Powered by TCPDF (www.tcpdf.org)

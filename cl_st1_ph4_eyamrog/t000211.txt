@@ -1,0 +1,802 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/0100-6991e-20202595
+The role of Angiology and Vascular Surgery in the COVID-19
+pandemic
+Bernardo Cunha Senra  Barros, Aline Barbosa  Maia, Marcos Arêas  Marques, Paulo Roberto 
+Prette-junior, Stenio Karlos Alvim  Fiorelli, Fernanda De Castro  Cerqueira
+https://doi.org/Not informed
+Submitted on: 2020-05-29
+Posted on: 2020-05-29 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Rev Col Bras Cir 47:e20202595
+DOI: 10.1590/0100-6991e-20202595
+	
+INTRODUCTION
+C
+OVID-19 is an infectious disease caused by a newly 
+discovered coronavirus subtype (Sars-CoV-2) in the 
+city of Wuhan, China, in December 2019. It has already 
+infected more than two million people around the 
+world until the date of preparation of this manuscript, 
+according to data from the World Health Organization1.
+It is a disease with a broad clinical spectrum, 
+and may present asymptomatically or as a flu syndrome, 
+with symptoms such as fever, cough and myalgia, in 
+addition to evolving in some cases to severe pneumonia 
+or severe acute respiratory syndrome (SARS)2.
+Laboratory changes such as lymphopenia, 
+neutrophilia, increased prothrombin time and elevated 
+D-dimer (DD) are found in patients who have an 
+unfavorable course of the disease3. In addition, the study 
+by Zhou et al.4 with 191 patients from Jinyintan Hospitals 
+and the Wuhan Pulmonary Hospital proposed that 
+advanced age, higher SOFA score and DD greater than 
+1 μg/mL at admission were associated with a higher risk 
+of death; approximately 90% of hospitalized patients 
+with pneumonia also displayed hypercoagulability4. The 
+same study also stated that the possible contributory 
+mechanisms for the systemic changes found in such 
+patients include: (1) the formation of pro-inflammatory 
+cytokines, which are mediators of atherosclerosis, 
+contributing directly to the rupture of the atherosclerotic 
+plaque by local inflammation, (2) induction of pro-
+coagulant factors, and (3) hemodynamic changes that 
+predispose to ischemia and thrombosis. 
+Thus, hospitalized and critically ill patients 
+have hematological changes that can be proven, for 
+example, by high DD rates. However, the relationship 
+Review article
+The role of Angiology and Vascular Surgery in the COVID-19 
+pandemic
+A atuação da Angiologia e da Cirurgia Vascular na pandemia de COVID-19
+A B S T R A C T
+The New Coronavirus Epidemic (2019-nCoV), discovered in the city of Wuhan, China, in December 2019, presents mainly with pulmonary 
+pneumonia that is preceded by fever, cough and myalgia. However, as the disease spread globally and the number of hospitalizations 
+increased exponentially, it was noted that most serious patients hospitalized by COVID-19 have laboratory changes worthy of attention, 
+such as lymphopenia, neutrophilia, increased time of prothrombin and increased levels of D-dimer. Due to these changes proving to be 
+crucial for the mortality and morbidity rates in this subset of infected people, several studies focusing on the pathophysiology, mainly 
+hematological, of the disease appear every day. Deepening these studies, several published works have shown SarsCoV-2 infection to the 
+installation of a prothrombotic state in hospitalized patients, which leads to the potential occurrence of thrombotic or arterial events in this 
+cohort. Thus, in order to understand how the departments of Angiology and Vascular Surgery are acting in the context of the COVID-19 
+pandemic, this work aims to gather studies that reveal from protocols applied in vascular services in the current situation, until to the role of 
+vascular surgeons and angiologists in the clinical and surgical management of patients infected or not, as a way of helping and clarifying this 
+specialty during the context of a pandemic due to the new coranavirus. For the selection of works, the following search criteria were used: 
+“Coronavirus and venous thrombosis”, “Coronavirus and thrombosis”, “COVID-19 and venous thrombosis” and “COVID-19 Coronavirus 
+and thrombosis”.
+Keywords: Coronavirus Infections. Blood Coagulation. Thrombosis. Pulmonary Embolism. Coronavirus.
+Bernardo Cunha Senra Barros1,2,3     ; Aline Barbosa Maia2; Marcos Arêas Marques2,4; Paulo Roberto Prette-junior2; Stenio Karlos 
+Alvim Fiorelli2; Fernanda De Castro Cerqueira, ACBC-RJ3.
+1 - State University of Rio de Janeiro, Department of Vascular Surgery - Rio de Janeiro - RJ - Brazil 2 - Federal University of the State of Rio de Janeiro, 
+Department of Vascular Surgery - Rio de Janeiro - RJ - Brazil 3 - University of the State of Rio de Janeiro, Laboratory of Physiology and Microcirculation 
+(BIOVASC) - Rio de Janeiro - RJ - Brazil 4 - Rio de Janeiro State University, Pedro Ernesto University Hospital (HUPE), Angiology Service - Rio de Janeiro 
+- RJ - Brazil
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+2
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+between 
+the 
+Sars-Cov-2 
+virus 
+and 
+coagulation 
+mechanisms is still poorly explored in recent studies. 
+Han et al.5 demonstrated that antithrombin, a natural 
+anticoagulant, values in patients with COVID-19 were 
+lower, while DD and other fibrin degradation product 
+(FDP) were higher when compared with the control, 
+healthy population. Blood coagulation in these patients 
+thus appears to be altered, and FDP, including DD, can be 
+predictive of disease progression. Therefore, the routine 
+monitoring of such markers is advisable in patients with 
+COVID-19, this result being similar to those found by 
+Tang, Li, Wang and Sun6. As a result of the presumed 
+prothrombotic status of many patients, there was a 
+drastic increase in the demand for laboratory tests to 
+monitor coagulation parameters, vascular ultrasound 
+tests and other imaging methods in patients positive for 
+COVID-19. This study aims to gather information about 
+the routine work of vascular specialists and reference 
+centers in the context of the COVID-19 pandemic. We 
+used the following search criteria: “Coronavirus and 
+venous thrombosis”, “Coronavirus and thrombosis”, 
+“COVID-19 and venous thrombosis” and “COVID-19 
+Coronavirus and thrombosis”.
+	
+	
+FINDINGS
+1. Diagnosis and treatment of venous 
+thromboembolism 
+(VTE) 
+during 
+the 
+COVID-19 pandemic
+In line with recent studies that revealed the 
+high risk of patients hospitalized with COVID-19 to 
+develop thromboembolic events, the Departments of 
+Angiology and Vascular Surgery of hospitals around the 
+world were challenged due to the massive requirement 
+for computed tomography (CT) scans and echo-color-
+Doppler (ECD) for the diagnosis of pulmonary embolism 
+(PE) and deep vein thrombosis (DVT), respectively, in 
+these patients. Review the evidence for the diagnosis 
+and treatment of VTE has become essential, as well 
+as adapting clinical algorithms and flowcharts for use 
+during the current world scenario. In addition, therapy 
+recommendations for these patients is another critical 
+point that must be approached with care, as the use 
+of anticoagulants in patients who require invasive 
+ventilation creates a potential bleeding risk. Therefore, 
+the risk-benefit must always be reassessed during the 
+clinical course.
+To act in this scenario, the University of 
+Michigan Health System, for example, published a 
+complete study7 on the creation of a temporary committee 
+of specialists in VTE, vascular surgeons and clinics, to 
+review management protocols already established in 
+the institution. This committee would consult with other 
+specialists in areas such as pulmonology, hematology and 
+medical clinic, among others, so that a new action plan 
+could be developed and executed to better serve patients 
+during the pandemic. For the decision on the use of 
+VTE prophylaxis, patients underwent assessment by the 
+Caprini score8 at the time of hospital admission. Although 
+there are not enough data to determine the incidence of 
+VTE in patients positive for COVID-19, there is already 
+evidence showing a reduction in mortality in patients with 
+highly elevated DD (> 3x the upper normal limit) receiving 
+thromboprophylaxis with non-fractionated (NFH) or low 
+molecular weight (LMWH) heparin7. In addition, VTE 
+and primary pulmonary thrombus may be underlying 
+etiologies potentially responsible for the mortality of 
+critically ill patients due to COVID-19. In view of these 
+findings and the fact that less critical patients have a low 
+risk of bleeding if they use thromboprophylaxis, the study 
+committee recommends routine thromboprophylaxis for 
+all patients hospitalized due to COVID-19, regardless of 
+risk stratification.
+As for the suspected diagnosis of PE, Obi et 
+al analyzed two variables: the modified Wells score and 
+whether the patient was intubated or not7.
+Table 1. Suggested approach when suspecting pulmonary embolism 
+and Wells score  < 47.
+Orotracheal intubation
+No
+Yes
+Orotracheal 
+intubation
+Prophylaxis
+Empiric anti-
+coagulation low dose
+High risk 
+of bleeding
+Prophylaxis 
+Prophylaxis 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+3
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+The study did not recommend the use of ECD 
+to exclude the diagnosis of PE due to its low accuracy. 
+Negative DD associated with a low modified Wells score 
+were considered sufficient to rule out the diagnosis. 
+However, in the context of Sars-Cov-2 infection, which 
+leads to an increase in DD values, its usefulness becomes 
+compromised, which does not mean that its values should 
+be ignored.
+In intubated patients without SARS, there 
+is a lack of data on the risk-benefit ratio of empirical 
+anticoagulation strategies. The use of anticoagulation 
+in doses lower than the full dose but higher than the 
+prophylactic dose in patients with SARS was considered 
+based on a previous experience of the team during the 
+2009 H1N1 pandemic, but this strategy has not been 
+tested in the current situation7. 
+For suspected DVT, the Michigan Medicine team 
+recommends the use of the Wells score, even though they 
+recognize its limitation in the hospital environment. Its 
+performance during the pandemic pneumonia scenario 
+has not yet been proven on a large scale.
+The use of DD dosage should not be the main 
+criterion for performing imaging tests, as it is expected to 
+be high in COVID-19, that is, other clinical manifestations 
+of DVT should be evaluated before requesting such tests 
+for its final diagnosis.
+Finally, the Michigan Medicine team touch on 
+long-term anticoagulant therapy. In patients treated with 
+anticoagulants and who are unable to undergo imaging 
+tests for diagnostic purposes during the COVID-19 
+outbreak, they recommend treatment with direct oral 
+anticoagulants or vitamin K antagonists for one to 
+two months after hospital discharge, until an image 
+examination can be done. For patients considered to be at 
+moderate to high risk for PE, a CT scan should be requested 
+within one month once they are considered negative for 
+COVID-19. For patients considered to be at high risk for 
+DVT, a lower limb ECD should be requested again once 
+they are considered negative for COVID-19. All patients 
+should be followed and provided recommendations for 
+long-term duration of therapy7. 
+For Casini et al.9, all patients hospitalized with 
+COVID-19 should receive pharmacoprophylaxis, unless 
+contraindicated. Thus, they recommend the use of LMWH 
+in patients with creatinine clearance > 30 mL/min and NFH 
+in patients with clearance < 30mL/min, increasing the dose 
+in both cases in patients over 100kg. They also guide the 
+regular monitoring (daily or two to three times a week) 
+of all patients with prothrombin time, DD, fibrinogen, 
+platelet count, LDH, creatinine and ALT, in addition to 
+antithrombin if the patient has DIC, coagulopathy induced 
+by sepsis or heparin resistance, and anti-Xa activity in 
+selected cases. One should consider the use of therapeutic 
+doses of NFH or LMWH in ICU patients with increased DD, 
+signs of severe inflammation, or signs of hepatic or renal 
+dysfunction.
+Table 2. Suggested approach when suspecting pulmonary embolism 
+and Wells score > 47.
+Low risk of 
+bleeding
+Anticoagulation
+High risk of 
+bleeding
+CT*
+Negative
+Empiric 
+anticoagulation – 
+low dose
+Positive
+OTI†
+Anticoagulation
+No 
+OTI
+Anticoagulation
+* CT: Computed tomography; †OTI: orotracheal intubation. 
+Table 3. Suggested approach supported by the Wells score when suspecting deep venous thrombosis7.
+Wells score < 2
+Not intubated
+Prophylaxis
+Intubated and critical – low risk of bleeding
+Low dose empiric anticoagulation
+Wells score >2
+VTE-BLEED* < 2
+Not intubated
+Anticoagulation
+Intubated and critical
+Low dose empiric anticoagulation
+VTE-BLEED* > 2 +
+Negative
+Tromboprofilaxia
+With CT or other 
+image method
+Positive
+Anticoagulation or vena cava filter
+* Risk score for major bleeding in patients with venous thromboembolism.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+4
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+In Italy, Marietta et al.10 published a study 
+in which they guide some care regarding hemostasis 
+when approaching the patient with COVID-19. 
+• In the management of confirmed patients, 
+laboratory monitoring should always include hemostatic 
+function, platelet count and DVT testing, when possible.
+• The 
+use 
+of 
+prophylactic 
+doses 
+of 
+fondaparinux, LMWH or NFH is strongly advised in all 
+hospitalized patients, or mechanical prophylaxis (limb 
+compression) if not possible.
+• Pharmacoprophylaxis should be administered 
+during the entire hospitalization and up to seven to 14 
+days after discharge or in the pre-hospital phase if the case 
+of persisting or pre-existing VTE risks factors.
+• Intermediate doses of LMWH can be 
+considered in patients with multiple risk factors for VTE.
+• Therapeutic doses of LMWH or NFH are 
+recommended only in patients diagnosed with VTE or 
+Table 4. Transiction protocol from oral to parenteral  anticoagulation in patients COVID-197.
+Medication
+TEV
+FA não valvar
+Cardiologic valves 
+Mechanics or 
+Recent biologic
+Antagonists of 
+vitamine K
+Suspend the AVK* when 
+INR < 2,0
+Suspend the 
+AVK when INR < 2,0
+Do not suspend AVK + 
+daily control of INR
+HBPM or HNF if ClCreat 
+<15mL/min in therapeutic 
+dose
+HBPM or HNF if ClCreat 
+<15mL/min in therapeutic 
+dose
+If not possible maintain 
+the AVK, use HBPM 100 
+UI/kg or HNF with keep 
+anti-Xa control within 
+the superior limit
+Anticoagulants 
+direct oral
+Suspend 
+the ACODs
+Suspend 
+the ACODs†
+After 12-24h Start the HBPM 
+or HNF if ClCreat <15mL/min 
+in therapeutic dose
+After 12-24h Start the 
+HBPM or HNF if ClCreat 
+<15mL/min in therapeutic 
+dose
+* Vitamine K antigonists; †Direct oral anticoagulants ‡,§,||,¶
+as a bridging strategy in patients who already use oral 
+anticoagulants, since the use of oral anticoagulants can 
+represent significant interference in the antiretroviral 
+treatment of patients with COVID-19.
+• In patients using full doses, one should 
+consider the dosage of anti-Xa factor or oral 
+anticoagulants in plasma.
+We should note that several studies have 
+shown that the patient with COVID-19 has a state of 
+hypercoagulability2,5,6,11,12 and that, therefore, the 
+pulmonary microembolism index is probably higher than 
+reported. Hence, it is also possible that PE is already 
+present in many patients before admission, justifying 
+the decreased response to thromboprophylaxis in the 
+hospital environment.
+Testa et al.13, from Cremona, Italy, shared the 
+protocol used in their Hospital for the transition from oral 
+to parenteral anticoagulant in patients with COVID-19.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+5
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+2. The role of Vascular Surgery
+Due to the sudden increase in hospitalizations 
+to meet the needs of COVID-19 critically ill patients, 
+several hospital units found themselves in need of 
+restructuring their services. 
+The Vascular Surgery Unit of a tertiary hospital 
+in Singapore14, for example, has reallocated 25% of 
+its staff to act on the front line of pandemic care. This 
+rearrangement was necessary both because of the 
+increased demand for health professionals, regardless of 
+the specialty, which the moment requires, and because 
+of the need to care for patients who need some surgical 
+intervention, but who also have symptoms of Sars-
+CoV-2 infection. In addition, to keep the emergency 
+and elective Vascular Surgery Services functioning, two 
+to three surgeons stayed at the Tan Tock Seng Hospital, 
+while the rest of the team was at the National Center for 
+Infectious Diseases, attending to the cases of COVID-19. 
+Among the measures adopted, we highlight:
+• Suspension 
+of 
+non-essential 
+meetings, 
+maintaining the use of digital platforms.
+• Essential meetings with a maximum of ten 
+people, respecting the use of masks and a distance of 
+one meter between participants. In addition, carrying 
+out daily visits with a small number of people, the 
+patients with suspected or confirmed COVID-19 being 
+seen by only one person in charge of the team.
+• Outpatient vascular surgery operation only 
+for diabetic foot care, as well as reviewing the need for 
+care every two to three weeks before the scheduled date 
+of those who needed surgery or symptomatic patients. 
+• Postponement of consultations for chronic 
+patients, ensuring medications supply and offering 
+home delivery service.
+• Maintenance only of the elective surgeries 
+that would have an immediate impact on patients’ 
+quality of life and on mortality or would reduce the risk 
+of amputation.
+• Screening for symptoms suggestive of 
+COVID-19 infection in patients undergoing surgery at 
+the time of admission and referral of positive cases to 
+the emergency room.
+• In the operative act, other measures such as 
+the permanence of the team outside the room during 
+anesthetic induction and recovery.
+• The use of personal protective equipment 
+(PPE), consisting of N95 mask or air purifying respirator, 
+goggles, sterile waterproof suits and double layer 
+of sterile gloves by the surgical team, which must be 
+composed of the as few people as possible. The study 
+indicates that the air-purifying respirator is ideal for 
+prolonged surgeries (more than 3 hours), as it is more 
+comfortable for the surgeon. A relevant point is that 
+vascular surgeons should be aware of the complexity of 
+using magnifying surgical loupes associated with the use 
+of PPE when operating suspected or positive COVID-19 
+patients, especially when performing their removal and 
+cleaning.
+The Vascular and Endovascular Surgery 
+Section of the Heart Institute of Minneapolis, following 
+the recommendations of the American College of 
+Surgeons15 for COVID in elective procedures, instituted 
+drastic changes in its clinical practice. The unit chose to 
+postpone all elective procedures but those considered 
+essential, whose absence could in some way threaten 
+patients’ life or limbs integrity. To ensure that postponed 
+procedures are not forgotten, a database was developed 
+so that rescheduling can be carried out later. Most 
+outpatient visits were converted to telephone visits, 
+limiting the review of medical records and imaging 
+exam to protect the clinical staff16. 
+In Italy, the Department of Vascular and 
+Endovascular Surgery at the Hospital San Giovanni di 
+Dio in Florence adopted a reorganization protocol, also 
+creating a Surgical Vascular Sector for urgent cases of 
+COVID-19. The main measures were:
+• Suspension of all varicose vein surgeries and 
+office and emergency activities.
+• Centralization of aneurysm and symptomatic 
+carotid artery procedures, as well as vascular surgery to 
+correct critical limb ischemia (CLI) and arteriovenous 
+fistula for hemodialysis.
+• Prioritization of endovascular treatment 
+over bypasses, in order to eliminate the need for an 
+anesthesiologist in the operating room.
+• Asymptomatic carotid lesions referred to 
+a private hospital that was available to perform them 
+during this period.
+• Urgent cases of hemodynamically stable, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+6
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+confirmed or suspected, COVID-19 patients from 
+peripheral hospitals centralized to a COVID-19-dedicated 
+Surgical Sector created with a wing isolated from the 
+other operational sectors, converted into an operating 
+room and ICU beds, with an emergency transfer area 
+with an exclusive elevator.
+• Standardization 
+of 
+the 
+professionals’ 
+equipping sequence, in which surgeons access a room, 
+where they dress with PPE, including N95 mask, goggles, 
+face shield, sterile waterproof suits, foot protectors and 
+two pairs of surgical gloves. Then, the surgeons go to 
+the operating room of the COVID-19 area, where an 
+alcoholic solution is applied to the second pair of gloves, 
+a sterile gown and an extra pair of sterile surgical gloves 
+are placed. After the surgery is completed, surgeons 
+proceed to a room located in front of the operating 
+room, as on a production line, to remove the PPE under 
+the supervision of a trained operator. 
+• Postoperative evaluation made by two 
+doctors, with only one contacting the patient using the 
+PPE, and the other waiting outside the room, considered 
+“uncontaminated”, in order to reduce the risk of cross 
+contamination in the health team.
+• Some surgeons stayed in their homes for 
+a few days alternately, in order to preserve a set of 
+uninfected professionals who could be used at any time 
+in case of need or to replace infected colleagues of any 
+specialty.
+In this established care algorithm, the clear 
+separation between COVID and non-COVID hospitals, 
+with at least one mandatory test for all admitted patients, 
+was the first step in organizing and restructuring care 
+during the outbreak17.
+	
+DISCUSSION
+A better understanding of the mechanisms of 
+pathological changes in critically ill patients hospitalized 
+by COVID-19 has been increasingly the focus of studies 
+that aim to define more assertive therapies and better 
+clinical monitoring during the hospitalization of such 
+patients. Several clinical studies have revealed that the 
+“inflammatory cytokines storm”18-20 is an important 
+mechanism implicated in the worsening and mortality 
+of patients with COVID-19. One study revealed that IL-6 
+levels in critically ill patients were significantly higher 
+than in mild cases, evidencing the contribution of this 
+cytokine to many pathophysiological effects in critically ill 
+patients such as vascular leakage, complement activation 
+and coagulation cascade and induction, in very rare 
+cases, of disseminated intravascular coagulation (DIC). 
+The same study showed that the use of LMWH improves 
+the coagulation dysfunction of patients with COVID-19, 
+as it has anti-inflammatory effects, that is, its use can 
+contribute to prevent or even reverse the cytokine 
+storm, thus improving the condition of the patients, and 
+corroborating its potential therapeutic use21. A study 
+conducted at the Weill Cornell Medicine in New York 
+followed this intention to deepen the pathophysiological 
+knowledge on the disease using pulmonary and skin 
+biopsy and autopsy samples and from five individuals 
+with severe COVID-19. They found that at least some 
+patients infected with SARS-CoV-2 who became seriously 
+ill suffered a generalized thrombotic microvascular lesion 
+that appears to be mediated by intense complement 
+activation. Although their five evaluated cases rendered 
+generalization impossible, there is a suspicion that a subset 
+of critically ill patients with COVID-19 may, together with 
+their pro-coagulant state, have associated microvascular 
+lesions that are relevant to the unfavorable outcome that 
+most of these patients have22. Thus, the complement 
+system can play a critical role in the pathogenicity of 
+the disease and further studies in this area need to be 
+developed. 
+Despite advances in publications around the 
+relationship between COVID-19 and the prothrombotic 
+condition that patients have been presenting, so far there 
+are no complete studies associating VTE with COVID-19 
+infection. However, Cui et al.23 retrospectively analyzed 
+81 critically ill patients with COVID-19 pneumonia in 
+the ICU and found an incidence of 25% of VTE. Klok 
+et al.24, found an incidence of 31% of thrombotic 
+complications in ICU patients with COVID-19 infections 
+despite thrombosis prophylaxis, this percentage being 
+remarkably high. Middeldorp et al.25 stated that the 
+risk of VTE in patients with COVID-19 is high, especially 
+in patients hospitalized in the ICU, and that adopting 
+a screening strategy with diagnostic tests at a low 
+threshold may be a good approach. It is thus clear that 
+a joint effort between local professionals working in the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+7
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+field of Angiology and Vascular Surgery is necessary so 
+that a collaborative network can increasingly improve, at 
+the collective level, the carried out procedures and care 
+flowcharts, in addition to assisting in the remodeling of 
+services provided during the COVID-19 pandemic.
+	
+CONCLUSION
+COVID-19 can predispose to venous and arterial 
+thromboembolic diseases due to excessive inflammation, 
+hypoxia, immobilization and DIC. Therefore, there is a 
+need for risk stratification for VTE for all hospitalized 
+patients through the use of scores such as the Caprini8, 
+in addition to the complementary use of scores to stratify 
+the risk of bleeding. 
+Note that thromboprophylaxis is necessary 
+during the hospitalization of patients with COVID-19, 
+unless there is a contraindication, the choice and 
+duration of therapy varying according to the patient’s 
+clinical situation and the protocol established in the 
+hospital unit, and based on the guidelines of the 
+Hemostasis and Thrombosis Societies. The post-discharge 
+thromboprophylaxis of the patient with COVID-19 
+remains lacking in data, with no consensus, and the 
+decision for its use and DD cutoff point that guides 
+its choice must be made individually, always analyzing 
+the risk of thrombotic or bleeding events, according to 
+established institutional protocols based on previous safe 
+evidence. 
+In addition to the clinical management of 
+vascular and hematological complications that Sars-
+CoV-2 infection can cause, vascular surgery departments 
+need to readjust their routines by creating or reviewing 
+algorithms and protocols that make their performance 
+possible, even if restricted, during the current world 
+outbreak of COVID-19.
+	
+REFERENCES
+1.	
+World Health Organization. WHO Coronavirus 
+diseases (COVID-19) Dashboard [Internet]. 2020 
+[acesso em 28 abr 2020]. Disponível em: https://
+covid19.who.int/.
+2.	
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et 
+al. Clinical features of patients infected with 2019 
+novel coronavirus in Wuhan, China. Lancet. 2020; 
+395(10223):497-506.
+3.	
+Lippi G, Plebani M. Laboratory abnormalities in 
+patients with COVID-2019 infection. Clin Chem Lab 
+Med. 2020 Mar 3. doi: 10.1515/cclm-2020-0198.
+4.	
+Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical 
+course and risk factors for mortality of adult inpatients 
+with COVID-19 in Wuhan, China: a retrospective 
+cohort study. Lancet. 2020;395(10229):1054-62.
+5.	
+Han H, Yang L, Liu R, Liu F, Wu K, Li J, et al. 
+A epidemia pelo novo Coronavirus (2019-nCoV), surgido na cidade de Wuhan, na China, em dezembro de 2019, quando sintomática, 
+apresenta-se majoritariamente por um quadro de pneumonia pulmonar que é precedida por febre, tosse seca e mialgia. No entanto, 
+conforme a doença se espalhou globalmente e o número de hospitalizações aumentaram de forma exponencial, notou-se que a 
+maior parte dos pacientes graves internados por COVID-19 possuem alterações laboratoriais dignas de atenção, como linfopenia, 
+neutrofilia, aumento do tempo de protrombina e elevação dos níveis de D-dímero. Devido tais mudanças se mostrarem cruciais para 
+a taxa de mortalidade e morbidade nesse subgrupo de infectados, diversos trabalhos com enfoque na fisiopatologia, principalmente 
+hematológica, da doença surgem a cada dia. Aprofundando em tais estudos, variados trabalhos publicados evidenciaram a infecção pelo 
+Sars-CoV-2 à instalação de um estado pró-trombótico em pacientes hospitalizados graves, o que acarreta em potencial ocorrência de 
+eventos trombóticos venosos ou arteriais nessa coorte. Assim, para entender como os Departamentos de Angiologia e Cirurgia Vascular 
+estão atuando no contexto da pandemia de COVID-19, este estudo tem por objetivo reunir estudos que revelam desde protocolos 
+aplicados nos serviços vasculares na atual conjuntura, até a atuação dos cirurgiões vasculares e angiologistas no manejo clínico e 
+cirúrgico de pacientes infectados ou não, como forma de ajudar e esclarecer essa especialidade durante o contexto de pandemia pelo 
+novo coronavírus. Para a seleção dos trabalhos foram utilizados os seguintes critérios de busca: “Coronavirus and venous thrombosis”, 
+“Coronavirus and thrombosis”, “COVID-19 and venous thrombosis” e “COVID-19 Coronavirus and thrombosis”.
+Palavras chave: Infecções por Coronavirus. Coagulação Sanguínea. Trombose. Embolia Pulmonar. Coronavirus.
+R E S U M O
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+8
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+Prominent changes in blood coagulation of patients 
+with SARS-CoV-2 infection. Clin Chem Lab Med. 
+2020 Mar 16. doi: 10.1515/cclm-2020-0188.
+6.	
+Tang N, Li D, Wang X, Sun Z. Abnormal coagulation 
+parameters are associated with poor prognosis in 
+patients with novel coronavirus pneumonia. J 
+Thromb Haemost. 2020;18(4):844-7.
+7.	
+Obi AT, Barnes GD, Wakefield TW, Brown Rvt S, 
+Eliason JL, Arndt E, et al. Practical diagnosis and 
+treatment of suspected venous thromboembolism 
+during COVID-19 Pandemic. J Vasc Surg Venous 
+Lymphat Disord. 2020 Apr 16. doi: 10.1016/j.
+jvsv.2020.04.009.
+8.	
+Pannucci CJ, Swistun L, MacDonald JK, Henke PK, 
+Brooke BS. Individualized venous thromboembolism 
+risk stratification using the 2005 Caprini score to 
+identify the benefits and harms of chemoprophylaxis 
+in surgical patients: a meta-analysis. Ann Surg. 
+2017;265(6):1094-103.
+9.	
+Casini A, Alberio L, Angelillo-Scherrer  A, Fontana 
+P, Gerber B, Graf L, et al. Thromboprophylaxis 
+and laboratory monitoring for in-hospital patients 
+with COVID-19 – A Swiss Consensus Statement 
+by the Working Party Hemostasis. Swiss Med 
+Wkly. 2020 Apr 11;150:w20247. doi:10.4414/
+smw.2020.20247. 
+10.	 Marietta M, Ageno W, Artoni A, De Candia E, 
+Gresele P, Marchetti M, et al. COVID-19 and 
+haemostasis: a position paper from Italian Society 
+on Thrombosis and Haemostasis (SISET). Blood 
+Transfus. 2020 Apr 8. doi: 10.2450/2020.0083-20.
+11.	 Wu Z, McGoogan JM. Characteristics of and 
+important lessons from the coronavirus disease 
+2019 (COVID-19) outbreak in China: summary 
+of a report of 72,314 cases from the Chinese 
+Center for Disease Control and Prevention. 
+JAMA. 2020;323(13):1239-1242. doi: 10.1001/
+jama.2020.2648.
+12.	 Thachil J, Tang N, Gando S, Falanga A, Cattaneo M, 
+Levi M, et al. ISTH interim guidance on recognition 
+and management of coagulopathy in COVID-19. J 
+Thromb Hemost. 2020;18(5):1023-6.
+13.	 Testa S, Paoletti O, Giorgi-Pierffranceschi M, Pan 
+A. Switch from oral anticoagulants to parenteral 
+heparin in SARS-CoV-2 hospitalized patients. Intern 
+Emerg Med. 2020 Apr 15. doi: 10.1007/s11739-
+020-02331-1.
+14.	 Tan GWL, Chandrasekar S, Lo ZJ, Hong Q, Yong E, 
+Lingam P, et al. Early Experience in the COVID-19 
+pandemic from a Vascular Surgery Unit in a 
+Singapore Tertiary Hospital. J Vasc Surg. 2020 Apr 
+17. doi: 10.1016/j.jvs.2020.04.014.
+15.	 American 
+College 
+of 
+Surgeons 
+[Internet]. 
+Chicago 
+(IL): 
+ACS; 
+c1996-2020. 
+COVID-19: 
+Recommendations for Management of Elective 
+17 Surgical Procedures [about 2 p.]. Available 
+from: 
+https://www.facs.org/about-acs/covid19/
+information-for-surgeons/elective-surgery 
+16.	 Mirza AK. Perspectives on vascular surgical practice 
+change due to COVID-19 at a nonacademic tertiary 
+care center. J Vasc Surg. 2020 Apr 17: S0741-
+5214(20)30592-9. doi: 10.1016/j.jvs.2020.04.016.
+17.	 Chisci E, Masciello F, Michelagnoli S. Creation of a 
+vascular surgical Hub responding to the COVID-19 
+emergency: the Italian USL Toscana Centro model. 
+J Vasc Surg. 2020 Apr 16:S0741-5214(20)30605-4. 
+doi: 10.1016/j.jvs.2020.04.019.
+18.	 Wang C, Horby PW, Hayden FG, Gao GF. A novel 
+coronavirus outbreak of global health concern. 
+Lancet. 2020;395(10223):470-3.
+19.	 Zhou W, Liu YS, Tian D,  Wang C, Cheng J, Hu M, 
+et al. Potential benefits of precise corticosteroids 
+therapy for severe 2019-nCoV pneumonia. Signal 
+Transduct Target Ther. 2020;5(1):18. doi: 10.1038/
+s41392-020-0127-9
+20.	 Wan S, Yi Q, Fan S, Lv J, Zhang X, Guo L, et al. 
+Characteristics of lymphocyte subsets and cytokines 
+in peripheral blood of 123 hospitalized patients with 
+2019 novel coronavirus pneumonia (NCP). MedRxiv. 
+2020 Feb 12. doi: 10.1101/2020.02.10.20021832.
+21.	 Shi C, Wang C, Wang H, Yang C, Cai F, Zeng F, et 
+al. The potential of low molecular weight heparin to 
+mitigate cytokine storm in severe COVID-19 patients: 
+a retrospective clinical study. Medrxiv. 2020 Apr 15. 
+doi: 10.1101/2020.03.28.20046144v3.
+22.	 Magro C, Mulvey JJ, Berlin D, Nuovo G, Salvatore S, 
+Harp J, et al. Complement associated microvascular 
+injury and thrombosis in the pathogenesis of severe 
+COVID-19 infection: a report of five cases. Transl 
+Res. 2020 Apr 15; S1931-5244(20)30070-0. doi: 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+9
+Barros
+The role of Angiology and Vascular Surgery in the COVID-19 pandemic
+Rev Col Bras Cir 47:e20202595
+10.1016/j.trsl.2020.04.007.
+23.	 Cui S, Chen S, Li X, Liu S, Wang F. Prevalence of 
+venous thromboembolism in patients with severe 
+novel coronavirus pneumonia. J Thromb Haemost . 
+2020 Apr 9. doi: 10.1111/jth.14830.
+24.	 Klok FA, Kruip MJHA, van der Meer NJM, Arbous 
+MS, Gommers DAMPJ, Kant KM, et al. Incidence 
+of thrombotic complications in critically ill ICU 
+patients with COVID-19. Thromb Res. 2020 Apr 
+10;S0049-3848(20)30120-1. 
+doi: 
+10.1016/j.
+thromres.2020.04.013
+25.	 Middeldorp S, Coppens M, van Haaps TF, Foppen 
+M, Vlaar AP, Müller MC, et al. Incidence of venous 
+thromboembolism in hospitalized patients with 
+COVID-19. J Thromb Haemost. 2020 May 5. doi: 
+10.1111/jth.14888. Online ahead of print.
+Received in: 15/04/2020
+Accepted for publication: 28/04/2020
+Conflict of interest: no.
+Funding source: none.
+Mailing address:
+Bernardo Cunha Senra Barros
+E-mail: drbernardobarros@gmail.com
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

@@ -1,0 +1,594 @@
+Status: Preprint has been submitted for publication in journal
+RESULTADO CLÍNICO APÓS RECONSTRUÇÃO LIGAMENTAR
+BICRUZADO DO JOELHO, EM DOIS TEMPOS
+Mauro  Mituso Inada, Sergio  Rocha Piedade
+https://doi.org/10.1590/SciELOPreprints.1525
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The authors declare that in the event that this manuscript has previously been submitted to a journal and
+being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
+server.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed and published by a journal, the authors declare that they have received
+authorization from the journal to make this deposit.
+Submitted on (YYYY-MM-DD): 2020-11-25
+Posted on (YYYY-MM-DD): 2020-12-01
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+1 
+Artigo Original 
+ 
+CLINICAL OUTCOMES AFTER BICRUCIATE KNEE 
+LIGAMENT TWO-STAGE RECONSTRUCTION 
+ 
+RESULTADO CLÍNICO APÓS RECONSTRUÇÃO 
+LIGAMENTAR BICRUZADO DO JOELHO, EM DOIS 
+TEMPOS 
+ 
+Mauro Mituso Inada1 
+https://orcid.org/0000-0003-2348-5568  
+Sergio Rocha Piedade1 
+https://orcid.org/0000-0003-3774-5914  
+ 
+1. Medicina do Exercício e do Esporte, Faculdade de Ciências Médicas da Universidade 
+Estadual de Campinas – UNICAMP, campinas, são Paulo, Brasil 
+ 
+ 
+ 
+Corresponding: Sergio Rocha Piedade. Rua Severo Penteado 131, apto 01, Cambuí, 
+Campinas – São Paulo, 13025-050. piedade@unicamp.br   
+ 
+"Os autores declaram inexistência de conflito de interesses na realização deste trabalho." 
+ 
+Data de submissão: 13/04/2020 
+Data de aceite: 02/07/2020 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+2 
+Abstract 
+Introduction: Bicruciate knee ligament injury has not a well-establish surgical protocol 
+in the literature. Objective: To correlate clinical data and intraoperative findings 
+compared to the postoperative evaluation data from Lysholm scale, Tegner activity 
+score and SF-36 questionnaire after bicruciate knee ligament two-stage reconstruction. 
+Materials and Methods: 25 patients (20 males and 05 females) were evaluated, mean 
+age 32.3 years (17 - 53 years), mean BMI 26.2(18.9 -34.9), mean duration of lesion 18.3 
+months (chronic lesion). The INLAY technique was applied in PCL reconstruction using 
+the central 1/3 of the patellar tendon. After the 3-months minimum interval, ACL 
+reconstruction was arthroscopically performed using hamstrings. An additional surgical 
+procedure was required for 04 patients (patellar tendon -02 cases, MCL-02 cases). 
+Results: With a 24.8-month mean follow-up, in 60% of cases, the posterior drawer test 
+rated zero or + (0.5 cm), while 40% as + + (1cm) and 60% of patients rated good 
+condition/ excellent (Lysholm). Only one patient achieved the pre-lesion Tegner activity 
+level.  The duration of lesion influenced postoperative clinical results negatively, 
+especially regarding parameters such as physical functioning limitation of physical 
+aspects, vitality and mental health (SF-36). Conclusion: the bicruciate knee ligament 
+two-stage reconstruction improved the knee stability and subjective evaluation, but, 
+96% of patients did not recover the pre-injury status of physical activity. Moreover, the 
+time of injury had an inverse statistical correlation with the subjective evaluation of 
+physical functioning, limitation of physical aspects, vitality and mental health in the S-
+36 score.  
+Keywords: posterior cruciate ligament; Knee injury; Ligaments; Patient Reported 
+Outcomes Measures.  
+Level of evidence: IV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+3 
+Introduction 
+ 
+The bicruciate knee ligament injury [posterior cruciate ligament (PCL) and the anterior 
+cruciate ligament (ACL)] is defined as one of the most severe injuries of the knee joint, 
+taking on a chapter of its own in the universe of knee ligament lesions [1, 2]. In this 
+context, the surgeon’s knowledge of this complex anatomy and biomechanics of both 
+ligaments, the history and mechanism of trauma, patient’s level of physical demand 
+plays a vital role in decision-making. 
+This complex knee ligament injury is described as a rare injury, in most cases, associated 
+with high-energy traumas, with or without lesions of other joints, structures or organs. 
+Moreover, very often, meniscal and osteochondral injuries are also present together 
+with other peripheral ligament lesions, contributing to worsening of symptoms, 
+instability and joint degeneration [3]. 
+Boisgard et al. [4] described four types of bicruciate knee ligament injury mechanisms. 
+The first one is a simple femorotibial gaping on a plane around a perpendicular axis; the 
+second occurs due to femorotibial translation and the third is a combination of simple 
+gaping and knee translation, and the last type is a combination of femorotibial gaping 
+and translation in isolation or association with rotational movements [5].  However, in 
+clinical practice, the mechanism of trauma cannot be identified, especially in chronic 
+cases, due to lack of information reported by the patient.   
+From a biomechanical viewpoint, the knee bicruciate injury affects stability and normal 
+joint kinematics with significant clinical repercussions that interfere in the individual’s 
+quality of life. Given the complexity of this lesion, a surgical procedure is indicated.  
+ 
+The outcomes of bicruciate knee ligament reconstruction on quality of life, 
+improvement of symptoms, return to work and sports practice, as well as subjective 
+and objective assessments of outcomes, is still a topic of substantial interest since few 
+scientific studies address this subject.  
+This study aims to correlate clinical data and intraoperative findings compared to the 
+postoperative evaluation data from Lysholm scale, Tegner activity score and SF-36 
+questionnaire after bicruciate knee ligament two-stage reconstruction. 
+ 
+Material and methods 
+This retrospective and descriptive study analyzed thirty-one (31) patients, who 
+underwent bicruciate knee ligament two-stage reconstruction between 2002 and 2010.  
+Exclusion Criteria  
+Six patients were excluded for the following reasons: bilateral lesion- one patient, intra-
+articular fracture (fracture of the lateral tibial plateau) - one patient, tibial osteotomy – 
+two patients, loss to follow-up- two patients. Therefore, the study consisted of twenty-
+five patients (Table 1). 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+4 
+Table 1 - Characteristics of the patients, involved knee, mechanism of trauma and 
+associated injuries 
+ 
+Cases 
+Twenty-five patients were reassessed (twenty men and five women), average age 32.3 
+ 9.81 years (17-53), mean BMI 26.2  3.27 (18.9 - 34.9), fourteen right knees and eleven 
+left knees. 
+Regarding the mechanism of injury: car, motorcycle and bicycle accidents were 
+responsible for 72%, while sports practices 16% and falls or sprains 12%.  
+The average duration of the lesion was 18.28  29.63 months (1 - 120) and so, all 
+patients had chronic injuries. 
+ 
+Surgical Technique 
+The mean age at surgery was 29.4 years (16 – 50). One of the surgical techniques used 
+was the INLAY PCL reconstruction with a graft of the central third of patellar tendon. 
+The graft was fixed by one interference screw in the femoral tunnel and cortical screw 
+with washer in the tibial tunnel (Figure 1). In the postoperative care, the knee extended 
+was maintained at inguinal–malleolus splint for six weeks. 
+ 
+ 
+ 
+ 
+Figure 1 – Postoperative radiographs of open PCL Inlay reconstruction: 
+anteroposterior (A) and lateral (B) view of the knee. 
+ 
+After the 3-months minimum interval and an improvement in the range of motion, the 
+patient underwent anatomical, outside-in position guide, arthroscopic ACL 
+reconstruction using quadruple hamstring grafts with femoral-tibial fixation using 
+interference screws (Figure 2). 
+ 
+ 
+A 
+B 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+5 
+ 
+ 
+Figure 2 – The arthroscopic ACL reconstruction: anterior-posterior (A) and lateral (B) 
+radiographs of the knee. 
+ 
+It is important to note that four of the patients with associated ligament lesions 
+required additional surgery – two patients for patellar tendon reconstruction using 
+contra-lateral semitendinosus and gracilis grafts and two patients for medial collateral 
+reconstruction using contra-lateral semitendinosus and gracilis grafts.  
+ 
+Intraoperative findings 
+Data on meniscal and chondral lesions (grade ≥ 2) were obtained from medical records. 
+These lesions were prevalent on the medial side of the knee (femoral condyle, medial 
+tibial plateau), patellar surface. As they were considered as small injury, no 
+measurement of cartilage damage area was done, and the reports informed just the 
+presence or not of cartilage damage. 
+ 
+Postoperative evaluation  
+With a mean postoperative follow-up of was 24.8  20.63 months (9 - 92), data 
+regarding clinical and radiological assessment and functional assessment of the 
+questionnaires (Lysholm scale, Tegner activity score and SF-36 questionnaire were also 
+collected. The circumference of the thighs measured at 14 cm above the superior end 
+of the patella was recorded. Informed consent was obtained from all the patients and 
+the study also received the approval of this service’s Ethics Committee (CEP n° 
+963/2010). 
+ 
+Statistical Analysis 
+The data were statistically analyzed using the SPSS 13.0 program with numerical 
+variables and categories applying the Mann-Whitney, Spearman and Wilcoxon tests 
+with significance level p<0.05. 
+In order to identify variables that have an influence on quality of life and clinical 
+assessment, the univariate and multivariate linear regression analyses were applied. In 
+A 
+B 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+6 
+the absence of normality, positions on the variable dependents were transformed. The 
+stepwise selection criterion was used. The significance level applied for statistical tests 
+was 5%. 
+ 
+Results 
+All 25 patients in this study fully recovered a range of motion. Ten patients (40%) 
+revealed that the circumference difference between the thighs measured at 14 cm 
+above the superior end of the patella was greater than 2cm.  
+The postoperative evaluation showed a reduction tibial posterior drop on posterior 
+drawer test of at least one level (+ or 0.5cm). therefore, So, seven patients (28%) 
+presented a negative posterior drawer test, while eight patients (32%) showed 0.5 cm 
+residual posterior drawer (+/+++) test, ten patients (40%) presented 01 cm residual 
+posterior drawer (++/+++) and none of the patients presented residual posterior drawer 
+≥ 1.5 cm (+++/+++) in the operated knee.  
+The chondral lesion was found in 16 patients (64%), meniscal lesion in 11 patients (44%) 
+and associated ligament lesions in 12 patients (48%). The charts recorded the intra-
+operative findings of chondral injury, but no measurement was performed.  
+The associated ligament lesions were patellar tendon lesions in 02 patients (08%), 
+medial collateral ligament -05 patients (20%) and posterolateral corner -06 patients 
+(24%) (Table 2). It should be noted that patellar tendon reconstruction (two patients) 
+and medial collateral reconstruction (two patients) was performed, while, none of six 
+patients diagnosed with mild posterolateral injury was submitted to the surgical 
+reconstructions. 
+ 
+ 
+ 
+ 
+ 
+Table 2 – Distribution of associate ligament lesions in 25 evaluated cases 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+7 
+ 
+ 
+ 
+No statistical difference was observed in the groups when analyzed for age, BMI, 
+presence of chondral, meniscal and ligament associated lesions as well as residual 
+posterior drawer.  
+According to the Lysholm score (83.44  16.83), 08 patients (32%) were classified as 
+excellent, 07 (28%) good, 08 patients (32%) regular and 02 patients (8%) poor (Table 3).  
+ 
+ 
+ 
+Table 3 – Distribution of Lysholm scores of 25 evaluated cases. 
+ 
+ 
+13
+6
+5
+2
+0
+2
+4
+6
+8
+10
+12
+14
+no injury
+posterolateral corner
+medial collateral ligament
+patellar tendon
+8
+7
+8
+2
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+excelent (95 a 100)
+good (84 a 94)
+fair (65 a 83)
+poor (<65)
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+8 
+ 
+The Tegner activity score revealed that postoperative level of physical activity was lower 
+compared to the no injury status (Table 4); however, this change showed no difference 
+in the statistical analysis. In this series of cases, only one patient achieved the pre-injury 
+activity level (p<0.001).   
+ 
+Table 4 – Distribution of patients according to the three levels of the Tegner score (light, 
+moderate and high) and Postoperative Tegner deficit (mean values and standard deviation). 
+ 
+ 
+ 
+The Lysholm scale presented a statistical correlation with the Tegner deficit – improved 
+Lysholm scale meant a smaller drop in the physical activity level after bicruciate knee 
+ligament reconstruction. 
+The preoperative duration of the lesion presented an inverse statistical correlation with 
+physical functioning, limitation of physical aspects, vitality and mental health (SF-36 
+questionnaire), suggesting a negative impact on the final clinical result.  Table 5 presents 
+the results of the SF-36 questionnaire. 
+ 
+ 
+Table 5– Mean, standard deviation and range SF-36 questionnaire values of 25 patients.  
+ 
+TEGNER 
+(physical activity level) 
+Condition 
+light (0 to 3) 
+moderate (4 to 
+6) 
+high (7 to 10) 
+postoperative Tegner 
+deficit 
+pre-injury 
+7 
+13 
+5 
+35.56  18.81 
+postoperative 
+16 
+7 
+2 
+SF-36 scores 
+mean values 
+SD 
+range 
+physical functioning 
+71  
+ 21.2 
+(30 - 100) 
+role physical 
+60  
+ 38.9 
+(0 - 100) 
+bodily pain 
+74 
+ 25.0 
+(22 - 100) 
+general health 
+80  
+ 17.2 
+(42 - 100) 
+vitality 
+72  
+ 19.2 
+(25 - 100) 
+social functioning 
+86  
+ 17.8 
+(37 - 100) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Duration of the postoperative period did not demonstrate a statistical correlation with 
+the variables studied, indicating that a postoperative period of nine months was 
+sufficient time to provide the final clinical outcome.  
+ 
+Discussion 
+The most important finding of this study was that even though the bicruciate knee 
+ligament two-stage reconstruction had improved the knee stability and subjective 
+evaluation, the pre-injury status of physical activity was not re-establish in 96% of 
+patients. Moreover, the time of injury had an inverse statistical correlation with the 
+subjective evaluation of physical functioning, limitation of physical aspects, vitality and 
+mental health in the S-36 score. 
+Concomitant lesions are commonly seen in the bicruciate ligaments injury due to its 
+high-energy trauma nature of these injuries. [3]. In this study, 72% of the cases were 
+related to car and motorcycle accidents (Table 1). 
+In world literature, the unsatisfactory and the inconsistent clinical outcomes after 
+conservative treatment have stimulated a surgical approach, but the ideal moment for 
+the surgery has not been standardized. Shapiro et al. and Harner et al. [6, 7] recommend 
+surgery between the second and third week after injury, while Chuang et al. [8] propose 
+the surgical procedure only after regaining range of motion. 
+Hayashi et al. [9] evaluated joint mobility after surgical bicruciate reconstruction and 
+observed motion deficit in 15% of the patients (n=19), while Lo et al., 2009 [10] reported 
+motion deficit in 27% of the cases (n=11) and Hirschmann et al. [11] observed motion 
+deficit in 38% of the patients (n=24). However, in this study, all the patients recovered 
+knee range of motion after undergoing the two-stage surgery. Therefore, it appears that 
+the magnitude of surgical trauma interferes in postoperative joint mobility. 
+Analyzing the postoperative stability of the knee, Hirschmann et al. [11] reported that 
+in 96% of the patients in a series of acute and chronic cases and Ohkoshi et al. [12] 
+observed residual posteriorization of less than 0.5cm in 100% of the cases. Spiridinov et 
+al. 13 reported significant improvement in subjective and objective outcome and with 
+objective knee stability after endoscopic treatment of isolated and combined grade-III 
+PCL double-bundle reconstruction 
+Although in this series of cases, the preoperative knee stability was improved after 
+bicruciate knee ligament reconstruction, it was observed a residual posteriorization less 
+role emotional 
+85  
+ 27.4 
+(0 - 100) 
+mental health 
+76  
+ 14.8 
+(48 - 100) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+10 
+than or equal to 0.5cm in 60% of the patients. It should keep in mind that it was a 
+heterogenic series of chronic cases, where, 28% of patients had associated injuries such 
+as a bone fracture or patellar tendon rupture. 
+Lo et al. [10] evaluated 11patients with bicruciate lesions and detected related ligament 
+and meniscal injuries in 73% and 27% of the patients, respectively, while Subbiah et al. 
+[14] reported related ligament lesions in 73%, LUSTIG et al. [3] observed in 83,4% to 
+97% of the patients and Fanelli et al. [15] in a series of 35 cases of knee dislocation, 
+reported the presence of related ligament lesions in 97% of the cases. 
+In the present series, 48% had related ligament lesions (Table 2), and in 16% of these 
+cases, an additional surgical procedure was performed, while 44% of the cases had 
+meniscal injuries.   
+Lo et al. [10] analyzed postoperative results and did not record any postoperative 
+complications. This study also did not reveal any type of postoperative complication.  
+In a series of 9 patients with chronic bicruciate lesions, Schofer et al. [16] reported a 
+mean Lysholm score of 74. Hirschmann et al. [11] registered a mean Lysholm score of 
+85 (n=24), in 17 cases of acute lesions and 7 cases of chronic injuries. Lo et al. [10] 
+obtained a mean score of 88 for 11 patients, who were all chronic patients. In the 
+present study, an overall Lysholm score of 83 was classified as regular (Table 3).  
+It is important to note that in the present study, the presence of chondral lesions was 
+reported in 64% of cases and these patients had poorer subjective Lysholm scores than 
+patients without chondral injuries (82.6  19.5 and 85.0  11.5, respectively). However, 
+no statistical difference was noted (p=0.609). Lustig et al. [3] related to the presence of 
+chondral lesions in 42% of the cases.  
+It should also be emphasized that imprecise diagnoses, coupled with the delayed 
+referral of these patients to specialized services, contributed to this sample’s 
+distribution of prominently chronic cases. 
+About the pre-injury activity level, it was observed that this complex lesion significantly 
+impaired the patient’s quality of life. Hirschmann et al. [11] reported that 33% of the 
+patients (08 patients) attained the pre-injury activity level, while Lo et al. [10] observed 
+that 82% of the patients (09/11) achieved the pre-injury activity level. However, in this 
+study, only one patient attained the pre-injury activity level (4%) (Tegner score activity 
+= 4) (Table 4). 
+Considering the isolated ACL reconstruction, Möller et al. and Nunez et al. [17, 18] 
+reported a mean SF-36 score superior to 70. In contrast, in isolated PCL reconstruction, 
+Sekiya et al. [19] presented a mean score close to 50. The authors have emphasized that 
+acute and subacute PCL injuries had a better score compared to chronic injuries 
+(p=0,036).  
+Analyzing bicruciate reconstruction, Schofer et al. and Hirschmann et al. [16, 20] 
+observed a mean SF-36 score of physical functioning varied from 43 to 58 points, while, 
+in the present study the mean values were 60 to 80 points (Table 5).  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+11 
+Moreover, the time of preoperative injury showed an inverse correlation with four 
+items of SF-36 questionnaire, such as physical functioning, limitation of physical 
+aspects, vitality and mental health, suggesting a negative effect of lesion duration on 
+the postoperative clinical result.  
+However, variables such as age, BMI, related ligament lesions, posterior residual drawer 
+and duration of postoperative follow-up did not demonstrate a correlation with 
+postoperative results. 
+Considering the limitations, this is a non-randomized, retrospective study of 
+heterogenic series of patients with chronic lesions were submitted a bicruciate knee 
+ligament two-stage reconstruction using autograft. However, its importance lies in the 
+fact that it evaluates a set of 25 patients with bicruciate injuries who underwent the 
+same two-stage surgical procedure, performed by the same surgeon. Bearing in mind a 
+learning curve involved on this surgical procedure, where, two or more autografts needs 
+to be harvested, the surgical trauma and time-lapsed, a bicruciate knee ligament two-
+stage reconstruction could be considered as a realistic strategy. 
+ 
+Conclusion 
+The bicruciate knee ligament two-stage reconstruction improved the knee stability and 
+subjective evaluation, but, 96% of patients did not recover the pre-injury status of 
+physical activity. Moreover, the time of injury had an inverse statistical correlation with 
+the subjective evaluation of physical functioning, limitation of physical aspects, vitality 
+and mental health in the S-36 score.  
+ 
+Declaração da contribuição de autores 
+Cada autor contribuiu individual e significantemente para o desenvolvimento deste 
+artigo. Piedade SR e Inada MM: realização de cirurgias; Piedade SR e Inada MM: 
+análise dos dados e redação; Piedade SR: revisão do artigo e conceito intelectual do 
+artigo.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)
+Revista Acta Ortopédica Brasileira 
+ 
+12 
+References 
+1. Levy BA, Fanelli GC, Whelan DB, et al. Controversies in the treatment of knee dislocations 
+and multiligament reconstruction. J Am Acad Orthop Surg. 2009;(17):197-206. 
+2. Howells NR, Brunton LR, Robinson J, et al. Acute knee dislocation: an evidence based 
+approach to the management of the multiligament injured knee. Injury. 2010;(42):1198-1204. 
+3. Lustig S, Lerayb E, Boisrenoultc P. Dislocation and bicruciate lesions of the knee: 
+Epidemiology and acute stage assessment in a prospective series. Orthopaedics & 
+Traumatology: Surgery & Research. 2009;(95):614-620. 
+4. Boisgard S, Versier G, Descamps S, et al. Bicruciate ligament lesions and dislocation of the 
+knee: mechanisms and classification. Orthopaedics & Traumatology: Surgery & Research. 
+2009;(95):627-631. 
+5. Piedade S.R., Servien E., Lavoie F., Neyret P. Classification of knee laxities. In: 
+Michel Bonnin, 
+Annunziato Amendola, 
+Johan Bellemans, 
+Steven MacDonald, 
+Jacques Ménétrey. The Knee Joint. 1st ed. Paris: Springer-Verlag France; 2012. p.85-93. 
+6. Shapiro MS, Freedman EL. Allograft reconstruction of the anterior and posterior cruciate 
+ligaments after traumatic knee dislocation. Am J Sports Med. 1995;(23):580-587. 
+7. Harner CD, Poehling GG. Double bundle or double trouble? Arthroscopy. 2004;(20):1013-
+1014. 
+8. Chuang TY, Ho WP, Hsieh PH, et al. One-stage posterior cruciate ligament inlay 
+reconstruction combining anterior cruciate ligament reconstruction following knee dislocation. 
+Arthroscopy. 2006;(22):331-339.  
+9. Hayashi R, Nobuto KN, Kondo E, et al. Simultaneous anterior and posterior cruciate ligament 
+reconstruction in chronic knee instabilities surgical concepts and clinical outcome. Knee Surg 
+Sports Traumatol Arthrosc. 2008;(16):763–769. 
+10. Lo YP, Hsu KY, Chen LH, et al. Simultaneous arthroscopic reconstruction of the anterior and 
+posterior cruciate ligament using hamstring and quadriceps tendon autografts. J Trauma. 
+2009;(3):780-788. 
+11. Hirschmann MT, Iranpour F, Muller W, et al. Surgical Treatment of Complex Bicruciate Knee 
+Ligament Injuries in Elite Athletes: What Long-term Outcome Can We Expect? Am J Sports Med. 
+2010;(38):1103-1109.  
+12. Ohkoshi Y, Nagasaki S, Shibata N, et al. Two-stage reconstruction with autografts for knee 
+dislocations. Clin Orthop Relat Res. 2002;(398):169-175. 
+13. Spiridonov SI, Slinkard NJ, LaPrade RF. Isolated and combined grade-III posterior cruciate 
+ligament tears treated with double-bundle reconstruction with use of endoscopically placed 
+femoral tunnels and grafts: operative technique and clinical outcomes. J Bone Joint Surg 
+Am. 2011;93(19):1773-80.  
+14. Subbiah M, Pandey V, Rao SK, et al. Staged arthroscopic reconstructive surgery for multiple 
+ligament injuries of the knee. Journal of Orthopaedic Surgery. 2011;(3):297-302. 
+15. Fanelli GC, Edson CJ. Arthroscopically assisted combined anterior and posterior cruciate 
+ligament reconstruction in the multiple ligament injured knee: 2- to 10-year follow-up. 
+Arthroscopy. 2002;(18):703–714. 
+16. Schofer MD, Peterlein CD, Fuchs-Winkelmann S, et al. Arthroscopically-assisted combined 
+anterior and posterior cruciate ligament reconstruction. Unfallchirurg. 2008;(111):703-710. 
+17. Möller E, Weidenhielm L, Werner S. Outcome and knee-related quality of life after anterior 
+cruciate ligament reconstruction: a long-term follow-up. Knee Surg Sports Traumatol Arthrosc. 
+2009;(17):786–794 
+18. Núñez M, Sastre S, Núñez E, et al (2012) Health-related quality of life and direct costs in 
+patients with anterior cruciate ligament injury: single-bundle versus double-bundle reconstruction 
+in a low-demand Cohort—a randomized trial with 2 years of follow-up. Arthroscopy. 
+2012;(28):929-935 
+19. Sekiya JK, West RV, Ong BC, et al. Clinical outcomes after isolated arthroscopic single-
+bundle posterior cruciate ligament reconstruction. Arthroscopy. 2005;(21):1042-1050. 
+20. Hirschmann MT, Zimmermann N, Rychen T, et al. Clinical and radiological outcomes after 
+management of traumatic knee dislocation by open single stage complete reconstruction/repair. 
+BMC Musculoskelet Disord. 2010;(11):102. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1525
+Powered by TCPDF (www.tcpdf.org)

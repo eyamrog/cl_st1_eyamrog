@@ -1,0 +1,933 @@
+SELECTED MACROECONOMIC VARIABLES AND INVESTMENT INFLOW IN 
+TURKEY 
+ 
+ 
+Dr. Erkin ARTANTAŞ1 
+drerkinartantas@gmail.com 
+Ministry of Health, orcid number: https://orcid.org/0000-0003-1628-9518 
+Business Administration/TURKEY 
+ 
+Dr. Esra SİPAHİ2 
+dresrasipahi@gmail.com 
+                Ministry of Education, Privacy Office, https://0000-0002-6495-4378 
+Business Administration/TURKEY 
+ 
+Abstract 
+ 
+This research work examines the effect of selected macroeconomic 
+variables on investments inflow in Turkey. Macroeconomic theory of 
+foreign direct investments posits that investment inflow largely depend on 
+changes in the macroeconomic environment. The environment consists of 
+government deficit, exchange rates, inflation rates, interest rates, which are 
+some of the factors that affect the investment inflows in a country.  
+Also this study focuses on Foreign Direct Investment (FDI) inflows 
+and how they are linked with the economic indicators in Turkey including 
+the Real Effective Exchange Rate (REER), and Gross Domestic Product per 
+capita of Purchasing Power Parity - GDP (PPP) in Turkey. The GDP (PPP) 
+variable is used because it shows significant causality on REER, along with 
+the exchange rate volatility of the U.S Dollar in the Turkish stock market.  
+In Turkey, Various macroeconomic policies and reforms have been 
+embarked upon by government aimed at attracting FDI into the country, but 
+these efforts have appeared to be futile going by the low and unsteady 
+behavior of the level of foreign direct investments. This has become a source 
+of worry to all concerned. Therefore, this work was set out to investigate the 
+impact of macroeconomic policy variables on Foreign Direct Investment 
+Inflow in Turkey. Data for the study were collected from the Central Bank 
+of Turkey statistical bulletin (1994 – 2018). Variables examined were 
+exchange rates, inflation rates, interest rates, government deficit. Findings 
+revealed that all the explanatory variables jointly impact on foreign direct 
+investment inflow. Government deficit, exchange rates have a significant 
+positive effect on FDI in Turkey. Therefore, Government should evolve 
+sound policies that would strengthen the attraction of Foreign Direct 
+Investment Inflow in Turkey by paying more attention to the identified 
+macroeconomic policy variables. The variables have shown to be a vital tool 
+that could be used to encourage the inflow of FDI into the country. The 
+research recommends that there is need for the creation of friendly and 
+enabling environment for FDI to thrive in Turkey. 
+ 
+Key Words: Investment inflow, Exchange rates, Inflation Interest rates, 
+Economy. 
+ 
+ 
+ 
+ 
+                   INTRODUCTION 
+ 
+There are numerous contributions in the literature related to the impact of FDI inflows 
+on real effective exchange rate in Turkey. For the purposes of effective analysis, these 
+contributions can be grouped under four categories namely; FDI inflows and exchange rate, 
+financial stress, approaches regarding financial crises(including macroprudential policy and 
+purchasing power parity), and the impact of tourism on the real Turkish GDP. 
+ 
+ Within the literature that focuses on FDI inflows and exchange rate, Cushman (1985) 
+analyzed the relationship between FDI inflows, rate of risk, and exchange rate regime. In 
+order to minimize the effect of inflationary trends as estimates, Cushman used the real 
+exchange rate instead of the nominal exchange rate. The findings from the U.S. annual data 
+show that risk would significantly increase when there is a steady decrease in FDI inflows. 
+This finding is also valid and significant for the Turkish case. The strong decline in FDI 
+inflows in 2009 increased the risk factor on real exchange rate in Turkey. 
+ 
+This implies the profitable postponement of consumption to the future. Such greater 
+consumption expectation is only attained if the resources committed yield benefits as per the 
+opportunity cost of the capital. It could also mean the production of capital goods: goods 
+which are not consumed but instead used in future production. 
+ 
+Ideally, investments inflow exist in two forms; namely: capital (real) and financial 
+investment. Capital investment inflow concerns itself with tangibles which covenants and 
+crystallize into projects or collection of assets, single assets or fixed assets such as machines, 
+building etc. This, in other words, is also total expenditure on new plant and equipment that 
+is mostly taken with the aim of reducing cost and producing goods to generate future 
+benefits. 
+ 
+On the other hand, financial investment refers to investment in securities such as shares, 
+bonds, financial instruments that are referred to as “IOUs”, documents of claims economic agent 
+have on others. Investment inflow plays important role in functioning of an economy whether 
+developed or underdeveloped. Economic growth of most economies is derived from investment 
+inflow in such economy. 
+ 
+ 
+On the other hand, despite this positive trend, Turkey encountered with various 
+regional and international challenges from 2008 on. First of all, 2008 Global Financial Crisis 
+is considered by many economists as the worst financial crisis since the Great Depression 
+during the 1930s. The crisis directly affected international trade and financial flows all 
+around the world. Although the crisis is not initiated by the developing countries, it affected 
+them more including Turkey by mounting their deficits in trade and payment balances, along 
+with triggering currency devaluations, increasing inflation rates, and public budget deficits. 
+Turkish economy was adversely affected by the crisis most visible on the sharp decline on 
+country’s export and a significant sudden stop in financial flows (Cömert and Çolak, 2014). 
+ 
+Investment inflow in various sectors of the economy stimulate aggregate employment 
+output, demand income which also increase the government revenue for the provision of 
+basic industrial and agricultural inputs towards the growth and development of any 
+economy. This entails that investment inflow multiplier increase national income which in 
+turn increases savings for investment, consumption and aggregate demand level. The effect 
+will be the rising standard of living of the citizenry. 
+ 
+There is no doubt that FDI is one of the tools available that can contribute to 
+the promotion of economic development efforts. Therefore, countries seek to create an 
+environment that enables investment in order to increase inflows. Turkey, which is a 
+developing country, has designed policies to attract qualified investment with the aim of 
+improving the efficiency of the economy since 2006. Moreover, it is also widely 
+acknowledged that developing countries often face shortages of capital inflows.  
+ 
+In this respect, fundraising is one of the principal factors required by policy 
+makers to maintain their position in global economic markets. FDI is one of the mediums 
+that can attract financial capital to a region. Despite all the challenges mentioned above, 
+according to a financial stability report released by the Central Bank of Republic of Turkey 
+(CBRT) in 2016, Turkey has shown significant macroeconomic adjustment towards steady 
+economic growth after the events that occurred in July 2016. Deriving from this statement, 
+this article investigates the impact of FDI inflows on the real effective exchange rate in 
+Turkey. 
+ 
+This therefore means that for a developing country like Turkey to attain the goal of 
+economic growth, amongst other economic objectives, there is need to increase the tempo 
+of investment inflow that would lead to higher economic growth with much focus on such 
+factors that determine investments inflow within and outside the national economy. 
+ 
+Some of these factors include; controlled government deficit, price 
+stability/controlled inflation rate, stable exchange rates, and interest rate. 
+ 
+In addition to these problems, over the past decade, Turkey has been experiencing 
+different macroeconomic shocks, which have had a negative effect on the country’s 
+currency (Turkish Lira). This has also created inflationary trends. Prevention these shocks 
+are essential for Turkey in order to protect itself from further macroeconomic shocks. 
+Consequently, Turkey has been unable to attract the expected FDI inflows. Credit rating 
+agencies (S&P, Moody’s and Fitch) have awarded Turkey a poor risk score after the failed 
+military coup and terrorist attacks that occurred in July 2016. 
+ 
+And this instruments includes, public source of funds, internal and external 
+borrowing. Considering the above tools, it is possible to say that controlling the 
+government deficit will increase the income of the economy especially by increasing the 
+national income and in turn will motivate the investment inflow in the country. 
+ 
+According to, investors aim to increase their long term purchasing power, and 
+inflation puts this goal at risk because investment returns must first keep up with the rate 
+of inflation in order to increase real purchasing power. Also, rising inflation erodes the 
+value of the principal on fixed income securities. 
+ 
+In this connection, Erdem and Yamak (2016) conducted economic analysis to 
+create an Optimal Uncertainty Index for Turkey at the macroeconomic level. The study’s 
+data covered the period between 2002 and 2014 based on quarterly data. The analysis was 
+conducted using seemingly unrelated regression (SUR), ordinary least squares (OLS), 
+and the generalized method of moments (GMM).  
+ 
+The results show that there was a negative relationship between the general 
+economic situation index and the optimal macroeconomics uncertainty index. Related 
+with this discussion, Kalyoncu (2009) studied the sensitivity of purchasing power parity, 
+and its validity when using the unit root test to examine data from Turkey and its trading 
+partners. He chose data from several countries, including the United States, France, 
+Germany, Japan, and the United Kingdom. Kalyoncu’s results indicate a significant 
+correlation between the validity of PPP and trade level for each of the sample countries. 
+In terms of the literature focusing on the effect of foreign exchange and tourism on GDP 
+of Turkey, Arslantürk and Atan (2012) analyzed the effect of foreign exchange and 
+tourism on the GDP of Turkey. The data was collected from 1987 to 2009. Co-integration 
+and Granger causality models were used to test the relationship between the two variables. 
+The results of their study showed a positive relationship between tourism income and 
+gross domestic product growth. Therefore, tourism income as economic growth 
+increased.  
+ 
+The Granger causality test results showed that FDI inflows and GDP affected the 
+Turkish economy in different way. These two variables experienced a decline over this 
+period. However, they revealed that tourism income is a significant source of revenue for 
+Turkey. Similarly, Dinçer (2015) used the reflections in the monetary policies and 
+(REER) during the 2000s in order to analyze the dynamics of the macro interpretation in 
+the Turkish economy. Dinçer reached the conclusion that the volatility in the Turkish 
+currency was comparatively reduced in the aftermath of regulations introduced in the 
+finance sector in recent years. Dinçer also added that the contribution and added value of 
+the tourism sector to the national economy was an important factor influencing this trend, 
+since tourism is one of the major sectors in Turkey that are open to international markets 
+and it has the capability of attracting foreign currency. 
+ 
+The high rates of fluctuation on inflation is now causing a serious problem in the 
+economy of Turkey and affects investment inflow, this is basically so because if inflation 
+is not been monitored and kept stable, this as a result will affect buying and selling in an 
+economy. Meanwhile, investor will not want to invest its capital in a country that its 
+inflation rates is not been monitored and kept stable in other not to lose its money. 
+ 
+Also due to the fact that some companies in the country have not presented to the 
+international body a favorable interest rates if they should invest their money, this has 
+resulted in scaring investors from investing in Turkey. Because no investor would want to 
+invest in an economy instead of maximizing its profit will lose its cost of capital. 
+Therefore the main aim of this paper is to examine effect of selected 
+macroeconomic variables on investment inflow in Turkey. 
+ 
+EMPIRICAL REVIEW:  
+This study is based on those macroeconomic variables; on the theory of economics that 
+establishes a link between investment inflows in Turkey 
+Investigating  the  determinants  of  investment  inflow,  Lesotho  (2006)  employed  
+the  OLS multiple regression technique with variables such as i n t e r e s t rate.. 
+ 
+Findings from the study revealed that i n t e r e s t rates affect investment inflow positively 
+and significantly. 
+ 
+The econometric result indicated that growth of real income have been measured by 
+increase in government deficit and exchange rate, have a positive effect on investment inflow. 
+Rising inflation and high interest (lending) rates equally impede investment inflow in Turkey. 
+ 
+Also Turkey's impressive growth performance and structural reforms implemented over 
+the past decade have landed it on the radar of many international investors. According to EY 
+Attracti veness Survey Europe, Turkey became the 7th most popular FDI destination in Europe 
+in 2018. The country was home to 261 projects, up 14 percent year-on- year, and enjoyed a 4 
+percent share in all FDI projects across Europe. 
+FDI Inflows to Turkey  
+Up until 2002, total FDI into Turkey stood only at USD 15 billion while the country has 
+since attracted around USD 209 billion of FDI during the 2003-2018 period. 
+FDI Inflows to Turkey (Cumulative –  USD billion) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Central Bank of the Republic of Turkey 
+ 
+ 
+The negative relationships attest to the major reasons why investors do not have 
+confidence in Turkey investment climate and such investors are scared away. 
+ 
+ FDI Inflows to Turkey by Sector 
+ 
+During the past 16 years, the finance and manufacturing sectors have attracted the highest 
+amount of FDI in Turkey, with sectors of interest becoming significantly diversified in 
+line with Turkey's 2023 vision of having a higher position in the global value chain. 
+ 
+Top Sectors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Central Bank of the Republic of Turkey 
+ 
+FDI Inflows to Turkey by Country 
+The majority of FDI inflows to Turkey have originated from Europe, North America, and 
+the Gulf countries during the past 16 years while the share of Asia has been noticeably 
+on the rise. 
+ 
+ 
+Top Investors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Central Bank of the Republic of Turkey 
+ 
+ 
+Companies with International Capital 
+ 
+As of end-2018, the number of companies with foreign capital in Turkey hit 65,533, up 
+from 5,600 in 2002. 
+ 
+Number of Companies with International Capital 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Ministry of Trade 
+ 
+ 
+Most policies in recent times have been centered on how to improve the level of 
+investment inflow but as to what factors determine the level of investment inflow in an 
+economy seem to be a mirage. 
+ 
+RESEARCH METHOD:  
+ 
+In this research work, the following tests shall be conducted: 
+Unit root test  
+Co-integration test  
+Vector Error Correction Mechanism  
+Granger Causality test 
+The model seeks to investigate the impact of selected macroeconomic variables on investment 
+inflow in Turkey 
+For this study, we have the model as follows in line with shields and Patricia (2013) 
+ 
+Model of the Research :. 
+FDI = β0 + β1GD + β2INF+β3INT+β4EXR+μ1 ------------------------------------- (2)  
+Where;  
+FDI = foreign direct investment. 
+β0 = The intercept. β1-B1- B4= parameters to be estimated from the regression equation. 
+GD= government deficit.  
+INF= inflation rates.  
+INT= interest rates.  
+EXR = exchange rates.  
+μ1= random error term. 
+ 
+ 
+ 
+DATA PRESENTATION  
+The data used in this research is presented in the table below. 
+ 
+ 
+Table 1: DATA OF: FDI, GD, INF, INT, EXC 
+ 
+ 
+YEAR 
+FDI 
+GD 
+INF 
+INT 
+EXC 
+1994 
+5.79 
+-70.27 
+57 
+-15.92 
+13.5 
+1995 
+2.45 
+1.00 
+72.8 
+-31.45 
+13.5 
+1996 
+3.12 
+32.05 
+29.3 
+-5.26 
+13.5 
+1997 
+2.93 
+-5.00 
+8.5 
+12.13 
+13.5 
+1998 
+1.93 
+-133.39 
+10 
+11.48 
+19.25 
+1999 
+1.69 
+-285.10 
+6.6 
+6.05 
+21.89 
+2000 
+1.64 
+-103.78 
+6.9 
+-1.14 
+85.98 
+2001 
+1.61 
+-221.05 
+18.9 
+12.14 
+106.00 
+2002 
+1.96 
+-301.40 
+12.9 
+3.02 
+113.00 
+2003 
+1.91 
+-202.72 
+14 
+9.94 
+127.00 
+2004 
+1.37 
+-172.60 
+15 
+-2.60 
+130.00 
+2005 
+2.83 
+-161.40 
+17.9 
+-1.59 
+136.00 
+2006 
+2.06 
+-101.40 
+8.2 
+-5.63 
+131.80 
+2007 
+2.19 
+-117.24 
+5.4 
+9.19 
+125.00 
+2008 
+2.43 
+-47.38 
+11.6 
+6.68 
+120.00 
+2009 
+2.93 
+-810.01 
+12.6 
+18.18 
+171.00 
+2010 
+1.66 
+-1,105.40 
+13.7 
+1.07 
+154.80 
+2011 
+2.15 
+-1,158.52 
+10.8 
+5.69 
+165.10 
+2012 
+1.54 
+-975.78 
+12.2 
+6.22 
+161.50 
+2013 
+1.08 
+-1,153.49 
+8.5 
+11.20 
+162.90 
+2014 
+0.82 
+-835.71 
+8 
+11.36 
+199.00 
+2015 
+0.63 
+-1,557.83 
+9.01 
+13.60 
+300.00 
+2016 
+1.1 
+-2,673.84 
+15.7 
+6.69 
+320.00 
+2017 
+0.93 
+-3,609.37 
+16.22 
+5.79 
+305.80 
+2018 
+0.5 
+-3,628.10 
+12.1 
+6.05 
+306.10 
+ 
+Source: National Bureau of Statistics (2019), CBN (2018) Statistical Bulletin 
+ 
+DATA ANALYSIS AND INTERPRETATION 
+ 
+The data presented above was analyzed using multiple regressions with the aid of E-
+view because of the volume of data and to ensure accuracy in computation. The attempt to 
+study the relationship between poverty and inflation in Turkey led the researcher to subject 
+the data collected to Unit Root test, Johansen Co-integration test, Vector Error Correction 
+Model and Granger Causality Test. The variables considered in this research work are: 
+Poverty rate which is the dependent variable and the independent variables Inflation. The 
+empirical results are presented below as generated from the analysis: 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2 Summary of Unit Root Test Result 
+ 
+VARIABLES 
+ADF VALUE 
+5%CRITICAL 
+VALUE 
+ 
+ORDER 
+INTEGRATION 
+OF REMARKS 
+FDI 
+-10.14302 
+-2.998064 
+I (1) 
+Stationary 
+GD 
+-4.180454 
+-3.02997 
+I (0) 
+Stationary 
+INF 
+-3.173179 
+-2.991878 
+I (0) 
+Stationary 
+INT 
+-5.591438 
+-3.004861 
+I (0) 
+Stationary 
+EXC 
+-3.996066 
+-2.998064 
+I (1) 
+Stationary 
+ 
+In other to test for the presence or absence of unit root in the data used for the empirical 
+analysis, the Augmented Dickey-Fuller (ADF) test was employed and the test result is as 
+presented in Table 2 above, it showed that GD, INF and INT were stationary at level as their 
+ADF values (4.180454, 3.173179 and 5.591438) were greater than 0.05 critical value (3.02997, 
+2.991878 and 3.004861). These indicate that three variables were stationary at level that is order, 
+I (0). While, FDI and EXC were stationary at First level as their ADF Values (10.14302 and 
+3.996066) were greater than 0.05 critical value (2.998064 and 2.998064). Since the variables 
+are integrated at level and first level I therefore, proceed to conduct co-integration test and 
+short-run speed of adjustment from long-run disequilibrium. 
+ 
+Table 2 above showed the empirical results from the Johansen co-integration analysis. 
+The Johansen’s check is geared toward crucial check whether or not a long relationship exists 
+between the series, and starting with the null hypothesis that there is no co-integrating relation 
+tested that there is at least one co-integrating equation. Since there are five variables in the 
+model, we then test whether the number of co-integrating equations is zero, one, two, three, four 
+or five. 
+ 
+         The results of the co-integration in the table 3 above indicated that the trace statistics is 
+greater than the critical value at 5% level of significance in the two equations. This shows that 
+there is a co-integrating relationship among the variables used to model the impact of selected 
+macroeconomic variables on investment inflow in Turkey for the period under study. 
+Specifically, they are 117.7144>69.81889 and 54.35455>47.85613. Also, the p-value is less than 
+0.05 (0.0000) and (0.0109). In alternative words, the null hypothesis of no co-integration among 
+the variables is rejected. Hence, the test result suggest the existence of a long-run relationship in 
+two co-integrating equation at 5% significance level. 
+ 
+         The normalized co-integrating coefficients for two co-integrating equation given 
+by the long-run relationship is: 
+ 
+ 
+FDI= -0.001076GD-0.240732INF+0.213348INT-0.003069EXC 
+(O.00075)    (0.05116)       (0.07569)       (0.00725) 
+ 
+Where FDI is the dependent variable, -0.001076 is the coefficient of GD, -
+0.240732 is the coefficient of INF, 0.213348 is the coefficient of INT and -0.003069 
+is the coefficient of EXC. The sign borne by the adjusted coefficient estimates of GD, 
+INF, and EXC is negative. Which implies that the long run relationship between GD, 
+INF, EXC and FDI is negative. While, the sign borne by the adjusted coefficient 
+estimates of INT is positive and it implies that the long run relationship between INT 
+and FDI is positive. 
+ 
+Table 3 VECM Least Squares Result 
+ 
+Variables 
+Coefficient 
+Std. Error 
+t-Statistic              Prob. 
+C 
+-0.076509 
+0.153043 
+-0.499915 
+0.6239 
+D(FDI(-1)) 
+-0.099082 
+0.191460 
+-0.517506 
+0.6119 
+D(GD(-1)) 
+0.000197 
+0.000346 
+0.569789 
+0.5767 
+D(INF(-1)) 
+-0.001553 
+0.013435 
+-0.115589 
+0.9094 
+D(INT(-1)) 
+-0.022135 
+0.015196 
+-1.456671 
+0.1646 
+ 
+ 
+R-Squared=  0.35                            F-Statistic  =  1.43                    Durbin-Watson  = 2.58 
+ 
+Source: Researcher’s  (Artantaş, Sipahi, 2020) own computation (see appendix) 
+ 
+In view of the presence of a co-integrating vector among the variables as evidenced 
+by the co- integration tests, VECM is conducted to check the speed of adjustment from 
+short-run dynamics to their long-run static disposition: 
+ 
+∆FDIt-1=-0.0199ECTt-1-0.0991FDIt-1-0.0002GDt-1-0.0016INFt-1-0.0221INTt-1    
++0.0015EXCt-1-0.0765 
+ 
+From the VECM result, ECM (-1) was consistent by assuming a negative value. It suggests that the 
+ECM could correct any deviation from the long run equilibrium relationship between POV and 
+the explanatory variables. The coefficient indicates a speedy adjustment of 1.99%  per annum. This 
+implies that following short-run disequilibrium, 1.99% of the adjustment to the long-run takes 
+place within one year. The above result shows that the R2 is 0.35, which shows that the model 
+explains about 35% of the total variations in FDI are explained by the independent variables (GD, 
+INF, INT and EXC) during the period of the study while the remaining 65% is explained by 
+variable not included in the model. 
+ 
+Decision rule 
+If probability of t-statistics < 0.05, reject null 
+hypothesis 
+If probability of t-statistics > 0.05, accept null 
+hypothesis 
+In this case, the probability of t-statistic is 0.1646 which is greater than 0.05, this 
+implies that interest rate has no significance effect on the level of investment inflow 
+in Turkey. Therefore, the research accepts the null hypothesis and rejects the alternative 
+hypothesis and concludes that interest rate has no significance effects on the level of 
+investment inflow in Turkey. 
+ 
+ 
+The result of the Granger Causality Test is also presented in  table 4 below: 
+ 
+Table 4: Pairwise Granger Causality Test 
+ 
+ 
+Null Hypothesis: 
+F-Statistic 
+Prob. 
+ 
+GD does not Granger Cause FDI 
+ 
+2.71008 
+ 
+0.0936 
+FDI does not Granger Cause GD 
+1.14745 
+0.3396 
+ 
+INF does not Granger Cause FDI 
+ 
+0.18575 
+ 
+0.8321 
+FDI does not Granger Cause INF 
+0.26197 
+0.7724 
+D(EXC(-1)) 
+0.001518 
+0.004709 
+0.322389 
+0.7513 
+ECM(-1) 
+-0.019951 
+0.031691 
+-0.629552 
+0.5379 
+ 
+INT does not Granger Cause FDI 
+ 
+2.08073 
+ 
+0.1538 
+FDI does not Granger Cause INT 
+0.15915 
+0.8541 
+ 
+EXC does not Granger Cause FDI 
+ 
+0.38824 
+ 
+0.6838 
+FDI does not Granger Cause EXC 
+4.66525 
+0.0233 
+INF does not Granger Cause GD 
+0.35491 
+0.7060 
+GD does not Granger Cause INF 
+0.30548 
+0.7405 
+ 
+INT does not Granger Cause GD 
+ 
+0.57775 
+ 
+0.5712 
+GD does not Granger Cause INT 
+1.70505 
+0.2098 
+ 
+EXC does not Granger Cause GD 
+ 
+5.66235 
+ 
+0.0124 
+GD does not Granger Cause EXC 
+3.07707 
+0.0709 
+ 
+INT does not Granger Cause INF 
+ 
+0.11247 
+ 
+0.8942 
+INF does not Granger Cause INT 
+2.32514 
+0.1264 
+ 
+EXC does not Granger Cause INF 
+ 
+3.22655 
+ 
+0.0635 
+INF does not Granger Cause EXC 
+0.78211 
+0.4724 
+ 
+EXC does not Granger Cause INT 
+ 
+0.04284 
+ 
+0.9582 
+INT does not Granger Cause EXC 
+1.56370 
+0.2365 
+ 
+ 
+ 
+The results revealed that GD does not granger causes FDI; the null hypothesis is accepted at 
+5% 
+significance level, indicated by the high probability value 0.0934. The results also revealed 
+that FDI does not granger causes GD, the null hypothesis is accepted at 5% percent indicated 
+by the probability value 0.3396 and this is confirmed by the F-statistics value 1.1474. 
+This result therefore indicates no causation flowing from GD to FDI. 
+ 
+The results revealed that INF does not granger causes FDI; the null hypothesis is accepted at 
+5% significance level, indicated by the high probability value 0.8324. The results also 
+revealed that FDI does not granger causes INF, the null hypothesis is accepted at 5% percent 
+indicated by the probability value 0.7724 and this is confirmed by the F-statistics value 
+0.26197. This result 
+therefore indicates no causation flowing from INF to FDI. 
+ 
+The results revealed that INT does not granger causes FDI; the null hypothesis is accepted at 
+5% 
+significance level, indicated by the high probability value 0.1538. The results also revealed 
+that FDI does not granger causes INT, the null hypothesis is accepted at 5% percent indicated 
+by the probability value 0.8541 and this is confirmed by the F-statistics value 0.15915. 
+This result therefore indicates no causation flowing from INT to FDI. 
+ 
+The results revealed that EXC does not granger causes FDI; the null hypothesis is accepted at 
+5% significance level, indicated by the high probability value 0.6838. The results also 
+revealed that FDI granger causes EXC, the Alternate hypothesis is accepted at 5% percent 
+indicated by the probability value 0.0233 and this is confirmed by the F-statistics value 
+4.66525. This result therefore indicates one-way causation flowing from FDI to EXC. 
+ 
+The results revealed that INF does not granger causes GD; the null hypothesis is accepted at 
+5% significance level, indicated by the high probability value 0.7060. The results also 
+revealed that GD does not granger causes INF, the null hypothesis is accepted at 5% percent 
+indicated by the probability value 0.7405 and this is confirmed by the F-statistics value 
+0.3051. This result therefore indicates no causation flowing from INF to GD. 
+The results revealed that INT does not granger causes GD; the null hypothesis is accepted at 
+5% significance level, indicated by the high probability value 0.5712. 
+ 
+The results also revealed that GD does not granger causes INT, the null hypothesis is accepted 
+at 5% percent indicated by the  probability value 0.2098 and this is confirmed by the F-statistics 
+value 1.70505. This result therefore indicates no causation flowing from INT to GD.   
+ 
+The results revealed that EXC does not granger causes GD; the null hypothesis is accepted at 
+5% significance level, indicated by the high probability value 0.0124. The results also 
+revealed that GD does not granger causes EXC, the null hypothesis is accepted at 5% percent 
+indicated by the probability value 0.0709 and this is confirmed by the F-statistics value 
+5.66235. This result therefore indicates one-way causation flowing from EXC to GD. 
+ 
+The results revealed that INT does not granger causes INF; the null hypothesis is accepted at 
+5% significance level, indicated by the high probability value 0.8942. The results also 
+revealed that INF does not granger causes INT, the null hypothesis is accepted at 5% percent 
+indicated by the probability value 0.1264 and this is confirmed by the F-statistics value 
+2.32514. This result therefore indicates no causation flowing from INT to INF. 
+ 
+The results revealed that EXC does not granger causes INF; the null hypothesis is accepted at 
+5% significance level, indicated by the high probability value 0.0635. The results also 
+revealed that INF does not granger causes EXC, the null hypothesis is accepted at 5% percent 
+indicated by the probability  value  0.4724  and  this  is  confirmed  by  the  F-statistics  value  
+0.781.  This  result therefore indicates no causation flowing from EXC to INF. 
+ 
+The results revealed that EXC does not granger causes INT; the null hypothesis is accepted 
+at 5% significance level, indicated by the high probability value 0.9582. The results also 
+revealed that EXC does not granger causes INT, the null hypothesis is accepted at 5% 
+percent indicated by the probability value 0.2365 and this is confirmed by the F-statistics 
+value 1.5637. This result therefore indicates no causation flowing from EXC to INT. 
+ 
+DISCUSSION OF FINDINGS 
+ 
+FDI = - 0.076509+0.000197GD-0.007553INF-0.022135INT+0.001518EXC                  
+The equation above shows the estimated regression equation used to analyze the impact 
+of selected macroeconomic variables (GD, INF, INT, EXC) on Investment inflow(FDI) 
+in Nigeria as stated earlier.  
+ 
+The equation shows that government deficit and exchange rate is seen having a positive 
+impact on foreign direct investment in Turkey with a coefficient of 0.000197 and 
+0.001518. This implies that a unit change in GD and EXC will increase FDI by 
+0.000197 and 0.001518 in Turkey. While, Inflation and Interest rate is seen having a 
+negative impact of FDI, this implies that if interest rate or inflation rate decrease by 
+0.007553 or 0.022135, FDI will decrease by such margin. 
+ 
+The results indicate that the coefficient of government deficit, inflation, interest rate 
+and exchange rate is found to be insignificant. Precisely, their coefficient is found to 
+be statistically insignificant at 58, 91, 16 and 75 percent level respectively as indicated 
+by its probability value of 0.5767, 0.9094, 0.1646 and 0.7513. 
+ 
+The F-statistics of 1.43, which is a measure of the joint significance of the explanatory 
+variables, is found to be statistically insignificant at 26 percent level as indicated by 
+the corresponding probability value of 0.262258. The analysis also shows that the R2 
+which measures the explanatory power of the model is estimated to be 0.349699.  
+ 
+This means that about 34.97% systematic variation in FDI is explained by the explanatory 
+variables while 65.03% is attributed to other variables not included in the model. Hence, the 
+overall model has a weak statistical significant in analyzing the impact of selected 
+macroeconomic variables on Investment inflow in Turkey. 
+ 
+The implication of this is that an increase in government deficit and exchange rate will lead 
+to higher foreign direct investment in Turkey. 
+ 
+The Durbin-Watson statistics of 2.578326 suggest evidence of negative serial autocorrelation. 
+The unit root test revealed that the three variables (GD, INF and INT ) of the model indicate 
+that three variableswere stationary at  level, that is order, I (0) which is indicated by 
+ADF results (4.180454, 3.173179 and 5.591438) which were greater than 0.05 critical 
+value (3.02997, 2.991878 and 3.004861). While, FDI and EXC were stationary at First level 
+as their ADF Values (10.14302 and 3.996066) were greater than 0.05 critical value (2.998064 
+and 2.998064). 
+ 
+The results of causality revealed that there exist no causation flowing between the variables 
+adopted, Albeit, One-way causation flowing from Foreign direct investment to Exchange rate 
+as the same one-way causation flows from exchange rate to government deficit. 
+ 
+CONCLUSION AND RECOMMENDATIONS 
+ 
+This study  has  shown  that  the  increasing  government  deficit  and  exchange  rate  
+positively 
+impacted FDI that the country has witnessed. This research has also revealed that 
+government deficit and exchange rates have significant effect on foreign investment inflow. 
+Thus, there is need to maintain government deficit and exchange rate. Hence with all things 
+being checked, it will help to maintain a stable and enabling environment which gives room 
+for economic growth which in turn attracts foreign inflow of capital in the country.  
+ 
+This study is focused on the link between FDI and the economic condition in Turkey for the 
+period between January 2010 and July 2016. This period is one of the most important in 
+country’s history because the Turkish economy encountered with serious global, regional, and 
+domestic challenges during this period. The 2008 global financial crisis affected all the 
+countries economy in general and developing countries economy including Turkey.  
+ 
+Conclusively, the ease and cost of doing business, availability of infrastructural facilities 
+amongst other incentives as regards the attraction of investment flows in Turkey need to 
+be given adequate and due attention. This research recommends the government to reduce 
+the level of budget deficit owing/borrowing to improper management and improve on 
+financial discipline through accountability and transparency in resources allocation. There is 
+the need for the creation of friendly and enabling environment for FDI to thrive in Turkey. 
+By creating enabling and stable environment that room for a stable interest and inflation rate 
+which in turn attracts foreign inflow of investment. 
+ 
+ 
+REFERENCES 
+ 
+Arslantürk, Y., and S. Atan. “Dynamic Relation between Economic Growth, Foreign Exchange and 
+Tourism Incomes. An Econometric Perspective on Turkey.” 1 (1), 2012: 30-37. 
+ 
+Cushman, D. O. “Real Exchange Rate Risk, Expectations, and the Level of Direct Investment”. 
+The MIT Press 67 (2), 1985: 297-308 
+ 
+Cömert, H., and S. Çolak, “The Impacts of the Global Crisis on the Turkish Economy and Policy 
+Responses.” Economic Research Center Working Papers in Economics, December 2014, 
+Available at: http://www.erc.metu.edu.tr/menu/series14/1417.pdf, September 22, 2017. 
+ 
+Dinçer, M. Z., F. I. Dinçer, and M. Ustaoglu. “Reel Effective Exchange Rate Volatilities Impact on 
+Tourism Sector in Turkey: An Empirical Analysis of 2003-2014”. Procedia Economics and 
+Finance 23, 2015: 1000-1008 
+ 
+Erdem, F. H., and R. Yamak. “Measuring the Optimal Macroeconomic Uncertainty Index for Turkey”. 
+Economic Annals 61 (210), 2016: 7-22. 
+ 
+Kalyoncu, H. “New evidence of the validity of purchasing power parity from Turkey”. Applied 
+Economic Letters 16 (1), 2009: 63-67. 
+ 
+Serven, P., & Solinano. (2000). Growth in Development Strategies. International Review of 
+Business Research Papers. 
+https://www.invest.gov.tr/en/WhyTurkey/Pages/fdi-in-turkey.aspx 
+ 
+ 

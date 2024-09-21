@@ -1,0 +1,1153 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/1678-460x202238243363
+Formulations, Politeness and Facework in Courtroom
+Interaction: A Study Case
+Vanessa Hagemeyer Burgo
+https://doi.org/10.1590/1678-460x202243363
+Submitted on: 2022-02-09
+Posted on: 2022-02-10 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+https://doi.org/10.1590/1678-460x202243363 
+ 
+ 
+Formulations, Politeness and Facework in Courtroom Interaction: A Study Case 
+Formulações, polidez e preservação da face na interação em tribunais: um estudo de 
+caso 
+ 
+Vanessa Hagemeyer Burgo 
+ 
+Abstract  
+ 
+This article aims to analyse how formulations, politeness, and facework are employed by 
+speakers to achieve specific purposes in courtroom interaction. The theoretical framework is 
+based on the concepts of conversation analysis and forensic linguistics, and the corpus 
+consists of the trial of Jodi Ann Arias, which received widespread media attention in the 
+United States. The excerpts under analysis were taken from the final day of the prosecutor’s 
+cross-examination and from a reporter’s transcript of proceedings, both available on the 
+Internet. It is important to highlight that these devices contribute to construct, enhance, 
+threaten, or weaken people’s image involved in this kind of context. 
+Keywords: formulations, politeness, facework, courtroom interaction 
+ 
+ 
+ 
+Universidade Federal de Mato Grosso do Sul. Três Lagoas – Brasil.  
+ https://orcid.org/0000-0001-5350-6943. E-mail: vanessahburgo@hotmail.com 
+ 
+ 
+Resumo 
+Este estudo tem o objetivo de analisar o modo como as formulações, polidez e preservação da 
+face são empregadas pelos falantes para a obtenção de objetivos específicos na interação em 
+tribunais. O aporte teórico está fundamentado nos conceitos da Análise da Conversação e da 
+Linguística Forense, e o corpus é formado pelo julgamento de Jodi Ann Arias, que recebeu 
+grande atenção da mídia nos Estados Unidos. Os excertos analisados foram obtidos no último 
+dia de inquirição cruzada do promotor e em uma transcrição do processo, ambas disponíveis 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+na Internet. Vale ressaltar que esses mecanismos contribuem para construir, realçar, ameaçar 
+ou enfraquecer a imagem das pessoas nesse tipo de contexto. 
+Palavras-chave: formulações, polidez, preservação da face, interação em tribunais 
+ 
+1. Introduction 
+ 
+As stated by Schegloff (2001, p. 230), conversational interaction can be thought of as a “form 
+of social organization through which the work of the constitutive institutions of societies gets 
+done − institutions such as the economy, the polity, the family, socialization, etc”, and it is 
+“the basic and primordial environment for the development, the use, and the learning of 
+natural language”. From this perspective, we have developed an interest in applying 
+conversation analysis to interactions in forensic settings and the tools that speakers can 
+employ to achieve specific goals and results. This research therefore consists of a textual-
+interactive approach to the spoken language, which is based on the interface between the 
+concepts of conversation analysis and forensic linguistics. Above all, we intend to analyse 
+how formulations, politeness, and facework are employed by speakers in courtroom 
+interactions to achieve specific goals. We have analysed some elements such as: adjacency 
+pairs “question/answer”, so-prefaced questions, discourse markers, paraphrases, face 
+threatening acts, mitigation devices, verbal planning markers, formulations prefaced by 
+discourse markers, tag questions, and three central properties of formulations which are 
+preservation, transformation, and deletion.  
+  
+Regarding legal interaction and conversation analysis, Stokoe and Edwards (2010, p. 155-
+156) argue that “the various interactional contexts that comprise legal institutions (e.g., 
+courtrooms, police stations, emergency services, prisons, legal documents, lawyers’ oﬃces) 
+have provided materials” for ethnomethodology1 and conversation analysis since their 
+beginnings. The authors postulate that “interaction in places such as courtrooms can constitute 
+some of the most highly consequential moments in people’s lives”. 
+ 
+On forensic linguistics, Caldas-Coulthard (2014, p.1) points out that it is a newly created 
+academic subject which is very active in English-speaking countries, and The International 
+ 
+1 Literally, “the study of people’s methods” (Stokoe & Edwards 2010, p. 155). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+Association of forensic linguists (IAFL), which was founded in 1993 in Britain, demonstrates 
+the importance of this area. Bearing that in mind, this study specifically falls within the scope 
+of interaction in legal contexts2 as in this field of study and analysis, “forensic experts focus 
+on the spoken language of legal interactions (in courthouses, police stations, interviews, 
+among other contexts” (Caldas-Coulthard, 2014, p. 3). 
+  
+2. Adjacency Pairs  
+ 
+A key concept in conversational analysis is the sequential unit termed adjacency pair. The 
+basic idea is that the turns occur in pairs, and the first pair-part creates certain expectations 
+that limit the possibilities for the second. According to Sacks et al., (1974, p. 716), “that class 
+of units also includes such sequences as ‘greeting-greeting’, ‘invitation-acceptance/decline’ 
+etc”. The first component that forms an adjacency pair can be called a “first pair-part”. In 
+agreement with the authors, 
+ 
+[...] they set constraints on what should be done in a next turn (e.g., a ‘question’ making ‘answer’ 
+especially relevant for next turn), but do not by themselves allocate the/a next turn to some candidate 
+next speaker. They are, nonetheless, the basic component for selecting next speaker, since it is primarily 
+by affiliation a first pair-part that the apparently most effective device for selecting next speaker – 
+addressing someone – in fact works. (Sacks et al., 1974, p. 717) 
+ 
+The simple occurrence of a turn3 does not constitute a conversation; actually, we believe that 
+not even two turns constitute a conversation either. There must be more than two coordinated 
+and cooperative turns, which are involved in conditions of relevance (conditional relevance). 
+Given the first part of the turn, a second is expectable, and if it occurs, it is regarded as a 
+second in relation to the first. In these terms, the sequence of the first part coupled with the 
+second constitutes a conversational pair, which is considered, in fact, the minimal dialogic 
+unit.  
+ 
+We also must consider that turns can be allocated. Unlike prototypical sequences “Question 1-
+Answer 1-Question 2-Answer 2” (Q1-A1-Q2-A2), not all first pairs necessarily receive 
+immediately their second pairs. These cases occur when a question-answer sequence is 
+delayed while another question-answer sequence intervenes. According to Yule (1996, p. 77), 
+ 
+2 “Forensic Linguistics is the area of Applied Linguistics involved with the inter-relationship between Language 
+and the Law. It can usefully be sub-divided into three areas: the Written Language of the Law, Interaction in 
+Legal Contexts and Language as Evidence” (Coulthard, 2014, p. 336). 
+3 Turn is “the opportunity to speak at some point during a conversation” (Yule, 1996, p. 135). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+“the sequence will then take the form of Q1-Q2-A2-A1, with the middle pair (Q2-A2) being 
+called an insertion sequence”. In this structure, the pair Q2A2 is inserted into the pair Q1A1, 
+so the embedded pair in the sequence is an insertion sequence. The author affirms that 
+“although that appears to be a question (Q2) in response to a question (Q1), the assumption is 
+that once the second part (A2) of the insertion sequence is provided, the second part (A1) of 
+the initial question (Q1) will follow”. As Coulthard and Brazil (1992, p. 52) observe: 
+ 
+ 
+In other words, during the inserted sequence the original question retains its transition relevance, and if 
+the second speaker does not then produce an answer it is noticeably absent in exactly the same way as it 
+would be if there were no intervening sequence, and the questioner can complain about the lack of an 
+answer in exactly the same way. Thus the argument is that adjacency pairs are normative structures, the 
+second part ought to occur, and for this reason the other sequences can be regarded as being inserted 
+between the first pair part that has occurred and the second pair part that is anticipated. 
+ 
+Because the first question is immediately followed by another question, instead of the direct 
+answer, it appears that the interlocutor wants to gain more time to delay the answer. We 
+illustrate these cases as following: 
+ 
+Q1: Do you want the early flight? 
+Q2: What time does it arrive? 
+A2: Nine forty-five. 
+A1: Yeah – that’s great. (Yule, 1996, p. 78) 
+ 
+In the example above, the delay in the answer indicates that the first part of the pair does not 
+necessarily receive the second part that the speaker expects. Yule (1996, p. 78) observes that 
+“delay in response symbolically marks potential unavailability of the immediate (i.e., 
+normally automatic) expected answer. Delay represents distance between what is expected 
+and what is provided. Delay is always interpreted as meaningful”.    
+ 
+Adjacency Pairs: Two-Part and Three-Part Structures 
+ 
+Adjacency pairs are the basis for the following principle: every move in a conversation is 
+essentially a response to a previous one and an anticipation of what is to come. When 
+speakers formulate their contributions, they often show their understanding of the previous 
+speech and reveal their expectations about the next one. In line with Goffman (1981, p. 5): 
+ 
+Whenever people talk there are very likely to be questions and answers. These utterances are realized at 
+different points in "sequence time." Notwithstanding the content of their questions, questioners are 
+oriented to what lies just ahead, and depend on what is to come; answerers are oriented to what has just 
+been said, and look backward, not forward. Observe that although a question anticipates an answer, is 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+designed to receive it, seems dependent on doing so, an answer seems even more dependent, making 
+less sense alone than does the utterance that called it forth. Whatever answers do, they must do this with 
+something already begun. 
+ 
+As the scholar points out: “in questions and answers we have one example, perhaps the 
+canonical one, of what Harvey Sacks has called a ‘first pair part’ and a ‘second pair part’, that 
+is, a couplet, a minimal dialogic unit”. It is a round two utterances long, each one of the same 
+type and temporally following directly on the other; in sum, an example of an “adjacency 
+pair”. The first pair-part sets up a “conditional relevance”, on anything that occurs in the slot 
+which follows. “Whatever comes to be said there will be inspected to see how it might serve 
+as an answer, and if nothing is said, then the resulting silence will be taken as notable--a 
+rejoinder in its own right, a silence to be heard” (Goffman, 1981, p. 6). Wooffitt (2005, p. 32) 
+claims that 
+ 
+an adjacency pair is a sequence of two utterances which are adjacent, produced by different speakers, 
+ordered as a first part and second part and typed, so that a first part requires a particular second, or 
+range of second parts (Heritage, 1984a, p. 246). An invitation, then, would be the first part of an 
+invitation –response pair, a question the first part of a question – answer pair, and a greeting the first 
+part of a greeting–greeting pair.   
+ 
+Even though two-part adjacency pairs are very common, there is a lot of casual conversation 
+that this set of categories does not cover, for instance: classroom discourse, interrogations, 
+service encounters and many other kinds of everyday talk which have a third move in their 
+exchanges4. These types of conversational routines offer “an opportunity for participants to 
+check that they are agreed on the function of the previous pair, to comment on the exchange 
+as it stands, to react to the response in the context of the initiation” (Sinclair, 1992, p. 85): 
+ 
+I Why? Did you wake up late today?5 
+R Yeah, pretty late.  
+F Oh dear. 
+ 
+Despite recognizing that a two-part structure, particularly the adjacency pair 
+“question/answer”, is very frequent in conversation, a potential three-part structure also 
+occurs. The Birmingham Discourse Analysis model suggests a potential three-part structure 
+rather than a two-part one. Coulthard and Brazil (1992, p. 66) argue that “all eliciting 
+ 
+4 Concerning the terms utterance and exchange, according to Coulthard and Brazil (1992, p. 2), “utterance was 
+defined as everything said by one speaker before another began to speak, and exchange as two or more 
+utterances”. 
+5 (...) “the structure of exchanges was expressed in terms of three elements I(nitiation), R(esponse) and 
+F(eedback)” (Coulthard & Brazil, 1992, p. 69). 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+exchanges have the potential of a three-part structure, while accepting that a two-part 
+realization may, and in the case of polar responses often does, occur”. As observed in the 
+general practitioner consultation below, “three-part exchanges are in fact by no means 
+uncommon”: 
+  
+Doctor, I: And what’s been the matter recently  
+Patient, R: Well I’ve had pains around the heart  
+Doctor, I: Pains—in your chest then  
+Patient, R: Yes  
+Doctor, I: Whereabouts in your chest  
+Patient, R: On the—heart side, here  
+Doctor, F: Yes  
+Doctor, I: And how long have you had these for  
+Patient, R: Well I had ’em a—week last Wednesday  
+Doctor, F: A week last Wednesday  
+ 
+The discussion does not rely on the quantity of talk is made up of two-part structure or three-
+part structure. In accordance with Sinclair (1992, p. 85), “the problem is not going to be 
+resolved by a majority vote-by counting up whether the greater quantity of talk is two-part or 
+three-part in its exchange structure. We must seek an explanation of the variability of the 
+exchange”. 
+ 
+3. Formulations 
+ 
+The term formulation was first introduced by Garfinkel and Sacks (1970) as practices that 
+interactants might use to show that they understand parts of interaction. These parts can be 
+taken by them as opportunities to formulate the conversation, that is, to describe the 
+conversation, “to explain it, or characterize it, or explicate, or translate, or summarize, or 
+furnish the gist of it, or take note of its accordance with rules, or remark on its departure from 
+rules” (Garfinkel & Sacks, 1970, p. 350). A very good example of this is “Pains—in your 
+chest then” in:  
+ 
+Doctor, I: And what’s been the matter recently  
+Patient, R: Well I’ve had pains around the heart  
+Doctor, I: Pains—in your chest then 
+Patient, R: Yes (Coulthard and Brazil 1992, p. 66)   
+ 
+As Heritage and Watson (1979, p. 128-129) explain, “the uses of formulations are multiplex 
+[…] they may be used to address an immense variety of matters, these matters being, in their 
+most specific terms, heavily embedded in the specific stretches of talk in which they occur”. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+According to them, formulations manifest three essential properties: “preservation, deletion 
+and transformation” of a prior utterance or utterances.  
+ 
+Based on these properties described by the above-mentioned authors, Holt and Johnson (2010, 
+p. 28) highlight:     
+ 
+(1) the preservation of some (selected) aspects of the sense and reference of the news materials 
+delivered in the content of the formulating utterance (2) the transformation of the syntactic and semantic 
+framework within which the news was originally delivered (3) the deletion of some aspect or aspects of 
+the news delivered. Heritage and Watson (1977, p. 2-3)   
+ 
+Deppermann (2011, p. 122) argues that “same-speaker formulations, which rework a prior 
+version of reference or description, are used to explicate, clarify, specify, generalize, etc. 
+meanings; other-speaker formulations are displays of understanding (and can clarify, 
+explicate, etc. as well)”. Nevertheless, in neither case formulations are a transparent device for 
+making meanings clear. “Formulations have both an explicative and a transformative aspect”:  
+ 
+While each formulation preserves parts of the meaning established before, it deletes other parts and 
+adds new aspects of meaning (Heritage and Watson, 1979, p. 129). In addition, there is a reﬂexive 
+relationship between ﬁrst and second versions: Formulations make meanings explicit which were 
+implicit in the prior version (or which are at least treated as if they had been implicated in it), but their 
+local meaning rests itself in part on the versions they are meant to replace. When studying semantic 
+properties of formulations, it is important to attend both to the sequential organization and the precise 
+linguistic design of the formulation. Deppermann (2011, p. 122) 
+ 
+Drew (2003, p. 296) asserts that formulations “serve to perform specific interactional tasks 
+which vary according to the setting”. They are a generic mechanism in the interaction, 
+however, the ways through which they are presented are related to the activities they manage 
+in specific situations. These devices are therefore multifunctional as they play many different 
+interactional roles in many different contexts.     
+ 
+4. Facework and Politeness 
+ 
+According to Goffman (1974, p. 9), “the term face is the positive social value a person 
+effectively claims for himself by the line others assume he has taken during a particular 
+contact”. Politeness is a social phenomenon which aims at maintaining harmony in interaction 
+to establish cordiality in relationships among participants. Schneider (1998, p. 51) states that 
+politeness is usually expressed in grammatical structures by means of “pragmatic conventions 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+recognized by a given society as having some intentional illocutionary force (e.g., please..., 
+could you... etc.)”.  
+ 
+Goffman (1974, p. 9) postulates that “face is an image of self, delineated in terms of approved 
+social attributes, therefore, it is an image that others may share, for example, when a person 
+makes a good showing for his/her profession or religion by making a good showing for 
+himself/herself”. In the process of interaction, speakers usually tend to construct a positive 
+image of themselves and their place in society by adopting two possible attitudes: a defensive 
+attitude, in which they need to preserve their own face, and a protective attitude, in which 
+they must preserve their interlocutor’s face (Burgo & Neto, 2016, p. 885). 
+ 
+Every person lives in a world of social encounters that involves contacts with others. In each 
+of these contacts, people tend to externalize their opinions, judgments and points of view that 
+lead them to act out what is called a line, that is, “a pattern of verbal and nonverbal acts by 
+which he expresses his view of the situation and through this his evaluation of the 
+participants, especially himself” (Goffman, 1974, p. 9). The individual hence expresses an 
+evaluation of participants and, above all, of himself, so that his line presents a view of self. In 
+addition, this line has to be in accordance with the way he wants to be seen. 
+ 
+Regardless of whether an individual intends to take a line, he will think that he has effectively 
+done so (cf. Goffman, 1974). “The other participants will assume that he has more or less 
+wilfully taken a stand, so that if he is to deal with their response to him, he must take into 
+consideration the impression they have possibly formed of him” (Goffman, 1974, p. 9). 
+ 
+An individual protects face when his line is consistent with that expected by the other 
+participants; in other words, when he shows an image which is based on interactants’ 
+assumptions and judgments, approved by the line adopted by the speaker. Face is not housed 
+within or on the surface of its owner, but it is widespread in the flow of events of the 
+encounters, and it occurs when participants are willing to decode the judgments expressed in 
+these events.  
+ 
+Facework is defined by the author as everything a person does so that his actions do not make 
+anyone lose face, including his own. Unlike politeness, facework is composed of practices 
+that aim to establish, enhance, threaten or weaken the interlocutor’s image. Politeness, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+however, concerns behaviours related to people’s need to be approved and to ensure their 
+autonomy. Originally based on the notion of face formulated by Goffman (1974), Brown and 
+Levinson (1987) expanded the concept of politeness, pointing out two aspects of the socially 
+constructed self-image: negative face and positive face. 
+ 
+a) Negative face: “the want of every ‘competent adult member’ that his actions be unimpeded by 
+others”; 
+ 
+b) Positive face: “the want of every member that his wants be desirable to at least some others” (Brown 
+& Levinson, 1987, p. 62). 
+ 
+During a social encounter, every speaker intends to maintain face so the interaction develops 
+without big problems; the individual focuses both on preserving his/her own face and on 
+respecting the other’s. To preserve negative face, it is important to protect the private 
+territory, intimacy. On the other hand, to preserve positive face, interlocutors need to be 
+recognized and valued by others. This may cause a conflict, since their intention to preserve 
+negative face, for example, can come up against the intention of others to preserve positive 
+face. As argued by Belchí (1994, p. 332): 
+ 
+[...] the defence of individual A’s own territory comes into conflict with individual’s B desire of starting 
+relationships. Based on this principle, it is easy to come to a conclusion that any interaction is 
+essentially confrontational, even though, fortunately, it does not occur in the same degree (our 
+translation)6. 
+ 
+Interaction essentially establishes conflictual situations, so the indispensable condition for its 
+harmonious development is that the participants, according to Belchí (1994, p. 343), “preserve 
+interlocutor’s face in order to maintain a balance between the desire to approach and the 
+respect of other’s intimacy” (our translation)7.  
+ 
+Although sometimes it is not possible to avoid face-threatening acts, certain strategies can be 
+used to minimize potential threats (Cruz, 2020, p. 42). In some of Rosulek’s studies (2010, p. 
+227), “lawyers use the voice of the law or judge to mitigate their potentially face-threatening 
+acts. [...] the lawyer uses the authority of the judge to tell the jurors that they cannot use the 
+defendant’s prior bad acts as evidence in this case”. In the example: “As the Court has 
+instructed you, you should not simply conclude the defendant’s a bad person and therefore 
+ 
+6 [...] la defensa del propio territorio por parte del individuo A entra en conflicto con el deseo de entablar 
+relaciones del individuo B. Partiendo de esta base es fácil llegar a la conclusión de que toda interacción es 
+esencialmente conflictiva, aunque afortunadamente no lo es siempre en el mismo grado. 
+7 preserven la cara de su interlocutor manteniendo un equilibrio entre el deseo de acercamiento y el respeto a la 
+intimidad del otro.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+should be convicted of this”, the author states that “the judge has more authority to make 
+requests and demands of the jurors”. If the lawyer had made a bald-faced demand or accused 
+the jurors, he “might have damaged his relationship with them. Thus, the lawyer uses the 
+authority of the judge to instruct them, instead of using his own voice”. Tkacuková (2010, p. 
+343) mentions an example that involves politeness strategies during a cross-examination. 
+According to her analysis: 
+ 
+Several researchers (e.g., Cashion, 1985; Harris, 2003) have focused on the connection between 
+politeness and power and have come to the same conclusion. Surprisingly, those participants who hold 
+the most powerful roles tend to use politeness strategies abundantly to redress the face-threatening acts 
+that they have to perform. But these participants can also choose not to use politeness strategies in case 
+they need to explicitly show their power. According to Harris (2003, p. 33), it is negative politeness 
+features that are especially relevant to institutional settings (i.e., those strategies that prevent imposing 
+on the speaker or impeding them). The counsels in Cashion’s study (1985, p. 13) were found to exhibit 
+mostly negative politeness features whereas positive politeness strategies (strategies that attend to the 
+speaker’s needs to be liked) occurred only rarely. In his cross-examination, Rampton employs a 
+negative politeness strategy ‘correct me if I’m wrong’ to avoid imposing his knowledge on the witness. 
+ 
+Politeness ensures the protection of both speaker and listener’s face, whether performed by 
+positive or by negative politeness strategies. 
+ 
+5. Methodology 
+ 
+The corpus of this research consists of Jodi Ann Arias’s trial, which gained massive attention 
+from the media. On May 8, 2013, she was convicted of first-degree murder of her ex-
+boyfriend Travis Victor Alexander in the United States. On June 4, 2008, Alexander was shot 
+in the head, repeatedly stabbed, and had his throat cut. His body was discovered by friends in 
+the shower of his home about five days later. They called 911 and when questioned by the 
+police, they said Arias should be interrogated. On July 9, 2008, Arias was indicted on first-
+degree murder charges in Alexander’s death. She was arrested on July 15, 2008, and 
+sentenced to natural life in prison (with no possibility of parole) on April 13, 2015 in the State 
+of Arizona. She is imprisoned at Arizona State Prison Complex – Perryville, Lumley Unit.  
+ 
+To select the corpus, we have gathered all the material available on the Internet regarding 
+Arias’s trial: we have watched all the videos of her trial available on YouTube, as well as the 
+transcripts released to the media on the Internet. It is important to stress that according to the 
+multi-platform news and information media company USA TODAY, during Arias’s 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+sentencing retrial, she testified without the presence of the media, and the Court of Appeals 
+ordered her testimony transcripts to be released8.  
+ 
+This work follows an empirical-inductive approach, as the texts were obtained from concrete 
+situations of usage and the analysis was carried out by examining all the occurrences for our 
+qualitative interpretations. The data are presented in a format to illustrate how the language 
+was spoken in real-life interactions which exhibited marks of local verbal planning (verbal 
+planning and speaking occurred at the same time). By studying the cases, we have considered 
+possible meanings and interpretations that led us to the theoretical framework employed in 
+this research. With the aim of delimiting our corpus, we have chosen the types of 
+formulations, politeness, and facework that could provide more interesting and noteworthy 
+elements for analysis, that is, devices that were commonly used by speakers to achieve their 
+purposes. Therefore, we have established the recurrence of those devices as a criterion for 
+data selection. Based on that, we proceeded to the organization of the excerpts, which 
+followed the chronological order of the events: the video containing the final day of the 
+prosecutor’s cross-examination (Day 25) in Maricopa County Superior Court in Phoenix, 
+Arizona, on February 21, 20139 and a reporter’s transcript of proceedings (testimony of Jodi 
+Ann Arias) on November 3, 201410. We highlight that the excerpts taken from the video were 
+transcribed according to Leite (2017, p. 21-22). 
+ 
+6. Results and discussions 
+  
+Our analysis was organized into eight excerpts that showed significant elements for 
+discussion such as: the adjacency pair “question/answer”, discourse markers, so-prefaced 
+questions, paraphrases, positive politeness, solidarity politeness, negative politeness, 
+deference politeness, properties of formulations (preservation, transformation, and deletion), 
+tag questions, facework strategies, verbal planning markers, mitigation devices, and hedges.  
+ 
+In the excerpts, the sentences that will be analysed are given in italics. The first three excerpts 
+were taken from the final day of Jodi Ann Arias’s cross-examination (Day 25): Juan Martinez 
+ 
+8 https://www.usatoday.com/story/news/nation/2015/01/13/secret-jodi-arias-transcripts-released/21698747 
+9 https://www.youtube.com/watch?v=AJ4Svvm7reY 
+10 https://pt.scribd.com/document/252552705/Jodi-Arias-transcript-from-Nov-3-2014.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+was the deputy county attorney, Kirk Nurmi and Jennifer Willmott worked for the defendant, 
+and Sherry K. Stephens was the judge. The remaining excerpts were obtained from the 
+reporter’s transcript of proceedings.  
+  
+Excerpt 1: 
+ 
+(Mr. Martinez reads Arias’s statements under direct examination) 
+ 
+Mr. Martinez: So... after two o’CLOCK... that... you... took everything and put it down in the car 
+correct? 
+ 
+Arias: That makes sense 
+ 
+Mr. Martinez: When you say that makes sense although it makes sense... I’m asking you if that was 
+what happened 
+ 
+Arias: It would have been two because around... before two we were... having sex 
+ 
+Mr. Martinez: Pardon? 
+ 
+Arias: Before two we were... otherwise engaged 
+ 
+We observe that the first pair-part of the “question/answer” adjacency pair is prefaced by the 
+discourse marker so. It is relevant to note that discourse markers, in this work, are seen as 
+syntactically independent elements from verbs that can be formed by one or more lexical 
+items or expressions. They corroborate the monitoring of conversation as well as the 
+organization of spoken text. In addition, they are also multifunctional mechanisms because 
+they can operate as textual organizers and/or articulators, illocutionary force indicating 
+devices, verbal planners and mitigators, among other functions. Schiffrin (2001, p. 57) 
+postulates that “discourse markers could be considered as a set of linguistic expressions 
+comprised of members of word classes as varied as conjunctions (e.g., and, but, or), 
+interjections (oh), adverbs (now, then), and lexicalized phrases (y’know, I mean)”. 
+Semantically, discourse markers exhibit “semantic aptness,” or appropriateness for the type of 
+discourse marker that they become; more importantly, their semantic development provides 
+evidence for unidirectionality, for referential (propositional) meaning being the source for 
+pragmatic (textual and interpersonal) meanings (Brinton, 2001, p. 149). In the example above, 
+the discourse marker so is used as topic developer. It occurs at the beginning of the turn and 
+appears in a direct question which contributes to encourage the interlocutor to confirm the 
+speaker’s inference.    
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+After reading the defendant’s statements under direct examination, Mr. Martinez asks her to 
+confirm his comprehension about what really had happened. Although in everyday 
+conversation, questions and answers are widely used by participants, the typical adjacency 
+pair “question/answer” can vary in forensic contexts. Gibbons (2008, p. 119) states that “in 
+courtroom examination however the atypical social relations mean that the underlying 
+assumption, subject to certain exceptions, is that the lawyers and the judge ask the questions, 
+and the witness replies”. In these settings, “witnesses are usually not permitted to reply off 
+topic or to refuse to reply (unless a reply would be self-incriminating)”. We have to take for 
+granted that many cross-examining lawyers do not ask questions to which they do not know 
+the answer.  
+ 
+At a first glance, we might think that he seeks to summarize the events in order to check if he 
+understood them well (“So... after two o’CLOCK... that... you... took everything and put it 
+down in the car correct?”). However, by asking her to answer if this information was correct, 
+he asks her to make the decision to confirm it, and uses the interactional discourse marker  
+correct, which suggests that it is not a mere attempt to understand what she said as this type 
+of marker has the same function as a tag question. These markers are employed to seek 
+discursive approval in argumentative and interactional contexts. It appears as an exposure of 
+information that the lawyer built upon his own interpretation rather than a confirmation-
+seeking request since this strategy is obviously the best for him to base a subsequent question 
+on. By means of using so and correct in the same question, he tries to lead her to confirm that 
+what he was saying was an acceptable version of the truth, leading the audience to assume 
+that his interpretation is valid by obtaining confirmation of a version of events that he had in 
+mind. Besides, as it was already mentioned, he uses a so-prefaced question which plays, 
+according to Holt and Johnson (2010, p. 26), an important role “in evaluatory summary and 
+are eﬀective in challenging and transforming the interviewee’s account, to such an extent that 
+they may be forced to reformulate it in a way that is evidentially more significant”. Holt and 
+Johnson (2010, p. 25) stress that  
+ 
+researchers exploring legal talk (and other institutional environments such as news interviews) have 
+noticed patterns in the design of questions that are associated with particular actions in these 
+environments: and- and so-prefaced questions (Johnson, 2002), formulations (Heritage & Watson, 
+1979; Heritage, 1985) and reported speech (Philips, 1986; Matoesian, 2000; Galatolo, 2007). These 
+devices, recurrently employed in questions (and sometimes in other parts of trial discourse such as the 
+use of reported speech in summing up), are often central to one of the main aims of legal discourse: to 
+establish the culpability of one or more parties involved. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+The discourse marker correct contributes to make the interviewee agree with the interviewer’s 
+version of events, as the authors argue: “the attorney’s questions are designed to elicit 
+‘yes’/’no’ conﬁrmatory answers” (Holt & Johnson, 2010, p. 34). In this case, Arias does not 
+offer an explicit affirmative answer, as expected by Martinez (“Yes, that is correct”), but she 
+does not entirely exclude his version either. When she says, “that makes sense”, the 
+interviewer achieves his aim since she does not disconfirm his interpretation.  
+ 
+When Martinez says “pardon?”, it does not seem to be just a hearing problem (because she 
+said in a very clear and loud voice), but a persuasive strategy as he might intend that the 
+witness repeats what she has just explained to make her to say something that could be used 
+as incriminating evidence. Then she reformulates her utterance by changing having sex into 
+otherwise engaged, which is more polite and could also be more acceptable to listeners. This 
+device helps her construct a positive image as it would be convenient to show the audience 
+(particularly the jury) her civilized and ladylike side. By means of this paraphrase, she repairs 
+what might be seen as a negative point and highlights what she desires to be displayed: to be 
+recognized as a respectful person. It is what Scollon and Scollon (1983) denominate 
+“deference politeness” inasmuch as she chose a more polite and respectful expression than the 
+one she had used previously.  
+ 
+We point out that, in this research, the words “positive” and “negative” do not mean “good” 
+or “bad”; they are just used to indicate two opposite poles. In other words, positive politeness 
+is related to the interlocutor’s desire to belong to a group, being thought of as a member of it, 
+whereas negative politeness concerns the interlocutor’s respect, distance, and deference. In 
+this vein, Scollon and Scollon (1983) call positive politeness “solidarity politeness” and 
+negative politeness “deference politeness”. Bazergan (2017, p. 40) postulates that “lying 
+behind solidarity politeness is the assumption that there is little distance (-D)11 between the 
+participants and that there is also at most a slight power (-P) difference between them”. 
+Concerning deference politeness, “participants are considered to be equals or near equals but 
+treat each other at a distance” (Scollon & Scollon, 1995, p. 44). Therefore, deference 
+politeness draws attention to the participants’ distance and solidarity politeness is more 
+focused on the common grounds of the participants’ relations.  
+ 
+11 Based on Scollon and Scollon’s politeness theory (1995), Bazergan (2017, p. 40) states that “D” refers to 
+“Distance” and “P” refers to “Power”. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+ 
+Excerpt 2: 
+ 
+Mr. Martinez: But after two o’clock... the way you’re saying is... you’re saying it could be... six o’clock 
+in the evening... it was at two specifically it was around at two o’clock when you actually put the 
+luggage in the car right? 
+ 
+Arias: It was after two o’clock I don’t know how close to two o’clock 
+ 
+Mr. Martinez: It was so/it could have been between two and/you’re telling us it was... surely after after 
+two o‘clock based on that statement right? 
+ 
+Arias: I just don’t know what we’ve been... after we... did what we were doing 
+ 
+Mr. Martinez: And it was surely after two you... did what you were doing?  
+ 
+Arias: Uh... well... maybe maybe not I guess it’s relative... I just don’t know if it was after what we 
+were doing... I don’t know the exact time 
+ 
+Martinez threatens Arias’s negative face by trying to invalidate her version about the time the 
+events had happened and showing how imprecise her statements are. Through the 
+formulations “the way you’re saying is... you’re saying it could be... six o’clock in the evening 
+and you’re telling us it was... surely after after two o‘clock”, he shows that she does not give 
+any specific information, and it can be interpreted in many ways (six o’clock in the evening, 
+for example) because of her unclear answers. He attempts to show her contradiction by using 
+her own statement, reinforced by the discourse marker right (based on that statement right?), 
+aiming at confirmation.  
+ 
+According to Coulthard and Johnson (2007, p. 29), “in real courtrooms, when questioning 
+witnesses, many of the lawyer’s turns are ‘face threatening acts’, which challenge the 
+witness”. In agreement with the authors, “the lawyer’s role in the courtroom (particularly in 
+cross-examination) allows him to interfere with and put pressure on the witness in pursuance 
+of the interactional goals of the Crown or State, by whom he is given his power”.   
+ 
+This device makes her version weaker because of the inconsistent way she describes the time 
+of actions. She says that it was after two o’clock when she was putting the luggage in the car, 
+and when Martinez asks her again: “And it was surely after two you... did what you were 
+doing?”, she is totally vague. We can observe her hesitation by the use of the verbal planning 
+markers Uh and well, accompanied by pauses and discourse markers which show uncertainty: 
+maybe maybe not, I guess, and I don’t know. On the other hand, it is interesting to see that the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+prosecutor’s wording is vague as well: is “did what you were doing” having sex or putting the 
+luggage in the car?. When questions are not clear, answers also tend to be unclear, and 
+consequently this can make listeners confused because of the impreciseness of the utterances.        
+ 
+Excerpt 3: 
+ 
+Mr. Martinez: I just want to know how much time after you and he... that you were doing what you 
+were doing (fast)... except two o’clock... what time... in terms of... HOUR or minute how much time 
+left... after that... that you took your items down to the car? 
+ 
+Arias: I’m not sure 
+ 
+Mr. Martinez: And so... when you’re saying you’re not sure... you were a little bit more sure under 
+direct examination weren’t you? 
+ 
+Arias: Uh... not on the exact time no 
+ 
+Mr. Martinez: But you were more... sure about the time... do you remember back to you? 
+ 
+We highlight the use of the formulation prefaced by the discourse markers and and so in “And 
+so... when you’re saying you’re not sure”. Martinez prefaces his formulation with a 
+conclusion: “and so you’re saying”, but he also preserves the sense of what Arias said, 
+according to what he understood, basically repeating that she is not sure. Then he confronts 
+her answer by asking her “you were a little bit more sure under direct examination weren’t 
+you?”. This formulation deletes the part of her utterance that she is not sure, transforming it 
+into other information which provides another way to interpret that: if she was a little bit more 
+sure before, why is she not sure now? So, he keeps on asking her to get precise information 
+that could be useful for his arguments, as we can see through the segment “But you were 
+more... sure about the time... do you remember back to you?”.  
+ 
+By drawing attention to the use of tag questions, Gibbons (2008, p. 121) points out that 
+“perhaps the most widely discussed type of courtroom question is the tag question”. In 
+agreement with him:  
+ 
+The first part of such a question takes the form of a statement, in which the lawyer can include his/her 
+version of events (the information). The second part consists of a tag, which exerts various forms of 
+interactive pressure upon the witness (the social). This form of courtroom question is therefore a 
+paradigm example of linguistic form matching pragmatic function, and in consequence it is not 
+surprising that many questions in cross examination take the form of tags, and that there are many types 
+of tags – some of them unusual in everyday discourse. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+In Excerpt 3, when Mr. Martinez says, “you were a little bit more sure under direct 
+examination weren’t you?”, he enhances the notable contrast between Arias’s previous 
+statement and now: she was sure before, but now she is not sure about the exact time she had 
+put her items in the car. Knowing the time when she did that is extremely important to the 
+construction of his accusation, we observe therefore a degree of coerciveness in his 
+questioning. In general, most closed questions such as yes/no questions are more coercive 
+because they oﬀer a limited possible set of answers. Although tag questions invite the 
+interlocutors to say yes or no, they are more persuasive since they can make them (the 
+interlocutors) feel more vulnerable because of the preceding utterance. Tkacuková (2005, p. 
+335) asserts that:  
+ 
+In comparison to yes/no questions, tag questions and declarative questions are strongly biased towards a 
+conﬁrmative answer and so they are more coercive (Huddleston & Pullum 2002, p. 881-894). Apart 
+from coercing witnesses into type-conforming replies, these types of questions oﬀer one more obvious 
+advantage to counsels: they are perceived as statements and as such help to change the questions into 
+evidence (Hobbs, 2003b, p. 486–87). Tag questions and declarative questions thus become a powerful 
+tool which enables counsels to give evidence on behalf of witnesses and reduce witnesses to the role of 
+minimal responders. But it is tag questions that are considered by some scholars (Woodbury, 1984, p. 
+205; Berk-Seligson, 1999, p. 36) to be the most coercive type of questions as they have an additional 
+pragmatic meaning: they imply that the person knows that the questioner is right. Gibbons (2003, p. 
+101), however, warns of relying heavily on the form of questions since intonation, or tone of voice, is 
+equally important for deﬁning the degree of coerciveness. 
+ 
+Pragmatically speaking, like tag questions, we consider questions that end with the discourse 
+markers correct and right as devices which have the same illocutionary force. Other examples 
+that illustrate this are found in Excerpts 1 and 2, respectively, when Mr. Martinez says “So... 
+after two o’CLOCK... that... you... took everything and put it down in the car correct?” and “it 
+was at two specifically it was around two o’clock when you actually put the luggage in the 
+car right?”. Relying on Gibbons (2003, p. 95), Holt and Johnson (2010, p. 25) show two 
+objectives that questions can have in legal settings: “1. eliciting information and 2. obtaining 
+conﬁrmation of a version of events that the questioner has in mind”. Our examples under 
+analysis seem to constitute devices with the latter objective.   
+ 
+The following excerpts were obtained from the reporter’s transcript of proceedings. It is 
+important to highlight that “Q” represents the questioner (Ms. Willmott), and “A” stands for 
+Arias. 
+ 
+Excerpt 4: 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+Q. All right. So you went to -- tell us what happened at this executive director banquet? 
+ 
+A. Sure. Usually they are people who have earned $100,000 or more in the year. 
+ 
+Mr. Martinez: Objection, non-responsive... she was asked -- 
+ 
+The Court: Sustained. 
+ 
+Ms. Willmott: Judge, may we approach? 
+ 
+The Court: Yes.  
+(sidebar discussion) 
+ 
+Ms. Willmott: Judge, the question was: Tell us what happened generally about what happened at the 
+executive director banquet. Her answer -- she starts to describe the necessary background to describe 
+what happened at the executive banquet. So she’s describing the background and who is there and that 
+type of thing. That information was necessary for her to answer my question. So I don’t believe it’s 
+non-responsive. 
+ 
+Mr. Martinez: well, she can certainly ask her, describe the banquet for us, who was there and that sort of 
+thing, but you know, she’s -- 
+ 
+The Court: Well, technically she was not answering the question. She was answering who was in 
+attendance. Why don’t you just restate the question that you technically asked her. So she can answer it. 
+So just restate it. 
+ 
+Q: What type of people – Jodi, what type of people attended this banquet? 
+ 
+A. Again they’re executive directors and one invite, so typically a spouse or friend. 
+ 
+In Excerpt 4, through the formulation tell us what happened generally about what happened 
+at the executive director banquet, we see that there is a transformation of the semantic 
+framework because the original question tell us what happened at this executive director 
+banquet? does not imply an answer in general terms. Ms. Willmott then reformulates her 
+question in her line of argumentation including this new information which had not been 
+asked before, considering that it was assumed by interlocutors. It is important to stress that 
+this is just one small example of how courtroom questioning has different rules. In ordinary 
+conversation, Arias’ reply would have been totally unremarkable. As Roca-Cuberes (2014, p. 
+310-313) points out, institutional talk can be analysed in different settings:  
+ 
+It has been observed that the participants in formal settings such as courtrooms, 
+classrooms, news interviews, etc., tend to methodically organize their conduct so as to 
+exhibit and produce the ‘institutional’ quality of their encounter (Drew and Heritage, 1992, 
+p. 26). Furthermore, their conduct is constrained by a diminution of the array of options 
+and possibilities for action that usually take place in ordinary conversation. […] In 
+comparing the use of formulations in institutional settings and ordinary conversation, Paul 
+Drew notes that formulations are rarely found in ordinary conversation (Drew, 2003). 
+According to Drew, this is so because “we do not need to arrive at compromises after long 
+negotiations in mundane conversation” (Drew, 2003, p. 306). 
+  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+Using the expression I don’t believe it’s non-responsive, Ms Willmott tries to explain why 
+Arias had to describe and give some background information to answer her question. Markers 
+such as  I think, I believe, and I assume, for example, are classified as opinion markers, 
+commonly used with the first person singular. Although the epistemic value of opinion verbs 
+usually expresses certainty and conviction, they sometimes may denote uncertainty or 
+inaccuracy. In this case, the opinion marker is used as a facework device since it contributes 
+to limit or neutralize possible contrary reactions or harmful interpretations from interlocutors. 
+So, we observe an intention to guide listeners (mainly the Judge) on how to interpret the 
+speech. It is a modalization marker as it mitigates the illocutionary force of the utterance. 
+When using I don’t believe, we can protect our positive face by preserving our opinion from 
+those who may not have the same opinion.  
+ 
+In the example above, there are two markers well which are used to help speakers gain some 
+time to elaborate their speeches. We also observe the marker you know employed for purposes 
+of social interaction. These devices are widely used in spoken language and are responsible 
+for the development of the conversational turn. By means of the marker you know, speakers 
+seek interlocutors’ anticipatory discursive approval in order to prevent themselves from the 
+possibility of possible disagreements. It implicitly induces the listener to identify with the 
+speaker’s speech or dissuade those who have a different opinion. It is a measure taken by the 
+speaker to prevent something unpleasant or inconvenient from happening. 
+ 
+Combined with the time planner marker well, the Judge uses the hedge technically in “Well, 
+technically”, which is a mitigation sign. It is an element that functions as a hedge as it 
+promotes the deletion of marks of enunciation to minimize potential risks to the speakers’ 
+face. It softens the danger embedded in the speaker’s statement and guides the listener to a 
+convenient interpretation of their statements.  
+ 
+The term “hedge” adopted in this research was coined by Brown and Levinson (1987, p. 145): 
+“the particle, word or phrase that modifies the degree of membership of a predicate or noun 
+phrase in the set; it says of membership that it is partial, or true only in certain respects, or 
+that it is more true and complete than might be expected”. In addition, we can see another 
+mitigation device why don’t you restate in “why don’t you just restate the question that you 
+technically asked her”. It reduces the force of an imperative verb such as restate and makes 
+the request more polite, protecting therefore the speaker’s positive face. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+ 
+Excerpt 5: 
+ 
+Q. Okay. And what happens when you got there? What do you do? 
+ 
+A. Michelle is there, a bunch of – 
+ 
+Mr. Martinez: Objection, non-responsive, she was asked what she did. 
+ 
+The Court: Sustained. 
+ 
+Ms. Willmott: Judge, I asked to approach because it’s going to take a very long time if we keep getting 
+these particular objections. The idea is what she was doing. In order to describe what she was doing, she 
+starts to describe who was there so she can tell us who she was talking to. If she just starts talking -- 
+saying I was talking to Michelle, that’s another objection for foundation for whose Michelle. So it’s just 
+a general descriptive question.  I don’t think it’s non-responsive. She needs to answer these questions. 
+She needs to describe who is there and give the general details in order to answer the question. 
+ 
+Mr. Martinez: She was asked what she did not who was there. If she wants to ask who was there, she 
+can ask her that, I mean – 
+ 
+Ms. Willmott: It’s the same -- 
+ 
+The Court: Well, I understand your position. But when he makes an objection, if you could restate the 
+question and you don’t even need to come back here. I think you can clearly ask the questions you’re 
+asking. The problem is she’s answering the question slightly different from what you’re asking. So 
+technically the objection is well founded. So just restate your question. I don’t think the State is 
+objecting to her answers to any of the questions. It’s just that she’s not being responsive to the question 
+you’re asking. 
+ 
+Ms. Willmott: I guess just for the record, Judge, I just see it as an objection that’s to interrupt the 
+proceedings because the actual material of the information that she’s saying is not objectionable, but 
+rather it goes to the question. I ask to approach to make just to make that record, Judge, because this is 
+going to take very long if she doesn’t answer exactly my question each time. 
+ 
+The Court: The problem is if she doesn’t answer the question then we don’t know what she’s about to 
+say. So it could be objectionable. So the question frames her answers, I think that it’s appropriate. The 
+State is able to object. Just restate your question. 
+ 
+Mr. Martinez: Quite frankly this witness is hard to hear. She’s going really quickly. So adding to what 
+you said, when she starts answering something that she is not asked, it’s difficult to follow. I mean, 
+that’s part of the problem. 
+ 
+Regarding the use of I think  and I don’t think  in Excerpt 5, we highlight that they have the 
+same functions already observed in Excerpt 4. This is a mitigation device as it helps the 
+speaker reduce their responsibility for upon what they say. The role of this kind of marker is 
+to mitigate, to protect the speaker’s face as it reflects, in a subtle way, an opinion semantically 
+full of ideological values and different goals in the interaction. Markers such as I think (that),  
+I believe (that),  I know, and it seems to me, for example, apart from presenting an opinion, 
+have a mitigation value because they not only reveal the presence of the interlocutor, but also 
+contribute to reduce the speakers’ responsibility for the opinion they state. When the Judge 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+says “so the question frames her answers, I think that it’s appropriate”, for instance, she 
+points out the reason for sustaining the objection. Since the question is very objective “what 
+do you do”, not “who was there”, the defendant has to answer it in a very objective way as 
+well otherwise it could be objected to. Even though it is clear that the interrogative pronoun 
+what used in the question does not accept other answers, she uses the opinion marker I think 
+to affirm that the objection is appropriate. It is a strategy that contributes to soften her 
+responsibility on what she says and, at the same time, to preserve her positive face as her 
+attitude may be seem by listeners as a quite fair judgement.        
+ 
+Another element from informal conversation is the marker I mean. In the case above, this 
+device is employed by the speaker to guide the listener to a desired interpretation. This 
+metalanguage form of modalization approaches the discourse practice and the representation 
+of speech. The speaker draws attention to the way things are being said, directing or 
+redirecting the listener to a particular intended meaning. Through I mean, speakers try to lead 
+the listener's attention to something that is more convenient for them. Regarding the markers 
+well and you know, we point out the same functions mentioned in Excerpt 4, as well as the 
+hedge technically.  
+ 
+Excerpt 6: 
+ 
+Q. After leaving that convention, did you have any type of impressions about -- that you learned from 
+convention? 
+ 
+A. Yeah. It’s -- I had never been involved in a network marketing company before. So that was my first 
+experience with that. It’s very inspiring. I had relatives that had tried to do things like that before with 
+other companies. They were not successful. 
+ 
+Mr. Martinez: Objection, non-responsive as to her impressions. 
+ 
+The Court: Sustained. 
+ 
+Q. Did you have other impressions having to do with your life and where your life was going? 
+ 
+A. Well, I thought I saw an opportunity that would help me to make ends meet, you know, more than I 
+was at the time. 
+ 
+Concerning formulations, we observe three properties: preservation, transformation, and 
+deletion. The original question is “After leaving that convention, did you have any type of 
+impressions about -- that you learned from convention?”, later reformulated by “Did you have 
+other impressions having to do with your life and where your life was going?”. The aspect 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+related to her impressions is preserved, but the interpretation changes when some aspects of 
+the news delivered are deleted (impressions related to what she had learned from that 
+convention) and later transformed (other impressions that had to do with her life and where 
+her life was going). The question is semantically transformed since the defendant is not being 
+asked if she has any type of impressions, but if she has other impressions, restricting them to 
+those which have to do with Arias’s life and where her life was going. The markers well and 
+you know occur again in Excerpt 6 with the same meaning effects as described in Excerpts 4 
+and 5.   
+ 
+Excerpt 7: 
+ 
+Q. And does he ever send you a photograph of himself? 
+ 
+A. Yes 
+ 
+Q. Did he send a photograph of his genitalia? 
+ 
+A. Yes 
+ 
+Q. And this is when? 
+ 
+A. This was -- I was at a Super Saturday in my region in Anaheim and we were texting back and forth. 
+It was just getting more flirty and more flirty and we kept trying to – 
+ 
+Mr. Martinez: Objection, non-responsive. When? 
+ 
+The Court: Restate your question. 
+ 
+Q. When is it that he sent -- approximately when is it that he sent you a picture of his genitalia? 
+ 
+A. It would have been November 11th, 2006. 
+ 
+In Excerpt 7, the first version of Ms. Willmott’s question is “And this is when?”, referring to 
+Alexander sending a photograph of his genitalia to Arias. In the second version “When is it 
+that he sent -- approximately when is it that he sent you a picture of his genitalia?”, we can 
+see that one part of the meaning established before is still preserved, but now transformed by 
+resuming her previous question. In other words, in the second version, she preserved the exact 
+word used in the first version (when), added some new information, and transformed it into a 
+more objective question. The real intention is to know when Mr. Alexander sent a photograph 
+of his genitalia to Arias, but due to Mr. Martinez’s objection, Ms. Willmott restates her 
+question in a more accurate way. An interesting point is the use of approximately in the 
+middle of the sentence. To avoid further objections, she prefers to introduce a general term 
+that could protect Arias’s face in case her answer was vague or not precise.   
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+ 
+Excerpt 8:  
+ 
+Q. During the time in the beginning that you started to go to the LDS church, are you learning anything 
+in particular about the LDS view of premarital sex? 
+ 
+A. Yes 
+ 
+Q. What is it that you’re learning? 
+ 
+A. Well, the missionaries told me in great detail that premarital sex is forbidden. It’s reserved for 
+married people. And Travis also said the same but, you know, he had a specific definition of what, 
+where the boundaries are drawn. 
+ 
+Mr. Martinez: Objection, non-responsive. 
+ 
+The Court: Sustained. 
+ 
+Q. What was Mr. Alexander’s description of premarital, LDS of you want premarital sex. 
+ 
+A. His view is that vaginal sex is like -- that’s the holy grail, you don’t go there until you’re married. 
+ 
+In Excerpt 8, another objection is raised by Mr. Martinez. He claims again that the 
+defendant’s answer is not responsive to the question “What is it that you’re learning?”. 
+However, in this case, we do not observe any preservation property in Ms. Willmott’s second 
+version of the question, but rather deletion and transformation characteristics: “What was Mr. 
+Alexander’s description of premarital, LDS of you want premarital sex”. The message in the 
+original question is totally deleted and transformed into a new one, so much more specific.  
+After several unsuccessful previous attempts against prosecutor’s objections, Ms. Willmott 
+chooses to restate her question quite directly (yes/no question), thus preventing the 
+defendant’s answer from a new objection.  
+ 
+Our analysis shows that formulations are very important tools in courtroom interaction since 
+the questioners can selectively preserve, omit, alter, or even add to what the interlocutors have 
+said. It is also relevant to consider that, by means of a textual-interactive perspective to the 
+spoken language, it is possible to observe the process of text construction as well as the 
+strategies that are employed to achieve the interests and purposes of the participants in this 
+kind of forensic context. 
+  
+7. Conclusion  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+ 
+According to the findings, all properties of formulations, combined or not, were used: 
+preservation, deletion, and transformation; although the majority of the cases had a 
+predominantly transformative function. The cross-examining lawyer preserved some of the 
+defendant’s words exactly, for example: that makes sense in “when you say that makes sense 
+although it makes sense” (here, the words were preserved deictically in the second occurrence 
+as that had a grammatical substitute it). In other moments, he omitted some aspects of the 
+sense, but he mostly used altered forms in his formulations, that is, by transforming what the 
+defendant had said, he offered his own version of what she had said and invited the listeners 
+to agree with the interpretation that he had in mind.  
+ 
+It is important to call attention to the use of so-prefaced questions and the markers correct and 
+right functioning as tag questions in some prosecutor’s formulations. So-prefaced questions 
+were very useful to challenge and transform the defendant’s account by putting pressure on 
+her to reformulate it in a more convenient way for the accusation. In relation of the discourse 
+markers and tag questions above, we observed a degree of coerciveness in the cross-
+examining lawyer’s questioning. These types of questions are more coercive as they oﬀer a 
+limited possible set of answers and, pragmatically speaking, they imply that the interlocutor 
+knows that the questioner is right. 
+ 
+As observed in our corpus, mitigation devices contributed to preserve the self-image 
+constructed by speakers as well as to produce certain meaning effects on listeners. The hedge 
+technically and markers such as I think, I don’t think, and I don’t believe collaborated to 
+neutralize possible contrary reactions or negative interpretations from interlocutors; they 
+lessen the impact of speakers’ utterances and decisions by distancing their image from 
+divergent judgments or opinions, therefore protecting their positive face. When the Judge 
+sustained the objections claimed by the deputy county attorney, for instance, she chose to 
+employ politeness strategies with the defense lawyer. To reduce the force of an imperative 
+form, she used “why don’t you restate” in: “why don’t you just restate the question that you 
+technically asked her”, which functions as a polite request that plays down its face threat. 
+ 
+Both in ordinary conversation and in forensic settings, the particular circumstances in which 
+questions and answers are developed make facework a constant need in verbal interactions. 
+Since it is not possible to predict what interlocutors think or act, speakers employ mechanisms 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+to ensure the defense of what they do not want to see exhibited and highlight what they want 
+to be shown. According to Flower (2018, p. 31), facework strategies have multiple uses 
+intended to save, maintain, give, and threaten face.   
+ 
+Politeness strategies are also valuable mechanisms that speakers use to soften the 
+illocutionary force of what they say. They are sociointeractional strategies which are 
+associated with people’s necessity of gaining approval from others as well as the need to 
+safeguard their autonomy. Among these strategies, we point out the use metadiscursive 
+expressions, evasive forms, paraphrases, and markers that indicate higher or lower degrees of 
+speaker’s involvement, among other linguistic phenomena. 
+ 
+Regarding the monitoring of information flow, we consider the concept of involvement 
+elaborated by Chafe (1982, p. 47): “involvement includes monitoring by the speaker of the 
+communication channel which exists with the listener, and attempts to make sure that the 
+channel is functioning well”. The speaker can employ certain strategies that help the 
+reaffirmation of what is being said by calling listeners’ attention to a certain point of the 
+subject in progress. Therefore, well, you know, and I mean, among other markers, are very 
+appropriate for this kind of function. 
+ 
+Based on a textual-interactive approach to the spoken language, this study lies at the interface 
+between conversation analysis and forensic linguistics. In the same vein, we hope, above all, 
+to encourage the development of further analyses and reflections that may contribute to the 
+studies concerning spoken texts in forensic contexts.   
+ 
+Acknowledgements 
+My deepest gratefulness to professor Dr. Richard Malcolm Coulthard, whose support and 
+contributions were essential in all stages of this research. 
+ 
+Conflict of interests 
+ 
+(X) The corresponding author has no conflict of interest to declare and bears full 
+responsibility for the submission. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+ 
+References 
+ 
+Bazergan, E. (2017). A Parking Man Language towards Scollon and Scollon’s theory. Journal 
+of Al-Tamaddun, 16(1), 38-46. https://jurnal.fs.umi.ac.id/index.php/tamaddun-
+life/article/view/49/37 (access 31 January, 2022). 
+ 
+Belchí, D. A. I. (1994). Estrategias comunicativas: La pregunta retórica en español. Revista 
+Española de Lingüística, 24(2), 329-344.  http://www.sel.edu.es/pdf/jul-dic-94/24-2-
+Igualada.pdf (access 31 January, 2022). 
+ 
+Brinton, L. J. (2001). Historical Discourse Analysis. In D. Schiffrin, D. Tannen, & H. 
+Hamilton (Eds.), The handbook of Discourse Analysis (pp. 138-160). Blackwell Publishing. 
+ 
+Brown, P., & Levinson, S. C. (1987). Politeness: Some universals in language usage. 2nd ed. 
+Cambridge University Press. 
+ 
+Burgo, V. H., & Neto, J. V. S. (2016). O discurso político na mídia: A preservação da face 
+positiva do Presidente Barack Obama. Domínios de Lingu@gem, 10(3), 883-902. 
+https://doi.org/10.14393/DL23-v10n3a2016-7 
+ 
+Caldas-Coulthard, C. R. (2014). ReVEL na Escola: O que é a Linguística Forense?. Revista 
+Virtual de Estudos da Linguagem, 12(23), 1-6. 
+http://www.revel.inf.br/files/5a6b743927809a74b88510a52ba8d218.pdf (access 31 January, 
+2022). 
+ 
+Chafe, W. L. (1982). Integration and involvement in speaking, writing, and oral literature. In 
+D. Tannen (Ed.), Spoken and written language: exploring orality and literacy (pp. 35-53). 
+Ablex. 
+ 
+Coulthard, M. (2014). Forensic Linguistics: An interview with Malcolm Coulthard. ReVEL, 
+12(23), 336-339. http://www.revel.inf.br/files/e13bf6ed2aa02854dc540f5046bf90ee.pdf 
+(access 31 January, 2022). 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+Coulthard, M. & Brazil, D. (1992). Exchange structure. In M. Coulthard (Ed.), Advances in 
+spoken discourse analysis (pp. 50-78). Routledge.   
+ 
+Coulthard, M., & Johnson, A. (2007). An introduction to Forensic Linguistics. Routledge.   
+ 
+Cruz, S. D. (2020). Saving the Face: Language courtesy strategies among students. Asian EFL 
+Journal Research Articles, 27(3.2), 39-60. 
+https://media.neliti.com/media/publications/345645-wondershare-filmore-in-teaching-
+vocabula-010e2b9a.pdf (access 31 January, 2022). 
+ 
+Deppermann, A. (2011). The study of formulations as a key to an interactional semantics. 
+Human Studies, 34, 115-128. https://www.jstor.org/stable/41478654 (access 31 January, 
+2022). 
+ 
+Flower, L. (2018). Doing loyalty: Defense lawyers’ subtle dramas in the courtroom. Journal 
+of Contemporary Ethnography, 47(2), 226-254. https://doi.org/10.1177/0891241616646826 
+ 
+Garfinkel, H., & Sacks, H. (1986). On formal structures of practical actions. In H. Garfinkel 
+(Ed.), Ethnomethodological studies of work (pp. 337-366). Routledge & Kegan Paul. 
+ 
+Gibbons, J. (2008). Questioning in common law criminal courts. In J. Gibbons, & M. T. 
+Turell (Eds.), Dimensions of Forensic Linguistics (pp. 115-130). John Benjamins Publishing 
+Company. 
+ 
+Goffman, E. (1974). Les rites d’interaction. Les Éditions de Minuit. 
+ 
+Goffman, E. (1981). Forms of talk. University of Pennsylvania.  
+ 
+Heritage, J. C., & Watson, R. (1979). Formulations as conversational objects. In G. Psathas 
+(Ed.), Everyday Language: Studies in ethnomethodology (pp. 123-162). Irvington. 
+ 
+Holt, E., & Alison, J. (2010). Socio-pragmatics of legal talk: Police interview and trial 
+discourse. In M. Coulthard, & A. Johnson (Eds.), The Routledge Handbook of Forensic 
+Linguistics (pp. 21-36). Routledge.    
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+ 
+Leite, M. Q. (Ed.). (2017). Oralidade e mídia. Humanitas. 
+ 
+Roca-Cuberes, C. (2014). Conversation analysis and the study of social institutions: 
+Methodological, socio-cultural and epistemic considerations. Athenea Digital, 14(1), 303-331. 
+https://doi.org/10.5565/rev/athenead/v14n1.1129 
+ 
+Rosulek, L. F. (2010). Prosecution and defense closing speeches: The creation of contrastive 
+closing arguments. In M. Coulthard, & A. Johnson (Eds.), The Routledge Handbook of 
+Forensic Linguistics (pp. 218-230). Routledge.    
+ 
+Sacks, H; Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the 
+organization of turn taking for conversation. Language, 50(4), 696-735. 
+https://doi.org/10.2307/412243 
+ 
+Schegloff, E. A. (2001). Discourse as an interactional achievement III: The omnirelevance of 
+action. In D. Schiffrin, D. Tannen, & H. Hamilton (Eds.), The handbook of Discourse 
+Analysis (pp. 229-249). Blackwell Publishing. 
+ 
+Schiffrin, D. (2001). Discourse markers: Language, meaning, and context. In D. Schiffrin, D. 
+Tannen, & H. Hamilton (Eds.), The handbook of Discourse Analysis (pp. 54-75). Blackwell 
+Publishing. 
+ 
+Schneider, M. E. (1998). Teoria da polidez e língua estrangeira. Cadernos do Il, 20, 51-60.  
+ 
+Scollon, R., & Scollon, S. B. K. (1983). Face in interethnic communication. In J. C. Richards, 
+& R. W. Schmidt (Eds.), Language and Communication (pp. 156-188). Longman. 
+ 
+Scollon, R., & Scollon, S. B. K. (1995). Intercultural communication: A discourse approach. 
+Blackwell Publishers. 
+ 
+Sinclair, J. (1992). Priorities in discourse analysis. In M. Coulthard (Ed.), Advances in Spoken 
+Discourse Analysis (pp. 79-88). Routledge.   
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+Stokoe, E., & D. Edwards. (2010). Lawyers in interviews: ‘I advise you not to answer that 
+question’: Conversation analysis, legal interaction and the analysis of lawyers’ turns in police 
+interrogations of suspects. In M. Coulthard, & A. Johnson (Eds.), The Routledge Handbook of 
+Forensic Linguistics (pp. 155-168). Routledge.    
+ 
+Tkacuková, T. (2010). Representing oneself: Cross-examination questioning: Lay people as 
+cross-examiners. In M. Coulthard, & A. Johnson (Eds.), The Routledge Handbook of Forensic 
+Linguistics (pp. 333-346). Routledge.    
+ 
+Wooffitt, R. (2005). Conversation analysis and Discourse Analysis: A comparative and 
+critical introduction. SAGE Publications.  
+ 
+Yule, G. (1996). Pragmatics. Oxford University Press.             
+            
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202243363
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

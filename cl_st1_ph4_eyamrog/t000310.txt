@@ -1,0 +1,351 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.36660/ijcs.20200057
+COVID-19: A Matter Close to the Heart
+Gláucia Maria Moraes de Oliveira,  Fausto J. Pinto
+https://doi.org/Not informed
+Submitted on: 2020-04-15
+Posted on: 2020-05-04 (version 2)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+DOI: https://doi.org/10.36660/ijcs.20200057
+The world is facing a new challenge, the novel 
+coronavirus disease 2019 (COVID-19), caused by 
+a betacoronavirus named severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2), phylogenetically 
+identical to the SARS-CoV (severe acute respiratory 
+syndrome coronavirus) and the MERS-CoV (Middle 
+East respiratory syndrome coronavirus) responsible for 
+innumerable deaths in China in 2003 and in the Middle 
+East in 2012, respectively. 
+On March 11, 2020, the COVID-19 outbreak was 
+characterized as a pandemic by the World Health 
+Organization (WHO).1 Twenty-three days after that 
+announcement, the cases reported reached 1,056,777 
+in 182 countries, with 55,781 deaths, most of which 
+occurring in Italy, Spain, France, China and Iran. So far, 
+Brazil has registered 8,195 cases and 335 deaths, while 
+Portugal, 9,886 cases and 246 deaths, figures that have 
+increased steeply since the beginning of the pandemic.2 
+In the face of this exponential increase, mainly in São 
+Paulo and Rio de Janeiro states, multiple safeguarding 
+measures to prevent further spread of the virus, such 
+as school dismissal, event cancellations, reduced bank 
+hours, closure of commerce, except for essential sectors, 
+recommendation for home confinement, and cancellation 
+of public transportation between municipalities and 
+states, have been taken in Brazil, as well as in Portugal 
+and other countries. In the absence of a vaccine and 
+specific therapy, that is actually the only way to restrain 
+viral spread and to prevent the health system overload, 
+which might lead to its collapse, as seen, for example, in 
+Italy and Spain. Person-to-person spread via respiratory 
+droplets disseminated during sneezing, coughing and 
+talking, as well as transmission through contact with 
+contaminated surfaces justifies those measures.3 The PCR 
+assay for viral RNA detection on respiratory tract samples 
+has been used for the laboratory diagnosis of COVID-19; 
+moreover, wide-scale testing has been adopted to contain 
+the pandemic in other countries.3 Other types of tests 
+are being developed to assess the population acquired 
+immunity. These tests identify individuals who have 
+developed immunity to the virus, and who can therefore 
+safely return to their usual activities. This will be essential 
+in the second phase of the pandemic. 
+Analyses by the Imperial College with projections 
+from the COVID-19 cases have estimated, if no action 
+is taken, 7 billion infections and 40 million deaths 
+worldwide in 2020. Furthermore, they have reported that 
+mitigation strategies focused on protection could cut that 
+burden in half, saving 20 million lives, but not without 
+overloading healthcare services, a situation that might be 
+even more severe in lower income settings.4 This scenario 
+should be avoided at any cost by implementing strict 
+measures that limit the movement of people, as well as 
+social distancing or even isolation. It is worth noting that 
+underreporting, undertesting and delayed confirmatory 
+test results might jeopardize the statistics of any country 
+that does not adopt a strict policy for test performance, 
+as recommended by the WHO.
+A study conducted in China with 72,314 patients 
+with COVID-19 (44,672 laboratory-confirmed cases, 
+16,186 suspected cases, and 10,567 clinically diagnosed 
+cases) has reported mild clinical severity in 81.4% of the 
+sample, severe clinical severity in 13.9%, and critical 
+clinical severity in 4.7%.3 The most common symptoms 
+were fever, cough, dyspnea, myalgia, fatigue, and 
+diarrhea.3,5 Other signals and symptoms have been 
+reported, such as sore throat, chest pain, mental 
+confusion, and lethargy. 
+EDITORIAL
+International Journal of Cardiovascular Sciences. 2020; [online].ahead print, PP.0-0
+Mailing Address: Gláucia Maria Moraes de Oliveira
+Universidade Federal do Rio de Janeiro – R. Prof. Rodolpho P. Rocco, 255 – Prédio do HU 8º andar – sala 6, UFRJ. Postal Code: 21941-913, Cidade Universitária, RJ – Brazil.
+E-mail: glauciam@cardiol.br, glauciamoraesoliveira@gmail.com
+COVID-19: A Matter Close to the Heart
+Gláucia Maria Moraes de Oliveira1  and Fausto J. Pinto2
+Universidade Federal do Rio de Janeiro (UFRJ),1 Rio de Janeiro, RJ – Brazil
+CCUL, Faculdade de Medicina, Universidade de Lisboa,2 Lisboa - Portugal
+Coronavirus-19 (COVID-19); Severe Acute Respiratory 
+Syndrome; Dyspnea; Risk Factors; Fever; Mortality; 
+Pandemics; Cardiovascular Diseases/complications.
+Keywords
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+Almost 5% of the infections will have a severe 
+course with acute respiratory distress syndrome, 
+pulmonary bleeding, severe lymphopenia, kidney 
+failure, circulatory shock, and failure of multiple 
+organs.3,5 The  case-fatality rates by age group in 
+Italy (1,625  cases) and China (1,023 cases) differed 
+substantially, 7.2% and 2.3%, respectively, which can 
+be partially explained by the older age distribution in 
+Italy, as well as the presence of more comorbidities 
+among Italians.6 
+One fourth to half of the patients with COVID-19 have 
+chronic conditions, especially cardiovascular (CVD) and 
+cerebrovascular diseases, which increase the risk for a 
+severe course of disease and death. A meta-analysis of 
+six studies conducted in China, including 1,527 patients 
+with COVID-19, has assessed the prevalence of CVD 
+and reported the following proportions: hypertension, 
+17.1%; heart and cerebrovascular diseases, 16.4%; and 
+diabetes, 9.7%.7 Another study with 44,672 confirmed 
+cases of COVID-19 in China has shown preexisting 
+comorbidities, such as CVD (10.5%), diabetes (7.3%), 
+and hypertension (6%), which related to a case‑fatality 
+rate of 2.3%.3 Those studies have evidenced the 
+importance of not only chronic diseases but also of 
+age and host immune status to COVID-19-related 
+mortality, characterizing a complex, multifactorial and 
+bidirectional model that can comprise the drugs used 
+to treat those pathologies.8,9 
+Acute and chronic cardiovascular complications have 
+been observed and attributed to several mechanisms, 
+such as relative ischemia, systemic inflammation 
+and pathogen-mediated damage, with increased 
+levels of biomarkers, such as troponin I, BNP, and 
+d-dimer.9-11 Myocardial damage was observed in 7.2% 
+of patients with SARS-CoV-2 pneumonia, shock in 
+8.7%, and arrhythmia in 16.7%, leading to intensive care 
+admission.9 A meta-analysis with four studies, including 
+341 COVID-19 patients, has reported a significantly 
+higher standardized mean difference in cardiac troponin 
+I levels in patients with severe disease as compared to 
+those with milder disease (25.6; 95%CI: 6.8-44.5 ng/L).10 
+In a retrospective multicenter cohort study in China, 
+elevated d-dimer levels at admission (> 1µg/mL) have 
+been associated with in-hospital death even after 
+adjustments (OR 18.4; 95% CI: 2.6-128.6 µg/mL).11
+Venous thromboembolism in COVID-19 has been 
+reported, probably due to vascular inflammation, 
+hypercoagulable states and endothelial dysfunction.8 
+Fulminant myocarditis and heart failure have been 
+associated with SARS-CoV-2 infection; moreover, 
+preexisting coronary artery disease has been associated 
+with a possible predisposition to that infection..12-14 
+In a case series with 150 patients with COVID-19, 7% 
+of the 68 deaths were attributed to myocarditis with 
+circulatory failure.12 Other studies have described 
+fulminant myocarditis with high viral load and the 
+post-mortem finding of mononuclear inflammatory 
+infiltrates in the heart tissue.13,14 New and important 
+knowledge was recently presented in a case report: 
+the lack of any pulmonary manifestation in a patient 
+with myopericarditis and significant left ventricular 
+dysfunction, who tested positive for SARS-CoV-2 and 
+was successfully treated with dobutamine, lopinavir/
+ritonavir, steroids, chloroquine, and the usual medical 
+therapy for heart failure.15 In another study, heart failure 
+has been observed in 23.0% of the COVID-19 patients, 
+being associated with non-survivors (51.9% vs. 11.7%); 
+in addition, the contribution of previous ventricular 
+dysfunction to that outcome remains inconclusive.11
+Murine models and human post-mortem samples have 
+shown that SARS-CoV can regulate the myocardial and 
+pulmonary angiotensin-converting-enzyme 2 (ACE2), 
+mediating myocardial inflammation, pulmonary edema 
+and acute respiratory failure, and might explain the 
+cardiovascular involvement of severely ill patients.16 
+However, data available are still insufficient to determine 
+whether these observations readily translate to humans, 
+and no study has evaluated the effects of renin-angiotensin-
+aldosterone system inhibitors in patients with COVID-19.17
+Some studies have suggested that ACE inhibitors 
+(ACEI) and angiotensin-receptor blockers (ARB) can 
+up-regulate ACE2, thus increasing susceptibility to the 
+virus; other studies, however, have shown that ACEI / 
+ARB can potentialize the pulmonary protective function 
+of ACE2.18,19 The Brazilian Society of Cardiology, the 
+European Society of Cardiology and the American 
+College of Cardiology recommend the individualized 
+assessment of the patient, suggesting that the abrupt 
+withdrawal of therapeutic schemes currently being 
+practiced should not be performed, as that might cause 
+clinical instability and adverse health outcomes.
+At the current time there is neither a vaccine against nor 
+a specific treatment for COVID-19. Chloroquine blocks the 
+viral infection by increasing the endosomal pH necessary 
+for the virus/cell fusion and has shown an inhibitory effect 
+on SARS-CoV-2 in vitro. Ribavirin, lopinavir/ritonavir and 
+remdesivir are antiviral drugs being tested in prospective 
+studies. It is worth noting that the lopinavir/ritonavir 
+Moraes& Pinto
+COVID-19: A matter close to heart
+Int J Cardiovasc Sci. 2020; [online].ahead print, PP.0-0
+Editorial
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+1.	
+World Health Organization. WHO. Director-General's opening 
+remarks at the media briefing on COVID-19 - 11 March 2020. 
+[Internet]. [Cited in 2020 March 21] [Epub ahead print]. Available 
+from: https://www.who.int/dg/speeches/detail/whodirector-
+general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-
+march-2020 .Lancet Infect Dis. 2020 Feb 19.pii:S1473-3099(20)30120-1.
+2.	
+Dong E, Du H, Gardner L. An interactive web-based dashboard 
+to track COVID-19 in real time. Lancet Infect Dis. 2020 Feb 19. pii: 
+S1473-3099(20)30120-1. [Epub ahead print] [Cited in 2020 March 20]. 
+Available from: https://www.arcgis.com/apps/opsdashboard/index.
+html#/bda7594740fd40299423467b48e9ecf6. 
+3.	
+Wu Z, McGoogan JM. Characteristics of and Important Lessons 
+from the Coronavirus Disease 2019 (COVID-19) Outbreak in China: 
+Summary of a Report of 72314 Cases From the Chinese Center for 
+Disease Control and Prevention. JAMA.2020 Feb 24. [Cited 2020 
+February 24]. Available from: https://jamanetwork.com/
+4.	
+Imperial College - COVID19-Global-Impact- 26-03-2020; Walker 
+PGT, Whittaker C, Watson O, The Global Impact of COVID-19 and 
+Strategies for Mitigation and Suppression. WHO Collaborating 
+Centre for Infectious Disease Modelling, MRC Centre for Global 
+Infectious Disease Analysis, Abdul Latif Jameel Institute for Disease 
+and Emergency Analytics, Imperial College London (2020) .[Cited in 
+2020 March 20]. Available from: https://www.imperial.ac.uk/media/
+imperial-college/medicine/sph/ide/gida-fellowships/Imperial-
+College-COVID19-Global-Impact-26-03-2020.pdf
+5.	
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features 
+of patients infected with 2019 novel coronavirus in Wuhan, China. 
+Lancet. 2020; 395(10223):497-506.
+6.	
+Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics 
+of Patients Dying in Relation to COVID-19 in Italy. JAMA. 2020 March 
+23. DOI: 10.1001/jama.2020.4683. [Epub ahead of print]
+7.	
+Li B, Yang J, Zhao F, Zhi L, Wang et al, Prevalence and impact of 
+cardiovascular metabolic diseases on COVID-19 in China. Clin Res Cardiol. 
+2020 Mar 11. DOI: 10.1007/s00392-020-01626-9. [Epub ahead of print]
+8.	
+Driggin E, Madhavan MV, Bikdeli B, Chuich T, Laracy J, Bondi-
+Zoccai G, et al. Cardiovascular Considerations for Patients, Health 
+Care Workers, and Health Systems During the Coronavirus Disease 
+2019 (COVID-19) Pandemic, J am Coll Cardiol. 2020 Mar 18. 
+Pii:S0735-1097(20)34637-4 [Epub ahead of print]
+9.	
+Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical characteristics 
+of 138 hospitalized patients with 2019 novel coronavirus-infected 
+pneumonia in Wuhan, China. JAMA. 2020 Feb 7. DOI:10.1001/
+jama.2020.1585.[Epub ahead of print]
+10.	 Lippi G, Lavie CJ, Sanchis-Gomar F. Cardiac troponin I in patients 
+with coronavirus disease 2019 (COVID-19): Evidence from a meta-
+analysis. Prog Cardiovasc Dis. 2020 Mar 10. pii: S0033-0620(20)30055-4.
+[Epub ahead of print]
+11.	 Zhou F, Yu T, Du R, Fan G, Liu Y, Xiang J, et al. Clinical course and risk 
+factors for mortality of adult inpatients with COVID-19 in Wuhan, China: 
+a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-62.
+12.	 Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of 
+mortality due to COVID-19 based on an analysis of data of 150 patients 
+from Wuhan, China. Intensive Care Med. 2020 Mar 3. DOI: 10.1007/
+s00134-020-05991-x [Epub ahead of print]
+13.	 Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, et al. 
+Pathological findings of COVID-19 associated with acute respiratory 
+distress syndrome. Lancet Respir Med. 2020 Feb 18. pii:S221-3-
+2600(20)30076-X [Epub ahead of print]
+14.	 Liu Y, Yang Y, Zhang C, Huang F, Wang F, Yuan J, et al. Clinical 
+and biochemical indexes from 2019-nCoV infected patients linked 
+to viral loads and lung injury. Sci China Life Sci. 2020; 63(3):364-74.
+15.	 Inciardi RM; Lupi L, Zaccone G, Italia L, Raffo M, Tomasoni D, et al. Cardiac 
+Involvement in a Patient With Coronavirus Disease 2019 (COVID-19) JAMA 
+Cardiol.2020 Mar 27. DOI:10.1001/jamacardio.2020.1096 [Epub ahead of print]
+16.	 Oudit GY, Kassiri Z, Jiang C, Liu PP, Poutanen SM, Penninger JM, et 
+al. SARS coronavirus modulation of myocardial ACE2 expression and 
+inflammation in patients with SARS. Eur J Clin Invest. 2009; 39(7):618–25.
+17.	 Vaduganathan M, Vardeny O, Michel T, McMurray JJV, Pfeffer MA, 
+Salomon SD. Renin–Angiotensin–Aldosterone System Inhibitors 
+in Patients with Covid-19DOI: March 30, 2020, N Engl J Med.2020 
+March 30. [Epub ahead of prnt}
+18.	 Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular 
+system. Nat Rev Cardiol. 2020 Mar 5. DOI: 10.1038/s41569-020-0360-5 
+[Epub ahead of print]
+19.	 Gurwitz D. Angiotensin receptor blockers as tentative SARS-CoV-2 
+therapeutics. Drug Dev Res. 2020 Mar 4. DOI: 10.1002/ddr.21656.
+[Epub ahead of print]
+20.	 Clerkin KJ. Justin A. Fried, MD, Raikhelkar J., Sayer G, Griffin JM, 
+et al. Coronavirus Disease 2019 (COVID-19) and Cardiovascular 
+Disease. DOI: 10.1161/CIRCULATIONAHA.120.046941 [Epub 
+ahead of print]
+References
+association alters heart conduction, with QT-interval 
+prolongation and advanced atrioventricular block. 
+In addition, those drugs interact with antiplatelet agents, 
+anticoagulants, statins and beta-blockers .8,20
+When approaching patients with COVID-19, 
+cardiologists should be alert to new clinical manifestations, 
+such as arrhythmias, left ventricular dysfunction and 
+systemic embolism, which might be related to that 
+condition, since there is much that is still unknow about it.
+The COVID-19 pandemic came to change, in a 
+previously unimaginable way, the dynamics and 
+functioning of societies worldwide. The challenges are 
+gigantic, mainly concerning the strain they represent to 
+national health systems, which have never been submitted 
+to such a radical stress test. However, this can also be an 
+opportunity to reorganize and strengthen health systems, 
+and, at the same time, to highlight the pivotal role of health 
+professionals in our society. Policymakers should pursue 
+the most effective way to guarantee the sustainability 
+of health systems, while ensuring that healthcare 
+professionals receive just reward and due recognition for 
+their effort and dedication, often ignored in times of Peace.
+The world has responded to this scenario of global 
+crisis with unprecedented widespread solidarity. In light 
+of the enormous challenges that lie ahead, we must 
+ensure that this matter remains close to heart.
+Moraes& Pinto
+COVID-19: A matter close to heart
+Int J Cardiovasc Sci. 2020; [online].ahead print, PP.0-0
+Editorial
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+Moraes& Pinto
+COVID-19: A matter close to heart
+Int J Cardiovasc Sci. 2020; [online].ahead print, PP.0-0
+Editorial
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/Not informed
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

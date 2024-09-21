@@ -1,0 +1,318 @@
+1 
+ 
+Short Communication 
+1 
+Ion torrent-based nasopharyngeal swab metatranscriptomics in COVID-19 
+2 
+Gubio S. Campos1, Silvia I. Sardi1, Melissa B. Falcao2, Emilia M. M. A. Belitardo1, Danilo J. P. 
+3 
+G. Rocha1, Carolina A. Rolo1, Aline D. Menezes1, Carina S. Pinheiro1, Rejane H. Carvalho1, 
+4 
+João P. P. Almeida3, Eric R. G. R. Aguiar4,#,*, Luis G. C. Pacheco1,#,* 
+5 
+1Institute of Health Sciences, Federal University of Bahia, Salvador-BA, Brazil; 2Núcleo de Pesquisa e 
+6 
+Extensão em Vigilância da Saúde, Universidade Estadual de Feira de Santana, Feira de Santana-BA, 
+7 
+Brazil; 3Institute of Biological Sciences, Federal University of Minas Gerais, Belo Horizonte-MG, Brazil; 
+8 
+4Department of Biological Sciences, Center of Biotechnology and Genetics, State University of Santa 
+9 
+Cruz (UESC), Ilhéus-BA, Brazil. 
+10 
+ 
+11 
+* Corresponding authors: ericgdp@gmail.com (E. Aguiar) / luis.pacheco@ufba.br (L. Pacheco).  
+12 
+# These senior authors contributed equally to this article.  
+13 
+ 
+14 
+Keywords: Covid-19; SARS-CoV-2; next-generation sequencing 
+15 
+ 
+16 
+Abbreviations: RT-qPCR = real-time reverse transcription PCR, Ct = cycle threshold, NGS = 
+17 
+next-generation sequencing, SNP = single nucleotide polymorphism   
+ 
+18 
+2 
+ 
+Abstract 
+19 
+Herein, we describe the detection of a SARS-CoV-2 genome through metatranscriptome next-
+20 
+generation sequencing directly from the nasopharyngeal swab of a suspected case of local 
+21 
+transmission of Covid-19, in Brazil. Depletion of human ribosomal RNA and use of an optimized 
+22 
+in-house developed bioinformatics strategy contributed to successful detection of the virus. 
+23 
+ 
+24 
+Main text  
+25 
+COVID-19, the disease caused by the novel coronavirus SARS-CoV-2, was firstly 
+26 
+recognized as an atypical pneumonia in China, in December 2019. By early-April 2020, the 
+27 
+disease had already spread globally to more than 150 countries, with over 1,000,000 confirmed 
+28 
+cases according to the World Health Organization (WHO) (1). The first confirmed imported case 
+29 
+in South America was in February 26, 2020, from a traveler returning from Northern Italy to the 
+30 
+city of São Paulo, the largest city in Brazil (2). Soon after, first suspected cases of local 
+31 
+transmission within the country were reported, including in the Bahia state, in early March 2020.   
+32 
+Ascertaining the roles of different diagnostic technologies during an ongoing epidemic of 
+33 
+viral infection is challenging, and recent studies have already reported sensitivity issues when 
+34 
+using real-time reverse transcription PCR (RT-qPCR) for diagnosing COVID-19 (3,4). Possible 
+35 
+interfering factors in RT-qPCR may arise from high viral recombination of coronaviruses (5) and 
+36 
+varying viral loads in the natural course of disease (6), but this still needs further studies in the 
+37 
+COVID-19 diagnostics context (7). Therefore, developing new protocols for untargeted clinical 
+38 
+metagenomics may provide valuable diagnostic tools for detecting SARS-CoV-2 and other 
+39 
+pathogens in a current global scenario of emerging viral infections. Other studies have recently 
+40 
+reported on metagenome-based strategies for next-generation sequencing of SARS-CoV-2 and 
+41 
+varying results were reached, when comparing amplicon-based sequencing or direct 
+42 
+3 
+ 
+metatranscriptome sequencing. Also, metagenome sequencing from bronchoalveolar lavage 
+43 
+specimens rendered better results when compared to nasal swabs (5,8). 
+44 
+In this study, we successfully detected a SARS-CoV-2 genome directly from a 
+45 
+nasopharyngeal swab specimen of a suspected case of local transmission of COVID-19 in Brazil, 
+46 
+using a metatranscriptomics approach. On March 03, 2020, a female patient presented to a public 
+47 
+hospital, in Feira de Santana-Bahia, Brazil, complaining of sore-throat and mild-dyspnea. Due to 
+48 
+self-reported close contact with a returning traveler from Italy who had a confirmed COVID-19 
+49 
+diagnosis, specific diagnostic investigation was warranted, and a nasopharyngeal swab sample 
+50 
+was immediately collected. Viral RNA extraction and RT-qPCR amplification were  carried out 
+51 
+following a protocol validated in our group at the Institute of Health Sciences, Federal University 
+52 
+of Bahia, Salvador-BA, Brazil, according to a Promega application report (Promega Application 
+53 
+Report, 
+2020; 
+https://www.promega.com.br/applications/virus-detection-assay-coronavirus-
+54 
+detection-covid-19-sars-cov-2/). In brief, 200 µL of samples stored in transport medium 
+55 
+(Leibovitz`s L15) were submitted in triplicate to RNA extraction in the Maxwell 16 instrument, 
+56 
+following the Maxwell® 16 Viral Total Nucleic Acid System protocol (Promega). Detection of 
+57 
+SARS-CoV-2 viral genome by RT-qPCR was done according to the CDC 2019-Novel Coronavirus 
+58 
+protocol (9), using the GoTaq® Probe 1-Step RT-qPCR System (Promega) and primers/ probe 
+59 
+targeting the nucleocapsid (N) encoding region. A moderately high viral load was detected in the 
+60 
+nasopharyngeal swab sample, with a cycle threshold (Ct) of 21, which is similar to the highest 
+61 
+values reported for the first days since symptoms onset in eighteen Chinese patients (6).    
+62 
+In parallel, the extracted RNA (ca. 14 ng/µL) was submitted to metatranscriptome next-
+63 
+generation sequencing in the Ion S5 platform (ThermoFisher) using an Ion 540™ chip and the 
+64 
+Ion Total RNA-Seq kit v2, as per the manufacturer’s protocol (ThermoFisher). One sample was 
+65 
+previously processed with the Low Input RiboMinus™ Eukaryote System v2 (ThermoFisher), for 
+66 
+depletion of human ribosomal RNA from total RNA (Fig. 1). Sequence reads were pre-processed 
+67 
+4 
+ 
+by quality filtering (Phred >20), presence of ambiguous bases (>1% sequence with Ns), and size 
+68 
+(reads >= 30 nt); all reads deriving from human transcripts were also discarded: 77.29% in the 
+69 
+rRNA depleted library and 84.49% in the whole RNA library. The remaining sequence reads (size 
+70 
+range: 30 - 358 nt) were then used for contig assembly (see detailed pipeline in Fig. 1). 
+71 
+Sequencing data is available at NCBI’s SRA database under accession number PRJNA613951. 
+72 
+Overall, depletion of human rRNA rendered significantly higher numbers of contigs (n = 
+73 
+51; N50 = 180 nt) confidentially aligned to the SARS-CoV-2 viral genome (Figure 1b), yielding a 
+74 
+genome coverage of 29.9% for contigs and 59.9% for total reads, which is higher than the 
+75 
+coverage reported for nasopharyngeal swabs in recent studies (8). SNP analysis using Atlas 2 
+76 
+(https://sourceforge.net/p/atlas2/wiki/Atlas-SNP/) indicated that mutations accumulate mainly in 4 
+77 
+ORFs (ORF1a, M, ORF8 and N) in addition to 3’UTR, in a similar profile observed for strains 
+78 
+derived from Brazilian patients present in NexStrain platform (https://nextstrain.org/). 
+79 
+Our results confirm that direct metatranscritptome sequencing from nasopharyngeal 
+80 
+swabs can be used as an additional strategy in the detection of SARS-CoV-2 infection, besides 
+81 
+providing information on possible nucleotide mutations that could interfere with sensitivity of 
+82 
+diagnostics based on RT-qPCR (4). Noteworthy, handling of the sample and preparation of the 
+83 
+sequencing library, particularly regarding depletion of ribosomal RNA, may significantly impact 
+84 
+metatranscriptomic results. 
+85 
+References 
+86 
+1.  Fauci AS, Lane HC, Redfield RR, N Engl J Med. 382, 1268-1269, 2020. 
+87 
+https://doi.org/10.1056/NEJMe2002387  
+88 
+2.  Candido DDS, Watts A, Abade L, Kraemer MUG, Pybus OG, Croda J, et al. Routes for 
+89 
+COVID-19 
+importation 
+in 
+Brazil. 
+Journal 
+of 
+Travel Medicine. 
+Mar 
+18, 
+2020. 
+90 
+https://doi.org/10.1093/jtm/taaa042  
+91 
+3.  Kim 
+S, 
+Kim 
+D-M, 
+Lee 
+B, 
+Preprints. 
+[cited 
+2020 
+Mar 
+22], 
+2020. 
+92 
+https://doi.org/10.20944/preprints202002.0424.v1 
+93 
+5 
+ 
+4.  Wu X, Cai Y, Huang X, Yu X, Zhao L, Wang F, et al. Emerg Infect Dis. 26:6, [cited 2020 Mar 
+94 
+22], 2020. https://doi.org/10.3201/eid2606.200299 
+95 
+5.  Shen Z, Xiao Y, Kang L, Ma W, Shi L, Zhang L, et al. Clinical Infectious Diseases, Mar 9, 
+96 
+2020. https://doi.org/10.1093/cid/ciaa203  
+97 
+6.  Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. N Engl J Med. 382, 1177-1179, 
+98 
+2020. https://doi.org/10.1056/NEJMc2001737.  
+99 
+7.  Lo 
+YMD, 
+Chiu 
+RWK. 
+Clinical 
+Chemistry 
+66, 
+503–504, 
+2020. 
+100 
+https://doi.org/10.1093/clinchem/hvaa038  
+101 
+8.  Moore SC, Penrice-Randal R, Alruwaili M, Dong X, Pullan ST, Carter D, et al. MedRxiv 
+102 
+Infectious 
+Diseases 
+(except 
+HIV/AIDS) 
+Mar 
+[cited 
+2020 
+Mar 
+22], 
+2020.  
+103 
+http://medrxiv.org/lookup/doi/10.1101/2020.03.05.20032011 
+104 
+9.  CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel [Internet]. 
+105 
+https://www.fda.gov/media/134922/download 
+106 
+ 
+107 
+Acknowledgments 
+108 
+This study was partially funded by the following research grants: MCTI/FINEP/CT-INFRA -
+109 
+01/2013 (NGP-Saúde); MCTI/FINEP/FNDCT 01/2016 -Zika and Universal CNPq-2019. We 
+110 
+acknowledge the technical support from the Laboratory of Immunology and Laboratory of Alergy 
+111 
+and Acarology, both at the Institute of Health Sciences, Federal University of Bahia (UFBA), 
+112 
+Brazil. 
+113 
+Conflict of interest 
+114 
+The authors declare that there is no conflict of interest related to this article content. 
+115 
+Figure legend 
+116 
+Fig. 1. Identification of SARS-Cov-2 through nasopharyngeal swab metatranscriptomics. 
+117 
+A) Left panel: extraction of RNA from nasopharyngeal swab was performed according to a 
+118 
+protocol validated in our laboratory (COVID-19 Extraction and Amplification with Maxwell® 16 
+119 
+Viral Total Nucleic Acid and GoTaq® Probe 1-Step RT-qPCR; Application Report, Promega 
+120 
+6 
+ 
+2020). Total RNA sequencing after rRNA depletion followed the protocol of the Ion Total RNA-
+121 
+Seq kit v2, in the Ion S5 platform. Depletion of human ribosomal RNA was done with the Low 
+122 
+Input RiboMinus™ Eukaryote System v2 kit. Right panel: raw reads were submitted to quality filter 
+123 
+where reads larger than 30nt with Phred quality > 20 were aligned into human reference genome. 
+124 
+Unaligned reads were used to perform contig assemblage. Assembled contigs were compared to 
+125 
+NCBI databases using Blast software. Contigs that presented sequence similarity to SARS-Cov2-
+126 
+2 with e-value lower than 1e-5 were considered as from viral origin. Viral contigs were further 
+127 
+submitted to contig extension using SPAdes and ‘trusted contigs’ option that was followed by 
+128 
+cap3 tool to remove sequence redundancy. B) SARS-Cov-2 coverage profile of reads and 
+129 
+assembled contigs. Reads were normalized by number of reads from each library. Contigs in red 
+130 
+indicate high quality contigs larger than 400nt with coverage of reads in both libraries. 
+131 
+7 
+ 
+Figure 1 
+ 

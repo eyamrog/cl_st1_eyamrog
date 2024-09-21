@@ -1,0 +1,795 @@
+ 
+The pandemic in prison: interventions and overisolation 
+A pandemia no cárcere: intervenções e superisolamento 
+Sérgio Garófalo de Carvalho 
+Universidade Federal da Bahia 
+sergiogarofalo@hotmail.com 
+ORCID: 0000-0001-5936-9601 
+ 
+Andreia Beatriz Silva dos Santos 
+Universidade Estadual de Feira de Santana 
+Médica do Sistema Penitenciário da Bahia 
+andreiasantos72@hotmail.com 
+ORCID: 0000-0003-3755-021X 
+ 
+Ivete Maria Santos 
+Universidade Federal da Bahia 
+Médica do Sistema Penitenciário da Bahia 
+ivetesantos66@yahoo.com.br 
+ORCID:  0000-0001-8630-0503 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+Prisional health is, in its essence, public health. The COVID-19 pandemic poses a great threat 
+to the world and has shown that preventing the disease escalation in prisons integrates the novel 
+corona virus clash in society in general. Up to this moment, the most effective known measure 
+to curb the disease spread is social isolation. Nevertheless, in penal institutions, often 
+overcrowded, social isolation becomes difficult to carry out and, when it happens, it takes the 
+enclosed population to overisolation, with consequences to their mental health. Besides, 
+prisoners suffer with clogged up environment, lack of materials for personal hygiene, poor basic 
+sanitary conditions and difficulties in accessing health services. In order to reduce the disease 
+spread, several countries are taking measures such as definite or temporary release of prisoners 
+and visiting restrictions. This paper deals with a narrative review on the pandemic effects in 
+prisons and how government and civil society have organized themselves in order to reduce the 
+disease consequences at those places. The text has been divided into three sections: the first 
+with literature review on the current health theme; the second discusses how different countries 
+have been dealing with the prison situation in the pandemic context, and, the last part focuses 
+on how the Brazilian Penal System has reacted to the new disease. 
+ 
+Key words: Prisons; Prisoners; SARS-CoV-2; COVID-19 pandemic. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resumo 
+Saúde prisional é, em sua essência, saúde pública. A pandemia de COVID-19 representa uma 
+grande ameaça para o mundo e tem demonstrado que prevenir a escalada da doença em prisões 
+faz parte do combate ao novo coronavírus na sociedade em geral. Sabe-se, até o momento, que 
+a mais efetiva medida de contenção ao avanço da doença é o isolamento social. No entanto, em 
+instituições penais, muitas vezes superlotadas, tal medida torna-se de difícil implementação e, 
+quando acontece, leva a população privada de liberdade a um superisolamento, tendo 
+consequências em sua saúde mental. Além disso, indivíduos presos sofrem com ambientes sem 
+ventilação, falta de materiais de higiene pessoal, condições sanitárias básicas precárias e 
+dificuldade de acesso a serviços de saúde. Para reduzir a propagação da doença, medidas estão 
+sendo tomadas em vários países, como a libertação temporária ou definitiva de presos e a 
+restrição de visitas. O presente artigo objetiva ser uma revisão narrativa sobre os efeitos da 
+pandemia em presídios e como governos e sociedade civil têm se organizado a fim de reduzir 
+as consequências sobre esses locais. A publicação foi dividida em três seções: na primeira, há 
+uma revisão da literatura em saúde sobre a temática; na segunda, é tratado o modo como 
+diferentes países estão lidando com a situação carcerária no contexto da pandemia; na terceira 
+e última parte, é abordado o modo como o Sistema Penal brasileiro tem reagido à nova doença.  
+ 
+Palavras-chave: Prisões; Preisioneiros; SARS-CoV-2; Pandemia por COVID-19. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+The outbreak of the disease (COVID-19) caused by the novel coronavirus (SARS-CoV-2) in 
+China gained global prominence and was declared a pandemic by the World Health 
+Organization (WHO) on March 11, 2020. As there are no specific treatments and vaccines 
+available to control the disease, the COVID-19 pandemic represents a major threat to public 
+health worldwide, requiring prevention actions, such as social isolation and strengthening 
+hygiene measures1. 
+The potential for transmission of the virus is already known when indoors and with 
+agglomerations. Mizumoto and Chowell2 described the epidemiological evolution within an 
+Asian cruise, in which the average number of reproduction in the confined environment reached 
+values close to 11, which is higher than the estimates reported in the dynamics of community 
+transmission in China and Singapore, ranging from 1.1 to 7. On this ship, cases went from 1 to 
+454 in just 16 days. The Spanish flu affected about a quarter of all prisoners, a much higher 
+prevalence compared to data from the general population3. 
+Criminal institutions confer a confinement imposed by a judicial authority and are surrounded 
+by stigma and vulnerability4. Confinement within a prison unit is distinct from other types, such 
+as cruises, schools, quarantine, which are voluntary isolations, while in prison freedom is 
+unwittingly curtailed. In this sense, when applied to the prison context, the isolation measure 
+results in a superposition of confinements, which we call overisolation. 
+Many prisons in Brazil and in the world are overcrowded, offering little space in relation to 
+what is recommended for adequate distancing. Of the countries, 59% have prison occupancy 
+rates that exceed the reported capacity5. With this, the possibility is high that the corona virus 
+ 
+is rapidly transmitted within the criminal institutions. In a single day in February, China 
+recorded 200 contaminated in one of its prisons, when the curve of infections was already 
+falling in the country6. 
+In addition to being a great risk for people deprived of liberty, a high prevalence of viral 
+respiratory infections in prison populations can serve as a potential source of infection for the 
+general population. This is because prisons are porous institutions, such as the borders of 
+countries in the globalized world7. Through prison officers, workers, visitors, prisoners released 
+and transferred, corona virus can pass through the bars of the prison system and be transmitted 
+to local communities8. 
+By definition, prison health is public health and should be treated as such by governments and 
+the scientific community. Thus, this article is a narrative review on the SARS-CoV-2 and the 
+prison population, in order to gather what has been published on the subject in health journals 
+and elucidate the theme, with the aim of reinforcing the need to guarantee fundamental human 
+rights to people deprived of liberty and safeguarding the health of the population in general. 
+For better reading and understanding of the subject, this publication is divided into the 
+following topics: the state of the art on COVID-19 and the prison population; covid-19 
+prevention measures in prisons worldwide; coping with the novel coronavirus in the Brazilian 
+prison system and final considerations. 
+ 
+ 
+ 
+ 
+ 
+THE STATE OF ART ABOUT COVID-19 AND PRISON POPULATION 
+ 
+To carry out this narrative review, articles published until April 25, 2020 in health journals were 
+researched. Texts in English, Spanish and Portuguese and in any formats, such as editorials, 
+comments, correspondence, opinions, empirical studies and others were included. 
+The search took place in two databases, PubMed and Google Scholar, the search strategy is in 
+Table 1. A total of 605 results were found and, after reading the title and/or abstract, 13 articles 
+remained for complete reading. No formal quality assessment was performed, but the important 
+methodological characteristics were considered when interpreting the results presented here 
+narratively. 
+In PubMed, 3,710 articles were found in the search for the descriptor "COVID-19", but only 
+six publications (0.16%) addressing the pandemic in the prison context. Of the 13 articles 
+included in this review, only one is an original study. In Table 2, you can see the description of 
+these works. 
+Social distancing is practically impossible in correctional facilities, where individuals live in 
+confinement in overcrowded and poorly ventilated environments, share bathrooms and 
+showers, as well as common areas such as cafeterias, patios and classrooms10. Hand hygiene is 
+hampered by policies that limit access to soap, and many prisons restrict alcohol intake, fearing 
+that people have ingested it14. 
+Populations deprived of liberty have an increased prevalence of infectious diseases, such as 
+HIV infections and hepatitis C virus (HCV)7. Inequities in social determinants of health that 
+affect groups that are disproportionately liable to incarceration - racial and sexual minorities, 
+people with mental disorders or psychoactive substance use, individuals without access to the 
+ 
+health system or education - lead to higher concentrations of some diseases in incarcerated 
+populations7. The risk for a person deprived of liberty to develop tuberculosis in Brazil is 30 
+times higher than the general Brazilian population21. Infectious diseases account for about 
+17.5% of deaths in prisons11. 
+In addition to the difficulties related to the physical and social structures mentioned above, there 
+are administrative challenges - largely caused by the lack or mismanagement of financial 
+resources14, which may hinder the access of possible prisoners with COVID-19 to adequate 
+health care in case of need for advanced support. The rights of all affected persons must be 
+respected and all public health measures should be implemented without discrimination of any 
+kind18. 
+All the revised publications highlight the urgent need to take measures to prevent SARS-CoV-
+2 in prison environments, it is necessary to consider chains as reservoirs that can lead to the 
+resurgence of the epidemic, if it is not adequately treated in these facilities7. Therefore, three 
+premises must be fulfilled: the entry of the virus into penitentiaries should be postponed as 
+much as possible; if it is already in circulation, it must be checked and, finally, prisons must 
+prepare to deal with those who develop COVID-197. 
+Given the epidemiological dynamics of COVID-19, in the absence of any intervention, among 
+inmates, the outbreak is considerably more severe than in the general population, requiring 
+more hospitalization and leading to more deaths. The peak of the epidemic within a penal 
+institution, according to mathematical modeling20, is considerably earlier, occurring 63 days 
+earlier than the peak of infections in the community. The same study20 showed that postponing 
+the arrest of 90% of individuals from groups at risk to COVID-19 would reduce the mortality 
+of the disease in prisons by 56.1%. Although only 1.5% of the prison population is elderly in 
+ 
+Brazil22, incarceration itself degrades people's health, leaving them more vulnerable to infection 
+and severe infection results. 
+There is consensus that an effective action to mitigate the evolution of the pandemic in 
+correctional environments is the release, temporary or definitive, of prisoners. For example, 
+Iran has released 70,000 individuals so far incarcerated7. Two articles10,13 that discuss the 
+current situation of immigrants imprisoned in the United States advocate releasing all 
+individuals who do not pose a threat to local security, and to momentarily cease the policy of 
+incarceration against illegal immigration adopted in recent years. Yang and Thompson11 
+suggest that sentences for people tried with misdemeanors are alternatives to deprivation of 
+liberty. 
+The WHO18 recommends that individuals who make up the risk group for COVID-19 leave 
+prisons if they do not pose a danger to society. An important argument for this measure is raised 
+by the assumption20 that the interruption of the arrest of individuals for minor crimes, with the 
+overall reduction of arrests by approximately 83%, would result in 71.8% fewer infections in 
+the incarcerated population. This strategy20 would also lead to 2.4% fewer infections among 
+employees and 12.1% in the community in general. 
+Public policies to mitigate inequality must follow the judicial decisions of release of these 
+people, since many graduates of the prison system do not have family and social support. This 
+can lead to the desired opposite effect with the release of these individuals and they become 
+carriers and transmitters of SARS-CoV-2 while searching for income, housing, or even, to 
+compose the population in street situation16. Stephenson15 recalls that in California and New 
+York, the government is renting hotel rooms to some of those prisoners released. Thus, freeing 
+imprisoned individuals should be an intersectoral action, involving public power, social 
+assistance, NGOs, health services and the judiciary. 
+ 
+If, however, the only measure is to reduce the size of the prison population, there will be a 
+neglect of countless other things that must be done17. Mitigation strategies in detention centers 
+should be complemented by routine screening and containment procedures. This involves 
+screening all people entering the facility, including new inmates, employees, visitors and 
+suppliers, quarantined those who are positive for exposure to the novel coronavirus10. 
+Other measures are suggested in the revised bibliography. Yang and Thompson11 suggest 
+intensifying health education for inmates and prison workers. Everyone should receive training 
+on how to identify signs of COVID-19 and ways to prevent the disease. Suspension of visits 
+from family and lawyers and reduction of transfers are proposed by Akiyama, Spaulding and 
+Rich7, also suggesting that teleconference be applied in these cases in order to reduce emotional 
+isolation. Cleaning and disinfection of the environments, as well as purchase of toiletries and 
+masks must be carried out by the government12,14. 
+In the revised publications, it was also said that the measures should take and account that the 
+psychological reactions of people deprived of liberty may differ from those observed in people 
+who observe social distancing in the community, since, in prison, there will be a overisolation. 
+The unintended consequences of these mitigation policies should be considered. 
+The recent rebellions in Italian prisons have revealed the potential for negative psychological 
+impact of emergency policies aimed at reducing the spread of SARS-CoV-2 in criminal 
+institutions14. Therefore, the growing need for emotional and psychological support, transparent 
+awareness and sharing of information about the disease and the guarantee that continuous 
+contact with family will be maintained18, so that people deprived of liberty can collaborate in 
+pandemic mitigation strategies. 
+ 
+ 
+COVID-19 IN PRISONS IN THE WORLD 
+ 
+This review aims to show that, despite what has been done by people deprived of liberty in the 
+current pandemic, it is still insufficient and marginalizing. In 2018, there were more than 10 
+million people deprived of liberty worldwide23, largely in poor sanitary conditions, with little 
+access to health services and in overcrowded institutions. The prison population of several 
+countries, as well as graduates of the penal system, suffers from stigma4, abandonment of public 
+power and what the philosopher Mbembe calls necropolitics24, based on a State of Exception, 
+in which it has the power to dictate who should live and who should die, desizing from the 
+subject his political status and, if not actively taking his life, exposing him to death. 
+For information on how different countries are dealing with the pandemic in the prison context, 
+information contained in the Prison Insider initiative25, created by the founder of the 
+International Observatory of Prisons, has been reviewed and summarized. The site gathers up-
+to-date information on various aspects of prisons in the world and currently has an area focused 
+on the novel coronavirus. It should be noted, however, that there is a limitation of this 
+information, since not all countries or organizations make the data available and, when they do, 
+it is not in real time. 
+As of May 5, 2020, there were 145 countries with data presented and a total of 23,019 records 
+of SARS-CoV-2 infections, with the United States being the first, with more than 17,000 people 
+deprived of their freedom infected25. On the other hand, there are complaints in several 
+countries of lack of transparency in data26,27. The supervision by activists, international 
+organizations and parliamentarians has been compromised27-28 under the pretext of reducing 
+access to prisons due to COVID-19. Concern stemmed from concern that in Syria the regime 
+ 
+may be using the pandemic to get rid of prisoners, hardening repression against them29, and 
+similarly, Palestinian prisoners have been more exposed to the new virus in Israeli prisons30. 
+Figure 1 shows the measures practiced by several countries, summarized through our review of 
+the Prison Insider initiative24. 
+Something that could be effective was reported only 5 of the 145 countries reviewed25: mass 
+testing of trapped individuals. The two most practiced measures are the suspension or reduction 
+of visits and the release of prisoners. It should be noted, however, that even though there are 
+large numbers of prisoners being released, the institutions still fall short of holding so many 
+people. 
+There are reports that the excess of prisoners, coupled with the fear of falling ill and the 
+suspension of visits in various locations has caused rebellions in various penal institutions 
+around the world. To exemplify: in Luxembourg, there were reports of a hunger strike31. In 
+Italy, rebellions have been reported in several areas of the country32. In Argentina, there have 
+been at least one death and several injured as a result of riots33. 
+The effervescence that occurred in prisons may be associated with the little health quality 
+information passed on to inmates. Few countries reported having invested in health education, 
+given the context of the pandemic. WHO18 stresses the importance of providing adequate 
+information and legal guarantees to people deprived of liberty in order to reassure them and 
+their families. 
+If, on the one hand, prisoners must be protected by efficient public health policies, on the other, 
+they actively participate in the fight against SARS-CoV-2. Several countries have reported that 
+the prison population is voluntarily working on the making of masks to be distributed in health 
+services and in the community. In Guatemala, a young prisoner reported to the report while 
+ 
+wearing masks: "If I was able to harm Guatemala in the past, today I want to make up for my 
+mistakes." 34. 
+ 
+COPING WITH CORONAVIRUS IN THE BRAZILIAN PRISON SYSTEM 
+ 
+In Brazil, the health needs of people deprived of liberty are under the responsibility of the State, 
+as provided for by the Criminal Execution Law – LEP35, but policies have also been 
+implemented for the inclusion of the prison population within the SUS. In 2014, the National 
+Policy for Integral Health Care of the Private Person of Liberty 36 (PNAISP) was instituted, 
+whose objective is focused on ensuring the care of people deprived of liberty at all levels of 
+complexity, expanding and organizing from the forms of financing of prison health teams to 
+the main health actions for people arrested. 
+A challenge for prison systems around the world, COVID-19, whose most effective treatment 
+is in the prevention of their transmission, individual hygiene and collective spaces, ventilated 
+environments and social isolation1, exposes the precariousness of prisons in Brazil. This 
+challenges managers to ensure the effectiveness of the actions foreseen in the PNAISP, as well 
+as for health professionals who are on the front line in prisons to organize themselves in the 
+face of the risks of an explosion of cases and deaths. 
+In 2019, there were 1,422 prisons in Brazil, of which 49% are destined for the detention of 
+provisional prisoners and 79% are overcrowded22. Half of the prison institutions do not have a 
+doctor's office. According to the National Penitentiary Department22, in the same year, there 
+were 755,274 people deprived of liberty in the country, of which 31% are provisional prisoners. 
+ 
+Brazil complied with the measures proposed by WHO18 in relation to the population deprived 
+of liberty through Recommendation 62/2020 of the National Council of Justice (CNJ)37. This 
+involves incarceration and non-imprisonment measures, in addition to other sanitary actions, 
+detailed in Table 3. Recommendation 62/202037 considers as belonging to the risk group: 
+elderly; pregnant women; people with chronic, respiratory or immunosuppressive conditions. 
+In addition to the above recommendations, the Brazilian Society of Family and Community 
+Medicine issued a document stressing the need for other measures: educational actions, 
+combating fake news, individual and collective hygiene, hygiene of environments, providing 
+information to family members and hygiene of hygiene material of safety professionals, 
+involving actions for prisoners and various prison professionals38. 
+As of May 11, 2020, there were 603 cases of COVID-19 confirmed in Brazilian prisons, 
+resulting in 23 deaths22. With only 20 days, the numbers jumped from 1 to more than 100 in 
+Brazil39. Despite the recommendations and efforts of civil society, much remains to be done. A 
+religious entity working in prisons disclosed the data that 65.9% of food and hygiene materials 
+sent by family members were not entering prisons40. The same religious organization cites the 
+lack of transparency and PPE, in addition to poor hygiene conditions, such as the report that 35 
+prisoners would be using the same toothbrush41. 
+It is noteworthy that of the 603 cases of COVID-19 in Brazilian prisons, 444 (74%) are in the 
+Penitentiary Complex of Papuda42, in the Federal District, an institution that houses many 
+imprisoned politicians and criminals with greater purchasing power. The data may evidence an 
+inequality in the Penitentiary System that reproduces that of society in general, in which there 
+is more access to tests for the novel coronavirus when it occupies a position of social or financial 
+privilege. 
+ 
+ 
+Final considerations 
+ 
+The PNAISP and the recommendations of the CNJ, adapted to the reality of each place are 
+significant initiatives in the health care of people deprived of liberty and give visibility to this 
+problem sensitive and relevant to public health, considering that, because they are porous 
+institutions, the injuries that affect prisons are not restricted to it. 
+Coping with COVID-19 in Brazilian prison institutions, as in much of the world, is a challenge, 
+in view of the precariousness that characterizes them, the result of chronic disregard of public 
+authorities and civil society, which give prisoners an illegitimate worsening of the formal 
+sentence, such as the denial of basic sanitary conditions, such as access to drinking water. 
+In this sense, in times of pandemic, the prison scenario is aggravated by the overlapping of 
+problems, pre-existing and new, that require more aggressive sanitary measures, such as the 
+suspension of visits and others, which result in overisolation, which, in addition, can affect the 
+mental health of people deprived of liberty. 
+Pandemic containment measures taken around the world reveal that there is a consensus on 
+releasing prisoners and suspending visits, but other actions are put aside, such as health 
+education and mass testing in the prison population, which could help in epidemiological 
+projections, given that they are closed and controlled groups. Another consensus is that the lack 
+of health data available on this population prevents the adoption of more effective measures. 
+Scientific publications related to COVID-19, as well as other infectious diseases, in the prison 
+population are scarce, pointing to a possible lack of interest in this theme by the scientific 
+community, which may result from the stigma and difficulty of access to this group. 
+ 
+Given the above, the pandemic for the novel corona virus has been playing a revealing role in 
+the unhealthy and inhuman conditions aimed at the recovery of human beings. May the public 
+authorities, civil society and the scientific community take something positive from the current 
+public health crisis in order to change the fate of vulnerable populations! 
+ 
+Acknowledgment 
+ 
+Thanks to Professor Hélio Marques da Silva, for translating the article, and to Richard Luiz 
+Eduardo and Antônio Teixeira, for their contributions. 
+ 
+References 
+ 
+1- Jin Y, Yang H, Ji W, Wu W, Chen S, Zhang W, Duan G. Virology, Epidemiology, 
+Pathogenesis, and Control of COVID-19. Viruses. 2020 Mar 27;12(4):E372. 
+ 
+2- Mizumoto K, Chowell G. Transmission potential of the novel coronavirus (COVID-
+19) onboard the diamond Princess Cruises Ship, 2020. Infect Dis Model. 2020 Feb 
+29;5:264-270. 
+ 
+3- Finnie TJ, Copley VR, Hall IM, Leach S. An analysis of influenza outbreaks in 
+institutions and enclosed societies. Epidemiol Infect. 2014 Jan;142(1):107-13. 
+ 
+ 
+4- Goffman E. Estigma: notas sobre a manipulação da identidade deteriorada. Rio de 
+Janeiro: Zahar; 1982. 
+ 
+5- World prison brief online database [Internet]. 2020. Occupancy level (based on 
+official capacity); [cited 2020 Apr 30]; Available from: 
+https://www.prisonstudies.org/highest-to-lowest/occupancy-
+level?field_region_taxonomy_tid=All 
+ 
+6- NPR [Internet]. 2020 Feb 21. Coronavirus Found In China Prisons, As Cases Spike In 
+South Korea; [cited 2020 Apr 30]; Available from: 
+https://www.npr.org/2020/02/21/808002924/coronavirus-found-in-china-prisons-as-
+cases-spike-in-south-korea 
+ 
+7- Akiyama MJ, Spaulding AC, Rich JD. Flattening the Curve for Incarcerated 
+Populations - Covid-19 in Jails and Prisons. N Engl J Med. 2020 Apr 2.  
+ 
+8- Sylverken A, El-Duah P, Owusu M, Yeboah R, Kwarteng A, Ofori L, Gorman R, 
+Obiri-Danso K, Owusu-Dabo E. Burden of respiratory viral infections among inmates 
+of a Ghanaian prison. 
+ 
+9- Simpson PL, Butler TG. Covid-19, prison crowding, and release policies. BMJ. 2020 
+Apr 20;369:m1551. 
+ 
+ 
+ 
+10- Meyer JP, Franco-Paredes C, Parmar P, Yasin F, Gartland M. COVID-19 and the 
+coming epidemic in US immigration detention centres. Lancet Infect Dis. 2020 Apr 
+15:S1473-3099(20)30295-4. 
+ 
+11- Yang H, Thompson JR. Fighting covid-19 outbreaks in prisons. BMJ. 2020 Apr 
+2;369:m1362. 
+ 
+12- Kinner SA, Young JT, Snow K, Southalan L, Lopez-Acuña D, Ferreira-Borges C, 
+O'Moore É. Prisons and custodial settings are part of a comprehensive response to 
+COVID-19. Lancet Public Health. 2020 Apr;5(4):e188-e189. 
+ 
+13- Keller AS, Wagner BD. COVID-19 and immigration detention in the USA: time to 
+act. Lancet Public Health. 2020 May;5(5):e245-e246. 
+ 
+14- Wurcel AG, Dauria E, Zaller N, Nijhawan A, Beckwith C, Nowotny K, Brinkley-
+Rubinstein L. Spotlight on Jails: COVID-19 Mitigation Policies Needed Now. Clin 
+Infect Dis. 2020 Mar 28:ciaa346. 
+ 
+15- Stephenson J. COVID-19 Pandemic Poses Challenge for Jails and Prisons. InJAMA 
+Health Forum 2020 Apr 1 (Vol. 1, No. 4, pp. e200422-e200422). American Medical 
+Association. 
+ 
+16- Gorman G, Ramaswamy M. Detained during a pandemic: A postcard from the 
+Midwest. Public Health Nurs. 2020 May;37(3):325-326. 
+ 
+ 
+17- Rubin R. The challenge of preventing COVID-19 spread in correctional facilities. 
+JAMA. 2020 Apr 7. 
+ 
+18- World Health Organization. Preparedness, prevention and control of COVID-19 in 
+prisons and other places of detention (2020), Interim guidance 15 March 2020. 
+ 
+19- Liebrenz M, Bhugra D, Buadze A, Schleifer R. Caring for persons in detention 
+suffering with mental illness during the Covid-19 outbreak. Forensic science 
+international. Mind and law. 2020;1. 
+ 
+20- Lofgren E, Lum K, Horowitz A, Madubuowu B, Fefferman N. The Epidemiological 
+Implications of Incarceration Dynamics in Jails for Community, Corrections Officer, 
+and Incarcerated Population Risks from COVID-19. medRxiv. 2020 Jan 1. 
+ 
+21- Mabud TS, Alves MD, Ko AI, Basu S, Walter KS, Cohen T, Mathema B, Colijn C, 
+Lemos E, Croda J, Andrews JR. Evaluating strategies for control of tuberculosis in 
+prisons and prevention of spillover into communities: An observational and modeling 
+study from Brazil. PLoS medicine. 2019 Jan;16(1). 
+ 
+22- DEPEN [Internet]. 2017 Jun 30. INFOPEN; [cited 2020 May 11]; Available from: 
+http://depen.gov.br/DEPEN/depen/sisdepen/infopen 
+ 
+23- Walmsley R. International World Prison Population List. Institute for Criminal Policy 
+Research (ICPR). 2018. 
+ 
+ 
+24- Mbembe A. Necropolitics. Duke University Press; 2019 Oct 25. 
+ 
+25- Prison Insider [Internet]. [place unknown]; 2020 May 05. Coronavirus : la fièvre des 
+prisons; [cited 2020 May 5]; Available from: https://www.prison-
+insider.com/articles/coronavirus-la-fievre-des-prisons 
+ 
+26- The Marshall Project [Internet]. [place unknown]; 2020 Mar 17. As COVID-19 
+Measures Grow, Prison Oversight Falls; [cited 2020 May 1]; Available from: 
+https://www.themarshallproject.org/2020/03/17/as-covid-19-measures-grow-prison-
+oversight-falls. 
+ 
+27- Sobesednik [Internet]. [place unknown]; 2020 Mar 31. Vladimir Osechkin: I'm afraid 
+that prison statistics on COVID-19 are falsified; [cited 2020 May 1]; Available from: 
+https://sobesednik.ru/obshchestvo/20200331-vladimir-osechkin-boyus-chto-
+t?fbclid=IwAR3Bi0kBBpFujMihl1XnyFFXqsuD9rXBg5iH_1ppwE3Ry8bjmLBZUL
+CENYwvid-19-measures-grow-prison-oversight-falls. 
+ 
+28- France 3 [Internet]. [place unknown]; 2020 Apr 16. Coronavirus : le député LFI Ugo 
+Bernalicis conteste son interdiction de visiter la prison de Sequedin; [cited 2020 May 
+1]; Available from: https://france3-regions.francetvinfo.fr/hauts-de-
+france/coronavirus-depute-lfi-ugo-bernalicis-conteste-son-interdiction-visiter-prison-
+sequedin-1817236.html. 
+ 
+29- Syria Direct [Internet]. [place unknown]; 2020 Apr 14. Coronavirus: The Syrian 
+regime’s novel weapon against detainees; [cited 2020 May 4]; Available from: 
+ 
+https://syriadirect.org/news/coronavirus-the-syrian-regime%E2%80%99s-novel-
+weapon-against-detainees/. 
+ 
+30- Middle East Monitor [Internet]. [place unknown]; 2020 Apr 14. Israel’s jail conditions 
+will kill Palestinian prisoners before coronavirus does; [cited 2020 May 4]; Available 
+from: https://www.middleeastmonitor.com/20200414-israels-jail-conditions-will-kill-
+palestinian-prisoners-before-coronavirus-does/#comment-4876974513. 
+ 
+31- RTL [Internet]. [place unknown]; 2020 Mar 31. 30 inmates embark on hunger strike 
+following protests; [cited 2020 May 2]; Available from: 
+https://today.rtl.lu/news/luxembourg/a/1493481.html. 
+ 
+32- Prison Insider [Internet]. [place unknown]; 2020 Mar 12. Italie : révoltes dues au 
+coronavirus, douze prisonniers décédés; [cited 2020 May 2]; Available from: 
+https://www.prison-insider.com/articles/italie-revoltes-dues-au-coronavirus-douze-
+prisonniers-decedes?referrer=%2Fpreview.php%2Farticles%2Fcoronavirus-la-fievre-
+des-prisons. 
+ 
+33- Clarín [Internet]. [place unknown]; 2020 Mar 23. Un muerto en un motín en dos 
+cárceles de Santa Fe: reclaman medidas de seguridad por el coronavirus; [cited 2020 
+May 7]; Available from: https://www.clarin.com/policiales/graves-disturbios-carceles-
+santa-fe-reclaman-medidas-seguridad-coronavirus_0_z6ZWKbGfp.html. 
+ 
+34- CNN [Internet]. [place unknown]; 2020 Mar 27. Coronavirus en Guatemala: Jóvenes 
+fabrican al menos 5.000 mascarillas desde la prisión; [cited 2020 May 6]; Available 
+ 
+from: https://cnnespanol.cnn.com/video/coronavirus-mascarillas-jovenes-prision-
+ciudad-guatemala-pandemia-pkg-digital-orig-michelle-mendoza/. 
+ 
+35- BRASIL. LEI Nº 7.210, de 11 de julho de 1984. Institui a Lei de Execução penal. 
+2010. 
+ 
+36- BRASIL. Portaria Interministerial n. 1, de 02 de janeiro de 2014. Institui a Política 
+Nacional de Atenção Integral à Saúde das Pessoas Privadas de Liberdade no Sistema 
+Prisional (PNAISP) no âmbito do Sistema Único de Saúde (SUS). Diário Oficial da 
+União. 2014. 
+ 
+37- Conselho Nacional de Justiça. Recomendação nº 62, de 17 de março de 2020. 
+Recomenda aos Tribunais e magistrados a adoção de medidas preventivas à 
+propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos sistemas de 
+justiça penal e socioeducativo. https://www.cnj.jus.br/wp-content/uploads/2020/03/62-
+Recomendação.pdf (acessado em 14/Abr/2020). 
+ 
+38- SBMFC [Internet]. 2020 Mar 25. Medidas e orientações para o enfrentamento da 
+COVID-19 nas prisões; [cited 2020 Apr 29]; Available from: 
+https://www.sbmfc.org.br/wp-content/uploads/2020/03/Medidas-e-
+orientac%CC%A7o%CC%83es-para-o-enfrentamento-a-COVID-%E2%80%93-19-
+nas-priso%CC%83es.pdf. 
+ 
+ 
+39- Ponte [Internet]. 2020 Apr 28. Casos de coronavírus em prisões vão de 1 a 107 em 20 
+dias, com 7 mortes; [cited 2020 Apr 8]; Available from: https://ponte.org/casos-de-
+covid-19-em-prisoes-vao-de-1-a-107-em-20-dias-com-7-mortes/. 
+ 
+40- Pastoral Carcerária [Internet]. 2020 Apr 09. Pastoral Carcerária divulga dados de 
+questionário sobre coronavírus nas prisões; [cited 2020 May 6]; Available from: 
+https://carceraria.org.br/combate-e-prevencao-a-tortura/pastoral-carceraria-divulga-
+dados-de-questionario-sobre-coronavirus-nas-prisoes. 
+ 
+41- Pastoral Carcerária [Internet]. 2020 Apr 22. Pastoral Carcerária divulga relatos e 
+denúncias sobre o sistema carcerário em tempos de pandemia; [cited 2020 May 6]; 
+Available from: https://carceraria.org.br/combate-e-prevencao-a-tortura/pastoral-
+carceraria-divulga-relatos-e-denuncias-sobre-o-sistema-carcerario-em-tempos-de-
+pandemia. 
+ 
+42- Correio Braziliense [Internet]. 2020 May 11. Número de presos infectados pelo 
+coronavírus na Papuda chega a 444; [cited 2020 May 14]; Available from: 
+https://www.correiobraziliense.com.br/app/noticia/cidades/2020/05/11/interna_cidade
+sdf,853723/numero-de-presos-infectados-pelo-coronavirus-na-papuda-chega-a-
+444.shtml. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Author´s contributions 
+SG Carvalho, ABS Santos and IM Santos participated in conception, literature and data 
+review, writing, critical reviewings and final approval of the manuscript. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1: Database search strategy 
+PubMed 
+Google Scholar 
+(((((((((((((((((((((prison[Title/Abstract]) OR (prisons[Title/Abstract])) 
+OR (jail[Title/Abstract])) OR (emprisionment[Title/Abstract])) OR 
+(in jail[Title/Abstract])) OR (arrest[Title/Abstract])) OR 
+(arrested[Title/Abstract])) OR (detention[Title/Abstract])) OR 
+(custody[Title/Abstract])) OR (confinement[Title/Abstract])) OR 
+(cage[Title/Abstract])) OR (in cage[Title/Abstract])) OR 
+(quod[Title/Abstract])) OR (chokey[Title/Abstract])) OR 
+(choky[Title/Abstract])) OR (gaol[Title/Abstract])) OR 
+(entanglement[Title/Abstract])) OR (accouchement[Title/Abstract])) 
+OR (constrain[Title/Abstract])) OR (ewer[Title/Abstract])) OR 
+(captivity[Title/Abstract])) AND (((((coronavirus[Title/Abstract]) OR 
+(SARS-COV-2[Title/Abstract])) OR (coronaviruses[Title/Abstract])) 
+OR (covid-19[Title/Abstract])) OR (pandemy[Title/Abstract])) 
+ 
+Coronavirus AND prisons  
+ 
+ 
+ 
+COVID-19 AND prisons 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2: Publications included in the review  
+Title 
+Authors 
+Publication type 
+Journal 
+Covid-19, prison crowding, and 
+release policies9 
+Simpson PL, Butler TG. 
+Editorial 
+BMJ 
+COVID-19 and the coming epidemic 
+in US immigration detention 
+centres10 
+Meyer JP, Franco-Paredes C, 
+Parmar P, Yasin F, Gartland 
+M. 
+Comment 
+Lancet Infect Dis  
+Fighting covid-19 outbreaks in 
+prisons11 
+Yang H, Thompson JR. 
+Letter 
+BMJ  
+Flattening the Curve for Incarcerated 
+Populations — Covid-19 in Jails and 
+Prisons7 
+Akiyama MJ, Spaulding AC, 
+Rich JD.  
+ 
+Perspective 
+ N Engl J Med. 
+Prisons and custodial settings are part 
+of a comprehensive response to 
+COVID-1912 
+Kinner SA, Young JT, Snow 
+K, et al. 
+Comment 
+Lancet Public Health  
+COVID-19 and Immigration 
+Detention in the USA: Time to Act13 
+Keller AS, Wagner BD. 
+Comment 
+Lancet Public Health  
+Spotlight on Jails: COVID-19 
+Mitigation Policies Needed Now14 
+Wurcel AG, Dauria E, Zaller 
+N, et al. 
+Correspondence 
+Clin Infect Dis. 
+COVID-19 Pandemic Poses 
+Challenge for Jails and Prisons15 
+Stephenson, J. 
+Comment 
+JAMA Health 
+Forum 
+Detained during a pandemic: A 
+postcard from the Midwest16 
+Gorman G, Ramaswamy M.  
+Editorial 
+Public Health Nurs. 
+The challenge of preventing COVID-
+19 spread in correctional facilities17 
+Rubin, R.  
+Perspective 
+JAMA 
+Preparedness, prevention and control 
+of COVID-19 in prisons and other 
+places of detention18 
+World Health Organization. 
+Technical document 
+World Health 
+Organization 
+Caring for persons in detention 
+suffering with mental illness during 
+the Covid-19 outbreak19 
+Liebrenz, M., Bhugra, D., 
+Buadze, A. e Schleifer, R. 
+Comment 
+Forensic science 
+international. Mind 
+and law 
+The Epidemiological Implications of 
+Incarceration Dynamics in Jails for 
+Community, Corrections Officer, and 
+Incarcerated Population Risks from 
+COVID-1920 
+Lofgren, E., Lum, K., 
+Horowitz, A., Madubuowu, B., 
+& Fefferman, N. 
+Preprint:Mathematical 
+Modelagem  
+medRxiv 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3: Measures to combat the novel coronavirus in the Brazilian Penal System 
+Extrication 
+Reassessment of socio-educational measures for adolescents with: progression from hospitalization to semi-freedom; 
+temporary suspension or remission of the measure. Preference given to: pregnant, lactating, indigenous or disabled; 
+hospitalized in units with reduced capacity or in units without health care. 
+Reassessment of sentences of provisional prisons that have exceeded 90 days or that are related to crime without violence 
+or serious threat to the person. 
+Reassessment of provisional arrests of people in the risk group or prisoners in units without medical assistance. 
+Consider regime progression for people in a at-risk group or who are in overcrowded prisons or without health care. 
+In the absence of space for adequate isolation, placing the person arrested with suspicion or confirmation of COVID-19 
+under house arrest. 
+No entrapment 
+Alternative socio-educational measures and suspension of provisional hospitalizations for adolescents whose offense did 
+not incurred violence. Preference given to: pregnant, lactating, indigenous or disabled; hospitalized in units with reduced 
+capacity or in units without health care. 
+House arrest for people arrested for child support debt. 
+Maximum exceptionality of new pretrial detention orders, observing the protocol of the health authorities. 
+Other measures 
+Suspension of the duty of periodic submission to the court of persons on provisional release. 
+Extension of the period of return or postponement of the granting of the temporary exit benefit. 
+Restriction or reduction of visits to prisoners. 
+Temporary replacement of prison officers who are part of the risk group. 
+Education campaigns on the novel coronavirus. 
+Increased frequency of cleaning of cells and common spaces. 
+Avoid shared transportation of people deprived of liberty. 
+Screening of prisoners, staff and visitors. 
+Supply of personal protective equipment (PPE) to employees. 
+Uninterrupted supply of water to persons deprived of liberty and public servants of the units. 
+Isolation of suspected or confirmed cases in prison. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: Measures to combat the new coronavirus in prisons worldwide 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+Meals inside the cells or limiting cell exit
+New prisons inauguration
+Health education activities
+Isolation centers for infected  prisoners
+Mass testing
+New admited prisoners isolation
+Strengthening of personal hygiene measures
+Pardon or provisional release
+Screening on admission  of new  prisoners or visitors  and officials
+Cells clearing or disinfection
+Visitations supension or reduction
