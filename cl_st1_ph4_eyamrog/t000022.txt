@@ -1,405 +1,20 @@
-Publication status: Preprint has been submitted for publication in journal
-OLIVA: The scientific production indexed in Latin America and
-the Caribbean. Disciplinary diversity, institutional collaboration,
-and multilingualism in SciELO and Redalyc (1995-2018)
-Fernanda Beigel, Abel L. Packer, Osvaldo Gallardo, Maximiliano Salatino
-https://doi.org/10.1590/SciELOPreprints.4637
-Submitted on: 2022-08-21
-Posted on: 2022-08-22 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
- 
- 
- 
- 
- 
-ARTIGOS ORIGINAIS 
- 
-OLIVA: The scientific production indexed in Latin America and the Caribbean. 
-Disciplinary diversity, institutional collaboration, and multilingualism in SciELO 
-and Redalyc (1995-2018). 
- 
- 
-Fernanda Beigel 
-PhD in Political and Social Sciences. Principal Researcher at CONICET. Professor of Sociology at 
-the Universidad Nacional de Cuyo. Director of the Centro de Estudios de la Circulación del 
-Conocimiento (FCPyS-UNCuyo). Mendoza, Argentina. 
-Email: fernandabeigel@gmail.com 
-https://orcid.org/0000-0002-7996-9660 
-Abel L. Packer 
-Master of Library Science, Syracuse University. Project Coordinator for the Fundação de Apoio à 
-Universidade Federal de São Paulo, Director of the SciELO / FAPESP (Scientific Electronic Library 
-Online) Program. 
-Email: abel.packer@scielo.org 
-https://orcid.org/0000-0001-9610-5728 
-Osvaldo Gallardo 
-PhD in Latin American Social Studies, Universidad Nacional de Córdoba. Postdoctoral Fellow at 
-the Agencia Nacional de Promoción Científica y Tecnológica. Professor of History at the 
-Universidad Nacional de Cuyo. Researcher of the Centro de Estudios de la Circulación del 
-Conocimiento (FCPyS-UNCuyo). Mendoza, Argentina. 
-Email: osvaldogallardo87@gmail.com 
-https://orcid.org/0000-0003-0662-2196 
-Maximiliano Salatino 
-PhD in Social Sciences, Universidad Nacional de Cuyo. A CONICET Postdoctoral Fellow. Professor 
-of Political Science at the Universidad Nacional de Cuyo. Researcher of the Centro de Estudios de 
-la Circulación del Conocimiento (FCPyS-UNCuyo). Mendoza, Argentina. 
-Email: maxisalatino@gmail.com 
-https://orcid.org/0000-0001-5573-9599 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
-ABSTRACT 
-This article presents the results of the Latin American Observatory of Evaluation 
-Indicators (OLIVA, its Spanish acronym) which works to raise the visibility of the scientific 
-production indexed in Latin America and the Caribbean, and to enhance its value for 
-research assessment. This study deals with the production published in open access by 
-journals indexed in SciELO and Redalyc, based on a deduplicated database of a total of 
-908,982 documents and 2,591,704 authors. It highlights the magnitude of this production 
-and describes its disciplinary diversity, as well as trends in national, regional, and 
-international research collaboration. It also examines the publishers of the 1,720 journals 
-that make up the database of journals from 15 countries and highlights the predominance 
-of universities and public institutions in this regional circuit. The journals that operate 
-with the APC model are analyzed, confirming a clearly lower influence of this model 
-compared to what is observed in other continents, although Brazil is identified as the 
-country with the greatest incidence of this practice in the region. Finally, collaboration 
-between states in Brazil, analyzed with SciELO data, proves to be highly significant, 
-strongly challenging the traditional interpretation of co-authorship among researchers 
-from the same country as academic inbreeding. The study concludes that these journals 
-show multi-scalar circulation, a linguistic diversity, and a disciplinary breadth that can 
-very effectively serve the current needs of scholarly communication in times of open 
-science. 
- 
-Keywords: Scholarly communication; SciELO; Redalyc; National collaboration; 
-International collaboration. 
- 
-Título: OLIVA:   Produção   científica   indexada   na   América   Latina.   Diversidade 
-Disciplinar, Colaboração Institucional e Multilinguismo em Scielo e Redalyc 
-(1995-2018) 
- 
-RESUMO 
-Este artigo apresenta os resultados do Observatório Latinoamericano de Indicadores de 
-Avaliação (OLIVA) que visa contribuir para tornar mais visível a produção científica 
-indexada na América Latina e Caribe, a fim de promover a sua valorização nos sistemas 
-de avaliação. Este trabalho aborda a produção científica em acesso aberto das revistas 
-indexadas no SciELO e Redalyc, com base na consolidação de uma base de dados, sem 
-sobreposição, com o número total de 908.982 documentos e 2.591.704 autores e autoras. 
-Também analisa as instituições editoras das 1.720 revistas de 15 países que compõem a 
-base de dados, destacando a predominância das universidades e instituições públicas no 
-circuito regional. O estudo destaca a magnitude desta produção, a sua diversidade 
-disciplinar e as tendências da colaboração nacional e internacional. As revistas que 
-operam sob o modelo APC são delineadas, o que confirma uma incidência muito inferior 
-à de outros continentes, embora o Brasil seja apresentado como o país com o maior peso 
-desta prática. Finalmente, a colaboração entre estados do Brasil, analisada com dados da 
-SciELO, se revela altamente significativa, confrontando a interpretação tradicional de 
-coautoria entre pesquisadores do mesmo país em termos de endogamia. O estudo conclui 
-que estas revistas mostram formas de circulação multiescalar, diversidade linguística e 
-amplitude disciplinar que podem contribuir de forma muito eficaz para as necessidades 
-atuais de comunicação científica em tempos de ciência aberta. 
- 
-Palavras-chave: publicação científica; SciELO; Redalyc; colaboração nacional; 
-colaboração internacional 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
-Título: OLIVA: La Producción Científica Indexada en América Latina. Diversidad 
-Disciplinar, Colaboración Institucional y Multilingüismo en Scielo y Redalyc 
-(1995-2018) 
- 
-RESUMEN 
-El artículo presenta los resultados del Observatorio Latinoamericano de Indicadores de 
-Evaluación (OLIVA) que se propone contribuir a visibilizar la producción científica 
-indexada en América Latina y el Caribe, para promover su valorización en los sistemas de 
-evaluación. En este trabajo se aborda la producción publicada en acceso abierto por 
-revistas indexadas en SciELO y Redalyc, a partir de la consolidación de una base de datos, 
-sin solapamientos, con un total de 908.982 documentos y 2.591.704 autores y autoras. El 
-estudio destaca la magnitud de esta producción y describe su diversidad disciplinar, así 
-como las tendencias en la colaboración nacional, regional e internacional. Se analizan 
-también las instituciones editoras de las 1.720 revistas que componen la base de datos, 
-pertenecientes a 15 países, destacando el predominio de las universidades y las 
-instituciones públicas en este circuito regional de publicación. Se detallan las revistas que 
-funcionan con el modelo de APC, lo que confirma una incidencia francamente menor a la 
-que se registra en otros continentes, aunque Brasil se presenta como el país con mayor 
-peso de esta práctica. Finalmente, la colaboración interna entre estados de Brasil, 
-analizada con datos de SciELO, se revela altamente significativa   confrontando la lectura 
-en términos de endogamia que tradicionalmente se ha asignado a la co-autoría entre 
-investigadores/as de un mismo país. El estudio concluye planteando que en estas revistas 
-se observan formas de circulación multi-escalar, una diversidad lingüística y una amplitud 
-disciplinar que pueden contribuir de un modo muy eficaz a las necesidades actuales de la 
-comunicación científica en tiempos de ciencia abierta. 
- 
-Palabras clave: publicación científica; SciELO; Redalyc; colaboración nacional; 
-colaboración internacionalSciELO Preprints  
- 
-Conflict of Interest  
-The authors declare that there is no conflict of interest. 
- 
-Funding 
-This research was possible thanks to the financial support received from the Universidad 
-Nacional de Cuyo (PROYECTO SIIP TIPO 4-038) and the Agencia I+D+I-Ministerio de 
-Ciencia, Tecnología e Innovación, Argentina (PICT 2017-2647). 
- 
-CRediT -Author’s contribution Statement (extracted from DADOS – Scholar One) 
-1.Beigel, Fernanda: Conceptualization (Equal); Data curation (Equal); Funding acquisition 
-(Lead); Investigation (Equal); Methodology (Equal); Project administration (Lead); Resources 
-(Equal); Validation (Equal); Visualization (Equal); Writing –original draft (Equal); Writing –
-review & editing (Equal). 
-2.Packer, Abel: Conceptualization (Equal); Data curation (Equal); Validation (Equal); 
-Visualization (Equal); Writing –original draft (Equal); Writing –review & editing (Equal). 
-3.Gallardo, Osvaldo: Conceptualization (Equal); Data curation (Equal); Investigation (Equal); 
-Methodology (Equal); Validation (Equal); Visualization (Equal); Writing –original draft (Equal); 
-Writing –review & editing (Equal) 
-4.Salatino, Maximiliano: Conceptualization (Equal); Investigation (Equal); Methodology (Equal); 
-Validation (Equal); Visualization (Equal); Writing –original draft (Equal); Writing –review & 
-editing (Equal). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
-1. Introduction1 
- 
-The Latin American academic circuit is a constellation of national academic communities 
-and regional networks that was formed in the mid-20th century with the support of inter-
-governmental organizations, cooperation agencies and foundations that promoted the 
-management of scientific information as a key element for development. This led to the 
-emergence of regional institutions that collaborated closely in the cataloging and 
-construction of bibliographic indexes to foster the dissemination of locally produced 
-scientific knowledge (Rodriguez Garcia Coord. 2020). By 1967, a significant step forward 
-was made by the building of information centers such as BIREME and research networks 
-such as CLACSO. They soon became major regional repositories for the dissemination of 
-Latin American scientific production (Packer, 2005; Vessuri, 1994). Efforts to 
-professionalize scientific publishing were driven by the creation of indexing systems led 
-by regional centers affiliated to United Nations agencies (IMLA-LILACS, DOCPAL, 
-REPIDISCA, AGRINTER-SIDALC) and by large public universities, most notably the 
-Universidad Nacional Autónoma de México (responsible for the first indexes Clase, 
-Periódica, and afterwards Latindex and BIBLAT). All these systems were created and 
-operated by universities, national and inter-governmental organizations to improve the 
-bibliographic exchange of the region's scientific and technical production. With the 
-pioneering emergence of the regional open access journal platforms SciELO in 1998 and 
-Redalyc in 2005, an infrastructure supporting digitized journals and indexing web 
-services was born. In addition, and in conjunction with Latindex, these services created a 
-journal quality certification system that focuses on peer review and best practices in 
-editing. This resulted in a progressive professionalization of the journals, thus 
-establishing an editorial hallmark in the region characterized by academic quality and 
-non-commercial open access. With a strong public character and the commitment of many 
-governments, these portals and indexing services today represent a fundamental space 
-for the development of open science (Vessuri, Cetto and Guédon, 2014; Beigel 2019; 
-Packer, 2020; Banzato and Salatino, 2020).  
- 
-The global report on diamond journals (Bosman et al. 2021) recently published by 
-OPERAS shows the importance of journals that do not charge for publishing or for reading, 
-and points to the role of Latin America in the production of 25% of the total of these 
-publications worldwide. Indeed, these open access journals are mostly published by 
-universities and managed by full-time professors, assisted by technical support teams 
-centralized in the libraries. An important aspect in the consolidation of university 
-publishing in this region is the massive adoption of the open source Open Journal System 
-(OJS-PKP) for the management of the editing, peer review and publication of the journals2. 
-In addition to university journals, there are also those of the scientific societies and 
-professional associations which are often operated with the support of university 
-infrastructure and personnel for digitization, creating permalinks, acquiring DOI’s, and 
-doing the XML markup of the texts. Although this support needs to be strengthened, this 
-core institutional and governmental support explains the existence and growth of Latin 
-American and Caribbean journals. 
- 
- 
- 
-1 We are deeply grateful for the relevant comments received by the two peer reviewers of this article, and for the thoughtful review by 
-Dominique Babini.  
-2 https://pkp.sfu.ca/ojs/ojs-usage/ojs-stats/ 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
-The vibrancy of this regional circuit is now more visible globally given that the flow of 
-scholarly communication has been improved by several mega indexes such as Google 
-Scholar, Dimensions, Lens and the federation of repositories LA Referencia which has a 
-greater coverage of Latin American and Caribbean production. However, there is still no 
-significant impact of these journals on global S&T reports or on evaluations of scientific 
-careers, projects and institutions in which the use of the Impact Factor and other 
-indicators from traditional databases such as the Web of Science and Scopus continue to 
-prevail. This prejudices the value of the journals indexed in the region because it drives 
-many research groups to preferentially choose journals managed by the dominant players 
-in the publishing industry. This choice has been historically shaped in the academic 
-community by the deeply rooted belief of the relevance/transparency of these indicators 
-(Martinovich, 2020). It also highlights the gap between the ability of the region to, on the 
-one hand, produce and publish quality science and, on the other, to gain international 
-legitimacy for its journals (Packer and Meneghini, 2007). Several studies have already 
-pointed out the limitations of these traditional indicators which were favored by several 
-structural conditions and generated a series of abuses and distortions that affected the 
-creativity and even the researchers' concern for the social relevance of science (Guédon, 
-2011; Gingras, 2016; Ráfols, 2019). Thus, policies of internationalization that are justified 
-by the need to advance in the rankings result in many institutions having their autonomy 
-restricted and a weakening of their own capacities to link with the research environment.  
- 
-The development of a global consensus on the need for open access to scientific literature 
-has brought increasing attention to the region's journals and indexing systems. Basson et. 
-al (2021) analyze the proportion of open access articles available in Dimensions, which 
-by 2021 had 46.6% of its documents in open access. They note that this percentage 
-increases to 63.5% for documents published by Latin American and Caribbean journals. 
-There are few studies that provide information, at the document level, on the breadth and 
-diversity of the production published in the region, apart from the aforementioned 
-mainstream databases. An important precedent is the study by Miguel (2011) which 
-compared the coverage of journals from Latin America and the Caribbean included in 
-SciELO, Redalyc and SCOPUS for the period 2005-2009. The estimated volume of scientific 
-production using these three sources revealed differences with respect to the coverage 
-registered in the Latindex catalog3. In relation to disciplinary coverage, SCOPUS and 
-SciELO were more thematically balanced, while Redalyc showed a greater inclination 
-towards the Social Sciences and Humanities.  
- 
-Vuotto, Di Césare and Pallotta (2020) analyzed 17 bibliographic databases and verified 
-that currently there are still few of them that openly offer their elements in a common 
-format and structure to enable the analysis of production at the document level. For this 
-reason, to date, the available empirical studies have only been able to analyze the journal 
-collections separately as offered by each of the indexing databases. Scopus has 890 
-journals that are published in the region, and Web of Science has 223. As of June 2021, 
-SciELO had 1,358 active, indexed journals which are also replicated in the SciELO Citation 
-Index in the Web of Science platform, allowing for the evaluation of the performance of 
-the articles in a global context of citations. Redalyc, for its part, has its own information 
-system and indicators for its collection of 1,415 journals. These two collections have many 
- 
-3 LATINDEX Catalog 2.0. is a comprehensive list of scholarly journals published in the Ibero-American region 
-which are individually assessed to guarantee a set of quality criteria indicators. The Latindex portal shows 
-information of the journals but not at the level of document.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
-journals in common, as we will see shortly. Then there is also Biblat which has its own 
-cataloging system with a large number of complete records at the document level. 
-However, at present it is not possible to work with combined data from these three 
-indexing databases in the region because they are not interoperable. To these sources LA 
-Referencia should be added. It is a very relevant database which harvests the production 
-of 790 institutions from 12 Ibero-American countries. It currently has more than three 
-million documents. However, it does not have advanced searching by journal, and there 
-are overlaps of data with the former indexing services given that it originates from the 
-repositories of the individual institutions.  
- 
-Furthermore, there are thousands of journals that do not have metadata at the document 
-level. This affects the possibility of analyzing the production published in Latindex 
-journals which continues to be, as Miguel already observed in 2011, the cataloging 
-database with the greatest coverage. In addition, there is no standardization of 
-institutional affiliations, nor of the disciplinary classification of journals; nor is the use of 
-unique identifiers of authors and institutions such as ORCID and ROR sufficiently 
-widespread among the different databases.  All these further limit studies at the document 
-level. Consequently, this large corpus of documents published in the region is observed 
-from fragmented approaches. 
- 
-It is in this context that the OLIVA project (Latin American Observatory of eVAluation 
-Indicators4) emerged as an initiative of the Centro de Estudios de la Circulación del 
-Conocimiento (CECIC-Facultad de Ciencias Políticas y Sociales), which was approved and 
-funded in early 2019 by the Universidad Nacional de Cuyo. The main purpose of this 
-project is to give visibility to the richness of this scientific production published in the 
-region, and to develop indicators to recognize the value of these journals for the 
-assessment of individual careers and academic institutions. For the first phase of the 
-project, the SciELO/FAPESP Program of Brazil, Redalyc (at the Universidad Autónoma del 
-Estado de México -UAEM Mexico), and the Consejo Latinoamericano de Ciencias Sociales 
-(CLACSO) were invited to collaborate. The results of this first phase of the project are 
-presented in this paper. The second phase foresees the incorporation of documents from 
-journals indexed in Latindex Catalog 2.0 and in Biblat. A pilot is already underway with 
-these institutions.  
-  
-A database of 1,720 scientific journals published in Latin America and the Caribbean and 
-indexed in SciELO and/or Redalyc was built within the framework of OLIVA. The study 
-was organized on two levels - one at the journal level, and the other at the document level. 
-The objective was to map out this circuit of quality scientific literature, addressing the 
-existing forms of co-authorship, disciplinary characteristics, and languages of publication.  
-In the first part of this article, we delve on the description of the journals in the database 
-constructed at this stage (SciELO and Redalyc). We then pass on to characterizing the 
-publishing institutions of the journals and highlight their predominantly public nature 
-and self-management by the academic community. An empirical classification of the 
-journals’ disciplines was carried out based on the information found on their respective 
-web sites. This was done because of the existing limitations of classifying the documents 
-based on the disciplinary cataloging offered by the indexing databases. It revealed that 
-the production has broad coverage, with half of the indexed documents being from the 
-Social Sciences and Humanities, and the other half from Engineering, Natural Sciences, 
- 
-4 See https://cecic.fcp.uncuyo.edu.ar/oliva/ 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
-and Health and Biological Sciences. We then analyzed the patterns of co-authorship and 
-the different levels of collaboration – global, regional (LA) and national. We also analyzed 
-the language patterns of the corpus, noting the growth of journals that publish in English 
-and a multilingualism that is emerging in journals that are beginning to publish in several 
-languages.  
- 
-Finally, we focus on the case of Brazil. Given the significant weight of this country with 
-50% of the total number of articles published in the database and having a high tendency 
-towards co-authorship among Brazilian authors, we contrast this  with a more detailed 
-analysis of the SciELO Brazil collection (only journals from Brazil). There we find that 
-there is a strong tendency towards scientific collaboration between authors affiliated with 
-the same country but belonging to universities from different states. A picture thus 
-emerges that calls into question the preconception that collaboration between authors of 
-the same country signifies academic inbreeding and reveals the complexity of this 
-national academic space and its current dynamics.  
- 
-A note about the sources and methods 
- 
-The OLIVA project database is made up of the collected data of the journals indexed by SciELO and Redalyc, 
-and revised data from the published documents. Each of these indexing systems collaborated by providing 
-its historical database updated to June 2019. The data was subjected to data cleaning and deduplication of 
-the journals in common. The result was an integrated bibliographic database for statistical purposes and is 
-composed of the following elements at the document level: type of document, date of publication, language, 
-and author’s country. It does not include data on citations as this is outside the scope of the project.  
- 
-The construction of this integrated database faced significant limitations. The principal one was, as has 
-already been pointed out, the lack of a common identification system amongst the indexing platforms for 
-authors, journals and institutional affiliations.  There was no information on gender, as is usually the case 
-with scientific documents and bibliographic records. An important difficulty was compiling the diverse 
-portions of the indexed published documents in the journals pertaining to both indexing services.  
- 
-In view of all this, we opted for a process of revision of the journals through a manual and meticulous 
-procedure. First, the journals only in SciELO or only in Redalyc were identified, and the metadata of these 
-documents were aggregated including articles, reviews, and editorials - both from active journals at the time 
-of capture as well as documents indexed at an earlier time in between the gaps. in coverage. As for the 
-journals common to both indexing platforms, the same journal could have different gaps or periods of 
-coverage in each of the platforms. Thus, the consistency and completeness of the data were compared and, 
-for each case, it was decided to keep those that had the widest temporal coverage and the largest number 
-of documents. It should be clarified that in this phase of the project, we worked only with journals published 
-in Latin America and the Caribbean5.  
- 
-Regarding the disciplinary classification of journals, we faced the challenge of the different classifications 
-used by the indexing databases, even for the grouping into scientific areas. Thus, the same journal could be 
-classified in different disciplines and, as a result, in different areas. For the OLIVA database, we used a 
-classification based on the OECD and Frascati Manual criteria. The assignment of one or more disciplines to 
-each journal was made through an empirical survey, based on the description that each journal provides in 
-the "Scope" or "About" section of its official website. Then the journals were grouped into eight subject 
-areas: 1) Agricultural Sciences; 2) Social Sciences; 3) Humanities; 4) Engineering and Technology; 5) 
-Medical and Health; 6) Natural and Exact; 7) Multidisciplinary; and 8) Multidisciplinary-Social Sciences & 
-Humanities (SSH). The existence of two areas called "Multidisciplinary" is due to the fact that in the OLIVA 
-database there are a significant number of journals with a high degree of diversification and extent in their 
-scope, crossing broader disciplinary boundaries. Thus, in group 7 we included journals that belong to at 
-least two subject areas combining “hard” sciences with SSH. In group 8, we included journals that combine 
- 
-5 SciELO also includes journals from Spain, Portugal, and South Africa while Redalyc includes journals from Poland, Germany, Spain, 
-Portugal, India, and Angola.  In the meantime, OLIVA is building an additional corpus with Spain and Portugal. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
-subject areas only within the Social Sciences and Humanities. This primary classification allowed us to 
-reduce inconsistencies and to more accurately assess the disciplinary distribution of the journals analyzed. 
- 
-Information on the publishers of each journal as well as the APC information was also taken from each 
-journal’s website. 
- 
- 
-  
- 
-2. The scope of the OLIVA corpus and the institutional attachment of the publishers  
- 
-The OLIVA database, constructed from the collections of Redalyc and SciELO contains 
-908,982 records of documents from 1,720 journals published between 1909 and May 
-2019 (see Table 1). The main type of document is the article, representing 87% of the 
-records, although this percentage varies amongst the subject areas. There is an average 
-of 3.1 authors per document and 3.3 per article. Given that multiple authorship is a more 
-widespread practice in the Exact and Natural Sciences, Engineering and Biological 
-Sciences, this data is already indicating that we are dealing with a production that has a 
-broad disciplinary profile.  One might think that the journals published in the region 
-publish only in the vernacular languages and therefore would be mostly from SSH since 
-they are accustomed to publishing in local languages. But we will see later that this is a 
-multilingual corpus.  
+This article presents the results of the Latin American Observatory of Evaluation Indicators (OLIVA, its Spanish acronym) which works to raise the visibility of the scientific production indexed in Latin America and the Caribbean, and to enhance its value for research assessment. This study deals with the production published in open access by journals indexed in SciELO and Redalyc, based on a deduplicated database of a total of 908,982 documents and 2,591,704 authors. It highlights the magnitude of this production and describes its disciplinary diversity, as well as trends in national, regional, and international research collaboration. It also examines the publishers of the 1,720 journals that make up the database of journals from 15 countries and highlights the predominance of universities and public institutions in this regional circuit. The journals that operate with the APC model are analyzed, confirming a clearly lower influence of this model compared to what is observed in other continents, although Brazil is identified as the country with the greatest incidence of this practice in the region. Finally, collaboration between states in Brazil, analyzed with SciELO data, proves to be highly significant, strongly challenging the traditional interpretation of co-authorship among researchers from the same country as academic inbreeding. The study concludes that these journals show multi-scalar circulation, a linguistic diversity, and a disciplinary breadth that can very effectively serve the current needs of scholarly communication in times of open science. 
+This research was possible thanks to the financial support received from the Universidad Nacional de Cuyo (PROYECTO SIIP TIPO 4-038) and the Agencia I+D+I-Ministerio de Ciencia, Tecnología e Innovación, Argentina (PICT 2017-2647). 
+The Latin American academic circuit is a constellation of national academic communities and regional networks that was formed in the mid-20th century with the support of inter-governmental organizations, cooperation agencies and foundations that promoted the management of scientific information as a key element for development. This led to the emergence of regional institutions that collaborated closely in the cataloging and construction of bibliographic indexes to foster the dissemination of locally produced scientific knowledge (Rodriguez Garcia Coord. 2020). By 1967, a significant step forward was made by the building of information centers such as BIREME and research networks such as CLACSO. They soon became major regional repositories for the dissemination of Latin American scientific production (Packer, 2005; Vessuri, 1994). Efforts to professionalize scientific publishing were driven by the creation of indexing systems led by regional centers affiliated to United Nations agencies (IMLA-LILACS, DOCPAL, REPIDISCA, AGRINTER-SIDALC) and by large public universities, most notably the Universidad Nacional Autónoma de México (responsible for the first indexes Clase, Periódica, and afterwards Latindex and BIBLAT). All these systems were created and operated by universities, national and inter-governmental organizations to improve the bibliographic exchange of the region's scientific and technical production. With the pioneering emergence of the regional open access journal platforms SciELO in 1998 and Redalyc in 2005, an infrastructure supporting digitized journals and indexing web services was born. In addition, and in conjunction with Latindex, these services created a journal quality certification system that focuses on peer review and best practices in editing. This resulted in a progressive professionalization of the journals, thus establishing an editorial hallmark in the region characterized by academic quality and non-commercial open access. With a strong public character and the commitment of many governments, these portals and indexing services today represent a fundamental space for the development of open science (Vessuri, Cetto and Guédon, 2014; Beigel 2019; Packer, 2020; Banzato and Salatino, 2020).  
+The global report on diamond journals (Bosman et al. 2021) recently published by OPERAS shows the importance of journals that do not charge for publishing or for reading, and points to the role of Latin America in the production of 25% of the total of these publications worldwide. Indeed, these open access journals are mostly published by universities and managed by full-time professors, assisted by technical support teams centralized in the libraries. An important aspect in the consolidation of university publishing in this region is the massive adoption of the open source Open Journal System (OJS-PKP) for the management of the editing, peer review and publication of the journals2. In addition to university journals, there are also those of the scientific societies and professional associations which are often operated with the support of university infrastructure and personnel for digitization, creating permalinks, acquiring DOI’s, and doing the XML markup of the texts. Although this support needs to be strengthened, this core institutional and governmental support explains the existence and growth of Latin American and Caribbean journals. 
+The vibrancy of this regional circuit is now more visible globally given that the flow of scholarly communication has been improved by several mega indexes such as Google Scholar, Dimensions, Lens and the federation of repositories LA Referencia which has a greater coverage of Latin American and Caribbean production. However, there is still no significant impact of these journals on global S&T reports or on evaluations of scientific careers, projects and institutions in which the use of the Impact Factor and other indicators from traditional databases such as the Web of Science and Scopus continue to prevail. This prejudices the value of the journals indexed in the region because it drives many research groups to preferentially choose journals managed by the dominant players in the publishing industry. This choice has been historically shaped in the academic community by the deeply rooted belief of the relevance/transparency of these indicators (Martinovich, 2020). It also highlights the gap between the ability of the region to, on the one hand, produce and publish quality science and, on the other, to gain international legitimacy for its journals (Packer and Meneghini, 2007). Several studies have already pointed out the limitations of these traditional indicators which were favored by several structural conditions and generated a series of abuses and distortions that affected the creativity and even the researchers' concern for the social relevance of science (Guédon, 2011; Gingras, 2016; Ráfols, 2019). Thus, policies of internationalization that are justified by the need to advance in the rankings result in many institutions having their autonomy restricted and a weakening of their own capacities to link with the research environment.  
+The development of a global consensus on the need for open access to scientific literature has brought increasing attention to the region's journals and indexing systems. Basson et. al (2021) analyze the proportion of open access articles available in Dimensions, which by 2021 had 46.6% of its documents in open access. They note that this percentage increases to 63.5% for documents published by Latin American and Caribbean journals. There are few studies that provide information, at the document level, on the breadth and diversity of the production published in the region, apart from the aforementioned mainstream databases. An important precedent is the study by Miguel (2011) which compared the coverage of journals from Latin America and the Caribbean included in SciELO, Redalyc and SCOPUS for the period 2005-2009. The estimated volume of scientific production using these three sources revealed differences with respect to the coverage registered in the Latindex catalog3. In relation to disciplinary coverage, SCOPUS and SciELO were more thematically balanced, while Redalyc showed a greater inclination towards the Social Sciences and Humanities.  
+Vuotto, Di Césare and Pallotta (2020) analyzed 17 bibliographic databases and verified that currently there are still few of them that openly offer their elements in a common format and structure to enable the analysis of production at the document level. For this reason, to date, the available empirical studies have only been able to analyze the journal collections separately as offered by each of the indexing databases. Scopus has 890 journals that are published in the region, and Web of Science has 223. As of June 2021, SciELO had 1,358 active, indexed journals which are also replicated in the SciELO Citation Index in the Web of Science platform, allowing for the evaluation of the performance of the articles in a global context of citations. Redalyc, for its part, has its own information system and indicators for its collection of 1,415 journals. These two collections have many which are individually assessed to guarantee a set of quality criteria indicators. The Latindex portal shows information of the journals but not at the level of document.  journals in common, as we will see shortly. Then there is also Biblat which has its own cataloging system with a large number of complete records at the document level. However, at present it is not possible to work with combined data from these three indexing databases in the region because they are not interoperable. To these sources LA Referencia should be added. It is a very relevant database which harvests the production of 790 institutions from 12 Ibero-American countries. It currently has more than three million documents. However, it does not have advanced searching by journal, and there are overlaps of data with the former indexing services given that it originates from the repositories of the individual institutions.  
+Furthermore, there are thousands of journals that do not have metadata at the document level. This affects the possibility of analyzing the production published in Latindex journals which continues to be, as Miguel already observed in 2011, the cataloging database with the greatest coverage. In addition, there is no standardization of institutional affiliations, nor of the disciplinary classification of journals; nor is the use of unique identifiers of authors and institutions such as ORCID and ROR sufficiently widespread among the different databases.  All these further limit studies at the document level. Consequently, this large corpus of documents published in the region is observed from fragmented approaches. 
+It is in this context that the OLIVA project (Latin American Observatory of eVAluation Indicators4) emerged as an initiative of the Centro de Estudios de la Circulación del Conocimiento (CECIC-Facultad de Ciencias Políticas y Sociales), which was approved and funded in early 2019 by the Universidad Nacional de Cuyo. The main purpose of this project is to give visibility to the richness of this scientific production published in the region, and to develop indicators to recognize the value of these journals for the assessment of individual careers and academic institutions. For the first phase of the project, the SciELO/FAPESP Program of Brazil, Redalyc (at the Universidad Autónoma del Estado de México -UAEM Mexico), and the Consejo Latinoamericano de Ciencias Sociales (CLACSO) were invited to collaborate. The results of this first phase of the project are presented in this paper. The second phase foresees the incorporation of documents from journals indexed in Latindex Catalog 2.0 and in Biblat. A pilot is already underway with these institutions.  
+A database of 1,720 scientific journals published in Latin America and the Caribbean and indexed in SciELO and/or Redalyc was built within the framework of OLIVA. The study was organized on two levels - one at the journal level, and the other at the document level. The objective was to map out this circuit of quality scientific literature, addressing the existing forms of co-authorship, disciplinary characteristics, and languages of publication.  In the first part of this article, we delve on the description of the journals in the database constructed at this stage (SciELO and Redalyc). We then pass on to characterizing the publishing institutions of the journals and highlight their predominantly public nature and self-management by the academic community. An empirical classification of the journals’ disciplines was carried out based on the information found on their respective web sites. This was done because of the existing limitations of classifying the documents based on the disciplinary cataloging offered by the indexing databases. It revealed that the production has broad coverage, with half of the indexed documents being from the Social Sciences and Humanities, and the other half from Engineering, Natural Sciences, and Health and Biological Sciences. We then analyzed the patterns of co-authorship and the different levels of collaboration – global, regional (LA) and national. We also analyzed the language patterns of the corpus, noting the growth of journals that publish in English and a multilingualism that is emerging in journals that are beginning to publish in several languages.  
+Finally, we focus on the case of Brazil. Given the significant weight of this country with 50% of the total number of articles published in the database and having a high tendency towards co-authorship among Brazilian authors, we contrast this  with a more detailed analysis of the SciELO Brazil collection (only journals from Brazil). There we find that there is a strong tendency towards scientific collaboration between authors affiliated with the same country but belonging to universities from different states. A picture thus emerges that calls into question the preconception that collaboration between authors of the same country signifies academic inbreeding and reveals the complexity of this national academic space and its current dynamics.  
+The OLIVA project database is made up of the collected data of the journals indexed by SciELO and Redalyc, and revised data from the published documents. Each of these indexing systems collaborated by providing its historical database updated to June 2019. The data was subjected to data cleaning and deduplication of the journals in common. The result was an integrated bibliographic database for statistical purposes and is composed of the following elements at the document level: type of document, date of publication, language, and author’s country. It does not include data on citations as this is outside the scope of the project.  
+The construction of this integrated database faced significant limitations. The principal one was, as has already been pointed out, the lack of a common identification system amongst the indexing platforms for authors, journals and institutional affiliations.  There was no information on gender, as is usually the case with scientific documents and bibliographic records. An important difficulty was compiling the diverse portions of the indexed published documents in the journals pertaining to both indexing services.  
+In view of all this, we opted for a process of revision of the journals through a manual and meticulous procedure. First, the journals only in SciELO or only in Redalyc were identified, and the metadata of these documents were aggregated including articles, reviews, and editorials - both from active journals at the time of capture as well as documents indexed at an earlier time in between the gaps. in coverage. As for the journals common to both indexing platforms, the same journal could have different gaps or periods of coverage in each of the platforms. Thus, the consistency and completeness of the data were compared and, for each case, it was decided to keep those that had the widest temporal coverage and the largest number of documents. It should be clarified that in this phase of the project, we worked only with journals published in Latin America and the Caribbean5.  
+Regarding the disciplinary classification of journals, we faced the challenge of the different classifications used by the indexing databases, even for the grouping into scientific areas. Thus, the same journal could be classified in different disciplines and, as a result, in different areas. For the OLIVA database, we used a classification based on the OECD and Frascati Manual criteria. The assignment of one or more disciplines to each journal was made through an empirical survey, based on the description that each journal provides in the "Scope" or "About" section of its official website. Then the journals were grouped into eight subject areas: 1) Agricultural Sciences; 2) Social Sciences; 3) Humanities; 4) Engineering and Technology; 5) Medical and Health; 6) Natural and Exact; 7) Multidisciplinary; and 8) Multidisciplinary-Social Sciences & Humanities (SSH). The existence of two areas called "Multidisciplinary" is due to the fact that in the OLIVA database there are a significant number of journals with a high degree of diversification and extent in their scope, crossing broader disciplinary boundaries. Thus, in group 7 we included journals that belong to at least two subject areas combining “hard” sciences with SSH. In group 8, we included journals that combine subject areas only within the Social Sciences and Humanities. This primary classification allowed us to reduce inconsistencies and to more accurately assess the disciplinary distribution of the journals analyzed. 
+Information on the publishers of each journal as well as the APC information was also taken from each journal’s website. 
+The OLIVA database, constructed from the collections of Redalyc and SciELO contains 908,982 records of documents from 1,720 journals published between 1909 and May 2019 (see Table 1). The main type of document is the article, representing 87% of the records, although this percentage varies amongst the subject areas. There is an average of 3.1 authors per document and 3.3 per article. Given that multiple authorship is a more widespread practice in the Exact and Natural Sciences, Engineering and Biological Sciences, this data is already indicating that we are dealing with a production that has a broad disciplinary profile.  One might think that the journals published in the region publish only in the vernacular languages and therefore would be mostly from SSH since they are accustomed to publishing in local languages. But we will see later that this is a multilingual corpus.  
  
 The journals edited in Brazil represent 29.4% of the total and account for 48.9% of the 
 total number of documents and 50.1% of the articles. This predominance of Brazilian 
@@ -498,8 +113,6 @@ Puerto Rico
 1,841 
 816 
 1,382 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 Panama 
 1 
 408 
@@ -563,8 +176,6 @@ exceptional.
  
 Figure 1. The OLIVA Corpus (1995-2019): journals with at least one article published per 
 year; total articles published per year. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
  
 Source: The OLIVA database. The drop in the number of records in recent years is due to the data harvesting 
 having been carried out in the first half of 2019.  
@@ -641,8 +252,6 @@ Articles
 Journals
 Articles
 Journals
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 pattern with two sudden expansions.  However, the increase in subsequent years is 
 moderate compared to the other cases. More specifically, for journals published in Cuba, 
 there is an upward trend between 2005 and 2015, followed by a decline. A decrease in the 
@@ -704,8 +313,6 @@ Chile
 Venezuela
 Cuba
 Other (excl. Brazil)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
  
  
 Figure 3. Journals by discipline and country of publication (n=1,720). 
@@ -767,8 +374,6 @@ Multidisciplinary
 Multidisciplinary-SSH
 Natural and Exact
 Social Sciences
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 Universidade de São Paulo, Brazil 
 47 
 Editorial de Ciencias Médicas, Cuba 
@@ -836,8 +441,6 @@ the world’s scientific production up to 2013 (Lariviére, Haustein y Mongeon 2
 6 ECIMED was founded in Cuba in 1998 as the publishing house of the Centro Nacional de Ciencias Médicas which by then was already 
 editing 15 journals. The center was part of the development of the medical sciences promoted by the Cuban government. ECIMED also 
 publishes books and its official website functions as an open access portal for the 38 journals available in full-text. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 Figure 4. Distribution of journals by type of publisher (n=1,720). 
  
  
@@ -890,8 +493,6 @@ or Independent
 academic center
 University
 publisher
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 lesser extent, in descending order, are the journals edited in Mexico, Chile, Argentina, 
 Colombia, Peru and Venezuela.  
  
@@ -940,8 +541,6 @@ Multidisciplinary
 Multidisciplinary-SSH
 Natural & Exact
 Social Sciences
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 The sustainability of diamond access journals is a contested issue. The recently published 
 OPERAS report highlights the importance of this model and it estimates the existence of 
 29,000 diamond access journals worldwide. It also points out their largely weak 
@@ -1032,8 +631,6 @@ Humanities
 3.7% 
 0.1% 
 100% 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 Multidisciplinary SSH 
 63.8% 
 29.7% 
@@ -1082,8 +679,6 @@ single authorship, as already mentioned.
  
 Figure 6. Articles with country affiliations in 6 selected countries, by type of authorship and 
 type of collaboration. (n=492,308). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
  
  
 Source: The OLIVA database (June 2019). Note: only those articles with the country of affiliation for all of the 
@@ -1158,8 +753,6 @@ Mexico
 One author
 Co-authorship only w/authors from same country
 Co-authorship w/authors from other countries
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 collaboration in the OLIVA database in subsequent studies, especially to determine the 
 balance between intra-regional and extra-regional collaboration, by discipline and by 
 country. It will be worth exploring deeper whether authors from Brazil tend to collaborate 
@@ -1210,8 +803,6 @@ existing assessment culture at CONICET (the National Science Council) and the na
 universities where publications indexed in Latindex are rewarded at the same level as 
 those included in SciELO, Scopus and WoS (Beigel, 2014).  To this we can add the lower 
 technical complexity of indexing in the Latindex Catalog 2.0 compared to the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 requirements of SciELO and Redalyc, and the clout of the national (Argentine) node of 
 Latindex. If we compare the journals of Brazil, Argentina, Chile, Mexico and Colombia in 
 the Latindex Catalog 2.0 with the OLIVA database, we see that in the case of Chile there 
@@ -1271,8 +862,6 @@ Cuba
 Mexico
 Other Central American & Caribbean countries
 Other South American countries
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 element pointing to an academic culture more influenced by mainstream standards. In the 
 case of Mexico and Puerto Rico, it may be influenced by traditional academic ties. 
  
@@ -1327,8 +916,6 @@ The articles authored only by researchers from outside Latin America and the Car
 (8.5% of 643,929 articles with country of affiliation identified) represent 16.9% of the 
 articles in English. Similarly, those in collaboration with at least one author from the 
 region and one from outside the region account for 4.7% of the articles. In both types of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 authorship, English is the main language of publication, both for articles with 
 collaboration outside the region (49.9% of 30,307 articles) and for those without regional 
 collaboration (52.4% of 54,700 articles).   
@@ -1382,8 +969,6 @@ predominant language of the articles.
 Spanish
 Portuguese
 English
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 The other disciplinary areas, on the other hand, also show similar behavior. Overall, 
 articles in Spanish in these journals went from 92.8% at the beginning of the selected 
 period to 86.6% at the end of the period. In contrast, not only did the number of articles 
@@ -1434,8 +1019,6 @@ are by authors from the same state; however 31.9% involve collaboration between
 authors from institutions in two different states. There is even 9.1% involving authors 
 from three or more states (the maximum is 26 different states). This is an extremely 
 complex and heterogeneous country, with a large number of university and scientific 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 institutions, making it difficult to characterize a collaboration between two Brazilian 
 authors (or publication in a journal of their country) as a practice of academic inbreeding. 
 Collaboration between authors from different institutions within the same state can be 
@@ -1505,8 +1088,6 @@ Multidisciplinary
 33.3% 
 11.7% 
 100% 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 Engineering 
 62.0% 
 30.9% 
@@ -1644,8 +1225,6 @@ Sergipe
 100% 
 Source: The SciELO-Brazil database, 2016-2020. Note: the “five most productive states” are those with the 
 highest number of articles: São Paulo, Minas Gerais, Rio de Janeiro, Rio Grande do Sul and Paraná. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 Another point to highlight is that the nine states analyzed exhibit similar percentages in 
 each of the types of collaboration. The observed variations in the table are not 
 pronounced, which suggests that these are relatively stable features of the Brazilian 
@@ -1729,8 +1308,6 @@ private – among which presumably there is also collaboration in terms of their
 publications. And this gives further nuance to the idea of academic inbreeding in terms of 
 authors’ affiliation within the same state given that, for example, collaboration between 
 authors from Unicamp (Universidade Estadual de Campinas) with those of USP 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 (Universidade de São Paulo), both in the same state, can hardly be classified as a 
 provincial interaction.  
  
@@ -1782,8 +1359,6 @@ SciELO that were created in the nineteenth century, such as: Gaceta médica de M
 Revista chilena de historia natural (1897), Revista de Ciências Agrárias (1903), Boletín de la Sociedad Geológica Mexicana (1904), 
 Ingeniería, investigación y tecnología (1908), Memórias do Instituto Oswaldo Cruz (1909), Revista industrial y agrícola de Tucumán 
 (1910). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 researchers from different states throughout the country. We also characterized the 
 states that, by their own importance, play an important role in the corpus and yet show 
 significant collaboration with colleagues from states with less weight in the Brazilian 
@@ -1834,8 +1409,6 @@ mainstream journals.
 The forms of collaboration shown by the journals indexed in SciELO and Redalyc, and 
 their academic and university attachment, show that this is a system that promotes broad 
 dissemination and multi-scale research programs, which can very effectively address the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 current needs of scholarly communication in times of open science. This is not only based 
 on Latin American capabilities in terms of professional scientific publishing, indexing and 
 open access, but also on its experience in producing interoperable regional indicators as 
@@ -1899,8 +1472,6 @@ LARIVIÈRE V, HAUSTEIN S, MONGEON P (2015) THE OLIGOPOLY OF ACADEMIC PUBLISHERS 
 DIGITAL ERA. PLOS ONE 10(6): E0127502. HTTPS://DOI.ORG/10.1371/JOURNAL.PONE.0127502 
 MARTINOVICH, V. 2020 “CITATION INDICATORS AND SCIENTIFIC RELEVANCE: GENEALOGY OF A 
 REPRESENTATION”. DADOS, RIO DE JANEIRO, VOL.63(2): E20190094. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
-DADOS, Rio de Janeiro, e20210134 (Versão Preprint) 
 MIGUEL, S. 2011 Revistas y producción científica de América Latina y el Caribe: su 
 visibilidad en SciELO, RedALyC y SCOPUS. Rev. Interam. Bibliot [online] vol.34, n.2, 
 pp.187-198. 
@@ -1939,7 +1510,6 @@ bibliométrica”. Palabra Clave (La Plata) 10(1):e101. doi: 10.24215/18539912e1
  
  
  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4637
 This preprint was submitted under the following conditions: 
 The authors declare that they are aware that they are solely responsible for the content of the preprint and
 that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
