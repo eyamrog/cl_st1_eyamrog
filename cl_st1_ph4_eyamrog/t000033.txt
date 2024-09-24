@@ -1,21 +1,3 @@
-Publication status: Preprint has not been submitted for publication
-The Importance of Hydrogen for Brazil: a source of clean
-energy and a path to the production of nitrogen fertilizers
-Yvan Jesus Olortiga  Asencios
-https://doi.org/10.1590/SciELOPreprints.4408
-Submitted on: 2022-07-08
-Posted on: 2022-07-11 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-The Importance of Hydrogen for Brazil: a source of clean energy and a path to the 
-production of nitrogen fertilizers 
-Yvan Jesus Olortiga Asencios  
-Institute of Marine Sciences, Federal University of São Paulo (UNIFESP), Rua. Dona Maria Máximo, 168, CEP 
-11.030-100, Santos, SP. Brazil 
-e-mail:  yvan.jesus@unifesp.br      ORCID:  https://orcid.org/0000-0001-6000-9152  
- 
-Abstract 
-   
 Hydrogen is the lightest chemical element in the periodic table, with a high calorific value, much higher than that 
 of methane, gasoline, diesel, and methanol. Its combustion releases a large amount of energy and water as a 
 product. The major part of the world’s production of hydrogen comes from natural gas, through Synthesis Gas 
@@ -25,12 +7,7 @@ other products, ammonia is one of the most important products as is used mainly 
 resume the importance of syngas and hydrogen, its ways of production, classifications, scientific production 
 around the world in this field, and their relation to the current economical problems such as food shortages and 
 energy crisis specifically in Brazil.    
-Keyword: Hydrogen, Syngas, economical problems, energy, food, Brazil. 
- 
- 
- 
- 
-Hydrogen as an energy alternative               
+
 Hydrogen (H) is the lightest chemical element in the periodic table, with a molar mass equal to 1 gram per mol 
 (g.mol-1). Under ambient conditions it is an odorless, colorless gas, less dense than air; has a high calorific value 
 (amount of energy per unit mass released by a substance by combustion) equal to 141.4 kJ.g-1, much higher than 
@@ -39,7 +16,7 @@ Hydrogen is a potentially explosive gas and special conditions are required for 
 difference between the aforementioned fossil fuels is that, when they burn, they produce carbon dioxide (CO2), 
 one of the main greenhouse gases, and water (H2O). The combustion of hydrogen releases a large amount of 
 energy and water as a product (Reaction 1). [Asencios et al. 2022a,b] 
-2H2 (g) + O2 (g) →  2H2O (v)  ∆Hº298K =  −286 kJ.mol-1  - (Reação 1) 
+
 Hydrogen is the most abundant chemical element in the universe. It is abundant on the earth's surface, as it forms 
 part of water molecules (H2O), it is also found in hydrocarbon molecules, for example, in petroleum, and many 
 other organic substances. However, because hydrogen is not found in an isolated form on our planet, chemical 
@@ -47,16 +24,15 @@ processes are necessary to extract it. Nowadays, with scientific advances, it is
 different sources, for example, water, oil (and derivatives), natural gas, ethanol, methanol, biomass, biogas, algae, 
 glycerol, etc. Each source follows a specific process to produce hydrogen. Furthermore, Syngas can be produced 
 from pre-treated biogas [Asencios et al. 2014, Asencios et al. 2022a], biomethane [Asencios et al. 2022b], 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4408
 bioethanol [Carvalho, et al. 2016] among other sources. However, most of these procedures are still at a laboratory 
 scale or exist only in pilot-level studies. 
- 
-Green hydrogen and gray hydrogen  
+
 Hydrogen produced from fossil fuels is known as gray hydrogen. Although hydrogen has no color, this 
 is a way of naming its origin. Currently, the world production of hydrogen comes from synthesis gas, which is a 
 gaseous mixture formed by carbon monoxide (CO) and hydrogen (H2), also called Syngas (Synthesis-Gas), 
 produced from fossil fuels, mainly natural gas, through a process called Methane Steam Reform (RVM, Reaction 
 2). 
+
 Synthesis gas can also be produced from other sources that do not depend on fossil fuels, such as biogas, 
 bioethanol, glycerol, bio-oil, among others. Synthesis gas is a raw material of great importance for the chemical 
 and petrochemical industry, as it is possible to produce hydrogen from it, through a purification process called 
@@ -64,20 +40,20 @@ Water-Gas Shift Reaction (WGSR), as well as other compounds of high industrial v
 as a solvent, fuel, etc.), dimethyl ether (DME, also used as a fuel with similar properties to diesel), Fischer-Tropsch 
 liquid fuels, and ammonia (NH3), used mainly to produce fertilizers. Synthesis gas can also be used in direct 
 combustion. [Asencios et al. 2022, Morales Udaeta et al. 2022] 
+
 Most of the hydrogen and synthesis gas produced in the world is used in the production of fertilizers, 
 petroleum refining, and the petrochemical industry. Recently, hydrogen has been seen as a promising source of 
 clean energy. Its use as fuel in cars takes place through devices called fuel cells, whose technology is accessible 
 in European, North America, and other countries, such as Japan, South-Korea, among others, for now. There is 
 the possibility of using hydrogen by direct combustion, as shown by some recent studies, for example, in turbines. 
 [Vieira da Rosa and Ordóñez, 2022]. 
+
 Hydrogen can also be produced by the electrolysis of water (Reaction 3). In this case, it does not require 
 fossil fuels, the electrolysis of water is widely known. It is a process that needs water, electricity, and electrodes 
 to happen. Electric energy can come from renewable sources, for example, renewable energy plants, such as wind, 
 solar, hydroelectric, etc., and supply this energy needed to obtain hydrogen. Hydrogen produced from the 
 electrolysis of water and electricity from renewable energy is known as green hydrogen. 
-  
-H2O → H2 + ½ O2  (ΔH298K= 285,8 kJ.mol-1, ΔG298K= 1,23 v) - (Reação 3) 
-  
+
 Using seawater in this process would be wonderful, especially due to the large amount of seawater available on 
 our planet, however, its use presents some problems due to the amount of salts it has, which makes the process 
 difficult and also causes an abundance of by-products/waste, such as brine, which needs to be treated before being 
@@ -87,31 +63,31 @@ is still not very diverse. It is currently possible to use it in the food indust
 sodium, both of industrial value. However, the production of the latter, coupled with a green hydrogen production 
 system, is a topic that needs to be evaluated globally and overcome economic, logistical, and environmental 
 barriers. 
+
 In the case of Brazil, technology based on electrolysis is very attractive, mainly due to the existence of large 
 natural resources and the various hydroelectric plants spread across the country, since 87% of the Brazilian energy 
 matrix comes from renewable energies in 2021 (and in the rest of the world this value was 27% in 2019), and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4408
 65.2% of this value comes from hydroelectric plants, according to data from the Energy Research Company of 
 Brazil [2021]. Electrolytic processes are well known and easily scalable, therefore, such technology is the most 
 coherent in the short term. 
+
 Still, concerning hydrogen, it is important to mention that the chemical element can also be obtained through 
 photocatalytic processes, using solar energy and water, when performing the separation of water with a 
 semiconductor catalyst. [Asencios and Machado, 2022]. 
+
 The use of hydrogen as a source of energy requires electrochemical devices called fuel cells (which convert 
 chemical energy into electrical energy, through oxidation and reduction reactions of hydrogen and oxygen, 
 respectively, producing water and electrical energy) and special cylinders for their storage and adequacy of an 
 entire supply chain to the final consumer, in addition to local legislation. These are all challenges to achieving an 
 economy that revolves around hydrogen rather than oil. This is not so close to the reality of developing countries. 
 Other alternatives are closer to being developed, such as bioenergy and renewable energies. 
+
 There are other definitions of hydrogen, such as blue hydrogen, which refers to the element obtained from the 
 burning of fossil fuels, followed by the capture and storage of carbon dioxide emitted in the process. Turquoise 
 hydrogen is produced by breaking down the methane molecule through pyrolysis. Natural gas pyrolysis is a 
 process that requires thermal (endothermic) energy to convert methane into hydrogen and solid carbon. . [Energy 
 Research Company of Brazil, 2022] 
-  
- 
-  
-Hydrogen as a source of energy storage and its relationship with renewable energies. 
+
 The use of renewable energies is extremely necessary in today's times to avoid the emission of greenhouse gases 
 and the consequences of the increase in the planet's temperature and to guarantee a sustainable future that lasts for 
 generations to come. However, the dependence of these energies on the climate makes it an intermittent source of 
@@ -122,7 +98,7 @@ Li-Ion. However, energy storage in batteries is still expensive and inefficient.
 a challenge (high performance in terms of maximum energy storage capacity, low weight, small space, and low 
 cost). An alternative to this is to store energy in the form of hydrogen, using excess renewable energy to produce 
 it, due to the characteristics of this chemical element mentioned earlier. 
-The role of hydrogen in achieving international agreements. 
+
 In a joint effort of the United Nations Framework Convention on Climate Change (UNFCCC), the Paris Protocol 
 was created, an agreement that has as its main objective to mitigate climate change and bring global temperatures 
 well below 2, compared to pre-industrial levels (UNFCC, 2020), in addition to accelerating investments and 
@@ -132,30 +108,33 @@ of the Environment released in 2020. To meet the deadlines established by the Pa
 measures are being designed by the signatory countries of said agreement, to mitigate the impacts of the use of 
 fossil fuels on the planet. There are strong reasons for the development of hydrogen technology in Brazil, among 
 them we can mention: 
+
 1)       Reduce climate change and the emission of greenhouse gases; 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4408
+
 2)       Combat high dependence on fossil fuels. Brazil still depends on fossil fuels (mainly concentrated in means 
 of transport that use automotive fuel). Despite this, Brazil has one of the cleanest electrical matrices in the world, 
 with a share of 70% of renewable energies in the national electrical matrix. However, these are weather-dependent 
 (disadvantages were mentioned earlier). In addition, 60% of this share comes from hydroelectric plants, which are 
 highly dependent on rainfall and are more sensitive to climate change and the Amazon rainforest. A more diverse 
 electrical matrix is needed and 30% of the energy still comes from fossil fuels; 
+
 3)      Oil price variation. The value of the price of oil follows a complex formula that goes beyond the objectives 
 of this article, as it depends on many variables, such as global supply and demand, the price in the international 
 market, the price of the dollar, the internal policy of each country and the geopolitics. It is worth remembering 
 that at the beginning of the pandemic we saw the price of a barrel of oil fall to negative values and soar its value 
 over the last few months due to the war between Ukraine and Russia. Achieving energy independence from oil 
 and energy security are goals that every country aspires to; 
+
 4)       The challenges of controlling uncertain oil reserves; 
+
 5)       The growing world energy demand. 
+
 Developing countries, such as those in South America, have enormous potential for generating solar, wind, 
 hydroelectric, and bioenergy. All of them are promising. A not-so-favorable scenario is seen in developed 
 countries, for example, those that make up the European Union and the US, where the use of hydrogen as a fuel 
 seems to be a quick alternative to comply with the Paris Agreement. Brazil has the potential to become a major 
 exporter of hydrogen, which would generate many jobs and demand qualified labor. 
- 
- 
-Synthesis gas and food security in Brazil 
+
 Plants need NPK macronutrients (symbols for the chemical elements nitrogen-phosphorus-potassium, 
 respectively), in addition to sun and water, of course, in order to survive and grow. Fertilizers contain these 
 macronutrients. In the case of nitrogen-based fertilizers, they are made from NH3. Although nitrogen is an element 
@@ -167,14 +146,12 @@ from air and hydrogen (over iron catalyst). The industrialization of the process
 Bosch. These discoveries led to both winning the Nobel Prize in Chemistry in the years 1918 and 1931, 
 respectively. The process is better known as Harber-Bosch is still used today (Reaction 4). This process uses 
 hydrogen, obtained from natural gas, nitrogen, and Fe catalysts. 
-  
-N2(g) + 3 H2 (g) ↔ 2 NH3 (g) ΔH298K= -92.22 kJ.mol-1 - (Reaction 4) 
-  
+
 Brazil exports food to supply the demand of almost one billion people in the world; around a sixth of the planet's 
 population [Senra 2020]. Contrary to this, it has recently been reported that 33 million people in Brazil do not 
 have what to eat [Silveira 2022, Andrade 2022]. There are several reasons for this food shortage, and one of them 
 is related to the high price of fertilizers, which makes food prices more expensive. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4408
+
 Brazil is the fourth largest consumer of fertilizers in the world, preceded by China, India, and the United States, 
 and is the world's largest importer of these inputs. Just to give you an idea, in 2021 Brazil consumed more than 
 40 million tons of fertilizers, 85% were imported. The biggest NPK exporter on the planet is Russia. The hydrogen 
@@ -183,12 +160,11 @@ gas through Reaction 2, seen above, a fuel of which Russia is the second-largest
 largest exporter. Ammonia is the raw material for the production of fertilizers, for example, urea and ammonium 
 nitrate. Russia and the Middle East (Saudi Arabia, Qatar, and Iran - major producers of oil and natural gas) - are 
 the biggest exporters. [Frost 2022] 
-  
+
 The intensification of hydrogen production in Brazil would, consequently, help the local production of ammonia 
 and, with it, the production of nitrogen fertilizers. This would bring benefits to the country's economy and also 
 help to reduce this food insecurity. 
- 
-Research metrics in the world  
+
 According to one of the most important databases of scientific articles, Scopus, research in the world on Hydrogen 
 and Synthesis Gas (Syngas) began to gain more interest in 2004 with enormous growth since then, resulting in 
 62,292 articles published between 1964 and 2022. Research is led by countries such as China, the United States, 
@@ -196,132 +172,25 @@ Japan, South Korea, India, and Germany, among others. And in the regional scenar
 America. Many of the works in Brazil focus on the production of hydrogen/synthesis gas from bioproducts, such 
 as sugarcane ethanol, glycerol, bio-oil, and biogas, it is important to mention that Brazil is a world power in 
 biofuels. The data can be found in Figure 1. 
+
 Although these processes are still at a laboratory scale, the results are very promising, even more so considering 
 the current global scenario. 
- 
- 
-  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4408
-Figure 1. Search results on the Scopus platform using the keywords hydrogen and production. Available at: < 
-https://www.scopus.com/search/form.uri?display=basic#basic>. Accessed on: 26 jun. 2022.   
+
 The implementation of technology to produce hydrogen and support for science and universities in Brazil would 
 facilitate the construction of a project for the energy future of Brazil, and with this, it would achieve energy and 
 nitrogen fertilizer independence. This would also help create demand for skilled labor and heat the economy.  
- 
-Final considerations: 
- 
-• 
-More investment should be addressed in the development of the production of hydrogen 
+
+- More investment should be addressed in the development of the production of hydrogen 
 technologies from renewable sources, including water. 
-• 
-A lot of studies have been reported about Syngas and hydrogen production, however, it’s the 
+
+- A lot of studies have been reported about Syngas and hydrogen production, however, it’s the 
 perfect time to scale up hydrogen production from renewable sources. 
-• 
-The production of Syngas to produce ammonia must catch more attention, owing to the current 
+
+- The production of Syngas to produce ammonia must catch more attention, owing to the current 
 global economic crisis of food.  
-• 
-Hydrogen is promissory for fuels and for other uses such as ammonia, however, the current 
+
+- Hydrogen is promissory for fuels and for other uses such as ammonia, however, the current 
 scenario demonstrates that its use as fuel is more close to the reality of developed countries. 
 Brazil and Latin America in conjunction have a lot of potentials to be hydrogen suppliers for 
 the world (if produced from renewable sources).  This technology would favor the economy of 
 Latin America and the demand for skilled workers.  
- 
-Conflicts of interest 
-The Author declares that there is not any conflic of interest.  
- 
-References 
- 
-• 
-Dincer I. Green methods for hydrogen production. Int J Hydrogen Energy 37:(2012) 1954-1971. 
-https://doi.org/10.1016/j.ijhydene.2011.03.173  
-• 
-Udaeta M. E. M., Burani G. F., Arzabe Maure J. O., Oliva C. R., Economics of secondary energy from 
-GTL regarding natural gas reserves of Bolivia, Energy Policy, 35, Issue 8,2007, 4095-4106, 
-https://doi.org/10.1016/j.enpol.2007.02.014. 
-• 
-Vieira da Rosa A., Ordóñez J. C., Chapter 10 - Hydrogen Production, Fundamentals of Renewable 
-Energy Processes (Fourth Edition), Academic Press, 2022, 419-470, ISBN 9780128160367, 
-https://doi.org/10.1016/B978-0-12-816036-7.00021-X. 
-• 
-Gao F.Y., Yu P. C., Gao M.R. Seawater electrolysis technologies for green hydrogen production: 
-challenges and opportunities. Current Opinion in Chemical Engineering, 36, 2022, 100827, 
-https://doi.org/10.1016/j.coche.2022.100827  
-• 
-Empresa de Pesquisa Energética, Balanço Energético Brasileiro, 2021 
-https://www.epe.gov.br/pt/abcdenergia/matriz-energetica-e-eletrica 
-• 
-Empresa de Pesquisa Energética, Hidrogênio Turquesa, 2022 
-https://www.epe.gov.br/sites-pt/publicacoes-dados-
-abertos/publicacoes/PublicacoesArquivos/publicacao-
-663/Nota%20Tecnica%20Hidrogenio%20Turquesa_12.04.22.pdf  
-• 
-Senra R., BBC Brasil,  https://www.bbc.com/portuguese/brasil-54288952  acesso em 
-26/06/2022 
-• 
-Henrique Andrade, Isabelle Resende, CNN Brasil, 
-https://www.cnnbrasil.com.br/nacional/agravada-pela-pandemia-fome-avanca-no-brasil-e-
-atinge-33-milhoes-de-pessoas-diz-estudo/ Aceso em 08/06/2022  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4408
-• 
-Daniel Silveira, G1, https://g1.globo.com/economia/noticia/2022/06/08/fome-no-brasil-
-numero-de-brasileiros-sem-ter-o-que-comer-quase-dobra-em-2-anos-de-pandemia.ghtml  
-acesso em 26/06/2022 
-• 
-Carraça, Thais, Uol/Economia,  https://economia.uol.com.br/noticias/bbc/2022/03/03/por-
-que-o-brasil-depende-tanto-dos-fertilizantes-da-russia.htm  acesso em 26/06/2022 
-• 
-Asenciosa, Yvan J.O.; Rodella, Cristiane B. ; Assaf, Elisabete M. . Biomethane reforming over Ni 
-catalysts supported on PrO2-ZrO2 solid-solutions. Journal of CO2 Utilization, v. 61, p. 102018, 2022. 
-https://doi.org/10.1016/j.jcou.2022.102018  
-• 
-Asenciosb, Yvan J.O.; Elias, Kariny F.M. ; Assaf, Elisabete M. . Oxidative-reforming of model biogas 
-over NiO/Al2O3 catalysts: The influence of the variation of support synthesis conditions. Applied Surface 
-Science, v. 317, p. 350-359, 2014.  https://doi.org/10.1016/j.apsusc.2014.08.058  
-• 
-Carvalho, F. L.S. ; Asencios, Yvan J. O.; Bellido, J. D. A. ; Assaf, Elisabete M. . Bio-ethanol steam 
-reforming for hydrogen production over Co3O4/CeO2 catalysts synthesized by one-step polymerization 
-method. 
-FUEL 
-PROCESSING 
-TECHNOLOGY, 
-v. 
-142, 
-p. 
-182-191, 
-2016. 
-https://doi.org/10.1016/j.fuproc.2015.10.010  
-• 
-Asencios, Yvan J. O.; Machado, Vanessa A. Photodegradation of Organic Pollutants in Seawater and 
-Hydrogen Production via Methanol Photoreforming with Hydrated Niobium Pentoxide Catalysts. 
-Sustainable Chemistry, v. 3, p. 172-191, 2022. https://doi.org/10.3390/suschem3020012  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4408
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

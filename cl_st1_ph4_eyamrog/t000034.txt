@@ -1,102 +1,34 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.56294/saludcyt2024654
-Temporal inequality of RR intervals like a new
-psychophysiological indicator of mental stress
-Miguel Enrique Sanchez-Hechavarria, Ramon Carrazana-Escalona, Victor Ernesto González-
-Velázquez, Elys María Pedraza-Rodríguez, Sergio Cortina-Reyna, Adán Andreu-Heredia,
-Erislandis López-Galán
-https://doi.org/10.1590/SciELOPreprints.4392
-Submitted on: 2022-07-05
-Posted on: 2022-07-08 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Temporal inequality of RR intervals like a new psychophysiological indicator of 
-mental stress 
-Short title:  Temporal inequality in mental stress 
-Authors: 
-Miguel Enrique Sanchez-Hechavarria 1 https://orcid.org/0000-0001-9461-203X  
-Ramon Carrazana-Escalona2 https://orcid.org/0000-0003-0298-9425  
-Victor Ernesto González-Velázquez,3 https://orcid.org/0000-0001-9756-8257  
-Elys María Pedraza-Rodríguez, 2 https://orcid.org/0000-0002-6521-1541  
-Sergio Cortina-Reyna2 https://orcid.org/0000-0003-0384-7883  
-Adán Andreu-Heredia2 https://orcid.org/0000-0002-8852-4591  
-Erislandis López-Galán5  https://orcid.org/0000-0001-5418-5838  
-1- Happy Working Spa. Tome. Concepción. Bio Bio. Chile 
-2- Departamento de Ciencias Básicas Biomédicas. Facultad de Medicina 1. 
-Universidad de Ciencias Médicas de Santiago de Cuba. Santiago de Cuba, Cuba. 
-3- Departamento de Ciencias Básicas Biomédicas. Facultad de Medicina. 
-Universidad de Ciencias Médicas de Villa Clara. Villa Clara, Cuba. 
-4- Departamento de Ciencias Básicas Biomédicas. Facultad de Medicina 2. 
-Universidad de Ciencias Médicas de Santiago de Cuba. Santiago de Cuba, Cuba. 
-Correspondence: Dr. Miguel Enrique Sánchez-Hechavarría. 
-Mailing Address: Ignacio Serrano, 1206, Postal Code 4090541. Concepción, Bio Bio 
-Chile. 
-Email: miguel.sanchez881119@gmail.com  
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-ABSTRACT 
 Introduction: Gini coefficient (Gini index or Gini ratio) is a parameter that is normally 
 used in economy to measure the income distribution in a country or in the whole wide 
 world, but it can be used to measure any kind of distribution.  
 In the present study it is exposed an innovative proposal of application of the Gini 
 coefficient to Heart Rate Variability (HRV) like a psychophysiological indicator of 
 mental stress. 
+
 Purpose: To assess the application of the Gini coefficient as a psychophysiological 
 indicator of mental stress. 
+
 Methods:  The involved participants are 13 healthy individuals (age 19 ± 1.5 years). 
 Heart rate was continuously recorded at rest (5 minutes) and during a mental stress (5 
 minutes). Linear and nonlinear methods of heart rate variability were assessed, and 2 new 
 indicators (Sequential and Non-Sequential Gini) were calculated and proposed to measure 
 HRV differences between states. 
+
 Results: When comparing rest and mental stress conditions, a sensible decrease of the 
 traditional indicators of the HRV was founded (p<0.05), an increase of the heart rate 
 (p=0.004) and of the Sequential Gini (p=0.004) and Non-Sequential Gini (p=0.04). 
+
 Conclusions:  The results suggest that temporary inequality of the RR intervals analyzed 
 from the Gini coefficient could be an adequate indicator of sympathetic activity present 
 during the mental stress, with great potentialities with the objective to assess the 
 consequences of psychosomatic affections and anxiety disorders. 
-Keywords: Heart Rate Variability; Mental Stress; Gini coefficient; Autonomic Nervous 
-System; Mental Arithmetic Test 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-RESUMEN 
-Introducción: El coeficiente de Gini o índice de Gini es un parámetro que normalmente 
-se usa en economía para medir la distribución del ingreso en un país o en todo el 
-mundo, pero puede usarse para medir cualquier tipo de distribución. En el presente 
-estudio se expone una propuesta innovadora de aplicación del coeficiente de Gini a la 
-Variabilidad de la Frecuencia Cardíaca (VFC) como indicador psicofisiológico del 
-estrés mental. 
-Objetivo: Evaluar la aplicación del coeficiente de Gini como indicador psicofisiológico 
-de estrés mental. 
-Métodos: Los participantes involucrados son 13 individuos sanos (edad 19 ± 1,5 años). 
-La frecuencia cardíaca se registró continuamente en reposo (5 minutos) y durante un 
-estrés mental (5 minutos). Se evaluaron métodos lineales y no lineales de variabilidad 
-de la frecuencia cardíaca, y se calcularon y propusieron 2 nuevos indicadores (Gini 
-secuencial y no secuencial) para medir las diferencias de VFC entre estados. 
-Resultados: Al comparar las condiciones de reposo y estrés mental, se encontró una 
-sensible disminución de los indicadores tradicionales de la VFC (p<0,05), un aumento 
-de la frecuencia cardiaca (p=0,004) y del Gini Secuencial (p=0,004) y Gini no 
-secuencial (p=0,04). 
-Conclusiones: Los resultados sugieren que la desigualdad temporal de los intervalos 
-RR analizados a partir del coeficiente de Gini podría ser un indicador adecuado de la 
-actividad simpática presente durante el estrés mental, con grandes potencialidades en la 
-evaluación las consecuencias de afecciones psicosomáticas y trastornos de ansiedad. 
-Palabras llave: Variabilidad de la Frecuencia Cardiaca; Estrés mental; Coeficiente GINI; 
-Sistema nervioso autónomo; Prueba de aritmética mental 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
- 
-1. INTRODUCTION 
+
 Stress in young individuals has a huge impact on physical and psychological functions, 
 because it affects several physiological processes in the human body. The stress of 
 psychological origin begins with an emotional reaction whose intensity on the organism 
 is linked to various psychosocial factors to which the human being is vulnerable, having 
 the ability to elicit a response that has been called «stress response» [1]. 
+
 Acute psychological stress is known to cause neural response with the release of hormonal 
 and humoral factors activated by the autonomic nervous system (ANS) in the 
 hypothalamus. It is known that it  is associated with developmental and 
@@ -105,6 +37,7 @@ non-communicable diseases [3]. Responses to stressors have adaptive functions
 developed within the evolution, from which both adverse and positive consequences can 
 be listed. Therefore, stress interventions are useful to understand how healthy individuals 
 respond to stressful stimulus [4, 5]. 
+
 Acute mental stress can be assessed with various methods available in the medical 
 literature, such as circadian rhythm dysregulations [6], Stroop test [7] and arithmetic test 
 [8, 9, 10]. Results from previous studies have shown a physiological coherence between 
@@ -113,22 +46,25 @@ stress and maladaptive responses have been related with physiological changes du
 stress like endocrine, autonomous and neural responses, with cortisol release under an 
 induced psychological stressor, brain activity changes and heart rate adaptive 
 modifications [12, 13]. 
+
 Heart rate variability (HRV) is defined as the time intervals variation among serial heart 
 beats. Other terms have been used in the literature; for instance: cycle longitude 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 variability, heart period variability and R-R variability. However, the term of HRV is the 
 one that has had greater acceptance [14]. The autonomic regulation of the heart beats have 
 been widely used to assess the functioning of the autonomic nervous system; methods 
 include time and frequency domain HRV analysis for short and long term recordings [15]. 
+
 The analysis of fluctuations of a signal scale with the number of samples of that signal, is 
 applicable to HRV for the RR interval time series analysis, and it found applications in 
 many different research fields, like psychophysiological studies of the autonomic 
 modulation of heart functioning [16, 17].  
+
 Acute stress models have shown results on HRV analysis, regarding the different 
 populations over it has been applied. In young adults findings show that it correlates with 
 a diminution of the irregularity of the intervals, as well as entropy and multiscale entropy 
 withdrawal [10]. The stress states have been also associated with changes in HRV, like 
 increased sympathetic activity and parasympathetic lessening [8]. 
+
 The authors have found in a spectral analysis of HRV, the inequality of the distribution 
 of slow fluctuations of heart rate under mental stress, with better sensibility than spectral 
 density methods traditionally used in HRV analysis [18]. Gini coefficient is a parameter 
@@ -140,7 +76,7 @@ resonance imaging [20], gene expression analysis [21] and the application to mea
 inequality in power spectral density of RR intervals was recently assessed [18]. However, 
 the application of the Gini coefficient to the analysis in time domain of the inequality of 
 the distribution of RR intervals has not been applied previously. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
+
 In this sense, the hypothesis was that the temporal inequality of RR intervals can be 
 associated with autonomic changes in HRV during stress, more effectively than the 
 traditional HRV indexes. It could be really valuable in the evaluation of the adaptive and 
@@ -148,32 +84,29 @@ maladaptive response of the autonomic cardiac modulation to stressful situations
 adequate indicator of autonomic modifications during mental stress. Therefore, this 
 investigation aimed to assess the application of the Gini coefficient as a 
 psychophysiological indicator of mental stress. 
-2. METHODS 
-2.1 Participants 
+
 A non-observational crossover study was conducted in thirteen healthy individuals, 6 
 males and 7 females (age: 19±1.5 years; BMI 22.3 ± 1.3 kg/m2). The participants were 
 non-smokers and without history of heart disease, systemic hypertension or other diseases 
 which could potentially influence HRV changes. The individuals were not under 
 medication and they were required to be satiated and not to have taken any caffeine, drugs 
 or alcohol in the 12 hours preceding the experiment. 
-The Ethics Committee Approval Statement 
+
 This study was approved by the Medical University of Santiago de Cuba Ethics 
 Committee under protocol number 22/2017. All procedures involved in this study are in 
 accordance with the 1975 Helsinki Declaration, updated in 2013. Informed consent was 
 obtained from all participants included in the study. 
- 
-2.2 Measurements  
+
 After signing informed consent, the participants were cited to the specific day and hour 
 when measurements were going to be carried out.  The sessions were conducted between 
 9:00 a.m. and 12:30 p.m. in a dimly lit room with controlled environmental noise and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 humidity, and a temperature range between 24 and 27 degrees Celsius, with no 
 interactions or distractions among the volunteers. They were allowed to rest for 15 
 minutes to adapt to local conditions. There was not circulation of people inside of that 
 environment.  The participants were asked for substance ingestion and physical activities 
 before starting the recording sessions; they were also required to be satiated (having had 
 breakfast about 1 hour before) and not having taken any product with caffeine. 
-2.3 Psychophysiological Data Acquisition and Processing 
+
 The PowerLab Acquisition System 8® (ADInstruments) was used to collect the 
 electrocardiographic (ECG) recordings, with a sampling rate of 1000 Hz for data 
 collection. A standard Lead II was used for ECG measurement. After the skin was cleaned 
@@ -199,10 +132,9 @@ ectopic intervals using cubic spline interpolation [23]. Traditional time domain
 of Heart Rate Variability were calculated, keeping of HRV recommendations [14]. 
 Finally, in other analysis of ECG signals, an ECG-derived Respiration Rate (EDR) was 
 computed from raw-ECG throughout the procedure via a built-in algorithm of Kubios 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 HRV Premium® 3.0.2 software: the algorithm examined the alterations of the amplitude 
 of the R-peak caused by chest movements during each respiratory cycle. 
-2.4 Arithmetic calculation test 
+
 Standard procedure of arithmetic calculation test [25, 26, and 27] was performed. It is an 
 efficient stimulus to induce cardiovascular reactivity by causing mental stress [9, 10, 28, 
 29, and 30]. Subjects subtracted 17 starting from 1000. They were instructed to subtract 
@@ -211,43 +143,37 @@ signaled by a sound. They told the result and after each answer subjects receive
 confirmation (“right” or “wrong”). They continued successive subtracting even when the 
 result was wrong. The subjects did not talk during calculation between verbalization of 
 answers. 
-2.5 New indexes proposed 
+
 The Gini coefficient is a measure of how incomes are unequally distributed between 
 social groups. A coefficient of zero means that all subgroups have exactly the same 
 income per capita, meaning that there is no dispersion of income; a very large coefficient 
 would result if all the incomes accumulate only in one subgroup and all the remaining 
 groups have zero incomes. When the total population size approaches to infinity but all 
 the incomes belong only to one individual, Gini coefficient approaches to 1.                                                 
-2.5.1 Sequential Gini  
+
 Absolute delta histogram of pairs of adjacent normal R–R intervals |NN-(NN+1)| were 
 employed measuring on discrete scale with bins of 1/128 s. (7.8125).  
-2.5.2 Non-sequential Gini 
+
 Histogram of normal R–R intervals (NN) were employed measuring on discrete scale 
 with bins of 1/128 s. (7.8125) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
+
 The sequential and non-sequential histograms can be constructed using bins of 7.8125 
 milliseconds length. Let n be the number of classes. Let A be a sequence a1, a2,…,an such 
 that ai is the number of elements in the i-th class, and let B be the sequence b1,b2,…,bn 
 such that bi is the mean of the limits of the i-th class. Now then, we can say that A is a 
 sequence of population sizes of some subgroups, and B represents the income per capita 
 in this different subgroups.  
+
 The Brown Formula is used to calculate an approximate value of the Gini coefficient and 
-is defined as follows:  𝑖∋
-∑(𝑝𝑖−𝑞𝑖)
-∑𝑝𝑖
- , such that 𝑝𝑖=
-𝑎1+𝑎2+⋯+𝑎𝑖
-𝑎1+𝑎2+⋯+𝑎𝑛   𝑞𝑖=
-𝑏1𝑎1+𝑏2𝑎2+⋯+𝑏𝑖𝑎𝑖
-𝑏1𝑎1+𝑏2𝑎2+⋯+𝑏𝑛𝑎𝑛  
-and i = 1,2,…,n-1. Therefore, 𝑝𝑖 is the cumulated proportion of the population variable 
+is defined as follows: <>  
+Therefore, 𝑝𝑖 is the cumulated proportion of the population variable 
 and 𝑞𝑖 is the cumulated proportion of the variable. In Non-Sequential Gini,  𝑝𝑖 is 
 cumulated proportion of the NN intervals in the different bins of RR Histogram and 𝑞𝑖 is 
 the cumulated proportion of values of the different bins of RR Histogram. In Sequential 
 Gini,  𝑝𝑖 is cumulated proportion of the absolute delta NN intervals in the different bins 
 of absolute delta RR Histogram and 𝑞𝑖 is the cumulated proportion of values of the 
 different bins of absolute delta RR Histogram. 
-2.6 Data analysis and statics 
+
 The Wilcoxon Signed-Rank Test for related samples was employed with p<0.05. All 
 values were expressed as Mean, Standard Deviation (SD) and Coefficient of Variation 
 (CV %). The p values < 0.05 were considered statistically significant. Effect size with 
@@ -256,283 +182,30 @@ small, medium, and large effects [31]. Pearson Correlation was applied to the da
 normal distribution, or Spearman’s correlation, for the ones that did not accept this 
 distribution. The normality of the data was initially determined using the Shapiro-Wilk 
 test. The distributions of bins scaling histograms are showed.  All the statistical and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 mathematical calculations as well as the processing of the signals were carried out in 
 Matlab 2012b and in SPSS 22 statistic software. 
-3. RESULTS 
+
 In Table 1 can be observed that mental stress caused changes in the values of heart rate 
 and RR intervals. The traditional indexes of HRV that were statistically affected by the 
 cardiovascular hyperactivity are pNN50, RMSSD and SD1. Mental stress also produced 
 a significant increment of Sequential Gini and Non-Sequential Gini. Sequential Gini 
 reported the lowest values of inter-individual variation both in rest and during mental 
 stress. 
-Table 1. Traditional and Gini Temporal HRV indexes during psychophysiological status. 
-HRV Indexes 
-Rest 
-Mental Stress 
-Effect Size 
-Cohen's d 
- 
-p 
-Mean 
-SD 
-CV 
-(%) 
-Mean 
-SD 
-CV 
-(%) 
-HR 
-80,32 
-10,52 
-13,09 
-96,41 
-11,78 
-12,21 
-1,44 
-Large 
-0,004 a 
-RR 
-763,3 
-93,0 
-12,18 
-636,9 
-75,1 
-11,79 
-1,49 
-Large 
-0,004 a 
-Respiratory Rate 
-14,9 
-3,1 
-20,8 
-12,63 
-2,99 
-23,67 
-0,74 
-Medium 
-0,101 
-SDNN 
-60,59 
-24,37 
-40,22 
-62,03 
-22,66 
-36,53 
-0,06 
-Small 
-0,650 
-pNN50 
-28,32 
-21,20 
-74,85 
-14,91 
-15,03 
-100,8 
-0,72 
-Medium 
-0,007 a 
-RMSSD 
-47,36 
-22,95 
-48,45 
-33,52 
-17,98 
-53,63 
-0,67 
-Medium 
-0,009 a 
-HRVTi 
-11,72 
-2,32 
-19,79 
-12,83 
-3,07 
-23,96 
-0,40 
-Small 
-0,263 
-TINN 
-229,0 
-94,7 
-41,35 
-232,7 
-100,6 
-43,23 
-0,03 
-Small 
-0,753 
-SD1 
-33,53 
-16,24 
-48,43 
-23,73 
-12,72 
-53,60 
-0,67 
-Medium 
-0,009 a 
-SD2 
-78,49 
-31,35 
-39,94 
-84,26 
-30,01 
-35,61 
-0,18 
-Small 
-0,311 
-Sequential Gini 
-0,420 
-0,043 
-10,23 
-0,491 
-0,057 
-11,60 
-1,41 
-Large 
-0,004 a 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-Non-Sequential 
-Gini  
-0,044 
-0,015 
-34,09 
-0,055 
-0,018 
-32,72 
-0,66 
-Medium 
-0,046 a 
-CV: Coefficient of variation. SD: Standard deviation. a Statistically significant. 
- 
+
 Figure 1 shows the Lorenz curves of temporal distribution inequality of both Gini indexes 
 during rest and mental stress, in a random subject. The Lorenz coefficient result from the 
 space between the colored zone and the diagonal line, which is highest during mental 
 stress in both Sequential Gini and Non-Sequential Gini indexes. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
- 
-Figure 1. Lorenz curves of temporal distribution inequality of Sequential Gini and Non-
-Sequential Gini during psychophysiological status. 
+
 Table 2 shows the Pearson’s correlations between Gini temporal HRV indexes and 
 traditional HRV indexes, which illustrates that there was no correlation between Non-
 Sequential Gini and the other indexes in any of the status. Nevertheless, Sequential Gini 
 at rest showed a significant negative correlation with respiratory rate, which means that 
 lowest values of Sequential Gini are related to highest values of respiratory rate; a positive 
 correlation was also founded between Sequential Gini and pNN50. Otherwise, Sequential 
-       
- 
-  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 Gini during mental stress correlated with TINN, and in the total sample it correlated with 
 SDNN, HRVTi, TINN and SD2. 
-Table 2. Correlation between Gini temporal HRV indexes and traditional HRV indexes 
-during psychophysiological status. 
-HRV 
-Indexes 
-Rest 
-Mental Stress 
-Global 
-Non-
-Sequential 
-Gini 
-Sequential 
-Gini 
-Non-
-Sequential 
-Gini 
-Sequential 
-Gini 
-Non-
-Sequential 
-Gini 
-Sequential 
-Gini 
-Heart Rate 
-0,027 
--0,152 
-0,102 
--0,327 
-0,241 
--0,188 
-RR 
-intervals 
--0,026 
-0,227 
--0,112  
-0,350 
--0,242 
-0,186 
-Respiratory 
-Rate 
-0,304 
--0,698** 
-0,089 
-0,353 
-0,054 
--0,294 
-SDNN 
--0,137 
-0,434 
--0,334 
-0,490 
--0,216 
-0,389* 
-pNN50 
--0,039 
-0,559* 
--0,374a 
-0,360a 
--0,239a 
-0,104a 
-RMSSD 
--0,043 
-0,495 
--0,346 
-0,514 
--0,269 
-0,178 
-HRVTi 
--0,184 
--0,159 
-0,062  
-0,521 
-0,062a 
-0,413a* 
-TINN 
--0,138 
-0,351 
--0,189 
- 0,595* 
--0,152 
-0,408* 
-SD1 
--0,043 
-0,495 
--0,344 
-0,514 
--0,268 
-0,178 
-SD2 
--0,148 
-0,410 
--0,329 
-0,481 
--0,199 
-0,414* 
-Sequential 
-Gini 
--0,022 
-- 
--0,012 
-- 
-0,269a 
-- 
-* Statistically significant. ** p < 0.01.  a Spearman’s correlation, for the HRV indices that did not 
-accept normal distribution in Shapiro-Wilk test. 
- 
+
 Table 3 shows the evaluating parameters of the discriminatory capacity of traditional and 
 Gini temporal HRV indexes to be related to stress status, provided by the Receiver 
 Operating Characteristic (ROC) curve. Sequential Gini shows a poor discriminatory 
@@ -540,124 +213,20 @@ capacity to relate with stress, from which it is inferred that its highest value
 with rest. Non-Sequential Gini by the other hand showed a good discriminatory capacity 
 to be related with stress. Its cut point could be proposed to be evaluated as an indicator of 
 mental stress. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-Table 3. Efficacy of traditional and Gini temporal HRV indexes in the discrimination of 
-psychophysiological status. 
-Variables 
-Cut  
-point 
-Sensitivity  
-Specificity  
-Youden 
-Index  
-Area 
-Under 
-Curve  
-p 
-RR intervals 
-723.700 
-0.000 
-0.231 
--0.769 
-0.136 
-0.002 
-SDNN 
-41.950 
-0.692 
-0.077 
--0.230 
-0.503 
-0.980 
-pNNx 
-4.60 
-0.538 
-0.077 
--0.384 
-0.302 
-0.086 
-RMSSD 
- 24.850 
-0.538 
-0.077 
--0.3846 
-0.325 
-0.130 
-Heart Rate 
-83.350 
-1.000 
-0.769 
-0.769 
-0.870 
-0.001 
-HRVTi 
-9.750 
-0.923 
-0.308 
-0.230 
-0.621 
-0.293 
-TINN 
-284.400 
-0.385 
-0.846 
-0.230 
-0.467 
-0.778 
-SD1 
-17.600 
-0.538 
-0.077 
--0.384 
-0.325 
-0.130 
-SD2 
-91.250 
-0.462 
-0.769 
-0.230 
-0.538 
-0.739 
-Gini non-secuencial 
-0.034 
-1.000 
-0.308 
-0.307 
-0.669 
-0.144 
-Gini secuencial 
-0.447 
-0.923 
-0.769 
-0.692 
-0.876 
-0.001 
-Respiratory Rate 
-15.121 
-0.154 
-0.462 
--0.384 
-0.308 
-0.096 
- 
- 
+
 In Figure 2 can be observed the class intervals (bins) of Gini temporal HRV indexes in 
 both psychophysiological status to evaluate the unequal distribution of elements. It was 
 founded that during stress both Gini temporal HRV indexes are more concentrated, while 
 during rest they are more dispersed. In the analysis of each index separately, Sequential 
 Gini increases when bins sizes increases, while Non- Sequential Gini keeps stable no 
 matter the sizes of bins. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
- 
- 
-Figure 2. Distribution of class intervals (bins) of Gini temporal HRV indexes in both 
-psychophysiological states. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-4. DISCUSSION 
+
 The present study explored the usefulness of a temporal indicator of HRV based on the 
 Gini index, not reported so far, and its application as a new psychophysiological indicator 
 of mental stress. This method made it possible to measure the temporal inequality 
 between pairs of adjacent normal R-R intervals and to determine the differences between 
 the basal and mental stress status induced by the arithmetic calculation test. 
+
 The response of the cardiovascular system to acute stress causes activation of the 
 autonomic nervous system, matching energy supply to increased metabolic demands 
 (increase in blood pressure, heart rate, vascular peripheral resistance, etc.), and it can 
@@ -673,14 +242,15 @@ to face different life situations and they adjust to signals that travel down th
 hypothalamic-pituitary-adrenal axis causing acute catecholamine release and subsequent 
 cortisol release. These explain the increase in other variables such as blood pressure, heart 
 rate or peripheral vascular resistance [4, 8].  
+
 An increasing number of indicators have been developed and applied to quantify HRV in 
 the time and frequency domain since the beginning of the new century [16]. Sassi et al 
 [15] provided a critical review of newer methods highlighting their contribution to the 
 technical understanding of HRV and their ability to quantify the complex regulation 
 mechanism of the heart rate not covered by traditional methods. But Gini index as a 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 statistical measure that has only been investigated in a previous study for its application 
 to the study of HRV during an acute stimulus induced by a mental stressor [18].  
+
 In the present study, a significant increase in the inequality of heartbeat variations 
 (Sequential Gini) during mental stress was found, which in the bivariate analysis 
 exceeded the rest of the traditional HRV indicators in statistical significance. This result 
@@ -695,22 +265,24 @@ Sequential Gini showed that it appearances to be more homogeneous than the rest 
 indexes studied, which improves the strength of this result. Regarding the result obtained 
 in the Non-Sequential Gini analysis (distribution of beats), it is worth highlighting its 
 statistical significance that is higher than most traditional HRV indexes. 
- The obtained results show that with the use of the new proposed indicators a greater 
+
+The obtained results show that with the use of the new proposed indicators a greater 
 homogeneity of the data is achieved in the study of HRV against various stimuli, taking 
 into account the value of its coefficient of variation, which results are higher. This 
 increases the validity and feasibility of using this indicator to assess mental stress against 
 the other indicators. 
+
 The Lorenz curve is used together with the Gini coefficient as a graphical representation 
 to measure the inequality in the distribution of numerical data and to express the relative 
 distribution of a variable in a domain; the perfect data distribution would result in a slope 
 of one and a Gini coefficient of zero, whereas severe data inequity results in higher Gini 
 values closer to one [34]. In this study it was found that there is a more unequal 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 distribution in the Sequential Gini than in the Non-Sequential Gini, since the coefficient 
 was higher. It was also found that the distribution of the data resulted to be more irregular 
 during mental stress than during rest. This result is completely novel, since the application 
 of the Lorenz curve to measure the inequality in spectral values of HRV, and its 
 comparison with mental stress has been applied in this study for the first time. 
+
 The study of HRV has shown that it is a measurement coupled with the fact it is relatively 
 affordable, non-invasive and pain free, which makes it very accessible to many 
 researchers [16]. But it is true that most HRV indicators currently studied are highly 
@@ -721,6 +293,7 @@ them are toughly influenced by the other values such as heart rate and respirato
 indicators and the high correlation between them that in many cases is possible to estimate 
 one indicator from another, not providing valuable information, but making its 
 interpretation difficult. 
+
 In this study, little correlation was found between the proposed indicators and the 
 traditional variables, which provides new information not previously described. The Non-
 Sequential Gini did not correlate with any of the traditional indicators; However, 
@@ -730,17 +303,19 @@ calculated and geometrically represented, and in the fact of using the concept o
 binning, which a characteristic of many geometric indicators of HRV [36]. The benefit of 
 having greater homogeneity and the possibility of visualizing the most obvious changes 
 produced by mental stress in the heart is reported in this study. 
+
 Regarding results obtained in the analysis of the discriminatory capacity of the traditional 
 indexes and the Sequential and Non-Sequential Gini, it was found that the area under the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 Sequential Gini curve resulted as poor discriminatory capacity to discriminate mental 
 stress. However, the Non-Sequential Gini did show a good discriminatory capacity to be 
 associated with stress, with high sensitivity and specific values. 
+
 The analysis of discriminatory capacity has been used in several previous investigations 
 of HRV, and cut-off points have been established for various variables, which aim to 
 predict a better or worse cardiovascular function or a better adaptation of them to stressful 
 physical or mental stimuli [37; 38]. In this study a cut-off point is proposed to be 
 investigated in future investigations. 
+
 It was observed that the new indicators have different characteristics when the sizes of 
 the Bins vary. In the Sequential Gini (which indicate the inequality of the clustered 
 variations of the heartbeats) it was obtained that as the size of each bin increases, there 
@@ -755,231 +330,22 @@ of the distribution of the beats) performs in a constant manner regardless of th
 the Bins used, so the limitations that the Sequential Gini presents is not applicable to Non- 
 Sequential Gini. These results allow describing the mathematical characteristics of the 
 indicators proposed in the studied sample. 
+
 Results of this investigation show that Gini index in its Sequential and Non-Sequential 
 categories was found to be associated with mental stress in the individuals studied, more 
 effectively than the traditional HRV indexes. Temporal inequality measured by the Gini 
 index was bigger during mental stress, and the proposed indexes seems not to be affected 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
 by other indicators, which they could be very valuable in the study of the cardiovascular 
 autonomic response to various stimuli. Temporary inequality of the RR intervals analyzed 
 from the Gini coefficient could be an adequate indicator of sympathetic-adrenal activity 
 present during mental stress, with great potentialities in the objective to assess the 
 consequences of psychosomatic affections and the anxiety disorders. 
-Compliance with ethical standards 
+
 Funding source: This research did not receive any speciﬁc grant from funding public 
 agencies, commercial, or not-for-proﬁt sectors. 
-Limitations 
+
 The study sample size was 13, which could affect the performance of methods for 
 qualitative sample comparison and distribution of studied parameters values in the 
 population. Although the sample size accomplishes sufficiently the minimal 
 recommended sample size for biomedical experiments [40], the effect size was assessed 
 in every single analysis, by calculating Cohen's kappa coefficient. 
-Author contribution 
-Miguel 
-Enrique 
-Sanchez-Hechavarría: 
-Conceptualization, 
-Formal 
-analysis, 
-Investigation, Methodology, Software, Supervision, Validation, Writing the original 
-draft. 
-Ramón Carrazana-Escalona: Conceptualization, Formal analysis, Investigation, 
-Methodology, Software, Writing-review & editing. 
-Victor Ernesto González-Velázquez: Conceptualization, Data administration, 
-Methodology, Software, Formal analysis, Investigation, Validation, Writing the original 
-draft. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-Elys María Pedraza-Rodríguez: Investigation, Methodology, Validation, Writing the 
-original draft. 
-Sergio Cortina-Reyna: Conceptualization, Data administration, Software, Writing-
-review & editing. 
-Adan Andreu-Heredia: Investigation, Methodology, Writing-review & editing. 
-Erislandis López-Galán: Conceptualization, Data administration, Investigation, Project 
-administration, Resources, Writing-review & editing. 
-Declaration of Competing Interest 
-The authors declare that there were no conﬂicts of interest in the present study. 
-REFERENCES 
-1. Zhang, H., Yao, Z., Lin, L., Sun, X., Shi, X., & Zhang, L. (2019). Early life stress 
-predicts cortisol response to psychosocial stress in healthy young adults. PsyCh 
-Journal, 8(3), 353-362. https://doi.org/10.1002/pchj.278 
-2. González-Velázquez, V. E., Pedraza-Rodríguez, E. M., Carrazana-Escalona, R., 
-Moreno-Padilla, M., Muñoz-Bustos, G. A., & Sánchez-Hechavarría, M. E. (2020). 
-Cardiac vagal imbalance to the isometric sustained weight test in adolescents with 
-emotional eating behavior. Physiology & Behavior, 223, 112994. 
-https://doi.org/10.1016/j.physbeh.2020.112994 
-3. Doom, J. R., Reid, B. M., Nagel, E., Gahagan, S., Demerath, E. W., & Lumeng, J. 
-C. (2020). Integrating anthropometric and cardiometabolic health methods in stress, 
-early experiences, and development (SEED) science. Developmental Psychobiology, 
-n/a(n/a). https://doi.org/10.1002/dev.22032 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-4. Liu, J. J. W., Reed, M., & Vickers, K. (2019). Reframing the individual stress 
-response: Balancing our knowledge of stress to improve responsivity to stressors. 
-Stress and Health, 35(5), 607-616. https://doi.org/10.1002/smi.2893 
-5. Qi, M., & Gao, H. (2020). Acute psychological stress promotes general alertness 
-and attentional control processes: An ERP study. Psychophysiology, 57(4), e13521. 
-https://doi.org/10.1111/psyp.13521 
-6. Patel, N. M., Limberg, J. K., Covassin, N., Somers, V. K., Joyner, M. J., & Baker, S. 
-E. (2020). Attenuated Sympathetic Baroreflex Sensitivity Evoked by Acute Mental 
-Stress but not Prolonged Sleep Restriction in Healthy Adults. The FASEB Journal, 
-34(S1), 1-1. https://doi.org/10.1096/fasebj.2020.34.s1.02537 
-7. Sayed, K. E., Macefield, V. G., Hissen, S. L., Joyner, M. J., & Taylor, C. E. (2018). 
-Blood pressure reactivity at onset of mental stress determines sympathetic vascular 
-response in young adults. Physiological Reports, 6(24), e13944. 
-https://doi.org/10.14814/phy2.13944 
-8. Li, H., Kilgallen, A. B., Münzel, T., Wolf, E., Lecour, S., Schulz, R., Daiber, A., & 
-Laake, L. W. V. (2019). Influence of mental stress and environmental toxins on 
-circadian clocks: Implications for redox regulation of the heart and cardioprotection. 
-British Journal of Pharmacology, n/a(n/a). https://doi.org/10.1111/bph.14949 
-9. Pedraza-Rodríguez, E. M., Almira-Gómez, C. R., Reyna, S. C., Bueno-Revilla, D. 
-de J., López-Galán, E., & Sánchez-Hechavarría, M. E. (2019). Modifications Of The 
-Non-Linear Parameters Of The Heart Rate Variability Related To The Mental 
-Arithmetic Test. Revista Cubana de Investigaciones Biomédicas, 38(1), Article 1. 
-http://www.revibiomedica.sld.cu/index.php/ibi/article/view/161 
-10. Pedraza-Rodríguez, E. M., González-Velázquez, V. E., Montes de Oca-Carmenaty, 
-M., González-Medina, K. N., Muñoz-Bustos, G. A., Bueno-Revilla, D. de J., López-
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-Galán, E., & Sánchez-Hechavarría, M. E. (2020). Respuesta autonómica 
-cardiovascular al estrés mental inducido por la prueba de cálculo aritmético. Revista 
-Cubana de Investigaciones Biomédicas, 39(4), e625. 
-http://www.revibiomedica.sld.cu/index.php/ibi/article/view/817 
-11. Mejía‐Mejía, E., Torres, R., & Restrepo, D. (2018). Physiological coherence in 
-healthy volunteers during laboratory-induced stress and controlled breathing. 
-Psychophysiology, 55(6), e13046. https://doi.org/10.1111/psyp.13046 
-12. Kühnel, A., Kroemer, N. B., Elbau, I. G., Czisch, M., Sämann, P. G., Walter, M., & 
-Binder, E. B. (2020). Psychosocial stress reactivity habituates following acute 
-physiological stress. Human Brain Mapping, 41(14), 4010-4023. 
-https://doi.org/10.1002/hbm.25106 
-13. Lombardo, D. M., & Vick, R. S. (2019). Relationship Between Heart Rate 
-Variability and Perceived Stress in Healthy College-Aged Adults. The FASEB 
-Journal, 33(S1), 741.2-741.2. 
-https://doi.org/10.1096/fasebj.2019.33.1_supplement.741.2 
-14. Electrophysiology Task Force of the European Society of Cardiology the North 
-American Society of Pacing. (1996). Heart Rate Variability. Circulation, 93(5), 
-1043-1065. https://doi.org/10.1161/01.CIR.93.5.1043 
-15. Sassi, R., Cerutti, S., Lombardi, F., Malik, M., Huikuri, H. V., Peng, C.-K., 
-Schmidt, G., Yamamoto, Y., Reviewers, D., Gorenek, B., Lip, G. Y. H., Grassi, G., 
-Kudaiberdieva, G., Fisher, J. P., Zabel, M., & Macfadyen, R. (2015). Advances in 
-heart rate variability signal analysis: Joint position statement by the e-Cardiology 
-ESC Working Group and the European Heart Rhythm Association co-endorsed by 
-the Asia Pacific Heart Rhythm Society. EP Europace, 17(9), 1341-1353. 
-https://doi.org/10.1093/europace/euv015 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-16. Bravi, A., Longtin, A., & Seely, A. J. (2011). Review and classification of 
-variability analysis techniques with clinical applications. Biomed Eng Online, 10, 
-90. https://doi.org/10.1186/1475-925X-10-90 
-17. Scott, B. G., Alfano, C. A., Russell, J. D., & Weems, C. F. (2019). Heart rate 
-variability and anxious arousal: Unique relations with sleep-related problems in 
-stress-exposed adolescents. Developmental Psychobiology, 61(8), 1180-1190. 
-https://doi.org/10.1002/dev.21883 
-18. Sánchez-Hechavarría, M. E., Ghiya, S., Carrazana-Escalona, R., Cortina-Reyna, S., 
-Andreu-Heredia, A., Acosta-Batista, C., & Saá-Muñoz, N. A. (2019). Introduction 
-of Application of Gini Coefficient to Heart Rate Variability Spectrum for Mental 
-Stress Evaluation. Arquivos Brasileiros de Cardiologia, 113(4), 725-733. 
-https://doi.org/10.5935/abc.20190185 
-19. You, K.-J., Noh, G.-J., & Shin, H.-C. (2016). Spectral Gini Index for Quantifying 
-the Depth of Consciousness. Computational Intelligence and Neuroscience, 2016, 
-2304356. https://doi.org/10.1155/2016/2304356 
-20. Viehweger, A., Riffert, T., Dhital, B., Knösche, T. R., Anwander, A., Stepan, H., 
-Sorge, I., & Hirsch, W. (2014). The Gini coefficient: A methodological pilot study 
-to assess fetal brain development employing postmortem diffusion MRI. Pediatric 
-Radiology, 44(10), 1290-1301. https://doi.org/10.1007/s00247-014-3002-4 
-21. Wright Muelas, M., Mughal, F., O’Hagan, S., Day, P. J., & Kell, D. B. (2019). The 
-role and robustness of the Gini coefficient as an unbiased tool for the selection of 
-Gini genes for normalising expression profiling data. Scientific Reports, 9(1), 
-17960. https://doi.org/10.1038/s41598-019-54288-7 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-22. Manikandan, M. S., & Soman, K. P. (2012). A novel method for detecting R-peaks 
-in electrocardiogram (ECG) signal. Biomedical Signal Processing and Control, 
-7(2), 118-128. https://doi.org/10.1016/j.bspc.2011.03.004 
-23. Ramshur, J. T. (2010). Design, Evaluation, and Application of Heart Rate 
-Variability Analysis Software (HRVAS). University of Memphis. 
-https://books.google.cl/books?id=vHZYAQAACAAJ 
-24. Mitov, I. P. (1998). A method for assessment and processing of biomedical signals 
-containing trend and periodic components. Med Eng Phys, 20(9), 660-668. 
-25. Vuksanovic, V., & Gal, V. (2007). Heart rate variability in mental stress aloud. Med 
-Eng Phys, 29(3), 344-349. https://doi.org/10.1016/j.medengphy.2006.05.011 
-26. Sloan, R. P., Korten, J. B., & Myers, M. M. (1991). Components of heart rate 
-reactivity during mental arithmetic with and without speaking. Physiology & 
-behavior, 50(5), 1039-1045. 
-27. Bernardi, L., Wdowczyk-Szulc, J., Valenti, C., Castoldi, S., Passino, C., Spadacini, 
-G., & Sleight, P. (2000). Effects of controlled breathing, mental activity and mental 
-stress with or without verbalization on heart rate variability. J Am Coll Cardiol, 
-35(6), 1462-1469. 
-28. Hidaka, O., Yanagi, M., & Takada, K. (2004). Mental stress-induced physiological 
-changes in the human masseter muscle. Journal of dental research, 83(3), 227-231. 
-29. Linden, W. (1991). What do arithmetic stress tests measure? Protocol variations and 
-cardiovascular responses. Psychophysiology, 28(1), 91-102. 
-30. Ushiyama, K., Ogawa, T., Ishii, M., Ajisaka, R., Sugishita, Y., & Ito, I. (1991). 
-Physiologic neuroendocrine arousal by mental arithmetic stress test in healthy 
-subjects. American Journal of Cardiology, 67(1), 101-103. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-31. Quintana, D. S. (2017). Statistical considerations for reporting and planning heart 
-rate variability case-control studies. Psychophysiology, 54(3), 344-349. 
-https://doi.org/10.1111/psyp.12798 
-32. Jarczewski, J., Furgała, A., Winiarska, A., Kaczmarczyk, M., & Poniatowski, A. 
-(2019). Cardiovascular response to different types of acute stress stimulations. Folia 
-Medica Cracoviensia, 59(4), 95-110. https://doi.org/10.24425/fmc.2019.131383 
-33. Pereira, T., Almeida, P. R., Cunha, J. P. S., & Aguiar, A. (2017). Heart rate 
-variability metrics for fine-grained stress level assessment. Computer Methods and 
-Programs in Biomedicine, 148, 71-80. https://doi.org/10.1016/j.cmpb.2017.06.018 
-34. Hur, C., Zhan, T., Thrift, A. P., Vaughan, T. L., & Feuer, E. J. (2019). Lorenz 
-Curves and Gini Coefficient Analyses Indicate Inefficiencies in Esophageal 
-Adenocarcinoma Screening. Clinical gastroenterology and hepatology : the official 
-clinical practice journal of the American Gastroenterological Association, 17(3), 
-560-562.e2. https://doi.org/10.1016/j.cgh.2018.05.002 
-35. Laborde, S., Mosley, E., & Thayer, J. F. (2017). Heart Rate Variability and Cardiac 
-Vagal Tone in Psychophysiological Research – Recommendations for Experiment 
-Planning, Data Analysis, and Data Reporting. Frontiers in Psychology, 08. 
-https://doi.org/10.3389/fpsyg.2017.00213 
-36. Vanderlei, L. C. M., Pastre, C. M., Freitas Júnior, I. F., & Godoy, M. F. de. (2010). 
-Índices geométricos de variabilidad de la frecuencia cardíaca en niños obesos y 
-eutróficos. Arquivos Brasileiros de Cardiologia, 95(1), 35-40. 
-https://doi.org/10.1590/S0066-782X2010005000082 
-37. Torres-Leyva, M., Carrazana-Escalona, R., Ormigó-Polo, L. E., Ricardo-Ferro, B. 
-T., López-Galán, E., Ortiz-Alcolea, L., & Sánchez-Hechavarría, M. E. (2019). 
-Cardiovascular autonomic response during the Cuban dynamic weight-bearing test. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-CorSalud, 11(1), 1-10. 
-http://revcorsalud.sld.cu/index.php/cors/article/download/342/842  
-38. González-Velázquez, V. E., Pedraza-Rodríguez, E. M., Nápoles-Zaldívar, Y., 
-Sánchez-Guerra, J. A., Muñoz-Bustos, G. A., Rodríguez-Nuviola, J., Bueno-Revilla, 
-D. de J., López-Galán, E., & Sánchez-Hechavarría, M. E. (2020). Differences in 
-linear Parameters of the basal autonomic balance between medical students and 
-young baseball players. , 12(3), 301-311. 
-http://revcorsalud.sld.cu/index.php/cors/article/download/452/1245 
-39. Billman, G. E., Huikuri, H. V., Sacha, J., & Trimmel, K. (2015). An introduction to 
-heart rate variability: Methodological considerations and clinical applications. Front 
-Physiol, 6, 55. https://doi.org/10.3389/fphys.2015.00055 
-40. Ristić-Djurović, J. L., Ćircović, S., Mladenović, P., Romcevic, N., & Trbovich, M. 
-(2018). Analysis of methods commonly used in biomedicine for treatment versus 
-control comparison of very small samples. Computer Methods and Programs in 
-Biomedicine. 157:153-62. https://doi.org/10.1016/j.cmpb.2018.01.026  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4392
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)
