@@ -1,77 +1,153 @@
-(Periphytic algal flora of the low Doce river, Espírito Santo State, Brazil, after ore tailings flow, 1: smooth cell walled Cosmarium Corda (Zygnematophyceae, Desmidiaceae). Study aimed at identifying and recording smooth or finely punctate cell walled Cosmarium Corda species of the low Doce river region, Espírito Santo State, Brazil. Periphytic material was collected monthly during the period October 2018 to February 2020, except for October 2019. We identified 22 taxa and analyzed the environmental conditions (trophic state, pH and total iron) in which each taxon occurred. Our study recorded 21 new records of smooth cell walled Cosmarium for Espírito Santo State and one (Cosmarium trilobulatum var. tumidum Willi Krieger & Gerloff) for Brazil. 
+(Periphytic algal flora of the low Doce river, Espírito Santo State, Brazil, after ore tailings flow, 1: smooth cell walled Cosmarium Corda (Zygnematophyceae, Desmidiaceae)). Study aimed at identifying and recording smooth or finely punctate cell walled Cosmarium Corda species of the low Doce river region, Espírito Santo State, Brazil. Periphytic material was collected monthly during the period October 2018 to February 2020, except for October 2019. We identified 22 taxa and analyzed the environmental conditions (trophic state, pH and total iron) in which each taxon occurred. Our study recorded 21 new records of smooth cell walled Cosmarium for Espírito Santo State and one (Cosmarium trilobulatum var. tumidum Willi Krieger & Gerloff) for Brazil. 
+
 Originally described by Ralfs in 1848, genus Cosmarium Corda gathers over 1,500 taxa and consists in the most numerous and one of the oldest genera of family Desmidiaceae. Genus is composed by usually free-living single cells with a median constriction that vary from a deep closed depression to a widely open and shallow one, that divides the cell into two symmetrical semicells and vary in shape and size depending on the species (Bicudo & Menezes 2017). Taxonomy of Cosmarium is primarily based on the cell outline and cell wall ornamentation. For practical purposes, however, taxonomists tend to divide it into two artificial groups: one with ornamented cell walls (ornamentation varying from small granules to scrobiculations and tiny spines) and the other one with smooth or finely punctate cell wall. 
+
 Genus Cosmarium is worldwide recorded in many taxonomic surveys. From classical 19th century literature (e.g., Brébisson 1856, Lundell 1871, Nordstedt & Wittrock 1876, Ralfs 1848, West & G.S. West 1895) to the more recent papers, the genus was recorded for many countries, including Nigeria (Biswas & Nweze 1990), Colombia (Duque & Donato 1996), Canada (Elster et al. 1997), Bangladesh (Islam & Irfanullah 2006), India (Dhande & Jawale 2009, Bansod & Patil 2019), Czech Republic (Šťastný 2009), South Korea (Lee 2015) and many others. Over 600 Cosmarium taxa were recorded for Brazil (Biolo & Bicudo 2018), and the genus was more intensively studied in the south region where numerous taxonomic studies revealed its presence in both phytoplankton and periphyton of reservoirs and rivers. Recent floristic studies recording the presence of Cosmarium in Brazil include States such as Paraná (Silva & Cecy 2004, Bortolini et al. 2010, Felisberto & Rodrigues 2010, Biolo et al. 2013, Menezes et al. 2011, Carvalho et al. 2015, Moresco et al. 2015, Aquino et al. 2016, Osório et al. 2018, Rodrigues & Moresco 2021), São Paulo (Bicudo et al. 2019, Felisberto & Rodrigues 2010), Bahia (Oliveira et al. 2010, Oliveira et al. 2011, Oliveira et al. 2016, Ramos et al. 2018, Ramos et al. 2021), Goiás (Felisberto & Rodrigues 2004), Distrito Federal (Estrela et al. 2011), Amazonas (Saturnino et al. 2020), Sergipe (Burle et al. 2020), Mato Grosso and Rio de Janeiro (Kanetsuna 2004). Furthermore, in the last 10 years five new species of Cosmarium were described based on Brazilian material: Cosmarium bahianum G.J.P.Ramos, C.E.M.Bicudo & C.W.N.Moura, Cosmarium bromelicola G.J.P.Ramos, C.E.M.Bicudo & C.W.N.Moura, Cosmarium diamantinum G.J.P.Ramos & C.W.N.Moura, Cosmarium imperiale G.J.P.Ramos & C.W.N.Moura and Cosmarium oliveirae G.J.P.Ramos, C.E.M.Bicudo & C.W.N.Moura, in addition to a few taxonomic varieties. Despite having one of the most important coastal lake systems of Brazil (Barroso et al. 2012), Espírito Santo State has been widely neglected concerning its algal flora studies. Delazari-Barroso et al. (2007) is the only floristic study of the State recording the presence of the genus by four Cosmarium taxa (Cosmarium asphaerosporum var. strigosum Nordstedt, Cosmarium cf. capitulum J.Roy & Bisset, Cosmarium pseudobroomei Wolle and Cosmarium pseudoconnatum Nordstedt). 
+
 The Low Doce River region is undergoing severe urban and rural anthropogenic interference mainly represented by livestock, agriculture and the increasing industrialization (Barroso et al. 2012) even before the Fundão dam failure in 2015. Dam rupture released downstream about 43 million m³ (Carmo et al. 2017) of mining tailings, causing several changes on the fluvial system, such as erosion, degradation, and iron (Fe) enrichment to potentially impactful levels (Hatje et al. 2017). Lack of floristic studies in the region and the fact that mine tailing inputs have previously caused taxonomic and functional changes in several communities, such as the benthic fauna (Burd 2002), marine macroalgal flora (Correa et al. 1999), planktonic algae (Salonen et al. 2006), and benthic algal communities (Lavoie et al. 2012), highlights the importance of periphyton biodiversity studies in the region. 
+
 Present study aimed at performing a taxonomic survey of the smooth cell walled Cosmarium species of the Low Doce River region three years after the input of iron ore tailings, also focusing on species autecology, thus contributing to the knowledge of freshwater algal diversity of Espírito Santo State. 
+
 The study was carried out in three cities in Espírito Santo State: Baixo Guandu, Colatina and 
+
 Linhares. Detailed information on study area and sampling design are available in Zorzal-Almeida et al. (2021). For taxonomic and ecological analysis, a minimum of five non-permanent slides were prepared for each sample. Material was observed and photographed, respectively, with a Motic Panthera L digital binocular upright Olympus microscope and a Moticam 3.0 MP camera. The following taxonomic features were observed for identification and description of the material at the microscope: cell shape, number and position of chloroplasts and pyrenoids, cell wall structure, and metric data such as cell length and width, and isthmus width. Cell length (L), cell width (W) and isthmus width (I) were measured using Motic Image Plus 3.0 software. Identification was based on classic literature (e.g. Ralfs 1848, West & West 1895, 1902, Croasdale 1956, Scott & Grönblad 1957, Krieger 1932) and recent papers (e.g. Coesel & Meesters 2007, Oliveira et al. 2016, Bicudo et al. 2019, etc.). 
+
 Environmental conditions were described according to ecosystem type (rivers, lagoons and lakes), trophic state index (TSI), and pH (method specifications in Zorzal-Almeida et al. 2021), classified as acid (< 6.5), alkaline (> 7.5) and circumneutral (6.5-7.5) (Šťastný 2010). Occurrence frequency of each taxon was calculated according to Zorzal-Almeida et al. (2021). To highlight the first citations for Espírito Santo State, taxa are marked with [*] and the first citations for Brazil with [**]. Samples studied during the present inventory are deposited at the Herbarium VIES/UFES. 
+
 Twenty-two smooth cell walled Cosmarium Corda taxa were presently identified, from which 21 were recorded for the first time for Espírito Santo State and one for Brazil. List of taxa and their occurrence frequency are listed in Table1. 
+
 Cell 1.1-1.2 times longer than broad, sometimes c. 1.1 times broader than long; median constriction deep, sinus linear, slightly open at the extremity; semicells trapezoidal, apex truncate, angles rounded, lateral margins convex to slightly straight; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell; cell apical view elliptical, semicell lateral view circular. L: 6.8-14.1 µm; W: 6.3-11.3 µm; I: 1-4.3 µm. 
+
 Note: This variety showed a considerable morphological plasticity, mainly in their length:width ratio and lateral margins shape. Bicudo (1988) discussed the polymorphism in Cosmarium abbreviatum var. minus and its consequences for the taxonomic identification of such small desmids, suggesting the great probability of many taxa, among which Cosmarium succisum G.S.West var. jaoi Willi Krieger & Gerloff and C. abbreviatum var. minus, might just be morphological expressions of the one same species. Present material displayed the same morphological variation described in the above-cited literature. 
+
 Present material occurred in all lentic and lotic environments studied, under oligotrophic to hypertrophic, and acidic to alkaline conditions. 
+
 Cell c. 1.4 times longer than broad, median constriction deep, sinus linear; semicells quadratic, apex retuse to slight truncate, lateral margins parallel, apical angles concave, basal angles rounded; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: c. 22.8 µm; W: c. 15.8 µm; I: c. 5.1 µm. 
+
 Note: Only a single specimen of this species was found during the present study, which was a little different from the ones in Brébisson (1856) and Coesel & Meesters (2007). Present specimens were slightly convex at the middle of the apex instead of a truncate one, and concave instead of straight apical angles. 
+
 Present material was collected from a lentic environment, under oligotrophic alkaline conditions. 
+
 Cell c. 1.1 times broader than long, median constriction deep, sinus linear; semicells semicircular, apex truncate, angles rounded; cell wall punctate, chloroplasts 2, pyrenoids 2 per semicell. L: c. 29.9 µm; W: c. 32.8 µm; I: c. 10.4 µm. 
+
 Note: Cosmarium baileyi is morphologically similar to Cosmarium obsoletum (Hantzsch) Reinsch, but the latter has thickened, angular, convergent basal angles, whereas the first one has rounded ones. 
+
 Present material was gathered in a lentic environment under mesotrophic, eutrophic, hypertrophic, and circumneutral conditions. 
+
 Cell c. 1.1 times longer than broad, median constriction deep, sinus linear; semicells semicircular, apex rounded, angles rounded; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: 11.1-17.8 µm; W: 9.7-15.2 µm; I: 3.1-5.4 µm. 
+
 Note: Present variety differs from the typical by having semicircular semicells instead of triangular or almost so. 
+
 Present material was gathered from a lentic environment under oligotrophic to eutrophic and alkaline conditions. 
+
 Cell 1.4-1.5 times longer than broad, median constriction deep, sinus widely open; semicells ellipsoid, apex rounded, angles rounded; cell wall punctate, chloroplast 1, pyrenoid 1 per semicell; frequently involved in some spherical, inconspicuous mucilaginous envelope. L: 15.9-24.7 µm; W: 10.9-17.4µm; I: 3-4.4 µm. 
+
 Note: This variety differs from the typical in having smaller cell dimensions, length (12-)29-30 μm and breadth (9-)18-25 μm, according to Coesel & Meesters (2007). 
+
 Present material was collected from deep lakes, under ultraoligotrophic to eutrophic and acidic to alkaline conditions. 
+
 Cell 1.2-1.3 times longer than broad, median constriction deep, sinus widely open; semicells elliptical, apex truncate to slight rounded, angles rounded; cell wall punctate, chloroplast 1, pyrenoid 1 per semicell. L: 12-16.9 µm; W: 9.4-14 µm; I: 2.8-3.9 µm. 
+
 Note: According to Oliveira et al. (2016), Cosmarium contractum var. sparsipunctatum differs from the typical variety in its smaller dimensions, punctate cell wall, elliptical semicells, and a more round and broad isthmus. 
+
 Present material was collected living in somewhat deep lakes (Nova and Limão), under ultraoligotrophic, eutrophic and circumneutral conditions. 
+
 Cell c. 1.8 times longer than broad, median constriction deep, sinus closed near the isthmus, open at the extremity; semicells quadratic, apical and basal angles rounded, apex truncate, a refractive thickening in the center; cell wall smooth, with 3 horizontal rows of punctations on each semicell, chloroplast 1, pyrenoid 1 per semicell. L: 19.4-30.7 µm; W: 10.8-17.9 µm; I: 3.5-3.7 µm. 
+
 Note: The present species has a feature not usually observed in Cosmarium difficile Lütkemüller, i.e., a refractive thickening at the apex of the semicells. The only representative of C. difficile having such apical thickening is C. difficile f. laeve Scott & Prescott, however, this forma does not have the typical pore rows of the species. Thus, it was decided that the current material would be best identified as C. difficile, mainly due to the typical punctuation rows despite of the originally non-described feature. 
+
 The possibility of the present material be representative of a new variety of C. difficile is also an open question to be considered in the future, until further studies be made towards its best delimitation at intraspecific level. 
+
 Present material was collected from lentic systems, under oligotrophic to eutrophic and circumneutral to alkaline conditions. 
+
 Cell c. 1.1 times longer than broad or as long as broad, median constriction deep, sinus linear; semicells trapezoidal, apex truncate, angles rounded; cell wall punctate, chloroplasts 2, pyrenoids 2 per semicell. L: 31.6-45.5 µm; W: 31.2-43 µm; I: 10.8-14.3 µm. 
+
 Note: Cosmarium galeritum var. subtumidum differs from the nominate variety in having more rounded semicells (Borge 1903). Present specimen showed rounded to slightly truncate apex, a variation similar to that in Borge’s (1903) illustration, a fact that led us to its current identification. 
+
 Present material was found in lentic systems, under ultraoligotrophic to eutrophic and circumneutral conditions. 
+
 Cell 1.4-1.5 times longer than broad, median constriction deep, sinus linear; semicells pyramidal, apex sharp or truncate round, basal angles rounded to straight; cell wall smooth, sometimes thickened at the apex, chloroplast 1, pyrenoid 1 per semicell. L: 20-38.2 µm; W: 13-26.7 µm; I: 4.4-9.7 µm. 
+
 Note: Specimens studied varied in several morphological features. Cell shape varied from pyramidal to slight trapezoid, basal angles from sometimes wide concave to straight, and the apex from rounded to truncate to slightly sharp. According to Bortolini et al. (2010), this species displays some great morphological variation, a fact that was also observed during the present study. 
+
 Present material occurred in lentic and lotic environments, under ultraoligotrophic to supertrophic and acidic to alkaline conditions. 
+
 Cell c. 1.5 times longer than broad, median constriction deep, sinus linear; semicells semicircular, margins undulate, 6-7 undulations per semicell, basal angles rounded; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: c. 17 µm; W: c. 11.4 µm; I: c. 3.2 µm. 
+
 Note: Just a single specimen of this species was detected during the present study. When compared to Silva & Cecy’s (2004) population, current specimen is much longer and has less prominent marginal undulations. It is also smaller when compared to Felisberto & Rodrigues (2010) material, and has fewer undulations at the lateral margins when compared to Menezes et al. (2011). Cosmarium impressulum may be mistaken by Cosmarium undulatum Corda ex Ralfs, but according to Bicudo et al. (2019), however, they are distinct in the number of marginal undulations (C. undulatum has 10-12 undulations, whereas C. impressulum has up to 6), and their cell dimensions (C. undulatum is comparatively larger: 44-64 x 30-52 µm). 
+
 Present material occurred in Doce River under mesotrophic and alkaline conditions. 
+
 Cell 1.5-1.6 times longer than broad, median constriction deep, sinus linear; semicells semicircular to subpyramidal, apical margin often asymmetrical, apex rounded to slightly truncate, basal angles rounded; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell; lateral view subcircular. L: 18-20.4 µm; W: 12.9-13.8 µm; I: 3.7-4.4 µm. 
+
 Note: Present material was collected both from lotic and lentic environments, under ultraoligotrophic-supertrophic and circumneutral-alkaline conditions. 
+
 Cell c. 1.2 times longer than broad, median constriction deep, sinus linear, gradually opening towards the extremity; semicells pyramidal, apex rounded to slightly truncate, basal angles rounded; cell wall punctate, chloroplasts 2, pyrenoids 2 per semicell. L: 50-61.8 µm; W: 40.2-51.6 µm; I: 13-20.4 µm. 
+
 Note: Present variety differs from the typical by being longer than broad not as long as broad. Specimens studied were smaller than the one described in West & West (1895) (L: c. 81 µm; W: c. 70 µm; I: 33 µm). 
+
 Present material was collected from a lentic system, under mesotrophic and alkaline conditions. 
+
 Cell 1.6-1.7 times longer than broad, median constriction deep, sinus wide open; semicell subcircular, apex wide rounded, lateral margins convex, angles rounded; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: 29.7-34.8 µm; W: 17.5-21.3 µm; I: 4.5-6.5 µm. 
+
 Note: According to Biolo et al. (2013), Cosmarium moniliforme is very similar to Cosmarium contractum Kirchner, but differs in having comparatively more subcircular semicells and elliptical apical view. The apical view of the present specimens was not observed, but the subcircular semicells outline led to its identification as C. moniliforme. 
+
 Present material was gathered from both lotic and lentic systems, always under oligotrophic, mesotrophic and alkaline conditions. 
+
 Cell c. 1.1 times longer than broad, median constriction deep, sinus linear, slightly open near the extremity; semicells rectangular, apex truncate, lateral margins concave, apical and basal angles rounded; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: 11.1-12.9 µm; W: 9.7-11.6 µm; I: 3.5-4.8 µm. 
+
 Note: Cosmarium norimbergense var. depressum differs from the type of the species in its vertically flattened cells, usually 1.1-1.2 times longer than broad (Aquino et al. 2014). 
+
 Present material was collected from a lentic system, under ultraoligotrophic, oligotrophic, and circumneutral-alkaline conditions. 
+
 Cell c. 1.4 times longer than broad, median constriction deep, sinus wide open; semicells trapezoid, apex truncate, apical angles slightly convex, basal angles rounded; cell wall punctate, chloroplast 1, pyrenoid 1 per semicell. L: c. 26.2 µm; W: c. 18.8 µm; I: c. 5.0 µm. 
+
 Note: Only one individual specimen of Cosmarium ocellatum was found during this survey. 
+
 Present material was gathered from a lentic system under mesotrophic circumneutral conditions. 
+
 Cell 1.2-1.4 times longer than broad, median constriction moderate, sinus closed near the isthmus, gradually open towards the extremity; semicells semicircular, apex rounded to slightly truncate, basal angles rounded; cell wall punctate, chloroplasts 2 per semicell, pyrenoid not seen. L: 86-130 µm; W: 65-94 µm; I: 31-39 µm. 
+
 Note: This variety differs from the typical by having thinner cell wall, a more open sinus, and the relatively broader cell (Krieger & Gerloff 1962). Specimens in the population currently studied showed a wider range of its length:width ratio, whereas according to Krieger & Gerloff (1962) that of the present variety is about 1.25 times longer than broad. 
+
 Present material was gathered both from lentic and lotic systems, in oligotrophic to mesotrophic and alkaline conditions. 
+
 Cell 1.1-1.3 times broader than long, median constriction deep, sinus closed near the isthmus, gradually open towards the extremity; semicells hexagonal, apex truncate, apical angles acute; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell; papillae in the mid region of semicells, apical view diamond-shaped, lateral view not observed. L: 8-9.2 µm; W: 10-11 µm; I: 3.2-3.5 µm. 
+
 Note: Present variety differs from the typical by having half its size and being broader than long (Messikommer 1942). Material currently studied differs from the type in its slight greater dimensions (L: 8-8.7 µm; W: 9.3-9.8 µm; I: 3 µm). 
+
 Present material was collected from Areão lake, under mesotrophic and circumneutral to alkaline conditions. 
+
 Cell 1.3-1.4 times longer than broad, median constriction shallow, sinus wide open; semicells semicircular, apex rounded, angles rounded; cell wall densely punctate, isthmus area smooth, chloroplasts 4, pyrenoids 4 per semicell; apical view circular, lateral view the same as the front view. L: 30-63 µm; W: 23-47 µm; I: 21-44 µm. 
+
 Note: Cosmarium pseudoconnatum is very similar to Cosmarium connatum Brébisson ex Ralfs differing only in the presence of four chloroplasts in each semicell, whereas the latter has two. According to Scott & Grönblad (1957), cell wall of both species is identical: scrobiculate with easy visible pores in between scrobicules. 
+
 Present material occurred in both lentic and lotic systems, under oligotrophic-supertrophic and acidic-alkaline conditions. Delazari-Barroso et al. (2007) previously recorded it from the phytoplankton of a small water supply reservoir in Espírito Santo State. 
+
 Cell c. 1.6 times longer than broad, median constriction deep, sinus linear; semicells pyramidal, apex rounded, apical and basal angles broadly rounded; cell wall punctate, chloroplast 1, pyrenoid 1 per semicell. L: c. 36 µm; W: c. 22.5 µm; I: c. 8.2 µm. 
+
 Note: According to Coesel & Meesters (2007), Cosmarium pseudopyramidatum is morphologically close to Cosmarium pyramidatum Brébisson ex Ralfs, but differs in having a single pyrenoid per semicell and being up to 60 µm long. Just one individual specimen of this species was collected during the present survey.  
+
 Present material was gathered in a lentic environment (Limão lake), under oligotrophic and alkaline conditions. 
+
 Cell 1.2-1.3 times longer than broad, median constriction deep, sinus linear; semicells hexagonal, angles rounded, apex truncate to retuse; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: 16.5-22 µm; W: 14.8-17.3 µm; I: 3.7-4.8 µm. 
+
 Note: Present variety differs from the typical in having relatively shorter cells, about as long as broad (West & West 1908). Two different phenotypic expressions of Cosmarium rectangulare var. hexagonum were detected during the present study. Some individual specimens had smaller length:width ratio and retuse apex, similar to the type illustrated in West & West (1908), and a single specimen was longer than the others and had a very wide and truncate apex. 
+
 Present material was gathered both from lentic and lotic environments, under oligotrophic and alkaline conditions. 
+
 Cell 1.2-1.3 times longer than broad, median constriction deep, sinus linear; semicell trapezoidal, apex truncate, basal angles rounded; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: 17.8-28.1 µm; W: 13.2-21.1 µm; I: 7.6-5 µm. 
+
 Note: According to Bicudo et al. (2019), Cosmarium trilobulatum var. abscissum differs from the typical variety in its broader lateral lobes and a wide apical lobe, matching with the present specimens examined. This variety is similar to Cosmarium pseudoretusum F.Ducellier, but differs by having less prominent apex. 
+
 Present material was collected exclusively from lentic environments, living under ultraoligotrophic-supertrophic and alkaline conditions. 
+
 Cell 1.2-1.3 times longer than broad, median constriction deep, sinus linear; semicells trapezoidal, apex truncate, thickened, angles rounded to slightly truncate; cell wall smooth, chloroplast 1, pyrenoid 1 per semicell. L: 26.3-28.7 µm; W: 20.3-22.9 µm; I: 6.7-7.3 µm. 
+
 Note: This variety differs from the typical of the species in its greater dimensions, the inflated region observed in the apical view, and the slight truncate angles (Krieger & Gerloff 1962). Material presently studied was slightly smaller than that original in Krieger & Gerloff (1962). 
+
 Present material occurred in lotic and lentic environments, under oligotrophic to supertrophic and circumneutral to alkaline conditions. This is the first record of the occurrence of Cosmarium trilobulatum var. tumidum in Brazil. 
+
 Cosmarium abbreviatum var. minus was the only species occurring in all kinds of environments studied, present in lakes, lagoons and rivers. Most species occurred in lentic environments, only seven in lotic systems, and Cosmarium impressulum was the only species that showed preference for the latter kind of habitat. The most frequent species was Cosmarium granatum var. granatum, followed by C. abbreviatum var. minus. Among the environments studied, Limão lake and Monsarás lagoon presented the greatest diversity, the first with 14 and the last one with 12 out of the 22 species identified during the present inventory. Concerning pH preference, differing from the idea that genus Cosmarium inhabit most preferably clean and acid waters (Bicudo & Menezes 2017), only four taxa occurred in acidic conditions, most species living in circumneutral and alkaline conditions. Most species exhibited a wide distribution in terms of trophic state, with 10 species occurring up to mesotrophic conditions and 12 above eutrophic conditions. Values of total iron varied from 0.1 to 7.1 mg L-1 in studied systems, the values for each sampling station are detailed in Zorzal-Almeida et al. (2021). The great majority of the species occurred in conditions bellow 4.5 mg L-1, and almost half of them bellow 1.5 mg L-1. Two species occurred under conditions of high levels of total iron when compared to the others, which were Cosmarium norimbergense var. depressum (5.7 mg L-1) and Cosmarium granatum var. granatum (7.1 mg L-1). Finally, current study contributed with ecological and taxonomic information to genus Cosmarium Corda, especially for tropical freshwater environments, and reinforces the need for more floristic studies in Brazil with ecological information, mainly in some neglected States such as Espírito Santo State. 
+
 Present study is part of the Aquatic Biodiversity Monitoring Program, Ambiental Area I, established by the Technical-Scientific Agreement, DOU number 30/2018, between FEST and Renova Foundation. We are grateful to Prof. Gilberto F. Barroso from LimnoLab/UFES, for providing data from pH, phosphorus and chlorophyll-a and the map development. 

@@ -1,57 +1,113 @@
 Health professionals are encouraged to attend a residency period of two to seven years after graduating. The typical demands of this in-service training modality have been associated with reduced sleep quality, decreased exercise frequency, and detachment from family and social relationships, leading to an increased diagnosis of anxiety, depression, and burnout syndrome. Therefore, conducting a scoping review to identify strategies aimed at promoting mental health and wellbeing among residents from different health areas is essential to support any forthcoming preventive action. 
+
 Health professionals are encouraged to attend a residency period of two to seven years after graduating.1,2 Residency programs offer training with a focus on practice, stimulate professional autonomy in services with different degrees of complexity, with a considerable volume of patients, also playing roles in regulatory areas and hospital and service management, conflict mediation, in addition to clinical or surgical activities.3 
+
 During this period of training, residents are expected to balance learning, patient care, teaching, and management of overcrowded services over journeys of no more than 60 hours per week of work.4 The typical demands of this in-service training modality have been associated with reduced sleep quality, decreased exercise frequency, and detachment from family and social relationships, leading to an increased diagnosis of anxiety, depression, and burnout syndrome.4-6 
+
 Among the factors associated with stress and impaired well-being in healthcare professionals during residency are long weekly working hours, complex educational demands, high numbers of patients, frequent changes in the work environment, lack of reciprocity in professional relationships, disrupted circadian rhythm, social isolation, frequent exposure to trauma, fear of making mistakes and underperforming, low incomes and lack of time for self-care.7-10  
+
 Residents living under this kind of pressure tend to provide less-than-ideal patient care and are more prone to mistakes.11-12They also have high rates of substance abuse, alcohol consumption, and suicidal thoughts13-14, with suicide identified as the second leading cause of death among medical residents.15-16 
+
 Even when they realize they need help, many residents do not seek mental health services due to restricted schedules, feelings of guilt over the need for service coverage, fear of the stigma of being considered unfit to perform their duties, in addition to long waiting lists for care.17,18 
+
 Given this context, it is necessary to identify and evaluate strategies that promote the mental health and psychological well-being of healthcare residents in order to prevent the development of mental disorders that affect the residents themselves, their performance and the healthcare services. These strategies also need to consider the characteristics of residency programmes, their influence on residents' mental health and the potential impact of mental health status on the quality and safety of patient care. 
+
 Therefore, conducting a scoping review to identify strategies aimed at promoting mental health and wellbeing among residents from different health areas is essential to support any forthcoming preventive action. 
+
 To identify and evaluate strategies for promoting mental health and preventing mental disorders among residents from different health areas. 
+
 This scoping review will be developed at Hospital Sírio-Libanês, as part of the project Residências, triennium 2021/2023, conducted within the scope of the Programa de Apoio ao Desenvolvimento Institucional do Sistema Único de Saúde (PROADI-SUS). The review will be conducted following the recommendations from Joanna Briggs Institute Manual for scoping reviews.19 
+
 This review will be reported following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses - extension for scoping reviews (PRISMA-ScR).20 The protocol for this review will be published or will b made available prior to the commencement of the review. 
+
 The question of interest for this review will be structured using the PCC acronym as follows: 
+
 - P (population, condition): health area residents 
+
 - C (concept): strategies for mental health promotion 
+
 - C (context): any context 
+
 Criteria for inclusion of studies according to the components of the PCC acronym. 
+
 - P (population, condition): residents of any health area, with no diagnosis of mental illness and who are not receiving any general or specialized care for the treatment of mental health conditions. 
+
 - C (concept): strategies for mental health promotion, including strategies applied at the individual or population level, within the scope of public or supplementary health, at any level of health care assistance. Therapeutic strategies for mental illness will not be considered. 
+
 - C (context): it will be considered strategies addressed to the work scenario (hospital, ambulatory, laboratory or others), academic, home, social as well virtual environment. 
+
 Any primary (descriptive or analytical) or secondary study design addressing strategies for mental health promotion will be considered. 
+
 A broad and sensitive search will be carried out in the literature through structured strategies, with relevant descriptors and synonyms, in the following databases or repositories: 
+
 - British Education Index (BEI)  
+
 - Campbell Collaboration 
+
 - Cochrane Library (via Wiley) 
+
 - Education Research Complete (via EBSCO)  
+
 - Educational Resources Information Center (via ERIC)  
+
 - Excerpta Medica dataBASE (EMBASE, via Elsevier) 
+
 - Biblioteca Virtual em Saúde (BVS) 
+
 - Medical Literature Analysis and Retrieval System Online (MEDLINE, via PubMed) 
+
 - Online Education Database (https://www.oecd.org/education/database.htm)  
+
 - PsycEXTRA (http://www.apa.org/pubs/databases/psycextra/)  
+
 - PsycINFO 
+
 - UNESCO Databases of Resources on Education. 
+
 Additional unstructured searches will be carried out in the following sources related to health education or health systems: 
+
 - American Educational Research Association (AERA)  
+
 - Association for Medical Education in Europe (AMEE) 
+
 - Best Evidence Medical Education (BEME)   
+
 - Cochrane Effective Practice and Organization of Care (EPOC) (https://epoc.cochrane.org/). 
+
 - European Association for Research on Learning and Instruction (EARLI), Institute of Education Sciences (https://eric.ed.gov/).  
+
 - Joanna Briggs Institute (https://jbi.global/).  
+
 - ERIC - Education Resources Information Center (https://eric.ed.gov/). 
+
 Additional searches will be performed through hand searches on reference lists of relevant studies as well as through contact with experts in the field. No language filter will be applied. The search will be restricted to the period from 2000 onwards, considering the advances and changes in residency programs and diagnostic criteria in mental health. It will be included publications in full, abstracts presented at congresses and events, on-line reports, theses, and dissertations. 
+
 The study selection process will be carried out in two phases using the Rayyan platform. 21 The first phase will be based on the titles and abstracts reading of all references retrieved by the search strategies. These references will be categorized as “potentially eligible” or “eliminated”. The second phase will include the full-text reading of the “potentially eligible” references to confirm their eligibility or to exclude them. The reason for each exclusion in the second phase will be presented. The two phases will be conducted independently by two groups of authors and disagreements in decisions to include or exclude studies will be solved by a third author. The whole selection process will be represented through a PRISMA flowchart. 
+
 Data from the included studies will be independently extracted by two authors and information discrepancies will be solved through consensus, by consulting a third auhor. The following data will be collected for each included study: author, year of publication, type of publication (article/report, full text/abstract), study design, name and description of the strategy and funding source. The following data will be collected, where available, for each identified strategy: 
+
 - Category: managing/administrative (such as meaning or flexibility of shifts, planting duration or others), psychological (such as tools for surveillance/screening signs and symptoms of mental conditions, focus and support groups, mindfulness and others), cultural (such as the implementation of cultural activities in the routine of activities, accessibility to exhibitions, concerts and others), sports (such as strategies to promote physical activities or exercises, inclusion of labor gymnastics and other social activities), such as socialization activities within forums in the environment of work, mentoring and others). New categories can be further incorporated to cover all strategies identified along this review. 
+
 - Strategy recipients: residents, residency program preceptors or coordinators, and resident’s family members. 
+
 - Environment for strategy implementation: residency/work scenario (hospital, ambulatory, laboratory, or others), academic, home, social or virtual environment. 
+
 - Strategy approach: individual (personalized or not) or collective (groups of residents). 
+
 - Strategy duration: continuous or temporary.  
+
 - Delivery format: face-to-face, virtual/remote, or hybrid. 
+
 - Strategy status: proposed, implemented and not evaluated, or implemented and evaluated. 
+
 - Costs predicted by the authors of the studies for the implementation of the strategy. 
+
 - Barriers and facilitators identified by the authors of the studies for the implementation of the strategy. 
+
 For those strategies that were implemented and evaluated by the included studies, information will be collected on the results. These strategies will be further classified, at the discretion of the authors of the review, in terms of the possibility of implementation, either immediately or after the adoption of actions, in the national scenario. This classification will be performed considering feasibility, costs, need for regulation, or local policies, regardless of the certainty of the available evidence. 
+
 Authors of included studies can be contacted in case of additional information need. 
+
 As the objective of this scoping review is to map strategies presented in descriptive studies or to use sections of analytical studies that report strategies, checklists, or tools to assess the methodological quality of studies will not be applied, as recommended by Joanna Briggs Institute for scoping reviews.19 
+
 Strategies will be classified using the categories determined based on the data described above. Narrative syntheses will be presented using graphs and/or tables. Depending on the availability of information, descriptive statistics will be performed using Microsoft Excel® and/or STATA® software. 

@@ -1,0 +1,333 @@
+Publication status: Preprint has been published in a journal as an article DOI of the published article: https://doi.org/10.1590/1678-460x202238244681 “Um fã teu, quem realmente te admira, jamais faria esse tipo de coisa”: On the existence of appositive free relatives in Brazilian Portuguese Paulo Medeiros Junior https://doi.org/10.1590/1678-460x202144681 Submitted on: 2021-07-07 Posted on: 2021-07-12 (version 1) (YYYY-MM-DD) Powered by TCPDF (www.tcpdf.org)
+
+https:\\doi.org/10.1590/1678-460x202144681
+
+
+
+
+
+
+
+
+“Um fã teu, quem realmente te admira, jamais faria esse tipo de coisa”: a existência de relativas livres apositivas no português brasileiro
+“Um fã teu, quem realmente te admira, jamais faria esse tipo de coisa”: On the existence of appositive free relatives in Brazilian Portuguese
+Paulo Medeiros Junior
+Abstract:
+Brazilian Portuguese data provide evidence to the claim I make in this paper that there are appositive free relatives, contrary to what Emonds (1979) states, for whom free relatives cannot have appositive semantics or syntax. I argue there are reasons to believe the wh-sentence evidenced in the title of this paper is in fact a free relative that carries appositive content, considering issues such as distribution, matching, the nature of quem and semantic content. The quem-type sentence I put into analysis in the present paper differs from an ordinary (headed) appositive relative clause for it seems to be juxtaposed to the nominal it relates to, being equivalent to it, a condition that leads to the impossibility of a relativization process in Kaynes’s (1994) terms for the derivation of this kind of sentence. Keywords: apposition, free relatives, appositive free relatives, juxtaposition
+
+Universidade de Brasília. Distrito Federal – Brasil. https://orcid.org/0000-0002-1461-2062. E- mail: medeirosjunior33@gmail.com
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+Resumo:
+Os dados do português brasileiro fornecem evidência para a proposta, que eu defendo no presente trabalho, de que existem relativas livres apositivas, contrariamente ao que propõe Emonds (1979), segundo quem não podem existir relativas livres com esse tipo de conteúdo e/ou comportamento sintático. Argumento aqui que há razões para crer que a sentença -wh evidenciada no título deste artigo seja na verdade uma relativa livre que carrega conteúdo apositivo, considerando questões como distribuição, matching, a natureza do termo “quem” assim como o conteúdo semântico. A sentença do tipo-quem, que ponho em análise neste artigo, difere de uma relativa apositiva comum (com antecedente expresso) por parecer estar justaposta ao nominal com o qual se conecta, sendo a ele equivalente, condição que conduz à impossibilidade de um processo de relativização nos termos do que propõe Kayne (1994) para a derivação de tais sentenças. Palavras-chave: aposição, relativas livres, relativas livres apositivas, justaposição
+1. Introduction
+Though very frequent in natural languages, apposition as a syntactic phenomenon is not trivial if one takes its characterization into account. Many questions might be raised when one focuses on such constructions, the main one being: what is its nature? Is it to be considered as containing its own proper syntax? (see Meyer, 1992). In the present paper, I am concerned with the nature of Brazilian Portuguese appositive sentences such as the ones bracketed in (1) below:
+(1) a. Um fã teu, [quem realmente te admira], jamais faria esse tipo de coisa. ‘A fan yours, who really 2nd/p/sing admires, never would do this type of thing’ A fan of yours, one who really admires you, would never do such a thing.
+b. Um cientista, [quem de fato faz pesquisa], ajuda o país a crescer. ‘A scientist, who in fact does research, help the country to grow’ A scientist, one who in fact researches, helps the country grow.
+I will argue that sentences like (1) a and b contain a free relative clause that holds appositive content, instead of considering them ordinary appositive relatives. The aim of the discussion I shall implement here is twofold: 1) trying to explain what the structure/function of the wh- SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+sentence in the utterances might be; and 2) making sure these are not ordinary appositive relative clauses such as the subordinate in (2):
+(2) a. O João, [que é meu primo], mora na casa ao lado. ‘The John, who is my cousin, lives in the house nearby.’ John, who is my cousin, lives nearby.
+b. A Terra, [que é o terceiro planeta], é azul. ‘The Earth, which is the third planet, is blue.’ The Earth, which is the third planet, is blue.
+There are empirical reasons to believe (1) and (2) present different structures in Brazilian Portuguese, due to some syntactic behavior illustrated by the paradigm below:
+(3) a. Um fã teu Quem realmente te admira jamais faria esse tipo de coisa. b. Quem realmente te admira, um fã teu, jamais faria esse tipo de coisa. c. Um fã teu jamais faria esse tipo de coisa, quem realmente te admira.
+(4) a. *O João Que é meu primo mora na casa ao lado. b. *Que é meu primo, o João, mora na casa ao lado. c. *O João mora na casa ao lado, que é meu primo.
+As one can perfectly see, it is possible to elide the first element of the apposition in (3a), but not in (4a); it is also possible to switch the positions of the nominal and the subordinate sentence in (3b), but not in (4b). Besides this, the wh-sentence can be extraposed in (3c), while the extraposition of the appositive clause is blocked in (4c).
+It is therefore necessary to search for an explanation for these facts, and it seems that this explanation lies in the characterization of both types of sentence, as well as in the description of their syntactic-semantical behavior. In order to implement the analysis, I shall first discuss briefly the characteristics of apposition; then, I shall focus on the examination of appositive sentences, especially the Brazilian Portuguese data found in (1) and (2). The paper is organized as follows: in section 1, I discuss apposition in general and sentential apposition, as well discussing the typology of sentential apposition in Brazilian Portuguese. In SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+section 2, I focus on Brazilian Portuguese QUEM sentences, with a special look at free relative sentences. Section 3 contains the analysis I implement in this paper and section 4 holds the final remarks.
+2. On apposition
+In this section I present general discussion on the phenomenon of apposition, as well as discuss some cases of apposition in Brazilian Portuguese.
+What it means being appositive
+Apposition is usually understood as the relation between what some have called the anchor (see Huddleston & Pullum, 2002) and the appositive expression itself, both keeping some sort of equivalence (Heringa, 2011). An appositional construction might, then, present two juxtaposed expressions (nominal in general) as in (5):
+(5) Peter, my cousin, has just arrived.
+Generative studies usually categorize apposition as a twofold phenomenon based on functional properties: there can be something as reformulative apposition and something as attributive apposition (see McCawley, 1998; Cardoso & De Vries, 2010; Heringa, 2011). Griffiths (2015) exemplifies reformulative apposition with data in (6):
+(6) The big apple, New York, is a big city. (Griffiths, 2015, p. 1)
+The idea is that the apposition in (6) provides to the anchor (The big apple) some additional information, some sort of specification on this anchor. As for attributive apposition, the author mentions Cardoso & De Vries (2010), for whom the kind of apposition in (7) is derived from a reduced relative clause, with an unpronounced copula and relative pronoun; i.e. it contains some sort of predication on the anchor:
+(7) a. The big apple, a magical place, is a big city. The big apple, (which is) a magical place, is a big city. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+In one case or another, both types of appositives are said to be somehow coordinated to their anchors, this being attested by many relevant studies (see Döring, 2014; Ott, 2014), though Griffiths (2015) might himself argue, with very convincing empirical material, that reformulative apposition behaves as a coordinated structure1, while attributive appositives are elements integrating a finite parenthetical copular clause with unpronounced material, namely the copula and the relative pronoun.
+I am not putting this idea into detail here, considering the scope of the discussion in the present paper; I might, however, get part of some generalization made here as part of my argumentation. Focusing on Brazilian Portuguese, traditional analysis mostly understands apposition as coordination. Rocha Lima (2011), for instance, proposes appositive phrases are nominal constructions that can follow immediately some other nominal phrase, to which they are coreferential, i.e., both designate the same being. Just check (8) and (9):
+(8) Durante sete anos, Jacob serviu Labão, pai de Rachel. ‘For seven years, Jacob served Laban, Rachel’s father.’
+(9) Hermes Fontes, grande poeta brasileiro, estreou com um formoso livro: Apoteoses. ‘Hermes Fontes, great Brazilian poet, debuted with a beautiful book: Apoteoses.’
+Cunha & Cintra (2008) propose something similar: appositive phrases have nominal nature, are coreferential to the nominal they are related, and are juxtaposed2. Cunha & Cintra, however, observe that appositive constructions cannot have adjectival nature, because they constitute a unit that indicates the same being their related nominal points out to, but never characterize it (p. 174). In the following section, I turn to sentential appositives, their constitution and functioning.
+Sentential (nominal) apposition and relative apposition
+
+1 See also Sadler & Nordlinger (2006) for the analysis of appositive structures as coordinated elements to the anchor they relate to. 2 For a similar analysis, see Svobodová (2014). SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+In addition to structures of apposition such as (5), (6), (7), (8) and (9), languages also present the kind of appositive structures in (10) and (11), which must be addressed differently, due to their syntactic behavior:
+(10) a. The fact [that she loved Bill] astonished everyone. b. John, [who we consider to be a gentleman], acted rude.
+(11) a. Ela disse uma só coisa, [que tinha fome], e saiu. ‘She said one only thing, [that was hungry], and left.’ She said one thing only, that she was hungry, and then left.
+b. O João, [que é meu primo], mora aqui ao lado. ‘The John, [who is my cousin], lives here beside.’ John, who is my cousin, lives nearby. (Brazilian Portuguese)
+Concerning the data above, one must understand the structure of each kind of appositive as relating to different derivational processes. Examples in (b) are appositive relative clauses, whose derivation is said to include a head raising operation (see Kayne,1994), while for (10) and (11)a there seems not to be any relativization process involved. Hence, for (10)b and (11)b, the derivation goes as follows:
+(12) [CP [DP Johnj [D who tj]]i [TP we consider ti to be a gentleman …
+As for the examples in (10) and (11)a, the anchor seems to be base generated as the argument of the main verb and followed by some sort of specification (the appositive juxtaposed CP) in a kind of adjunction:
+(13) [[DP The fact] [CP that she loves Bill] [TP astonished everyone]].
+Crosslinguistically, one might register significant differences between (10)a and (11)a, due to some lexical properties of Portuguese which are different from those in English. In Brazilian Portuguese, the construction corresponding to (10)a does not contain an appositive sentence, but a completive, selected by a preposition:
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+(14) O fato de que ela amava o Bill assustou a todos. ‘The fact of that she loved the Bill astonished to everyone.’ The fact that she loved Bill astonished everyone.
+I will also put this divergence aside here, as I am in fact interested in investigating the proximity/similarity between the apposition in (11)a and the data in (1), which I aim to analyze specifically in this paper. What is essential, though, is observing that, in Brazilian Portuguese, the configuration of the apposition in (11)a is syntactically different from what happens in (11)b, as the latter is constituted by a relative clause, but not the former3.
+Brazilian Portuguese sentential appositives: typology and functioning
+If one focuses on Brazilian Portuguese appositive clauses, this is the scenario. As many languages, BP exhibits two different kinds of sentential appositive: one with nominal nature and another one with adjectival nature (a relative clause); the bracketed sentences in (15) and (16) are examples:
+(15) Ela disse uma só coisa, [que estava cansada e com fome], e saiu. ‘She said one only thing, that (she) was tired and hungy, and left.’ She said one thing only, that she was tired and hungry, and then, she left. Nominal Appositive Clause
+(16) A Terra, [que é o terceiro planeta do Sistema Solar], é azul. ‘The Earth, that is the third planet of the Solar System, is blue.’ The Earth, which is the third planet on the Solar System, is blue. Appositive Relative Clause
+If one analyzes (15) and (16) carefully, one might easily conclude that they are different structures (with obvious different syntactic behavior), mainly if we take into account, for example, the fact that the anchor can be elided in (15), but not in (16), as we can see by (17) and (18) bellow:
+
+3 Though I am not exploring cross linguistic distinctions in this paper, it is important to show that sentences of this type seem to work differently in Brazilian Portuguese. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+(17) Ela disse [que estava cansada e com fome], e saiu. ‘She said that (she) was tired and hungry, and (she) left’.
+(18) *que é o terceiro planeta do Sistema Solar é azul. ‘that is the third planet of the Solar System is blue.’
+If we consider the whole que sentence in (17) to have taken the place of the elided anchor working as the complement of the verb disse, it becomes clear that the subordinate clause in (15) is being directly selected by the matrix verb, this – of course – due to the selectional properties of a verb like disse (we could call it a CP with a DP-like nature). (16), by its turn, might be different from (15), because the ellipsis of the anchor is not allowed, as (18) shows. This constitutes evidence that the que sentence in this case cannot be associated to the position of the anchor, since it is an ordinary CP (not a DP-like CP) in that context – when a DP is being selected by the matrix verb. Moreover, the asymmetry between (15) and (16) seems to be confirmed by the contrast observed in (19) and (20) bellow:
+(19) a. Ela disse uma só coisa, que estava cansada e com fome, e saiu. ‘She said one only thing, that (she) was tired and hungry, and left.’
+b. Ela disse que estava cansada e com fome, uma só coisa, e saiu. ‘She said that (she) was tired and hungry, one only thing, and left.’
+(20) a. A Terra, que é o terceiro planeta do Sistema Solar, é azul. ‘The Earth, that is the third planet of the Solar System is blue.’
+b. *Que é o terceiro planeta do Sistema Solar, a Terra, é azul. That is the third planet of the Solar System, the Earth, is blue.’
+As it is clear by the data, the anchor and the apposition can switch places in (19), but not in (20), what constitutes additional evidence for the non-correspondence of such structures in terms of their syntactic nature. A third fact on the asymmetry, is related to the possibility of extraposing the apposition, which is possible in (15), but blocked in (16), as we can see in (21) and (22) bellow:
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+(21) a. Ela disse uma só coisa, que estava cansada e com fome, e saiu. ‘She said one only thing, that (she) was tired and hungry, and left.’
+b. Ela disse uma só coisa e saiu, que estava cansada e com fome4. ‘She said one only thing, and left, that (she) was tired and hungry.’
+(22) a. A Terra, que é o terceiro planeta do Sistema Solar, é azul. ‘The Earth, that is the third planet of the Solar System, is blue.’
+b.*A Terra é azul, que é o terceiro planeta do Sistema Solar. ‘The Earth is blue, that is the third planet of the Solar System.’
+The conclusion is, then: what we call here nominal appositive clauses (example in (15)) and appositive relative clauses (what is found in (16)), though semantically similar, are syntactically divergent. Those differences will prove crucial when implementing the analysis of the wh- sentences being focused in the present paper.
+The question now is: what connects (15) to (1)? Are they similar? What kind of sentence is the wh-sentence in (1)? What makes (16) different from (1)? I will go through the analysis of those facts in the following sections.
+3. What is going on in Brazilian Portuguese regarding quem-type sentences?
+The wh-word quem is multifunctional in Brazilian Portuguese. One can find quem working as an interrogative pronoun, introducing a wh-question (23), a relative pronoun, introducing a relative CP (24), or a wh-phrase introducing a free relative clause (25):
+(23) a. Quem a Maria beijou na festa? ‘Who the Mary kissed at the party?’ Who did Mary kiss at the party?
+b. O João quer saber quem a Maria beijou na festa.
+4 For most of the speakers contacted, (21)b was perfectly acceptable. Two of them, however, said they could interpret it but would never hear nor produce such a sentence; therefore, I have marked it as slightly degraded. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+‘The John wants to know who the Mary kissed at the party.’ John wants to know who Mary kissed at the party.
+(24) A pessoa de quem você comprou o apartamento está aqui. ‘The person of whom you bought the apartment is here’. The person from whom you bought the apartment is here.
+(25) Eu convidei quem você mencionou. ‘I invited whom you mentioned.’ I invited who you mentioned.
+Macambira (1998), considering morphosyntactic aspects of quem, attests it can be an indefinite interrogative (23), an ordinary relative pronoun (24), and an indefinite relative (25). Hence, in each occurrence, quem is considered to represent a distinct item with proper morphosyntactic characteristics.
+If one considers (23)a, there are no doubts on the nature of quem; it is clearly an interrogative pronoun carrying a strong [+wh] feature, responsible for the displacement of this lexical item from its base position to the periphery of the clause (Chomsky, 1977; Cheng, 1991; Rizzi, 1991).
+In (23)b, quem is also an interrogative pronoun (carrying a strong [+wh] as well), now in an embedded interrogative clause; as in (23)a, it is affected by wh-movement and displaced to the frontier of the subordinate clause.5
+Specifically about the type of quem in sentences like (25), Rocha (1990) considers it to be the result of some kind of morphological amalgam, in which a relative pronoun and its antecedent nominal are supposed to be “condensed” (in her words amalgamated) in one single item, as shown in the representation bellow:
+
+5 Because sentences like (13)a and (15) present a similar structure, many linguists have dedicated considerable time to show they are different (Bresnan & Grimshaw, 1978; Larson, 1987; Rocha, 1990; Medeiros Junior, 2005): in (13)a, quem is an interrogative pronoun, integrating, hence, an interrogative sentences. As for (15), it contains a complex wh-phrase introducing a free relative clause. I will come back to this in the free relative clauses section, where I discuss the structure of a free relative clause. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+(26) a. [A pessoa que] cala consente. b. [A cv que] cala consente. c. [Quem] cala consente. (Rocha 1990, p. 79)
+Medeiros Junior (2005) considers Rocha (1990) to be correct in her analysis, since it is impossible to insert a DP as the antecedent of quem in sentences of this kind, just as seen in (27):
+(27) a. O João mencionou quem cometeu o crime. ‘The John mentioned who committed the crime.’ John has mentioned who has committed the crime.
+b.*O João mencionou a moça/pessoa quem cometeu o crime. ‘The John mentioned the girl/person who committed the crime.’ Medeiros Junior (2005, p. 55)
+One might observe, however, that in (24) quem is related to a nominal antecedent. But, if we take a close look on this sentence, it becomes clear that the quem-type lexical item in this case behaves as an ordinary relative pronoun, as it can be seen in (28) below, where quem can perfectly be replaced by the relative que or a qual (see Macambira, 1998; Medeiros Junior, 2006):
+(28) a. A pessoa de quem você comprou o apartamento está aqui. ‘The person of whom you bought the apartment is here.’ The person from whom you bought the apartment is here.
+b. A pessoa de que/da qual você comprou o apartamento está aqui. ‘The person of that you bought the apartment is here’. The person from whom you bought the apartment is here.
+Let us then discuss in more detail the structure/type of the sentences introduced by quem in Brazilian Portuguese.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+Brazilian Portuguese quem Clauses
+As described in the previous section, interrogatives, headed relatives and free relatives can be introduced by quem. Let us take a close look on each type of sentence and focus their syntactic behavior.
+Interrogative Sentences
+An interrogative sentence is, first and foremost, a request for information. But, besides this, there are some relevant syntactical aspects that must be considered in the constitution of this kind of structure.
+Since Chomsky (1977), those sentences are said to be derived via wh-movement; i.e., the wh- phrase in those constructions appears in a position that is different from the one it is generated, which the author formulates in terms of a rule:
+(29) Move wh into COMP;
+(30) a. whose book did Mary read t b. pictures of whom did Mary see t (Chomsky, 1977, p. 83)
+In a more recent investigation, wh-movement has been treated as a result of a checking operation, which is necessary in order to verify a strong [+wh] feature in a wh-operator; such an operation would only be possible in a specific configuration, namely, a Spec-head configuration (Cheng, 1991; Rizzi, 1991):
+(31)
+
+
+(32) a. [CP Who C [TP have you mentioned]]? SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+b. [TP Mary wants to know [CP who C [TP you have mentioned]]].
+Both – root and indirect questions – would in principle be affected by the same operation, throughout which, their similar structures are built6. But one close look on indirect questions and one might see they are a bit different from root interrogatives.
+Root interrogatives, just as (32) a, don’t seem to elicit many problems in terms of their derivation or structure: they are CPs, derived via wh-movement of an operator to its periphery, to the specifier of a Focus projection according to Rizzi (1997). The author comes to this conclusion by focusing the following data:
+(33) a.*A chi, IL PREMIO NOBER dovrebero dare? ‘To whom THE NOBEL PRIZE should they give?’
+b.* IL PREMIO NOBEL a chi dovrebero dare? ‘THE NOBEL PRIZE to whom should we give?’ (Rizzi, 1997, p. 298)
+The conclusion driven from those data is: if Focusing and wh-fronting cannot cooccur, it might be the case that both – the focalized constituent and the wh-phrase – are “fighting” for the same position. Hence, wh-fronting might posit wh-operators in Spec, FocP.
+Embedded interrogatives ((32)b), however, seem to be slightly different; though they are understood to be derived via wh-movement all the same, Italian data, according to Rizzi (1997) and Rizzi & Bocci (2017), provide evidence to propose that the displaced wh-element doesn’t seem to be focalized, because one might not find the same restrictions observed in matrix within an embedded context; in subordinate clauses, wh-operators are said to occupy the Spec position of an EmbQ projection.
+
+6 Rizzi (1997) proposes a wh-interrogative phrase is focalized in main clauses, but not in embedded; Rizzi & Bocci (2017) propose the existence of a projection named Q-embedded (QembP), supposed to host wh-interrogatives in embedded sentences. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+Brazilian Portuguese exhibits root and embedded interrogatives introduced by quem (34) and (35) respectively:
+(34) Quem o João viu? ‘Who the John saw?’ Who did John see?
+(35) Eu me pergunto quem vai ganhar o Oscar. ‘I wonder who will win the Oscar.’ I wonder who might win the Oscar.
+As for Brazilian Portuguese, Rizzi and Bocci´s analysis seems to fit perfectly: 1) root and embedded interrogatives are derived via wh-movement; 2) in root interrogatives, the wh- element is focalized; 3) in embedded interrogatives, the wh-operator is raised even if there is a focalized constituent:
+(36) a. *Quem O JOÃO viu t? (não o Pedro). ‘Who THE JOHN saw (not the Peter).’
+b. Eu me pergunto O OSCAR quem vai ganhar. (o Emmy já é certo) ‘I wonder THE OSCAR who will win. (the Emmy already is decided)’
+Headed Relative Clauses
+A relative clause is a nominal modifier that integrates a complex DP (Chierchia, 2003) and have been analyzed, in early works, as being right adjoined to N (Chomksy, 1977); however, these structures have been recently reanalyzed as a complement of D within the complex DP (Kayne, 1994)7.
+In Brazilian Portuguese, relative clauses have been analyzed as always involving wh-movement (Kato & Nunes, 2009), or sometimes not (Tarallo, 1984; Kennedy, 2007; Medeiros Junior,
+7 It is important to highlight that Smith (1965) was the first to notice the close relation between a relative clause and a determiner. This idea was readdressed in Vergnaud (1974) and then strengthened throughout Kayne’s analysis. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+2020). Apart from this divergence, which I shall not address in this paper, the relative CP (in Portuguese) is usually introduced by que:
+(37) O atleta que venceu a competição é meu amigo. ‘The athlete that won the competition is my friend.’ The athlete that won the competition is my friend.
+As stated in the section What it means being appositive, quem can also be an ordinary relative pronoun in Brazilian Portuguese, i.e., it can introduce a headed relative clause:
+(38) A pessoa de quem você falou está aí. ‘The person of whom you talked is here.’ The person whom you talked about is here.
+One might observe, however, that quem can only be connected to a nominal antecedent if it is the complement of a preposition, otherwise, the sentence is not acceptable:
+(39) a. A pessoa de quem eu gosto está aqui. ‘The person of whom I like is here.’ The person I like is here.
+b. São estes os alunos com quem ele se preocupa. ‘Are these the students with whom he (reflex) worries.’ These are the students he worries about.
+(40) a. *A pessoa quem eu vi chegou. ‘The person who I saw arrived.’
+b. *São estes os alunos quem ele viu. ‘Are these the students who he saw.’
+Free Relative Clauses
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+A free relative is a relative clause that is not connected to a nominal in the relevant syntactic context. These constructions have been analyzed as DP constructions in argument position (Caponigro, 2002; Citko, 2004; Medeiros Junior, 2005; Marchesan, 2008). Data in (41) contain free relative clauses:
+(41) a. Eu visitei quem você indicou. ‘I visited who you indicated.’ I visited who you have indicated.
+b. O João riu de quem gritou. ‘The Jonh laughed of who yelled.’ John laughed at who yelled.
+The wh-sentences in (41), though remarkably similar to the one in (35), are DP-like structures. The embedded sentence in (35), by its turn, constitutes a regular CP with a strong [+wh] features which is selected by the matrix verb.
+Besides the selection properties of the matrix verb, which clearly selects a question in (35), but not in (41), free relatives are said to be affected by the so-called matching effect (Bresnan & Grimshaw, 1977; Larson, 1987; Vogel, 2003)8. The matching requirement states that the category/C(c)ase of the wh-phrase must match the selection properties of the verb of the matrix and of the one in the relative. A mismatch will cause the sentence to be ungrammatical. Indirect questions are not subject to the same requirement, as it gets clear from the contrast in (42)/(43):
+(42) *O João entrevistou [NP [PP por quem] eu me interesso. ‘The John interviewed for whom I (1st P/ refex) interest.’
+(43) O João indagou [NP [PP por quem] eu me interesso. ‘The John asked for whom I (1st P/ refex) interest’. John asked who I am interested in.
+8 For further discussion on matching requirements for free relatives, see also Bresnan & Grimshaw (1978), Groos & Riemsdijk (1981), Larson (1987), Izvorsky (1993; 1996), Vogel (2003), and for Portuguese, Móia (1996), Medeiros Junior (2005; 2006; 2014; 2016) and Marchesan (2008).
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+According to Medeiros Junior (2015), Brazilian Portuguese free relatives seem to require matching even in subject position, though many studies attest this condition must not apply concerning pro-drop languages (see Hirshbühler & Rivero, 1983; Suñer, 1983, 1984; Grosu, 1994; Izvorski, 1996,1997); this can be seen in the data bellow:
+(44) a. [DP [PP *De quem] o Pedro não gosta] veio para o Jantar. ‘Of whom the Peter doesn’t like came for the dinner.’
+b. [DP [PP *Com quem] o João falou] possui um apartamento na Paulista. ‘With whom the John spoke owns an apartment on Paulista Av.’
+c. [DP [PP*Por quem] a Maria se interessa] comprou um carro novo. ‘For whom the Mary reflex interests bought a car new.’
+If one turns to semantics, free relatives are said to hold maximalizing content (Grosu & Landman, 1998). The main idea is that free relatives with a realis verb form contain a semantically CP-internal head and some material external to the CP, namely a phonologically empty pro. In this situation, the semantics of the external material is totally determined by the meaning of the CP (Grosu & Landman, 1998, p. 158). This being so, the semantics of such a sentence must contain a maximal reading (preferably universal), as opposed to what happens in interrogatives or cleft sentences, which hold a definite reading:
+(45) a. What you gave to Mary was an expensive object. (definite) b. Whatever you give Mary is expensive. (universal)
+(Grosu & Landman, 1998, p. 159)
+Medeiros Junior (2014) proposes all free relatives in Brazilian Portuguese are of the type wh- ever, considering its semantic content. The author argues that the wh-words in these constructions are complex morphological items resulting from an intricate syntactic operation of head incorporation of D into C, triggered by the presence of a null -ever suffix in D; in this language, wh-words in free relatives bare universal interpretation. Free relatives’ universal SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+semantics in BP would then be the result of its syntactic derivation, demonstrated by the diagram in (46)9:
+(46)
+
+In (41), for example, quem means whoever, and the semantics of the sentence would be:
+[ꓯx/ visitei (eu, x)] [ꓯx/ riu (J, de x)] J = João
+Let us now turn into the analysis of the data in (1), which is in fact the main point of the present study.
+4. Analyzing data
+In a seminal study from 1979, Emonds evaluates the phenomenon of relative clauses and attest that a free relative could have appositive content. And it is in fact nonsense thinking of a free structure (which, by its own nature, should not relate straightforwardly to some realized syntactic material) that must somehow be connected to an anchor (hence, an antecedent).
+I will argue in the following sections there are reasons to believe – considering BP data – that Emonds was partially wrong in his assumptions. Let us put things straight.
+The puzzle
+9 On this subject, see also Medeiros Junior (2005, 2006), Marchesan (2008, 2012). SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+Let us turn back to data in (1)a repeated as (47) and (16) repeated as (48) bellow:
+(47) a. Um fã teu, [quem realmente te admira], jamais faria esse tipo de coisa. ‘A fan yours, who really 2nd/p/sing admires, never would do this type of thing.’ A fan of yours, one who really admires you, would never do such a thing.
+b. Um cientista, [quem de fato faz pesquisa], ajuda o país a crescer. ‘A scientist, who in fact does research, help the country to grow’ A scientist, one who in fact researches, helps the country grow.
+(48) A Terra, [que é o terceiro planeta do Sistema Solar], é azul. ‘The Earth, that is the third planet of the Solar System, is blue’. The Earth, which is the third planet on the Solar System, is blue.
+The wh-sentence in (47) really looks as much like an ordinary relative appositive as the one in (48): both have appositive content, and both seem to be introduced by a relative pronoun. However, if one considers syntactic behavior, we might realize they are in fact different. Part of that difference we have already pointed out in the introducing section:
+1. It is possible to elide the anchor in (47), but not in (48):
+(49) a. Quem realmente te admira jamais faria esse tipo de coisa.
+b. *Que é o terceiro planeta do sistema solar é azul.
+2. The anchor and the appositive can switch places in (47), but not in (48):
+(50) a. Quem realmente te admira, um fã teu, jamais faria esse tipo de coisa.
+b.*Que é o terceiro planeta do Sistema Solar, a Terra, é azul.
+3. Many speakers accept an utterance where the wh-sentence can be extraposed in (47), but never in (48): SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+(51) a. Um fã teu jamais faria esse tipo de coisa, quem realmente te admira.
+b.*A Terra é azul, que é o terceiro planeta do Sistema Solar.
+The conclusion is: (47) is not equivalent to (48).
+However, if one focuses on (15), repeated below as (52), one might notice something intriguing: it behaves exactly like (47):
+(52) Ela disse uma só coisa, [que estava cansada e com fome], e saiu. ‘She said one only thing, that (she) was tired and hungy, and left.’ She said one thing only, that she was tired and hungry, and then, she left.
+(53) a. Ela disse que estava cansada e com fome e saiu. (eliding the anchor)
+b. Ela disse que estava cansada e com fome, uma só coisa, e saiu. (switching places with the anchor)
+c. Ela disse uma só coisa e saiu: que estava cansada e com fome. (extraposing the appositive).
+What might be the case here? Let us try to solve this puzzle.
+Towards a solution
+As argued in section 1.3, the appositive in (52) is an ordinary CP (what we have called here a DP-like CP), directly selected by the matrix verb, juxtaposed to the nominal anchor “uma só coisa”. This suggests that the Wh-sentence in (47) might also be juxtaposed to the nominal “Um fã teu”. Ordinary appositive relatives are supposed to work differently; in fact, an appositive relative clause cannot be juxtaposed to the anchor, for the anchor is the nominal being relativized, which has been raised from within the relative clause (see Kayne, 1994; Bianchi, 1999).
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+Syntactically, the head of the appositive relative in (48) is the complement of a higher D and the relativized NP is still within CP, i.e., in its Spec:
+(54) A [CP Terrai, C que [TP ti é o terceiro planeta do Sistema Solar...
+What about the wh-sentence in (47)? What is the nature of this sentence? Well, there are reasons to believe it is in fact a free relative clause. Let us turn to the arguments on this idea. First, when we look at (47), it seems that the wh-sentence is being selected as the external argument of the matrix verb, as well as the anchor, to which it is juxtaposed:
+(55) a. [[DP Um fã teu, [DP quem realmente te admira], jamais faria esse tipo de coisa].
+Juxtaposition is different from modification (Mathews, 1981); there is modification in (54) for instance, but not in (47). Second, remember we argued in the headed relative clauses section that ordinary headed relative clauses introduced by QUEM can only occur in Brazilian Portuguese when QUEM is selected by a preposition:
+(56) a. A pessoa de quem eu gosto está aqui. ‘The person of whom I like is here.’ The person I like is here.
+(57) a.*A pessoa quem eu vi chegou. ‘The person who I saw arrived.’
+b.*São estes os alunos quem ele viu. ‘Are these the students who he saw.’
+This kind of restriction does not seem to be affecting (47). Also, we have pointed out in the free relative clauses section that Brazilian Portuguese free relatives must always match; mismatching sentences are ruled out:
+(58) a. [[DP [DP quem realmente te admira]] jamais faria esse tipo de coisa]. ‘Who really 2nd.P/S admires never would do this kind of thing.’ Who really admires you would never do such a thing. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+b. [[DP [PP *de quem você realmente gosta]] jamais faria esse tipo de coisa]. ‘Of whom you really like never would do this kind of thing.’
+c. [[DP [DP quem você realmente gosta]] jamais faria esse tipo de coisa]. ‘Who you really like never would do this kind of thing.’ (Those) who you really like would never do such a thing.
+As it is clear, the wh-sentence in (47) seems to be subject to the matching requirement; a matching sentence, (58)a, is okay; a mismatch, (58)b, rules the sentence out; deleting the preposition, (58)c, solves the mismatch problem and the sentence is okay again.
+A fourth argument is related to semantics: as described in free relative clauses, BP free relatives have maximalizing content, i.e., wh-phrases have universal meaning. (47) once again seems to fit this perfectly:
+(59) a. Um fã teu, [quem (quer que)10 realmente te admire], jamais faria esse tipo de coisa. ‘A fan yours whoever really 2nd.P/S admires never would do this kind of thing.’
+A fan of yours, whoever really admires you, would never do such a thing.
+All things set, one might conclude the wh-sentence in (47) is a free relative clause bearing appositive content, instead of an ordinary appositive (headed) relative clause. Do we mean by this that the wh-sentence in (47) is derived from a headed appositive relative clause? It does not seem to be the case.
+If a free relative in Brazilian Portuguese is really derived as the diagram in (46) proposes, it must be clear that the C head and the D head involved in the relativization process must be adjacent, otherwise one could not explain the head incorporation process reflected in the form of the wh-element “heading” those structures.
+
+10 Medeiros Junior (2005) talks about the possibility of inserting “quer que” right after the wh-phrase as an evidence of the -ever nature of its wh-word. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+One might consider the fact that the wh-word QUEM in (47) seems to correspond to the positions of the relativizer and the antecedent (the relativized nominal) altogether, as evidenced in (60) bellow:
+(60) a. Um fã teu [uma pessoa que realmente te admira] jamais faria esse tipo de coisa.
+b. Um fã teu [ QUEM realmente te admira] jamais faria esse tipo de coisa.
+This being so, it becomes clear that the relativized nominal in (47) is not “Um fã teu”, but “uma pessoa”. This makes the relativizer in C and the antecedent DP to be adjacent, which enables the incorporation process described in (46) above11:
+(61) Uma [CP [DP pessoai [C que [TP realmente ti te admira...
+Therefore, the conclusion is a free relative must be derived from a restrictive relative clause. This leads us to conclude that Emonds was partially correct in 1979 in saying that free relatives have no appositive counterpart. It is clear that free relatives must be derived via restrictive relatives, but the data in (1)/(47) show there can be appositive free relative clauses. How are those appositive free relative clauses characterized?
+1) They are derived from restricted relatives throughout a head incorporation process, which makes the anchor and the relativized to be different syntactic elements. 2) They are juxtaposed and equivalent to the anchor. 3) They can switch places with the anchor. 4) They can be extraposed.
+5. Final remarks
+
+11 Kayne (1994) asserts that appositive relatives are derived just as the restrictive ones, i.e., via head raising. The difference between them (observed by the pause marking the former, but not the later, would be due to some movement in LF supposed to posit the relative CP out of the scope of the determiner. Considering there is head incorporation in the derivation of a free relative, D must c-command C, so that the affix feature in D (the null - ever) can trigger the incorporation process. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+In the present paper, I have tried to analyze some sort of “strange” quem-clauses in Brazilian Portuguese. I claim that these quem-clauses are not to be considered ordinary appositive relative clauses nor some sort of nominal appositive constructions, due to their syntactic behavior.
+One of the main arguments against considering the quem-sentences in (1) as containing an ordinary appositive relative is the possibility of eliding the anchor nominal in (1), but not in real appositive relative clauses (for the anchor in these sentences is the name been relativized. Also, I argued that in utterances as (1), the anchor and the appositive can switch places, contrary to what happens when an appositive relative is present.
+I have also tried to show that the quem-sentence in the data being put into analysis here seems to be juxtaposed to the anchor, contrary to what happens to ordinary appositive relative clauses, in which the anchor (the relativized nominal) is understood to be raised from within the subordinate clause (see Kayne, 1994). Another characteristic that these quem-sentences seem to have is that in (1) they can be extraposed, contrary to what happens to genuine appositive relatives.
+The main claim of the discussion presented here is that the quem-type sentences in question are free relative clauses with appositive content. If they are really free relatives in the terms proposed by Medeiros Junior (2014), as I am trying to argue, the antecedent D head and the relative CP head have been amalgamated through head incorporation. This means that the relativized nominal is not the anchor, but something else (the amalgamated DP); it would then explain the possibility of eliding the anchor in such constructions.
+The conclusion is that Brazilian Portuguese sentences, such as the ones highlighted here, evidence the existence of appositive free relatives. The subordinate wh-sentences in (1) are to be considered examples of this kind of occurrence. The prediction this claim makes is that the wh-sentence in (1) must be subject to matching requirements (see Marchesan, 2008; Medeiros Junior, 2005, 2014), which seems to be confirmed by the data analysis. Moreover, if those sentences are in fact free relatives, they must contain maximalizing interpretation, which in Brazilian Portuguese means having universal meaning (see Medeiros Junior, 2005, 2006; 2009, 2014), a characteristic that also seems to be endorsed by data evaluation.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+These facts seem to weaken Emonds (1979) generalization on the impossibility of having a free relative with appositive content and makes such generalization partially wrong. Further details on the analysis implemented here are to be addressed in future investigation.
+Acknowledgements
+I would like to thank the anonymous reviewers for both their careful reading of this paper and contributions and Ezekiel Panitz for his precious language review.
+Conflict of interest declaration
+(X) The corresponding Author has no conflict of interest to declare and bears full responsibility for the submission.
+References
+Bianchi, V. (1999). Consequences of antisymmetry: Headed relative clauses. Mouton de Gruyter. https://doi.org/10.1515/9783110803372.
+Bresnan, J. & Grimshaw, J. (1978). The syntax of free relatives in English. Linguistic Inquiry, 3(9), 331-391.
+Caponigro, I. (2002). Free relatives as DPs with a silent D and a CP complement. In V. Samiian (Ed.), Proceedings of the Western Conferences on Linguistics (pp. 140-150). California State University.
+Citko, B. (2004). On headed, headless and light-headed relatives. Natural Language and Linguistic Theory, 22, 95-126. https://doi.org/10.1023/B:NALA.0000005564.33961.e0.
+Cheng, L (1991). On the typology of wh-questions [Doctoral dissertation]. Massachusetts Institute of Technology. http://www.ai.mit.edu/projects/dm/theses/cheng91.pdf. (accessed 06 July, 2021)
+Chomsky, N. (1977). On wh-movement. In P. W. Culicover, T. Wasow & A. Akmajian. (Eds.), Formal syntax (pp. 71-132). Academic Press. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+Chierchia, G. (2003). Semântica. Tradução Luis Arthur Pagani, Ligia Negri, & Rodolfo Ilari. Editora da Unicamp. (Semantica, Le Strutture del Linguaggio, 1997)
+Cardoso, A. & M. de VRIES (2010). Internal and external heads in appositive constructions. http://www.let.rug.nl/dvries/pdf/2010-appositive-constructions-webversion.pdf (accessed: 29 August, 2019).
+Cunha, C. & Cintra, L. (2008). Nova gramática do português contemporâneo (5a ed). Lexikon.
+Döring, S. (2014). Parentheticals are - presumably - CPs. In M. Kluck, D. Ott, & M. de Vries (Eds.), Parenthesis and ellipsis: Cross-linguistic and theoretical perspectives (pp. 109-145). Mouton de Gruyter. https://doi.org/10.1515/9781614514831.
+Emonds, J. (1979). Appositive relatives have no properties. Linguistic Inquiry, 10(2), 211- 243.
+Groos, A. & Riemsdijk, H. V. (1981). Matching effect in free relatives: a parameter of core. In A. Bellettii, L. Brandi, & L. Rizzi (Eds.), Theory of markedness in generative grammar: Proceedings of the 1979 GLOW Conference (pp. 119-162). Scuola normale superiore di Pisa.
+Heringa, H. (2011). Appositional constructions [Doctoral dissertation, University of Groningen]. LOT. https://www.lotpublications.nl/Documents/294_fulltext.pdf. (accessed 06 July, 2021).
+Hirshbühler, P. & Rivero, M. L. (1983). Remarks on free relatives and matching phenomena. Linguistic Inquiry, 14(3), 505-520.
+Izvorski, R. (1996). (Non-) Matching effects on free relatives and pro-Drop. In M. Przezdziecki & L. Whaley (Eds.), ESCOL’95 (pp. 89-102). Cornell University.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+Izvorski, R. (1997) Subject free relatives in null-subject languages: evidence from Slavic. In W. Browne, E. Dornisch, N. Kondrashova, & D. Zec (Eds.), Formal approaches to Slavic linguistics: The Cornell meeting (pp. 267-288). Wisconsin.
+Kato, M. & Nunes, J. (2009). A uniform raising analysis for standard and nonstandard relative clauses. In J. Nunes. (Ed.), Minimalist essays on Brazilian Portuguese syntax (pp. 93-120). John Benjamins. https://doi.org/10.1075/la.142.
+Kayne, R. (1994). The antisymmetry of syntax. Massachusetts Institute of Technology Press.
+Kenedy, E. (2007). A hipótese da antinaturalidade de pied-piping em orações [Unpublished doctoral dissertation]. Universidade Federal do Rio de Janeiro. https://www.professores.uff.br/eduardo/wp- content/uploads/sites/43/2017/08/tese_eduardokenedy_2007.pdf. (accessed 06 July, 2021).
+Huddleston, R. & Pullum, G.K. (2002). The Cambridge grammar of the English language. Cambridge University Press. https://doi.org/10.1017/9781316423530.
+Larson, R. K. (1987). Missing prepositions and the analysis of English free relative clauses. Linguistic Inquiry, 18(2), 239-266.
+Macambira, J. R. (1998). Português estrutural (4a ed.). Pioneira.
+Marchesan A. C. (2008). As relativas livres em português brasileiro e os requerimentos de compatibilidade. [Unpublished master thesis]. Universidade Federal de Santa Catarina. https://repositorio.ufsc.br/bitstream/handle/123456789/91537/251008.pdf?sequence=1.
+Marchesan A. C. (2021). As relativas livres no português brasileiro [Unpublished doctoral dissertation]. Universidade Federal de Santa Catarina. https://repositorio.ufsc.br/handle/123456789/100448. (accessed 06 July, 2021).
+Matthews, P. H. (1981). Syntax. Cambridge University Press. https://doi.org/10.1017/S0022226700007581.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+Mccauley, J. D. (1998). The syntactic phenomena of English (2nd ed.). University of Chicago Press.
+Medeiros Junior, P. (2005). Sobre sintagmas-qu e relativas livres no português. [Unpublished master thesis]. Universidade de Brasília.
+Medeiros Junior, P. (2006). Relativas livres: uma proposta para o português. Revista de Estudos da Linguagem, 14(2), 429-455. http://dx.doi.org/10.17851/2237-2083.14.2.429-455.
+Medeiros Junior, P. (2009). Sobre orações relativas livres em posição de adjunto: considerações sintático-semânticas sobre as construções com quando e onde português. Revista de Estudos da Linguagem, 17(1), 47-67. http://dx.doi.org/10.17851/2237-2083.17.1.51-71.
+Medeiros Junior, P. (2014). Orações relativas livres do PB: sintaxe, semântica e diacronia [Unpublished doctoral dissertation]. Universidade Estadual de Campinas. http://repositorio.unicamp.br/jspui/handle/REPOSIP/271032. (accessed 06 July, 2021)
+Medeiros Junior, P. (2015). Uma análise de relativas livres em posição de sujeito e efeitos de compatibilidade no português brasileiro. Caligrama, 20(2), 7-33. http://dx.doi.org/10.17851/2238-3824.20.2.7-33.
+Medeiros Junior, P. (2016). From [o[que]] to [o que] in Brazilian Portuguese free relatives: A diacronic view. In M. Kato & F. Ordóñez (Eds.), The morphosyntax of Portuguese and Spanish in Latin America (pp. 308-331). Oxford University Press. http://doi.org/10.1093/acprof:oso/9780190465889.001.0001. Medeiros Junior, P. (2020). Uma análise da relativização no PB: questões teóricas e panorama geral. In P. Medeiros Junior, S. Guesser, M. V. Lunguinho, & H. Guerra Vicente (Eds), Relativização e clivagem no PB: sintaxe, aquisição, diacronia e experimentação (pp. 77-105). Pontes Editores.
+Meyer, C. F. (1992). Apposition in contemporary English. Cambridge University Press.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+Móia, T. (1996). A sintaxe das orações relativas sem antecedente expresso do português. In A. Gonçalves, M. Colaço, M. Miguel, & T. Moia (Eds.), Quatro estudos em sintaxe do português (pp. 149-188). Edições Colibri.
+Rizzi, L. (1991). Residual verb second and the wh- criterion. Technical reports in formal and computational linguistics. Université de Genève.
+Rizzi, L. (1997). The fine structure of the left periphery. In L. Haegeman (Ed.), Elements of grammar: A handbook of generative syntax (pp. 281-337). Kluwer. http://doi.org/10.1007/978-94-011-5420-8.
+Rizzi, L. & Bocci, G. (2017). The left periphery of the clause: Primarily illustrated for Italian. In M. Everaert & H. C. Van Riemsdijk, (Eds.), Blackwell Companion to Syntax (2nd ed.) (pp. 1-30). John Wiley & Sons, Inc. http://doi.org/10.1002/9780470996591.
+Rocha, M. L. Del F. (1990) Sintagmas-QU em interrogativas indiretas e relativas livres do português [Unpublished master thesis]. Universidade de Brasília
+Svobodová, I. (2014). Sintaxe da Língua Portuguesa. Masarikova Univerzita.
+Smith, C. (1964). Determiners and relative clauses in a generative grammar of English. Language, 40, 37-52. https://doi.org/10.2307/411923.
+Suñer, M. (1984). Free Relatives and the matching parameter. The Linguistic Review, 3, 363- 387. https://doi.org/10.1515/tlir.1984.3.4.363.
+Suñer, M. (1983). Free relatives and the pro-drop head hypothesis. In W. Harbert (Ed.), Cornell working papers 4: Papers from the Cornell Conference on government and binding theory, June, 223-248. https://linguistics.cornell.edu/sites/linguistics/files/volume4_spring_1983.pdf. (accessed 06 July, 2021).
+Vergnaud, J. R. (1974). French relative clauses [Unpublished doctoral dissertation]. Massachusetts Institute of Technology. https://dspace.mit.edu/handle/1721.1/12993. (accessed 06 July, 2021). SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org)
+
+
+Tarallo, F. L. (1983). Relativization strategies in Brazilian Portuguese [Unpublished doctoral dissertation]. University of Pennsylvania. https://repository.upenn.edu/dissertations/AAI8326337/. (accessed 06 July, 2021).
+Vogel, R. (2003). Surface matters: Case conflicts in free relative constructions and case theory. In E. Brandner & H. Zinsmeister (Eds.), New perspectives on case theory (pp. 269- 299). CSLI Publications. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202144681 Powered by TCPDF (www.tcpdf.org) This preprint was submitted under the following conditions: The authors declare that they are aware that they are solely responsible for the content of the preprint and that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its preservation and dissemination. The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in the research were obtained and are described in the manuscript, when applicable. The authors declare that the preparation of the manuscript followed the ethical norms of scientific communication. The submitting author declares that the contributions of all authors and conflict of interest statement are included explicitly and in specific sections of the manuscript. The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY license. The deposited manuscript is in PDF format. The authors declare that the data, applications, and other content underlying the manuscript are referenced. The authors declare that the manuscript was not deposited and/or previously made available on another preprint server or published by a journal. If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the authors declare that they have received authorization from the journal to make this deposit. The submitting author declares that all authors of the manuscript agree with the submission to SciELO Preprints. The authors declare that the research that originated the manuscript followed good ethical practices and that the necessary approvals from research ethics committees, when applicable, are described in the manuscript. The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be withdrawn upon retraction. Powered by TCPDF (www.tcpdf.org)

@@ -1,0 +1,339 @@
+Status: Preprint has not been submitted for publication Incidence of overweight children in school years and its relation with prenatal factors João Ghizzo Filho, Eliane Traebert, Nazaré Otília Nazário, Altaiana Portella da Rosa Flôres, Jefferson Traebert DOI: 10.1590/SciELOPreprints.1374 This preprint was submitted under the following conditions: The authors declare that they are aware that they are solely responsible for the content of the preprint and that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its preservation and dissemination. The authors declare that the research that originated the manuscript followed good ethical practices and that the necessary approvals from research ethics committees are described in the manuscript, when applicable. The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in the research were obtained and are described in the manuscript, when applicable. The authors declare that the preparation of the manuscript followed the ethical norms of scientific communication. The authors declare that the manuscript was not deposited and/or previously made available on another preprint server. The submitting author declares that all authors responsible for preparing the manuscript agree with this deposit. The authors declare that in the event that this manuscript has previously been submitted to a journal and being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints server. The submitting author declares that all authors' contributions are included on the manuscript. The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available under a Creative Commons CC-BY license. The deposited manuscript is in PDF format. If the manuscript is being reviewed and published by a journal, the authors declare that they have received authorization from the journal to make this deposit. Submitted on (YYYY-MM-DD): 2020-10-19 Posted on (YYYY-MM-DD): 2020-10-23 Powered by TCPDF (www.tcpdf.org)
+
+Incidence of overweight children in school years and its relation with prenatal factors Incidência de excesso de peso corporal em crianças em idade escolar e sua relação com fatores pré-natais Short title: Incidence of overweight children in school years Título curto: Incidência de excesso de peso corporal em escolares
+João Ghizzo Filho1* - 0000-0003-2287-9653 Eliane Traebert1 - 0000-0001-9667-7216 Nazaré Otília Nazário2 - 0000-0001-5201-1391 Altaiana Portella da Rosa Flôres1 - 0000-0001-7266-3784 Jefferson Traebert1 - 0000-0002-7389-985X 1Graduate Program in Health Sciences, Universidade do Sul de Santa Catarina – Palhoça (SC), Brazil. 2Medicine School, Universidade do Sul de Santa Catarina – Palhoça (SC), Brazil. *Corresponding author: aquilesjoao.joao@gmail.com Conflict of interests: nothing to declare
+Abstract Objective: To estimate the incidence of excess of body weight in the school period and explore possible association with prenatal factors. Methodology: An epidemiological study with a longitudinal design was carried out. All children from the first to the fifth grade of elementary school, aged between seven and 10 years old, enrolled in public and private
+
+schools and from families residing in Palhoça City, Santa Catarina State, who had participated in the previous stage of the study in 2015, were included. To obtain the BMI, weight and height were collected in schools. Data related to the prenatal period were obtained with interviews with mothers or guardians, at home. The analyses were performed using Poisson Regression with a robust estimator. Statistically significant variables and those with p ≤ 0.25 in the bivariate analysis were included in the multivariate. Results: 228 students were included. The incidence rate of excess weight was 19.3%, with 17.1% being overweight and 2.2% being obese. The results of the multivariate analysis showed that students who were born with Apgar in the first minute ≤ 7 had a statistically significant risk and 34% higher relative risk of developing excess weight in the school period. Conclusion: The incidence of overweight was 19.3%. Prenatal factors were not associated with incidence, except for a low Apgar score in the first minute. Keywords: Risk factors. Obesity. Body mass index. Prenatal care.
+Resumo Objetivo: Estimar a incidência de excesso de peso corporal no período escolar e a associação com fatores pré-natais. Métodos: Estudo epidemiológico de delineamento longitudinal. Incluídas crianças com 10 anos matriculadas em escolas públicas e privadas e de famílias residentes em Palhoça/SC participantes da pesquisa em 2015. Para o índice de massa corporal, coletaram-se peso e estatura. Dados do período pré-natal foram obtidos em entrevistas com as mães ou responsáveis. As análises ocorreram por regressão de Poisson com estimador robusto. As variáveis estatisticamente significativas e aquelas com p ≤ 0,25 na análise bivariada foram incluídas na multivariada. Resultados: Foram incluídos 228 escolares. A taxa de incidência de excesso de peso foi de 19,3% — 17,1% de sobrepeso e 2,2% de obesidade. Os resultados da análise multivariada mostraram que escolares que
+
+nasceram com Apgar no primeiro minuto ≤ 7 apresentaram risco relativo estatisticamente significativo e independente 34% maior de desenvolver excesso de peso no período escolar. Conclusão: A incidência de excesso de peso foi de 19,3%. Fatores pré-natais não se mostraram associados à incidência, com exceção de baixo Apgar no primeiro minuto. Palavras-chave: Fatores de risco. Obesidade. Índice de massa corporal. Pré-natal.
+
+INTRODUCTION
+
+Being overweight is considered a serious health problem worldwide, affecting children, adolescents, adults, and older people1. The transition from being an overweight or obese child or adolescent into adulthood is characterized as a public health problem2. The increase in prevalence of overweight children represents high risks of mortality in adulthood, as well as increasing expenses in treatment and control3. Estimations say that for every two obese children, one can become an obese adult, directly affecting their health4. According to the Pan American Health Organization, between 20 and 25% of individuals under 19 are affected by overweight in Latin America2. According to data from the Family Budget Survey conducted in 2008 and 2009 in Brazil, overweight has a high prevalence rate, which has been increasing over the years. Among children from 5 to 9, 32% of girls were overweight and 12% were obese5. Thus, studying the etiological factors of overweight children with different approaches is important to identify this condition as early as possible, enabling interventions in the early stages of life, even before the problem sets in. This corroborates what the Brazilian
+
+Guidelines on Obesity propose6, which point to the probability of an obese child becoming an obese adult ranging from 20 to 50%. Obesity, just like other noncommunicable diseases (NCDs), has complex etiologies and happens since long back in life7. In this context, a previously controversial, but now widely accepted, etiological approach is theoretically supported by the Barker hypothesis, also called the biological programming hypothesis8. Barker8 related nutrition and exposure to infections during the fetal period to the onset of disease in individuals years later. Among the possible existing relations, he highlighted nutritional and environmental problems that occurred during intrauterine life and chronic diseases, such as coronary heart disease, diabetes, hypertension, and the increase in cholesterol rates in adulthood8. Thus, experiences that occur early, including prenatal factors, could influence the future health condition of the child and adult, assuming that the health status at any age is a result not only of current conditions, but also of accumulation of conditions that have been incorporated throughout life9, including the prenatal period. In order to improve the understanding of the determinants of overweight in children and, consequently, to identify behaviors and situations that can be modified, exploring interactions between possible early determining factors and the future incidence of overweight children is of utmost importance. Understanding the interaction of these factors in this period can assist in planning health and prevention policies. However, there is little research that considers these ideas in the study of determining overweight at the population level. Methodologically, using a population-based longitudinal design is interesting, with a retrospective cohort, associated to prospective follow-ups, to understand childhood obesity in a broad and exhaustive way. Therefore, the present study aims to estimate the incidence of overweight in school years and explore its possible interaction with prenatal factors.
+
+METHODS
+
+This is an epidemiological study with a longitudinal design called Coorte Brasil Sul10 and carried out in Palhoça Municipality, located in the metropolitan region of Greater Florianópolis City/Santa Catarina State. The study population was composed of all children from the first to the fifth year of elementary school, aged between 7 and 10, in 2019. Children born in 2009, enrolled in public and private schools in the municipality, from families residing in Palhoça and who participated in the previous phases (2009 and 2015) of the study Coorte Brasil Sul were included10. The process of obtaining the sample can be seen in Figure 1. The teams responsible for data collection were composed of trained and professionals. Team members were responsible for carrying out data collection, registering according to previously defined criteria, in addition to organizing the flow of children who had the Free and Informed Consent Term (Termo de Consentimento Livre e Esclarecido — TCLE) and the Free and Informed Assent Term (Termo de Assentimento Livre e Esclarecido) signed. The selection and training of evaluators were carried out by the researchers responsible for the study, aiming to minimize any measurement bias. Two nutritionist evaluators were selected, who participated in a training process for data collection. The techniques and procedures for measuring measures were based on the standards of the National Institute of Metrology, Quality and Technology (Instituto Nacional de Metrologia, Qualidade e Tecnologia — Inmetro)11 and the guidelines by the World Health Organization (WHO)12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1 – Sample flowchart.
+Data collection was performed with anthropometric tests, for the purpose of calculating the body mass index (BMI)13,14. A calibrated digital scale and a wall stadiometer were used. To obtain the BMI, children’s weight and height were collected during visits to schools, using the method recommended by the Brazilian Ministry of Health14. 2009 (Birth) Total Children n = 1,270 Prenatal Information n = 958 2015 (6 years old) 2019 (10 years old)
+Anthropometric information n = 1,026 Anthropometric information n = 942 Children referred n = 362 Young children n = 580
+Exclusion for being overweight n = 134
+n = 228 Exclusion for lack of prenatal data n = 78
+
+n = 150 Retrospective Study Prospective Study Prevalence study
+Incidence study
+Study of association between obesity and prenatal factors
+
+
+For the collection of weight, the child was barefoot, wearing light clothes and did not carry any objects; the examiner turned on the scale before the child was positioned, waited for the scale to reach 0, positioned the child in the center of equipment, upright, with feet together and arms extended along the body, and then performed measurement after weight was fixed on the display. To collect height, the examiner instructed the child to stand upright, with arms outstretched, head up, look at a fixed point at eye level, parallel legs, with the feet forming a right angle with them, and the calves, buttocks, scapulae, and the back of the head (occipital region) against the stadiometer. The examiner then lowered the mobile part of equipment, fixing it against the head, with sufficient pressure to compress the child’s hair, removed the individual and performed height reading, without releasing the mobile part of equipment. The data were recorded in a clinical-epidemiological form. Data were collected in duplicate in 5% of the studied population, which was selected at random, with the aim of allowing monitoring of diagnostic reproducibility during the collection process. Results showed acceptable reproducibility values, all with Kappa > 0.7. Parents’ failure to sign the consent form, the child’s lack of consent at the time of data collection, and the child’s absence on the day of data collection at school were defined as loss and refusals. The main study outcome was the incidence of overweight children. Independent variables were classified into: sociodemographic—sex (male or female), child’s ethnicity/skin color of the child (white or non-white), father’s occupation at birth (unemployed/no income, or employed/with income), mother’s occupation at birth (unemployed/at home, or employed/with income), father’s education at birth (zero to eight years completed or more than eight years completed), mother’s education at birth (zero to eight years completed or more than eight years completed); pregnancy characteristics—mother’s age during pregnancy (13 to 19 or 20 years or more), planned pregnancy (no or yes), pregnancy weight gain (up to
+
+10 kg or more than 10 kg), prenatal consultations (up to five or six and more), smoking (yes or no), alcohol intake (yes or no), diabetes mellitus (yes or no), high blood pressure (yes or no), infectious diseases (yes or no); and, finally, characteristics of birth and child—gestational age (up to 37 weeks or 38 weeks or more), delivery type (cesarean section or vaginal), birth weight in relation to gestational age (large for gestational age or appropriate for gestational age), head circumference (< 32 and > 36 or 33 to 36), Apgar in the first minute (≤ 7 or 8 and more), birth problems (yes or no). The collected data were inserted into Excel spreadsheets and later exported to the IBM Statistical Package for the Social Sciences (IBM SPSS®) 18.0 program, in which they were analyzed. Prior to the analysis, bank cleaning procedure searched for incomplete data and eliminated any inconsistencies. Descriptive statistics of the variables studied were performed with frequency distribution tables. Analyzes were conducted using Poisson regression with a robust estimator. All statistically significant variables (p ≤ 0.05) and those with p ≤ 0.25 in the bivariate analysis were included in the multivariate analysis to identify an independent relation between them, making it possible to point out possible confounding factors. Thus, the relative risks (RR) and their respective confidence intervals (CI) were estimated at a 95% accuracy level. The project was submitted to and approved by the Research Ethics Committee with Human Beings of Universidade do Sul de Santa Catarina (UNISUL), under the protocol of the Certificate of Presentation for Ethical Appreciation (Certificado de Apresentação para Apreciação Ética — CAAE) nº 04377218.1.0000.5369.
+
+
+
+
+RESULTS
+
+The incidence rate of overweight in the four-year follow-up period (2015 to 2019), a period in which students (n = 228) were in the age group from seven to 10, was 19.3% (95%CI 14.2; 24.4). Overweight incidence was 17.1% (95%CI 12.2; 22), and obesity was 2.2% (95%CI 0.2; 4.1).
+Results of the study of association between prenatal factors and overweight incidence in the study period are presented below. Table 1 shows that no statistically significant associations were observed between sociodemographic variables of students and their parents at birth with overweight incidence. Table 2 shows a significant association between the mother’s age during pregnancy and overweight incidence (p = 0.021).
+
+Table 1 – Association between sociodemographic characteristics and overweight incidence in schoolchildren. Palhoça Municipality/Santa Catarina State, 2019.
+
+Variables Overweight Yes RR 95%CI p-value n (%)
+
+
+Child’s sex (n = 150)
+
+
+0.608 Male 14 (18.2) 1.02 0.95–1.08
+Female 11 (15.1) 1.00
+
+
+
+Child’s ethnicity/skin color (n = 150)
+
+
+0.693 White 21 (17.2) 1.02 0.94–1.10
+Non-white 4 (14.3) 1.00
+
+Father’s occupation at birth (n = 143)
+
+
+0.825 Unemployed/no income 1 (20.0) 1.02 0.84–1.25
+Employed/with income 22 (15.9) 1.00
+
+Mother’s occupation at birth (n = 147)
+
+
+
+Unemployed 4 (14.3) 0.99 0.91–1.08 0.919 At home 7 (13.5) 0.96 0.89–1.03 0.279 Employed/with income 14 (20.9) 1.00
+
+Father’s education at birth (n = 119)
+
+
+0.400 0 to 8 years complete 13 (17.1) 1.03 0.96–1.10
+More than 8 years complete 5 (11.6) 1.00
+
+Mother’s education at birth (n = 138)
+
+
+0.126 0 to 8 years complete 8 (11.8) 1.00
+
+More than 8 years complete 15 (21.4) 1.05 0.98–1.13
+RR: relative risk; 95%CI: 95% confidence interval.
+
+
+Table 2 – Association between characteristics of pregnancy and overweight incidence in school children. Palhoça Municipality/Santa Catarina State, 2019.
+Variables Overweight Yes RR 95%CI p- value n (%)
+
+
+Mother’s age during pregnancy (n = 148)
+
+
+0.021 13 to 19 2 (6.5) 0.93 0.88–0.99
+20 or more 23 (19.7) 1.00
+
+Planned pregnancy (n = 148)
+
+
+0.694 No 10 (18.5) 1.01 0.95–1.09
+Yes 15 (16.0) 1.00
+
+Weight gain during pregnancy (n = 135)
+
+
+0.480
+More than10 kg 8 (14.8) 0.97 0.91–1.05
+Until 10 kg 15 (19.5) 1.00
+
+Pre-natal consultations (n = 146)
+
+
+0.239 Until 5 3 (37.5) 1.13 0.92–1.40
+6 and more 20 (15.7) 1.00
+
+Smoking (n = 148)
+
+
+0.273
+
+Yes 6 (26.1) 1.06 0.95–1.18
+No 19 (15.2) 1.00
+
+Alcohol intake (n = 146)
+
+
+0.341 Yes 1 (9.1) 0.95 0.87–1.05
+No 24 (17.8) 1.00
+
+Diabetes mellitus (n = 148)
+
+
+0.861 Yes 1 (20.0) 1.02 0.83–1.24
+No 24 (16.8) 1.00
+
+Arterial hypertension (n = 147)
+
+
+0.109 Yes 7 (31.8) 1.10 0.98–1.24
+No 18 (14.4) 1.00
+
+Infectious diseases (n = 150)
+
+
+0.883 Yes 11 (17.2) 1.01 0.94–1.07
+No 14 (16.3) 1.00
+
+RR: relative risk; 95%CI: 95% confidence interval.
+
+Table 3 shows that among birth characteristics, school children that had an Apgar ≤ 7 in the first minute and presented problems during delivery showed a greater overweight incidence in the study period (p = 0.028 and p = 0.038, respectively).
+
+
+
+
+
+Table 3 – Association between characteristics of birth and child and overweight incidence in school children. Palhoça Municipality/Santa Catarina State, 2019.
+Variables Overweight Yes RR 95%CI p- value n (%)
+
+
+Gestational age (n = 136)
+
+
+0.551 Up to 37 weeks 2 (11.8) 0.97 0.89–1.06
+38 or more 20 (16.8) 1.00
+
+Type of delivery (n = 150)
+
+
+0.513 Cesarean section 12 (19.0) 1.02 0.96–1.09
+Vaginal birth 13 (14.9) 1.00
+
+Birth weight in relation to gestational age (n = 120)
+
+
+0.734 Big for gestational age (> 90th percentile) 5 (20.8) 1.02 0.92–1.12
+Adequate for gestational age (≥ 10–90th percentiles) 17 (17.7) 1.00
+
+Head circumference (n = 114)
+
+
+0.335 < 32 and > 36 2 (8.7) 0.96 0.90–1.04
+33 to 36 14 (15.4) 1.00
+
+Apgar in the first minute (n = 119)
+
+
+0.028
+
+≤ 7 5 (55.6) 1.29 1.03–1.62
+8 and more 15 (13.6) 1.00
+
+Problems during delivery* (n = 148)
+
+
+0.038 Yes 7 (41.2) 1.17 1.01–1.36
+No 18 (13.7) 1.00
+
+RR: relative risk; 95%CI: 95% confidence interval; *problems reported by mothers: nuchal cord; depression; hypertension; preeclampsia; eclampsia; twins, one of which had infection and did not survive; clavicle fracture; hemorrhage; no dilation; time of birth delayed/risky delivery; 26 hours in labor.
+However, the multiple analysis results, presented in Table 4, show that the variables mother’s age during pregnancy and mothers’ report of problems during delivery lost their significance. Thus, school children who were born with Apgar ≤ 7 in the first minute had a 34% higher risk and independent of being overweight in school years [RR = 1.36 (95%CI 1.07; 1.72)] (p = 0.011).
+Table 4 – Results of the multivariate analysis for overweight incidence in school children. Palhoça Municipality/Santa Catarina State, 2019.
+Variables Overweight RRb 95%CI p- value RRa 95%CI p- value Mother’s education at birth
+
+0.126
+
+0.408 0 to 8 years complete 0.95 0.89–1.01
+1.00
+
+
+
+More than 8 years complete 1.00
+
+1.03 0.96–1.10
+Mother’s age during pregnancy
+
+0.021
+
+0.064 13 to 19 0.93 0.88–0.99
+0.97 0.87–1.01
+20 or more 1.00
+
+1.00
+
+Pre-natal consultations
+
+0.239
+
+
+Until 5 1.00
+
+1.00
+0.230 6 and more 1.13 0.92–1.40
+1.20 0.89–1.61
+Arterial hypertension
+
+0.109
+
+0.228 Yes 1.10 0.98–1.24
+1.09 0.95–1.24
+No 1.00
+
+1.00
+
+Apgar in the first minute
+
+0.028
+
+0.012 ≤ 7 1.29 1.03–1.62
+1.34 1.07–1.68
+8 and more 1.00
+
+1.00
+
+Problems during delivery*
+
+0.038
+
+0.068 Yes 1.17 1.01–1.36
+1.12 0.98–1.29
+No 1.00
+
+1.00
+
+gRR: gross relative risk; aRR: adjusted relative risk; 95%CI: 95% confidence interval; *problems reported by mothers: nuchal cord; depression; hypertension; preeclampsia; eclampsia; twins, one of which had infection and did not survive; clavicle fracture; hemorrhage; no dilation; time of birth delayed/risky delivery; 26 hours in labor.
+
+
+
+
+
+
+DISCUSSION
+
+The present study found that the overweight incidence rate among students was high. Roughly, one in five children developed overweight in the school period when they were between 7 and 10 years old. Currently, 18% of the population of children aged between 5 and 19 are overweight worldwide, of which 7% are obese15. Overweight prevalence in Brazil is 24.6% in children aged 10 to 19 and 35.9% in children aged 5 to 916. Other studies also point to high incidence rates. A systematic review on the incidence of childhood obesity that included 19 articles, three from the United States with nationally representative data, was published in 201617. One of the studies included follow-up data from 1980 to 1988, with an annual incidence of 1.3% in children aged 4 to 1018. The second, evaluated the period between 1980 and 1998, and the annual incidence was 1.7% in children of the same age group19. The latter20, followed a cohort of children born in 1993, with an average age of 5.6 to 14.1, and an average follow-up of two years. Obesity incidence was 11.9% in all age groups, and the annual incidence in the age group like that of the present study was 3%. A cohort study21 followed children from three to six years old in Vietnam for three years, between 2013 and 2016. Overweight incidence rates of 12.4 and 2.7% for obesity were estimated. A prospective cohort22 conducted in the United States followed children aged five to 14 and found that 11.9% of them became obese. Obesity incidence in children between five and 14 years old was four times higher among those overweight at five, compared to children with normal weight at the same age. In a scenario of high incidence rate in the school period, this study sought to contribute to the understanding of the determination of overweight by investigating the
+
+influence of prenatal aspects at this time in the child’s life. The rationale was based on the hypothesis of Barker’s biological programming8. Although the results presented herein have not brought any striking evidence, the relation between aspects of early life and overweight in children has been shown and includes biological, environmental, and behavioral risk factors related to events in the fetal period23-27. Pre-gestational maternal BMI, excessive gestational weight gain, diabetes during pregnancy, delivery, birth weight, maternal smoking, maternal dietary patterns, exposure to maternal intestinal microbiome and antibiotics, and stress maternal psychosocial factors are related to the child’s body composition. Moreover, prenatal biological risk factors can interact with environmental and behavioral factors, in addition to postnatal risk factors, and contribute to the development of obesity23-27. In addition, the microbiota in human intestine plays an important role in adipogenesis. Evidence links prenatal exposure to antibiotics with the risk of childhood obesity28-37. Given that these drugs alter the normal microbial colonization of the newborn’s intestine. There is evidence that exchanges in the intestinal microbiota of mother and child occur at birth, in the case of vaginal or cesarean delivery, by contact with the vaginal/fecal and skin microbiota28,38,39, which would not explain the prenatal bond of antibiotics with childhood obesity. However, studies40-45 have shown the presence of microorganisms in the amniotic fluid, in the umbilical cord blood, in the placental membrane, in meconium, and in the fetus, thus questioning the idea of sterility in the uterus. In this perspective, it is possible that the maternal-fetal exchange of microbiota may occur before birth. If that really happens, antibiotics used in the prenatal period can cross the placental barrier and enter fetal circulation, with a risk for childhood obesity. However, in the present study, the occurrence of infectious diseases during pregnancy was not associated to the studied outcome. Just like in the present study, another study with a sample from the same population10, but with a cross-
+
+sectional design, did not observe statistically significant differences between nutritional status and type of delivery46. In relation to smoking during pregnancy, there is evidence of its association with childhood obesity, suggesting a greater direct intrauterine impact of maternal smoking compared to paternal or someone smoking in the house47,48. For children to present the problem prenatal exposure has to occur47-49. In addition, smoking is associated to several sociodemographic factors and lifestyle, and smokers have less healthy diets47. The effect of smoking on the risk of overweight in children is not clear, but the exposure of the fetus to nicotine has long-term effects on the control of consumption and eating habits50. However, the results of smoking cessation during pregnancy have not shown any important effects on childhood overweight50. In the present study, the higher frequency of smoking was not associated to an increased risk of overweight in children. Studies51-53 found an association between birth weight and childhood obesity. In the present study, this association was not observed. However, high birth weight has the potential to identify children at higher risk for obesity, which may be opportune to modify eating behaviors and control weight gain. The association between diabetes and childhood obesity is related to maternal obesity and excess weight gain during pregnancy54,55. Exposure to high concentration of glucose, fatty acids, and amino acids can compromise appetite regulation, energy balance, and body weight56. When comparing obese and non-obese mothers before pregnancy, obese mothers’ children were three times more likely to be overweight, a characteristic that persists in the child’s growth and development57. In the present study, no statistically significant associations were found. The variables that were shown to be statistically associated to the outcome in the bivariate analysis were: mother’s age during pregnancy, mother’s report of the occurrence
+
+of pregnancy problems, and the Apgar score in the first minute. Nonetheless, only one variable remained associated in the multivariate analysis. Children with Apgar scores under 7 in the first minute were 36% more at risk of being overweight in school years. The literature does not present similar data that allows comparison. Although incipient and cautious, Barker’s hypothesis8 could be represented here. Further studies involving other populations and with larger samples are needed to continue exploring this possibility. It could be more appropriate to explain this association with the subjective meaning, for mothers, of what it means for their children to be born with less vitality. A child in this condition could offer greater protection on the part of the family, which, hypothetically, could be represented by more permissive attitudes, even related to a diet rich in sugars and fats. On the other hand, the genetic patterns of chronic diseases are transmitted by signals from epigenetics, which work by mechanisms that differ as to the content of information and influence cell physiology by means of positive or negative behavior58,59. Reproductive health seeks to understand which mechanisms can activate or deactivate parts of the genetic program. Organisms undergo two events of epigenetic reprogramming in development. The first, in gametogenesis, is a microenvironment with precision, which allows the transmission of information that will be inherited, important for epigenetic information specific to parents58,59. The second, in the pre-implantation of the embryo, which includes a series of decisions about the cell destiny at the beginning of development and is maintained by several cell divisions. Epigenetics plays a role in cellular memory during development60, but the environmental and metabolic conditions of pregnancy shape epigenetic reprogramming and influence health, the child’s life, and the etiology of diseases61-63. Thus, the transgenerational effects of epigenetics, when inherited from the third generation onwards, can no longer be described by direct environmental exposure64. Therefore, when
+
+studying childhood obesity incidence, relating it to the various etiological possibilities for coping with the world epidemic experienced is essential. There are different processes that preserve the memory of environmental impacts and probable interaction with other factors. A subnormal environment during preconception, pregnancy, childhood, and adolescence, critical periods for one’s development, can irreversibly predispose to risk factors for diseases in adulthood. If epigenetic marks are reversible, the consequences of changes in morphogenesis or in the cell may be irreversible61-63. The results of the present study, by not strongly showing the influence of prenatal factors, reinforce the proximal environmental aspects in determining overweight in children. The imbalance between calorie intake and expenditure, determined by diet, basal metabolism, and physical activity, remains the factor with the greatest explanatory power23-27. These factors, supported by the Life Course Approach9, which is based on the accumulation of risks during life, mainly highlight the interaction between biological and social factors in the different stages of life than the current lifestyle of people. Therefore, there is scientific evidence23-27 demonstrating that the course of life as from conception needs to be studied to identify risk or protective environments for the development of childhood obesity. Seen that, stating that unhealthy diets, physical inactivity, and smoking are confirmed risk behaviors is possible47,48,54-56. On the other hand, the biological, psychological, and social risk factors that involve both the pregnant woman and the child may have an important role in their determination23-27, although not confirmed in the present study. In addition, such conditions, when impacting both the beginning of life and its course, can have negative effects throughout it and affect the next generation’s health58-63. Globally, with the trend towards greater exposure to obesity risk factors at different stages of life, particularly in childhood, providing appropriate environments as from the beginning of life is of utmost importance. Effective interventions that extend beyond individual risk factors
+
+remain essential. Thus, together with the knowledge already accumulated, it is possible to understand that the determinants of overweight comprise a set of genetic, epigenetic, biological, behavioral, and environmental factors that can interrelate and potentiate each other as from the earliest stages of life. The results of the present study need to be interpreted with caution due to some limitations. First, sample size may have been insufficient to enable the phenomena to appear. Second, there was lack of data before and after an observation period, common in disease incidence studies. Third, considering this is a cohort with a mixed design, prenatal data were collected retrospectively in a recall way, which allows the introduction of measurement bias. The first anthropometric data were collected at the age of six, and obtaining information about weight up to that age was not possible, making it impossible to map the entire trajectory of children. Furthermore, this study may have underestimated the impact of socioeconomic status in determining overweight by including only a few variables, such as education and occupation of parents at birth.
+
+CONCLUSION
+
+Overweight incidence in school years was high, accounting for 17.1%, whereas obesity, for 2.2%. Prenatal factors were not associated to incidence, with the exception of Apgar score in the first minute.
+
+
+
+AUTHORS’ CONTRIBUTION
+
+João Ghizzo Filho contributed substantially to the design and planning, analysis and interpretation of data; and with the preparation of the draft and critical review of the content; and to the approval of the manuscript’s final version. Eliane Traebert contributed substantially to the design and planning, analysis and interpretation of data; and to the approval of the manuscript’s final version. Nazaré Otília Nazário contributed significantly to the critical review of the content; and to the approval of the manuscript’s final version. Altaiana Portella da Rosa Flôres contributed substantially to data collection and critical review of content; and to the approval of the manuscript’s final version. Jefferson Traebert contributed substantially to the conception and planning, analysis and interpretation of data, with the elaboration of the draft and the critical review of the content; and to the approval of the manuscript’s final version.
+
+REFERENCES
+
+1. Organização Pan-Americana de Saúde, Organização Mundial de Saúde. Plano de ação para prevenção da obesidade em crianças e adolescentes [Internet]. Washington, D.C.: OPAS; 2014 [accessed on July 28, 2020]. Available on: https://www.paho.org/bra/images/stories/UTFGCV/planofactionchildobesity-por.pdf?ua=1
+
+2. Organização Pan-Americana de Saúde, Organização Mundial de Saúde. Obesity and overweight fact sheet [Internet]. Washington, D.C.: OPAS [accessed on March 12, 2018]. Available on: https://www.who.int/en/news-room/fact-sheets/detail/obesity-and-overweight 3. Guerra PH, Silveira JAC, Salvador P. Physical activity and nutrition education at the school environment aimed at preventing childhood obesity: evidence from systematic reviews. J Pediatric 2016; 92(1):15-23. https://doi.org/10.1016/j.jped.2015.06.005 4. Conde WL, Borges C. The risk of incidence and persistence of obesity among Brazilian adults according to their nutritional status at the end of adolescence. Rev Bras Epidemiol 2011; 14(Supl. 1):71-9. https://doi.org/10.1590/S1415-790X2011000500008 5. Instituto Brasileiro de Geografia e Estatística. Pesquisa de orçamentos familiares 2008- 2009: Antropometria e estado nutricional de crianças, adolescentes e adultos no Brasil [Internet]. Brasil: IBGE; 2010 [accessed on July 28, 2020]. Available on: http://www.ibge.gov.br/home/estatistica/populacao/condicaodevida/pof/2008_2009_encaa/po f_20082009_encaa.pdf 6. Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica. Diretrizes brasileiras de obesidade 2009/2010. 3. ed. Itapevi: Ac Farmacêutica; 2009. 7. Rhee KE, Phelan S, McCaffery J. Early determinants of obesity: genetic, epigenetic, and in utero influences. Int J Pediatr 2012; (21):ID463850. https://doi.org/10.1155/2012/463850 8. Barker DJP. Mother, babies and health in later life. Edimburgo: Church Livingstone; 1998. 9. Kuh D, Ben-Shlomo Y. Life course approach to chronic disease epidemiology. Nova York: Oxford University Press; 2004. 10. Traebert J, Lunardelli SE, Martins LGT, Santos K, Nunes RD, Lunardelli AN, et al. Methodological description and preliminary results of a cohort study on the influence of the first 1,000 days of life on the children's future health. An Acad Bras Cienc 2018; 90(3):3105- 14. https://doi.org/10.1590/0001-3765201820170937
+
+11. Instituto Nacional de Metrologia, Qualidade e Tecnologia. Serviços prestados pela Metrologia Legal [Internet]. Brasília: Instituto Nacional de Metrologia, Qualidade e Tecnologia; 2012 [Accessed on July 28, 2020]. Available on: http://www.inmetro.gov.br/metlegal/servicoApreciacao.asp 12. World Health Organization. Physical Status: the use and interpretation of anthropometry. Genebra: World Health Organization; 1995. (Technical Report Series, 854). 13. Sociedade Brasileira de Pediatria. Departamento de Nutrologia. Avaliação nutricional da criança e do adolescente: manual de orientação. São Paulo: Sociedade Brasileira de Pediatria; 2009. 112 p. 14. Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica. Políticas públicas para o enfrentamento da obesidade infantil no Brasil: seminário de obesidade infantil [Internet]. Brasil: Ministério da Saúde; 2013 [Accessed on July 28, 2020]. Available on: https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes- permanentes/cssf/seminario-e-outros-eventos/seminarios-e-outros-eventos- anteriores/seminario-2013/seminario-22.10/apresentacao-6 15. Organização Mundial da Saúde. Obesity and overweight. Genebra: Organização Mundial da Saúde; 2017 [Accessed on Aug 20, 2020]. Available on: http://www.who.int/mediacentre/factsheets/fs311/en/ 16. Instituto Brasileiro de Geografia e Estatística. Pesquisa de Orçamentos Familiares 2008- 2009. Análise do Consumo Alimentar Pessoal no Brasil [Internet]. Brasília: Instituto Brasileiro de Geografia e Estatística; 2011 [Accessed on Aug 28, 2020]. Available on: http:www.ibge.gov.br/home/presidencia/noticias/.../0000000108.pdf 17. Cheung PC, Cunningham SA, Naryan KM, Kramer MR. Childhood Obesity Incidence in the United States: A Systematic Review. Child Obes 2016; 12(1):1-11. https://dx.doi.org/10.1089%2Fchi.2015.0055
+
+18. Strauss RS, Knight J. Influence of the home environment on the development of obesity in children. Pediatrics 1999; 103(6):e85. https://doi.org/10.1542/peds.103.6.e85 19. Van Cleave J, Gortmaker SL, Perrin JM. Dynamics of Obesity and Chronic Health Conditions Among Children and Youth. JAMA 2010; 303(7):623-30. https://doi.org/10.1001/jama.2010.104 20. Cunningham SA, Kramer MR, Narayan KM. Incidence of childhood obesity in the United States. N Engl J Med 2014; 370(5):403-11. https://doi.org/10.1056/NEJMoa1309753 21. Do LM, Tran TK, Eriksson B, Petzold M, Ascher HBMC. Prevalence and incidence of overweight and obesity among Vietnamese preschool children: a longitudinal cohort study. Pediatr 2017; 17(1):150. https://doi.org/10.1186/s12887-017-0904-y 22. Baidal JA, Taveras EM. Childhood obesity: shifting the focus to early prevention. Arch Pediatr Adolesc Med 2012; 166(12):1179-81. https://doi.org/10.1001/2013.jamapediatrics.358 23. Burton BT, Foster WR, Hirsch J, Van Itallie TB. Health implications of obesity: an NIH Consensus Development Conference. Int J Obes 1985; 9(3):155-70. 24. Wacholder S. Binomial regression in glim: estimating risk ratios and risk differences. Am J Epidemiol 1986; 123(1):174-84. https://doi.org/10.1093/oxfordjournals.aje.a114212 25. Mokdad AH, Serdula MK, Dietz WH, Bowman BA, Marks JS, Koplan JP. The spread of the obesity epidemic in the United States, 1991-1998. JAMA 1999; 282(16):1519-22. https://doi.org/10.1001/jama.282.16.1519 26. Ogden CL, Carroll MD, Curtin LR, Lamb MM, Flegal KM. Prevalence of high body mass index in US children and adolescents, 2007-2008. JAMA 2010; 303(3):242-9. https://doi.org/10.1001/jama.2009.2012
+
+27. Snyder EE, Walts B, Pérusse L, Chagnon YC, Weisnagel SJ, Rankinen T, et al. The Human Obesity Gene Map: The 2003 Update. Obes Res 2004; 12(3):369-439. https://doi.org/10.1038/oby.2004.47 28. Dominguez-Bello MG, Costello EK, Contreras M, Magris M, Hidalgo G, Fierer N, et al. Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns. Proc Natl Acad Sci U S A 2010; 107(26):11971-5. https://doi.org/10.1073/pnas.1002601107 29. Ajslev TA, Andersen CS, Gamborg M, Sorensen TI, Jess T. Childhood overweight after establishment of the gut microbiota: the role of delivery mode, prepregnancy weight and early administration of antibiotics. Int J Obes (Lond) 2011; 35(4):522-9. https://doi.org/10.1038/ijo.2011.27 30. Cho I, Yamanishi S, Cox L, Methé BA, Zavadil J, Li K, et al. Antibiotics in early life alter the murine colonic microbiome and adiposity. Nature 2012; 488(7413):621-6. https://doi.org/10.1038/nature11400 31. Ridaura VK, Faith JJ, Rey FE, Cheng J, Duncan AE, Kau AL, et al. Gut microbiota from twins discordant for obesity modulate metabolism in mice. Science 2013; 341(6150):1241214. http://dx.doi.org/10.1126/science.1241214 32. Blustein J, Attina T, Liu M, Ryan AM, Cox LM, Blaser MJ, et al. Association of caesarean delivery with child adiposity from age 6 weeks to 15 years. Int J Obes 2013; 37(7):900-6. https://dx.doi.org/10.1038%2Fijo.2013.49 33. Li H, Zhou Y, Liu J. The impact of cesarean section on offspring overweight and obesity: a systematic review and meta-analysis. Int J Obes 2013; 37(7):893-9. https://doi.org/10.1038/ijo.2012.195
+
+34. Trasande L, Blustein J, Liu M, Corwin E, Cox LM, Blaser MJ. Infant antibiotic exposures and early-life body mass. Int J Obes (Lond) 2013; 37(1):16-23. https://doi.org/10.1038/ijo.2012.132 35. Murphy R, Stewart AW, Braithwaite I, Beasley R, Hancox RJ, Mitchell EA, et al. Antibiotic treatment during infancy and increased body mass index in boys: an international cross-sectional study. Int J Obes (Lond) 2014; 38(8):1115-9. https://doi.org/10.1038/ijo.2013.218 36. Darmasseelane K, Hyde MJ, Santhakumaran S, Gale C, Modi N. Mode of delivery and offspring body mass index, overweight and obesity in adult life: a systematic review and metaanalysis. PLoS One 2014; 9(2):e87896. https://doi.org/10.1371/journal.pone.0087896 37. Azad MB, Bridgman SL, Becker AB, Kozyrskyj AL. Infant antibiotic exposure and the development of childhood overweight and central adiposity. Int J Obes 2014; 38(10):1290-8. https://doi.org/10.1038/ijo.2014.119 38. Palmer C, Bik EM, DiGiulio DB, Relman DA, Brown PO. Development of the human infant intestinal microbiota. PLoS Biol 2007; 5(7):e177. https://doi.org/10.1371/journal.pbio.0050177 39. Biasucci G, Rubini M, Riboni S, Morelli L, Bessi E, Retetangos C. Mode of delivery affects the bacterial community in the newborn gut. Early Hum Dev 2010; 86(Supl. 1):13-5. https://doi.org/10.1016/j.earlhumdev.2010.01.004 40. Jiménez E, Fernández L, Marín ML, Martín R, Odriozola JM, Nueno-Palop C, et al. Isolation of commensal bacteria from umbilical cord blood of healthy neonates born by cesarean section. Curr Microbiol 2005;51(4):270-4. https://doi.org/10.1007/s00284-005- 0020-3
+
+41. Steel JH, Malatos S, Kennea N, Edwards AD, Miles L, Duggan P, et al. Bacteria and inflammatory cells in fetal membranes do not always cause preterm labor. Pediatr Res 2005; 57(3):404-11. https://doi.org/10.1203/01.pdr.0000153869.96337.90 42. Jiménez E, Marín ML, Martín R, Odriozola JM, Olivares M, Xaus J, et al. Is meconium from healthy newborns actually sterile? Res Microbiol? Res Microbiol 2008; 159(3):187-93. https://doi.org/10.1016/j.resmic.2007.12.007 43. Satokari R, Gronroos T, Laitinen K, Salminen S, Isolauri E. Bifidobacterium and Lactobacillus DNA in the human placenta. Lett Appl Microbiol 2009; 48(1):8-12. https://doi.org/10.1111/j.1472-765x.2008.02475.x 44. Oh KJ, Lee SE, Jung H, Kim G, Romero R, Yoon BH. Detection of ureaplasmas by the polymerase chain reaction in the amniotic fluid of patients with cervical insufficiency. J Perinat Med 2010; 38(3):261-8. https://dx.doi.org/10.1515%2FJPM.2010.040 45. Fardini Y, Chung P, Dumm R, Joshi N, Han YW. Transmission of diverse oral bacteria to murine placenta: evidence for the oral microbiome as a potential source of intrauterine infection. Infect Immun 2010; 78(4):1789-96. https://dx.doi.org/10.1128%2FIAI.01395-09 46. Nunes RD, Traebert E, Seemann M, Traebert J. Cesarean birth and the nutritional development in childhood: results from a cohort in Southern Brazil. Rev Bras Obes Nut Emagr 2019; 13(77):40-5. 47. Oken E, Levitan E, Gillman M. Maternal smoking during pregnancy and child overweight: systematic review and meta-analysis. Int J Obes 2008; 32(2):201-10. https://doi.org/10.1038/sj.ijo.0803760 48. Riedel C, Schönberger K, Yang S, Kohsy G, Chen Y-C, Gopinath B, et al. Parental smoking and childhood obesity: higher effect estimates for maternal smoking in pregnancy compared with paternal smoking a meta-analysis. Int J Epidemiol 2014; 43(5):1593-606. https://doi.org/10.1093/ije/dyu150
+
+49. Ino T. Maternal smoking during pregnancy and offspring obesity: Meta‐analysis. Pediatr Int 2010; 52(1):94-9. https://doi.org/10.1111/j.1442-200X.2009.02883.x 50. Rückinger S, Beyerlein A, Jacobsen G, von Kries R, Vik T. Growth in utero and body mass index at age 5years in children of smoking and non-smoking mothers. Early Hum Dev 2010; 86(12):773-7. https://doi.org/10.1016/j.earlhumdev.2010.08.027 51. Stettler N, Tershakovec AM, Zemel BS, Leonard MB, Boston RC, Katz SH, et al. Early risk factors for increased adiposity: a cohort study of african american subjects followed from birth to young adulthood. Am J Clin Nutr 2000; 72(2):378-83. https://doi.org/10.1093/ajcn/72.2.378 52. Whitaker RC. Predicting preschooler obesity at birth: the role of maternal obesity in early pregnancy. Pediatrics 2004; 114(1):e29-e36. https://doi.org/10.1542/peds.114.1.e29 53. Dubois K, Girard M. Early determinants of overweight at 4.5 years in a population-based longitudinal study. Int J Obes 2006; 30(4):610-7. https://doi.org/10.1038/sj.ijo.0803141 54. Catalano PM, Thomas A, Huston-Presley L, Amini SB. Phenotype of infants of mothers with gestational diabetes. Diabetes Care 2007; 30(Suppl. 2):S156-60. https://doi.org/10.2337/dc07-s209 55. Muktabhant B, Lawrie TA, Lumbiganon P, Laopaiboon M. Diet or exercise, or both, for preventing excessive weight gain in pregnancy. Cochrane Database Syst Rev 2015; (6):CD007145. https://doi.org/10.1002/14651858.cd007145.pub3 56. Lawlor DA, Smith GD, O’Callaghan M, Alati R, Mamun AA, Williams GM, et al. Epidemiologic evidence for the fetal over nutrition hypothesis: findings from the mater- university study of pregnancy and its outcomes. Am J Epidemiol 2007; 165(4):418-24. https://doi.org/10.1093/aje/kwk030
+
+57. Yu Z, Han S, Zhu J, Sun X, Ji C, Guo X. Pre-pregnancy body mass index in relation to infant birth weight and Offspring overweight/obesity: a systematic review and meta-analysis. PloS One 2013; 8(4):e61627. https://doi.org/10.1371/journal.pone.0061627 58. Hogg K, Western OS. Refurbishing the germline epigenome: Out with the old, in with the new. Semin Cell Dev Biol 2015; 45:104-13. https://doi.org/10.1016/j.semcdb.2015.09.012 59. Monk D. Germline-derived DNA methylation and early embryo epigenetic reprogramming: The selected survival of imprints. Int J Biochem Cell Biol 2015; 67:128-38. https://doi.org/10.1016/j.biocel.2015.04.014 60. Hales BF, Grenier L, Lalancette C, Robaire B. Epigenetic programming: from gametes to blastocyst. Birth Defects Res A Clin Mol Teratol 2011; 91(8):652-65. https://doi.org/10.1002/bdra.20781 61. Mishra PK. A pragmatic & translational approach of human biomonitoring to methyl isocyanate exposure in Bhopal. Indian J Med Res 2012; 135(4):479-84. 62. Mishra PK, Raghuram GV, Bunkar N, Bhargava A, Khare NK. Molecular bio-dosimetry for carcinogenic risk assessment in survivors of Bhopal gas tragedy. Int J Occup Med Environ Health 2015; 28(6):921-39. https://doi.org/10.13075/ijomeh.1896.00313 63. Bunkar N, Bhargava A, Khare NK, Mishra PK. Mitochondrial anomalies: driver to age associated degenerative human ailments. Front Biosci 2016; 21:769-93. https://doi.org/10.2741/4420 64. Skinner MK. Environmental epigenetic transgenerational inheritance and somatic epigenetic mitotic stability. Epigenetics 2011; 6(7):838-42. https://doi.org/10.4161/epi.6.7.16537

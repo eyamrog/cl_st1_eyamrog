@@ -1,0 +1,200 @@
+Status: Preprint has been submitted for publication in journal INCIDENCE OF DEEP VEIN THROMBOSIS IN FLOATING KNEE Jonatas Brito de Alencar Neto, Rèjelos Chales Aguiar Lira, Rafael da Silva Cavalvante, Marcio Bezerra Gadelha Lopes, Clodoaldo José Duarte de Sousa, Diego Ariel de Lima https://doi.org/10.1590/SciELOPreprints.1523 This preprint was submitted under the following conditions: The authors declare that they are aware that they are solely responsible for the content of the preprint and that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its preservation and dissemination. The authors declare that the research that originated the manuscript followed good ethical practices and that the necessary approvals from research ethics committees are described in the manuscript, when applicable. The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in the research were obtained and are described in the manuscript, when applicable. The authors declare that the preparation of the manuscript followed the ethical norms of scientific communication. The authors declare that the manuscript was not deposited and/or previously made available on another preprint server. The submitting author declares that all authors responsible for preparing the manuscript agree with this deposit. The authors declare that in the event that this manuscript has previously been submitted to a journal and being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints server. The submitting author declares that all authors' contributions are included on the manuscript. The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available under a Creative Commons CC-BY license. The deposited manuscript is in PDF format. If the manuscript is being reviewed and published by a journal, the authors declare that they have received authorization from the journal to make this deposit. Submitted on (YYYY-MM-DD): 2020-12-02 Posted on (YYYY-MM-DD): 2020-12-02 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+Original Article INCIDENCE OF DEEP VEIN THROMBOSIS IN FLOATING KNEE
+INCIDÊNCIA DE TROMBOSE VENOSA PROFUNDA EM JOELHO FLUTUANTE
+JONATAS BRITO DE ALENCAR NETO 1, 2 http://orcid.org/0000-0003-3318-5067
+RÉJELOS CHARLES AGUIAR LIRA 1 https://orcid.org/0000-0001-8593-9460
+RAFAEL DA SILVA CAVALCANTE 1 http://orcid.org/0000-0002-5669-3294
+MARCIO BEZERRA GADELHA LOPES 1, 2 https://orcid.org/0000-0002-4702-0290
+CLODOALDO JOSÉ DUARTE DE SOUSA 1 https://orcid.org/0000-0001-6678-9268
+DIEGO ARIEL DE LIMA 3, * https://orcid.org/0000-0002-5702-1529
+1. IJF. Grupo de Joelho, Instituo Doutor José Frota, Fortaleza, Ceará, Brasil. 2. Clínica Articular, Grupo de Joelho, Fortaleza, Ceará, Brasil 3. UFERSA. Universidade Federal Rural do Semi-Árido. Mossoró, Rio Grande do Norte, Brasil.
+
+* Corresponding Author: Diego Ariel de Lima. UFERSA. Universidade Federal Rural do Semi-Árido. Endereço: R. Francisco Mota, 572, Pres. Costa e Silva, Mossoró - RN, CEP: 59625-900, BRAZIL e-mail: arieldelima.diego@gmail.com SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+
+Data de submissão: 27/10/2019 Data de aceite: 14/07/2020
+Os autores declaram não haver conflito de interesses.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+
+ABSTRACT Objective: To report the incidence between Deep Vein Thrombosis (DVT) in ipsilateral femur and tibia fractures (floating knee), considering its relation with hospitalization time, fracture classification, treatment implemented and comorbidities. Methods: This is a retrospective observational analytical study using the medical charts of thirty patients admitted with floating knee to a trauma hospital between October 2016 and July 2017. Results: Of the 30 patients assessed, 25 (83%) were men and 5 (17%) women. The most affected age range was between 21 and 30 years (36%). The dominant limb was affected in 17 (57%) patients. A total of 19 (63%) patients were classified as Fraser type I, 18 (60%) had open (compound) fractures, 16 (53%) fractures of the tibia and 8 (26%) of the femur. The most widely used emergency treatment was external fixation of the femur and tibia (25 patients = 83%). Seven patients used a femur plate and external fixator in the tibia as definitive treatment. Of the 30 patients studied, 14 (46%) suffered infectious complications, 9 (30%) superficial and 5 (16%) deep. Deep venous thrombosis was observed in 17% of patients (p=0.409). Conclusion: Despite the use of antithrombotic prophylaxis, there was a high incidence of DVT in the affected limb of patients with floating knee. Fraser I fractures, being male and the non-dominant limb increases the likelihood of developing DVT. Level of Evidence: Level I Keywords: vein thrombosis, knee trauma, bone fractures.
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+RESUMO Objetivo: Relatar a incidência de trombose venosa profunda (TVP) em fratura ipsilateral de fêmur e tíbia (joelho flutuante), levando-se em conta sua relação com o tempo de internação, com a classificação da fratura, o tempo para fazer o procedimento cirúrgico, o tratamento implementado e com as comorbidades. Materiais e métodos: Realizado um estudo retrospectivo, observacional e analítico por meio da avaliação de prontuários de trinta pacientes admitidos com joelho flutuante em um hospital de trauma durante o período de outubro de 2016 a julho de 2017. Resultados: Dos 30 pacientes avaliados, foi observado que 25 (83%) dos pacientes eram do gênero masculino e 5 (17%) dos pacientes eram do gênero feminino. A faixa etária mais acometida foi entre 21 e 30 anos (36%). O acometimento do membro dominante ocorreu em 17 (57%) dos pacientes avaliados. Dezenove (63%) pacientes acometidos foram classificados como Fraser Tipo I. Dezoito (60%) pacientes tiveram fratura exposta, sendo 16 (53%) em tíbia e 8 (26%) em fêmur. O tratamento mais utilizado como urgência foi o de controle de danos com fixador externo em fêmur e tíbia (25 pacientes ou 83%). Sete pacientes utilizaram placa no fêmur e fixador externo na tíbia como tratamento definitivo. Dos 30 pacientes estudados, 14 (46%) tiveram complicações infecciosas, sendo 9 (30%) superficiais e 5 (16%) profundas. Observamos trombose venosa profunda em 17% dos pacientes (p=0,409). Conclusão: Apesar do uso da profilaxia antitrombótica medicamentosa, houve uma grande incidência de TVP no membro acometido em pacientes com joelho flutuante na população estudada. As fraturas classificadas como Fraser I, pacientes do sexo masculino e o membro não dominante levaram ao aumento da probabilidade do surgimento de TVP. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+Nível de Evidência: Nível I Palavras-chave: trombose venosa, traumatismo de joelho, fraturas ósseas. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+INTRODUCTION One of the main complications of lower limb fractures is Deep Vein Thrombosis (DVT)1, which may result in risk of death, such as pulmonary thromboembolism2. DVT has a direct relation with high-energy trauma3. A number of protocols are used to avoid this complication, the most common being the routine use of anticoagulants in prophylactic doses, such as low molecular weight heparin. Despite the high cost, this measure is effective in preventing DVT, lowering treatment costs and avoiding morbidity with considerable risk of death or permanent sequelae to the patient4. Ipsilateral femur and tibia fractures, described by Blake and McBryde in 1975 as floating knee5, are associated with high-energy mechanisms6 and as such, a greater relation with DVT is expected. Fraser classified floating knee into 2 types. Type I is characterized by diaphyseal femur and tibia fractures, while type II affects the knee joint and is subdivided into type IIA; diaphyseal femur and intra-articular tibia fractures; IIB: intra-articular fractures of the femur and diaphyseal of the tibia and IIC: intra-articular femur and tibia fractures7. The aim of the study is to retrospectively relate the association between deep vein thrombosis (DVT) and ipsilateral fracture of the femur and tibia (floating knee) in patients under antithrombotic therapy.
+
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+MATERIALS AND METHODS This is a retrospective cross-sectional analytical study of patients treated in Fortaleza Ceará state (CE) Brazil, at a tertiary trauma referral hospital, between October 2016 and July 2017. During this time, 37 floating knee patients were treated.
+All the patients diagnosed with floating knee and admitted to the hospital during the aforementioned period were included in the study. Diagnosis was conducted using anteroposterior radiographs (AR) and a profile of leg and femur bones of the affected limb.
+Exclusion criteria were patients with pre-fracture clinical comorbidities that could interfere in the incidence of complications (diabetes, thrombophilia, hemophilia, smoking), and prior history of thromboembolic events.
+A total of 30 patients who met the inclusion criteria participated in the study.
+The following data were collected from the patients´ medical charts: age, sex, side affected, Fraser's classification of fractures, trauma mechanism, type of fracture (open or closed), treatment used for fractures in urgent care, definitive treatment of fractures and complications (superficial infection, deep infection and DVT). Subcutaneous antithromboembolic prophylaxis was performed on all the patients, using enoxaparin (40mg/day) (30 patients) during hospitalization since the day of admission and maintained for 2 months, if the patient does not present any complications, according to the institution's protocol. DVT diagnosis was considered after clinical complaints (pain and rigidity) and confirmed with direct visualization of the venous thrombosis by Doppler ultrasound.
+The data were stored in the Statistical Package for the Social Sciences program (SPSS, NY, USA) version 18.0 and tabulated in Microsoft Excel 2007 (Microsoft, WA, SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+USA), calculating the percentage frequency for the categorical variables. Associations between the variables were carried out using Pearson’s chi-squared test. A p-value < 0.05 was considered statistically significant in all the analyses.
+The study was approved by the Research Ethics Committee under protocol number 2.259.144 and written informed consent was obtained from the Medical Chart sector of the institution.
+
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+RESULTS Of the 30 patients assessed, 25 (83%) were men and 5 (17%) women. The most affected age range was between 21 and 30 years (36%). The dominant limb was affected in 17 (57%) patients. Fraser’s classification showed that most patients were classified as type I, that is, extra articular femur and tibia fractures (Graph 1). Graph 1: Fraser classification for the patients studied
+
+A total of 18 (60%) patients had open fractures, 16 (53%) in the tibia and 8 (26%) in the femur. Of the open tibia fractures, five were grade I Gustillo & Anderson8, seven grade II and six Grade IIIa. Five of the open femur fractures were grade II and 3 grade IIIa. The most widely used emergency treatment was external fixation of the femur and tibia (25 patients = 83%). The most frequently used definitive treatment was a femur plate and external fixator in the tibia of 7 patients (23%) (Table 1). One of the patients 63% 10% 10% 17% FRASER CLASSIFICATION I IIA IIB IIC SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+suffered clinical complications due to severe infection and soft tissue necrosis, requiring suprapatellar amputation after venous Doppler ultrasound (negative for DVT). The average time to convert to the definitive treatment was 8.14 days, with a maximum and minimum of 22 and 2 days, respectively. The vast majority of patients (70%) suffered high-energy motorcycle accident trauma. (Graph 2) (Table 1). Graph 2: Floating knee patients according to trauma mechanism
+
+In the 30 cases, the average consolidation time was 19.4 (16-25) weeks for the femur and 16.2 (13-20) weeks for the tibia. There were 2 cases of pseudoarthrosis of the femur, 1 treated with an autologous graft of the iliac crest and 1 with bone transport, and 3 cases of pseudoarthrosis of the tibia, all treated with autologous graft and subsequent consolidation. Of the 30 patients studied, 14 (46%) suffered infectious complications, 9 (30%) superficial and 5 (16%) deep. Oral antibiotic treatment and local care were implemented 10% 70% 14% 3% 3% TRAUMA MECHANISM Run over Motorcycle accident Automobile accident Gunshot wound Fall from height SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+for cases of superficial infection, while for deep infection, the procedure consisted of surgical debridement when S. aureus was identified in culture. Endovenous antibiotic therapy was applied for 4 weeks and oral for a further 2, guided by the antibiogram. One of the patients suffered vascular lesion of the popliteal artery at the moment of trauma, which was submitted to revascularization 3 hours after trauma. The same patient exhibited DVT and deep infection. Four patients presented with neurological lesion within the territory of the deep fibular nerve and recovered spontaneously after expectant treatment during outpatient follow-up. All were Fraser type IIC. Of the patients analyzed, Doppler ultrasound detected DVT in 5 of them (17%), cases 3,5,7,11,22 in Table 1 (p = 0.409). Of these, four cases were in a deep leg vein and one in a deep thigh vein. All the DVT cases were diagnosed between the second and fourth week post-trauma. All five patients affected by DVT were men (p = 0.209), traffic accident victims (p = 0.372) and treated in emergency with an external fixator (p = 0.570). In two of these patients, conversion to internal synthesis was precluded due to the severity of the skin injury (cases 3 and 22) and an external fixator was used as definitive treatment. The definitive treatment applied in three cases was plate/screw in the femur and external fixator in the tibia; osteosynthesis with retrograde intramedullary nail in the femur; and plate/screw in the tibia and external fixator, respectively. Of the patients with DVT, 80% were classified as Fraser I and 20% Fraser IIC (p=0.480). All of these patients suffered high-energy trauma, and 60% and 40% of the cases were motorcycle and automobile accident victims, respectively (p = 0.372). SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+Clinical treatment in four of the cases consisted of full heparinization (60mg/day) and one was submitted to vena cava filter placement. In the converted cases for internal synthesis, surgery was performed after DVT diagnosis and treatment, and authorization by the vascular surgery team of the institution.
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+DISCUSSION:
+We demonstrated that male patients classified as Fraser I are more likely to develop DVT and exhibit high indices of associated injury, primarily other fractures. These are uncommon injuries of unknown incidence. In addition, there is greater chance of other associated injuries in these patients, such as organ damage with possible risk of death9. In the present study, most of the patients were men in their 30s. This was also observed in another study, which found 238 cases of floating knee, and a predominance of men (85%) in their 30s (45%). The present study showed that most patients were victims of high-energy traffic accident trauma, primarily involving motorcycles. These data corroborate those of Rethnam et al.11, who found that 27 of 29 cases of floating knee were also traffic accident victims. In another retrospective study with 172 cases of floating knee, 71.5% were Fraser type I, 8.2% IIA, 11.2% IIB and 8.7% IIC12. A similar relation was found in the present study since most of the cases were classified as Fraser type I (63%). The emergency treatment used here in the vast majority of patients was external fixation, which may be due to the severity on arrival of the patient, since most were victims of high-energy trauma (Table 1). Similar findings were reported by Marco et al.13, in which 64.71% of patients with floating knee were treated with external fixation to stabilize fractures on arrival at the hospital. Kapoor et al.14 studied 125 patients with lower limb fractures, finding DVT positivity in 6 cases. The study consisted of 47 patients with periacetabular fractures, where 4 (8.51%) developed DVT and 8 sustained floating knee, 2 of whom developed SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+DVT. These patients did not receive antithrombotic prophylaxis. The present study exhibited a DVT incidence of 17% in patients with floating knee, even with the use of antithrombotic prophylaxis. The variables analyzed (sex, dominant limb affected, Fraser classification, trauma mechanisms and emergency treatment) were not statistically significant as risk factors for developing DVT in patients with floating knee in the sample under study. Donath et al. reported the use of fondaparinux with a higher number of distal thrombotic events in the context of orthopedic surgery compared to enoxaparin as antithrombotic prophylaxis15. However, no statistical significance was found for this relation in the present study. Early diagnosis and treatment of DVT may directly interfere in decreasing complications related to this condition16. The five patients diagnosed by venous Doppler ultrasound exhibited no symptoms of pulmonary thromboembolism The main limitation of the investigation was the short follow-up, given that this is a retrospective study. The initial fixation method with an external fixator is also a negative factor due to prolonged restriction and immobilization17, in addition to not verifying the presence of other associated lesions, such as knee ligament injuries. We also emphasize that the incidence found may be higher, since the Doppler ultrasound was only used in symptomatic cases. Nevertheless, we presented a large number of cases of an infrequent lesion with a significant amount of data. We plan to conduct a prospective randomized study with a larger number of cases in the near future.
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+CONCLUSION
+Despite the fact that antithrombotic prophylaxis was used in these patients, there was a high incidence of deep vein thrombosis in those with floating knee. Fraser I fractures, being male and the non-dominant limb increases the likelihood of developing DVT.
+Declaration of contribution of the authors AUTHORS’ CONTRIBUTIONS: JBAN (0000-0003-3318-5067)* and RSC (0000-0002-5669- 3294)* were the main writers of the manuscript. RCAL, FMGCF (0000-0001-6781- 789X)*, and FRBM (0000-0001-9511-3769)* collected data and monitored the patients. RACL, RSC and FMGCF assessed statistical analysis data and performed the bibliographic survey. CJDS (0000-0001-6678-9268)* and RCAL (0000-0001-8593-9460)* and DAL (0000-0002-5702-1529)* contributed with the concept of the study and revised the manuscript. *ORCID (Open Research and Contributor ID) number.
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+REFERENCES 1. Blackwell JR, Javal P, Quicley JP, Patel A, Mcbride D. Patient compliance with venous thromboembolism prophylais (VTE), J Clin Orthop Trauma. 2017 Apr-Jun;8(2):201-205. 2. Park MS, Owen BA, Ballinger BA, Sarr MG, Schiller HG, Zietlow SP, et al. Quantification of hypercoagulable state after blunt trauma: microparticle and trombin generation are increased relative to injury severity, while stardand markers are not. Surgery. 2012; 151: 831-836. 3. Testnoote M, Stiger WAH, Janssen L, Janzing HMJ, Low molecular weigth heparine for prevention of venous thomboembolism in patient with lower-leg immobilization. Cochrane Database Syst Rev. 2014 Apr; 25:4. 4. Probe R, Ciceri D. Venous thromboembolic disease in patients with skeletal trauma. In: Rockwood and Green’s fractures in adults. 8a ed. Philadelphia: Lippincott Raven Publishers; 2015. 8th edition. 2015; 61: p.767-777 5. Blake R, Mcbrude A. The floating Knee: ipsilateral fractures of the tibia and femur. South Med J 1975; 68: 13-16. 6. Muñoz Vives K, Bel JC, Capel AA, Rodriguez FC, Traver JP, Schultz-Larsen M, Tosounidis T. The Floating Knee: a review on ipsilateral and tibial fractures. EFORT Open Rev 2016; 1: 375-382 7. Fraser RD, Hunter GA, Waddell JP. Ipsilateral fracture of the femur and tibia. J. Bone Joint Surg. Br. 1978; 60-B(4):510–515. 8. Gustilo RB, Anderson JT. Prevention of infection in the treatment of one thousand and twenty-five open fractures of long bones: retrospective and prospective analyses. J Bone Joint Surg Am. 1976;58:453–458. 9. YADAV, V. “ Floating Knee , ” An Uncommon Injury : Analysis of 12 Cases. 2019.. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+10. Nouraei MH, Hosseini A, Zarezadeh A, Zahiri M. Floating knee injuries: Results of treatment and outcomes. Journal of Research in Medical Sciences, 18(12), 1087–1091, 2013. 11. Rethnam U, Yesupalan, RS, Nair R. The floating knee: epidemiology, prognostic indicators & outcome following surgical management. J Trauma Manag Outcomes. 2007; 1: 2. Published online 2007 Nov 26. 12. Pietú, G, Feron JM, Bonneviale P, Jacquort F; Traumatic Floating Knee: A Review of a Multi-Centric Series of 172 Cases in Adult. The Open Orthopaedics Journal, 2015, 9, (Suppl 1: M11) 356-360. 13. De Marco FA, Rozim AZ, Piedade SR. Estabilidade articular do joelho no quadro do "joelho-flutuante". Acta ortop. bras., São Paulo, v. 16, n. 1, p. 32-36, 2008. 14. Kapoor CS, Mehta AK, Patel K, Golwala PP. Prevalence of deep vein thrombosis in patients with lower limb trauma. J Clin Orthop Trauma. 2016 Oct-Dec; 7(Suppl 2):220- 224. 15. Donath L, Lutzner J, Werth S, Kuhlisch E, Albrecht H, Gunther KP, et al. Efficacy and safety of venous thromboembolism prophylaxis with fondaparinux or low molecular weight heparin in a large cohort of consecutive patients undergoing major orthopaedic surgery- findings from the ORTHO-TEP resgitry. Br J Clin Pharmacol. 2012 Dec;74(6):947-58. 16. Cecilia B, Cohen AT, Geancario A, Howard L, Cartejon B, Trujillo-Santos J. Risk Stratification of Patients With Acute Symptomatic Pulmonary Embolism Based on Presence or Absence of Lower Extremity DVT. Systematic Review and Meta-analysis. CHEST 2016; 149(1):192-200 SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+17. Kulkarni MS, Aroor MN, Vijayan S, Shetty S, Tripathy SK, Rao SK.Variables affecting functional outcome in floating knee injuries. INJURY 2018, https://doi.org/10.1016/j.injury.2018.05.019
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+TABLE 1 – Demographic profile, injury pattern, fixation method and complications
+Variables Tibia fractures Femur fractures All patients P-value No. of patients (men/women)
+
+30 (26/4) 0,209 Age
+
+34.7 (±12-72 years) 0.452 Trauma mechanism
+
+
+0,372 MVA
+
+28
+GSW
+
+1
+Fall from height
+
+1
+Limb affected (R/L)
+
+21/9
+Dominant limb
+
+17 0.412 Associated injuries (patients with associated injury)
+
+31 (19)
+Fractures in other bones
+
+11
+TBI
+
+8
+Pelvic injury
+
+3
+Chest trauma
+
+3
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+Abdominal trauma
+
+2
+Facial trauma
+
+2
+Spinal injury
+
+1
+Other injuries
+
+1
+Time from admission to first surgery
+
+1.21 days
+Fracture pattern
+
+
+0.480 Closed 14 22
+
+Open 16 8
+
+Type I 2
+
+
+Type II 8 5
+
+Type III
+
+
+
+A 4 3
+
+B 1
+
+
+C 1
+
+
+Fixation method in the emergency room
+
+
+0.570 Isolated Ex Fix Transarticular Ex Fix 1/25 1/25
+
+HIM
+
+
+
+Plate 1 1
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org) Revista Acta Ortopédica Brasileira
+Plaster splint 3 3
+
+Conversion time
+
+8.14 (±2-22 days)
+Definitive fixation method
+
+
+0.266 External fixator 12 10
+
+IM Nailing 4 7
+
+Plate 12 12
+
+Plaster cast 1
+
+
+Amputation 1 1
+
+Consolidation time 16.2(±13-20 months) 19.4 (±16-25 months)
+
+Complications
+
+
+
+DVT 4 1 5 0.409 Infection
+
+14 0.193 Superficial
+
+9
+Deep
+
+5
+Pseudoarthrosis 3 2 5
+Vascular lesion
+
+1
+Neurological lesion
+
+4
+MVA= Motor vehicle accident; GSW= Gunshot wound; TBI= Traumatic brain injury; Ex Fix= External fixator; IM: Intramedullary nail; DVT= Deep vein thrombosis
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1523 Powered by TCPDF (www.tcpdf.org)

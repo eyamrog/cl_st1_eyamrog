@@ -1,0 +1,272 @@
+COVID-19 AND PATIENTS UNDERGOING PHARMACOLOGICAL TREATMENTS FOR IMMUNE-MEDIATED INFLAMMATORY DISEASES: PROTOCOL FOR A RAPID LIVING SYSTEMATIC REVIEW Aline Pereira da Rocha, PhD Student I Alvaro Nagib AtallahII Ana Carolina Pereira Nunes Pinto, PhD Student III César Ramos Rocha-Filho, PhD Student IV Felipe Sebastião de Assis ReisV Keilla Martins Milby, PhD Student VI Vinicius Tassoni Civile VII Nelson Carvas Junior VIII Rodolfo Rodrigo Pereira Santos IX Laura Jantsch Ferla X Giulia Fernandes Moça Trevisani XI Gabriel Sodré Ramalho XII Maria Eduarda dos Santos Puga XIII Corresponding author Virgínia Fernandes Moça Trevisani XIV
+I MSc, Pharmacist, PhD Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP) and Volunteer Researcher, Cochrane Brazil, São Paulo (SP), Brazil. http://orcid.org/0000-0002-0863-6500 II MD, MSc, PhD. Nephrologist and Full Professor, Discipline of Emergency and Evidence-Based Medicine, Escola Paulista de Medicina (EPM), Universidade Federal de São Paulo (UNIFESP), and Director, Cochrane Brazil, São Paulo (SP), Brazil. http://orcid.org/0000-0003-0890-594X III MSc, Physiotherapist, PhD Student., Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP); Professor, Biological and Health Sciences Department, Universidade Federal do Amapá (AP), Brazil and Volunteer Researcher, Cochrane Brazil, São Paulo (SP), Brazil. http://orcid.org/0000-0002-1505-877X IV MSc, Biotechnologist, PhD Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP). https://orcid.org/0000-0002-7190-0263 V MD, MPS, Technologies and Healthcare. Manager, Medical Practices, Beneficência Portuguesa de São Paulo. https://orcid.org/0000-0002-5728-4863 VI Nurse, PhD Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP) and Volunteer Researcher, Cochrane Brazil, São Paulo (SP), Brazil. https://orcid.org/0000-0003-0601-457X VII MSc, Physiotherapist, PhD Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP); Assistant Professor, Physiotherapy Course, Paulista University and Volunteer Researcher, Cochrane Brazil, São Paulo (SP), Brazil. https://orcid.org/0000-0002-1718-6281 VIII Physical Educator. Ibirapuera University. https://orcid.org/0000-0003-2168-8927 IX Statistician. MSc Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP). Data Science Manager, Synova Health CRO. https://orcid.org/0000-0003-1540-7586 X Undergratuate Medical Student, Escola Paulista de Medicina (EPM), Universidade Federal de São Paulo (Unifesp), São Paulo (SP), Brazil https://orcid.org/0000-0002-8162-2068 XI Undergraduate Medical Student at Universidade Santo Amaro, São Paulo (SP), Brazil https://orcid.org/0000-0003-3581-3047 XII Undergratuate Medical Student, Escola Paulista de Medicina (EPM), Universidade Federal de São Paulo (Unifesp), São Paulo (SP), Brazil.https://orcid.org/0000-0001-7201-2308 XIII Librarian, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP). https://orcid.org/0000-0001-8470- 861X XIV MD, MSc, PhD Rheumatologist. Discipline of Emergency and Evidence-Based Medicine, Escola Paulista de Medicina (EPM), Universidade Federal de São Paulo (UNIFESP), São Paulo (SP), Brazil http://orcid.org/0000-0002-7180-6285
+Research developed at the Brazilian Cochrane Center
+
+
+ABSTRACT
+CONTEXT AND OBJECTIVE: We propose to systematically review the available evidence to evaluate if patients with immune mediated or inflammatory diseases under pharmacological treatment with immunosuppressants, immunobiologics, DMARDs or targeted synthetic DMARDs have better or worse outcomes when infected by SARS-CoV- 2. This study is a protocol for our rapid living systematic review. METHODS: Protocol for a rapid living systematic review methodology following the preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) guidance. To conduct the rapid systematic review, we will employ abbreviated systematic review methods, including: not performing independent screens of abstracts and not searching grey literature. As this will be a living review, it will be continuously updated.
+Keywords: Immune-mediated diseases, living systematic review; COVID-19
+
+
+
+
+INTRODUCTION These days, the world is facing the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) emergency, characterized in March by the World Health Organization as a pandemic (1). It is well established in the literature that patients with compromised immune systems are more susceptible to viral infections and consequent development of severe outcomes compared with the general population. Patients with rheumatic diseases, for example, are known to present an increased infectious risk due to the disease itself and also to the iatrogenic effect of immunosuppressive agents (3). In addition, the presence of comorbidities often observed in these patients contributes to poor outcomes in viral infections (2). In contrast to this evidence, some relevant clinical reports have described patients SARS-CoV-2 positive undergoing immunosuppressed treatment with mild symptoms and/or no severe outcomes (3). In fact, the reports have discussed that immunosuppression may protect COVID-19 patients from clinical complications. Based on the knowledge of other viral infections, physicians and researchers hypothesize that antimalarial treatments, such as chloroquine, may prevent SARS-CoV- 2 infection through endocytosis (4). Moreover, it is suggested that conventional and biological Disease-Modifying Anti-Rheumatic Drugs (DMARDs) may control pro- inflammatory cytokine expression and limit tissue damage (4). Despite the propositions, many aspects of these therapies in COVID-19 continue to be pending matters. To address these gaps, we propose to systematically review the available evidence to answer the following question: ‘‘Do patients with immune mediated or inflammatory diseases under pharmacological treatment with immunosuppressants, immunobiologics, DMARDs or targeted synthetic DMARDs have better or worse outcomes when infected by SARS-CoV-2?’’ This study is a protocol for our rapid living systematic review.
+
+
+METHODS This rapid living systematic review protocol will be developed following the preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) guidance (5), and was registered in the PROSPERO ‘‘International Prospective Register of Systematic Reviews’’ platform (CRD42020179863). To conduct the rapid systematic review, we will employ abbreviated systematic review methods, including: not performing independent screens of abstracts and not searching grey literature (6). As this is a living review, it will be continuously updated.
+Design We will perform a rapid living systematic review methodology following the recommendations proposed by the Cochrane Collaboration Handbook (7).
+
+Eligibility criteria Types of studies We will include randomized controlled trials (RCT), quasi-RCTs, cohort, case-control studies, case series, and electronic health records that evaluated the effects of immunomodulatory drugs in patients with immune-mediated inflammatory diseases infected by SARS-CoV-2.
+Types of participants We will include studies with patients with confirmed diagnosis of infection of SARS-CoV- 2 and immune-mediated inflammatory diseases.
+Type of interventions - Immunosuppressants (e. g. methotrexate, azathioprine, mycophenolate; cyclophosphamide); - Immunomodulators (e.g glucocorticoids; immunoglobulins); - Immunobiologics (e.g tocilizumab, infliximab, adalimumab, etanercept, certulizumab, rituximab, secukinumab, ustekinumab); - DMARDs (e.g chloroquine, hydroxychloroquine, sulfasalazine); - Targeted synthetic disease-modifying anti-rheumatic drugs (e.g. apremilast, tofacitinib, baricitinib).
+Outcome measures - Primary outcomes ● Mortality rate; ● Length of hospital stay; ● Adverse events;
+- Secondary outcomes ● Duration of invasive mechanical ventilation; ● Time to viral clearance; ● Time to clinical improvement; ● Length of Intensive Care Unit stay;
+Report characteristics We will include studies performed since November 2019. No language restrictions will be used in the selection.
+Data sources and searches We will search Medline via PubMed, Embase via Elsevier, Cochrane Library - Cochrane Central Register of Controlled Trials (CENTRAL), Portal Regional BVS - LILACS, Scopus and WebOfScience using relevant descriptors and synonyms, adapting the search to the specifications of each database to identify published, ongoing, and unpublished studies. We will also search the following COVID-19 specific databases: Epistemonikos COVID- 19 L·OVE platform (https://app.iloveevidence.com/loves/5e6fdb9669c00e4ac072701d); ClinicalTrials.gov (https://ClinicalTrials.gov/ct2/results?cond=COVID-19); The World Health Organization International Clinical Trials Registry Platform (WHO ICTRP). Finally, we will search the lists of references of the included studies. No language restrictions will be used in the selection.
+Search strategy We will use the terms related to the problem of interest, the intervention and the filter the date of publication. The search strategy in Medline via Pubmed is shown in Table 1. Table 1. Systematic review Search Strategy Number Combiners Terms 1
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem of interest
+
+
+
+
+
+
+
+Intervention
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"COVID-19" [Supplementary Concept OR (COVID 19) OR (COVID-19) OR (2019-nCoV) OR (nCoV) OR (Covid19) OR (SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) OR (2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) OR (2019 novel coronavirus infection) OR (2019-nCoV infection) OR (coronavirus disease 2019) OR (2019-nCoV disease) OR (COVID-19 virus disease) OR "severe acute respiratory syndrome coronavirus 2" [Supplementary Concept] OR (Wuhan coronavirus) OR (Wuhan seafood market pneumonia virus) OR (COVID19 virus) OR (COVID-19 virus) OR (coronavirus disease 2019 virus) OR (SARS-CoV-2) OR (SARS2) OR (2019-nCoV) OR (2019 novel coronavirus)
+"Interleukin-6"[Mesh] OR interleukin 6 OR "IL 6" OR IL-6 OR IL6 OR "tocilizumab" [Supplementary Concept] OR Tocilizum* OR altizumab OR actemra OR RHPM-1 OR RG- 1569 OR R-1569 OR MSB11456 OR MSB-11456 OR (monoclonal antibody, MRA) OR (RO-4877533) OR roactemra OR anti‐IL‐6 OR anti‐interleukin‐6 OR "siltuximab" [Supplementary Concept] OR CLLB8 OR (cClB8 monoclonal antibody) OR Sylvant OR CNTO-328 OR (CNTO 328 monoclonal antibody) OR (monoclonal antibody CNTO328) OR "sarilumab" [Supplementary Concept] OR SAR-153191 OR SAR153191 OR Kevzara OR REGN-88 OR REGN88 OR "olokizumab" [Supplementary Concept] OR CDP-6038 OR CDP6038 OR elsilimomab OR BMS945429 OR ALD518 OR "sirukumab" [Supplementary Concept] OR (CNTO 136) OR CNTO-136 OR CPSI-2364 OR ALX-0061 OR "clazakizumab" [Supplementary Concept] OR ALD-518 OR ALD518 OR BMS-945429 OR "sarilumab" [Supplementary Concept] OR SAR-153191 OR SAR153191 OR Kevzara OR REGN-88 OR REGN88 OR "sirukumab" [Supplementary Concept] OR ARGX-109 OR FE301 OR FM101 OR "Tumor Necrosis Factor-alpha"[Mesh] OR TNF OR TNF-alpha OR TNF-α OR Anti-TNF OR "Infliximab"[Mesh] OR (Monoclonal Antibody cA2) OR (MAb cA2) OR Infliximab-abda OR Renflexis OR Infliximab-dyyb OR Inflectra OR Remicade OR "Etanercept"[Mesh] OR (TNFR-Fc Fusion Protein) OR (TNR 001) OR (TNT Receptor Fusion Protein) OR TNTR-Fc OR TNR-001 OR TNR001 OR Etanercept-szzs OR (TNF Receptor Type II-IgG Fusion Protein) OR (TNF Receptor Type II IgG Fusion Protein) OR Erelzi OR (Recombinant Human Dimeric TNF Receptor Type II-IgG Fusion Protein) OR (Recombinant Human Dimeric TNF Receptor Type II IgG Fusion Protein) OR Enbrel OR "Certolizumab Pegol"[Mesh] OR Certolizumab OR Cimzia OR CDP870 OR (CDP 870) OR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filters "golimumab" [Supplementary Concept] OR CNTO-148 OR (CNTO 148) OR Simponi OR "Adalimumab"[Mesh] OR Humira OR Adalimumab-adbm OR Amjevita OR Adalimumab- atto OR Cyltezo OR (D2E7 Antibody) OR "Interleukin-1"[Mesh] OR IL-1 OR IL-1RA OR "IL 1" OR "canakinumab" [Supplementary Concept] OR ilaris OR ACZ-885 OR ACZ885 OR anti-IL-1 OR "rilonacept" [Supplementary Concept] OR ACZ885 OR anakinra OR "Interleukin-5"[Mesh] OR Anti-IL-5 OR "mepolizumab" [Supplementary Concept] OR Bosatria OR SB-240563 OR SB240563 OR Nucala OR "Interleukin-12"[Mesh] OR IL-12 OR "Ustekinumab"[Mesh] OR Stelara OR (CNTO 1275) OR CNTO-1275 OR "Interleukin- 23"[Mesh] OR IL-23 OR "IL 23" OR "briakinumab" [Supplementary Concept] OR A- 796874.0 OR BSF-415977 OR (BSF 415977) OR WAY-165772 OR LU-415977 OR (LU 415977) OR J-695 OR J695 OR ABT-874 OR (ABT-874 antibody, human) OR Anti-C5 OR "eculizumab" [Supplementary Concept] OR Alexion OR Soliris OR 5G1.1 OT (H5G1.1VHC+H5G1.1VLC) OR H5G1.1 OR H5G1-1 OR H5G11 OR "Abatacept"[Mesh] OR LEA29Y OR BMS224818 OR BMS-224818 OR (BMS 224818) OR Belatacept OR (BMS 188667) OR (BMS-188667) OR CTLA-4-Ig OR (Cytotoxic T Lymphocyte-Associated Antigen 4-Immunoglobulin) OR (Cytotoxic T Lymphocyte Associated Antigen 4 Immunoglobulin) OR CTLA4-Ig OR (CTLA4-Ig Immunoconjugate) OR (CTLA4 Ig Immunoconjugate) OR (Immunoconjugate, CTLA4-Ig) OR CTLA4-Fc OR Nulojix OR "Rituximab"[Mesh] OR (CD20 Antibody) OR (Rituximab CD20 Antibody) OR Mabthera OR (IDEC-C2B8 Antibody) OR (IDEC C2B8 Antibody) OR (IDEC-C2B8) OR (IDEC C2B8) OR GP2013 OR Rituxan OR "Antigens, CD20"[Mesh] OR (CD20 Antigen) OR (CD20 Antigens) OR "belimumab" [Supplementary Concept] OR (BEL-114333) OR BEL114333 OR HGS- 1006 OR HGS1006 OR LymphoStat-B OR GSK-1550188 OR GSK1550188 OR Benlysta OR "secukinumab" [Supplementary Concept] OR "Interleukin-17"[Mesh] OR IL-17A OR IL- 17 OR "IL 17" OR "ixekizumab" [Supplementary Concept] OR "brodalumab" [Supplementary Concept] OR "guselkumab" [Supplementary Concept] OR "tildrakizumab" [Supplementary Concept] OR "risankizumab" [Supplementary Concept] OR "apremilast" [Supplementary Concept] OR Otezla OR (CC 10004) OR CC10004 OR CC-10004 OR "tofacitinib" [Supplementary Concept] OR tasocitinib OR (tofacitinib citrate) OR Xeljanz OR (CP 690,550) OR CP690550 OR CP-690550 OR (CP 690550) OR CP-690,550 OR "baricitinib" [Supplementary Concept] OR LY3009104 OR Olumiant OR INCB028050 OR "Azathioprine"[Mesh] OR Azothioprine OR Imurel OR Imuran OR Immuran OR "Mycophenolic Acid"[Mesh] OR (Mycophenolate Mofetil) OR Cellcept OR (Mycophenolate Sodium) OR Myfortic OR (RS 61443) OR (RS-61443) OR RS61443 OR "Cyclophosphamide"[Mesh] OR Sendoxan OR B-518 OR (B 518) OR B518 OR Cytophosphane OR (Cyclophosphamide Monohydrate) OR Cytophosphan OR Cytoxan OR Endoxan OR Neosar OR NSC-26271 OR (NSC 26271) OR NSC26271 OR Procytox OR Cyclophosphane OR "Cyclosporine"[Mesh] OR Ciclosporin OR Cyclosporin OR Neoral OR (Sandimmun Neoral) OR (CyA-NOF) OR (CyA NOF) OR Sandimmune OR Sandimmun OR (CsA-Neoral) OR (CsA Neoral) OR CsANeoral OR (OL 27-400) OR (OL 27 400) OR (OL 27400) OR "Tacrolimus"[Mesh] OR Prograft OR FR-900506 OR (FR 900506) OR FR900506 OR (Anhydrous Tacrolimus) OR FK-506 OR (FK 506) OR FK506 OR "Hydroxychloroquine"[Mesh] OR (Hydroxychloroquine) OR Oxychlorochin OR Oxychloroquine OR Hydroxychlorochin OR Plaquenil OR Hidroxicloroquina OR Hydroxychloroquinum OR Oxichlorochine OR Oxicloroquine OR "Chloroquine"[Mesh] OR Chlorochin OR Cloroquina OR Cloroquine OR Chloroquine OR "Antimalarials"[Mesh] OR Antimalarials OR Anti-Malarials OR (Anti Malarials) OR Hydroquin OR Axemal OR Dolquine OR Quensyl OR Quinoric OR "Sulfasalazine"[Mesh] OR Salicylazosulfapyridine OR (Pyralin EN) OR Azulfadine OR Azulfidine OR Asulfidine OR (Colo-Pleon) OR (Colo Pleon) OR Pleon OR Ulcol OR Sulfasalazin OR Ucine OR Salazopyrin OR (ratio- Sulfasalazine) OR (ratio Sulfasalazine) OR "Methotrexate"[Mesh] OR Amethopterin OR Mexate OR "Leflunomide"[Mesh] OR (HWA 486) OR HWA-486 OR HWA486 OR SU101 OR Arava OR "Dapsone"[Mesh] OR DADPS OR Sulfonyldianiline OR Diaminodiphenylsulfone OR Diaphenylsulfone OR (4,4'-Diaminophenyl Sulfone) OR (4,4' Diaminophenyl Sulfone) OR Sulfona OR (Dapson-Fatol) OR Disulone OR Avlosulfone OR (Dapsoderm-X) OR "Glucocorticoids"[Mesh] OR Glucocorticoid OR "Immunoglobulins"[Mesh] OR Immunoglobulin OR Globulins
+Publication date from 2019/11/01
+#1 AND #2 AND #3
+
+3 The search strategy above will be used in Medline via Pubmed and will be adapted to the specifications of each database.
+Study selection Two authors will select the studies for inclusion in the review (ACPNP and FSAR). When duplicated studies are found, only one of them will be considered for inclusion. When reports using the same participants and different follow-up or outcome measurements are found, both reports will be included. However, they will be considered as parts of only one study. After removing duplicated studies and/or reports, the authors will read the study titles and abstracts. Studies that clearly do not fulfill the eligibility criteria will be excluded. The remaining studies will then be fully read and assessed for inclusion in the review. Disagreements between authors regarding the inclusion of studies will be solved by the third author (VFMT). We will present the reasons for exclusion of the studies in a flowchart. To optimize the process of screening and selection of studies, Rayyan application (8) will be used.
+Data extraction Two authors (APR and FSAR) will independently extract data. Discrepancies or disagreements will be solved by a third author (VFMT). We will use a predefined form to extract data from included studies. The form will include information on: - the patients (demographic and clinical characteristics); - time points used for the assessments; - the pharmacological treatment (name of drug, treatment duration; dose); - number of patients lost to follow-up (in each group); - reasons for loss to follow-up; - approach for handling missing data (data imputation/how data imputation was performed, use of intention-to- treat approach); - sources of funding; - possibility of conflict of interests; - adverse events; - outcome measures; - protocol deviations.
+Assessment of methodological quality in included studies and quality of the body of evidence We will use Risk of Bias tool (7) as recommended by Cochrane Collaboration to perform the critical appraisal of included studies; for observational studies, we will use Newcastle Ottawa Scale (9). The quality of evidence will be assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) (10). Assessment of risk of bias (VTC and APR), and assessment of the quality of evidence (VTC and NCJ) will be performed by two authors, and all the disagreements in the assessment of the risk of bias or quality of evidence will be solved through discussion or, if required, by consulting with a third author (ANA).
+Data Analysis We will perform analyses according to the recommendations of Cochrane, and the Cochrane Prognosis Methods Group. To perform the meta-analysis we will use R software when possible for mean difference (MD) or Hedge’s/Cohen’s (SMD). The package to be used is the “meta” (version 4.11-0). We will pool mean and the standard deviation (or equivalent) for hospital admission, intensive care unit admission and/or respiratory support for adult inpatients with COVID- 19 and mortality, by the inverse of variance method with random-effects model (DerSimonian-Laird estimator for τ2). Thus, just similar or equivalent results obtained by each primary outcome in the studies can be used. It is necessary to ensure the main assumptions to provide the correct data and to guarantee the correct interpretation. When allowed by the information of the studies results the correct statistical standardization will be provided. Aftermath, just the robust and reliable data based on equivalents primary outcomes can be used to attend the objective of this meta-analysis. All described in the Data Extraction section for each measure must be separated according to the response categories of the interest. The data about the adverse events and clinical exams can be extracted since complete available and classified by the response as well.
+Dealing with missing data For studies that do not provide a mean and associated standard deviation (SD), we will use information and results reported in the text or tables, doing the correct inference. When the parameters established before are not available, the estimate based on other parameters will be made ensuring the correct information. We will contact the principal investigators of the included studies asking for additional data or to clarify issues about the studies. In the absence of a reply from the authors, we will expose the data in a descriptive manner avoiding imputation. Assessment of heterogeneity We will employ the Cochran’s Q test to assess the presence of heterogeneity considering a threshold of P value < 0.1 as an indicator of whether heterogeneity is present. In addition, we will assess statistical heterogeneity by examining the Higgins I2 statistic following these thresholds: · < 25%: no (none) heterogeneity; · 25% to 49%: low heterogeneity; · 50% to 74%: moderate heterogeneity; · ≥ 75%: high heterogeneity.
+We will consider the following information for heterogeneity analysis: Subgroup analysis - Immune-mediated inflammatory disease (IMID) (e.g. Rheumatoid arthritis, Systemic Lupus, Spondyloarthritis, Sjögren syndrome,) - Drug treatment (number of drugs, duration of drug treatment, dose, and type of drug treatment) - Comorbidities - Age - Route of administration
+Sensitivity analysis - Studies with high risk of bias
+Assessment of reporting biases When at least 10 studies are included in a meta-analysis we will explore the likelihood of reporting biases visually inspecting funnel plots. For continuous outcomes, Egger’s test will be used to detect possible small study bias as recommended in Cochrane Handbook for Systematic Reviews of Interventions.
+
+
+DISCUSSION When the first reports about COVID-19 pathophysiology and clinical manifestations started to be published, there were some concerns with patients undergoing immunosuppressed treatment (3). However, unlike common viral agents, SARS-CoV-2 has not been shown to cause a more severe disease in patients with immune-mediated inflammatory diseases (5). To the best of our knowledge, the potential protective capacity of these drugs has not been properly evaluated and remains uncertain. This rapid living review will systematically evaluate the best available evidence on the possible protective effect of drugs used in patients with immune-mediated inflammatory diseases for COVID-19. We expect it will help clinicians in their decision-making processes as, to date, no treatment has proven effective for treating COVID-19. As we will follow the Cochrane Handbook of Systematic Reviews recommendations (7) and use extensive searches in the largest health databases, we believe we will be able to summarize the current available evidence and to clarify the potential of these drugs in preventing severe course of COVID-19.
+
+
+
+
+REFERENCES 1. Spinelli FR, Ceccarelli F, Di Franco M, et al. Ann Rheum Dis Epub ahead of print. doi:10.1136/annrheumdis-2020-217367 2. Favalli EG, Ingegnoli F, De Lucia O, Cincinelli G, Cimaz R, Caporali R. COVID-19 infection and rheumatoid arthritis: Faraway, so close!. Autoimmun Rev. 2020;19(5):102523. doi:10.1016/j.autrev.2020.102523 3. D’Antiga, L. Coronaviruses and immunosuppressed patients. The facts during the third epidemic. Liver Transpl. 2020; Mar. doi: 10.1002/lt.25756. 4. Hedrich, CM. COVID-19 – Considerations for the Paediatric Rheumatologist. Clin Immunol. 2020; 214: 108420. doi: 10.1016/j.clim.2020.108420. 5. Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, et al. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. Syst Rev. 2015;4:1. DOI: 10.1186/2046-4053-4-1. 6. Garritty C, Gartlehner G, Kamel C, King VJ, Nussbaumer-Streit B, Stevens A, et al. Cochrane Rapid Reviews Interim Guidance from the Cochrane Rapid Reviews Methods Group 2020. Available from: https://methods.cochrane.org/rapidreviews/sites/methods.cochrane.org.rapidreviews/file s/public/uploads/cochrane_rr_-_guidance-23mar2020-v1.pdf. 7. Higgins J. Cochrane Handbook for Systematic Reviews of Interventions 2011. 8. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan – a web and mobile app for systematic review. Systematic Reviews. 2016; 5:210 9. Wells G, Shea B, O'Connell D, Peterson J, Welch V, Losos M et al. The Newcastle– Ottawa Scale (NOS) for assessing the quality of non-randomized studies in meta- analysis. https://www.ohri.ca/programs/clinical_epidemiology/oxford.asp 2014. 10.Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et al. Grading quality of evidence and strength of recommendations. Bmj. 2004;328(7454):1490. DOI: 10.1136/bmj.328.7454.1490.
+
+
+
+APPENDIX – Search Strategies
+EMBASE #1 'covid 19'/exp OR (COVID 19) OR (COVID-19) OR (2019-nCoV) OR (nCoV) OR (Covid19) OR (SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) OR (2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) OR (2019 novel coronavirus infection) OR (2019-nCoV infection) OR (coronavirus disease 2019) OR (2019-nCoV disease) OR (COVID-19 virus disease) OR (severe acute respiratory syndrome coronavirus 2) OR (Wuhan coronavirus) OR (Wuhan seafood market pneumonia virus) OR (COVID19 virus) OR (COVID-19 virus) OR (coronavirus disease 2019 virus) OR (SARS-CoV-2) OR (SARS2) OR (2019-nCoV) OR (2019 novel coronavirus) #2 'interleukin 6'/exp OR 'interleukin 6' OR 'IL 6' OR interleukin-6 OR 'tocilizumab'/exp OR tocilizumab OR actemra OR atlizumab OR lusinex OR 'r 1569' OR r1569 OR roactemra OR 'sarilumab'/exp OR sarilumab OR kevzara OR 'regn 88' OR regn88 OR 'sar 153191' OR sar153191 OR 'tumor necrosis factor inhibitor'/exp OR 'tumor necrosis factor' OR 'TNF alpha' OR TNF-alpha OR TNF OR 'tumour necrosis factor' OR 'infliximab'/exp OR 'abp 710' OR abp710 OR avakine OR flixabi OR 'gp 1111' OR gp1111 OR inflectra OR infliximab-abda OR infliximab-dyyb OR infliximab-qbtx OR ixifi OR 'pf 06438179' OR 'pf 6438179' OR pf06438179 OR pf6438179 OR remicade OR remsima OR renflexis OR revellex OR 'ta 650' OR ta650 OR zessly OR 'etanercept'/exp OR etanercept OR avent OR benepali OR embrel OR enbrel OR enerceptan OR 'enia 11' OR enia11 OR erelzi OR etanercept-szzs OR etanercept- ykro OR eticovo OR 'gp 2015' OR gp2015 OR infinitam OR lifmior OR opinercept OR 'tnr 001' OR tnr001 OR tunex OR 'ylb 113' OR ylb113 OR 'certolizumab'/exp OR certolizumab OR 'golimumab'/exp OR 'cnto 148' OR cnto148 OR simponi OR 'golimumab'/exp OR golimumab OR 'cnto 148' OR cnto148 OR simponi OR 'adalimumab'/exp OR 'abp 501' OR abp501 OR 'abt d2e7' OR abtd2e7 OR adalimumab-adaz OR adalimumab-adbm OR adalimumab-atto OR adalimumab- bwwd OR adaly OR amgevita OR amjevita OR 'avt 02' OR avt02 OR 'bat 1406' OR bat1406 OR 'bax 2923' OR 'bax 923' OR bax2923 OR bax923 OR 'bi 695501' OR bi695501 OR 'chs 1420' OR chs1420 OR 'ct p17' OR ctp17 OR cyltezo OR 'da 3113' OR da3113 OR 'dmb 3113' OR dmb3113 OR exemptia OR 'fkb 327' OR fkb327 OR fyzoclad OR 'gp 2017' OR gp2017 OR hadlima OR halimatoz OR hefiya OR 'hlx 03' OR hlx03 OR hulio OR humira OR hyrimoz OR 'ibi 303' OR ibi303 OR idacio OR imraldi OR kromeya OR 'lu 200134' OR lu200134 OR 'm 923' OR m923 OR mabura OR 'monoclonal antibody D2E7' OR 'msb 11022' OR msb11022 OR 'ons 3010' OR ons3010 OR 'pf 06410293' OR 'pf 6410293' OR pf06410293 OR pf6410293 OR raheara OR 'sb 5' OR sb5 OR solymbic OR trudexa OR 'zrc 3197' OR zrc3197 OR 'interleukin 1'/exp OR 'interleukin 1' OR 'IL 1' OR IL-1 OR 'interleukin I' OR interleukin- 1 OR 'canakinumab'/exp OR 'acz 885' OR acz885 OR ilaris OR 'rilonacept'/exp OR rilonacept OR arcalyst OR 'anakinra'/exp OR anakira OR kineret OR 'interleukin 5'/exp OR 'interleukin 5' OR 'il 5' OR interleukin-5 OR IL-5 OR 'mepolizumab'/exp OR mepolizumab OR bosatria OR nucala OR 'sb 240563' OR sb-240563 OR sb240563 OR 'interleukin 12'/exp OR 'interleukin 12' OR 'IL 12' OR il-12 OR interleukin-12 OR 'interleukin 23'/exp OR 'interleukin 23' OR 'IL 23' OR interleukin-23 OR 'ustekinumab'/exp OR ustekinumab OR 'cnto 1275' OR cnto1275 OR stelara OR 'eculizumab'/exp OR eculizumab OR 'monoclonal antibody 5G1.1' OR soliris OR 'abatacept'/exp OR abatacept OR 'bms 188667' OR bms188667 OR 'CTLA4 Ig' OR 'CTLA4 immunoglobulin' OR 'CTLA4 immunoglobulin G' OR CTLA4Ig OR orencia OR 'rituximab'/exp OR rituximab OR 'abp 798' OR 'abp798' OR blitzima OR 'ct p10' OR ctp10 OR 'gp 2013' OR gp2013 OR 'hlx 01' OR hlx01 OR 'idec 102' OR 'idec c2b8' OR idec102 OR idecc2b8 OR mabthera OR 'mk 8808' OR mk8808 OR 'monoclonal antibody idec c2b8' OR 'pf 05280586' OR 'pf 5280586' OR pf05280586 OR pf5280586 OR 'r 105' OR r105 OR reditux OR 'rg 105' OR rg105 OR ritemvia OR ritumax OR rituxan OR rituximab-abbs OR rituximab-pvvr OR rituxin OR rituzena OR rixathon OR riximyo OR 'ro 452294' OR ro452294 OR ruxience OR truxima OR tuxella OR 'belimumab'/exp OR belimumab OR benlysta OR 'lymphostat B' OR 'interleukin 17'/exp OR 'interleukin 17' OR 'il 17A' OR IL-17 OR 'interleukin 17A' OR interleukin-17 OR 'secukinumab'/exp OR secukinumab OR 'ain 457' OR ain457 OR cosentyx OR 'ixekizumab'/exp OR ixekizumab OR 'ly 2439821' OR ly2439821 OR taltz OR 'brodalumab'/exp OR brodalumab OR 'amg 827' OR amg827 OR kyntheum OR siliq OR 'guselkumab'/exp OR guselkumab OR 'cnto 1959' OR cnto1959 OR tremfya OR 'tildrakizumab'/exp OR tildrakizumab OR ilumetri OR ilumya OR 'mk 3222' OR 'mk3222' OR 'sch 900222' OR sch900222 OR 'sunpg 1622' OR 'sunpg 1623' OR sunpg1622 OR sunpg1623 OR 'tildrakizumab asmn' OR tildrakizumab-asmn OR 'risankizumab'/exp OR risankizumab OR 'abbv 066' OR abbv066 OR 'bi 655066' OR bi655066 OR 'risankizumab rzaa' OR risankizumab-rzaa OR skyrizi OR 'apremilast'/exp OR apremilast OR 'cc 10004' OR cc10004 OR otezla OR 'tofacitinib'/exp OR tofacitinib OR 'cp 690 550' OR 'cp 690, 550' OR 'cp 690550' OR 'cp 690550-10' OR 'cp690 550' OR 'cp690, 550' OR cp690550 OR cp690550-10 OR tasocitinib OR 'tofacitinib citrate' OR xeljanz OR 'xeljanz xr' OR 'baricitinib'/exp OR baricitinib OR 'incb 028050' OR 'incb 28050' OR incb028050 OR incb28050 OR 'ly 3009104' OR ly3009104 OR olumiant OR 'azathioprine'/exp OR azathioprine OR arathioprin OR arathioprine OR 'aza-q' OR azafalk OR azahexal OR azamedac OR azamun OR azamune OR azanin OR azapin OR azapress OR azaprine OR azarex OR azasan OR azathiodura OR azathiopine OR azathioprim OR azathioprin OR azathiopurine OR azathropsin OR azatioprina OR azatox OR azatrilem OR azopi OR azoran OR azothioprin OR azothioprine OR 'bw 57 322' OR 'bw 57-322' OR 'w 57322' OR bw57-322 OR bw57322 OR colinsan OR immuran OR immurel OR immuthera OR imunen OR imuprin OR imuran OR imurane OR imurek OR imurel OR imuren OR 'nsc 39084' OR nsc39084 OR thioazeprine OR thioprine OR transimune OR zytrim OR 'mycophenolate mofetil'/exp OR 'mycophenolate mofetil' OR 'cell cept' OR cellcept OR cellmune OR cellsept OR munoloc OR myclausen OR 'mycophenolic acid 2 morpholinoethyl ester' OR 'mycophenolic acid mofetil' OR myfenax OR 'rs 61443' OR 'rs 61443 190' OR rs61443 OR 'rs61443 190' OR 'cyclophosphamide'/exp OR cychophosphamide OR alkyroxan OR 'b 518' OR 'b 518 asta' OR b518 OR 'b518 asta' OR carloxan OR ciclofosfamida OR ciclolen OR cicloxal OR clafen OR cyclo-cell OR cycloblastin OR cycloblastine OR 'cyclofos amide' OR cyclofosfamid OR cyclofosfamide OR cyclophar OR cyclophosphamid OR 'cyclophosphamide isopac' OR cyclophosphamides OR cyclophosphan OR cyclophosphane OR cyclostin OR cycloxan OR cyphos OR cytophosphan OR cytophosphane OR cytoxan OR 'endocyclo phosphate' OR endoxan OR 'endoxan-asta' OR endoxana OR endoxon- asta OR enduxan OR genoxal OR ledoxan OR ledoxina OR mitoxan OR neosan OR neosar OR noristan OR 'nsc 26271' OR nsc2671 OR procytox OR procytoxide OR semdoxan OR sendoxan OR syklofosfamid OR 'cyclosporine'/exp OR cyclosporine OR 'adi 628' OR adi628 OR cequa OR 'cgc 1072' OR cgc1072 OR ciclomulsion OR cicloral OR ciclosporin OR ciclosporine OR cipol OR cipol-n OR consupren OR cyclasol OR cyclokat OR cyclosporin OR 'de 076' OR de076 OR deximune OR equoral OR gengraf OR ikervis OR iminoral OR implanta OR imusporin OR 'lx 201' OR lx201 OR 'mc2 03' OR mc203 OR 'mtd 202' OR mtd202 OR neoral OR neoral- sandimmun OR 'neuro-stat drug' OR 'neurostat drug' OR 'nm 0133' OR 'nm 133' OR nm0133 OR nm133 OR 'nova 22007' OR nova22007 OR 'ol 27400' OR ol27400 OR 'olo 400' OR olo500 OR 'opph 088' OR opph088 OR opsisporin OR 'otx 101' OR otx101 OR 'p 3072' OR p3072 OR padciclo OR papilock OR pulminiq OR restasis OR restaysis OR sanciclo OR sandimmun OR sandimmune OR sandimun OR sandimune OR 'sang 35' OR sang35 OR sangcya OR 'sp 14019' OR sp14019 OR 'sti 0529' OR sti0529 OR 't 1580' OR t1580 OR vekacia OR verkazia OR 'tacrolimus'/exp OR tacrolimus OR advagraf OR astagraf OR envarsus OR 'fk 506' OR fk-506 OR fk506 OR 'fr 900506' OR fr900506 OR fujimycin OR hecoria OR modigraf OR 'mustopic oint' OR prograf OR prograft OR protopic OR protopy OR tacforius OR 'tacrolimus hydrate' OR tsukubaenolide
+#3 'hydroxychloroquine'/exp OR hydroxychloroquine OR 'chloroquinol'/exp OR chloroquinol OR 'ercoquin'/exp OR ercoquin OR 'hydrochloroquine'/exp OR hydrochloroquine OR 'hydrocloroquine'/exp OR hydrocloroquine OR 'oxychloroquine'/exp OR oxychloroquine OR 'quensyl'/exp OR quensyl OR 'sn 8137'/exp OR 'sn 8137' OR oxychlorochin OR hydroxychlorochin OR plaquenil OR hidroxicloroquina OR hydroxychloroquinum OR oxichloroquine OR 'chloroquine'/exp OR chloroquine OR a-cq OR amokin OR amokine OR anoclor OR aralan OR aralen OR aralene OR arechin OR arechine OR arequine OR arthrochin OR arthrochine OR arthroquine OR artrichin OR artrichine OR artriquine OR avloclor OR avoclor OR bemaphata OR bemaphate OR bemasulph OR bipiquin OR cadiquin OR chemochin OR chemochine OR chingamine OR chingaminum OR chloraquine OR chlorochin OR chlorochine OR chlorofoz OR chloroquin OR 'chloroquin phosphate' OR chloroquinesulphate OR 'chloroquini diphosphas' OR 'chloroquinum diphosphoricum' OR chlorquin OR chlorquine OR choloquine OR 'choroquine sulfate' OR 'choroquine sulphate' OR cidanchin OR 'clo-kit junior' OR clorichina OR clorichine OR cloriquine OR clorochina OR delagil OR delagyl OR dichinalex OR diclokin OR diquinalex OR diroquine OR emquin OR genocin OR gontochin OR gontochine OR gontoquine OR heliopar OR imagon OR iroquine OR klorokin OR klorokine OR klorokinfosfat OR lagaquin OR malaquin OR malarex OR malarivon OR malaviron OR maliaquine OR maquine OR mesylith OR mexaquin OR mirquin OR nivachine OR nivaquin OR nivaquine OR 'p roquine' OR quinachlor OR quingamine OR repal OR resochen OR resochene OR resochin OR 'resochin junior' OR resochina OR resochine OR resochinon OR resoquina OR resoquine OR reumachlor OR roquine OR 'rp 3377' OR rp3377 OR sanoquin OR sanoquine OR silbesan OR siragan OR sirajan OR 'sn 7618' OR sn7618 OR solprina OR solprine OR tresochin OR tresochine OR tresoquine OR trochin OR trochine OR troquine OR 'w 7618' OR w7618 OR 'win 244' OR win244 OR 'antimalarial agent'/exp OR 'antimalarial agent' OR 'anti malaria drug'/exp OR 'anti malaria drug' OR 'antimalaria agent'/exp OR 'antimalaria agent' OR 'antimalaria drug'/exp OR 'antimalaria drug' OR 'antimalaria drug, synthetic'/exp OR 'antimalarial'/exp OR antimalarial OR 'antimalarial drug'/exp OR 'antimalarial drug' OR 'antimalarials'/exp OR antimalarials OR 'antipaludean agent'/exp OR 'antipaludean agent' OR 'antiplasmodic agent'/exp OR 'antiplasmodic agent' OR 'synthetic antimalaria agent'/exp OR 'synthetic antimalaria agent' OR 'salazosulfapyridine'/exp OR salazosulfapyridine OR 'azlufidine en-tabs' OR azopyrin OR azopyrine OR azosulfidine OR azulfide OR azulfidina OR azulfidine OR 'azulfidine EN tabs' OR 'azulfidine en-tabs' OR 'azulfidine ra' OR azulfin OR benzosulfa OR 'colo pleon' OR colo-pleon OR colopleon OR disalazin OR gastropyrin OR 'pleon ra' OR 'pyralin en' OR rorasul OR rosulfant OR s.a.s.-500 OR salazine OR 'salazo sulfapyridine' OR salazodin OR salazopirina OR salazopyridin OR salazopyridine OR salazopyrin OR 'salazopyrin entabs' OR salazopyrin-en OR salazopyrina OR salazopyrine OR 'salazopyrine ec' OR 'salazosulfa pyridine' OR salazosulfpyridine OR 'salicyl azo sulfapyridine' OR salicylazosulfapyridin OR salicylazosulfapyridine OR salisulf OR salopyr OR saridine OR 'sas 500' OR sulcolon OR sulfasalazine OR sulfasalizine OR sulfosalazine OR sulphasalazine OR zopyrin OR 'methotrexate'/exp OR methotrexate OR '4 amino 10 methylfolic acid' OR '4 amino 10 methylpteroylglutamic acid' OR '4 amino n10 methylpteroylglutamic acid' OR 'a methopterine' OR abitrexate OR amethopterin OR amethopterine OR ametopterine OR antifolan OR biotrexate OR canceren OR 'cl 14377' OR cl14377 OR emtexateM OR emthexat OR emthexate OR emtrexate OR enthexate OR farmitrexat OR farmitrexate OR farmotrex OR folex OR ifamet OR imeth OR 'intradose MTX' OR jylamvo OR lantarel OR ledertrexate OR maxtrex OR metex OR methoblastin OR methohexate OR methotrate OR methotrexat OR methotrexato OR methoxtrexate OR methrotrexate OR methylaminopterin OR methylaminopterine OR meticil OR metoject OR metothrexate OR metotrexat OR metotrexate OR metotrexin OR metrex OR mexate OR mexate-aq OR 'mexate-aq preserved' OR 'mpi 5004' OR mpi5004 OR MTX OR neotrexate OR nordimet OR novatrex OR 'nsc 740' OR nsc740 OR otrexup OR 'otrexup pfs' OR rasuvo OR reumatrex OR rheumatrex OR 'rheumatrex dose pack' OR methotrexate OR texate OR texate-t OR texorate OR trexall OR xaken OR xatmep OR zexate OR 'leflunomide'/exp OR leflunomide OR 'alpha, alpha, alpha trifluoro 5 methyl 4 isoxazolecarboxy para toluidide' OR arabloc OR arava OR 'hwa 486' OR hwa486 OR repso OR 'rs 34821' OR rs34821 OR 'su 101' OR su101 OR 'dapsone'/exp OR dapsone OR '4 diaminodiphenylsulfone' OR '4 sulfonyldianiline' OR '4 diaminodiphenyl sulfone' OR '4 diaminodiphenylsulfone' OR '4 sulfonylbisbenzamine' OR '4 sulfonyldianiline' OR aczone OR atrisone OR avlosulfan OR avlosulfon OR avlosulfone OR '4 aminophenyl sulfone' OR 'bn 2405' OR bn2405 OR croysulfone OR dapsoderm-x OR dapson OR 'dapson-fatol' OR dapsona OR dds OR 'diamino diphenyl sulfone' OR 'diaminodiphenyl sulfone' OR diaminodiphenylosulfone OR diaminodiphenylsulfon OR diaminodiphenylsulfone OR diammodiphenylsulfone OR 'diaphenyl sulfone' OR diaphenylsulfon OR diaphenylsulfone OR diaphenylsulphone OR diphenason OR diphenasone OR diphone OR disulone OR dopsan OR dumitone OR eporal OR 'f 1358' OR f1358 OR lennon-dapsone OR lepravir OR novasulfon OR novophone OR 'nsc 6091' OR nsc6091 OR 'para sulfodianiline' OR servidapson OR servidapsone OR sulfadione OR sulfadoine OR sulfona OR 'sulfona mae' OR 'sulfone mere' OR udolac OR 'glucocorticoid'/exp OR glucocorticoid OR glucocorticoids OR glucocorticoidsteroid OR glucocorticosteroid OR glucocortoid OR glycocorticoid OR glycocorticosteroid OR 'immunoglobulin'/exp OR immunoglobulin OR 'antibody protein' OR endobulin OR 'flebogamma liquida' OR gamastan OR 'gamimmune n' OR gamimune OR 'gamma globulin' OR 'gamma globulins' OR 'gamma immunoglobulin' OR gamma-globulins OR gammagee OR gammaglobulin OR gammaglobuline OR gammar OR gammimune OR gamulin OR globuman OR 'glovenin i' OR Ig OR igam OR igc OR 'immune gamma globulin' OR 'immune globin' OR 'immune globulin' OR 'immune globuline' OR 'immune globulins' OR 'immune serum globulin' OR immuno OR 'immuno gamma globulin' OR 'immuno globulin' OR immunogammaglobulin OR immunoglobin OR 'immunoglobulin 17' OR 'immunoglobulin c' OR 'immunoglobulin c1' OR 'immunoglobulin chain' OR 'immunoglobulin gamma' OR 'immunoglobulin preparation' OR immunoglobulins OR 'immunoglobulins,intravenous' OR immunoprotein OR immunoproteins OR 'intraglobin f' OR isiven OR iveegam OR ivega OR ivig OR panglobulin OR sandoglobin OR tegelin OR tegeline OR veinoglobulin OR venoglobulin OR 'venoglobulin i' OR 'venoglobulin-i' #4 #2 OR #3 #5 #1 AND #4 #6 #5 AND [embase]/lim NOT ([embase]/lim AND [medline]/lim) AND [1-11-2019]/sd
+
+
+Cochrane
+#1 MeSH descriptor: [Coronavirus] explode all trees
+
+#2 MeSH descriptor: [Coronaviridae] explode all trees
+#3 MeSH descriptor: [Betacoronavirus] explode all trees
+
+#4 MeSH descriptor: [Coronavirus Infections] explode all trees
+
+#5 (COVID 19) OR (COVID-19) OR (2019-nCoV) OR (nCoV) OR (Covid19) OR (SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) OR (2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) OR (2019 novel coronavirus infection) OR (2019-nCoV infection) OR (coronavirus disease 2019) OR (2019-nCoV disease) OR (COVID-19 virus disease) OR "severe acute respiratory syndrome coronavirus 2" [Supplementary Concept] OR (Wuhan coronavirus) OR (Wuhan seafood market pneumonia virus) OR (COVID19 virus) OR (COVID-19 virus) OR (coronavirus disease 2019 virus) OR (SARS-CoV-2) OR (SARS2) OR (2019-nCoV) OR (2019 novel coronavirus)
+#6 #1 OR #2 OR #3 OR #4 OR #5
+
+#7 MeSH descriptor: [Interleukin-6] explode all trees
+#8 interleukin 6 OR "IL 6" OR IL-6 OR IL6
+#9 Tocilizum* OR altizumab OR actemra OR RHPM-1 OR RG-1569 OR R-1569 OR MSB11456 OR MSB-11456 OR (monoclonal antibody, MRA) OR (RO-4877533) OR roactemra OR anti‐IL‐6 OR anti‐interleukin‐6 OR siltuximab OR CLLB8 OR (cClB8 monoclonal antibody) OR Sylvant OR CNTO-328 OR (CNTO 328 monoclonal antibody) OR (monoclonal antibody CNTO328) OR sarilumab OR SAR-153191 OR SAR153191 OR Kevzara OR REGN-88 OR REGN88 OR olokizumab OR CDP-6038 OR CDP6038 OR elsilimomab OR BMS945429 OR ALD518 OR sirukumab OR (CNTO 136) OR CNTO-136 OR CPSI-2364 OR ALX-0061 OR clazakizumab OR ALD-518 OR ALD518 OR BMS-945429 OR sarilumab OR SAR-153191 OR SAR153191 OR Kevzara OR REGN-88 OR REGN88 OR sirukumab OR ARGX-109 OR FE301 OR FM101
+#10 MeSH descriptor: [Tumor Necrosis Factors] explode all trees OR TNF OR TNF- alpha OR TNF-α OR Anti-TNF
+#11 MeSH descriptor: [Tumor Necrosis Factor-alpha] explode all trees
+#12 MeSH descriptor: [Infliximab] explode all trees
+#13 Infliximab-dyyb OR Remicade OR Renflexis OR Inflectra OR Infliximab-abda OR (Monoclonal Antibody cA2) OR (MAb cA2) OR Infliximab-dyyb
+#14 MeSH descriptor: [Etanercept] explode all trees
+#15 (TNFR-Fc Fusion Protein) OR (TNR 001) OR (TNT Receptor Fusion Protein) OR TNTR-Fc OR TNR-001 OR TNR001 OR Etanercept-szzs OR Erelzi OR Etanercept- szzs OR (TNFR Fc Fusion Protein)
+#16 MeSH descriptor: [Certolizumab Pegol] explode all trees
+#17 Certolizumab OR CDP870 OR (CDP 870) OR Cimzia
+#18 golimumab OR CNTO-148 OR (CNTO 148) OR Simponi
+#19 MeSH descriptor: [Adalimumab] explode all trees
+#20 Humira OR Adalimumab-adbm OR Amjevita OR Adalimumab-atto OR Cyltezo OR (D2E7 Antibody)
+#21 MeSH descriptor: [Interleukin-1] explode all trees
+#22 IL-1 OR IL-1RA OR (IL 1) OR canakinumab OR ilaris OR ACZ-885 OR ACZ885 OR anti-IL-1 OR rilonacept OR ACZ885 OR anakinra
+#23 MeSH descriptor: [Interleukin-5] explode all trees
+#24 IL-5 OR (IL 5) OR (interleukin 5) OR Anti-IL-5 OR mepolizumab OR Bosatria OR SB-240563 OR SB240563 OR Nucala
+#25 MeSH descriptor: [Interleukin-23] explode all trees
+#26 "IL-23" OR (Interleukin 23) OR guselkumab OR tildrakizumab OR risankizumab
+#27 MeSH descriptor: [Interleukin-17] explode all trees
+#29 (Interleukin 17F) OR IL-17F OR brodalumab OR secukinumab OR ixekizumab
+#30 MeSH descriptor: [Abatacept] explode all trees
+#31 LEA29Y OR BMS224818 OR BMS-224818 OR (BMS 224818) OR Belatacept OR (BMS 188667) OR BMS-188667 OR (CTLA4 Ig Immunoconjugate) OR Nulojix
+#32 MeSH descriptor: [Rituximab] explode all trees
+#33 (CD20 Antibody) OR (Rituximab CD20 Antibody) OR Mabthera OR (IDEC-C2B8 Antibody) OR (IDEC C2B8 Antibody) OR (IDEC-C2B8) OR (IDEC C2B8) OR GP2013 OR Rituxan OR (CD20 Antigen) OR (CD20 Antigens)
+#34 belimumab OR (BEL-114333) OR BEL114333 OR HGS-1006 OR HGS1006 OR LymphoStat-B OR GSK-1550188 OR GSK1550188 OR Benlysta OR secukinumab
+#35 MeSH descriptor: [Interleukin-17] explode all trees
+#36 IL-17A OR IL-17 OR (IL 17) OR ixekizumab OR brodalumab OR guselkumab OR tildrakizumab OR risankizumab
+#37 MeSH descriptor: [Interleukin-12] explode all trees
+#38 MeSH descriptor: [Interleukin-23] explode all trees
+#39 IL-23 OR (IL 23) OR (interleukin 23)
+#40 MeSH descriptor: [Ustekinumab] explode all trees
+#41 Stelara OR (CNTO 1275) OR CNTO-1275
+#42 briakinumab OR A-796874.0 OR BSF-415977 OR (BSF 415977) OR WAY-165772 OR LU-415977 OR (LU 415977) OR J-695 OR J695 OR ABT-874 OR (ABT-874 antibody, human) OR Anti-C5 OR eculizumab OR Alexion OR Soliris OR H5G1.1 OR H5G1-1 OR H5G1
+#43 Apremilast OR Otezla OR Tasocitinib OR (tofacitinib citrate) OR Xeljanz OR Baricitinib OR Olumiant
+#44 Azathioprine OR Azothioprine OR Imurel OR Imuran OR Immuran
+#45 MeSH descriptor: [Mycophenolic Acid] explode all trees
+#46 (Mycophenolate Mofetil) OR (Mycophenolate Sodium) OR Myfortic
+#47 MeSH descriptor: [Cyclophosphamide] explode all trees
+#48 Sendoxan OR Cytophosphan OR Procytox OR Cyclophosphane OR Neosar OR Cytoxan OR Cytophosphane
+#49 MeSH descriptor: [Cyclosporins] in all MeSH products
+#50 (CsA Neoral) OR CsANeoral OR CsA-Neoral OR Neoral OR CyA-NOFM OR CyA NOF OR Cyclosporin OR Ciclosporin OR “Cyclosporine A” OR Sandimmune OR Sandimmun
+#51 MeSH descriptor: [Tacrolimus] explode all trees
+#52 Prograf OR Prograft
+#53 MeSH descriptor: [Chloroquine] explode all trees
+#54 Nivaquine OR Aralen OR Arechine OR Arequin OR Chlorochin OR Chingamin OR Khingamin
+#55 MeSH descriptor: [Hydroxychloroquine] explode all trees
+#56 Plaquenil OR Hydroxychlorochin OR Oxychlorochin OR Oxychloroquine OR
+#57 MeSH descriptor: [Sulfasalazine] explode all trees
+#58 Salicylazosulfapyridine OR Sulphasalazine OR Salazosulfapyridine OR (Colo Pleon) OR Pleon OR Colo-Pleon OR Azulfadine OR Azulfidine OR Asulfidine OR Sulfasalazin-Heyl OR Sulfasalazin OR Salazopyrin OR Ulcol OR Ucine OR "Pyralin EN"
+#59 MeSH descriptor: [Methotrexate] explode all trees
+#60 Methotrexate OR Mexate OR Amethopterin
+#61 MeSH descriptor: [Leflunomide] explode all trees
+#62 "N-(4-Trifluoromethyphenyl)-5-methylisoxazole-4-carboxamide" OR Arava OR (SU101) OR (HWA 486) OR HWA486 OR HWA-486
+#63 MeSH descriptor: [Dapsone] explode all trees
+#64 Sulfona OR "4,4'-Diaminophenyl Sulfone" OR Diaphenylsulfone OR DADPS OR "4,4' Diaminophenyl Sulfone" OR "Sulfone, 4,4'-Diaminophenyl" OR Diaminodiphenylsulfone OR Sulfonyldianiline OR Avlosulfone OR Disulone OR "Dapsoderm-X" OR "Dapson-Fatol"
+#65 MeSH descriptor: [Glucocorticoids] explode all trees
+#66 “Glucocorticoid Effect” OR Glucocorticoid
+#67 MeSH descriptor: [Immunoglobulins] explode all trees
+#68 Immunoglobulin OR Globulins
+
+
+
+SCOPUS #1 TITLE-ABS-KEY(coronavirus) #2 TITLE-ABS-KEY(coronaviridae) #3 TITLE-ABS-KEY("Coronavirus Infections") #4 TITLE-ABS-KEY(betacoronavirus) #5 (COVID 19) OR (COVID-19) OR (2019-nCoV) OR (nCoV) OR (Covid19) OR (SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) OR (2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) OR (2019 novel coronavirus infection) OR (2019-nCoV infection) OR (coronavirus disease 2019) OR (2019-nCoV disease) OR (COVID-19 virus disease) OR (severe acute respiratory syndrome coronavirus 2) OR (Wuhan coronavirus) OR (Wuhan seafood market pneumonia virus) OR (COVID19 virus) OR (COVID-19 virus) OR (coronavirus disease 2019 virus) OR (SARS-CoV-2) OR (SARS2) OR (2019-nCoV) OR (2019 novel coronavirus) #6 (LIMIT-TO(PUBYEAR, 2020) OR LIMIT-TO(PUBYEAR, 2019)) #7 #1 OR #2 OR #3 OR #4 OR #5
+#8 #7 AND #6
+
+
+
+PORTAL REGIONAL BVS - LILACS MH:"Infecções por Coronavirus" OR (Infecções por Coronavirus) OR (Infecciones por Coronavirus) OR (Coronavirus Infections) OR (COVID-19) OR (COVID 19) OR (Doença pelo Novo Coronavírus (2019-nCoV)) OR (Doença por Coronavírus 2019- nCoV) OR (Doença por Novo Coronavírus (2019-nCoV)) OR (Epidemia de Pneumonia por Coronavirus de Wuhan) OR (Epidemia de Pneumonia por Coronavírus de Wuhan) OR (Epidemia de Pneumonia por Coronavírus de Wuhan de 2019-2020) OR (Epidemia de Pneumonia por Coronavírus em Wuhan) OR (Epidemia de Pneumonia por Coronavírus em Wuhan de 2019-2020) OR (Epidemia de Pneumonia por Novo Coronavírus de 2019-2020) OR (Epidemia pelo Coronavírus de Wuhan) OR (Epidemia pelo Coronavírus em Wuhan) OR (Epidemia pelo Novo Coronavírus (2019-nCoV)) OR (Epidemia pelo Novo Coronavírus 2019) OR (Epidemia por 2019-nCoV) OR (Epidemia por Coronavírus de Wuhan) OR (Epidemia por Coronavírus em Wuhan) OR (Epidemia por Novo Coronavírus (2019-nCoV)) OR (Epidemia por Novo Coronavírus 2019) OR (Febre de Pneumonia por Coronavírus de Wuhan) OR (Infecção pelo Coronavírus 2019-nCoV) OR (Infecção pelo Coronavírus de Wuhan) OR (Infecção por Coronavirus 2019-nCoV) OR (Infecção por Coronavírus 2019-nCoV) OR (Infecção por Coronavírus de Wuhan) OR (Infecções por Coronavírus) OR (Pneumonia do Mercado de Frutos do Mar de Wuhan) OR (Pneumonia no Mercado de Frutos do Mar de Wuhan) OR (Pneumonia por Coronavírus de Wuhan) OR (Pneumonia por Novo Coronavírus de 2019-2020) OR (Surto de Coronavírus de Wuhan) OR (Surto de Pneumonia da China 2019-2020) OR (Surto de Pneumonia na China 2019-2020) OR (Surto pelo Coronavírus 2019-nCoV) OR (Surto pelo Coronavírus de Wuhan) OR (Surto pelo Coronavírus de Wuhan de 2019-2020) OR (Surto pelo Novo Coronavírus (2019-nCoV)) OR (Surto pelo Novo Coronavírus 2019) OR (Surto por 2019-nCoV) OR (Surto por Coronavírus 2019-nCoV) OR (Surto por Coronavírus de Wuhan) OR (Surto por Coronavírus de Wuhan de 2019-2020) OR (Surto por Novo Coronavírus (2019-nCoV)) OR (Surto por Novo Coronavírus 2019) OR (Síndrome Respiratória do Oriente Médio) OR (Síndrome Respiratória do Oriente Médio (MERS)) OR (Síndrome Respiratória do Oriente Médio (MERS-CoV)) OR (Síndrome Respiratória do Oriente Médio por Coronavírus) OR MH:C01.925.782.600.550.200$
+Filter: Publication year: 2019-2020
+

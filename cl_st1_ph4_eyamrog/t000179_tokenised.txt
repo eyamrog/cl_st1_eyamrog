@@ -1,0 +1,668 @@
+Status: Preprint has been published in a journal as an article DOI of the published article: https://doi.org/10.1186/s12889-021-11964-6 Development a set of scales to assess job satisfaction among physicians in Peru: validity and reliability assessment David Villarreal-Zegarra , Roberto Torres-Puente, Ronald Castillo-Blanco, Baltica Cabieses, Luciana Bellido-Boza, Edward Mezones-Holguín https://doi.org/10.1590/SciELOPreprints.940 Submitted on: 2020-07-11 Posted on: 2020-07-13 (version 1) (YYYY-MM-DD) Powered by TCPDF (www.tcpdf.org) 1
+Development a set of scales to assess job satisfaction among physicians in Peru: validity and reliability assessment
+Authors David Villarreal-Zegarra 1,2,3 Roberto Torres-Puente 1 Ronald Castillo-Blanco 4 Baltica Cabieses 5 Luciana Bellido-Boza 6,7 Edward Mezones-Holguin 8,9
+Affiliation 1 Instituto Peruano de Orientación Psicológica, Lima, Peru. 2 Universidad Peruana Cayetano Heredia, CRONICAS Center of Excellence in Chronic Diseases, Lima, Peru. 3 Universidad Católica Los Ángeles de Chimbote, Instituto de Investigación, Chimbote, Peru. 4 Universidad del Pacífico, Gestión del Aprendizaje y Aseguramiento de la Calidad, Lima, Peru. 5 Universidad del Desarrollo, Facultad de Medicina Clínica Alemana, Instituto de Ciencias e Innovación en Medicina (ICIM), Santiago de Chile, Chile. 6 Intendencia de Investigación y Desarrollo, Superintendencia Nacional de Salud, Lima, Peru. 7 Universidad Peruana de Ciencias Aplicadas, Facultad de Ciencias de la Salud, Lima, Peru. 8 Universidad San Ignacio de Loyola, Centro de Excelencia en Investigaciones Económicas y Sociales en Salud. Lima, Peru. 9 Epi-gnosis Solutions, Piura, Peru.
+Email: David Villarreal-Zegarra davidvillarreal@ipops.pe Roberto Torres-Puente robertotorres@ipops.pe Ronald Castillo-Blanco rw.castillob@up.edu.pe Baltica Cabieses bcabieses@udd.cl Luciana Bellido-Boza lubellido@gmail.com Edward Mezones-Holguin emezones@gmail.com
+ORCID: David Villarreal-Zegarra https://orcid.org/0000-0002-2222-4764 Roberto Torres-Puente https://orcid.org/0000-0003-4989-4538 Ronald Castillo-Blanco https://orcid.org/0000-0003-2945-3583 Baltica Cabieses https://orcid.org/0000-0003-0756-1954 Luciana Bellido-Boza https://orcid.org/0000-0003-0825-9271 Edward Mezones-Holguin https://orcid.org/0000-0001-7168-8613
+Corresponding author Edward Mezones-Holguin MD. MSc Avenida La Fontana 550, La Molina, Lima, Perú. Email: emezones@gmail.com
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 2
+DECLARATIONS
+Interest conflict Luciana Bellido-Boza and Edward Mezones-Holguin worked in the Superintendencia Nacional de Salud (SUSALUD) when the survey was developed, and coordinated the design on behalf of ENSUSALUD.
+Funding The Superintendencia Nacional de Salud (SUSALUD) funding the data collection and the development of the instruments, although the present analysis was self for the authors.
+Ethics approval and consent to participate Not apply.
+Consent for publication Not apply.
+Availability of data and materials The ENSUSALUD database is publicly available on web (http://portal.susalud.gob.pe/blog/base-de-datos-2016).
+Authors' contributions David Villarreal-Zegarra: Conceptualization, Formal Analysis, Methodology, Visualization, Writing – Original Draft Preparation. Roberto Torres-Puente: Formal Analysis, Writing – Original Draft Preparation. Ronald Castillo-Blanco: Supervision, Formal Analysis, Methodology, Writing – Review & Editing. Baltica Cabieses: Supervision, Validation, Writing – Review & Editing. Luciana Bellido-Boza: Validation, Writing – Review & Editing. Edward Mezones-Holguin: Conceptualization, Supervision, Validation, Writing – Review & Editing.
+Acknowledgements None.
+Number of Figures: 1
+Number of Tables: 3
+Number of Supplements: 3
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 3
+
+Development a set of scales to assess job satisfaction among physicians in Peru: validity and reliability assessment
+ABSTRACT To assess the evidences of validity and reliability of a set of scales on different areas of job satisfaction (general professional activity, health services management, and working conditions) in Peruvian physicians based on data from the National Survey of Satisfaction of Users in Health (ENSUSALUD). Participants were selected from a two-stage probabilistic national representative sampling stratified by political region. We included 2,137 participants in the analysis. General professional activity scale with 6 items (CFI=0.946; RMSEA=0.071) and the health services management scale with 8 items (CFI=0.972; RMSEA=0.081) showed good measurement properties for the one- dimensional model. The scale of working conditions presented adequate measurement properties with a two-dimensional model (CFI=0.914; RMSEA=0.080): individual conditions (8 items) and infrastructural conditions (3 items). The invariance analysis presented that comparisons can be made between sex, age, civil status, medical specialty, working in other institutions, work-related illness, chronic disease, and time working in health care center. All scales had adequate internal consistency (ω and α between 0.70 and 0.90). Based on our findings, these instruments are suitable for measuring job satisfaction among outpatient physicians throughout Peru, as our data is representative at the country level. Keywords: Job Satisfaction, Physicians, Psychometrics, Health Services Research, Peru.
+Elaboración de un set de escalas para evaluar la satisfacción laboral de los médicos en Perú: evaluación de la validez y la fiabilidad
+RESUMEN Evaluar las evidencias de validez y fiabilidad de un set de escalas en diferentes áreas de la satisfacción laboral (actividad profesional general, gestión de servicios de salud y condiciones de trabajo) en los médicos peruanos a partir de los datos de la Encuesta Nacional de Satisfacción de Usuarios en Salud (ENSUSALUD). Los participantes se seleccionaron a partir de un muestreo representativo a nivel nacional y probabilístico con dos etapas, estratificado por región geográfica. Incluimos 2.137 participantes en el análisis. La escala de actividad profesional general con 6 ítems (CFI=0,946; RMSEA=0,071) y la escala de gestión de servicios de salud con 8 ítems (CFI=0,972; RMSEA=0,081) mostraron buenas propiedades de medición para el modelo unidimensional. La escala de condiciones de trabajo presentó adecuadas propiedades de medición con un modelo bidimensional (CFI=0,914; RMSEA=0,080): condiciones individuales (8 ítems) y condiciones infraestructurales (3 ítems). El análisis de invariancia presentó que se pueden hacer comparaciones entre sexo, edad, estado civil, especialidad médica, trabajo en otras instituciones, enfermedades relacionadas con el trabajo, enfermedades crónicas y tiempo de trabajo en un centro de salud. Todas las escalas tuvieron una adecuada consistencia interna (ω y α entre 0,70 y 0,90). En base a nuestros hallazgos, estos instrumentos son adecuados para medir la satisfacción laboral entre los médicos ambulatorios en todo el Perú, ya que nuestros datos son representativos a nivel de país. Palabras clave: Satisfacción laboral, Médicos, Psicometría, Investigación de Servicios de Salud, Perú.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 4
+BACKGROUND
+Job satisfaction is defined as an emotional state or attitude towards a job, based on positive or negative experiences and on the values or expectations of worker (1). International evidence suggests that health workers with a higher ranked employment are more likely to be psychologically engaged with work (2). Job satisfaction is a critical concern to improve health policies because it can positively affect health workers´ performance and patient satisfaction (3). However, when there are low levels of job satisfaction among health workers, detrimental results appear in the form of burnout, employee turnover, job change, and poor working performance (4-6). These deficient functioning and quality outcomes worsen accountability and resilience of healthcare systems, contributing to pervasive health gaps between and within socioeconomic groups (4-6). Therefore, the evaluation of health workers job satisfaction, including physician who often lead healthcare teams, is a significant dimension to consider in the global public health agenda.
+Assessing of physician´s job satisfaction in low- and middle-income countries is urgently required, since they struggle more often with complex labor dynamics like limited financial compensation, lack of opportunities for career development, workload and poor legal safety compared to their peers who work in high-income developed countries (7). In many developing countries, job dissatisfaction may lead to the migration of health workers overseas, causing specialists shortages (8-10). Although assessing the satisfaction of physicians in their workplaces is highly relevant, their measurement constitutes a great challenge. It needs the evaluation of various factors and dimensions of the working environment, which go far beyond the physician´s knowledge and experience. There is evidence that job satisfaction is associated with the doctor-patient relationship, workload, relationship with colleagues, financial conditions, and autonomy in clinical decision-making (11, 12). It should be noted that many of these factors associated with job satisfaction are modifiable, which brings the attention to the development of adequate measurement tools in such complex scenarios. Particularly, there are many scales for assessing job satisfaction, but many of these instruments have not been adapted to low- and medium-income contexts, let alone considering the peculiarities of each of these healthcare systems (12, 13). Thus, it is necessary to have instruments that are contextualized to the characteristics of each healthcare system to prevent the risk of measurement biases.
+Peru is a middle-income country in Latin America that has suffered historical and structural difficulties and deficiencies in the public health arena including financial crises and an unfavorable political climate. Due to these limitations, job satisfaction of the healthcare personnel has received scarce attention (14). In addition, Peru has an underdeveloped healthcare system that lacks of sufficient human resources and financial support, which contributes directly to the reproduction of inequities in healthcare (15, 16). There are several situations that could be influencing health workers and physicians’ job satisfaction in Peru; nevertheless, to our knowledge no valid and reliable instrument has been developed to adequately assess them at national level. The lack of a robust measure of physicians´ job satisfaction could obscure the diagnosis and monitoring in this topic in this country, and also have an impact on health policy planning and human resources sustainability. In 2016, the National Health Authority (SUSALUD, from the Spanish acronym) carried out the National Survey of Satisfaction of Users in Health (ENSUSALUD, from Spanish acronym) to evaluate the User Satisfaction of Universal SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 5
+Health Insurance on six different populations in Peruvian Health System. One section was performed in doctors working in healthcare centers. ENSUSALUD included questions related to job satisfaction of these professionals; nonetheless, no formal analysis was carried out to evaluate the validity and reliability of these instruments.
+Based on the above-mentioned, our objective was to evaluate the evidence of validity and reliability of a set of scales on different areas of job satisfaction (general professional activity, health services management, and working conditions) in Peruvian physicians based on data from the National Survey of Satisfaction of Users in Health (ENSUSALUD). Our results could contribute to measurement improvement in relation to physician´s job satisfaction in Peru. It could also serve as baseline information for the development of public policies in the area of human resources in healthcare.
+METHODS
+Design and data source
+The ENSUSALUD database is publicly available on web (http://portal.susalud.gob.pe/blog/base-de-datos-2016). We carried out a psychometric study based on secondary data analysis of Questionnaire 2 of ENSUSALUD-2016. This section was filled out by physicians and nurses working in health care centers, our analysis was carried out specifically in doctors.
+ENSUSALUD 2016 was developed by the Peruvian National Institute of Statistics in collaborative work with SUSALUD. This survey was performed in 185 healthcare centers in all 25 regions of Peru (17). Professionals who had worked for a minimum of 12 months in healthcare centers and were assigned to the public subsector were included: Ministry of Health (MINSA, from the Spanish acronym), Social Security (EsSalud, from the Spanish acronym), Armed Forces and Police Health Services, and private subsector.
+Participants Participants were selected from a complex two-stage probabilistic national representative sampling stratified by political region. Primary sampling unit was the healthcare centers and secondary sampling unit were professionals. Physicians over 65 years were excluded (retirement age in Peru).
+Generation and development Prior to ENSUSALUD 2016, there were two first attempts to develop a job satisfaction scale for healthcare workers in the country, in 2014 and 2015. The process of developing these instruments was two-folded:
+First phase: Development of the first two versions of ENSUSALUD During the first half of 2014, a multidisciplinary technical team (from Health Services Quality Directorate of the Ministry of Health, Research and Development Intendance of SUSALUD, and Peruvian National Institute of Statistics) proposed 53 preliminary scales to assess different aspects of the work of health professionals (physicians and nurses) with additional sociodemographic data (18). These preliminary scales were based on a review of the literature and operational tools previously used by Ministry of Health the country. Each preliminary scale had from 1 to 22 items and they were all included in the first version of ENSUSALUD 2014 (one national survey). The preliminary scales were groups SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 6
+of items based on instruments already designed or designed ad hoc to evaluate the Peruvian health system (in this case, the measurement properties had not been evaluated). Subsequently, in ENSUSALUD 2015 the same technical team reused the 53 preliminary scales used in the first version of ENSUSALUD 2014, added some preliminary scales, and modified the wording of some items based on previous experience (19).
+Second phase: Validation of ENSUSALUD 2016 In 2016, SUSALUD convened representatives of the Social Security, Armed forces and police Health Services, officials of the Comprehensive Health Insurance, and four universities in Lima, Peru. Modifications to the existing questionnaires were discussed, existing items were maintained in ENSUSALUD 2015 and 29 new preliminary scales were added.
+In relation to the job satisfaction, they decided to keep all the questions and items from the previous version, but with certain modifications. Therefore, a total of 30 items in three groups of items (three preliminary scales) were available on different aspects of job satisfaction and were evaluated in questionnaire 2 of ENSUSALUD 2016.
+Procedures The evaluation is done through an individual interview between the evaluator and the physician. The data was filled in on a Tablet that sent the information in real-time into a database. The Peruvian National Institute of Statistics was in charge of collecting the data and the process was supervised by SUSALUD. In order to take care of the quality of the data, there was constant monitoring, through a network of supervisors who were distributed as follows. The evaluators were under the responsibility of a coordinator from each team and the teams were in turn under the supervision of a regional supervisor. Measuring instruments The 30-items job satisfaction questionnaire of ENSUSALUD evaluates different job- related aspects and is divided into three different scales: general professional activity (6 items), Health Services Management (8 items), and working conditions of the health center (16 items). Each of these items is Likert type and has five answer options (5 = very satisfied; 4 = satisfied; 3 = neither satisfied nor dissatisfied; 2 = dissatisfied; 1 = very dissatisfied). The scale appears in supplement 1. A preliminary English version of the items is also presented for comparison purposes, which were not evaluated in this study (see Supplement 2).
+Satisfaction scale on general professional activity: to explore several general aspects of the professional labor. Its items evaluate the satisfaction of the doctor-patient relationship, achievements associated with the profession, work availability, perception of occupational risk, and expectations in meeting the needs of the patient. Within ENSUSALUD the items in Spanish of this instrument are in question 82 with codes from c2p82_1 to c2p82_6 (see supplement 1).
+Health Services Management Satisfaction Scale: To assess facility's management team runs and organizes the healthcare facility. The items included in this scale are satisfaction with resource management (economic and human), drug management, shift scheduling, and work capacity. In ENSUSALUD, the items of this instrument are in question 83 with codes from c2p83_1 to c2p83_8 (see supplement 1).
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 7
+Satisfaction scale on the working conditions of the health center: To evaluate the working conditions perceived by the health professional. The indicators of the scale are satisfied with the possibility of promotion, organization of the health center, workload, schedules, salary, opportunities, infrastructure and equipment, relationship with superiors, administrative procedures, and hygiene of the health center. In ENSUSALUD, the items of this instrument are in question 81 with codes from c2p81_1 to c2p81_16 (see supplement 1).
+In addition, we include demographic, professional and economic information in our analysis. Sex, age and marital status (whether they are currently living with a couple) were the demographic variables. We also evaluated additional professional information, such as having a specialty (yes, in process, or no), whether they worked in other institutions (yes / no), self-reported work-related illness (yes / no), type of organization where they work (Ministry of Health, EsSalud, Armed forces and national police, or Private clinics), and time spent working. Additionally, self-reported monthly income was evaluated and categorized according the minimum wage (less than four, four to ten, and more than ten). Minimum wage was 750 Peruvian soles (PEN) or US$222.5 (considered to be an exchange rate of 3.37 soles per US dollar).
+Statistical Analysis Descriptive analysis We presented general characteristics of the participants using weighted frequencies and percentages.
+Exploratory factor analysis (EFA) A random subset from the total sample (split-half method) (20, 21) was analyzed. Polychoric matrices were used (22) and the estimator was weighted using least squares means and variance adjusted (WLSMV) (23), since it best fitted the ordinal nature of our items. We used quartimin rotation, parallel analysis test and Kaiser analysis to evaluate the most appropriate number of dimensions (24). Different models were obtained and evaluated to identify the one with the best measurement properties. This decision was made since theoretical models suggest that job satisfaction is a multidimensional construct. Before performing exploratory factorial analysis, the value of the Kaiser- Meyer-Olkin (KMO) was estimated. This is an index of sample adequacy, which allows identifying whether there is enough power or sample size to perform the analysis. Adequate KMO values higher than 0.90 are adequate (22).
+To evaluate the factor structures we used three different criteria. First, items factor loadings should be equal to or greater than 0.40 (20). Second, if a scale has more than one dimension, each dimension must have at least three items to be considered stable (25). Third, if an item loads in more than one dimension and the difference of loading between them is lower than 0.020, the item will be deleted. However, if the difference in loadings is equal to or greater than 0.20, then the item will be included in the dimension that has the highest factor load (20).
+Confirmatory factor analysis (CFA) For confirmatory factor analysis, the models previously obtained in the exploratory factor analysis were evaluated. All the analysis were performed considering the complex characteristics of the sampling strategy (complex multistage sampling), for which the SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 8
+lavaan.survey command was used. The estimator used was WLSMV (23), and polychoric matrices were used (22).
+The adjustment of the different models for the three scales was evaluated in three steps. First, a set of the goodness-of-fit indices was estimated. We used the Comparative Fit Index (CFI) and the Tucker-Lewis Index (TLI), both with optimal values ≥0.95; Standardized Root Mean Square Residual (SRMR) and Root Mean Square Error of Approximation (RMSEA) with a confidence interval of 90%, both with values adequate if <0.08 (26, 27). Second and last step, if a scale had two or more dimensions, the correlation between the dimensions was evaluated, in order to test whether dimensions could overlap. Clear differentiation between the two dimensions can be considered when the correlation is less than 0.80 (23).
+Measurement Invariance Multiple models of the CFA measurement invariance were evaluated through groups defined by relevant variables (sex, age group, marital status, if they have a medical specialty, if they work in other institution, individual income per month, self-reported work-related illness and self-reported chronic disease). Thus, four measurement models with progressive restrictions were compared between categories of these groups (e.g. between females and males) (28, 29). Change in the CFI (ΔCFI) was used as the main criterion for comparing models with more restrictions against models with fewer restrictions. Simulation evidence suggests that ΔCFI <.01 between successively more restricted models provides evidence for measurement invariance (29). Models first assumed configural invariance (i.e. similar factor structure across groups) as the baseline model, progressing then to metric invariance (i.e. similar factor loadings and factor structure across groups), strong invariance (i.e. similar thresholds, factor loadings and factor structure across groups), and strict invariance (i.e. similar residual item variances, thresholds, factor loadings and factor structure across groups). The ΔCFI was examined between each model to establish if the more restricted model was appropriate than the previous less restricted one. We preferred ΔCFI over χ2 comparisons, since it is not sensitive to big sample sizes (28, 29).
+Reliability We evaluate reliability by internal consistency method taking as the optimal value a McDonald's omega coefficient (ω) and the alpha coefficient (α). In both cases, appropriate values are considered to be those that are > 0.70 (30-33).
+We performed analysis according complex sampling in R Studio ®, specifically with the packages “lavaan” (34), “lavaan.survey” (35), “semTools” (36), and “semPlot” (37).
+Ethic topics The survey was anonymous and there was no information in the database that could lead to participants identification. Hence, conducting this analysis did not represent an ethical hazard since there was no access to confidential data. Two authors (LBB and EMH) participated in the design process of the three scales at the time the survey was being designed.
+RESULTS
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 9
+Descriptive Analysis We included 2,137 participants were included in the study. The majority of the participants were men (69.0%), living with a couple (married or cohabiting), more than half of them had a specialty, 65% had a monthly income of four to ten minimum wages ($890 to $2,225), one in four had a work-related illness, and one in three self-reported a chronic disease. Age was 44.7 years (SD: 10.8) and the average time worked in the organization was 9.4 years (SD: 9.2). The sociodemographic characteristics of physicians are displayed in Table 1.
+Exploratory factor analysis Satisfaction scale on general professional activity KMO value was greater than 0.90, suggesting an adequate sample size to perform the exploratory factor analysis. Parallel analysis identified two possible dimensions and Kaiser's analysis identified a single dimension. Due to this heterogeneity in our findings, one and two-dimensions models were evaluated at this stage. The one-dimensional model showed adequate factor loads (λ>0.4; see Table 2), but the two-dimension model did not meet the criteria of having at least three items for each dimension. Therefore, this two- dimension model was not considered for additional analyses.
+Health Services Management Satisfaction Scale KMO value was greater than 0.90, suggesting a good proportion of variance among variables that might be common variance. Parallel analysis identified three possible dimensions and Kaiser's analysis identified two dimensions. Due to the heterogeneity, one, two and three-dimensions models were evaluated. The one-dimensional and two- dimensional models presented adequate factor loads for physicians (λ>0.4) and met the condition of having at least three items in each dimension (see Table 2). On the other hand, the structure of the three-dimensional model was very heterogeneous. Its dimensions were not stable since they had very few items (less than three items per dimension). Therefore, this model was not considered in subsequent analyzes.
+Satisfaction scale on the working conditions of the health center KMO value was greater than 0.90, suggesting an adequate sample size to perform the exploratory factor analysis. Parallel analysis identified a two-dimensional model and Kaiser's analysis identified a three-dimensional model. Consequently, two and three- dimensional models were evaluated (see table 2). In the model with two dimensions, the item “order in the health service and labor organization” (variable c2p81_2 in the dataset) presented factor complexity, since there was no marked difference between factor loadings in the first and second dimensions. That was why this item was removed from analysis. In addition, the items on satisfaction about the hours or salary received (c2p81_7), training opportunities (c2p81_10), filling out the medical records (c2p81_15), and respect for the patient (c2p81_16) presented very low factor loads so were also eliminated from subsequent analyses. On the other hand, in the three-dimensional model we found that the first dimension was unstable (very few items,) so this model was also eliminated. Therefore, only the 2-dimensional model was considered for further analysis, only after excluding the five problematic items that were identified during this analysis (c2p81_2, c2p81_7, c2p81_10, c2p81_15, and c2p81_16).
+Confirmatory factor analysis Satisfaction scale on general professional activity SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 10
+The one-dimensional model evaluated achieved adequate goodness-of-fit indices (see Table 3), so the six items on this scale could be added up into an overall score.
+Health Services Management Satisfaction Scale The one-dimensional model and the two-dimensional model had adequate goodness-of- fit indices. However, the two-dimensional model has an extremely high latent correlation (greater than 0.80) suggesting that its dimensions might have been overlapping (see Table 3). Hence, the best model for this scale was the one-dimensional one with eight items.
+Satisfaction scale on the working conditions of the health center The two-dimensional model consisting of eleven items showed adequate goodness-of-fit indices and the latent correlation between the two dimensions was also within the appropriate values (less than 0.80, see Table 3). The first dimension was made up from eight items related to satisfaction with the physician´s working conditions (i.e. workload, hours, salary) and the second dimension had three items related to structural working conditions (i.e. infrastructure, equipment). From this analysis it was possible to conclude that this model presented adequate evidence of validity based on its internal structure and, therefore, was considered for further analysis (see Figure 1).
+Measurement Invariance Satisfaction scale on general professional activity Invariance was reached between marital status categories (those who live with a couple and those who don´t), having a chronic disease (those who have vs. those who do not), and people who have a work-related disease (those who have vs. those who do not). Therefore, comparisons between these groups could be performed. On the other hand, invariance was violated between men and women (sex), between people working in other institutions, and according to the time working in the institution. Comparisons between these variables could not be performed (see Supplement 3). Finally, it was not possible to evaluate invariance according to the type of organization, monthly income, having a specialty, nor age of the participant, because necessary assumptions for such analysis were not fulfilled in this group of variables.
+Health Services Management Satisfaction Scale and Satisfaction scale on the working conditions of the health center In both scales, invariance was reached according to sex, age groups, marital status, if you have a specialty or not, if you work in another institution, time working, and whether you have a work-related or chronic disease (see Supplement 3). Therefore, comparisons could be made between these groups using each of these scales. However, it was not possible to evaluate the invariance according to the type of organization and the monthly income since they did not meet the required assumptions.
+Reliability The Satisfaction scale on general professional activity (α=0.70; ω=0.70; 6 items) and the Health Services Management Satisfaction Scale (α=0.90; ω=0.90; 3 items) presented adequate internal consistency values. The Satisfaction scale on the Working Conditions of the Health Center presented adequate values of internal consistency for both the individual working conditions dimension (α=0.81 ;ω=0.81; 8 items) and the structural working conditions dimension (α=0.81 ;ω=0.82; 3 items).
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 11
+DISCUSSION Main findings The set of instruments was composed by three independents scales that were analyzed proved solid factorial structure and measurement invariance, which makes it possible for group comparison. They also achieved stability in their scores as they showed adequate internal consistency coefficients. Based on our findings, these instruments are suitable for measuring job satisfaction in physicians who work in the outpatient clinic in the Peruvian health system, as our data is representative at the country level. These instruments could become useful tools for evaluating different aspects of job satisfaction in physicians and could guide decision-making in human resources arena and health services research. These scales can be used together to assess different aspects of job satisfaction of physicians or independently to assess specific areas of job satisfaction.
+Contrasting findings with existing literature A systematic review identified that, between 2000 and 2017, 61 studies evaluating job satisfaction in physicians had been carried out in Europe, in which 26 different instruments were used to assess it (38). Moreover, 31% of the studies included developed their own instruments to assess job satisfaction (38). The great heterogeneity of instruments used in the European context could be related to differences in how these healthcare systems are organized and function, so that using a single instrument could lead to biased conclusions. In Latin America there is no data reporting which are the most frequent instruments used to assess job satisfaction. However, some studies conducted in this region have adapted a variety of instruments to assess it like the Copenhagen Psychosocial Questionnaire (39) or the Warr–Cook–Wall Job Satisfaction Scale (40). These studies were conducted on small samples, they were not nationally representative, and they selected instruments that were originally designed in very different healthcare contexts in countries located in the European region. Although there are some instruments designed in Latin American countries, they experience the same limitations of the European ones.
+In all, there is limited data on this topic in the Latin American region and a great variety of scales developed elsewhere that need further analysis and testing. The three scales presented in our study have been created considering the peculiarities of a middle-income country in the Latin American region like Peru and reported adequate evidence of validity and reliability. For example, the consideration that there are primary care centers where water, drainage, and light may not be available permanently (item c2p81_11), that many health professionals tend to work in several institutions at the same time (items c2p82_3), or on the way in which rotations or changes in opening hours are organized (item c2p83_5). Therefore, they could be used as a set of tools to evaluate different aspects of job satisfaction in physicians in this and other Spanish speaking countries with similar healthcare contexts.
+Factor analysis We found evidence of internal structure of the scales resulting from exploratory and confirmatory factor analysis. Our analyses indicates that both the professional activity satisfaction scale and the health center management scale are one-dimension scales; i.e. all items can be added up to obtain an overall score (23). For its part, the satisfaction scale on working conditions was a two-dimension scale (individual and structural dimensions), so it is possible to obtain an independent score for each dimension (23). SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 12
+Our three instruments allow us to collect information on different aspects of job satisfaction in physicians, considering the peculiarities of the health system in a middle- income country. For example, our scale on general professional activity evaluates the availability of physicians to work as care staff in other institutions (item c2p82_3), since in Peru about half of the physicians work in more than one institution. On the other hand, in the Health Services Management scale included items that assess satisfaction with how the rotating shifts are managed (item c2p83_5) and with drug management (item c2p83_2). It should be noted that we have not identified any other scale in the literature that assesses satisfaction with how health centres are managed. Finally, our working conditions scale allows us to assess satisfaction with your position in your institution (item c2p81_6) and with basic services such as water or drainage (item c2p81_11).
+It is noted, some items of our scales (professional activity, health center management, individual and structural working conditions) are theoretically similar to other psychometric scales reported in the past. For example, the 4CornerSAT questionnaire used to measure physicians´ career satisfaction has four dimensions that are akin to the ones we have identified in this study (personal, professional, performance, and inherent) (41, 42).
+Measurement Invariance The number of studies that have evaluated measurement invariance in job satisfaction scales is limited, so very few instruments have enough evidence to justify making comparisons between groups. However, the practice of making comparisons between groups is very common, even when there is not enough evidence to carry out this analysis. This could end in biased results if invariance is violated (29). One study identified that invariance was achieved by comparing the outcomes of physicians and nurses from 14 European countries, suggesting that cultural factors allow different organizational variables to be assessed in these professionals over time (43). Our study tested measure invariance of the scales and, therefore, allows comparisons between different groups such as marital status, whether they have occupational or chronic diseases. In addition, for the working conditions and health center management scales, further comparisons can be made between men and women, age groups, whether they have a specialty, whether they work in another institution, and between the time of service. Based on our findings, all these comparisons are free of measurement bias (29).
+Reliability We found stability in the scores of three scales. The advantage of our scales compared to others is that they are reasonably short and report adequate levels of internal consistency. This is relevant since many scales like the Warr-Cook-Wall Job Satisfaction Scale 38 provide little variability and require a large amount of items to achieve stable values (25).
+Strengths and limitations One of the strengths of our study was the representativeness of the results at the country level in Peru, allowing us to test the scales in different outpatient settings. Also, there was quality control and real-time monitoring of the data being collected. However, we recognized three mains limitations. First, despite having evidence of internal structure for the three instruments, our scales lacked a cut-off that could have determined whether a Peruvian physician was satisfied or not with any of the dimensions evaluated. This happened because we found no robust result in both sensitivity and specificity analyses performed for the selected scales. Second, validity and reliability estimates were only SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 13
+estimated on outpatient physicians; therefore, results cannot be generalized to other health professionals or doctors in other settings such as hospitals or community settings. Third, as this was secondary data analysis, it was not possible to evaluate some variables that would allow a better understanding of job satisfaction. For example, race, the presence of a diagnosed mental health problem, etc. we’re not considered.
+Implications in public health, health services management and future research We are going through challenging times for healthcare systems worldwide. Due to global challenges in demographic, political, economic and social dimensions of human life, the healthcare field is experiencing unprecedented changes that threaten the ability of many organizations to effectively promote and protect population health. Many of these healthcare systems struggle to survive, too. To successfully navigate these challenges, healthcare systems need committed and productive teams, including physicians working in collaboration with organization leaders and the community (44). Job satisfaction is a relevant dimension to monitor over time, but most measurement scales available nowadays are outdated, limited or not culturally translated to other countries and highly diverse territories. In order to support the existence and protective capacity of healthcare systems to promote and maintain population health and wellbeing, job satisfaction needs to be adequately addressed.
+In Peruvian health system, National Health Authority (SUSALUD) is responsible of protect and promote the health rights based on insurance and health care provision. Within this competence, physician’s job satisfaction was become relevant, yet little has been done to measure it. This study provides novel evidence of the validity and reliability of the ENSUSALUD satisfaction scales to measure job satisfaction among physicians. Having national measures of work satisfaction and other work variables in health professionals represent a valuable tool for decision-makers. In particular, the ENSUSALUD allowed us to have a vision of several important organizational elements in Peruvian primary care physicians. Our results could contribute to a better measurement of physician satisfaction in Peru, and it serves as basis for making-decisions public policies in the human resources in health area, as well as serve as source for developing their applicability to Spanish-speaking physicians in other health systems in Latin America and Europe.
+Studies are needed that compare Peruvian regions according to different areas of job satisfaction (an objective that is beyond the scope of this study). Also, it is necessary to identify a gold standard of job satisfaction as it would allow for sensitivity and specificity studies. It is suggested to be able to evaluate the measurement properties of the three scales presented in other contexts, for which we attach in supplement 1 and 2, the Spanish and English versions, respectively. In particular, the psychometric properties of the English version need to be evaluated, since this is only one proposal of the authors.
+Conclusion and recommendations The three scales presented allow different aspects of job satisfaction to be evaluated, such as professional activity, perception of health service management, and working conditions. Their use is recommended to assess the job satisfaction of primary care physicians in Peru. In addition, it is suggested that stakeholders may use the scales as an indicator of decision-making in the health system.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 14
+REFERENCES 1. Zhang M, Yang R, Wang W, Gillespie J, Clarke S, Yan F. Job satisfaction of urban community health workers after the 2009 healthcare reform in China: a systematic review. International journal for quality in health care : journal of the International Society for Quality in Health Care. 2016;28(1):14-21. 2. Carter MR, Tourangeau AE. Staying in nursing: what factors determine whether nurses intend to remain employed? J Adv Nurs. 2012;68(7):1589-600. 3. Deriba BK, Sinke SO, Ereso BM, Badacho AS. Health professionals' job satisfaction and associated factors at public health centers in West Ethiopia. Human resources for health. 2017;15(1):36. 4. Dieleman M, Harnmeijer J. Improving Health Worker Performance: In Search of Promising Practices. Geneva: World Health Organization; 2006 01/01. 5. Mousavi SM, Asayesh H, Sharififard F, Qorbani M. Job Satisfaction and Turnover Intention Among Anesthesiologists: An Iranian Study. Anesthesiology and pain medicine. 2019;9(3):e83846. 6. Hoff T, Carabetta S, Collinson GE. Satisfaction, Burnout, and Turnover Among Nurse Practitioners and Physician Assistants: A Review of the Empirical Literature. Medical care research and review : MCRR. 2019;76(1):3-31. 7. Sabitova A, Sajun SZ, Nicholson S, Mosler F, Priebe S. Job morale of physicians in low- income and middle-income countries: a systematic literature review of qualitative studies. BMJ Open. 2019;9(12):e028657. 8. Dywili S, Bonner A, O'Brien L. Why do nurses migrate? - a review of recent literature. Journal of nursing management. 2013;21(3):511-20. 9. Aluttis C, Bishaw T, Frank MW. The workforce for health in a globalized context--global shortages and international migration. Glob Health Action. 2014;7:23611-. 10. Rosta J, Aasland OG, Nylenna M. Changes in job satisfaction among doctors in Norway from 2010 to 2017: a study based on repeated surveys. BMJ Open. 2019;9(9):e027891. 11. Oh YI, Kim H, Kim K. Factors Affecting Korean Physician Job Satisfaction. International journal of environmental research and public health. 2019;16(15). 12. Maharani C, Djasri H, Meliala A, Drame ML, Marx M, Loukanova S. A scoping analysis of the aspects of primary healthcare physician job satisfaction: facets relevant to the Indonesian system. Hum Resour Health. 2019;17(1):38. 13. van Saane N, Sluiter JK, Verbeek JH, Frings-Dresen MH. Reliability and validity of instruments measuring job satisfaction--a systematic review. Occupational medicine (Oxford, England). 2003;53(3):191-200. 14. Sobti D, Cueto M, He Y. A public health achievement under adversity: the eradication of poliomyelitis from Peru, 1991. American journal of public health. 2014;104(12):2298-305. 15. Sánchez-Moreno F. El sistema nacional de salud en el Perú. Revista Peruana de Medicina Experimental y Salud Publica. 2014;31(4):747-53. 16. Alcalde-Rabanal E, Lazo-González O, Nigenda G. Sistema de salud de Perú. Salud Pública de México. 2011;53. 17. Superintendencia Nacional de Salud. Encuesta Nacional de Satisfacción de Usuarios en Salud 2016 - Informe Final. Available at: http://portal.susalud.gob.pe/wp- content/uploads/archivo/encuesta-sat-nac/2016/INFORME_FINAL_ENSUSALUD_2016.pdf; 2016. 18. Superintendencia Nacional de Salud. Encuestas de Satisfacción a nivel Nacional (ENSUSALUD 2014): Superintendencia Nacional de Salud; 2014 [Available from: http://portal.susalud.gob.pe/blog/encuestas-de-satisfaccion-a-nivel-nacional-ensusalud-2014/. 19. Superintendencia Nacional de Salud. Encuestas de Satisfacción a nivel Nacional (ENSUSALUD 2015): Superintendencia Nacional de Salud; 2015 [Available from: http://portal.susalud.gob.pe/blog/encuestas-de-satisfaccion-a-nivel-nacional-ensusalud-2015/. 20. Lloret-Segura S, Ferreres-Traver A, Hernández-Baeza A, Tomás-Marco I. El análisis factorial exploratorio de los ítems: una guía práctica, revisada y actualizada. Anales de psicología. 2014;30(3):1151-69. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 15
+21. Anderson JC, Gerbing DW. Structural equation modeling in practice: A review and recommended two-step approach. Psychological Bulletin. 1988;103(3):411-23. 22. Dominguez-Lara SA. ¿ Matrices policóricas/tetracóricas o matrices Pearson? Un estudio metodológico. Revista Argentina de Ciencias del Comportamiento. 2014;6(1):39-48. 23. Brown TA. Confirmatory factor analysis for applied research. Second ed. New York: The Guilford Press; 2015. 24. Timmerman ME, Lorenzo-Seva U. Dimensionality assessment of ordered polytomous items with parallel analysis. Psychol Methods. 2011;16(2):209-20. 25. Muñiz J. Introducción a la Psicometría: Teoría clásica y TRI. España: Ediciones Pirámide; 2018. 26. Hair JF, Anderson RE, Tatham RL, Black WC. Análisis multivariante: Prentice Hall Madrid; 1999. 27. Hu L-t, Bentler PM. Fit indices in covariance structure modeling: Sensitivity to underparameterized model misspecification. Psychological Methods. 1998;3(4):424-53. 28. Widaman KF, Reise SP. Exploring the measurement invariance of psychological instruments: Applications in the substance use domain. The science of prevention: Methodological advances from alcohol and substance abuse research. 1997:281-324. 29. Putnick DL, Bornstein MH. Measurement invariance conventions and reporting: the state of art and future directions for psychological research. Developmental Review. 2016;41:71-90. 30. McDonald RP. Test theory: A unified treatment. New York: Taylor & Francis Group; 1999. 31. Ten Berge JM, Sočan G. The greatest lower bound to the reliability of a test and the hypothesis of unidimensionality. Psychometrika. 2004;69(4):613-25. 32. Kelley K, Pornprasertmanit S. Confidence intervals for population reliability coefficients: Evaluation of methods, recommendations, and software for composite measures. Psychol Methods. 2016;21(1):69-92. 33. Raykov T. Scale Reliability, Cronbach's Coefficient Alpha, and Violations of Essential Tau-Equivalence with Fixed Congeneric Components. Multivariate Behavioral Research. 1997;32(4):329-53. 34. Rosseel Y. lavaan: An R Package for Structural Equation Modeling. Journal of statistical software. 2012;48(2):36. 35. Oberski D. lavaan.survey: An R Package for Complex Survey Analysis of Structural Equation Models. Journal of statistical software. 2014;57(1):27. 36. Jorgensen TD, Pornprasertmanit S, Schoemann AM, Rosseel Y. semTools: Useful tools for structural equation modeling: R package version 0.5-1; 2018 [Available from: https://CRAN.R-project.org/package=semTools. 37. Epskamp S. semPlot: Unified visualizations of structural equation models. Structural Equation Modeling. 2015;22(3):474-83. 38. Domagala A, Bala MM, Pena-Sanchez JN, Storman D, Swierz MJ, Kaczmarczyk M, et al. Satisfaction of physicians working in hospitals within the European Union: state of the evidence based on systematic review. European journal of public health. 2019;29(2):232-41. 39. Lima IAX, Parma GOC, Cotrim T, Moro ARP. Psychometric properties of a medium version of the Copenhagen Psychosocial Questionnaire (COPSOQ II) for southern Brazil. Work. 2019;62(2):175-84. 40. Arias WL, Rivera R, Ceballos KD. Análisis psicométrico de la Escala de Satisfacción Laboral de Warr, Cook y Wall en una muestra multiocupacional de Arequipa, Perú. 2017. 2017;3(2):7. 41. Peña-Sánchez JN, Domagała A, Dubas-Jakóbczyk K, Polak M. A Multidimensional Questionnaire to Measure Career Satisfaction of Physicians: Validation of the Polish Version of the 4CornerSAT. International Journal of Environmental Research and Public Health. 2020;17(3):1033. 42. Lepnurm R, Danielson D, Dobson R, Keegan D. Cornerstones of Career Satisfaction in Medicine. The Canadian Journal of Psychiatry. 2006;51(8):512-22. 43. Bruyneel L, Lesaffre E, Meuleman B, Sermeus W. Power Distance and Physician-Nurse Collegial Relations Across 14 European Countries: National Culture is Not Merely a Nuisance SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 16
+Factor in International Comparative Research. Journal of nursing scholarship : an official publication of Sigma Theta Tau International Honor Society of Nursing. 2019;51(6):708-16. 44. Shanafelt TD, Noseworthy JH. Executive Leadership and Physician Well-being: Nine Organizational Strategies to Promote Engagement and Reduce Burnout. Mayo Clinic proceedings. 2017;92(1):129-46.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 17
+TABLES AND FIGURES
+Table 1. Characteristic of physicians included in ENSUSALUD 2016 (n=2,137).
+Table 2. Exploratory Factor Analysis on three satisfaction scales evaluated.
+Table 3. Confirmatory Factor Analysis of the three scales evaluated (n=2,137)
+Figure 1. Factorial structure of the three scales evaluated.
+
+
+SUPPLEMENT
+Supplement 1. Items of the three instruments (Spanish version).
+Supplement 2. Preliminary English version of the three instruments
+Supplement 3. Measurement invariance between groups for the three scales evaluated (n=2,137).
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 18
+Table 1. Characteristic of physicians included in ENSUSALUD 2016 (n=2,137).
+
+
+n % Sex Men 1,598 69.0%
+Women 539 31.0% Age 23 to 29 145 7.7%
+30 to 39 664 31.8%
+40 to 49 595 25.8%
+50 to 65 733 34.8% Civil status Living with a couple (married or cohabiting) 1,483 64.4%
+Living without a partner (single, divorced, separated and widowed) 654 35.7% With specialty Yes 1,243 52.1%
+No, in process 344 12.0%
+No 550 36.0% Work in other institution Yes 932 41.5%
+No 1,205 58.5% Monthly income < 4 minimun wages 70 4.2%
+4 - 10 minimum wages 1,421 65.0%
+More to ten minimum wages 610 29.3%
+No report 36 1.5% Work-related illness Yes 487 23.0%
+No 1,650 77.0% Chronic Disease Yes 563 30.3%
+No 1,575 69.7% Institution Ministry of Health 979 43.3%
+Social Security (EsSalud) 999 37.4%
+Armed forces and Police Services 33 8.3%
+Private subsector 126 14.0% Time working in.. 2 years or less 691 36.5%
+3 to 5 years 405 19.6%
+6 to 10 years 296 12.5%
+11 years or more 745 31.4% Note: Monthly income = Less than four minimum wages (≤$890), four to ten minimum wages ($890 to $2,225) or more to ten minimum wages (≥$2,225).
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 19
+Table 2. Exploratory Factor Analysis on three satisfaction scale evaluated.
+
+
+One- factor model
+Two-factor model
+Three-factor model Scales Items F1
+F1 F2
+F1 F2 F3 Satisfaction scale on general professional activity
+c2p82_1 0.449
+-0.667 0.449
+- - - c2p82_2 0.521
+-0.617 0.521
+- - - c2p82_3 0.506
+- 0.506
+- - - c2p82_4 0.497
+- 0.497
+- - - c2p82_5 0.620
+- 0.620
+- - - c2p82_6 0.537
+- 0.537
+- - - Health Services Management Satisfaction Scale
+c2p83_1 0.773
+0.851 -
+0.850 - - c2p83_2 0.769
+0.853 -
+0.806 - - c2p83_3 0.848
+0.762 -
+0.773 - - c2p83_4 0.812
+0.715 -
+0.759 - - c2p83_5 0.568
+- 0.508
+- 0.529 - c2p83_6 0.690
+- 0.819
+- - 0.421 c2p83_7 0.663
+- 0.442
+- - 0.762 c2p83_8 0.805
+- 0.451
+- - 0.446 Satisfaction scale on the working conditions of the health center c2p81_1 -
+0.554 -
+- 0.771 - c2p81_2 -
+0.400* 0.423*
+- 0.499 - c2p81_3 -
+0.642 -
+- 0.566 - c2p81_4 -
+0.550 -
+- - - c2p81_5 -
+0.660 -
+0.717 - - c2p81_6 -
+0.588 -
+- 0.616 - c2p81_7 -
+- -
+- - - c2p81_8 -
+0.569 -
+0.648 - - c2p81_9 -
+0.444 -
+- - - c2p81_10 -
+- -
+- 0.472 - c2p81_11 -
+- 0.844
+- - 0.816 c2p81_12 -
+- 0.803
+- - 0.792 c2p81_13 -
+0.518 -
+- 0.459 - c2p81_14 -
+- 0.701
+- - 0.739 c2p81_15 -
+- -
+- - 0.416 c2p81_16 -
+- -
+- - - Note: Only factor loads between 0.400 and 1.000 are shown. * The difference of the factorial loading is lower of 0.200 between the factors.
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 20
+Table 3. Confirmatory Factor Analysis of the three scales evaluated (n=2,137)
+
+Scales Model X2 (df) CFI TLI RMSEA [90% CI] SRMR φ F1-F2 Satisfaction scale on general professional activity One-factor 29.170 (9) 0.946 0.909 0.071 [0.043 – 0.100] 0.035 - Health Services Management Satisfaction Scale One-factor 75.319 (20) 0.972 0.961 0.081 [0.062 - 0.101] 0.028 - Two-factor 45.774 (19) 0.986 0.980 0.059 [0.037 - 0.080] 0.023 0.927 Satisfaction scale on the working conditions of the health center Two-factor 125.047 (43) 0.914 0.890 0.080 [0.064 – 0.097] 0.055 0.506 X2 = Chi squared. df = Degrees of freedom. CFI = Comparative fit index. TLI = Tucker-Lewis index. RMSEA = Root mean square error of approximation. SRMR = Standardized root mean square residual. φ = Latent relationship between dimensions F1 and F2. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 21
+Figure 1. Factorial structure of the three scales evaluated.
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 22
+Supplement 1. Items of the three instruments (Spanish version).
+SPANISH VERSION Question 81: Satisfaction scale on the working conditions of the health center Respecto a su trabajo en este establecimiento de salud, ¿cómo calificaría su nivel de satisfacción en cuanto a:
+5 4 3 2 1 Muy satisfecho/a Satisfecho/a Ni insatisfecho/a Insatisfecho/a Insatisfecho/a Muy insatisfecho/a
+Código Ítems 5 4 3 2 1 c2p81_1 Posibilidades de promoción o ascenso?
+
+
+
+
+c2p81_2* Orden de los servicios y organización laboral? *
+
+
+
+
+c2p81_3 La valoración de su trabajo?
+
+
+
+
+c2p81_4 El tipo de labor que realiza?
+
+
+
+
+c2p81_5 La carga laboral que realiza?
+
+
+
+
+c2p81_6 Posición en su institución y participación en las decisiones de gestión de su servicio?
+
+
+
+
+c2p81_7* Honorarios o sueldos recibidos*
+
+
+
+
+c2p81_8 Horario o jornada de trabajo?
+
+
+
+
+c2p81_9 La relación con sus compañeros de trabajo?
+
+
+
+
+c2p81_10* Oportunidades de capacitación/actualización? *
+
+
+
+
+c2p81_11 La infraestructura e instalaciones de servicios (agua, desagüe, luz, oxígeno, etc.)?
+
+
+
+
+c2p81_12 El instrumental y equipamiento para atender a los pacientes?
+
+
+
+
+c2p81_13 La relación con sus jefes o superiores?
+
+
+
+
+c2p81_14 Las condiciones de higiene y bioseguridad?
+
+
+
+
+c2p81_15* El llenado de registro, partes, órdenes o formatos? (Excluye historia clínica) *
+
+
+
+
+c2p81_16* El respeto y consideración de sus pacientes?*
+
+
+
+
+Nota: * ítems que son eliminados en el análisis final.
+Question 82: Satisfaction scale on general professional activity
+En relación a su actividad profesional en general, ¿cómo calificaría usted su nivel de satisfacción, respecto a:
+5 4 3 2 1 Muy satisfecho/a Satisfecho/a Ni insatisfecho/a Insatisfecho/a Insatisfecho/a Muy insatisfecho/a
+Código Ítems 5 4 3 2 1 c2p82_1 La relación médico paciente durante la consulta?
+
+
+
+
+c2p82_2 Su expectativa en satisfacer las necesidades de sus pacientes?
+
+
+
+
+c2p82_3 Su disponibilidad para realizar ejercicio profesional asistencial en otras instituciones?
+
+
+
+
+c2p82_4 Los logros obtenidos en su carrera?
+
+
+
+
+c2p82_5 Impacto en su vida personal o familiar por la carga laboral asociada a su profesión?
+
+
+
+
+c2p82_6 Los riesgos asociados a su actividad profesional?
+
+
+
+
+
+Question 83: Health Services Management Satisfaction Scale
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 23
+En relación al equipo de gestión de su establecimiento, ¿cómo calificaría usted su nivel de satisfacción, respecto a:
+5 4 3 2 1 Muy satisfecho/a Satisfecho/a Ni insatisfecho/a Insatisfecho/a Insatisfecho/a Muy insatisfecho/a
+Código Ítems 5 4 3 2 1 c2p83_1 Manejo de presupuesto?
+
+
+
+
+c2p83_2 Gestión de medicamentos - farmacias?
+
+
+
+
+c2p83_3 Organización de los servicios?
+
+
+
+
+c2p83_4 Gestión de los recursos humanos?
+
+
+
+
+c2p83_5 Programación de turnos?
+
+
+
+
+c2p83_6 Atención al usuario?
+
+
+
+
+c2p83_7 Prevención de infecciones intrahospitalarias / eventos adversos?
+
+
+
+
+c2p83_8 Capacidad de gestión / trabajo?
+
+
+
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 24
+Supplement 2. Preliminary English version of the three instruments
+ENGLISH VERSION
+Question 81: Satisfaction scale on the working conditions of the health center Regarding your work in this health facility, how would you rate your satisfaction level in terms of the:
+5 4 3 2 1 Very satisfied Satisfied Neither unsatisfied nor dissatisfied Unsatisfied Very unsatisfied
+Code Items 5 4 3 2 1 c2p81_1 Opportunities for advancement or promotion
+
+
+
+
+c2p81_2* Order of services and labor organization*
+
+
+
+
+c2p81_3 Appreciation of work by coworkers
+
+
+
+
+c2p81_4 Nature of work carried out
+
+
+
+
+c2p81_5 Workload
+
+
+
+
+c2p81_6 Position in the institution and participation in management decisions of the medical service.
+
+
+
+
+c2p81_7* Salary or remuneration*
+
+
+
+
+c2p81_8 Working hours
+
+
+
+
+c2p81_9 Relationship with coworkers
+
+
+
+
+c2p81_10* Skills training/updating opportunities*
+
+
+
+
+c2p81_11 Physical plant and service facilities (water suply, drainage, power supply, ventilation, etc.)
+
+
+
+
+c2p81_12 Instruments and equipment to treat patients
+
+
+
+
+c2p81_13 Relationship with bosses and superiors
+
+
+
+
+c2p81_14 Hygienic and biosecure conditions of workplace
+
+
+
+
+c2p81_15* Filling out forms, medical parts, orders and formats (excluding medical records) *
+
+
+
+
+c2p81_16* Respect and consideration from patients*
+
+
+
+
+Note: * items that are eliminated in the final analysis.
+Question 82: Satisfaction scale on general professional activity
+Regarding your general professional activity, how would you rate your satisfaction level in terms of the:
+
+5 4 3 2 1 Very satisfied Satisfied Neither unsatisfied nor dissatisfied Unsatisfied Very unsatisfied
+Code Items 5 4 3 2 1 c2p82_1 Dealing with patients during consultation (Doctor-patient relationship)
+
+
+
+
+c2p82_2 Expectation to meet the needs of your patients
+
+
+
+
+c2p82_3 Willingness to extend professional care in other institutions
+
+
+
+
+c2p82_4 Career achievements
+
+
+
+
+c2p82_5 Impact of workload on your personal and/or family life
+
+
+
+
+c2p82_6 Risks associated with the profession
+
+
+
+
+
+Question 83: Health Services Management Satisfaction Scale
+Regarding the management in this health facility, how would you rate your satisfaction level in terms of the: SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 25
+
+5 4 3 2 1 Very satisfied Satisfied Neither unsatisfied nor dissatisfied Unsatisfied Very unsatisfied
+Code Items 5 4 3 2 1 c2p83_1 Budget management
+
+
+
+
+c2p83_2 Drug/Pharmacy management
+
+
+
+
+c2p83_3 Organization of services
+
+
+
+
+c2p83_4 Human resources management
+
+
+
+
+c2p83_5 Work scheduling
+
+
+
+
+c2p83_6 User support
+
+
+
+
+c2p83_7 Prevention of nosocomial infections/adverse events
+
+
+
+
+c2p83_8 Management/work capacity
+
+
+
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 26
+Supplement 3. Measurement invariance between groups for the three scales evaluated (n=2,137).
+
+
+
+
+
+
+
+
+DIFFTEST Scale Group Invariance X2-Robust df CFI RMSEA SRMR ΔCFI Value df p Satisfaction scale on general professional activity Sex * Configural 659.1 18 0.920 0.120 0.062 - - - -
+Thresholds 733.4 30 0.913 0.097 0.062 -0.008 23.1 12 0.027
+Metrict 689.4 35 0.919 0.087 0.063 0.006 9.8 5 0.081
+Scalar 790.4 40 0.907 0.087 0.063 -0.012 71.3 5 0.000 Civil status Configural 655.0 18 0.920 0.119 0.062 - - - -
+Thresholds 716.1 30 0.913 0.096 0.062 -0.006 14.9 12 0.250
+Metrict 670.6 35 0.920 0.085 0.063 0.006 10.5 5 0.063
+Scalar 651.7 40 0.923 0.078 0.063 0.003 3.0 5 0.704 Work in other institution * Configural 679.1 18 0.916 0.122 0.063 - - - -
+Thresholds 759.6 30 0.908 0.099 0.063 -0.009 27.9 12 0.006
+Metrict 709.7 35 0.915 0.088 0.064 0.007 9.3 5 0.099
+Scalar 970.3 40 0.882 0.097 0.064 -0.032 153.3 5 0.000 Work-related illness Configural 632.2 18 0.920 0.117 0.062 - - - -
+Thresholds 687.6 30 0.914 0.094 0.062 -0.006 16.4 12 0.172
+Metrict 646.5 35 0.920 0.084 0.063 0.006 13.5 5 0.019
+Scalar 729.0 40 0.911 0.830 0.064 -0.009 49.0 5 0.000 Chronic disease Configural 664.7 18 0.918 0.120 0.063 - - - - SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 27
+
+
+
+
+
+
+
+
+
+DIFFTEST Scale Group Invariance X2-Robust df CFI RMSEA SRMR ΔCFI Value df p Thresholds 727.3 30 0.911 0.097 0.063 -0.006 19.5 12 0.077 Metrict 661.4 35 0.920 0.085 0.063 0.009 6.7 5 0.243 Scalar 651.3 40 0.922 0.078 0.063 0.002 9.4 5 0.095 Time working * Configural 754.3 36 0.910 0.127 0.066 - - - -
+Thresholds 825.7 72 0.906 0.092 0.066 -0.004 45.7 36 0.130
+Metrict 753.9 87 0.917 0.079 0.068 0.011 20.4 15 0.016
+Scalar 814.1 102 0.911 0.075 0.068 -0.006 44.9 15 0.000 Health Services Management Satisfaction Scale Sex Configural 1446.1 40 0.977 0.119 0.042 - - - -
+Thresholds 1299.7 56 0.980 0.095 0.042 0.003 24.1 16 0.087
+Metrict 1267.4 63 0.980 0.088 0.043 0.001 27.0 7 0.000
+Scalar 1317.7 70 0.980 0.085 0.043 -0.001 50.8 7 0.000 Age Configural 1542.4 80 0.976 0.121 0.044 - - - -
+Thresholds 1364.9 128 0.980 0.088 0.044 0.004 84.2 48 0.001
+Metrict 1257.1 149 0.982 0.077 0.044 0.002 24.5 21 0.269
+
+
+
+
+
+
+
+
+
+
+
+Scalar 1325.6 170 0.981 0.074 0.044 -0.001 51.2 21 0.000 Civil status Configural 1445.7 40 0.977 0.119 0.042 - - - -
+Thresholds 1289.1 56 0.980 0.094 0.042 0.003 12.7 16 0.694
+Metrict 1194.2 63 0.982 0.085 0.043 0.002 14.1 7 0.050 SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 28
+
+
+
+
+
+
+
+
+
+DIFFTEST Scale Group Invariance X2-Robust df CFI RMSEA SRMR ΔCFI Value df p
+Scalar 1172.5 70 0.982 0.080 0.043 0.000 11.0 7 0.139 With specialty Configural 1456.5 60 0.977 0.119 0.043 - - - -
+Thresholds 1199.4 92 0.982 0.085 0.043 0.005 36.5 32 0.267
+Metrict 1111.8 106 0.984 0.076 0.043 0.002 15.5 14 0.343
+Scalar 1168.4 120 0.983 0.073 0.043 -0.001 41.8 14 0.000 Work in other institution Configural 1483.5 40 0.976 0.121 0.044 - - - -
+Thresholds 1377.8 56 0.978 0.097 0.043 0.002 39.1 16 0.001
+Metrict 1319.4 53 0.979 0.900 0.043 0.001 21.0 7 0.004
+Scalar 1327.1 70 0.979 0.085 0.043 0.000 28.4 7 0.000 Work-related illness Configural 1446.0 40 0.977 0.119 0.043 - - - -
+Thresholds 1289.1 56 0.980 0.094 0.043 0.003 16.2 16 0.442
+Metrict 1154.5 53 0.982 0.083 0.043 0.002 9.9 7 0.197
+Scalar 1141.3 70 0.982 0.078 0.043 0.000 14.5 7 0.043 Chronic disease Configural 1448.5 40 0.977 0.119 0.043 - - - - Thresholds 1278.8 56 0.980 0.094 0.043 0.003 18.2 16 0.311 Metrict 1163.0 53 0.982 0.084 0.043 0.002 7.2 7 0.410 Scalar 1129.2 70 0.983 0.078 0.043 0.001 6.9 7 0.434 Time working Configural 1480.5 80 0.978 0.119 0.043 - - - -
+Thresholds 1311.4 128 0.981 0.086 0.043 0.003 83.6 48 0.001 SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 29
+
+
+
+
+
+
+
+
+
+DIFFTEST Scale Group Invariance X2-Robust df CFI RMSEA SRMR ΔCFI Value df p
+Metrict 1216.8 149 0.983 0.076 0.044 0.002 21.9 21 0.408
+Scalar 1345.0 170 0.981 0.075 0.044 -0.002 79.3 21 0.000 Satisfaction scale on the working conditions of the health center Sex Configural 1880.1 86 0.946 0.092 0.055 - - - -
+Thresholds 1991.2 108 0.944 0.084 0.055 -0.003 30.0 22 0.119
+Metrict 1905.0 117 0.946 0.078 0.055 0.003 31.7 9 0.000
+Scalar 1979.6 126 0.945 0.077 0.055 -0.002 72.9 9 0.000 Age Configural 1850.8 172 0.949 0.089 0.055 - - - -
+Thresholds 2030.1 238 0.945 0.078 0.055 -0.003 101.7 66 0.003
+Metrict 1794.9 265 0.953 0.068 0.055 0.008 26.4 27 0.499
+Scalar 1937.3 292 0.950 0.067 0.055 -0.004 89.8 27 0.000 Civil status Configural 1784.8 86 0.949 0.089 0.054 - - - -
+Thresholds 1889.2 108 0.946 0.081 0.054 -0.002 26.4 22 0.237
+Metrict 1741.4 117 0.951 0.075 0.054 0.005 8.1 9 0.523
+Scalar 1733.6 126 0.952 0.072 0.054 0.001 23.5 9 0.005 With specialty Configural 1829.2 129 0.949 0.089 0.054 - - - -
+Thresholds 1922.9 173 0.947 0.078 0.054 -0.001 47.8 44 0.322
+Metrict 1763.5 191 0.953 0.070 0.055 0.005 32.5 18 0.019 SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 30
+
+
+
+
+
+
+
+
+
+DIFFTEST Scale Group Invariance X2-Robust df CFI RMSEA SRMR ΔCFI Value df p
+Scalar 2047.4 209 0.945 0.073 0.055 -0.008 138.7 18 0.000 Work in other institution Configural 1775.6 86 0.949 0.089 0.053 - - - -
+Thresholds 1886.9 108 0.946 0.081 0.053 -0.003 31.0 22 0.097
+Metrict 1778.1 117 0.950 0.076 0.054 0.004 18.2 9 0.033
+Scalar 1779.8 126 0.950 0.073 0.054 0.000 27.1 9 0.001 Work-related illness Configural 1781.1 86 0.949 0.089 0.054 - - - -
+Thresholds 1889.6 108 0.947 0.081 0.054 -0.003 35.2 22 0.035
+Metrict 1732.0 117 0.952 0.075 0.055 0.005 12.7 9 0.175
+Scalar 1739.8 126 0.952 0.072 0.055 0.000 28.6 9 0.001 Chronic disease Configural 1768.3 86 0.950 0.089 0.053 - - - - Thresholds 1851.7 108 0.948 0.081 0.053 -0.002 22.3 22 0.444 Metrict 1723.9 117 0.952 0.074 0.053 0.004 16.0 9 0.067 Scalar 1708.6 126 0.953 0.071 0.054 0.001 18.9 9 0.026 Time working Configural 1894.6 172 0.949 0.090 0.056 - - - -
+Thresholds 2063.4 238 0.946 0.079 0.056 -0.003 99.3 66 0.005
+Metrict 1934.3 265 0.950 0.071 0.057 0.005 54.5 27 0.001
+Scalar 2123.5 292 0.946 0.071 0.057 -0.005 120.9 27 0.000 X2-Robust = Chi squared Robust. gl = Degrees of freedom. CFI = Comparative fit index. TLI = Tucker-Lewis index. RMSEA = Root mean square error of approximation. SRMR = Standardized root mean square residual. ΔCFI = Variation of the Comparative-Fit-Index. DIFFTEST = ANOVA difference test. * The measurement invariance is not met between the groups. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 31
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) 32
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.940 Powered by TCPDF (www.tcpdf.org) This preprint was submitted under the following conditions: The authors declare that they are aware that they are solely responsible for the content of the preprint and that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its preservation and dissemination. The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in the research were obtained and are described in the manuscript, when applicable. The authors declare that the preparation of the manuscript followed the ethical norms of scientific communication. The submitting author declares that the contributions of all authors and conflict of interest statement are included explicitly and in specific sections of the manuscript. The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY license. The deposited manuscript is in PDF format. The authors declare that the data, applications, and other content underlying the manuscript are referenced. The authors declare that the manuscript was not deposited and/or previously made available on another preprint server or published by a journal. If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the authors declare that they have received authorization from the journal to make this deposit. The submitting author declares that all authors of the manuscript agree with the submission to SciELO Preprints. The authors declare that the research that originated the manuscript followed good ethical practices and that the necessary approvals from research ethics committees, when applicable, are described in the manuscript. The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be withdrawn upon retraction. Powered by TCPDF (www.tcpdf.org)

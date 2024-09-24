@@ -1,0 +1,581 @@
+Publication status: Not informed by the submitting author Culicidae (Diptera: Culicomorpha) in the southern Brazilian collection "Ana Leuch Lozovei" with notes on distribution and diversity Maurício Santos Conceição, Samira Chahad-Ehlers, Luiz Gonzaga dos Santos-Neto, Adson Luís Sant’Ana, Gabriela Princival Marques Ribeiro, Débora do Rocio Klisiowicz, Cássio Lázaro Silva- Inacio, Taciano de Moura Barbosa, Renata Antonaci Gama, Ana Leuch Lozovei, Andrey Andrade https://doi.org/10.1590/SciELOPreprints.3703 Submitted on: 2022-03-02 Posted on: 2022-03-10 (version 1) (YYYY-MM-DD) Powered by TCPDF (www.tcpdf.org) Culicidae (Diptera: Culicomorpha) in the southern Brazilian "Ana Leuch Lozovei" collection with notes on distribution and diversity Maurício dos Santos Conceição1,2 *, †(ORCID 0000-0003-2008-4304), Samira Chahad- Ehlers3, * †(ORCID 0000-0003-2321-4389), Luiz Gonzaga dos Santos-Neto (ORCID 0000-0003-3403-296X)1, Adson Luís Sant’Ana (ORCID 0000-0002-9631-3874)1 Gabriela Princival Marques Ribeiro (ORCID 0000-0002-0703-3193)1, Débora do Rocio Klisiowicz (ORCID 0000-0002-7699-0763)1,2, Cássio Lázaro Silva-Inacio †(ORCID 0000-0002-1666-6646)4, Taciano de Moura Barbosa (ORCID 0000-0002-5495-258X)4, Renata Antonaci Gama (ORCID 0000-0002-8026-6022)4, Ana Leuch Lozovei (ORCID 0000-0001-5240-470X)1 and Andrey José de Andrade (ORCID 0000-0002-6047- 3227)1,2,5 *. 1 Basic Pathology Department, Federal University of Paraná, Av. Cel. Francisco H. dos Santos, 100 - Jardim das Américas, Curitiba, PR 81531-980, Brazil. 2 Post-graduate Programme in Microbiology, Parasitology and Pathology, Federal University of Paraná, Av. Cel. Francisco H. dos Santos, 100 - Jardim das Américas, Curitiba, PR 81531-980, Brazil. 3 Genetics and Evolution Department, Federal University of São Carlos, Rodovia Washington Luís, km 235 SP-310, São Carlos, SP 13565-905, Brazil. 4 Microbiology and Parasitology Department, Federal University of Rio Grande do Norte, Av. Senador Salgado Filho, 3000, Natal, RN 59078-970, Brazil. 5 Post-graduate Programme in Entomology, Zoology Department, Federal University of Paraná, Av. Cel. Francisco H. dos Santos, 100 - Jardim das Américas, Curitiba, PR 81531- 980, Brazil.
+* Corresponding authors. Email: csantos.mauricio@gmail.com, schahad@gmail.com, andreyandrade@ufpr.br. † Contributed equally. Abstract Biological collections are of extreme importance in acquiring knowledge of the biodiversity of a specific environment. In this article, we organise, list and catalogue the adult specimens belonging to the family Culicidae housed in the Parasitology Collection of the Basic Pathology Department at the Federal University of Paraná, southern Brazil. To this end, a data bank was created, containing information on the taxonomy and collecting of each sample. The culicids were collected using different methodologies in 18 municipalities in the state of Paraná, between 1967 and 1999. There are 5,739 catalogued specimens of which 4,704 (81.96%) are identified at a specific level, with a diversity of 205 species. Of these, 18 are new recorded samples for the state of Paraná and 3 for Brazil. This being the case, we propose, in honour of the 30 years dedicated to the study of culicids in the state of Paraná, the creation of the Ana Leuch Lozovei Entomological Collection, which is composed of insect vectors or potential vectors, of agents that cause diseases in humans. Subjects Areas Animal and Plant Sciences, Biodiversity, Taxonomy. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 MAIN CONTENT
+Data description The Parasitology Collection of the Basic Pathology Department, housed in the Biological Science Sector of the Federal University of Paraná (ColPar/DPAT/BL/UFPR), was set up in the 1960s through different research projects. One of researchers who contributed to this initiative was Professor and Doctor Ana Leuch Lozovei, who, with her students and collaborators, collected and identified the different taxonomic groups found there. The collection includes some insect vector families, notably the family Culicidae, comprising specimens captured in different municipalities in the state of Paraná, in southern Brazil, between 1967 and 1999. Professor Ana Leuch Lozovei was a member of the teaching staff and taught Parasitology and Medical Entomology in the Basic Pathology Department of the Federal University of Paraná. She contributed significantly to the training of several generations of health, Natural Sciences and education professionals working throughout Brazil today. Driven by a sharp intuition, she built collections of diverse taxonomic groups, with a view to utilizing them didactically. However, after the years of work and contributions of her post-graduate students, the material increasingly gained scientific dimension as the knowledge of the areas in which she worked increased. This was how the Culicidae section of her collection began to occupy a place of great distinction for knowledge of entomofauna of medical importance and of the ecological aspects of these insects in the areas studied, with special care in identification, organisation and conservation. These samples afforded the Basic Pathology Department the construction of a valuable legacy that highlights the importance of the collection to its creator and to the state of Paraná. It reflects a life dedicated to knowledge. Professor Ana Leuch Lozovei is now retired, but, those who meet her describe the same sensation as that in the times when she taught in the department: “It`s impossible to leave the classroom with a question unanswered, always motivated to be curious”. The Professor Ana Leuch Lozovei Collection, which has incredible growth potential thanks to its importance, is able to serve as a reference source for researchers interested in the culicid fauna of Paraná. The collecting of samples aimed for knowledge of the diversity of species and the ecological aspects of Culicidae, in addition to specifying the species as potentially medical and veterinary in the areas studied. But more specifically, Dr. Ana Lozovei and her collaborators intended to map SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 species distribution and contribute with advances in medical entomology in the state of Paraná. To honour the contribution of this researcher, who spent more than 30 years studying the family Culicidae, we propose in this article to create the Ana Leuch Lozovei Entomological Collection which is an integral part of ColPar/DPAT/BL/UFPR. The collection boasts a total of 5,739 specimens, represented by 2 subfamilies of Culicidae, with 7 tribes, 23 genera, 37 subgenera and 205 species. A total of 943 individuals (16.43%) are identified only at subgenus level and 93 (1.62%) at genus level. Among the individuals identified at a specific level, 4,704 (81.96%), 18 species constitute the first recorded sample for the state of Paraná (Anopheles albimanus Wiedmann, 1820, Anopheles costai da Fonseca & da Silva Ramos, 1940, Anopheles rangeli Gabaldon, Cova-Garcia & Lopez, 1940, Culex aquarius Strickman, 1990, Culex bastagarius Dyar & Knab, 1906, Culex foliaceus Lane, 1945, Culex alinkios Sallum & Hutchings, 2003, Culex faurani Duret, 1968, Culex lucifugus Komp, 1936, Culex hedys Root, 1927, Culex ocossa Dyar & Knab, 1919, Culex oedipus Root, 1927, Culex lanei Oliveira Coutinho & Forattini, 1962, Aedes fulvithorax (Lutz, 1904), Culex theobaldi (Lutz, 1904), Culex pleuristriatus Theobald, 1903, Aedes eucephalaeus (Dyar, 1918) and Uranotaenia ditaenionota Prado, 1931). Three of these are new recorded samples for Brazil (Culex aquarius, Culex lucifugus and Aedes eucephalaeus), which signifies the expansion of geographical distribution of the species previously restricted to certain locations or countries. Capturing the culicids was carried out in nature reserves in 18 municipalities (Figure 1) in the state of Paraná between 1967 and 1999. The Dense Ombrophilous Forest phytogeographic region is represented in the collection as the area that contains the majority of samples (n= 4,831) with the municipality of Morretes having 4,774 (98%) recorded samples. In fact, this region has been used as a collection place for culicids by different researchers, bearing in mind the availability of conservation areas in the region. [1–4]. Throughout the 30 years of study, identifications were carried out and confirmed by taxonomists in the group, including Dr. Ana Lozovei, as well such collaborators as Dr. Samira Chahad-Ehlers, Dr. Luiz Gonzaga dos Santos-Neto and Dr. Adson Luís Sant’Ana, who are three of the co-authors of this article. Some identifications were confirmed at the time by Dr. Maria Anice Mureb Sallum of the Public Health Faculty of the University of São Paulo. The Parasitology Collection of the Basic Pathology Department is part of the SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Information System on Brazilian Diversity (SiBBr) and can be accessed on https://collectory.sibbr.gov.br/collectory/public/show/co446.
+Context Biodiversity is a world heritage and must be valued for the development of each nation. Similarly, national scientific collections must be seen as the memorial heritage of the country’s diversity [5–7], since they are temporary records of the diversity of the organisms in an environment. Furthermore, biological collections are of extreme importance to science, given that their data allow for strategic research of the country and are of enormous value in complying with international commitments and treaties [5,8,9]. Their use in research is essential for any researcher in need of reference to a currently recognized name and other information related to any taxon of interest [10,11]. Insects of the family Culicidae (order Diptera), commonly known as mosquitoes, have a wide geographic distribution. There are currently 3,591 described species, divided into two subfamilies (Anophelinae and Culicinae), distributed in 113 genera [12] with around 31% found in the Neotropical region [13,14]. There are 530 recorded species in Brazil, belonging to 23 genera distributed throughout all biomes and six of these are endemic to the country [16]. There are currently 191 culicidae species in the state of Paraná [17–19], though these numbers show a tendency to increase with the intensification of research due to the epidemiological importance of this group. [20,21]. Bearing in mind the relevance of culicids to diverse areas of natural and applied sciences and the importance of biological collections as a source of conservation of biodiversity data, it is thus essential that all information about this insect should be published, shared and made available to the entire general and scientific community. Thus, the data collection on culicids and cataloguing of the Ana Leuch Lozovei Entomological Collection at ColPar/DPAT/BL/UFPR, has led to a repository of information on the culicid fauna of some phytogeographic regions in the state of Paraná. The collection presents important potential for the utilisation of data and such information as knowledge of the entomofauna of places that were not degraded at one time or to reveal species that are currently difficult to collect in the state, so contributing to future studies of the fauna and environmental conservation. The subfamily Culicinae represents the major part of the present species and the genus Culex presented the highest number of specimens in the collection, corresponding to around 40% of the total, distributed among 52 species, making it the most diverse. By contrast, the genera Aedeomyia, Lutzia, SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Onirion and Shannoniana are the least represented, with just one species each. As for Anophelinae, there are two recorded genera, namely Anopheles, represented by 30 species, and Chagasia, with just one. The period of 30 years spent on study furnishes a timeframe for one to understand the dynamics of population fluctuation or the detection of species not previously recorded, enabling the generation of data on areas of epidemiological potential for diseases related to culicids [22]. These mosquitoes represent an important link in the transmission chain of many neglected, emerging and re-emerging diseases [22–24]. The collection boasts samples of diverse species of great medical importance (Table 1), for example, Aedes (Stegomyia) albopictus (Skuse, 1895) and Aedes (Stegomyia) aegypti (Linnaeus, 1762), considered to be the main vectors of Dengue (DENV), Zika Virus (ZIKV), and Chikungunya (CHIKV). Aedes aegypti is also an important element in the transmission of Yellow Fever (YFV) in the urban environment [25,26]. The species Haemagogus (Conopostegus) leucocelaenus (Dyar & Shannon, 1924) and Aedes (Ochlerotatus) fulvus (Wiedemann, 1828), included in the Aedini tribe, are also associated with yellow fever, but in forested environments [27,28]. In recent laboratory research, Lourenço-de-Oliveira and Failoux [29] observed the vectorial competence of the species Hg. leucocelaenus and Aedes (Protomacleaya) terrens (Walker, 1856) for the Chikungunya virus, noting that both can transmit this virus. Furthermore, the genus Culex is an important group in the transmission of Wuchereria bancrofti (lymphatic filariasis), encephalitis, and such serious haemorrhagic fevers as Oropouche fever [30–32], while the genus Anopheles is the one most responsible for the transmission Plasmodium spp., which cause human malaria [33–36]. In addition to the importance for public health, culicids participate effectively in the transmission of diverse pathogens that cause diseases of veterinary interest, some of which, such as Equine Infectious Anaemia (EIA), dirofilariasis and West Nile fever [37–41], have zoonotic potential, reaffirming the importance that culicids have in the epidemiological chain of diseases transmitted by vectors [21,42,43].
+METHODS
+Study area The state of Paraná, situated in the subtropical region of South America, in southern Brazil, between the coordinates 22°30’44” S – 26°43’08” S and 48°00’11” W – 54°36’32” W, has a territorial area of 199,298 km² [44], composed of five SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 phytogeographic regions: Seasonal Semideciduous Forest, Mixed Ombrophilous Forest, Dense Ombrophilous Forest, Steppe and Savanna [45,46]. According to the Köppen classification, the state’s climate is divided into subtropical and tropical, with an average annual temperature of 19°C, varying between 25.9 and 12°C and average annual precipitation of 1,300 mm [47].
+Collecting methods The geographical coordinates of the 18 sample municipalities were extracted from the platform Global Gazetteer Version 2.3 (http://www.fallingrain.com/world/.). These data were the basis for the devising of a map covering the phytogeographic areas [46], utilising QGis software (V. 3.22.3-Białowieża). The culicids in the collection were captured by different methods, such as entomological nets, aspiration, light traps (CDC) and Shannon traps containing a fluorescent bulb as bait. [1,2,17].
+Cataloguing process for the culicids The cataloguing work was carried out at the Parasitology Collection in the Basic Pathology Department located in the Biological Sciences Sector of the Federal University of Paraná (UFPR), where Culicidae specimens collected by Dr. Ana Leuch Lozovei, her students and collaborators can be found. The classification utilised for Culicidae follows the system proposed by Harbach [12], Wilkerson et al. [13] for the tribe Aedini, with abbreviations according to Reinert [48]. Only information on dry preserved male and female culicids, mounted with entomological pins was used for the DataSet. Data on each individual were tabulated on a spreadsheet using Microsoft Office® v. 2016 (Microsoft Corporation, Redmond, WA, USA) and later transferred to a Darwin Core spreadsheet. [49].
+RESULTS
+DATA VALIDATION AND QUALITY CONTROL
+Throughout the years of dedicated to research into culicid fauna in the state of Paraná, several works were published by Dr. Ana Leuch Lozovei and her group, [2,3,17,34,50–52], reinforcing the importance of culicids in the transmission of diseases SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 and in environmental quality. Moreover, it was possible to carry out this work through the data obtained.
+REUSE POTENTIAL
+Climatic alterations with constant modifications in the environment over time promote significant changes in biodiversity, above all in the insect population, where one can observe a greater dispersion in the environment, mainly of those species of medical/epidemiological interest. The data made available in this work could be fundamental in future studies on aspects regarding ecology, the environment and biodiversity, principally of the species of medical interest from the perspective of “One Health”. An important point concerning the current collection is that it represents 18 new first recorded samples of species for the state of Paraná, serving as an important reference for research into the biodiversity of mosquitoes. This demonstrates and reaffirms the importance of maintaining and constantly updating biological collections.
+DATA AVAILABILITY STATEMENT The dataset supporting this article are available in the SiBBr repository [53]. Declarations List of abbreviations ColPar – Parasitology Collection; DPAT – Basic Pathology Department; Biological Sciences SectorBL; UFPR: Federal University of Paraná. Ethical Approval Not applicable Competing Interests The authors declare that they have no competing interests. Funding Not applicable SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Authors’ Contributions MSC writing of the manuscript, compilation and organization of data; SCE sample collecting, identification, data revision and writing of the manuscript; LGSN sample collecting, identification, data revision; ALSA sample collecting and identification; GPM compilation and organization of data; DRK writing of the manuscript, collection maintenance; TMB writing of the manuscript; CLSI writing of the manuscript and data revision; RAG writing of the manuscript and data revision; ALL sample collecting, identification; AJA writing of the manuscript, compilation and organization of data. Acknowledgements We would like to thank Clara Baringo Fonseca for her help in the preparation of the Darwin Core spreadsheet; Dr. Maria Anice Mureb Sallum of the Faculty of Public Health, University of São Paulo, for the identification of some samples of the culicids in the collection. We would also like to thank the municipalities and institutions for their contributions which enabled the sample collecting to be carried out at the time, and thanks also to Dr. Ueslei Teodoro of the State University of Maringá and Dr. Mara Cristina Pinto of the State University of São Paulo (UNESP, Araraquara), for the field support received at the time.
+
+
+
+
+
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 REFERENCES 1. Sant’Ana AL, Lozovei AL. Influência do ciclo lunar na captura de Aedes scapularis (Diptera, Culicidae) na Mata Atlântica do Paraná. Iheringia Série Zool. 2001; doi: 10.1590/s0073-47212001000100018. 2. Chahad-Ehlers S, Lozovei AL, Marques MD. Reproductive and post-embryonic daily rhythm patterns of the malaria vector Anopheles (Kerteszia) cruzii: Aspects of the life cycle. Chronobiol Int. 2007; doi: 10.1080/07420520701282174. 3. Dos Santos-Neto LG, Lozovei AL. Aspectos ecológicos de Anopheles cruzii e Culex ribeirensis (Diptera, Culicidae) da Mata Atlântica de Morretes, Paraná, Brasil. Rev Bras Entomol. 2008; doi: 10.1590/S0085-56262008000100018. 4. Sant’Ana AL, Lozovei AL. Influência do ciclo lunar na atividade de vôo de Coquillettidia (Rhynchotaenia) venezuelensis (Theobald) (Diptera, Culicidae) na Mata Atlântica, Serra do Marumbi, Morretes, Paraná, Brasil. Rev Bras Zool. 2001; doi: 10.1590/s0101-81752001000200005. 5. Suarez A V., Tsutsui ND. The Value of Museum Collections for Research and Society. Bioscience. 2004; doi: 10.1641/0006-3568(2004)054[0066:TVOMCF]2.0.CO;2. 6. Graham CH, Ferrier S, Huettman F, Moritz C, Peterson AT. New developments in museum-based informatics and applications in biodiversity analysis. Trends Ecol Evol. 2004; doi: 10.1016/j.tree.2004.07.006. 7. Mason SC, Betancourt IS, Gelhaus JK. Importance of building a digital species index (spindex) for entomology collections: A case study, results and recommendations. Biodivers Data J. 2020; doi: 10.3897/BDJ.8.E58310. 8. Brooks SJ, Fenberg PB, Glover AG, James KE, Johnson KG, Lister AM, et al. Natural history collections as sources of long-term datasets. Trends Ecol Evol. 2011; doi: 10.1016/j.tree.2010.12.009. 9. Shirey V. Visualizing natural history collection data provides insight into collection development and bias. Biodivers Data J. 2018; doi: 10.3897/BDJ.6.e26741. 10. Adams ZJO, Shimabukuro PHF. A cybercatalogue of American sand fly types (Diptera, Psychodidae, Phlebotominae) deposited at the Natural History Museum, London. Biodivers Data J. 2018; doi: 10.3897/BDJ.6.e24484. 11. Shimabukuro PHF, Galati EAB. Lista de espécies de Phlebotominae (Diptera, Psychodidae) do Estado de São Paulo, Brasil, com comentários sobre sua distribuição geográfica. Biota Neotrop. 2011; doi: 10.1590/s1676-06032011000500033. 12. Ralph Harbach: Culicidae Classification | Mosquito Taxonomic Inventory. Mosq. Taxon. Invent. p. 1. https://mosquito-taxonomic- inventory.myspecies.info/simpletaxonomy/term/6045 (2008). Accessed 2022 Feb 8. 13. Wilkerson RC, Linton YM, Fonseca DM, Schultz TR, Price DC, Strickman DA. Making mosquito taxonomy useful: A stable classification of tribe Aedini that balances utility with current knowledge of evolutionary relationships. PLoS One. 2015; doi: 10.1371/journal.pone.0133602. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 14. Rueda LM. Global diversity of mosquitoes (Insecta: Diptera: Culicidae) in freshwater. Hydrobiologia. 2008; doi: 10.1007/s10750-007-9037-x. 15. Hutchings, R.W., Hutchings, R.S.G., Sallum MA.: Lista do Brasil - Animalia. Catálogo Taxonômico da Fauna do Bras. http://fauna.jbrj.gov.br/fauna/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC. do?id=798 (2022). Accessed 2022 Feb 8. 16. Guedes MLP. Culicidae (Diptera): Relationships between diversity, distribution and diseases. Oecologia Aust. 2012; doi: 10.4257/oeco.2012.1602.07. 17. Lopes J, Lozovei AL. Ecologia de mosquitos (Diptera: Culicidae) em criadouros naturais e artificiais de área rural do Norte do Estado do Paraná, Brasil: l - Coletas ao longo do leito de ribeirão. Rev Saúde Pública. 1995; doi: 10.1590/s0034- 89101995000300005. 18. Guedes MLP, Navarro-Silva MA. Mosquito community composition in dynamic landscapes from the Atlantic Forest biome (Diptera, Culicidae). Rev Bras Entomol. 2014; doi: 10.1590/S0085-56262014000100014. 19. Orlandin E, Santos EB, Piovesan M, Favretto MA, Schneeberger AH, Souza VO, et al. Mosquitos (Diptera: Culicidae) do período crepuscular em área de floresta Atlântica no sul do Brasil. Brazilian J Biol. 2017; doi: 10.1590/1519-6984.09815. 20. Huang YJS, Higgs S, Vanlandingham DL. Emergence and re-emergence of mosquito- borne arboviruses. Curr Opin Virol.; 2019; doi: 10.1016/j.coviro.2019.01.001. 21. Maggi RG, Krämer F. A review on the occurrence of companion vector-borne diseases in pet animals in Latin America. Parasit. Vectors. 2019; doi: 10.1186/s13071- 019-3407-x. 22. Halbach R, Junglen S, van Rij RP. Mosquito-specific and mosquito-borne viruses: evolution, infection, and host defense. Curr Opin Insect Sci. 2017; doi: 10.1016/j.cois.2017.05.004. 23. Onyango MG, Ciota AT, Kramer LD. The Vector - Host - Pathogen Interface: The Next Frontier in the Battle Against Mosquito-Borne Viral Diseases? Front Cell Infect Microbiol. 2020; doi: 10.3389/fcimb.2020.564518. 24. Rahman MT, Sobur MA, Islam MS, Ievy S, Hossain MJ, Zowalaty MEE, et al. Zoonotic diseases: Etiology, impact, and control. Microorganisms. 2020; doi: 10.3390/microorganisms8091405. 25. Kraemer MUG, Reiner RC, Brady OJ, Messina JP, Gilbert M, Pigott DM, et al. Past and future spread of the arbovirus vectors Aedes aegypti and Aedes albopictus. Nat Microbiol. 2019; doi: 10.1038/s41564-019-0376-y. 26. Souza-Neto JA, Powell JR, Bonizzoni M. Aedes aegypti vector competence studies: A review. Infect Genet Evol. 2019, doi: 10.1016/j.meegid.2018.11.009. 27. Couto-Lima D, Andreazzi CS, Leite PJ, Bersot MIL, Alencar J, Lourenço-De-oliveira R. Seasonal population dynamics of the primary yellow fever vector Haemagogus leucocelaenus (Dyar & Shannon) (Diptera: Culicidae) is mainly influenced by SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 temperature in the atlantic forest, Southeast Brazil. Mem Inst Oswaldo Cruz. 2020; doi: 10.1590/0074-02760200218. 28. da Silva Pessoa Vieira CJ, Steiner São Bernardo C, Ferreira da Silva DJ, Rigotti Kubiszeski J, Serpa Barreto E, de Oliveira Monteiro HA, et al. Land-use effects on mosquito biodiversity and potential arbovirus emergence in the Southern Amazon, Brazil. Transbound Emerg Dis. 2021; doi: 10.1111/tbed.14154. 29. Lourenço-de-Oliveira R, Failloux AB. High risk for chikungunya virus to initiate an enzootic sylvatic cycle in the tropical Americas. PLoS Negl Trop Dis. 2017; doi: 10.1371/journal.pntd.0005698. 30. Diaz LA, Flores FS, Beranek M, Rivarola ME, Almirón WR, Contigiania MS. Transmission of endemic st louis encephalitis virus strains by local Culex quinquefasciatus populations in Córdoba, Argentina. Trans R Soc Trop Med Hyg. 2013; doi: 10.1093/trstmh/trt023. 31. Samy AM, Elaagip AH, Kenawy MA, Ayres CFJ, Peterson AT, Soliman DE. Climate change influences on the global potential distribution of the mosquito Culex quinquefasciatus, vector of West Nile virus and lymphatic filariasis. PLoS One. 2016; doi: 10.1371/journal.pone.0163863. 32. Gutierrez B, Wise EL, Pullan ST, Logue CH, Bowden TA, Escalera-Zamudio M, et al. Evolutionary dynamics of Oropouche Virus in South America. J Virol. 2020; doi: 10.1128/jvi.01127-19. 33. Tadei WP, Thatcher BD. Malaria vectors in the Brazilian Amazon: Anopheles of the subgenus Nyssorhynchus. Rev Inst Med Trop Sao Paulo. 2000; doi: 10.1590/S0036- 46652000000200005. 34. Laporta GZ, Linton YM, Wilkerson RC, Bergo ES, Nagaki SS, Sant’Ana DC, et al. Malaria vectors in South America: Current and future scenarios. Parasit. Vectors. 2015; doi: 10.1186/s13071-015-1038-4. 35. Hiwat H, Bretas G. Ecology of Anopheles darlingi Root with respect to vector importance: A review. Parasi.t Vectors. 2011; doi: 10.1186/1756-3305-4-177. 36. Marques R, Krüger RF, Cunha SK, Silveira AS, Alves DMCC, Rodrigues GD, et al. Climate change impacts on Anopheles (K.) cruzii in urban areas of Atlantic Forest of Brazil: Challenges for malaria diseases. Acta Trop. 2021; doi: 10.1016/j.actatropica.2021.106123. 37. Dantas-Torres F, Otranto D. Dirofilariosis in the Americas: A more virulent Dirofilaria immitis? Parasit. Vectors. 2013; doi: 10.1186/1756-3305-6-288. 38. Cursino AE, Vilela APP, Franco-Luiz APM, de Oliveira JG, Nogueira MF, Júnior JPA, et al. Equine infectious anemia virus in naturally infected horses from the Brazilian Pantanal. Arch Virol.; 2018; doi: 10.1007/s00705-018-3877-8. 39. Godaert L, Dramé M, Roubaud-Baudron C. Emerging viruses in older population Chikungunya, West Nile fever and Dengue. Aging Clin Exp Res. 2021; doi: 10.1007/s40520-019-01389-y. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 40. De Oliveira-Filho EF, Fischer C, Berneck BS, Carneiro IO, Kühne A, De Almeida Campos AC, et al. Ecologic determinants of West Nile virus seroprevalence among equids, Brazil. Emerg Infect Dis. 2021; doi: 10.3201/eid2709.204706. 41. Angenvoort J, Brault AC, Bowen RA, Groschup MH. West Nile viral infection of equids. Vet Microbiol. 2013; doi: 10.1016/j.vetmic.2013.08.013. 42. Parham PE, Waldock J, Christophides GK, Hemming D, Agusto F, Evans KJ, et al. Climate, environmental and socio-economic change: Weighing up the balance in vector- borne disease transmission. Philos Trans R Soc B Biol Sci. 2015; doi: 10.1098/rstb.2013.0551. 43. Eder M, Cortes F, Teixeira de Siqueira Filha N, Araújo de França GV, Degroote S, Braga C, et al. Scoping review on vector-borne diseases in urban areas: Transmission dynamics, vectorial capacity and co-infection. Infect Dis Poverty. 2018; doi: 10.1186/s40249-018-0475-7. 44. BRASIL: Paraná | Cidades e Estados | IBGE. https://www.ibge.gov.br/cidades-e- estados/pr/ (2022). Accessed 2022 Feb 8. 45. Reginato M, Goldenberg R. Análise florística, estrutural e fitogeográfica da vegetação em região de transição entre as Florestas Ombrófilas Mista e Densa Montana, Piraquara, Paraná, Brasil. Hoehnea. 2007; doi: 10.1590/S2236-89062007000300006. 46. Völtz RR, Alves-Araújo A, Goldenberg R. Native species of Sapotaceae Juss. In Paraná, Brazil. Phytotaxa. 2020; doi: 10.11646/phytotaxa.430.4.1. 47. Alvares CA, Stape JL, Sentelhas PC, De Moraes Gonçalves JL, Sparovek G. Köppen’s climate classification map for Brazil. Meteorol Zeitschrift. 2013; doi: 10.1127/0941-2948/2013/0507. 48. Reinert JF. List of abbreviations for currently valid generic-level taxa in family Culicidae (Diptera). J Eur Mosq Control Assoc. 27:68–76 2009. 49. Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, et al. Darwin core: An evolving community-developed biodiversity data standard. PLoS One. 2012; doi: 10.1371/journal.pone.0029715. 50. Lopes J, Lozovei AL. Ecologia de mosquitos (Diptera: Culicidae) em criadouros naturais e artificiais de área rural do Norte do Estado do Paraná, Brasil: l - Coletas ao longo do leito de ribeirão. Rev Saude Publica. 1995; doi: 10.1590/s0034- 89101995000300005. 51. Lozovei AL, Silva MAN da. Análise comparativa entre métodos alternativo e convencional para amostras de mosquitos obtidos a partir de habitats fitotélmicos (Bromeliaceae) na Floresta Atlântica, Serra do Mar, Paraná, Brasil. Rev Bras Zool. 1999; doi: 10.1590/s0101-81751999000400003. 52. Lozovei AL. Mosquitos dendrícolas (Diptera, Culicidae) em internódios de taquara da Floresta Atlântica, Serra do Mar e do Primeiro Planalto, Paraná, Brasil. Brazilian Arch Biol Technol. 1998; doi: 10.1590/s1516-89131998000400016. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 53. Andrade A, Conceição M. Coleção Entomológica Ana Leuch Lozovei. Universidade Federal do Paraná. Occurrence dataset https://doi.org/10.15468/g7628g. (2022). Accessed 2022 Feb 25.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Legends
+Figure 1. Municipalities and phytogeographic regions of the State of Paraná, where the culicid samples housed in the Ana Leuch Lozovei Entomological Collection of the Federal University of Paraná, Brazil were collected.
+Table 1. Species of mosquitoes (Diptera: Culicidae) present in the state of Paraná, Brazil, and associated pathogens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703
+
+Figure 1
+
+
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Genus Subgenus Species Pathogens References Aedomyia Aedeomyia squamipennis (Lynch Arribálzaga, 1878) Plasmodium spp. (aviary) Encefalite Equina Venezuelana virus (VEEV) Gamboa virus (GAMV) Bunyawera virus (BUNV) Everglades virus (EVEV) GABALDON, A.; ULLOA, G.; GODOY, N.; MARQUEZ, E. & PULIDO, J. (1977) Aedeomyia squamipennis (Diptera: Culicidae) vector natural de malária aviária en Venezuela. Bol. Dir. Malariol. Y San. Amb., 17: 9-13.
+
+
+Plasmodium spp. (aviary) Encefalite Equina Venezuelana virus (VEEV) Gamboa virus (GAMV) Bunyawera virus (BUNV) Everglades virus (EVEV) PEREIRA, A.C.N.; PEREIRA FILHO, A.A.; BRITO, G.A.; MORAES, J.L.; REBÊLO, J.M.M. (2017) First record of Aedeomyia squamipennis (Lynch Arribálzaga, 1878) (Diptera: Culicidae) in the state of Maranhão: epidemiological implications and distribution in Brazil. Check List, 13(2): 2084. doi: https://doi.org/10.15560/13.2.2084
+
+
+
+BURKETT-CADENA, N.D.; BLOSSER, E.M. (2017) Aedeomyia squamipennis (Diptera: Culicidae) in Florida, USA, a New state and Country Record. Journal of Medical Entomology, 54(3):788-792. doi:https://doi.org/10.1093/jme/tjw226
+
+
+
+SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Anopheles Anopheles costai Fonseca & Ramos, 1939 Plasmodium vivax Plasmodium falciparum KLEIN, T.A.; LIMA, J.B.; TADA, M.S. (1991) Suscetibilidade comparativa de mosquitos anofelinos ao Plasmodium falciparum em Rondônia, Brasil. Amer. J. trop. Med. Hyg , 44 : 598- 603.
+
+
+
+KLEIN, T.A; LIMA, J.B.P.; TADA, M.S.; MILLER, R. (1991) Suscetibilidade comparativa de mosquitos anofelinos em Rondônia, Brasil, à infecção por Plasmodium vivax. Amer. J. trop. Med. Hyg, 45: 463-470 Anopheles
+eiseni Coquillet, 1902 Plasmodium falsiparum Walter Reed Biosystematics Unit (2022). Anopheles eiseni species page. Walter Reed Biosystematics Unit Website Disponível em: Disponivel em: https://wrbu.si.edu/vectorspecies/mosquitoes/eiseni. Acesso em:03 de fevereiro de 2022. Anopheles
+fluminensis Root, 1927 Plasmodium brasilianum Plasmodium falciparum Plasmodium malariae Plasmodium simium Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles fluminensis species page. Walter Reed Biosystematics Unit Website Disponível em: Disponivel em: https://wrbu.si.edu/vectorspecies/mosquitoes/fluminensis. Acesso em:03 de fevereiro de 2022. Anopheles
+intermedius (Chagas, 1908) Plasmodium falciparum DUSFOUR, I.; ISSALY, I.; CARINCI, R.; GABORIT, P.; GIDOR, R. (2012) Incrimination of Anopheles (Anopheles) intermedius Peryassú, An. (Nyssorhynchus) nuneztovari Gabaldón, An. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 (Nys.) oswaldoi Peryassú as natural vectors of Plasmodium falciparum in French Guiana. Mem. Inst. Oswaldo Cruz, 107(3):429-432. Anopheles
+mediopunctatus (Lutz, 1903) Plasmodium falciparum Walter Reed Biosystematics Unit (2022). Anopheles mediopunctatus species page. Walter Reed Biosystematics Unit Website Disponível em:). Disponivel em: https://wrbu.si.edu/vectorspecies/mosquitoes/mediopunctatus. Acesso em:03 de fevereiro de 2022. Anopheles
+punctimacula Dyar & Knab, 1906 Plasmodium vivax Plasmodium falciparum ULLOA, A.; GONZÁLEZ-CERÓN, L.; RODRÍGUEZ, M.H. (2006). HOST SELECTION AND GONOTROPHIC CYCLE LENGTH OF ANOPHELES PUNCTIMACULA IN SOUTHERN MEXICO. Journal of the American Mosquito Control Association, 22(4):648–653. doi:10.2987/8756-971x(2006)22[648:hsagcl]2.0.co;2 Anopheles
+shannoni Davis, 1931
+
+Anopheles
+tibiamaculatus (Neiva, 1906)
+Anopheles Kerteszia bellator Dyar & Knab, 1906 Wuchereria bancrofti Plasmodium spp. Walter Reed Biosystematics Unit (2022). Anopheles bellator species page. Walter Reed Biosystematics Unit Website. Disponível em: http://wrbu.si.edu/mosquitoes/vectorspecies/bellator. Acesso em: 03 de fevereiro de 2022.
+
+
+
+CONSOLI, R.A.G.B.; LOURENÇO-DE-OLIVEIRA, R. (1994) Principais mosquitos de importância sanitária no Brasil / Routraut A.G.B. Consoli, Ricardo Lourenço de Oliveira. Rio de Janeiro: Fiocruz, 1994. 228p. Anopheles
+cruzii Dyar & Knab, 1908 Plasmodium vivax Plasmodium falciparum BRANQUINHO, M.S.; MARRELLI, M.T.; CURADO, I.; NATAL, D.; BARATA, J.M.; TUBAKI, R.; CARRERI-BRUNO, G.C.; MENEZES, R.T.; KLOETZEL, J.K. (1997) Infecçăo de Anopheles (Kerteszia) cruzii por Plasmodium vivax e Plasmodium vivax variante VK247 nos municípios de Săo Vicente e Juquitiba, Săo Paulo. Rev Panam Salud Pública 2: 189-193. Anopheles
+homunculus Komp, 1937 Plasmodium falciparum Plasmodium spp. Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles homunculus species page. Walter Reed Biosystematics Unit Website. Disponível em: http://wrbu.si.edu/mosquitoes/vectorspecies/homunculus. Acecsso em: 03 de fevereiro de 2022. Anopheles Nyssorhynchus albimanus Weidemann, 1820 Chikungunya cirus (CHIKV) Sindbis virus (SINV) Semliki Forest virus (SFV) Tlacotalpan virus (TLAV) Plasmodium berghei Plasmodium falciparum Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles albimanus species page. Walter Reed Biosystematics Unit Website. Disponível em: http://wrbu.si.edu/mosquitoes/vectorspecies/homunculus. Acecsso em: 03 de fevereiro de 2022. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Anopheles
+albitarsis Lynch Arribálzaga, 1878 Las Maloyas virus (LMV) St. Louis Encephalitis virus (SLEV) Western Equine Encephalitis virus (WEEV) Plasmodium falciparum Plasmodium malariae Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles albitarsis species page. Walter Reed Biosystematics Unit Website. Disponível em: http://wrbu.si.edu/vectorspecies/mosquitoes/albitarsis. Acesso em: 03 de fevereiro de 2022. Anopheles
+antunesi Galvão & Franco do Amaral, 1940
+
+Anopheles
+argyritarsis Robineau- Desvoisdy, 1827 Plasmodium vivax FARAN, M.E.; LINTHICUM, K.J. (1981) A handbook of the Amazonian species of Anopheles (Nyssorhynchus) (Diptera: Culicidae). Mosquitos Systematics, 13: 1-81. Anopheles
+benarrochi Gabaldón, Cova García & Lopez, 1941 Plasmodium vivax Plasmodium falciparum Walter Reed Biosystematics Unit (2022). Anopheles benarrochi species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/benarrochi. Acesso em: 03 de fevereiro de 2022. Anopheles
+braziliensis (Chagas, 1907) Plasmodium falciparum Plasmodium malariae Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles braziliensis species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/braziliensis. Acesso em: 03 de fevereiro de 2022. Anopheles
+darlingi Root, 1926 Plasmodium falciparum Plasmodium malariae Plasmodium vivax Wuchereria bancrofti Walter Reed Biosystematics Unit (2022). Anopheles darlingi species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/an_darlingi. Acesso em: 03 de fevereiro de 2022. Anopheles
+daeneorum Rosa- Freitas, 1989 Plasmodium vivax Plasmodium falciparum Walter Reed Biosystematics Unit (2022). Anopheles deaneorum species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/deaneorum. Acesso em: 03 de fevereiro de 2022. Anopheles
+evansae (Brèthes, 1926)
+
+Anopheles
+galvaoi Causey Deane & Deane, 1943 Plasmodium vivax Plasmodium falciparum Walter Reed Biosystematics Unit (2022). Anopheles galvaoi species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/galvaoi. Acesso em: 03 de fevereiro de 2022. Anopheles
+konderi Galvão & Damasceno, 1942 Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles konderi species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/konderi. Acesso em: 03 de fevereiro de 2022. Anopheles
+lutzii Cruz, 1901 Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles lutzii species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/lutzii. Acesso em: 03 de fevereiro de 2022. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Anopheles
+oryzalimnetes Wilkerson & Motoki, 2009
+
+Anopheles
+oswaldoi (Peryassú, 1922) Plasmodium falciparum Plasmodium malariae Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles oswaldoi species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/oswaldoi. Acesso em: 03 de fevereiro de 2022. Anopheles
+parvus (Chagas, 1907) Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles parvus species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/parvus. Acesso em: 03 de fevereiro de 2022. Anopheles
+rangeli Gabaldón, Cova García & Lopez, 1941 Plasmodium brasilianum Plasmodium falciparum Plasmodium malariae Plasmodium simium Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles rangeli species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/rangeli. Acesso em: 03 de fevereiro de 2022. Anopheles
+rondoni (Neiva & Pinto, 1922) Plasmodium vivax Plasmodium falciparum Walter Reed Biosystematics Unit (2022). Anopheles rondoni species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/rondoni. Acesso em: 03 de fevereiro de 2022. Anopheles
+strodei Root, 1926 Plasmodium falciparum Plasmodium malariae Plasmodium spp. Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles strodei species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/strodei. Acesso em: 03 de fevereiro de 2022. Anopheles
+triannulatus (Neiva & Pinto, 1922) Breu Branco virus Las Maloyas virus (LMV) Plasmodium falciparum Plasmodium vivax Walter Reed Biosystematics Unit (2022). Anopheles triannulatus species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/vectorspecies/mosquitoes/triannulatus. Acesso em: 03 de fevereiro de 2022. Chagasia
+fajardi (Lutz, 1904)
+
+Coquillettidia Rynchotaenia albiscosta (Chagas, 1908)
+Coquillettidia
+albifera (Prado, 1931)
+Coquillettidia
+crhysonotum (Peryassú, 1922)
+Coquillettidia
+fasciolata (Lynch Arribálzaga, 1891)
+Coquillettidia
+hermanoi (Lane & Coutinho, 1940)
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Coquillettidia
+juxtamansonia (Chagas 1907)
+
+Coquillettidia
+lynchi (Shannon, 1931)
+
+Coquillettidia
+nigricans (Coquillet, 1904)
+
+Coquillettidia
+nitens (Cerqueira, 1943)
+
+Coquillettidia
+shannoni (Lane & Antunes, 1937)
+
+Coquillettidia
+venezuelensis (Theobald, 1912) Oropouche virus (OROV) MARCONDES, C.B. (eds.) (2017). Arthropod borne disease. Switzerland: Springer, 645p.
+
+
+Catu virus (CATUV) Guama virus (GMAV) Itaporanga virus (ITPV) Moju virus (MOJUV) Mucambo virus (MUCV) Oriboca virus (ORIV) Oropouche virus (OROV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Culex Aedinus amazonensis (Lutz, 1905)
+
+Culex Carrolia iridescens (Lutz, 1905)
+
+Culex
+kompi Valencia, 1973
+
+Culex
+soperi Antunes & Lane, 1937
+
+Culex Culex acharistus Root, 1927
+
+Culex
+aquarius Strickman, 1990
+
+Culex
+bidens Dyar, 1922 Venezuelan Equine Encephalitis virus (VEEV) SABATTINI, M.S.; AVILÉS, G.; MONATH, T, P. (1998) Historical, epidemiological and ecological aspects of arboviruses in Argentina: Flaviviridae, Bunyaviridae and Rhabdoviridae. In: Travassos da Rosa APA, Vasconcelos PFC, Travassos da Rosa JFS, editors. An Overview of Arbovirology in Brazil and Neighbouring Countries. Instituto Evandro Chagas; 1998. pp. 113– 134. Culex
+bonneae Dyar & Knab, 1919
+
+Culex
+chidesteri Dyar, 1921
+
+Culex
+coronator Dyar & Knab, 1906 West Nile Virus (WNV) ALTO, B.W.; CONNELLY, C.R.; O'MEARA, G.F.; HICKMAN, D.; KARR, N. (2014) Reproductive biology and susceptibility of Florida Culex coronator to infection with West Nole Virus. Vector-borne and Zoonotic Diseases, 14(8):606-614. doi:10.1089/vbz.2013.1501 SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703
+
+
+Zika virus (ZIKV) VIVEIROS-ROSA, S.G.; REGIS, E.G.; SANTOS, W.C. (2020) Vector competence of Culex mosquitoes (Diptera: Culicidae) in Zika virus transmission: an integrative review. Rev Panam Salud Publica, 44:e7. https://doi.org/10.26633/RPSP.2020.7
+
+
+St. Louis Encephalitis virus (STLV) CARDOSO et al. (2010). Novos registros e potencial epidemiológico de algumas espécies de mosquitos (Diptera: Culicidae), no Estado do Rio Grande do Sul. Rev. Soc. Bras. Med. Trop., 43(5):552-556. https://doi.org/10.1590/S0037-86822010000500016 Culex
+declarator Dyar & Knab, 1906 Oropouche virus (OROV) St. Louis Encephalitis virus (SLEV) West Nile Virus (WNV) LAURITO, M.; HOYOS-LÓPEZ, R. (2018) First record of Culex (Culex) bidens (Diptera: Culicidae) in Colombia: Taxonomic and epidemiological implications. Acta Tropica, 188(2018):251-257. doi:http://doi.org/10.1016/j.actatropica.2018.09.010 Culex
+dolosus (Lynch Arribálzaga, 1891)
+
+Culex
+eduardoi Casal & García, 1968
+
+Culex
+foliaceus Lane, 1945
+
+Culex
+laticlasper Galindo & Blanton, 1954
+
+Culex
+lygrus Root, 1927
+
+Culex
+mollis Dyar & Knab, 1906
+
+Culex
+nigripalpus Theobald, 1901 Cabassou virus (CABV) Eastern Equine Encephalitis virus (EEEV) Everglades virus (EVEV) Hart Park virus (HPV) Keystone virus (KEYV) St. Louis Encephalitis virus (STLV) TEnsaw virus (TENV) Venezuelan Equine Encephalitis virus (VEEV) West Nile Virus (WNV) Vesicular Stomatitis (NJ serotype) virus (VSNJV) Wyeomyia virus (WYOV) Walter Reed Biosystematics Unit (2022). Culex nigripalpus species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/nigripalpus. Acesso em: 03 de fevereiro de 2022. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Culex
+pipiens Linnaeus, 1758 Japanese Encephalitis virus (JBEV) La Crosse virus (LACV) Rift Valley fever virus (RVFV) Rocio virus (ROCV) Venezuelan Equine Encephalitis virus (VEEV) West Nile virus (WNV) Wuchereria bancrofti Walter Reed Biosystematics Unit (2022). Culex pipiens species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/pipiens. Acesso em: 03 de fevereiro de 2022. Culex
+quinquefasciatus Say, 1823 Chikungunya virus (CHIKV) Eastern Equine Encephalitis virus (EEEV) Oropouche virus (OROV) Rocio virus (ROCV) Rift Valley fever virus (RVFV) St. Louis Encephalitis virus (SLEV) Venezuelan Equine Encephalitis virus (VEEV) West Nile virus (WNV) Plasmodium relictum Wuchereria bancrofti Walter Reed Biosystematics Unit (2022). Culex quinquefasciatus species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/quinquefasciatus. Acesso em: 03 de fevereiro de 2022. Culex
+saltanensis Dyar, 1928
+
+Culex
+tatoi Casal & García, 1971
+
+Culex
+usquatus Dyar, 1918
+
+Culex Melanococion alinkius Sallun & Hutchings, 2003
+
+Culex
+bastagarius Dyar & Knab, 1906
+
+Culex
+delpontei Duret, 1969
+
+Culex
+dunni Dyar, 1918
+
+Culex
+faurani Duret, 1968
+
+Culex
+idottus Dyar, 1920
+
+Culex
+inhibitator Dyar & Knab, 1906
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Culex
+lucifugus Komp, 1936
+
+Culex
+lopesi Sirivanakam & Jakob, 1979
+
+Culex
+misionensis Duret, 1953
+
+Culex
+ocossa Dyar & Knab, 1919 Babanki virus (BBKV) Para virus (PARAV) Venezuelan Equine Encephalitis virus (VEEV) Western Equine Envephalitis virus (WEEV) Walter Reed Biosystematics Unit (2022). Culex ocossa species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/ocossa. Acesso em: 03 de fevereiro de 2022. Culex
+oedipus Root, 1927
+
+Culex
+pedroi Sirivanakam & Belkin, 1980
+
+Culex
+pilosus (Dyar & Knab, 1906)
+
+Culex
+ribeirensis Forattini & Sallum, 1985
+
+Culex
+theobaldi (Lutz, 1904)
+
+Culex
+vaxus Dyar, 1920
+
+Culex
+sacchettae Sirivanakam & Jakob, 1982
+
+Culex
+spissipes (Theoblad, 1903) Carapupu virus (CARV) St. Louis Encephalitis virus (SLEV) Venezuelan Equine Encephalitis virus (VEEV) Walter Reed Biosystematics Unit (2022). Culex spissipes species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/spissipes. Acesso em: 03 de fevereiro de 2022. Culex
+zeteki Dyar, 1918
+
+Culex Microculex elongatus Rozeboom & Komp, 1950
+
+Culex
+hedys Root, 1927
+
+Culex
+imitator Theobald, 1903
+
+Culex
+lanei Oliveira Coutinho & Forattini, 1962
+
+Culex
+microphyllus Root, 1927
+
+Culex
+neglectus Lutz, 1904
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Culex
+pleuristriatus Theobald, 1903
+
+Culex Phenacomyia corniger Theobald, 1903
+
+Culex
+ocellatus Theobald, 1903)
+
+Georgecraigius Horsfallius fluviatilis (Lutz, 1904) Chikungunya virus (CHIKV) XIMENES et al. (2020) Arbovirus expansion: New species of culicids infected by the Chikungunya virus in na urban park of Brazil. Acta Tropica, 209:105538. doi:https://doi.org/10.1016/j.actatropica.2020.105538.
+
+
+Yellow Fever virus (YFV) Dirofilaria immitis CONSOLI, R.A.G.B.; LOURENÇO-DE-OLIVEIRA, R. (1994) Principais mosquitos de importância sanitária no Brasil / Routraut A.G.B. Consoli, Ricardo Lourenço de Oliveira. Rio de Janeiro: Fiocruz, 1994. 228p. Haemagogus Conopostegus leucocelaenus (Dyar & Shannon, 1924) Yellow Fever virus (YFV) MARCONDES, C.B.; ALENCAR, J. (2010) Revisión de los mosquitos del género Haemagogus Williston (Diptera: Culicidae) de Brasil. Rev. Biomed., 21 (2010):221-238. https://doi.org/10.32776/revbiomed.v21i3.115
+
+
+Chikungunya virus (CHIKV) LOURENÇO-DE-OLIVEIRA, R.; FAILLOUX, A.B. (2017) High risk for Chikungunya virus to initiate an enzootic sylvatic cycle in the tropical Americas. PLoS Negl. Trop. Dis., 11 (2017): e0005698. https://doi.org/10.1371/journal.pntd.0005698
+
+
+Ileus virus (ILHV) Maguari virus (MAGV) Una virus (UNAV) Wyeomyia virus (WYOV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Howardina
+fulvithorax (Lutz, 1904) Yellow Fever virus (YFV) NAVARRO, J.C.; ENRÍQUEZ, S.; DUQUE, P.; CAMPAÑA, Y. BENÍTEZ-ORTÍZ, W. (2015) New mosquito species records for Ecuador, from Pululahua volcano (Andes) and Napo province (Amazon). Journal of Entomology and Zoology Studies, 3(6):392-396. Limatus
+durhamii Theobald, 1901 Maguari virus (MAGV) Guama virus (GMAV) Tucunduba virus (TUCV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Limatus
+flavisetosus de Oliveira Castro, 1935 Maguari virus (MAGV) Guama virus (GMAV) Tucunduba virus (TUCV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Limatus
+pseudomethysticus (Bonne-Wepster & Bonne, 1920)
+
+Lutzia Lutzia bigoti (Bellardi, 1862)
+
+Mansonia Mansonia amazonensis (Theobald, 1901)
+
+Mansonia
+flaveola (Coquillet, 1906)
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Mansonia
+fonsecai (Pinto, 1932)
+
+Mansonia
+humeralis Dyar & Knab, 1916
+
+Mansonia
+iguassuensis Barbosa da Silva & Sallum, 2007
+
+Mansonia
+indubitans Dyar & Shannon, 1925
+
+Mansonia
+pessoai (Barretto & Coutinho, 1944)
+
+Mansonia
+pseudotitillans (Theobald, 1901) St. Louis Encephalitis virus (STLV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Mansonia
+titillans (Walker, 1848) Venezuelan Equine Encephalitis virus (VEEV) BECKER, N.; PETRIC, D.; ZGOMBA, M.; BOASE, C.; DAHL, C.; MADON, M.; KAISER, A. (2010) Mosquitoes and Their Control. Switzerland: Springer. 557p.
+
+
+Larvas de Dermatobia hominis CONSOLI, R.A.G.B.; LOURENÇO-DE-OLIVEIRA, R. (1994) Principais mosquitos de importância sanitária no Brasil / Routraut A.G.B. Consoli, Ricardo Lourenço de Oliveira. Rio de Janeiro: Fiocruz, 1994. 228p. Mansonia
+wilsoni (Barretto & Coutinho, 1944)
+
+Ochlerotatus Chrysoconops fulvus (Wiedemann, 1828) Yellow Fever Virus (YFV) St. Louis Encephalitis virus (SLEV) Ilheus virus (ILHV) Western Equine Encephalitis virus (WEEV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Ochlerotatus
+pennai (Antunes & Lane, 1938)
+
+Ochlerotatus
+stigmaticus (Edwards, 1922)
+
+Ochlerotatus Ochlerotatus crinifer (Theobald, 1903)
+
+Ochlerotatus
+rhyacophylus (da Costa Lima, 1933)
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Ochlerotatus
+scupularis (Rondani, 1848) Ilheus virus (ILHV) Kairi virus (KRIV) Lukini virus (LUKV) Maguari virus (MAGV) Mayaro virus (MAYV) Melao virus (MELV) Oropouche virus (OROV) Playas virus (PLAV) St. Louis Encephalitis virus (SLEV) Venezuelan Equine Encephalitis virus (VEEV) Wyeomyia virus (WYOV) Yellow Fever virus (YFV) Dirofilaria immitis Wuchereria bancrofti Walter Reed Biosystematics Unit (2022). Aedes scapularis species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/scapularis. Acesso em: 03 de fevereiro de 2022. Ochlerotatus Protoculex argyrothorax (Bonne- Wepster & Bonne, 1920) Ilheus virus (ILHV) Wyeomyia virus (WYOV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Ochlerotatus
+eucephalaeus (Dyar, 1918)
+
+Ochlerotatus
+hastatus (Theobald, 1903) Venezuelan Equine Encephalitis virus (VEEV) PISANO, M.B.; RÉ, V.E.; DÍAZ, L.A.; FARÍAS, A.; STEIN, M.; SANCHES-SECO, M.P.; TENORIO, A.; ALMIRÓN, W.R.; CONTIGIANI, M.S. (2010). Enzootic Activity of Pixuna and Rio Negro Viruses (Venezuelan Equine Encephalitis complex) in a Neotropical Region of Argentina. Vector-Borne and Zoonotic Diseases, 10(2):199–201. doi:10.1089/vbz.2008.0156
+
+
+Pixuna virus (PIXV) DANTUR JURI et al. (2012) New records of mosquitoes from Northwestern Argentina. Journal of the American Mosquito Control Association, 28(2):111-113. doi:10.2987/12-622r.1 Ochlerotatus
+nubilus (Theobald, 1903)
+
+Ochlerotatus
+oligopistus (Dyar, 1918)
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Ochlerotatus
+serratus (Theobald, 1901) Aura virus (AURAV) Caraparu virus (CARV) Venezuelan Equine Encephalitis virus (VEEV) St. Louis Encephalitis virus (SLEV) Guama virus (GMAV) Ilheus virus (ILHV) Mirim virus (MIRV) Mucambo virus (MUCV) Oriboca virus (ORIV) Oropouche virus (OROV) Una virus (UNAV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Ochlerotatus Protomacleaya argyrothorax (Bonne- Wepster & Bonne, 1920) Ilheus virus (ILHV) Wyeomyia virus (WYOV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67.
+
+
+Yellow Fever virus (YFV) PAUVOLID-CORRÊA et al. (2010) Preliminary investigation of Culicidae species in South Pantanal, Brazil and their potential importance in arbovirus transmission. Rev. Inst. Med. Trop. S. Paulo, 52(1):17-23. doi: 10.1590/S0036-46652010000100004 Ochlerotatus
+terrens (Walker, 1856) Chikungunya virus (CHIKV) LOURENÇO-DE-OLIVEIRA, R.; FAILLOUX, A.B. (2017) High risk for Chikungunya virus to initiate an enzootic sylvatic cycle in the tropical Americas. PLoS Negl. Trop. Dis., 11 (2017): e0005698. https://doi.org/10.1371/journal.pntd.0005698 Onirion
+personatum (Lutz, 1904)
+
+Psorophora Grabhamia cingulata (Fabricius, 1805) Oropouche virus (OROV) PEREIRA-SILVA et al. (2021) Distribution and diversity of mosquitoes and Oropouche-like virus infection rates in an Amazonian rural settlement. PLoS ONE, 16(2): e0246932. DOI: https://doi.org/10.1371/journal. Psorophora
+confinnis (Lynch Arribálzaga, 1891) Venezuelan Equine Encephalitis virus (VEEV) BELLO et al. (2001) A new continuous cell line from the mosquito Psorophora confinnis (Diptera: Culicidae) and its susceptibility to infections with some arboviruses. Memórias do Instituto Oswaldo Cruz, 96(6):865-873. doi: https://doi.org/10.1590/S0074-02762001000600022 Psorophora Janthinosoma albigenu (Peryassú, 1908) Western Equine Encephalitis Virus (WEEV) Turrel MJ, O'Guinn ML, Dohm D, Zyzak M, Watts D, Fernandez R, Calampa C, Klein TA, Jones JW. 2008. Susceptibility of Peruvian mosquitoes to eastern equine encephalitis virus. J Med Entomol, 45:720–725. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Psorophora
+albipes (Theobald, 1907) Yellow Fever virus (YFV) Venezuelan Equine Encephalitis virus (VEEV) Guama virus (GMAV) Ilheus virus (ILHV) Kairi virus (KRIV) Mayaro virus (MAYV) Uma virus (UNAV) Wyeomyia virus (WYOV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Psorophora
+champerico (Dyar & Knab, 1906)
+
+Psorophora
+circumflava Cerqueira, 1943
+
+Psorophora
+discucians (Walker, 1856)
+
+Psorophora
+ferox (von Humboldt, 1819) Guaroa virus (GROV) Ieri virus (IREIV) Ilheus virus (ILHV) Kairi virus (KRIV) Maguari virus (MAGV) Mayaro virus (MAYV) Oriboca virus (ORIV) Oropouche virus (OROV) Una virus (UNAV) Venezuelan Equine Encephalitis virus (VEEV) West Nile virus (WNV) Wyeomyia virus (WYOV) Walter Reed Biosystematics Unit (2022). Psorophora ferox species page. Walter Reed Biosystematics Unit Website. Disponível em: https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/ferox. Acesso em: 03 de fevereiro de 2022.
+
+
+Dermatobia hominis eggs CONSOLI, R.A.G.B.; LOURENÇO-DE-OLIVEIRA, R. (1994) Principais mosquitos de importância sanitária no Brasil / Routraut A.G.B. Consoli, Ricardo Lourenço de Oliveira. Rio de Janeiro: Fiocruz, 1994. 228p. Psorophora
+johnstonii (Grabham, 1905)
+
+Psorophora
+lanei Shannon & Cerqueira, 1943
+
+Psorophora
+lutzii (Theobald, 1901) Guama virus (GMAV) Ilheus virus (ILHV) Una virus (UNAV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Psorophora
+pseudomelatona Barata & Cotrim, 1971
+
+Psorophora
+varipes (Coquillet, 1904)
+
+Psorophora Psorophora ciliata (Fabricius, 1794) West Nile Virus (WNV) Eastern Equine Encephalitis virus (EEEV) Venezuelan Equine Encephalitis virus (VEEV) Tansal virus FOSS, K. A., & DEYRUP, L. D. (2007). NEW RECORD OF PSOROPHORA CILIATA IN MAINE, UNITED STATES. Journal of the American Mosquito Control Association, 23(4):476–477. doi:10.2987/5582.1 Runchomyia Runchomyia cerqueirai (Stone, 1944)
+
+Runchomyia
+reversa (Lane & Cerqueira, 1942)
+
+Runchomyia
+theobaldi (Lane & Cerqueira, 1942)
+
+Sabethes Peytonulus aurescens (Lutz, 1905)
+
+Sabethes
+identicus Dyar & Knab, 1905 Yellow Fever virus (YFV) FIORAVANTI, C.N. (2018) O combate à Febre Amarela no Estado de São Paulo: História, desafios e inovações. São Paulo: CVE/SES. 184p. Disponível em: https://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia- epidemiologica/publicacoes/febre_amarela_web_2018.pdf. Acesso em: 05 de fevereiro de 2022. Sabethes
+soperi Lane & Cerqueira, 1942 Tucunduba virus (TUCV) Macaua virus (MCAV) CONSOLI, R.A.G.B.; LOURENÇO-DE-OLIVEIRA, R. (1994) Principais mosquitos de importância sanitária no Brasil / Routraut A.G.B. Consoli, Ricardo Lourenço de Oliveira. Rio de Janeiro: Fiocruz, 1994. 228p.
+
+
+Yellow Fever virus (YFV) MARCONDES, C.B. (eds.) (2017). Arthropod borne disease. Switzerland: Springer, 645p. Sabethes
+undosus (Coquillet, 1906) Yellow Fever virus (YFV) FIORAVANTI, C.N. (2018) O combate à Febre Amarela no Estado de São Paulo: História, desafios e inovações. São Paulo: CVE/SES. 184p. Disponível em: https://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia- epidemiologica/publicacoes/febre_amarela_web_2018.pdf. Acesso em: 05 de fevereiro de 2022. Sabethes
+whitmani Lane & Cerqueira, 1942
+
+Sabethes Sabethes albiprivus Theobald, 1903 Yellow fever virus (YFV) LIRA-VIEIRA et al. (2013) Ecological aspects of mosquitoes (Diptera: Culicidae) in the gallery forest of Brasília National Park, Brazil, with na enphasis on potential vectors of yellow fever. Revista da Sociedade Brasileira de Medicina Tropical, 46(5):566-574. doi:http://dx.doi.org/10.1590/0037-8682-0136-2013 Sabethes
+batesi Lane & Cerqueira, 1942
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Sabethes
+belisarioi Neiva, 1908 St. Louis Encephalitis virus (STLV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Sabethes
+purpureus (Theobald, 1907)
+
+Sabethes
+shannoni Cerqueira, 1961
+
+Sabethes Sabethinus idiogenes Harbach, 1994
+
+Sabethes
+intermedius (Lutz, 1904) Tucunduba virus (TUCV) Macaua virus (MCAV) CONSOLI, R.A.G.B.; LOURENÇO-DE-OLIVEIRA, R. (1994) Principais mosquitos de importância sanitária no Brasil / Routraut A.G.B. Consoli, Ricardo Lourenço de Oliveira. Rio de Janeiro: Fiocruz, 1994. 228p. Sabethes
+melanonymphe Dyar, 1924 Yellow Fever virus (YFV) ALMEIDA, A.O. (2018) Tracking primates against yellow fever. Revista FAPESP, 3:3-9. Disponível em:https://revistapesquisa.fapesp.br/wp- content/uploads/2019/04/Ingles_Dez2018_completo.pdf. Acesso em: 05 de fevereiro de 2022. Sabethes
+xhyphydes Harbach, 1994
+
+Sabethes Sabethoides chloropterus (von Humboldt, 1819) Yellow Fever virus (YFV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67.
+
+
+West Nile virus (WNV) Yellow Fever virus (YFV) CLEMENTS, A.N. (2012). The biology of mosquitos v.3. Cambridge: Cambridge University Press. 571p.
+
+
+St. Louis Encephalitis virus (STLV) Ilheus virus (ILHV) CONSOLI, R.A.G.B.; LOURENÇO-DE-OLIVEIRA, R. (1994) Principais mosquitos de importância sanitária no Brasil / Routraut A.G.B. Consoli, Ricardo Lourenço de Oliveira. Rio de Janeiro: Fiocruz, 1994. 228p. Sabethes
+conditus Moses Howard & Harbach, 2000
+
+Sabethes
+glaucodaemon (Dyar & Shannon, 1925) Yellow Fever virus (YFV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. Sabethes
+tridentatus Cerqueira, 1961
+
+Sabethes Davismyia petrocchiae (Shannon & del Ponte, 1928) Yellow Fever virus (YFV) COUTO-LIMA et al. (2017) Potential risk of re-emergence of urban transmission of Yellow Fever virus in Brazil facilitated by competent Aedes populations. Sci Rep. 2017;7.
+
+
+Yellow Fever virus (YFV) LI et al. (2022) Mapping environmental suitability of Haemagogus and Sabethes spp. mosquitoes to understand sylvatic transmission risk of yellow fever virus in Brazil. PLoS Negl Trop Dis 16(1): e0010019. doi: https://doi.org/10.1371/journal.pntd.0010019 Sallumia
+hortator (Dyar & Knab, 1907)
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 Shanonniana
+fluviatilis (Theobald, 1903)
+
+Stegomyia Stegomyia aegypti (Linnaeus, 1762) Dengue virus (DENV:1,2,3,4) Chikungunya virus (CHIKV) Yellow Fever virus (YFV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67.
+
+
+Zika virus (ZIKV) Dengue virus (DENV) Yellow Fever virus (YFV) Venezuelan Equine Encephalitis virus (VEEV) Mayaro virus (MAYV) MARCONDES, C.B.; XIMENES, M.F.F.M. (2016) Zika virus in Brazil and the danger of infestation by Aedes (Stegomyia) mosquitoes. Rev. Soc. Bras. Med. Trop., 49(1):1-7. doi: http://dx.doi.org/10.1590/0037-8682-0220-2015 Stegomyia
+albopicta (Skuse, 1895) Dengue virus (DENV:1,2,3,4) Chikungunya virus (CHIKV) Yellow Fever virus (YFV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67.
+
+
+Zika virus (ZIKV) Dengue virus (DENV) Yellow Fever virus (YFV) Venezuelan Equine Encephalitis virus (VEEV) Mayaro virus (MAYV) MARCONDES, C.B.; XIMENES, M.F.F.M. (2016) Zika virus in Brazil and the danger of infestation by Aedes (Stegomyia) mosquitoes. Rev. Soc. Bras. Med. Trop., 49(1):1-7. doi: http://dx.doi.org/10.1590/0037-8682-0220-2015 Toxorhynchites Lynchiella bambusicola (Lutz & Neiva, 1913)
+
+Toxorhynchites
+pusillus (Costa Lima, 1931)
+
+Trichoprosopon
+compressum Lutz, 1905
+
+Trichoprosopon
+digitatum (Rondani, 1848) Bussuquara virus (BSQV) Ilheus virus (ILHV) Pixuna virus (PIXV) Wyeomyia virus (WYOV) SEGURA, M.N.O.; CASTRO, F.C. (2007) Culicídeos na Amazônia Brasileira. Belém: Instituto Evandro Chagas, FIOCRUZ. p.67. SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703
+
+
+Aruac virus (ARUV) Bussuquara virus (BSQV) Cocal virus (COCV) Dengue virus (DENV) Ilheus virus (ILHV) Pixuna virus (PIXV) St. Louis Encephalitis virus (STLV) Triniti virus (TNTV) Wyeomyia virus (WYOV) Walter Reed Biosystematics Unit (2022). Trichoprosopon digitatum species page. Walter Reed Biosystematics Unit. Disponível em: http://wrbu.si.edu/vectorspecies/mosquitoes/digitatum. Acesso em: 05 de fevereriro de 2022. Trichoprosopon
+pallidiventer (Lutz,1905) Anhembi virus (AMBV) SOTO, S.U.; SUAZA-VASCO, J.D. (2021) El género neotropical Trichoprosopon Theobald 1901 (Diptera: Culicidae) en Colombia: registros de distribución e importancia médica. Rev. Acad. Colomb. Cienc. Ex. Fis. Nat. 45(176):638-650. doi: https://doi.org/10.18257/raccefyn.1376 Trichoprosopon
+simile Lane & Cerqueira, 1942
+
+Trichoprosopon
+soaresi Lane & Cerqueira, 1942
+
+Uranotaenia Uranotaenia apicalis Theobald, 1903
+
+Uranotaenia
+calosomata Dyar & Knab, 1907
+
+Uranotaenia
+ditaenionota Prado, 1931
+
+Uranotaenia
+geometrica Theobald, 1901
+
+Uranotaenia
+lowii Theobald, 1901
+
+Uranotaenia
+mathesoni Lane, 1943
+
+Uranotaenia
+nataliae Lynch Arribálzaga, 1891
+
+Uranotaenia
+pallidoventer Theobald, 1903
+
+Uranotaenia
+pulcherrima Lynch Arribálzaga, 1891
+
+Wyeomyia Miamyia limai Lane & Cerqueira, 1942
+
+Wyeomyia
+lutzi (Costa Lima, 1931)
+
+Wyeomyia
+oblita (Lutz, 1904)
+
+Wyeomyia
+sabethea Lane & Cerqueira, 1942
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703
+Table Wyeomyia Phoniomyia antunesi Lane & Cerqueira, 1937
+
+Wyeomyia
+davisi (Lane & Cerqueira, 1942)
+
+Wyeomyia
+edwardsi (Lane & Cerqueira, 1942)
+
+Wyeomyia
+fuscipes Edwards, 1922
+
+Wyeomyia
+galvaoi (Corrêa & Ramalho, 1956)
+
+Wyeomyia
+incaudata Root, 1928
+
+Wyeomyia
+quasilongirostris (Theobald, 1907)
+
+Wyeomyia
+theobaldi (Lane & Cerqueira, 1942)
+
+Wyeomyia Prosopolepis confusa (Lutz, 1905)
+
+Wyeomyia Spilonympha mystes Dyar, 1924
+
+Wyeomyia Wyeomyia abebela Dyar & Knab, 1908
+
+Wyeomyia
+arthrostigma (Lutz, 1905)
+
+Wyeomyia
+medioalbipes Lutz, 1904
+
+Wyeomyia (subgenus uncertain) negrensis Gordon& Evans, 1922
+
+Wyeomyia (subgenus uncertain) occulta Bonne-Wepster & Bonne, 1919
+
+Wyeomyia (subgenus uncertain) serratoria (Dyar & Nunez Tovar, 1927)
+
+Sabethes Peytonulus shannoni Lane & Cerqueira, 1942
+
+Wyeomyia (subgenus uncertain) undulata del Ponte & Cerqueira, 1938
+
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3703 This preprint was submitted under the following conditions: The authors declare that they are aware that they are solely responsible for the content of the preprint and that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its preservation and dissemination. The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in the research were obtained and are described in the manuscript, when applicable. The authors declare that the preparation of the manuscript followed the ethical norms of scientific communication. The authors declare that the data, applications, and other content underlying the manuscript are referenced. The deposited manuscript is in PDF format. The authors declare that the research that originated the manuscript followed good ethical practices and that the necessary approvals from research ethics committees, when applicable, are described in the manuscript. The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its place. The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY license. The submitting author declares that the contributions of all authors and conflict of interest statement are included explicitly and in specific sections of the manuscript. The authors declare that the manuscript was not deposited and/or previously made available on another preprint server or published by a journal. If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the authors declare that they have received authorization from the journal to make this deposit. The submitting author declares that all authors of the manuscript agree with the submission to SciELO Preprints. Powered by TCPDF (www.tcpdf.org)
