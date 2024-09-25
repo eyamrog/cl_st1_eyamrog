@@ -1,155 +1,48 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.46471/gigabyte.52
-Online catalogue of the Coleção de Flebotomíneos
-(FIOCRUZ/COLFLEB), a biological collection of American sand
-flies (Diptera: Psychodidae, Phlebotominae) held at Fiocruz
-Minas, Brazil
-José Dilermando Andrade-Filho, Alanna Silva Reis, Carolina Cunha Monteiro, Paloma Helena
-Fernandes Shimabukuro
-https://doi.org/10.1590/SciELOPreprints.3782
-Submitted on: 2022-03-14
-Posted on: 2022-03-16 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-GigaByte
-Online catalogue of the Coleção de Flebotomíneos
-(FIOCRUZ/COLFLEB), a biological collection of American sand ﬂies
-(Diptera: Psychodidae, Phlebotominae) held at Fiocruz Minas,
-Brazil
-DRR-202202-06 | Data Release
-Submitted by:  Paloma Helena Fernandes Shimabukuro, Alanna Silva Reis, Carolina Cunha Monteiro, Jose Dilermando Andrade
-Filho
-Keywords:  COLLECTION, DIPTERA, MEDICAL ENTOMOLOGY, TAXONOMY
-PDF auto-generated using ReView
-from
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
- 
-Online catalogue of the Coleção de Flebotomíneos (FIOCRUZ/COLFLEB), a biological collection of 
-American sand flies (Diptera: Psychodidae, Phlebotominae) held at Fiocruz Minas, Brazil  
-José Dilermando Andrade-Filho1,2 (ORCID: 0000-0002-9754-8464), Alanna Silva Reis1,2 (ORCID: 0000-
-0002-4765-1666), Carolina Cunha Monteiro1,2 (ORCID: 0000-0002-5385-2114), Paloma Helena 
-Fernandes Shimabukuro1,2 (ORCID: 0000-0002-5114-953X) 
-1Coleção de Flebotomíneos (FIOCRUZ/COLFLEB) 2Grupo de Estudos em Leishmanioses, “Instituto 
-René Rachou, Fiocruz Minas Avenida Augusto de Lima, 1715 - Barro Preto, 30190009, Belo 
-Horizonte, Brazil 
-Corresponding author(s): José Dilermando Andrade-Filho (colfleb@fiocruz.br) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-3
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
-ABSTRACT 
-1 
 The “Coleção de Flebotomíneos” (FIOCRUZ/COLFLEB) held at Fiocruz Minas is a curated biological 
-2 
 collection comprised of approximately 80,000 individual specimens of 370 species of sand flies 
-3 
 (Diptera: Psychodidae, Phlebotominae) mostly from the Americas collected over the last 80 years by 
-4 
 entomologists interested in understanding and controlling the vector-borne disease leishmaniases. 
-5 
 Since 2010, the metadata of each of the individual biological specimens held in FIOCRUZ/COLFLEB, 
-6 
 including the back catalogue of those deposited in previous decades, has been digitized. Here, our 
-7 
 resulting electronic catalogue, containing records for 72,624 of the specimens, including all of the 
-8 
 available provenance information associated with each of them, is published online through the 
-9 
 speciesLink 
 network 
 <http://www.splink.org.br/search?collectioncode=FIOCRUZ-
-10 
 COLFLEB&group=animais&lang=pt&action=openform> and the Sistema de Informação sobre a 
-11 
 Biodiversidade Brasileira (SiBBr) <http://ipt.fiocruz.br/ipt/resource?r=fiocruz_colfleb>. 
-12 
- 
-13 
-Research areas: Animal and Plant Sciences, Biodiversity, Taxonomy 
-14 
- 
-15 
+
 Biological collections are repositories of biodiversity that house specimens, and information about 
-16 
 those specimens, which can be used in various areas of scientific research [1], and are especially 
-17 
 important for insects of medical and veterinary importance, where accurate taxonomic identification 
-18 
 of the latter is necessary for understanding and intervening in the epidemiology of vector-borne 
-19 
 diseases [2]. The “Coleção de Flebotomíneos” (the “Collection of Phlebotomines” as it is called in 
-20 
 Portuguese) – held at the Instituto René Rachou, Fiocruz Minas (FIOCRUZ/COLFLEB), a federal public 
-21 
 health research institution in the city of Belo Horizonte, in the state of Minas Gerais in Brazil – is a 
-22 
 biological collection of sand flies (Diptera: Psychodidae, Phlebotominae): small insects of 
-23 
 considerable medical and public health importance because their blood-feeding adult females 
-24 
 transmit protozoan parasites of the genus Leishmania, the etiological agent of leishmaniases, in 
-25 
 addition to other bacterial and viral pathogens, which infect both human and non-human 
-26 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-4
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
 vertebrates [3]. The insect specimens deposited in FIOCRUZ/COLFLEB come from many different 
-27 
 research projects carried out over the last 80 years or so in many different areas of disease 
-28 
 transmission, and also from wild environments where there are no records of the disease. The 
-29 
 deposited sand flies were usually collected in light traps and are identified by highly-trained 
-30 
 specialists using the available taxonomic keys [2,4]. The specimens can support research in the areas 
-31 
 of taxonomy and systematics [5,6,7], and the associated data can be used, for example, in ecological 
-32 
 niche / species distribution modelling [8], among other applications [9]. 
-33 
+
 The data set reported here are the metadata for each individual sand fly specimen deposited 
-34 
 in FIOCRUZ/COLFLEB since 1953. Our dataset has 57 fields describing for each individual sand fly 
-35 
 specimen their: (i) taxonomy (kingdom, phylum, class, order, family, genus, specificEpithet, 
-36 
 infraspecificEpithet, 
 scientificName, 
 scientificNameAuthorship, 
 taxonRank, 
 vernacularName, 
-37 
 typestatus), (ii) collection details, including the collectors (recordedBy), the collection date, trapping 
-38 
 method, trap identification number, collection site description (occurrenceRemarks, eventDate, 
-39 
 eventTime, habitat, samplingProtocol, samplingEffort, eventRemarks), (iii) geolocation data (country,  
-40 
 countryCode, stateProvince, county, Island, waterbody, locality, locationRemarks, decimalLongitude,  
-41 
 decimalLatitude , 
 georeferenceRemarks), 
 (iv) 
@@ -157,372 +50,70 @@ catalogue
 reference 
 data 
 (occurrenceID, 
-42 
 catalogNumber, OtherCatalogNumbers). The associated data for each physical object in our 
-43 
 collections has a paper card with many fields referring to specimen provider, location, quantity of 
-44 
 specimens, etc.. The data from these cards have been digitized by a dedicated member of the 
-45 
 collection staff since 2010. The data are provided in the Darwin Core format [10]. Our data is 
-46 
 available in the Sistema de Informação sobre a Biodiversidade Brasileira (SiBBr), an online platform 
-47 
 that integrates data and information about biodiversity and ecosystems and is the Brazilian Node of 
-48 
 the Global Biodiversity Information Facility (GBIF) [11], an internationally-recognized resource for 
-49 
 collation of biological occurrence data, where our data set has been submitted, and is publicly 
-50 
 available for use by others at: https://doi.org/10.15468/sxcpfp. 
-51 
-CONTEXT 
-52 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-5
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
+
 Phlebotomine sand flies are considered insects of medical importance because they are involved in 
-53 
 the transmission of pathogens between human and non-human animals.  Approximately 1,000 sand 
-54 
 flies species have been described, of which 530 are known to occur in the Neotropical and Nearctic 
-55 
 regions [12]. 
-56 
+
 The collection was officially started in 1953, as part of the work of Professor Amilcar Vianna 
-57 
 Martins and Alda Lima Falcão, in collaboration with the technician João Evangelista da Silva, who 
-58 
 participated in all fieldwork [13]. The number of specimens in the collection increased considerably 
-59 
 during the 1960s and 1970s, and during the last 20 years fossil specimens, as well as voucher 
-60 
 specimens from DNA-based barcoding studies and other epidemiological studies involving fieldwork, 
-61 
 are still being deposited in the collection [7,14]. 
-62 
+
 FIOCRUZ/COLFLEB contains 922 type specimens belonging to 151 species, including 
-63 
 holotypes, allotypes, paratypes, plesiotypes, cotypes, topotypes, homeotypes, syntypes and 
-64 
 neotypes. COLFLEB also has a diverse collection of fossil species of Neotropical sand flies, currently 
-65 
 consisting of 47 ambers from the Dominican Republic, within which 162 sand flies of 9 species are 
-66 
 preserved. Additionally, FIOCRUZ/COLFLEB has in its collection over 700 voucher specimens 
-67 
 deposited from on-going DNA barcoding studies. 
-68 
+
 Since 2010, the metadata of the biological specimens held in FIOCRUZ/COLFLEB is being 
-69 
 digitized, and, among the various biological collections of Fiocruz [15], it has the most published 
-70 
 online data. Our online catalogue is also integrated into the the speciesLink network 
-71 
 <http://www.splink.org.br/search?collectioncode=FIOCRUZ-
-72 
 COLFLEB&group=animais&lang=pt&action=openform> and the Sistema de Informação sobre a 
-73 
 Biodiversidade Brasileira (SiBBr) <http://ipt.fiocruz.br/ipt/resource?r=fiocruz_colfleb>. 
-74 
- 
-75 
-METHODS 
-76 
+
 The sand flies held in FIOCRUZ/COLFLEB are adults and were collected using a variety of diverse 
-77 
 methods, including resting collection from artificial and natural surfaces using either mechanical or 
-78 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-6
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
 manual aspirators (“pooters”), human-landing capture, unbaited and CO2-baited CDC-like light traps, 
-79 
 and Shannon traps, operated in different environments, ranging from the domestic and 
-80 
 peridomestic (e.g., houses and their surroundings in urban, suburban and rural areas) to the 
-81 
 relatively undisturbed sylvatic and wild (e.g., remote forest areas). Our specimens are from 20 
-82 
 different countries in the Americas and all 27 states of Brazil are represented. 
-83 
- 
+
 The live-caught insects are permanently mounted on glass microscope slides and preserved 
-84 
 in either Berlese medium or Canada Balsam, while the fossil specimens are kept in plastic vials. All 
-85 
 types are labelled with colour-coded labels. 
-86 
- 
- 
-87 
-DATA VALIDATION AND QUALITY CONTROL 
-88 
+
 Insects were identified by keys available in the literature (Galati 2003; Young and Duncan 1994) by 
-89 
 experienced taxonomists. 
-90 
 The dataset is in Darwin Core format 57 terms are available. All mandatory fields are present and 
-91 
 have gone through screening in the FIOCRUZ IPT, metadata fields are also available on the online 
-92 
 pages. 
-93 
- 
-94 
-RE-USE POTENTIAL 
-95 
+
 The data associated with the biological specimens deposited in FIOCRUZ/COLFLEB are of importance 
-96 
 because they describe the distribution of sand flies in different parts of Brazil and have a good 
-97 
 temporal coverage since some specimens’ date back from 1939 and the last deposit was recorded in 
-98 
 2021. The data can be used for many different applications, from different research areas (taxonomy 
-99 
 and systematics [5,6,7], ecological niche modelling [8], among other applications [9]) to vector 
-100 
 control activities [16,17]. 
-101 
-DATA AVAILABILITY STATEMENT 
-102 
-Declarations (https://gigabytejournal.com/data-release-description)  
-103 
- 
-104 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-7
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
-RESOURCE CITATION 
-105 
-Andrade-Filho et al. (2022). Fiocruz/COLFLEB - Coleção de Flebotomíneos. Version 1.50. FIOCRUZ - 
-106 
-Oswaldo Cruz Foundation. Occurrence dataset https://doi.org/10.15468/sxcpfp accessed via 
-107 
-GBIF.org on 2022-02-24. 
-108 
-Data published through GBIF: http://ipt.fiocruz.br/ipt/resource?r=fiocruz_colfleb 
-109 
-GBIF UUID  
-2a629a9a-38d1-496b-afbf-b4ff3b8fae60 
-110 
-https://doi.org/10.15468/sxcpfp 
-111 
- 
-112 
-COMPETING INTERESTS 
-113 
-The author(s) declare that they have no competing interests. 
-114 
-FUNDING 
-115 
-FIOCRUZ/COLFLEB is maintained and funded by the Fundação Oswaldo Cruz. JDAF received research 
-116 
-fellowships from CNPq (302701/2016-8) and funding from the Fundação de Amparo à Pesquisa do 
-117 
-Estado de Minas Gerais (FAPEMIG; PPM-00792-18). PHFS received a research grant from FAPEMIG 
-118 
-(PPM-00676-18). 
-119 
-AUTHORS' CONTRIBUTIONS 
-120 
-JDAF: collection curator, provision of resources, revision of the manuscript. 
-121 
-ASR: data curation. 
-122 
-CCM: data curation. 
-123 
-PHFS: collection curator, preparation of the manuscript. 
-124 
-ACKNOWLEDGEMENTS 
-125 
+
 We would like to thank: the Vice-Presidência de Pesquisa e Coleções Biológicas/Fundação Oswaldo 
-126 
 Cruz (VPPCB) for technical and financial support; Dr. Manuela da Silva and Aline da Silva Soares 
-127 
 Souto (VPPCB). Juliana Xavier Faustino for technical support between 2013 to 2018; all the past and 
-128 
 present students and researchers, that in various ways contributed to the formation, expansion and 
-129 
 maintenance of the collection since its inception in the 1960s; and Luke Baton for his comments on 
-130 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-8
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
 draft versions of this manuscript.  
-131 
-REFERENCES 
-132 
-1. 
-Kamenski PA, Sazonov AE, Fedyanin AA, Sadovnichy VA. Biological Collections: Chasing the 
-133 
-Ideal. Acta Naturae. 2016;8(2):6.  
-134 
-2. 
-Galati EAB. Classification of Phlebotominae. In: Rangel EF, Lainson R, organizers. 
-135 
-Flebotomíneos do Brazil. Rio de Janeiro: Editora Fiocruz, 2003. p.23-175;  
-136 
-3. 
-Rangel EF, Lainson R. Flebotomíneos do Brasil. In: Rangel EF, Lainson R, organizers. 
-137 
-Flebotomíneos do Brazil. Rio de Janeiro: Editora Fiocruz, 2003.   
-138 
-4. 
-Young DG and Duncan MA. Guide to the identification and geographic distribution of 
-139 
-Lutzomyia sandflies in Mexico, The West Indies, Central and South America (Diptera: Psychodidae). 
-140 
-Mem Am Entomol Inst 1994;54: 1-881. 
-141 
-5. 
-Costa GDS, Júnior AMP, Arley Costa Pessoa F, Shimabukuro PHF, Medeiros JF. New Records 
-142 
-of Phlebotomine Sand Flies (Diptera: Psychodidae) From the Western Brazilian Amazon and the 
-143 
-Description of the Female of Pintomyia fiocruzi. J Med Entomol. 2020;57(4):1328. doi: 
-144 
-10.1093/jme/tjaa030.  
-145 
-6. 
-Sábio PB, Brilhante AF, Quintana MG, Andrade AJ, Galati EAB. On the Synonyms of 
-146 
-Psathyromyia (Psathyromyia) shannoni (Dyar, 1929) and Pa. bigeniculata (Floch & Abonnenc, 1941) 
-147 
-and the Resuscitation of Pa. pifanoi (Ortiz, 1972) With the Description of Its Female (Diptera: 
-148 
-Psychodidae: Phlebotominae). J Med Entomol. 2016;53(5):1140. doi: 10.1093/jme/tjw094.  
-149 
-7. 
-Rodrigues BL, Baton LA, Shimabukuro PHF. Single-locus DNA barcoding and species 
-150 
-delimitation of the sandfly subgenus Evandromyia (Aldamyia). Med Vet Entomol. 2020;34(4):420. 
-151 
-doi: 10.1111/mve.12458.  
-152 
-8. 
-Andrade-Filho JD, Scholte RGC, Amaral ALG, Shimabukuro PHF, Carvalho OS, Caldeira RL. 
-153 
-Occurrence and Probability Maps of Lutzomyia longipalpis and Lutzomyia cruzi (Diptera: 
-154 
-Psychodidae: Phlebotominae) in Brazil. J Med Entomol. 2017;54(5):1430. doi: 10.1093/jme/tjx094.  
-155 
-9. 
-Rodrigues BL, Costa GDS, Shimabukuro PHF. Identification of Bloodmeals from Sand Flies 
-156 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-9
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
-(Diptera: Psychodidae) Collected in the Parque Nacional do Viruá, State of Roraima, Brazil. J Med 
-157 
-Entomol. 2021;58(6):2488. doi: 10.1093/jme/tjab068.  
-158 
-10. 
-Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, et al. Darwin Core: An 
-159 
-Evolving Community-Developed Biodiversity Data Standard. PLoS ONE. 2012;7(1): e29715. 
-160 
-doi:10.1371/journal.pone.0029715. 
-161 
-11. GBIF: The Global Biodiversity Information Facility (2022) What is GBIF?. Available from 
-162 
-https://www.gbif.org/what-is-gbif/ . Accessed 27 Feb 2022. 
-163 
-12. Shimabukuro PHF, de Andrade AJ, Galati EAB. Checklist of American sand flies (Diptera, 
-164 
-Psychodidae, Phlebotominae): genera, species, and their distribution. Zookeys. 2017;(660):67. doi: 
-165 
-10.3897/zookeys.660.10508. 
-166 
-13. 
-Martins AV, Williams P, Falcão AL. American sand flies (Diptera: Psychodidae, 
-167 
-Phlebotominae). Rio de Janeiro: Academia Brasileira de Ciências. 1978. 
-168 
-14. 
-Pinto Ide S, Chagas BD, Rodrigues AA, Ferreira AL, Rezende HR, Bruno RV, Falqueto A, 
-169 
-Andrade-Filho JD, Galati EA, Shimabukuro PH, Brazil RP, Peixoto AA. DNA Barcoding of Neotropical 
-170 
-Sand Flies (Diptera, Psychodidae, Phlebotominae): Species Identification and Discovery within Brazil. 
-171 
-PLoS One. 2015;10(10):e0140636. doi: 10.1371/journal.pone.0140636 
-172 
-15.  
-FIOCRUZ.Coleções Biológicas. https://portal.fiocruz.br/colecoes-biologicas/ . Accessed 27 
-173 
-Feb 2022. 
-174 
-16. de Souza Fernandes W, de Oliveira Moura Infran J, Falcão de Oliveira E, Etelvina Casaril A, Petilim 
-175 
-Gomes Barrios S, Lopes de Oliveira SL, Gutierrez de Oliveira A. Phlebotomine Sandfly (Diptera: 
-176 
-Psychodidae) Fauna and The Association Between Climatic Variables and The Abundance of 
-177 
-Lutzomyia longipalpis sensu lato in an Intense Transmission Area for Visceral Leishmaniasis in 
-178 
-Central Western Brazil. J Med Entomol. 2022:tjac006. doi: 10.1093/jme/tjac006.  
-179 
-17. Estallo EL, Santana M, Martín ME, Galindo LM, Willener JA, Kuruc JA, Stein M. Environmental 
-180 
-effects on phlebotominae sand flies (Diptera:Phychodidae) and implications for sand fly vector 
-181 
-disease transmission in Corrientes city, northern Argentina. An Acad Bras Cienc. 2021;93(suppl 
-182 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-10
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
-3):e20191278. doi: 10.1590/0001-3765202120191278.  
-183 
-Auto-generated PDF by ReView
-GigaByte
-MSColflebsubmitted.docxMainDocument
-GigaScience Review Copy Only
-11
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3782
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

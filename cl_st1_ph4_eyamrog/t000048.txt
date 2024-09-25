@@ -1,85 +1,22 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/2236-8906-08/2021
-Zingiberales Griseb. in the Núcleo Curucutu, Parque Estadual
-Serra do Mar, São Paulo State, Brazil
-Leandro Matheus de Carvalho Vaz, Paulo Affonso
-https://doi.org/10.1590/2236-8906-36/2021
-Submitted on: 2022-04-05
-Posted on: 2022-04-05 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Article 
-https://doi.org/10.1590/2236-8906-36/2021 
- 
-1. Instituto de Pesquisas Ambientais, Núcleo de Pesquisa Curadoria do Herbário SP, Avenida Miguel Stéfano, 
-3687, 04301-902 São Paulo, SP, Brazil 
-2. Centro Universitário FAM, Ciências Biológicas, Rua Augusta, 1.508, 01304-001 São Paulo, SP, Brazil 
-3. Corresponding author: leandrovazbotanico@gmail.com 
-Zingiberales Griseb. in the Núcleo Curucutu, Parque Estadual Serra do Mar, São Paulo State, Brazil 
- 
-Leandro Matheus de Carvalho Vaz1,3 and Paulo Affonso2 
- 
- 
- 
-Título resumido: Zingiberales in the Núcleo Curucutu, PESM, SP, Brazil 
- 
- 
- 
- 
- 
-Leandro Matheus de Carvalho Vaz: https://orcid.org/0000-0002-9179-3610 
-Paulo Affonso: https://orcid.org/0000-0003-3699-7095  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-, 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
-ABSTRACT – (Zingiberales Griseb. in the Núcleo Curucutu, Parque Estadual Serra do Mar, São 
+(Zingiberales Griseb. in the Núcleo Curucutu, Parque Estadual Serra do Mar, São 
 Paulo State, Brazil). This work consists in a taxonomic survey. Identification key, morphological 
 descriptions, illustrations, geographic distribution and phenology are presented. The order is 
 represented in the study area by four species divided into three families: Goeppertia monophylla 
 (Vell.) Borchs. & S.Suárez (Marantaceae), Heliconia farinosa Raddi (Heliconiaceae), Hedychium 
 coccineum Buch.-Ham. ex Sm. and Renealmia petasites Gagnep. (Zingiberaceae). 
-Keywords: Atlantic Forest, Heliconiaceae, Marantaceae, Zingiberaceae 
- 
-RESUMO – (Zingiberales Griseb. no Núcleo Curucutu, Parque Estadual Serra do Mar, Estado de São 
-Paulo, SP, Brasil). Este trabalho consiste em um levantamento taxonômico. Chave de identificação, 
-descrições morfológicas, ilustrações, distribuição geográfica e fenologia são apresentados. A ordem 
-está representada na área de estudo por quatro espécies divididas em três famílias: Goeppertia 
-monophylla (Vell.) Borchs. & S.Suárez (Marantaceae), Heliconia farinosa Raddi (Heliconiaceae), 
-Hedychium coccineum Buch.-Ham. ex Sm. e Renealmia petasites Gagnep. (Zingiberaceae). 
-Palavras-chaves: Heliconiaceae, Marantaceae, Mata Atlântica, Zingiberaceae 
- 
-Introduction 
- 
+
 Zingiberales is an order of tropical plants within monocotyledons formed by eight families: 
 Cannaceae Juss., represented by one genus and 10 species; Costaceae Nakai, which has six genera 
 and 143 species; Heliconiaceae Nakai, one genus and 200 species; Lowiaceae Ridl., one genus and 
 20 species; Marantaceae R. Br., 31 genera and 550 species; Musaceae Juss., three genera and 91 
 species, Strelitziaceae Hutch., three genera and seven species; and Zingiberaceae Martinov, 56 genera 
 and 1.600 species, totaling 102 genera and 2.621 species (Stevens 2017).  
+
 In terms of occurrence, seven of these families have already been identified in Brazil, one of 
 which was introduced (Musaceae); 31 genera and 319 species, being 131 of them endemic. In São 
 Paulo, there are seven families, 20 genera and 65 species (André 2020a, b, c, Almeida & Antar 2020, 
 Braga 2020, Ferreira 2020, Saka et al. 2020) 
+
 These plants can size from a few centimeters up to 10 meters in height. Some of the 
 characteristics of this groups sort from a rhizomatous stem, that usually stores starch; presence of 
 pseudostem, rarely true stem; parallel-pinned leaf venation; terminal or basal inflorescences, 
@@ -87,8 +24,7 @@ generally surrounded by colored bracts; complete and bisexual flowers, only Musa
 unisexual flowers, 1-6 fertile stamens, 1-5 sterile stamens that can look like petals (staminodes); 
 inferior ovary with three locules, each one may have one or more ovules; fleshy or dried fruits; seeds 
 with aryl in general (Costa et al. 2011). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
+
 From an economic point of view, it is possible to find in the order many species of food 
 interest, such as Musa paradisiaca L. (banana tree), which produces edible parthenocarpic fruits 
 (Souza & Lorenzi 2005) and Zingiber officinale Roscoe (ginger), used in drinks and confectionery 
@@ -98,71 +34,58 @@ Heliconia bihai (L.) L. (firebird), Canna indica L. (canna lily) and Strelitzia 
 paradise flower) (Lorenzi & Souza 2001, Souza & Lorenzi 2005, Castro et al. 2011) known for 
 producing striking inflorescences; and at last, kinds of popular medicinal interest, like Curcuma longa 
 L. (turmeric), used in treatments for respiratory diseases (Santiago et al. 2015). 
+
 The present work is part of the Flora study of the Núcleo Curucutu, important region, but little-
 known, even though being a part of São Paulo City (Garcia & Pirani 2005), carried out in partnership with 
 the Universidade Santo Amaro and the Herbarium PMSP. For monocots, works with Iridaceae (Takeuchi 
 et al. 2008) and Orchidaceae (Rosa & Affonso 2009) were also developed in the area. 
+
 With the main purpose of developing the taxonomic study of Zingiberales in the Núcleo 
 Curucutu, collections, identifications, descriptions, identification key, illustrations and data on the 
 geographic and phenological distribution of the species found were carried out, thus contributing to 
 the knowledge of the local flora, the State of São Paulo and the Atlantic Forest. 
- 
-Material and methods 
- 
+
 The Núcleo Curucutu located at the coordinates 23°59'09.7"S and 46°44'32.5"W was created in 
 1977, concomitantly to the Parque Estadual Serra do Mar, covering the municipalities of São Paulo, 
 Itanhaém, Mongaguá and Juquitiba, having its origins in the Fazenda Curucutu, a coal producer, acquired 
 by the State in 1958 and transformed into a Forest Reserve (Bellato & Mendes 2002, PESM 2021a). 
+
 The vegetation consists predominantly of fields and high-altitude forests. It has a total area of 
 37.512 hectares, altitude reaching 870 meters, temperate climate, with hot and rainy summers and 
 winter with milder temperatures (Bellato & Mendes 2002, Garcia & Pirani 2003, Infraestrutura e 
 Meio Ambiente 2021). 
- From the beginning, one of its objectives was the preservation of springs and water sources 
+
+From the beginning, one of its objectives was the preservation of springs and water sources 
 in the metropolitan region of São Paulo through the Capivari and Embu Guaçu rivers, and in 
 Itanhaém, the Mambu/Rio Branco system. In relation to ecosystem services, the Núcleo contributes 
 in several aspects, such as regulation of air and climate quality, in the protection of hills, slopes and 
 soils, in the preservation of biodiversity, among other attributions (PESM 2021a, b). 
+
 The specimens used in this work comes from the plateau sector. They are deposited in the 
 scientific collection of the Universidade Santo Amaro and in the Herbarium PMSP. Field collects 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
 have been done during February of 2018 and November of 2020, period of development of this work. 
 Herborization followed the methodology described by Fidalgo & Bononi (1989). 
+
 For the analysis and identification of the samples, specialized literature was consulted (Maas 
 1977, Santos 1978, Forzza & Wanderley 1999, Catharino 2002, Kamer & Maas 2003, Souza et al. 
 2007, Wongsuwan & Picheansoonthon 2011, Vieira et al. 2012, Saka 2016) as such as the 
 Zingiberales collections of the PMSP, SPF and SPSF, in addition to the virtual herbariums: BHCB, 
 CEPEC, E, FURB, HUFU, IBGE, ICN, JBRJ, K, MBM, NY, P/PC, R, RB, UPCB and S (acronyms 
 according to Thiers, continuously updated). 
+
 The flowering and fruiting data were obtained through the analysis of the exsiccates, field 
 observations and literature. The morphological terms followed those described in Gonçalves & 
 Lorenzi (2011). The illustrations were free hand made with the aid of a stereomicroscope and finished 
 by illustrator Klei Rodrigo de Sousa. 
- 
-Results and discussion 
- 
+
 In the Núcleo Curucutu, four species of the Zingiberales order, belonging to three different 
 families, were found, Goeppertia monophylla (Vell.) Borchs. & S.Suárez (Marantaceae), Heliconia 
 farinosa Raddi (Heliconiaceae), Hedychium coccineum Buch.-Ham. ex Sm. and Renealmia petasites 
 Gagnep. (Zingiberaceae). 
- 
-Identification key for Zingiberales of the Núcleo Curucutu 
- 
-1. Leaves with ligule; flowers with labellum 
-2. Ligule oblong; terminal inflorescence; orange corolla; labellum 2-lobed …... Hedychium coccineum 
-2. Ligule truncate; basal inflorescence; white corolla; labellum 3-lobed ……….... Renealmia petasites 
-1. Leaves without ligule; flowers without labellum 
-3. Puberulous leaf; obovate or widely obovate bract; ellipsoid inflorescence, green 
-...................................................................................................................... Goeppertia monophylla 
-3. Glabrous leaf; boat-shaped bract; thyrsoid cincinnate inflorescence, predominantly red 
-………………………………………………….……….…………………….... Heliconia farinosa 
- 
+
 Goeppertia monophylla (Vell.) Brochs. & S.Suárez, Syst. Bot. 37(3): 632. 2012. 
-Figure 1 a-g 
 Herbs 1-1.5 m tall. Leaves with sheaths 21-37 cm long, pubescent, denser trichomes along the 
 margin, sericeous at the base; absent ligule; petiole 13-18 cm long, puberulous; pulvinus 2-5 cm long, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
 glabrous; blade 37-60 x 12-22 cm, elliptic, apex acute to acuminate, base slightly attenuated to acute, 
 puberulous on the abaxial face. Terminal inflorescence, simple 6-10 x 2-4.5 cm, ellipsoid, green; 
 internode below the last leaf oblong or not; peduncle 19-45.5 cm long, minutely pubescent; basic 
@@ -179,50 +102,59 @@ labellum; external staminode 0.7-0.8 cm long, obovate, apex emarginate; stamen w
 appendix ca. 0.4 x 0.2 cm; anther 0.2 cm long; style 0.8-1 cm long, white; stigma 0.2 x 0.2 cm; ovary 
 ca. 0.3 x 0.2 cm, globose, puberulous, grayish-white; one ovule per locule. Capsule 0.8-1.5 x 0.7-1 
 cm, bi-trilocular, pink. Seeds 0.7 x 0.4 cm, yellow; white aril. 
+
 Material examined: BRAZIL. SÃO PAULO: São Paulo. Parque Estadual Serra do Mar – Núcleo 
 Curucutu, Floresta Ribeirinha ao longo do Rio Mambu, 13-IV-2001, fl., E. Furlan 157 (SPSF); Trilha 
 da Captação d’agua, 16-III-2018, fl., L.C. Vaz 03 (UNISA); Trilha da Captação d’agua, 14-XII-2018, 
 fl., L.C. Vaz 05 (UNISA); Trilha da Bica, 22-II-2019, fr., L.C. Vaz 07 (UNISA).  
+
 Additional material examined: BRAZIL. RIO DE JANEIRO: Itatiaia, Parque Nacional do Itatiaia, 16-II-
 2015, fr., F.A. Silva 103 (JBRJ); Rio de Janeiro, Horto, entorno do Jardim Botânico do Rio de Janeiro, 
 23-III-2004, fl., fr., J.M.A. Braga 7416 (NY). 
+
 Goeppertia monophylla is endemic in Brazil, found in the Atlantic Forest in the States of 
 Bahia, Espírito Santo, Minas Gerais, Rio de Janeiro, São Paulo, Paraná, Santa Catarina and Rio 
 Grande do Sul (Saka et al. 2020). In the Núcleo Curucutu, it is mainly observed in humid, shaded 
 environments close to watercourses. 
+
 In the study area it blooms from December to March and bears fruit in February. According 
 to Forzza & Wanderley (1999), outside the Núcleo Curucutu the species blooms practically all year, 
 although fruiting data have not been recorded. 
+
 The species showed few fruiting records throughout this research, the fruits of G. monophylla 
 were seen only once, being present in a few individuals. The absence of fruiting records may be due 
 to a failure in the collection, since the fruits develop inside the bracts that are usually going through 
 a blackening process, which are very hard to visualize.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
+
 The materials from Rio de Janeiro (according to: J.M.A. Braga 7416 and F.A. Silva 103) 
 registered flowering in February and fruiting from February to March, a period in which we also 
 recorded these occurrences in the study area. It is possible that the hottest the period of the year, the 
 more intensified the processes for this species are. 
+
 Goeppertia monophylla has the capacity to form large populations, exceeding 30 individuals 
 (Saka 2016). In the Núcleo Curucutu it was possible to observe this phenomenom. 
+
 According to Saka (2016), the species may have purple, grayish-white and pale-yellow 
 flowers, the last two observed in this study of interest. 
+
 The species in both vegetative and reproductive states, when placed in 70º alcohol or 
 herborized, gets blackened, an important process that enables the collection of descriptive data about 
 the color of the plant in the field. 
+
 Goeppertia monophylla and G. fatimae (H.Kenn. & J.M.A.Braga) Borchs. & S.Suárez are 
 very similar to each other, with few morphological differences, such as the distribution of hair on the 
 peduncle, while G. monophylla has a minimally pubescent peduncle, G. fatimae has a hirsute one 
 (Saka 2016). 
+
 It can be differentiated from all species of the order Zingiberales found in the Núcleo Curucutu 
 by its pulvinus, the green color of its inflorescence and the presence of flowers with grayish-white or 
 pale-yellow colors. 
+
 In comparison with the other native species in this work, G. monophylla is the only one that 
 has never appeared on the list of threatened species, the species has a “Least Concerned” conservation 
 status (CNCFlora 2012a). 
- 
+
 Heliconia farinosa Raddi, Mem. Mat. Fis. Soc. Ital. Sci. Moderna, Pt. Mem. Fis. 18: 393. 1820. 
-Figure 1 h-n 
 Robust herb 2-3 m tall. Leaves distichous, glabrous 4-6 per pseudostem; absent ligule; petiole 
 1.13-1.36 m long; absent pulvinus; blade 47.5-67.5 x 18-27 cm, apex acute to acuminate, base obtuse, 
 mostly lacerated, asymmetric, with prominent central vein in the abaxial surface and canaliculated in 
@@ -234,8 +166,6 @@ foliose, fertile or sterile, the first fertile basal 12-16 x 2-3 cm in the base,
 Flowers in a fascicle in the internal base of bracts, with only part of the perianth apparent, pedicellate, 
 6-16 in the lower fascicle, decreasing in number toward the apex; white bracteoles, slightly greenish 
 or reddish, oval-lanceolate, glabrous, with median vein marked 2-2.3 x 1-1.5 cm in the base; glabrous 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
 pedicels 0.8-1 cm long, bigger in the fruits; bent perianth 4-4.5 cm long, boat-shaped sepals, glabrous, 
 the upper free up to the base, the lower connate, green-yellowish or yellow; absent labellum; 
 staminode lanceolate 0.8-1.2 x 0.1-0.2 cm in the base, apex acuminate; stamen with partially exserted 
@@ -243,10 +173,12 @@ anther when mature 1.1-1.4 cm long, cream when are new; filament 2.8-3.5 cm long
 4.5 cm long, angulose, cream; stigma 0.1 x 0.1 cm; ovary ca. 1 x 0.5 cm, glabrous, white-greenish; 
 one ovule per locule. Drupe 1.5-2 x 1-1.3 cm, slightly triangular, glabrous, dark blue when mature. 
 Seeds 3, 0.8-1 x 0.4-0.8 cm, brown-greenish; absent aril.    
+
 Material examined: BRAZIL. SÃO PAULO: São Paulo, Parque Estadual Serra do Mar – Núcleo 
 Curucutu, Trilha da Captação d’água, 27-I-1999, fr., P. Affonso 313 (PMSP); Trilha da Captação 
 d’agua, 15-XII-2017, fl., P. Affonso 1390 (UNISA); Trilha da Captação d’agua, 14-XII-2018, fl., fr., 
 L.C. Vaz 06 (UNISA); Trilha da Captação d’agua, 22-II-2019, fr., L.C. Vaz 08 (UNISA).  
+
 Additional material examined: BRAZIL. ESPÍRITO SANTO: Cariacica, São Paulo Viana, beira da 
 estrada, Floresta Ombrófila Densa Montana, Reserva Biológica de Duas Bocas, 06-V-2008, fr., C.N. 
 Fraga 2047 (RB); PARANÁ: Antonina, along road to Morretes a few km from municipality border, 
@@ -261,35 +193,38 @@ Forquilha, Fazenda São Sebastião, 20-XII-1991, fl., T. Wendt 230 (RB); SÃO PA
 Branco, Beira de rio, 25-IX-2005, fl., R.J.F. Garcia 2591 (PMSP); São Miguel Arcanjo, Parque 
 Estadual Carlos Botelho, 01-X-1999, fl., G. Martinelli 15798 (RB); São Paulo, Jabaquara, Parque 
 Nabuco, Trilha entre a caixa d´água e viveiro, Sub-bosque, 30-X-2003, fl., S.J. Sordi 16 (PMSP). 
+
 Endemic species in Brazil, found in the ombrophilous regions of the Atlantic Forest in the 
 States of Espírito Santo, Rio de Janeiro, São Paulo, Paraná, Santa Catarina and Rio Grande do Sul 
 (Braga 2020).  The collected specimens were found in an isolated population, in humid soil, close to 
 the watercourse and covered by tree vegetation. 
+
 In the Núcleo Curucutu, H. farinosa blooms from December to February and bears fruit from 
 January to March. The species blooms between April and December and bears fruit between May 
 and August (Catharino 2002). There are also flowering records in January and fruiting in September 
 (according to: Andersson 1530 and H.V.M. Gomes 23). 
+
 The specimens of the Núcleo Curucutu present tricolor bracts (red, yellow and green). The 
 presence of three colors in bracts is rarely mentioned, both in literature and in the exsiccates 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
 descriptions. We noticed that in many cases there was only the predominant color, red, recorded, even 
 when a second color was present in study. 
+
 According to Simão & Scatena (2004), the bracts of the material collected from the Núcleo 
 Picinguaba and the have red-orange coloration both internally and externally, differentiating from the 
 material of this work even though both share the same origin. These records lead us to consider that 
 the species must present bicolor and tricolor bracts, the last one less frequently. 
+
 Among the species of Heliconia that occur in the State of São Paulo, H. farinosa is similar to 
 H. subulata Ruiz & Pav., being differentiated by the presence of an elliptical or oblong blade, fertile 
 basal bract and elliptical bracteole, while H. farinosa has only elliptical blades, foliate, fertile or sterile 
 basal bract and oval-lanceolate bracteole (Braga 2020). This species can be differentiated from other 
 Zingiberales of the Núcleo Curucutu due to its boat-shaped bracts and leaves, mostly lacerated. 
+
 The species is currently in a “Least Concern” situation (CNCFlora 2012b), but as its 
 occurrence becomes rare outside protected areas, your registration in the Núcleo Curucutu brings 
 hope for the species to survive (Braga 2008). 
- 
+
 Hedychium coccineum Buch.-Ham. ex Sm. Cycl. 17: Hedychium nº 5. 1811. 
-Figure 2 a-g 
 Pseudostem 1.2-2 m tall. Leaves with sheaths, bladeless sheaths 2-3; ligule oblong 1.3-2.5 x 
 0.9-1.5 cm, apex obtuse to shallowly bilobed or acute, green with brownish margin; absent petiole; 
 absent pulvinus; blade oblong 33-47 x 2.5-4.5 cm, apex acuminate, base cuneate, upper surface 
@@ -304,12 +239,12 @@ apex deeply divided 0.9-1.2 cm long; lateral staminodes oblanceolate 2.2-2.4 x 0
 attenuate 0.7-1 x 0.3-0.4 cm; anther dorsifixed 0.8-1 x 0.3 cm, red; filament 4.5-5.2 cm long, red; 
 stigma ca. 0.1 cm wide, densely ciliate, green; epigynous glands 2, slender 0.3-0.4 x 0.2 cm; ovary 
 0.3-0.5 x 0.3-0.4 cm, 3-loculed, pubescent, orange; multiple ovules per locule. Unobserved fruits. 
+
 Material examined: BRAZIL. SÃO PAULO: São Paulo, Parque Estadual Serra do Mar – Núcleo 
 Curucutu, Trilha do Mirante, 07-III-1998, fl., P. Affonso 222 (PMSP); Mata de frente do centro de 
 visitação da sede, 22-II-2019, fl., L.C. Vaz 09 (UNISA); Mata de frente do centro de visitação da 
 sede, 22-III-2019, fl., L.C. Vaz 11 (UNISA). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
+
 Additional material examined: BANGLADESH. CHITTAGONG DIVISION: Chittagong, 1867, fl., 
 L.H.B. 6547 (K). BRAZIL. DISTRITO FEDERAL: Brasília, Catetinho, 06-I-1982, fl., Pereira B.A.S. 163 
 (IBGE); PARANÁ: Curitiba. Santo Inácio, 26-I-1999, fl., Griep I. 51 (MBM); RIO DE JANEIRO: Rio de 
@@ -324,39 +259,43 @@ fr., Gaoligong Shan Biodiversity Survey 17531 (E); FRANCE. REUNION: No municipal
 F. Friedmann 1684 (P/PC); INDIA. KHASI HILLS: Nambar Forest, 07-III-1949, fl., F. Kingdon-Ward 
 1862 (NY); LAOS. LAO PEOPLE'S DEMOCRATIC REPUBLIC (LA): Xieng Khouang, I-1903, fr., C.J. 
 Spire 1511 (P/PC).  
+
 Hedychium coccineum is the only species of Zingiberales found in the Núcleo Curucutu that 
 is cultivated in Brazil, it has its original distribution in Asian countries such as Bhutan, India, Laos, 
 Myanmar, Nepal, Sri Lanka and Thailand (Wongsuwan & Picheansoonthon 2011). In Brazil the 
 species is found in Rio de Janeiro, São Paulo, Paraná, Santa Catarina and possible occurrence in 
 Pernambuco (André 2020c). Its occurrence in Distrito Federal and Rio Grande do Sul was also 
 recorded (according to: Pereira B.A.S. 163 and Baptista L. 673). 
+
 In the study area, flowers could be seen in the species from February to March, and although 
 being monitored for two years, there was no occurrence of fruiting during this period. 
+
 In Brazil, flowering occurrences were recorded in the Distrito Federal and Paraná in January 
 (according to: Pereira B.A.S. 163 and Griep I. 51), Rio Grande do Sul and Santa Catarina in December 
 (according to: Baptista L. 673 and Funez L.A. 5940) and in Rio de Janeiro it blooms and bears fruit 
 between January and February (according to: IRC/RCC 696 and L.C. Giordano 31). According to 
 Wongsuwan & Picheansoonthon (2011), in native regions, the species blooms between June and 
 August and fruiting occurs between July and September. 
+
 The fruits are rare in Brazilian and foreign herbariums. In Brazil, only two materials were 
 found, both from the Herbarium RB; and in relation to the foreign ones, only exsiccates from the 
 P/PC and E herbariums presented fruits. 
+
 Gao et al. (2012), pointed out that H. coccineum is pollinated by three species of Lepidoptera 
 (Butterflies), which do not occur in Brazil; in addition, spontaneous self-pollination also was not 
 observed, despite being a self-compatible species. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
+
 Hedychium coccineum can be confused with H. gardnerianum Sheph. ex Ker Gawl. when 
 herborized, both present yellowish to brownish flowers. Nevertheless, it can be differentiated by the 
 width of the blade, 2.5-4.5 cm wide for H. coccineum and 4-12 cm wide for H. gardnerianum, such 
 and the shape of the labellum, deeply divided and apex division, respectively (according to: P. Feliz 
 178, Souza V.C. 2145 and S.L. Marçon 43). 
+
 Hedychium coccineum can be distinguished from the Zingiberales in the study area by sessile 
 leaves, 2-3 sheaths without blades and by the orange terminal inflorescence. It is found in an isolated 
 population within high solar incidence. 
- 
+
 Renealmia petasites Gagnep., Bull. Soc. Bot. France 49: 26. 1902. 
-Figure 2 h-m 
 Pseudostem 1-2 m tall. Leaves with striated sheaths; ligule truncated  0.1-0.25 cm long, 
 brown; subsessile leaves; absent pulvinus; blade narrowly elliptic 13-54.4 x 3.5-12.5 cm; apex 
 acuminate, base cuneate, glabrous on both sides. Basal raceme inflorescence in aphyllous scapes 3-
@@ -369,11 +308,13 @@ long; anther 0.6-0.8 x 0.3-0.4 cm; filament ca. 0.2 cm long; style 1.7-2 cm long
 cm wide, cordiform, puberulous, red; nectaries ca. 0.3 x 0.3 cm; ovary 1-1.3 x 0.5-0.7 cm, glabrous, 
 red; multiple ovules per locule. Capsule 1-2 x 1.2-2 cm, dark red, becoming black when mature. Seeds 
 0.3-0.5 cm long, bright brown; orange aril.  
+
 Material examined: BRAZIL. SÃO PAULO: São Paulo, Parque Estadual Serra do Mar – Núcleo 
 Curucutu, Trilha do Embú, 22-VIII-1997, fl., P. Affonso 199 (UNISA); Trilha da Captação d’agua, 
 14-XII-2011, fr., P. Affonso 1275 (UNISA); Trilha da Bica, próxima à sede, 29-IX-2017, fl. fr., P. 
 Affonso 1378 (UNISA); Trilha da Captação d’agua, 16-III-2018, fr., L.C. Vaz 02 (UNISA); Trilha 
 nova do mirante, 11-V-2018, fl. fr., L.C. Vaz 04 (UNISA). 
+
 Additional material examined:  BRAZIL. BAHIA: Amargosa, Serra do Timbó, Área de estudos do 
 projeto Timbó/Centro Sapucaia, 27-I-2007, fr., D. Cardoso 1668 (CEPEC); Barro Preto, Serra da 
 Pedra Lascada, na estrada que passa pela Fazenda São Miguel, em direção à serra, 21-XI-2005, fr., 
@@ -381,27 +322,29 @@ M.M.M. Lopes 312 (NY); Una, Fazenda São Rafael, 11-XII-1997, fl., L.A. Mattos S
 ESPÍRITO SANTO: Cariacica, Localidade de Alegre, Trilha do Pau Oco, Reserva Biológica de Duas 
 Bocas, 15-II-2008, fl. fr., R.C. Forzza 5017 (RB); PARANÁ: Antonina, Pinheirinho, 06-X-1976, fl. fr., 
 Kummrow R. 1145 (MBM); Morretes, Rio Sagrado, 06-XII-2016, fr., Völtz R.R. 1124 (UPCB); RIO 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
 DE JANEIRO: Paraty, Cairuçu, 10-VIII-1996, fl., R. Mello-Silva 1230 (SPF); Rio de Janeiro, Tijuca, 
 X-1915, fl. fr., Lutz A. 838 (R); SANTA CATARINA: Palhoça, Pilões, 26-X-1956, fl., Reitz & Klein 
 4027 (S); SÃO PAULO: Sorocaba, 10-XII-1874, fl., H. Mosén 2966 (S).  
+
 Renealmia petasites is endemic in Brazil, with occurrences in the Atlantic Forest, distributed 
 in the States of Espírito Santo, Minas Gerais, Rio de Janeiro, São Paulo, Paraná and Santa Catarina 
 (André 2020c). Its occurrence in Bahia was also recorded (according to: L.A. Mattos Silva 3673, 
 M.M.M. Lopes 312 and D. Cardoso 1668). 
+
 In the Núcleo Curucutu, flowers were present in the species between August and May and 
 bears fruit between March and September. Outside the study area, flowering records from August to 
 December and fruiting from October to February. Kamer & Maas (2003) cite flowering throughout 
 the year. 
+
 The fruits of R. petasites were observed in the field and laboratory, and its seeds released in a 
 state of extreme maturity, beginning the opening at the base until arriving the apex. 
+
 Renealmia petasites is very similar to R. chrysotricha Petersen, presenting minimal 
 differences, differentiating by the leaf blade wider 4-13 cm wide, shorter calyx 1-2 cm long, bigger 
 pedicel 0.5-1.5 cm long, white labellum slightly pink and approximately 50 seeds per fruit, while R. 
 chrysotricha presents 4.5-9.5 cm wide leaf blade, longest calyx 1.8-2.5 cm long, smaller pedicel 0.2-
 0.6 cm long, completely white labellum and up to 25 seeds per fruit (Maas 1977, Lima et al. 2018) 
-  
+
 Maas (1977) pointed out that R. petasites is a relatively variable species, which may present 
 a great difference in the size of the inflorescences according to the collection site. This variation can 
 be observed when comparing the specimens in the study area with other locations. The specimens in 
@@ -409,258 +352,27 @@ the study area showed scapes with 8.5-37.4 cm long and inflorescences of 3-7.2 c
 small structures compared to specimens from other locations, reaching 50 cm long of scape and 30 
 cm long of inflorescence (according to: H. Mosén 2966, Reitz & Klein 4027 and L.A Mattos Silva 
 3673). 
+
 Another characteristic observed was that the specimens of the Núcleo Curucutu have a more 
 compact and globular inflorescence, while those analyzed from other locations have a more lax 
 inflorescence, as in the case of the specimens analyzed from Bahia (according to: L.A. Mattos Silva 
 3673), Rio de Janeiro (according to: R. Mello-Silva 1230) and Santa Catarina (according to: Reitz & 
 Klein 4027). 
+
 Renealmia petasites differs from other Zingiberales species in the Núcleo Curucutu because 
 it is the only one that presents subsessile leaves and tiny staminodes. Only four adult specimens were 
 found, therefore, is the species with the least number of individuals along the explored trails. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
+
 The species was considered extinct in Minas Gerais due to the absence of collections for 30 
 years, leaving the list in 2008 (Diário do Executivo 1997, Diário do Executivo 2008). In 2012 it was 
 classified as “Least Concern” (CNCFlora 2012c). 
+
 For São Paulo the species did not reach a critical situation as pointed out for Minas Gerais, 
 but being part of a species found in a Conservation Unit in the State, a "Least Concern" status is 
 regularly maintained.  
- 
-Acknowledgements 
- 
+
 We thank the team of the Núcleo Curucutu, for their support in the collections; the Instituto 
 Florestal, for authorizing the occurrence of this project; the curators of the visited herbariums, Ricardo 
 José Francischetti Garcia (PMSP), João Batista Baitello (SPSF) and Renato de Mello-Silva in 
 memoriam (SPF); Pedro Resende (UnB), for the English review and the Universidade Santo Amaro, 
 for all the assistance. 
- 
-Conflicts of interest 
- 
-There is no conflict of interest. 
- 
-Author Contributions 
- 
-Leandro Matheus de Carvalho Vaz: Contribution in the concept and design of the study; 
-Contribution to data collection; Contribution in identifications of the studied species; Contribution to 
-data analysis and interpretation; Contribution to manuscript preparation. 
-Paulo Affonso: Contribution in the concept and design of the study; Contribution to data collection; 
-Contribution in identifications of the studied species; Contribution to data analysis and interpretation; 
-Contribution to critical revision, adding intellectual content. 
- 
-Literature cited 
- 
-Almeida, R.B.P. & Antar, G.M. 2020. Strelitziaceae. In: Flora do Brasil. Jardim Botânico do Rio de Janeiro. 
-Available at http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB24922 (access in 16-II-2021). 
-André, T. 2020a. Cannaceae. In: Flora do Brasil. Jardim Botânico do Rio de Janeiro. Available at 
-http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB110625 (access in 16-II-2021). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
-André, T. 2020b. Costaceae. In: Flora do Brasil. Jardim Botânico do Rio de Janeiro. Available at 
-http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB110631 (access in 16-II-2021). 
-André, T. 2020c. Zingiberaceae. In: Flora do Brasil. Jardim Botânico do Rio de Janeiro. Available 
-at http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB110700 (access in 16-II-2021). 
-Bellato, S.M. & Mendes, I.A. 2002. Análise da suscetibilidade ambiental no núcleo Curucutu do 
-Parque Estadual da Serra do Mar (SP-Brasil). In: L.H.O. Gerardi & IA.  Mendes (org.). Do natural, 
-do Social e de suas interações: visões geográficas. UNESP, Rio Claro: 93-105. 
-Braga, J.M.A. 2008. Revisão Taxonômica de Heliconiaceae do Brasil. Tese de Doutorado, 
-Universidade Federal do Rio de Janeiro, Rio de Janeiro. 
-Braga, J.M.A. 2020. Heliconiaceae. In: Flora do Brasil. Jardim Botânico do Rio de Janeiro. 
-Available at http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB126 (access in 16-II-2021). 
-Castro, C.E.F., Gonçalves, C., Moreira, S.R. & Faria, O.A. 2011. Helicônias brasileiras: 
-características, ocorrência e usos. Revista Brasileira de Horticultura Ornamental 17(1): 5-24. 
-Catharino, E.L.M. 2002. Heliconiaceae. In: Melo M.M.R.F., Barros F., Chiea S.A.C., Kirizawa M., 
-Jung-Mendaçolli S.L., Wanderley M.G.L. (eds). Flora Fanerogâmica da Ilha do Cardoso. Instituto 
-de Botânica, Secretaria de Estado do Meio Ambiente. v. 9: 39-43. 
-CNCFlora. 2012a. Calathea monophylla. In: Lista Vermelha da flora brasileira versão 2012.2 Centro 
-Nacional de Conservação da Flora. Available at http://cncflora.jbrj.gov.br/portal/pt-
-br/profile/Calatheamonophylla (access in 31-I-2021). 
-CNCFlora. 2012b. Heliconia farinosa. In: Lista Vermelha da flora brasileira versão 2012.2 Centro 
-Nacional de Conservação da Flora. Available at http://cncflora.jbrj.gov.br/portal/pt-
-br/profile/Heliconiafarinosa (access in 31-I-2021). 
-CNCFlora. 2012c. Renealmia petasites. In: Lista Vermelha da flora brasileira versão 2012.2 Centro 
-Nacional de Conservação da Flora. Available at http://cncflora.jbrj.gov.br/portal/pt-
-br/profile/Renealmiapetasites (access in 16-II-2021). 
-Costa, F.R., Espinelli, F.P. & Figueiredo, F.O.G. 2011. Guia de Zingiberales dos Sítios PPBio na 
-Amazônia Ocidental Brasileira. Áttema Design Editorial, Manaus. 
-Diário do Executivo [do Estado de Minas Gerais]. 1997. Aprova a lista das espécies ameaçadas de 
-extinção da flora do Estado de Minas Gerais. Deliberação do Conselho Estadual de Política 
-Ambiental - COPAM, 21-XI-1997. n. 85. 
-Diário do Executivo [do Estado de Minas Gerais]. 2008. Aprova a lista das espécies ameaçadas de 
-extinção da flora do Estado de Minas Gerais. Deliberação do Conselho Estadual de Política 
-Ambiental - COPAM, 15-XII-2008. n. 367. 
-Elpo, E.R.S. & Negrelle, R.R.B. 2004. Zingiber officinale ROSCOE: Aspectos Botânicos e 
-Ecológicos. Visão Acadêmica 4: 27-32. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
-Ferreira, J.P.R. 2020. Musaceae. In: Flora do Brasil. Jardim Botânico do Rio de Janeiro. Available 
-at http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB60917 (access in 16-II-2021). 
-Fidalgo, O. & Bononi, V.L.R. 1989. Técnicas de coleta, preservação e herborização de material 
-botânico. Instituto de Botânica de São Paulo, São Paulo. 
-Forzza, R.C. & Wanderley, M.G.L. 1999. Marantaceae. In: Melo M.M.R.F., Barros F., Chiea 
-S.A.C., Kirizawa M., Jung-Mendaçolli S.L., Wanderley M.G.L. (eds.). Flora Fanerogâmica da 
-Ilha do Cardoso. Instituto de Botânica, Secretaria de Estado do Meio Ambiente v. 6: 137-142. 
-Gao, J., Sheng, C. & Yang, S. 2012. Adaptive significance of mass-flowering in Hedychium 
-coccineum (Zingiberaceae). Biodversity Science 20: 376-385. 
-Garcia, R.J.F. & Pirani, J.R. 2003. Revisão sobre o diagnóstico e caracterização da vegetação 
-campestre junto à crista de serras, no Parque Estadual Serra do Mar, São Paulo, SP, Brasil. 
-Hoehnea 30: 217-242. 
-Garcia, R.J.F. & Pirani, J.R. 2005. Análise Florística, Ecológica e Fitogeográfica do Núcleo 
-Curucutu, Parque Estadual da Serra do Mar (São Paulo-SP), com ênfase nos campos junto à crista 
-da Serra do Mar. Hoehnea 32: 1-4. 
-Gonçalvez, E.G. & Lorenzi, H. 2011. Morfologia vegetal: Organografia e Dicionário Ilustrado de 
-Morfologia das Plantas Vasculares. 2. ed. Instituto Plantarum, Nova Odessa. 
-Infraestrutura e Meio Ambiente. Parque Estadual da Serra do Mar - Núcleo Curucutu. Available at 
-https://guiadeareasprotegidas.sp.gov.br/ap/parque-estadual-serra-do-mar-nucleo-curucutu/ 
-(access in 16-II-2021). 
-Kamer, H.M. & Maas, P.J.M. 2003. Zingiberaceae. In: Wanderley M.G.L., Shepherd G.J., Melhem T.S., 
-Giulietti A.M., Kirizawa M. (eds.). Flora Fanerogâmica do Estado de São Paulo. FAPESP 3: 349-351. 
-Lima, H.R.P., Gévu, K.V., Andreata, R.H.P. & Braga, J.M.A. 2018. A reassessment of the 
-Renealmia chrysotricha (Zingiberaceae) species complex based on morphological evidence and 
-nomenclatural notes. Phytotaxa 367: 165-172. 
-Lorenzi, H. & Souza, H.M. 2001. Plantas Ornamentais do Brasil, Arbustivas, Herbáceas e 
-Trepadeiras. 3. ed. Instituto Plantarum, Nova Odessa. 
-Mass, P.J.M. 1977. Renealmia (Zingiberaceae - Zingiberoideae) Costoideae (Additions) 
-(Zingiberaceae). Flora Neotropica 18: 1-218. 
-PESM 2021a. Parque Estadual Serra do Mar. Curucutu. Sobre o Núcleo. Available at 
-http://www.parqueestadualserradomar.sp.gov.br/pesm/nucleos/curucutu/sobre/ (access in 15/I/2021). 
-PESM 2021b. Parque Estadual Serra do Mar. Sobre o Parque Estadual Serra do Mar. Available at 
-http://www.parqueestadualserradomar.sp.gov.br/pesm/sobre/ (access in 15/I/2021). 
-Rosa, D.A. & Affonso, P. 2009. Levantamento do Gênero Oncidium Sw. Sensu Lato (Orchidaceae) no 
-núcleo Curucutu, Parque Estadual da Serra do Mar, São Paulo. Revista do Instituto Florestal 1: 55-62. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
-Santiago, V.S., Silva, G.P.M., Ricardo, D.D. & Lima, M.E.F. 2015. Curcumina, o pó dourado do 
-açafrão-da-terra: introspecções sobre química e atividades biológicas. Química Nova 38: 538-552. 
-Santos, E. 1978. Revisão das Espécies do Gênero Heliconia L. (Musaceaes.l.) Espontâneas na 
-Região. Instituto de Pesquisas Jardim Botânico do Rio de Janeiro. 30: 101-222. 
-Saka, M.N. 2016. Revisão Taxonômica e Análise Filogenética das Espécies Extra-Amazônicas de Goeppertia 
-Nees, Clado Breviscapus (Marantaceae). Tese de Doutorado, Universidade Estadual Paulista, Rio Claro. 
-Saka, M.N., André, T., Luna, N.K.M. & Fraga, F.R.M. 2020. Marantaceae. In: Flora do Brasil. 
-Jardim 
-Botânico 
-do 
-Rio 
-de 
-Janeiro. 
-Available 
-at 
-http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB157 (access in 16/II/2021). 
-Simão, D.G. & Scatena, V.L. 2004. Morfoanatomia das brácteas em Heliconia (Heliconiaceae) 
-ocorrentes no Estado de São Paulo, Brasil. Acta Botanica Brasilica São Paulo 18: 261-270. 
-Souza, L.R.M., Villagra, B.L.P. & Romaniuc-Neto, S. 2007. Zingiberaceae. In: Melo M.M.R.F., Barros 
-F., Chiea S.A.C., Kirizawa M., Jung-Mendaçolli S.L., Wanderley M.G.L. (eds.). Flora Fanerogâmica 
-da Ilha do Cardoso. Instituto de Botânica, Secretaria de Estado do Meio Ambiente v. 12: 21-24. 
-Souza, V.C. & Lorenzi, H. 2005. Botânica Sistemática, Guia Ilustrado para Identificação de 
-Angiospermas da Flora Brasileira, Baseado em APG II. Ed. Instituto Plantarum, Nova Odessa.  
-Stevens, P.F. 2017. (2001 onwards). Angiosperm Phylogeny Website. Version 14, July 2017 [and 
-more 
-or 
-less 
-continuously 
-updated 
-since]." 
-will 
-do. 
-Available 
-at 
-http://www.mobot.org/MOBOT/research/APweb/ (access in 15/I/2021). 
-Takeuchi, C., Affonso, P. & Chukr, N.S. 2008. Levantamento de Iridaceae Juss. no Núcleo Curucutu, 
-Parque Estadual da Serra do Mar, São Paulo. Revista do Instituto Florestal 20 (1): 51-63. 
-Thiers, B. [continuously updated]. Index Herbariorum: a global directory of public herbaria and 
-associated staff. New York Botanical Garden’s Virtual Herbarium. Available at 
-http://sweetgum.nybg.org/ih/ (access in 06-IX-2021). 
-Vieira, S., Forzza, R.C. & Wanderley, M.G.L. 2012. Marantaceae. In: Wanderley M.G.L., Martins 
-S.E., Romanini R.P., Melhem T.S., Shepherd G.J., Giulietti A.M., Pirani J.R., Kirizawa M., Melo 
-M.M.R.F., Cordeiro I., Kinoshita L.S. (eds.). Flora Fanerogâmica do Estado de São Paulo. São 
-Paulo: Instituto de Botânica v. 7: 205-231. 
-Wongsuwan, P. & Picheansoonthon, C. 2011. Taxonomic Revision of the Genus Hedychium J. Konig 
-(Zingiberaceae) in Thailand (Part I). The Journal of the Royal Institute of Thailand 13: 133-135. 
- 
-Editor Associado: Renata Sebastiani 
-Submissão: 18/09/2021 
-Aceito: 02/03/2022 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
- 
-Figure 1. a-g. Goeppertia monophyla (Vell.) Brochs. & S.Suárez. a. Inflorescence. b. Leaf. c. Bract. 
-d. Style and stigma. e. Cross-section of the ovary. f. Fruit. g. Seed. h-n. Heliconia farinosa Raddi. h. 
-Basal bract leaf highlighted inflorescence. i. Leaf. j. Bract, flowers and fruits in detail. k. Bracteole. 
-l. Staminodium. m. Stamen. n. Cross-section of the ovary. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
- 
- 
- 
- 
-Figure 2. a-g. Hedychium coccineum Buch.-Ham. Ex Sm. a. Inflorescence and leaves. b. Ligule. c. 
-Bract. d. Lateral Staminodium. e. Labellum. f. Epiginous glands and ovary. g. Cross-section of the 
-ovary. h-m. Renealmia petasites Gagnep. h. Inflorescence and leaf. i. Sheath and ligule. j. Labellum 
-and stamen inserted in the corolla tube. k. Nectaries. l. Cross-section of the ovary. m. Fruit. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
- 
- 
-CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE 
-PREPRINTS DO SCIELO 
- 
- 
- 
-Ao Comitê Editorial de HOEHNEA 
- 
- 
-Declaro, em meu próprio nome e nos dos demais Autores, que concordo com a publicação do 
-Artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Zingiberales Griseb. in the Núcleo 
-Curucutu, Parque Estadual Serra do Mar, São Paulo, SP, Brazil.” de autoria de Leandro Matheus de 
-Carvalho 
-Vaz 
-e 
-Paulo 
-Affonso, 
-no 
-Portal 
-de 
-Preprints 
-do 
-SciELO 
-Brasil 
-(https://preprints.scielo.org/index.php/scielo/preprints/section/biological). 
-Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não  está 
-sendo considerado para publicação em outro periódico, quer seja no formato impresso e/ou eletrônico. 
- 
-São Paulo, 14 de março de 2022. 
- 
- 
- 
- 
-Leandro Matheus de Carvalho Vaz 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-36/2021
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)
