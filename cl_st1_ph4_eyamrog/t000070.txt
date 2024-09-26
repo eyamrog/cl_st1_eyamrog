@@ -1,55 +1,4 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/2236-8906-08/2021
-Seeds cryopreservation of Vriesea reitzii Leme & A.F. Costa
-endemic bromeliad from Atlantic Rainforest
-Francisco S. Montoya-Serrano, Lírio L. Dal Vesco, Rosete Pescador
-https://doi.org/10.1590/2236-8906-08/2021
-Submitted on: 2022-01-10
-Posted on: 2022-01-11 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
-1 
- 
-Seeds cryopreservation of Vriesea reitzii Leme & A.F. Costa endemic bromeliad from Atlantic 
-Rainforest1 
- 
-Francisco S Montoya-Serrano1, Lírio L. Dal Vesco2 and Rosete Pescador 1,3 
- 
-Running head tittle: Seeds cryopreservation of Vriesea reitzii 
- 
-Francisco S Montoya-Serrano: https://orcid.org/0000-0002-9976-9770 
-Lírio L. Dal Vesco: https://orcid.org/0000-0002-4545-2081 
-Rosete Pescador: https://orcid.org/0000-0002-4667-9894 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-1 Part of the first Author's Master's Thesis 
-1 Universidade Federal de Santa Catarina, Departamento de Fitotecnia, Rodovia Admar Gonzaga, 1346, 88040-900 
-Florianópolis, SC, Brazil 
-2 Universidade Federal de Santa Catarina, Centro de Ciências Rurais, Departamento de Ciências Naturais e Sociais, 
-Campus de Curitibanos, Rodovia Ulisses Gaboardi, Km 3, 89520-000 Curitibanos, SC, Brazil 
-3 Autor para correspondência: rosete.pescador@ufsc.br 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
-2 
- 
- 
-ABSTRACT – (Seeds cryopreservation of Vriesea reitzii Leme & A.F. Costa endemic bromeliad 
+(Seeds cryopreservation of Vriesea reitzii Leme & A.F. Costa endemic bromeliad 
 from Atlantic Rainforest). Vriesea reitzii is an endemic bromeliad from the Atlantic Rainforest. The 
 objective of this research was to evaluate the cryopreservation using the method of direct immersion 
 of its seeds, collected from capsules at 120, 135, and 150 days after anthesis (DAA). The water 
@@ -61,33 +10,7 @@ microscopy analyses were performed, and no cell damage or changes at the morpho-
 ultrastructural levels were observed after the cryopreservation process. From these results, V. reitzii 
 seeds can be classified as orthodox seeds and the cryopreservation (+LN) is an efficient tool for an 
 ex situ conservation of this species. 
-Keywords: Bromeliaceae, carbohydrate, germination, moisture content, morpho-histology 
- 
-RESUMO – (Criopreservação de sementes de Vriesea reitzii Leme & A.F. Costa bromélia endêmica 
-da Mata Atlântica). Vriesea reitzii é uma bromélia endêmica da Mata Atlântica. O objetivo deste 
-trabalho foi avaliar a criopreservação de sementes utilizando o método de imersão direta, coletadas 
-de cápsulas aos 120, 135 e 150 dias após a antese (DAA). O teor de água foi determinado antes da 
-criopreservação. A porcentagem de germinação, o índice de velocidade de germinação (GSI) e os 
-carboidratos solúveis totais foram quantificados após a criopreservação. A maior porcentagem de 
-umidade (17,6%) foi observada aos 120 DAA, enquanto a maior porcentagem de germinação (89,6%) 
-e GSI (17,0) foram observadas aos 150 DAA. Em análises de microscopia ótica e eletrônica de 
-transmissão não foram observados danos celulares ou alterações a nível morfohistológico e 
-ultraestrutural após o processo de criopreservação. A partir desses resultados, as sementes de V. reitzii 
-podem ser classificadas como ortodoxas e a criopreservação (+LN) é uma ferramenta eficiente para 
-a conservação ex situ desta espécie. 
-Palavras-chave: Bromeliaceae, carboidratos, germinação, morfohistológia, teor de umidade 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
-3 
- 
-Introduction 
+
 The Bromeliaceae Juss. Family encompasses 78 genera and 3.336 know species. Also it is 
 considered one of the most diverse in the Atlantic forest (Gouda et al. 2021). The genus Vriesea 
 Lindl. comprises of 231 species, 219 out of a which are endemic in Brazil (Costa et al. 2021). The 
@@ -95,11 +18,13 @@ genus Vrisea is the richest species in terms of the Atlantic Forest biome, it ha
 large number of species (145) are endemic, such as Vriesea reitzii Leme & A.F. Costa, which is 
 currently endangered, as reported in the list of the Rio Grande do Sul State, Brazil (Martinelli et al. 
 2008). 
+
 Considering the ecological importance of bromeliads and endemism, it is of fundamentally 
 important to establish conservation strategies that ensure the availability of genetic diversity (Costa 
 et al. 2014, BFG 2015). In this context, available information on ex situ conservation procedures of 
 bromeliad species in Brazil is still incipient, revealing the need to establish effective programs for the 
 conservation of native flora (Rodrigues et al. 2014). 
+
 In the effort to protect Bromeliads, several strategies have been used to better understand and 
 support future studies. In V. reitzii, certain studies use biotechnological techniques as conservation 
 tools, such as in vitro cultivation with the nodular cultures (NCs) production. NCs can be considered 
@@ -112,10 +37,6 @@ analyzes and identification of differentially expressed proteins involved during
 regeneration of nodular cultures (Corredor-Prado et al. 2016, 2019), as well as in the dynamics of 
 changes in the levels of proteins, carbohydrates and global DNA methylation during the induction of 
 NCs. (Corredor-Prado et al. 2020). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 4 
  
 However, an effective alternative is to establish a cryopreservation protocol, since it allows an 
@@ -143,10 +64,6 @@ et al. 2019).
 According to Mollo et al. (2011), in Alcantarea imperialis (Carrière) Harms (Bromeliaceae), 
 carbohydrates undergo appreciable changes, in adaptations to the cold. The authors describe that the 
 sucrose contents of plants under cold conditions can be exchanged for trehalose, raffinose, and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 5 
  
 stachyose. They also report that starch concentrations changed with the presence of cold, possibly 
@@ -173,10 +90,6 @@ altitude The collection was carried out at three different times, established by
 the content of indoor water; 2) at 135 DAA, intermediate point of the natural dehydration process 
 and; 3) at 150 DAA, beginning of carpel opening for seed release and dispersion. The experiments 
 were conducted in the Laboratory of Developmental Physiology and Plant Genetics (LFDGV), Center 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 6 
  
 of Agricultural Sciences, of the Federal University of Santa Catarina (CCA/UFSC) in Florianópolis, 
@@ -207,10 +120,6 @@ Germination percentage data (%) and germination speed index (GSI) were daily obt
 the 15th day of cultivation. Germinated seeds were considered when they presented embryo swelling, 
 seminal envelope rupture and, light green colour as a sign of active metabolism. The GSI was 
 calculated according to Maguire (1962) and the formula: 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 7 
  
 GSI= ∑ (Gi/ni) where: Gi = number of germinated seeds and; ni = counting day. 
@@ -238,10 +147,6 @@ microscope (Olympus BX40) and photographed with an image capture system (Olympus
 3C América Ind.). 
 Transmission electron microscopy (TEM) analysis was performed from seeds of each 
 treatment, fixed in a glutaraldehyde solution (2.5%) in 0.1 M sodium cacodylate buffer pH 7.2 and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 8 
  
 0.2 M sucrose at 4 °C overnight; followed by immersion in 0.3 M sodium cacodylate buffer solution, 
@@ -269,10 +174,6 @@ observed in the different DAA. The highest and most significant (p <0.01) averag
 percentage (89.6%) was observed with seeds collected at 150 DAA (table 1). 
 Concerning the germination speed index (GSI), no significant differences were found between 
 cryopreserved (+LN) and non-cryopreserved (-LN) seeds. Seeds submitted to the conservation 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 9 
  
 methods started to germinate on the 7th day of cultivation, and the maximum germination point was 
@@ -299,10 +200,6 @@ The aleurone layer that surrounds the endosperm and the embryo is presented in a
 of cells, of a thick wall, with the presence of acid polysaccharides in the cytoplasm and cell wall 
 (figure 1c, see arrow). Concurrent, there was an absence of starch grains in the cytoplasm of the 
 aleurone layer. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 10 
  
 It was observed the presence of neutral polysaccharides in the endosperm region, as constituents 
@@ -330,10 +227,6 @@ for multiplication and generation of nodular cultures (Guerra & Dal Vesco 2010, 
 occurrence of a natural desiccation process, which is directly related to its degree of physiological 
 maturity. Starting with this factor, it can be inferred that the seeds of this species have a characteristic 
 orthodox behaviour. In these species, the seed moisture tends to reduce as the seeds pass through the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 11 
  
 maturation process in the mother plant, resulting in natural desiccation and conceding tolerance to 
@@ -361,10 +254,6 @@ Cryopreservation has advantages considering the possible storage time, as well a
 cryopreservation by direct immersion, which is the cheapest in the category by not using 
 cryoprotectants or too many reagents. Concerning the storage of plant material for indefinite periods, 
 cryopreservation in liquid nitrogen (-196 °C) is the only current method (Engelmann 2011). Likewise, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 12 
  
 cryopreservation has vast advantages when compared to traditional conservation methods (Vendrame 
@@ -392,10 +281,6 @@ that corroborate with those observed by Guimarães & Barbosa (2007), in which th
 in Machaerium brasiliensi Vogel seeds is related to the fruit maturation process. Therefore, the 
 natural desiccation determines the quality and vigour of the seeds, an important factor to be 
 considered in conservation programs, such as the use in cryopreservation. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 13 
  
 Carbohydrates, on the other hand, are associated with the seed's capacity to withstand 
@@ -423,10 +308,6 @@ bodies, protein bodies, and orthamyloplasts, which can confer tolerance to desic
 and also reaffirm the orthodox behaviour of the seeds. 
 Cryopreservation is the only technique that guarantees the conservation of genetic material, 
 theoretically for an indefinite period, safely and economically. (Engelmann 2011). In liquid nitrogen 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 14 
  
 storage (-196 °C), all metabolic activity and cell divisions are interrupted, preventing the degradation 
@@ -456,10 +337,6 @@ Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) and Funda
 à Pesquisa e Inovação do Estado de Santa Catarina (FAPESC), for fellowships, research grants, and 
 financial support. We also thank Laboratório Central de Microscopia Eletrônica (LCME-UFSC), 
 where part of the work was developed through technical analysis support. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 15 
  
  
@@ -503,10 +380,6 @@ nodular cluster cultures from seeds of Vriesea reitzii. Acta Scientiarum. Agrono
 Costa, A.F., Gomes-Da-Silva, J., Wanderley, M. D.G.L. 2014. Vriesea (Bromeliaceae, 
 Tillandsioideae): taxonomic history, and morphology of the Brazilian lineage. The Journal of the 
 Torrey Botanical Society 141: 338-352. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 16 
  
 Costa, A.F., Moura, R.L., Neves, B., Machado, T.M., Kessous, I.M., Uribbe, F.P., Couto, D.R., 
@@ -559,10 +432,6 @@ Chrysanthemum× grandiflorum (Ramat.) Kitam. shoot tips. Propagation of Ornament
 14(1): 3-12. 
 Maguire, J.D. 1962. Speed of germination-aid selection and evaluation for seedling emergence and 
 vigor. Crop Science 2(2): 176-177. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 17 
  
 Martinelli, G. & Moraes, M.A. 2013. Livro vermelho da flora do Brasil. 1 ed. Rio de Janeiro: 
@@ -614,10 +483,6 @@ Biological, Chemical, Pharmaceutical and Food Systems. New York: Springer, pp. 2
 Zappi, D.C., Filardi, F.L.R., Leitman, P., Souza, V.C., Walter, B.M., Pirani, J.R. & Forzza, R.C. 
 2015. Growing knowledge: an overview of seed plant diversity in Brazil. Rodriguésia 66(4): 
 1085-1113. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 18 
  
 Walters, C. 2015. Orthodoxy, recalcitrance and in-between: describing variation in seed storage 
@@ -641,10 +506,6 @@ Received: 24/01/2021
 Accepted: 09/12/2021 
  
  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
  
 19 
  
@@ -748,10 +609,6 @@ Mean
 curve with R2 = 0.9989. Means followed by different letters in the column (lowercase) are 
 significantly different by ANOVA and means followed by different letter in the line (capital letter) 
 are significantly different by Tukey´s test (p<0,05). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 20 
  
  
@@ -768,10 +625,6 @@ Lugol: 150 DAA -LN seeds. Bar: 50 µm. DAA: Days after anthesis. TBO: Toluidine 
 nitrogen.  
  
  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
- 
 21 
  
  
@@ -785,10 +638,6 @@ bodies (PB), intercellular space (IS); d. embryo cryopreserved cell structure, n
 bodies; LB: lipid bodies; IS, intercellular space; (NM), nucleus membranes; N, nucleus. Bar a,d = 2 
 µm; b, c, e = 1 µm. 
  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-Article 
-https://doi.org/10.1590/2236-8906-08/2021 
  
 22 
  
