@@ -1,37 +1,6 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.21149/13456
-Superspreading event of COVID-19 in adolescents: is there a
-difference between the vaccinated and the unvaccinated?
-Carol Perelman, Andrea Fastlicht, Alejandro Sanchez-Flores, Talia Wegman-Ostrosky
-https://doi.org/10.1590/SciELOPreprints.3134
-Submitted on: 2021-11-01
-Posted on: 2021-11-12 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Superspreading event of COVID-19 in adolescents: is there a difference between the 
-vaccinated and the unvaccinated? 
- 
-Carol Perelman1, Andrea Fastlicht2, Alejandro Sanchez-Flores3, Talia Wegman-Ostrosky4 
- 
- 
-1 Universidad Nacional Autónoma de México, SOMEDICyT, RedMPC, Mexico City, Mexico. 
-ORCID ID: 0000-0002-0111-1154 
- 
-2 Universidad Iberoamericana, Mexico City, Mexico. ORCID ID: 0000-0001-9705-5080 
- 
-3 Unidad Universitaria de Secuenciación Masiva y Bioinformatica, UNAM, Cuernavaca, Morelos, 
-México ORCID ID: 0000-0003-0476-3139 
- 
-4 Instituto Nacional de Cancerologia, Sub-direction of Basic research, Mexico City, Mexico. 
-ORCID ID: 0000-0002-3207-6697 
- 
- 
- 
-Abstract 
-Objective: 
-The aim of this study is to estimate the incidence of COVID-19 in a vaccinated and an 
+Objective: The aim of this study is to estimate the incidence of COVID-19 in a vaccinated and an 
 unvaccinated group of adolescents and describe their symptoms.  
- 
+
 Methods: In May 2021 a private indoor event for high school adolescents took place resulting in 
 a superspreading event. As part of the study, an anonymous questionnaire was sent to all 
 adolescents invited to the event and details about symptoms, previous COVID-19 infection, 
@@ -41,7 +10,7 @@ vaccinated symptomatic individual was sequenced. General characteristics for the
 are described using categorical and continuous data. The incidence of COVID-19 in each group 
 was estimated by taking the total number of COVID-19 positive cases (numerator) divided by the 
 total number of individuals (denominator) multiplied by 100. 
- 
+
 Results: A total of 41 out of the 164 adolescents (incidence 25%, 95%CI 18.6- 32.4) that attended 
 the private indoor event developed COVID-19. A sample was sequenced from one of the 
 symptomatic and fully vaccinated individuals with BNT162b2 (Pfizer-BioNTech vaccine) finding 
@@ -52,8 +21,6 @@ There were more unvaccinated than vaccinated teenagers that developed COVID-19 �
 95%CI 1.79-9.8. Almost all (40 out of the 41) developed more than one COVID-19 symptom. The 
 mean number of symptoms reported was 6 in both vaccinated and unvaccinated individuals. Both 
 unvaccinated and vaccinated positive adolescents developed fatigue, runny nose, anosmia, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
 fever, cough, and ageusia. None of the adolescents that reported a prior COVID-19 infection got 
 reinfected during the event (N=47). At least two known positive individuals attended the event; all 
 other attendees tested negative in a rapid antigen test performed 24 hours before the event. 
@@ -61,14 +28,13 @@ Attendees were there for 2 or more hours in the non-ventilated environment, with
 distancing, without a face mask (87.8%) and socializing with high music volume. None of the 
 COVID-19 positive adolescents, nor any of their close contacts who developed secondary 
 infections required hospitalization nor died from COVID-19. 
- 
+
 Conclusion: The results of this study shows that unvaccinated susceptible adolescents have a 
 higher incidence of COVID-19 than vaccinated adolescents. But once infected, both unvaccinated 
 and vaccinated adolescents had similar symptoms including fatigue, runny nose, anosmia, fever, 
 cough, and ageusia. Adolescents recovered from previous COVID-19 infections were not 
 reinfected. The lack of infection-mitigating strategies resulted in a superspreading event. 
- 
-Introduction 
+
 Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of COVID-
 19 has infected over 200 million and killed over 4 million people worldwide by August 2021 
 (Harvey et al., 2021). Since the start of the ongoing pandemic, multiple candidate vaccines have 
@@ -80,14 +46,14 @@ December 2020, countries started an intense vaccination program to first protect
 vulnerable population, mainly the elderly, and persons with increased exposure to the SARS-
 CoV-2 virus due to high-risk occupations, health care workers and front-line workers (Russell and 
 Greenwood, 2021).  
- 
+
 Previous studies have shown that adolescents are less prone to severe COVID-19, hospitalization 
 and death due to COVID-19 compared to adults (CDC, 2021; Stein, 2021). Also, some studies 
 report that COVID-19 positive adolescents have mild respiratory symptoms, namely fever, dry 
 cough, and fatigue or are asymptomatic (Castagnoli et al., 2020). Less than 1% can develop multi 
 systemic inflammatory syndrome (MIS-C) (Hoste, Van Paemel and Haerynck, 2021) and 5.1% 
 can develop Long COVID (Mellis, 2021). 
- 
+
 The BNT62b2 (Pfizer/BioNTech) COVID-19 vaccine was the first to be authorized under 
 emergency use for individuals over 16 years old on December 11 2020 (Office of the 
 Commissioner, 2021). On March 31 2021, it was the first vaccine with published results of its 
@@ -95,22 +61,18 @@ phase 3 on adolescents 12-15 years of age, finding that it was well tolerated, s
 and had 100% efficacy in preventing symptomatic COVID-19 (Frenck et al., 2021). However, 
 there is not much information on the dynamic of COVID-19 in adolescents, both vaccinated and 
 unvaccinated, under conditions that differ from those in an experimental trial.  
- 
+
 In April 2021, the Delta (B.1.617.2) variant was identified in India and classified on May 11 as 
 variant of concern (VOC) due to its fast spread and potential immune escape (Singh et al., 2021). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
 The more infectious Delta variant of concern increased the incidence of breakthrough infections 
 in different countries and populations (Baral et al., 2021; Lopez Bernal et al., 2021). In fully 
 vaccinated health workers, most breakthrough infections were reported as mild or asymptomatic 
 (Linsenmeyer et al., 2021). Nevertheless, to date, information is scarce on the dynamics of 
 COVID-19 in vaccinated and unvaccinated adolescents.   
- 
+
 The aim of this study is to estimate the incidence of COVID-19 in a vaccinated and an 
 unvaccinated group of adolescents, and describe their symptoms. 
- 
-Methods 
-Study population 
+
 In May 2021, a private event for high school adolescents with ages between 15 and 19 years, 
 took place in Mexico City. The event was held in a closed room with no ventilation. A rapid antigen 
 test with confirmed negative results of COVID-19 was mandatory to attend the event and was 
@@ -119,7 +81,7 @@ the United States, as vaccines were not available for adolescents in Mexico at t
 event, several cases of COVID-19 were reported. All attendees were requested to take a COVID-
 19 test within a week of attending the event. One of the samples, from a symptomatic fully 
 vaccinated person, was sequenced to determine the SARS-CoV-2 genetic variant.  
-Questionnaire 
+
 We sent a questionnaire to all the high school adolescents invited to the private event (N=199). 
 Only those that attended the event were included in the study (N=164). Informed consent was 
 requested at the start of the questionnaire. For those under 18 informed consent was asked from 
@@ -131,7 +93,7 @@ data on age, sex, prior COVID-19 infection, status of the COVID-19 rapid antigen
 event, result of the COVID-19 test after the event, the use of face masks, the amount of time 
 spent at the event, vaccination status, symptoms after the event, and people from their close 
 contacts that developed COVID-19 after the event.  
-Statistical Analyses 
+
 General characteristics for the whole studied population are described using categorical and 
 continuous data by frequency and percentage, and mean and standard deviation (SD), 
 respectively. Two different cohorts were created: vaccinated and unvaccinated. Vaccinated were 
@@ -139,8 +101,7 @@ defined as individuals who had received 1 or more doses of a COVID-19 vaccine at
 the event. Unvaccinated were defined as individuals without any vaccine dose. We further 
 describe how many adolescents were fully vaccinated with all recommended doses administered 
 more than 14 days prior to the event, and how many were partially vaccinated. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
+
 The incidence of COVID-19 in vaccinated individuals was computed by taking the total number of 
 COVID-19 positive cases in the vaccinated group (numerator) divided by the total number of 
 vaccinated individuals (denominator) multiplied by 100. The incidence of COVID-19 in the 
@@ -148,7 +109,7 @@ unvaccinated group was computed by taking the total number of COVID-19 positive 
 unvaccinated group (numerator) divided by the total number of unvaccinated individuals 
 (denominator) multiplied by 100. Confidence intervals were constructed using the exact Clopper-
 Pearson method (Desu and Raghavarao, 2003).  
-SARS-CoV-2 test 
+
 After the event, positive and negative results from each participant were determined with different 
 commercial COVID-19 test kits at private laboratories (PCR or rapid antigen). Given that there 
 were some individuals that only took a rapid antigen test and its sensitivity is lower than the PCR 
@@ -157,7 +118,7 @@ than 3 symptoms including anosmia, even if the rapid antigen test was falsely ne
 PCR test was performed (Pilarowski et al., 2021). The symptoms of each group were described 
 using categorical data by frequency and percentage, and compared with 𝝌2 among the 
 vaccinated and unvaccinated groups.  
-SARS-CoV-2 genome sequencing and Bioinformatics analysis 
+
 Extracted RNA isolated with the TRIzol protocol (TRIzolTM Reagent, no date; Rio et al., 2010) from 
 a sample of a SARS-CoV-2 fully vaccinated symptomatic positive patient, with a Ct value of 22.53 
 using the RIDAGENE SARS-COV-2 RT-PCR MULTIPLEX kit (R-BIOPHARM AG), was used to 
@@ -165,23 +126,19 @@ prepare an Illumina library using the Artic v3 protocol as described in (Pipelin
 The SARS-CoV-2 amplicons library was prepared and sequenced at the “Unidad Universitaria de 
 Secuenciación Masiva y Bioinformatica - UNAM” using the Illumina NextSeq500 platform with a 
 300 cycle kit with a pair end configuration to obtain reads with a 150 base pair length. 
+
 About 3 million paired end reads were obtained and processed using the ncov2019-artic-nf 
 pipeline (GitHub, 2021) with default parameters. The reconstructed genome in fasta format, was 
 analyzed at the Pangolin COVID-19 Lineage Assigner site (À. O’toole, V. Hill JT. McCrone, E. 
 Scher, A. Rambaut, 2021) to obtain the lineage of the sequenced virus. 
- 
-Results 
- 
-Overall population 
+
 All of the individuals that were invited to the event answered the questionnaire (N=199). A total of 
 35 were excluded, six because their parents did not give authorization to participate in the study, 
 and 29 because they did not attend the event.  
- 
+
 As shown in Figure 1, the studied population included N=164 adolescents. The mean age was 
 16.8 (SD 1.07) and the age ranged from 15 to 19. 53.7% were male and 46.3% female. In the 
 past year 28.7% (N=47) had COVID-19 and were fully recuperated before the event; none of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
 these adolescents developed COVID-19 during the event. Of the attendees, 43% were vaccinated 
 (n=70) and 57% (n=94) were unvaccinated. 98.8% performed an antigen test 24 hours prior to 
 the event. The 2 people that did not take the test before the event, took a test after the party and 
@@ -195,17 +152,16 @@ the participants remained for 2 or more hours in the event (86.4%) and were indo
 time (82.9%). High volume music was played at all times in the non-ventilated indoor area, 
 increasing the risk of SARS-CoV-2 transmission through elevated vocal effort contributing to 
 higher aerosol emissions (Kopechek, 2020). 
- 
+
 After the event 90.3% (148) took a COVID-19 test, 33.6% took a PCR test, and 56.7% a rapid 
 antigen test. 41 people were COVID-19 positive, of which 35 had a positive test result and 6 had 
 a negative test result or did not have a test but reported 6 symptoms including anosmia. 
- 
+
 Out of the 41 adolescents with COVID-19, 75.6% said no one got sick around them (secondary 
 infections), 19.6% said they infected 1 or 2 more persons. 73.2% said they did not have any 
 contact with other persons, 7.3% had contact with 3 to 4 persons, and 7.3% had contact with 5 to 
 6 persons. None of the adolescents or their close contacts were hospitalized or died.  
- 
-Vaccinated group 
+
 In total, there were 70 (42.7%) people that were vaccinated with at least one dose, 50 persons 
 were fully vaccinated and 20 were partially vaccinated. 19 (27.1%) had COVID-19 in the year 
 before the event and fully recovered before attending the event; none had a reinfection due to the 
@@ -214,93 +170,33 @@ the 70 vaccinated adolescents resulted COVID-19 positive; 7 (14%) were fully vac
 (5%) was partially vaccinated. Only one fully vaccinated person was asymptomatic. The most 
 common symptoms were runny nose, anosmia, fatigue, general discomfort, cough, ageusia and 
 low fever.  
- 
-Unvaccinated group 
+
 In total there were 94 (57.3%) people that were unvaccinated. 28 (29.8%) had COVID-19 in the 
 year before the event and fully recovered before attending the event; none had a reinfection due 
 to the event. 83.7% reported not using a face mask during the event. After the party, 33 (35.1%) 
 of the unvaccinated adolescents were COVID-19 positive; there were no asymptomatic persons 
 in this cohort. The most common symptoms were fatigue, anosmia, general discomfort, runny 
 nose, cough, low fever and ageusia.  
- 
-SARS-CoV-2 in Vaccinated and Unvaccinated groups 
+
 In Table 1 we present that the incidence of COVID-19 in unvaccinated individuals was 35.1% 
 (95%CI 25.5 to 45.6), and in vaccinated individuals was 11.4% (95%CI 5.1 to 21.3). There was a 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
 statistically significant difference of COVID infected individuals in the unvaccinated group 
 compared to the vaccinated group (𝝌2= 12.6, p=0.00). The Odds Ratio when comparing 
 unvaccinated vs. vaccinated was of 4.19 (95%CI 1.79-9.8).  
- 
+
 In Figure 2 we present the symptoms reported both by the vaccinated and unvaccinated 
 adolescents. The mean number of symptoms was 6 in both the vaccinated and unvaccinated 
 cohorts. Vaccinated adolescents reported a runny nose more frequently (87.5% vs 48.5% 
 p=0.046). Unvaccinated adolescents reported fatigue more frequently (90.9% vs 62.5% p=0.04). 
 The rest of the reported symptoms, including anosmia, were present in both vaccinated and 
 unvaccinated individuals (75.0% and 72.7% respectively).  
- 
-Genome sequencing 
+
 A sample of one of the symptomatic fully vaccinated individuals was sequenced using the 
 extracted RNA material from the positive qPCR test as described in our Methods. The result was 
 a genome with a 99.48% coverage assigned as the Delta variant of concern (B.1.617.2) lineage 
 according to the Pangolin COVID-19 Lineage Assigner website. Sequence was submitted to 
 GISAID, Submission Number: EPI_ISL_3982391 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
-Figure 1. Adolescents Superspreading Event. 164 adolescents with a median age of 16.8 
-attended a private, non-ventilated event with high volume music, no social distancing measures 
-and a low use of face masks for 2 or more hours. All performed an antigen rapid test 24 hours 
-prior to the event. Two known COVID-19 positive individuals attended the event resulting in 41 
-(25%) positive cases of which 40 were symptomatic. No reinfection resulted from the event; the 
-47 individuals (28.7%) that reported having COVID-19 in the previous year were negative and 
-reported no symptoms after the event. 70 (42.7%) of the attendees were vaccinated with at least 
-one dose having lower incidence of COVID-19 (11.4%, 95%CI 5.1-21.3) than the unvaccinated 
-cohort (35.1%, 95%CI 25.5-45.6). The crude OR was 4.19 (95%CI 1.79-9.8). None of the 
-adolescents, or their close contacts, needed hospitalization, or died from COVID-19. One sample 
-of a fully vaccinated symptomatic individual was sequenced, and the Delta variant of concern was 
-found.  
- 
- 
-Total attendees 
-N=164 
-COVID-19  
-N=41 
-COVID-19 Incidence 
-95%CI 
-Vaccinated  
-(Fully or partially) 
-70 
-8 
-11.4% (5.1-21.3) 
-Unvaccinated 
-94 
-33 
-35.1% (25.5-45.6) 
- 
- 
-Table 1: Incidence of Covid-19 cases A total of 164 individuals attended the event. 70 with at 
-least one vaccine dose. The incidence of COVID-19 was 11.4% (8) in the vaccinated cohort and 
-35.1% (33) in the unvaccinated cohort. There were more unvaccinated than vaccinated teenagers 
-that developed COVID-19 𝝌2= 12.6, (p=0.00). The crude Odds Ratio when comparing the 
-unvaccinated vs the vaccinated was of 4.19, 95%CI 1.79-9.8 We found no reinfection, 47 (28.6%) 
-adolescents reported having had COVID-19 in the past year and none was infected during the 
-event. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
- 
-Figure 2. Percentage of Symptoms in COVID-19 Positive Vaccinated and Unvaccinated 
-Adolescents. Both cohorts had similar symptoms. Only one fully vaccinated individual was 
-asymptomatic. Fatigue was reported mainly in the unvaccinated and runny nose was mainly 
-reported in the vaccinated *p<0.05  
- 
- 
- 
-Discussion 
- 
+
 This study shows that in the described superspreading event the unvaccinated adolescent cohort 
 had a statistically higher incidence of COVID-19 than the vaccinated adolescent cohort. The 
 incidence of COVID-19 in the unvaccinated cohort was 35.1% (95%CI 26.1 to 46.5), and in the 
@@ -311,9 +207,7 @@ decreased the risk of getting COVID-19, once an adolescent was infected with COV
 symptoms were similar for both vaccinated and unvaccinated persons including fatigue, runny 
 nose, anosmia, general discomfort, ageusia, fever and cough. Fatigue was more common in 
 unvaccinated adolescents, and runny nose in vaccinated adolescents.  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
+
 In the anonymous questionnaire, 47 (28.6%) attendees reported having COVID-19 during the 
 previous year and were fully recovered before the event, 28 were not vaccinated and 19 were 
 vaccinated with at least one dose. No reinfection resulted from this event. All 47 previously 
@@ -325,7 +219,7 @@ this study we cannot assume that the superspreading event was caused by Delta si
 sequenced one sample from a symptomatic fully vaccinated individual, however we did observe 
 a higher risk of infection in naive or vaccinated adolescents than in recovered individuals with 
 natural immunity. 
- 
+
 A breakthrough infection is defined as the detection of SARS-CoV-2 RNA in a PCR test or positive 
 rapid antigen test in a respiratory specimen collected from a person ≥14 days after receipt of all 
 recommended doses of a COVID-19 vaccine (Bergwerk et al., 2021). In our vaccinated cohort 
@@ -336,7 +230,7 @@ study in Israel found that health care workers with breakthrough infections acco
 fully vaccinated individuals and persistent symptoms were present in 19% of COVID-19 cases 
 (COVID-19 vaccine breakthrough cases: Data from the states, 2021). To date, there is no 
 information on mild breakthrough infections in adolescents. 
- 
+
 24.4% reported secondary infections of close contacts. None of the adolescents in this study nor 
 their positive close contacts resulted in severe cases, needed hospitalization or died of COVID-
 19. The results of this study are in line with other studies that show that COVID-19 vaccines are 
@@ -344,7 +238,7 @@ highly effective for preventing hospitalization and death (Mlcochova et al., 202
 2021). Vaccinated adolescents can develop mild or moderate symptoms when infected with 
 SARS-CoV-2 and overall, they have less risk of severe disease or death due to COVID-19 than 
 older individuals.  
- 
+
 Understanding the setting of the event might explain why one of every four attendees was found 
 positive. Of the total 164 attendees, 86.4% reported being present for 2 or more hours, where 
 82.9% were mostly in the enclosed non-ventilated environment and 87.8% did not use face masks 
@@ -358,8 +252,6 @@ rapid antigen test 24 hours prior to the event, in which two adolescents were po
 attended the event. Of these two positive individuals, one was vaccinated and reported wearing 
 a face mask at all times while the other positive individual was not vaccinated and did not wear a 
 face mask at all. This superspreading event shows the lack of knowledge, low risk assessment 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
 and the hesitance to implement several layers of protection. The analysis of this superspreading 
 event shows how taking only one measure, in this case the 24-hour prior antigen test, was not 
 enough to minimize the risk of infection. As the Swiss Cheese Model by James Reason suggests, 
@@ -368,7 +260,7 @@ protection it is imperative to employ several layers of protection to reduce the
 and infection. In this scenario, without multiple transmission mitigation measures like admitting 
 only negative adolescents, having proper ventilation, universal use of face masks, lower volume 
 music, and social distancing, the superspreading event occurred.  
- 
+
 One of the nasopharyngeal samples from a symptomatic fully vaccinated individual was 
 sequenced. It was determined that it was the Delta variant of concern (VOC) which at that time 
 was present in only 2.12% of samples screened according to the National Genomic Program´s 
@@ -383,7 +275,7 @@ adolescents while other variants were circulating (Frenck et al., 2021). As repo
 Delta variant infections dominate vaccine-breakthrough cases in other countries such as India 
 and the United Kingdom, probably driven by a combination of evasion of neutralising antibodies 
 and increased virus infectivity (Mlcochova et al., 2021). 
- 
+
 The strengths of this study are the high rate of participation, that almost all were tested for COVID-
 19 before and after the event, and that the conditions during which the private event was held 
 were constant for most of the attendees. The limitations of this study are that it was not possible 
@@ -392,7 +284,7 @@ not all of the vaccinated individuals were fully vaccinated. Future studies are 
 the incidence of COVID-19 in adolescents in fully vaccinated individuals in bigger samples to be 
 able to determine if the incidence is similar to what is observed in this smaller population and if 
 the symptoms of vaccinated and unvaccinated individuals are similar.  
- 
+
 Spreading events have become more common since vaccinated individuals engage with other 
 people in social events, with almost complete relaxation of safety measures. Interesting to note 
 that two positive cases were from adolescents that decided not to miss the event regardless of 
@@ -401,13 +293,7 @@ with a VOC is more probable, especially in places with high community transmissi
 of this study show the permeability of implementing a unique mitigating strategy thus evidencing 
 the urgency to communicate the importance of layering protective measures to reduce risk of 
 transmission and infection during the COVID-19 pandemic.  
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
-Acknowledgments 
- 
+
 We would like to thank Sandra López-León MD PhD for her guidance as an epidemiologist, 
 physician and her support in the data analysis and interpretation. Bioethicist German Carreto 
 Chavez reviewed and approved the questioner and the project.  He determined that there was no 
@@ -419,142 +305,3 @@ Grande and Karel Estrada for their support in sequencing and bioinformatics tech
 respectively and who are part of the “Unidad Universitaria de Secuenciación Masiva y 
 Bioinformática - UNAM'' and "Laboratorio Nacional de Apoyo Tecnológico a las Ciencias 
 Genómicas - CONACyT" 
- 
-Competing interests 
- 
-The authors are solely responsible for all content. The authors have no competing interests to 
-declare. 
- 
- 
-Authors' contribution 
- 
-Conception and design: CP, TWO.; data acquisition: CP, AF data coordinator: CP.; data 
-management: ASF; data analysis: CP, TWO, data interpretation: all authors, figures and tables: 
-AF, financial and administrative support: ASF, TWO ; and writing, review, and editing: all 
-authors 
-References 
-À. O’toole, V. Hill JT. McCrone, E. Scher, A. Rambaut (2021) COG-UK, Centre for Genomic 
-Pathogen Surveillance. Available at: https://pangolin.cog-uk.io/ (Accessed: 1 September 2021). 
-Azuma, K. et al. (2020) ‘Environmental factors involved in SARS-CoV-2 transmission: effect and 
-role of indoor environmental quality in the strategy for COVID-19 infection control’, 
-Environmental health and preventive medicine, 25(1), p. 66. 
-Baral, P. et al. (2021) ‘Mutation-induced changes in the receptor-binding interface of the SARS-
-CoV-2 Delta variant B.1.617.2 and implications for immune evasion’, Biochemical and 
-biophysical research communications, 574, pp. 14–19. 
-Bergwerk, M. et al. (2021) ‘Covid-19 Breakthrough Infections in Vaccinated Health Care 
-Workers’, The New England journal of medicine. doi: 10.1056/NEJMoa2109072. 
-Castagnoli, R. et al. (2020) ‘Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) 
-Infection in Children and Adolescents: A Systematic Review’, JAMA pediatrics, 174(9), pp. 882–
-889. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
-CDC (2021) Risk for COVID-19 Infection, Hospitalization, and Death By Age Group. Available 
-at: https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-
-discovery/hospitalization-death-by-age.html (Accessed: 31 August 2021). 
-COVID-19 vaccine breakthrough cases: Data from the states (2021). Available at: 
-https://www.kff.org/policy-watch/covid-19-vaccine-breakthrough-cases-data-from-the-states/ 
-(Accessed: 1 September 2021). 
-Desu, M. M. and Raghavarao, D. (2003) Nonparametric statistical methods for complete and 
-censored data. Philadelphia, PA: Chapman & Hall/CRC. doi: 10.1201/9781482285895. 
-Frenck, R. W., Jr et al. (2021) ‘Safety, Immunogenicity, and Efficacy of the BNT162b2 Covid-19 
-Vaccine in Adolescents’, The New England journal of medicine, 385(3), pp. 239–250. 
-Gazit, S. et al. (2021) ‘Comparing SARS-CoV-2 natural immunity to vaccine-induced immunity: 
-reinfections versus breakthrough infections’, bioRxiv. doi: 10.1101/2021.08.24.21262415. 
-GitHub (2021) fieldbioinformatics: The ARTIC field bioinformatics pipeline. Github. Available at: 
-https://github.com/artic-network/fieldbioinformatics (Accessed: 31 August 2021). 
-Hansen, C. H. et al. (2021) ‘Assessment of protection against reinfection with SARS-CoV-2 
-among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational 
-study’, The Lancet, 397(10280), pp. 1204–1212. 
-Harvey, W. T. et al. (2021) ‘SARS-CoV-2 variants, spike mutations and immune escape’, Nature 
-reviews. Microbiology, 19(7), pp. 409–424. 
-Hoste, L., Van Paemel, R. and Haerynck, F. (2021) ‘Multisystem inflammatory syndrome in 
-children related to COVID-19: a systematic review’, European journal of pediatrics, 180(7), pp. 
-2019–2034. 
-Kopechek, J. A. (2020) ‘Increased ambient noise and elevated vocal effort contribute to airborne 
-transmission of COVID-19’, The Journal of the Acoustical Society of America, 148(5), p. 3255. 
-Linsenmeyer, K. et al. (2021) ‘Cryptic transmission of the Delta variant AY.3 sublineage of 
-SARS-CoV-2 among fully vaccinated patients on an inpatient ward’, bioRxiv. medRxiv. doi: 
-10.1101/2021.08.05.21261562. 
-Lopez Bernal, J. et al. (2021) ‘Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) 
-Variant’, The New England journal of medicine, 385(7), pp. 585–594. 
-Mellis, C. (2021) ‘Children rarely get “long COVID”’, Journal of paediatrics and child health. doi: 
-10.1111/jpc.15708. 
-Mlcochova, P. et al. (2021) ‘SARS-CoV-2 B.1.617.2 Delta variant emergence and vaccine 
-breakthrough’, Research Square. Research Square. doi: 10.21203/rs.3.rs-637724/v1. 
-Office of the Commissioner (2021) Coronavirus (COVID-19) Update: FDA Authorizes Pfizer-
-BioNTech COVID-19 Vaccine for Emergency Use in Adolescents in Another Important Action in 
-Fight Against Pandemic. Available at: https://www.fda.gov/news-events/press-
-announcements/coronavirus-covid-19-update-fda-authorizes-pfizer-biontech-covid-19-vaccine-
-emergency-use (Accessed: 31 August 2021). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
-Perneger, T. V. (2005) ‘The Swiss cheese model of safety incidents: are there holes in the 
-metaphor?’, BMC health services research, 5, p. 71. 
-Pilarowski, G. et al. (2021) ‘Performance Characteristics of a Rapid Severe Acute Respiratory 
-Syndrome Coronavirus 2 Antigen Detection Assay at a Public Plaza Testing Site in San 
-Francisco’, The Journal of infectious diseases, 223(7), pp. 1139–1144. 
-Pipelines R&D, D. N. A. et al. (2020) ‘COVID-19 ARTIC v3 Illumina library construction and 
-sequencing protocol v4’, protocols.io. ZappyLab, Inc. doi: 10.17504/protocols.io.bgxjjxkn. 
-Polack, F. P. et al. (2020) ‘Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine’, The 
-New England journal of medicine, 383(27), pp. 2603–2615. 
-Programa de Vigilancia Genómica, E. P. E. a. C. del C. M. (no date) Programa de Vigilancia 
-Genómica del SARS-CoV-2 realizado por el CoViGen-Mex. Available at: 
-http://mexcov2.ibt.unam.mx:8080/COVID-
-TRACKER/open/reports/2%20de%20Junio%20del%202021.pdf (Accessed: 1 September 
-2021). 
-Rio, D. C. et al. (2010) ‘Purification of RNA using TRIzol (TRI reagent)’, Cold Spring Harbor 
-protocols, 2010(6), p. db.prot5439. 
-Russell, F. M. and Greenwood, B. (2021) ‘Who should be prioritised for COVID-19 
-vaccination?’, Human vaccines & immunotherapeutics, 17(5), pp. 1317–1321. 
-Sheikh, A. et al. (2021) ‘SARS-CoV-2 Delta VOC in Scotland: demographics, risk of hospital 
-admission, and vaccine effectiveness’, The Lancet, 397(10293), pp. 2461–2462. 
-Singh, J. et al. (2021) ‘SARS-CoV-2 variants of concern are emerging in India’, Nature 
-medicine, 27(7), pp. 1131–1133. 
-Stein, R. (2021) ‘Fauci Warns Dangerous Delta Variant Is The Greatest Threat To U.S. COVID 
-Efforts’, NPR, 22 June. Available at: https://www.npr.org/sections/health-
-shots/2021/06/22/1008859705/delta-variant-coronavirus-unvaccinated-u-s-covid-surge 
-(Accessed: 31 August 2021). 
-TRIzolTM Reagent (no date). Available at: 
-https://www.thermofisher.com/order/catalog/product/15596026#/15596026 (Accessed: 31 
-August 2021). 
-World Health Organization (2021) Templates for informed consent forms, Research Ethics 
-Review Committee (ERC). Available at: https://www.who.int/groups/research-ethics-review-
-committee/guidelines-on-submitting-research-proposals-for-ethics-review/templates-for-
-informed-consent-forms (Accessed: 31 August 2021). 
-World Health Organization (no date) ‘Immunization Agenda 2030’. Available at: 
-https://www.who.int/immunization/IA2030_draft_4_WHA.pdf. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3134
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

@@ -1,30 +1,3 @@
-Status: 
-SYMPATHOVAGAL EQUILIBRIUM ANALYSIS IN PATIENTS WITH
-COVID
-Gonzalo Romagnoli, Hector Mario Musacchio, Delfina Godano, María Florencia Cogliano,
-Federico Barbone, Hugo Juan Damián Miño, Florencia Debona
-https://doi.org/10.1590/SciELOPreprints.3038
-Submitted on: 2021-10-07
-Posted on: 2021-10-21 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-SYMPATHOVAGAL EQUILIBRIUM ANALYSIS IN PATIENTS WITH COVID
-Hector Mario Musacchio, Delfina Godano, Federico Barbone, Florencia Debona, Hugo Miño,
-Florencia Cogliano, Gonzalo Romagnoli
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3038
-Powered by TCPDF (www.tcpdf.org)
-AUTHORS:
-Musacchio, Hector M.  CONICET – Hospital J. B. Iturraspe https://orcid.org/0000-0001-6409-725X
-Cogliano, Florencia. Hospital J. B. Iturraspe https://orcid.org/0000-0002-0932-9211
-Miño, Hugo J. D. Hospital J. B. Iturraspe https://orcid.org/0000-0002-4401-4696
-Romagnoli, Gonzalo. Hospital J. B. Iturraspe https://orcid.org/0000-0002-4312-1713
-Debona, Florencia. Hospital J. B. Iturraspe https://orcid.org/0000-0003-4781-0046
-Godano, Delfina. Hospital J. B. Iturraspe – Universidad Nacional del Litoral
-https://orcid.org/0000-0002-4595-5842
-Barbone, Federico. Hospital J. B. Iturraspe https://orcid.org/0000-0003-3407-9733
-Autor de correspondencia:
-email: hector.musacchio@gmail.com
-ABSTRACT:
 Background: At the end of 2019, a hitherto unknown coronavirus was identified in Wuhan (China)
 it was called SARS CoV-2 and the disease caused by it was named COVID-19. With the increase in
 cases an unusual manifestation for this type of virus began to appear: anosmia and dysgeusia, of
@@ -33,6 +6,7 @@ this context, it seems likely that subclinical manifestations of baroreflex invo
 regulation of the baroreflex is carried out by the vegetative nervous system through the balance
 between sympathetic and parasympathetic activity. The objective of this study is to verify whether
 patients with COVID-19 present alteration of this mechanism by means of ECG Holter recording
+
 Material and methods: the study design was cross-sectional, observational, descriptive,
 prospective inclusion and the sampling was non-probabilistic of convenience. Patients were
 included if they had a confirmed diagnosis of COVID-19 admitted to the Internal Medicine Service
@@ -42,6 +16,7 @@ frequency domain using Fourier transform analysis through Kubios. Data are prese
 frequency measures of HRV: low-frequency power (LF), and high-frequency power (HF) and
 normalized unit LFnu, HFnu. Were excluded patients with a diagnosis of diabetes mellitus of more
 than 5 years of evolution, medicated with beta-blockers or with a history of irradiation in the neck
+
 Results: 68 patients were studied. 62% were men 38% were women. The mean age was 48.9 ±
 13.3 years. The median systolic blood pressure (SBP) was 120 mmHg (95 to 170) and the diastolic
 blood pressure (DBP) 80 mmHg (60 -110). The heart rate was 76 ± 13 beats per minute and the
@@ -49,22 +24,23 @@ respiratory rate was 24 (16 to 40). Anosmia was observed in 22% (n = 15) and dys
 = 13). The variables of the analysis in the frequency domain were: LF 135.8 ms2 (13.7 - 2861.7); HF,
 89.04 ms2 (4.14-5234.4), LFnu 57.57 ± 22.39, HFnu 43.18 ± 22.64. LF / HF ratio 2.1 ms2 ± 2.09.
 41.2% (n = 28) of the patients had a high LF / HF ratio (> 2).
+
 Discussion: The high and low frequency components known as HF (High Frequency) representing
 predominantly parasympathetic function, and LF (Low Frequency) which is both sympathetic and
 parasympathetic activity; can be obtained through the analysis in the frequency domain. The
 relationship between these two elements would thus represent the sympatho-vagal balance and is
 expressed as the LF / HF ratio. We observed that 41.2% of the studied patients showed elevated LF
 / HF ratio
+
 Conclusion: The 41.2% of the patients hospitalized with COVID-19 presented with an increase in
 the LF / HF ratio and this result could be interpreted as an alteration in autonomic function.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3038
-Powered by TCPDF (www.tcpdf.org)
-BACKGROUND:
+
 At the end of 2019, a hitherto unknown coronavirus was identified in Wuhan (China), which
 showed unusual characteristics and spread to the entire planet. Due to the predominantly
 pulmonary involvement in its severe forms and its similarities with the microorganism that caused
 the pandemic in 2003, it was called SARS CoV-2 (severe acute respiratory syndrome coronavirus-2)
 and the disease caused by it was named COVID-19.
+
 Already in the early days of the pandemic, increasingly frequent reports of an unusual
 manifestation for this type of virus began to appear: anosmia and dysgeusia. (1) Although the
 mechanism of production of both symptoms is not exactly known, it has been postulated that they
@@ -72,196 +48,91 @@ are due to neurological involvement. There have been also some communications th
 the possible alteration of the autonomic nervous system, with various manifestations such as
 postural tachycardia syndrome with dysautonomia (POTS) (2) orthostatic hypotension, bradycardia
 and syncope (3)
+
 In this context, it seems likely that subclinical manifestations of baroreflex involvement
 occur, a mechanism responsible for 90% of the short-term variability in blood pressure and heart
 rate. The regulation of the baroreflex is carried out by the vegetative nervous system through the
 balance between sympathetic and parasympathetic activity.
+
 If there is an alteration of the baroreflex with a decrease in its sensitivity, this could cause
 difficulties in the diagnosis and treatment of arterial hypertension. Likewise, and if it persists over
 time, it could constitute a cardiovascular risk factor of unknown importance.
+
 Baroreflex can be evaluated by analysis in the time domain: mean of RR intervals, standard
 deviation, RMSSD, etc. Likewise, the analysis of heart rate variability in the frequency domain using
 the Fourier transform is of immense value. In this way, the LH and HF indices are obtained, the
 quotient of which represents the sympathetic vagal equilibrium.
+
 The evaluation of the LF / HF (low frequency / high frequency) ratio in the spectral analysis
 of the heart rate variability is a simple method for the evaluation of the baroreflex mechanism. The
 objective of this study is to verify whether patients with COVID-19 present alteration of this
 mechanism by means of Holter recording.
-keywords: baroreflex, dysautonomia, covid-19, heart rate.
-MATERIALS AND METHODS:
+
 The study design was cross-sectional, observational, descriptive, prospective inclusion and
 the sampling was non-probabilistic of convenience.
+
 Patients were included if they had a confirmed diagnosis of COVID-19 according to the
 clinical, epidemiological and laboratory criteria established by the Argentine Health Ministry (4),
 admitted to the Internal Medicine Service of JB Iturraspe Hospital in Santa Fe city, Argentina, in the
 period from May 10 to July 20, 2021.
+
 Verbal informed consent was obtained to avoid potential exposure to contaminated
 material by the infected patient. Prior authorization was obtained from the hospital Teaching and
 Research Committee. At all times, the research was governed by the guidelines of good clinical
 practice, following the Declaration of Helsinki principles.
+
 An ECG Holter recording was performed at rest for 5 minutes, determining the variables of
 the frequency domain using Fourier transform analysis through Kubios (v.3.0.0 [free version], HRV
 analysis, University of Eastern Finland).
+
 Data are presented for frequency measures of HRV: low-frequency power (LF), and
 high-frequency power (HF) in both ms2 and normalized units and the ratio of LF power to HF
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3038
-Powered by TCPDF (www.tcpdf.org)
 power (LF:HF). The normalized (or normalized unit) spectral indices are defined as LFnu = LF / (LF
 + HF) and HFnu = HF / (LF + HF).
+
 Patients with a diagnosis of diabetes mellitus of more than 5 years of evolution, medicated
 with beta-blockers or with a history of irradiation in the neck were excluded.
+
 The analysis of the results was carried out with the statistical package IBM® SPSS® (23rd
 version). Normality in the distribution of continuous variables was determined using the
 Kolmogorov-Smirnov test. Quantitative variables of parametric distribution were described by
 means and standard deviation and those non-parametric by means of the median and range.
 Qualitative variables were expressed in percentages.
+
 Reference values from the normal population published in the literature were used, with a
 cut-off point greater than 2 considered an alteration in the LF / HF ratio. (5.6)
-RESULTS:
+
 68 patients were studied. 62% were men and 38% women. The mean age was 48.9 ± 13.3
 years. The median systolic blood pressure (SBP) was 120 mmHg (95 to 170) and the diastolic blood
 pressure (DBP) 80 mmHg (60 -110). The heart rate was 76 ± 13 beats per minute and the
 respiratory rate was 24 (16 to 40). Anosmia was observed in 22% (n = 15) and dysgeusia in 19% (n
 = 13).
+
 The variables of the analysis in the frequency domain were: LF 135.8 ms2 (13.7 - 2861.7);
 HF, 89.04 ms2 (4.14-5234.4), LFnu 57.57 ± 22.39, HFnu 43.18 ± 22.64. LF / HF ratio 2.1 ms2 ± 2.09.
 41.2% (n = 28) of the patients had a high LF / HF ratio (> 2).
-Variable
-Mean
-SD
-LFnu
-57,57
-22,39
-HFnu
-43,18
-22,64
-LF/HF(ms2)
-2,1
-2,09
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3038
-Powered by TCPDF (www.tcpdf.org)
-Variable
-Median
-Range
-LF(ms2)
-135,8
-13,7 – 2861,7
-HF(ms2)
-89,04
-4,14 – 5234,4
-DISCUSSION:
+
 The theory that has been proposed to explain the development of neurological symptoms
 in SARS CoV-2 infection is that, due to the action of the virus, an internalization of angiotensin II
 receptors would occur in the solitary tract nucleus, altering baroreflex response.
+
 The high and low frequency components known as HF (High Frequency) representing
 predominantly parasympathetic function, and LF (Low Frequency) which is both sympathetic and
 parasympathetic activity; can be obtained through the analysis in the frequency domain. The
 relationship between these two elements would thus represent the sympatho-vagal balance and is
 expressed as the LF / HF ratio.
+
 We observed that 41.2% of the studied patients showed elevated LF / HF ratio, so we
 interpret that this was due to an imbalance of autonomic function due to increased sympathetic
 activity. We do not know the clinical significance of this finding in the evolution of the disease.
+
 We have not found previous publications that demonstrate the presence of dysautonomia
 through an objective measurement such as that obtained by Holter in this type of patient.
+
 Limitations of this work include the lack of knowledge of LF/HF values prior to infection and
 the absence of controls. In addition, no follow-up has been carried out to know the permanence of
 this alteration over time.
-CONCLUSION:
+
 Through the analysis of a 5-minute Holter recording, it was found that 41.2% of the
 patients hospitalized with COVID-19 presented with an increase in the LF / HF ratio, and this result
 could be interpreted as an alteration in autonomic function.
-DECLARATION OF CONFLICTS OF INTEREST:
-The authors indicate that they have no conflict of interest for this article.
-AUTHORS CONTRIBUTIONS:
-Hector Mario Musacchio: Conceptualization, methodology, formal analysis, investigation,
-resources, writing original draft preparation, supervision, project administration.
-Delfina
-Godano:
-conceptualization,
-investigation,
-resources,
-writing
-original draft
-preparation, supervision, project administration
-Federico Barbone: Formal analysis, investigation, writing review and editing.
-Florencia Debona: Investigation, visualization.
-Hugo Miño:  Investigation, visualization.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3038
-Powered by TCPDF (www.tcpdf.org)
-María Florencia Cogliano: Investigation.
-Gonzalo Romagnoli: Investigation.
-Bibliography:
-1)
-Lechien JR, Chiesa et al. Olfactory and gustatory dysfunctions as a clinical presentation of mild-to-moderate
-forms of the coronavirus disease (COVID-19): a multicenter European study. Eur Arch Otorhinolaryngol. 2020
-Aug;277(8):2251-2261.
-2)
-Madeleine Johansson et al. Long-Haul Post–COVID-19 Symptoms Presenting as a Variant of Postural
-Orthostatic Tachycardia Syndrome: The Swedish Experience, JACC: Case Reports, volume 3, Issue 4, Pages
-573-580, 2021.
-3)
-Canetta C et al. Syncope at SARS-CoV-2 onset due to impaired baroreflex response. medRxiv. 2020;
-4)
-Goldstein DS et al. The extended autonomic system, dyshomeostasis, and COVID-19. Clinical Autonomic
-Research. 2020;1-17.
-5)
-https://www.argentina.gob.ar/salud/coronavirus-COVID-19/definicion-de-caso.
-6)
-Gerritsen J, et al. Measures of cardiovascular autonomic nervous function: agreement, reproducibility, and
-reference values in middle age and elderly subjects. Diabetologia. marzo de 2003;46(3):330-8.
-7)
-Agelink MW, et al. Standardized tests of heart rate variability: normal ranges obtained from 309 healthy
-humans, and effects of age, gender, and heart rate. Clin Auton Res Off J Clin Auton Res Soc. abril de
-2001;11(2):99-108.
-8)
-Balgobin B et al. Presentation, Causes, and Hemodynamic Features of Acquired Afferent Baroreflex Failure
-(4451). AAN Enterprises; 2020.
-9)
-Mao L et al. Neurological manifestations of hospitalized patients with COVID-19 in Wuhan, China: a
-retrospective case series study. MedRxiv. 2020;
-10) Whittaker A et al. Neurological manifestations of COVID-19: a systematic review and current update. Acta
-Neurologica Scandinavica. 2020;142(1):14-22.
-11) Ghannam M et al. Neurological involvement of coronavirus disease 2019: a systematic review. Journal of
-neurology. 2020;1-19.
-12) Aghagoli G et al. Neurological involvement in COVID-19 and potential mechanisms: A review. Neurocritical
-care. 2020;1-10.
-13) Ellul MA et al. Neurological associations of COVID-19. The Lancet Neurology. 2020;
-14) Barizien N, Le Guen M, Russel S, Touche P, Huang F, Vallée A. Dysautonomia in post-COVID-19 patients: new
-insights. 2021;
-15) Beghi E et al. COVID-19 infection and neurological complications: present findings and future predictions.
-Neuroepidemiology. 2020;54(4):1-6.
-16) Edmonston et al. Coronavirus disease 2019 and hypertension: the role of angiotensin-converting enzyme 2
-and the renin-angiotensin system. Advances in Chronic Kidney Disease. 2020;27(5):404-11.
-17) Zangbar HS et al. A review on the neurological manifestations of covid-19 infection: a mechanistic view.
-Molecular neurobiology. 2021;58(2):536-49.
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
-License.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3038
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

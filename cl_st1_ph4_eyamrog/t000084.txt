@@ -1,30 +1,3 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/1678-460x202238252396
-Using the Community of Inquiry framework to analyze emojis
-as an emerging language in an online educational experience
-via WhatsApp
-Jennifer L. Reeves, Glenda A. Gunter, Junia Braga, Marcos Racilan
-https://doi.org/10.1590/1678-460x202152396
-Submitted on: 2021-11-09
-Posted on: 2021-11-10 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
- https://doi.org/10.1590/1678-460x202152396 
- 
- 
-Using the Community of Inquiry framework to analyze emojis as an emerging language 
-in an online educational experience via WhatsApp 
- 
-Usando o modelo de Comunidade de Conhecimento para analisar emojis como 
-linguagem emergente em experiências educacionais via WhatsApp 
- 
-Jennifer L. Reeves1 
-Glenda A. Gunter2 
-Junia Braga3 
-Marcos Racilan4 
- 
-Abstract 
 With the ever-growing interest in WhatsApp as a social space to accommodate pedagogical 
 initiatives, the role of emojis as an emergent Internet language in this social space needs to be 
 better understood as mobile technologies have been integrated in education. With that in 
@@ -38,53 +11,17 @@ elements for successful online educational experiences and assumes learning occu
 the interaction of three core elements: social, cognitive and teaching presences. The findings 
 show that emojis can effectively be used to support teaching, cognitive, and social presences. 
 The high frequency of emojis seem to be both culturally situated and gender related. 
-Keywords: Community of Inquiry, emoji usage, mobile learning, WhatsApp. 
- 
-1 Nova Southeastern University, Fort Lauderdale, FL - USA. Orcid: https://orcid.org/0000-
-0002-5494-3990. E-mail: jennreev@nova.edu. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-2  University of Central Florida, Orlando, FL - USA. Orcid: https://orcid.org/0000-0002-6441-
-4814. E-mail: glenda.gunter@ucf.edu. 
-3 Federal University of Minas Gerais (UFMG), Belo Horizonte, MG - Brazil. Orcid: 
-https://orcid.org/0000-0002-8450-2061. E-mail: juniabraga@ufmg.br. 
-4 Federal Center for Technological Education of Minas Gerais (CEFET-MG), Belo Horizonte, MG - 
-Brazil. Orcid: https://orcid.org/0000-0002-0382-2443. E-mail: marcosracilan@cefetmg.br. 
- 
-Resumo 
-Com o interesse crescente pelo uso do WhatsApp como espaço social para iniciativas 
-pedagógicas, o papel dos emojis como língua emergente nesse espaço precisa ser melhor 
-entendido considerando a integração de tecnologias móveis na educação. Com isso em mente, 
-este artigo relata um estudo que empregou uma metodologia mista e visou identificar: os 
-emojis usados para apoiar presenças cognitiva, instrucional e social em um curso de formação 
-de professores via WhatsApp; as atitudes dos participantes em relação ao uso de emojis e a 
-relação de idade e gênero com esse uso. Os dados gerados a partir das interações dos 
-professores via WhatsApp foram analisados e discutidos com base no Modelo Comunidade de 
-Conhecimento de Garrison et al. (1999). Essa estrutura conceitual identifica elementos 
-cruciais para experiências educacionais online de sucesso e assume que a aprendizagem 
-ocorre por meio da interação de três elementos centrais: presenças social, cognitiva e 
-instrucional. Os resultados mostram que os emojis podem ser usados com eficácia para apoiar 
-essas presenças. A alta frequência de emojis parece ser culturalmente situada e relacionada ao 
-gênero. 
-Palavras-chave: Comunidade de Conhecimento, uso de emoji, aprendizagem móvel, 
-WhatsApp. 
- 
-1. Introduction 
- 
+
 The Internet has transformed the way we communicate. The addition of the Web and digital 
 technologies has spawned the emergence of a language phenomenon in online 
 communication, something genuinely different from other communication modes, which 
 includes − ‘speech + writing + electronically mediated properties’ (Crystal, 2004, p. 48). 
 Initially different types of language appeared in asynchronous communication, such as 
 emoticons (short for emotion icon) to express one’s feelings or mood − :-) for happy, and :-( 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 for sad, today’s technological advances have enabled the creation of emojis, widely used in 
 social media and interactions via SMS, Messenger, and mobile applications like WhatsApp, to 
 express feelings and other forms of meanings. 
- 
+
 The term emoji combines Japanese terms and many feel the resemblance to the English words 
 emotion and emoticon is purely coincidental, however, like many words in various languages, 
 there may be connections. The first emoticon, the humble smiley :-) was used in 1982 in a 
@@ -94,7 +31,7 @@ images were designed for use on mobile devices to express emotions in text commu
 Their popularity grew quickly and spread around the world as a form of communication and 
 visual cues in the digital culture. Since face-based emojis were created, the library of emojis 
 has grown with the introduction of animals, food, and other pictures (Alshenqeeti, 2016). 
- 
+
 As Paiva (2016) points out, informal written language is becoming increasingly multimodal. 
 For Paiva, who identified and analyzed emojis in social media, the use of emojis can be 
 understood as an attempt to convey meaning economically in certain interactions. The 
@@ -111,23 +48,20 @@ communication. Their research looked at specific use of emoji’s based on gende
 found female participants were more likely to use expressive emoticons more often than male 
 participants and overall were more likely to use emoticons during direct interactions with 
 others. 
- 
+
 Since being introduced to the market in 2009, WhatsApp’s popularity has continued to grow. 
 If in its infancy the app was primarily used for communication, it has proved to be a tool that 
 can be used to mediate educational experiences. The ubiquitous and mobile nature of the app, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 coupled with its features for creating and sharing oral, written and multimedia content, 
 replying and forwarding posts has piqued the interest of teachers, especially in the language 
 context, to integrate this tool into teaching and learning. 
- 
+
 With the ever-growing usage of WhatsApp as a social medium to entertain pedagogical 
 initiatives, the role of emojis in communication channels needs to be better understood if we 
 are to integrate mobile devices and apps in the educational context. This is important because 
 emojis can yield insights into both the evolution of learning communities in education and the 
 role of non-verbal and multimodal texts in online education experiences via mobile devices. 
- 
+
 One of the most influential studies on the quality of online learning was Garrison, Anderson, 
 and Archer’s (1999) Community of Inquiry (CoI) Model. Their framework aimed to identify 
 key elements for a successful text-based communication in online courses, with the 
@@ -137,7 +71,7 @@ of emoticons in forum interactions, identifying the role of emerging languages i
 experiences via mobile devices may contribute to the discussions regarding online 
 communication. Researchers have continued to analyze different forms of communication in 
 online learning using the CoI model (Micsky & Foels, 2019; Rath, 2012). 
- 
+
 Drawing on the CoI model, the purpose of this embedded correlational study is threefold: a) 
 discover what types of emojis are used to support cognitive, teaching, and social presences in 
 an 8-week continuing education course on the use of mobile devices and application via 
@@ -145,27 +79,22 @@ WhatsApp; b) determine how participants’ attitudes relate to the use of emojis
 teaching, and social presences during this course; and c) determine how participants’ age and 
 gender relate to and potentially explain their emoji use. With this purpose in mind, this paper 
 presents a brief overview of the Community of Inquiry (CoI) Model. 
- 
-2. The Community of Inquiry (CoI) 
- 
+
 According to Garrison et al. (1999), “Cognitive presence is a vital element in critical thinking, a 
 process and outcome that is frequently presented as the ostensible goal of all higher education.” 
 (p. 93). This presence can be identified in asynchronous written communication when students 
 are exchanging information, connecting ideas, and applying new concepts. According to 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 Garrison et al., cognitive presence is one of the essential elements in the CoI framework that 
 are developed through the connections of the participants to construct meaning through 
 sustained communication. 
- 
+
 Social presence is defined by Garrison et al. (1999) as “the ability of participants in a 
 community of inquiry to project themselves socially and emotionally, as ‘real’ people (i.e., 
 their full personality), through the medium of communication being used” (p. 94). Emotion 
 expressions, risk-free expression, encouraging group cohesion, acknowledging others, and 
 encouraging collaboration are some of the indicators of social presence in online text-based 
 communication as can be seen in Table 1. 
- 
+
 An essential characteristic of creating social presence in face-to-face settings is visual cues 
 that individuals express. In online environments, individuals often have never communicated 
 in person, which can create challenges in establishing social presence. Kuehn (1993) and 
@@ -173,7 +102,7 @@ Walther (1994) described ways participants create a connection through the use o
 or other symbols to add affective elements in computer-mediated conversations. These 
 resources helped establish social presence and added emoticons to the online experience (Bai, 
 Dan, Mu, & Yang, 2019). 
- 
+
 According to Garrison and Arbaugh (2007), research on the role of student group cohesiveness 
 and interaction in team effectiveness suggests a strong relationship between social presence and 
 learning outcomes. The authors, based on investigations conducted by Molinari (2010), Celani 
@@ -181,7 +110,7 @@ and Collins (2005), and Beuchot and Bullen (2005), also claim that social presen
 foundation for cognitive presence (Whiteside, 2015). Findings in recent studies, such as 
 d’Alessio et al. (2019) and Rolim et al. (2019), also reveal that social presence has strong links 
 with cognitive presence. 
- 
+
 Garrison et al. (1999) claim that appropriate cognitive presence and social presence are 
 dependent upon the presence of a teacher whose role includes defining and initiating discussion 
 topics, building understanding, among other things. Based on peer-facilitation techniques, a 
@@ -189,47 +118,27 @@ study by Chen, Lei, and Cheng (2019) revealed that teacher presence may affect t
 cognitive presence in online classes. The intervention of peer facilitators during the course, 
 especially when asking questions of a specific type, affected the level of cognitive presence. 
 For Braga (2007), the facilitation of discussions can also have a distributed character in online 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 educational experiences as course participants may facilitate discussions that involve, for 
 example, encouraging discussions, identifying points of convergence and divergence, and 
 proposing new ideas, a role generally played by a teacher. 
- 
+
 As the model has been well received by scholars and educators to evaluate cognitive, social, 
 and teaching presences, and acknowledges different language manifestations such as 
 emoticons, it is our understanding that it can be used to analyze the meaning of emojis in 
 interactions that occur during online educational experiences via WhatsApp. 
- 
-3. Method 
- 
-Participants 
- 
+
 The research context was an 8-week continuing education course focusing on the use of 
 mobile devices in language learning. This course, part of a project from the School of Letters 
 of a prestigious university in Brazil, was offered to K-12 in-service English teachers from 
 different parts of the country. Due to the high number of teachers enrolled (N = 227), six 
 groups were formed and mediated simultaneously. 
- 
-Figure 1 shows the locations of the research participants when they took part in the course. 
- 
-Figure 1 – Location of the Participants 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Note. Created by the authors with pt.batchgeo.com. Retrieved from 
-https://pt.batchgeo.com/map/dc97f2471e0e465c02cb799b97cb383b 
- 
+
 As can be seen on the map, the highest number of participants are from the South East and the 
 North East regions of the country. It is worth mentioning the potential of mobile applications, 
 especially WhatsApp, to both reach and gather people from different locations. In a 
 continental size country like Brazil, it was possible for people from urban and rural areas to 
 participate in the course on mobile learning. 
- 
-Instrument 
- 
+
 All participants were given a 10-question presurvey prior to beginning the course. The 
 presurvey consisted of four demographic questions (i.e., name, location, age, gender) and six 
 5-point Likert scale questions on participants’ attitudes towards the use of mobile devices for 
@@ -240,12 +149,7 @@ Learning Survey, originally adapted by Gunter and Reeves (2017) to examine teach
 attitudes towards online professional development embedded with mobile learning. Internal 
 consistency reliability for the attitude questions were acceptable (r = .70 for presurvey items 
 and r = .77 for post survey items (Gunter & Reeves, 2017). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Design 
- 
+
 This study employed an embedded correlational mixed methods design. According to 
 Creswell and Plano Clark (2018), an embedded approach is used when both quantitative and 
 qualitative data collection and analysis are combined with a traditional quantitative (or 
@@ -260,34 +164,26 @@ participants’ attitudes based on pre and post survey responses. Additionally, 
 was correlated to their emoji use to determine if age influenced emoji use. Finally, emoji use 
 was compared for male and female participants to determine if gender had a significant 
 impact on participants’ emoji use. The following research questions guided this study: 
- 
+
 a) What types of emojis are used to support cognitive, teaching, and social presences in an 8-
 week continuing education course on the use of mobile devices and application via 
 WhatsApp? 
- 
+
 b) How do participants’ attitudes relate to the use of emojis for cognitive, teaching, and social 
 presences during this course via WhatsApp? 
- 
- 
+
 c) How do participants’ age and gender relate to and potentially help explain their emoji use? 
- 
-Procedures 
- 
+
 At the beginning of the course all participants were given the presurvey to measure their 
 attitudes towards mobile devices, as well as a demographic questionnaire. The course was 
 then carried out over an 8-week period and mediated via WhatsApp. The tasks relied on the 
 following pillars: i) familiarization with different mobile apps - WhatsApp functions 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 (location, audio, text message etc.), and recognition of genres circulating in mobile platforms 
 - selfies, memes, among others; ii) material development based on the functionalities of 
 mobile devices, such as cameras, GPS, among others; and iii) discussions on approaches that 
 may be incorporated to m-learning. At the end of the 8 weeks all participants were given the 
 post survey to measure their attitudes towards mobile devices. 
- 
-Data Analysis 
- 
+
 Upon completion of the 8-week course, transcripts from each group were downloaded from 
 WhatsApp into an Excel spreadsheet. The written interactions were used as contexts in the 
 analyses of the emojis to help categorize them as instances of cognitive, teaching, or social 
@@ -298,47 +194,7 @@ was taking place the moment it was posted. The coding of the interactions in the
 (Group 1- 1962 posts, Group 2 - 1895 posts, Group 3 - 1180 posts, Group 4 -1436 posts, 
 Group 5 -1303 posts, Group 6 - 1492 posts) were then verified by two of the authors of this 
 article. 
- 
-Table 1 – Community of Inquiry Coding Template 
- 
-Elements 
-Categories 
-Indicators (examples only) 
-Cognitive Presence 
-Triggering Event 
-Sense of puzzlement 
-  
-Exploration 
-Information exchange 
-  
-Integration 
-Connecting ideas 
-  
-Resolution 
-Apply new ideas 
-Social Presence 
-Emotional Expression 
-Emotions 
-  
-Open Communication 
-Risk-free expression 
-  
-Group Cohesion 
-Encouraging collaboration 
-Teaching Presence 
-Instructional Management 
-Defining and initiating discussion topics 
-  
-Building Understanding 
-Sharing personal meaning 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-  
-Direct Instruction 
-Focusing discussion 
-Note. Retrieved from Garrison et al. (1999, p. 89). 
- 
+
 Upon completion of the coding, it was discovered that 117 unique emojis were used by the 
 participants during the 8-week course. In order to answer the first research question and 
 determine the types of emojis used to support cognitive, social, and teaching presence that 
@@ -355,7 +211,7 @@ Upon completion, a total of 2,079 emojis were used across the groups to represen
 teaching, and social presence during the course. Emoji clouds were created to visually present 
 the data. Additionally, rich descriptions from the text (WhatsApp course interactions) were 
 included to support how the various emojis were used to support each presence.  
- 
+
 In order to answer the second research question, how do participants’ attitudes relate to their 
 emoji use, Spearman Rho analyses were conducted on participants’ posttest scores and emoji 
 use. Unfortunately, only 61 participants completed both the pretest (including the 
@@ -364,14 +220,9 @@ use for these 61 participants to answer the second two research questions. To an
 research question, how do age and gender relate to and help explain emoji use, spearman rho 
 analyses were conducted on age and emoji use and independent samples t tests were 
 conducted with gender as the IV and emoji use as the DV. 
- 
-4. Results and Discussion 
- 
+
 To determine the types of emojis used to support cognitive, teaching, and social presences, 
 frequency distributions were conducted on each emoji type across all presences. The results 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 are presented in Appendix A. Overall, the most frequently used emojis across all three 
 presences, cognitive, teaching, and social, were the Clapping Hands emoji    (n = 287 
 times), the Winking Face emoji    (n = 251 times), Thumbs-Up emoji    (n = 139 times), 
@@ -381,7 +232,7 @@ emoji    (n = 120 times), the Smiling Face emoji
 Smiling Eyes and Hearts emoji    (n = 111 times), and the Rolling On The Floor Laughing 
 emoji    (n = 41 times; see Appendix A for the frequencies for each type of emoji used by 
 participants).  
- 
+
 Table 2 presents the original meaning of the most frequently used emojis found in the 
 interactions during the continuing education course. The meaning of the emojis that were used 
 most frequently in cognitive presence, teaching presence, and social presence were included 
@@ -390,50 +241,7 @@ presence, there were other emojis (i.e.,   : n = 77;   : n = 71;    : n = 59,   
 n = 56;   : n = 47) that were used more frequently than the Rolling On The Floor Laughing 
 emoji   , but did not appear as one of the most frequently used emojis for cognitive, 
 teaching, or social presence and therefore was not included in Table 2). 
- 
-Table 2 – Description of the Most Frequently Used Emojis by Participants 
- 
-Emoji 
-Name and description 
- 
-Clapping Hands 
-Two hands clapping. Expression of hurray, applause, bravo, very well done or being 
-in agreement. 
- 
-Winking Face 
-Facial gesture of winking. Expression of humor, approval, appreciation, and 
-understanding.  
- 
-Thumbs-Up 
-Hand with thumb turned up. Stands for approval, agreement and commitment. Can 
-mean well done or liking. 
- 
-Face With Tears of Joy 
-Big grin, uplifted eyebrows, and smiling eyes shedding tears. Funny, giggling, 
-pleasing, or something unbelievably humorous that makes us cry laughing. 
- 
-Smiling Face With Smiling Eyes 
-Shy and embarrassed grin. The red cheeks are expressing joy. Represents happiness 
-and positivity.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Smiling Face 
-Shy grin with eyebrows. Communicates a broad range of warm and positive feelings, 
-including satisfaction, gratitude and affection. 
- 
-Smiling Face With Smiling Eyes and Hearts 
-Romantic emoji commonly used to express warm fuzzy feelings or uplifted mood. 
-Can also express a feeling of love or being in love.  
- 
-Rolling On The Floor Laughing 
-Smiley face laughing out of control. Something is so funny that we roll on the floor. 
-Can represent very interesting and extremely humorous, and entertaining.  
-Note. Adapted descriptions by the authors, source https://www.emojimeanings.net/ 
- 
-Cognitive presence 
- 
+
 To determine what type of emojis were used to support cognitive presence, frequency 
 distributions were conducted on all interactions. Results illustrated that for cognitive presence, 
 the Clapping Hands emoji    was the most frequently used emoji (n = 105 times), followed 
@@ -446,115 +254,35 @@ Joy emoji    (n = 33 times), Slightly Smiling Face emoji    (n = 71), and Smilin
 with Heart-Eyes emoji    (n = 24 times; see Appendix A). The data is visually displayed as 
 an emoji cloud in Figure 2. The emoji cloud is a visual of all the types of emojis used; the 
 larger the emoji, the more frequently it was used by participants. 
- 
-Figure 2 – Types of Emojis Used to Support Cognitive Presence 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Note. Word cloud created by the authors on worditout.com. Retrieved from 
-https://worditout.com/word-cloud/4345794 
- 
+
 As stated in the analysis, the Clapping Hands emoji    was the most frequently used emoji to 
 support cognitive presence. To understand how emojis were used to support cognitive 
 presence, rich descriptions from the text (i.e., WhatsApp course interactions) are included. 
 Below is an interaction in Group 2 (coded as integration), where this emoji was used by 
 Participant C after his peers inspired him to create his own class materials. 
- 
-Participant A: I would use either selfies or braggies with new classes, as ice-
-breakers, so they can know each other. But I loved all the ideas people! They're 
-super doable! ❤ 
-Participant B: For sure! 
-Participant C: Those are great ideas. I have never worked with selfies and braggies 
-but now I am looking forward to it!                
-Participant C: As I work with technical courses, I usually teach Ss who take 
-photography related disciplines. We use their photographs of our city to work 
-descriptions and directions. But now, I'll love to work with the selfies! 
-                   
- 
+
 The second example shows a discussion on the use of GPS for pedagogical purposes in Group 
 3. Participant B adds his ideas to the topic and also gives positive feedback to Participant A’s 
 suggestions on how to integrate the GPS in the classroom. Participant B uses both the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 Smirking Face With Starry Eyes emoji    and the Clapping Hands emoji    to support 
 cognitive presence. These emojis illustrate the connection of ideas during these discussions. 
- 
-Participant A: “Besides the great ideas already given, I believe we could also try a 
-cross curricular approach, or even a CLIL class, teaching cartography and scale, 
-which are Geography topics, in English. Apps [such as] Google Maps, GPS location 
-and Google Earth would make the experience much more instigating and real. 
-Students could also draw maps and places found in the city on different scales, 
-which would require some artistic and math skills as well.” 
-Participant B: “It's possible to include History, art history, biology and others, 
-depending on the project we'd like to develop.” 
-Participant B: “          ” 
-Participant A: “Of course! They could analise how things have changed along the 
-years: the streets, traffic signs, buildings’ facades, vegetation. The human action 
-affecting urban and rural environments... Even writing production could be 
-explored.” 
- 
+
 In Group 6, the use of emojis such as Clapping Hands, Smiling Face and Thumbs-Up shows 
 Participant B’s appreciation for the discussions on how to raise awareness of fake news in the 
 language classroom as well as his intention to apply these new ideas in class. These were 
 coded as an indicator of the category resolution in CoI. 
- 
-Participant A: “I would talk to students about the importance of checking if they 
-can trust every text they find on the internet or even facebook, instagram or 
-whatsapp groups messages. I'd send them some texts and provide a material which 
-could help them to identify fake news and ask them to analyze those texts.  
-Participant B: “I loved your strategy       ” 
-Participant B: “I’d do the same as you. Actually I’ll plan a lesson following your 
-idea and I’ll share my experience here later. I haven’t taught anything about fake 
-news yet, so it’s gonna be my first attempt.
-  ” 
- 
+
 Different cognitive manifestations were identified in all six groups throughout the course and 
 appeared to sustain communication during the course, as shown in the examples in Table 3, be 
 they to trigger an event by clarifying any confusions, exploring different experiences and 
 information, integrating ideas from situated contexts throughout the flow of interactions, and 
 incorporating new ideas in their teaching practices. 
- 
-Table 3 – Cognitive Manifestations in the Groups 
- 
-Indicators 
-Excerpts from course interactions 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-Sense of 
-puzzlement 
-“Are we going to learn how to make videos like this? Is it possible?   ” (Group 
-3) 
-Information 
-Exchange 
-“I suppose they love to do It. Compare with us! Everyone here so happy sharing 
-our experience here  ” (Group 1) 
-“awesome idea   I’ll try this out!” (Group 6) 
-Connecting  
-ideas 
-“I think that would be cool the students make a tour by the city and take selfies 
-in monuments, interesting places as a presentation of our homeland to a 
-stranger. "Bora" value our culture!❣” (Group 5) 
-“As I work with technical courses, I usually teach Ss who take photography 
-related disciplines. We use their photographs of our city to work descriptions 
-and directions. But now, I'll love to work with the selfies! 
-                  ” (Group 2)  
-Apply new 
-ideas 
-“In this case, in public School, that some of them didn't have smartphone even 
-internet. What did I do? I print some balloons like a model of smartphone. 
-Then they create a dialogue between them  ” (Group 1) 
- 
+
 The connection of ideas, the exchange of information, and the new ideas to be applied in the 
 language classroom that emerged from these interactions reveal not only evidence of 
 construction of meaning, but also the potential of WhatsApp to mediate educational 
 experiences. 
- 
-Teaching presence 
- 
+
 Frequency distributions were conducted on all interactions to determine what type of emojis 
 were used to support teaching presence. To represent teaching presence, the most frequently 
 used emojis were Winking Face emoji    (n = 56 times), Clapping Hands emoji    (n = 29 
@@ -564,16 +292,7 @@ Eyes emoji    (n = 13 times), Smiling Face with Hearts emoji    (n = 12 times), 
 Face with Heart-Eyes emoji    (n = 12 times), Backhand Index Pointing Up emoji    (n = 
 12 times); and Face Blowing a Kiss emoji    (n = 10 times; see Appendix A). The data is 
 visually displayed as an emoji cloud in Figure 3. 
- 
-Figure 3 – Types of emojis used to support Teaching Presence 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Note. Word cloud created by the authors on worditout.com. Retrieved from 
-https://worditout.com/word-cloud/4346141 
- 
+
 As interactions via WhatsApp are instant and allow on-demand response, teaching presence 
 was manifested not only by the teachers, but also by course participants who were available 
 and who felt comfortable contributing. During the course, the Mobile Phone emoji    was 
@@ -582,7 +301,7 @@ course participants identify the teachers’ post, tasks, or interventions to bu
 a type of digital genre. As this emoji served as a pedagogical strategy and did not emerge 
 from the interactions in the course, it was not coded as teaching presence and not analyzed as 
 such. 
- 
+
 As shown in the data analyses and in the cloud maps, different types of emojis were identified 
 as teaching presence. The Winking Face emoji    was often used to minimize the impact of 
 interventions such as confirming and understanding a task, encouraging participants’ 
@@ -590,90 +309,30 @@ contributions, keeping the focus of discussions on the task, etc. The following 
 illustrates how this emoji was used to encourage participants’ contributions in Group 1. It can 
 also be seen that the Smiling Face emoji    was used to acknowledge participants' 
 contributions. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-Teacher A: “  Hi everyone! You have created and shared great memes! If you 
-haven't sent your meme, we are looking forward to it!    ” 
-“Send an audio message describing the meme/GIF you have chosen. It's great to see 
-your comments on your peers' reviews   .” 
-“Make sure you write an informative one so that your peers feel like commenting. 
-  ” 
- 
+
 The next example demonstrates that oftentimes the course participants played the role of a 
 teacher in the course. In the following post from Group 3, Participant B even ‘copied’ the 
 Mobile Phone emoji    used by teachers to suggest apps and articles for the task. B also 
 included the Up Pointing Index emoji    and the Smiling Face emoji    in his posts to 
 encourage his peer to develop the task. 
- 
-Participant A: “Sorry, I don’t know how to create memes      ” 
-Participant B: “   *Meme:* 
-http://makeameme.org/  https://imgflip.com/memegenerator [...] 
-*Animated GIF:* 
-https://giphy.com/ [...] 
-When you’re finished, copy the ‘GIF link’ on WhatsApp!_ 
-Read the article “How-memes can make lessons interesting” 
-U can use it    
-   I've done it n' really worked” 
- 
+
 As was the case with the discussions on the intertwining of both cognitive and social 
 presence, interactions identified as teaching presence were also marked by the presence of 
 emojis. These emojis facilitated the interventions of both teachers and tutors as well as the 
 participants' own intervention initiatives. 
- 
+
 Teaching and instructional manifestations, although mainly initiated by the teachers and 
 tutors, as seen in Table 4, were also identified in interactions posted by course participants. 
 These manifestations happened during instructional management, meaning construction, and 
 direct instruction. 
- 
-Table 4 – Teaching Manifestations in the Groups 
- 
-Indicators 
-Excerpts from course interactions 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-Defining and 
-initiating 
-discussion topics 
-“I think you have added me to 2 groups    
-Can I pls stay in just one?” (Group 1) 
-“hi y'all! I'm not a digital game player myself so I think that resources 
-related to entertainment (vernacular) games such as reviews, narratives, 
-walkthrough, etc can be a way to integrate games in the classroom. What 
-do you think of this strategy  ?” (Tutor’s post in group 4) 
-Sharing personal 
-meaning 
-“Participant A: I'll start teaching about places and giving directions now and 
-you have given me a nice idea to work with my students. This can be done 
-using google maps as well, right? Students can write reviews about places 
-they have gone. 
-Participant B: I had the same idea.   ” (Group 6) 
-“[participant’s name], I also had the opportunity to work with a deaf student 
-some years ago. Exploring multimodal and digital resources was very 
-effective to engage him with the classes and classmates. I believe going 
-digital with our practice can be a way of real integration and not just 
-creating special and different materials for one student. Nowadays, there 
-are many websites with ideas and activities. I can send you later.” (Tutor’s 
-post in group 1) 
-Focusing  
-discussion 
-“Guys, let's think about what a good review should contain... It is different 
-from a comment..      check the example on the posts!” (Tutor’s post 
-in group 4) 
-“Make sure you write an informative one so that your peers feel like 
-commenting.   ” (Tutor’s post in group 5) 
- 
+
 Throughout the posts, social presence led participants to feel comfortable playing the role of 
 teacher, something quite positive in a social environment such as WhatsApp, in which the 
 dynamicity and the number of messages often call for a participant available at any time to 
 step up, as can be seen in the excerpts above. Structuring and facilitating class management 
 and instruction shows that social presence plays an important role supporting teaching 
 presence. 
- 
-Social presence 
- 
+
 To determine what type of emojis were used to support social presence, frequency 
 distributions were conducted on all interactions. To support social presence, the most 
 frequently used emoji were the Winking Face emoji    (n = 158 times) and the Clapping 
@@ -682,66 +341,14 @@ With Tears of Joy emoji    (n = 68 times), Smiling Face With Smiling Eyes emoji 
 64 times), Smiling Face emoji 
  (n = 60 times), Smiling Face with Hearts emoji    (n = 59 
 times), Smiling Face with Heart-Eyes emoji    (n = 41 times), Slightly Smiling Face emoji 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
    (n = 40), Face Blowing a Kiss emoji    (n = 35 times), Beaming Face with Smiling Eyes 
 emoji    (n = 31 times), and Grinning Face emoji    (n = 31 times; see Appendix A). 
 Please see Figure 4 for a visualization of the emoji cloud. 
- 
-Figure 4 – Types of Emojis Used to Support Social Presence 
- 
- 
-Note. Word cloud created on worditout.com.  
-Retrieved from https://worditout.com/word-cloud/4345830 
- 
+
 Social and affective manifestations such as emotion expression, humor, greetings, and 
 acknowledgement of others were identified in all six groups throughout the course and 
 appeared to create a community atmosphere as demonstrated in the examples below. 
- 
-Table 5 – Social and Affective Manifestations in the Groups 
- 
-Indicators 
-Excerpts from course interactions 
-Emotion 
-expressions 
- 
-“After a busy day... a little messed up  I am [participant`s name] and I am 
-part of Taba's team.” (a tutor’s post in group 4) 
-“I’m answering the activities.   ” (Group 3) 
-“I guess we first have to fulfill the expectations for the previous task  ” 
-(Group 5) 
-Humor  
- 
-“I’m feeling like a zombie    ♂ !  ” (a tutor’s post in group 1) 
-“Lucky u it was on this day...    Just kiddin'” (Group 3) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-“Remember! I'm 55 years old            ” (Group 1) 
-Greetings  
- 
-“Glad to meet you too    ” (Group 3) 
-“Good night to all of you! I'm sleepy. God bless you! See them tomorrow! 
-        ” (Group 5) 
-“Happy easter, everyone!     ” (Group 2) 
-Acknowledging 
-others 
- 
-“  Congrats for being the first one to post your        ” (a tutor’s post in 
-group 5) 
-“Thanks [participant`s name]for helping me    ” (Group 3) 
-“Great presentation!!!     ” (Group 1) 
-“U can use it   ” (Group 3) 
-Group cohesion 
- 
- 
-“We are together   ” (Group 3) 
-“Hi, [participant’s name]! I'm glad you're here, buddy!     ” (a tutor’s post 
-in group 1) 
-“Kicking off the ball.    Getting ready to start working! A blessed Wednesday 
-for you all!   ” (Group 1) 
- 
+
 The findings regarding the high number of emojis coded as social presence seem to reveal a 
 trait of the Brazilian culture. Brazilians are locally and internationally known for having a 
 very joyful, affectionate, and friendly nature. Instances of a great number of Red Heart emoji 
@@ -749,7 +356,7 @@ very joyful, affectionate, and friendly nature. Instances of a great number of R
 emoji 
   shown in Figure 4, although more frequent in the interactions coded as social 
 presence, were also identified in the interactions coded as cognitive and teaching presences.  
- 
+
 Another point that has contributed to the high frequency of emojis identified as social 
 presence is that WhatsApp is an application that allows almost real time replies as users can 
 answer messages instantly. This feature of WhatsApp may have been used to signal that the 
@@ -757,19 +364,14 @@ participants were following the course of interactions, often using short messag
 or only emojis as teachers are always on go. As Pegrum (2014) claims, the essence of mobile 
 learning happens on demand or just in time interactions that are usually combined with 
 brevity and not too much or too little information. 
- 
+
 The use of emojis in interactions via WhatsApp seems to  corroborate Paiva’s (2016) idea that 
 “the increasing use of emojis is an attempt to convey more meaning in a more economical 
 manner in given contexts of interactions. This is the case of emojis that seemed to indicate 
 that participants were following the course of interactions. Moreover, the findings suggest that 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 emojis can also be used to give support to ideas or minimize the impact of some written 
 interactions as shown in the findings. 
- 
-Relating Participants’ Attitudes to the Use of Emojis 
- 
+
 In order to determine how participants’ attitudes relate to the use of emojis for cognitive, 
 teaching, and social presences, three Spearman Rho analyses were conducted with 
 participants’ responses on the post survey (N = 61) and emoji use for each of the presences. 
@@ -788,47 +390,9 @@ emotions. What was probably most surprising was that participants, as discussed 
 Teaching Presence section above, took on the role of teacher frequently to assist other 
 students in the class, regardless of their attitudes, which explains why these items were not 
 correlated. See Table 6. 
- 
-Table 6 – The Relationship Between Attitudes and Emoji Use 
- 
- 
-Ready to Use 
-Willingness to Apply 
-Presence 
-N 
-rs 
-p 
-N 
-rs 
-p 
-Cognitive Presence 
-61 
-.32 
-.01* 
-61 
-.31 
-.02* 
-Teaching Presence 
-61 
--.09 
-.48 
-61 
--.01 
-.94 
-Social Presence 
-61 
-.20 
-.12 
-61 
-.24 
-.06 
-Note. Significant at the .05 level. 
- 
+
 Additionally, emoji use in terms of cognitive presence was significantly, positively correlated 
 to participants’ attitudes regarding their willingness to apply mobile technologies (i.e., 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 smartphones, tablets, and apps) to enable and empower learners with diverse backgrounds, 
 characteristics, and abilities (rs = .31, p = .02). In other words, the more willing they were to 
 apply mobile technologies, the more often they used emojis to exchange ideas and apply new 
@@ -841,9 +405,7 @@ courses, as was the case in the present study, students take on a more active ro
 constructing their own knowledge, as well as their peers, regardless of experience. Therefore, 
 in the present study, regardless of participants’ willingness to apply mobile technologies to 
 empower others, they felt connected and helped shape each others’ learning. See Table 6. 
- 
-Relating Participants’ Demographics to the Use of Emojis 
- 
+
 To determine how age relates to emoji use, four Spearman Rho analyses were conducted. The 
 ages of the participants ranged from 21 years of age to 60 years of age, with a mean age of 38 
 years. The results of the analyses revealed no significant correlations for age as it relates to 
@@ -854,118 +416,14 @@ existed across age groups in terms of emoji use. Similarly, Alshenqeeti (2016) s
 age was not as strong of a predictor of emoji use compared to technological awareness and 
 capability. Therefore, the findings of the current study align with other studies on age and 
 emoji use. 
- 
-Table 7 – The Relationship Between Age and Emoji Use 
- 
- 
-Age 
- 
- 
-Presence 
-N 
-rs 
-p 
-Cognitive Presence 
-61 
--.07 
-.62 
-Teaching Presence 
-61 
-.10 
-.44 
-Social Presence 
-61 
-.04 
-.74 
-Total Presence 
-61 
--.002 
-.99 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
+
 Finally, to determine how gender affects the use of emojis, four independent samples t tests 
 were conducted with gender as the IV and emoji use for each type of presence as the DV. Of 
 the 61 survey participants, 39 were females and 21 were males, and one participant did not 
 specify. In terms of cognitive presence, female participants (M = 10.13, SD = 14.30) used 
 emojis to represent cognitive presence slightly more than male participants (M = 8.00, SD = 
 8.38), though not significantly, t(58) = .63, p = .53 (see Tables 8 and 9).  
- 
-Table 8 – Descriptive Statistics for Gender and Emoji Use 
- 
- 
-Male Participants 
-Female Participants 
-Presence 
-n 
-M 
-SD 
-n 
-M 
-SD 
-Cognitive Presence 
-21 
-8.00 
-8.38 
-39 
-10.13 
-2.29 
-Teaching Presence 
-21 
-.00 
-.00 
-39 
-.13 
-.34 
-Social Presence 
-21 
-9.67 
-9.87 
-39 
-12.97 
-19.84 
-Total Presence 
-21 
-5.89 
-6.02 
-39 
-7.75 
-11.27 
- 
-Table 9 – Gender and Emoji Use t-test results 
- 
-Presence 
-t 
-df 
-p 
-Mean Difference 95% CI 
-Cognitive Presence 
-.63 
-58 
-.53 
-2.13 
-(-4.68, 8.94) 
-Teaching Presence 
-2.36 
-38 
-.02* 
-.13 
-(-.02, .28) 
-Social Presence 
-.72 
-58 
-.48 
-3.31 
-(-5.94, 12.56) 
-Total Presence 
-.70 
-58 
-.49 
-1.85 
-(-3.44, 7.15) 
-Note. Significant at the .05 level. 
- 
+
 In terms of teaching presence, female participants (M = .13, SD = .34) used emojis to 
 represent teaching presence significantly more than male participants, who did not use them at 
 all (M = .00, SD = .00), t(38) = 2.36, p = .02. In terms of social presence, female 
@@ -974,10 +432,7 @@ than male participants (M = 9.67, SD = 9.87), though not significantly, t(58) = 
 Finally, in terms of total presence, female participants (M = 7.74, SD = 11.27) used emojis 
 slightly more than male participants (M = 5.89, SD = 6.02), though not significantly, t(58) = 
 .70, p = .49.  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
+
 As shown in the analysis of the data, female participants’ use of emojis had an impact in the 
 frequency of interactions during the course. Moreover, as can be seen in Figure 5, these 
 participants were the ones who added a more affectionate response to these interactions by 
@@ -985,7 +440,7 @@ posting a great number emojis that represent affection such as the Face Throwing
   , Smiling Face With Heart-Eyes emoji   , Red Heart emoji ❤, Cherry Blossom emoji 
   , etc. Figure 5 also shows evidence that the high frequency of the eight most used emojis 
 was boosted by female participants.  
- 
+
 Besides the affectionate response, which can be considered a strategy of group proximity, 
 Figure 5 shows a high number of the clapping emoji which was used when participants 
 completed a task, working as a positive reinforcement in the group. This type of feedback can 
@@ -997,14 +452,7 @@ gestures used in face-to-face interactions. As Alshenqeeti (2016, p. 64) claims,
 of language, which include non-verbal communication such as body language have been used 
 since prehistoric times to underline and reinforce verbal language. Emojis therefore, are 
 simply placing these visual forms into the digital arena.”  
- 
-Figure 5 – Gender and Types of Emoji Used 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
+
 The findings support Fullwood et al.’s (2013) research results that women were more likely to 
 use emojis than men and seem to corroborate Alshenqeeti’s (2016) discussions that women 
 tend to be more expressive and emotional in their communication than men when it comes to 
@@ -1012,9 +460,7 @@ the use of emojis. In addition to the gender use of emojis, Alshenqeeti (2016) d
 to the fact that emojis are context situated and, as such, cultural variations may influence their 
 use. In this respect, the high frequency of emojis identified in the interactions of Brazilian 
 teachers also seem both culturally situated and gender related. 
- 
-5. Conclusion  
- 
+
 As demonstrated in the results, emojis are largely used to support cognitive, teaching, and 
 social presence. Most emojis fell into WhatsApp’s categories of face emojis, people, and 
 gestures. The findings suggest that communication in the context of social networks is 
@@ -1023,17 +469,14 @@ by the use of stickers as pointed by Paiva (2016) - this is also the case of gif
 social media. We share Paiva’s ideas that language social practices take place in a complex 
 manner due to the relationship among the various agents and the ways of producing meaning 
 and the technologies mediating these practices. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
+
 The analysis evinces that face emojis are very much used as social affective manifestations 
 that are oftentimes intertwined in the interactions coded as cognitive and teaching presence. 
 This supports the findings of Garrison at al. (2007), Molinari (2010), Celani and Collins 
 (2005), and Beuchot and Bullen (2005), who view social presence as a foundation for 
 cognitive presence. Thus, it is possible to affirm that emojis, like written discourse and 
 emoticons, are elements in online interactions that may support cognitive presence. 
- 
+
 As pointed out in the findings, the course interactions also reveal that the meaning of emojis 
 may be interpreted differently depending on the context in which they are situated. Many 
 times the wink emoji could be interpreted in such a way as to minimize the impact of an 
@@ -1053,23 +496,20 @@ However, the high frequency of single line emojis, i.e., using only emojis to in
 respond to tasks, may be problematic in the context of education, especially language 
 learning, as written interactions do play an important role in exchanging information, 
 negotiating meaning and developing language. 
- 
+
 The number and the types of emojis used in online interactions in educational experiences like 
 this one via WhatsApp may be gender-related and culturally situated. These findings can be 
 taken into consideration when promoting educational initiatives via WhatsApp or any other 
 social space related to social media in multicultural environments. Current trends continue to 
 move towards the need to create more opportunities for social presence in our learning 
 communities and classrooms. Harn (2017) reported on the visual language of emojis and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
 recommended that higher education should consider using emojis in informal communication 
 to reduce social barriers, create connections, and improve overall connections with students 
 by establishing a more personal connection in the communication through the emojis. This 
 research supports that social presence was enhanced during the learning process. Using emojis 
 in the communication lightened the tone of the communication by creating a friendly open 
 trusting rapport, which increased social presence.  
- 
+
 Using this type of communication can improve learning experiences in many training and 
 learning settings. The need to evaluate and develop collaborative educational communication, 
 which corresponds with present-day realities, should be explored taking into account 
@@ -1079,501 +519,3 @@ cultures make meaning while interacting. What seems to be a natural way of inter
 country like Brazil may be considered inadequate in another culture. The same goes for the 
 meaning of the emojis. Raising awareness of these possible differences may be a new element 
 to add to the netiquette of similar future educational initiatives. 
- 
-Conflict of interests (multiple authors) 
- 
-( X ) The authors declare they have no conflict of interest. 
- 
-Credit Author Statement 
- 
-We, Jennifer L. Reeves, Glenda A. Gunter, Junia Braga and Marcos Racilan, hereby declare that we do 
-not have any potential conflict of interest in this study. We have all participated in study 
-conceptualization, methodology, study design, data collection, formal data analysis, statistical data 
-analysis, data validation and editing. All authors approve the final version of the manuscript and are 
-responsible for all aspects, including the guarantee of its veracity and integrity. 
- 
-References 
- 
-Alshenqeeti, H. (2016). Are emojis creating a new or old visual language for new 
-generations? a socio-semiotic study. Advances in Language and Literary Studies, 7(6). 
-http://dx.doi.org/10.7575/aiac.alls.v.7n.6p.56 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-Bai, Q., Dan, Q., Mu, Z., & Yang, M. (2019). A Systematic Review of Emoji: Current 
-Research and Future Perspectives. Frontiers in psychology, 10, 2221. 
-https://doi.org/10.3389/fpsyg.2019.02221 
-Braga, J. C. F. (2007). Comunidades autônomas de aprendizagem on-line na perspectiva da 
-complexidade. [Unpublished doctoral dissertation]. Faculdade de Letras, Universidade Federal 
-de Minas Gerais, Belo Horizonte. http://hdl.handle.net/1843/ALDR-7ABNS2. (accessed 26 
-October, 2021) 
-Beuchot, A., & Bullen, M. (2005). Interaction and interpersonality in online discussion 
-forums. Distance Education, 26(1), 67-87. https://doi.org/10.1080/01587910500081285 
-Celani, M. A. A., & Collins, H. (2005). Critical thinking in reflective sessions and in online 
-interactions. AILA Review, 18(1), 41-57. https://doi.org/10.1075/aila.18.05cel 
-Chen, Y., Lei J., & Cheng, J. (2019). What if online students take on the responsibility: 
-students’ cognitive presence and peer facilitation techniques. Online Learning Journal, 23(1), 
-37-61. https://doi.org/10.24059/olj.v23i1.1348 
-Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods 
-research (3rd ed.). Sage.  
-Crystal, D. (2004). Language and the Internet. Cambridge University Press. 
-https://doi.org/10.1017/CBO9780511487002 
- 
-d’Alessio, M. A., Lundquist, L. L., Schwartz, J. J., Pedone, V., Pavia, J., & Fleck, J. (2019). 
-Social presence enhances student performance in an online geology course but depends on 
-instructor facilitation. Journal of Geoscience Education, 67(3), 222-236. 
-https://doi.org/10.1080/10899995.2019.1580179  
- 
-Emoji Meanings. (2020). Emoji and their meaning. https://www.emojimeanings.net/ (accessed 
-October 26, 2021). 
- 
-Fullwood, C., Orchard, L. J., & Floyd, S. A. (2013). Emoticon convergence in Internet chat 
-rooms. Social Semiotics, 23(5), 648-662. https://doi.org/10.1080/10350330.2012.739000 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Garrison, D. R., Anderson, T., & Archer, W. (1999). Critical inquiry in a text-based 
-environment: Computer conferencing in higher education. The Internet and Higher 
-Education, 2(2/3), 87-105. https://doi.org/10.1016/S1096-7516(00)00016-6 
- 
-Garrison, D. R., & Arbaugh, J. B. (2007). Researching the community of inquiry framework: 
-review, issues, and future directions. Internet and Higher Education, 10(3), 157-172. 
-https://doi.org/10.1016/j.iheduc.2007.04.001 
- 
-Gunter, G. A., & Reeves, J. L. (2017). Online professional development embedded with 
-mobile learning: An examination of teachers’ attitudes, engagement, and dispositions. British 
-Journal of Educational Technology, 48(6), 1305-1317. https://doi.org/10.1111/bjet.12490 
- 
-Harn, R.W. J. (2017). The visual language of emojis: A study on college students’ social 
-support communication in online social networks. [Unpublished doctoral dissertation]. 
-University of Kansas. https://kuscholarworks.ku.edu/handle/1808/26036. (accessed 26 
-October, 2021) 
- 
-Kuehn, S. (1993). Communication innovation on a BBS: A content analysis. Interpersonal 
-Computing and Technology. An Electronic Journal for the 21st Century, 1(2). 
-http://serials.infomotions.com/ipct/ipct-v1n02-kuehn-communication.txt. (accessed 26 
-October, 2021) 
- 
-Micsky, T., & Foels, L. (2019) Community of Inquiry (CoI): A framework for social work 
-distance educators. Journal of Teaching in Social Work, 39(4-5), 293-307. 
-https://doi.org/10.1080/08841233.2019.1642976 
- 
-Molinari, D. L. (2010). The role of social comments in problem-solving groups in an online 
-class. American Journal of Distance Education, 18(2), 89-101. 
-https://doi.org/10.1207/s15389286ajde1802_3 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Paiva, V. L. M. O. (2016). A linguagem dos emojis. Trabalhos em Linguística Aplicada, 
-Campinas, 55(2), 379-399. https://doi.org/10.1590/010318134955176321 
- 
-Pegrum, M. (2014). Mobile learning: languages, literacies and cultures. London: Palgrave 
-Macmillan. 
- 
-Rath, V. O. (2012). An investigation of online tools and teaching, social, and cognitive 
-presence in a large hybrid online course. [Unpublished doctoral dissertation]. University of 
-Central Florida, Orlando, FL. https://stars.library.ucf.edu/etd/4485/. (accessed 26 October, 
-2021) 
- 
-Rolim, V., Ferreira, R., Lins, R. D., & Gǎsević, D. (2019). A network-based analytic approach 
-to uncovering the relationship between social and cognitive presences in communities of 
-inquiry. Internet and Higher Education, 42, 53-65. 
-https://doi.org/10.1016/j.iheduc.2019.05.001 
- 
-Walther, J. B. (1994). Anticipated ongoing interaction versus channel effects on relational 
-communication in computer-mediated interaction. Human Communication Research, 20, 473-
-501. https://doi.org/10.1111/j.1468-2958.1994.tb00332.x 
- 
-Whiteside, A. L. (2015). Introducing the social presence model to explore blended and online 
-learning experience. Online Learning, 19(2), 1-20. http://dx.doi.org/10.24059/olj.v19i2.453 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-Appendix A – Types of Emojis Used to Support Cognitive, Teaching, and Social Presence 
- 
-Emoji 
-Cognitive 
-(n) 
-Teaching 
-(n) 
-Social 
-(n) 
-Total 
-(n) 
-   
-4 
-1 
-6 
-11 
-   
-14 
-2 
-20 
-36 
-   
-47 
-18 
-74 
-139 
-   
-2 
-1 
-4 
-6 
-   
-4 
-1 
-11 
-16 
-   
-40 
-12 
-59 
-111 
-   
-9 
-8 
-18 
-34 
-   
-107 
-29 
-153 
-161 
-   
-21 
-6 
-31 
-56 
-   
-0 
-0 
-4 
-4 
- 
-47 
-5 
-60 
-112 
-   
-31 
-0 
-40 
-71 
-   
-0 
-0 
-2 
-2 
-   
-0 
-0 
-3 
-3 
-   ♂ 
-0 
-0 
-2 
-2 
-   
-2 
-1 
-5 
-8 
-   
-0 
-2 
-5 
-7 
-   
-1 
-4 
-4 
-9 
-   
-37 
-56 
-158 
-251 
-   
-13 
-10 
-35 
-58 
-   
-24 
-12 
-41 
-77 
-   
-33 
-20 
-68 
-121 
-   
-9 
-7 
-17 
-33 
-❤ 
-10 
-5 
-21 
-36 
-   
-51 
-5 
-64 
-120 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-   
-20 
-4 
-23 
-47 
-   
-17 
-12 
-8 
-37 
-   
-4 
-2 
-5 
-11 
-   
-10 
-1 
-9 
-20 
-   
-9 
-5 
-17 
-31 
-    
-2 
-0 
-3 
-5 
-   
-0 
-1 
-2 
-3 
-   
-1 
-1 
-2 
-4 
-   
-15 
-13 
-31 
-59 
-   
-6 
-2 
-4 
-12 
-   
-2 
-0 
-3 
-5 
-✈ 
-0 
-2 
-0 
-2 
-   
-9 
-3 
-12 
-24 
-   
-3 
-0 
-3 
-6 
-    
-7 
-14 
-20 
-41 
-   
-3 
-0 
-2 
-5 
-   
-2 
-0 
-1 
-3 
-   
-2 
-0 
-0 
-2 
-   
-2 
-0 
-3 
-5 
-   
-0 
-6 
-6 
-12 
-   
-1 
-0 
-7 
-8 
-❣ 
-3 
-5 
-9 
-17 
-   
-4 
-0 
-9 
-13 
-   
-3 
-3 
-10 
-16 
-   
-4 
-5 
-2 
-11 
-   
-3 
-0 
-3 
-6 
-   
-6 
-0 
-9 
-15 
-   
-2 
-0 
-2 
-4 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
- 
-   
-0 
-0 
-2 
-2 
-   
-0 
-6 
-4 
-10 
-   
-1 
-0 
-4 
-5 
-   
-1 
-0 
-4 
-5 
-   
-3 
-4 
-7 
-14 
-   
-5 
-1 
-7 
-13 
-   
-8 
-0 
-10 
-18 
-   
-0 
-2 
-1 
-3 
-   
-8 
-0 
-1 
-9 
-   
-2 
-0 
-1 
-3 
-   
-2 
-0 
-2 
-4 
-   
-1 
-1 
-2 
-4 
-✅ 
-3 
-0 
-0 
-3 
-   
-16 
-0 
-0 
-16 
-Note. Only emojis that were used more than one time were included in the table.  
-The emojis were listed in this table in the order they appear in the interactions. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1678-460x202152396
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)
