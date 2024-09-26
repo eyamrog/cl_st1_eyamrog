@@ -37,8 +37,7 @@ analyzes and identification of differentially expressed proteins involved during
 regeneration of nodular cultures (Corredor-Prado et al. 2016, 2019), as well as in the dynamics of 
 changes in the levels of proteins, carbohydrates and global DNA methylation during the induction of 
 NCs. (Corredor-Prado et al. 2020). 
-4 
- 
+
 However, an effective alternative is to establish a cryopreservation protocol, since it allows an 
 effective and safe conservation of materials, suiting the long-term storage system. In these protocols, 
 different materials can be used, for the most diverse plant species, such as seeds, zygotic embryos, 
@@ -46,6 +45,7 @@ apical buds, meristems, and others (Engelmann 2011). Direct cryopreservation is 
 simple methodology, which consists of direct immersion of fresh or dehydrated plant material in 
 liquid nitrogen (LN). when such material is removal in most cases whit reheating it in water at 40 °C 
 and the subsequent regeneration of the material happens (Popova et al. 2016). 
+
 Seed conservation is the most efficient and economical way to store germplasm (Kaviani 2011). 
 This technique has been studied in bromeliads with success in its application. Seeds of six species of 
 the genus Encholirium and two of Dyckia cryopreserved without the use of cryoprotectants 
@@ -54,6 +54,7 @@ Encholirium spectabile Mart. ex Schult. & Schult.f. seeds, which it was proven t
 cryoprotectants is not necessary for cryopreservation (Ferrari et al. 2016), likewise, seeds of Dyckia 
 brevifolia Baker and Dyckia delicata Larocca & Sobral showed respectively 92% and 79% 
 germination after cryopreservation without cryoprotectants (de Paula et al. 2020). 
+
 In Bromeliaceae, the use of seeds of some species has shown a high tolerance for drying and 
 freezing with the genera Encholirium Mart. ex Schult. & Schult. f. and Dyckia Schult. & Schult. f. 
 (Tarré et al. 2007), in Pitcairnia albiflos Herbert (Pereira et al. 2010) and ten endemics and threatened 
@@ -61,13 +62,13 @@ Brazilian species (Rodrigues et al. 2014). This tolerance is related to the cont
 reserves, such as carbohydrates, lipids, and proteins, which are constituents of cells and membranes, 
 providing protection during the seed maturation and dehydration phase (Mollo et al. 2011, Carvalho 
 et al. 2019). 
+
 According to Mollo et al. (2011), in Alcantarea imperialis (Carrière) Harms (Bromeliaceae), 
 carbohydrates undergo appreciable changes, in adaptations to the cold. The authors describe that the 
 sucrose contents of plants under cold conditions can be exchanged for trehalose, raffinose, and 
-5 
- 
 stachyose. They also report that starch concentrations changed with the presence of cold, possibly 
 reduced to carbohydrates associated with tolerance and protection of the plant to cold. 
+
 Furthermore, intracellular ice crystal formation is the most damaging event during the 
 cryopreservation process. The damage is irreversible. It can occur during freezing or thawing and 
 may lead to cell wall rupture, epidermal rupture, protoplast egress, anomalous nuclei of surviving 
@@ -75,13 +76,13 @@ explants, or explant death (Kaviani 2011). Anatomical studies, such as the one c
 Smith et al. (2014, 2015), report the importance of understanding the interactions of water content 
 and ice structure through studies for the atomization of cryogenic processes and cell survival since 
 ice crystal size and cell damage can have late effects on cell death. 
+
 In this regard, V. reitzii seeds could be a plausible material for the conservation of germplasm 
 with great genetic diversity and with protocols already established for large-scale propagation. Thus, 
 the objective of the present work was to evaluate the viability, cell integrity, and presence of 
 polysaccharides in V. reitzii cryopreserved and non-cryopreserved seeds using anatomical, 
 biochemical and ultrastructural analyzes. 
- 
-Material and Methods 
+
 Physiologically mature capsules of V. reitzii were collected from a natural population, in the 
 municipality of Curitibanos, Santa Catarina State, Brazil (27º17'02.7"S, 50º32'05.5" W, 900 m 
 altitude The collection was carried out at three different times, established by days after anthesis 
@@ -90,19 +91,16 @@ altitude The collection was carried out at three different times, established by
 the content of indoor water; 2) at 135 DAA, intermediate point of the natural dehydration process 
 and; 3) at 150 DAA, beginning of carpel opening for seed release and dispersion. The experiments 
 were conducted in the Laboratory of Developmental Physiology and Plant Genetics (LFDGV), Center 
-6 
- 
 of Agricultural Sciences, of the Federal University of Santa Catarina (CCA/UFSC) in Florianópolis, 
 Santa Catarina State, Brazil. 
+
 The moisture content (%) of the seeds was obtained from a pool of 1000 seeds of different fruit 
 collection times. The oven method was used at 105 ± 3 ºC for 24 ± 1 hours, according to Brazil 
 (2009), using four replications of 200 seeds. The moisture content, expressed on a wet basis, was 
-obtained through the expression: 
-𝑋% = 
-𝐼𝑤−𝐹𝑤
-𝐼𝑤
-𝑥 100 ; Where: Iw: Initial weight of the sample (g); Fw: Final sample weight 
+obtained through the expression: <>. 
+Where: Iw: Initial weight of the sample (g); Fw: Final sample weight 
 (g) and X%: water content in percentage of wet basis (w.b), %. 
+
 For the seeds conservation, a 2x3 factorial experimental design was used: Two conservation 
 methods: 1) Cryopreservation (+LN; at -196 °C) and; 2) control, non-cryopreserved (-LN) stored in 
 a refrigerator at 4 °C, combined with three collection times (120; 135 and 150 DAA). Each 
@@ -110,19 +108,19 @@ experimental unit consisted of a cryotube containing 30 seeds and four replicate
 blocks. After 24 h of storage (-196 °C and Control), was performed the immersion in a water bath for 
 two minutes at 42 °C. Afterward, the seeds were disinfected according to the method described by 
 Guerra & Dal Vesco (2010). 
+
 The germination test was conducted in vitro and the seeds were placed in Petri dishes (60 x15 
 mm), on sterilized filter paper, soaked with 2.0 mL of liquid culture medium MS (Murashige & Skoog 
 1962), and added with Morel vitamins (Morel & Wetmore 1951) and 30 g L-1 of sucrose. The pH was 
 adjusted to 5.8 before sterilisation in an autoclave for 20 minutes at 121 °C and 1.3 atm. The 
 cultivations were kept in a BOD chamber at 25 ºC ± 2 ºC for a 16 hours photoperiod of light in a 
 luminous intensity of 55 ± μmol m-2 s-1. 
+
 Germination percentage data (%) and germination speed index (GSI) were daily obtained until 
 the 15th day of cultivation. Germinated seeds were considered when they presented embryo swelling, 
 seminal envelope rupture and, light green colour as a sign of active metabolism. The GSI was 
-calculated according to Maguire (1962) and the formula: 
-7 
- 
-GSI= ∑ (Gi/ni) where: Gi = number of germinated seeds and; ni = counting day. 
+calculated according to Maguire (1962) and the formula: GSI= ∑ (Gi/ni) where: Gi = number of germinated seeds and; ni = counting day. 
+
 The determination of total soluble carbohydrates levels (mg g-1) was based on seed samples 
 (200 mg) of each treatment, previously described, using the phenol-sulfuric method (Dubois et al. 
 1956). The samples, in triplicate, were macerated with liquid nitrogen and transferred to test tubes 
@@ -134,21 +132,22 @@ was added to 450 μL of distilled water, 0.5 mL of phenol (5%), and 2.5 mL of su
 The total carbohydrate content was estimated from a standard curve, determined based on a standard 
 carbohydrate Glucose and with absorbance measured at 490 nm on a spectrophotometer (Pro-
 Analysis V-1600) 
+
 Representative samples of the seeds were fixed in paraformaldehyde solution in phosphate 
 buffer (2.5%) 0.2M pH 7.2 for 72 hours at 4 °C, for anatomical analysis. The dehydration was in an 
 increasing ethyl series (0-100 °Gl), and soon after the samples were pre-infiltrated in a solution of 
 ethanol (100%) and historesin glycol methacrylate (GMA) (1:1 v v) for 6 hours, infiltrated in 
 Historesin (Leica Historesin, Heidelberg, Germany) and arranged in histo-molds at 35 °C in an oven 
 for 24 hours. 
+
 Sections (5 μm) were obtained using a hand-rotating microtome (Leica RM 2135) with tungsten 
 razors. The sections were placed on slides and stained with Toluidine Blue (TBO) to identify acid 
 polysaccharides and Lugol for starch identification. The sections were analysed under an optical 
 microscope (Olympus BX40) and photographed with an image capture system (Olympus Q-Color-
 3C América Ind.). 
+
 Transmission electron microscopy (TEM) analysis was performed from seeds of each 
 treatment, fixed in a glutaraldehyde solution (2.5%) in 0.1 M sodium cacodylate buffer pH 7.2 and 
-8 
- 
 0.2 M sucrose at 4 °C overnight; followed by immersion in 0.3 M sodium cacodylate buffer solution, 
 pH 7.2, 0.6 M sucrose and H2O, five times, reducing the concentration of sucrose in each wash by 
 25% and in osmium tetroxide (2%) and 0.2 M sodium cacodylate, pH 7.2 (1: 1, v v) for 4 hours at 
@@ -158,50 +157,54 @@ Spurr resin. Sections (60-90 nm) were obtained with a Power Tome XL ultramicroto
 razor and contrasted with uranyl acetate (1%) and lead citrate (1%). Images were obtained using a 
 Jeol JEM1011 Transmission Electron Microscope (Tokyo, Japan) at CEML-UFSC, and the relevant 
 events were recorded in micrographs. 
+
 Germination percentage data (%) and levels of total soluble carbohydrates (mg g-1MF) were 
 submitted to analysis of variance (ANOVA) and test of comparison of means (Tukey 5%), using the 
 statistical program R (R Development Core Team, 2010). 
- 
-Results 
+
 The different periods of fruit collection, days after floral anthesis (DAA), revealed statistically 
 significant water levels (table 1). The highest (p <0.05) average percentage of water (17.6%) present 
 in the seeds was observed in seeds collected at 120 DAA. Seeds collected at 135 and 150 DAA did 
 not show statistical differences in moisture content. 
+
 The average percentage of seed germination did not present any statistically significant 
 difference when comparing conservation methods, cryopreserved (78.9%), and non-cryopreserved 
 (78.3%) (table 1). Therefore, significant differences in the germination percentages of the seeds were 
 observed in the different DAA. The highest and most significant (p <0.01) average germination 
 percentage (89.6%) was observed with seeds collected at 150 DAA (table 1). 
+
 Concerning the germination speed index (GSI), no significant differences were found between 
 cryopreserved (+LN) and non-cryopreserved (-LN) seeds. Seeds submitted to the conservation 
-9 
- 
 methods started to germinate on the 7th day of cultivation, and the maximum germination point was 
 observed on the 15th day. The seeds collected at 150 DAA had an average GSI equal to 17.0, being, 
 statistically, the largest and the most significant (p<0,05) when compared to the results of seeds 
 collected at 120 and 135 DAA (table 2). 
+
 The average content of total soluble carbohydrates for V. reitzii seeds did not show a significant 
 difference for the studied factors: collection period, and conservation methodology (table 3). 
+
 Anatomical analysis by light microscopy of different days of seed collection (DAA) and 
 exposure to cryopreservation and non-cryopreservation, did not reveal mechanical damage, such as 
 rupture of the cell wall as damage to the membrane system. However, differences were observed in 
 the response to histochemical reactions of the contents of chemical compounds in the regions of the 
 seed coat, the endosperm, the aleurone layer, and the embryo (figure 1). 
+
 In the micrographs of V. reitzii seeds, seeds with the embryo and plumose appendages at the 
 time of conservation are noteworthy (figure 1a). In the embryo region, a reaction of the acid 
 compounds to the TBO was observed, characterized by the procambium, formed by the nuclei of the 
 embryonic cells, which presented a dark purple colour (figure 1b, see arrow). 
+
 The presence of a double seed coat was also observed, with a positive reaction to treatment with 
 TBO, where the external seed coat, called testa, presented a dark green colour indicating the presence 
 of tannic compounds (figure 1b). The internal seed coat, called tegmen, showed a greenish colour 
 indicating phenolic composition and purple coloration in the plumose appendages, indicating rich in 
 pectin composition (figure 1b). 
+
 The aleurone layer that surrounds the endosperm and the embryo is presented in a single layer 
 of cells, of a thick wall, with the presence of acid polysaccharides in the cytoplasm and cell wall 
 (figure 1c, see arrow). Concurrent, there was an absence of starch grains in the cytoplasm of the 
 aleurone layer. 
-10 
- 
+
 It was observed the presence of neutral polysaccharides in the endosperm region, as constituents 
 of the cell wall, indicating the presence of cellulose. And, when stained with Lugol, neutral 
 polysaccharide grains were observed, conferring a high concentration of starch grains distributed in 
@@ -209,6 +212,7 @@ amyloplasts (figure 1d, see arrow). Analyses of 120 DAA seeds, non-cryopreserved
 cryopreserved (figure 1f); 135 DAA non-cryopreserved seeds (figure 1d) and cryopreserved (figure 
 1g), as well as 150 DAA non-cryopreserved seeds (figure 1e) and cryopreserved (figure 1h), all 
 showed structural integrity after both conservation treatments. 
+
 Through TEM, the seed ultrastructure's, observed in cells of the embryo of non-cryopreserved 
 seeds (-LN), were identified with the presence of membranes, organelles, and nucleus in the natural 
 state (figure 2a). Besides, in detail, cells with a large number of reserve structures in lipid bodies 
@@ -218,8 +222,7 @@ injury to membranes, and cell walls (figure 2d). As depicted, in detail, the mem
 and cell wall (figure 2e), in addition to the structures of protein and lipid reserves (figure 2f). TEM 
 results added to light microscopy results confirm that the seeds preserved the structural integrity after 
 cryopreservation. 
- 
-Discussion 
+
 The time intervals established in seed collections (DAA), according to the maturation and 
 viability curve, allowed the analyzes entrenched in this work, as well as enabled its use in protocols 
 for multiplication and generation of nodular cultures (Guerra & Dal Vesco 2010, Dal Vesco et al. 
@@ -227,8 +230,6 @@ for multiplication and generation of nodular cultures (Guerra & Dal Vesco 2010, 
 occurrence of a natural desiccation process, which is directly related to its degree of physiological 
 maturity. Starting with this factor, it can be inferred that the seeds of this species have a characteristic 
 orthodox behaviour. In these species, the seed moisture tends to reduce as the seeds pass through the 
-11 
- 
 maturation process in the mother plant, resulting in natural desiccation and conceding tolerance to 
 artificial desiccation (Dousseau et al. 2011). Although the water content can be a variable when 
 classifying orthodox seeds, Engelmann & Dussert (2000) report that the moisture content must remain 
@@ -236,6 +237,7 @@ between 10 to 20%. Walters (2015) indicate that the water content must be below 
 time of conservation, which requires to be achieved by artificial desiccation. Thus, the hypothesis 
 that the seeds of V. reitzii are to be contained in the orthodox category with regards to the percentage 
 of moisture as laid out by these authors, is corroborated. 
+
 In this context, it is emphasized the relevance of observing the water content present in the plant 
 material used in the cryopreservation protocols. This content can be decisive when defining strategies 
 to avoid possible damage caused by the crystallization of intracellular water (Vendrame et al. 2014). 
@@ -245,19 +247,20 @@ Arnao & Engelmann (2013), some low water content in the plant material results i
 water phase during the immersion in LN, called the “vitrification” phase. This phase allows the 
 elimination of ice structures by inhibiting the union of water molecules, maintaining the physical 
 properties of an amorphous solid (Kulus & Zalewska 2014). 
+
 The importance of water content is reported in several studies and for various plant materials, 
 such as seeds of Punica granatum L. (Punicaceae) (Silva et al. 2015), seeds of Encholirium spectabile 
 Martius ex Schultes f. (Bromeliaceae) (Ferrari et al. 2016), seeds of Pyrostegia venusta (Ker Gawl.) 
 Miers (Salomão et al. 2020), as well as seeds, pollen, protocorms, structures similar to protocorms, 
 apexes extracted from in vitro plants and meristematic tissues of orchids (Popova et al. 2016). 
+
 Cryopreservation has advantages considering the possible storage time, as well as 
 cryopreservation by direct immersion, which is the cheapest in the category by not using 
 cryoprotectants or too many reagents. Concerning the storage of plant material for indefinite periods, 
 cryopreservation in liquid nitrogen (-196 °C) is the only current method (Engelmann 2011). Likewise, 
-12 
- 
 cryopreservation has vast advantages when compared to traditional conservation methods (Vendrame 
 et al. 2014). 
+
 In the present study, it was observed that the anticipation of seed collection, at 120 DAA, 
 resulted in a lower average germinative percentage (70%), when compared to seeds collected in the 
 desiccation period (89.6%), at 150 DAA (table 1). Another important factor observed was that the 
@@ -266,6 +269,7 @@ key factor in survival and germination. Likewise, the cryopreservation of Ipê-R
 impetiginosa (Mart. ex DC.) Standl.) seeds, with the moisture content of 12.5%, 8.4%, and 4.2%, 
 maintained vigour and germination capacity. However, at 18.3% of moisture content, there was a 
 decline in germination (Martins et al. 2009). 
+
 Furthermore, there are reports of different species works that show gains in the germinative 
 percentage of seeds after cryopreservation, of which, the cooling process at ultra-low temperatures 
 can act to break seed dormancy. As an example, Rocha et al. (2009) found in their studies that the 
@@ -273,6 +277,7 @@ cryopreservation process of Gossypium hirsutum L. seeds promoted an increase in 
 seed germination and seedling vigor, after going through the cryopreservation process. 
 Cryopreservation also advanced a higher germination percentage of E. subsecundum (Baker) Mez 
 seeds with a moisture content of 12.7% (Tarré et al. 2007). 
+
 From these results, it can be inferred that the period of fruit collection and seed extraction in V. 
 reitzii is an important factor to observed. Also, the highest percentage of germination and GSI are 
 related to lower water content, greater accumulation of reserves, and embryo maturity. These factors 
@@ -281,8 +286,7 @@ that corroborate with those observed by Guimarães & Barbosa (2007), in which th
 in Machaerium brasiliensi Vogel seeds is related to the fruit maturation process. Therefore, the 
 natural desiccation determines the quality and vigour of the seeds, an important factor to be 
 considered in conservation programs, such as the use in cryopreservation. 
-13 
- 
+
 Carbohydrates, on the other hand, are associated with the seed's capacity to withstand 
 desiccation and storage at negative temperatures, among other structural and biochemical 
 characteristics. For Mollo et al. (2011), the carbohydrates present in the seeds of Alcantarea 
@@ -295,6 +299,7 @@ the plant's tolerance and protection from cold (Mollo et al. 2011). Hence, it ca
 longer permanence of the fruits connected to the mother plant, after anthesis, represents a greater 
 accumulation of carbohydrates, since, according to the results of the present study, the higher the 
 DAA for the fruit collection, the greater will be the loss of water in the seeds. 
+
 It was observed, in the present study, that cryopreserved seeds, when compared to those non-
 cryopreserved, do not show structural or biochemical differences, thus, corroborating that 
 cryopreservation did not affect the seeds. Seen in these terms, non-reducing sugars, sucrose, and some 
@@ -306,10 +311,9 @@ probably because they are considered recalcitrant seeds (Wen 2010). Therefore, i
 concerning the present study, that the seeds of V. reitzii have reserve organelles in the form of lipid 
 bodies, protein bodies, and orthamyloplasts, which can confer tolerance to desiccation and cooling 
 and also reaffirm the orthodox behaviour of the seeds. 
+
 Cryopreservation is the only technique that guarantees the conservation of genetic material, 
 theoretically for an indefinite period, safely and economically. (Engelmann 2011). In liquid nitrogen 
-14 
- 
 storage (-196 °C), all metabolic activity and cell divisions are interrupted, preventing the degradation 
 of the stored material and contamination (Cruz -Cruz et al. 2013). Direct immersion in liquid nitrogen 
 has the advantage of not requiring the use of cryoprotectants in materials with tolerance to cooling 
@@ -320,8 +324,7 @@ mature seeds of Cattleya guttata Lindl (Vettorazzi et al. 2019) and for Passiflo
 treatments, it is assumed that cryopreservation has more long-term advantages when compared to 
 storage in a refrigerator, in which there may be degradation and contamination of the material in the 
 medium term. 
- 
-Conclusions 
+
 In conclusion, the method of immersing the seeds in liquid nitrogen for a period of 24 hours is 
 sufficient to promote the interruption of metabolism. Hence, one can infer the tolerance potential and 
 its indefinite storage projection. The use of the cryopreservation method for V. reitzii seeds, with 
@@ -330,365 +333,9 @@ conservation system. Accentuating, however, the importance of the seed maturity 
 content, as important factors for the success in the conservation process. Moreover, V. reitzii seeds 
 have a natural desiccation process in the mother plant and present the ability to tolerate desiccation 
 and storage, key features to be classified as orthodox seeds. 
- 
-Acknowledgements 
+
 The authors thank Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), 
 Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) and Fundação de Amparo 
 à Pesquisa e Inovação do Estado de Santa Catarina (FAPESC), for fellowships, research grants, and 
 financial support. We also thank Laboratório Central de Microscopia Eletrônica (LCME-UFSC), 
 where part of the work was developed through technical analysis support. 
-15 
- 
- 
-Author Contributions 
-Francisco S. Montoya-Serrano: Designed and performed the experiments, wrote the manuscript 
-and prepared figures. The author read and approved the final version and reviewed the manuscript.  
-Rosete Pescador: Supervised the project and provided funding. The author read and approved the 
-final version and reviewed the manuscript. Contribution to critical revision, adding intellectual 
-content. 
-Lirio L. Dal Vesco: Supervised the project and collected the plant material. The author read and 
-approved the final version and reviewed the manuscript. Contribution to critical revision, adding 
-intellectual content. 
- 
-Conflicts of interest 
-There is no conflict of interest 
- 
-Literature cited 
- 
-Brasil. 2009. Ministério da Agricultura, Pecuária e Abastecimento. Secretaria de Defesa 
-Agropecuária. Regras para análise de sementes. Available at https://www.gov.br/agricultura/pt-
-br/assuntos/laboratorios/arquivos-publicacoeslaboratorio/manual-de-sementes-site.pdf/view 
-(access in 20-IV-2020) 
-Carvalho, C.P., Cardoso-Gustavson, P., Rodrigues, E., Braga, MR., Mercier, H. & Nievola, 
-C.C. 2019. Low temperature acclimation and de-acclimation of the subtropical bromeliad 
-Nidularium minutum: Implications of changes in the NO, sugar content and NR activity. 
-Environmental and Experimental Botany 159: 34-43. 
-Corredor-Prado, J.P., De Conti, D., Cangahuala-Inocente, G.C., Guerra, M.P., Dal Vesco, L.L. 
-& Pescador, R. 2016. Proteomic analysis in the induction of nodular cluster cultures in the 
-bromeliad Vriesea reitzii Leme and Costa. Acta Physiologiae Plantarum 38(5): 130. 
-Corredor-Prado, J.P., DE Conti, D, Júnior, D.R., Cangahuala-Inocent,e G.C., Guerra, M.P., 
-DAL Vesco, L.L. & Pescador, R. 2019. Proteomic identification of differentially altered proteins 
-during regeneration from nodular cluster cultures in Vriesea reitzii (Bromeliaceae). Journal of 
-Plant Growth Regulation 38(2): 586-599. 
-Corredor-Prado, J.P., Schmidt, E.C., Guerra, M.P., Bouzon, Z.L., Dal Vesco, L.L. & Pescador, 
-R. 2015. Histodifferentiation and ultrastructure of nodular cultures from seeds of Vriesea 
-friburgensis Mez var. paludosa (L.B. Smith) L.B. Smith and leaf explants of Vriesea reitzii Leme 
-e A. Costa (Bromeliaceae). Journal of Microscopy and Ultrastructure 3: 1-10. 
-Corredor-Prado, J.P., DE Conti, D., Guerra, M.P., Dal Vesco, L.L. & Pescador, R. 2020. 
-Dynamics of proteins, carbohydrates and global DNA methylation patterns during induction of 
-nodular cluster cultures from seeds of Vriesea reitzii. Acta Scientiarum. Agronomy 42: 42448. 
-Costa, A.F., Gomes-Da-Silva, J., Wanderley, M. D.G.L. 2014. Vriesea (Bromeliaceae, 
-Tillandsioideae): taxonomic history, and morphology of the Brazilian lineage. The Journal of the 
-Torrey Botanical Society 141: 338-352. 
-16 
- 
-Costa, A.F., Moura, R.L., Neves, B., Machado, T.M., Kessous, I.M., Uribbe, F.P., Couto, D.R., 
-Gomes-da-Silva, J. 2020. Vriesea in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. 
-Available at http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6414 (access in 09-IV-2021). 
-Cruz-Cruz, C. A., González-Arnao, M. T., & Engelmann, F. 2013. Biotechnology and 
-conservation of plant biodiversity. Resources 2(2): 73-95. 
-Dal Vesco, L.L. & Guerra, M.P. 2010. In vitro morphogenesis and adventitious shoot mass 
-regeneration of Vriesea reitzii from nodular cultures. Scientia Horticulturae 125(4): 748-755.  
-Dal Vesco, L.L., Pescador, R., Corredor-Prado, J.P., Welter, L.J. & Guerra, M.P. 2014a. In vitro 
-propagation of Vriesea reitzii, a native epiphyte bromeliad from the Atlantic rainforest. Acta 
-Scientiarum. Biological Sciences 36(3): 271-278. 
-Dal Vesco, L.L., Vieira, P.M., Corredor, J.P., Pescador, R., Welter, L.J. & Guerra, M.P. 2014b. 
-Induction and development of nodular cluster cultures in Vriesea reitzii (Leme and Costa), and 
-endangered bromeliad from the Brazilian Atlantic Forest. The Journal of Horticultural Science 
-and Biotechnology 89(5): 542-548. 
-De Paula, J.C., Men, G.B., Biz, G., Júnior, W. A. & De Faria, R.T. 2020. Cryopreservation of 
-seeds from endangered Brazilian bromeliads - Dyckia brevifolia Baker and D. delicata Larocca 
-& Sobral. Revista Brasileira de Ciências Agrárias 15(4): 1-8. 
-Dousseau, S., Alvarenga, A.A., Guimarães, R.M., Lara, T.S., Custódio, T.N. & Chaves, I.S. 
-2011. Ecophysiology of Campomanesia pubescens seed germination. Ciência Rural 41(8): 1362-
-1368. 
-Dubois, M., Gilles, K.A., Hamilton, J.K., Rebers, P.T. & Smith, F. 1956. Colorimetric method for 
-determination of sugars and related substances. Analytical chemistry 28(3): 350-356. 
-Engelmann, F. 2011. Use of biotechnologies for the conservation of plant biodiversity. In Vitro 
-Cellular & Developmental Biology-Plant 47(1): 5-16. 
-Ferrari, E.A.P., Colombo, R.C., Faria, R.T. & Takane, R.J. 2016. Cryopreservation of seeds of 
-Encholirium spectabile Martius ex Schultes f. by the vitrification method. Revista Ciência 
-Agronômica 47(1): 172-177. 
-Generoso, A. L., Carvalho, V. S., Walter, R., Campbell, G., da Silva Araújo, L., Santana, J. G. 
-S., & da Cunha, M. 2019. Mature-embryo culture in the cryopreservation of passion fruit 
-(Passiflora edulis Sims) seeds. Scientia Horticulturae 256: 108638. 
-González-Arnao, M.T. & Engelmann, F. 2013. Consideraciones teóricas y prácticas para la 
-crioconservación de germoplasma vegetal. América Latina y el Caribe 37. 
-Gouda, E.J., Butcher, D. & Gouda, C.S. 2021. (cont.updated) Encyclopaedia of Bromeliads, 
-Version 4. Available at http://bromeliad.nl/encyclopedia/ University Botanic Gardens, Utrecht 
-(access in 09-IV-2021). 
-Guerra, M.P. & Dal Vesco, L.L. 2010. Strategies for the micropropagation of bromeliads. In 
-Protocols for in vitro propagation of ornamental plants. Humana Press pp. 47-66. 
-Guimarães, D.M. & Barbosa, J.M. 2007. Coloração dos frutos como índice de maturação para 
-sementes de Machaerium brasiliensi Vogel (Leguminosae - Fabaceae). Revista Brasileira de 
-Biociências 5(2): 567-569. 
-Hellmann, M.E., Mello, J.I., Barbedo, C.J. & Figueiredo-Ribeiro, R.C. 2008. Changes in the 
-storage carbohydrates of Caesalpinia echinata (brazilwood) seeds stored under different 
-temperatures). Hoehnea 35(2): 255-264. 
-Kaviani, B. 2011. Conservation of plant genetic resources by cryopreservation. Australian Journal 
-of Crop Science 5(6): 778-800. 
-Kulus, D. & Zalewska, M. 2014. In vitro plant recovery from alginate encapsulated 
-Chrysanthemum× grandiflorum (Ramat.) Kitam. shoot tips. Propagation of Ornamental Plants 
-14(1): 3-12. 
-Maguire, J.D. 1962. Speed of germination-aid selection and evaluation for seedling emergence and 
-vigor. Crop Science 2(2): 176-177. 
-17 
- 
-Martinelli, G. & Moraes, M.A. 2013. Livro vermelho da flora do Brasil. 1 ed. Rio de Janeiro: 
-Andrea Jakobsson: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro. 
-Martinelli, G., Vieira, C.M., Gonzalez, M., Leitman, P., Piratininga, A., Costa, A.F.D. & Forzza, 
-R.C. 2008. Bromeliaceae da Mata Atlântica brasileira: Lista de espécies, distribuição e 
-conservação. Rodriguésia, 59(1): 209-258. 
-Martins, L., Lago, A.A., Andrade, A.C. & Sales, W.R.M. 2009. Conservação de sementes de ipê-
-roxo (Tabebuia impetiginosa (Mart. ex DC.) Standl.) em nitrogênio líquido. Revista Brasileira de 
-Sementes 31(2): 71-76. 
-Mollo, L., Martins, M.C., Oliveira, V.F., Nievola, C.C. & Rita De Cássia, L. 2011. Effects of low 
-temperature on growth and non-structural carbohydrates of the imperial bromeliad Alcantarea 
-imperialis cultured in vitro. Plant Cell, Tissue and Organ Culture 107(1): 141-149. 
-Morel, G.M. & Wetmore, R.H. 1951. Tissue culture of monocotyledons. American Journal of 
-Botany 38: 138-140. 
-Murashige, T. & Skoog, F. 1962. A revised medium for rapid growth and biossays with tobacco 
-tissue cultures. Physiologia plantarum 15: 473-497. 
-Pereira, A.R., Andrade, A.C.S., Pereira, T.S., Forzza, R.C. & Rodrigues, A.S. 2010. 
-Morphological aspects of seed, germination and storage of Pitcairnia albiflos (Bromeliaceae). 
-Seed Science and Technology 38: 79-87. 
-Popova, E., Kim, H.H., Saxena, P.K., Engelmann, F. & Pritchard, H.W. 2016. Frozen beauty: 
-The cryobiotechnology of orchid diversity. Biotechnology Advances 34(4): 380-403. 
-R Development Core Team. 2010. R: A language and environment for statistical computing 
-[Computer software]. Vienna, Austria. Available at http://www.R-project.org. 
-Rocha, M.D.S., Cavalcanti Mata, M.E., Carvalho, J.M. & Lopes, K.P. 2009. Crioconservação de 
-sementes de algodão. Revista Brasileira de Engenharia Agrícola e Ambiental 13(3): 312-318. 
-Rodrigues, A.R.P., Forzza, R.C. & Andrade, A.C.S. 2014. Physiological characteristics 
-underpinning successful cryopreservation of endemic and endangered species of Bromeliaceae 
-from the Brazilian Atlantic Forest. Botanical Journal of the Linnean Society 176(4): 567-578. 
-Salomão, A., Santos, I.R., José, S.C. 2020. Cryopreservation of Pyrostegia venusta (Ker Gawl.) Miers seeds. Hoehnea 
-47, e1042019. Available at https://www.scielo.br/j/hoehnea/a/7fkXJntFZHb4J8CgPztymhy/?format=html&lang=en 
-(access in 25-IV-2021). 
-Silva, L.M. Mata, M.E. & Duarte, M.E. 2015. Teor de água limite para crioconservação de 
-sementes de romã (Punica granatum L.). Engenharia Agrícola 35(2): 313-321. 
-Stehmann, J.R., Forzza, R.C., Sobral, M., Salino, A. & Kamino, L.H.Y. 2009. v. 1, Plantas da 
-Floresta Atlântica in Rio de Janeiro: Jardim Botânico do Rio de Janeiro. 
-Tarré, E., Pires, B.B.M., Guimarães, A.P.M., Carneiro, L.A., Forzza, R.C. & Mansur, E. 2007. 
-Germinability after desiccation, storage and cryopreservation of seeds from endemic Encholirium 
-Mart. ex Schult. and Schult. f. and Dyckia Schult. and Schult. f. species (Bromeliaceae). Acta 
-Botanica Brasilica 21(4): 777-783. 
-Vendrame, W., De Faria, T., Sorace, M. e Sahyun, S. 2014. Orchid Cryopreservation. Ciência e Agrotecnologia 
-38(3): 213-229. Available at https://www.scielo.br/j/cagro/a/vXZWKxQDZH8ZGLjtJXwRsDH/?lang=en 
-(access in 02-X-2019). 
-Vettorazzi, R. G., Carvalho, V. S., Teixeira, M. C., Campostrini, E., Da Cunha, M., de Matos, 
-E. M., & Viccini, L. F. 2019. Cryopreservation of immature and mature seeds of Brazilian orchids 
-of the genus Cattleya. Scientia Horticulturae 256: 108603. 
-Zaritzky, N.E. 2015. The Role of Water in the Cryopreservation of Seeds. In: Water Stress in 
-Biological, Chemical, Pharmaceutical and Food Systems. New York: Springer, pp. 231-244. 
-Zappi, D.C., Filardi, F.L.R., Leitman, P., Souza, V.C., Walter, B.M., Pirani, J.R. & Forzza, R.C. 
-2015. Growing knowledge: an overview of seed plant diversity in Brazil. Rodriguésia 66(4): 
-1085-1113. 
-18 
- 
-Walters, C. 2015. Orthodoxy, recalcitrance and in-between: describing variation in seed storage 
-characteristics using threshold responses to water loss. Planta 242(2): 397-406. 
-Wen, B., Wang, R.L. & Song, S.Q. 2009. Cytological and physiological changes related to 
-cryotolerance in orthodox maize embryos during seed development. Protoplasma 236(1-4): 29-
-37. 
-Wen, B. 2010. Cytological and physiological changes related to cryotolerance in recalcitrant 
-Livistona chinensis embryos during seed development. Protoplasma 248(3): 483-491. 
-Wesley-Smith, J., Berjak, P., Pammenter, N. W., & Walters, C. 2014. Intracellular ice and cell 
-survival in cryo-exposed embryonic axes of recalcitrant seeds of Acer saccharinum: an 
-ultrastructural study of factors affecting cell and ice structures. Annals of Botany 113(4): 695-
-709. 
-Wesley-Smith, J., Walters, C., Pammenter, N. W., & Berjak, P. 2015. Why is intracellular ice 
-lethal? A microscopical study showing evidence of programmed cell death in cryo-exposed 
-embryonic axes of recalcitrant seeds of Acer saccharinum. Annals of Botany 115(6): 991-1000. 
- 
- 
-Associate Editor: Nelson Augusto dos Santos Júnior 
-Received: 24/01/2021 
-Accepted: 09/12/2021 
- 
- 
- 
-19 
- 
-Table 1. Germination speed index (GSI) from Vriesea reitzii Leme & A.F. Costa seeds collected on 
-different days after anthesis -DAA (120, 135 and 150 days) and cryopreservation. 
- 
-Days After 
-Anthesis 
-Moisture 
-Content (%)1 
-Germination (%)2 
-  
-Cryopreserved (+NL) Non-cryopreserved (-NL) Mean 
-120 
-17.6a 
- 
-72.5 
-67.5 
-70.0b  
-135 
-14.6b 
- 
-75.0 
-77.5 
-76.3b  
-150 
-14.5b 
- 
-89.2 
-90.0 
-89.6a  
- 
-Mean  
- 
-78.9 A 
-78.3 A 
-78.6 
- 
-*Means followed by different letters in the column (lowercase) are significantly different by Tukey´s 
-test (p<0.05) and means followed by different letters in the line (Capital letter) are significantly 
-ANOVA. CV (%) = 1 = 11.8%; 2 = 9.3%. 
- 
-Table 2. Moisture content (%) and Effect storage temperature (cryopreserved and non-cryopreserved) 
-and germination (%) from Vriesea reitzii Leme & A.F. Costa seeds collected on different days after 
-anthesis - DAA (120, 135 and 150 days). 
- 
-Germination speed index (GSI) 
- 
-Days after anthesis (DAA) 
- 
-Treatment 
-120 
-135 
-150 
-Mean  
-Cryopreserved (+NL) 
-13.8 
-14.3 
-16.9 
-15.0a 
-Non-cryopreserved (-NL) 
-13.5 
-14.5 
-17.0 
-15,0a 
-Mean 
-13.7 B 
-14.4 B 
-17.0 A 
-15.0 
-*Means followed by different letters in the column (lowercase) are significantly different by ANOVA 
-and means followed by different letter in the line (capital letter) are significantly different by Tukey´s 
-test (p<0.05). CV (%) = 15.2%. 
- 
-Table 3. Average levels of total soluble carbohydrates (mg g-1MF) of Vriesea reitzii Leme & A.F. 
-Costa seeds at three different times of fruit collection (120, 135 and 150 days after anthesis - DAA) 
-and subjected to cryopreservation (+ NL) and non-cryopreserved (-NL). 
- 
-Treatment  
-Days after anthesis (DAA) 
-Mean  
-120 
-135 
-150 
-Cryopreserved (+NL) 
-7.94 
-8.240 
-9.45 
-8.55a 
-Non-cryopreserved (-NL) 
-6.74 
-7.800 
-9.41 
-7.98a 
-Mean  
-7.34A 
-8.02A 
-9.43A 
-8.27 
-*Values expressed in mg of glucose equivalent (mg g-1MF) for each 1g of seeds, from a standard 
-curve with R2 = 0.9989. Means followed by different letters in the column (lowercase) are 
-significantly different by ANOVA and means followed by different letter in the line (capital letter) 
-are significantly different by Tukey´s test (p<0,05). 
-20 
- 
- 
- 
-Figure 1. Morphological and histological aspects of cryopreserved Vriesea reitzii seeds Leme & A.F. 
-Costa (+LN) and non-cryopreserved (-LN) subjected to double staining of toluidine blue (TBO) and 
-Lugol. a. seed overview, the embryo (arrowhead), plumose appendages (arrow); b. TBO: seed cross 
-section, the cross section of the seed containing the embryo, endosperm structure, aleurone layer 
-(arrowhead) and procambium or nuclei of embryonic stem cells (arrow); c-h. it can observe cell wall 
-of thickened aleurone layer (arrowhead) and compounds starch grains (arrow): c. TBO and Lugol: 
-120 DAA +LN seed; d. TBO and Lugol: 135 DAA +LN seed; e. TBO and Lugol: 150 DAA +LN 
-seed; f. TBO and Lugol: 120 DAA -LN seeds; g. TBO and Lugol: 135 DAA -LN seeds; h. TBO and 
-Lugol: 150 DAA -LN seeds. Bar: 50 µm. DAA: Days after anthesis. TBO: Toluidine Blue. LN: Liquid 
-nitrogen.  
- 
- 
-21 
- 
- 
- 
-Figure 2. Transmission electron microscopy (TEM) images of Vriesea reitzii Leme & A.F. Costa 
-seed. a. embryo non-cryopreserved cell structure. Protein bodies (PB), nucleus, and lipid bodies (LB); 
-b. detail of the cell nucleus (N), nucleus membranes (NM) and lipid bodies (LB); c. detail of protein 
-bodies (PB), intercellular space (IS); d. embryo cryopreserved cell structure, nucleus, protein bodies 
-(PB), lipid bodies (LB), intercellular space (IS); e. detail of the cryopreserved cell nucleus, Nucleus 
-(N), nucleus membranes (NM); f. detail of protein bodies (PB) and lipid bodies (LB). PB: protein 
-bodies; LB: lipid bodies; IS, intercellular space; (NM), nucleus membranes; N, nucleus. Bar a,d = 2 
-µm; b, c, e = 1 µm. 
- 
- 
-22 
- 
-CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE 
-PREPRINTS DO SCIELO 
- 
- 
- 
-Ao Comitê Editorial de HOEHNEA 
- 
- 
-Declaro, em meu próprio nome e nos dos demais Autores, que concordo com a publicação 
-do Artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Seeds cryopreservation of Vriesea 
-reitzii Leme & A.F. Costa Endemic Bromeliad from Atlantic Rainforest” de autoria de Francisco 
-S Montoya-Serrano, Lírio L. Dal Vesco e Rosete Pescador, no Portal de Preprints do SciELO Brasil 
-(https://preprints.scielo.org/index.php/scielo/preprints/section/biological). 
-Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não  está 
-sendo considerado para publicação em outro periódico, quer seja no formato impresso e/ou 
-eletrônico. 
- 
-Florianópolis, 7 de janeiro de 2022. 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-08/2021
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)
