@@ -1,52 +1,4 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/2236-8906-102/2020
-A new species of Vriesea Lindl. (Bromeliaceae) from the Atlantic
-Rainforest of São Paulo State, Brazil
-Suzana Ehlin  Martins, Maria das Graças Lapa  Wanderley
-https://doi.org/10.1590/2236-8906-102/2020
-Submitted on: 2021-06-09
-Posted on: 2021-06-11 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-1 
- 
-A new species of Vriesea Lindl. (Bromeliaceae) from the Atlantic Rainforest of São Paulo 
-State, Brazil 
-Suzana Ehlin Martins1 and Maria das Graças Lapa Wanderley2 
- 
-Received: 10.09.2020; Accepted: 11.01.2021 
- 
-Título resumido: New Vriesea Atlantic Rainforest 
- 
-Suzana Ehlin Martins: https://orcid.org/0000-0001-7433-4239 
- 
- 
-Maria das Graças Lapa Wanderley: https://orcid.org/0000-0002-7294-6642 
- 
- 
- 
- 
- 
- 
-1 Instituto de Pesquisas da Biodiversidade, Rua Henrique Monteiro 90, 13º andar, Pinheiros, 05423-
-020 São Paulo, SP, Brazil 
-2 Instituto de Botânica, Núcleo de Pesquisa Curadoria do Herbário SP, Avenida Miguel Stéfano 
-3687, Água Funda, 04301-902 São Paulo, SP, Brazil 
-3. Corresponding author: suzanaemartins@yahoo.com.br 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-2 
- 
-ABSTRACT – (A new species of Vriesea Lindl. (Bromeliaceae) from the Atlantic Rainforest of 
+(A new species of Vriesea Lindl. (Bromeliaceae) from the Atlantic Rainforest of 
 São Paulo State, Brazil). A new species of Vriesea Lindl. is described and illustrated. Vriesea 
 altobocainensis is only known for the Atlantic Forest of Serra da Bocaina. It is a robust epiphyte, 
 characterized by a reddish inflorescence, and floral and primary bracts with an orbicular and 
@@ -54,29 +6,7 @@ broadly ovate shape; morphologically, it is close to Vriesea altodaserrae L.B.Sm
 sceptrum Mez. However, the new species can be distinguished from these others mainly for the 
 color, dimensions and shape of floral and primary bracts, number of inflorescence branches and 
 number of flowers per branch.  
-Keywords: epiphyte, serra da Bocaina, taxonomy, Tillandsioidae 
- 
-RESUMO – (Uma nova espécie de Vriesea Lindl. (Bromeliaceae) da Mata Atlântica do Estado de 
-São Paulo, Brasil) Uma nova espécie de Vriesea Lindl. é descrita e ilustrada. Vriesea 
-altobocainensis é conhecida apenas para a Mata Atlântica da Serra da Bocaina. É uma epífita de 
-porte robusto, caracterizada pela inflorescência avermelhada com brácteas primárias e florais de 
-formato orbicular a largamente oval. Relaciona-se morfologicamente com Vriesea altodaserrae 
-L.B.Sm. e Vriesea sceptrum Mez, das quais pode ser distinta principalmente pela coloração, 
-dimensões e forma das brácteas florais e primárias, número de ramos da inflorescência e quantidade 
-de flores por ramo. 
-Palavras-chave: epífita, serra da Bocaina, taxonomia, Tillandsioidae 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-3 
- 
- 
-Introduction 
+
 Vriesea Lindl. is included in the subfamily Tillandsioideae, which, based on phylogenetic and 
 morphological studies, has gone through segregation, with the establishment of new genera (Barfuss 
 et al. 2016). In this new circumscription, Vriesea is characterized mainly for the presence of a stigma 
@@ -87,6 +17,7 @@ the main diversity centres being the Brazilian Atlantic Forest (Costa et al. 200
 et al. (2015), Vriesea is the richest genus of Bromeliaceae in Brazil with almost 230 species (Gouda 
 et al. cont. updated). It is also among the most diverse genera (ca. 170 spp.) within the Atlantic 
 Rainforest domain (BFG 2018, Flora do Brasil 2020 under construction).  
+
 Serra da Bocaina is part of the Serra do Mar mountain range and is located along the boundaries of 
 the States of São Paulo and Rio de Janeiro, in Southeastern Brazil. Serra da Bocaina is formed by 
 large extensions of well-preserved Atlantic Rainforest, including several physiognomical formations 
@@ -95,37 +26,22 @@ the great topographical variation (rising from sea level to 2,088 m) with marked
 mountainous highlands, and the high pluvial rates (annual average of ca. 1,700 mm), have likely 
 formed distinct niches and refuges, rendering high levels of biological diversity and endemism 
 (IBAMA 2002, Freitas 2010).   
+
 During our collecting expeditions in Serra da Bocaina, a new species of Vriesea was identified. Here, 
 we describe and illustrate this new species. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-4 
- 
-Material and Methods 
+
 The species description was based on herbarium and fresh material, which were collected during the 
 field expeditions to Serra da Bocaina, in areas surrounding the Parque Nacional da Serra da Bocaina 
 (Serra da Bocaina National Park),  and deposited at SP Herbarium.   
+
 In order to complement the information and evaluate the morphological characters, samples of the 
 new species and the two species morphologically closest to it were carefully analysed.  
+
 The measurement of the floral bracts was done in the structures of the middle of the inflorescence 
 and additional information was obtained from specialized literature (Smith & Downs 1977, Reitz 
 1983, Costa et al. 2007, Rosa 2011, Flora do Brasil 2020 under construction), as well as the Brazilian 
 virtual herbarium Herbário Virtual REFLORA (Reflora cont. updated) and speciesLink network. 
- 
-Description of the new species and Discussion 
- 
-Vriesea altobocainensis S.E. Martins & Wand., sp. nov. Type: BRAZIL. São Paulo: São José do 
-Barreiro, Serra da Bocaina, estrada para a rampa da Asa Delta, Floresta Ombrófila Densa Alto-
-Montana (23K 0537064 7488814), 1.770 m.s.m., 01.X.2019, fl., fr., S.E. Martins 1214 & M.G.L. 
-Wanderley.  (Holotype SP)  
-Figures 1-3 
+
 Epiphytic plants. Leaf rosettes infundibuliform. Leaf-sheaths broadly elliptic, dark-brow, leaf-blades 
 linear-lanceolate, apex acute-attenuate, mucronate. Peduncle bracts imbricate, the lower ones green, 
 foliaceous and suberect; the upper ones with dilated sheaths, orbicular, reddish, blades suberect to 
@@ -133,19 +49,12 @@ patent, lanceolate, green. Inflorescence compound, heterothetic double raceme; b
 patent with an ascending to slightly sigmoid apical portion, bearing (8-)10-20 flowers; primary 
 bracts longer than the peduncles of branches but shorter than the branches, red; peduncle of 
 branches with 1-2 sterile bracts; rachilla red, slightly geniculate, internodes short, ca. 1 cm long. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-5 
- 
 Floral bracts red or red with a yellow apex, orbicular to broadly-ovate, apex obtuse, apiculate, 
 carinate. Flowers distichous, suberect in anthesis; sepals yellow; petals yellow, slightly orangish at 
 the apex, apex rounded, petal appendages 2, longitudinally adnate to the petal, with superior free 
 portion ovate or rhombic-ovate, apex rounded or obtuse, margins entire. Anthers included to slightly 
 exserted; ovary cylindrical. Seeds with long funicles.  
+
 Epiphytic plants, 0.8-1.7 m tall when flowering. Leaf rosettes infundibuliform. Leaf-sheaths 23 × 9-
 14 cm, broadly elliptic, dark-brown; leaf-blades 36-72 × 5.5-7.5 cm, linear-lanceolate, green with 
 some darker and tenuous transversal stripes, apex acute-attenuate, mucronate. Peduncle 50-63 cm 
@@ -166,14 +75,6 @@ one with a sterile bract, the lower branches with up to 2 sterile bracts, simila
 in the flowering branches and up to 2.2 cm long in the fruiting branches. Floral bracts 2.1-3.5 × 2-3 
 cm, orbicular to broadly-ovate, almost completely embracing the base of the rachilla, apex obtuse, 
 apiculate, carinate, red, equaling the length of sepals or only those in the distal portion of the branch 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-6 
- 
 red with a yellow apex and shorter than the sepals, suberect and imbricate before anthesis, subpatent 
 and spaced after anthesis, exposing the rachilla. Flowers distichous, suberect in anthesis; sepals ca. 
 2.5 × 1 cm, narrowly ovate, yellow, apex acute, mucronate, not carinate; petals ca. 3.2-3.5 × 0.7 cm, 
@@ -183,35 +84,20 @@ rhombic-ovate, apex rounded or obtuse, margins entire; stamens ca. 2.8 cm long, 
 outer verticil, and three of the inner verticil epipetalous, adnate ca. 0.4 cm, anthers ca. 0.5 cm long, 
 linear; gynoecium 3-3.4 cm long, ovary cylindrical, axile placentation. Fruit a capsule, 3.5-4.5 × 1.4 
 cm; seeds ca. 1.7 cm long, funicle long, ca. 1 cm.    
-Paratypes: BRAZIL. São Paulo: São José do Barreiro, arredores do Parque Nacional da Bocaina, 
-capão de mata próximo à pista de decolagem de voo-livre (22º42’21,0” S, 44º38’16,5” W), 1692 
-m.s.m., 15.X.2007, fl., L.M. Versieux & A.M. Calvente 449 (SP). São José do Barreiro, Serra da 
-Bocaina, estrada para a rampa da Asa Delta. Floresta Ombrófila Densa Alto-Montana (23K 0537189 
-7488859), 1770 m.s.m., 03.XI.2016, fl., fr., M.G.L. Wanderley 3017, S.E. Martins & M. Leodegario 
-(SP). São José do Barreiro, Serra da Bocaina, estrada para a rampa da Asa Delta, Floresta Ombrófila 
-Densa Alto-Montana (23K 0537189 7488859), 1770 m.s.m., 03.XI.2016, fl., fr., M.G.L. Wanderley 
-3018, S.E. Martins & M. Leodegario (SP). São José do Barreiro, Serra da Bocaina, estrada para a 
-rampa da Asa Delta, Floresta Ombrófila Densa Alto-Montana (23K 0537296 7489106), 1770 m.s.m., 
-30.IX.2019, fl., fr., S.E. Martins 1214 & M.G.L. Wanderley (SP). 
+
 Vriesea altobocainensis is a remarkable species from the Atlantic Forest of Serra da Bocaina. It is 
 characterized by the robust habit, infundibuliform rosettes, inflorescences branches patent, with the 
 apical portion of the branches ascending to slightly sigmoid [as documented in some species of 
 Alcantarea (E. Morren ex Mez) Harms], red primary and floral bracts, and distichous flowers. 
 Although this species is tipically an epiphyte, it can be found growing on the soil when falling from 
 the forest canopy. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-7 
- 
+
 According to Costa et al. (2015),  through the analysis of morphological characters, Vriesea sceptrum 
 Mez and Vriesea altodaserrae L.B. Sm. belong to the same clade, along with basal lineages of Vriesea 
 species. These species can be characterized by the compound inflorescences, with bracts longer than 
 the peduncle of the branches, erect and linear to narrowly-oblong petals with apressed apices, and 
 included stamens as detailed below. 
+
 Vriesea altobocainensis is morphologically similar to V. sceptrum, a species from the highlands of 
 Serra da Mantiqueira, in the States of São Paulo, Minas Gerais and Rio de Janeiro. Both present a 
 robust habit, inflorescences with patent branches, dense and distichous flowers, short internodes (0.7-
@@ -222,6 +108,7 @@ bracts, 2-3 cm wide, obtuse at the apex, and yellow sepals. Vriesea sceptrum has
 inflorescence branches (13-15) and flowers in the branches [5-9(-12)], triangular to ovate upper 
 primary bracts, 2-5 cm wide, greenish-orange to orange rachillas, ovate floral bracts, 1.5-2.2 cm wide, 
 acute to obtuse at the apex, and orange sepals (figure 3). 
+
 Vriesea altobocainensis can also related to Vriesea altodaserrae, a species that inhabits the Serra do 
 Mar mountain range, from sea level to the highest lands of Paraná, Santa Catarina and São Paulo, 
 occuring also in Serra da Bocaina. Both species co-occur, with Vriesea altodaserrae being very 
@@ -232,315 +119,15 @@ and size of the rosettes, the predominant red color of the primary bracts, and t
 with yellow sepals and petals. However, Vriesea altobocainensis presents more robust inflorescence 
 branches, lower in number (10-21), thicker red rachillas, densely aggregated flowers, and internodes 
 with 0.8-1.1 cm long. In addition, the primary bracts of the upper portion of the rachis are orbicular 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-8 
- 
 to broadly-ovate, 6-8 cm wide; floral bracts are red or, when at the apex of the branch, red and yellow 
 at the apex, orbicular to broadly-ovate, 2-2.8 cm wide. Vriesea altodaserrae has more delicate 
 inflorescence branches, more numerous (20-30), thinner green to greenish-yellow rachillas, and 
 internodes 1.5-2 cm long. The primary bracts of the upper portion of the rachis are broadly-ovate, 3-
 6 cm long; floral bracts are yellow, ovate, 1.4-2 cm wide (figure 3). 
+
 Vriesea altobocainensis is restricted to the montains of Serra da Bocaina, in the Atlantic Rainforest, 
 growing preferably as an epiphyte. The specific epithet we propose refers to the locality where the 
 species occurs, the highlands of Serra da Bocaina.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-9 
- 
-Acknowledgments 
- 
+
 The authors thank Klei Sousa for the illustration, the two anonymous reviewers for their valuable 
 comments, Biologist Marcio Leodegario and Mr. José Lopes for fieldwork assistance.  
- 
-Author Contributions 
- 
-Suzana Ehlin Martins:  Substantial contribution in the concept and design of the study, contribution 
-to data collection, contribution to data analysis and interpretation, contribution to manuscript 
-preparation, contribution to critical revision, adding intellectual content. 
-Maria das Graças Lapa Wanderley: Substantial contribution in the concept and design of the study, 
-contribution to data collection, contribution to data analysis and interpretation, contribution to 
-manuscript preparation, contribution to critical revision, adding intellectual content. 
- 
-Conflicts of interest 
- 
-There is no conflict of interest. 
- 
-Literature cited 
- 
-Barfuss, M.H.J. et al. 2016. Taxonomic revision of Bromeliaceae subfam. Tillandsioideae based on 
-a multilocus DNA sequence phylogeny and morphology. Phytotaxa 279: 1-97. 
- 
-BFG - The Brazil Flora Group. 2018. Brazilian Flora 2020: Innovation and collaboration to meet 
-Target 1 of the Global Strategy for Plant Conservation (GSPC). Rodriguésia 69(4): 1513-1527. 
- 
-Costa, A.F., Gomes-da-Silva, J. & Wanderley, M.G.L. 2015. Vriesea (Bromeliaceae, 
-Tillandsioideae): a cladistic analysis of eastern Brazilian species based on morphological 
-characters. Rodriguésia 66(2): 429-440. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-10 
- 
-Costa, A.F., Wanderley, M.G.L. & Moura, R.L. 2007. 18. Vriesea Lindl., nom. cons. In: M.G.L. 
-Wanderley et al. (eds.). Flora Fanerogâmica do Estado de São Paulo. Instituto de Botânica, São 
-Paulo, vol. 5, pp. 163-161. 
- 
-Flora do Brasil 2020 under construction. Jardim Botânico do Rio de Janeiro. Available from 
-http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB6414 (accessed on 01-IX-2020). 
- 
-Forzza, R.C. et al. 2015. Bromeliaceae. In: Lista de Espécies da Flora do Brasil. Jardim Botânico do 
-Rio de Janeiro. Available from http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB6414 
-(accessed on 01-IX-2020). 
- 
-Gouda, E.J., Butcher, D. & Gouda, C.S. (cont. updated). Encyclopaedia of Bromeliads, Version 4. 
-University Botanic Gardens, Utrecht. Available from http://bromeliad.nl/encyclopedia/ (accessed 
-on 11-XI-2020). 
- 
-IBAMA. 2002. Plano de Manejo do Parque Nacional da Serra da Bocaina. Available from 
-http://www.icmbio.gov.br/parnaserradabocaina/extras/62-plano-de-manejo-e-monitorias.html 
-(accessed on 01-IX-2020). 
- 
-REFLORA - Herbário Virtual (cont. updated). Available from http://floradobrasil.jbrj.gov.br/reflora/herbarioVirtual/ 
-(accessed on 01-IX-2020). 
- 
-Reitz, R. 1983. Bromeliáceas e a malária-bromélia endêmica. In: R. Reitz (ed.). Flora Ilustrada 
-Catarinense, parte I, fasc. BROM. Herbário Barbosa Rodrigues, Itajaí.  
- 
-Rosa, A.E.M. 2011. Revisitação de Bromeliaceae na APA “Santuário Ecológico da Pedra Branca”, 
-Caldas, MG. Dissertação de Mestrado, Universidade Estadual Paulista, Rio Claro.. 
- 
-Smith, L.B. & Downs, R.J. 1977. Tillandsioideae (Bromeliaceae). Flora Neotropica Monograph 
-14(2): 663-1492.  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-11 
- 
-Table 1. Diagnostic characters of Vriesea altobocainensis S.E. Martins & Wand. and its most closely 
-related species, V. altodaserrae L.B. Sm. and V. sceptrum Mez.  
- 
-Table 1. Diagnostic morphological characters of Vriesea altobocainensis S.E. Martins & Wand. in 
-relation to V. altodaserrae L.B. Sm. and V. sceptrum Mez. 
- 
-Characters 
-Vriesea 
-altobocainensis 
-Vriesea altodaserrae Vriesea sceptrum 
-Number of inflorescence 
-branches 
-10-21 
-20-30 
-13-15 
-Length of inflorescence 
-branches 
-13-30 cm 
-20-30 cm 
-15-25 cm 
-Number of flowers per 
-branch 
-(8-)10-20 
-7-14 
-5-9(-12) 
-Primary bracts 
-(dimension)  
-4,5-12 × 6-8 cm 
-4-18 × 3-6 cm 
-(4,5)6-10 × 2-4 cm 
-Rachilla (color) 
-Red or reddish-green Green to yellowish-
-green 
-Greenish-orange to 
-orange  
-Rachilla internodes in 
-flowering (length) 
- 
-0,8-1,1 cm 
-(1-)1,5-2 cm 
-0,7-1,5 cm 
-Floral bracts (color) 
-Red to red with a 
-yellow apex 
-Yellow 
-Orangish to red 
-Floral bracts 
-(dimension/shape) 
-2,1-3,5 × 2-3 cm 
-Orbicular to broadly-
-ovate 
-(2-)2,5-3 × 1,4-2 cm 
-Ovate 
-(2-)2,7-3 × 1,5-2 cm 
-Ovate 
-Relation between floral 
-bracts × sepals 
-Bracts equalling the 
-sepals, to shorter 
-than the sepals at the 
-apex of the branch 
-Bracts shorter than 
-the sepals 
-Bracts shorter than 
-the sepals 
-Sepals (color) 
-Yellow 
-Yellow 
-Orangish or red  
-Petals (color) 
-Yellow 
-Yellow 
-Orangish 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-12 
- 
- 
-Figure 1. Vriesea altobocainensis S.E. Martins & Wand. a. Inflorescence. b. Leaf. c. Apex of the 
-peduncle bract. d. Whole flower in the apex of the inflorescence branch, and a bract of an undeveloped 
-flower. e. Flowering bract. f. Sepal. g. Petal with petal appendages, epipetalous stamen, and one free 
-lateral stamen. h. Pistil. i. Cross-section of the ovary showing axile placentation. j. Immature capsule. 
-(Wanderley 3018). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-13 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-14 
- 
- 
- 
-Figure 2. Vriesea altobocainensis S.E. Martins & Wand.  a. Habitat. b. Habit of a plant growing on 
-the ground. c. Branched inflorescence. d. Apex of an inflorescence branch before anthesis. e-f. Detail 
-of an inflorescence branch with one flower during anthesis. g. Flower without a flowering bract. h. 
-Petal, epipetalous stamen, and a petal appendage. (b. Wanderley 3018; c-h. Martins 1215). 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-15 
- 
- 
-Figure 3. Habit. a. Vriesea altobocainensis S.E. Martins & Wand. b. Vriesea altodaserrae L.B. Sm. 
-c. Vriesea sceptrum Mez. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
- 
-Scientific note 
-https://doi.org/10.1590/2236-8906-102/2020 
- 
-16 
- 
- 
- 
-CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE 
-PREPRINTS DO SCIELO 
- 
- 
-Ao Comitê Editorial de HOEHNEA 
- 
- 
-Declaro, em meu próprio nome e nos dos demais Autores que concordo com a publicação do artigo Aceíto 
-pelo Corpo Editorial de Hoehnea, intitulado "A new s_pedes of Vriesea Lindl. (Bromehceae) from lhe 
-Adanôc Jbinfo.nst of São PmJJo S Br.uiF de autoria de Suz:m2 
-Ehlin Martins e Maria das Graças Lapa Wanderley. no Portal de Preprints do SciELO Brasil (Biological 
-Sciences I ScíELO Prta>rints). 
-Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não está 
-sendo considerado para publicação em outra Revista, quer seja no formato impresso e/ou 
-eletrônico. 
- 
-São Paulo 17 de maio de 2021. 
- 
- 
- 
-Suzana Eh1in Martins 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-102/2020
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

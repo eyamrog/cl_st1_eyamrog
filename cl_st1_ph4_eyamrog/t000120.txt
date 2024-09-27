@@ -1,52 +1,4 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/2236-8906-91/2020
-The influence of forest litter on the endomicorritic fungi
-community in a natural regeneration area in São Paulo State,
-Brazil
-Luciana Aparecida  Giacomini, Carlos Aparecido de  Siqueira Junior
-https://doi.org/10.1590/2236-8906-91/2020
-Submitted on: 2021-06-02
-Posted on: 2021-06-10 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
-Article 
-DOI: https://doi.org/10.1590/2236-8906-91/2020 
- 
- 
-The influence of forest litter on the endomicorritic fungi community in a natural regeneration 
-area in São Paulo State, Brazil1 
- 
-Luciana Aparecida Giacomini1,3, Carlos Aparecido de Siqueira Junior2, Gustavo Padovani Ré2 and 
-André Cordeiro Alves dos Santos1 
-Recebido: 30.07.2020; aceito: 07.01.2021 
- 
-Endomicorritic fungi in a natural regeneration 
- 
-Luciana Aparecida Giacomini: https://orcid.org/0000-0002-7647-9092 
-Carlos Aparecido de Siqueira Junior: https://orcid.org/0000-0002-8106-334X 
-Gustavo Padovani Ré: https://orcid.org/0000-0003-3782-927X 
-André Cordeiro Alves dos Santos: https://orcid.org/0000-0001-6323-5200 
- 
- 
- 
- 
- 
- 
- 
- 
-1Parte da Dissertação de Mestrado do primeiro Autor 
-1 Universidade Federal de São Carlos, Departamento de Biologia, Rodovia João Leme dos Santos 
-(SP-264), Bairro do Itinga Km 110, 18052-780 Sorocaba, São Paulo, Brasil 
-2 Universidade Cruzeiro do Sul, Departamento de Ciências Biológicas, Praça Regente Feijó 181, 
-Centro, 13300-023 Itu, São Paulo, Brasil 
-3 Corresponding author: lucianagiacominni@gmail.com 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-2 
- 
-ABSTRACT – (The influence of forest litter on the endomicorritic fungi community in a natural 
+(The influence of forest litter on the endomicorritic fungi community in a natural 
 regeneration area in São Paulo State, Brazil). Natural areas of high biological diversity are being 
 degraded to meet man's need to convert them to various uses. The ecological restoration through litter 
 transposition enables for the reestablishment of ecological processes and may contribute to the 
@@ -57,27 +9,7 @@ chemical and microbiological analysis. Results indicated that the edaphic condit
 consistent with the presence of AMF; also, the transposed organic matter did not increase species 
 richness and did not facilitate the colonization of plant species, whereas gravimetric humidity and 
 grass may have influenced species richness. 
-Keywords: degraded soil, ecological restoration, glomeromycota, organic matter 
- 
-RESUMO – (Influência da serapilheira florestal na comunidade de fungos endomicorrízicos em área 
-de regeneração natural no interior do Estado de São Paulo, Brasil). Áreas naturais de elevada 
-diversidade biológica estão sendo degradadas para suprir a necessidade do homem em convertê-las 
-em usos diversos. A restauração ecológica por meio da transposição de serapilheira possibilita o 
-reestabelecimento dos processos ecológicos e pode contribuir com o aumento de microrganismos. 
-Objetivou-se avaliar a influência da serapilheira na comunidade de fungos micorrízicos em uma área 
-de Cabreúva, SP. Dez parcelas foram delimitadas, sendo cinco controle e cinco com tratamento. 
-Foram coletadas amostras de solo em dois períodos para análises físicas, químicas e microbiológicas. 
-Os resultados indicaram que as condições edáficas do local condizem com a presença de FMA, a 
-matéria orgânica transposta não promoveu aumento da riqueza de espécies e não facilitou a 
-colonização de espécies vegetais, enquanto que a umidade gravimétrica e a gramínea podem ter 
-influenciado na riqueza de espécies. 
-Palavras-chave: glomeromycota, matéria orgânica, restauração ecológica, solo degradado 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-3 
- 
-Introduction 
- 
+
 Tropical forests provide key ecosystem services to humans, conserve biodiversity and regulate 
 the climate (Berenguer et al. 2018). The practice of burning, the complete removal of natural 
 vegetation, the inadequate preparation of the soil for agricultural use and exploitation, without the 
@@ -90,6 +22,7 @@ succession (Secretaria do Meio Ambiente do Estado de São Paulo 2014). It is bas
 reestablishment of ecological processes without relying on traditional forestry techniques; it seeks to 
 emulate nature, using minimal inputs and restoring the health, integrity and sustainability of the 
 ecosystem through practices implemented in partial areas, called nuclei (Bechara 2006). 
+
 The purpose of the nucleation technique is to find various elements (microorganisms and 
 seeds, among others) in forest areas, and then move them to the disturbed area in order to create small 
 nuclear habitats that will produce environmental heterogeneity over time and space. These nuclei 
@@ -98,14 +31,11 @@ organisms that can establish ecological interactions (Reis et al. 2010, Reis et 
 describes several nucleating techniques used in the restoration process, such as soil transposition, 
 direct seeding, hydrosowing, transposition of branches, artificial perches, and the planting of 
 seedlings within high diversity islands (Reis et al. 2003).  
+
 The topmost layer of the forest soil, called serapillera or forest blanket, is a complex system 
 formed by residues of plants and animals at various degrees of decomposition, as well as living 
 microorganisms (De Souza et al. 2016). The use of biological methods such as nucleation in the 
 restoration of areas is an economical and efficient way to promote restoration or even recovery of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-4 
- 
 these areas (Almeida 2016). The increase in serapillera favors the cycling of nutrients, the 
 improvement of soil fertility (Primo et al. 2018), and can contribute to the inoculation of arbuscular 
 mycorrhizal fungi (AMF) that interact with plants and increase the efficiency in nutrient absorption 
@@ -117,12 +47,11 @@ and intense soil overturning are agricultural practices harmful to mycorrhizae (
 process, especially those that influence the dynamics of the serapillera, a better understanding of the 
 relationships between shrub mycorrhizae and the change in vegetation cover is needed (Maia et al. 
 2015).  
+
 Due to the importance of serapillera in environmental restoration and in the establishment of 
 endomycorrhizal fungi in the soil, the aim of this study was to assess the influence of serapillera 
 transposition on the AMF community within a disturbed area. 
- 
-Material and methods 
- 
+
 Experimental Area - the study site is an private area located in the countryside of thexxx State of São 
 Paulo, Brazil (UTM 7420062.55 S and 285802.26 E). According to the Köppen classification, the 
 climate of the municipality of Cabreúva is Cwa, humid subtropical, with an average annual 
@@ -131,10 +60,7 @@ soil cover is formed by red-yellow clay, with a textural B horizon, high acidity
 clay ratio in deeper layers (Dos Santos et al. 2018). In the past, the area was utilized as pasture, for 
 approximately two years it is covered by Urochloa brizantha (Hochst. Ex A. Rich.) R. D. Webster 
 without management actions. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-5 
- 
+
 Description of The Experiment - twenty-five continuous 7 x 7 m plots were delimited with string and 
 stakes. The grass was mowed with a brush cutter and removed from the site after ten permanent plots 
 were selected by the Research Randomizer system (https://www.randomizer.org/): five treatment 
@@ -143,78 +69,67 @@ according to the method laid out by De Arruda et al. (2014) for the determinatio
 chemical properties. Two composite samples (October 12th, 2017) from each of the ten plots were 
 collected from a depth of 0-20 cm with the aid of an auger (De Arruda et al. 2014) for chemical 
 (organic matter), physical (humidity) and microbiological analyses, totaling 20 samples. 
+
 In five of the ten plots, the treatment was implemented by transposing 1.2 liters per parcel of 
 serapillera from the second organic sub-horizon of a fragment of Semideciduous Seasonal Forest at 
 an intermediate stage of regeneration, located at a distance of seven kilometers from the experimental 
 area. After nine months following treatment implementation (July 12th, 2018), a new integrated soil 
 sample was collected for chemical analysis as well as two samples from each plot for chemical, 
 physical and microbiological analyses. 
+
 Laboratory Analysis - the organic matter was determined through the muffle furnace method (Goldin 
 1987), with the following modifications: 10 grams from each soil sample were weighed in porcelain 
 crucibles and subsequently dried in an oven at 90 ºC for 24 hours. The samples were then weighed 
 again and placed in a muffle furnace and incinerated at a temperature of 550 ºC for one hour. Finally, 
 the crucibles containing the sample residues were weighed as to determine the weight of the organic 
 matter therein. 
+
 To identify the glomerospores, 50 grams of each soil sample were weighed. The 
 glomerospores were extracted by wet sieving (Gerdemann & Nicolson 1963) and density gradient 
 centrifugation (Daniels & Skipper 1982), and fixed on microscopy slides with PVLG (lacto-glycerol 
 polyvinyl alcohol) and Melzer resin (De Novais et al. 2017). The spores were characterized 
 morphologically (Schenck & Pérez 1990) and identified taxonomically (Morton 2018, 
 Blaszkowski 2018, Goto & Jobim 2019).  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-6 
- 
+
 The determination of the total number of spores of the species found was conducted by 
 microscopic observation of individual slides (De Paula 2016), and the ecological indices related to 
 species richness – total sampled individuals, absolute frequency (Fa) and relative frequency (Fr) – 
-were determined according to the following equations: 
-Fa = ui /ut *100                                           
-(1) 
-Fr = Fai/ ∑
-Fai
-𝑛𝑛
-𝑖𝑖=1
-  
-(2) 
-where, 
+were determined according to the following equations: <>, where, 
+
 ui= number of plots where the ith species appears in the experimental unit per group (control or 
 treatment) 
+
 ut: total number of plots per group  
+
 Fai: absolute frequency of a given species 
-∑
-Fai
-𝑛𝑛
-𝑖𝑖=1
-: sum of the absolute frequencies of all species. 
+
+<>: sum of the absolute frequencies of all species. 
+
 Statistical Analysis - the software R version 3.6.0 was used to compare data concerning species 
 richness, gravimetric humidity and organic matter of dependent samples by means of the paired t-
 test with a significance level of p < 0.05. 
- 
-Results and Discussion 
- 
+
 Evaluation of The Natural Regeneration of Plant Species - when monitoring the experimental unit, it 
 was observed that, from the treatment implementation period (October 12th, 2017) to the second 
 collection of samples (July 12th, 2018), there was massive growth of Urochloa brizantha (Hochst. Ex 
 A. Rich.) R. D. Webster on all plots, and there was no germination of seedlings of shrub/arboreal 
 plant species and other weeds.  
+
 The genus Urochloa consists of exotic invasive species that proliferate and interact negatively 
 with native species through interspecific resource competition, cover growth and chemical inhibition 
 through the release of secondary compounds (Horowitz et al. 2007, Scabora 2011). In this 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-7 
- 
 competition, the exotic species is favored and may inflict a depressant effect on the native plants, 
 eliminating them from the site, which explains their absence on the plots. 
+
 Physico-chemical Analysis of Soil Integrated Samples - the soil particle size analysis performed on 
 the first integrated sample characterized the soil as sandy clay with an increased ratio of clay in deeper 
 layers, which categorizes it as “argissolo” (in the Brazilian Soil Classification System), according to 
 Dos Santos et al. (2018). 
- 
+
 The chemical properties of the two integrated samples (table 1) were interpreted in accordance 
 with Instituto Agronômico de Campinas (Raij et al. 1997) and Embrapa (Sobral et al. 2015), 
 considering the soil with a perennial culture regarding the presence of Urochloa. 
+
 The second sample was shown to contain less organic matter than the first, suggesting that the 
 organic matter underwent decomposition, considering the increment (addition of serapillera) received 
 by the treated plots. Phosphorus content decreased by 3 mg dm-3 between samples. It is possible to 
@@ -226,20 +141,18 @@ after analyzing soil samples from six South American countries, including Brazil
 that the total phosphorus content may decline due to a loss of dissolved organic and inorganic 
 phosphorus, caused by weathering processes that produce leaching or a reduction of soil mass, in 
 addition to the permanent occlusion of soil minerals. 
+
 The high potassium content indicates the presence of primary minerals and little weathering, 
 which is common for soils in drier regions (Sobral et al. 2015). Amongst micronutrients, zinc in 
 particular is absorbed by arbuscular mycorrhizae (De Novais et al. 2017), which may have accounted 
 for the reduction in its content between samples. Manganese content was considered high (Sobral et 
 al. 2015), but decreased in the dry season (July), which was also observed in a study conducted by 
 Bezerra (2017). Aluminum content also decreased in the dry season, while still maintaining levels 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-8 
- 
 that did not affect sporulation. Cardoso & Kuyper (2006) reported the increased uptake of these same 
 elements by plant-associated AMF, leading to a decrease in their content in the soil and even to a 
 reduction in soil toxicity for the plants. Finally, results concerning the integrated soil samples from 
 the experimental unit are consistent with the presence of AMF throughout the research. 
+
 Species Diversity - including the two sampling periods, 27 species were recorded (table 2), distributed 
 across eight genera: Pacispora (one species), Diversispora (one), Funneliformis (one), Archaeospora 
 (two), Scutellospora (three), Dentiscutata (four), Acaulospora (five) and Glomus (10), belonging to 
@@ -250,6 +163,7 @@ Archaeosporaceae,
 Dentiscutataceae, 
 Diversisporaceae, 
 Glomeraceae, Scutellosporaceae). 
+
 Glomus is a dominant genus in areas used for different purposes, including the Atlantic Forest 
 (Pereira et al. 2014), agroforestry systems (Bezerra & De Mello 2015), the Amazon (Reyes et al. 
 2019) and other Brazilian ecosystems (Da Silva et al. 2014). In this study, we found this genus present 
@@ -257,6 +171,7 @@ in disturbed areas with soil pH between 4.5 and 4.6, as pointed out by Borba & D
 when they reported on Glomus dominance in two disturbed areas. Its high prevalence in both rainy 
 and dry seasons indicates greater sporulation capacity and adaptability to soil conditions (Caproni et 
 al. 2003). 
+
 The second genus in terms of highest richness and absolute frequency was Acaulospora, 
 located in areas where the pH ranged between 4.4 and 5.0, as found by Da Silva et al. (2006). 
 However, neither genera are restricted to the edaphic conditions of the experimental unit and the 
@@ -265,13 +180,11 @@ South America, Africa, Europe, Asia, Antarctica and Oceania, and within the four
 tropical, subtropical, temperate, and boreal/austral (Stürmer et al. 2018). Glomus and Acaulospora 
 are the world's highest species-rich genera, with 54 and 52 species respectively, described in the 
 Glomeromycota clade (Da Silva et al. 2014; Goto & Jobim 2019). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-9 
- 
+
 The species Dentiscutata erythropus, Dentiscutata reticulata, Glomus aggregatum, Glomus 
 heterosporum, Glomus macrocarpum, Funneliformis geosporum, Archaeospora trappei are found on 
 four or more continents and are considered to be cosmopolitan in distribution (Stürmer et al. 2018). 
+
 Considering all identified species (n = 27), 14 were found in all groups in both sampling 
 periods. The species Acaulospora alpina and Glomus aggregatum did not appear in the first period, 
 which suggests a propensity for sporulation in the dry season. Total species richness displayed a 
@@ -281,6 +194,7 @@ this study was small, thus it is believed that a larger number of plots could st
 of this assumption. Studies aiming to investigate AMF diversity in disturbed soil with varying 
 gravimetric moisture and organic matter percentages throughout the year may provide guidance in 
 understanding the species most susceptible to these variables. 
+
 Physicochemical and Microbiological Analysis of Individual Soil Samples - when comparing the 
 percentages of gravimetric humidity, the control group showed no significant difference (p = 0.11) 
 between the samples, whereas the treatment group exhibited a significant difference (p = 0.01) 
@@ -288,6 +202,7 @@ between the sampling periods; this difference may be indirectly related to the p
 the humidity of all plots decreased, species richness decreased in four of the five plots, so it can be 
 assumed that the difference (p = 0.06) found between species over the two periods is significant 
 (figure 1). 
+
 The AMF species richness of the control group (p = 0.91) and the percentage of organic matter 
 in both control (p = 0.32) and treatment groups (p = 0.81) did not show significant differences between 
 sampling periods (figure 1). The wide variety of niches and opportunities in severely degraded areas 
@@ -295,14 +210,11 @@ also contributes to the greater richness of AMF species at the beginning of plan
 to research conducted in forest areas at various successional stages in the municipality of Alcântara, 
 MA (Reyes et al. 2019). However, the reduction in AMF richness over time in the treatment group 
 may be related to reduced fungal niche competition, higher population stability and a predominance 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-10 
- 
 of k-strategist species, with occasionally low levels of sporulation and better performance in 
 competitive survival, as mentioned by Pereira et al. (2014). The amount of litter transposed into the 
 treatment plots was not sufficient to promote a significant difference in the total percentage of organic 
 matter between samples. 
+
 The richness of AMF species in the treatment group during the dry season may have been 
 influenced by gravimetric humidity and the presence of Urochloa brizantha. In order to make the 
 restoration of the area possible, its complete removal is indispensable; manual or mechanized removal 
@@ -310,531 +222,13 @@ techniques, however, may produce changes in the physical and microbiological str
 The adoption of a chemical approach, in addition to contaminating the soil, may affect the life cycle 
 of microorganisms, so it becomes necessary to develop a technique that has minimal impact on soil 
 structure and composition. 
+
 Therefore, based on the above, in order to improve agricultural practices, as well as preserve 
 soil health and quality and specially to reduce the use of phosphorus-based chemical inputs, the 
 genera found in this research can be used in the municipality’s agricultural crops. 
- 
-Conclusion 
- 
+
 The transposition of litter from the Semideciduous Seasonal Forest to the soil disturbed with 
 Urochloa brizantha did not promote increased richness in arbuscular mycorrhizal fungus species, and 
 did not facilitate the colonization of plant species that are useful in the ecological restoration process, 
 thus suggesting that, before actions aimed at recovering an area are taken, the grass must be removed 
 completely. 
-Conflicts of interest 
- 
-The authors have no conflicts of interest to declare. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-11 
- 
-Author Contributions 
- 
-Luciana Aparecida Giacomini: were involved in the study concept, design, implementation, data 
-collection, data analysis, writing, critical revision and reviews of the manuscript versions. 
-Carlos Aparecido de Siqueira Junior and Gustavo Padovani Ré: were involved in data collection and 
-data analysis. 
-André Cordeiro Alves dos Santos: were involved in design, data analysis, critical revision and reviews 
-of the manuscript versions. 
- 
-Literature cited 
- 
-Almeida, D.S. 2016. Recuperação ambiental da mata atlântica. 3 ed. Editus - Scientific Electronic 
-Library Online, Ilhéus. 
-Bechara, F.C. 2006. Unidades demonstrativas de restauração ecológica através de técnicas 
-nucleadoras: Floresta Estacional Semidecidual, Cerrado e Restinga. Tese de Doutorado, 
-Universidade de São Paulo, Piracicaba.  
-Berenguer, E., Gardner, T.A., Ferreira, J., Aragão, L.E.O.C., Nally, R.M., Thomson, J.R., 
-Vieira I.C.G. & Barlow, J. 2018. Seeing the woods through the saplings: using wood density to 
-assess the recovery of human‐modified Amazonian forests. Journal of Ecology 106(6): 2190-
-2203.  
-Bezerra, A.C.A.F. Influência de distúrbios antrópicos e mudanças temporais sobre os fungos 
-micorrízicos arbusculares (FMA) no semiárido. 2017. Tese de Doutorado, Universidade Federal 
-de Pernambuco, Recife. 
-Bezerra, A.D.S. & De Mello, A.H. 2015. Fungos micorrízicos arbusculares no incremento inicial de 
-sistemas agroflorestais de agricultores familiares - uma alternativa sustentável de produção. In: 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-12 
- 
-Anais da Primeira Jornada Ensino, Pesquisa e Extensão da Universidade Federal do Sul e Sudeste 
-do Pará, Pará, pp. 1-4. 
-Blaszkowski, J. 2018. Arbuscular mycorrhizal fungi (Glomeromycota), Endogene and Complexipes 
-species deposited in the Department of Plant Pathology. University of Agriculture in Szczecin. 
-Available at http://www.zor.zut.edu.pl/Glomeromycota/index.html (access in 06-VII-2018). 
-Borba, M.F. & De Amorim, S.M.C. 2007. Fungos micorrízicos arbusculares em sempre-vivas: 
-subsídio para cultivo e replantio em áreas degradadas. Revista de Biologia e Ciências da Terra 7 
-(2): 20-27. 
-Brundrett, M.C., Piche, Y. & Peterson, R.L. 1985. A developmental study of the early stages in 
-vesicular–arbuscular mycorrhiza formation. Canadian Journal of Botany 63(2): 184-194. 
-Caproni, A.L., Franco, A.A., Berbara R.L.L., Trufem, S.B., Granha J.R.D. & Monteiro A.B. 
-2003. Occurrence of arbuscular mycorrhizal fungi in revegetated areas after bauxite mining in 
-Porto Trombetas, Pará. Brazilian Agricultural Research 38 (12): 1409-1418. 
-Cardoso, I.M. & Kuyper, T.W. 2006. Mycorrhizas and tropical soil fertility. Agriculture, 
-ecosystems & environment 116(1-2): 72-84. 
-Carrenho, R., Gomes-da-Costa S.M., Balota, E.L. & Colozzi-Filho, A. 2010. Fungos micorrízicos 
-arbusculares em agrossistemas brasileiros. In: J.O. Siqueira, F.A. De Souza, E.J.B.N. Cardoso & 
-S.M. Tsai (eds.). Micorrizas: 30 anos de pesquisas no Brasil. UFLA, Lavras, pp. 215-249. 
-CLIMATE-DATA. 2019. Cabreuva climate. Available at https://pt.climate-data.org/america-do-
-sul/brasil/sao-paulo/cabreuva-26239/ (access in 01-VII-2019). 
-Da Silva, C.F., Pereira, M.G., Da Silva, E.M.R., Correia, M.E.F. & Saggin-Júnior, O.J. 2006. 
-Fungos micorrízicos arbusculares em áreas no entorno do Parque Estadual da Serra do Mar em 
-Ubatuba (SP). Revista Caatinga 19 (1): 1-10. 
-Da Silva, D.K.A., Goto, B.T., Oehl, F., Silva, G.A., Nobre, C.P., Pereira, C.M.R., Mello, C.M.A., 
-De Assis, D.M.A., Marinho, F., Da Silva, I.R., De Pontes, J.S., Jobim, K., Vieira, L.C., De 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-13 
- 
-Sousa, N.M.F., De Lima, R.A.A. & Maia, L.C. 2014. Arbuscular mycorrhizal fungi: new 
-records in Northeast of Brazil. Biology Museum Bulletin Mello Leitão 36: 35-50. 
-Daniels, B.A. & Skipper, H.D. 1982. Methods for the recovery and quantitative estimation of 
-propagules from soil. In: N.C. Schenck (eds.). Methods and principles of mycorrhizal research. 
-American Phytopathological Society, New York, pp. 29-35. 
-De Arruda, M.R., Moreira, A. & Pereira, J.C.R. 2014. Amostragem e cuidados na coleta de solo 
-para fins de fertilidade. Embrapa Amazônia Ocidental-Documentos 115, Manaus. 
-De Novais, C.B., Borges, W.L., Sbrana, C., Giovannetti, M., Júnior, O.J.S. & Siqueira J.O. 2017. 
-Técnicas básicas em micorrizas arbusculares. 1 ed. UFLA, Lavras. 
-De Paula, A.M. 2016. Micorrizas arbusculares. In: J.A. Dionísio, I.C. Pimentel, D. Signor, A. M. De 
-Paula, A. Maceda & A. L. Mattana (eds.). Guia prático de biologia do solo. SBCS/NEPAR, 
-Curitiba, pp. 33-42. 
-De Souza, B.V., Souto, J.S., Souto, P.C., Sales, F.D.C.V. & Guerrini, I.A. 2016. Avaliação da 
-sazonalidade da deposição de serapilheira em área de preservação da Caatinga na Paraíba, Brasil. 
-Agropecuária Científica no Semiárido 12(3): 325-331. 
-De Souza, F.A., Schlemper, T.R. & Stürmer, S.L. 2017. A importância da tecnologia de inoculação 
-de fungos micorrízicos para a sustentabilidade na olericultura. In: C.A. Lopes & M.T.M Pedroso 
-(eds.). Sustentabilidade e horticultura no Brasil: da retórica à prática. Embrapa - Departamento de 
-Pesquisa e Desenvolvimento, Brasília, pp. 223-252. 
-Dos Santos, H.G., Jacomine, P.K.T., Dos Anjos, L.H.C., De Oliveira, V.A., Lumbreras, J.F., 
-Coelho, M.R., De Almeida, J.A., Filho, J.C.A.F., De Oliveira, J.B. & Cunha, T.J.F. 2018. 
-Sistema brasileiro de classificação de solos. 5 ed. EMBRAPA, Brasília. 
-Flores, B.M., Staal, A., Jakovac, C.C., Hirota, M., Holmgren, M. & Oliveira, R.S. 2019. Soil 
-erosion as a resilience drain in disturbed tropical forests. Plant and Soil, 440 (775): 1-15.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-14 
- 
-Gerdemann, J.W. & Nicolson, T.H. 1963. Spores of mycorrhizal Endogone species extracted from 
-soil by wet-sieving and decanting. Transactions of the British Mycological Society, 46(2): 235-
-244. 
-Goldin, A. 1987. Reassessing the use of loss‐on‐ignition for estimating organic matter content in 
-noncalcareous soils. Communications in Soil Science and Plant Analysis, 18(10): 1111-1116. 
-Goto, B.T & Jobim, K. 2019. Laboratório de Biologia de Micorrizas. Available at 
-https://glomeromycota.wixsite.com/lbmicorrizas (access in 21-IV-2019). 
-Horowitz, C., Martins, C.R. & Machado, T. 2007. Espécies exóticas arbóreas, arbustivas e 
-herbáceas que ocorrem nas zonas de uso especial e de uso intensivo do Parque Nacional de 
-Brasília: diagnósticos e manejo. Centro Nacional de Informação, Tecnologias Ambientais e 
-Editoração, Brasília. 
-House, G.L & Bever, J.D. 2018. Disturbance reduces the differentiation of mycorrhizal fungal 
-communities in grasslands along a precipitation gradient. Ecological Applications, 28(3): 736-
-748.  
-IBAMA - Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis. 2011. 
-Instrução Normativa-4, de 13-IV-2011. Recuperação de Áreas Degradadas. Diário Oficial da 
-União, Poder Executivo, Brasília, 13-IV-2011. Seção I, pp. 100-104. (access in 24-X-2018). 
-Maia, R.D.S., Vasconcelos, S.S. & Carvalho, C.J.R. 2015. Soil phosphorus fractions and 
-mycorrhizal symbiosis in response to the availability of moisture and nutrients at a secondary 
-forest in eastern Amazonia. Acta Amazônica, 45(3): 255-264.  
-Morton, J.B. 2018. International Culture Collection of Arbuscular Mycorrhizal Fungi. Available at 
-https://invam.wvu.edu/ (access in 06-VII-2019). 
-Pereira, C.M.R., Da Silva, D.K.A, Ferreira, A.C., Goto, B.T. & Maia, L.C. 2014. Diversity of 
-arbuscular mycorrhizal fungi in Atlantic forest areas under different land uses. Agriculture, 
-Ecosystems & Environment, 185: 245-252.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-15 
- 
-Primo, A.A., Melo, M.D., Pereira, G.A.C., Silva, L.A., Fernandes, F.E.P. & De Souza, H.A. 2018. 
-Potencial fertilizante da serapilheira de espécies lenhosas da Caatinga na recuperação de um solo 
-degradado. Revista Ceres, 65(1): 74-84. 
-Quesada, C.A., Lloyd, J., Schwarz, M., Patiño, S., Baker, T.R., Czimczik, C. & Fyllas, N.M, 
-Martinelli, L., Nardoto, G. B., Schmerler, J., Santos, A. J. B., Hodnett, M. G., Herrera, R., 
-Luizão, F. J., Arneth, A., Lloyd, G., Dezzeo, N., Hilke, I., Kuhlmann, I., Raessler, M., Brand, 
-W. A., Geilmann, H., Moraes Filho, J. O., Carvalho, F. P., Araujo Filho, R. N., Chaves, J. 
-E., Cruz Junior, O. F., Pimentel, T. P. & Paiva R. 2010. Variations in chemical and physical 
-properties of Amazon forest soils in relation to their genesis. Biogeosciences, 7(5): 1515-1541.  
-Raij, B.V., Cantarella, H., Quaggio, J.A. & Furlani, A.M.C. 1997. Recomendações de adubação 
-e calagem para o Estado de São Paulo. Boletim Técnico, n. 100. Instituto Agronômico, Campinas. 
-Reis, A., Bechara, F.C., Espíndola, M.B., Vieira, N.K. & De Souza, L.L. 2003. Restauração de 
-áreas degradadas: a nucleação como base para incrementar os processos sucessionais. Natureza 
-& Conservação, 1(1): 28-36. 
-Reis, A., Bechara, F.C. & Tres, D.R. 2010. Nucleation in tropical ecological restoration. Scientia 
-Agricola, 67(2): 244-250.  
-Reis, A., Bechara, F.C., Tres, D.R. & Trentin, B.E. 2014. Nucleation: biocentric conception for 
-ecological restoration. Forest Science, 24 (2): 509-518. 
-Reyes, H.A., Ferreira, P.F.A., Silva, L.C., Da Costa, M.G., Nobre, C.P. & Gehring, C. 2019. 
-Arbuscular mycorrhizal fungi along secondary forest succession at the eastern periphery of 
-Amazonia: seasonal variability and impacts of soil fertility. Applied Soil Ecology, 136: 1-10.  
-SBCS - Sociedade Brasileira de Ciência do Solo. 2015. ONU declara 2015 como Ano Internacional 
-dos Solos. Available at https://www.sbcs.org.br/?noticia_geral=onu-declara-2015-como-ano-internacional-dos-solos-release-para-a-
-imprensa#:~:text=A%20ONU%E2%80%93%20Organiza%C3%A7%C3%A3o%20das%20Na%C3%A7%C3%B5es,deles%2
-0em%20todo%20o%20mundo (access in 20-VI-2020). 
-Secretaria do Meio Ambiente do Estado de São Paulo. 2014. Resolução SMA-32, de 03-IV-2014. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-16 
- 
-Orientações, diretrizes e critérios sobre restauração ecológica no Estado de São Paulo. Diário Oficial 
-do Estado de São Paulo, Poder Executivo, São Paulo, 03-IV-2014. Seção I, pp. 36-37. 
-Scabora, M.H. 2011. Diversidade de fungos micorrízicos arbusculares em área de cerrado degradado 
-em processo de revegetação. Tese de Doutorado, Universidade Estadual Paulista, Ilha Solteira. 
-Schenck, N.C. & Pérez, Y. 1990. Manual for the identification of VA mycorrhizal fungi. 3 ed. 
-Synergistic Publications, Gainesville. 
-Smith, S.E. & Gianinazzi-Pearson V. 1988. Physiological interactions between symbionts in 
-vesicular-arbuscular mycorrhizal plants. Annual review of plant physiology and plant molecular 
-biology, 39(1): 221-244. 
-Sobral, L.F., Barreto, M.D.V., Da Silva, A.J & Dos Anjos, J.L. 2015. Documentos 206 - Guia 
-prático para interpretação de resultados de análises de solos. Embrapa Tabuleiros Costeiros, 
-Aracaju. 
-Stürmer, S.L., Bever, J.D. & Morton, J.B. 2018. Biogeography of arbuscular mycorrhizal fungi 
-(Glomeromycota): a phylogenetic perspective on species distribution patterns. Mycorrhiza, 28(7): 
-587-603.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-17 
- 
-Table 1. Chemical analysis of integrated soil samples in the two sampling periods: Oct 2017 (1) and 
-Jul 2018 (2) at the experimental unit of the Sol site, Cabreúva, São Paulo State, Brazil. *Based on 
-Technical Bulletin #100 - Raij et al. (1997). ** Based on Documents #206 - Sobral et al. (2015). 
- 
- 
- 
- 
- 
-Attribute (method) 
-Units 
-Values 
-Note*  ** 
-Sample 1 
-Sample 2 
- 
-Organic matter (oxidation) 
-g dm-3 
-40 
-31 
-Clayey soil* 
-pH (active acidity) - KCl 
-- 
-4,5 
-4,6 
-Presence of 
-exchangeable 
-aluminium** 
-Al3+ (exc. acidity) - KCl 
-mmolc dm-3 
-2 
-1 
-Low** 
-Phosphorus (resin) 
-mg dm-3 
-16 
-13 
-Medium* 
-Calcium (resin) 
-mmolc dm-3 
-22 
-30 
-High* 
-Magnesium (resin) 
-mmolc dm-3 
-8 
-11 
-High* 
-Potassium (resin) 
-mmolc dm-3 
-4,7 
-3,4 
-High* 
-Cation Exchange Capacity– 
-CTC (SB+ (H+Al)) 
-mmolc dm-3 
-98,4 
-79,6 
-Presence of 
-clay** 
-Iron (DTPA) 
-mg dm-3 
-158 
-63 
-High* 
-Copper (DTPA) 
-mg dm-3 
-1,4 
-1 
-High* 
-Zinc (DTPA) 
-mg dm-3 
-4,5 
-3,1 
-High* 
-Boron (hot water) 
-mg dm-3 
-0,26 
-1,05 
-Medium to 
-high* 
-Manganese (DTPA) 
-mg dm-3 
-13,0 
-11,6 
-High* 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-18 
- 
-Table 2. Arbuscular Mycorrhizal Fungi; absolute frequency (Fa) and relative frequency (Fr) of the 
-AMF species collected over the two sampling periods: Oct 2017 (1) and Jul 2018 (2), at the 
-experimental Sol site in Cabreúva, São Paulo State, Brazil. 
- 
-Family/Species 
-Control 
-1 
-Treatment 
-1 
-Control 
-2 
-Treatment 
-2 
-Frequencies (%): Fa (Fr) 
-Acaulosporaceae J.B Morton & Benny 
-   Acaulospora alpina Oehl, Sykorova & Sieverd 
-0(0,00) 
-0(0,00) 
-100(8,06) 
-100(8,62) 
-   Acaulospora capsicula Blaszk. 
-20(1,59) 
-100(5,62) 
-0(0,00) 
-0(0,00) 
-   Acaulospora gedanensis Blaszk. 
-100(7,94) 
-100(5,62) 
-100(8,06) 
-100(8,62) 
-   Acaulospora sp. 1 
-80(6,35) 
-100(5,62) 
-100(8,06) 
-100(8,62) 
-   Acaulospora sp. 2 
-40(3,17) 
-80(4,49) 
-20(1,61) 
-20(1,72) 
-Archaeosporaceae J.B. Morton & D. Redecker 
-   Archaeospora sp. 1 
-0(0,00) 
-20(1,12) 
-20(1,61) 
-40(3,45) 
-   Archaeospora trappei (R.N. Ames & Linderman) 
-J.B.Morton & D.Redecker 
-80(6,35) 
-100(5,62) 
-80(6,45) 
-80(6,90) 
-Dentiscutataceae Sieverd., F.A. Souza & Oehl 
-   Dentiscutata erythropus (Koske & C. Walker) C. 
-Walker & D. Redecke 
-20(1,59) 
-40(2,25) 
-40(3,23) 
-60(5,17) 
-   Dentiscutata nigra (J.F. Readhead) Sieverd., F.A. 
-de Souza & Oehl 
-100(7,94) 
-100(5,62) 
-100(8,06) 
-100(8,62) 
-   Dentiscutata reticulata (Koske, D.D. Mill. & C. 
-Walker) Sieverd., F.A. Souza & Oehl 
-100(7,94) 
-100(5,62) 
-60(4,84) 
-40(3,45) 
-   Dentiscutata sp. 1 
-20(1,59) 
-60(3,37) 
-0(0,00) 
-0(0,00) 
-Diversisporaceae C. Walker & A. Schüssler 
-emend. Oehl, G.A. Silva & Sieverd. 
-   Diversispora sp. 1 
-80(6,35) 
-80(4,49) 
-40(3,23) 
-60(5,17) 
-   Pacispora sp. 1 
-0(0,00) 
-20(1,12) 
-20(1,61) 
-40(3,45) 
-Glomeraceae Piroz. & Dalpé emend. Oehl, G.A. 
-Silva & Sieverd. 
-   Funneliformis geosporum (T.H. Nicolson & 
-Gerd.) C. Walker & A. Schüßler 
-0(0,00) 
-40(2,25) 
-0(0,00) 
-0(0,00) 
-   Glomus aggregatum N.C. Schenck & G.S. Sm. 
-emend. Koske 
-0(0,00) 
-0(0,00) 
-40(3,23) 
-20(1,72) 
-   Glomus geosporum (T.H. Nicolson & Gerd.) 
-C.Walker 
-80(6,35) 
-100(5,62) 
-40(3,23) 
-20(1,72) 
-   Glomus glomerulatum Sieverd. 
-100(7,94) 
-100(5,62) 
-60(4,84) 
-60(5,17) 
-   Glomus heterosporum G.S.Sm. & N.C. Schenck 
-0(0,00) 
-60(3,37) 
-40(3,23) 
-40(3,45) 
-   Glomus macrocarpum Tul. & C. Tul. 
-100(7,94) 
-100(5,62) 
-80(6,45) 
-60(5,17) 
-   Glomus rubiforme (Gerd. & Trappe) R.T. 
-Almeida & N.C. Schenck 
-20(1,59) 
-40(2,25) 
-0(0,00) 
-0(0,00) 
-   Glomus sp. 1 
-100(7,94) 
-100(5,62) 
-100(8,06) 
-100(8,62) 
-   Glomus sp. 2 
-100(7,94) 
-100(5,62) 
-100(8,06) 
-60(5,17) 
-   Glomus sp. 3 
-40(3,17) 
-40(2,25) 
-40(3,23) 
-0(0,00) 
-   Glomus sp. 4 
-20(1,59) 
-60(3,37) 
-60(4,84) 
-20(1,72) 
-Scutellosporaceae Sieverd., F.A. Souza & Oehl 
-   Scutellospora sp. 1 
-40(3,17) 
-100(5,62) 
-0(0,00) 
-40(3,45) 
-   Scutellospora sp. 2 
-0(0,00) 
-40(2,25) 
-0(0,00) 
-0(0,00) 
-   Scutellospora sp. 3 
-20(1,59) 
-0(0,00) 
-0(0,00) 
-0(0,00) 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-19 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-20 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-21 
- 
-Figure 1. Paired t-test of AMF species richness, percentages of gravimetric moisture and organic 
-matter of individual soil samples in the two sampling periods: october 2017 (1) and july 2018 (2) at 
-the experimental Sol site in Cabreúva, São Paulo State, Brazil. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-22 
- 
-CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE 
-PREPRINTS DO SCIELO 
- 
- 
- 
-Ao Comitê Editorial de HOEHNEA 
- 
- 
-Declaro, em meu próprio nome e nos dos demais Autores que concordo com a publicação 
-do artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “The influence of forest litter on the 
-endomicorritic fungi community in a natural regeneration area in São Paulo State, Brazil” de 
-autoria de Luciana Aparecida Giacomini, Carlos Aparecido de Siqueira Junior, Gustavo Padovani 
-Ré e André Cordeiro Alves dos Santos, no Portal de Preprints do SciELO Brasil (Biological 
-Sciences | SciELO Preprints). 
-Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não está 
-sendo considerado para publicação em outra Revista, quer seja no formato impresso e/ou 
-eletrônico. 
- 
-São Paulo, 18 de maio de 2021. 
- 
- 
- 
- 
-  
-Luciana Aparecida Giacomini 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-91/2020
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

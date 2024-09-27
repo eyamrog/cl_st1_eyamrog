@@ -1,53 +1,4 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/2236-8906-58/2020
-Decontamination protocol of the macroalga Bostrychia binderi
-Harvey (Rhodophyta) for unialgal cultures and laboratory
-studies
-Henrique Douglas dos Santos  Borburema, Êmille Natane de Araújo  Barbosa, George
-Emmanuel Cavalcanti de  Miranda
-https://doi.org/10.1590/2236-8906-58/2020
-Submitted on: 2021-05-27
-Posted on: 2021-05-27 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Submitted on (YYYY-MM-DD): 2021-05-27
-Posted on (YYYY-MM-DD): 2021-05-31
-Powered by TCPDF (www.tcpdf.org)
-Article 
-DOI: https://doi.org/10.1590/2236-8906-58/2020 
- 
-1. Part of the Dissertation from the first Author   
-2. Universidade Federal do Rio Grande do Norte, Departamento de Oceanografia e Limnologia, 
-1 Governador Silvio Pedroza avenue, Areia Preta, 59014-100 Natal, RN, Brazil 
-3. Universidade Federal da Paraíba, Departamento de Sistemática e Ecologia, 831-1453 Tabelião 
-Stanislau Eloy street, Conjunto Presidente Castelo Branco III, 58033-455 João Pessoa, PB, Brazil 
-4. Corresponding author: henrique.tpb@gmail.com 
-Decontamination protocol of the macroalga Bostrychia binderi Harvey (Rhodophyta) for 
-unialgal cultures and laboratory studies1 
- 
-Henrique Douglas dos Santos Borburema2,4, Êmille Natane de Araújo Barbosa3 and George 
-Emmanuel Cavalcanti de Miranda3 
- 
-Shortened title: Decontamination protocol of Bostrychia  
- 
- 
-Received: 01.06.2020; accepted: 20.12.2020 
- 
- 
-ORCID numbers: 
-Henrique Douglas dos Santos Borburema: 0000-0002-7300-7583  
-Êmille Natane de Araújo Barbosa: 0000-0002-3308-2589 
-George Emmanuel Cavalcanti de Miranda: 0000-0002-8975-1067 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-2 
- 
-ABSTRACT – (Decontamination protocol of the macroalga Bostrychia binderi Harvey 
+(Decontamination protocol of the macroalga Bostrychia binderi Harvey 
 (Rhodophyta) for unialgal cultures and laboratory studies). This study aimed to test the 
 effectiveness of physical and chemical procedures for surface decontamination of Bostrychia 
 binderi Harvey. For this, thalli were washed and immersed in chemical solutions (5% liquid 
@@ -60,34 +11,7 @@ were effective procedures to eliminate all contaminants analyzed. Thalli immersi
 iodine did not affect negatively the thalli growth, whereas immersion in 0.2% sodium hypochlorite 
 for 5 minutes affected. For establishment of Bostrychia’s unialgal cultures we recommend the 
 proposed protocol in this study. 
-Keywords: Bostrychietum, contaminants, macroalgae, mangrove, 0.2% sodium hypochlorite 
- 
-RESUMO – (Protocolo de descontaminação da macroalga Bostrychia binderi Harvey (Rhodophyta) 
-para culturas unialgais e estudos laboratoriais). Este estudo objetivou testar a eficácia de 
-procedimentos físicos e químicos para descontaminação da superfície de Bostrychia binderi 
-Harvey. Para isto, talos foram lavados e imersos em soluções químicas (detergente líquido 5%, 
-iodopovidona 1% e hipoclorito de sódio 0,2%) em diferentes tempos e combinações. Após os 
-tratamentos, os talos foram cultivados para verificar possíveis efeitos negativos causados pelos 
-procedimentos à alga. Contaminantes no meio de cultura dos talos foram quantificados no final do 
-cultivo. Procedimentos de lavagem, remoção física de indivíduos da macrofauna, imersão de talos 
-em detergente líquido 5% por 60 segundos, depois em hipoclorito de sódio 0,2% por 2 minutos, 
-foram eficazes para eliminar os contaminantes analisados. Imersão de talos em iodopovidona 1% 
-não afetou o crescimento dos talos, enquanto que imersão em hipoclorito de sódio 0,2% por 5 
-minutos afetou. Para estabelecimento de culturas unialgais de Bostrychia recomendamos o 
-protocolo proposto neste estudo. 
-Palavras-chave: Bostrychietum, contaminantes, macroalgas, manguezais, hipoclorito de sódio 0,2% 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-3 
- 
- 
- 
-Introduction 
- 
+
 Culture techniques for macroalgae in laboratory are valuable tools in ecophysiological 
 studies for basic research or to obtain relevant products to humans (Fernandes et al. 2011). 
 According to Berland et al. (1972) contaminants in macroalgal culture medium grow and proliferate 
@@ -97,7 +21,7 @@ free of contaminating organisms have been one of the main challenges found by re
 Contaminating organisms as cyanobacteria and microalgae, fungi and heterotrophic bacteria, 
 protozoa and invertebrates can also grow in these cultures. Commonly, the main contamination 
 source for macroalgal cultures is the biota on the algal surface.    
- 
+
 Procedures have been developed and are used to prevent the contamination of cultures. 
 Methods for surface decontamination of macroalgae have used chemical compounds as antibiotics, 
 disinfectant solutions (detergent, povidone iodine, sodium hypochlorite, sodium hydroxide) and 
@@ -107,20 +31,17 @@ Yong et al. 2014, Kerrison et al. 2016, Ali et al. 2018). However, the methods f
 decontamination of macroalgae must be adjusted for each species (Fernandes et al. 2011), because 
 the effects of procedures, mainly the use of chemical compounds, can vary among macroalgal 
 species. 
- 
+
 The genus Bostrychia Montagne belongs to Rhodomelaceae (Rhodophyta) and includes 
 macroalgae with distribution in temperate and tropical regions, occurring in continental aquatic and 
 marine environments, mainly in salt marshes and mangroves (King & Puttock 1989). Species of 
 Bostrychia form the structure of the mangrove community known as Bostrychietum. This term was 
 proposed by Post (1936) and includes mainly rhodophytes as Bostrychia, Caloglossa (Harvey) G. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-4 
- 
 Martens and Catenella Greville, but also cyanobacteria and chlorophytes which associate 
 themselves to pneumatophores of Avicennia L., to rhizophores and stems of Rhizophora L. and 
 Laguncularia C.F.Gaertn (West 1991, West et al. 1993, Pedroche et al. 1995, Yokoya et al. 1999, 
 Fontes et al. 2007, García et al. 2016).  
+
 Bostrychia spp. have growth by apical cells present in the branches and Polysiphonia-type 
 life history. Tetrasporophyte life stages (diploid) release tetraspores (haploid) which develop male 
 and female gametophytes (haploid). Male gametophytes produce and release spermatia (haploid) 
@@ -128,13 +49,14 @@ which fertilize the carpogonium (haploid) present at the end of carpogonial bran
 the female gametophytes. After fertilizing, the formation of carposporophytes (diploid) occurs, 
 which produce and release carpospores (diploid) which develop tetrasporophytes (West et al. 1993, 
 West et al. 2001).  
+
 Sediment and several mangrove organisms (e.g. microalgae, protozoa, fungi, nematodes, 
 microcrustaceans, annelids, small molluscs, chironomid larvae, trombiculid mites) are associated to 
 the Bostrychietum (García et al. 2016, Vieira et al. 2018). Epiphyte macroalgae and endophyte 
 fungi may also be associated to Bostrychia spp. (De Felício et al. 2015). So, laboratory cultures of 
 Bostrychia sp. free of contaminating organisms (unialgal cultures) are difficult, and protocols for 
 surface decontamination adjusted for species of Bostrychia are needed. 
- 
+
 In this context, the present work aimed to test the effectiveness of physical and chemical 
 procedures for surface decontamination of Bostrychia binderi Harvey. This species was used as 
 model in order to develop a decontamination protocol for obtaining unialgal cultures for laboratory 
@@ -142,17 +64,13 @@ studies with this genus. Our hypothesis is that washing with distilled water, af
 spraying with sterilized seawater, physical removing of macrofauna individuals and epiphyte 
 macroalgae, and thalli immersion treatments in 5% liquid detergent and afterward in 0.2% sodium 
 hypochlorite are effectiveness for surface decontamination of B. binderi. 
- 
-Material and methods 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-5 
- 
+
 Collection and maintenance of cultures - Specimens of Bostrychia binderi Harvey (BRASIL. 
 PARAÍBA: Rio Tinto, Área de Proteção Ambiental da Barra do Rio Mamanguape, s. d., Henrique 
 Douglas dos Santos Borburema, JPBN° 63215) were collected in the mangrove of the “Área de 
 Proteção Ambiental da Barra do Rio Mamanguape” (6°46'15.00"S and 34°56'15.00"O) in February 
 2017. During field collection, most of the estuarine sediment was removed with in situ water.  
+
 In laboratory remaining sediment adhered on the thalli was physically removed by several 
 washing and spraying with sterilized seawater and macrofauna individuals associated (e.g. 
 molluscs, crustaceans and annelids) were removed with tweezers. Thalli parts with filamentous and 
@@ -163,6 +81,7 @@ flamed. The seawater used in all procedures was sterilized through filtering usi
 cellulose membrane filters (0.45 µm pore), followed by heating in a laboratory drying oven at 90 ºC 
 for two hours (after cooling, it was heated up again) (Borburema et al. 2020). The seawater was not 
 autoclaved to preserve its vitamins.  
+
 Specimens of B. binderi (ca. 900 mg) were kept in 1000 mL Erlenmeyers flasks containing 
 700 mL of culture medium in constant aeration. The water temperature was 25 ºC, photonic flux 
 density of 60 - 80 µmol photons m-2 s-1 and a photoperiod of 12:12 h (light:dark cycle) for 
@@ -170,14 +89,12 @@ maintaining of macroalgae in laboratory for one week before of the chemical proc
 surface decontamination. The culture medium was sterilized seawater enriched with von Stosch’s 
 solution (8 mL L-1) prepared as described by Edwards (1970) and modified with reduction of 50 % 
 in the vitamin concentrations (Yokoya 2000). 
+
 Tests for surface decontamination with chemical procedures - We tested the effectiveness of thalli 
 immersion treatments in chemical solutions after several washing and spraying with sterilized 
 seawater and physical removing of macrofauna individuals and epiphyte macroalgae (as described 
 above). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-6 
- 
+
 Tetrasporophyte plant thalli (3 cm in primary axis length with lateral branches, weighing 
 200 mg ± 20, n = 5 per treatment) of B. binderi were washed with distilled water and immersed in 
 liquid detergent based on sulfonic acid 5% (w/w) (Fernandes et al. 2011) during 60 seconds 
@@ -189,26 +106,25 @@ hypochlorite (0.2% active chlorine L-1 of deionized water) (Holdt et al. 2014) f
 5), 2 min (treatment 6) and 5 min (treatment 7). The chemical solutions were completely removed 
 from all thalli by several washing with sterilized seawater. A control (n = 5) was performed with 
 thalli that were not washed with distilled water and immersed in any of the tested substances.  
+
 This study did not aim to compare the effectiveness between 1% povidone iodine and 0.2% 
 sodium hypochlorite, but to compare the effectiveness of the treatments (1-7) in relation to the 
 control. The laboratory glassware used in all procedures was sterilized: immersed in 0.2% sodium 
 hypochlorite overnight and afterward washing and drying in laboratory drying oven at 120 ºC at 
 least four hours. 
+
 Thalli were cultivated for three weeks in glass transparent containers (100 mL) containing 
 50 mL of culture medium which was changed weekly. The culture medium and other cultivation 
 conditions (temperature, photonic flux density and photoperiod) were the same as described above 
 for maintaining of macroalgae in laboratory before of treatments for surface decontamination.    
+
 Biomass values of the thalli were measured weekly on analytical balance during the replace 
 of the culture medium. Before weighing, thalli were gently blotted dry with paper towels to remove 
 excess water. Relative growth rates (RGR) were calculated at the end of the cultivation and were 
 estimated using the formula recommended by Yong et al. (2013): [(Wt/Wi)1/t - 1] x 100, being Wt 
 the wet weight after t days, Wi the initial wet weight, and t is the cultivation period. The wet 
 weights and RGRs were measured as proxies of thalli health. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-7 
- 
- 
+
 At the end of the cultivation, 30 mL of culture medium from each replicate were discarded, 
 and 20 mL of formaldehyde were added, the final formaldehyde concentration was of 4%. Rose 
 Bengal dye was also added. 4% Formaldehyde was utilized to fix and preserve the contaminants 
@@ -216,6 +132,7 @@ and Rose Bengal dye to color them facilitating afterward the visual counting. A 
 medium (1 mL) from all replicates was taken away near to thalli surface by pipetting and deposited 
 into SedgEwick-Rafter counting chamber so that the contaminants could be counted under 
 stereoscopic and optical microscopy. 
+
 Statistical analyses - The number of contaminants (individuals mL-1) in thalli culture medium 
 immersed in 5% liquid detergent and 1% povidone iodine at different times was compared to the 
 control by a one-way analysis of variance (ANOVA), whereas the number of contaminants in thalli 
@@ -223,6 +140,7 @@ culture medium immersed in 5% liquid detergent and 0.2% sodium hypochlorite (at 
 was compared to the control by the following tests: Mann-Whitney (for mean number of ciliates, 
 microcrustaceans and nematodes between control and 1 minute), ANOVA and Tukey’s post hoc 
 test for annelids among control and immersion treatments for 1, 2 and 5 minutes.  
+
 ANOVA and Tukey’s test were performed to compare the thalli weights observed at the 
 three cultivation weeks for the same treatment. Final weights measured from immersion treatments 
 in 5% liquid detergent and 1% povidone iodine were compared to the control by ANOVA, whereas 
@@ -231,53 +149,42 @@ liquid detergent and 0.2% sodium hypochlorite to the control. RGRs of the thalli
 liquid detergent and 0.2% sodium hypochlorite were compared to the control by ANOVA and 
 Tukey’s test. Kruskal-Wallis test was applied to compare RGRs of the thalli immersed in 5% liquid 
 detergent and 1% povidone iodine to the control.  
+
 Data were checked for normality (Shapiro-Wilk test) and variance homogeneity (Levene’s 
 test). The statistical analyses were performed using the R program (4.0.0 version) and the 
 significance value adopted was of 5%. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-8 
- 
- 
- 
- 
-Results and Discussion 
- 
+
 Ciliates, microcrustaceans, nematodes, annelids and small gastropods in samples of thalli 
 culture medium from all treatments and control were quantified by stereoscopic and optical 
 microscopy. Immersion treatments in 5% liquid detergent (60 seconds) and after in 1% povidone 
 iodine had not effectiveness to eliminate contaminants on the thalli surface, and the mean number of 
 contaminants (individuals mL-1) was not significantly different among these treatments and control 
 (table 1). 
+
 Immersion treatments in 5% liquid detergent for 60 seconds and after in 0.2% sodium 
 hypochlorite for 2 and 5 minutes were effectiveness to eliminate ciliates, microcrustaceans, 
 nematodes and small gastropods, reducing significantly the number of annelids (table 1). The 
 treatment 5 (thalli immersion in 5% liquid detergent and after in 0.2% sodium hypochlorite for 1 
 minute) had the lowest effectiveness in the elimination of contaminants. Small gastropods were 
 eliminated in all treatments with 0.2% sodium hypochlorite (table 1).  
- 
+
 We observed a biomass loss in B. binderi at the second weighing (after one week of 
 cultivation) in all treatments with chemical procedures (figure 1). This biomass loss occurred 
 possibly due to negative effects of the chemical compounds on the macroalga. However, at the third 
 weighing (after three weeks of cultivation) we observed recovery of the thalli with biomass gain 
 (figure 1). Final weights of the thalli did not differ among treatments. 
- 
+
 RGRs of the thalli were calculated with the weights obtained between the second and third 
 weighing (after recovery of the thalli). Significant differences among RGRs of the thalli immersed 
 in 1% povidone iodine for 30 seconds (1.69% day-1 ± 0.26) from those immersed for 15 seconds 
 (0.76% day-1 ± 0.25) and 2 minutes (0.65% day-1 ± 0.63) were observed, but when compared to the 
 control (1.15% day-1 ± 0.42) and 1 minute (1.13% day-1 ± 0.63) there were no significant 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-9 
- 
 differences. Thalli immersed in 0.2% sodium hypochlorite for 5 minutes had the lowest growth 
 (0.46% day-1 ± 0.14), being significantly different from the thalli growth immersed for 2 minutes 
 (1.19% day-1 ± 0.30), 1 minute (1.02% day-1 ± 0.22) and control (figure 2). These data indicate that 
 immersion in 1% povidone iodine did not affect negatively the thalli growth, whereas immersion in 
 0.2% sodium hypochlorite for 5 minutes affected. 
- 
+
 Results observed in this study indicate that only 5% liquid detergent for 60 seconds is not 
 effective for surface decontamination of species of Bostrychia, because in immersion treatments in 
 this compound and 1% povidone iodine there was no elimination of contaminating organisms. 
@@ -285,7 +192,7 @@ Although immersion treatments in this compound and 0.2% sodium hypochlorite have
 effective, suggesting that 0.2% sodium hypochlorite is effective for surface decontamination of 
 macroalgae. However, 5% liquid detergent is relevant for removing fat tiers on contaminating 
 organisms, contributing to the action of sodium hypochlorite (Holdt et al. 2014).   
-   
+
 Diatoms were observed in all treatment and control samples. Nevertheless, they were not 
 quantified because procedures to inhibit growth of these microalgae in culture medium are well-
 known, using GeO2 (Germanium Dioxide) that does not cause negative effects on the macroalgae 
@@ -296,17 +203,14 @@ al. 1972). In our study, these negative effects probably did not occur because t
 not vary significantly among weeks in the control (which has not been subjected to chemical 
 procedures for decontamination), and RGRs of control thalli differed only from the immersion 
 treatment for 5 minutes, likely due to the effect of sodium hypochlorite (discussed below).  
- 
+
 Saminathan et al. (2014) suggest that thalli immersion in liquid detergent (0.5% for 10 
 minutes) followed by 1% povidone iodine for 30 seconds reduces bacteria and eliminates 
 zooplankton and ciliates on Gracilaria dura (C.Agardh) J.Agardh. In our study, 1% povidone 
 iodine was not efficient to eliminate ciliates and zooplankton (e.g. microcrustaceans) on the algal 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-10 
- 
 surface, maybe the effective decontamination found by Saminathan et al. (2014) was caused by a 
 longer thalli immersion time in detergent (10 minutes).  
+
 Fernandes et al. (2011) verified the potential of chemical agents for surface decontamination 
 of macroalgae (using Hypnea musciformis (Wulfen) J.V.Lamouroux as a model) and found that 
 detergent (5%) and sodium hypochlorite (1.01%) were effective solutions. In our study, we tested 
@@ -316,6 +220,7 @@ Doty, Chondrus Stackhouse, Gracilaria Greville) have phycocolloids in the thallu
 more rigidity and consistency to the thallus. Procedures for surface decontamination of these 
 macroalgae (e.g. Holdt et al. 2014, Yong et al. 2014, Saminathan et al. 2014, Ali et al. 2018) are 
 well-known due to their economic importance.  
+
 We observed during the cultivation that the immersion treatment in sodium hypochlorite for 
 5 minutes caused a slight loss of pigmentation in the thalli (thallus part bleaching). Probably for this 
 reason, the lowest growth was observed in this treatment, since pigment loss results in 
@@ -324,22 +229,18 @@ detergent and sodium hypochlorite. However, as there was thalli recovery and imm
 minutes in sodium hypochlorite was sufficient for eliminating contaminants without great negative 
 effects on the macroalga, we recommend the use of this chemical compound for 2 minutes, 
 corroborating with Holdt et al. (2014).    
- 
+
 For studies with species of Bostrychia, as well as other estuarine macroalgae, it is 
 recommended to remove sediment in the field due to high amount of sediments frequently found on 
 macroalgae from these environments. Afterward in laboratory, remaining adhered sediments and 
 biota must be eliminated following protocols. 
- 
+
 After applying the decontamination procedures described in this study, it is recommended to 
 repeat the procedures if necessary (if contaminants were found in the culture medium yet). For other 
 species belonging to the genus Bostrychia, preliminary analyses of thalli immersion times in 5% 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-11 
- 
 liquid detergent and 0.2% sodium hypochlorite are recommended, so that the macroalgae do not 
 lose pigments nor damages are caused by overexposure to the chemical compound.  
- 
+
 Data obtained in this study allowed us to determine procedures for the removal of 
 contaminating organisms on B. binderi. We concluded that thalli immersion procedures in 5% 
 liquid detergent and after in 1% povidone iodine were not effective, whereas immersion procedures 
@@ -350,300 +251,10 @@ control, we recommend a 2-minute immersion to avoid a longer exposure of the mac
 compound. We recommend the physical removal of remaining annelids with sterilized tweezers 
 under stereoscopic and optical microscopes. The protocol for surface decontamination of B. binderi 
 is summarized in table 2. 
- 
-Acknowledgements 
+
 This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de 
 Nível Superior - Brasil (CAPES) - Finance Code 001. We are grateful to the researchers from 
 Universidade Federal da Paraíba: Dr. Maria Cristina Basílio Crispim da Silva, Dr. Gilson Ferreira 
 de Moura and Dr. Krystyna Gorlach Lira, for all information and materials used to quantify 
 organisms during the protocol development, and to the MSc. Felipe de Oliveira Fernandes 
 (Universidade Federal do Rio Grande do Norte), for the English review of this article. 
-Author Contributions 
-Henrique Douglas dos Santos Borburema: Substantial contribution to the study concept and design; 
-Contribution to data collection; Contribution to data analyses and interpretation; Contribution to 
-preparation of the manuscript, figures and tables. 
-Êmille Natane de Araújo Barbosa: Contribution to the study design; Contribution to manuscript 
-preparation. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-12 
- 
-George Emmanuel Cavalcanti de Miranda: Substantial contribution to the study concept; 
-Contribution to critical revision, adding intellectual content. 
- 
-Conflicts of interest 
-There is no conflict of interest. 
-Literature cited 
- 
-Ali, M.M., Sani, M.Z.B., Hi, K.K., Yasir, S.M., Critchley, A.T. & Hortado, A.Q. 2018. The 
-comparative efficiency of a brown algal-derived biostimulant extract (AMPEP), with and 
-without supplemented PGRs: the induction of direct, axis shoots as applied to the propagation of 
-vegetative seedlings for the successful mass cultivation of three commercial strains of 
-Kappaphycus in Sabah, Malaysia. Journal of Applied Phycology 30: 1913-1919. 
-Berland, B.R., Bonin, D.J. & Maestini, S.T. 1972. Are some bactéria toxic for marine algae? 
-Marine Biology 12: 189-193. 
-Bravin, I.C., Yoneshigue-Valentin, Y. & Yokoya, N.S. 2006. Formação de calos e regeneração de 
-segmentos apicais de Hypnea musciformis (Wulfen) Lamouroux (Gigartinales, Rhodophyta): 
-obtenção de culturas axênicas e efeitos de diferentes concentrações de ágar. Revista Brasileira 
-de Botânica 29: 175-182. 
-Borburema, H.D.S., Lima, R.P. & Miranda, G.E.C. 2020. Effects of ocean warming, 
-eutrophication and salinity variations on the growth of habitat-forming macroalgae in estuarine 
-environments. Acta Botanica Brasilica 34: 662-672.  
-De Felício, R., Pavão G.B., De Oliveira, A.L.L. et al. 2015. Antibacterial, antifungal and 
-cytotoxic activities exhibited by endophytic fungi from the Brazilian marine red alga Bostrychia 
-tenella (Ceramiales). Brazilian Journal of Pharmacognosy 25: 641-650. 
-Edwards, P. 1970. Illustrated guide to the seaweeds and seagrass in the vicinity of Porto Aransas, 
-Texas. 
-Contributions 
-to 
-Marine 
-Science, 
-University 
-of 
-Texas, 
-Austin. 
-Fernandes, D.R.P., Yokoya, N.S. & Yoneshigue-Valentim, Y. 2011. Protocol for seaweed 
-decontamination to isolate unialgal cultures. Brazilian Journal of Pharmacognosy 21: 313-316. 
-Fontes, K.A.A., Pereira, S.M.B. & Zickel, C.S. 2007. Macroalgas do “Bostrychietum” aderido em 
-pneumatóforos de duas áreas de manguezal do Estado de Pernambuco, Brasil. IHERINGIA, 
-Série Botânica 62: 31-38. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-13 
- 
-García, A.F., Bueno, M. & Leite, F.P.P. 2016. The Bostrychietum community of pneumatophores 
-in Aracá Bay: an analysis of the diversity of macrofauna. Journal of the Marine Biological 
-Association of the United Kingdom 96: 1617-1624. 
-Holdt, S.L., Christensen, L. & Iversen, J.J.L. 2014. A novel closed system bubble column 
-photobioreactor for detailed characterisation of micro- and macroalgal growth. Journal of 
-Applied Phycology 26: 825-835. 
-Kawai, H., Motomura, T. & Okuda, K. 2005. Isolation and Purification Techniques for 
-Macroalgae. In: R.A. Andersen (ed.). Algal culturing techniques. Elsevier Academic Press, San 
-Diego, pp. 133-144.  
-Kerrison, P.D., Le, H.N., Twigg, G.C., Smallman, D.R., MacPhee, R., Houston, F.A.B. & 
-Hughes, A.D. 2016. Decontamination treatments to eliminate problem biota from macroalgal 
-tank cultures of Osmundea pinnatifida, Palmaria palmate and Ulva lactuca. Journal of Applied 
-Phycology 28: 3423-3434. 
-King, R.J. & Puttock, C.F. 1989. Morphology and taxonomy of Bostrychia and Stictosiphonia 
-(Rhodomelaceae, Rhodophyta). Australian Systematic Botany 21: 1-73. 
-Lewin, J.C. 1966. Silicon metabolism in diatoms. V. Germanium dioxide, a specific inhibitor of 
-diatom growth. Phycologia 6: 1-12. 
-Markham, J.W. & Hagmeier, E. 1982. Observations on the effects of germanium dioxide on the 
-growth of macro-algae and diatoms. Phycologia 21: 125-130. 
-Miranda, G.E.C.D., Yokoya, N.S. & Fujii, M.T. 2012. Effects of temperature, salinity and 
-irradiance on carposporeling development of Hidropuntia caudata (Gracilariales, Rhodophyta). 
-Revista Brasileira de Farmacognosia 22: 818-824. 
-Oliveira, E.C., Paula, E.J., Plastino, E.M. & Petti, R. 1995. Metodologias para cultivo no 
-axenico de macroalgas marinas in vitro. In: E.C. Oliveira, E. Sar (eds.). Manual de Métodos 
-Ficológicos. Universidad de Concepción, Concepción, pp. 429-447. 
-Pedroche, F.F., West, J.A., Zuccarello, G.C., Sentíes, A.G. & Karsten, U. 1995. Marine red 
-algae of the mangroves in Southern Pacific México and Pacific Guatemala. Botanica Marina 38: 
-111-119. 
-Post, E. 1936. Systematische und pflanzengeographische Notizen zur Bostrychia-Caloglossa 
-Assoziation. Revue Algologie 9: 1-84. 
-Saminathan, K.R., Ashok, K.S., Veeragurunathan, V. & Mantri, V.A. 2014. Seedling 
-production in the industrially important agarophyte Gracilaria dura (Gracilariales, 
-Rhodophyta). Journal of Applied Phycology 27: 1541-1548.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-14 
- 
-Shea, R. & Chopin, T. 2007. Effects of germanium dioxide, an inhibitor of diatom growth, on the 
-microscopic laboratory cultivation stage of the kelp, Laminaria saccharina. Journal of Applied 
-Phycology 19: 27-32. 
-Vieira, E.A., Filgueiras, H.R., Bueno, M., Leite, F.P.P. & Dias, G.M. 2018. Co-occurring 
-morphologically distinct algae support a diverse associated fauna in the intertidal zone of Araçá 
-Bay, Brazil. Biota Neotropica 18: e20170464. 
-West, J.A. 1991. New records of marine algae from Perú. Botanica Marina 34: 459-464. 
-West, J.A., Zuccarello, G., Karsten, U. & Calumpong, H.P. 1993. Biology of Bostrychia, 
-Stictosiphonia and Caloglossa (Rhodophyta, Ceramiales). Proc. of the 2nd RP-USA Phycology 
-Symposium, Cebu and Dumaguete, pp. 145-162. 
-West, J.A., Hommersand, M. & Zuccarello, G.C. 2001. Morphology and reproduction of 
-Bostrychia pinnata (Rhodomelaceae, Ceramiales) in laboratory culture. Phycological Research 
-49: 285-297.  
-Yokoya, N.S., Plastino, E.M., Braga, M.R.A., Mutue, T.J., Cordeiro-Marino, M., Eston, V.R. 
-& Harari, J. 1999. Temporal and spatial variations in the structure of macroalgal communities 
-associated with mangrove trees of Ilha do Cardoso, São Paulo state, Brazil. Revista Brasileira de 
-Botânica 22: 195-204. 
-Yokoya, N.S. 2000. Apical callus formation and plant regeneration controlled by plant growth 
-regulators on axenic culture of the red alga Gracilariopsis tenuifrons (Gracilariales, 
-Rhodophyta). Phycological Research 48: 133-142. 
-Yong, S.Y., Yong, W.T.L. & Anton, A. 2013. Analysis of formulae for determination of seaweed 
-growth rate. Journal of Applied Phycology 25: 1831-1834. 
-Yong, W.T.L., Ting, S.H., Yong, Y.S., Thien, Y.V., Wong, S.H., Chin, W.L., Rodrigues, K.F. 
-& Anton, A. 2014. Optimization of culture conditions for the direct regeneration of 
-Kappaphycus alvarezii (Rhodophyta, Solieriaceae). Journal of Applied Phycology 26: 1597-
-1606.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-15 
- 
- 
-Table 1. Mean values (individuals mL-1) with standard deviations of contaminants counted in 
-culture medium samples of the treatments for surface decontamination of Bostrychia binderi 
-Harvey and control. Statistical analyses were performed among: control and treatments with 5% 
-liquid detergent and 1% povidone iodine; and among control and treatments with 5% liquid 
-detergent and 0.2% sodium hypochlorite. Asterisk (*) indicates significant differences. The values 
-correspond to five replicates (n = 5). 
-a: p value Mann-Witney test and b: p value Tukey’s test. 
-Contaminating Organisms (Individuals mL-1) 
- 
-Ciliates 
-Microcrustaceans 
-Nematodes 
-Gastropods 
-Annelids 
-Control 
-759.6; ± 160 
-17.6; ± 7.0* 
-33.6; ± 9.9* 
-0.4; ± 0.5 
-1.6; ± 0.5* 
-Treatments 
-5% liquid detergent 
-and 1% povidone 
-iodine 
- 
- 
- 
- 
- 
-15 sec 
-720; ± 113.6 
-18.8; ± 7.0 
-28.8; ± 5.5 
-0.6; ± 0.8 
-1.4; ± 1.1 
-30 sec 
-613.4; ± 159.1 
-15; ± 9.2 
-38; ± 9.2 
-0.6; ± 0.5 
-1; ± 0.7 
-1 min 
-594.6; ± 204.4 
-18; ± 4.9 
-34; ± 8.8 
-0.8; ± 0.83 
-2; ± 0.7 
-2 min 
-603.2; ± 194.1 
-22.6; ± 9.6 
-30.6; ± 4.2 
-1; ± 0.7 
-1; ± 0.7 
-p values (ANOVA) 
-0.49 
-0.69 
-0.48 
-0.83 
-0.26 
-Treatments 
-5% liquid detergent 
-and 0.2% sodium 
-hypochlorite 
- 
- 
- 
- 
- 
-1 min 
-538.8; ± 626.7 
-0.2; ± 0.4* 
-0.6; ± 0.5* 
-0 
-0.6; ± 0.8 
-2 min 
-0 
-0 
-0 
-0 
-0.2; ± 0.4* 
-5 min 
-0 
-0 
-0 
-0 
-0.2; ± 0.8* 
-p values 
-0.30a 
-> 0.01a 
-0.01a 
-- 
-0.03b 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-16 
- 
- 
-Table 2.  Decontamination protocol of the macroalga surface. 
-1: During field collection, remove the estuarine sediment through washing with in situ water. 
-In laboratory: 
-2: Remove remaining sediments adhered on the thalli by washing and spraying with sterilized seawater. 
-3: Remove macroinvertebrates which are still associated to the thalli using sterilized tweezers. 
-4: Remove epiphytes by cutting with scalpels. 
-5: Wash the thalli with distilled water. 
-6: Immerse the thalli in 5% liquid detergent (DETERBIO Neutral + deionized water) for 60 
-seconds. 
-7: Remove completely the liquid detergent on the thalli with sterilized seawater by several washing. 
-8: Immerse the thalli in 0.2% sodium hypochlorite for 2 minutes. 
-9: Remove completely the sodium hypochlorite on the thalli with sterilized seawater by several 
-washing. 
-10: Maintain the macroalgae in culture medium (sterilized seawater and nutrient solution). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-17 
- 
- 
-Figure 1. Mean weights (g) with standard deviations of the cultivated thalli. Initial weight (W1), 
-weight in the second week (W2) and in the third week (W3). a. Control and immersion treatments 
-in 5% liquid detergent and after in 1% povidone iodine. b. Control and immersion treatments in 5% 
-liquid detergent and after in 0.2% sodium hypochlorite. Columns are means and bars standard 
-deviations. Different letters above bars indicate significant differences among weights throughout of 
-three weeks for the same treatment. The values correspond to five replicates (n = 5). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-18 
- 
- 
-Figure 2. Relative growth rates (RGRs) of the cultivated thalli. RGRs were calculated with weights 
-obtained at the second and third weighing (after recovery of the thalli). a. Control and immersion 
-treatments in 5% liquid detergent and after in 1% povidone iodine. b. Control and immersion 
-treatments in 5% liquid detergent and after in 0.2% sodium hypochlorite. Columns are means and 
-bars standard errors. Different letters above bars indicate significant differences among treatments. 
-The values correspond to five replicates (n = 5). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)
-19 
- 
-CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE 
-PREPRINTS DO SCIELO 
- 
- 
- 
-Ao Comitê Editorial de HOEHNEA 
- 
- 
-Declaro, em meu próprio nome e nos dos demais Autores que concordo com a publicação 
-do artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Decontamination protocol of 
-the macroalga Bostrychia binderi Harvey (Rhodophyta) for unialgal cultures and laboratory 
-studies” de autoria de Henrique Douglas dos Santos Borburema, Êmille Natane de Araújo 
-Barbosa e George Emmanuel Cavalcanti de Miranda, no Portal de Preprints do SciELO Brasil 
-(Biological Sciences | SciELO Preprints). 
-Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não está 
-sendo considerado para publicação em outra Revista, quer seja no formato impresso e/ou 
-eletrônico. 
- 
-Natal, 06 de maio de 2021. 
- 
- 
- 
- 
- 
-Henrique Douglas dos Santos Borburema 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-58/2020
-Powered by TCPDF (www.tcpdf.org)

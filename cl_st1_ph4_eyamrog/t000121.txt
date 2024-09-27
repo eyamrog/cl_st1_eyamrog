@@ -1,74 +1,3 @@
-Status: Preprint has not been submitted for publication
-Meta-worry, anxiety and depression in the COVID-19 pandemic
-André  Faro, Luana Silva-Santos, Maisa Carvalho Silva, Matheus Macena Vasconcelos
-https://doi.org/10.1590/SciELOPreprints.2436
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Submitted on: 2021-06-02
-Posted on: 2021-06-07 11:59:35 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-1 
- 
-Metapreocupação, ansiedade e depressão na pandemia de COVID-19 
-Meta-worry, anxiety and depression in the COVID-19 pandemic 
-Meta-worry, anxiety, depression and COVID-19 
-André Faro, Department of Psychology, Graduate Program in Psychology, Universidade Federal 
-de Sergipe (UFS), CNPq productivity scholar (level 2), https://orcid.org/0000-0002-7348-6297 
-Luana Cristina Silva-Santos, Master in Social Psychology (UFS), Doctoral Student in 
-Psychology (UFS, CAPES scholarship), Professor at the Centro Universitário Estácio de 
-Sergipe, https://orcid.org/0000-0001-7972-0366 
-Maisa Carvalho Silva, Graduated in Psychology, Universidade Federal de Sergipe, 
-https://orcid.org/0000-0002-0226-5040 
-Matheus Macena Vasconcelos, Psychology undergraduate student, Universidade Federal de 
-Sergipe, https://orcid.org/0000-0003-4988-3708 
- 
-Correspondence: André Faro (andre.faro.ufs@gmail.com). Address: Avenida Marechal 
-Rondon, s/n, Universidade Federal de Sergipe, Departamento de Psicologia. CEP 49000-000, 
-Conjunto Rosa Elze, São Cristóvão – Sergipe. 
- 
-Resumo 
-Esta pesquisa analisou associações entre metapreocupações e sintomatologias ansiosa e 
-depressiva no início da pandemia de COVID-19 no Brasil. Participaram do estudo 2.042 
-indivíduos, com idades entre 18-78 anos. Um questionário sociodemográfico, o 4-item Patient 
-Health Questionnaire e o Meta-Worry Questionnaire foram respondidos online. Quatro modelos 
-de Regressão Logística foram utilizados para estimar o efeito das variáveis independentes sobre 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-2 
- 
-as sintomatologias ansiosa e depressiva. As variáveis ser mais jovem, não ter renda fixa, 
-perceber-se doente e exibir alto nível de metapreocupações ampliaram as chances de sintomas 
-ansiosos e/ou depressivos. Concluiu-se que prover cuidado frente ao sofrimento psicológico é 
-fundamental no combate à COVID-19, pois foram detectados fatores de suscetibilidade ao 
-desenvolvimento de transtornos mentais no começo da pandemia no Brasil. 
-Palavras-chave: Ansiedade; Depressão; Metapreocupação; COVID-19. 
- 
-Abstract 
 This research analyzed associations between meta-concerns and anxious and depressive 
 symptoms at the beginning of the COVID-19 pandemic in Brazil. 2,042 individuals participated, 
 aged 18-78 years. A sociodemographic questionnaire, the 4-item Patient Health Questionnaire 
@@ -79,15 +8,7 @@ meta-worries increased the chances of showing symptoms. It was concluded that pr
 in the face of psychological suffering is fundamental in combating COVID-19, since factors of 
 susceptibility to the development of mental disorders were detected at the beginning of the 
 pandemic in Brazil. 
-Keywords: Anxiety; Depression; Meta-worry; COVID-19. 
- 
- 
- 
-Introduction 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-3 
- 
+
 The International Health Regulations [World Health Organization (WHO), 2005, p. 9] 
 states that a Public Health Emergency of International Concern (PHEIC) means an extraordinary 
 event that “(i) constitutes a public health risk to other countries due to the international spread of 
@@ -96,6 +17,7 @@ highest level of alertness by the WHO, PHEICs only occurred before during the H1
 (2009), the international spread of the poliovirus (2014), the Ebola outbreaks (2014 and 2018), 
 and the increase in cases of microcephaly and congenital malformations caused by the Zika virus 
 (2016) [Pan-American Health Organization (PAHO) & WHO, 2020].  
+
 Currently, the world is facing the sixth PHEIC with the outbreak of the new human 
 coronavirus (PAHO & OMS, 2020). In total, there are seven human coronaviruses, three of 
 which can cause severe respiratory tract infections: SARS-COV, MERS-COV, and the current 
@@ -104,6 +26,7 @@ million deaths by early November 2020 (em 02/11: 1.204.003), COVID-19 has made c
 around the world adopt isolation and social distancing measures to prevent further contagion and 
 contain its progress, while effective forms of prevention and treatment are researched (Faro et 
 al., 2020; PAHO & WHO, 2020).  
+
 Widespread outbreaks of infectious diseases, such as COVID-19, are associated with 
 psychological distress and symptoms of mental illness. Most existing studies were conducted in 
 China, the first epicenter of the pandemic as we write, and observed mainly anxiety disorders 
@@ -112,10 +35,6 @@ countries (Huang & Zhao, 2020). In this sense, evidences from previous studies o
 to COVID-19, such as MERS-COV and SARS-COV, show that measures to separate and restrict 
 the flow of people have a massive impact on mental health, causing negative psychological 
 outcomes such as CMD (Brooks et al., 2020; Jiloha, 2020). Symptoms of stress, irritability, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-4 
- 
 insomnia, post-traumatic stress disorder, depression, anxiety, substance abuse, suicide attempts, 
 and self-injury behaviors are frequently observed in health care professionals and in the general 
 population who, in this type of stressful situation, worry about uncertainties regarding the future, 
@@ -124,6 +43,7 @@ study including 1210 participants, higher rates of anxiety and depression were a
 women, students, people with symptoms suggestive of COVID-19, and those with poor health 
 perceptions, while availability of information and engagement in preventive behaviors such as 
 washing hands seemed to soften these effects (Wang et al., 2020). 
+
 People with suspected COVID-19 were more likely to have depressive symptoms and 
 lower quality of life than those without the disease (Nguyen et al., 2020). Regarding anxiety, its 
 concept is based on a tripartite structure formed by worry, fear, and uncertainty, which are 
@@ -133,6 +53,7 @@ of an effective vaccine or treatment of COVID-19 and expectations regarding the 
 pandemic. Simultaneously, there is fear of contagion, of death itself or death of significant ones, 
 besides social isolation. Finally, the third facet of anxiety is fueled by worry about what is 
 expected for the post-pandemic future.  
+
 In the domain of worry, metacognitive processes play an important role, since they 
 contribute, correct, assess, and regulate thoughts, besides being closely connected to the 
 development and maintenance of psychological disorders (Dinis & Gouveia, 2011). Generally, 
@@ -140,14 +61,11 @@ high levels of worry can trigger different psychiatric symptoms, many of them re
 common mental disorders, for instance anxiety or depression. During the COVID-19 outbreak, 
 exposure to information by the media may trigger both unrealistic optimism and negative 
 thoughts, which can accentuate distorted predictions about health or even exaggerated worrying 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-5 
- 
 (Faro et al., 2020). In this sense, studies investigating relations between worries and mental 
 health have shown that outcomes related to anxiety and depression are common in contexts 
 where there is excessive worrying (Huang & Zhao; 2020; Topper, Emmelkamp, Watkins, & 
 Ehring, 2017).  
+
 The ongoing pandemic of COVID-19 is inducing fear, uncertainty, and worry, which lead 
 to the need for a timely understanding of the repercussions on people’s health status and 
 psychological adjustment. In Brazil, for instance, no information has yet been found on the 
@@ -159,6 +77,7 @@ situation has affected the mental health of the population at the beginning of t
 isolation and quarantine due to COVID-19. Based on information from that initial moment, 
 possibly more effective actions can be undertaken with a preventive character or even better 
 structuring of health care throughout the crisis. 
+
 This study aimed to analyze the associations between meta-worry and symptoms of 
 anxiety and depression in the face of the COVID-19 pandemic. Data collection was conducted in 
 the initial period of the recommendation of social isolation and quarantine for suspected and 
@@ -166,47 +85,39 @@ confirmed cases in Brazil, in March, 2020. To do so, initially the occurrence of
 depressive symptoms was estimated. Then, the mean of the meta-worry score was calculated. 
 Finally, we tested a predictive model in which meta-worrying explains the variability of anxiety 
 and depression symptoms in the population. 
- 
-Method 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-6 
- 
-Participants 
+
 A total of 2042 Brazilians, of both sexes, aged between 18 and 78 years, participated in 
 the study at late March 2020. The sample comprised mainly individuals located in the Northeast 
 region (80%, n = 1634), with 14.1% (n = 288) in the Southeast, and 5.9% (n = 120) in other 
 regions of the country. Specifically, in relation to the Northeast region, 74.6% of the individuals 
 (n = 1219) lived in Sergipe. The sampling used was non-probabilistic, by convenience, and via 
 online collection. The only inclusion criterion set was age over 18 years.  
+
 In the State of Sergipe, which makes up most of the sample, the government decree 
 showing the public health emergency situation was issued on March 17. For the Southeast 
 region, which concentrated the second largest part of the sample, the state of São Paulo decreed 
 it on March 20, the state of Minas Gerais on March 15, the state of Rio de Janeiro on March 16, 
 and the state of Espírito Santo, on March 17. For the other regions, dates varied between March 
 16 and 19. 
-Instruments 
- 
+
 A sociodemographic questionnaire was used with the variables: sex (male or female), age 
 (in years), skin color (white, black or brown; yellow and indigenous were excluded of the final 
 sample due to small occurrence in the sample), education (up to high school or higher 
 education), living alone (no or yes), chronic disease (no or yes), income (with or without steady 
 income), health perception (ill or healthy), municipality and State of living (place of residence). 
+
 The worry levels were assessed using the Meta-Worry Questionnaire (MWQ), developed 
 by Wells (2005). The Portuguese version of the MWQ was adapted and validated by Dinis and 
 Gouveia (2011), with good internal consistency (α = 0.89). The instrument includes seven items, 
 in the form of questions, assessed separately on two scales that assess the frequency of 
 metacognitions about worry and the degree of beliefs related to them. In the present study, only 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-7 
- 
 the scale that evaluates the frequency of worry was used, due to the intention to conduct a brief 
 mental health screening and, therefore, the need for the smallest possible research instrument. 
 Answers are obtained using a 4-point Likert scale, ranging from “never” (1) to “always” (4). The 
 score is obtained by adding the answers of all items, indicating that the higher the frequency of 
 worry, the greater the probability of being dysfunctional. In this investigation, the instrument 
 showed high internal consistency (Cronbach’s alpha [α] = 0.90).  
+
 To identify the existence of symptoms of anxiety and / or depression, we used the 4-item 
 version of the Patient Health Questionnaire [PHQ-4], Portuguese version, developed by 
 Kroenke, Spitzer, Williams, and Löwe (2009). In the initial study, the instrument showed good 
@@ -220,20 +131,16 @@ interest or little pleasure in doing things”), where a score of three indicate
 anxiety and / or depression disorders. In the current study, we applied a cutoff at score three 
 because this survey just aimed screening significant symptomatology of anxiety or depressive 
 disorders. The PHQ-4 had satisfactory reliability in this research (α = 0.84). 
- Procedures and Ethical Aspects  
+
 Data collection was conducted using an invitation sent via social networks, mainly 
 Facebook and Instagram. The research was approved by CONEP, the National Research Ethics 
 Committee, under approval number [omitted for evaluation]. The online questionnaire was 
 directed to the general population and the public was asked to forward the survey to other people 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-8 
- 
 in their social life. A Free and Informed Consent Form was located at the beginning of the 
 questionnaire, which could only be completed if the individual agreed to participate. In order to 
 be a short screening, the average response time was 5 minutes, according to the automatic 
 registration of the platform used for data collection. 
-Data analysis 
+
 The data adjustment and analysis procedures were performed using the SPSS (Statistical 
 Package for Social Sciences, version 23). The final scores of the instruments were obtained with 
 descriptive analyses (absolute and percentage frequency, mean, and standard deviation). Four 
@@ -242,6 +149,7 @@ of the independent variables sex, skin color, education, living alone, having ch
 (categorized by quartiles in up to 24 years, 25-30 years, 31-39 years, and over 39 years), income, 
 health perception, and meta-worry (dichotomized by the mean in above the mean and up to the 
 mean) towards symptoms of anxiety and depression.  
+
 The PHQ-4 screening diagnoses were categorized by combining the presence of a single 
 or simultaneous diagnosis (i.e. four groups: anxiety, depression, just one or both diagnosis). 
 Thus, each group was used as a dependent variable (presence or absence of symptoms) in 
@@ -252,14 +160,9 @@ Lemeshow test (expected not to be statistically significant), and correct predic
 model (expected around 70%). The multicollinearity assessment was performed for all models 
 and no problems were found in the composition or final solution of the models. It is worth noting 
 that all Odds Ratio (OR) values below 1 were converted by the formula 1/OR for purposes of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-9 
- 
 standardizing the description of the findings. Significance was set at p < 0.05 for all steps of 
 binomial and multinomial regressions. 
-Results 
-Sample profile  
+
 The sample consisted of 75.9% (n = 1549) female participants and 24.1% (n = 493) male, 
 with a median age of 30 years, of which 28.5% (n = 582) were aged up to 24 years, 23.6% (n = 
 482) were between 25 and 30 years old, 23.1% (n = 472) were between 31 and 39 years old, and 
@@ -270,6 +173,7 @@ that is, shared their residence with someone (family member or friend). Regardin
 to a secondary education level. Regarding income, 72.6% (n = 1483) had steady income, and 
 27.4% (n = 559) declared they did not have it. Most participants perceived themselves as healthy 
 (81.4%; n = 1662) and only 18.3% (n = 373) declared to suffer from some chronic disease.  
+
 On the meta-worry scale (Mean [M] = 12.5, Standard Deviation [SD] = 4.90), 41% (n = 
 837) of the participants scored above the mean, and 59.0% (n = 1205) scored values up to the 
 mean. As for anxiety or depression symptoms (cutoff at score three), 36.2% (n = 739) had 
@@ -277,13 +181,9 @@ symptoms suggestive of anxiety, 24.8% (n = 506) had symptoms suggestive of depre
 42.8% (n = 873) had symptoms suggestive of just one diagnosis (anxiety or depression), and 
 18.2% (n = 372) had both. In the full sample, 57,2% (n = 1169) of the participants did not show 
 significant symptoms for anxiety and/or depression. 
-Logistic Regressions 
+
 Four binomial logistic regressions were performed, one for each of the PHQ-4 outcomes 
 and another two for the possible combinations of these outcomes. Table 1 shows the results of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-10 
- 
 each model, as well as their adjustment indicators, which were all satisfactory, with high 
 predictive capacity and explained variance. It was found none multicollinearity issues between 
 the variables in all models. Regarding the first model, related to anxious symptoms, younger 
@@ -294,6 +194,7 @@ perceived themselves as ill also showed more chances of having symptoms suggesti
 than those who perceived themselves as healthy (OR = 2.1). The meta-worry variable showed 
 that those who scored above the mean had a 12-fold higher chance of having anxious symptoms 
 than those who scored up to the mean (OR = 12.0).  
+
 In the outcome related to depressive symptoms (second model), younger people (up to 24 
 years old) showed more chances of having symptoms in relation to all age groups of older 
 people: in relation to those between 25 and 30 years old, they showed 1.6 more chances (OR = 
@@ -306,12 +207,9 @@ times more likely to have depressive symptoms than those who did not live alone 
 Regarding meta-worries, those who scored above the mean on the scale showed approximately 
 6.5 more chances of symptomatology suggestive of depression than those who scored up to the 
 mean (OR = 6.6). 
+
 In the third model, related to the outcome of just one diagnosis (anxious or depressive 
 symptoms), the youngest (up to 24 years old) showed 1.5 more chances of having one of the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-11 
- 
 symptomatologies compared to those between 31 and 39 years old (OR = 0.7; 1/OR = 1.4), and 
 two times more chances compared to those over 39 (OR = 0.5; 1/OR = 2). Regarding income, 
 those who did not have a steady income showed more chances of having any of the set of 
@@ -320,6 +218,7 @@ perceived themselves as ill in relation to those who perceived themselves as hea
 Those who scored above the mean on the meta-worry scale were about 11.5 times more likely to 
 have symptoms suggestive of anxiety or depression than those who scored up to the mean (OR = 
 11.4). 
+
 Finally, in the outcome related to having both set of symptoms (fourth model), those who 
 were up to 24 years old were two times more likely to present them in relation to both the group 
 between 31 and 39 years old and in relation to those who were over 39 years old (OR = 0.5; 
@@ -328,225 +227,7 @@ having anxious and depressive symptoms in relation to those having a steady inco
 and who perceived themselves as healthy (OR = 2.4). Those who scored above the mean on the 
 meta-worry scale were about 13 times more likely to have both set of symptoms than those who 
 scored up to the mean (OR = 12.7). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-12 
- 
-Table 1 
- 
-Indicators of Binomial Logistic Regressions for symptoms of anxiety and depression in the PHQ-4  
-Binomial Regressions  
- 
-Odds Ratio (OR) 
-1/OR 
-p-value 
-Anxiety1 
- 
- 
- 
- 
-    Age 
-Up to 24 years 
-1 
-- 
-- 
-Above 39 years 
-0.6 
-1.6 
-   0.005 
-    Income 
-With steady income 
-1 
-- 
-- 
-Without steady income 
-1.4 
-- 
-   0.002 
-    Health 
-Healthy 
-1 
-- 
-- 
-Ill 
-2.1 
-- 
-< 0.001 
-    Meta-worry 
-Up to the mean 
-1 
-- 
-- 
-Above the mean 
-12 
-- 
-< 0.001 
-Depression2 
- 
- 
- 
- 
-    Age 
-Up to 24 years 
-1 
-- 
-- 
-Between 25 and 30 years 
-0.6 
-1.6 
-   0.003 
-Between 31 and 39 years 
-0.5 
-2 
-< 0.001 
-Above 39 years 
-0.4 
-2.5 
-< 0.001 
-    Health 
-Healthy 
-1 
-- 
-- 
-Ill 
-2.4 
-- 
-< 0.001 
-    Living alone 
-No 
-1 
-- 
-- 
-Yes 
-1.4 
-- 
-   0.044 
-    Meta-worry 
-Up to the mean 
-1 
-- 
-- 
-Above the mean 
-6.6 
-- 
-< 0.001 
-Anxiety or depression3 
- 
- 
- 
- 
-    Age 
-Up to 24 years 
-1 
-- 
-- 
-Between 31 and 39 years 
-0.5 
-2.0 
-   0.013 
-Above 39 years 
-0.5 
-2.0 
-< 0.001 
-    Income 
-With steady income 
-1 
-- 
-- 
-Without steady income 
-1.3 
-- 
-   0.019 
-    Health perception 
-Healthy 
-1 
-- 
-- 
-Ill 
-2.4 
-- 
-< 0.001 
-    Meta-worry 
-Up to the mean 
-1 
-- 
-- 
- 
-Above the mean 
-11.4 
-- 
-< 0.001 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-13 
- 
-Anxiety and depression4 
- 
- 
- 
- 
-    Age 
-Up to 24 years 
-1 
-- 
-- 
-Between 31 and 39 years 
-0.5 
-1.8 
-   0.001 
-Above 39 years 
-0.5 
-1.9 
-< 0.001 
-    Income 
-With steady income 
-1 
-- 
-- 
-Without steady income 
-1.3 
-- 
-   0.038 
-    Health perception 
-Healthy 
-1 
-- 
-- 
-Ill 
-2.4 
-- 
-< 0.001 
-    Meta-worry 
-Up to the mean 
-1 
-- 
-- 
-Above the mean 
-12.7 
-- 
-< 0.001 
-Notes. 
-* Variables without statistical significance in each model were excluded from the Table.  
-1. Outcome anxiety symptomatology: Omnibus test = 692.120 (p < 0.001). Hosmer-Lemeshow Test X² = 2.408 (p = 0.966). Nagelkerke’s R² = 0.394 (39.4%). 
-Percentage of cases correctly predicted = 78.6%.   
-2. Outcome depression symptomatology: Omnibus test = 433.151 (p < 0.001). Hosmer-Lemeshow Test X² = 9.343 (p = 0.229). Nagelkerke’s R² = 0.284 (28.4%). 
-Percentage of cases correctly predicted = 77.5%. 
-3. Outcome anxiety or depression symptomatology: Omnibus test = 719.579 (p < 0.001). Hosmer-Lemeshow Test X² = 1.543 (p = 0.992). Nagelkerke’s R² = .399 
-(39.9%). Percentage of cases correctly predicted = 78.2%. 
-4. Outcome anxiety and depression symptomatology: Omnibus test = 475.575 (p < 0.001). Hosmer-Lemeshow Test X² = 6.481 (p = 0.594). Nagelkerke’s R² = 
-.339 (33.9%). Percentage of cases correctly predicted = 83.3% 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-14 
- 
- 
-Discussion 
- 
+
 The present investigation aimed to examine associations between meta-worry and 
 significant anxious and/or depressive symptoms in the Brazilian people during the beginning 
 of the COVID-19 pandemic. It is noteworthy that all models had an excellent outcome, with 
@@ -556,6 +237,7 @@ have much variation depending on the outcome. In this sense, it was found that t
 characteristics that predicted the greatest predisposition to presenting symptoms of anxiety 
 and depression related to age, steady income, perception of health, and meta-worry. 
 Exceptionally, living alone was a significant explanatory variable only for depression. 
+
 Regarding age, we observed that the chance of younger people presenting symptoms 
 in all outcomes was higher. In all models evaluated, the group of those who were up to 24 
 years old was more vulnerable to anxious and / or depressive symptoms at the time of 
@@ -570,10 +252,7 @@ noting the current findings come up in a scenario of 2 months after the start of
 quarantine and social distance measures (period of the data collection); in another words, a 
 situation in which stressors related to unemployment and income were already feared and 
 shared socially. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-15 
- 
+
 Another important variable was the perception of health. Results showed that those 
 who perceived themselves as ill showed a higher probability of having symptoms of anxiety 
 and / or depression. In other words, participants who already had some level of previous 
@@ -586,12 +265,14 @@ with higher rates of depression and anxiety during the COVID-19 pandemic also in
 studies (Wang et al., 2020), especially if the perception of illness is related to the suspected 
 contagion by the coronavirus (Nguyen et al., 2020), which reinforces the consonance of this 
 finding with previous evidence. 
+
 The variable living alone, which can refers to the perception of less social support, 
 increased the chances only for depressive symptoms only. On this, the literature shows that 
 individuals who live alone are less likely to share worries and fears throughout the pandemic, 
 except through devices (Jacob, Haro, & Koyanagi, 2019; Stahl, Beach, Musa, & Schulz, 
 2017). Then, it seems plausible to think that, if affected by COVID-19, these individuals seem 
 to have less perception that they would eventually obtain support to deal with the disease. 
+
 Finally, it was detected that the main explanatory variable of this study was meta-
 worry, which considerably increased the chances of symptoms in the 2 possible outcomes, 
 reaching almost 13 times more chances for the presence of symptoms of anxiety and 
@@ -599,10 +280,6 @@ depression, simultaneously. In terms of diagnosis, meta-worry is a key element f
 symptoms and in the context of the current pandemic the scenario itself is conducive to the 
 development of different worries, there is the fear of contagion, of death itself or of loved 
 ones, in addition to imposed social isolation (Liu et al., 2020). In this regard, outcomes related 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-16 
- 
 to the symptoms of anxiety and depression are common in contexts associated with excessive 
 meta-worrying (Topper et al., 2017) and studies already show vulnerability to these 
 conditions in people who spend a considerable amount of time with cognitions related to the 
@@ -610,6 +287,7 @@ pandemic (Huang & Zhao, 2020). During epidemics, the number of people whose ment
 health is affected tends to be greater than the number of people affected by the disease and 
 tends to outlast the epidemic itself (Shigemura, Ursano, Morganstein, Kurosawa, & Benedek, 
 2020), which brings to the agenda, in the Brazilian context, the topic of excessive worrying. 
+
 As limitations of the present study, the sample is not directly generalizable, given its 
 non-randomization; however, its size helps to provide greater reliability to the findings and 
 increases the likelihood of replicability. The results were obtained mainly in the Brazilian 
@@ -623,110 +301,9 @@ predictive capacity of meta-worry in anxiety and depression. In addition, consid
 different phases of social isolation and consequences of the pandemic, it is pertinent that 
 longitudinal studies monitor its impact on the mental health of individuals during and after the 
 pandemic. 
+
 Finally, given the current global scenario, which is quite critical and has an unknown 
 impact, particularly in Brazil, the importance of monitoring the mental health of the Brazilian 
 population is emphasized. Therefore, we believe that research and interventions aimed at 
 relieving psychological suffering are essential and should be part of the public health policy 
 proposal to fight COVID-19 in the present and in the long term. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-17 
- 
-References 
-Barari, S., Caria, S., Dayola, A., Falco, P., Fetzer, T., Fiorin, S., ... Kraft-Todd, G. (2020). 
-Evaluating COVID-19 public health messaging in Italy: Self-reported compliance and 
-growing mental health concerns. MedRxiv. 
-https://dx.doi.org/10.1101/2020.03.27.20042820  
-Brooks, S. K., Webster, R. K., Smith, L. E., Woodland, L., Wessely, S., Greenberg, N., & 
-Rubin, G. J. (2020). The psychological impact of quarantine and how to reduce it: Rapid 
-review of the evidence. The Lancet, 395(10227), 912-920. 
-https://dx.doi.org/10.1016/S0140-6736(20)30460-8  
-Dinis, A., & Gouveia, J. P. (2011). Estudo das características psicométricas da versão 
-portuguesa do Questionário de Metacognições: Versão reduzida e do Questionário de 
-Meta-preocupação. Psychologica, 54, 281-308. https://impactum-
-journals.uc.pt/psychologica/article/view/1109  
-Dong, L., & Bouey, J. Public mental health crisis during COVID-19 pandemic, China. 
-Emerging Infectious Diseases, 26(7). https://dx.doi.org/10.3201/eid2607.200407   
-Duarte, M. D. Q., Santo, M. A. D. S., Lima, C. P., Giordani, J. P., & Trentini, C. M. (2020). 
-COVID-19 e os impactos na saúde mental: uma amostra do Rio Grande do Sul, 
-Brasil. Ciência & Saúde Coletiva, 25, 3401-3411. https://doi.org/10.1590/1413-
-81232020259.16472020  
-Faro, A., Bahiano, M. A., Nakano, T. C., Reis, C., Silva, B. F. P., & Vitti, L. S. (2020). 
-COVID-19 e saúde mental: A emergência do cuidado. Estudos de Psicologia, 37, 
-e200074. https://dx.doi.org/10.1590//1982-0275202037e200074  
-Huang, Y., & Zhao, N.  (2020). Generalized anxiety disorder, depressive symptoms and sleep 
-quality during COVID-19 outbreak in China: A web-based cross-sectional survey. 
-Psychiatry Research, 288. https://dx.doi.org/10.1016/j.psychres.2020.112954  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-18 
- 
-Jacob, L., Haro, J. M., & Koyanagi, A. (2019). Relationship between living alone and 
-common mental disorders in the 1993, 2000 and 2007 National Psychiatric Morbidity 
-Surveys. PloS one, 14(5). https://dx.doi.org/10.1371/journal.pone.0215182   
-Jiloha, R. C. (2020). COVID-19 and mental health. Epidemiology International, 5, 7-9. 
-https://dx.doi.org/10.24321/2455.7048.202002  
-Kong, X., Zheng, K., Tang, M., Kong, F., Zhou, J., Diao, L. … Dong, Y. (2020). Prevalence 
-and factors associated with depression and anxiety of hospitalized patients with COVID-
-19. MedRxiv. https://dx.doi.org/10.1101/2020.03.24.20043075  
-Kroenke, K., Spitzer, R. L., Williams, J. B., & Löwe, B. (2009). An ultra-brief screening scale 
-for anxiety and depression: The PHQ–4. Psychosomatics, 50(6), 613-621. 
-https://dx.doi.org/10.1016/S0033-3182(09)70864-3  
-Liu, C. H., Zhang, E., Wong, G. T. F., & Hyun, S. (2020). Factors associated with depression, 
-anxiety, and PTSD symptomatology during the COVID-19 pandemic: Clinical 
-implications for US young adult mental health. Psychiatry Research, 113172. 
-https://dx.doi.org/10.1016/j.psychres.2020.113172  
-Nguyen, H. C., Nguyen, M. H., Do, B. N., Tran, C. Q., Nguyen, T. T. P., Pham, K. M. … 
-Duong, T. V. People with suspected COVID-19 symptoms were more likely depressed 
-and had lower health-related quality of life: The potential benefit of health literacy. 
-Journal of Clinical Medicine, 9(4), 965-982. https://dx.doi.org/10.3390/jcm9040965  
-Pan American Health Organization (2020). Folha informativa – COVID-19 (doença causada 
-pelo novo coronavirus). Retrieved on April 23, 2020 from 
-https://www.paho.org/bra/index.php?option=com_content&view=article&id=6101:covid1
-9&Itemid=875 
-World Health Organization (2005). International Health Regulations. WHO. Retrieved on 
-April 23, 2020 from https://www.who.int/publications/i/item/97892415804101 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-19 
- 
-Stahl, S. T., Beach, S. R., Musa, D., & Schulz, R. (2017). Living alone and depression: the 
-modifying role of the perceived neighborhood environment. Aging & mental 
-health, 21(10), 1065-1071. https://dx.doi.org/10.1080/13607863.2016.1191060  
-Shigemura, J., Ursano, R. J., Morganstein, J. C., Kurosawa, M., & Benedek, D. M. (2020). 
-Public responses to the novel 2019 coronavirus (2019-nCoV) in Japan: Mental health 
-consequences and target populations. Psychiatry and Clinical Neurosciences, 74(4), 281-
-282. https://dx.doi.org/10.1111/pcn.12988  
-Topper, M., Emmelkamp, P. M. G., Watkins, E., & Ehring, T. (2017). Prevention of anxiety 
-disorders and depression by targeting excessive worrying and rumination in adolescentes 
-and young adults: A randomized controlled trial. Behaviour Research and Therapy, 90, 
-123-136. https://dx.doi.org/10.1016/j.brat.2016.12.015    
-Wang, C., Pan, R., Wan, X., Tan, Y., Xu, L., Ho, C. S., & Ho, R. C. (2020). Immediate 
-psychological responses and associated factors during the initial stage of the 2019 
-corinavirus disease (COVID-19) epidemic among the general population in China. 
-International Journal of Environmental Research and Public Health, 17(5), 1729-1753. 
-https://dx.doi.org/10.3390/ijerph17051729  
-Wells, A. (2005). The metacognitive model of GAD: Assessment of meta-worry and 
-relationship with DSM-IV generalized anxiety disorder. Cognitive Therapy and 
-Research, 29, 107-121. https://dx.doi.org/10.1007/s10608-005-1652-0   
- 
- 
-Conflicts of interest 
-There are no known conflicts of interest associated with this publication and there has 
-been no significant financial support for this work that could have influenced its outcome. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
-20 
- 
-Contribution of each author 
-André Faro – Contributed significantly to the manuscript, provided oversight and 
-guidance on statistical analysis. 
-Luana Cristina Silva-Santos – Performed all statistical analysis, provided the data, and 
-wrote the manuscript. 
-Maisa Carvalho Silva – Contributed significantly to the analysis and wrote the 
-manuscript. 
-Matheus Macena Vasconcelos - Contributed significantly to the analysis and wrote the 
-manuscript. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2436
-Powered by TCPDF (www.tcpdf.org)
