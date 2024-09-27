@@ -1,3 +1,31 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/1678-7757-2022-0016
+COVID-19 incidence, severity, medication use, and vaccination
+among dentists: Staggering body of evidence obtained from a
+survey during the second wave in Brazil
+Rafael Moraes, Marcos Correa, Paulo Martins-Filho, Giana Lima, Flávio Demarco
+https://doi.org/10.1590/SciELOPreprints.3483
+Submitted on: 2022-01-11
+Posted on: 2022-01-12 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+COVID-19 incidence, severity, medication use, and vaccination among dentists: Staggering body of 
+evidence obtained from a survey during the second wave in Brazil 
+ 
+Rafael R. Moraes1, Marcos B. Correa1, Paulo R. Martins-Filho2, Giana S. Lima1, Flavio F. Demarco1 
+ 
+1 School of Dentistry, Universidade Federal de Pelotas, Brazil 
+2 Investigative Pathology Laboratory, Universidade Federal de Sergipe, Brazil 
+ 
+ORCIDs: RRM (0000-0003-1358-5928), MBC (0000-0002-1797-3541), PRMF (0000-0001-8779-0727), 
+GSL (0000-0001-8451-9552), FFD (0000-0003-2276-491X) 
+ 
+Corresponding author:  
+Prof. Rafael R. Moraes 
+Universidade Federal de Pelotas, Rua Gonçalves Chaves 457, 96015-560, Pelotas, RS, Brazil 
+Tel/Fax: +55 53 32602831, Email: rafael.moraes@ufpel.edu.br 
+ 
+ABSTRACT 
 This cross-sectional survey investigated the pandemic impact on dental practice in May 2021 (second 
 wave in Brazil). COVID-19 incidence and severity among respondents, vaccination status, and level of 
 confidence in vaccines were surveyed, in addition to medications used for preventing or treating 
@@ -16,11 +44,17 @@ was used by 59% of respondents, 43% used two or more drugs and substances. Vitam
 years in practice) were 42% more likely to use controversial medications than less experienced 
 respondents. Dentists with residency/advanced training as postgraduate education had 30% higher 
 prevalence of controversial medication use than respondents holding MSc/PhD degrees. Respondents 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 with low confidence in vaccines were 2.1 times more likely to use controversial medications than 
 participants with very high confidence. The overall findings of this survey highlight the high severity of 
 the pandemic in Brazil, and raised questions about the use of scientific evidence by dentists in their 
 decision to take controversial COVID-19 medications. 
-
+ 
+Keywords: SARS-CoV-2; COVID-19 vaccines; vitamin D; zinc; ivermectin; chloroquine; evidence-based 
+practice. 
+ 
+ 
+INTRODUCTION 
 The coronavirus disease-19 (COVID-19) pandemic imposed significant challenges to dentistry 
 worldwide1–5. Dental practice during the pandemic has been associated with negative feelings among 
 dentists, who had high anxiety levels and fear of exposure to SARS-CoV-2 and infection at work5–8. A 
@@ -30,7 +64,6 @@ the Brazilian government has been criticized for being hostile to scientific evi
 the spread of SARS-CoV-29,10. As of January 2022, the COVID-19 has caused more than 620,000 deaths 
 in Brazil, one of the highest global mortality rates with approximately 290 deaths per 100,000 
 inhabitants11. 
-
 Amid an epidemiological crisis, a topic that has received great attention around the world has 
 been the use of ineffective or controversial drugs and substances for preventing or treating COVID-
 1912–17. The issue was a matter of investigational hearings in the Brazilian senate and included the off-
@@ -44,14 +77,17 @@ worldwide19,20, and the level of confidence in the COVID-19 vaccines could be as
 of unproved medications. A recent survey in Italy showed that 18% of participating dentists reported 
 hesitance about COVID-19 vaccination21, whereas another study showed higher willingness to receive a 
 COVID-19 vaccine in South America than in the USA and Russia20.  
-
 The objective of this study with dentists in Brazil was to address the impact of COVID-19 on 
 dental practice in May 2021, when the second wave was in course, and one of the most severe periods 
 of the pandemic in Brazil, with 148,000 deaths between March and April, 202111. This report addresses 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 the incidence and severity of the disease among dental professionals participating in a national survey, 
 in addition to the medications used for preventing or treating COVID-19. Information on vaccination 
 status and level of confidence in vaccines during this period were also investigated.  
-
+ 
+ 
+METHODS 
+Study design and ethical aspects 
 This cross-sectional survey was implemented in Brazil in May 2021, one year after a similar 
 survey had been conducted with dentists practicing in Brazil during the escalation of the pandemic 
 curve in the first wave5. The study protocol had been approved by our institutional review board and 
@@ -66,20 +102,21 @@ the questionnaire in its original language, and the databank of responses are al
 platform (doi:10.17605/OSF.IO/DNBGS). An English translation of the questionnaire is presented in 
 the Appendix. This report consulted the Consensus-Based Checklist for Reporting of Survey Studies 
 (CROSS)23. 
-
+ 
+Questionnaire development, content, and pretesting 
 Details on the development and pretesting of the original questionnaire were published 
 elsewhere5,22. The instrument was a self-administered electronic questionnaire, which underwent 
 minor revisions for the present investigation, including suppression of 11 and addition of 5 questions 
 mainly about COVID-19 severity, medication use, and vaccination, which were not present in the 
 previous versions of the instrument. The new questions were formulated based on the inputs of three 
 researchers in three discrete rounds of review.  
-
 The questionnaire was created and hosted on SurveyMonkey (Momentive Inc., San Mateo, 
 CA, USA). The first section informed the title and objective of the study, and the fact that the invitation 
 was extended only to dentists. This section provided the term of informed consent, in which the 
 participants were notified that their participation was voluntary and unpaid, and they were informed 
 of the potential risks and benefits of the research. In addition, the participants were assured that 
 responses would be treated anonymously and confidentially. Multiple participations from a same 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 respondent were not allowed by the surveying system, which also protected unauthorized access to 
 the questionnaire. Each question was presented to the participants only after their response to the 
 previous question, which meant that there were no discrete screens. The questionnaire contained 25 
@@ -90,7 +127,8 @@ not randomized, and no adaptive questioning methods were used. The responses cou
 using back buttons at any time before submitting the completed form. In order to reduce bias related 
 to response errors (units), the options ‘I'd rather not say’, ‘I don't know how to answer’, and ‘Does not 
 apply’ were available in all close-ended questions.  
-
+ 
+Sample selection, participant recruitment and survey administration 
 A source population of 24,392 registered dentists were recruited by means of email invitations 
 to participate, sent via SurveyMonkey (convenience sampling). The list was provided by the Brazilian 
 Ministry of Health in 2020 and included professionals from all Brazilian states working in the public 
@@ -103,7 +141,8 @@ computers, tablets, and cell phones. The first emails were sent on May 13, 2021.
 were sent seven and 11 days later to reduce non-response bias. Given a population of ~350,000 
 dentists in Brazil, we estimated that 1,530 responses would be necessary to ensure a 95% confidence 
 interval and 2.5% margin of error. Responses were collected until May 31, 2021. 
-
+ 
+Data analysis 
 To reduce non-response error, partial completion of questionnaires was not allowed 
 (completion proportion = 100%). In some questions, the responses were restricted to a specific 
 population, e.g., only dentists assisting patients when the survey was administered. The responses ‘I'd 
@@ -112,18 +151,21 @@ strategies for item weighting, propensity scores, or sensitivity analysis were u
 data from the question on medication use, the following were labeled as controversial drugs and 
 substances: vitamin D, ivermectin, zinc, and chloroquine/hydroxychloroquine. Descriptive statistics 
 were used to identify frequencies and distributions of variables with respective 95% confidence 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 intervals (CI). Bivariate and multivariate Poisson regression analyses were performed, and Prevalence 
 Ratios (PR) were calculated for the association between professional characteristics and two COVID-
 19-related outcomes: report of SARS-CoV-2 infection and use of controversial drugs or substances by 
 the dentists. Selection of variables in the multivariate models was performed using stepwise backward 
 method. Variables from the bivariate analysis were kept only if p < 0.25. All analyses were performed 
 in Stata 14.2 (StataCorp, College Station, TX) considering α = 0.05. 
-
+ 
+RESULTS 
 Out of the total number of 24,392 invitation emails sent to dentists, 1,347 emails bounced 
 (5.5% loss) and 9,010 emails were opened (unique visitors), as registered by the surveying system 
 (view proportion = 36.9%). A 21.2% return rate was calculated from those opened emails and a total 
 of 1,907 valid responses were received from all 26 Brazilian states and the federal district.  
-
+ 
+Sample characteristics 
 The length of work experience and the levels of postgraduate education varied among 
 respondents (Table 1). There was a predominance of responses from females and dentists in the public 
 sector. Almost 90% of the participants worked in the South, Southeast, and Northeast regions. Data 
@@ -131,24 +173,26 @@ indicated that 96% of dentists in this survey received at least one dose of the 
 May 2021, and the most common vaccine was CoronaVac (65%). A predominance of high and very 
 high confidence levels in the COVID-19 vaccines was reported (58%), but one third of the sample 
 reported intermediate levels of confidence in the safety and efficacy of the vaccines. 
-
+ 
+Current impact on dental practice 
 The impact of the pandemic on dental practice during the second wave was rated as 
 lower/much lower compared with one-year before (first wave) by 46% of respondents. Nevertheless, 
 39% reported feeling poorly or not prepared to treat COVID-19 patients, and 49% reported moderate 
 or high fear of being infected with the SARS-CoV-2 during work. N95 masks and face shields were 
 always used in dental appointments by at least 60% of respondents, and 27% declared to have treated 
 patients with confirmed COVID-19.  
-
+ 
+COVID-19 incidence, severity, and medication use 
 In total, 27% of the dentists reported to have had a positive test for COVID-19 by May 2021, 
 and the majority of them were asymptomatic or had mild symptoms (88%). Almost 50% of the 
 respondents had relatives or friends that had been hospitalized or died from COVID-19. From the list 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 of seven medications or substances, 58.9% of the respondents reported to have used at least one as 
 preventive or treatment measures for COVID-19. Vitamin D was the most common (41%), followed by 
 ivermectin (35%), zinc (29%), and azithromycin (27%). Use of chloroquine or hydroxychloroquine was 
 not prevalent (4%). In total, 42.7% of the dentists surveyed claimed to have used two or more drugs 
 and substances. The most frequent combinations contained vitamin D + zinc either combined or not 
 with ivermectin. 
-
 Table 2 presents the prevalence ratios for the association between professional characteristics 
 and SARS-CoV-2 infection by dentists. Sex, work sector, and years in practice were not associated with 
 the prevalence of infection. Dentists working in the Northern region were 58% more likely to report 
@@ -157,7 +201,6 @@ their highest postgraduate education level were 26% more likely to have had the 
 professionals with MSc or PhD degrees. The level of confidence in COVID-19 vaccines was not 
 associated with a history of infection, whereas respondents who claimed having no fear of being 
 infected at work were 48% more likely to have had COVID-19 than those reporting high fear. 
-
 Table 3 presents the prevalence ratios for the association between professional characteristics 
 and use of controversial medications for COVID-19 in the multivariate analysis. The participants’ sex 
 and work sector were not associated with the use of controversial medications. However, more 
@@ -171,13 +214,14 @@ Increased prevalence of using controversial medications was associated with decr
 confidence in vaccines. Respondents with low confidence in the COVID-19 vaccines, for instance, were 
 2.1 times more likely to have used controversial medications than participants with very high 
 confidence in the vaccines.  
-
+ 
+DISCUSSION 
 This study showed a high prevalence of COVID-19 among Brazilian dental professionals and a 
 frequent occurrence of hospitalizations and deaths from the disease within their family members or 
 friends during the second pandemic wave in the country. In addition, 59% of the respondents claimed 
 to have used one or more substances as preventive or therapeutic measures, including vitamin D, zinc 
 and ivermectin, which have limited evidence to support their clinical use against COVID-19.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 Studies conducted with dentists in several countries showed varying prevalence of COVID-19 
 in different pandemic periods: 1.1% in Brazil (May 2020),5 9.1% in Belgium (July–September 2020),24 
 2.6% in the USA (June–November 2020),25 4.9% in 11 Spanish-speaking Latin American countries 
@@ -202,7 +246,6 @@ first half of 2021 (second wave) as a result of the lack of an effective nationa
 the anti-scientific approach adopted by the Brazilian government. The high demand for healthcare 
 services during the pandemic increased the risk of SARS-CoV-2 contamination, especially among 
 dentists who came into close contact with patients. 
-
 In addition to the high prevalence of COVID-19 in the study population, the dentists also 
 frequently reported that people close to them had COVID-19. Whereas a survey in Italy reported that 
 55% of dentists had one or more relatives or friends with COVID-1921, approximately 50% of the 
@@ -213,13 +256,13 @@ during the first months of 202133. Although the impact on dental practice in May
 lower for the respondents when compared with May 2020, the participants still frequently reported 
 feeling poorly prepared to treat patients with COVID-19 and had moderate to high fear of acquiring 
 the disease at work. In fact, respondents who claimed having no fear of acquiring the disease were 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 more likely to have had COVID-19, a result that raises questions about the influence on the 
 occupational hazard arising from more or less strict preventive measures adopted by the dentists 
 interviewed. In addition, a high-risk for SARS-CoV-2 infection in dental offices combined with a 
 frequent occurrence of COVID-19 within their family circles could be associated with underlying high 
 levels of psychosis and anxiety3,7, which may help to explain the high prevalence of off-label drugs 
 used for preventing or treating COVID-19 in the present sample. 
-
 Misinformation has been a major problem in the ongoing pandemic and a potential source of 
 public confusion and controversy. A study conducted in Vietnam when the pandemic had just started, 
 showed that more than 91% of healthcare workers learned about COVID-19 via social media34, which 
@@ -239,7 +282,6 @@ risk of older adults having severe cases of COVID-19. In addition, respondents w
 COVID-19 vaccines were 2.1 times more likely to use controversial medications than participants with 
 a high confidence in the vaccines. To the best of our knowledge, this is the first study to show this 
 association. 
-
 Among the many factors that may negatively interfere with evidence-based healthcare 
 practice in the pandemic context is the large number of low-quality studies reporting conflicting 
 results for COVID-19 treatment. This is coupled with difficulties of implementing the best available 
@@ -249,6 +291,7 @@ or ineffective depending on the article selected and how it was interpreted. Reg
 instance, a systematic review including varied study designs suggested that its supplementation was 
 associated with reduced intensive care unit (ICU) admission, need for mechanical ventilation, and 
 mortality38. In contrast, a systematic review with randomized trials and quasi-experimental studies 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 reported that vitamin D did not reduce the risk of these clinical outcomes39. A meta-analysis on 
 micronutrient supplements demonstrated that zinc reduced death rates of COVID-19 patients, 
 whereas vitamins C and D did not affect mortality40. Another meta-analysis concluded that there is no 
@@ -266,7 +309,6 @@ following years as definitive conclusions will hardly be accepted universally. I
 are encouraged to rely on evidence arising from randomized trials or meta-analyses that have been 
 judged as having low risk of bias and good methodological quality, or through evidence-based 
 guidelines when available. 
-
 A positive finding in the present study was the high rate of vaccination for COVID-19 among 
 the dentists surveyed. In Brazil, healthcare professionals were prioritized for vaccination following the 
 elderly, thus dentists were vaccinated in the first stages of the immunization program by using the 
@@ -284,7 +326,7 @@ booster shots. Further studies could investigate the acceptance of dental practi
 19 vaccination phases and the maintenance of other preventive measures to address whether a so-
 called ‘pandemic fatigue’ may decrease their adherence to individual and collective risk reduction 
 strategies46.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
 The present study has limitations that should be acknowledged, and caution should be taken 
 when extrapolating the results observed herein. Respondents were free either to accept or not to 
 accept the invitation to participate in the survey, which may lead to self-selection bias increasing the 
@@ -297,7 +339,8 @@ a large sample of dentists was recruited in a period when the country was strugg
 pandemic. In addition, this seems to be the first study assessing COVID-19 incidence, severity, 
 medication use, and vaccination among dentists. Further studies could explore reasons underlying the 
 use of controversial drugs and substances and socioeconomical aspects involved. 
-
+ 
+CONCLUSION 
 This survey with dentists showed a staggering body of evidence during the second wave of 
 COVID-19 in Brazil, including high incidence of the disease among professionals, frequent occurrence 
 of hospitalization and death from COVID-19 among their family members or friends, and very frequent 
@@ -305,9 +348,1521 @@ claim of using medications as COVID-19 preventive or treatment measures. The ove
 highlighted the high severity of the pandemic in Brazil and raised questions about the use of scientific 
 evidence by dentists in their decision to take controversial COVID-19 drugs and substances such as 
 vitamin D, zinc, and ivermectin. 
-
+ 
+ACKNOWLEDGEMENTS 
 This study was financed in part by Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul 
 (FAPERGS), Brazil (PRONEX 16/2551-0000471-4, grant recipient FFD) and Coordenação de 
 Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Brazil (Finance Code 001, institutional grant). 
 The sponsors had no role in study design, collection, analysis or interpretation of data, writing the 
 report, or decision to submit for publication.  
+ 
+COMPETING INTERESTS 
+The authors declare no conflicts of interest associated with this manuscript. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+DATA AVAILABILITY 
+The questionnaire in its original language and databank of responses are available in an open platform 
+(doi:10.17605/OSF.IO/DNBGS). 
+ 
+AUTHORS' CONTRIBUTIONS 
+RRM: Investigation, Methodology, Validation, Data curation, Project administration, Writing – Original 
+draft preparation, Writing – Review & editing. MBC: Conceptualization, Formal analysis, Validation, 
+Writing – Review & editing. PRMF and GSL: Writing – Review & editing. FFD: Conceptualization, 
+Resources, Writing – Review & editing. 
+ 
+ 
+REFERENCES 
+1. 
+Novaes TF., Jordão MC., Bonacina CF., Veronezi AO., de Araujo CAR., Olegário IC., et al. COVID-
+19 pandemic impact on dentists in Latin America’s epicenter: São-Paulo, Brazil. PLOS ONE. 2021 
+Aug;16(8):e0256092. https://doi.org/10.1371/journal.pone.0256092. 
+2. 
+Chisini LA., Costa F dos S., Demarco GT., Silveira ER., Demarco FF. COVID‐19 pandemic impact 
+on paediatric dentistry treatments in the Brazilian Public Health System. International Journal 
+of Paediatric Dentistry. 2021 Jan;31(1):31–4. https://doi.org/10.1111/ipd.12741. 
+3. 
+Mekhemar M., Attia S., Dörfer C., Conrad J. The Psychological Impact of the COVID-19 
+Pandemic on Dentists in Germany. Journal of Clinical Medicine. 2021 Mar;10(5):1008. 
+https://doi.org/10.3390/jcm10051008. 
+4. 
+Estrich CG., Mikkelsen M., Morrissey R., Geisinger ML., Ioannidou E., Vujicic M., et al. 
+Estimating COVID-19 prevalence and infection control practices among US dentists. The Journal 
+of 
+the 
+American 
+Dental 
+Association. 
+2020 
+Nov;151(11):815–24. 
+https://doi.org/10.1016/j.adaj.2020.09.005. 
+5. 
+Moraes RR., Correa MB., Queiroz AB., Daneris Â., Lopes JP., Pereira-Cenci T., et al. COVID-19 
+challenges 
+to 
+dentistry 
+in 
+the 
+new 
+pandemic 
+epicenter: 
+Brazil. 
+PloS 
+One. 
+2020;15(11):e0242251. https://doi.org/10.1371/journal.pone.0242251. 
+6. 
+Sharma A., Chhabra KG., Bhandari SS., Poddar G., Dany SS., Chhabra C., et al. Emotional well-
+being of dentists and the effect of lockdown during the COVID-19 pandemic: A nationwide 
+study. 
+Journal 
+of 
+Education 
+and 
+Health 
+Promotion. 
+2021;10:344. 
+https://doi.org/10.4103/jehp.jehp_1337_20. 
+7. 
+Chen Y., Li W. Influencing factors associated with mental health outcomes among dental 
+medical staff in emergency exposed to Coronavirus Disease 2019: A multicenter cross-sectional 
+study 
+in 
+China. 
+Frontiers 
+in 
+Psychiatry. 
+2021;12:736172. 
+https://doi.org/10.3389/fpsyt.2021.736172. 
+8. 
+Balkaran R., Bhat M., Marchan S., Smith W. Knowledge, attitude, and practices of dentists in 
+Caribbean countries during the COVID-19 pandemic: A multicenter cross-sectional study. 
+Dentistry Journal. 2021 Nov;9(11). https://doi.org/10.3390/dj9110133. 
+9. 
+Ortega F., Orsini M. Governing COVID-19 without government in Brazil: Ignorance, neoliberal 
+authoritarianism, and the collapse of public health leadership. Global Public Health. 2020 
+Sep;15(9):1257–77. https://doi.org/10.1080/17441692.2020.1795223. 
+10. 
+Boschiero MN., Palamim CVC., Ortega MM., Mauch RM., Marson FAL. One year of Coronavirus 
+Disease 2019 (COVID-19) in Brazil: A political and social overview. Annals of Global Health. 
+2021;87(1):44. https://doi.org/10.5334/aogh.3182. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+11. 
+WHO Coronavirus (COVID-19) Dashboard. https://covid19.who.int/. 
+12. 
+Lasco G., Yu VG. Pharmaceutical messianism and the COVID-19 pandemic. Social Science & 
+Medicine. 2021 Nov:114567. https://doi.org/10.1016/j.socscimed.2021.114567. 
+13. 
+Erku DA., Belachew SA., Abrha S., Sinnollareddy M., Thomas J., Steadman KJ., et al. When fear 
+and misinformation go viral: Pharmacists’ role in deterring medication misinformation during 
+the “infodemic” surrounding COVID-19. Research in Social and Administrative Pharmacy. 2021 
+Jan;17(1):1954–63. https://doi.org/10.1016/j.sapharm.2020.04.032. 
+14. 
+Quispe-Cañari JF., Fidel-Rosales E., Manrique D., Mascaró-Zan J., Huamán-Castillón KM., 
+Chamorro–Espinoza SE., et al. Self-medication practices during the COVID-19 pandemic among 
+the adult population in Peru: A cross-sectional survey. Saudi Pharmaceutical Journal. 2021 
+Jan;29(1):1–11. https://doi.org/10.1016/j.jsps.2020.12.001. 
+15. 
+Arshad AR., Ijaz F., Siddiqui MS., Khalid S., Fatima A., Aftab RK. COVID-19 pandemic and 
+antimicrobial resistance in developing countries. Discoveries (Craiova, Romania). 9(2):e127. 
+https://doi.org/10.15190/d.2021.6. 
+16. 
+Duncan EM., Goulao B., Clarkson J., Young L., Ramsay CR. “You had to do something”: 
+prescribing antibiotics in Scotland during the COVID-19 pandemic restrictions and 
+remobilisation. British Dental Journal. 2021 Nov. https://doi.org/10.1038/s41415-021-3621-8. 
+17. 
+Martins-Filho PR., Ferreira LC., Heimfarth L., Araújo AA de S., Quintans-Júnior LJ. Efficacy and 
+safety of hydroxychloroquine as pre-and post-exposure prophylaxis and treatment of COVID-
+19: A systematic review and meta-analysis of blinded, placebo-controlled, randomized clinical 
+trials. 
+The 
+Lancet 
+Regional 
+Health 
+- 
+Americas. 
+2021 
+Oct;2:100062. 
+https://doi.org/10.1016/j.lana.2021.100062. 
+18. 
+Alves CP de L., Barreto Segundo J de D., da Costa GG., Pereira-Cenci T., Lima KC., Demarco FF., 
+et al. How a few poorly designed COVID-19 studies may have contributed to misinformation in 
+Brazil: the case for evidence-based communication of science. BMJ Open Science. 2021 
+Sep;5(1):e100202. https://doi.org/10.1136/bmjos-2021-100202. 
+19. 
+Dror AA., Eisenbach N., Taiber S., Morozov NG., Mizrachi M., Zigron A., et al. Vaccine hesitancy: 
+the next challenge in the fight against COVID-19. European Journal of Epidemiology. 2020 
+Aug;35(8):775–9. https://doi.org/10.1007/s10654-020-00671-y. 
+20. 
+Solís Arce JS., Warren SS., Meriggi NF., Scacco A., McMurry N., Voors M., et al. COVID-19 
+vaccine acceptance and hesitancy in low- and middle-income countries. Nature Medicine. 2021 
+Aug;27(8):1385–94. https://doi.org/10.1038/s41591-021-01454-y. 
+21. 
+Belingheri M., Roncalli M., Riva MA., Paladino ME., Teruzzi CM. COVID-19 vaccine hesitancy 
+and reasons for or against adherence among dentists. The Journal of the American Dental 
+Association. 2021 Sep;152(9):740–6. https://doi.org/10.1016/j.adaj.2021.04.020. 
+22. 
+Moraes RR., Correa MB., Daneris Â., Queiroz AB., Lopes JP., Lima GS., et al. Email Vs. Instagram 
+recruitment strategies for online survey research. Brazilian Dental Journal. 2021 Feb;32(1):67–
+77. https://doi.org/10.1590/0103-6440202104291. 
+23. 
+Sharma A., Minh Duc NT., Luu Lam Thang T., Nam NH., Ng SJ., Abbas KS., et al. A consensus-
+based checklist for reporting of survey studies (CROSS). Journal of General Internal Medicine. 
+2021 Oct;36(10):3179–87. https://doi.org/10.1007/s11606-021-06737-1. 
+24. 
+Carvalho JC., Declerck D., Jacquet W., Bottenberg P. Dentist related factors associated with 
+implementation of COVID-19 protective measures: A national survey. International Journal of 
+Environmental 
+Research 
+and 
+Public 
+Health. 
+2021 
+Aug;18(16):8381. 
+https://doi.org/10.3390/ijerph18168381. 
+25. 
+Araujo MWB., Estrich CG., Mikkelsen M., Morrissey R., Harrison B., Geisinger ML., et al. COVID-
+19 among dentists in the United States. The Journal of the American Dental Association. 2021 
+Jun;152(6):425–33. https://doi.org/10.1016/j.adaj.2021.03.021. 
+26. 
+Moraes R., Cuevas-Suárez C., Escalante-Otárola W., Fernández M., Dávila-Sánchez A., Grau-
+Grullon P., et al. A multi-country survey on the impact of COVID-19 on dentists in Latin America. 
+Research Squase Preprint. 2021:1–25. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+27. 
+Madathil S., Siqueira WL., Marin LM., Sanaulla FB., Faraj N., Quiñonez CR., et al. The incidence 
+of COVID-19 among dentists practicing in the community in Canada: A prospective cohort study 
+over a six-month period. The Journal of the American Dental Association. 2021 Oct. 
+https://doi.org/10.1016/j.adaj.2021.10.006. 
+28. 
+Campus G., Diaz Betancourt M., Cagetti M., Giacaman R., Manton D., Douglas G., et al. The 
+COVID-19 pandemic and its global effects on dental practice. An International survey. Journal 
+of Dentistry. 2021 Nov;114:103749. https://doi.org/10.1016/j.jdent.2021.103749. 
+29. 
+Schmidt J., Perina V., Treglerova J., Pilbauerova N., Suchanek J., Smucler R. COVID-19 
+prevalence among Czech dentists. International Journal of Environmental Research and Public 
+Health. 2021 Nov;18(23):12488. https://doi.org/10.3390/ijerph182312488. 
+30. 
+Ferrante L., Steinmetz WA., Almeida ACL., Leão J., Vassão RC., Tupinambás U., et al. Brazil’s 
+policies condemn Amazonia to a second wave of COVID-19. Nature Medicine. 2020 
+Sep;26(9):1315–1315. https://doi.org/10.1038/s41591-020-1026-x. 
+31. 
+Sabino EC., Buss LF., Carvalho MPS., Prete CA., Crispim MAE., Fraiji NA., et al. Resurgence of 
+COVID-19 
+in 
+Manaus, 
+Brazil, 
+despite 
+high 
+seroprevalence. 
+The 
+Lancet. 
+2021 
+Feb;397(10273):452–5. https://doi.org/10.1016/S0140-6736(21)00183-5. 
+32. 
+Zimmermann IR., Sanchez MN., Alves LC., Frio GS., Cavalcante FV., Cortez-Escalante JJ., et al. 
+COVID-19 as the leading cause of hospital deaths in the Brazilian public health system in 2020. 
+International 
+Journal 
+of 
+Infectious 
+Diseases. 
+2021 
+Dec;113:162–5. 
+https://doi.org/10.1016/j.ijid.2021.09.077. 
+33. 
+Castro MC., Gurzenda S., Turra CM., Kim S., Andrasfay T., Goldman N. Reduction in life 
+expectancy in Brazil after COVID-19. Nature Medicine. 2021 Sep;27(9):1629–35. 
+https://doi.org/10.1038/s41591-021-01437-z. 
+34. 
+Huynh G., Nguyen TH., Tran V., Vo K., Vo V., Pham L. Knowledge and attitude toward COVID-
+19 among healthcare workers at District 2 Hospital, Ho Chi Minh City. Asian Pacific Journal of 
+Tropical Medicine. 2020;13(6):260. https://doi.org/10.4103/1995-7645.280396. 
+35. 
+Apuke OD., Omar B. Fake news and COVID-19: modelling the predictors of fake news sharing 
+among 
+social 
+media 
+users. 
+Telematics 
+and 
+Informatics. 
+2021 
+Jan;56:101475. 
+https://doi.org/10.1016/j.tele.2020.101475. 
+36. 
+Sisay M., Mengistu G., Edessa D. Epidemiology of self-medication in Ethiopia: a systematic 
+review and meta-analysis of observational studies. BMC Pharmacology and Toxicology. 2018 
+Dec;19(1):56. https://doi.org/10.1186/s40360-018-0248-8. 
+37. 
+Sadio AJ., Gbeasor-Komlanvi FA., Konu RY., Bakoubayi AW., Tchankoni MK., Bitty-Anderson 
+AM., et al. Assessment of self-medication practices in the context of the COVID-19 outbreak in 
+Togo. BMC Public Health. 2021 Dec;21(1):58. https://doi.org/10.1186/s12889-020-10145-1. 
+38. 
+Hariyanto TI., Intan D., Hananto JE., Harapan H., Kurniawan A. Vitamin D supplementation and 
+Covid‐19 outcomes: A systematic review, meta‐analysis and meta‐regression. Reviews in 
+Medical Virology. 2021 Jun. https://doi.org/10.1002/rmv.2269. 
+39. 
+Rawat D., Roy A., Maitra S., Shankar V., Khanna P., Baidya DK. “Vitamin D supplementation and 
+COVID-19 treatment: A systematic review and meta-analysis.” Diabetes & Metabolic 
+Syndrome: 
+Clinical 
+Research 
+& 
+Reviews. 
+2021 
+Jul;15(4):102189. 
+https://doi.org/10.1016/j.dsx.2021.102189. 
+40. 
+Beran Beran A., Mhanna M., Srour O., Ayesh H., Abdulsattar W., Khokher W., et al. Effect of 
+micronutrient supplements on covid-19: a systematic review and meta-analysis. Chest. 2021 
+Oct;160(4):A564. https://doi.org/10.1016/j.chest.2021.07.545. 
+41. 
+Szarpak L., Pruc M., Gasecka A., Jaguszewski MJ., Michalski T., Peacock FW., et al. Should we 
+supplement zinc in COVID-19 patients? Evidence from meta-analysis. Polish Archives of 
+Internal Medicine. 2021 Jun. https://doi.org/10.20452/pamw.16048. 
+42. 
+Karale s., Bansal v., Makadia j., Tayyeb m., Khan h., Spandana ghanta S., et al. Clinical outcomes 
+associated with ivermectin use in covid-19: an updated systematic review and meta-analysis. 
+Chest. 2021 Oct;160(4):A584–5. https://doi.org/10.1016/j.chest.2021.07.562. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+43. 
+Bartoszko JJ., Siemieniuk RAC., Kum E., Qasim A., Zeraatkar D., Ge L., et al. Prophylaxis against 
+covid-19: living systematic review and network meta-analysis. BMJ. 2021 Apr:n949. 
+https://doi.org/10.1136/bmj.n949. 
+44. 
+Victora CG., Castro MC., Gurzenda S., Medeiros AC., França GVA., Barros AJD. Estimating the 
+early impact of vaccination against COVID-19 on deaths among elderly people in Brazil: 
+Analyses of routinely-collected data on vaccine coverage and mortality. EClinicalMedicine. 
+2021 Aug;38:101036. https://doi.org/10.1016/j.eclinm.2021.101036. 
+45. 
+Gramacho WG., Turgeon M. When politics collides with public health: COVID-19 vaccine 
+country of origin and vaccination acceptance in Brazil. Vaccine. 2021 May;39(19):2608–12. 
+https://doi.org/10.1016/j.vaccine.2021.03.080. 
+46. 
+Trogen B., Caplan A. Risk Compensation and COVID-19 Vaccines. Annals of Internal Medicine. 
+2021 Jun;174(6):858–9. https://doi.org/10.7326/M20-8251. 
+  
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+Table 1. Characteristics of this sample of dentists surveyed in Brazil, 2021 (N = 1,907) 
+Variable/category 
+n* 
+% 
+95% CI 
+Sex 
+1,907 
+ 
+ 
+   Female 
+1,414 
+74.1 
+72.1; 76.1 
+   Male 
+493 
+25.9 
+23.9; 27.9 
+ 
+ 
+ 
+ 
+Years in dental practice 
+1,905 
+ 
+ 
+   ≤5 
+451 
+23.7 
+21.8; 25.6 
+   6 to 10 
+474 
+24.9 
+23.0; 26.9 
+   11 to 20 
+534 
+28.0 
+26.1; 30.1 
+   >20 
+446 
+23.4 
+21.6; 25.4 
+ 
+ 
+ 
+ 
+Postgraduate education (complete) 
+1,899 
+ 
+ 
+   None 
+505 
+26.6 
+24.7; 28.7 
+   Residency or advanced special training 
+997 
+52.5 
+50.2; 54.7 
+   MSc or PhD 
+397 
+20.9 
+19.1; 22.8 
+ 
+ 
+ 
+ 
+Main work sector  
+1,892 
+ 
+ 
+   Public 
+1,106 
+58.5 
+56.1; 60.6 
+   Private 
+613 
+32.4 
+30.3; 34.5 
+   Other 
+173 
+9.1 
+8.0; 10.7 
+ 
+ 
+ 
+ 
+Brazilian region 
+1,906 
+ 
+ 
+   South 
+586 
+30.7 
+28.7; 32.9 
+   Southeast 
+552 
+29.0 
+26.8; 30.9 
+   Northeast 
+552 
+29.0 
+27.1; 31.2 
+   Central‐west 
+139 
+4.0 
+3.2; 5.0 
+   North 
+77 
+7.3 
+6.2; 8.6 
+ 
+ 
+ 
+ 
+COVID-19 vaccination status 
+1,894 
+ 
+ 
+   Not vaccinated 
+76 
+4.0 
+3.2; 5.0 
+   Partially vaccinated 
+188 
+9.9 
+8.5; 11.2 
+   Fully vaccinated 
+1,630 
+86.1 
+84.6; 87.7 
+ 
+ 
+ 
+ 
+Vaccines received 
+1,818 
+ 
+ 
+   CoronaVac (Sinovac/Butantan) 
+1,179 
+64.9 
+62.7; 67.1 
+   Oxford (AstraZeneca/Fiocruz) 
+622 
+34.2 
+32.0; 36.4 
+   Pfizer (BioNTech) 
+17 
+0.9 
+0.5; 1.4 
+ 
+ 
+ 
+ 
+Level of confidence in safety and efficacy 
+of COVID-19 vaccines  
+1,856 
+ 
+ 
+   Very low 
+59 
+3.2 
+2.3; 4.0 
+   Low 
+104 
+5.6 
+4.1; 6.3 
+   Intermediate 
+611 
+32.9 
+30.5; 35.2 
+   High 
+712 
+38.4 
+36.3; 41.1 
+   Very high 
+370 
+19.9 
+18.4; 22.4 
+ 
+ 
+ 
+ 
+Impact of COVID-19 pandemic on dental practice compared 
+with one year previously (May 2020, first wave in Brazil) 
+1,749 
+ 
+ 
+   Much lower 
+154 
+8.8 
+7.5; 10.4 
+   Lower 
+648 
+37.1 
+36.0; 40.8 
+   Similar 
+528 
+30.2 
+26.5; 31.0 
+   Higher 
+240 
+13.7 
+12.5; 15.9 
+   Much higher 
+179 
+10.2 
+8.6; 11.6 
+ 
+ 
+ 
+ 
+How prepared do you feel to treat patients with COVID-19? 
+1,743 
+ 
+ 
+   Not at all prepared 
+412 
+23.6 
+21.7; 25.9 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+   Poorly prepared 
+268 
+15.4 
+14.1; 17.7 
+   Intermediately 
+486 
+27.9 
+25.5; 29.9 
+   Well prepared 
+434 
+24.9 
+22.6; 26.9 
+   Very well prepared 
+143 
+8.2 
+6.9; 9.7 
+ 
+ 
+ 
+ 
+Fear of being infected at work 
+1,766 
+ 
+ 
+   None 
+354 
+20.0 
+18.0; 22.0  
+   Little 
+553 
+31.3 
+29.5; 34.2 
+   Moderate 
+450 
+25.5 
+23.6; 28.0 
+   High 
+409 
+23.2 
+20.5; 24.7 
+ 
+ 
+ 
+ 
+Frequency of N95 mask use in dental appointments 
+1,710 
+ 
+ 
+   Never 
+100 
+5.9 
+4.8; 7.1 
+   Perceived higher risk for COVID‐19 
+64 
+3.7 
+2.9; 4.8 
+   Aerosol‐generating procedures 
+127 
+7.4 
+6.3; 9.0 
+   Whenever it is available 
+237 
+13.9 
+11.7; 15.1 
+   Always 
+1,182 
+69.1 
+67.2; 71.8 
+ 
+ 
+ 
+ 
+Frequency of face shield use in dental appointments 
+1,699 
+ 
+ 
+   Never 
+159 
+9.4 
+7.6; 10.5 
+   Perceived higher risk for COVID‐19 
+90 
+5.3 
+4.5; 6.8 
+   Aerosol‐generating procedures 
+438 
+25.8 
+23.8; 28.2 
+   Always 
+1,012 
+59.6 
+57.1; 62.0 
+ 
+ 
+ 
+ 
+Have you ever treated patients with confirmed  
+COVID-19 diagnosis? 
+1,752 
+ 
+ 
+   No or do not know 
+1,279 
+73.0 
+70.9; 75.1 
+   Yes 
+473 
+27.0 
+24.9; 29.1 
+ 
+ 
+ 
+ 
+COVID-19 positive test 
+1,754 
+ 
+ 
+   No 
+1,288 
+73.4 
+71.2; 75.4 
+   Yes 
+466 
+26.6 
+24.6; 28.8 
+ 
+ 
+ 
+ 
+Severity of COVID-19  
+463 
+ 
+ 
+   Asymptomatic 
+55 
+11.9 
+9.1; 15.2 
+   Mild 
+352 
+76.0 
+71.9; 79.8 
+   Severe 
+48 
+10.4 
+7.7; 13.5 
+   Need of hospitalization 
+8 
+1.8 
+0.7; 3.4 
+ 
+ 
+ 
+ 
+Severe COVID-19 among relatives or friends 
+1,717 
+ 
+ 
+   None 
+878 
+51.1 
+48.7; 53.5 
+   Yes, with hospitalization 
+367 
+21.4 
+19.5; 23.4 
+   Yes, with death 
+472 
+27.5 
+25.7;29.7 
+ 
+ 
+ 
+ 
+Drugs or substances used as  
+preventive or treatment measures for COVID-19** 
+1,554 
+ 
+ 
+   None of the listed below 
+639 
+41.1 
+38.7; 43.6 
+   Vitamin D 
+630 
+40.5 
+38.0; 43.0 
+   Ivermectin 
+549 
+35.3 
+32.9; 37.8 
+   Zinc 
+450 
+29.0 
+26.8; 31.4 
+   Azithromycin 
+416 
+26.8 
+24.6; 29.0 
+   Corticosteroid 
+190 
+12.2 
+10.6; 14.0 
+   Chloroquine or hydroxychloroquine 
+69 
+4.4 
+3.4; 5.5 
+   Remdesivir 
+2 
+0.1 
+0.0; 0.4 
+ 
+ 
+ 
+ 
+Number of drugs or substances used for COVID-19 
+1,554 
+ 
+ 
+   1 
+251 
+16.2 
+14.4; 18.1 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+   2 
+252 
+16.2 
+14.4; 18.1 
+   3 
+217 
+14.0 
+12.3; 15.9 
+   4 or more 
+195 
+12.5 
+10.9; 14.2 
+ 
+ 
+ 
+ 
+Most frequent combinations of drugs  
+or substances used for COVID-19 
+1,554 
+ 
+ 
+   Vitamin D + zinc + ivermectin 
+106 
+6.8 
+5.6; 8.2 
+   Vitamin D + zinc 
+101 
+6.5 
+5.3; 7.8 
+   Chloroquine/hydroxychloroquine + ivermectin + zinc + vitamin D 
+61 
+3.9 
+3.0; 5.0 
+   Ivermectin + zinc 
+53 
+3.4 
+2.6; 4.4 
+CI: confidence interval. *Varies from total N because of missing data in different questions. **More than one 
+entry was possible. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2. Crude (c) and Adjusted (a) Prevalence Ratios (PR) for the association between professional 
+characteristics and COVID‐19 infection by Brazilian dentists. Multivariate Poisson regression analysis (N = 
+1,907). 
+Variable  
+PRc 
+95% CI 
+PRa 
+95% CI 
+Sex 
+ 
+ 
+ 
+ 
+  Male 
+1 
+ 
+ * 
+* 
+  Female 
+0.97 
+0.81; 1.15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Main work sector 
+ 
+ 
+ 
+ 
+  Public  
+1 
+ 
+* 
+* 
+  Private 
+0.87 
+0.73; 1.74 
+ 
+ 
+  Others 
+0.84 
+0.62; 1.13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Years in practice 
+ 
+ 
+ 
+ 
+  ≤ 10  
+1 
+ 
+* 
+* 
+  11 ‐ 20 
+1.29 
+1.05; 1.59 
+ 
+ 
+  ≥ 21 
+1.17 
+0.93; 1.48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brazilian region 
+ 
+ 
+ 
+ 
+   South 
+1 
+ 
+1 
+ 
+   Southeast 
+0.77 
+0.62; 0.95 
+0.78 
+0.63; 0.98 
+   Northeast 
+1.12 
+0.92; 1.35 
+1.16 
+0.95; 1.41 
+   North 
+1.52 
+1.10; 2.11 
+1.58 
+1.14; 2.20 
+   Central‐west 
+0.94 
+0.68; 1.31 
+0.94 
+0.67; 1.32 
+ 
+ 
+ 
+ 
+ 
+Postgraduate education 
+ 
+ 
+ 
+ 
+  MSc or PhD 
+1 
+ 
+1 
+ 
+  Residency or advanced special training 
+1.27 
+1.03; 1.57 
+1.26 
+1.02; 1.57 
+  None 
+1.13 
+0.88; 1.44 
+1.13 
+0.88; 1.45 
+ 
+ 
+ 
+ 
+ 
+Confidence in COVID-19 vaccines 
+ 
+ 
+ 
+ 
+  Very high 
+1 
+ 
+* 
+* 
+  High 
+1.18 
+0.94; 1.49 
+ 
+ 
+  Moderate 
+1.24 
+0.98; 1.57 
+ 
+ 
+  Low  
+1.33 
+0.92; 1.93 
+ 
+ 
+  Very low 
+1.60 
+1.07; 2.38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fear of being infected at work 
+ 
+ 
+ 
+ 
+   High 
+1 
+ 
+1 
+ 
+   Moderate 
+1.03 
+0.81; 1.31 
+1.04 
+0.82; 1.32 
+   Little 
+0.97 
+0.77; 1.22 
+0.99 
+0.79; 1.25 
+   None 
+1.43 
+1.14; 1.80 
+1.48 
+1.18; 1.85 
+CI: Confidence Interval. *Not included in the multivariate analysis. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3. Crude (c) and Adjusted (a) Prevalence Ratios (PR) for the association between professional 
+characteristics and use of controversial drugs and substances for COVID‐19 by Brazilian dentists. Multivariate 
+Poisson regression analysis (N = 1,907). 
+Variable  
+PRc 
+95% CI 
+PRa 
+95% CI 
+Sex 
+ 
+ 
+ 
+ 
+   Male 
+1 
+ 
+1 
+ 
+   Female 
+1.11 
+0.98; 1.25 
+1.09  
+0.97; 1.23 
+ 
+ 
+ 
+ 
+ 
+Main work sector 
+ 
+ 
+ 
+ 
+   Public  
+1 
+ 
+1 
+ 
+   Private 
+1.09 
+0.99; 1.22 
+1.10 
+0.99; 1.23 
+   Other 
+0.56 
+0.43; 0.74 
+0.76 
+0.58; 1.00 
+ 
+ 
+ 
+ 
+ 
+Years in practice 
+ 
+ 
+ 
+ 
+   ≤ 10  
+1 
+ 
+1 
+ 
+   11 ‐ 20 
+1.17 
+1.04; 1.33 
+1.18 
+1.03; 1.35 
+   ≥ 21 
+1.38 
+1.22; 1.55 
+1.42 
+1.26; 1.61 
+ 
+ 
+ 
+ 
+ 
+Brazilian region 
+ 
+ 
+ 
+ 
+   South 
+1 
+ 
+1 
+ 
+   Southeast 
+0.99 
+0.86; 1.15 
+0.98 
+0.85; 1.13 
+   Northeast 
+1.29 
+1.14; 1.48 
+1.37 
+1.20; 1.57 
+   North 
+1.37 
+1.08; 1.73 
+1.37 
+1.07; 1.76 
+   Central‐west 
+1.29 
+1.07; 1.57 
+1.29 
+1.07; 1.57 
+ 
+ 
+ 
+ 
+ 
+Postgraduate education 
+ 
+ 
+ 
+ 
+   MSc or PhD 
+ 
+ 
+1 
+ 
+   Residency or advanced special training 
+1.52 
+1.30; 1.77 
+1.30 
+1.11; 1.53 
+   None 
+1.31 
+1.10; 1.57 
+1.19 
+0.98; 1.43 
+ 
+ 
+ 
+ 
+ 
+Confidence in COVID-19 vaccines 
+ 
+ 
+ 
+ 
+   Very high 
+1 
+ 
+1 
+ 
+   High 
+1.38 
+1.14; 1.66 
+1.31 
+1.09; 1.58 
+   Moderate 
+1.90  
+1.59; 2.27 
+1.65 
+1.37; 1.99 
+   Low  
+   Very Low 
+2.21 
+2.50 
+1.77; 2.76 
+1.97; 3.16 
+1.94 
+2.14 
+1.55; 2.42 
+1.67; 2.75 
+CI: Confidence Interval. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+Appendix. Questionnaire (original language: Brazilian Portuguese) 
+ 
+Impact of COVID‐19 on routine of dental care assistance 
+ 
+Dear dentist 
+ 
+You are invited to participate in this research that aims to evaluate the impact of the pandemic on dental 
+practice. If you don't want to participate, just leave the page or don't finish filling out the questionnaire. If you 
+are not a dentist or have not yet graduated, we ask that you do not participate. If you have answered this 
+questionnaire before, we appreciate your participation but please do not respond the survey again. 
+ 
+Your participation is voluntary and identification is not required. If you wish, at the end of the form, you can 
+provide your e‐mail to receive the results of the study. In this case, we guarantee that your data will be treated 
+anonymously and confidentially, and your responses will be kept confidential. There is no remuneration for 
+participation in the study. 
+ 
+Potential benefits of the research: identification of the impact of the pandemic on dental practice and 
+prospecting for solutions to help improve clinical routines. 
+ 
+Potential risks: possible discomfort when answering a question. In this case, the response option "I’d rather 
+not declare" is available. The option "Does not apply" also can be used for questions that you think do not 
+apply to your case. 
+ 
+If you agree to participate in the survey, this page will be your Free and Informed Consent Form. To keep a 
+copy, print this page or save to PDF. If you need any clarification on this research or want access to new 
+information at any time, please contact the researcher responsible for the study (data provided below). If you 
+prefer, please contact us before answering the questionnaire. The contact can also be used if you wish to 
+withdraw your consent to participate. 
+ 
+Please answer the questionnaire until the end, the average response time is 5 (five) minutes. 
+ 
+YOUR PARTICIPATION IS VERY IMPORTANT! 
+ 
+Institution and researcher responsible: 
+Prof. Rafael Moraes (coordinator) ‐ rafael.moraes@ufpel.edu.br 
+Graduate Program in Dentistry 
+Universidade Federal de Pelotas 
+ 
+Research Ethics Committee: 
+Medical School, Universidade Federal de Pelotas 
+Phone: (53) 3301.1801 
+ 
+Do you agree to participate in the study voluntarily? 
+0 – No 
+1 – Yes 
+ 
+1. What is your gender? 
+ 
+0 – Male 
+1 – Female 
+2 – I’d rather not declare 
+2. How old are you?  
+I’d rather not declare 
+List 18 – 80 or + 
+3. In which year did you graduate in Dentistry?  
+ 
+Attention: if you are not a dentist or did not 
+graduate yet, please do not answer this survey. 
+I’d rather not declare 
+List of years from 2020 to 1960 or before 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+ 
+4. In which type of service do you work mostly? 
+ 
+Mark only one oval 
+ 
+0 – Public health network 
+1 – Team dental office, private network 
+2 – Solo private office 
+3 – Professor 
+4 – Management 
+5 – Research 
+6 – I am studying exclusively at the moment 
+7 – I don’t know 
+8 – I’d rather not declare 
+88 – Does not apply 
+5. In which Brazilian state does your work mostly 
+take place? 
+I’d rather not declare 
+List of acronyms for all states + federal district 
+6. Have you completed postgraduate education 
+in Dentistry?  
+ 
+Please select the highest degree 
+ 
+0 – No 
+1 – No but I’m currently enrolled 
+2 – Yes, short‐term courses 
+3 – Yes, residency or special advanced training 
+4 – Yes, Masters or PhD 
+5 – I’d rather not declare 
+7. Have you received any vaccine dose for COVID‐
+19? 
+0 – No 
+1 – Yes, one dose of CoronaVac (Sinovac/Butantan) 
+2 – Yes, two doses of CoronaVac (Sinovac/Butantan) 
+3 – Yes, one dose of Oxford (AstraZeneca/Fiocruz) 
+4 – Yes, two doses of Oxford (AstraZeneca/Fiocruz) 
+5 – Yes, one dose of Pfizer (BioNTech) 
+6 – Yes, two doses of Pfizer (BioNTech) 
+7 – Yes, one or more doses but I don’t know which 
+vaccine/laboratory 
+8 – Yes, one or more doses of another vaccine not listed 
+here 
+9 – I’d rather not declare 
+88 – Does not apply 
+8. In general terms, what is your level of 
+confidence regarding the safety and efficacy of 
+COVID‐19 vaccines currently available in 
+Brazil? 
+0 – Very low 
+1 – Low 
+2 – Intermediate 
+3 – High 
+4 – Very high 
+5 – I don’t know 
+6 – I’d rather not declare 
+9. How do you rate the impact of COVID‐19 in 
+your clinical routine in the place you work 
+most when compared to the period before the 
+pandemic? 
+0 – There was no impact  
+1 – Low impact 
+2 – Intermediate impact 
+3 – High impact 
+4 – Very high impact 
+5 – I don’t know 
+6 – I’d rather not declare 
+88 – I do not have a clinical routine or does not apply 
+10. How do you rate the impact of COVID‐19 in 
+your clinical routine in the place you work 
+most when compared with one year previously 
+(May 2020)? 
+0 – Much lower  
+1 – Lower 
+2 – Similar 
+3 – Higher 
+4 – Much higher 
+5 – I don’t know 
+6 – I’d rather not declare 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+88 – I do not have a clinical routine or does not apply 
+11. In average, how many patients are you 
+currently assisting in a regular week?  
+ 
+I do not work with clinics or does not apply 
+I don’t know how to answer 
+I’d rather not declare 
+None, because of the pandemic 
+None, due to other reasons 
+List of numbers 1 – 100 or + 
+12. Since May 2020, have work routine changes led 
+to increased financial costs? 
+0 – No  
+1 – Yes, but prices were not adjusted 
+2 – Yes, and prices were adjusted for patients 
+3 – I don’t know 
+4 – I’d rather not declare 
+88 – I do not have a clinical routine or does not apply 
+13. Do you (or any other person) perform any type 
+of patient screening concerning to COVID‐19 
+before appointments in your main workplace? 
+ 
+Mark all that apply 
+0 – No, I am using normal anamnesis 
+1 – Face‐to‐face application of specific questionnaire 
+for COVID‐19 
+2 – Previous application of specific COVID‐19 
+questionnaire via telephone, text message or similar 
+3 – Temperature check of patients in the office 
+4 – Request a temperature check before the patient 
+arrives at the office 
+5 – Recommend mouthwashes with antimicrobials in 
+the office 
+6 – Recommend mouthwashes with antimicrobials for 
+the patient before arriving at the office 
+7 – I don’t know 
+8 – I’d rather not declare 
+88 – Does not apply 
+14. How prepared do you feel today to assist 
+patients with confirmed diagnosis of COVID‐
+19? 
+0 – I do not feel any prepared 
+1 – Poorly prepared 
+2 – Intermediately prepared 
+3 – Well prepared 
+4 – Very well prepared 
+5 – I don’t know 
+6 – I’d rather not declare 
+88 – Does not apply 
+15. Have you ever assisted any patients via online 
+appointment during the pandemic? 
+ 
+0 – No, and I’m not willing to at the moment 
+1 – No, but I’m willing to 
+2 – Yes, and I rate the experience as positive in general 
+3 – Yes, but I rate the experience as negative in general 
+4 – I’d rather not declare 
+88 – Does not apply 
+16. How often do you use a N95 mask in dental 
+appointments? 
+ 
+ 
+0 – Never 
+1 – When there is a perceived higher risk for COVID‐19 
+infection 
+2 – During aerosol‐generating procedures 
+3 – Depending on the availability of N95 masks 
+4 – Always 
+5 – I don’t know 
+6 – I’d rather not declare 
+88 – Does not apply 
+Other:  
+17. How often do you use a face shield mask during 
+patient care? 
+0 – Never 
+1 – When there is a perceived higher risk for COVID‐19 
+infection 
+2 – During aerosol‐generating procedures 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+3 – Always 
+4 – I don’t know 
+5 – I’d rather not declare 
+88 – Does not apply 
+Other: 
+18. Have you assisted patients with confirmed 
+COVID‐19 diagnosis? 
+ 
+0 – No 
+1 – Yes 
+2 – I don’t know 
+3 – I’d rather not declare 
+88 – Does not apply 
+19. Do you currently fear to contract COVID‐19 at 
+work?  
+ 
+0 – No 
+1 – Yes, a little 
+2 – Yes, moderately 
+3 – Yes, a lot 
+4 – I don’t know 
+5 – I’d rather not declare 
+88 – Does not apply 
+20. Have you suspected or tested yourself for 
+COVID‐19? 
+ 
+0 – No 
+1 – Suspect without test 
+2 – I tested negative for COVID‐19 
+3 – My test was inconclusive for COVID‐19 
+4 – I tested positive for COVID‐19 
+5 – I’d rather not declare 
+88 – Does not apply 
+21. Which of the following medications or 
+substances have you used for preventing or 
+treating COVID‐19? 
+ 
+       Mark all that apply 
+0 – Vitamin D 
+1 – Zinc 
+2 – Ivermectin 
+3 – Chloroquine or hydroxychloroquine 
+4 – Azithromycin 
+5 – Corticosteroid 
+6 – Remdesivir 
+7 – None of the listed above 
+8 – I’d rather not declare 
+88 – Does not apply 
+22. If you had a confirmed COVID‐19 diagnostic, 
+what was the severity of the disease? 
+0 – Asymptomatic 
+1 – Mild (cough, headache, low fever, loss of smell or 
+taste, diarrhea) 
+2 – Severe without hospitalization (shortness of breath, 
+change in consciousness levels, chest pain, fever above 
+39°C) 
+3 – Severe with need of hospitalization 
+4 – No COVID‐19 diagnosis or suspicious 
+5 – I’d rather not declare 
+88 – Does not apply 
+23. Have you had family members or friends 
+severely affected by COVID‐19? 
+0 – No 
+1 – Yes, with hospitalization  
+2 – Yes, with death 
+3 – I don’t know 
+4 – I’d rather not declare 
+88 – Does not apply 
+24. What has been your main professional 
+challenge during the pandemic? 
+0 – Fear of contracting COVID‐19 
+1 – Difficulty in acquiring personal protective 
+equipment 
+2 – Difficulty in the clinical use of new personal 
+protective equipment 
+3 – Increased material and equipment costs 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+4 – Reduction in the number of patients 
+5 – Reduction of financial gains or salary 
+6 – Keep my health well cared for, including mental 
+health 
+7 – Reconciling work and household chores, caring for 
+children or other people 
+8 – I don’t know 
+9 – I’d rather not declare 
+88 – Does not apply 
+Other: 
+25. With just ONE WORD, describe the feeling you 
+have felt most during the pandemic: 
+Open question 
+THANK YOU VERY MUCH FOR YOUR PARTICIPATION!  
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3483
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

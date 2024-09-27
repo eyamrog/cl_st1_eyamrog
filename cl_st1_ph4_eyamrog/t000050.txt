@@ -1,246 +1,869 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.46471/gigabyte.61
+Occurrence records and metadata for sand flies (Diptera,
+Psychodidae, Phlebotominae) collected in the lands of
+indigenous people in the Brazilian Amazon
+Paloma Helena Fernandes Shimabukuro, Daniel Rocha Cangussu Alves, Jéssica Adalia Costa
+Barros, Luiz Otavio Cordeiro Nascimento,  Luke Anthony Baton, Maíra Posteraro Freire, Manoel
+Edson Medeiros da Silva, Mauro Diego Gobira Guimarães de Assis, Sofia Ferreira Morais, Tiago
+Silva da Costa,  Veracilda Ribeiro Alves, Eduardo Stramandinoli Moreno
+https://doi.org/10.1590/SciELOPreprints.3879
+Submitted on: 2022-03-31
+Posted on: 2022-04-01 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+GigaByte
+Occurrence records and metadata for sand ﬂies (Diptera,
+Psychodidae, Phlebotominae) collected in the lands of indigenous
+people in the Brazilian Amazon
+DRR-202202-07 | Data Release
+Submitted by:  Paloma Helena Fernandes Shimabukuro, Daniel Rocha Cangussu Alves, Jessica Adalia Costa Barros, Luiz
+Otavio Cordeiro Nascimento, Luke Baton, Maira Posteraro Freire, Manoel Edson Medeiros, Mauro Diego Gobira Guimaraes de
+Assis, Soﬁa Ferreira Morais, Tiago Silva da Costa, Veracilda Ribeiro Alves, Eduardo Stramandinoli Moreno
+Keywords:  EPIDEMIOLOGY, HEALTH, INDIGENOUS PEOPLE, VECTORS
+PDF auto-generated using ReView
+from
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+Occurrence records and metadata for sand flies (Diptera, Psychodidae, Phlebotominae) 
+collected in the lands of indigenous people in the Brazilian Amazon 
+ 
+Paloma Helena Fernandes Shimabukuro1,2 (ORCID: 0000-0002-5114-953X), Daniel Rocha 
+Cangussu Alves3 (ORCID: 0000-0001-5744-6319), Jéssica Adalia Costa Barros2 (ORCID: 0000-
+0001-9048-9273), Luiz Otavio Cordeiro Nascimento4  (ORCID: 0000-0003-1504-050X), Luke 
+Anthony Baton5 (ORCID: 0000-0003-4515-8867), Maíra Posteraro Freire6,7 (ORCID: 0000-0003-
+3454-3997),  Manoel Edson Medeiros da Silva3 (ORCID: 0000-0003-0928-2190), Mauro Diego 
+Gobira Guimarães de Assis2  (ORCID: 0000-0002-9232-594X), Sofia Ferreira Morais2 (ORCID: 
+0000-0002-3802-4927), Tiago Silva da Costa8  (ORCID: 0000-0002-6398-4364), Veracilda Ribeiro 
+Alves2,9 (ORCID: 0000-0001-7334-2747) and Eduardo Stramandinoli Moreno6,10 (ORCID 0000-
+0003-1544-7115) 
+1,2Coleção de Flebotomíneos (FIOCRUZ/COLFLEB) 2Grupo de Estudos em Leishmanioses, Fiocruz, 
+Belo Horizonte, Brazil 
+3Frente de Proteção Etnoambiental Médio Purus/Coordenação-Geral de Índios Isolados e de 
+Recente Contato – CGiirc/Fundação Nacional do Índio. Lábrea, Amazonas, Brazil  
+4Laboratório Central, Secretaria Estadual de Saúde, Macapá, Amapá 
+5 50 Rowntree Way, Saffron Walden, Essex CB11 4DL, United Kingdom. 
+6Distrito Sanitário Especial Indígena Amapá e Norte do Pará – Secretaria Especial de Saúde 
+Indígena - Ministério da Saúde, Macapá, Amapá, Brazil 
+7Programa de Pós-Graduação em Saúde, Sociedade e Endemias na Amazônia, Instituto Leônidas 
+e Maria Deane, Fundação Oswaldo Cruz/Universidade Federal do Amazonas - Manaus, 
+Amazonas, Brazil.  
+8Laboratório de Arthropoda (Arthrolab), Universidade Federal do Amapá (Unifap), Macapá, 
+Amapá, Brazil 
+9Instituto Evandro Chagas. Ananindeua, Pará, Brazil. 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+2
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+10Programa de Pós-Graduação: Sociedade, Natureza e Desenvolvimento – Universidade Federal 
+do Oeste do Pará, Santarém, Pará, Brazil 
+ 
+* Corresponding author: Paloma Helena Fernandes Shimabukuro. E-mail: phfs@yahoo.com 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+3
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+Abstract 
+1 
 In order to contribute to knowledge of the epidemiology of American cutaneous 
+2 
 leishmaniasis (ACL) among indigenous people living in sylvatic regions, we studied the sand fly 
+3 
 fauna collected in areas of disease transmission in the Brazilian Amazon. Our two datasets 
+4 
 reported here are comprised of occurrence data for sand flies from the Suruwaha Indigenous 
+5 
 Land in the state of Amazonas collected between 2012-1013, and the Wajãpi Indigenous Land 
+6 
 in the state of Amapá collected between 2013-2014. Sand flies were collected using unbaited 
+7 
 CDC-like light traps at various sites within each study area and were identified to species-level 
+8 
 by taxonomists with expertise in Amazonian fauna. A total of 4,646 records are reported: 
+9 
 1,428 from the Suruwaha and 3,218 from the Wajãpi. These records will contribute to a better 
+10 
 understanding of ACL transmission dynamics, as well as the distribution of insect vectors, in 
+11 
 these areas. 
-
+12 
+ 
+13 
+Research areas: Animal and Plant Sciences, Biodiversity, Taxonomy 
+ 
+14 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+4
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+Data description 
+15 
 Leishmaniases are diseases caused by various species of the protozoan parasite genus 
+16 
 Leishmania, which are transmitted between humans, and wild and domestic vertebrate 
+17 
 animals, by the bites of blood-feeding female sand flies [1]. In Brazil, American cutaneous 
+18 
 leishmaniasis (ACL) is an endemic disease, but little is known about its impact on indigenous 
+19 
 human populations, especially those living in more remote areas with little contact with non-
+20 
 indigenous people living outside their territorial lands. In order to investigate the sand fly 
+21 
 fauna present during outbreaks of ACL among the Suruwaha and the Wajãpi indigenous people 
+22 
 that occurred between 2012-2014, we carried out fieldwork to collect these insects and 
+23 
 identify potential vectors. Insects were identified by keys available in the literature [3,4] by 
+24 
 experienced taxonomists. 
-
+25 
 Our datasets are comprised of sand fly occurrence data from: (i) the Suruwaha 
+26 
 Indigenous Land (SIL) in the south of the state of Amazonas collected between 2012-1013; and 
+27 
 (ii) the Wajãpi Indigenous Land (WIL) in the state of Amapá collected between 2013-2014.  The 
+28 
 data sets reported here are the metadata for each individual sand fly specimen collected 
+29 
 during the fieldwork and include 41 Darwin Core Standard (DwC) terms [5] available for the 
+30 
 Suruwaha dataset and 39 for the Wajãpi dataset. All mandatory fields are present and have 
+31 
 gone through screening in the FIOCRUZ IPT, metadata fields are also available on the online 
+32 
 pages. 
-
+33 
+ 
 Our dataset include fields describing for each individual sand fly specimen their: (i) 
+34 
 taxonomy (kingdom, phylum, class, order, family, genus, specificEpithet, verbatimIdentification, 
+35 
 infraspecificEpithet, scientificName, 
 scientificNameAuthorship, taxonRank), (ii) collection 
+36 
 details, including the collectors (recordedBy: Shimabukuro PHF; Stumpp RGAV; Medeiros MES.; 
+37 
 Alves DRC; Moreno ES; Freire M P; Nascimento LOC), the collection date, trapping method, trap 
+38 
 identification number, collection site description (verbatimEventDate, eventTime, habitat, 
+39 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+5
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
 samplingProtocol), (iii) geolocation data (stateProvince, county, 
 locality, 
+40 
 locationRemarks, verbatimLatitude, verbatimLongitude, decimalLatitude, decimalLongitude, 
+41 
 geodeticDatum), (iv) catalogue reference data (otherCatalogNumbers). Our data is available in 
+42 
 the Sistema de Informação sobre a Biodiversidade Brasileira (SiBBr), an online platform that 
+43 
 integrates data and information about biodiversity and ecosystems, and is the Brazilian Node of 
+44 
 the Global Biodiversity Information Facility (GBIF), an internationally-recognized resource for 
+45 
 collation of biological occurrence data [4], where our data set has been submitted, and is 
+46 
 publically available for use by others (fiocruz_suruwaha_01: https://doi.org/10.15468/28xvr7 
+47 
 and fiocruz_wajapi_01: https://doi.org/10.15468/gt29ub). 
-
+48 
+ 
+49 
+Context 
+50 
 ACL is a serious public health problem in Brazil, with 203,406 cases were recorded 
+51 
 between 2010 and 2020, with the administrative North Region of the country, which includes 
+52 
 the Amazon biome, currently accounting for 42% of all cases recorded within Brazil [6]. 
-
+53 
 Health and disease conditions among indigenous people in Brazil are poorly known. 
+54 
 There is a huge gap in government databases on morbidity, mortality, disease notification, etc, 
+55 
 which prevent the construction of the most basic socio-demographic and health indicators. 
+56 
 However, the few studies on the public health of populations of indigenous people in Brazil 
+57 
 show a situation of marginalization and vulnerability, which translate into low quality of life, 
+58 
 difficulty in accessing services in general, and low health indicators [7]. 
-
+59 
 In addition, the different transmission patterns of ACL make the disease difficult to 
+60 
 control, and understand, especially in the Brazilian Amazon, which has the greatest diversity of 
+61 
 the species of parasites of the genus Leishmania, their insect vectors and vertebrate hosts, in 
+62 
 the Neotropical region [1]. 
-
+63 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+6
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+ 
 Our two datasets are comprised of sand fly occurrence data from fieldwork 
+64 
 undertaken by the authors during the ACL outbreaks in) the SIL and WIL. 
-
+65 
+ 
+66 
+ Suruwaha dataset 
+67 
 Transmission of ACL south of the Amazon River system is poorly understood [8,9]. 
+68 
 Although it has often been stated that human Leishmania infection is either rare or absent 
+69 
 south of the Negro and Amazon Rivers [8,10], the incidence of leishmaniasis in humans in 
+70 
 some of these areas is equivalent to the incidence at north of the Negro and Amazon Rivers 
+71 
 [9,11]. Guerra et al. (2011) [12] described the epidemiology of mucosal leishmaniasis (ML) 
+72 
 south of the Amazon River, and not only found a high prevalence of this form of the disease, 
+73 
 but also a distribution of Leishmania species similar to the distribution found north of the 
+74 
 Amazon River. However, the etiologic agent of cutaneous leishmaniasis (CL) has not been 
+75 
 identified, and the source of sylvatic infection and the vectors involved in transmission are not 
+76 
 known south of the Amazon River system [8,13]. 
-
+77 
 The Suruwaha are comprised of a population of approximately 170 people [14] whose 
+78 
 only contact with non-indigenous people is through health workers and members of FUNAI 
+79 
 (the Fundação Nacional do Índio; the Brazilian government agency responsible for protecting 
+80 
 indigenous people). The Suruwaha live in a very remote location, far from urban areas and 
+81 
 they manufacture of utensils, being agriculture and hunting the main activities of this people.  
-
+82 
 Entomological research within the SIL was carried out by us in order to contribute to 
+83 
 the understanding of the transmission dynamics of ACL as there was an increase in the number 
+84 
 of cases of ACL recorded among the Suruwaha between 2010 and 2012. Our investigation 
+85 
 found that this increase was likely related to the distribution to the entire community of 
+86 
 flashlights in late 2010, as requested by the Suruwaha themselves. This seems to be the main 
+87 
 cause of the increase in ACL, as it led to changes in the hunting habits of the Suruwaha from 
+88 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+7
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
 strictly diurnal to nocturnal, and coincides with the generally crepuscular and nocturnal biting 
+89 
 activity of the blood-feeding female sand flies that transmit ACL. 
-
+90 
+ 
 The SIL is very remote and our entomological survey was performed by different teams 
+91 
 to take advantage of routine operations by FUNAI. A total of 1,428 sand fly specimens were 
+92 
 identified to either genus or species-level. Ten genera and 33 species were collected, of which 
+93 
 the genera Trichophoromyia was predominant (57%), followed by Psychodopygus (20%) and 
+94 
 Nyssomyia (5%). Among the most abundant species were T. ubiquitalis (25%), T. octavioi (9%) 
+95 
 and Ps. davisi (8%). 
-
+96 
+ 
+97 
+Wajãpi dataset 
+98 
 The Wajãpi are a group of about 1,200 people [15], distributed in 80 small villages 
+99 
 scattered throughout their territory. All families subsist by agriculture, fishing, hunting and 
+100 
 gathering, periodically changing the location of their villages to allow the ecological recovery of 
+101 
 the areas they have occupied. Access to the villages can be via the road, rivers and streams 
+102 
 that cross their territory, as well as open trails through the forest. The resumption of the 
+103 
 traditional model of Wajãpi occupation and dispersal for territorial exploitation, which 
+104 
 maintains the quality of life of the people and, at the same time, guarantees territorial 
+105 
 surveillance was essential to guarantee the pattern of abundance that the Wajãpi consider 
+106 
 adequate [16]. In the last 10 years, the activity of large mining companies, and the building of 
+107 
 hydroelectric plants, in the environment surrounding the WIL threatens the quality of life of 
+108 
 the Wajãpi, through forest degradation, environmental contamination, and the insertion of the 
+109 
 community in a context of great social vulnerability, which coincides with the increased 
+110 
 incidence of pests in crops and endemic diseases, such as malaria and leishmaniasis.  
-
+111 
 Our dataset is comprised of sand fly records that resulted from the activities of a 
+112 
 project aimed to evaluate the main risk factors for the disease, using an interdisciplinary 
+113 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+8
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
 approach. In 2012, there was an outbreak of leishmaniasis in the WIL affecting more than 20 
+114 
 people in 7 different villages [17]. This outbreak triggered a broader investigation that was 
+115 
 conducted between 2012-2015 in order to understand the causal processes related to the local 
+116 
 epidemiological context, to propose measures to prevent and control the disease among the 
+117 
 Wajãpi. The investigation unfolded in a multi-institutional project with the partnership of 
+118 
 institutions related to health services, such as: Distrito Sanitário Especial Indígena (DSEI) 
+119 
 Amapá e Norte do Pará, Secretaria Municipal de Saúde de Pedra Branca do Amapari, 
+120 
 Coordenadoria de Vigilância em Saúde do Amapá, Laboratório Central de Saúde Pública do 
+121 
 Amapá, Instituto René Rachou (Fiocruz-MG), Universidade Federal do Amapá, Universidade de 
+122 
 São Paulo, and Universidade Federal do Oeste do Pará. Teams with different expertise were 
+123 
 formed: entomologists, biologists, veterinarians, laboratory technicians, anthropologists, 
+124 
 epidemiologists, nurses, etc. 
-
+125 
 From the beginning, researchers were faced with a complex environmental and 
+126 
 intercultural context, in which the simple intensification of standard measures recommended 
+127 
 by health services proved to be insufficient or even antagonistic in relation to the health 
+128 
 principles and concepts of the indigenous group. Difficult access to villages made it difficult to 
+129 
 map and record possible transmission sites. The long incubation period of the ACL, the 
+130 
 complex mobility profile through their territory of the Wajãpi and the limitations of the health 
+131 
 services, i.e. lack of trained personnel, lack of proper funding and infrastructure, made the 
+132 
 search for transmission foci, according to the surveillance standards recommended by the 
+133 
 Ministry of Health – based on the search for individual risk factors, an unpromising task. 
-
+134 
+ 
 The need for a broader and more sensitive assessment from the ecological, cultural 
+135 
 and ethnic point of view of this epidemiological context unfolded in a review not only of the 
+136 
 objectives and methods of providing services in indigenous health and of epidemiological 
+137 
 research and conduct, but also of an epistemological reconstruction of the process of 
+138 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+9
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
 understanding causality in health-disease and its inseparable relationship with social and 
+139 
 ecological processes, their different scales and dimensions of perception. Therefore, data on 
+140 
 ACL vectors’ occurrence was paramount. 
-
+141 
 A total of 3,218 specimens were identified to either genus or species-level. The most 
+142 
 abundant genera were Trichophoromyia (20%), Nyssomyia (13%) and Psathyromyia (11%). And 
+143 
 the most abundant species were T. brachipyga (14%), followed by Pa. dreisbachi (9%) and 
+144 
 Nyssomyia pajoti (6%). 
-
+145 
+ 
+146 
+Methods 
+147 
 Specimens were georeferenced with the aid of a Garmin® 62sGPS. 
-
+148 
+ 
+149 
+Study area 
+150 
+Suruwaha Indigenous Land (SIL) 
+151 
 The municipality of Tapauá is located on the banks of the Purus River and has a 
+152 
 population of 16,876 inhabitants and a total area of 84,946 km2 [11]. The main economic 
+153 
 activity is agriculture (cassava, jute and beans) and extractivism (nuts, rubber, wood, copaiba 
+154 
 oil and andiroba), livestock has become the main product in the last 10 years. 
-
+155 
 The Middle Purus region is located in the southern region of the Amazon rainforest 
+156 
 and includes several conservation units, in addition to various indigenous lands, several of 
+157 
 which are already officially recognized by the federal government while others are currently in 
+158 
 the process of formal legal demarcation. 
-
+159 
 According to the SIASI (Sistema de Informação da Atenção à Saúde Indígena), operated 
+160 
 by the Secretaria Especial de Saúde Indígena (SESAI), the indigenous population of the Middle 
+161 
 Purus is estimated at around 8,117 inhabitants, divided into 13 ethnic groups and distributed 
+162 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+10
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
 in 24 demarcated indigenous lands and another 6 non-demarcated (unidentified and/or 
+163 
 delimited), the total territorial extension of the demarcated indigenous areas corresponds to 
+164 
 189,870.964 ha. 
-
+165 
 The Suruwaha Indigenous Land (SIL) is located in the municipality of Tapauá. The SIL 
+166 
 area comprises a total of 239,070 hectares and is located between the Riozinho River and the 
+167 
 Coxodoá stream, both tributaries of the Cuniuá River, which in turn is a tributary of the Tapauá 
+168 
 River that flows into the Purus River [18]. The SIL is surrounded to the west by the Deni 
+169 
 Indigenous Land and to the east by the Hi-Merimã Indigenous Land, of isolated indigenous 
+170 
 peoples. The population consists of 171 people who were living in isolation and were 
+171 
 contacted in the 1980s by missionaries [14]. The productive activities of the Suruwaha include 
+172 
 agriculture, hunting, fishing, gathering and tool making [19]. Hunting is the most prestigious 
+173 
 activity, and a good hunter not only kills many animals but must also have killed many tapirs, 
+174 
 the most coveted game because of its size that can feed many people [19]. 
-
+175 
+ 
+176 
+Wajãpi Indigenous Land (WIL) 
+177 
 The Wajãpi Indigenous Land (WIL) extends between the basins of the Jari (to the west), 
+178 
 Amapari (to the east) and Oiapoque (to the north) rivers. Official recognition by the Brazilian 
+179 
 government occurred in 1996, with a territorial extension of 6,070 km2. The area is of dense 
+180 
 tropical forest and in rugged relief, integrating the Tumucumaque Mountains complex. 
+181 
 Currently, the Wajãpi number about 1,221 people, distributed in more than 80 villages [15]. 
-
+182 
+ 
 The Wajãpi organize themselves into autonomous local groups, called "iwanã-ko", 
+183 
 which are represented by a local group that has its origin in a specific region, where there are 
+184 
 several villages. But not all the people of an “iwanã-ko” live in the same region, because when 
+185 
 marriages between people from different groups take place, one of the spouses starts living in 
+186 
 the other's region [20], which may represent only a temporary physical settlement. The 
+187 
 different groups occupy three spatial categories: the places of concentration – rural villages / 
+188 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+11
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
 dwellings; intermittent dispersal/settlements (mainly during the dry season – hunting, fishing 
+189 
 and gathering camps) and "koo kwerã" sites which are wildlife reserves and are left 
+190 
 undisturbed for wild animals to use and therefore, be hunted. This combination of social, 
+191 
 political and ecological factors that determine the movements of concentration and dispersion 
+192 
 of the Wajãpi in its territory seems to accompany the patterns of disease distribution in the 
+193 
 TIW, so that the tendency to concentrate families close to the Perimetral Norte highway, 
+194 
 which reaches TIW, seems to be related to the increased incidence of infectious diseases 
+195 
 [16,21]. 
-
+196 
+ 
+197 
+Sand fly collection and processing 
+198 
+ 
 Sand flies were collected with unbaited CDC-like light traps operated between 5:00 pm 
+199 
 and 6:00 am. The traps were placed in areas used by the indigenous people, such as swiddens, 
+200 
 forest areas, hunting grounds, access trails and homes. 
-
+201 
+ 
 The insects were stored in microtubes containing 70% alcohol and sorted from the 
+202 
 other insects collected either in the field or under a dissecting microscope in the laboratory. 
+203 
 The insects were clarified and mounted on a slide to identify the species, using the 
+204 
 identification key of Galati (2003) [2]. A subsample of the insects will be deposited in the 
+205 
 Coleção de Flebotomíneos of the Instituto René Rachou/FIOCRUZ-Minas (COLFLEB/FIOCRUZ). 
-
+206 
 The collection licenses and permits for our studies were as follows: in the SIL, SISBIO 
+207 
 collecting license, issue by the Sistema de Autorização e Informação em Biodiversidade 
+208 
 (IBAMA)  (39337-1) and FUNAI (08620.040969/2013-51); and in the WIL, SISBIO collecting 
+209 
 license (37935-4), FUNAI (08620.030843/2014-59), Ethics Committee approval (CONEP - CAAE: 
+210 
 20188213.9.0000.5091), and IPHAN access to associated traditional knowledge for scientific 
+211 
 research purposes (01450.008806/2014-14). 
-
+212 
+ 
+213 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+12
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+DATA VALIDATION AND QUALITY CONTROL 
+214 
 Insects were identified by keys available in the literature [2,3] by experienced 
+215 
 taxonomists. The dataset is in Darwin Core format 41 terms are available for the Suruwaha 
+216 
 dataset and 39 for the Wajãpí dataset. All mandatory fields are present and have gone through 
+217 
 screening in the FIOCRUZ IPT, metadata fields are also available on the online pages. 
-
+218 
+ 
+219 
+RE-USE POTENTIAL 
+220 
 The data are of importance because they describe the distribution of sand flies collected 
+221 
 at different sites in two indigenous lands located in the Brazilian Amazon. The data can be used 
+222 
 by different sectors of academia, government, civil society, NGOs. However, the data can be of 
+223 
 particular importance to balance scientific knowledge and indigenous knowledge so that health 
+224 
 surveillance activities are improved and adapted to different eco-social contexts with the 
+225 
 participation of indigenous people, who better know their territories. 
-
+226 
 These data can be used to address challenges in leishmaniases control and to a better 
+227 
 understanding of the epidemiology of this disease. Since control measures in Brazil are based 
+228 
 on disease surveillance and monitoring in territorial units, which include biological and 
+229 
 environmental characteristics, our dataset can contribute to a broader knowledge. Our data 
+230 
 provide occurrence records from previously unknown which would not normally be surveyed by 
+231 
 the public health system ACL control programmes from the Brazilian government. These data 
+232 
 can be used for modelling of both vector and disease distribution in space and time as well as 
+233 
 provide clues on priority areas for ACL surveillance and control in these areas. 
-
+234 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+13
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
 Our data are an expert-validated and list of sand fly species in which names are up to 
+235 
 date and can be a valuable source of high-quality data on sand flies from remote areas in the 
+236 
 Brazilian Amazon.  
+237 
+ 
+238 
+DATA AVAILABILITY STATEMENT 
+239 
+Declarations (https://gigabytejournal.com/data-release-description)  
+240 
+ 
+241 
+Data published through  
+242 
+http://ipt.fiocruz.br/ipt/resource?r=fiocruz_suruwaha_01 
+243 
+GBIF UUID 
+d9f6d2bf-20d7-4b87-99ac-e902b34364e4 
+244 
+Occurrence dataset https://doi.org/10.15468/28xvr7 
+245 
+ 
+246 
+http://ipt.fiocruz.br/ipt/resource?r=fiocruz_wajapi_01 
+247 
+GBIF UUID 
+7140a42f-8ad6-43cd-b252-b5a791c8de4a 
+248 
+https://doi.org/10.15468/gt29ub 
+249 
+ 
+250 
+COMPETING INTERESTS 
+251 
+The author(s) declare that they have no competing interests. 
+252 
+FUNDING 
+253 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+14
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+Conselho Nacional de Desenvolvimento Científico e Tecnológico CNPq (474506/2012-6 and 
+254 
+404390/2012-9) - PHFS, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), 
+255 
+and Fundação de Amparo à Pesquisa do Amapá – Fapeap (004/2013) - ESM. 
+256 
+AUTHORS' CONTRIBUTIONS 
+257 
+PHFS: provision of resources, funding acquisition, conceptualization of the research, supervision, 
+258 
+preparation of manuscript; DRCA: fieldwork, provision of resources, data collection; ESM: 
+259 
+provision of resources, funding acquisition, conceptualization of the research; JACB: sample 
+260 
+preparation; MPF: fieldwork, conceptualization of the research, data collection; MEMS: 
+261 
+fieldwork, provision of resources, data collection; MDGGA: sample preparation; SFM: sample 
+262 
+preparation; TSC: sample preparation; VRA: sample preparation and identification; LAB: data 
+263 
+curation, revision of manuscript. 
+264 
+ACKNOWLEDGEMENTS 
+265 
+We thank the Suruwaha people for allowing us to stay with them and collect sand flies. To the 
+266 
+Wajãpi Indigenous Council: Apina, Associação dos Povos Indígenas Wajãpi do Triangulo do 
+267 
+Amapari - Apiwata, Associação Wajãpi Terra, Ambiente e Cultura - Awatac. To Instituto de 
+268 
+Pesquisa e Formação Indígena (Iepé). To the Wajãpi for their support during fieldwork and 
+269 
+contributions on sand fly collecting sites: Aikyry, Jatuta, Japu, Jawaruwa, Piriri, Jawapuku, 
+270 
+Nazare, Marãte, Wajamã, Moratu, Wynamea, Wawa, Waiwai, Seremeté, Waraku, Majuware, 
+271 
+Asurui, Wyrai, Janeanã, Roseno, Patiheu, Aka’upotyr, Savã, Joapiria, Jakyri, Parikura, Tukuruwe, 
+272 
+Yrovaite, Kasiripinã (in memoriam), Paiki, Moroti, Tapenaiki, Tarakuasii, Pakitu, Patire, Kumaré, 
+273 
+Keremeti, Tameri, Namirõ, Ripé, Sirara, Pasiku, Seki, Taresa, Karara, Ororiwõ, Jamano, Viseni, 
+274 
+Inarina, Kenewe, Mika, Apamu, Patena, Kawãe, Paniu, Taruku, Siró, Kourupe, and all the Wajãpí 
+275 
+Community.. To Fundação Nacional do Índio, Secretaria Especial de Saúde Indígena – SESAI. To 
+276 
+Alline Silva da Costa (Universidad Nacional de Rosario, Joana Cabral Oliveira (UNICAMP), Juliana 
+277 
+Rosalen (Iepé), Luis Alberto Sabioni, , Raimundo Nonato Picanço Souto (Unifap), Rodolfo G.A.V. 
+278 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+15
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+Stumpp, Thais Jeniffer das Dores Cardoso, Volmir Zanni (LACEN/AP). And to Clara Baringo 
+279 
+Fonseca (RNP - Rede Nacional de Ensino e Pesquisa). 
+280 
+REFERENCES 
+281 
+1. Rangel EF, Lainson R. Flebotomíneos do Brasil. In: Rangel EF, Lainson R, organizers. 
+282 
+Flebotomíneos do Brazil. Rio de Janeiro: Editora Fiocruz, 2003. p.23-175.  
+283 
+2. Galati EAB. Classification of Phlebotominae. In: Rangel EF, Lainson R, organizers. 
+284 
+Flebotomíneos do Brazil. Rio de Janeiro: Editora Fiocruz, 2003. p.23-175. 
+285 
+3. Young DG and Duncan MA. Guide to the identification and geographic distribution of 
+286 
+Lutzomyia sandflies in Mexico, The West Indies, Central and South America (Diptera: 
+287 
+Psychodidae). Mem Am Entomol Inst 1994;54: 1-881. 
+288 
+4. GBIF: The Global Biodiversity Information Facility (2022) What is GBIF?. Available from 
+289 
+https://www.gbif.org/what-is-gbif/ . Accessed 27 Feb 2022. 
+290 
+5. Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, et al. Darwin Core: An 
+291 
+Evolving Community-Developed Biodiversity Data Standard. PLoS ONE. 2012;7(1): 
+292 
+e29715. doi:10.1371/journal.pone.0029715. 
+293 
+6.  Sistema de Informação de Agravos de Notificação, Ministério da Saúde, Brasil. 
+294 
+https://www.gov.br/saude/pt-br/media/pdf/2021/novembro/17/lt-casos.pdf/ 
+. 
+295 
+Accessed 22 Feb 2022. 
+296 
+7. Coimbra Jr. CEA, Ventura SR. Saúde, minorias e desigualdade: algumas teias de inter-
+297 
+relações, com ênfase nos povos indígenas no Brasil. Ciênc. saúde coletiva. 
+298 
+2000;5(1):125.  
+299 
+8. Arias JA & Freitas RA. Sobre os vetores da leishmaniose cutânea na Amazônia Central do 
+300 
+Brasil. 2. Incidência de Flagelados em flebótomos selváticos. Acta Amaz 1978;8:387. 
+301 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+16
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+9. Justiniano SCB, Chagas AC, Pessoa FA, Queiroz RG. Comparative biology of two 
+302 
+populations of Lutzomyia umbratilis (Diptera: Psychodidae) of Central Amazonia, Brazil, 
+303 
+under laboratory conditions. Braz J Biol 2004;64: 227. 
+304 
+10. Lainson R, Shaw JJ, Ready PD, Miles MA, Póvoa M. XVI. Isolation and identification of 
+305 
+Leishmania species from sand flies, wild animals and man in north Pará State, with 
+306 
+particular reference to L. b. guyanenesis causative agent of "pian-bois". Trans R Soc Trop 
+307 
+Med Hyg 1981;75: 530. 
+308 
+11. Instituto Brasileiro de Geografia e Estatística. https://cidades.ibge.gov.br/ . Acessed 22 
+309 
+Feb 2022. 
+310 
+12.  Guerra JA, Prestes SR, Silveira H, Coelho LI, Gama P, Moura A, Amato V, Barbosa Md, 
+311 
+Ferreira LC. Mucosal Leishmaniasis caused by Leishmania (Viannia) braziliensis and 
+312 
+Leishmania (Viannia) guyanensis in the Brazilian Amazon. PLoS Negl Trop Dis. 
+313 
+2011;8;5(3):e980. doi: 10.1371/journal.pntd.0000980. 
+314 
+13. Grimaldi G Jr, Momen H, Naiff RD, McMahon-Pratt D, Barrett TV. Characterization and 
+315 
+classification of leishmanial parasites from humans, wild mammals, and sand flies in the 
+316 
+Amazon region of Brazil. Am J Trop Med Hyg 1991;44(6):645. 
+317 
+14. Povos Indígenas do Brasil. https://pib.socioambiental.org/pt/Povo:Zuruah%C3%A3/ . 
+318 
+Accessed 23 Feb 2022. 
+319 
+15. Povos Indígenas do Brasil. https://pib.socioambiental.org/pt/Povo:Waj%C3%A3pi/ . 
+320 
+Accessed 23 Feb 2022. 
+321 
+16. Gallois DT. Terra Indígena Wajãpi: da demarcação às experiências de gestão territorial. 
+322 
+São Paulo: Iepé; 2011. 
+323 
+17. Secretaria Especial de Saúde Indígena. SESAI 2012 – unpublished data. 
+324 
+18. Aparício M. A vida social e econômica dos Sorowaha. Cuiabá: OPAN - Operação 
+325 
+Amazônia Nativa, CIMI - Conselho Indigenista Missionário, Prelazia de Lábrea. 1996. 
+326 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+17
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+19. Fank J & Porta, EM. A vida social e econômica dos Sorowaha. Cuiabá: OPAN - Operação 
+327 
+Amazônia Nativa, CIMI - Conselho Indigenista Missionário, Prelazia de Lábrea. 1996. 
+328 
+20. Plano de Gestão Socioambiental | Terra Indígena Wajãpi como estamos organizados 
+329 
+para continuar vivendo bem na nossa terra. © Apina, Awatac e Iepé, 2017. 
+330 
+https://institutoiepe.org.br/wp-
+331 
+ontent/uploads/2020/07/plano_de_gestao_wajapi.pdf/ . Accessed 27 Feb 2022. 
+332 
+21. Gallois C. Wajãpi rena: roça, pátios e cassa. 2ª Ed. Rio de Janeiro: Museu do 
+333 
+Índio/APINA/Iepé, 2009.  
+334 
+ 
+335 
+Auto-generated PDF by ReView
+GigaByte
+Indigenous1submitted.docxMainDocument
+GigaScience Review Copy Only
+18
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3879
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

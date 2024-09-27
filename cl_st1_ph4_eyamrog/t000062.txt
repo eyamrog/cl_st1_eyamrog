@@ -1,4 +1,53 @@
-(Impact of Hedychium coronarium J. König (Zingiberaceae) on the 
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906-73/2020
+Impact of Hedychium coronarium J. König (Zingiberaceae) on
+the assembly of spiders in the Parque Estadual das Fontes do
+Ipiranga, São Paulo State, Brazil
+Giovanni Balaton Pupin, Zedenil Rodrigues Mendes
+https://doi.org/10.1590/2236-8906-73/2020
+Submitted on: 2022-02-04
+Posted on: 2022-02-04 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Article 
+https://doi.org/10.1590/2236-8906-73/2020 
+ 
+ 
+1 
+1. Parte do Trabalho de Conclusão de Curso do Primeiro Autor 
+2. Universidade Cidade de São Paulo, Faculdade de Biologia, Rua Cesário Galeno 448, 
+Tatuapé, 03071-000 São Paulo, SP, Brazil 
+3. Universidade Federal de São Carlos, Rodovia Washington Luis Km 235, SP 310, 3565-
+905, São Paulo, SP, Brazil 
+4. Corresponding Author: zedenil@yahoo.com.br 
+Impact of Hedychium coronarium J. König (Zingiberaceae) on the assembly of 
+spiders in the Parque Estadual das Fontes do Ipiranga, São Paulo State, Brazil1  
+ 
+Giovanni Balaton Pupin2, and Zedenil Rodrigues Mendes3,4 
+ 
+Short title: Impact of Hedychium coronarium on the assembly of spiders 
+ 
+ORCID https://orcid.org/0000-0003-2440-6470 
+ORCID https://orcid.org/0000-0002-3054-1495 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+2 
+ 
+ABSTRACT – (Impact of Hedychium coronarium J. König (Zingiberaceae) on the 
 assembly of spiders in the Parque Estadual das Fontes do Ipiranga, São Paulo State, 
 Brazil). The invasive Hedychium coronarium J. König (Zingiberaceae) is a competitive 
 terrestrial herb. To understand the ecological relationships and verify whether H. 
@@ -12,7 +61,31 @@ distributed in 10 species. The analysis showed that the assembly of spiders in P
 Estadual das Fontes do Ipiranga does not present significant differences, these results may 
 not be the result of chance and be related to H. coronarium. Furthermore, two families 
 showed differences in their distribution.  
-
+Keywords: animal-plant interaction, biodiversity, spider fauna 
+ 
+RESUMO – (Impacto da Hedychium coronarium J. König (Zingiberaceae) sobre a 
+assembleia de aranhas de solo do Parque Estadual das Fontes do Ipiranga, Estado de São 
+Paulo, Brasil). A invasora Hedychium coronarium J. König (Zingiberaceae) é uma erva 
+terrestre competitiva. Para entender como estão as relações ecológicas e verificar se o H. 
+coronarium impacta a assembleia de aranhas no solo, foram instaladas 45 armadilhas, 
+distribuídas em três tratamentos e três réplicas. Todas as aranhas (292 indivíduos) 
+coletadas entre janeiro e dezembro de 2018 foram identificadas. As Áreas Intermediárias 
+apresentaram o maior número de indivíduos coletados e o maior índice de diversidade, 
+com 107 aranhas coletadas (37% do total), distribuídas em 14 espécies, seguidas por 
+Áreas Dominadas com 97 indivíduos (33%) distribuídas em 12 espécies e Áreas Livres 
+com 88 indivíduos (30%), distribuídas em 10 espécies. A análise mostrou que a 
+montagem de aranhas no Parque Estadual das Fontes do Ipiranga não apresenta diferenças 
+significativas, esses resultados podem não ser fruto do acaso e podem estar relacionados 
+ao H. coronarium. Além disso, duas famílias apresentaram diferenças em sua 
+distribuição. 
+Palavras-chave: araneofauna, biodiversidade, interação planta-animal 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+3 
+ 
+Introduction 
 Invasive alien species are those that, once introduced from other environments, 
 adapt, start to reproduce and intensely proliferate. This can cause changes in ecological 
 processes and harm native species. These biological invasions are the second biggest 
@@ -24,15 +97,13 @@ that, invasive alien species alter ecosystem functions, through changes in bioma
 distribution and decomposition rates (Helsen et al. 2018). Invasive alien species also 
 interfere with evolutionary processes, with the local extinction of species and 
 homogenization of ecosystems (Herrera et al. 2016). 
-
-Hedychium coronarium J. König (Zingiberaceae) known as the “White garland 
+     Hedychium coronarium J. König (Zingiberaceae) known as the “White garland 
 - lily”, is a monocot invasive alien of great prominence. It has herbaceous habit with 
 competitive advantage over other species due to its rapid growing and it´s phytochemical 
 properties (Castro 2013). It has aromatic inflorescence that attract nocturnal pollinators 
 (e. g. moths) from January to March, H. coronarium has the dispersion of its seeds carried 
 out by birds (Ferreira et al. 2016). It spreads asexually through rhizomes surpassing native 
 vegetation (Santos et al. 2005). 
-
 The species can obstruct small streams and channels with its thick rhizomes 
 (Lorenzi 2000, Amaral et al. 2008) and was considered the most damaging in Hawaii by 
 forming extensive monospecific patches (Herrera et al. 2016). According to Correa 
@@ -47,14 +118,16 @@ can be confirmed at virtual catalogs of Brazilian national herbariums (Flora do 
 accidentally by transporting lots of commercial plants that arrived on ships or motivated 
 for their use in landscaping (Primack & Rodrigues 2001, Ziller 2001, Petenon & Pivello 
 2008).  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+4 
+ 
 This species can negatively impact plant populations such as Cucumis sativus L. 
 and animals like Formicivora paludicola Buzzetti et al. 2014 (Rodrigues & Lopes 2006, 
 Del-Rio 2014). In addition to the rapid propagation of the species, the plant does not have 
 a known effective predator. However, Castro (2013) presented the first herbivore record, 
 inserting the H. coronarium in the food chain of Hydrochoerus hydrochaeris Linnaeus 
 1766. 
-
 Although several studies have been done on the use of this species and recent 
 warnings about the impacts caused by this plant, studies related to arthropods, especially 
 spiders, are scarce in the literature. Spiders are a megadiverse group with characteristics 
@@ -65,8 +138,7 @@ can interact with invasive plants indirectly and any change in the spider assemb
 the arthropod community (Mgobozi et al. 2008). According Bultman & De-Witt (2008), 
 the invasive alien species Vinca minor L. (Apocynaceae) influenced the mobility of native 
 spiders, reducing their abundance. 
-
-In this study investigates the effect of H. coronarium on the assembly of soil 
+     In this study investigates the effect of H. coronarium on the assembly of soil 
 spiders in the Parque Estadual das Fontes do Ipiranga (PEFI). It was expected that H. 
 coronarium influences the abundance of spiders, because the species forms monospecific 
 populations, as well as V. minor, cited above in the publication by Bultman & De-Witt 
@@ -76,14 +148,18 @@ of vehicles and research groups, that is important to study the diversity of spi
 region. The results expand the knowledge of ecological interactions between spiders and 
 plants and reinforce the attention that we must have in relation to the introduction species 
 in those conservation units. 
-
+ 
+Material and methods 
 Study area – The Parque Estadual das Fontes do Ipiranga (PEFI), located in the 
 municipality of São Paulo, under the coordinates are 23°39’S e 46°37’W at an average 
 altitude of 798 m (Melhem et al. 1981) and the predominant phytophysiognomy is the 
 Dense Ombrophilous Rainforest. The sampling units were selected near Lago das Garças, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+5 
+ 
 bordering a dirt road that connects the Instituto de Botânica to the Zoológico de São Paulo 
 where there is a wide occurrence of H. coronarium (figure 1). 
-
 Sample units - To compare the effect of H. coronarium on the assembly of soil spiders, 
 was used a method similar to that of Robertson et al. (2011). However, in this study, only 
 three treatments were performed, with three replicas each. The difference between this 
@@ -96,7 +172,6 @@ include: (1) dominated areas (DA), where only H. coronarium covers the soil; (2)
 intermediate areas (IA), where H. coronarium covers 50% of the ground; (3) free areas 
 (FA), where there is no occurrence of H. coronarium. Each sample unit has an area of 
 100 m² (figure 2 a-c). 
-
 Data collection - Spiders were collected using pitfall traps. The pitfall traps were set up 
 using a 2 – liter plastic pot. Each pot has an opening of 18 × 13 cm and is 12 cm deep 
 (figure 2 d). They were filled with 500 ml of water mixed with neutral detergent and 
@@ -104,7 +179,6 @@ removed in 48 hours after installing them. In total 45 pitfall traps were collec
 month for one year (five in each replica). They were positioned as follows: one of the 
 pots in the center of the sample unit, another four at 1.5 m from each vertex towards the 
 center (figure 3). 
-
 Data analysis - To check the sampling sufficiency and estimate the number of species 
 potentially present, the following species richness estimators were used: Bootstrap, 
 Jackknife 1, Jackknife 2, Chao 1, Chao 2, and ICE. Calculations were performed using 
@@ -118,7 +192,11 @@ Development Core Team 2009), but uninformative results were not discussed in thi
 study. Through the program Past 2.1 (Hammer et al. 2001) was realized the Simpson 
 Diversity t test (significant differences = < 0.05) and Cluster analysis was performed 
 using the Bray-Curtis similarity index and the UPGMA clustering method. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+6 
+ 
+Results 
 We collected 292 spiders belonging to 17 families. Only 35 individuals (12% of 
 the total) are adults and represent 20 species belonging to 11 families. The six families 
 represented only by young individuals were: Oxyopidae, Pholcidae, Sparassidae (four 
@@ -127,19 +205,16 @@ each). Of the families that were sampled with adult individuals we have: Linyphi
 (nine adults), Corinnidae (eight), Theridiidae (seven), Salticidae (three), Idiopidae (two), 
 Ctenidae, Nemesiidae, Pycnothelidae, Theridiosomatidae, Xenoctenidae and Zodariidae 
 (all with only one adult). 
-
 The greatest richness was found in Theridiidae with five species, followed by 
 Corinnidae and Linyphiidae, both with three species. Of the 20 species identified, only 
 two were more abundant: Ianduba varia (Keyserling, 1891) with six individuals (17.14% 
 of the total adults) and Agyneta sp. with five (14.28%). All other species had only one or 
 two individuals each (table 1). 
-
 Although the species richness was small and the number of collected adult 
 individuals was low, it was possible to make a Cluster analysis that indicated 82% 
 similarity in the composition of families between the IA and DA treatments (figure 4). 
 The IA treatment showed a greater number of species (14), followed by DA with nine 
 and FA with four species (table 1), but the treatments not differentiated from each other.  
-
 The species richness estimators that came closest to the total of observed species 
 were Bootstrap and Jackknife 1, they indicated 24 – 31 species potentially present (figure 
 5 a), this result was obtained when performed as a function of richness per treatment, 
@@ -147,14 +222,16 @@ where only Bootstrap was within the standard deviation in the three treatments (
 and DA), Jackknife 2 and Chao 1 were the least conservative, Jackknife 1 and Bootstrap 
 were the most conservative. IA has the smallest difference between estimators (figure 5 
 c), DA and FA have the greatest difference between estimators (figure 5 b, d). 
-
 Considering the total number of collected individuals (youth and adults), the data 
 have a normal distribution, and no difference was by the ANOVA test was detected (F-
 value = 0,414; P-value = 0,678) and the p-values in the Simpson Diversity t test were 
 greater than 0.5. There are no significant differences in comparisons between treatments, 
 corroborated by the Tukey HSD statistical test and the sampled data in each treatment are 
 normally distributed according to the Shapiro - Wilk normality test (W-test) (table 2). 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+7 
+ 
 Linyphiidae was represented by 101 individuals, 47 (46.52%) of these collected 
 in FA and 27 (26.74%) in each of the other areas, although the difference was not obtained 
 in the ANOVA test (F-value = 1,274; P-value = 0,346). During the cold and dry period 
@@ -165,7 +242,6 @@ obtained in the ANOVA test (F-value = 2,121; P-value = 0,201). While in the rain
 showed significant difference (W-test = 0,7500; P-value = 0,00000000000000002), but 
 this difference it was not recovered in the Kruskal-Wallis test and in the Dunn post-hoc, 
 prepared for the Bonferroni method. 
-
 Corinnidae was represented by 84 individuals, 32 (38.1%) of these colleted in DA 
 and 20 individuals (23.8%) collected in IA and FA, the ANOVA test not obtained 
 difference (F-value = 0,98; P-value = 0,428). Both in the cold and dry period as in the hot 
@@ -175,7 +251,6 @@ a normal distribution in the treatments. Only FA in cold and dry period, a famil
 a significant difference (W-test = 0,7500; P-value = 0,00000000000000002), but this 
 difference was not recovered in the Kruskal-Wallis test and in the Dunn’s post-hoc 
 equipped for the Bonferroni method. 
-
 Theridiidae was represented by 37 individuals, 16 (43%) of these collected in the 
 DA, 13 (35%) collected in the IA and 8 (22%) collected in the FA. The DA showed a 
 significant difference in the Shapiro - Wilk test (W-test = 0,7500; P-value = 
@@ -184,7 +259,6 @@ Kruskal-Wallis test and in the Dunn’s post-hoc, adjusted for the Bonferroni me
 When compared to the time of year, the heat and humidity period did not show significant 
 differences, but in the cold and dry period, DA and IA had no differences in the data and 
 FA individuals were not collected from the family. 
-
 Xenoctenidae was represented by 30 individuals, 20 (67%) of these collected in 
 the IA, 7 (23%) in the DA and 3 (10%) in the FA. The treatments showed a significant 
 difference in the ANOVA test (F-value = 4,017; P-Value = 0.0781) and the Tukey HSD 
@@ -192,12 +266,17 @@ test obtained differences only between IA and FA (P-value = 0,0781). When compar
 to the time of year, the family showed differences only in the hot and humid period in the 
 IA and FA and in the cold and dry period in the FA (W-test = 0,7500; P-value = 
 0,00000000000000002). Levene test using the mean as a basis, showing difference in the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+8 
+ 
 homogeneity of variances only for period of heat and humidity (F-value = 5,0256; P-
 value = 0,05223), but when the median was used as a basis, this difference was not 
 recovered (F-value = 0,4138; P-value = 0,6787). Data from the time of year did not show 
 significant differences in the Kruskal-Wallis and Dunn's post-hoc, adjusted for the 
 Bonferroni method. 
-
+ 
+Discussion 
 In this study an amount number of individuals was sampled, but most of them 
 were young, making it impossible to identify at a specific level, the species richness 
 observed is not associated with H. coronarium, unlike V. minor observed in Bultman's 
@@ -205,37 +284,36 @@ study & De-Witt (2008), but may be associated with the anthropic impact of the r
 due the study area is bordering a dirt road with constant movement of vehicles and a large 
 flow of residents and employees who work in the PEFI's research areas and suffers from 
 the constant removal of this invasive plant. 
-
 There is no widely used method for collecting spiders, so it is difficult to compare 
 results. However, the collected data in the present research coincide with data from 
 different locations. Linyphiidae and Theridiidae appear among the most abundant 
 families in several studies (Lopes et al. 2008, Silva et al. 2014, Breitenbach et al. 2015). 
 In the present study, Linyphiidae was collected more frequently in FA treatment. 
-
 The statistical results indicate that the treatments are similar in relation to the 
 diversity of spiders. However, it was observed that the two most abundant families were 
 collected mostly from different areas. Significant changes in temperature and humidity 
 do not influence the distribution of the spider assembly (Maciel 2011). But leaf 
 architecture can influence different guilds in different ways, even if it does not influence 
 their prey (Diniz 2011). 
-
-Linyphiidae are generally associated with litter, building sheet – shaped webs 
+ Linyphiidae are generally associated with litter, building sheet – shaped webs 
 close to the ground, and are commonly found to pitfall traps (Ferro 2008, Ubick et al. 
 2005). Linyphiidae was the most abundant family in other works (Ferro 2008, Silva et al. 
 2014, Breitenbach et al. 2015). Spiders of this family prefer the interior of the forest 
 according to Gonçalves-Souza (2008), corroborating with the obtained data in this study. 
 The greater number of individuals collected in DA in the hot and humid seasons of the 
 year, may be associated with the search for climate protection provided by the leaf density 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+9 
+ 
 of H. coronarium, which provides a cooler microenvironment, but further studies are 
 needed to test this hypothesis. 
-
-Corinnidae are, in general, larger than the Linyphiidae and have a glossy black 
+ Corinnidae are, in general, larger than the Linyphiidae and have a glossy black 
 color, which leaves them visibly more exposed to predators. It is possible that these 
 spiders avoid FA to seek refuge in environments with greater leaf density that provide 
 greater protection against predators, as pointed out by Dinniz (2011). Another influencing 
 factor is the preference of this family for moist environments (Patucci 2018) and H. 
 coronarium can accumulate a small amount of water in some parts of the plant. 
-
 Spider families can be divided into five behavioral guilds according to Diniz 
 (2011). The collections of this study indicated that the most frequent families belong to 
 the Builders of Three –dimensional Web (TDW) represented by Linyphiidae and 
@@ -247,7 +325,8 @@ data obtained for Theridiidae need further studies to understand its dynamics. W
 guild spiders prefer environments with complex structure, probably due to the protection 
 against predators and parasites offered by the plant architecture (Diniz 2011) and the 
 higher occurrence of NC guild spiders found in AD, corroborates the literature. 
-
+ 
+Conclusion 
 This research indicated that Hedychium coronarium does not directly impact the 
 population dynamics of soil spider assemblages. Despite the significant differences, not 
 having been recovered in post-hoc, larger studies may point to impacts when studying 
@@ -259,8 +338,460 @@ preserved sites are necessary to complement the information available here, sinc
 are invasions of H. coronarium in many conservation units in Brazil and the 
 understanding of relationships like these can help in the protection of species, mainly 
 predatory arthropods such as spiders that are important controllers of insect populations. 
-
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+10 
+ 
+Acknowledgments 
 We thank Dr. Antonio Domingos Brescovit, curator of the do Laboratório de 
 Coleções Zoológicas (LCZ), for helping us with the identification and thank MSc. Rafael 
 Carlos Benetti Paredero, technician of the Laboratório de Coleções Zoológicas (LCZ), 
 for guide and make suggestions regarding the analysis. 
+ 
+Author Contributions 
+Giovanni Pupin: Contribution to data collection; contribution to data analysisand 
+interpretation; contribution to critical revision; contribution to manuscript preparation. 
+Zedenil Mendes: Contribution in the concept and design of the study; contribution to 
+data analysisand interpretation; contribution to critical revision, adding intellectual 
+contente; contribution to manuscript preparation. 
+ 
+Conflicts of interest 
+There is no conflict of interest. 
+ 
+Literature cited 
+Aguilar, P.G. 1988. Las arañas como controladoras de plagas insectiles en la agricultura 
+peruana. Revista Peruana de Entomologia 31(1): 1-8. 
+Amaral, M.C.E., Bittrich, V., Faria, A.D., Anderson, L.O. & Aona, L.Y.S. 2008. Guia 
+de Campo para plantas aquáticas e palustres do Estado de São Paulo. Holos Editora, 
+Ribeirão Preto, SP. 
+Breitenbach, S.E., Azevedo-Filho, W.S. & Ott, R. 2016. Araneofauna de solo associada 
+à cultura da videira no município de Veranópolis, Rio Grande do Sul-Brasil. Caderno 
+de Pesquisa 28(3): 22-33. 
+Bultman, T.L. & Dewitt, D.J. 2008. Effect of an invasive ground cover planton the 
+abundance and diversity of a forest floor spider assemblage. Biological Invasions 
+10(5): 749-756.  
+Carrara, M.L.T.S., Schutel, S. & Boer, N. 2012. Dermocosméticos a partir da flor da 
+planta Hedychium coronarium: uma tecnologia ecológica e socialmente sustentável. 
+Trabalhos técnicos do 3º Congresso Internacional de Tecnologias para o Meio 
+Ambiente. Bento Gonçalves. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+11 
+ 
+Castro, W.A.C., Moitas, M.L., Lobato, G.M., Cunha-Santino, M.B. & Matos, D.M.S. 
+2013. First record of herbivory of the invasive macrophyte Hedychium coronarium J. 
+König (Zingiberaceae). Biota Neotropica 13: 368-370. 
+Cardoso, P., Pekár, S., Jocqué, R. & Coddington, J.A. 2011. Global Patterns of Guild 
+Composition and Functional Diversity of Spiders. PLOS ONE, 6(6): e21710. 
+Colwell, R.K. 2013. EstimateS: Statistical estimation of species richness and shared 
+species from samples. Version 9. User’s Guide and application published at 
+purl.oclc.org/estimates. (access in 10-X-2017). 
+Correa, M.P. 1984. Dicionário das plantas úteis do Brasil e das exóticas cultivadas. 
+Instituto Brasileiro de Desenvolvimento Florestal, Rio de Janeiro. 
+Del-Rio, G.C. 2014. Distribuição, habitat e área de vida do bicudinho-do-brejo-paulista 
+(Formicivora paludicola). Tese de Doutorado, Universidade de São Paulo, São Paulo. 
+Diniz, S. 2011. Influência da complexidade arquitetural de ramos vegetativos na riqueza 
+e abundância de aranhas e outros artrópodes. Tese de Doutorado, Universidade 
+Estadual de Campinas, Campinas. 
+Ferreira, F.A., Pott, A., Pott, V.J., Latini, R.O. & Resende, D.C. 2016. Macrófitas 
+Aquáticas. In: A.O. Latini, D.C. Resende, V.B. Pombo, & L. Coradin (eds.). Espécies 
+exóticas invasoras de águas continentais no Brasil. Ministério do Meio Ambiente, 
+Biodiversidade 39, Brasília, pp. 659-728. 
+Ferro, C.E. 2009. Diversidade de aranhas (Araneae) de solo de uma área de mata ciliar, 
+junto ao rio Ibicuí-Mirim em Itaara, Rio Grande do Sul, Brasil. Dissertação de 
+Mestrado, Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre. 
+Flora do Brasil. 2020. Jardim Botânico do Rio de Janeiro. Available at 
+http://floradobrasil.jbrj.gov.br/10-X-2017 (access in 03-XI-2017). 
+Flórez, E.D. 2000. Comunidades de arañas de la región pacífica del departamento del 
+Valle del Cauca, Colômbia. Revista Colombiana de Entomologia 26(3-4): 77-81. 
+Google 
+Earth. 
+2019. 
+Instituto 
+de 
+Botânica, 
+2019. 
+Available 
+at 
+https://earth.google.com/web (access in 13-XII-2019). 
+Gonçalves-Souza, T., Matallana, G. & Brescovit, A.D. 2008. Effects of habitat 
+fragmentation on the spider community (Arachnida, Araneae) in three Atlantic Forest 
+remnants in Southeastern Brazil. Revista Ibérica de Aracnología 16: 35-42. 
+Hammer, O.H., Harper, D.A.T. & Ryan, P.D. 2001. Paleontological Statistics software 
+package for education and data analysis. Paleontologia Electronica 4(1): 9. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+12 
+ 
+Helsen, K., Smith, S. W., Brunet, J., Cousins, S. A., Frenne, P., Kimberley, A., Kolb, 
+A., Lenoir, J., Ma, S., Michaelis, J. Plue, J., Verheyen, K., Speed, J.D.M. & 
+Graae, B. J. 2018. Impact of an invasive alien plant on litter decomposition along a 
+latitudinal gradient. Ecosphere, 9(1): 02097.10.1002/ecs2.2097. 
+Herrera, I., Goncalves, E.J., Pauchard, A. & Bustamante, R.O. 2016. Manual de 
+Plantas Invasoras de Sudamérica, Región de O’Higgins, Chile. Instituto de Ecología 
+y Biodiversidad, Malalcahuello. 
+Kissmann, K.G. & Groth, D. 1991. Plantas infestantes e nocivas. BASF, Tomo II. 798 
+p. São Paulo. 
+Latini, A.O., Resende, D.C., Pombo, V.B. & Coradin, L. 2016. Espécies exóticas 
+invasoras de águas continentais no Brasil. Ministério do Meio Ambiente, Brasília. 
+Lopes, J., Santos, F.P., Marçal, V.V.M., Nunes, M.P.B.P. & Catelli, L.L. 2008. 
+Araneofauna capturada na mata e área aberta adjacente, no norte do Paraná, Brasil. 
+Semina: Ciências Biológicas e da Saúde 29(1): 41-46. 
+Lorenzi, H. 2000. Plantas daninhas do Brasil: terrestres, aquáticas parasitas e tóxicas. 1 
+ed. Plantarum, Nova Odessa. 
+Maciel, L.A. 2011. Controle mecânico da herbácea exótica invasora lírio-do-brejo 
+(Hedychium coronarium Koenig) no Parque Estadual Turístico do Alto Ribeira-
+PETAR, SP. Tese de Doutorado, Universidade de São Paulo, São Paulo. 
+Mack, R.N., Simberloff, D., Lonsdale, W.M., Evans, H., Clout, M. & Bazzaz, F.A. 
+2000. Bioticinvasions: causes, epidemiology, global consequences, and control. 
+Ecological Applications 10(3): 689-710. 
+Martins, M.B.G., Caravante, A.L.C., Appezzato-Da-Glória, B., Soares, M.K.M., 
+Moreira, R.R.D. & Santos, L.E. 2010. Caracterização anatômica e fitoquímica de 
+folhas e rizomas de Hedychium coronarium J. König (Zingiberaceae). Revista 
+Brasileira de Plantas Medicinais 12(2): 179-187. 
+Melhem, T.S., Giulietti, A.M., Forero, E., Barroso, G.M., Silvestre, M.S.F., Jung, 
+S.L., Makino, H., Melo, M.M.R.F., Chiea, S.C., Wanderley, M.G.L., Kirizawa, 
+M. & Muniz, C. 1981. Planejamento para a elaboração da “Flora Fanerogâmica da 
+Reserva do Parque Estadual das Fontes do Ipiranga (São Paulo, Brasil)”. Hoehnea 9: 
+63-74. 
+Mgobozi, M.P., Somers, M.J. & Dippenaar-Schoeman, S. 2008. Spiders responses to 
+alien plant invasion: the effect of short- and long-term Chromolaena odorata invasion 
+and management. Journal of Applied Ecology 45(4): 1189-1197. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+13 
+ 
+Patucci, N.N., Oliveira Filho, L.C.I., Silva, C.B., Oliveira, D., Baretta, D., & 
+Brescovit, A.D. 2018. Bioindicadores Edáficos de Fragmentos Florestais Urbanos da 
+Cidade de São Paulo (SP). Revista do Departamento de Geografia 36: 77-90. 
+Petenon, D. & Pivello, V.R. 2008. Plantas invasoras: representatividade da pesquisa dos 
+países tropicais no contexto mundial. Natureza & Conservação 6(1): 65-77. 
+Pombo, V.B., Coradin, L., Silva, A.J.R. & Chapla, T.E. 2016. Políticas Públicas e a 
+Gestão de Espécies Exóticas Invasoras em Águas Continentais Brasileiras. In: A.O. 
+Latini, D.C. Resende, V.B. Pombo, & L. Coradin (eds.). Espécies exóticas invasoras 
+de águas continentais no Brasil. Ministério do Meio Ambiente, Brasília. 
+Primack, R.B. & Rodrigues, E. 2001. Biologia da Conservação. Planta, Londrina. 
+R Development Core Team. 2009. R: A language and environment for statistical 
+  computing. R Foundation for Statistical Computing, Vienna, Austria. ISBN 3-900051-
+07-0. Available at http://www.R-project.org (access in 14-XI-2021). 
+Robertson, M.P., Harris, K.R., Coetzee, J.A., Foxcroft, L.C., Dippenaar-Schoeman, 
+A.S. & Rensburg, B.J. 2011. Assessing local scale impacts of Opuntia stricta 
+(Cactaceae) invasion on beetle and spider diversity in Kruger National Park, South 
+Africa. African Zoology 46(2): 205-223. 
+Rodrigues S.D. & Lopes T.F. 2006. Biodiversity: A Contribution to the Study of 
+Medicinal Properties Hedychium coronarium Roscoe (Zingiberaceae) - distribution in 
+Atlantic Forest. Mundo da Saúde 30(4): 660-666. 
+Santos, S.B., Pedralli, G. & Meyer, S.T. 2005. Phenological and ecological a spects of 
+Hedychium coronarium (Zingiberaceae) at the Tripuí ecological station, Ouro Preto, 
+MG. Planta Daninha 23(2): 175-180. 
+Silva, A.G., dos Santos, M.R.A., Fernandes, C.D.F., Lima, R., & Facundo, V. 2006. 
+Atividade fungicida do óleo essencial de Hedychium coronarium J. Koening sobre 
+Thanatephorus cucumeris e Fusarium oxysporium in vitro. Anais do 39 Congresso 
+Brasileiro de Fitopatologia, Salvador. 
+Silva, L.V., Ribeiro, A.L.P. & Lucio, A.D.C. 2014. Diversidade de aranhas de solo em 
+cultivos de milho (Zea mays). Semina: Ciências Agrárias. 35(4): 2395-2404. 
+Ubick, D. & Cushing, P.E. 2005. Spiders of North America: an identification manual. 
+American Arachnological Society, New York. 
+Uetz, G.W. 1977. Coexistence in a guild of wandering spiders. Journal of Animal 
+Ecology, 46(2): 531-541. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+14 
+ 
+World Spider Catalog. 2021. World Spider Catalog. Version 22.0. Natural History 
+Museum Bern. Available at http://wsc.nmbe.ch (access in 12-VI-2021). 
+Ziller, S.R. 2001. Os processos de degradação ambiental originados por plantas exóticas 
+invasoras. Revista Ciência Hoje 30(178): 77-79. 
+ 
+Associate Editor: Renata Sebastiani 
+Received: 27/06/2020 
+Accepted: 02/02/2022 
+ 
+Table 1. Number of adult individuals collected by species of spider in three selected 
+treatments near Parque Estadual das Fontes do Ipiranga, São Paulo, São Paulo State, 
+Brazil. DA: dominated areas; IA: intermediate areas; FA: free areas. 
+Families / Species 
+DA 
+IA 
+FA 
+Corinnidae 
+ 
+ 
+ 
+        Corinna sp.1 
+ 
+1 
+ 
+        Corinna sp.2 
+ 
+1 
+ 
+        Ianduba varia (Keyserling, 1891) 
+5 
+1 
+ 
+Ctenidae 
+ 
+ 
+ 
+        Ctenus ornatus (Keyserling, 1877) 
+1 
+ 
+ 
+Idiopidae 
+ 
+ 
+ 
+        Idiops camelus (Mello-Leitão, 1937) 
+ 
+1 
+1 
+Linyphiidae 
+ 
+ 
+ 
+        Agyneta sp. 
+ 
+2 
+3 
+        Dubiaranea sp. 
+1 
+1 
+ 
+        Sphecozone sp. 
+1 
+1 
+ 
+Nemesiidae 
+ 
+ 
+ 
+        Rachias sp. 
+1 
+ 
+ 
+Pycnothelidae 
+ 
+ 
+ 
+        Acanthogonatus sp. 
+ 
+1 
+ 
+Salticidae 
+ 
+ 
+ 
+        Euophrys sp. 
+1 
+1 
+ 
+        Thiodina sp. 
+1 
+ 
+ 
+Theridiidae 
+ 
+ 
+ 
+        Chrysso sp. 
+2 
+ 
+ 
+        Cryptachaea sp. 
+ 
+ 
+1 
+        Dipoena pumicata (Keyserling, 1886) 
+ 
+1 
+ 
+        Euryopis sp. 
+1 
+1 
+ 
+        Theridion sp. 
+ 
+ 
+1 
+Theridiosomatidae 
+ 
+ 
+ 
+        Theridiosoma sp. 
+ 
+1 
+ 
+Xenoctenidae 
+ 
+ 
+ 
+        Odo sp. 
+ 
+1 
+ 
+Zodariidae 
+ 
+ 
+ 
+        Tenedos garoa Candiani, Bonaldo & Brescovit, 2008 
+ 
+1 
+ 
+TOTAL 
+14 
+15 
+6 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+15 
+ 
+ 
+ 
+Table 2. P-values of the Simpson Diversity t test, Tukey HSD test and the normality test 
+(W-test) for the assemblages of soil spiders in three treatments close to Garças lake in the 
+Parque Estadual das Fontes do Ipiranga, São Paulo, São Paulo State, Brazil. DA: 
+dominated areas; IA: intermediate areas; FA: free areas. 
+t test 
+Tukey HSD 
+W test 
+Compared areas 
+P value 
+Compared areas 
+P value 
+Areas 
+P value 
+DA and IA 
+0,71 
+DA and IA 
+0,90 
+FA 
+0,37 
+DA and FA 
+0,69 
+DA and FA 
+0,88 
+IA 
+0,15 
+FA and IA 
+0,35 
+FA and IA 
+0,65 
+DA 
+0,28 
+ 
+ 
+ 
+ 
+ 
+ 
+ Figure 1. Aerial view of the Parque Estadual das Fontes do Ipiranga and the trail (Dashed 
+Black) near the Garças lake (detail), São Paulo State, Brazil. Adapted from Google Earth 
+(2019). 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+16 
+ 
+ 
+Figure 2. General aspect of the sampling units of the three treatments performed on the 
+trail near the Parque Estadual das Fontes do Ipiranga, São Paulo, São Paulo State, Brazil. 
+a: area dominates for Hedychium coronarium. b: intermediate area. c: free area. d: view 
+of the fall trap. 
+ 
+ 
+ 
+Figure 3. Scheme of the distribution of the fall traps within a sample unit (on the left) and 
+their dimensions (on the right). 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+17 
+ 
+ 
+ 
+Figure 4. Cluster graph indicating the similarity between the assemblies of soil spiders, 
+considering the abundance of adult and young spiders collected in three selected 
+treatments close to the Parque Estadual das Fontes do Ipiranga, São Paulo, São Paulo 
+State, Brazil. DA: dominated areas. IA: intermediate areas. FA: free areas. (Phenetic 
+coefficient = 0,9493). 
+ 
+ 
+ 
+ 
+Figure 5. Curve of observed species and richness estimators of soil spider species 
+collected in Parque Estadual das Fontes do Ipiranga, São Paulo, São Paulo State, Brazil. 
+a: all treatments. b: Dominated area. c: Intermediate area. d: Free area. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+18 
+ 
+ 
+Figure 6. Number of individuals collected in three treatments close to Parque Estadual 
+das Fontes do Ipiranga, São Paulo, São Paulo State, Brazil. a: Number of individuals in 
+the Linyphiidae family. b: Number of individuals in the Corinnidae family. DA: 
+Dominated Areas. IA: Intermediate Areas. FA: Free Areas. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+ 
+19 
+ 
+CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE  PREPRINTS 
+DO SCIELO 
+ 
+ 
+ 
+Ao Comitê Editorial de HOEHNEA 
+ 
+ 
+Declaro, em meu próprio nome e nos dos demais Autores, que concordo com a 
+publicação do Artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Impact of 
+Hedychium coronarium J. König (Zingiberaceae) on the assembly of spiders in the 
+Parque Estadual das Fontes do Ipiranga” de autoria de Giovanni Balaton Pupin e 
+Zedenil Rodrigues Mendes, no Portal de Preprints do SciELO 
+Brasil 
+(https://preprints.scielo.org/index.php/scielo/preprints/section/biological). 
+Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi 
+ou não  está sendo considerado para publicação em outro periódico, quer seja no formato 
+impresso e/ou eletrônico. 
+ 
+São Paulo, 02 de fevereiro de 2022 
+ 
+ 
+ZEDENIL RODRIGUES MENDES 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-73/2020
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

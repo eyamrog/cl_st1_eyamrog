@@ -1,3 +1,28 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://journals.openedition.org/irpp/3001
+Beyond ordinary policy change: Authoritarian policy
+dismantling in Brazil
+Michelle Morais de Sa e Silva
+https://doi.org/10.1590/SciELOPreprints.2692
+Submitted on: 2021-08-07
+Posted on: 2021-08-26 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+1 
+  
+Beyond  ordinary  policy  change:  
+Authoritarian  policy  dismantling  in  Brazil1  
+  
+Michelle  Morais  de  Sá  e  Silva,  PhD  
+Assistant  Professor  of  International  and  Area  Studies  
+The  University  of  Oklahoma  
+Orcid:  https://orcid.org/0000-­0002-­5588-­9420  
+ 
+ 
+Abstract 
+ 
 From  a  normative  perspective,  policy  change  is  seen  as  crucial  to  improving  social  conditions,  
 reducing  inequality,  and  promoting  sustainability.  However,  what  about  change  that  implies  the  
 dismantling  of  previously  successful  policies?  How  can  one  differentiate  between  democratic  
@@ -10,7 +35,24 @@ federal  employees;  ii)  semi-­‐structured  interviews  with  civil  
 still  working  in  the  federal  government.  Research  findings  indicate  that,  in  Brazil,  policy  
 dismantling  is  no  ordinary  policy  change,  as  it  has  been  marked  by  authoritarian  dynamics  that  
 have  disarranged  the  federal  bureaucracy  and  eroded  state  capacity.  
-
+ 
+Key words 
+ 
+Policy dismantling; Brazil; Policy change; Comparative policy; Bureaucracy 
+ 
+ 
+                                                
+1 My deepest gratitude goes to Ana Laura Becker Aguiar and Carla Juliana Borges for their research assistance and 
+their utmost engagement and commitment to this research. I should also thank the Research Council and the College 
+of International Studies at the University of Oklahoma, which provided funding for this research. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+2 
+Introduction 
+ 
+  
 During  his  first  100  days  in  office,  Jair  Bolsonaro  issued  an  executive  order  that  became  
 famously  known  in  Brazil  as  “revogaço”,  the  massive  cancelation  of  250  executive  orders  that  
 had  been  issued  by  his  predecessors  dating  all  the  way  back  to  1901.2  During  the  first  24  hours  
@@ -21,7 +63,6 @@ democratic  process.  However,  when  one  looks  deep  into  the  curr
 the  level  and  nature  of  policy  dismantling  occurring  at  the  Brazilian  federal  government  set  the  
 country  apart  from  ordinary,  post-­‐election  policy  change  following  the  replacement  of  the  
 political  party  in  office.  
-
 From  a  normative  perspective,  policy  change  is  seen  as  crucial  to  improving  social  
 conditions,  reducing  inequality,  and  promoting  sustainability.  The  public  policy  literature  on  
 policy  change  is  extensive  and  has  provided  policy  scholars  with  multiple  conceptual  
@@ -29,13 +70,11 @@ frameworks  to  understand  the  mechanics  of  the  policy  change  pr
 literature,  Michael  Bauer  and  colleagues  have  addressed  a  specific  kind  of  policy  change,  which  
 they  have  termed  “policy  dismantling”.  It  is  defined  as  “the  cutting,  reduction,  diminution,  or  
 even  complete  reduction  of  existing  policies”  (Bauer  et  al.,  2012,  p.  v).    
-
 The  distinction  between  ordinary  policy  change  and  policy  dismantling  may  not  be  clear  
 to  some.  Is  policy  dismantling  simply  policy  change  that  usually  comes  after  a  new  
 administration  takes  office  and  sets  the  course  to  undo  the  works  of  a  predecessor?  Is  policy  
 dismantling  just  some  kind  of  undesirable  policy  change,  therefore  breaking  with  the  supposed  
 neutrality  of  the  “theories  of  the  policy  process”  (Sabatier  &  Weible,  2014)?    
-
 Based  on  the  case  of  Brazil  under  Bolsonaro,  this  paper  will  unveil  specific  features  that  
 may  set  policy  dismantling  apart  from  ordinary  policy  change.  In  Brazil,  policy  dismantling  has  
 been  marked  by  authoritarian  dynamics  that  have  disarranged  the  federal  bureaucracy.  The  
@@ -46,7 +85,6 @@ policies  and  in  the  erosion  of  policy  capacity  at  the  indivi
 2018).  Hence,  this  paper  responds  to  the  call  made  by  Bauer,  Peters  and  Pierre  (2021)  on  the  
 need  for  greater  analysis  of  the  relationship  between  populist  backsliders  and  the  public  
 bureaucracy  of  their  states.  
-
 The  paper  will  ask  the  question:  in  Brazil,  what  has  set  policy  dismantling  apart  from  
 ordinary  democratic  policy  change?  Even  though  the  answer  to  this  question  may  be  multifold,  
 the  research  herein  presented  will  take  the  reader  into  the  inner  workings  and  perspectives  of  
@@ -54,13 +92,18 @@ the  Brazilian  federal  bureaucracy,  indicating  that  policy  dismantl
 authoritarian  elements,  including  contempt  for  career  civil  servants,  fear,  harassment,  and  an  
 ensuing  process  of  ‘bureaucratic  reshuffling’,  whereby  bureaucrats  were  either  removed  from  
 their  original  positions  or  resorted  to  exit  in  fear  of  persecution.  
-
+                                                
+2 http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9757.htm  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+3 
 This  research  helps  expand  the  policy  dismantling  framework  by  identifying  aspects  that  
 are  particular  to  what  will  be  termed  authoritarian  policy  dismantling.  Different  from  the  subtle  
 nature  of  dismantling  by  default  that  had  been  identified  in  the  literature,  illiberal  populists  
 rather  adopt  an  upfront  and  deliberate  attack  on  the  resources  and  institutions  that  sustain  
 public  policies  and,  ultimately,  the  state.  
-
 This  is  a  mixed-­‐methods  research  project  initiated  in  the  Summer  of  2019,  six  months  
 after  the  inauguration  of  Jair  Bolsonaro  in  the  Brazilian  presidency.  Data  collection  covered  the  
 span  of  two  years  and  involved  a  snow-­‐ball  survey  with  337  former  and  current  federal  
@@ -69,14 +112,16 @@ Participants  were  asked  about  their  personal  trajectories  and  ca
 asked  directly  about  policy  dismantling.  Reported  data  represents  information  that  respondents  
 volunteered  to  the  interviewing  research  team.  Interviews  were  coded  and  analyzed  with  the  
 aid  of  the  NVivo  software.  
-
+  
+1.   Policy  change,  dismantling,  and  the  bureaucracy  
+  
 The  assumption  that  policy  change  is  always  needed  in  developing  countries  has  fallen  apart  in  
 places  where  far-­‐right  governments  have  praised  the  dismantling  of  previously  existing  
 progressive  policies.  This  phenomenon  has  not  been  exclusive  to  developing  countries.  It  has  
 ranged  from  immigration  policy  in  the  United  States  under  Trump;  to  criminal  and  drug  policy  in  
 the  Philippines  under  Duterte;  to  environmental,  social,  human  rights,  and  education  policies  in  
 Brazil  under  Bolsonaro.  
-
+  
 The  policy  dismantling  literature  took  root  much  before  illiberal  populists  became  a  
 notable  trend  in  world  politics.  The  collective  work  published  Michael  Bauer,  Andrew  Jordan,  
 Christoffer  Green-­‐Pendersen,  and  Adrienne  Héritier  in  2012  originates  in  social  policy  
@@ -85,25 +130,31 @@ by  it.  Their  collective  work  drew  from  Paul  Pierson’s  idea �
 (Bauer  et  al.,  2012).  In  that  point  in  time,  policy  dismantling  mostly  referred  to  the  extinction  or  
 reduction  of  policy  instruments  in  a  context  of  fiscal  constraints.  Pierson’s  own  original  work  
 was  dedicated  to  addressing  the  dismantling  of  the  welfare  state.    
-
+  
 Bauer  and  colleagues  understood  that  policy  dismantling  could  provide  a  useful  
 framework  for  dismantling  processes  outside  of  the  social  policy  field.  In  their  2012  book,  they  
 included  environmental  policy  besides  social  policy  to  test  their  proposed  framework.  They  
 define  policy  dismantling  as:    
-
+  
 “a  change  of  direct,  indirect,  hidden  or  symbolic  nature  that  either  diminishes  the  
 number  of  policies  in  a  particular  area,  reduces  the  number  of  policy  instruments  
 used  and/or  lowers  their  intensity.  It  can  involve  changes  to  these  core  elements  
 of  policy  and/or  it  can  be  achieved  by  manipulating  the  capacities  to  implement  
 and  supervise  them3”  (Bauer  et  al.,  2012,  p.  35).  
-
+  
+                                                
+3 Author’s emphasis.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+4 
 The  definition  encompasses  an  interesting  and  useful  distinction  between  different  
 types  of  policy  dismantling  strategies:  active  dismantling,  dismantling  by  default,  symbolic  
 dismantling,  and  dismantling  by  arena  shifting.  Additionally,  it  includes  the  possibility  that  
 dismantling  may  be  pursued  by  a  manipulation  of  the  capacities  for  policy  implementation.  All  
 of  these  elements  of  the  policy  dismantling  framework  are  not  only  useful  but  also  applicable  to  
 policy  dismantling  processes  underway  in  Bolsonaro’s  Brazil,  as  indicated  below.  
-
 The  framework,  as  it  was  originally  developed,  sought  to  resolve  an  apparent  
 contradiction  that  seemed  particularly  puzzling:  “why  might  rational,  utility  maximizing  
 politicians  whose  ultimate  goal  is  usually  to  ensure  their  own  re-­‐election,  deliberately  and  
@@ -113,7 +164,7 @@ contexts  of  fiscal  constraints,  might  actually  not  be  present  
 occurring  in  recent  examples  of  illiberal  populism.  Working  around  a  narrative  of  the  “deep  
 state”  (Abramson,  2017)  or  by  accusing  civil  servants  of  being  partisan,  illiberal  populists  openly  
 dismantle  previously  existing  policies  as  a  deliberate  strategy  to  please  their  electoral  bases.        
-
+  
 The  policy  dismantling  literature  has  recently  expanded  to  incorporate  analysis  of  policy  
 change  that,  rather  than  deriving  from  fiscal  and  neoliberal  cuts,  instead  emerges  from  the  
 dictations  of  illiberal  leaders.  In  a  recent  paper,  Bauer,  Peters  and  Pierre  (2021)  argue  that  
@@ -124,7 +175,7 @@ relevant  for  this  research,  is  defined  as  the  “ideological  c
 book,  Bauer  et  al.  (2021)  make  the  argument  that  democratic  backsliding  should  be  understood  
 not  only  from  the  perspective  of  the  political  or  the  judicial  system,  but  also  by  considering  how  
 it  affects  public  administration,  which  is  ultimately  responsible  for  implementing  public  policy.  
-
+  
 Bauer  &  Becker  (2020)  look  at  various  examples  of  how  populist  backsliders  have  dealt  
 with  public  administration.  They  look  at  the  examples  of  Hungary,  Peru,  the  United  States  and  
 Switzerland,  where  they  identify  the  following  takes  on  the  public  bureaucracy:  capture,  
@@ -134,7 +185,6 @@ robust).    When  the  populist  holds  a  negative  view  of  a  sta
 order,  dismantling  ensues.  The  authors  find  this  to  be  the  case  of  Peru  under  Fujimori.  This  
 article  will  present  data  indicating  that  this  is  also  the  case  of  Brazil  under  Bolsonaro,  along  the  
 lines  of  what  Sabourin  et  al.  (2020)  found  in  their  study  of  family  farming  policies.    
-
 The  conservative  discourse  built  around  public  service  portrays  the  bureaucracy  as  
 producing  too  little,  earning  too  much,  and  being  averse  to  change.  It  is  no  coincidence  that,  in  
 the  education  literature,  teachers  and  their  unions  are  often  identified  as  obstacles  to  
@@ -145,23 +195,26 @@ attitude  that  O’Leary  (2014)  called  'guerrilla  government'.  In �
 (2021)  take  on  the  charge  of  empirically  finding,  by  means  of  experimental  methods,  whether  
 civil  servants  in  Brazil  would  work,  shirk  or  use  sabotage  (Brehm  &  Gates,  1999)  when  told  to  
 carry  out  undemocratic  projects.  Their  research  involved  municipal  civil  servants  in  two  state  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+5 
 capitals  of  Brazil  and  indicated  that,  when  presented  with  hypothetical  undemocratic  projects,  
 bureaucrats  at  the  municipal  level  would  mostly  opt  for  shirking.    
-
 In  a  similar  fashion,  Morais  de  Sa  e  Silva  (forthcoming)  finds  that  South-­‐South  
 cooperation  projects  under  the  Bolsonaro  administration  were  being  dismantled  at  a  slower  
 pace  than  expected  due  to  bureaucratic  momentum.  Bureaucrats  at  various  agencies  continued  
 operating  South-­‐South  cooperation  projects  despite  the  government’s  reversal  of  the  previous  
 pro-­‐South  foreign  policy.  
-
 In  this  present  work,  an  expanded  understanding  of  Hirschman’s  organizational  triad  of  
 exit,  voice,  and  loyalty  (Hirschman,  1970)  will  be  used.  In  Hirschman’s  words:  
-
+  
 “Some  customers  stop  buying  the  firm’s  products  or  some  members  leave  the  
 organization:   this   is   the   exit   option.   As   a   result,   revenues   drop,   membership  
 declines,  and  management  is  impelled  to  search  for  ways  and  means  to  correct  
 whatever  fault  has  led  to  exit”  (Hirschman,  1970,  p.  4).  
-
+  
 The  inclusion  of  exit  as  a  possibility  of  action  may  seem  inconceivable  when  considering  
 public  employees  who  count  on  tenured  positions.  Nonetheless,  there  are  various  and  
 sometimes  subtle  exit  strategies  that  a  civil  servant  may  pursue:  seeking  transfer  to  a  different  
@@ -171,7 +224,6 @@ unpaid  leave;  and,  ultimately,  abandoning  civil  service  altogether
 think  of  public  employees  as  individuals  who  work  in  the  same  place,  at  the  same  desk,  for  their  
 entire  lives.  However,  at  least  in  the  case  of  the  Brazilian  federal  administration,  federal  careers  
 allow  for  some  degree  of  mobility  (although  some  are  recognizably  more  mobile  than  others).  
-
 Again,  when  looking  at  the  dismantling  of  family  farming  policies  in  Brazil  and  Argentina,  
 Sabourin  et  al.  (2020)  find  what  they  call  “bureaucratic  adaptation”  (p.  62).  According  to  them,  
 both  the  bureaucracy  and  civil  society  eventually  settle  and  bow  to  policy  dismantling  
@@ -181,7 +233,6 @@ who  have  resorted  to  exit  as  their  individual  strategy  to  es
 context.  As  argued  by  Levitsky  &  Ziblatt  (2018),  present-­‐day  autocratic  regimes  are  no  longer  
 the  result  of  coups  or  revolutions.  Instead,  they  are  built  through  the  permeation  of  the  very  
 institutions  that  were  meant  to  support  the  democratic  system.  
-
 Within  this  framework,  this  paper  adopts  the  following  specific  questions:  How  does  the  
 bureaucracy  react  to  an  administration  marked  by  illiberal  populism?  Do  their  reactions,  in  turn,  
 affect  policy  dismantling  processes?  How  does  the  bureaucracy  help  us  differentiate  between  
@@ -191,6 +242,14 @@ Peters  (2021)  found  in  their  experimental  study.  On  the  other 
 fear,  may  move  away  from  the  positions  and  institutions  where  dismantling  is  happening,  
 therefore  indirectly  opening  the  way  for  further  policy  dismantling  by  default.  In  the  latter  
 scenario,  the  state  is  left  both  with  dismantled  policies  and  reduced  state  capacity.  
+  
+2.   The  bureaucracy  under  Bolsonaro  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+6 
+  
 Brazil’s  federal  administration  has  a  professionalized  civil  service.  Some  institutions,  such  as  the  
 Ministry  of  Foreign  Affairs,  count  on  a  structured  and  well-­‐established  bureaucracy  that  has  
 been  selected  through  open  public  exams  since  the  1940s.4  Since  the  1988  Constitution,  public  
@@ -204,7 +263,7 @@ million  in  2018.  Although  the  number  of  civil  service  position
 its  cost  at  all  levels  (federal,  state,  and  municipal)  and  across  all  branches  (executive,  legislative,  
 and  judiciary)  increased  by  only  1  percentage  point  from  2004  to  2017—from  9.6%  to  10.5%  of  
 the  country’s  GDP.  
-
+  
 When  Bolsonaro  took  office  on  January  1st,  2019,  he  inherited  a  large,  professional,  and  
 well-­‐established  federal  machinery.  The  Brazilian  federal  state  had  been  capable  of  enacting  
 Bolsa  Familia,  the  world’s  largest  conditional  cash  transfer  program,  reaching  14  million  poor  
@@ -215,7 +274,7 @@ free  and  high-­‐quality  undergraduate  and  graduate  education.  T
 policies  is  quite  substantial  and  although  no  one  in  Brazil  would  claim  that  they  are  perfect,  
 many  of  those  were  successful  enough  to  attract  international  attention  and  serve  as  the  basis  
 for  experience-­‐sharing  with  other  countries  of  the  Global  South  (Porto  de  Oliveira,  2019).  
-
+  
 Different  from  the  Peru  example  of  dismantling  provided  by  Bauer  and  Becker  (2020),  in  
 which  a  populist’s  negative  view  of  the  state  meets  a  weak  administrative  order,  Bolsonaro  met  
 an  administrative  order  that  was  strong  and  well-­‐established.  On  the  one  hand,  like  Fujimori,  he  
@@ -225,12 +284,22 @@ adopted  an  ideological  agenda  that  collided  with  much  of  what 
 doing  when  it  came  to  public  policies:  environmental  protection,  social  inclusion,  racial  and  
 gender  equality,  and  science-­‐based  public  health.  Such  route  of  collision  produced  authoritarian  
 acts  and  processes,  meant  to  frighten,  intimidate,  and  alienate  the  bureaucracy.    
-
 The  section  below  explains  how  federal  employees  who  participated  in  this  research  
 explained  their  perceptions  and  career  decisions.  After  the  methods  section,  an  analytical  
 section  introduces  common  patterns  that  have  been  identified,  allowing  for  the  depiction  of  
 the  ongoing  process  of  authoritarian  policy  dismantling  in  Brazil.  
-
+  
+3.   Data  and  methods    
+  
+                                                
+4 http://www.institutoriobranco.itamaraty.gov.br/a-carreira-de-
+diplomata#:~:text=Em%20mar%C3%A7o%20de%201946%2C%20estabeleceu,para%20o%20acesso%20%C3%A0
+%20carreira.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+7 
 As  part  of  a  larger,  multi-­‐year  research  project,  current  and  former  federal  employees  
 participated  in  an  online  survey  and  in  a  1-­‐1.5  hour  semi-­‐structured  interview  conducted  via  
 Zoom.5  As  indicated  above,  the  survey  counted  on  337  respondents,  of  which  129  have  been  
@@ -243,20 +312,142 @@ questionnaire  was  piloted  during  the  Summer  of  2019  with  a  s
 servants  at  Brazil’s  National  School  of  Public  Administration  (ENAP).  The  initial  questionnaire  
 was  also  discussed  with  public  policy  professors  and  researchers  based  in  Brazil.  After  
 adjustments  were  made,  the  survey  was  widely  distributed.    
-
+  
 Even  though  this  was  not  a  representative  sample,  there  was  significant  diversity  in  
 terms  of  the  federal  careers  and  federal  institutions  represented  in  survey  responses.  The  
 following  tables  give  a  sense  of  such  representation.  In  both  tables,  there  is  a  good  number  of  
 respondents  in  the  “other”  category,  which  resulted  in  a  long  list  of  institutions  and  careers  that  
 respondents  typed  into  the  survey.  
-
+  
 Among  the  337  survey  respondents,  240  are  career  civil  servants.  About  half  of  those  
 are  concentrated  in  two  federal  careers:  Specialist  in  Public  Policy  and  Government  
 Management  (EPPG)  and  Technical  Analyst  of  Social  Policy  (ATPS).  The  concentration  of  
 respondents  in  those  two  careers  may  help  explain,  as  discussed  later  in  the  article,  the  
 recourse  to  exit,  as  both  careers,  especially  the  former,  allow  their  members  to  move  between  
 federal  institutions.    
-
+  
+Table  1.  Respondents’  current  and  former  work  institutions6  
+  
+#  
+Answer  
+%  
+Count  
+1  
+Center  of  Government  (Casa  Civil)  
+6.20%  
+37  
+2  
+Presidency’s  General  Secretariat  
+3.69%  
+22  
+3  
+Ministry  of  Citizenship  (formerly  Ministry  of  Social  Development)  
+10.22%  
+61  
+4  
+Ministry  of  Women,  Family,  and  Human  Rights    
+8.21%  
+49  
+5  
+Ministry  of  the  Economy  
+12.06%  
+72  
+6  
+Ministry  of  Foreign  Affairs  
+3.52%  
+21  
+7  
+Ministry  of  Education  
+11.89%  
+71  
+8  
+Ministry  of  Health  
+10.22%  
+61  
+                                                
+5 Research approved on May 14th, 2019, under IRB number 10522. 
+6 One or more options could be selected. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+8 
+10  
+Other  
+22.61%  
+135  
+11  
+Ministry  of  Justice  
+8.54%  
+51  
+12  
+Ministry  of  Science,  Technology,  Innovations,  and  Communication  
+2.85%  
+17  
+  
+Total  
+100%  
+597  
+  
+Table  2.  Respondents’  federal  careers7  
+  
+#  
+Answer  
+%  
+Count  
+1  
+Specialist  in  Public  Policy  and  Government  Management  
+26.25%  
+63  
+2  
+Attorney  General’s  Office  
+1.25%  
+3  
+3  
+Diplomat  
+6.67%  
+16  
+4  
+Consular  official  
+0.00%  
+0  
+5  
+Technical  Analyst  of  Social  Policy  
+28.33%  
+68  
+6  
+Planning  and  Budget  Analyst  
+2.08%  
+5  
+7  
+Foreign  Commerce  Analyst  
+0.42%  
+1  
+8  
+Finance  and  Accounting  Analyst  
+3.75%  
+9  
+9  
+Other  
+28.75%  
+69  
+10  
+Public  Defender’s  Office  
+0.00%  
+0  
+11  
+Career  in  the  Judiciary  
+1.67%  
+4  
+12  
+Career  in  the  Legislature  
+0.83%  
+2  
+  
+Total  
+100%  
+240  
+  
 Survey  respondents  were  asked  to  provide  their  email  address  if  they  agreed  to  be  
 contacted  for  a  follow-­‐up  interview.  Interviews  were  conducted  during  the  Spring  of  2021,  
 therefore  over  two  years  after  Bolsonaro  had  taken  office.  The  interviews  were  particularly  
@@ -266,7 +457,13 @@ that  their  identities  would  not  be  revealed.  This  led  the  re
 precautions  to  erase  identifiable  information  in  all  data  sources.  Some  interviewees  would  
 open  up  only  at  the  end  of  the  interview  and  after  the  structured  questions  had  been  asked,  
 only  then  disclosing  their  perceptions  and  revealing  current  challenges.  
-
+                                                
+7 Respondents who had worked in the federal government only as political appointees were not asked this question. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+9 
 Unfortunately,  it  was  not  uncommon  for  interviewees  to  become  emotional  throughout  
 the  interview  process,  either  in  talking  about  the  current  situation  or  in  reflecting  upon  their  
 work  experiences.  This  situation  prompted  the  research  team  to  add  a  new  question  at  the  end  
@@ -274,7 +471,6 @@ of  the  interview  questionnaire,  asking  participants  to  think  of 
 they  would  like  to  pursue.  This  strategy  was  sought  in  order  to  end  the  interview  on  a  positive  
 and  hopeful  note,  therefore  minimizing  the  negative  psychological  effect  the  interview  process  
 was  observably  having  on  participants.  
-
 Interviews  were  analyzed  using  the  NVivo  software,  which  allows  for  coding  and  text  
 queries.  It  is  important  to  highlight  that  the  terms  used  in  the  text  queries  and  coding  process  
 were  not  the  direct  subject  of  specific  interview  questions.  Instead,  coded  themes  were  
@@ -284,7 +480,9 @@ approach  (Charmaz,  2006).  Even  though  not  all  interviews  have  
 notes  taken  by  the  interviewers  were  used  in  the  analysis  when  the  full  transcription  was  not  
 available.  Direct  quotes  reported  in  the  paper  are  from  the  41  transcribed  interviews.  Quotes  
 have  been  translated  by  the  author  from  Portuguese  to  English.  
-
+  
+4.   Analysis:  authoritarian  policy  dismantling    
+  
 Elite  Squad  is  one  of  the  Brazilian  movies  that  made  it  to  international  movie  theaters  in  the  
 late  2000s.  It  presents  the  story  of  Capitain  Nascimento,  the  leader  of  an  elite  squad  in  Rio  de  
 Janeiro,  tasked  with  combating  crime  at  any  cost.  In  an  infamous  line  and  scene,  Nascimento  
@@ -295,11 +493,14 @@ scene  has  become  a  meme  for  any  situation  in  which  someone �
 is  the  individual’s  choice.  In  practice,  it  was  coercion  and  violence  that  forced  him/her  to  leave.  
 Violent  trainings  at  military  and  police  academies  are  one  of  the  many  enduring  legacies  of  
 Brazil’s  many  years  of  military  dictatorship  (1964  –  1985).  
-
+  
 As  the  data  indicates  below,  the  mechanics  of  policy  dismantling  occurring  in  Brazil  has  
 involved  the  dismantling  of  the  bureaucracy,  as  many  individuals  have  reported  situations  that,  
 directly  or  indirectly,  materialized  in  their  own  “pede  pra  sair”.  
-
+  
+4.1.  
+  Exit  and  invisibility    
+  
 When  President  Rousseff  was  impeached  in  2016  and  replaced  by  her  Vice-­‐President  Michel  
 Temer,  it  was  common  to  hear  among  the  federal  bureaucracy  that  they  would  resist  policy  
 dismantling8.  In  fact  some  did,  possibly  with  the  help  of  a  broader  political  context  that  limited  
@@ -307,6 +508,13 @@ Temer’s  reach.  Having  become  President  under  questionable  circum
 2.5  years  in  government  on  two  main  agendas:  Labor  Reform  and  Pension  Reform.  He  
 succeeded  in  the  former  and  failed  in  the  latter.  Everything  else  was  not  central  to  Temer’s  
 commitment  to  the  economic  powers  that  rose  him  to  office.  The  bureaucracy  could,  in  some  
+                                                
+8 Participant observation. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+10 
 sectors,  continue  policy  as  usual.  In  human  rights,  for  instance,  Temer  appointed  a  highly  
 respected  scholar,  Flavia  Piovesan.  She  was  able,  among  other  achievements,  to  raise  the  
 institutional  status  of  the  department  of  LGBTQ  rights  at  the  Ministry  of  Human  Rights.  In  
@@ -314,7 +522,7 @@ foreign  policy,  Temer  sustained  his  predecessor’s  foreign  policy
 OECD,  and  even  sustained  previous  levels  of  South-­‐South  cooperation  projects  (Marcondes  &  
 Mawdsley,  2017),  as  a  result  of  what  I  have  called  ‘bureaucratic  momentum’  (Morais  de  Sa  e  
 Silva,  forthcoming).  
-
+  
 After  the  impeachment  process,  which  many  have  called  a  coup,  various  federal  
 employees  decided  to  either  leave  the  federal  service  or  to  move  to  a  different  institution.  The  
 reason  given  by  some  was  that  they  were  not  willing  to  collaborate  with  what  they  perceived  to  
@@ -322,34 +530,83 @@ be  an  illegitimate  government.  Others  conversely  decided  to  rema
 to  make  sure  they  would  provide  continuity  to  the  policies  they  were  working  with.  As  the  data  
 below  indicates,  only  29%  of  all  respondents  remained  in  the  same  positions  and  institutions  
 between  the  impeachment  process  in  2016  and  the  2018  elections.  
-
+  
+  
+Table  3.  Career  decisions  between  the  2016  impeachment  and  the  2018  elections9  
+  
+#  
+Answer  
+%  
+Count  
+1  
+I  remained  in  the  same  position  and  institution  
+29.04%  
+106  
+2  
+I  had  my  position  terminated  
+7.67%  
+28  
+3  
+I  asked  to  have  my  position  terminated  
+10.68%  
+39  
+4  
+I  changed  teams  but  remained  in  the  same  institution  
+16.44%  
+60  
+5  
+I  moved  to  another  institution  
+16.99%  
+62  
+6  
+I  took  a  leave  to  study  
+7.67%  
+28  
+7  
+Other  
+11.51%  
+42  
+  
+Total  
+100%  
+365  
+  
 This  was  the  beginning  of  a  process  of  ‘bureaucratic  reshuffling’,  in  which  the  
 bureaucracy  is  either  purposively  moved  around  or  bureaucrats  opt  to  leave  their  positions.  The  
 following  quote  reflects  how  this  is  not  simply  the  result  of  individual  choices  and  preferences,  
 but  also  reflects  a  collective  process,  a  shared  perception  of  how  the  political  context  has  
 become  dangerous  or  inappropriate  for  work.  
-
+  
 “Several  of  our  colleagues  at  the  Ministry  of  A10  did  what  they  could  to  move  a  lot  
 of  people,  right  after  the  [2016]  coup,  because  they  knew  those  people  would  be  
+                                                
+9 Respondents were allowed to choose more than one option. 
+10 All identifiable information has been removed, including the names of institutions and pubic policies. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+11 
 persecuted.  Many  of  us  threw  those  ‘life  saver  floats’  to  rescue  people”  (interview  
 04).  
-
+  
+  
 The  feeling  of  discomfort  and  uneasiness  that  led  many  to  leave  their  original  positions  
 after  the  2016  impeachment  was  expressed  by  several  respondents  as  reproduced  below.  The  
 quotes  point  to  an  interesting  combination  of  two  elements,  which  also  appear  connected  in  
 processes  occurring  in  the  Bolsonaro  administration:  many  of  those  who  seek  to  leave  their  
 original  positions  and  institutions  look  for  new  places  where  they  can  do  invisible  work,  which  is  
 thought  to  grant  them  some  degree  of  protection.  
-
+  
 “I  suffered  a  lot  of  persecution  at  that  time  and  I  got  really  upset.  They  offered  
 me  a  political  appointment  at  the  Ministry  of  A.  I  did  not  want  that  position.  I  
 wanted  to  be  left  alone.  I  do  not  want  to  step  foot  at  B,  I  do  not  want  to  monitor  
 any  policy  anymore”  (interview  104).  
-
+  
 “[I  moved  to  a  place  where]  I  basically  worked  with  human  resources  issues  that  
 would  come  up,  decisions  on  the  training  of  civil  servants,  you  know?  Very  
 bureaucratic  and  administrative  issues,  you  know?”  (interview  9).  
-
+  
 As  the  table  below  indicates,  the  reshuffling  continued  in  the  Bolsonaro  administration,  
 with  only  30.97%  of  respondents  reporting  to  have  remained  in  the  same  position  and  
 institution  since  the  2018  elections.  Exit  took  many  forms:  for  some  it  meant  moving  to  a  
@@ -358,9 +615,56 @@ took  the  form  of  a  temporary  leave  to  study.  Others  took  m
 be  transferred  to  a  different  agency  or  to  a  different  city.  There  were  also  a  few  extreme  cases  
 of  individuals  asking  for  unpaid  leave  to  work  outside  of  the  public  sector  or  in  a  different  
 country.  
-
+  
+Table  4.  Career  decisions  after  the  2018  elections11  
+  
+#  
+Answer  
+%  
+Count  
+1  
+I  remained  in  the  same  position  and  institution  
+30.97%  
+105  
+2  
+I  had  my  position  terminated  
+7.08%  
+24  
+3  
+I  asked  to  have  my  position  terminated  
+8.85%  
+30  
+4  
+I  changed  teams  but  remained  in  the  same  institution  
+13.57%  
+46  
+5  
+I  moved  to  another  institution  
+15.04%  
+51  
+6  
+I  took  a  leave  to  study  
+8.55%  
+29  
+                                                
+11 Respondents were allowed to choose more than one option. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+12 
+7  
+Other  
+15.93%  
+54  
+  
+Total  
+100%  
+339  
+  
+  
 The  ideas  of  exit  and  invisibility  are  now  also  strongly  related  to  survival:  
-
+  
 “All  civil  servants  [of  my  former  department]  left  and  went  to  other  departments.  
 I  negotiated  my  transfer  to  another  area,  which  did  not  work  with  a  topic  of  my  
 personal  interest,  but  that  is  what  was  possible  at  that  time.  (…)  You  keep  trying  
@@ -368,12 +672,12 @@ to  find  a  place  where  it  is  possible  to  survive,  right?  Th
 (...)  So  I  think  my  decision  to  move  had  to  do  with  that:  a  search  for  a  place  where  
 it  is  possible  to  work  with  some  sense  of  dignity,  that  is  the  bottom  line”  (interview  
 8).  
-
+  
 “The  simple  fact  of  not  being  in  Brasilia  allows  me  to  work  in  peace.  So  I  am  not  
 under  all  the  pressure,  but  I  think  those  who  are  in  Brasilia  and  who  work  with  
 human  rights  policies  are  suffering  much  more,  because  they  are  tied  and  they  
 cannot  work”  (interview  21).  
-
+  
 “Among  colleagues  of  my  time  there,  everyone  has  left.  Everyone  has  left.  Of  my  
 former  team,  only  one  stayed  [in  the  agency],  but  he  changed  programs  and  
 went  to  work  with  policy  A.  He  left  the  B  program  and  ran  away  to  the  A  
@@ -381,36 +685,44 @@ program.  He  says:  ‘here  I  am  quiet’.  So  he  is  a  bit  
 away  to  the  Institute  C,  another  one  went  to  Institute  D.  So  everyone  is  now  
 scattered  around  different  agencies.  But  everyone  is  quiet.  Everyone  is  quiet  and  
 doing  their  countdown  to  retire,  quiet.  Nobody  says  anything”  (interview  30).  
-
+  
 Various  respondents  justified  their  decisions  to  exit  on  the  basis  of  dismantling  
 processes  that  they  saw  occurring  in  their  agencies  and  which  they  could  not  stand  to  bear  
 witness.  Interestingly  and  unfortunately,  it  created  a  vicious  cycle  in  which  policy  dismantling  
 led  the  bureaucracy  to  exit,  therefore  creating  conditions  for  more  dismantling.    
-
+  
 “After  a  year  of  organizing  activities  for  the  Conference  on  E,  I  realized  that  I  had  
 to  leave  Ministry  E,  because  I  was  not  standing  the  dismantling  of  various  things  
 we  had  built  in  previous  years.  There  was  something  very  depressive  happening  
 there”  (interview  14).  
-
+  
 “I  left  the  execution,  the  implementation  of  public  policies,  right?  In  the  past,  I  
 worked  with  conceiving,  designing  F  policies.  Nowadays  I  do  not  see  room  for  
 that,  it  is  not  viable.  Someone  like  myself  is  out,  is  not  allowed  into  the  Ministry  
 F.  (…)  It  is  another  kind  of  approach.  So  now  I  do  G,  which  is  a  backstage  kind  of  
 work,  a  field  that  does  not  make  things  happen  immediately.    It  is  work  in  the  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+13 
 backstage,  taking  notes,  building  memory  of  the  reversals  that  are  happening”  
 (interviewee  16).  
-
+  
 “In  a  context  in  which  the  agendas  for  which  I  used  to  work  are  being  weakened,  
 the  decision  to  leave  [the  government  and  the  country]  was  an  easy  decision.  (…)  
 Nowadays,  to  return  to  Brazil  is  not  an  option.  To  return  to  the  government  is  
 not  an  option”  (interview  23).  
-
+  
 Besides  seeking  invisibility  and  trying  to  escape  contexts  of  dismantling,  research  participants  
 also  expressed  the  perception  that  the  Bolsonaro  government  nurtures  mistrust  and  contempt  
 for  civil  servants.  The  following  section  is  based  on  those  expressed  perceptions  and  on  
 reported  cases  of  mass  removals  of  civil  servants  and  of  institutional  dismantling  that  
 eventually  led  to  decision-­‐making  paralysis.  
-
+  
+4.2.  
+  Mass  removal,  institutional  dismantling,  and  paralysis    
+  
 When  a  democratic  pluralist  leader  takes  office,  changes  in  high  cabinet  positions  are  
 natural  and  expected.  Changes  in  mid-­‐level  positions  may  also  occur  and  some  institutional  
 reforms  may  be  undertaken  in  order  to  realize  the  vision  of  the  elected  leadership.  In  the  case  
@@ -419,31 +731,34 @@ which  was  considered  “leftist”,  “communist”  or  “petista”
 Bolsonaro  promised  to  “despetizar”  the  federal  government,  which  meant  that  he  would  get  rid  
 of  those  in  the  government  he  thought  to  be  Workers  Party  affiliates.  As  a  matter  of  fact,  
 during  a  2018  campaign  rally,  Bolsonaro  promised  to  shoot  all  PT  supporters.  
-
 On  his  third  day  in  office,  3,500  people  were  dismissed  of  their  federal  appointments  
 (Batista,  2019).  For  those  who  were  not  civil  servants,  this  meant  having  to  leave  the  
 government.  For  civil  servants,  the  termination  of  their  appointments  meant  that  they  were  no  
 longer  in  senior  positions.  Note  that,  by  the  time  Bolsonaro  took  office  in  2019,  it  had  been  two  
 and  a  half  years  since  the  PT  government  had  ended  and  a  lot  of  bureaucratic  reshuffling  had  
 already  occurred,  as  indicated  above.  
-
 Also  on  January  3rd,  2019,  Onyx  Lorenzoni,  who  had  just  taken  office  as  Minister  of  the  
 Center  of  Government  (Casa  Civil),  tweeted:  “We  will  fire  all  political  appointments  working  at  
 Casa  Civil.  We  have  to  have  people  who  are  committed  to  what  we  represent”12.  The  mass  lay-­‐
 offs  on  the  third  day  of  the  administration  were  symptomatic  of  the  assumption  that  no  one  
 previously  working  at  the  federal  government  might  be  possibly  committed    to  ‘what  the  new  
 administration  represented’.    
-
 On  the  same  day,  the  Presidency’s  official  tweeter  account  (@planalto)  tagged  
 Lorenzoni  and  announced:  “We  will  review  issues  related  to  [participatory]  Councils.  On  the  
 executive  order,  Conselhão  [Economic  and  Social  Development  Council]  has  already  been  
 extinguished.  We  will  do  a  detailed  review  (pente  fino)  of  all  the  councils  within  federal  
 administration”.  In  Brazilian  Portuguese,  the  image  of  “pente  fino”,  a  thin  comb,  signifies  a  strict  
 process  of  scrutiny  meant  to  detect  parasites.  
-
+                                                
+12 Author’s translation. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+14 
 This  massive  removal  process,  along  with  abrupt  changes  in  ministerial  structures,  left  
 numerous  policies  in  a  limbo,  as  recounted  by  an  interviewee:  
-
+  
 “I  worked  in  this  sector  until  the  beginning  of  2019.  Precisely  until  January  2019,  
 when  Secretariat  H  was  extinguished.  The  General  Coordination  where  I  worked  
 from  2006  to  2016  and,  in  fact,  the  whole  Department  were  extinguished  at  that  
@@ -452,14 +767,14 @@ department  for  J  policies  was  also  extinguished.  Those  policies 
 for  a  long  time,  for  the  entire  year  of  2019.  They  were  in  a  limbo!  They  formally  
 still  existed,  but  in  practice  there  was  no  specific  sector  responsible  for  them”  
 (interview  47).  
-
+  
 The  removal  process  did  not  stop  in  the  early  months  of  the  Bolsonaro  government.  As  
 explained  by  an  interviewee,  every  new  appointment  goes  through  a  ‘background  check’  at  the  
 presidency,  which  is  now  meant  to  verify  not  only  if  an  individual  is  a  PT  supporter,  but  also  if  
 he/she  had  a  political  appointment  during  any  of  the  previous  governments.  Interviewees  
 expressed  perceptions  of  an  environment  of  generalized  mistrust  and  contempt  for  civil  
 servants.  
-
+  
 “My  view,  which  proved  to  be  wrong,  was  that  the  Bolsonaro  government  would  
 slam  the  door  and  chop  off  heads  right  away.  This  did  not  happen,  my  forecast  
 was   wrong.   In   fact,   they   did   the   opposite,   they   slowly   controlled   the   state  
@@ -470,21 +785,26 @@ were,  because  of  the  positions  they  had  occupied  in  previous �
 There   are   military   officers   at   the   Cabinet   for   Institutional   Security   (GSI)   who  
 investigate  people’s  social  network  accounts.  If  anyone  says  anything  that  seems  
 left-­‐leaning,  they  do  not  approve  their  appointments”  (interview  04).  
-
+  
 “There  was  some  nasty  political  persecution  at  the  Ministry  of  I,  of  civil  servants  
 who  were  ostracized  because  they  were  thought  to  be  linked  to  political  parties.  
 All  these  changes  happened  because  all  civil  servants  were  seen  with  distrust.  I  
 had  to  earn  the  trust  of  those  who  arrived,  to  convince  them  I  wanted  to  do  a  good  
 job  and  that  I  was  not  there  to  sabotage  what  was  being  done”  (interview  47).  
-
+  
 The  rationale  for  new  appointments  has  not  been  technical  or  less  political,  despite  the  
 President’s  claims  about  him  representing  a  new  era  in  the  federal  government.    
-
+  
 “In   fact,   there   was   much   dismantling   there   [the   Institute   for   K]   during   the  
 Bolsonaro  administration.  I  should  not  say  there  was,  because  it  is  still  occurring.  
 They  started  replacing  superintendents  that  had  been  very  important,  people  with  
 30,   40   years   of   dedication   to   policy   K,   high-­‐level   individuals.   They   have   been  
 replaced  by  movie-­‐makers,  friends  of  members  of  Congress,  etc.  Various  directors  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+15 
 have  been  fired  in  recent  months  (…)  It  is  widespread  and  objective  dismantling  
 and  it  is  not  just  my  opinion,  people  are  being  replaced  by  anyone,  you  see?  At  all  
 levels.  (…)  It  is  a  kind  of  change  without  any  project,  that  is  what  bothers  me  the  
@@ -492,61 +812,171 @@ most.  If  you  have  a  project  that  indeed  won  the  elections  
 the  situation,  that  is  normal,  there  is  no  problem.  This  is  politics,  let’s  discuss  it.  
 But  no,  there  is  no  project,  the  project  is  to  dismantle  what  has  been  done  and  
 this  is  very  evident  in  what  has  been  happening  at  Institute  K”  (interviewee  35).  
-
+  
 The  idea  of  purposeful  destruction  of  the  state  is  present  in  other  interviews,  along  with  
 decision-­‐making  paralysis.  
-
+  
 “I  think  there  is  an  explicit  project  to  destruct  the  state,  which  is  compatible  with  
 the  authoritarian  State  that  is  intended.  (…)  In  some  fields,  the  laws  are  not  being  
 formally  struck  down,  but  there  is  an  internal  destruction  of  processes  that,  in  
 turn,  is  destroying  rights  in  a  way  that  we  do  not  know  how  to  reverse”  (interview  
 41).  
-
+  
 “We  see  a  lot  of  paralysis.  The  Minister  is  a  church  pastor.  A  pastor  who  had  no  
 past  career  in  the  field  of  I.  He  was  supposedly  linked  to  a  University,  but  he  was  
 just  a  professor  there,  he  was  not  part  of  the  University’s  administration.  He  was  
 a   church   pastor.   (…)   So   it   is   a   policy   of   dismantling,   of   not   doing   anything”  
 (interview  58).  
-
+  
 The  cabinet  composition  of  the  Bolsonaro  administration  has  been  marked  by  highly  
 controversial  figures  who  represent  his  extreme-­‐right  ideological  stances  both  on  social  media  
 and  in  their  official  duties.  Among  those  were/are:  
-
-- Ricardo  Salles,  Minister  of  the  Environment,  who  has  suggested  that  the  government  
+-­‐  
+Ricardo  Salles,  Minister  of  the  Environment,  who  has  suggested  that  the  government  
 should  take  advantage  of  the  pandemic  to  pass  environmental  deregulation;  
-
-- Damares  Alves,  Minister  of  Women,  Family  and  Human  Rights,  who  defends  that  
+-­‐  
+Damares  Alves,  Minister  of  Women,  Family  and  Human  Rights,  who  defends  that  
 girls  should  wear  pink  and  boys  should  wear  blue;  
-
-- Abraham  Weintraub,  former  Minister  of  Education,  who  cut  funding  to  all  federal  
+-­‐  
+Abraham  Weintraub,  former  Minister  of  Education,  who  cut  funding  to  all  federal  
 universities  in  reprisal  for  critiques  to  the  Bolsonaro  administration;  
-
-- Ernesto  Araújo,  former  Minister  of  Foreign  Affairs,  who  subscribes  to  the  theory  of  
+-­‐  
+Ernesto  Araújo,  former  Minister  of  Foreign  Affairs,  who  subscribes  to  the  theory  of  
 ‘globalism’  and  sees  a  global  plot  to  destruct  the  Christian  world;  
-
-- Felipe  G  Martins,  International  Relations  Special  Advisor  to  the  President,  who  was  
+-­‐  
+Felipe  G  Martins,  International  Relations  Special  Advisor  to  the  President,  who  was  
 caught  on  live  video  making  a  white  supremacy  hand  gesture;  
-
-- Paulo  Guedes,  Minister  of  the  Economy,  who  alluded  to  civil  servants  as  being  ‘the  
+-­‐  
+Paulo  Guedes,  Minister  of  the  Economy,  who  alluded  to  civil  servants  as  being  ‘the  
 enemy’  in  a  cabinet  meeting  in  April  2019.    
-
+  
 With  time,  some  of  the  controversial  ministers  were  replaced  by  either  more  moderate  and  
 unknown  figures  or  by  military  officers.  Nozaki  (2021,  p.  10)  notes  the  substantial  increase  in  the  
 number  of  military  officers  occupying  political  appointments  in  the  Bolsonaro  government,  from  
 2,765  in  the  last  year  of  the  Temer  administration  to  6,157  in  2020  under  Bolsonaro.  At  the  time  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+16 
 of  the  study,  there  were  ten  military  Ministers.  Nozaki  (2021)  calls  it  “the  militarization  of  public  
 administration  in  Brazil”  .  
-
+  
+4.3.  
+Intimidation  and  fear  
+  
 The  table  below  represents  the  frequency  of  some  terms  when  interviewees  were  asked  about  
 their  current  careers  paths.  The  numbers  are  illustrative  of  how  present  some  issues  have  been  
 in  the  experience  of  some  civil  servants,  such  as  dismantling,  fear,  persecution,  suffering,  leaves  
 of  absence  and  firings  (“exonerações”).  
-
+  
+Table  5.  Text  queries  of  interviews  
+  
+  
+Transcribed  interviews  (41)  
+All  interview  notes  (129)  
+Codes  
+Number  of  
+times  term  is  
+used  in  
+interviews  
+Number  of  
+interviews  in  
+which  term  is  
+mentioned  
+Number  of  
+times  term  is  
+used  in  
+interviews  
+Number  of  
+interviews  in  
+which  term  is  
+mentioned  
+Authoritarian    
+3  
+3  
+12  
+12  
+Destruction    
+13  
+7  
+13  
+8  
+Discomfort    
+3  
+2  
+5  
+5  
+Dismantling    
+39  
+13  
+44  
+25  
+Fear    
+49  
+19  
+70  
+41  
+Harassment    
+20  
+8  
+26  
+14  
+Leave  of  absence  
+77  
+21  
+94  
+50  
+PAD  (disciplinary  
+inquiry)  
+3  
+2  
+11  
+7  
+Persecute/  
+persecution    
+34  
+33  
+50  
+39  
+To  embarrass  -­‐    
+12  
+9  
+11  
+6  
+To  fire    
+41  
+12  
+58  
+28  
+To  suffer    
+39  
+17  
+50  
+31  
+Tough_Heavy  
+(pesado)    
+17  
+10  
+16  
+10  
+Worry  
+10  
+5  
+12  
+8  
+  
+  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+17 
 Fear  and  worry  are  common  elements  in  many  interviews.  They  are  expressed  either  as  
 a  direct  consequence  of  an  experience  lived  by  the  research  participant  or  as  a  reflection  of  
 cases  of  persecution  and  intimidation  experienced  by  colleagues.  In  general,  there  seems  to  be  
 an  overall  institutional  climate  of  worry,  retraction,  and  self-­‐censorship.    
-
+    
 “Currently,  there  is  a  process  of  curtailing  our  individual  freedom  to  express  as  
 civil  servants;  there  are  various  agencies  in  which  people  are  being  persecuted  for  
 any  kind  of  public  statement  in  opposition  to  the  government.  I  remember,  for  
@@ -554,18 +984,18 @@ instance,  that  I  used  to  go  to  street  demonstrations,  I  had 
 expressed  myself  on  social  media,  in  protests,  etc.  Nowadays,  I  do  not  say  anything  
 anymore,  because  I  feel  there  is  monitoring  of  what  we  say  in  private  forums.  And  
 there  is  real  risk,  political  persecution  is  the  least  that  may  happen”  (interview  7).  
-
+  
 “Today  I  was  shocked  by  the  news  that  professors  at  the  Federal  University  of  
 Pelotas  will  be  administratively  prosecuted  because  they  criticized  the  President.  
 It  is  shocking  that  we  are  taking  this  route”  (interview  13).  
-
+  
 “They  tried  to  end  policy  L.  (…)  There  are  groups  who  are  against  L  books,  so  I  am  
 still  working  in  a  landmine.  So  I  started  doing  work  that  is  more  technical  and  (…).  
 We  know  there  is  a   political  background,  so  more  and  more  I  cannot  express  
 myself  and  I  have  less  influence  on  what  is  decided,  even  though  I  have  been  
 working  as  an  advisor.  I  do  not  have  any  freedom  and  I  need  to  be  careful  all  the  
 time,  with  what  I  say,  with  how  I  say  it,  everything.”  (interview  47).    
-
+  
 “Things   were   bad   during   the   Temer   administration   but   nothing   compared   to  
 Bolsonaro.  The  ability  to  make  things  worse  seems  endless!  Now  everything  is  very  
 fragile.  (...)  The  difference  is  that  now  we  are  afraid.  Before  we  were  afraid  in  
@@ -576,7 +1006,7 @@ who  invited  me  to  make  the  presentation  later  called  me  and 
 about  you,  because  you  are  very  critical  to  the  current  fiscal  rules”.  To  which  I  
 replied:  “Look,  of  course  we  are  all  afraid,  but  we  also  have  courage”  (interview  
 51).  
-
+  
 The  testimonies  given  by  several  participants,  as  reflected  in  the  quotes  above,  
 coincide  with  the  high  number  of  cases  of  harassment  reported  by  ARCA,  the  National  
 Association   of   Public   Careers   for   Development.   Up   to   22   July   2021,   867   cases   of  
@@ -584,9 +1014,19 @@ harassment  in  the  Bolsonaro  administration  had  been  reported  by 
 to  ARCA’s  online  platform.13    
 This  oppressive  setting  and  the  way  it  pushes  civil  servants  to  exit  their  positions,  
 to  censor  their  own  ideas  and  to  make  their  professional  work  invisible,  constitute  a  
+                                                
+13 See http://arcadesenvolvimento.org/assediometro/  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+18 
 process   of   no   ordinary   policy   change,   but   rather   of   policy   dismantling   that   assumes  
 authoritarian  features.  
-
+  
+4.4.  
+Bureaucratic  reshuffling  and  policy  dismantling  
+  
 As  a  result  of  some  of  the  processes  described  above,  many  federal  bureaucrats  are  no  longer  
 working  in  their  places  of  expertise.  Instead,  they  have  escaped  to  agencies  where  they  have  
 less  exposure  and  greater  protection.  Some  institutions,  by  the  nature  of  their  mission,  are  
@@ -594,7 +1034,7 @@ recognized  as  technical  rather  than  political  and  have  served  
 bureaucrats  fleeing  potential  persecution.  Some  became  popular  destinations14  for  those  in  
 careers  of  greater  mobility,  such  as  EPPGGs.  For  diplomats,  demand  for  positions  away  from  
 Brasilia  hit  high  levels  and,  for  the  first  time,  even  so-­‐called  C  and  D  posts  were  in  high  demand.  
-
+  
 As  bureaucrats  are  either  actively  reshuffled  or  as  they  “voluntarily”  choose  to  exit,  the  
 conditions  for  policy  dismantling  become  more  acute.  As  recounted  earlier  by  interviewee  47  at  
 the  Ministry  of  Education,  eventually  there  is  no  one  left  to  maintain  a  public  policy.  There  is  no  
@@ -602,15 +1042,38 @@ one  with  the  knowledge  and  the  institutional  memory  of  how  t
 instruments  are,  or  who  the  stakeholders  are.  Everything  is  lost,  as  there  is  barely  anyone  left  
 to  operate  the  policy.  This  process,  as  represented  below,  further  feeds  into  greater  policy  
 dismantling.  
-
+  
+Figure  1  –  Authoritarian  policy  dismantling  
+  
+  
+  
+  
 This  is  not  to  say  that  voice  or  shirking  and  sabotage  do  not  happen.  In  fact,  some  
 research  participants  did  tell  us  of  examples  of  ‘resistance’,  the  most  common  being  the  stalling  
 of  administrative  processes  in  the  hopes  that,  with  time,  there  would  be  leadership  turnover  or  
 the  issue  would  fall  out  of  the  agenda.  There  were  also  examples  of  bureaucrats  who  took  they  
+                                                
+14 In order to protect research participants and given the overall climate of fear, the names of those institutions will 
+not be listed in this paper. 
+Ileberal  populism:  
+intimidation  and  fear  in  public  
+administration
+Exit
+Reduced  capacity,  fewer  resources
+Further  policy  dismantling
+Voice
+Loyalty
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+19 
 resistance  outside  of  the  state  and  became  engaged  in  government  opposition  outside  of  their  
 work  time  and  official  duties.  But  even  in  those  cases,  fear  was  present  in  participants’  
 accounts.  
-
+  
+5.   Concluding  remarks  
+  
 This  research  sought  to  contribute  to  the  literature  on  policy  dismantling  in  contexts  of  illiberal  
 populism.  In  the  case  of  Brazil  during  the  presidency  of  Jair  Bolsonaro,  policy  dismantling  is  not  
 simply  an  expected  form  of  policy  change  that  results  from  the  democratic  process.  Instead,  
@@ -620,21 +1083,153 @@ making  paralysis.  A  good  number  of  them  respond  by  opting  to
 agencies,  the  federal  government,  and  even  the  country.  Without  experienced  civil  servants,  
 especially  those  who  had  spent  time  working  with  the  implementation  of  needed  policies,  
 further  policy  dismantling  occurs.    
-
+  
 It  is  hoped  that  the  paper  will  add  to  the  experimental  findings  presented  by  Guedes-­‐
 Neto  &  Peters  (2021).  If,  on  the  one  hand,  civil  servants  are  inclined  to  shirk  from  undemocratic  
 projects,  when  put  under  authoritarian  pressure  they  may  be  less  able  or  willing  to  do  so.  There  
 may  be  less  shirking  and  sabotage  when  the  bureaucracy  is  too  afraid  or  when  exit,  in  its  
 various  forms,  is  an  available  option.    
-
+  
 The  paper  also  supplements  the  findings  of  (Sabourin  et  al.,  2020),  indicating  that  
 bureaucratic  adaptation  may  be  restricted  either  to  the  minority  who  were  left  behind  by  their  
 colleagues  or  to  the  new-­‐comers  who  are  being  initiated  into  a  new  policy  field  and  therefore  
 do  not  have  a  clear  sense  of  the  dismantling  occurring.  
-
+  
 In  Brazil’s  2021  federal  government,  senior  political  positions  are  relatively  low-­‐paying  
 jobs  if  compared  to  the  private  sector  and  considering  Brasilia’s  high  cost  of  living.  In  this  
 scenario,  the  easiest  option  would  be  to  appoint  civil  servants,  who  already  receive  a  base  
 salary.  But  as  Bolsonaro  and  his  ministers  do  not  trust  the  established  bureaucracy,  how  are  the  
 senior  positions  filled?  Mostly  with  the  military  and  the  evangelical  church.  What  about  the  
 bureaucracy?  The  bureaucracy  will  remain  being  reshuffled  and  asking  the  new  Captain  to  quit.  
+  
+  
+  
+  
+  
+  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+20 
+References  
+  
+Abramson,  Alana.  (2017).  Trump’s  Allies  Keep  Talking  About  the  “Deep  State.”  What’s  That?  
+Time.  https://time.com/4692178/donald-­‐trump-­‐deep-­‐state-­‐breitbart-­‐barack-­‐obama/  
+  
+Batista,  Lucas  Valença-­‐Especial  para  o  Correio,  Paulo  Silva  Pinto,  Vera.  (2019,  January  4).  
+Governo  Bolsonaro  exonera  mais  de  3.500  servidores  nos  primeiros  dias.  Acervo.  
+https://www.correiobraziliense.com.br/app/noticia/politica/2019/01/04/interna_politica,7288
+56/governo-­‐bolsonaro-­‐exonera-­‐mais-­‐de-­‐3-­‐500-­‐servidores-­‐nos-­‐primeiros-­‐dias.shtml  
+  
+Bauer,  M;  Peters,  G.;  Pierre,  J.  (2021).  Pathways  to  administrative  resilience:  Public  
+bureaucracies  ruled  by  democratic  backsliders  as  a  transnational  challenge.  Publications  Office.  
+https://data.europa.eu/doi/10.2870/752884  
+  
+Bauer,  M.  W.,  &  Becker,  S.  (2020).  Democratic  Backsliding,  Populism,  and  Public  Administration.  
+Perspectives  on  Public  Management  and  Governance,  3(1),  19–31.  
+https://doi.org/10.1093/ppmgov/gvz026  
+  
+Bauer,  M.  W.,  Becker,  S.,  Peters,  G.,  Pierre,  J.,  &  Yesilkagit,  K.  (Eds.).  (2021).  Democratic  
+backsliding  and  public  administration:  How  populists  in  government  transform  state  
+bureaucracies.  Cambridge  University  Press.  
+  
+Bauer,  M.  W.,  Green-­‐Pedersen,  C.,  Héritier,  A.,  &  Jordan,  A.  (2012).  Dismantling  public  policy:  
+Preferences,  strategies,  and  effects.  OUP  Oxford.  
+  
+Brehm,  J.  O.,  &  Gates,  S.  (1999).  Working,  shirking,  and  sabotage:  Bureaucratic  response  to  a  
+democratic  public.  University  of  Michigan  Press.  
+  
+Charmaz,  K.  (2006).  Constructing  grounded  theory:  A  practical  guide  through  qualitative  
+analysis.  Sage.  
+  
+Guedes-­‐Neto,  J.,  &  Peters,  B.  G.  (2021).  Working,  Shirking  or  Sabotage  in  Times  of  Democratic  
+Backsliding:  An  Experimental  Study  in  Brazil.  M.  Bauer,  S.  Becker,  BG  Peters,  J.  Pierre  &  K.  
+Yesilkagit,  Democratic  Backsliding  and  Public  Administration:  How  Populists  in  Government  
+Transform  State  Bureaucracies.  
+  
+Hirschman,  A.  O.  (1970).  Exit,  voice,  and  loyalty:  Responses  to  decline  in  firms,  organizations,  
+and  states  (Vol.  25).  Harvard  University  Press.  
+  
+IPEA.  (2021,  March).  Funcionalismo  Público  no  Brasil:  Análise  dos  dados  nas  últimas  três  
+décadas.  Em  Questão:  Evidências  Para  Políticas  Públicas.,  2.  
+  
+Levitsky,  S.,  &  Ziblatt,  D.  (2018).  How  democracies  die.  Broadway  Books.  
+  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+21 
+LIPSKY,  M.  (2010).  Street-­‐Level  Bureaucracy,  30th  Ann.  Ed.  Russell  Sage  Foundation;  JSTOR.  
+http://www.jstor.org/stable/10.7758/9781610446631  
+  
+Marcondes,  D.,  &  Mawdsley,  E.  (2017).  South–South  in  retreat?  The  transitions  from  Lula  to  
+Rousseff  to  Temer  and  Brazilian  development  cooperation.  International  Affairs,  93(3),  681–
+699.  
+  
+Moe,  T.  M.  (2016).  Teachers  Unions  in  the  United  States:  The  Politics  of  Blocking.  In  S.  Wiborg  &  
+T.  M.  Moe  (Eds.),  The  Comparative  Politics  of  Education:  Teachers  Unions  and  Education  
+Systems  around  the  World  (pp.  24–55).  Cambridge  University  Press;  Cambridge  Core.  
+https://doi.org/10.1017/9781316717653.002  
+  
+Morais  de  Sá  e  Silva,  M.  (2017).  Poverty  Reduction,  Education,  and  the  Global  Diffusion  of  
+Conditional  Cash  Transfers  (1st  ed.  2017).  Springer  International  Publishing :  Imprint:  Palgrave  
+Macmillan.  https://doi.org/10.1007/978-­‐3-­‐319-­‐53094-­‐9  
+  
+Nozaki,  W.  (2021).  A Militarização da Administração Pública no Brasil: projeto de nação ou 
+projeto de poder? Brasília: FONACATE. https://fpabramo.org.br/observabr/wp-
+content/uploads/sites/9/2021/05/Cadernos-Reforma-Administrativa-20-V4.pdf 
+  
+O’Leary,  R.  (2014).  The  Ethics  of  Dissent:  Managing  Guerrilla  Government.  CQ  Press.  
+https://doi.org/10.4135/9781506335681  
+  
+Porto  de  Oliveira,  O.  (2019).  Brazil  Exporting  Social  Policies:  From  Local  Innovation  to  a  Global  
+Model.  Journal  of  Politics  in  Latin  America,  11(3),  249–271.  
+https://doi.org/10.1177/1866802X19889757  
+  
+Sabatier,  P.  A.,  &  Weible,  C.  M.  (2014).  Theories  of  the  policy  process.  Westview  Press.  
+  
+Sabourin,  E.,  Craviotti,  C.,  &  Milhorance,  C.  (2020).  The  dismantling  of  family  farming  policies  in  
+Brazil  and  Argentina.  International  Review  of  Public  Policy,  2(2:  1).  
+  
+Wu,  X.,  Ramesh,  M.,  &  Howlett,  M.  (2018).  Policy  capacity:  Conceptual  framework  and  essential  
+components.  In  Policy  capacity  and  governance  (pp.  1–25).  Springer.  
+  
+  
+Contribuição  dos  autores  
+  
+Michelle  Morais  de  Sá  e  Silva:  participação  ativa  no  desenvolvimento  do  trabalho,  concepção,  
+redação,  coleta  de  dados,  análise  formal,  metodologia  e  investigação.  
+  
+Declaração  de  conflito  de  interesse  
+A  autora  declara  que  não  há  conflito  de  interesse  com  o  presente  artigo.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2692
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

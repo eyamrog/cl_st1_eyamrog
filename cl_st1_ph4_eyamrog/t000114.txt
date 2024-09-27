@@ -1,4 +1,52 @@
-(Survey of mosses (Bryophyta) along visitor trails in the Parque Nacional do Caparaó, 
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906-94/2020
+Survey of mosses (Bryophyta) along visitor trails in the Parque
+Nacional do Caparaó, Espírito Santo State, Brazil
+Thamara Arão  Feletti, Denilson Fernandes  Peralta, Juliana Rosa do Pará Marques de  Oliveira
+https://doi.org/10.1590/2236-8906-94/2020
+Submitted on: 2021-06-29
+Posted on: 2021-06-29 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+DOI: https://doi.org/10.1590/2236-8906-94/2020 
+ 
+ 
+1 Trabalho de Conclusão de Curso da primeira Autora 
+2 Universidade Estadual de Feira de Santana, Departamento de Ciências Biológicas, Avenida 
+Transnordestina s/n, Novo Horizonte, 44036-900 Feira de Santana, BA, Brazil 
+3 Universidade Federal do Espírito Santo, Centro de Ciências Exatas, Naturais e da Saúde, 
+Departamento de Biologia, Laboratório de Botânica, Alto Universitário s/n, Guararema, 29500-000 
+Alegre, ES, Brazil 
+4 Instituto de Botânica, Núcleo de Pesquisa em Briologia, Avenida Miguel Estefno, 3687, Água 
+Funda, 04301-902 São Paulo, SP, Brazil 
+5Hundsmühler Straße 30, 26131, Oldenburg, Niedersachsen, Deutschland 
+6Corresponding author: thamarafeletti8@gmail.com 
+Survey of mosses (Bryophyta) along visitor trails in the Parque Nacional de Caparaó, Espírito 
+Santo State, Brazil1 
+ 
+Thamara Arão Feletti1 2 3, Denilson Fernandes Peralta4 and Juliana Rosa do Pará Marques de 
+Oliveira5 
+ 
+Título resumido: Mosses along visitor trails in the Parque Nacional do Caparaó 
+ 
+Received: 10.08.2020; accepted: 28.01.2021 
+ 
+ 
+ 
+ 
+NÚMEROS ORCIDS DE CADA AUTOR: 
+Thamara Arão Feletti: 0000-0002-7333-9457 
+Denilson Fernandes Peralta: 0000-0003-4304-7258 
+Juliana Rosa do Pará Marques de Oliveira: 0000-0003-3134-5784 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+2 
+ 
+2 
+ 
+ABSTRACT – (Survey of mosses (Bryophyta) along visitor trails in the Parque Nacional do Caparaó, 
 Espírito Santo State, Brazil). Bryophyta, the mosses, are an abundant plant group in humid 
 environments. In the Atlantic Coastal Forest of Southeastern Brazil, they are found in great richness 
 and diversity, especially in the montane regions.  In this context, the Parque Nacional do Caparaó, 
@@ -10,7 +58,27 @@ of collections. We found 59 species of mosses, belonging to 38 genera and 22 fam
 are new occurrences for the state and 14 are Brazilian endemics. Most species were found growing 
 on soil. We found more species at altitudes above 1,500 m a.s.l. Sematophyllaceae was the richest 
 moss family.  
-
+Keywords: Atlantic Forest, bryophytes, cloud forest, high fields, Ombrophilous Forest 
+ 
+RESUMO – (Levantamento de musgos (Bryophyta) em trilhas de visitação no Parque Nacional do 
+Caparaó, Estado do Espírito Santo, Brasil). No Brasil, os musgos (Bryophyta) são encontrados com 
+maior riqueza e diversidade na Mata Atlântica, especialmente em ambientes montanhosos e úmidos 
+como o encontrado no Parque Nacional do Caparaó.  A coleta do material foi realizada durante três 
+dias onde percorremos as principais trilhas de visitação do parque. Foram identificadas 59 espécies 
+pertencentes a 38 gêneros e 22 famílias. Nove espécies são novas ocorrências para o Estado e 14 são 
+endêmicas do país. A família mais rica em espécies foi Sematophyllaceae. As espécies terrícolas são 
+as mais frequentes. A maior riqueza de espécies foi observada em altitudes acima de 1.500 m alt. 
+Embora se tenha considerável número de coletas depositadas nos herbários, oriundos da porção oeste 
+do parque, este é um trabalho pioneiro na região que se estende pelo Espírito Santo. 
+Palavras chaves: briófitas, campos de altitude, Floresta Ombrófila, Mata Atlântica, mata nebular 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+3 
+ 
+3 
+ 
+Introduction 
 Bryophytes are nonvascular land plants that include mosses (Bryophyta, Goffinet et al. 2009), 
 liverworts (Machantiophyta, Crandall-Stotler et al. 2009) and hornworts (Anthocerotophyta, 
 Renzaglia et al. 2009). Usually, they are small in size and colonize a wide variety of substrates and 
@@ -29,7 +97,6 @@ visitors throughout the year. The last state tourism report, from 2014 to 2017, 
 (ICMBio 2021a; OTE-ES 2018). Therefore, a great ally of conservation is to know the biological 
 diversity of these environments that receive tourists and visitors, as they are as important as the 
 preserved areas. 
-
 Even though the Southeast of the country is a well-known and already studied area, there are no 
 published studies related to the bryoflora of the PNC. Only a few records of occasional collections 
 exist (Yano & Peralta 2008, Yano 2010, 2012). For the state of Espírito Santo, scientific works are 
@@ -37,10 +104,17 @@ still scarce and among the most recent we can only mention Costa & Silva (2003) 
 in board forests, Silva & Piassi (2010) in restinga, Silva (2011), Silva & Bastos (2012) and Sousa & 
 Faria (2016) and Faria et al. (2020) in Ombrophilous Forest. The aim of our study was to carry out a 
 survey of mosses that occur along the PNC visitation trails beginning at the entrance of the Espírito 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+4 
+ 
+4 
+ 
 Santo portion in order to increase the knowledge of the bryophyte flora in the state, of the Atlantic 
 Forest and to contribute to the conservation of ecologically important species, especially threatened 
 ones. 
-
+ 
+Material and methods 
 Study site - The Parque Nacional do Caparaó (PNC, figure 1) is located in the Southeast of Brazil 
 along the boundary of the States Minas Gerais and Espírito Santo (20°37' to 20°19'S and 41°43' to 
 41°55'W). Its territory extends almost 32,000 ha with nearly 80% (the entire eastern portion) of it 
@@ -52,7 +126,7 @@ a.s.l with herbaceous to shrubby vegetation and rocky outcrops (ICMBio accessed 
 Coutinho 2015). The climate is described as tropical in altitude, with average annual temperatures 
 around 19 °C to 22 °C and annual rainfall between 1,000 and 1,500 mm, with higher volumes from 
 November to January (ICMBio accessed 06/01/2021b). 
-
+ 
 Data collection, identification and analysis - Authorization for the collection of specimens was given 
 by the Instituto Chico Mendes de Conservação da Biodiversidade (number 47090-4). The data 
 collection was carried out during three days in May 2015, along the main access road to the camps 
@@ -62,6 +136,12 @@ considered narrow and of moderate difficulty, with extensions by 1000 and 210 m,
 (ICMBio accessed 12/02/2020a). The collection was conducted with the aim to capture the diversity 
 of species at each site, that is, there was no exhaustive search of specimens - species repeated within 
 one site were intentionally not collected again and not abundantly sampled. The plants were collected 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+5 
+ 
+5 
+ 
 manually or with a spatula on all available substrates. In total we collected 125 samples. The samples 
 were stored in paper bags according to the methodology proposed by Yano (1984) also with 
 environmental information such as degree of sun exposure and geographical coordinates. The 
@@ -79,15 +159,21 @@ Information Facility (Gbif 2021) and Splink (Splink 2021) databases, once the co
 is reliable as, at least, identified by specialist and more than one collected. The information regarding 
 the conservation status and the endemism of the species are in specific literature (Yano & Peralta 
 2007, Martinelli & Moraes 2013, Flora do Brasil 2020 2021). 
-
 We defined four altitudinal zones based on the predominant vegetation type: (I) < 1,500 m a.s.l.; (II) 
 1,500 to 1,900 m a.s.l.; (III) 1,900 to 2,200 m a.s.l.; (IV) > 2,200 m a.s.l; in order to describe the 
 distribution and richness of families along the sampled sites. 
-
+ 
+Results 
 Here, we report 59 species of mosses belonging to 38 genera and 22 families (table 1).  Nine species 
 are new occurrences for the state, most notably Physcomitrium falcifolium Müll. Hal. ex Broth and 
 Atractylocarpus brasiliensis (Müll.Hal.) R.S. Williams which are classified as Vulnerable and 
 Endangered, respectively, in the last red list available for Brazil (Martinelli & Moraes 2013). In the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+6 
+ 
+6 
+ 
 red list of Espírito Santo (Fraga et al. 2019), Brittonodoxa lithophila (Hornsch.) W.R. Buck, 
 P.E.A.S.Câmara & Carv.-Silva, Itatiella ulei (Broth. ex Müll. Hal.) G.L.Sm. (Yano & Peralta 2007, 
 Fraga et al. 2019) and Schizymenium campylocarpum (Hook. & W.-Arn.) Shaw are treated as 
@@ -99,7 +185,6 @@ the others occurrences observed, the most related biome was the Cerrado and Amaz
 of them have a neotropical, 15% a pantropical, 15% a cosmopolitan distribution, while 24% are 
 endemic to Brazil and the others (15%) have disjunct distributions. Most of our samples were 
 colonizing terricolous substrate (47%) followed by rupicolous ones (28%) (figure 3).  
-
 Altitudinal zones II and III exhibited the largest number of families, 12 and 17, respectively (figure 
 4). Some of the families were only present in one altitudinal zone: Pterobryaceae (1sp) in zone I; 
 Orthotrichaceae (2sp), Calymperaceae and Rhacocarpaceae (1 sp) in zone II; Mniaceae (2 sp), 
@@ -107,112 +192,211 @@ Phyllogoniaceae, Pilotrichaceae and Neckeraceae (1 sp) in zone III; Hedwigiaceae
 The family Bryaceae was the most common, being present in all zones, but with greater richness in 
 zone III with a total of four species. Below is a diagnostic characterization for endemic and new 
 citations (*), listed in alphabetical order by family. 
-
+ 
+Bartramiaceae 
+*Philonotis longiseta (Michx.) E. Britton, The Bryologist 14(3): 44. 1911. 
+Figure 6 f 
 Autoecious plants, tomentose stem, leaves narrow triangular-lanceolate with papillae at the distal 
 extremities of the laminal cell and sporophyte with the long seta. Rupicolous in the Atlantic Forest 
 (montane and high montane) and the Cerrado, formerly recorded in states of BA, CE and RS, as well 
 as in other parts of the Americas.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+7 
+ 
+7 
+ 
+ 
+Brachytheciaceae 
+Oxyrrhynchium clinocarpum (Taylor) Broth., Die Natürlichen Pflanzenfamilien I (3): 1154. 1909. 
+Figure 6 e 
 Stem leaves ovate, acuminate apex, serrate margins; costae strong. Branch leaves distant, erect to 
 wide-spreading, lanceolate to ovate, apex acute to short acuminate. Corticolous, rupicolous and 
 terricolous in the Atlantic Forest, recorded in the states of ES, RJ, PR, RS, SC and SP, as well as 
 throughout the Neotropics. 
-
+ 
+Bryaceae 
+*Rhodobryum aubertii (Schwägr.) Thér., Recueil Publ. Soc. Havraise D'études Diverses 89(2): 128. 
+1922. 
+Figure 7 b 
 Reddish plants, leaves equally spaced, upper crowded, obovate to ovate, serrulate margin toward the 
 apex, bordered by 3-5 rows of long cells, upper cells rombic and basals quadrate; costae percurrent 
 to excurrent. Corticolous, epixilous and terricolous in the Atlantic Forest (lowlands to montane), 
 recorded in the states of BA, MG and RJ, throughout South America and Africa. In this work, we 
 prefer to use the accepted name for the species according to Flora do Brasil 2020 (2021). 
-
+ 
+Dicranaceae 
+Aongstroemia julacea (Hook.) Mitt., J. Linn. Soc., Bot. 12: 27. 1869. 
+Figure 5 a 
 Slender and small plants, leaves julaceous, concave and ovate-lanceolate to short ovate, with margins 
 crenulate in the upper portion and apex erect. Our samples were found on soil and rocks near to the 
 waterfall, in general occurs as rupicolous in the Atlantic Forest (high montane), recorded in the states 
 of ES, MG and RJ, throughout the tropics. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+8 
+ 
+8 
+ 
+ 
+Ditrichaceae 
+Cladastomum ulei Müll.Hal., Bull. Herb. Boissier 6: 21. 1898. 
+Figure 5 f 
 Leaves distally in cluster, erect above, ovate to oblate-lanceolate; costae short excurrent or ending in 
 an apiculate apex; Easily detached capsula without stomata. Similar to Crumuscus vitalis Bück & 
 Snider is differentiated by the presence of julaceous sterile shoots (Schäfer-Verwimp 1996). Our 
 samples were collected in high field, occurs as rupicolous in Atlantic Forest (montane to high 
 montane), recorded in the states of ES, MG, PR, RJ and SC; Brazilian endemic. 
-
+ 
+Ditrichum crinale (Taylor) Kuntze, Revis. Gen. Pl. 2: 835 1891. 
+Figure 5 g 
 Dioecious plants are recognized by erect leaves, base amplectant, justacostal cells weakly to not 
 porose Terricolous in Atlantic Forest (high montane), recorded in the Brazilian states of ES and MG, 
 throughout South America. 
-
+ 
+*Ditrichum itatiaiae (Müll.Hal.) Paris, Index Bryol. Suppl. 131. 1900. 
+Figure 5 h 
 Long leaves, narrowly acuminate, subulate from an ovate base; thickened laminal cells, basal cells 
 long to retangulate; strong costae, percurrent to excurrent; cylindric capsule strongly sulcate. 
 Terricolous in Atlantic Forest (montane), recorded in states of MG, RJ and SP; Brazilian endemic. 
-
+ 
+Funariaceae 
+*Physcomitrium falcifolium Müll. Hal. ex Broth., Hedwigia 34: 127. 1895. 
+Figure 6 g 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+9 
+ 
+9 
+ 
 Falcate leaves, lanceolate to linear, apex apiculate, with the upper margin denticulate; long cells at 
 margin and median portion of the lamina. Our samples were found on rocks near to the stream, in 
 general occurs as terricolous in Atlantic Forest (montane), recorded in states of GO, MG, PR, RJ, RS 
 and SP; Vulnerable and Brazilian endemic. This specie was not in the Flora do Brasil 2020 (2021), 
 so we used the Dias, Peralta & Neto (2018) work to complement necessaries information. 
-
-The most distinctive character is the costae excurrent, ridged dorsally and in cross section with 
+ 
+Leucobryaceae 
+*Atractylocarpus brasiliensis (Müll.Hal.) R.S. Williams, Bryologist 31: 110. 1928. 
+Figure 5 d 
+ The most distinctive character is the costae excurrent, ridged dorsally and in cross section with 
 stereids in both of sides. The identification of the species depends on the presence of the sporophyte 
 because it is distinguished from others by the exothecial oval cells and peristome teeth with 2-3 teeth 
 split in 2/3. Our samples were found on rocks near to the stream, in general occurs as terricolous in 
 Atlantic Forest (high montane), recorded in the states of BA, RJ, RS and SP Endangered and endemic 
 to Brazil. 
-
+ 
+Mniaceae 
+*Schizymenium brevicaule (Hornsch.) A.J. Shaw & S.P. Churchill, Trop. Bryol. 1: 111. 1989. 
+Figure 7 c 
 Long linear leaves, erect to erect-patent, apex acute, upper serrulate margin, smooth cells, linear to 
 fusiform; costae often sub percurrent. Long and pyriform capsule. Our samples were found on rocks 
 and soil as commonly occurs in Atlantic Forest (montane), recorded in the states of RJ, SP and PR; 
 also, throughout Colombia and Bolivia. 
-
+ 
+Schizymenium campylocarpum (Arn. & Hook.) A.J. Shaw, Bryologist 88: 29. 1985. 
+Figure 7 d 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+10 
+ 
+10 
+ 
 Leaves erect-patent, oblong-lanceolate, apex acuminate. Distinguished by cylindrically curved 
 capsule, especially when dry or empty; single peristome, with apendiculate at the tips. In our samples 
 were found along the roadside as terricolous, in general occurs as rupicolous in Atlantic Forest 
 (montane), recorded in the state of ES, MG, RJ and RS; cosmopolitan. Critically Endangered in the 
 Espírito Santo State. 
-
+ 
+Pilotrichaceae 
+Brymela fluminensis (Hampe) W.R. Buck, Brittonia 39: 217. 1987. 
+Figure 5 e 
 Leaves plane, lanceolate to falcate, long acuminate, serrate margin in apical region with simple teeth. 
 Our samples were found in rocks very close to the stream, sometimes submerged, in general occurs 
 as terricolous in Atlantic Forest (sub montane and montane), recorded in the states of ES, PR, RJ, RS 
 and SP. Brazilian endemic. 
-
+ 
+Polytrichaceae 
+Itatiella ulei (Broth. ex Müll. Hal.) G.L. Sm., Mem. New York Bot. Gard. 21(3): 52. 1971. 
+Figure 6 b 
 Involute leaf margin at the apex, leaves oblong-lanceolate, dentate margin, cells quadrate to 
 hexagonal, smooth and costae percurrent. In transverse section lamellas occupying costae and lamina. 
 According to Peralta & Yano (2010), the species resembles Pogonatum campylocarpum (Müll. Hal.) 
 Mitt., but differing by the simple and rhombic lamellae apical cell. Terricolous in Atlantic Forest 
 (montane and high fields), recorded in the states of ES, MG, PR, RJ and SP. Vulnerable in the Espírito 
 Santo State and Brazilian endemic. 
-
+ 
+Polytrichum angustifolium Mitt., J. Linn. Soc., Bot. 12: 622. 1869. 
+Figure 6 i 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+11 
+ 
+11 
+ 
 Leaves rigid, imbricate when dry and erect when moist, lanceolate-linear, acuminate. Characterized 
 by pyriform and smooth apical lamellae cell, Peralta and Yano (2010) consider this plant the biggest 
 species in the family. Terricolous in Atlantic Forest (montane) and Pampa, recorded in the states of 
 BA, ES, MG, PR, RJ, RS, SC and SP; Brazilian endemic. 
-
+ 
+Pottiaceae 
+*Leptodontium filicola Herzog., Biblioth. Bot. 87: 34. 9 f. 2. 1916. 
+Figure 6 c 
 Leaves incurvate, oblong-lanceolate and denticulate margin, papillose cells with papilla on the lumen. 
 Corticolous, rupicolous and terricolous in Atlantic Forest, recorded in the states of MG, RJ, RS and 
 SC. Vulnerable in Atlantic Forest occurs throughout Tropical America. 
-
+ 
+Leptodontium stellatifolium (Hampe) Broth., Nat. Pflanzenfam. I (3): 400. 1902.  
+Figure 6 d 
 Plants yellowish to golden, leaves crowded, oblong-lanceolate to lingulate, apex short-acuminate to 
 apiculate, crenulate margin; inner basal cells reddish-yellow; costae percurrent. This species was 
 frequent in the study’s high elevation grasslands. Rupicolous and terricolous in Atlantic Forest, 
 recorded in the states of ES, MG, RJ, SP and SC; Brazilian endemic. 
-
+ 
+Rhacocarpaceae 
+Rhacocarpus inermis (Müll.Hal.) Broth., Acta Soc. Sci. Fenn. 19(5): 22 1891. 
+Figure 7 a 
 Robust plants with oblong-lanceolate leaves, apex short acute or cuspidate, margin unbordered and 
 entire. Our samples were found as rupicolous in a humid environment. Occurs throughout the Atlantic 
 Forest (montane and high montane) recorded in the states of ES, MG, RJ, RS and SC. Brazilian 
 endemic.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+12 
+ 
+12 
+ 
+ 
+Sematophyllaceae 
+Aptychopsis estrellae (Müll. Hal.) P.E.A.S. Câmara, W.R. Buck & Carv.-Silva, J. Bryol. 37(4): 289. 
+2015. 
+Figure 5 b 
 Long, narrowly lanceolate and recurved leaves, gradually acuminate; 2-3 oblong-inflated alar cells 
 obliquely arranged. Corticicolous and - in our samples - rupicolous, in Atlantic Forest, recorded in 
 the states of AL, BA, CE, DF, ES, GO, MG, MT, PA, PE, PR, RJ, RS, SC and SP. Brazilian endemic.  
-
+ 
+Aptychopsis pyrrhophylla (Müll.Hal.) Wijk & Margad., Taxon 8: 71. 1959. 
+Figure 5 c 
 Asymmetrics to falcates leaves when dry, stem leaves ovate or oblong-lanceolate; branch leaves 
 lanceolate, apex cuspidate; inflated alar cells and 2-3 rows of supra-alar cells. Our samples were 
 found on rocks exposed to the sun in an open environment, in general, occurs as corticolous and 
 epixilous in Atlantic Forest common in high altitudes, recorded in the states of AM, BA, ES, MG, 
 PR, RJ, SC AND SP. Brazilian endemic.  
-
+ 
+*Donnellia lagenifera (Mitt.) W.R. Buck, Bryologist 91: 134. 1988. 
+Figure 6 a 
 Squarrose to erect-patent leaves, concave at the base, ovate from a larger base, smaller cells on the 
 upper laminal, supra-alar cells larger than alar cells. Capsules often sub erect and bigger than D. 
 commutata (Müll.Hal.) W.R. Buck as described by Buck (1994). Corticolous in Amazon Forest and 
 Atlantic Forest, recorded in the states of PA, MG, RJ, RS, SC and SP; throughout the Neotropics. 
-
+ 
+Vitalia galipensis (Müll. Hal.) P.E.A.S. Câmara, Carv.-Silva & W.R. Buck, Taxon 66(4): 825. 2017. 
+Figure 7 f 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+13 
+ 
+13 
+ 
 Recognized by erect to expanded leaves, oblong to oblong-lanceolate, strongly concave, apex long 
 acuminate, apical cells longer, alar and supra-alar cells larger. Our samples were found in rocks near 
 to the stream. Terricolous, corticolous and rupicolous in Amazon Forest, Atlantic Forest and Cerrado, 
@@ -220,12 +404,15 @@ recorded in the states of BA, DF, ES, GO, MG, MT, MS, PA, PE, PR, RJ, RO, RR, RS
 TO. Brazilian endemic. Despite the nomenclatural conflict existing in Flora do Brasil 2020 (2021), 
 V. galipense is homotypic synonym for Sematophyllum galipense (Müll.Hal.) Mitt., based on 
 Carvalho-Silva et al. (2017). 
-
+ 
+*Trichosteleum glaziovii (Hampe) W.R. Buck, Nova Hedwigia 66: 243.1998.   
+Figure 7 e 
 Distinguished by lanceolate and strongly falcate leaves, denticulate margin, inflated alar cells slightly 
 oblique arranged, conspicuous or almost imperceptible papillae in the leaf cells. Coticicolous and 
 epixilous in Atlantic Forest, recorded in the states of MG, PE, PR, RJ, RS, SC and SP; Brazilian 
 endemic.  
-
+ 
+Discussion 
 The diversity recently recorded for the state of Espírito Santo is 492 bryophyte species (486, Costa 
 & Peralta 2015), out of which 263 are mosses (Flora do Brasil 2020,2021). However, Yano (2012) 
 cataloged for the state 531 taxa of which 286 are mosses, distributed in 134 genera and 50 families. 
@@ -236,6 +423,12 @@ the bryoflora’s biodiversity potential, for example: Peralta & Yano (2011) hav
 in the Mello Leitão Museum herbarium and 21 new records for the state. Silva (2011) found 126 moss 
 species, with 35 new occurrences in Dense Montane and Upper Montane Ombrophylous Forest. Yano 
 (2016) listed 67 moss taxa in the state “Tabuleiro” Forests, with 15 new occurrences. And recently, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+14 
+ 
+14 
+ 
 Faria et al. (2020) published a work carried out in an Ombrophylous Forest, reporting 102 moss 
 species with 33 species as new occurrences. In this study, we found almost 1/4 of the recorded moss 
 diversity for Espírito Santo State (Flora do Brasil 2020 2021) as well as 9 new citations.  
@@ -249,7 +442,6 @@ rain forests, especially the genus Campylopus (Gradstein et al. 2001), that have
 luminosity and desiccation, such as hyalocysts (hyaline cells) and hair points (Glime 2007). In fact, 
 there is a great diversity of bryophytes registered in the Atlantic Forest, mainly in montane 
 environments.  
-
 The composition of bryoflora in our work proved to be more related to that occurring in the Cerrado 
 and in the Amazon Forest. Between the two biomes, the Cerrado is the closest to the Atlantic Forest, 
 however, the Amazon Forest is the second richest biome in the country (Costa & Peralta 2015, Flora 
@@ -257,13 +449,17 @@ do Brasil 2020 2021), it also has great affinity with the flora observed in the 
 they have an evolutionary historical relationship. Many listed taxa, with the exception of the exclusive 
 ones, has distribution both in the Cerrado and in the Amazon Forest. Corroborating with other studies 
 carried out in the state, such as Sousa & Faria (2016) and Faria et al. (2020). 
-
-A large number of species (46%) was recorded occurring on terricolous substrate, in fact, it is 
+ A large number of species (46%) was recorded occurring on terricolous substrate, in fact, it is 
 common to find bryophytes colonizing along the roadside with increasing altitude (Frahm 2003) and 
 even with the increased occurrence of exposed rocks. Even though our collections were carried out 
 mainly along partially open trails, we find a diversity of habitats along these paths providing us with 
 a considerable representativeness of species, including diverse substrates. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+15 
+ 
+15 
+ 
 Corroborating this, we found greater diversity of mosses and a higher number of families exclusive 
 to one altitudinal zone between 1,500m - 2,100m altitude. As also observed in others remains of the 
 Atlantic Forest, such as in Rio de Janeiro (Costa & Lima 2005), in the Serra de Ibitipoca (Siviero 
@@ -278,7 +474,936 @@ demonstrate a considerable taxonomic richness. Also, taxonomic revision studies,
 occurrences reports should be continuous and frequently updated. In this way, we will be able to pave 
 the way for new issues and thus contribute to the group's knowledge and consequently strengthen the 
 preservation of the Atlantic Forest and its remnants. 
-
+ 
+Acknowledgements 
 We thank the Instituto Chico Mendes de Biodiversidade, for the collecting permit and the 
 management of the Park for logistical support; DSc. Anna Weigand, for transportation and field 
 assistance, MSc. Angélica T. da Silva and Maurício L. Fornazier, for the help with the collections. 
+ 
+Author Contributions 
+Thamara Arão Feletti: Contribution to collected the data; Contribution to the identifications of specimes; 
+Contribution to data analysis and interpretation; Contribution to manuscript preparation and wrote. 
+Denilson Fernandes Peralta: Substancial contribution to manuscript wrote; Substancial contribution 
+to identifications; Contribution to critical revision. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+16 
+ 
+16 
+ 
+Juliana Rosa do Pará Marques de Oliveira: Contribution to collected the data; Substancial contribution to 
+manuscript preparation; Substancial contribution to identifications; Contribution to critical revision. 
+ 
+Conflicts of interest 
+There is no conflict of interest. 
+Literature cited 
+Allen, N.S., Gradstein, S.R. & Churchill, S.P. 1996. Bryophytes as non-woody biodiversity 
+indicators: A guide to the bryophytes of tropical américa. A report. Anales del Instituto de 
+Biología serie Botánica 67: 59-65. 
+Buck, W.R. 1994. A synopsis of the American species of Donnellia (Sematophyllaceae). Hikobia 
+11: 377-385. 
+Buck, W.R. 1998. Pleurocarpous mosses of the West Indies. The Bryologist 102: 1-401. 
+Carvalho-Silva, M. et al. 2017. A molecular phylogeny of the Sematophyllaceae s.l. (Hypnales) 
+based on plastid, mitochondrial and nuclear markers, and its taxonomic implications. Taxon 66: 
+811-831.Costa, D.P. 2015. Diversity and conservation of Pottiaceae (Pottiales) in the Atlantic 
+Rainforest. Acta Botanica Brasilica 29: 354-374. 
+Costa, D.P. et al. 2010. Manual de Briologia. Editora Interciência, Rio de Janeiro. 
+Costa, D.P. & Lima, F. 2005. Moss diversity in the tropical rainforests of Rio de Janeiro, 
+southeastern Brazil. Revista Brasil. Bot. 28: 671-685. 
+Costa, D.P. & Peralta, D.F. 2015. Bryophytes diversity in Brazil. Rodriguésia 66: 1063-1071. 
+Costa, D.P. & Silva, A.G. 2003. Briófitas da Reserva Natural da Vale do Rio Doce, Linhares, 
+Espírito Santo, Brasil. Boletim do Museu de Biologia Mello Leitão 16: 21-38. 
+Coutinho, E.C. (org.). 2015. Plano de Manejo: Parque Nacional do Caparaó. Brasília, Instituto Chico 
+Mendes de Conservação da Biodiversidade (ICMBio). 
+Crandall-Stotler, B., Stotler, R. E. & Long, D. G. (2009) Morphology and classification of the 
+Marchantiophyta. In: B. Goffinet & A. J. Shaw (eds). Bryophyte Biology, 2ed. Cambridge: 
+Cambridge University Press, p. 1-54. 
+Dias, M. S., Peralta, D. F., & Neto, S. J. D. S. 2018. Taxonomic treatment of the Funariaceae from 
+Brazil. Phytotaxa, 357:2, 77-93. 
+Faria, A.L.A., et al. 2020. Briófitas do Parque Estadual do Forno Grande, Espírito Santo - Mata 
+Atlântica, Brasil. Pesquisas, Botânica, São Leopoldo: Instituto Anchietano de Pesquisas, 74: 283-
+302. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+17 
+ 
+17 
+ 
+Fraga, C. N. et al. 2019. Fauna e flora ameaçadas de extinção no estado do Espírito Santo. Santa 
+Teresa, Instituto Nacional da Mata Atlântica. 
+Flora do Brasil 2020 (em construção). 2021. Jardim Botânico do Rio de Janeiro. Available from 
+http://floradobrasil.jbrj.gov.br/ (accessed on 06-I-2021). 
+Frahm, J-P. et al. 2003. Manual of tropical bryology. Tropical Bryology, 23: 195p. 
+GBIF.org (2021), GBIF Home Page. Available from https://www.gbif.org (accessed on 06-I-2021). 
+Goffinet, B. Buck, W.R. & Shaw, A.J. 2009. Morphology, anatomy, and classification of the 
+Bryophyta. In: Goffinet, B. & Shaw, A.J. (eds.) Bryophyte Biology. Cambridge University Press, 
+Cambridge, pp. 55-138.  
+Gradstein, S.R. et al. 2001. Guide to the Bryophytes of Tropical America. Memoirs of the New York 
+Botanical Garden, New York. 
+Instituto Chico Mendes de Biodiversidade (ICMbio). Parque Nacional do Caparaó. Available from 
+http://www.icmbio.gov.br/parnacaparao/4-parque-nacional-do-caparao.html (accessed on 06-I-
+2021). 
+Instituto Chico Mendes de Biodiversidade (ICMbio). Parque Nacional do Caparaó: natureza local. 
+http://www.icmbio.gov.br/parnacaparao/natureza-local.html. (accessed on 06-I-2021b). 
+Martinelli, G. & Moraes, M.A. (orgs.). 2013. Livro vermelho da flora do Brasil. Andrea Jakobsson 
+/ Jardim Botânico do Rio de Janeiro, Rio de Janeiro. 
+Observatório do Turismo do Estado ES. 2018. Dados de visitação: Parque Nacional do Caparaó. 
+Available from https://observatoriodoturismo.es.gov.br/infografico-parque-nacional-do-caparao. 
+(accessed on 06-I-2021). 
+Peralta, D.F., & Yano, O. 2010. Taxonomic treatment of the Polytrichaceae from Brazil. The 
+Bryologist 113: 646-673. 
+Reese, W.D. 1993. Calymperaceae. In: Flora Neotropica, monograph 58: 101. 
+Renzaglia, K. S., Villareal, J. C. & Duff, R. J. (2009) New insights into morphology, 
+anatomy and systematics of hornworts. In: B. Goffinet & A. J. Shaw (eds.). Bryophyte Biology, 2ed, 
+Cambridge: Cambridge University Press, 139-171. 
+Robbins, R.G. 1952. Bryophyte Ecology of a Dune Area in New Zealand. Vegetatio 4: 1-31. 
+Schäfer-Verwimp, A. 1996. New or interesting records of Brazilian Bryophytes, V. Candollea 51: 
+283-302. 
+Sharp, A.J., Crum, H. & Eckel, P.M. 1994. The Moss Flora of Mexico. 2v. Memoirs of The New 
+York Botanical Garden, v.69. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+18 
+ 
+18 
+ 
+Silva, L.T.P. 2011. Briófitas do Parque Estadual Pedra Azul (PEPAZ), Município de Domingos 
+Martins, Espírito Santo, Brasil. 2011. Dissertação de Mestrado, Universidade Estadual de Feira 
+de Santana, Feira de Santana. 
+Silva, L.T.P. & Bastos, C.J.P. 2012. Hepáticas Talosas (Marchantiophyta) de um fragmento de Mata 
+Atlântica no Parque Estadual Pedra Azul (PEPAZ), Domingos Martins, Espírito Santo, Brasil. 
+Natureza on line, 10: 160-164. 
+Silva, L.T.P. & Piassi, M. 2010. Briófitas da formação herbácea inundada do Parque Estadual Paulo 
+César Vinha, Setiba, Guarapari, Espírito Santo, sudeste do Brasil. Natureza on line 8: 32-39. 
+Silva Rodrigues, A.F.A. & Valente, E.B. 2015. Diversidade de musgos (Bryophyta) de um 
+fragmento de Floresta Ombrófila no município de Barra do Choça, Bahia. Pesquisas botânica, 67: 
+143-148. 
+Siviero, T.S. 2010. Musgos (Bryophyta) do Parque Estadual do Ibitipoca (MG, Brasil). Dissertação 
+de Mestrado, Universidade Federal de Juiz de Fora, Juiz de Fora. 
+Sousa, R.V. de & Faria, A.L.A. 2016. Floristic survey of the mosses of the Estação Biológica de 
+Santa Lúcia, Santa Teresa, Espírito Santo, Brazil. Bol. Mus. Biol. Mello Leitão (N. Sér.) 38:47-
+58.  
+SpeciesLink Network. 2021. SpeciesLink Home Page. Available from http://www.splink.org.br/ 
+(accessed on 06-I-2021). 
+Tropicos 2021. Tropicos.org. Missouri Botanical Garden. Available from http://www.tropicos.org 
+(accessed on 06-I-2021). 
+Valente, E.B., Pôrto, K.C., Vilas Bôas-Bastos, S.B. & Bastos, C.J.P. 2009. Musgos (Bryophyta) 
+de um fragmento de Mata Atlântica na Serra da Jibóia, município de Santa Terezinha, BA, Brasil. 
+Acta Botanica Brasilica 23: 369-375.  
+Vanderpoorten, A. & Goffinet, B. 2009. Introduction to Bryophytes. New York, Cambridge 
+University Press.  
+Vaz-Imbassahy, T. D. F., Imbassahy, C. A. D. A., & Costa, D. P. D. (2008). Synopsis of 
+Pilotrichaceae (Bryophyta) from Brasil. Rodriguésia, 59(4), 765-797. 
+Visnadi, S. R. 2005. Brioflora da Mata Atlântica do estado de São Paulo: região norte. Hoehnea 32: 
+215-231. 
+Yano, O. 1984. Briófitas. In: Fidalgo, O. et al. Técnicas de coleta, preservação e herborização de 
+material botânico. Instituto de Botânica de São Paulo 4: 27-28. 
+Yano, O. 2005. Adição às briófitas da Reserva Natural da Vale do Rio Doce, Linhares, Espírito Santo, 
+Brasil. Boletim do Museu de Biologia Mello Leitão 18: 15-58. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+19 
+ 
+19 
+ 
+Yano, O. 2010. Levantamento de novas ocorrências de briófitas brasileiras. Instituto de Botânica, 
+São Paulo. 
+Yano, O. 2012. Catálogo das briófitas (antóceros, hepáticas e musgos) do estado do Espírito Santo, 
+Brasil. Instituto Anchietano de Pesquisas 63: 21-38. 
+Yano, O. & Peralta, D.F. 2007. As briófitas ameaçadas de extinção no Estado do Espírito Santo. In: 
+Simonelli M, Fraga, CN. Espécies da Flora Ameaçada de Extinção no Estado do Espírito Santo. 
+Ipema, Vitória, 81-87. 
+Yano, O. & Peralta, D.F. 2008. Briófitas do Espírito Santo existentes no Herbário Científico do 
+Estado "Maria Eneyda P. Kauffmann Fidalgo", Instituto de Botânica, São Paulo, Brasil. Boletim 
+do Museu de Biologia Mello Leitão 24: 5-100.  
+Yano, O. & Peralta, D.F. 2011. Flora da Serra do Cipó, Minas Gerais: Briófitas (Anthocerotophyta, 
+Bryophyta e Marchantiophyta). Boletim de Botânica 29: 135-299.  
+Yano, O. 2016. Briófitas da Reserva Natural Vale, Linhares/ES, Brasil. In: Rolim SG, Menezes LFT 
+& Srbek-Araujo AC. Floresta Atlântica de Tabuleiro: Diversidade e Endemismos na Reserva 
+Natural Vale, pp. 231-246. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+20 
+ 
+20 
+ 
+Table 1: Mosses list from the Parque Nacional de Caparaó main visitations trails, Espírito Santo State, 
+Brazil. Subs.: substrate. TE: terricolous. RU: rupicolous. CO: corticicolous. EX: epixilous. Phyt. 
+Dom.: Phytogeographic Domain. AF: Atlantic Forest. AM: Amazon Forest. CA: Caatinga. CE: 
+Cerrado. PM: Pampa. PN: Pantanal. Dist.: Brazilian Distribution. 
+ 
+Taxon 
+Subs. 
+Phyt. Dom. 
+Dist. 
+Voucher 
+Bartramiaceae 
+ 
+ 
+ 
+ 
+   Breutelia subdisticha (Hampe) A. Jaeger 
+TE 
+AF 
+ES, MG, PR, RJ, 
+RS, SC, SP  
+MLF 19 (CAP 5927) 
+MLF 21 (CAP 5929) 
+   Breutelia tomentosa (Sw. ex Brid.) A. Jaeger  
+RU, TE 
+AF 
+BA, ES, MG, RS, 
+SP, SC 
+MLF 52 (CAP 5960) 
+MLF 111 (CAP 6019) 
+   * Philonotis longiseta (Michx.) E. Britton 
+RU 
+AF 
+BA, CE, RS 
+MLF 92 (CAP 6000) 
+Brachytheciaceae 
+ 
+ 
+ 
+ 
+   Meteoridium remotifolium (Müll. Hal.) Manuel 
+CO, RU 
+AF, AM, CE 
+AL, BA, ES, GO, 
+MG, MT, RR, PB, 
+PE, PR, RJ, RS, SP, 
+SC 
+MLF 107 (CAP 6015) 
+MLF 116 (CAP 6024) 
+MLF 122 (CAP 6030) 
+   Oxyrrhynchium clinocarpum (Taylor) Broth. 
+TE 
+AF 
+ES, RJ, PR, RS, SC, 
+SP 
+MLF 120 (CAP 6028) 
+   Squamidium brasiliense (Hornsch.) Broth.  
+CO 
+AF, AM, CE 
+AL, BA, ES, MG, 
+PR, PE, RJ, RS, SC, 
+SP 
+MLF 62 (CAP 5970) 
+   Squamidium leucotrichum (Taylor) Broth. 
+CO, RU 
+AF 
+AC, AM, AL, BA, 
+CE, ES, MG, PA, 
+PE, RJ, RO, RR, PR, 
+RS, SC, SP 
+MLF 65 (CAP 5973) 
+MLF 118 (CAP 6026) 
+Bryaceae 
+ 
+ 
+ 
+ 
+   Bryum argenteum Broth. 
+RU 
+AF, AM, CA, 
+CE, PM 
+AM, AL, BA, ES 
+MA, MG, PA, PE, 
+PB, PR, RJ, RS, SC, 
+SP, TO 
+MLF 10 (CAP 5918) 
+   Bryum densifolium Brid. 
+TE 
+AF, AM, CA, 
+CE, PM 
+BA, ES, MG, MT, 
+PE, PR, RJ, RS, SC, 
+SE, SP 
+MLF 119 (CAP 6027) 
+   * Rhodobryum auberti (Schwägr.) Thér.  
+TE 
+AF 
+BA, MG, RJ 
+MLF 43 (CAP 5951) 
+   Rhodobryum beyrichnianum (Hornsch.) Müll. 
+Hal. 
+TE 
+AF, AM, CE 
+BA, DF, ES, GO, 
+MG, MT, RJ, PE, 
+PR, RO, RR, RS, 
+SC, SP 
+MLF 20 (CAP 5928) 
+MLF 22 (CAP 5930) 
+MLF 54 (CAP 5962) 
+Calymperaceae 
+ 
+ 
+ 
+ 
+   Syrrhopodon gaudichaudii Mont. 
+CO 
+AF, AM, CA, 
+CE, PN 
+AM, AP, BA, DF, 
+ES, GO, MA, MG, 
+MT, MS, PA, PE, 
+PR, RJ, RR, RS, SE, 
+SC, SP, TO 
+MLF 94 (CAP 6002) 
+Dicranaceae 
+ 
+ 
+ 
+ 
+   Aongstroemia julacea (Hook.) Mitt.  
+RU, TE 
+AF 
+ES, MG, RJ 
+MLF 114 (CAP 6022) 
+MLF 8 (CAP 5916) 
+   Cladastomum ulei Müll. Hal. 
+TE 
+AF 
+ES, MG, PR, RJ, SC ATS 05 (CAP 6038) 
+ATS 06 (CAP 6039) 
+   Ditrichum crinale (Taylor) Kuntze 
+TE 
+AF 
+ES, MG 
+MLF 16 (CAP 5924) 
+MLF 17 (CAP 5925) 
+   * Ditrichum itatiaiae (Müll.Hal.) Paris 
+TE 
+AF 
+MG, RJ, SP 
+MLF 23 (CAP 5931) 
+Funariaceae 
+ 
+ 
+ 
+ 
+   * Physcomitrium falcifolium Müll. Hal. ex Broth. 
+RU 
+AF 
+GO, MG, PR, RJ, 
+RS, SP 
+MLF 36 (CAP 5944) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+21 
+ 
+21 
+ 
+Taxon 
+Subs. 
+Phyt. Dom. 
+Dist. 
+Voucher 
+Hedwidiaceae 
+ 
+ 
+ 
+ 
+   Hedwigidium integrifolium (P. Beauv.) Dixon 
+TE, EX 
+AF 
+ES, MG, PE, PR, RJ, 
+RS, SC, SP 
+ATS 02 (CAP 6035) 
+ATS 03 (CAP 6036) 
+Hypnaceae 
+ 
+ 
+ 
+ 
+   Isopterygium tenerifolium Mitt. 
+ 
+TE 
+AF 
+AM, BA, CE, DF, 
+GO, MG, MT, PA, 
+PR, RJ, RO, RS, SC, 
+SP 
+MLF 55 (CAP 5963) 
+   Isopterygium tenerum (Sw.) Mitt.  
+TE 
+AF, AM, CA, 
+CE, PM, PN 
+AC, AM, BA, CE, 
+DF, ES, GO, MA, 
+MG, MS, MT, PA, 
+PB, PE, PI, PR, RJ, 
+RO, RR, RS, SC, 
+SP, TO 
+MLF 120 (CAP 6028) 
+   Chryso-hypnum elegantulum (Hook.) Hampe  
+RU 
+AF, AM, CA, 
+CE, PN 
+AC, AM, AP, BA, 
+DF, ES, GO, MG, 
+MS, MT, PE, PR, 
+RJ, RO, RR, RS, SC, 
+SP 
+MLF 113 (CAP 6021) 
+Lembophyllaceae 
+ 
+ 
+ 
+ 
+   Pilotrichella flexilis (Hedw.) Ångström  
+CO, EX AF, AM, CE, 
+PN 
+AP, BA, ES, MG, 
+MT, MS, PE, PR, 
+RJ, RS, SC, SP 
+MLF 33 (CAP 5941) 
+MLF 53 (CAP 5961) 
+MLF 37 (CAP 5945) 
+MLF 71 (CAP 5979) 
+MLF 106 (CAP 6014) 
+Leucobryaceae 
+ 
+ 
+ 
+ 
+   * Atractylocarpus brasiliensis (Müll.Hal.) R.S. 
+Williams 
+RU 
+AF 
+BA, RJ, RS, SP 
+MLF 40 (CAP 5948) 
+   Campylopus arctocarpus (Hornsch.) Mitt. 
+CO 
+AF, CA, CE, 
+PM 
+AM, BA, ES, GO, 
+MG, MT, PE, PI, 
+PR, RJ, RS, SC, SP 
+MLF 97 (CAP 6005) 
+   Campylopus fragilis (Brid.) Bruch & Schimp. 
+RU, TE 
+AF 
+BA, ES, MG, RJ, RS MLF 05 (CAP 5913) 
+MLF 59 (CAP 5967) 
+   Campylopus lamellinervis (Müll.Hal.) Mitt. 
+RU 
+AF, CA, PM BA, ES, MG, PE, PI, 
+PR, RJ, RS, SC, SP 
+MLF 83 (CAP 5991) 
+   Campylopus occultus Mitt. 
+TE 
+AF, AM, CE, 
+PM, PN 
+AP, BA, GO, DF, 
+ES, MA, MG, MT, 
+MS, PA, PE, PR, RJ, 
+RR, RS, SC, SP 
+MLF 02 (CAP 5910) 
+MLF 13 (CAP 5921) 
+MLF 15 (CAP 5923) 
+MLF 60 (CAP 5968) 
+   Campylopus pilifer Brid. 
+TE 
+AF, AM, CA, 
+CE, PM 
+AM, PA, RR, AL, 
+BA, CE, PE, DF, 
+MT, ES, RJ, MG, 
+SP, PR, RS 
+MLF 07 (CAP 5915) 
+MLF 08 (CAP 5916) 
+MLF 25 (CAP 5926) 
+MLF 26 (CAP 5927) 
+ATS 04 (CAP 6037) 
+   Pilopogon guadalupensis (Brid.) J.-P.Frahm 
+TE 
+AF 
+BA, ES, MG, PR, 
+RJ, RS, SC, SP 
+MLF 58 (CAP 5966) 
+Mniaceae 
+ 
+ 
+ 
+ 
+   Plagiomnium rhynchophorum (Hook.) T.J.Kop. 
+RU 
+AF, AM, CE 
+AP, ES, GO, MG, 
+PR, RJ, RS, SC, SP MLF 115 (CAP 6023) 
+   * Schizymenium brevicaule (Hornsch.) A.J. Shaw 
+& S.P.Churchill 
+TE, RU 
+AF 
+RJ, SC, SP 
+MLF 04 (CAP 5912) 
+MLF 46 (CAP 5954) 
+   Schizymenium campylocarpum (Arn. & Hook.) 
+Shaw 
+TE 
+AF 
+ES, MG, RJ, RS 
+MLF 03 (CAP 5911) 
+MLF 33 (CAP 5941) 
+Neckeraceae 
+ 
+ 
+ 
+ 
+   Thamnobryum fasciculatum (Hedw.) I.Sastre 
+CO 
+AF 
+ES, MG, PR, RJ, 
+RS, SC, SP 
+MLF 37 (CAP 5945) 
+Orthotricaceae 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+22 
+ 
+22 
+ 
+Taxon 
+Subs. 
+Phyt. Dom. 
+Dist. 
+Voucher 
+   Macromitrium cirrosum (Hedw.) Brid. 
+CO 
+AF, AM 
+AM, AP, BA, CE, 
+DF, ES, GO, MG, 
+PA, PR, RJ, RS, SC, 
+SP 
+MLF 96 (CAP 6004) 
+MLF 105 (6013) 
+   Macromitrium podocarpi Müll. Hal. 
+CO 
+AF, AM, CE 
+AC, AM, BA, CE, 
+ES, MG, MT, PA, 
+PE, RJ, PR, RO, RR, 
+SE, SP 
+MLF 63 (CAP 5971) 
+Phyllogoniaceae 
+ 
+ 
+ 
+ 
+   Phyllogonium viridae Brid. 
+CO 
+AF 
+AL, BA, CE, ES, 
+MG, MT, PE, PR, 
+RJ, RS, SC, SP 
+MLF 37 (CAP 5945) 
+Pilotrichaceae 
+ 
+ 
+ 
+ 
+   Brymela fluminensis (Hampe) W.R. Buck  
+RU 
+AF 
+ES, PR, RJ, RS, SP 
+MLF 38(CAP 5946) 
+Polytrichaceae 
+ 
+ 
+ 
+ 
+   Itatiella ulei (Broth. ex Müll. Hal.) G.L.Sm. 
+TE 
+AF 
+ES, MG, PR, RJ, SP MLF 117 (CAP 6025) 
+ATS 06 (CAP 6039) 
+   Polytrichadelphus pseudopolytrichum (Raddi) 
+G.L.Sm. 
+TE 
+AF 
+ES, MG, RJ, PR, 
+RS, SC, SP 
+MLF 12 (CAP 5920) 
+   Polytrichum juniperinum Willd. ex Hedw. 
+TE, RU 
+AF, AM, CE 
+BA, DF, ES, GO, 
+MG, PR, RJ, RO, 
+RR, RS, SC, SP, TO 
+MLF 44 (CAP 5952) 
+ATS 01 (CAP 6034) 
+   Polytrichum commune L. ex Hedw. 
+TE 
+AF, AM, CA, 
+CE, PM 
+AM, BA, DF, ES, 
+GO, MG, PR, RJ, 
+RO, RR, RS, SC, SP 
+MLF 33 (CAP 5941) 
+ATS 06 (CAP 6039) 
+   Polytrichum angustifolium Mitt. 
+TE 
+AF, PM 
+BA, ES, MG, PR, 
+RJ, RS, SC, SP 
+MLF 24 (CAP 5932) 
+Pottiaceae 
+ 
+ 
+ 
+ 
+   * Leptodontium filicola Herzog. 
+TE 
+AF 
+MG, RJ, RS, SC 
+MLF 14 (CAP 5922) 
+MLF 28 (CAP 5936) 
+   Leptodontium viticulosoides (P. Beauv.) Wijk & 
+Margad. 
+TE, CO 
+AF 
+BA, ES, MG, PE, 
+PR, RJ, RS, SC, SP 
+MLF 51 (CAP 5959) 
+MLF 53 (CAP 5961)  
+   Leptodontium stellatifolium (Hampe) Broth. 
+RU 
+AF 
+ES, MG, RJ, SC, SP ATS 07 (CAP 6040) 
+   Tortella humilis (Hedw.) Jenn. 
+RU 
+AF, CA, CE, 
+PM, PN 
+BA, DF, ES, GO, 
+MA, MG, MS, PE, 
+PR, RJ, RS, SC, SP 
+MLF 10 (CAP 5918) 
+MLF 118 (CAP  6026) 
+Prionodontaceae 
+ 
+ 
+ 
+ 
+   Prionodon densus (Hedw.) Müll.Hal. 
+CO 
+AF, PM 
+ES, MG, PR, RJ, 
+RS, SC, SP 
+MLF 116 (CAP 6024) 
+Rhacocarpaceae 
+ 
+ 
+ 
+ 
+   Rhacocarpus inermis (Müll.Hal.) Lindb. 
+TE, RU 
+AF 
+ES, MG, RJ, RS, SC 
+MLF 87 (CAP 5995) 
+MLF 89 (CAP 5997) 
+MLF 91 (CAP 5999) 
+Sematophyllaceae 
+ 
+ 
+ 
+ 
+   Aptychopsis estrellae (Hornsch.) Ångström 
+RU, CO 
+AF 
+AL, BA, CE, DF, 
+ES, GO, MG, MT, 
+PA, PE, PR, RJ, RS, 
+SC, SP 
+MLF 98 (CAP 6006) 
+MLF 102 (CAP 6010) 
+MLF 41 (CAP 5949) 
+   Aptychopsis pyrrhophylla (Müll.Hal.) Wijk & 
+Margad. 
+RU 
+AF 
+AM, BA, ES, MG, 
+PR, RJ, SC, SP 
+MLF 85 (CAP 5993) 
+   Brittonodoxa lithophila (Hornsch.) W.R. Buck, 
+P.E.A.S.Câmara & Carv.-Silva 
+RU 
+AF, AM, CE 
+ES, MT, MG, PR, 
+RJ, RS, SP 
+MLF 36 (CAP 5944) 
+   Brittonodoxa subpinnata (Brid.) W.R. Buck,  
+P.E.A.S.Câmara & Carv.-Silva 
+RU 
+AF, AM, CA, 
+CE, PN, PM 
+AC, AL, AM, AP, 
+BA, CE, DF, ES, 
+GO, MA, MG, MS, 
+MT, PA, PB, PE, 
+MLF 41 (CAP 5949) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+23 
+ 
+23 
+ 
+Taxon 
+Subs. 
+Phyt. Dom. 
+Dist. 
+Voucher 
+PR, RJ, RO, RR, RS, 
+SC, SP, TO 
+   * Donnellia lagenifera (Müll.Hal.) W.R. Buck 
+CO 
+AF, AM 
+MG, PA, RJ, RS, 
+SC, SP 
+MLF 45 (CAP 5953) 
+   Sematophyllum swartzii (Schwägr.) W.H.Welch 
+& H.A.Crum 
+CO 
+AF 
+BA, ES, MG, RJ, 
+RS, SC, SP 
+MLF 77 (CAP 5985) 
+   * Trichosteleum glaziovii W.R. Buck 
+EX 
+AF 
+MG, RJ, PE, PR, 
+RS, SC, SP 
+MLF 93 (CAP 6001) 
+   Vitalia galipensis (Müll. Hal.) P.E.A.S.Câmara, 
+Carv.-Silva & W.R. Buck 
+RU 
+AF, AM, CE 
+BA, DF, ES, GO, 
+MG, MT, MS, PA, 
+PE, PR, RJ, RO, RR, 
+RS, SC, SP, TO 
+MLF 39 (CAP 5947) 
+MLF 89 (CAP 5997) 
+Sphagnaceae 
+ 
+ 
+ 
+ 
+   Sphagnum aciphyllum Müll. Hal.  
+TE 
+AF, PM 
+BA, ES, MG, PR, 
+RJ, RS, SC, SP 
+MLF 30 (CAP 5938) 
+MLF (CAP 5951)  
+Thuidiaceae 
+ 
+ 
+ 
+ 
+   Thuidium delicatulum (Hedw.) Schimp. 
+TE, CO, 
+EX 
+AF, AM, CE 
+AM, BA, ES, GO, 
+MG, MT, PA, PR, 
+RJ, RS, SC, SP 
+MLF 43 (CAP 5951) 
+MLF 105 (CAP 6013) 
+MLF 107 (CAP 6015) 
+MLF 108 (CAP 6016) 
+   Thuidium tomentosum Schimp. 
+TE 
+AF, AM, CE, 
+PN 
+AL, AM, BA, ES, 
+GO, MG, MS, MT, 
+PA, PE, PR, RJ, RO, 
+RR, RS, SC, SP 
+MLF 42 (CAP 5950) 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+24 
+ 
+24 
+ 
+ 
+Figure 1. Localization map of the Parque Nacional do Caparaó, Espírito Santo State, Brazil. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+25 
+ 
+25 
+ 
+ 
+Figure 2. Richness families occurring in the Parque Nacional do Caparaó, Espírito Santo State, Brazil. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+26 
+ 
+26 
+ 
+ 
+Figure 3. Percentage of substrates colonized by moss species occurring in the Parque Nacional do 
+Caparaó, Espírito Santo State, Brazil. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+27 
+ 
+27 
+ 
+ 
+Figure 4. Richness of mosses families in four altitudinal zones in the Parque Nacional do Caparaó, 
+Espírito Santo State, Brazil. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+28 
+ 
+28 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+29 
+ 
+29 
+ 
+Figure 5. Mosses (Bryophyta) in the Parque Nacional de Caparaó, Espírito Santo State, Brazil. a. 
+Aongstroemia julacea (Hook.) Mitt. b. Aptychopsis estrellae (Hornsch.) Ångström. c. Aptychopsis 
+pyrrhophylla (Müll.Hal.) Wijk & Margad. d. Atractylocarpus brasiliensis (Müll.Hal.) R.S. Williams. 
+e. Brymela fluminensis (Hampe) W.R. Buck. f. Cladastomum ulei Müll. Hal. g. Ditrichum crinale 
+(Taylor) Kuntze. h. Ditrichum itatiaiae (Müll.Hal.) Paris. Black scale: 200um. Gray scale: 1cm. (a. 
+Fornazier 114. b. Fornazier 98. c. Fornazier 85. d. Fornazier 40. e. Fornazier 38. f. Da Silva 06. g. 
+Fornazier 16. h. Fornazier 23). 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+30 
+ 
+30 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+31 
+ 
+31 
+ 
+Figure 6. Mosses (Bryophyta) in the Parque Nacional de Caparaó, Espírito Santo State, Brazil. a. 
+Donnellia lagenifera (Müll.Hal.) W.R. Buck. b. Itatiella ulei (Broth. ex Müll. Hal.) G.L.Sm. c. 
+Leptodontium filicola Herzog. d. Leptodontium stellatifolium (Hampe) Broth. e. Oxyrrhynchium 
+clinocarpum (Taylor) Broth. f. Philonotis longiseta (Michx.) E. Britton. g. Physcomitrium falcifolium 
+Müll. Hal. ex Broth. i. Polytrichum angustifolium Mitt. Black scale: 200um. Gray scale: 1cm. Black 
+scale: 200um. Gray scale: 1cm. (a. Fornazier 45. b. Da Silva 06. c. Fornazier 28. d. Da Silva 07. f. 
+Fornazier 120. g. Fornazier 92. h. Fornazier 36. i. Fornazier 24). 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+32 
+ 
+32 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+33 
+ 
+33 
+ 
+Figure 7. Mosses (Bryophyta) in the Parque Nacional de Caparaó, Espírito Santo State, Brazil. a. 
+Rhacocarpus inermis (Müll.Hal.) Lindb. b. Rhodobryum aubertii (Schwägr.) Thér. c. Schizymenium 
+brevicaule (Hornsch.) A.J. Shaw & S.P.Churchill. d. Schizymenium campylocarpum (Arn. & Hook.) 
+Shaw. e. Trichostelium glaziovii W.R. Buck. f. Vitalia galipensis (Müll. Hal.) P.E.A.S.Câmara, Carv.-
+Silva & W.R. Buck. Black scale: 200um. Gray scale: 1cm. (a. Fornazier 89. b. Fornazier 43. c. 
+Fornazier 46. d. Fornazier 03. e. Fornazier 93. f. Fornazier 89). 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+34 
+ 
+34 
+ 
+ 
+ 
+CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE PREPRINTS 
+DO SCIELO 
+ 
+ 
+ 
+Ao Comitê Editorial de HOEHNEA 
+ 
+ 
+Declaro, em meu próprio nome e nos dos demais Autores que concordo com a publicação do 
+artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Survey of mosses (Bryophyta) along 
+visitor trails in the Parque Nacional de Caparaó, Espírito Santo State, Brazil” de autoria de Thamara 
+Arão Feletti, Denilson Fernandes Peralta e Juliana Rosa do Pará Marques de Oliveira, no Portal de 
+Preprints do SciELO Brasil (Biological Sciences | SciELO Preprints). 
+Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não está 
+sendo considerado para publicação em outra Revista, quer seja no formato impresso e/ou eletrônico. 
+ 
+São Paulo, 22 de maio de 2021. 
+ 
+ 
+ 
+ 
+_______________________________________ 
+Assinatura do Autor Responsável pelo Artigo 
+ 
+Thamara Arão Feletti 
+Nome Completo do Autor Responsável pelo Artigo 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-94/2020
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

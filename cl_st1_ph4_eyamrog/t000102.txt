@@ -1,3 +1,56 @@
+Status: Preprint has been published in a journal as an article
+DOI of the published article: http://doi.org/10.33448/rsd-v10i13.21185
+VALIDITY OF THE INSTRUMENT interRAI EMERGENCY SCREENER
+FOR PSYCHIATRY FOR THE BRAZILIAN CONTEXT
+Luis Afonso Bataglin Cabral, Wagner de Lara Machado, Elton Luiz Ferlin, John P. Hirdes, Luiz
+Carlos Porcello  Marrone, Alice Hirdes
+https://doi.org/10.1590/SciELOPreprints.2747
+Submitted on: 2021-08-05
+Posted on: 2021-08-06 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+ 
+VALIDITY OF THE INSTRUMENT interRAI EMERGENCY SCREENER FOR 
+PSYCHIATRY FOR THE BRAZILIAN CONTEXT 
+ 
+Luis Afonso Bataglin Cabral1 
+  https://orcid.org/0000-0002-9223-9937 
+Wagner de Lara Machado2 
+https://orcid.org/0000-0001-5555-5116 
+Elton Luiz Ferlin3 
+https://orcid.org/0000-0002-4278-1031 
+John P. Hirdes4 
+https://orcid.org/0000-0001-9619-6543 
+Luiz Carlos Porcello Marrone5 
+https://orcid.org/0000-0002-8071-813X 
+Alice Hirdes6 
+https://orcid.org/0000-0003-3318-0514 
+ 
+ 
+1. Health Promotion, Society and Development Graduate Program, Universidade Luterana do 
+Brasil, Brazil. 
+2. Psychology Graduate Program, Pontifícia Universidade Católica do Rio Grande do Sul, 
+Brazil. 
+3. Research Graduate Program, Hospital de Clínicas de Porto Alegre, Brazil. 
+4. School of Public Health and Health Systems, Waterloo University, Canada.  
+5. Health Promotion, Society and Development Graduate Program, Universidade Luterana do 
+Brasil, Brazil. 
+6. Health Promotion, Society and Development Graduate Program, Universidade Luterana do 
+Brasil, Brazil. 
+ 
+Corresponding Author: 
+Alice Hirdes 
+Health Promotion, Society and Development Graduate Program 
+Universidade Luterana do Brasil  
+E-mail: alice.hirdes@ulbra.br 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+2 
+ 
+ 
+ABSTRACT 
 Objective: The aim of this study was to carry out the translation and present the evidence of 
 validity of the Brazilian version of the interRAI Emergency Screener for Psychiatry (ESP). 
 Method: this is a cross-sectional study conducted in a municipal hospital in the metropolitan 
@@ -12,8 +65,64 @@ the interRAI Emergency Screener for Psychiatry (ESP) demonstrates adequate psych
 properties through the internal structure of the instrument. Future studies should investigate 
 the relationship of the scores produced by the instrument with clinical diagnosis and with 
 covariates relevant to mental health outcomes. 
-
-Emergency services in general hospitals are part of the Psychosocial Care Network 
+Keywords: Emergency hospital service; Diagnosis; Psychometrics; Validation studies; 
+Mental disorders; General hospitals.  
+ 
+RESUMO 
+Objetivo: O objetivo do estudo foi realizar a tradução e apresentar as evidências de validade 
+do interRAI Emergency Screener for Psychiatry (ESP). Método: trata-se de uma pesquisa 
+transversal realizada em um hospital municipal da região metropolitana de Porto Alegre, Rio 
+Grande do Sul. Foram avaliados 161 pacientes nas primeiras 24 hs da chegada a emergência 
+utilizando o ESP. Foram conduzidas análises fatoriais exploratórias das seções do instrumento 
+e análises de fidedignidade por meio do alfa de Cronbach e Ômega de McDonald. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+3 
+ 
+ 
+Resultados: as análises sugeriram uma estrutura adequada ao propósito do instrumento, 
+sendo duas seções contendo dois fatores ao invés da estrutura unidimensional esperada. 
+Contudo, as seções com dois fatores possuem interpretabilidade e consistência teórica. Os 
+fatores apresentaram consistência interna. Conclusão: a versão brasileira do interRAI 
+Emergency Screener for Psychiatry (ESP) demonstra adequadas propriedades psicométricas 
+por meio da estrutura interna do instrumento. Estudos futuros deverão investigar a relação dos 
+escores produzidos pelo instrumento com diagnóstico clínico e com covariáveis relevantes 
+para os desfechos de saúde mental.  
+Descritores: Serviço hospitalar de emergência; Diagnóstico; Psicometria; Estudos de 
+validação; Transtornos mentais; Hospitais Gerais. 
+ 
+RESUMEN: 
+Objetivo: El objetivo de este estudio era realizar la traducción y presentar la evidencia de 
+validez del examinador de emergencia interRAI para psiquiatría (ESP). Método: se trata de 
+una encuesta transversal realizada en un hospital municipal de la región metropolitana de 
+Porto Alegre, Rio Grande do Sul. Un total de 161 pacientes fueron evaluados en las primeras 
+24 horas de llegada de emergencia utilizando ESP. Los análisis exploratorios de factores de 
+las secciones del instrumento y los análisis de fiabilidad se llevaron a cabo utilizando 
+Cronbach's alpha y McDonald's Omega. Resultados: los análisis sugirieron una estructura 
+adecuada a los propósitos del instrumento, dos secciones que contienen dos factores en lugar 
+de la estructura unidimensional esperada. Sin embargo, las secciones con dos factores tienen 
+interpretabilidad 
+y 
+consistencia 
+teórica. Los 
+factores 
+presentaron 
+consistencia 
+interna. Conclusión: la versión brasileña del Examinador de Emergencia InterRAI para 
+Psiquiatría (ESP) demuestra propiedades psicométricas adecuadas a través de la estructura 
+interna del instrumento. Los estudios futuros deben investigar la relación de las puntuaciones 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+4 
+ 
+ 
+producidas por el instrumento con el diagnóstico clínico y con covariables relevantes para los 
+resultados de salud mental. 
+Descritores: Servício de urgência en hospital; Diagnóstico; Psicometría; Estudios de 
+validación; Transtornos Mentales; Hospitales generales.  
+ 
+Introduction 
+         Emergency services in general hospitals are part of the Psychosocial Care Network 
 (Brasil 2011) supported by the Psychiatric Reform Law (Brasil, 2001) and Ordinance MS/GM 
 No 2048, November 5, 2002 (Brasil, 2002) which specify that psychiatric emergency care is 
 the responsibility of emergency rooms (ER) in general hospitals. The search occurs 
@@ -37,10 +146,14 @@ conducted at a hospital in Ontario, Canada showed that mental disorders and addi
 account for 10.3% of emergency room, 8.7% of admissions and 20% of inter-hospital 
 transfers. The research identified that respiratory problems, mental disorders and 
 abdominal/pelvic complaints are the three most common diagnostic groups in RE. 
-
 Patients with substance use disorders, suicidal ideation, or those who have attempted 
 suicide are the most common users of mental health emergency services. The next most 
 frequent are those with psychosis, altered mental status and acute anxiety disorders. Suicide 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+5 
+ 
+ 
 attempts require in-depth screening, evaluation and recommendations on subsequent follow-
 up (Hashmi, Czelusta, Jabbar, Siddiqui, Shah, 2018). National data from the Canadian 
 Institute for Health Information (Canadian Institute for Health Information, 2017)                        
@@ -63,7 +176,6 @@ Stephenson,
 Edward, 
 2018;                        
 Staton et al., 2018;  Wu et al., 2020). 
-
 In the care of patients in emergencies it is necessary to determine whether the cause of 
 the complaint is functional or organic, if there are associated medical comorbidities and 
 whether there is a need for psychiatric evaluation or hospitalization (Williams & Shepherd, 
@@ -73,8 +185,12 @@ Matorin, & Moukaddam, 2015).  Prior research (Shepard et al., 2015; Benziger, Ro
 Moran, 2016; World Health Organization, 2013) demonstrates the correlation between mental 
 disorders and organic diseases and the coexistence of these diseases may not be recognized 
 initially in this population.  
-
-Evidence indicates that a complete history and physical examination, including vital 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+6 
+ 
+ 
+ Evidence indicates that a complete history and physical examination, including vital 
 signs and mental status examination, are the minimum elements needed in the evaluation of 
 psychiatric patients in emergencies (Wilson et al., 2017). On the other hand, there is no 
 screening tool for the release of patients with psychiatric symptoms standardized in 
@@ -82,7 +198,6 @@ emergencies. The validity of a screening algorithm proved to be effective for ps
 diagnosis as an evaluation method for the exclusion of acute disease. In a study of the 
 application of the Triage Algorithm for Psychiatric Screening (TAPS) no patient received 
 diagnosis or treatment for acute medical disease (Miller et al., 2012). 
-
 In hospitals with organized psychiatric services, the need for systematic training of 
 supervisors and resident physicians in diagnostic criteria and structured interviews for greater 
 accuracy of diagnosis, has been defended when performed under indirect supervision (Del- 
@@ -104,11 +219,15 @@ points in prevention programs, therapeutic improvement and psychosocial interven
 hospitals do not have psychiatrists on duty in their staff in the emergency service. In this 
 sense, a standardized instrument can qualify emergency care and assist professionals in 
 clinical decision-making. 
-
 The interRAI Emergency Screener for Psychiatry (ESP) is an instrument designed for 
 the use of health and mental health professionals dealing with urgent mental health situations: 
 physicians, psychiatrists, psychologists, nurses, social workers and family physicians 
 (Rabinowitz, Hirdes, Curtin-Telegdi, Martin, & Smith, 2013). The principles of  interRAI 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+7 
+ 
+ 
 mental health assessment systems include the evaluation of the person in order to maximize 
 functional capacity and quality of life, identify physical and mental health problems and 
 improve the level of independent functioning (Hirdes et al., 2020;  Hirdes et al., 2002; Hirdes, 
@@ -117,7 +236,6 @@ in over 35 countries committed to improve care for persons who are disabled or m
 complex. The interRAI mental health instruments represents the results of rigorous research 
 and testing to establish the reliability and validity of items, outcome measures, assessment 
 protocols, and quality indicators.  
-
 The ESP focuses on acute mental health crises but is designed to articulate with other 
 instruments like the interRAI Community Mental Health, which may be used by mental 
 health case managers. To achieve these objectives there is a need to identify the purpose of 
@@ -129,9 +247,17 @@ of  the interRAI ESP Assessment (Rabinowitz, Hirdes, Curtin-Telegdi, Martin, & S
 psychiatric evaluation in general hospital emergencies, the present study aimed to translate 
 and evaluate the use of the interRAI Emergency Screener for Psychiatry instrument in the 
 Brazilian context. 
-
+ 
+Method 
+Adaptation of the interRAI Emergency Screener for Psychiatry (ESP) to Brazilian 
+Portuguese 
 For the adaptation of the interRAI Emergency Screener for Psychiatry (ESP) 
 (Rabinowitz, Hirdes, Curtin-Telegdi, Martin, & Smith, 2013) the steps indicated in the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+8 
+ 
+ 
 literature were followed (Mocking et al., 2020). After the consent of the authors of the 
 instrument, two independent and bilingual translators did the Brazilian Portuguese version of 
 the instrument.  Two authors of this article built a synthesized version of the two 
@@ -144,7 +270,8 @@ health services in Brazil. The final back-translated version was evaluated and a
 authors of the original instrument. This version was used by four professionals from different 
 backgrounds (two nurses, a psychologist and an occupational therapist) and there were no 
 problems in understanding the instrument. 
-
+ 
+Participants 
 The sample consisted of 161 participants, 67 (42%) men and 94 (68%) women, with a 
 mean age of 39.8 (SD = 16.1) years, all from a medium-sized municipal hospital in the 
 metropolitan region of Rio Grande do Sul State. The exclusion criteria of the sample 
@@ -152,9 +279,15 @@ were patients with moderate to severe impairment at the time of evaluation, name
 of psychoactive substances, impairment of consciousness - delirium, psychomotor agitation 
 and difficulty in controlling aggressiveness, unaccompanied by a family member 
 and/or guardian. 
-
+  
+Instrument and procedures 
 Data were collected using a custom made software with the Portuguese version of 
 the interRAI Emergency Screener for Psychiatry (ESP instrument version 9.1 (Rabinowitz, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+9 
+ 
+ 
 Hirdes, Curtin-Telegdi, Martin, & Smith, 2013). The instrument has 13 main sections with 
 sub-items and evaluates different mental health indicators such as mood disturbance, anxiety, 
 psychosis, negative symptoms, sleep problems related to hypomania or mania, time since the 
@@ -167,7 +300,8 @@ index). Data exportation complies with the internationally coding used by the in
 research group, allowing the use of this data in multicentric research. The average time to 
 complete the ESP is thirty minutes; however, the acute nature of the disease may be a barrier 
 to completion if other informants are not present (Hirdes et al., 2020).  
-
+ 
+Data analysis 
 Descriptive analysis (central tendency and dispersion) were conducted to diagnose the 
 distribution, frequency and summaries of the variables. Subsequently, parallel analysis were 
 conducted in order to identify the number of factors interpreted (Timmerman & Lorenzo-
@@ -179,6 +313,11 @@ semiparametric approximation (Shapiro & Berge, 2002), considering the ordinal le
 responses to the instrument. Standardized factor loadings above 0.3 are expected to indicate 
 adjustment between the item and factor. This squared value indicates the correlation between 
 the item and the latent dimension, which must be close to or greater than 10%. For the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+10 
+ 
+ 
 analysis of consistency and reliability, Cronbach's Alpha index and the McDonald's omega 
 index (Trizano-Hermosilla & Alvarado, 2016) were used. The alpha index indicates the level 
 of common variance based on the intercorrelations between the items while the omega index 
@@ -188,7 +327,8 @@ information) only risk indicators were analyzed, totaling four items. Finally, w
 scores modeled on each factor, its contribution to the overall ESP score was calculated by 
 means of an analysis of principal components. The componential loads indicate which 
 subscales (sections) are most determinant for the general mental health of the participants.   
-
+  
+Ethical Considerations 
 This project was completed in accordance with the guidelines and regulatory standards 
 of 
 research 
@@ -203,20 +343,149 @@ no. CAAE
 09164119.2.0000.5349. All participants signed the Free and Informed Consent Form. Ethical 
 aspects related to research with human beings were respected, as determined by Resolution 
 no. 466/2012 (Brasil, 2012)  and Declaration of Helsinki (World Medical Association, 1997).  
-
+ 
+ Results 
 Table 1 summarizes the psychometric parameters of the ESP sections. This Table describes 
 the number of factors suggested by parallel analysis, amplitude of factor loadings, 
 intercorrelations between factors and reliability measures. Parallel analysis and the complete 
 description of the factor loadings of the items in each section can be viewed in an attached 
 supplementary material. 
-
+Table 1 
+ESP Section, Number of Retained Factors, Amplitude of Factor loadings and Reliability 
+Measures of Factors. Rio Grande do Sul, RS, Brazil, 2020. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+11 
+ 
+ 
+Section 
+# of 
+Retained 
+Factors a  
+Factor loadings - amplitudeb 
+Reliability 
+B - Mental State Indicators 
+  
+2 
+Depression: 0.38 to 0.81 
+Mania: 0.35 to 0.94 
+Correlation between factors: r = 0.20 
+Depression: α = 0.91 
+Depression: ω = 0.94 
+Mania: α = 0.88 
+Mania: ω = 0.87 
+C – Substance Use or Excessive 
+Behavior 
+1 
+0.42 to 0.88 
+α = 0,88 
+ω = 0,85 
+D – Harm to Self and Others  
+2 
+Self-harm: 0.77 to 0.93 
+Heteroaggression: 0.47 to 0.81 
+Correlation between factors: r = -
+0.01 
+Self-aggression: α = 
+0.90 
+Self-aggression: ω = 
+0.88 
+Heteroaggression: α = 
+0.79 
+Heteroaggression: ω 
+= 0.71 
+E - Behavior 
+1 
+0.30 to 0.95 
+α = 0,88 
+ω = 0,78 
+F - Cognition and communication 
+1 
+0.32 to 0.81 
+α = 0,77 
+ω = 0,70 
+G - Functional Status 
+1 
+0.80 to 0.98 
+α = 0,94 
+ω = 0,94 
+H - Medications 
+1 
+0.32 to 0.97 
+α = 0,72 
+ω = 0,60 
+I – Unsettled Relations, Supports, 
+and Life Events 
+1 
+0.69 to 0.88 
+α = 0,81 
+ω = 0,90 
+K - Summary psychiatric 
+information 
+1 
+0.43 to 0.87 
+α = 0,72 
+ω = 0,70 
+Note a = Number of retained factors as indicated by parallel analysis and Kaiser criterion, b = values in 
+module. 
+Note b = Section J had substancial missing data and was dropped from the analysis process. 
+ 
 Table 2 shows the descriptive data and the componential loads of each subscale in relation to 
 the overall score. Through the principal component analysis technique, a single component 
 was extracted that explained 32% of the total variance of the scores. This main component is 
 nothing more than a general index of mental health problems assessed by ESP. The 
 componential loads, presented in Table 2, indicate the association between the scores of each 
 section or subscale with this general index. 
-
+  
+Table 2 
+Descriptive Statistics and Componential Loads of ESP Sections. Rio Grande do Sul, RS, 
+Brazil, 2020. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+12 
+ 
+ 
+Section 
+Descriptive statistics 
+Componential  loads 
+B – Mental State Indicators 
+  
+Depression: Mean (SD) = 10.7 (7.7) 
+Mania: Mean (SD) = 9.6 (6.9) 
+Depression: 0.24 
+Mania: 0.79 
+C – Substance Use or Excessive 
+Behavior 
+Mean (SD) = 2.9 (4.2) 
+0,38 
+D - Harm to Self and Others 
+Self-aggression: Mean (SD) = 8.4 (5.9) 
+Heteroaggression: Mean (SD) = 4.6 (6.9) 
+Self-harm: -0.02 
+Heteroaggression: 0.57 
+E - Behavior 
+Mean (SD) = 1.6 (2.5) 
+0,78 
+F - Cognition and Communication 
+Mean (SD) = 3.2 (2.0) 
+0,75 
+G - Functional Status 
+Mean (SD) = 1.4 (2.3) 
+0,36 
+H - Medications 
+Mean (SD) = 1.3 (1.0) 
+0,42 
+I - Unsettled Relations, Supports, and 
+Life Events 
+Mean (SD) = 8.9 (4.6) 
+0,55 
+K – Psychiatric Summary Information 
+Mean (SD) = 11.9 (3.9) 
+0,78 
+Notea = Section J had substancial missing data and was dropped from the analysis process. 
+ 
+Discussion 
 The sections demonstrated, in general, good psychometric properties. With the 
 exception of sections B and D, all the other ones demonstrated evidence of a one-dimensional 
 structure, according to the theoretical expectation of the instrument. Although both sections 
@@ -229,7 +498,11 @@ between depression and mania, and between self-harm (self-aggression) and damage
 factors of sections B and C are close to zero, indicating that behaviors may or may not occur 
 concomitantly, without a previous expected pattern. Precisely the absence of correlation 
 indicates that any combinations between behaviors are plausible. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+13 
+ 
+ 
 The factor loadings of the items were adequate, all with values equal to or greater than 
 0.30. This indicates that the items are sensitive to detect changes in the latent dimensions 
 indicated by the ESP sections. Even in the sections in which a two-factor solution was 
@@ -240,7 +513,6 @@ answers are consistent, and the presence or absence of one of the indicators cor
 response to the other items. In section H Cronbach's alpha has acceptable value and 
 McDonald's omega is slightly below expectations, probably due to the small number of items 
 in this section. In this way, you can consider your level of trust appropriate. 
-
 The analysis of the main components of the sections (and subsections) of ESP 
 revealed that the areas investigated by the instrument have different weights in the 
 composition of the general mental health index. The most influential sections to designate 
@@ -256,17 +528,259 @@ of the variation in symptoms could be explained by a single factor called this t
 (Marshall, 2020). Others (Lahey, Krueger, Rathouz, Waldman, & Zald, 2017) have proposed 
 that the p factor is a general predisposition to psychopathology, but that other factors such as 
 stressful experiences or other gene alterations drives a person towards different symptoms. In 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+14 
+ 
+ 
 this sense, the use of ESP in large-scale multicenter studies may show evidence of common 
 symptoms in different mental disorders and the correlation between the disorders. 
-
 It should be noted that impairments in interpersonal relationships, as indicated 
 in sections D (Harm to Self and Others) and I (Unsettled Relations, Supports, and Life 
 Events) also contribute to the overall worsening in mental health assessment. These results 
 may support shorter and trace versions of ESP. It is noteworthy that the completion of the 
 software provides decision support to the emergency professional on three important scales: 
 Severity of Self-harm Scale; Risk of Harm to Others Scale and Self-Care Index.  
-
+ 
+Conclusion 
 The Brazilian version of the interRAI Emergency Screener for Psychiatry (ESP) 
 demonstrates adequate psychometric properties through the internal structure of the 
 instrument. Future studies should investigate the relationship of the scores produced by the 
 instrument with clinical diagnosis and with covariates relevant to mental health outcomes. 
+ 
+References  
+1. Brasil. Portaria nº. 3.088, de 23 de dezembro de 2011. Institui a Rede de Atenção 
+Psicossocial para pessoas com sofrimento ou transtorno mental e com necessidades 
+decorrentes do uso de crack, álcool e outras drogas, no âmbito do Sistema Único de Saúde. 
+Diário Oficial da União. 23 dez 2011.  
+2. Brasil. Lei nº. 10.216, de 6 de abril de 2001. Dispõe sobre a proteção e os direitos das 
+pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde 
+mental. Diário Oficial da União. 9 abr 2001. 
+3. Brasil. Portaria nº. 2048, de 5 de novembro de 2002. Regulamento Técnico dos Sistemas 
+Estaduais de Urgência e Emergência. Diário Oficial da União. 5 nov. 2002.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+15 
+ 
+ 
+4. Moulin A, Evans EJ, Xing G, Melnikow J. Substance use, homelessness, mental illness and 
+medicaid coverage: a set-up for high emergency department utilization. West J Emerg Med. 
+2018 Nov;19(6):902-6. doi: 10.5811/westjem.2018.9.38954. 
+5. Matsumoto CL, O'Driscoll T, Lawrance J, Jakubow A, Madden S, Kelly L. A 5 year 
+retrospective study of emergency department use in Northwest Ontario: a measure of mental 
+health and addictions needs. CJEM. 2017 Sep;19(5):381-5. doi: 10.1017/cem.2016.387. 
+6. Hashmi AM, Czelusta KL, Jabbar Q, Siddiqui S, Shah AA. Psychiatric illness in the 
+emergency department. Psychiatr Ann. 2018;48(1):21-7. doi: 10.3928/00485713-20171205-
+02. 
+7. Canadian Institute for Health Information (CIHI). Frequent emergency room visits for help 
+with mental health and/or addictions [Internet]. Ottawa (ON): CIHI; 2017 [cited 2020 Jun 10]. 
+Available from https://www.cihi.ca/sites/default/files/document/19994-pdf-backgrounder -
+shp-ed-visits-en02pc.pdf. 
+8. Canadian Institute for Health Information (CIHI). Health system resources for mental 
+health and addictions care in Canada, July 2019 [Internet]. Ottawa (ON): CIHI; 2019 [cited 
+2020 Jun 10]. Available from https://www.cihi.ca/sites/default/files/document/mental-health-
+chartbook-report-2019-en-web.pdf. 
+9. Williams ER, Shepherd SM. Medical clearance of psychiatric patients. Emerg Med 
+Clin North Am. 2000 May 1;18(2):185-98. doi: 10.1016/S0733-8627(05)70117-6. 
+10. Noblett JE, Lawrence R, Smith JG. The attitudes of general hospital doctors toward 
+patients with comorbid mental illness. Int J Psychiatry Med. 2015 Oct 26;50(4):370-82. doi: 
+10.1177/0091217415612721. 
+11. Giandinoto JA, Stephenson J, Edward KL. General hospital health professionals’ attitudes 
+and perceived dangerousness towards patients with comorbid mental and physical health 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+16 
+ 
+ 
+conditions: systematic review and meta-analysis. Int J Ment Health Nurs. 2018 Jun; 
+27(3):942-55. doi: 10.1111/inm.12433. 
+12. Staton CA, Vissoci JRN, Wojcik R, Hirshon JM, Mvungi M, Mmbaga BT, et al. 
+Perceived barriers by health care providers for screening and management of excessive 
+alcohol use in an emergency department of a low-income country. Alcohol. 2018 Sep;71:65-
+73. 
+doi: 
+10.101 
+6/j.alcohol.2018.01.003. 
+13. Wu Q, Luo X, Chen S, Qi C, Yang WF, Liao Y, et al. Stigmatizing attitudes towards 
+mental disorders among non-mental health professionals in six general hospitals in Hunan 
+province. Front Psychiatry. 2020 Jan 10;10(946):1-9. doi: 10.3389/fpsyt.2019.00946. 
+14. Tucci V, Siever K, Matorin A, Moukaddam N. Down the rabbit hole: emergency 
+department medical clearance of patients with psychiatric or behavioral emergencies. Emerg 
+Med Clin N Am. 2015 Sep 5;33(4):721-37. doi: 10.1016/j.emc.2015.07.002. 
+15. Shepard D, VanderZanden A, Moran A, Naghavi M, Murray C, Roth G. Ischemic heart 
+disease worldwide, 1990 to 2013: estimates from the global burden of disease study 
+2013. Circ 
+Cardiovasc 
+Qual 
+Outcomes. 2015 
+Jul 
+1;8(4):455-6. 
+doi: 
+10.1161/CIRCOUTCOMES.115.002007. 
+16. Benziger CP, Roth GA, Moran AE. The global burden of disease study and the 
+preventable 
+burden 
+of 
+NCD. Glob 
+Heart. 2016 
+Dec;11(4):393-7. 
+doi: 
+10.1016/j.gheart.2016.10.024.  
+17. World Health Organization. Mental health action plan 2013-2020. Geneva (CH): WHO 
+Document 
+Production 
+Services; 
+2013. 
+50 
+p. 
+https://www.who.int/mental_health/action_plan_2013/bw_version.pdf 
+18. Wilson MP, Nordstrom K, Anderson EL, Ng AT, Zun LS, Peltzer-Jones JM, et al. 
+American Association for Emergency Psychiatry Task Force on medical clearance of adult 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+17 
+ 
+ 
+psychiatric patients. Part II: controversies over medical assessment, and consensus 
+recommendations. West 
+J 
+Emerg 
+Med. 
+2017 
+Jun; 
+18(4):640-6. 
+doi: 
+10.5811/westjem.2017.3.32259. 
+19. Miller AC, Frei SP, Rupp VA, Joho BS, Miller KM, Bond WF. Validation of a Triage 
+Algorithm for Psychiatric Screening (TAPS) for patients with psychiatric chief complaints. J 
+Am Osteopath Assoc. 2012 Aug;112(8):502-8. PMID: 22904247 
+Ragazzi TCC, Shuhama R, Sinval J, Marôco J, Corsi-Zuelli F, Roza DL, et al. Validation of 
+the Portuguese version of the Community Assessment of Psychic Experiences and 
+characterization of psychotic experiences in a Brazilian sample. Braz J Psychiatry. 2020 Jul-
+Aug;42(4):389-97. doi: 10.1590/1516-4446-2019-0611.  
+20. Del-Ben CM, Hallak JEC, Sponholz Jr. A, Marques JMA, Labate CM, Contel JOB, et al. 
+Accuracy of psychiatric diagnosis performed under indirect supervision. Rev Bras Psiquiatr. 
+2005 Mar; 27(1):58-62. doi: 10.1590/S1516-44462005000100013. 
+21. Del-Ben CM, Rufino ACTBF, Azevedo-Marques JM, Menezes PR. Differential diagnosis 
+of first-episode psychosis: importance of an optimal approach in psychiatric emergency. Rev 
+Bras Psiquiatr. 2010 Oct;32 Suppl 2:S78-86. doi: 10.1590/S1516-44462010000600004. 
+22. Barros REM, Tung TC, Mari JJ. Serviços de emergência psiquiátrica e suas relações com 
+a rede de saúde mental brasileira. Rev Bras Psiquiatr. 2010 Out; 32 Suppl 2:S71-7. doi: 10.15 
+90/S1516-44462010000600003. 
+23. Rabinowitz T, Hirdes JP, Curtin-Telegdi N, Martin L, Smith TF. interRAI Emergency 
+Screener for Psychiatry (ESP) assessment form and user’s manual. Version 9.1. Washington 
+(DC): interRAI, 2013. 
+24. Hirdes JP, van Everdingen C, Ferris J, Franco-Martin M, Fries BE, Heikkilä J, et al. The 
+interRAI suite of mental health assessment instruments: an integrated system for the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+18 
+ 
+ 
+continuum 
+of 
+care. 
+Front 
+Psychiatry. 
+2020 
+Jan 
+17; 
+20(926):1-30. 
+doi: 
+0.3389/fpsyt.2019.00926.  
+25. Hirdes JP, Smith TF, Rabinowitz T, Yamauchi K, Pérez E, Telegdi NC, Prendergast P, 
+Morris JN, Ikegami N, Phillips CD, Fries BE. The resident assessment instrument-mental 
+health (RAI-MH): inter-rater reliability and convergent validity. The journal of behavioral 
+health services & research. 2002 Nov 1; 29(4):419-32. doi: 10.1007/BF02287348. 
+26. Hirdes JP, Ljunggren G, Morris JN, Frijters DH, Soveri HF, Gray L, Björkgren M, Gilgen 
+R. Reliability of the interRAI suite of assessment instruments: a 12-country study of an 
+integrated health information system. BMC health services research. 2008 Dec 1;8(1):277. 
+https://doi.org/10.1186/1472-6963-8-277. 
+27. Martin L, Hirdes JP, Morris JN, Montague P, Rabinowitz T, Fries BE. Validating the 
+mental health assessment protocols (MHAPs) in the resident assessment instrument mental 
+health (RAI‐MH). Journal of Psychiatric and Mental Health Nursing. 2009 Sep; 16(7):646-53. 
+doi: 10.1111/j.1365-2850.2009.01429.x. 
+28. Mocking LB et al. COSMIN study design checklist for patient-reported outcome 
+measurement instruments. Amsterdam, NL: Department of Epidemiology and Biostatistics, 
+2019. www.cosmin.nl [Internet]. Amsterdam (NL): COSMIN; c2005-2020 [cited 2020 Jul 
+20]. Available from: http://www.cosmin.nl.  
+29. Timmerman ME, Lorenzo-Seva U. Dimensionality assessment of ordered polytomous 
+items 
+with 
+parallel 
+analysis. 
+Psychol 
+Methods. 
+2011 
+Jun; 
+16(2):209-20. 
+doi: 
+10.1037/a0023353. 
+30. Shapiro A, Berge JMF. Statistical inference of minimum rank factor analysis. 
+Psychometrika. 2002 Mar 1;67(1):79-94. doi: 10.1007/BF02294710 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+19 
+ 
+ 
+31. Trizano-Hermosilla I, Alvarado JM. Best Alternatives to Cronbach’s alpha reliability in 
+realistic conditions: congeneric and asymmetrical measurements. Front Psychol. 2016 May 
+26;7(769):1-8. doi: 10.3389/fpsyg.2016.00769. 
+32. Brasil. Resolução nº. 466, de 12 de dezembro de 2012. Diretrizes e normas 
+regulamentadoras de pesquisas envolvendo seres humanos. Diário Oficial da União. 12 dez 
+2012. 
+33. World Medical Association. Declaration of Helsinki: recommendation guiding physicians 
+in biomedical research involving human subjects. JAMA. 1997 Mar 19; 277(11):925-6. 
+doi:10.1001/jama.1997.03540350075038.  
+34. The Brainstorm Consortium. Analysis of shared heritability in common disorders of the 
+brain. Science. 2018 Jun 22;360(6395):1-40. doi: 10.1126/science.aap8757. 
+35. Marshall M. The hidden links between mental disorders. Nature. 2020 May 
+7;581(7806):19-21 doi: 10.1038/d41586-020-00922-8. 
+36. Lahey BB, Krueger RF, Rathouz PJ, Waldman ID, Zald DH. A hierarchical causal 
+taxonomy of psychopathology across the life span. Psychol Bull. 2017;143(2):142-86. doi: 
+10.1037/bul0000069.  
+ 
+Author contributions: 
+AH  and  LABC  conceived  the  study, LABC conducted  data  collection, WLM  conducted  
+the  statistical  analyses  with  support from ELF. ELF build the software and managed the 
+database. AH and WLM wrote the first version of the manuscript. JPH reviewed the work, 
+LABC, WLM, ELF, LCPM, JPH and AH have approved the submitted version.  
+ 
+Declaration of conflict of interests: 
+We declare no conflict of interests. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+20 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2747
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

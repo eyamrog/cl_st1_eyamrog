@@ -1,3 +1,26 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.18222/eae.v34.9117
+Study of the multidimensional academic ranking “U-Multirank”
+Antonio Prado
+https://doi.org/10.1590/SciELOPreprints.3063
+Submitted on: 2021-10-13
+Posted on: 2021-10-15 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Study of the multidimensional academic ranking “U-Multirank” 
+ 
+Estudo do ranking acadêmico multidimensional "U-Multirank" 
+ 
+ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO 
+INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS-INPE 
+Av dos Astronautas 1758 – São José dos Campos-SP12227 – 010 - Brazil 
+E-mail: antonio.prado@inpe.br 
+ORCID: 0000-0002-7966-3231 
+ 
+ 
+Abstract 
 The present paper studies the Dimensions and Indicators of the academic international 
 multidimensional ranking “U-Multirank”. The study of this ranking is important in 
 Brazil nowadays, because the new evaluation of the graduate programmes in Brazil is 
@@ -8,14 +31,37 @@ number of Dimensions and Indicators gives a more complete view of the Universiti
 but raise questions about their independence and data availability. The top 300 
 European Academic Institutions listed in the 2020 edition are analyzed, explaining the 
 Dimensions and Indicators and making statistical correlations between them. 
-
+ 
+Keywords: Multidimensional academic evaluations, Evaluation of the education 
+system, Education, International evaluation, University management. 
+ 
+Resumo 
+O presente artigo estuda as Dimensões e Indicadores do ranking acadêmico 
+internacional multidimensional “U-Multirank”. O estudo desse ranking é importante no 
+Brasil na atualidade, pois a nova avaliação dos programas de pós-graduação brasileiros 
+usa conceitos de avaliação multidimensional, incluindo alguns princípios usados no U-
+multirank. Esse ranking mostra os pontos fracos e fortes de cada Instituição Acadêmica 
+por meio de cinco Dimensões, que são compostas por 36 Indicadores. Este grande 
+número de Dimensões e Indicadores gera uma visão mais completa das Universidades, 
+mas levanta questões sobre sua independência e disponibilidade de dados. São 
+analisadas as 300 melhores instituições acadêmicas europeias listadas na edição de 
+2020, explicando as dimensões e indicadores e fazendo correlações estatísticas entre 
+esses indicadores e dimensões. 
+ 
+Palavras-Chave: Avaliação acadêmica multidimensional, Avaliação do sistema 
+educativo, Educação, Avaliação internacional, Gestão universitária. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+Introduction
 Academic evaluation is a problem that has been considered for a long time in 
 education. In Brazil, evaluations have been made for a long time in higher education 
 (GUIMARÃES and ESTEVES, 2018). Regarding graduate programmes, the “Coordenação 
 de Aperfeiçoamente de Pessoal de Nível Superior” (CAPES) evaluates these Programmes for 
 several decades now (RODRIGUES et al., 2020). At this moment, there is a strong 
 modification in the criterions under study, using concepts of the multidimensional approach.  
-
 In terms of international academic evaluations, there are several famous rankings 
 available (CALDERÓN, FRANÇA and GONÇALVES, 2017; CALDERÓN and FRANÇA, 
 2018; DILL and SOO, 2005; ECCLES, 2002; GANGA-CONTRERAS et. al., 2020). They 
@@ -29,7 +75,6 @@ and FRANÇA, 2018; GONÇALVES and CALDERÓN, 2017; HERTING, 2016; LIU and
 CHENG, 2005; MARGINSON and VAN DER WENDE, 2007; BERNHARD (2012), SHIN 
 et al. (2011), SORZ et. al., 2015; STACK, 2016; VAN RAAN, 2005; WEBSTER, 2001; 
 AGUILLO et. al., 2010; AGUILLO et. al., 2006; THÉRY, 2020).  
-
 A multidimensional evaluation in academic institutions, as considered by CAPES 
 nowadays, is not a new idea. This concept appeared in Europe in 2008 and a multidimensional 
 ranking was proposed (VAN VUGHT and ZIEGELE, 2012). Aspects related to which 
@@ -38,17 +83,19 @@ the level of independence of those Dimensions and Indicators. The current evalua
 by CAPES is focused on the Dimension “Research” of the “U-Multirank”, so it is interesting 
 to see the correlations of this Dimension with other dimensions, to have at least a rough 
 estimate about what may happen in a multidimensional evaluation when made in Brazil. 
-
 The idea behind the creation of the “U-Multirank” was that there is no “best”, “top 
 10”, or any other general classification of academic institutions in the world. The “best” 
 university is a personal choice of each student, and it depends on the goals and constraints of 
 the prospective students. Following this concept, a multidimensional ranking should only 
 define the main criterions (the Dimensions) and how to evaluate those criterions (the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 Indicators and the rules to calculate them). The academic institutions are divided into five 
 groups of quality for each Indicator, according to the specified rules. A classification is made 
 only in each Indicator, without a unique ranking, and the users of the ranking can look at the 
 Indicators that are more important for them. 
-
 The "U-Multirank" (https://www.umultirank.org/; PRADO 2021a and 2021b) was 
 created based on this idea. It evaluates the performance of educational institutions in five 
 Dimensions: (1) Teaching and Learning, (2) Research, (3) Knowledge Transfer, (4) 
@@ -58,7 +105,6 @@ is focused in future students who want to see an international classification of
 education institutions to choose the one that most closely matches their interests. The user can 
 evaluate each Indicator, separately or grouped in families, focusing in the most important ones 
 for a given decision to be made.  
-
 Since the “U-Multirank” has a much larger number of Indicators (36), when compared 
 to one-dimensional rankings, which usually have less than 15 Indicators, it is expected that a 
 lack of data may be a potential problem, which could be a negative point of this ranking. Of 
@@ -67,19 +113,19 @@ classification is not made, and the user can just neglect the missing informatio
 concentrate in the available data, loosing part of the information, but not the whole ranking. 
 But the amount of missing data is not negligible in many situations and the present paper will 
 look at this point later. 
-
 Another main point studied in the present paper is to verify if Institutions are usually 
 focused on some of the Dimensions and Indicators, or if they have a homogeneous behavior 
 in all the Dimensions. This study will be made for the 300 “best performers” in Europe, 
 because the institutions with general better performances have more complete sets of data, in 
 particular in Europe, which minimizes the problems generated by missing data. 
-
 To make this study, the first step is to define the meaning of “best performers” in the 
 “U-Multirank”. This is not an easy question. This ranking was created with the goal of 
 avoiding a general classification, as explained before. The Dimensions have different numbers 
 of Indicators and many Indicators have missing data. When asked for a general classification 
 of Academic Institutions, or when looking at the “best performers” in a given country 
 (https://www.umultirank.org/university-rankings/top-performing-universities/2020/), the “U-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 Multirank” makes this classification based in the number of grades “A” (the maximum grade) 
 that an Institution receives. Other grades are used only when there are ties among two or more 
 Institutions. This is a questionable rule, because it gives little difference between “B”, “E” or 
@@ -95,7 +141,6 @@ grades given to the Dimensions. Although there is no perfect solution to build a
 ranking using “U-Multirank”, which sometimes is necessary and made by the “U-Multirank”, 
 the present paper decided to use this last option to select the “best” 300 performers in Europe 
 in 2020, shown in Appendix 1, because it gives equal weight for each Dimension. 
-
 After making this list of Institutions, the correlations among all pairs of Indicators of 
 the same Dimension are calculated and analyzed. In the same way, the correlations among the 
 averages of each Dimension are made. The reason to do those correlations is to study how 
@@ -107,16 +152,20 @@ have high numbers in one of these Indicators may have high numbers in all of the
 important to see those correlations, because they give an indication if we are really measuring 
 5 Dimensions and 36 Indicators, or if some of them are just different forms to measure the 
 same aspect under a different question.  
-
 Regarding Dimensions, the present paper looks for the statistical correlations among 
 all Dimensions, to see if the Institutions have homogeneous performances in the different 
 Dimensions or are more focused in some of them. For example, we will see if the best 
 performers in “Teaching and Learning” are also the best performers in “Research”, or any 
 other Dimension. It is also interesting to see the correlations among Dimensions, because the 
 traditional evaluation made by CAPES is focused in the Dimension “Research”, so it is 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 interesting to see how this Dimension is usually related with others in multidimensional 
 rankings. 
-
+ 
+A Brief History of international rankings 
 International rankings for academic evaluation emerged in the 2000s (CALDERÓN 
 and FRANÇA, 2018), with the goal of identifying academic institutions that could be 
 considered as “World Class Institutions”. The first international academic ranking was the 
@@ -136,7 +185,6 @@ Ranking”, created in 2003 by the University of Shanghai, in China (CALDERÓN a
 FRANÇA, 2018). This ranking was created to provide information for the Chinese 
 government to select international educational institutions to send Chinese students abroad 
 and also to verify the status of the Chinese Institutions in terms of international standards.  
-
 Inspired by this ranking, other international rankings emerged, such as the 
 “Webometrics Ranking of World Universities” (http://www.webometrics.info/en; AGUILLO, 
 ORTEGA and FERNANDEZ, 2008) in 2004 and the ranking “THE-QS”, also in 2004, which 
@@ -147,7 +195,8 @@ in 2010. Following this success, many other countries created regional or nation
 rankings, in particular because international rankings do not show results for smaller and local 
 Academic Institutions in all regions of the globe (RIGHETTI, 2019; SHIN and 
 TOUTKOUSHIAN, 2011). 
-
+ 
+The “U-Multirank” 
 The first idea of a multidimensional ranking appeared in a conference in 2008 (VAN 
 VUGHT and ZIEGELE, 2012), under the French Presidency of the European Union. The 
 necessity of a new methodology to measure the different Dimensions of quality in higher 
@@ -165,7 +214,8 @@ in
 subject 
 areas. 
 (https://www.umultirank.org/about/u-multirank/frequently-asked-questions/). 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 As already mentioned, the “U-Multirank” was not designed to elaborate a general 
 classification of Educational Institutions. The classifications are made only in each of the 
 specific performance Indicators, grouped in Dimensions. Therefore, this ranking presents 
@@ -176,7 +226,6 @@ needs. Another usual justification presented for the multidimensionality is that
 dimensional rankings are not robust, since small changes in the weights of the currently used 
 Indicators significantly change the results, which greatly reduces the validity of these one-
 dimensional rankings. 
-
 In the “U-Multirank”, the institutions are classified into five performance groups for 
 each Indicator: A (Very good), B (Good), C (Average), D (Below average) and E (Weak). 
 This is done to reduce accuracy problems, since grouped institutions can filter small 
@@ -184,7 +233,6 @@ differences obtained from numbers below the accuracy of the measurements. Theref
 accuracy problems appear only in the border lines between the performance groups, which 
 minimize the problem. A consequence of this grouping is the large number of Institutions 
 having the same grades. 
-
 A closer look at the “U-Multirank” shows that the Indicators that are obtained from 
 sources not related to the Institutions under evaluation, like the number of publications, 
 citations, etc; are available for all educational institutions and have a high level of reliability. 
@@ -193,7 +241,6 @@ which are obtained from questionnaires sent by educational institutions and stud
 always available and do not have a high level of accuracy. Besides that, some data are 
 classified as “Not-Applicable”, like the number and job location of graduates in the Master 
 program in institutions where master programmes are not offered, etc. 
-
 Figure 1 shows the classical view that summarizes the results of the “U-Multirank” 
 (https://www.umultirank.org/export/sites/default/press-media/media-
 center/universities/2020/country-reports/UK-Country-report-2020.pdf). The circle shows the 
@@ -201,6 +248,10 @@ five Dimensions of the rank: Teaching and Learning (green), Research (pink), Kno
 Transfer (blue), International Orientation (orange) and Regional Engagement (purple). Each 
 of them is divided in the Indicators as follows. Teaching & Learning: 1- Bachelor graduation 
 rate, 2- Masters graduation rate, 3 - Graduating on time (bachelors), 4 - Graduating on time 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 (masters). Research: 5 - External research income, 6 - Research publications (size-
 normalized), 7 - Art related output, 8 - Citation rate, 9 - Top cited publications, 10 - 
 Interdisciplinary publications, 11 - Post-doc positions. Knowledge Transfer: 12 - Income from 
@@ -220,17 +271,23 @@ of
 “U-Multirank” 
 (https://www.umultirank.org/export/sites/default/press-media/documents/Indicator-Book-
 2020.pdf), where all calculations for obtaining all Indicators are explained in detail. 
-
+ 
+Figure 1 – Classical graphical form to show the results of the “U-Multirank” 
+(https://www.umultirank.org/export/sites/default/press-media/media-
+center/universities/2020/country-reports/UK-Country-report-2020.pdf). 
+ 
 When comparing with the tables generated by the site, we see that seven of the 36 
 Indicators showed in the tables are not showed in the graphical format: Research publications 
 (absolute numbers), Strategic research partnerships, Professional publications, Open access 
 publications, Patents awarded (absolute numbers), Graduate companies and Regional 
 publications with Industrial partners. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 Each of the bars representing the Indicators are divided in five parts and painted in 
 dark color to represent the grade received in the Indicator. It means that a full dark bar 
 represents an “A”, while a full light bar represents “No data available”.  
-
+ 
+Making a general classification using the “U-Multirank” 
 There are many ways to make a general classification using the “U-Multirank”. When 
 asked for that, the “U-Multirank” uses a classification similar to the “Olympic Medals Table”, 
 considering the best performers as the institutions that obtained the highest number of 
@@ -241,28 +298,33 @@ general classification, which almost do not differentiate “B” from “E”. 
 situation, institutions may focus their activities on a smaller number of Indicators and neglect   
 completely others to obtain a better classification, giving poor services to their students in 
 some aspects. 
-
 The present paper proposes two other rules to make a general ranking that takes into 
 account all the grades. The first one is the simple average of all the Indicators presented. It 
 considers all the data available, but it gives the same weight to all the Indicators, not giving a 
 proportional importance to all the Dimensions involved. The reason is that the number of 
 Indicators varies from four to eleven, depending on the Dimension. Therefore, some 
 Dimensions would have much more weight than others in the final grade.  
-
 To solve this problem, it is proposed another form to make a general evaluation, which 
 first makes the averages inside each Dimension and, after that, the global average using the 
 grades of each Dimension. It gives equal weight for each Dimension and different weights for 
 the Indicators.  
-
 To give an idea of the effects of using the rules defined by the “U-Multirank”, Figure 
 2 shows the average of the Dimensions, in the vertical axis, as a function of the position of the 
 Academic Institution as given by the “U-Multirank” in the horizontal axis. All the 1070 
 European Academic Institutions listed in the 2020 version are considered for this study. Of 
 course there is a tendency of higher averages for the best performers, but the correlation is not 
 strong, as clearly seen in Figure 2. Many Institutions with grades above 2.5 are among the last 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 300 hundred positions in the general ranking. It shows that the rules defined by the “U-
 Multirank” need to be considered with caution, and even be revised. 
-
+ 
+ 
+Figure 2 - Average of the Dimensions, in the vertical axis, as a function of the position 
+of the Academic Institution as given by the “U-Multirank” in the horizontal axis. 
+ 
 To study deeper this point, Figure 3 shows the results of those three approaches for 
 making general classifications. The horizontal axis shows the position in the ranking 
 generated by the “U-Multirank”, using only the numbers of “A”. In the vertical axis we have 
@@ -272,7 +334,6 @@ from the average of Dimensions, showed in green dots. The 1070 European academic
 institutions listed in the 2020 version of the “U-Multirank” were also used here. European 
 countries were used because they have more complete databases compared to countries from 
 other continents.  
-
 It is clear that the differences in positions are very large. Statistical correlations were 
 calculated for each pair of classifications and the results are: “U-Multirank” vs. average of the 
 Indicators: 0.8035; “U-Multirank” vs. average of the Dimensions: 0.6179; average of the 
@@ -280,6 +341,8 @@ Indicators vs. average of the Dimensions: 0.8403. It means that using the averag
 Indicators and Dimensions gives the best similarities in the results, while the use of the rules 
 given by the “U-Multirank” gives less correlated results, in particular when comparing with 
 the results obtained from the average of Dimensions. This proposal of using the average of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 Dimensions looks to be the more reasonable to make a general classification, so it is used here 
 to select the “best 300 performers” in Europe in 2020. 
 Of course the effects of missing or “Not Applicable” data are present in all the 
@@ -290,16 +353,24 @@ considers that it is fair to give penalty to institutions who did not return dat
 reason for the missing data. The “Not Applicable” data occurs in a much smaller scale and is 
 not responsible for modifications that are large enough to affect the conclusions of the 
 statistical studies made here.  
-
+ 
+ 
+Figure 3 – Positions of the 1070 European Academic Institutions according to the “U-
+Multirank” (blue dots), average of Indicators (red dots) and average of Dimensions (green 
+dots) as a function of positions given by the “U-Multirank”. 
+ 
 To obtain the average of Dimensions, it is first necessary to make the average for each 
 Dimension of the “U-Multirank”. Then, it is interesting to see the distribution of those 
 averages. To have a general first idea, we build Figure 4. The horizontal axis shows the 
 average of the Dimensions for each Institution. In the vertical axis we have the average for 
 Teaching and Learning (in blue diamonds), Research (in red squares), Knowledge Transfer 
 (in green triangles), International orientation (in purple circles) and Regional Engagement (in 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 blue X). The 1070 European academic institutions listed in the 2020 version of the “U-
 Multirank” are also used here.  
-
 It is noticed a cloud of dispersed points with a tendency of a positive correlation, 
 which means that the grades of the individual Dimensions tend to be higher for Institutions 
 with higher average of Dimensions. This is an expected fact, of course, but Figure 4 shows 
@@ -307,58 +378,365 @@ these evolutions in more detail. It is clear the presence of vertical lines, whi
 interval of grades in each Dimension for a given average of the Dimensions. They have a 
 large magnitude, near 2 units in most of the cases, which is half of the total interval showed, 
 since the averages are in the interval from zero to 4.0.  
-
 These results show that the average of Dimensions varies very much for each 
 Academic Institution, because they do not have homogeneous performances in all the 
 Dimensions, even for the European countries. It indicates that making a general classification 
 is really not a good idea, because it will hide a diverse performance and there are no reasons 
 to consider one Dimension better than the others, at least in general.  
-
+ 
+  
+ 
+Figure 4 - Average for Teaching and Learning (blue diamonds),  Research (red 
+squares), Knowledge Transfer (green triangles), International orientation (purple circle) and 
+Regional Engagement (blue circle) in the horizontal axis, as a function of the average of the 
+Dimensions in the vertical axis for the 1070 European academic institutions listed in the 2020 
+version of the “U-Multirank”. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+Making a general classification using the “U-Multirank” 
 Next, we conduct a deeper study about the amount of missing and available data in the 
 “U-Multirank”, as well as about the origin of these data, in terms of coming from an open 
 source or data informed by the Institutions. The goal is to get a better understanding of each 
 Indicator, identifying the ones that are weaker or stronger measurements of the ranking, 
 considering source and availability. We will use again the data available for the 300 best 
 performers in European countries in the 2020 version of the ranking. 
-
 Table 1 shows all the Indicators used by the “U-Multirank”, divided into the five 
 Dimensions. It shows the description of each Indicator, the amount of data available, not 
 available and data that “do not apply”, as well as the source of the data, divided into two 
 categories: “IQ”, which means data obtained from questionnaires answered by the 
 institutions; or “IND”, which represents data available from independent sources, like the 
 Web of Science. 
-
+ 
+Table 1 - “U-Multirank” Indicators for the 300 best performers in European countries 
+in 2020: “IQ” indicates a questionnaire answered by the Academic Institution and “IND” 
+indicates independent data. 
+ 
+Data 
+Available 
+Missing 
+Data 
+“Not 
+Applicable” 
+Source 
+Teaching & Learning 
+1150 
+(95.83%) 
+50 
+(4.17%) 
+0 (0.00%) 
+ 
+Bachelor graduation rate 
+ 
+287 
+13 
+0 
+IQ 
+Masters graduation rate 
+ 
+278 
+22 
+0 
+IQ 
+Graduating on time (bachelors) 
+ 
+291 
+9 
+0 
+IQ 
+Graduating on time (masters)  
+294 
+6 
+0 
+IQ 
+ 
+ 
+ 
+ 
+ 
+Research 
+2687 
+(81.42%) 
+511 
+(15.49%) 
+102 
+(3.09%) 
+ 
+Citation rate  
+275 
+0 
+25 
+IND 
+Research 
+publications 
+(absolute 
+numbers) 
+ 
+300 
+0 
+0 
+IND 
+Research 
+publications 
+(size-
+normalized) 
+ 
+300 
+0 
+0 
+IND 
+External research income 
+ 
+299 
+1 
+0 
+IQ 
+Art related output 
+ 
+190 
+109 
+1 
+IQ 
+Top cited publications 
+ 
+275 
+0 
+25 
+IND 
+Interdisciplinary publications  
+275 
+0 
+25 
+IND 
+Post-doc positions 
+ 
+283 
+16 
+1 
+IQ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Strategic research partnerships 
+ 
+0 
+300 
+0 
+IQ 
+Professional publications 
+ 
+215 
+85 
+0 
+IQ 
+Open Access Publications 
+275 
+0 
+25 
+IND 
+ 
+ 
+ 
+ 
+ 
+Knowledge Transfer 
+1713 
+(95.17%) 
+53 
+(2.94%) 
+34 (1.89%) 
+ 
+Co-publications 
+with 
+industrial 
+partners 
+ 
+275 
+0 
+25 
+IND 
+Income from private sources  
+281 
+19 
+0 
+IQ 
+Patents awarded (absolute numbers)  
+298 
+2 
+0 
+IND 
+Patents awarded (size-normalized)  
+298 
+2 
+0 
+IND 
+Industry co-patents 
+ 
+91 
+5 
+204 
+IND 
+Spin-offs 
+ 
+256 
+44 
+0 
+IQ 
+Publications cited in patents  
+275 
+0 
+25 
+IND 
+Income from continuous professional 
+development  
+266 
+34 
+0 
+IQ 
+Graduate companies  
+141 
+159 
+0 
+IQ 
+ 
+ 
+ 
+ 
+ 
+International Orientation 
+1713 
+(95.17%) 
+53 
+(2.94%) 
+34 (1.89%) 
+ 
+Foreign 
+language 
+bachelor 
+programmes  
+286 
+9 
+5 
+IQ 
+Foreign language master programmes
+ 
+ 
+298 
+1 
+1 
+IQ 
+Student mobility 
+ 
+289 
+11 
+0 
+IQ 
+International academic staff  
+294 
+6 
+0 
+IQ 
+International joint publications 
+ 
+275 
+0 
+25 
+IND 
+International doctorate degrees 
+ 
+271 
+26 
+3 
+IQ 
+ 
+ 
+ 
+ 
+ 
+Regional Engagement 
+1527 
+(84.83%) 
+223 
+(12.39%) 
+50 (2.78%) 
+ 
+Bachelor graduates working in the 
+region  
+228 
+72 
+0 
+IQ 
+Master graduates working in the region
+ 
+ 
+248 
+52 
+0 
+IQ 
+Student internships in the region 
+ 
+230 
+70 
+0 
+IQ 
+Regional joint publications  
+275 
+0 
+25 
+IND 
+Income from regional sources 
+ 
+271 
+29 
+0 
+IQ 
+Regional Publications with Industrial 
+Partners 
+275 
+0 
+25 
+IND 
+ 
 Looking first at the global picture, for the 300 top European academic institutions 
 performers listed in the 2020 ranking, we expect 10,800 grades, considering the existence of 
 36 Indicators. However, it is noted that we have only 9,258 data available, which corresponds 
 to 85.72%. We also have 1102 missing data (10.20%) and 440 data (4.08%) that were 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 considered as “not applicable”. It means that we have about 15% blank data for this select 
 group of Academic Institutions, which is not negligible. 
-
 It is also noted that the distribution of missing data is not uniform, making some 
 Indicators more complete than others. From Table 1, it is possible to make Figure 5, which 
 visually shows the number of data available per Indicator. A reading of this information 
 shows a great imbalance between the Indicators, regarding data available.  
-
 The first observation is the existence of two Indicators that are very weak from this 
 point of view, with less than 100 (33%) data available: “Strategic research partnerships”, with 
 only missing data; and “Industry co-patents”, with 91 grades available, 5 missing and 204 
 “Not Applicable”. Since we have other 34 Indicators that are more complete, those two 
 Indicators will be removed from the statiscal analyses from now on, to avoid the influence of 
 large number of unavailable data. 
-
 For the remaining Indicators, we have one (“Graduate companies”) below 50% and 
 above 33% of data available; one in the range 50%-66% (“Art related output”) and two in the 
 range 66%-75% (“Professional Publications”, “Spin-Offs”). Therefore, there are 30 Indicators 
 with more than 75% of data available, representing 83.33% of the Indicators. 
-
+ 
+ 
+Figure 5 – Number of data available (blue), missing data (red) and “Not applicable 
+data” (green) for the 36 Indicators measured in the “300 top performers” of the European 
+Academic Institutions listed in the 2020 version of the “U-Multirank”. 
+ 
 Regarding Dimensions, we have 95.83% data available for “Teaching and Learning”, 
 81.42% for “Research”, 95.17% for “Knowledge Transfer”, 95.17% for “International 
 Orientation”, and 84.83% for “Regional Engagement”. In that sense, “Teaching and 
 Learning”, and “International Orientation” stand out as more reliable Dimensions, with 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 percentages above 95%, but the other Dimensions also have acceptable numbers, all of them 
 above 80%.  
-
 Next, Table 2 shows the amount of data obtained from independent sources and data 
 provided by the Academic Institutions. There are 22 Indicators obtained through 
 questionnaires (61.11%) and 14 Indicators (38.89%) obtained from independent sources. This 
@@ -371,8 +749,33 @@ have no data coming from open sources, “Research” (54.55%) and “Knowledge 
 “International Orientation” has only 16.67% and “Regional Engagement” 33.33% of data 
 collected from open sources. So, more efforts are recommended to motivate the Institutions to 
 report their data in the most complete form possible. 
-
-Looking deeper in the definitions of the Indicators, we see that they are very 
+ 
+Table 2 - Amount of data obtained from independent sources and questionnaires 
+answered by the Institutions for each Dimension. 
+Dimension 
+Teaching and 
+Learning 
+Research 
+Knowledge 
+Transfer 
+International 
+Orientation 
+Regional 
+Engagement 
+IQ 
+4 (100%) 
+5 (45.45%) 
+4 (44.44%) 
+5 (83.33%) 
+4 (66.67%) 
+IND 
+0 (0.00%) 
+6 (54.55%) 
+5 (55.56%) 
+1 (16.67%) 
+2 (33.33%) 
+ 
+ Looking deeper in the definitions of the Indicators, we see that they are very 
 objective, with clear definitions and based on numbers with pre-defined rules 
 (https://www.umultirank.org/export/sites/default/press-media/documents/Indicator-Book-
 2020.pdf). There are no results based in “reputation”, where the international academic and 
@@ -390,9 +793,13 @@ University
 Rankings-QS” 
 (https://www.topuniversities.com/university-rankings) has even more, reaching 50%. This 
 point is a strong aspect of the “U-Multirank”. But, besides being very objective, 61.11% of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 the data comes from the Institutions, and many of them still do not report data properly. This 
 is a point of some concern and there is room for improvements here. 
-
+ 
+Analyzing the Correlations for all Indicators and Dimensions of the “top 300” European Academic 
+Institutions of the “U-Multirank” in 2020 
 The next point to be studied here is the behavior of the statistical correlations for 
 different Indicators and Dimensions of the “U-Multirank”. This is a very important aspect, 
 because high correlations among many Indicators would show that we are really not 
@@ -400,27 +807,28 @@ measuring 36 Indicators, since some of them would be redundant and we would be m
 similar aspects, just using different questions. This fact could be a strong point against the 
 results of the “U-Multirank” and its multidimensional characteristics, which is the main new 
 aspect of the ranking. 
-
 These measurements also help to predict the behaviors of the Institutions when 
 evaluated by multidimensional rules and to understand better whether the institutions 
 considered in the present paper have homogeneous or heterogeneous performances in 
 different Dimensions. 
-
 The best “300 performers” in Europe in the 2020 edition of the “U-Multirank” were 
 used for this study. The choice of this sample is not only made by the fact that they have more 
 complete data set, as already explained, but they also have the advantage of belonging to the 
 same continent, which can reduce effects coming from too different cultures and other 
 particularities, leaving the main focus on the Indicators and Dimensions used by the ranking. 
-
 The most important statistical tool used for the analysis made here is the correlation 
-coefficient, which is defined by: <>
-
+coefficient, which is defined by: 
+        (1) 
 In this equation X and Y are the values of the two variables under study and n is the 
 number of pairs of data. The result is a number in the range -1 to 1. The value -1 stands for a 
 100% negative correlation, meaning that the variables are exactly linearly related and when 
 one variable increases the other one decreases. The value 1 stands for a 100% positive 
 correlation, meaning that the variables are exactly linearly related and when one variable 
 increases the other one also increases. The value zero means that the variables are completely 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 independent, and they represent quantities that are totally not related. Intermediate values 
 mean partially related variables, either positive or negative. For the present study we consider 
 the following interpretations for those numbers: -0.19 to 0.19: very weak correlation; -0.20 to 
@@ -428,7 +836,6 @@ the following interpretations for those numbers: -0.19 to 0.19: very weak correl
 0.90 to 1.00: very strong correlation. The first results are shown in Table 3. It shows the 
 correlations among all the five Dimensions of the U-Multirank for the “Top-300 performers” 
 in Europe in 2020. 
-
 First, it is observed that there are no “strong” and “very strong” correlations among the 
 Dimensions and only two “moderate” correlations appear: a positive one between “Research” 
 and “Knowledge Transfer” and a negative one between “Research” and “Regional 
@@ -438,36 +845,138 @@ better, Figure 6 shows the distribution of grades for both of them: a) has the d
 “Research” and “Knowledge Transfer” (Correlation of 0.5509) and b) has the data for 
 "Research” and “Regional Engagement” (Correlation of -0.4175). They are typical plots of 
 moderate positive and negative correlations. 
-
+  
+ 
+(a)                                                                  (b) 
+Figure 6 - Distribution of grades for: a) “Research” (horizontal axis) and “Knowledge 
+Transfer” (vertical axis), with Correlation of 0.5509 and b) "Research” (horizontal axis) and 
+“Regional Engagement” (vertical axis), with Correlation of -0.4175. 
+ 
 The real meaning of those “moderate” correlations is that the Institutions tends to have 
 similar performances in “Research” and “Knowledge Transfer” and opposite performances in 
 “Research” and “Regional Engagement”.  
-
+0
+0,5
+1
+1,5
+2
+2,5
+3
+3,5
+4
+4,5
+5
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 Although the correlations are “weak”, the negative numbers with magnitude larger 
 than 0.2500 for the pairs of Dimensions “Teaching and Learning” and “Research”; “Teaching 
 and Learning” and “Knowledge Transfer”; “Knowledge Transfer” and “International 
 Orientation” also call some attention, meaning that they have some level of opposite 
 performances in each pair of Dimensions.  
-
+ 
+Table 3 - Correlations among the Dimensions of the U-Multirank for the “Top-300 
+performers” in Europe in 2020. 
+ 
+Research 
+Knowledge 
+Transfer 
+International 
+Orientation 
+Regional 
+Engagement 
+Teaching 
+and 
+Learning 
+-0.3745 
+-0.2940 
+-0.1507 
+0.2021 
+Research 
+ 
+0.5509 
+0.3613 
+-0.4175 
+Knowledge 
+Transfer 
+ 
+ 
+0.3123 
+-0.2344 
+International 
+Orientation 
+ 
+ 
+ 
+-0.3168 
+ 
 In the same way, the positive “weak” correlations with magnitude larger than 0.2500 
 for the pairs of Dimensions “Research” and “International Orientation”; “Knowledge 
 Transfer” and “International Orientation” also call some attention, meaning that they have 
 slight similar performances. 
-
 But, as a general conclusion, the Dimensions are not very correlated, which means that 
 we are measuring different aspects of the Academic Institutions and that they do not have 
 homogenous performances in all the Dimensions. They can be an outstanding performer in 
 one Dimension and not so good in others.  
-
 This independence of Dimensions gives even more importance to a multidimensional 
 ranking not designed to make general classifications of Academic Institutions. A general 
 classification would make an average of Dimensions and Indicators that are not correlated, 
 hiding the weaknesses and strengths of the Institutions. 
-
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Correlations among the Indicators of all Dimensions 
 The present paper now concentrates in the correlations among the Indicators of the 
 same Dimension, for all the Dimensions measured by the “U-Multirank”. The first one is 
 “Teaching and Learning”. The results are shown in Table 4.  
-
+ 
+Table 4 – Correlations for the Indicators in the Dimension “Teaching and Learning” 
+ 
+Masters graduation 
+rate 
+Graduating on time 
+(bachelors) 
+Graduating on time 
+(masters) 
+Bachelor Graduation 
+Rate 
+0.0254 
+0.3118 
+0.0261 
+Masters graduation 
+rate 
+ 
+-0.1179 
+-0.0721 
+Graduating on time 
+(bachelors) 
+ 
+ 
+0.6496 
+ 
 Table 4 shows that there are no “strong” or “very strong” correlations among the 
 Indicators, and only one “moderate” correlation, a positive one between “Graduating on time 
 (bachelors)” and “Graduating on time (masters)”. It means that Institutions that have their 
@@ -478,63 +987,372 @@ independence, so they are adequate to measure this Dimension. As a summary, the 
 the magnitudes of all Indicators of this Dimension is 0.2005, with a standard deviation of 
 0.2443. This is the lowest average of all the Dimensions. These results validate this 
 Dimension for the group of Institutions studied here. 
-
 Next, it is considered the Dimension “Research”. Table 5 shows the correlations for 
 the Indicators for this Dimension. 
-
 The results show that there is only one “very strong” correlation, for the Indicators 
 “Citation Rate” and “Top Cited Publications”. They have a correlation index of 0.9402, 
 indicating near perfect positive relation. It means that the Institutions that have more citations 
 are also the ones who have the most cited publications. This fact is not surprising, but the high 
 value of this index says that we are getting nearly the same ranking in both Indicators and 
 those Indicators are redundant.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
 After that, the second highest correlation coefficient is between “Research 
 publications (absolute numbers)” and “Research publications (size-normalized)”, with a value 
 of 0.6953, just in the limit for a “strong” correlation. It means that the rankings of total 
 publications and publications by faculty member are similar, but not the same. I believe that 
 the publications/faculty member is a better indicator, because it is not correct to compare 
 those numbers for Institutions of different sizes, but the results are not so different.  
-
+ 
+Table 5 – Correlations for the Indicators in the Dimension “Research” 
+ 
+Research 
+publicatio
+ns 
+(absolute 
+numbers) 
+Research 
+publicatio
+ns (size-
+normalize
+d) 
+External 
+research 
+income 
+Art 
+related 
+output 
+Top 
+Cited 
+Publicati
+ons 
+Interdisci
+plinary 
+publicatio
+ns 
+Post-doc 
+positions 
+Professio
+nal 
+publicatio
+ns 
+Open 
+Access 
+Publicati
+ons 
+Citation 
+rate 
+0.5130 
+0.5188 
+0.4120 
+-0.3294 
+0.9402 
+0.4929 
+0.3998 
+-0.1824 
+0.5024 
+Research 
+publicatio
+ns 
+(absolute 
+numbers) 
+ 
+0.6953 
+0.3725 
+-0.3515 
+0.4728 
+0.4104 
+0.3667 
+-0.2223 
+0.5975 
+Research 
+publicatio
+ns (size-
+normalize
+d) 
+ 
+ 
+0.4768 
+-0.3154 
+0.4866 
+0.3657 
+0.4500 
+-0.1602 
+0.4494 
+External 
+research 
+income 
+ 
+ 
+ 
+-0.1755 
+0.3776 
+0.2436 
+0.3343 
+0.0161 
+0.2179 
+Art 
+related 
+output 
+ 
+ 
+ 
+ 
+-0.2931 
+-0.0916 
+-0.1657 
+0.3823 
+-0.2368 
+Top 
+Cited 
+Publicati
+ons 
+ 
+ 
+ 
+ 
+ 
+0.4391 
+0.3641 
+-0.1676 
+0.4458 
+Interdisci
+plinary 
+publicatio
+ns 
+ 
+ 
+ 
+ 
+ 
+ 
+0.1648 
+-0.1228 
+0.5537 
+Post-doc 
+positions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0567 
+0.2234 
+Professio
+nal 
+publicatio
+ns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-0.2622 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 There are eleven more “moderate” correlations, as shown in Table 5. In general, the 
 average of the magnitude of all Indicators of this Dimension is 0.3515 and the standard 
 deviation is 0.1763. This is the highest average of all the Dimensions, but it is not high 
 enough to consider the Indicators as redundant. Therefore, the results also validate this 
 Dimension for the group of Institutions studied here. 
-
 Some interesting facts about the correlations are noted. The Indicator “External 
 Research Income” has no “strong” or “very strong” correlation with any other Indicator. It 
 means that, in general, those external income do not generate more publications, citations, art 
 related products, etc. The same is true for “Pos-doc” positions, which do not affect those 
 productions.   
-
 We focus now in the Dimension “Knowledge Transfer”. Table 6 shows the 
 correlations for the Indicators for this Dimension. 
-
 The results show that there is no “very strong” correlation, but there are two “strong” 
 correlations. The first one is among the Indicators “Patents awarded (absolute numbers)” and 
 “Patents awarded (size-normalized)”. They have a correlation index of 0.8077. It means that 
 the Institutions that are good at delivering new products have good grades in both Indicators. 
 Those Indicators have a high degree of redundancy. 
-
-The second “strong” correlation is among the Indicators “Co-publications with 
+  The second “strong” correlation is among the Indicators “Co-publications with 
 industrial partners” and “Spin-offs”, which shows that industrial outputs are connected. They 
 have a correlation index of 0.7197. Those Indicators also have a high degree of redundancy. 
-
 There are also four “moderate” correlations, as shown in Table 6. The average of the 
 magnitude of all the Indicators of this Dimension is 0.2722 and the standard deviation is 
 0.1985, which also shows that this Dimension has a good group of Indicators, with only one 
 redundancy out of seven Indicators, in the group of Institutions used here. 
-
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+Table 6 – Correlations for the Indicators in the Dimension “Knowledge Transfer” 
+ 
+Income 
+from 
+private 
+sources 
+Patents 
+awarded 
+(absolute 
+numbers) 
+Patents 
+awarded 
+(size-
+normalized) 
+Industry co-
+patents 
+Spin-offs 
+Income from 
+continuous 
+professional 
+development 
+Graduate 
+companies 
+Co-
+publications 
+with 
+industrial 
+partners 
+0.2249 
+0.4883 
+0.4691 
+-0.0155 
+0.7197 
+-0.2425 
+-0.2946 
+Income from 
+private 
+sources 
+ 
+0.1440 
+0.2254 
+0.0656 
+0.1579 
+0.2563 
+-0.1031 
+Patents 
+awarded 
+(absolute 
+numbers) 
+ 
+ 
+0.8077 
+0.1692 
+0.5578 
+-0.2382 
+-0.2779 
+Patents 
+awarded 
+(size-
+normalized) 
+ 
+ 
+ 
+0.2253 
+0.5110 
+-0.1874 
+-0.2030 
+Industry co-
+patents 
+ 
+ 
+ 
+ 
+0.0034 
+-0.1893 
+0.1707 
+Spin-offs 
+ 
+ 
+ 
+ 
+ 
+-0.2198 
+-0.3969 
+Income from 
+continuous 
+professional 
+development 
+ 
+ 
+ 
+ 
+ 
+ 
+0.0566 
+ 
 We focus now in the Dimension “International Orientation”. Table 7 shows the 
 correlations for the Indicators for this Dimension. 
-
 The results show that there are no “very strong” or “strong” correlations among the 
 Indicators of this Dimension. There are only two “moderate” correlations. Therefore, the 
 Indicators of this Dimension are very independent from each other. The average of the 
 magnitude of all the Indicators of this Dimension is 0.2451, and the standard deviation is 
 0.1278, so the results validate this Dimension for the group of Institutions studied here. 
-
+  
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Table 7 – Correlations for the Indicators in the Dimension “International Orientation” 
+ 
+Foreign 
+language 
+master 
+programmes 
+Student 
+mobility 
+International 
+academic staff 
+International 
+joint 
+publications 
+International 
+doctorate 
+degrees 
+Foreign 
+language 
+bachelor 
+programmes 
+0.4607 
+0.0519 
+0.0596 
+-0.1789 
+-0.0975 
+Foreign 
+language 
+master 
+programmes 
+ 
+0.2201 
+0.4195 
+0.2102 
+0.2308 
+Student 
+mobility 
+ 
+ 
+0.2891 
+0.1949 
+0.1818 
+International 
+academic staff 
+ 
+ 
+ 
+0.3810 
+0.3138 
+International 
+joint 
+publications 
+ 
+ 
+ 
+ 
+0.3868 
+ 
 Next we analyze the Dimension “Regional Engagement”, with the results available in 
 Table 8. The results show that there is no “very strong” correlation, but there is a “strong” 
 correlation among the Indicators of this Dimension. It happens for the Indicators “Bachelor 
@@ -546,21 +1364,113 @@ one “moderate” correlation. Therefore, the Indicators of this Dimension are 
 from each other, except by one. The average of the magnitudes of all the Indicators of this 
 Dimension is 0.2483 and the standard deviation is 0.2001. Therefore, the results validate this 
 Dimension for the group of Institutions studied here. 
-
 Table 9 makes a summary of the averages and standard deviations of the magnitudes 
 of the Indicators for each Dimension. It confirms that there are good levels of independence 
 among the Indicators, with a maximum average correlation coefficient of 0.3515, which occur 
 for the Dimension “Research”, which is the highest correlation. It confirms that the 
 Dimensions and Indicators selected by the “U-Multirank” make a good set to evaluate 
 Academic Institutions, with not many cases of redundancy in the measurements. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+Table 8 – Correlations for the Indicators in the Dimension “Regional Engagement” 
+ 
+Master 
+graduates 
+working in the 
+region 
+Student 
+internships in 
+the region 
+ 
+Regional joint 
+publications 
+Income from 
+regional 
+sources 
+Regional 
+Publications 
+with Industrial 
+Partners 
+Bachelor 
+graduates 
+working in the 
+region 
+0.7668 
+0.3682 
+-0.1083 
+0.2238 
+-0.2295 
+Master 
+graduates 
+working in the 
+region 
+ 
+0.3468 
+-0.0546 
+0.2437 
+-0.1699 
+Student 
+internships in 
+the region 
+ 
+ 
+-0.0685 
+0.2658 
+-0.2005 
+Regional joint 
+publications 
+ 
+ 
+ 
+-0.0618 
+0.5596 
+Income from 
+regional 
+sources 
+ 
+ 
+ 
+ 
+-0.0565 
+ 
+Table 9 – Averages and standard deviations of the magnitudes of the Indicators for each 
+Dimension. 
+Dimension 
+Teaching and 
+Learning 
+Research 
+Knowledge 
+Transfer 
+International 
+Orientation 
+Regional 
+Engagement 
+Average 
+0.2005 
+0.3515 
+0.2722 
+0.2451 
+0.2483 
+Standard 
+Deviation 
+0.2443 
+0.1763 
+0.1985 
+0.1278 
+0.2001 
+ 
+Conclusions 
 The present paper made a study of the academic international multidimensional 
 ranking “U-Multirank”, which is a ranking that has five Dimensions and 36 Indicators. This 
 ranking was studied by Capes during the preparation of the new evaluation of the Post-
 Graduate programmes in Brazil (CAPES, 2019). This fact justifies further studies of this 
 ranking using data already available; to have an idea of what type of results it may give when 
 applied in Brazil. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
 Sometimes the “U-Multirank” makes a list of “best performers” by country for a given 
 year, which is not an easy task for multidimensional rankings. We showed that there are 
 several ways to make such a general classification. The “U-Multirank” uses an “Olympic 
@@ -571,25 +1481,1700 @@ Indicators and the average of the Dimensions, which was considered better in the
 paper, because it uses all the data available and gives the same weight to all the Dimensions. 
 This point is important, since some types of classification will be required if multidimensional 
 evaluation is used by Capes. 
-
 Missing data was also analyzed, and the paper showed that this is not a negligible 
 problem in this ranking. For the “top 300 performers” in Europe in 2020, there are 10.20% 
 missing data, but this number increases when considering other continents and Institutions 
 that are not so good performers. 
-
 A look at the Indicators showed that they are very objective, with clear definitions and 
 based on numbers with pre-defined rules. It is also visible the importance of reliable data 
 coming from the Institutions, which is shown by the fact that there are 22 Indicators obtained 
 from questionnaires (61.11%) and only 14 Indicators (38.89%) obtained from open sources. 
-
 A summary of the averages of the magnitudes of the Indicators for each Dimension 
 confirms that there is a good level of independence among the majority of the Indicators, with 
 a maximum average correlation coefficient of 0.3515, for the Dimension “Research”, for the 
 group of institutions used in the present paper.  
-
 Based on the “top 300 performers” in Europe in 2020, it is possible to say that the 
 Dimensions and Indicators selected by the “U-Multirank” make a good set of elements to 
 evaluate Academic Institutions, with not many cases of redundancy in the measurements. The 
 multidimensional approach introduced by the “U-Multirank” is very important, because the 
 majority of the Institutions do not have homogeneous performances in all the Dimensions, 
 and general classifications would hide those strong differences. 
+ 
+References 
+CALDERÓN, A.I., FRANÇA, C.M. (2018). Os rankings acadêmicos da educação 
+superior: apontamentos no campo da avaliação educacional. In: Rothen, J.C., Santana, A.C.M. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+(Ed.) Avaliação da Educação: referencias para uma primeira conversa (pp. 95-114), Editora 
+da Universidade de São Carlos. ISBN 978-85-7600-491-2. 
+AGUILLO, I. F, BAR-ILAN, J., LEVENE, M., ORTEGA, J. L. (2010). Comparing 
+university rankings. Scientometrics, 85, 243–256, DOI 10.1007/s11192-010-0190-z. 
+AGUILLO, I. F., GRANADINO, B., ORTEGA, J. L., and PRIETO, J. A. (2006). 
+Scientific research activity and communication measured with cybermetric indicators. Journal 
+of the American Society of Information Science and Technology, 57(10), 1296–1302. 
+AGUILLO, I. F., ORTEGA, J. L., and FERNANDEZ, M. (2008). Webometric ranking of 
+world universities: Introduction, methodology, and future developments. Higher Education in 
+Europe, 33(2/3), 234–244. 
+BERNHARD, A. (2012). Quality Assurance in an International Higher Education Area: A 
+Case Study Approach and Comparative Analysis; VS Research, Springer, Germany. 
+BILLAUT, J., BOUYSSOU, D., and VINKE, P. (2010). Should we believe the Shanghai 
+ranking? An MCDM view. Scientometrics. doi:10.1007/s11192-009-0115-x. 
+CALDERÓN, A. I.; FRANÇA, C. M.; GONÇALVES, A. (2017). Tendências dos rankings 
+acadêmicos de abrangência nacional de países do espaço ibero-americano: os rankings dos 
+jornais El Mundo (Espanha), El Mercurio (Chile), Folha de São Paulo (Brasil), Reforma 
+(México) e El Universal (México). ECCOS Revista Científica (online), v. 44, p. 117-142, 
+CALDERÓN, A. I.; FRANÇA, C. M. (2018), Rankings acadêmicos na educação superior: 
+tendências da literatura ibero-americana. Avaliação: Revista da Avaliação da Educação 
+Superior, 23, 448-466. 
+CAPES (2019), Avaliação Multidimensional de Programas de Pós-Graduação, Relatório 
+DAV. 
+DILL, D. D., and SOO, M. (2005). Academic quality, league tables and public policy: A 
+cross national analysis of university ranking systems. Higher Education, 49, 499–533. 
+ECCLES, C. (2002). The use of university rankings in the United Kingdom. Higher 
+Education in Europe, 27(4), 423–432. 
+VAN VUGHT, F.A.; ZIEGELE, F. (Ed.) (2012), Multidimensional Ranking: The Design 
+and Development of U-Multirank, Springer, New York. 
+GANGA-CONTRERAS, F.; SÁEZ, W.; CALDERÓN, A. I.; CALDERÓN, Á.; 
+RODRÍGUEZ-PONCE, E. (2020). Principales rankings académicos internacionales: el caso 
+de Chile. Ensaio (Rio de Janeiro. Online), 28, 407-434. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+GONÇALVES, A.; CALDERÓN, A. I. (2017). Academic rankings in higher education: 
+trends of international scientific literature. Revista Diálogo Educacional (PUCPR), 17, 1125-
+1145. 
+GUIMARÃES, E. R., ESTEVES, M. (2018). Sistemas de avaliação da educação superior 
+em Portugal e Brasil. Estudos em Avaliação Educacional, 29(72), 509-630. 
+HERTING, H. P. (2016). Universities, Rankings and the Dynamics of Global Higher 
+Education; Macmillan Publishers Limited, England. 
+LIU, N. C., and CHENG, Y. (2005). The academic ranking of world universities-
+methodologies and problems. Higher Education in Europe, 30(2), 127–136. 
+MARGINSON, S., and VAN DER WENDE, M. (2007). To rank or to be ranked: The 
+impact of global rankings in higher education. Journal of Studies in International Education, 
+11(3/4), 306–329. 
+RIGHETTI, S.. (2019) O jogo dos rankings -- Como surgiram e o que medem as principais 
+classificações de universidades do mundo. -. ed. 163p . 
+RODRIGUES, L. M. A., MOREIRA, K. D., MARTINS, C. B. (2020). Estratégias 
+Organizacionais no Contexto da Avaliação da Pós-Graduação Brasileira. Estudos em 
+Avaliação Educacional, 31(77), 287-317. 
+SHIN, J. C., and TOUTKOUSHIAN, R. K. (2011). The past, present, and future of 
+University Rankings. In J. C. Shin, R. K. Toutkoushian, & U. Teichler (Eds.), University 
+Rankings, The Changing Academy: The Changing Academic Profession in International 
+Comparative Perspective (Vol. 3). Dordrecht: Springer Science. 
+SHIN, J. C.L; TOUTKOUSHIAN, R. K. and TEICHER, U. (2011); University Rankings, 
+Theoretical Basis, Methodology and Impacts on Global Higher Education; Springer, New 
+York. 
+SORZ, J., WALLNER, B., SEIDLER, H., and FIEDER, M. (2015). Inconsistent year-to-
+year fluctuations limit the conclusiveness of global higher education rankings for university 
+management. PeerJ, 3(e1217), 1–14. 
+STACK, M.; 2016; Global University Rankings and the Mediatization of Higher 
+Education, Palgrave Studies in Global Higher Education, Macmillan Publishers Limited, 
+England. 
+THÉRY, H. Classificações de universidades mundiais. “Xangai” e outras. Estudos 
+Avançados. São Paulo. v. 24. n. 70. p. 185-205. 2010. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+PRADO, A. F. B. A.. Multidimensional Academic Evaluation using the 'U-Multirank'. 
+Scielo Preprint, 2021b (Preprint). DOI: 10.1590/SciELOPreprints.2661. 
+PRADO, A. F. B. A.. Performances of the Brazilian Universities in the “U-MULTIRANK” 
+in 
+the 
+Period 
+2017-2020. 
+Scielo 
+Preprint, 
+2021a 
+(Preprint). 
+DOI: 
+10.1590/SciELOPreprints.2351. 
+VAN RAAN, A. F. J. (2005). Fatal attraction-conceptual and methodological problems in 
+the ranking of universities by bibliometric methods. Scientometrics, 62(1), 133–143. 
+WEBSTER, T. J. (2001). A principal component analysis of the US News & World Report 
+tier rankings of colleges and universities. Economics of Education Review, 20(3), 235–244.  
+ 
+ 
+Declaração de conflito de interesses (conflict of interest declaration): O autor confirma que 
+não há conflitos de interesse na realização das pesquisas expostas e na redação deste editorial. 
+ 
+Declaração  de  contribuição  dos  autores:  O  trabalho  tem  um  único  autor,  logo  todas  
+as  etapas  foram desenvolvidas por ele: pesquisa, elaboração de texto, etc.. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Appendix 1 - Top 300 performers in Europe in 2020 
+  
+  
+  
+  
+Institution 
+Country 
+Ranking 
+based in U-
+Multirank 
+Rankig 
+based in 
+Indicators 
+Rankig 
+based in 
+Dimensions 
+École Centrale de Nantes 
+FR 
+6 
+1 
+1 
+IMT Atlantique 
+FR 
+7 
+2 
+2 
+Jacobs University 
+DE 
+2 
+3 
+3 
+EDHEC Business School 
+FR 
+19 
+16 
+4 
+University of Antwerp 
+BE 
+4 
+4 
+5 
+Montpellier SupAgro 
+FR 
+8 
+6 
+6 
+Vilnius Gediminas Technical University 
+LT 
+76 
+8 
+7 
+Toulouse INP 
+FR 
+11 
+7 
+8 
+Universität Bern 
+CH 
+23 
+5 
+9 
+National Research Nuclear University MEPhI 
+RU 
+37 
+19 
+10 
+Moscow Institute of Physics and Technology 
+RU 
+40 
+34 
+11 
+Riga Technical University 
+LV 
+79 
+24 
+12 
+Frankfurt School of Finance & Management 
+DE 
+41 
+53 
+13 
+Grenoble École de Management 
+FR 
+53 
+46 
+14 
+Bocconi University 
+IT 
+26 
+52 
+15 
+Universitat Pompeu Fabra 
+ES 
+15 
+43 
+16 
+Sciences Po Paris 
+FR 
+39 
+35 
+17 
+Johannes Kepler University 
+AT 
+75 
+18 
+18 
+NOVA University Lisbon 
+PT 
+33 
+11 
+19 
+Hasselt University 
+BE 
+35 
+20 
+20 
+Chalmers University of Technology 
+SE 
+17 
+17 
+21 
+Universitat Ramon Llull 
+ES 
+99 
+47 
+22 
+Université de Mons 
+BE 
+32 
+12 
+23 
+University of Luxembourg 
+LU 
+10 
+13 
+24 
+Université de Technologie de Troyes 
+FR 
+104 
+32 
+25 
+Universitat de Barcelona 
+ES 
+100 
+36 
+26 
+Politecnico di Torino 
+IT 
+230 
+15 
+27 
+Kharkiv National University of Radioelectronics 
+UA 
+161 
+57 
+28 
+Vrije Universiteit Brussel 
+BE 
+12 
+14 
+29 
+Université de Bordeaux 
+FR 
+231 
+25 
+30 
+Libera Università di Bolzano 
+IT 
+80 
+31 
+31 
+Politecnico di Milano 
+IT 
+73 
+21 
+32 
+Universidade do Minho 
+PT 
+78 
+27 
+33 
+People’s Ukrainian Academy 
+UA 
+156 
+56 
+34 
+Rezekne Academy of Technologies 
+LV 
+159 
+45 
+35 
+University College Cork 
+IE 
+138 
+22 
+36 
+University of Zurich 
+CH 
+16 
+9 
+37 
+Aalto University 
+FI 
+13 
+26 
+38 
+Universidade de Coimbra 
+PT 
+174 
+37 
+39 
+EPFL Lausanne 
+CH 
+5 
+10 
+40 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Universidad Carlos III de Madrid 
+ES 
+175 
+59 
+41 
+Université Paris-Dauphine 
+FR 
+55 
+66 
+42 
+University of Twente 
+NL 
+36 
+23 
+43 
+Universidad Autónoma Madrid 
+ES 
+233 
+61 
+44 
+Vorarlberg University of Applied Sciences 
+AT 
+253 
+99 
+45 
+Universidad de Deusto 
+ES 
+178 
+84 
+46 
+Université de Namur 
+BE 
+107 
+42 
+47 
+Aix-Marseille Université 
+FR 
+176 
+28 
+48 
+Norwegian University of Science and Technology 
+NO 
+232 
+38 
+49 
+University of Bergen 
+NO 
+102 
+41 
+50 
+Universitat Politècnica de Catalunya 
+ES 
+143 
+62 
+51 
+Instituto Politécnico de Bragança 
+PT 
+182 
+54 
+52 
+ESIC Business & Marketing School 
+ES 
+94 
+83 
+53 
+Universitat Rovira i Virgili 
+ES 
+235 
+67 
+54 
+University of Genoa 
+IT 
+140 
+39 
+55 
+MCI Management Center Innsbruck 
+AT 
+200 
+89 
+56 
+Télécom Paris 
+FR 
+3 
+29 
+57 
+Peoples' Friendship University of Russia 
+RU 
+152 
+90 
+58 
+Universidad de Navarra 
+ES 
+142 
+68 
+59 
+HSE University 
+RU 
+191 
+108 
+60 
+University of Florence 
+IT 
+177 
+50 
+61 
+Ghent University 
+BE 
+24 
+40 
+62 
+Pforzheim University 
+DE 
+123 
+74 
+63 
+Universitat Autònoma de Barcelona 
+ES 
+139 
+63 
+64 
+Delft University of Technology 
+NL 
+9 
+49 
+65 
+University of Groningen 
+NL 
+18 
+33 
+66 
+Universidad de Valencia 
+ES 
+317 
+81 
+67 
+Universidad del Pais Vasco 
+ES 
+316 
+82 
+68 
+Erasmus University Rotterdam 
+NL 
+14 
+48 
+69 
+FH Oberösterreich 
+AT 
+57 
+91 
+70 
+Kaunas University of Technology 
+LT 
+198 
+69 
+71 
+Università Luigi Vanvitelli 
+IT 
+318 
+55 
+72 
+ITMO University 
+RU 
+108 
+85 
+73 
+Altai State University 
+RU 
+87 
+109 
+74 
+Frederick University 
+CY 
+151 
+92 
+75 
+Sumy National Agrarian University 
+UA 
+197 
+100 
+76 
+BOKU Wien 
+AT 
+52 
+44 
+77 
+University of Debrecen 
+HU 
+327 
+76 
+78 
+IMT Mines Ales 
+FR 
+147 
+107 
+79 
+University of Liechtenstein 
+LI 
+56 
+77 
+80 
+University of Siegen 
+DE 
+82 
+60 
+81 
+University of Siena 
+IT 
+322 
+95 
+82 
+FAU Erlangen-Nürnberg 
+DE 
+77 
+51 
+83 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Università del Salento 
+IT 
+180 
+70 
+84 
+Lobachevsky University 
+RU 
+150 
+101 
+85 
+ETH Zurich 
+CH 
+1 
+30 
+86 
+Universitat Internacional de Catalunya 
+ES 
+185 
+134 
+87 
+Budapest University of Technology and Economics 
+HU 
+410 
+78 
+88 
+University of Insubria 
+IT 
+321 
+79 
+89 
+University of Limerick 
+IE 
+234 
+73 
+90 
+Univerzitet u Kragujevcu 
+RS 
+148 
+93 
+91 
+Universität Klagenfurt 
+AT 
+158 
+75 
+92 
+Università di Torino 
+IT 
+144 
+64 
+93 
+Universidade do Algarve 
+PT 
+323 
+71 
+94 
+Lithuanian University of Health Sciences 
+LT 
+255 
+133 
+95 
+University of Stavanger 
+NO 
+252 
+86 
+96 
+Glasgow Caledonian University 
+UK 
+249 
+147 
+97 
+Universidade de Lisboa 
+PT 
+157 
+102 
+98 
+RWTH Aachen University 
+DE 
+74 
+58 
+99 
+Dublin City University 
+IE 
+101 
+105 
+100 
+University of Agder 
+NO 
+407 
+103 
+101 
+Universitat de Girona 
+ES 
+320 
+110 
+102 
+Universidad Miguel Hernández de Elche 
+ES 
+242 
+120 
+103 
+Audencia Business School 
+FR 
+59 
+170 
+104 
+University of Nantes 
+FR 
+188 
+96 
+105 
+Otto Beisheim School of Management 
+DE 
+64 
+135 
+106 
+Vytautas Magnus University 
+LT 
+238 
+123 
+107 
+North-Eastern Federal University 
+RU 
+168 
+148 
+108 
+Karlsruhe Institute of Technology 
+DE 
+54 
+65 
+109 
+University of Pavia 
+IT 
+236 
+111 
+110 
+Kühne Logistics University 
+DE 
+114 
+182 
+111 
+Oslo Metropolitan University 
+NO 
+331 
+125 
+112 
+LUISS Guido Carli University 
+IT 
+103 
+136 
+113 
+Latvia University of Life Sciences 
+LV 
+254 
+124 
+114 
+Taras Shevchenko University 
+UA 
+208 
+203 
+115 
+Vita-Salute San Raffaele University 
+IT 
+181 
+149 
+116 
+IMT Mines Albi 
+FR 
+61 
+155 
+117 
+University of Salerno 
+IT 
+241 
+97 
+118 
+Gdańsk University of Technology 
+PL 
+411 
+112 
+119 
+Norwegian School of Sport Sciences 
+NO 
+111 
+126 
+120 
+University of Rome Tor Vergata 
+IT 
+406 
+113 
+121 
+University of Camerino 
+IT 
+247 
+80 
+122 
+Universitat de Lleida 
+ES 
+632 
+156 
+123 
+AgroParisTech 
+FR 
+20 
+72 
+124 
+Universidad Pontificia Comillas 
+ES 
+248 
+183 
+125 
+Athlone Institute of Technology 
+IE 
+413 
+171 
+126 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+University of Information Technology and Management 
+PL 
+190 
+137 
+127 
+Tomsk Polytechnic University 
+RU 
+117 
+150 
+128 
+Mondragon University 
+ES 
+120 
+172 
+129 
+Télécom SudParis 
+FR 
+44 
+114 
+130 
+Sumy State University 
+UA 
+88 
+139 
+131 
+Riga Stradins University 
+LV 
+250 
+157 
+132 
+Universidade Fernando Pessoa 
+PT 
+194 
+173 
+133 
+TU Hamburg 
+DE 
+141 
+87 
+134 
+University of l'Aquila 
+IT 
+885 
+94 
+135 
+University of St.Gallen 
+CH 
+65 
+127 
+136 
+Petro Mohyla Black Sea National University 
+UA 
+456 
+200 
+137 
+Universidad CEU San Pablo 
+ES 
+206 
+195 
+138 
+Zaporozhye National Technical University 
+UA 
+222 
+191 
+139 
+University of Applied Sciences and Arts Western Switzerland 
+CH 
+153 
+184 
+140 
+Kazan Federal University 
+RU 
+517 
+212 
+141 
+National University Ostroh Academy 
+UA 
+219 
+138 
+142 
+Hanken School of Economics 
+FI 
+119 
+140 
+143 
+Handelshögskolan i Stockholm 
+SE 
+29 
+158 
+144 
+University of Modena and Reggio Emilia 
+IT 
+319 
+141 
+145 
+Cork Institute of Technology 
+IE 
+145 
+115 
+146 
+Hochschule Reutlingen 
+DE 
+89 
+151 
+147 
+University of West Bohemia 
+CZ 
+419 
+162 
+148 
+Universität Witten/Herdecke 
+DE 
+163 
+142 
+149 
+University of Latvia 
+LV 
+430 
+177 
+150 
+University of Architecture and Construction 
+AZ 
+339 
+192 
+151 
+Roskilde University 
+DK 
+281 
+185 
+152 
+Ulster University 
+UK 
+258 
+204 
+153 
+Varna University of Management 
+BG 
+346 
+161 
+154 
+Medical University of Warsaw 
+PL 
+256 
+176 
+155 
+Instituto Universitário de Lisboa 
+PT 
+257 
+198 
+156 
+Universitatea Tehnică "Gheorghe Asachi" din Iași 
+RO 
+358 
+196 
+157 
+TU Graz 
+AT 
+38 
+88 
+158 
+Università degli studi di Trieste 
+IT 
+193 
+121 
+159 
+Hanze University of Applied Sciences 
+NL 
+418 
+205 
+160 
+Sofia University St. Kliment Ohridski 
+BG 
+328 
+197 
+161 
+Eindhoven University of Technology 
+NL 
+25 
+98 
+162 
+Politecnico di Bari 
+IT 
+116 
+104 
+163 
+Technical University of Munich 
+DE 
+98 
+118 
+164 
+FHWien der WKW 
+AT 
+375 
+240 
+165 
+Adam Mickiewicz University Poznań 
+PL 
+645 
+193 
+166 
+Universidad Antonio de Nebrija 
+ES 
+273 
+231 
+167 
+Institut Supérieur de l'Aéronautique et de l'Espace 
+FR 
+84 
+128 
+168 
+University of Chemistry and Technology Prague 
+CZ 
+81 
+159 
+169 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Arctic University of Norway 
+NO 
+412 
+152 
+170 
+University of Duisburg-Essen 
+DE 
+402 
+143 
+171 
+University of Bari 
+IT 
+408 
+164 
+172 
+Universidad de Málaga 
+ES 
+754 
+206 
+173 
+Aalborg University 
+DK 
+189 
+163 
+174 
+Universidad Politécnica de Madrid 
+ES 
+403 
+154 
+175 
+Universidade de Aveiro 
+PT 
+240 
+116 
+176 
+École Centrale de Lyon 
+FR 
+105 
+119 
+177 
+Turun yliopisto 
+FI 
+184 
+129 
+178 
+South Ural State University 
+RU 
+432 
+219 
+179 
+Poznan University of Technology 
+PL 
+888 
+211 
+180 
+University of Oslo 
+NO 
+109 
+130 
+181 
+Nizhny Novgorod State Pedagogical University 
+RU 
+382 
+277 
+182 
+Universidad de Granada 
+ES 
+633 
+208 
+183 
+University of Szeged 
+HU 
+512 
+166 
+184 
+LUT University 
+FI 
+110 
+117 
+185 
+University of Ljubljana 
+SI 
+83 
+132 
+186 
+Uniwersytet SWPS 
+PL 
+207 
+187 
+187 
+Universität Stuttgart 
+DE 
+179 
+122 
+188 
+Universidade Lusófona de Humanidades e Tecnologias 
+PT 
+270 
+174 
+189 
+Palacky University in Olomouc 
+CZ 
+405 
+144 
+190 
+Jagiellonian University in Krakow 
+PL 
+417 
+178 
+191 
+Universidad de Almería 
+ES 
+634 
+232 
+192 
+Igor Sikorsky Kyiv Polytechnic Institute 
+UA 
+454 
+272 
+193 
+Eötvös Loránd University 
+HU 
+342 
+186 
+194 
+Universitat Jaume I 
+ES 
+753 
+199 
+195 
+University of Nova Gorica 
+SI 
+125 
+175 
+196 
+Moscow Aviation Institute 
+RU 
+133 
+220 
+197 
+Warsaw University of Technology 
+PL 
+274 
+246 
+198 
+Universidad de Valladolid 
+ES 
+756 
+245 
+199 
+Vrije Universiteit Amsterdam 
+NL 
+34 
+106 
+200 
+Universidad Politécnica de Valencia 
+ES 
+239 
+165 
+201 
+Universidad de Santiago de Compostela 
+ES 
+409 
+201 
+202 
+University of Eastern Finland 
+FI 
+404 
+160 
+203 
+European University Cyprus 
+CY 
+357 
+209 
+204 
+University of Warsaw 
+PL 
+524 
+216 
+205 
+Wageningen University 
+NL 
+43 
+131 
+206 
+Universidad CEU Cardenal Herrera 
+ES 
+282 
+264 
+207 
+Universidad de Salamanca 
+ES 
+521 
+221 
+208 
+Kharkiv Polytechnic Institute 
+UA 
+423 
+248 
+209 
+Aurel Vlaicu University of Arad 
+RO 
+260 
+207 
+210 
+Oulun yliopisto 
+FI 
+237 
+146 
+211 
+Universidad Rey Juan Carlos 
+ES 
+359 
+223 
+212 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Galway-Mayo Institute of Technology 
+IE 
+416 
+233 
+213 
+Saarland University 
+DE 
+325 
+179 
+214 
+University of Parma 
+IT 
+513 
+167 
+215 
+South-West State University 
+RU 
+285 
+247 
+216 
+University of Maribor 
+SI 
+245 
+180 
+217 
+Kherson State Agrarian University 
+UA 
+440 
+241 
+218 
+University of Hohenheim 
+DE 
+244 
+153 
+219 
+University of Konstanz 
+DE 
+186 
+145 
+220 
+Universitatea Transilvania 
+RO 
+542 
+222 
+221 
+Universidad de La Laguna 
+ES 
+535 
+273 
+222 
+Immanuel Kant Baltic Federal University 
+RU 
+765 
+249 
+223 
+Norwegian University of Life Sciences 
+NO 
+113 
+188 
+224 
+Medical University - Sofia 
+BG 
+263 
+214 
+225 
+Technical University of Denmark 
+DK 
+28 
+217 
+226 
+Daugavpils University 
+LV 
+266 
+236 
+227 
+Universidad de Murcia 
+ES 
+980 
+258 
+228 
+RANEPA Moscow 
+RU 
+301 
+309 
+229 
+Epoka University 
+AL 
+369 
+296 
+230 
+Universidad San Jorge 
+ES 
+422 
+298 
+231 
+Zhytomyr State Technological University 
+UA 
+228 
+242 
+232 
+Universidad Politécnica de Cartagena 
+ES 
+635 
+237 
+233 
+Escola Superior de Educação de Paula Frassinetti 
+PT 
+220 
+281 
+234 
+Universidad de Castilla - La Mancha 
+ES 
+889 
+265 
+235 
+Universidad de Alcalá 
+ES 
+515 
+235 
+236 
+Uniwersytet Łódzki 
+PL 
+638 
+266 
+237 
+Universitatea Politehnica Timisoara 
+RO 
+544 
+267 
+238 
+Tomas Bata University in Zlín 
+CZ 
+226 
+234 
+239 
+Lucian Blaga University of Sibiu 
+RO 
+286 
+310 
+240 
+Universidad de Sevilla 
+ES 
+758 
+228 
+241 
+Pyatigorsk State University 
+RU 
+476 
+263 
+242 
+BA School of Business and Finance 
+LV 
+341 
+371 
+243 
+Universidad de Zaragoza 
+ES 
+886 
+244 
+244 
+University of Malta 
+MT 
+371 
+251 
+245 
+WSB University 
+PL 
+660 
+306 
+246 
+University of Graz 
+AT 
+324 
+189 
+247 
+Medical University of Plovdiv 
+BG 
+336 
+282 
+248 
+Belgorod State University 
+RU 
+543 
+250 
+249 
+Hochschule Esslingen 
+DE 
+218 
+284 
+250 
+Universidad de Extremadura 
+ES 
+526 
+286 
+251 
+Simon Kuznets Kharkiv National University of Economics 
+UA 
+484 
+278 
+252 
+Universidade da Beira Interior 
+PT 
+335 
+213 
+253 
+Universidad Católica de Valencia San Vicente Mártir 
+ES 
+275 
+283 
+254 
+Saratov State University 
+RU 
+276 
+321 
+255 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+Universidad de Jaén 
+ES 
+759 
+285 
+256 
+Silesian University of Technology 
+PL 
+541 
+225 
+257 
+Belarusian State University 
+BY 
+573 
+297 
+258 
+FH Münster 
+DE 
+537 
+243 
+259 
+Aalen University of Applied Sciences 
+DE 
+525 
+252 
+260 
+Mendel University in Brno 
+CZ 
+272 
+238 
+261 
+University of Ferrara 
+IT 
+445 
+224 
+262 
+TU Ilmenau 
+DE 
+326 
+194 
+263 
+Corvinus University of Budapest 
+HU 
+534 
+311 
+264 
+AgroSup Dijon 
+FR 
+112 
+190 
+265 
+Hogeschool van Arnhem en Nijmegen 
+NL 
+431 
+289 
+266 
+Katholische Universität Eichstätt-Ingolstadt 
+DE 
+332 
+268 
+267 
+University of Milano Bicocca 
+IT 
+243 
+259 
+268 
+University of Bonn 
+DE 
+85 
+181 
+269 
+Institute of Technology Sligo 
+IE 
+164 
+288 
+270 
+Sapienza University of Rome 
+IT 
+514 
+229 
+271 
+Université Claude Bernard Lyon 1 
+FR 
+106 
+168 
+272 
+University of Crete 
+GR 
+414 
+253 
+273 
+University of Rijeka 
+HR 
+769 
+287 
+274 
+Masaryk University 
+CZ 
+516 
+218 
+275 
+University of Zagreb 
+HR 
+523 
+254 
+276 
+Universidad Complutense de Madrid 
+ES 
+755 
+280 
+277 
+Samara Polytech (Samara State Technical University) 
+RU 
+137 
+299 
+278 
+Semmelweis University 
+HU 
+415 
+255 
+279 
+University of Salzburg 
+AT 
+195 
+226 
+280 
+EURECOM 
+FR 
+66 
+210 
+281 
+University of Innsbruck 
+AT 
+146 
+169 
+282 
+Athens University of Economics and Business 
+GR 
+433 
+290 
+283 
+Volgograd State University 
+RU 
+459 
+331 
+284 
+Transport and Telecommunication Institute 
+LV 
+533 
+279 
+285 
+Wirtschaftsuniversität Wien 
+AT 
+154 
+274 
+286 
+Orel State University 
+RU 
+557 
+308 
+287 
+Carlo Bo University of Urbino 
+IT 
+420 
+239 
+288 
+Universidad Pública de Navarra 
+ES 
+551 
+301 
+289 
+Ivan Franko National University of Lviv 
+UA 
+299 
+332 
+290 
+University of Basilicata 
+IT 
+426 
+291 
+291 
+Uni of Medicine and Pharmacy Iasi 
+RO 
+287 
+322 
+292 
+University of Pécs 
+HU 
+522 
+261 
+293 
+Ulyanovsk State University 
+RU 
+362 
+323 
+294 
+Technical University of Varna 
+BG 
+438 
+300 
+295 
+O.M. Beketov National University of Urban Economy 
+UA 
+314 
+351 
+296 
+National University of Kharkiv 
+UA 
+555 
+356 
+297 
+Università degli studi di Palermo 
+IT 
+890 
+292 
+298 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+University of Calabria 
+IT 
+527 
+256 
+299 
+TH Nürnberg 
+DE 
+646 
+324 
+300 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3063
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

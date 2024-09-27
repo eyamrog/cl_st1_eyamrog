@@ -1,11 +1,68 @@
-Objectives: This study aimed at identifying and characterizing the physical activity 
+Status: 
+What is known on physical activity intervention protocols for
+breast cancer treatment? A scoping review
+Juliana Silveira, Vanessa Bellani Lyra, Leonessa  Boing, Patrícia Severo dos Santos Saraiva,
+Adriana Coutinho de Azevedo Guimarães
+https://doi.org/10.1590/SciELOPreprints.2956
+Submitted on: 2021-09-14
+Posted on: 2021-09-22 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+What is known on physical activity intervention protocols for breast cancer 
+treatment? A scoping review 
+O que se sabe sobre os protocolos de intervenção de atividade física para o 
+tratamento do câncer de mama? Uma revisão de escopo 
+ 
+Physical activity and breast cancer 
+Atividade Física e Câncer de Mama 
+ 
+Juliana da Silveira;  
+Universidade do Estado de Santa Catarina - Florianópolis, Santa Catarina, Brazil. 
+ORCID: 0000-0003-2821-8717 
+Vanessa Bellani Lyra; 
+ Professor and Researcher of the Bachelor’s Degree in Physical Education at Centro 
+Universitário Estácio de Santa Catarina. ORCID: 0000-0001-9653-2930 
+Leonessa Boing; 
+ Master’s degree in Human Movement Science at the Center of Health and Sport 
+Sciences of the Universidade Estadual de Santa Catarina. Scholarship by the 
+Coordination for the Improvement of Higher Education Personnel - CAPES, Brazil. 
+ORCID: 0000-0003-4978-9703 
+Patrícia Severo do Santos Saraiva; 
+Universidade do Estado de Santa Catarina - Florianópolis, Santa Catarina, Brazil. 
+ORCID: 0000-0001-6122-9667 
+Adriana Coutinho de Azevedo Guimarães 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+Professor of the Department of Physical Education and Graduate Program in Human 
+Movement Science at the Center of Health and Sport Sciences of the Universidade 
+Estadual de Santa Catarina, Brazil. ORCID: 0000-0001-5167-2921 
+ 
+ 
+For corresponding: J. Silveira, Universidade do Estado de Santa Catarina, R. Pascoal 
+Simone, 358, Coqueiros, Florianópolis – SC, 88080-350 (Brazil). Address all 
+correspondence to Mrs. Silveira at: judasilveira88@gmail.com 
+ 
+Author contributions 
+All authors have contributed to the information or material submitted for publication, and 
+that all authors have read and approved the manuscript. Juliana da Silveira and Vanessa Bellani 
+Lyra were responsible for the conception and design of the study, acquisition, analysis and 
+interpretation of data; Juliana da Silveira, Vanessa Bellani Lyra, Leonessa Boing, Patrícia Severo 
+dos Santos Saraiva and Adriana Coutinho de Azevedo Guimarães participated drafting the article 
+or revising it critically for important intellectual content and final approval of the version to be 
+submitted. 
+ 
+ 
+ABSTRACT 
+Objectives: 
+This study aimed at identifying and characterizing the physical activity 
 and/or physical exercise intervention study protocols for breast cancer treatment.  The 
 types, frequency, duration, intensity and timing of the therapeutic intervention with 
 physical activity are highlighted, in addition to showing the results found. 
-
 Methods: Based on the guidelines of PRISMA Extension for Scoping Reviews 
 (PRISMA-ScR), a search was carried out in five databases (Cochrane Library; PubMed 
 Central®; ScienceDirect; Scopus Elsevier and Web of science). There was no restriction 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 regarding idiom or year of publication. The studies found were evaluated manually and 
 with the assistance of the Rayyan software by two researchers, blindly and independently. 
 The following keywords were used as a search strategy:  ‘breast cancer’ AND ‘physical 
@@ -13,7 +70,6 @@ activity’ OR ‘physical exercise’, AND ‘protocol study’ OR ‘study pro
 inclusion criteria comprised study protocols of randomized clinical trials with the 
 intervention of physical activity and/or physical exercise in women undergoing breast 
 cancer treatment and during post-treatment. 
-
 Results: 806 articles were found. The duplicates and the ones that did not meet the 
 inclusion criteria were excluded, thus, 17 articles remained for the review. The Cochrane 
 Risk-of-Bias tool was used for the methodological evaluation of the studies classified as 
@@ -26,14 +82,55 @@ protocols showed improvement with regard to the physical aspects (physical fitne
 physical activity level, cognitive function and body composition), and psychological 
 aspects (quality of life, fatigue, depression and anxiety), which reinforces the use of 
 physical activities for this public. 
-
 Discussion: Study protocols are essential to provide research transparency, which 
 facilitates the reproducibility and understanding of the interventions, and contributes to 
 scientific advancement. 
-
 Impact: This scoping review provides a survey that will help further research on physical 
 activity and/or physical exercise for women with breast cancer. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+Keywords: Breast Neoplasms. Clinical Trial Protocol. Complementary Therapies. 
+Exercise. 
+ 
+RESUMO 
+Objetivos: Este estudo teve como objetivo identificar e caracterizar os protocolos de 
+estudos de atividade física e / ou intervenção com exercícios físicos para o tratamento do 
+câncer de mama. São destacados os tipos, frequência, duração, intensidade e momento da 
+intervenção terapêutica com atividade física, além de mostrar os resultados encontrados. 
+Métodos: Com base nas diretrizes do PRISMA Extension for Scoping Reviews 
+(PRISMA-ScR), foi realizada uma busca em cinco bases de dados (Cochrane Library; 
+PubMed Central®; ScienceDirect; Scopus Elsevier e Web of science). Não houve 
+restrição quanto ao idioma ou ano de publicação. Os estudos encontrados foram avaliados 
+manualmente e com auxílio do software Rayyan por dois pesquisadores, de forma cega e 
+independente. As seguintes palavras-chave foram usadas como estratégia de pesquisa: 
+‘câncer de mama’ AND ‘atividade física’ OR ‘exercício físico’, AND ‘protocolo de 
+estudo’ OR ‘protocolo de estudo’. Os critérios de inclusão compreenderam protocolos de 
+estudo de ensaios clínicos randomizados com intervenção de atividade física e / ou 
+exercício físico em mulheres em tratamento para câncer de mama e no pós-tratamento. 
+Resultados: foram encontrados 806 artigos. Foram excluídas as duplicatas e as que não 
+atenderam aos critérios de inclusão, restando 17 artigos para a revisão. A ferramenta 
+Cochrane Risk-of-Bias foi utilizada para a avaliação metodológica dos estudos 
+classificados como de ‘baixo risco’ de viés, que apresentaram rigor metodológico. 
+Destacaram-se exercícios aeróbicos, endurance, dança, Pilates, exercícios guiados por 
+aplicativos e softwares de internet. Evidenciaram-se exercícios de intensidade moderada, 
+com frequência de três vezes por semana e duração de 30 minutos. A grande maioria das 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+mulheres que participaram das intervenções encontrava-se entre os estágios 0 e III da 
+doença. Os protocolos de estudo mostraram melhora no que diz respeito aos aspectos 
+físicos (aptidão física, nível de atividade física, função cognitiva e composição corporal), 
+e aos aspectos psicológicos (qualidade de vida, fadiga, depressão e ansiedade), o que 
+reforça o uso de atividades físicas para tal. público. 
+Discussão: Os protocolos de estudo são essenciais para dar transparência à pesquisa, o 
+que facilita a reprodutibilidade e compreensão das intervenções e contribui para o avanço 
+científico. 
+Impacto: esta análise de escopo fornece uma pesquisa que ajudará em pesquisas futuras 
+sobre atividade física e / ou exercícios físicos para mulheres com câncer de mama. 
+Palavras-chave: Exercício. Neoplasias da mama. Protocolo de Ensaios Clínicos. 
+Terapias complementares. 
+ 
+ 
+1. Introduction 
 Breast cancer has been considered the most common type of cancer in women 
 worldwide since 2018. That year it accounted for more than 24% of the total cancer cases 
 diagnosed in the female world population, with approximately 2.1 million new cases, in 
@@ -42,14 +139,14 @@ suggests physical activity practice as an alternative therapy2,3, which provides
 benefits for women undergoing breast cancer treatment or during post-treatment; 
 moreover, such activities can be significantly associated with these women postoperative 
 stage4.    
-
 Therefore, randomized clinical trials that investigate interventions with physical 
 activity in women with breast cancer have been shown to be effective in improving 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 fatigue.5–7, quality of life5,8,9, decreased body mass index (BMI) and body weight5, 
 increased muscle endurance5, muscle strength10,11, decreased symptoms of depression and 
 anxiety6,7,9, improvement in shoulder range of motion9,10, sleep disorders12, body image12, 
 pain13 and cardiorespiratory fitness11,13.  
-
 The search in the databases (PubMed Central®; Cochrane Library; Web of 
 science - main collection, Scopus Elsevier e ScienceDirect) showed that the international 
 literature has published studies on physical activity and chronic diseases since 1983 with 
@@ -58,7 +155,6 @@ activity contributes to reduce the risks of chronic diseases. Regarding study pr
 one of the first findings dates from 1955 with the study by Sakheim15 that aimed at 
 validating a study protocol in a psychiatric hospital. Only in 1989, with the investigation 
 by Dickhuth et al16 the study protocols started to associate physical activity. 
-
 The fact that the publication of study protocols provides transparency to research17 
 is notorious, in addition to reducing publication bias18. When published, such protocols 
 become significant research instruments, since they help in the reproducibility of 
@@ -66,22 +162,27 @@ interventions by other researchers and contribute to the scientific community to
 what has been produced in a given area17. However, despite their benefits, not all clinical 
 trials are concerned with publishing the physical activity intervention protocols that have 
 worked as an instrument. 
-
 In this sense, by mapping the scenario of randomized clinical trials protocols that 
 include physical activity for women with breast cancer, the present scoping review can 
 contribute with new perspectives of interventions for the professionals in the area. In 
 addition, this review is intended to collaborate for the improvement in physical and 
 mental health of women with breast cancer through complementary therapies.  Thus, this 
 scoping review aimed at identifying and characterizing the physical activity and/or 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 physical exercise intervention study protocols for breast cancer treatment. The types, 
 frequency, duration, intensity and timing of the therapeutic intervention with physical 
 activity were highlighted, in addition to showing the results found. 
-
+ 
+2. Methods 
+Protocol  
 The present scoping review is based on the guidelines of PRISMA Extension for 
 Scoping Reviews (PRISMA-ScR)19. The guiding question was formed according to 
 PICOS acronym: what are the characteristics of the physical activity and/or physical 
 exercise intervention protocols for breast cancer treatment? 
-
+ 
+ 
+Search strategy 
 A search was performed in five databases: Cochrane Library; PubMed Central®; 
 ScienceDirect; Scopus Elsevier and Web of science - main collection. The descriptors are 
 shown in Table 1.  All the titles and abstracts found in the electronic search were manually 
@@ -92,36 +193,96 @@ Physical Activity Research Laboratory). The Rayyan software (Intelligent Systema
 Review) was also used to assist in the selection of references. The discrepancies were 
 resolved by a third researcher (ACAG). The reference lists of all the relevant articles were 
 examined to identify other eligible studies. 
-
+ 
+Table 1. Complete electronic database search strategy 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+Terms 
+Descriptors 
+#1 Breast cancer 
+Breast cancer 
+#2 Intervention 
+Physical activity OR Physical exercise 
+#3 Study 
+Protocol study OR Study protocol 
+Combination 
+#1 AND #2 OR #3 OR 
+ 
+Eligibility criteria 
 The eligibility criteria for the studies were defined according to PICOS acronym 
 by considering the population, intervention, comparison, outcome and study design 
 (Table 2). Some randomized clinical trials carried out with adult women (≥18 years old) 
 undergoing breast cancer treatment and during post-treatment were eligible for this 
 review.  
-
 The studies should investigate interventions that included physical activities 
 and/or physical exercise for breast cancer treatment. The abstracts and full texts were 
 available from January to February, 2021. There was no restriction regarding the idiom 
 or the year of publication. 
-
 The researchers (JS and VBL) carried out the searches on the databases mentioned 
 and, then, they systematized the organization of the articles selected according to the title 
 and abstract. Those that did not meet the objectives of the study were excluded. After this 
 screening, the articles were read in full, so that the selection process of the ones that would 
 be included in this study was completed (Figure 1). 
-
-After searching for the studies to be included in the present scoping review, those 
+ 
+Table 2. Inclusion and exclusion criteria of the studies 
+ 
+ 
+Inclusion criteria 
+Exclusion criteria 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+P 
+Participants 
+Women undergoing breast cancer 
+treatment and during post-
+treatment. 
+Not having a diagnosis of breast cancer 
+I 
+Intervention 
+Any practice of physical activity, 
+physical exercises or body 
+practice with face-to-face 
+intervention and/or call center 
+Use of complementary drugs 
+C 
+Comparasion 
+Comparison between groups 
+(control group with intervention 
+group or two intervention groups) 
+No comparison between two groups 
+O 
+Outcome 
+Protocols of physical activity 
+and/or physical exercise for 
+women with breast cancer 
+Studies without registration of the protocol on the 
+randomized clinical trials platforms. 
+S 
+Study 
+Study protocols of randomized 
+clinical trials. 
+Systematic or literature reviews, case studies, pilot 
+studies, dissertations, theses, book chapters, 
+abstracts shown at conferences, supplements or 
+editors’ comments. 
+ 
+The variables evaluated 
+          After searching for the studies to be included in the present scoping review, those 
 that addressed physical activity and/or physical exercise protocols for the treatment and 
 post-treatment of women with breast cancer were selected. Thus, the following variables 
 were investigated:  study protocols, breast cancer and physical activity and/or physical 
 exercise. 
-
+ 
+Study protocols 
 Study protocols provide guidelines for research performance, in addition to being 
 a basis for recording and facilitating the evaluation itself20. These are studies that establish 
 detailed steps and sequences so that an investigation can then be carried out by answering 
 both, the questions that are sought according to the purposes and any other questions that 
 may arise.21.                                                                              
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+ 
+Breast cancer 
 Breast cancer is characterized by an uncontrolled growth of abnormal breast 
 cells22 and it is the type of cancer with the highest incidence among women worldwide23. 
 The first articles published on this theme date from the 1880s, with the study by Snow24, 
@@ -130,24 +291,29 @@ studies related to breast cancer, with more than 500,000 articles in the databas
 investigations have been in evidence since the 1960s with clinical trials26–28, which 
 increasingly intensified and deepened the search for early diagnosis and types of 
 treatment with the purpose of improving the quality of life of these women. 
-
+ 
+Physical activity and/or physical exercise 
 Physical activity is defined as any body movement produced by skeletal muscles 
 that require energy expenditure29. According to Krebs, Berling-Ernst, Halle30 physical 
 activity represents a therapy option and support for cancer patients. There are studies 
 related to the practice of physical activity and/or physical exercise during the treatment 
 and post-treatment of cancers29,31,32, especially breast cancer, which recommend at least 
 150 minutes of moderate-to-vigorous physical activity per week33.  
-
+ 
+Data extraction 
 The analysis and discussion of the study protocols was carried out by extracting 
 the data referring to the authors, year of publication, journal, country where the study was 
 carried out, number of citations according to the Web of Science base (until February 7, 
 2021), number of databases, search period and whether the 27-item PRISMA checklist 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 was followed (yes or no). In addition, the objectives, total sample size, intervention 
 groups, control group, age, the location where the study was carried out, the variables 
 investigated (physical and psychological ones), particularities of the intervention with 
 physical activity, duration, number and frequency of the sessions, and duration of the 
 intervention were scored. 
-
+ 
+Study quality and risk of bias 
 The Cochrane Risk-of-Bias tool was used34 in order to assess the methodological 
 quality of the studies. The following criteria were evaluated: (1) random sequence 
 generation, (2) allocation sequence hiding, (3) the participants and researchers’ masking, 
@@ -155,17 +321,36 @@ and (4) selective reporting. The masking items regarding the evaluation of the o
 as well as the incomplete data were not included in the study, since study protocols do 
 not show intervention results. The researchers' judgment (JS, ACAG) on the review was 
 rated as low, unclear, or as having a high risk of bias. 
-
+ 
+3. Results 
+Studies included 
 806 articles were found in the first database search, that is, 290 in Science Direct, 
 46 in Web of Science, 87 in Scopus, 170 in Cochrane and 213 in PubMed. 102 duplicate 
 articles were excluded. After reading the titles and abstracts, 686 articles were excluded 
 for not meeting the inclusion criteria, besides being characterized as another type of study 
 or for investigating individuals with other diseases. Thus, 18 articles remained to be read 
 in full and, after doing so, one article was excluded.  
-
 Therefore, 17 articles were included in this scoping review, all of them 
 characterized as study protocols with randomized clinical trials35–51.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 - Flowchart of the study selection strategy according to PRISMA model 
+ 
+Participants 
 The 
 study 
 participants 
@@ -178,18 +363,19 @@ cancer34,35,36,37,39,41–45,46–49, metastatic breast cancer50, overweight or 
 breast cancer48 and elderly women with breast cancer35. The age criterion varied from 
 being over 18 years old36,40,42–46,50,51, between 18 and 6540, 18 and 7547,49, 19 and 7045,  20 
 and 5941, 30 and 7542, 40 and 7546, and, finally, 65 and 70 years old35.  
-
 The women were between stages 0 and III of the disease36,37,47–49,51,38–45; some of 
 them with metastasis or severe cancer35,50. One study did not show the disease stage of 
 the participants46. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 Regarding treatment, some studies included women undergoing treatment, such 
 as chemotherapy, radiotherapy or adjuvant therapies35–37,39,41,44,47,49; some who had 
 completed adjuvant chemotherapy and radiotherapy therapies40,43,48, in addition to a study 
 in which the individuals received neoadjuvant therapy42; four studies included women 
 scheduled to undergo chemotherapy38,45,46,51 and one study did not specify the treatment 
 period of the female participants50.  
-
+ 
+Overview 
 Considering the studies included, the oldest are the ones by Carayol et al47 and 
 Schmidt et al38, in addition to other more recent investigations, that is, the ones by 
 Andersen et al35, Boing et al36, Pudkasam et al37, Smith-Turchyn et al39, Foulkes et al46, 
@@ -197,19 +383,20 @@ and Meier-Girard et al50. The impact factor of the journals varied from 1.55240 
 3.15045,46,51. Out of the 17 articles found, only twelve were mentioned in the Web of 
 Science, with one36,38,41, two45,46,51, four42, five40, six43, seven44, eigth48 and twelve47 
 citations until April 12, 2021.  
-
 Regarding the locations where the studies were performed, nine of them were 
 developed in Europe, that is, Spain40, Holland42, Denmark35, Italy48, United Kingdom49, 
 France47, Germany51,38, and Switzerland50; three investigations were carried out in North 
 America, more specifically in the United States44 and Canada45,39, one in South America, 
 in Brazil36, two in Oceania, specifically in Australia37,46, and two in Asia, in China43 and 
 Japan41.  
-
 All the studies were registered on clinical trial registry platforms, that is, Clinical 
 Trial35,36,50,52,38–40,42,44,45,47,48, Chinese Clinical Trial Registry (ChiCTR)43, UMIN Clinical 
 Trial Registry (UMIN-CTR)41, German Clinical Trials Register (GermanCTR)51 and  
 Clinical Trials Registry from Australia and New Zealand37,46.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+ 
+Control and comparison groups 
 Considering the studies selected, 15 had a control group35,36,48,49,51,39,41–47. The 
 approaches of the control groups included usual and routine care35,36,39,42,43,45–47,49; general 
 health advice and guidelines for reducing body weight48; in addition to the provision of a 
@@ -217,12 +404,13 @@ device to monitor physical activity and physical exercise practice41; active con
 (CoordiFit)50; guidance on physical exercises for postoperative recovery and breast 
 cancer treatment44; supervised myofascial release training three times a week51, and 
 guidelines for performing aerobic activity and taking at least 10,000 steps per day40.  
-
 Among the studies selected, 2 of them had a comparison group37,38. The 
 approaches of the comparison groups comprised immediate intervention group and a late 
 intervention group, with self-directed physical activity37; a progressive endurance training 
 program, and a supervised program in muscle relaxation training38.  
-
+ 
+Interventions  
+Type of interventions with physical activity and/or physical exercise 
 Physical activity and/or physical exercise interventions in study protocols vary 
 from 
 home walking49, walking and supervised exercises35,46, aerobic and 
@@ -232,38 +420,51 @@ and use of watches to monitor the activity39,41; internet software and Qigong43,
 directed exercises37, rehabilitation exercises44, high-intensity interval training (HIIT)51, 
 personalized exercises and a diet program47, besides motivational meetings, diet and the 
 use of watches to monitor the activity48. 
-
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+Duration of the interventions with physical activity and/or physical exercise 
 The duration of the interventions ranged from 12 weeks35,38,40,41,43,49, 16 weeks36, 
 20 weeks50, 24 weeks42,48, 12 to 24 weeks45, 12 to 18 weeks51, 26 weeks47 and 48 weeks39. 
 A study was carried out in three phases, that is, 12 weeks, 14 weeks and 26 weeks46, and 
 another one did not provide the duration of the intervention44. 
-
+ 
+Frequency of physical activity and/or physical exercise interventions 
 The frequency proposed for the interventions varied from 1 to 3 times a 
 week35,36,51,38–40,42,43,45,46,50, 4 to 5 times a week47,49, 6 meetings divided into 6 months41,48, 
 and two studies did not provide the frequency according to which the interventions 
 occurred37,44. 
-
+ 
+Duration of the physical activity and/or physical exercise interventions 
 The duration of each intervention session ranged from 20 to 25 minutes51, 20 to 
 40 minutes per session45, 30 minutes per session35,39,41,43,49, 30 to 45 minutes per session47, 
 45 minutes per session50, 30 to 60 minutes46, 60 minutes per session36,38,40,48, 60 to 120 
 minutes per session42. Two studies did not provide the session duration of the 
 interventions37,46. 
-
+ 
+Intensity of physical activity and/or physical exercise interventions 
 The intensity of the interventions varied from light40, light to moderate35,50, 
 moderate37–39,47,48, light to vigorous51, and moderate to high/vigorous42,45. Six studies did 
 not show the intensity of the interventions36,41,43,44,46,49. 
-
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+Professionals who performed the physical activity and/or physical exercise 
+interventions 
 The interventions were performed by Physical Education professionals or 
 professionals who worked with physical exercise39,40,45,47, in addition to physiologists46, 
 physiotherapists35,42–44, Physical Education professionals and/or physiotherapists36,38, 
 clinical staff (doctor, physiotherapist, Physical Education professional, nurses)41,48, 
 therapists or specialists in eurythmy50 or by the researcher himself49, one per 
 application37. An article did not specify the professionals51.  
-
+ 
+The locations where the physical activity and/or physical exercise interventions 
+were carried out 
 Interventions were carried out at universities38,42,45,46, hospitals35–37,43,47,51, at 
 home41,49,50, at physiotherapy clinics and at home44; city hall exercise rooms40, research 
 center,39 at home and in the presence of support groups48.  
-
+ 
+           Outcomes assessed in the study protocols 
 Physical and psychological outcomes were assessed. All the study protocols 
 proposed to evaluate the female participants in the baseline and post-intervention periods. 
 Some studies included evaluations in the middle of the intervention, on the 6th week35, 
@@ -273,7 +474,11 @@ the intervention51, 6, 12 and 24 months after the intervention36, 24 and 36 week
 intervention41, 6 and 12 months after the intervention39,44, 12 and 18 months after the 
 intervention47, 12 and 24 months after the intervention48, and 18 months after the 
 intervention42. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+ 
+Physical outcomes assessed in the physical activity and/or physical exercise 
+protocols 
 The physical outcomes assessed in the protocol studies are shown in Figure 2. 
 More specifically, they included physical fitness36,38–43,45, physical function35,41,46, body 
 composition35,40,47,48, total, regional and mineral bone body composition46, physical 
@@ -286,22 +491,43 @@ intake/diet46–48, health condition48, use of health services39, biological ass
 neutrophic levels51, cardiac reserve46, cardiac structure and function46, central vascular 
 stiffness46, blood pressure46, sedentary behavior46, side effects related to cancer51 and 
 immune function37. 
-
+Figure 2. Physical outcomes assessed 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3. Psychological outcomes assessed 
+ 
+Psychological outcomes assessed in the physical activity and/or physical exercise 
+protocols 
 Figure 3 shows the psychological variables evaluated, that is, quality of 
 life35,36,45,46,48,50,37–44, welfare35, fatigue36,38,40–42,46,47,49,50, anxiety37,42,47,49,50, depression36–
 38,40–42,47,49,50, stress37, mood46,49, self-esteem36,49, body image36, sexual function36, sleep 
 quality36,41,50, suffering50, life satisfaction40, psychological health45 and fear of cancer 
 recurrence41. 
-
+ 
+Quality of the study protocols 
 In general, the study protocols were classified as having a ‘low’ risk of bias in most of 
 the items assessed. Only one study had a ‘high’ risk of bias classification39, and there 
 were two ‘unclear’ studies47,53  concerning the random sequence generation item. Five 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 studies39,42,47–49 showed an ‘unclear’ classification with regard to the allocation sequence 
 hiding.  Considering the participants and researchers’ masking, three studies42,48,49 were 
 classified as having an ‘unclear’ classification. Twelve studies35,36,50,51,37,38,40,41,43–46 
 showed a ‘low risk’ of bias in all items, which points to a more detailed methodological 
 rigor. 
-
+ 
+4. Discussion 
 This scoping review aimed at identifying and characterizing the physical activity 
 and/or exercise intervention study protocols for breast cancer treatment by highlighting 
 the types, frequency, duration, intensity and timing of the therapeutic intervention with 
@@ -314,11 +540,14 @@ after being assessed, such studies were shown to have a low risk of bias because
 clearly showed a random sequence generation, allocation sequence hiding, the 
 participants and researchers’ masking, as well as selective reports, which are in 
 accordance with Cochrane Risk-of-Bias tool34. 
-
+ 
+Characterization of physical activity and/or physical exercises 
 The types of physical activity and/or physical exercises found in the study 
 protocols included in this scoping review comprised aerobic exercises, endurance 
 training, dance and Pilates, and exercises guided by applications and Internet software. 
 This shows a wide range of modalities that have been investigated in the context of breast 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 cancer. Thus, these study protocols provided a series of intervention options, which 
 outlines possibilities and structure, in addition to providing a basis for further randomized 
 clinical trials. Some studies have previously investigated some of these modalities, such 
@@ -329,7 +558,6 @@ showed significant improvement in strength, flexibility, musculoskeletal improve
 body composition, reduction of side effects regarding breast cancer treatment, besides 
 improving the quality of life and emotional level of these women after interventions with 
 aerobic and endurance exercises. 
-
 Regarding the interventions with walking, the study protocols have shown that it 
 can be an effective training to improve cardiorespiratory fitness, physical performance, 
 in addition to being a safe and beneficial intervention for women who have lymphedema 
@@ -339,20 +567,20 @@ interesting option in low and middle income countries. The exercises provided by
 Intensity Interval Training (HIIT), in turn, are suggested in the study protocols by Tsuji 
 et al41 and Oberste et al51. This new modality has also been addressed for breast cancer 
 patients during chemotherapy with positive effects61. 
-
 Two study protocols assessed in this scoping review included interventions 
 through dance36,50. Others, such as the ones by Loo et al62 and Ho et al63 showed that 
 dance practice enabled to achieve an increased physical activity in breast cancer 
 survivors. The quality of life was also improved by increasing vigor and reducing 
 problems associated with obesity, and reducing stress and pain in these women. 
 Considering the interventions with Pilates, the study by Eyigor et al64 showed that such a 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 method is a safe and effective exercise for breast cancer patients, since it enables the 
 improvement of functional capacities, fatigue, quality of life and helps to reduce 
 depression. According to the results shown in the study by Alpozgen et al65, Pilates also 
 provided improvement in pain, muscle strength, besides being effective as a rehabilitation 
 exercise for women with breast cancer. Thus, this method can be considered an alternative 
 treatment for this public.  
-
 Current modalities seen in the protocols, that is, exercises performed at home with 
 interventions using electronics, such as watches to monitor physical activity, internet 
 software and smartphone applications, have been encouraged for providing changes in 
@@ -372,10 +600,11 @@ demand for digital tools, in addition to raising people’s awareness on how muc
 methods can be explored. It would not be possible to carry out the interventions without 
 such tools. Problems related to the capability of some software, the lack of skills to use 
 the applications, difficulties in accessing the Internet and a possible lack of interest by the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 participants are likely to be limitations. However, these strategies can work as a useful 
 tool in changing behavior, besides facilitating and bringing the researchers and 
 participants closer together67. 
-
 It was also identified that the interventions were mainly proposed to work with 
 moderate intensity exercises, which corroborates with Spence et al33 who recommended 
 physical activity for breast cancer patients at least 150 minutes per week, as proposed in 
@@ -384,7 +613,8 @@ Lack of information regarding the intensity of the interventions was one of the 
 of some study protocols. These recommendations should be suggested by the researcher 
 so that benefit is proven, in addition to facilitating subsequent implementation and 
 performance of other intervention study protocols. 
-
+ 
+Physical and psychological outcomes 
 The physical outcomes most found in the study protocols comprised the physical 
 conditions and limitations of women with breast cancer, such as decreased function of the 
 upper limb71, decreased range of motion and muscle strength19, and cardiovascular 
@@ -394,14 +624,14 @@ activities. Thus, the Disabilities of the Arm, Shoulder and Hand (DASH) test, th
 rising test in 30 seconds (30s - SRT) and the 6-minute walk test (6MWT) were the 
 instruments most often used by the studies assessed. These instruments have a low cost 
 and are fast to be applied. 
-
 The consequences of the treatments considering the conditions or psychological 
 health of the women undergoing treatment and during post-treatment of breast cancer can 
 lead to problems of anxiety, depressive symptoms, fatigue, and sexual dysfunction. Thus, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 there is a great concern with quality. In view of this, several studies show quality of life 
 as their main outcome, followed by depression and anxiety, which are possibly more often 
 addressed due to the worrying factors related to the disease73. 
-
 Regarding the instruments used, it is noteworthy that there is a wide range of 
 possibilities, which makes later comparisons between studies difficult. Regarding quality 
 of life, for example, which was shown to be the main outcome in most study protocols, 
@@ -411,7 +641,8 @@ dimensional Instrument (EQ-5D-5L), and the Functional Assessment of Cancer Thera
 - Breast (FACT-B). All of them are validated and used in studies on cancer patients. The 
 Hospital Anxiety and Depression Scale (HADS) is one of the most used instruments to 
 assess depression and anxiety.  
-
+ 
+Conclusions 
 The study protocols showed different possibilities of intervention through 
 physical activity and/or physical exercise; however, some have limitations due to the lack 
 of information, such as intensity, frequency or timing of the sessions, which are necessary 
@@ -420,10 +651,11 @@ found in this scoping review dates from 2013, which shows that previous clinical
 did not have protocol publications, and that the practice of publishing study protocols is 
 still expanding. Not all scientific journals accept this type of study, and some authors of 
 randomized clinical trials choose not to publish their protocols. 
-
 Considering the study protocols included in this scoping review, a range of 
 interventions with different modalities of physical activity and/or physical exercise was 
 found, that is, endurance training, aerobic exercises, dance, Pilates, HIIT, Qigong, and 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
 activities by using technologies, such as software and applications and/or watches to 
 monitor physical activity. The frequency of interventions ranged from one to five times a 
 week, lasting from 12 to 48 weeks, in a low-to-vigorous intensity. Regarding the disease 
@@ -432,15 +664,405 @@ treatment period, the women were mainly undergoing chemotherapy, radiotherapy or
 other adjuvant therapies. Physical fitness, physical activity level, cognitive function and 
 body composition were the main outcomes seen. Quality of life, fatigue, depression and 
 anxiety were the psychological outcomes that stood out the most. 
-
 Even considering this range of modalities, more study protocols are necessary so 
 that research transparency is obtained, in addition to facilitating the reproducibility and 
 understanding of interventions. These protocols, on the other hand, provide tools to assist 
 in further research and contribute to the advancement of scientific knowledge.  
-
+ 
+Impact Statement 
 The present study provides insight into the characteristics of study protocols with 
 randomized clinical trials by showing which protocols might be more suitable for a given 
 study, as well as which instruments are most used for obtaining physical and 
 psychological outcomes. The survey carried out and shown in this scoping review will 
 help further research that involves physical activity and/or physical exercise for women 
 with breast cancer.  
+Contribuintes 
+All authors have contributed to the information or material submitted for publication, and 
+that all authors have read and approved the manuscript. Juliana da Silveira and Vanessa Bellani 
+Lyra were responsible for the conception and design of the study, acquisition, analysis and 
+interpretation of data; Juliana da Silveira, Vanessa Bellani Lyra, Leonessa Boing, Patrícia Severo 
+dos Santos Saraiva and Adriana Coutinho de Azevedo Guimarães participated drafting the article 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+or revising it critically for important intellectual content and final approval of the version to be 
+submitted. 
+Interest conflicts 
+The authors declare no conflict of interest, financial or otherwise. Study results are 
+presented clearly, honestly and without falsification or improper data manipulation.  
+Funding 
+This research did not receive any specific grant from funding agencies in the public, 
+commercial, or not-for-profit sectors. 
+ 
+ 
+References 
+1.  
+World Health Organization. World Cancer Day 2021: Spotlight on IARC 
+research related to breast cancer. Published online 2021. 
+2.  
+Speck RM, Courneya KS, Mâsse LC, Duval S, Schmitz KH. An update of 
+controlled physical activity trials in cancer survivors: A systematic review and 
+meta-analysis. J Cancer Surviv. 2010;4(2):87-100. doi:10.1007/s11764-009-
+0110-5 
+3.  
+Graham-Little E. the New Zealand Scene. Lancet. 1947;250(6464):109-110. 
+doi:10.1016/S0140-6736(47)90266-3 
+4.  
+De Groef A, Van Kampen M, Dieltjens E, et al. Effectiveness of postoperative 
+physical therapy for upper-limb impairments after breast cancer treatment: A 
+systematic review. Arch Phys Med Rehabil. 2015;96(6):1140-1153. 
+doi:10.1016/j.apmr.2015.01.006 
+5.  
+Carayol M, Ninot G, Senesse P, Bleuse JP, Gourgou S, Sancho-Garnier H, Sari 
+C, Romieu I, Romieu G JW. Carayol M et al., 2010, Short- and long-term impact 
+of adapted physical activity and diet counseling during adjuvant breast cancer 
+therapy the APAD1. BMC Cancer. 2019;19(1):737. 
+6.  
+Rogers LQ, Courneya KS, Anton PM, et al. Effects of a multicomponent physical 
+activity behavior change intervention on fatigue, anxiety, and depressive 
+symptomatology in breast cancer survivors: randomized trial. Psychooncology. 
+2017;26(11):1901-1906. doi:10.1002/pon.4254 
+7.  
+Fisher HM, Jacobs JM, Taub CJ, et al. How changes in physical activity relate to 
+fatigue interference, mood, and quality of life during treatment for non-metastatic 
+breast cancer. Gen Hosp Psychiatry. 2017;49(May):37-43. 
+doi:10.1016/j.genhosppsych.2017.05.007 
+8.  
+Penttinen H, Utriainen M, Kellokumpu-Lehtinen PL, et al. Effectiveness of a 12-
+month Exercise Intervention on Physical Activity and Quality of Life of Breast 
+Cancer Survivors; Five-year Results of the BREX-study. In Vivo (Brooklyn). 
+2019;33(3):881-888. doi:10.21873/invivo.11554 
+9.  
+Ying W, Min QW, Lei T, Na ZX, Li L, Jing L. The health effects of Baduanjin 
+exercise (a type of Qigong exercise) in breast cancer survivors: A randomized, 
+controlled, single-blinded trial. Eur J Oncol Nurs. 2019;39(September 2018):90-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+97. doi:10.1016/j.ejon.2019.01.007 
+10.  
+Dong X, Yi X, Gao D, et al. The effects of the combined exercise intervention 
+based on internet and social media software (CEIBISMS) on quality of life, 
+muscle strength and cardiorespiratory capacity in Chinese postoperative breast 
+cancer patients:a randomized controlled trial. Health Qual Life Outcomes. 
+2019;17(1):1-9. doi:10.1186/s12955-019-1183-0 
+11.  
+Travier N, Velthuis MJ, Steins Bisschop CN, et al. Effects of an 18-week 
+exercise programme started early during breast cancer treatment: A randomised 
+controlled trial. BMC Med. 2015;13(1):1-11. doi:10.1186/s12916-015-0362-z 
+12.  
+Paulo TRS, Rossi FE, Viezel J, et al. The impact of an exercise program on 
+quality of life in older breast cancer survivors undergoing aromatase inhibitor 
+therapy: A randomized controlled trial. Health Qual Life Outcomes. 
+2019;17(1):1-12. doi:10.1186/s12955-019-1090-4 
+13.  
+Møller T, Andersen C, Lillelund C, et al. Physical deterioration and adaptive 
+recovery in physically inactive breast cancer patients during adjuvant 
+chemotherapy: a randomised controlled trial. Sci Rep. 2020;10(1):1-15. 
+doi:10.1038/s41598-020-66513-9 
+14.  
+Metzner HL, Carman WJ, House J. Health practices, risk factors, and chronic 
+disease in Tecumseh. Prev Med (Baltim). 1983;12(4):491-507. doi:10.1016/0091-
+7435(83)90204-9 
+15.  
+Sakheim GA. Suicidal responses on the rorschach test: A validation study: 
+Protocols of suicidal mental hospital patients compared with those of non-
+suicidal patients. J Nerv Ment Dis. 1955;122(4):332-344. doi:10.1097/00005053-
+195510000-00004 
+16.  
+Dickhuth H-H, Horstamann T, Staiger J, Reindell H, Keul J. The long-term 
+involution of physiological cardiomegaly and cardiac hypertrophy. Med Sci 
+Sports Exerc. 1989;21(3):244-249. 
+17.  
+Li T, Boutron I, Salman RAS, et al. Review and publication of protocol 
+submissions to Trials - what have we learned in 10 years? Trials. 2016;18(1). 
+doi:10.1186/s13063-016-1743-0 
+18.  
+Ohtake PJ, Childs JD. Why publish study protocols? Phys Ther. 
+2014;94(9):1208-1209. doi:10.2522/ptj.2014.94.9.1208 
+19.  
+Klassen O, Schmidt ME, Ulrich CM, et al. Muscle strength in breast cancer 
+patients receiving different treatment regimes. J Cachexia Sarcopenia Muscle. 
+2017;8(2):305-316. doi:10.1002/jcsm.12165 
+20.  
+SPIRIT 2013 Statement. Guidance for Clinical Trial Protocols. Published online 
+2021. 
+21.  
+Rillo AG, Valdes-ramos R. Universidad Autónoma del Estado de México. 
+2009;(December). doi:10.13140/RG.2.2.15041.35683 
+22.  
+American Cancer Society. What is Breast Cancer? Published online 2019. 
+23.  
+Instituto Nacional de Câncer. Câncer de Mama. Published online 2021. 
+24.  
+Snow HL. On a neglected symptom in breast cancer. Lancet. 
+1880;115(2963):912. doi:10.1016/S0140-6736(02)37021-1 
+25.  
+Cheyne WW. TWO CASES of OOPHORECTOMY for INOPERABLE 
+BREAST CANCER. BMJ. 1898;1(1949):1194-1195. 
+doi:10.1136/bmj.1.1949.1194 
+26.  
+Forrest APM. Conservative local treatment of breast cancer. Cancer. 
+1977;39(6):2813-2821. doi:10.1002/1097-0142(197706)39:6<2813::AID-
+CNCR2820390669>3.0.CO;2-8 
+27.  
+Shapiro S, Strax P, Venet L. Evaluation of periodic breast cancer screening with 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+mammography: methodology and early observations. 1966. CA Cancer J Clin. 
+1990;40(2):111-125. doi:10.3322/canjclin.40.2.111 
+28.  
+Fisher B. Adjuvant Chemotherapy in the Primary Management of Breast Cancer. 
+Med Clin North Am. 1977;61(5):953-965. doi:10.1016/S0025-7125(16)31272-X 
+29.  
+Friedenreich CM, Ryder-Burbidge C, McNeil J. Physical activity, obesity and 
+sedentary behavior in cancer etiology: epidemiologic evidence and biologic 
+mechanisms. Mol Oncol. 2021;15(3):790-800. doi:10.1002/1878-0261.12772 
+30.  
+Krebs S, Berling-Ernst A, Halle M. Sporttherapie bei Krebs. Sport · Sport. 
+2018;32(02):143-147. doi:10.1055/s-0043-115187 
+31.  
+Brown JC, Gilmore LA. Physical Activity Reduces the Risk of Recurrence and 
+Mortality in Cancer Patients. Exerc Sport Sci Rev. 2020;48(2):67-73. 
+doi:10.1249/JES.0000000000000214 
+32.  
+Robertson MC, Lyons EJ, Song J, et al. Change in physical activity and quality 
+of life in endometrial cancer survivors receiving a physical activity intervention. 
+Health Qual Life Outcomes. 2019;17(1):1-9. doi:10.1186/s12955-019-1154-5 
+33.  
+Spence RR, Sandler CX, Newton RU, Galvão DA, Hayes SC. Physical Activity 
+and Exercise Guidelines for People With Cancer: Why Are They Needed, Who 
+Should Use Them, and When? Semin Oncol Nurs. 2020;36(5):151075. 
+doi:10.1016/j.soncn.2020.151075 
+34.  
+Higgins JPT, Altman DG, Gotzsche PC, et al. The Cochrane Collaboration’s tool 
+for assessing risk of bias in randomised trials. BMJ. 2011;343(oct18 2):d5928-
+d5928. doi:10.1136/bmj.d5928 
+35.  
+Andersen HH, Mikkelsen MK, Lundager I, et al. Exercise in older women with 
+breast cancer during systemic therapy: Study protocol of a randomised controlled 
+trial (BREACE). BMJ Open. 2020;10(10):1-8. doi:10.1136/bmjopen-2020-
+038674 
+36.  
+Boing L, Do Bem Fretta T, De Carvalho Souza Vieira M, et al. Pilates and dance 
+to patients with breast cancer undergoing treatment: Study protocol for a 
+randomized clinical trial - MoveMama study. Trials. 2020;21(1):1-17. 
+doi:10.1186/s13063-019-3874-6 
+37.  
+Pudkasam S, Pitcher M, Fisher M, et al. The PAPHIO study protocol: a 
+randomised controlled trial with a 2 x 2 crossover design of physical activity 
+adherence, psychological health and immunological outcomes in breast cancer 
+survivors. BMC Public Health. 2020;20(1):696. doi:10.1186/s12889-020-08827-
+x 
+38.  
+Schmidt ME, Wiskemann J, Krakowski-Roosen H, et al. Progressive resistance 
+versus relaxation training for breast cancer patients during adjuvant 
+chemotherapy: Design and rationale of a randomized controlled trial (BEATE 
+study). Contemp Clin Trials. 2013;34(1):117-125. doi:10.1016/j.cct.2012.10.006 
+39.  
+Smith-Turchyn J, Mukherjee S, Richardson J, et al. Evaluation of a novel 
+strategy to implement exercise evidence into clinical practice in breast cancer 
+care: protocol for the NEXT-BRCA randomised controlled trial. BMJ Open Sport 
+Exerc Med. 2020;6(1):e000922. doi:10.1136/bmjsem-2020-000922 
+40.  
+Soriano-Maldonado A, Carrera-Ruiz Á, Díez-Fernández DM, et al. Effects of a 
+12-week resistance and aerobic exercise program on muscular strength and 
+quality of life in breast cancer survivors. Medicine (Baltimore). 
+2019;98(44):e17625. doi:10.1097/MD.0000000000017625 
+41.  
+Tsuji K, Ochi E, Okubo R, et al. Effect of home-based high-intensity interval 
+training and behavioural modification using information and communication 
+technology on cardiorespiratory fitness and exercise habits among sedentary 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+breast cancer survivors: habit-B study protocol for a random. BMJ Open. 
+2019;9(8):e030911. doi:10.1136/bmjopen-2019-030911 
+42.  
+Witlox L, Schagen SB, de Ruiter MB, et al. Effect of physical exercise on 
+cognitive function and brain measures after chemotherapy in patients with breast 
+cancer (PAM study): protocol of a randomised controlled trial. BMJ Open. 
+2019;9(6):e028117. doi:10.1136/bmjopen-2018-028117 
+43.  
+Xiaosheng D, Xiangren Y, Shuyuan H, Dezong G, Mengyao C, Meng D. The 
+effects of combined exercise intervention based on Internet and social media 
+software for postoperative patients with breast cancer: study protocol for a 
+randomized controlled trial. Trials. 2018;19(1):477. doi:10.1186/s13063-018-
+2857-3 
+44.  
+Bruce J, Williamson E, Lait C, et al. Randomised controlled trial of exercise to 
+prevent shoulder problems in women undergoing breast cancer treatment: Study 
+protocol for the prevention of shoulder problems trial (UK PROSPER). BMJ 
+Open. 2018;8(3). doi:10.1136/bmjopen-2017-019078 
+45.  
+Brunet J, Barrett-Bernstein M, Zadravec K, et al. Study protocol of the Aerobic 
+exercise and CogniTIVe functioning in women with breAsT cancEr 
+(ACTIVATE) trial: a two-arm, two-centre randomized controlled trial. BMC 
+Cancer. 2020;20(1):711. doi:10.1186/s12885-020-07196-3 
+46.  
+Foulkes SJ, Howden EJ, Antill Y, et al. Exercise as a diagnostic and therapeutic 
+tool for preventing cardiovascular morbidity in breast cancer patients– the 
+BReast cancer EXercise InTervention (BREXIT) trial protocol. BMC Cancer. 
+2020;20(1):655. doi:10.1186/s12885-020-07123-6 
+47.  
+Carayol M, Romieu G, Bleuse J-P, et al. Adapted physical activity and diet 
+(APAD) during adjuvant breast cancer therapy: Design and implementation of a 
+prospective randomized controlled trial. Contemp Clin Trials. 2013;36(2):531-
+543. doi:10.1016/j.cct.2013.09.016 
+48.  
+Gnagnarella P, Dragà D, Baggi F, et al. Promoting weight loss through diet and 
+exercise in overweight or obese breast cancer survivors (InForma): study 
+protocol for a randomized controlled trial. Trials. 2016;17(1):363. 
+doi:10.1186/s13063-016-1487-x 
+49.  
+Gokal K, Munir F, Wallis D, Ahmed S, Boiangiu I, Kancherla K. Can physical 
+activity help to maintain cognitive functioning and psychosocial well-being 
+among breast cancer patients treated with chemotherapy? A randomised 
+controlled trial: study protocol. BMC Public Health. 2015;15(1):414. 
+doi:10.1186/s12889-015-1751-0 
+50.  
+Meier-Girard D, Ribi K, Gerstenberg G, Ruhstaller T, Wolf U. Eurythmy therapy 
+versus slow movement fitness in the treatment of fatigue in metastatic breast 
+cancer patients: study protocol for a randomized controlled trial. Trials. 
+2020;21(1):612. doi:10.1186/s13063-020-04542-5 
+51.  
+Oberste M, Schaffrath N, Schmidt K, et al. Protocol for the “Chemobrain in 
+Motion – study” (CIM – study): a randomized locationbo-controlled trial of the 
+impact of a high-intensity interval endurance training on cancer related cognitive 
+impairments in women with breast cancer receiving first-line che. BMC Cancer. 
+2018;18(1):1071. doi:10.1186/s12885-018-4992-3 
+52.  
+Sharma N, Srivastav AK, Samuel AJ. Randomized clinical trial: Gold standard of 
+experimental designs-importance, advantages, disadvantages and prejudice. Rev 
+Pesqui em Fisioter. 2020;10(3):512-519. doi:10.17267/2238-2704rpf.v10i3.3039 
+53.  
+Bhide A, Shah PS, Acharya G. A simplified guide to randomized controlled 
+trials. Acta Obstet Gynecol Scand. 2018;97(4):380-387. doi:10.1111/aogs.13309 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+54.  
+Scott JM, Iyengar NM, Nilsen TS, et al. Feasibility, safety, and efficacy of 
+aerobic training in pretreated patients with metastatic breast cancer: A 
+randomized controlled trial. Cancer. 2018;124(12):2552-2560. 
+doi:10.1002/cncr.31368 
+55.  
+Witlox L, Velthuis MJ, Boer JH, et al. Attendance and compliance with an 
+exercise program during localized breast cancer treatment in a randomized 
+controlled trial: The PACT study. Roviello G, ed. PLoS One. 
+2019;14(5):e0215517. doi:10.1371/journal.pone.0215517 
+56.  
+García-Soidán JL, Pérez-Ribao I, Leirós-Rodríguez R, Soto-Rodríguez A. Long-
+Term Influence of the Practice of Physical Activity on the Self-Perceived Quality 
+of Life of Women with Breast Cancer: A Randomized Controlled Trial. Int J 
+Environ Res Public Health. 2020;17(14):4986. doi:10.3390/ijerph17144986 
+57.  
+Sweeney FC, Demark-Wahnefried W, Courneya KS, et al. Aerobic and 
+Resistance Exercise Improves Shoulder Function in Women Who Are 
+Overweight or Obese and Have Breast Cancer: A Randomized Controlled Trial. 
+Phys Ther. 2019;99(10):1334-1345. doi:10.1093/ptj/pzz096 
+58.  
+Hiraoui M, Al-Haddabi B, Gmada N, Doutrellot PL, Mezlini A, Ahmaidi S. 
+Effects of combined supervised intermittent aerobic, muscle strength and home-
+based walking training programs on cardiorespiratory responses in women with 
+breast cancer. Bull Cancer. 2019;106(6):527-537. 
+doi:10.1016/j.bulcan.2019.03.014 
+59.  
+Schmitz KH, Troxel AB, Dean LT, et al. Effect of Home-Based Exercise and 
+Weight Loss Programs on Breast Cancer–Related Lymphedema Outcomes 
+Among Overweight Breast Cancer Survivors. JAMA Oncol. 2019;5(11):1605. 
+doi:10.1001/jamaoncol.2019.2109 
+60.  
+Suarez-Balcazar Y, Early AR, Garcia C, Balcazar D, Arias DL, Morales M. 
+Walkability Safety and Walkability Participation: A Health Concern. Heal Educ 
+Behav. 2020;47(3):430-438. doi:10.1177/1090198120903256 
+61.  
+Mijwel S, Cardinale DA, Norrbom J, et al. Exercise training during 
+chemotherapy preserves skeletal muscle fiber area, capillarization, and 
+mitochondrial content in patients with breast cancer. FASEB J. 
+2018;32(10):5495-5505. doi:10.1096/fj.201700968R 
+62.  
+Loo LWM, Nishibun K, Welsh L, et al. Using a cultural dance program to 
+increase sustainable physical activity for breast cancer survivors—A pilot study. 
+Complement Ther Med. 2019;47:102197. doi:10.1016/j.ctim.2019.102197 
+63.  
+Ho RTH, Fong TCT, Cheung IKM, Yip PSF, Luk M. Effects of a Short-Term 
+Dance Movement Therapy Program on Symptoms and Stress in Patients With 
+Breast Cancer Undergoing Radiotherapy: A Randomized, Controlled, Single-
+Blind Trial. J Pain Symptom Manage. 2016;51(5):824-831. 
+doi:10.1016/j.jpainsymman.2015.12.332 
+64.  
+Eyigor S, Karapolat H, Yesil H, Uslu R, Durmaz B. Effects of pilates exercises 
+on functional capacity, flexibility, fatigue, depression and quality of life in 
+female breast cancer patients: a randomized controlled study. Eur J Phys Rehabil 
+Med. 2010;46(4):481-487. http://www.ncbi.nlm.nih.gov/pubmed/21224783 
+65.  
+Alpozgen Zengin A, Razak Ozdincler A, Karanlik H, Yaman Agaoglu F, Narin 
+AN. Effectiveness of Pilates-based exercises on upper extremity disorders related 
+with breast cancer treatment. Eur J Cancer Care (Engl). 2017;26(6):e12532. 
+doi:10.1111/ecc.12532 
+66.  
+Galiano-Castillo N, Cantarero-Villanueva I, Fernández-Lao C, et al. Telehealth 
+system: A randomized controlled trial evaluating the impact of an internet-based 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+exercise intervention on quality of life, pain, muscle strength, and fatigue in 
+breast cancer survivors. Cancer. 2016;122(20):3166-3174. 
+doi:10.1002/cncr.30172 
+67.  
+Short C, Rebar A, James E, et al. How do different delivery schedules of tailored 
+web-based physical activity advice for breast cancer survivors influence 
+intervention use and efficacy? J Cancer Surviv. 2017;11(1):80-91. 
+doi:10.1007/s11764-016-0565-0 
+68.  
+Ligibel JA, Giobbie-Hurder A, Shockro L, et al. Randomized trial of a physical 
+activity intervention in women with metastatic breast cancer. Cancer. 
+2016;122(8):1169-1177. doi:10.1002/cncr.29899 
+69.  
+Arem H, Sorkin M, Cartmel B, et al. Exercise adherence in a randomized trial of 
+exercise on aromatase inhibitor arthralgias in breast cancer survivors: the 
+Hormones and Physical Exercise (HOPE) study. J Cancer Surviv. 
+2016;10(4):654-662. doi:10.1007/s11764-015-0511-6 
+70.  
+Mijwel S, Backman M, Bolam KA, et al. Highly favorable physiological 
+responses to concurrent resistance and high-intensity interval training during 
+chemotherapy: the OptiTrain breast cancer trial. Breast Cancer Res Treat. 
+2018;169(1):93-103. doi:10.1007/s10549-018-4663-8 
+71.  
+Siqueira TC, Frágoas SP, Pelegrini A, de Oliveira AR, da Luz CM. Factors 
+associated with upper limb dysfunction in breast cancer survivors. Support Care 
+Cancer. 2021;29(4):1933-1940. doi:10.1007/s00520-020-05668-7 
+72.  
+Burnett D, Kluding P, Porter C, Fabian C, Klemp J. Cardiorespiratory fitness in 
+breast cancer survivors. Springerplus. 2013;2(1):1-7. doi:10.1186/2193-1801-2-
+68 
+73.  
+Bjerkeset E, Röhrl K, Schou-Bredal I. Symptom cluster of pain, fatigue, and 
+psychological distress in breast cancer survivors: prevalence and characteristics. 
+Breast Cancer Res Treat. 2020;180(1):63-71. doi:10.1007/s10549-020-05522-8 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2956
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

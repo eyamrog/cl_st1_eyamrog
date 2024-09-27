@@ -1,4 +1,57 @@
-(Initial in vitro plant establishment of seeds and nodal segments from 
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906-97/2020
+Initial in vitro plant establishment of seeds and nodal segments
+from bromeliad Acanthostachys strobilacea (Schult. & Schult.f.)
+Klotzsch differs in respiratory rates and shoot formation
+Victória  Carvalho, Camila Pereira  Carvalho, Daniela Soares dos  Santos, Catarina Carvalho 
+Nievola
+https://doi.org/10.1590/2236-8906-97/2020
+Submitted on: 2021-08-21
+Posted on: 2021-08-23 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+1 
+ 
+Initial in vitro plant establishment of seeds and nodal segments from bromeliad 
+Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch differs in respiratory 
+rates and shoot formation 
+ 
+Victória Carvalho1, Camila Pereira Carvalho1, Daniela Soares dos Santos1 and Catarina 
+Carvalho Nievola1,2 
+ 
+NÚMEROS DOS ORCIDs DE CADA AUTOR: 
+ 
+Victória Carvalho: 0000-0003-2252-6639 
+Camila Pereira Carvalho: 0000-0002-6647-2911 
+Daniela Soares dos Santos: 0000-0001-7923-2274 
+Catarina Carvalho Nievola: 0000-0003-0627-1357 
+ 
+ 
+Received: 19.08.2020; accepted: 22.01.2021 
+ 
+ 
+ 
+Título resumido: Respiration of seeds and nodal segments maintained in vitro  
+ 
+ 
+ 
+ 
+1 Instituto de Botânica, Núcleo de Pesquisa em Plantas Ornamentais, Avenida Miguel 
+Estéfano, 3687, Bairro Água Funda, 04301-902 São Paulo, SP, Brazil 
+2 Corresponding author: ccarvalho@ibot.sp.gov.br 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+2 
+ 
+ABSTRACT – (Initial in vitro plant establishment of seeds and nodal segments from 
 bromeliad Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch differs in 
 respiratory rates and shoot formation). We aimed to investigate the morphological and 
 respiratory differences during in vitro shoot formation from seeds and nodal segments 
@@ -13,7 +66,37 @@ After peaking, respiration decreased, reaching similar values between propagules
 days, indicative of an ongoing increase in photosynthesis in both seed and NS plants, 
 possibly due to shoot growth. In conclusion, the development process of NS plants may 
 affect the energy and respiratory demand differently than in seedlings. 
-
+Keywords: carbon dioxide, lateral buds, micropropagation, oxygen, respiration 
+ 
+RESUMO – (Estabelecimento in vitro inicial de plantas de sementes e segmentos nodais 
+da bromélia Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch difere em taxas 
+respiratórias e formação de brotos). Buscou-se investigar as diferenças morfológicas e 
+respiratórias durante a formação in vitro de brotos a partir de sementes e segmentos 
+nodais (NS) de Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch, devido às 
+diferenças entre as plantas obtidas pela micropropagação. Durante 35 dias de cultura, as 
+sementes resultaram em plantas completas 14 dias antes do NS, com folhas mais longas 
+e mais raízes. No entanto, as plantas NS exibiram multiplicação de brotos. Picos no 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+3 
+ 
+consumo de O2 e liberação de CO2 foram detectados aos 7 e 14 dias para NS e 
+sementes, respectivamente, sugerindo que o crescimento inicial tem alta demanda 
+energética. No entanto, o pico de respiração foi maior em NS do que em sementes, 
+possivelmente devido ao alto consumo de energia necessário para as múltiplas quebras 
+de gemas. Após o pico, a respiração diminuiu, atingindo valores semelhantes entre os 
+propágulos aos 35 dias, indicativo de um aumento contínuo da fotossíntese em plantas 
+de sementes e NS, possivelmente devido ao crescimento de brotos. Em conclusão, o 
+processo de desenvolvimento das plantas de NS pode afetar a demanda energética e 
+respiratória de forma diferente daquelas de sementes. 
+Palavras-chave: dióxido de carbono, gemas laterais, micropropagação, oxigênio, 
+respiração 
+ 
+Introduction  
 An efficient conservation method for endangered plant species is the 
 development of in vitro germplasm banks, since they allow the storage of a great 
 number of plants in small spaces, without excessive maintenance as required for plants 
@@ -26,11 +109,18 @@ Micropropagation has been used in the cultivation of diverse bromeliads species
 to meet the ornamental plants market demand, which aids in preventing illegal 
 extraction (Mercier & Nievola 2003, Negrelle et al. 2012). Due to the possibility of 
 maintaining cultures in controlled conditions (light, temperature, nutrients, etc.), this 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+4 
+ 
 technique has been used for studies of basic physiology in diverse species (Narayani & 
 Srivastava 2017, Bakhshipour et al. 2019, Chetty et al. 2020), including bromeliads 
 (Carvalho et al. 2013, Freitas et al. 2015, Andrade & Tamaki 2016, Santos et al. 2017, 
 Silva et al. 2017, Andrade-Santos et al. 2020, Silva et al. 2020).  
-
 The cultivation of plants under sealed flasks could lead to restriction of gas 
 exchange between the internal and external environment, causing an accumulation of 
 gases such as CO2 and O2 inside the flasks (George et al. 2008). Thus, the gaseous 
@@ -41,20 +131,25 @@ concentration in the culture medium, low irradiance, high relative humidity and 
 gas exchange due to enclosed vessels, the rate of photosynthesis is diminished while 
 respiration is less affected due to the carbon supply (Lucchesini et al. 2001, George et 
 al. 2008, Ševčíková et al. 2019).  
-
 The consumption of gases and respiratory activity of seeds and NS would 
 inevitably differ since shoot development from each propagule undergo very distinct 
 processes: germination involves the imbibition of the seed, followed by increased 
 respiration and metabolic activity that result in root emergence from the seed testa (Taiz 
 et al. 2017). 
-
 NS lead to shoot formation from an axillary bud meristem that is stimulated after 
 apical dominance is broken due to the node isolation from the mother plant (George et 
 al. 2008). However, no studies about respiration during in vitro plantlet development 
 from lateral buds and how it compares to seed germination were found.  
-
 Considering the developmental differences between seeds and NS, we 
 hypothesize that these propagules of A. strobilacea have distinct rates of respiration 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+5 
+ 
 during plant formation. Hence, to evaluate our hypothesis, we investigated the 
 morphological development during initial in vitro shoot formation from seeds and NS of 
 A. strobilacea and the progression of respiratory rates during 35 days by assessing CO2 
@@ -68,7 +163,8 @@ improvement of the maintenance of germplasm collections and plant production of 
 strobilacea, while also presenting the original method of a simultaneous evaluation of 
 the time course of the initial development of these kinds of explants during 
 micropropagation. 
-
+ 
+Materials and methods  
 Seeds of Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch were 
 harvested at the Reserva Biológica de Mogi Guaçu in São Paulo State, Brazil, and 
 stored under 8°C for approximately 12 months prior to the experiments. NS were 
@@ -79,6 +175,14 @@ to remove a large part of the mucilage. Seeds were immersed in 70% (v/v) ethanol
 min, in the fungicide Benomyl 0.1% (w/v) for an additional 15 min, and in 100% (v/v) 
 commercial sodium hypochlorite containing 0.1% (v/v) Tween 20® for 1 h (Santos et al. 
 2010). The seeds were transferred aseptically to 250 mL flasks containing 40 mL of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+6 
+ 
 Murashige & Skoog (1962) medium (MS) with 1/5 of the original macronutrient 
 concentration (MS/5), 100% of MS micronutrients, sucrose 2% (w/v), 100 mg L-1 of 
 myo-inositol, and 0.1 mg L-1 of thiamine. The pH was adjusted to 5.8, and agar (5 g L¹) 
@@ -92,7 +196,6 @@ covered by a rubber septum for the harvesting of air samples (Lamarca & Barbedo
 in a growth room under 12-h photoperiod, 25±2 °C and 30 μmol m-2 s-1 irradiance. Plant 
 growth evaluation and air samples were analysed during the light period from five 
 flasks containing five propagules each at 0, 7, 14, 21 and 35 days.  
-
 The percentage of oxygen (O2) and carbon dioxide (CO2) in the flasks was 
 determined by a gas analyser (model ILL6600, Illinois Instruments, Inc., Johnsburg, IL, 
 USA) as described (Lamarca & Barbedo 2012). These analyses allow an indirect 
@@ -104,19 +207,26 @@ atmospheric pressure (= 0.9 atm), v1: gas volume (%) and V: total volume (= 100%
 through the equation: p1 V = n RT, where: V: total volume of air of flasks (L), n: 
 number of moles of gas, R: gas universal constant (0.082 atm L mol-1 K-1), T: 
 temperature (in Kelvin) (Atkins & De Paula 2001).  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+7 
+ 
 The following growth parameters were evaluated in 20 plants separated at 
 random from the pool of 25 propagules, per period: number of leaves and roots; longest 
 leaf and root length. Only roots over 0.5 cm and expanded leaves were measured. The 
 selection was performed due to the presence of NS that did not sprout or seeds that did 
 not germinate during the experiment. 
-
 For the evaluation of number of shoots per propagule, a separate batch of NS 
 and seeds were cultivated in 250 mL flasks containing 40 mL of MS/5 culture media 
 and maintained in a growth room under 12-h photoperiod, 25±2 °C and 30 μmol m-2 s-1 
 irradiance. Shoot production was assessed every 15 days of in vitro culture up to 75 
 days in 15 plants per period (five plants per flask in a total of three flasks).  
-
+ 
+Results and discussion  
 Leaf formation was first detected in seeds at 14 days of culture, concomitantly to 
 roots (figures 1d and 2). The same occurred for leaves of NS, although roots were 
 detected at 28 days (figure 2). Accordingly, it was reported that Acanthostachys 
@@ -124,16 +234,22 @@ strobilacea (Schult. & Schult.f.) Klotzsch seedlings develop roots earlier than 
 (Pereira 1988) while in node cultures, shoots are generally formed prior to roots, 
 requiring hormonal addition to the media to induce rooting (George et al. 2008) ‒ 
 although this is not the case for A. strobilacea (Santos et al. 2010, 2017).  
-
 NS showed shoot multiplication after two weeks of culture (table 1, figures 1b 
 and c), which was not present in seeds (table 1, figures 1d and 2e). However, seedlings 
 had higher leaf elongation, more and longer roots than NS plants by 35 days of culture 
 (figure 2). The more intense root and leaf growth in seedlings might be the result of 
 reserve mobilization from the seed, which provides nutrients for the plant until it is 
 nutritionally independent (Taiz et al. 2017). Meanwhile, shoot multiplication in NS may 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+8 
+ 
 be due to multiple bud breaks induced by apical dominance release after node excision 
 from the mother plant (George et al. 2008). 
-
 The O2 consumption and CO2 release rates in seeds of A. strobilacea peaked at 
 14 days of culture (figure 3), corresponding to full seedling formation (figure 2). 
 Contrarily, respiratory rates in NS peaked at 7 days (figure 3), being five times higher 
@@ -150,16 +266,22 @@ substrates for respiration to sustain the intense cell division (see review by S
 et al. 2019). A similar pattern was previously described for the bromeliad Ananas 
 comosus (Souza et al. 2010). Furthermore, the higher respiration rates in NS than in 
 seeds may be due to the multiple bud breaks in the former (table 1, figures 1b and c). 
-
 The peaks in respiration during plant formation may increase the flux of 
 electrons in the mitochondria and consequently, formation of reactive oxygen species 
 (ROS) (Møller 2001). ROS are involved in cell signaling pathways and specific gene 
 expression related to seed germination, seedling formation and bud dormancy release 
 (Bailly et al. 2008, Kranner et al. 2010, Considine & Foyer 2014). Hence, it is possible 
 that the respiration pattern of seeds and NS observed herein is associated with 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+9 
+ 
 fluctuations in mitochondrial ROS that directly influence seedling and plant formation 
 from NS. 
-
 The O2 consumption and CO2 release rates progressively decreased in NS and 
 seeds after peaking at 7 and 14 days, respectively, reaching similar values by 35 days 
 (figure 3). This decrease in respiration rate might have derived from an ongoing 
@@ -181,9 +303,16 @@ acclimatization at that period (Ševčíková et al. 2019). Indeed, our research
 observed a 100% survival rate after transplanting one-month-old A. strobilacea 
 seedlings (De Carvalho et al. 2014) and NS plants (unpublished data) to Pinus bark 
 substrate, under the same environmental conditions described. 
-
 To our knowledge, the present study is the first to compare the time course of in 
 vitro plant development from distinct propagules simultaneously. This approach 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+10 
+ 
 allowed us to conclude that the developmental process of NS plants formation may 
 affect the cell energy demand and, thus, respiration activity differently than in seedlings. 
 Nevertheless, both seeds and NS plants of A. strobilacea can form viable plants with 
@@ -193,15 +322,360 @@ of seeds ensures genetic variability, desirable for germplasm conservation (Penc
 while the shoot multiplication in NS enables a large-scale clone production, which is of 
 considerable value for commercial production aiming at the ornamental plants market 
 (Kyte et al. 2013).  
-
 Finally, considering the involvement of mitochondrial ROS production and 
 carbohydrate mobilization in seed germination and bud outgrowth (Considine & Foyer 
 2014, Taiz et al. 2017, Signorelli et al. 2018), it may be valuable to investigate the 
 effects of redox status and carbohydrate composition during shoot generation from 
 seeds and NS of A. strobilacea to provide more insight on the developmental 
 discrepancies between them. 
-
+ 
+Acknowledgments 
 This work was supported by Conselho Nacional de Desenvolvimento Científico 
 e Tecnológico (CNPq/PIBIC) via scholarship awarded to V.C. and Coordenação de 
 Aperfeiçoamento de Pessoal de Nível Superior (CAPES) via scholarships awarded to 
 D.S.S. and C.P.C. 
+ 
+ 
+Author contributions 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+11 
+ 
+Victória Carvalho: Substantial contribution in data collection, analysis, interpretation, 
+and manuscript preparation. 
+Camila Pereira Carvalho: Contribution in data analysis, interpretation, and manuscript 
+preparation; Contribution to critical revision, adding intellectual content. 
+Daniela Soares dos Santos: Substantial contribution in the concept and 
+design of the study; Substantial contribution in data collection; Contribution in analysis, 
+interpretation, and manuscript preparation; Contribution to critical revision, adding 
+intellectual content. 
+Catarina Carvalho Nievola: Substantial contribution in the concept and 
+design of the study; Contribution to critical revision, adding intellectual content. 
+ 
+Conflicts of interest 
+There is no conflict of interest. 
+ 
+Literature cited 
+Andrade, S.V. & Tamaki, V. 2016. In vitro growth of Nidularium minutum Mez 
+(Bromeliaceae) in different concentrations of nitrogen, phosphorus, potassium, and 
+calcium. Journal of Plant Nutrition 39: 1634-1643. 
+Andrade-Santos, S.V., Young, J.L.M., Ramiro, L.K., Suzuki, R.M., Souza, S.R. & 
+Tamaki, V. 2020. Effect of nitrate concentration on plant growth and anthocyanin 
+accumulation in the ornamental bromeliad Alcantarea imperialis. Journal of Plant 
+Nutrition 44: 181-195. 
+Atkins, P.W. & De Paula, J. 2001. Physical chemistry, 7th ed. WH Freeman Co., New 
+York. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+12 
+ 
+Bailly, C., El-Maarouf-Bouteau, H. & Corbineau, F. 2008. From intracellular 
+signaling networks to cell death: the dual role of reactive oxygen species in seed 
+physiology. Comptes Rendus Biologies 331: 806-814. 
+Bakhshipour, M., Mafakheria, M., Kordrostamic, M., Zakire, A., Rahimif, N., 
+Feizia, F. & Mohsenig, M. 2019. In vitro multiplication, genetic fidelity and 
+phytochemical potentials of Vaccinium arctostaphylos L.: an endangered medicinal 
+plant. Industrial Crops & Products 14: 111812. 
+Buchanan, B.B., Gruissem, W. & Jones, R.L. 2015. Biochemistry & molecular 
+biology of plants, 2nd ed. Wiley Blackwell, West Sussex. 
+Carvalho, C.P., Hayashi, A.H., Braga, M.R. & Nievola, C.C. 2013. Biochemical and 
+anatomical responses related to the in vitro survival of the tropical bromeliad 
+Nidularium minutum to low temperatures. Plant Physiology and Biochemistry 71: 
+144-154. 
+Chen, C. 2006. In situ measurement of microclimate for the plantlets cultured in vitro. 
+Biosystems Engineering 95: 413-423. 
+Chetty, V.J., García, D.J., Narváez-Vásquez, J., & Orozco-Cárdenas, M.L. 2020. 
+Poly (ADP-ribose) polymerase inhibitor 3-methoxybenzamide enhances in vitro 
+plant growth, microtuberization, and transformation efficiency of blue potato 
+(Solanum tuberosum L. subsp. andigenum). In vitro Cellular & Developmental 
+Biology - Plant 56: 833-841.  
+Considine, M.J. & Foyer, C.H. 2014. Redox regulation of plant development. 
+Antioxidants & Redox Signaling 21: 1305-1326. 
+De Carvalho, V., Dos Santos, D.S., & Nievola, C.C. 2014. In vitro storage under slow 
+growth and ex vitro acclimatization of the ornamental bromeliad Acanthostachys 
+strobilacea. South African Journal of Botany 92: 39-43. 
+George, E.F., Hall, M.A., & De Klerk, G.J. 2008. Plant propagation by tissue culture: 
+volume 1. The background. 3rd ed. Springer, Dordrecht. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+13 
+ 
+Freitas, C., Carvalho, V. & Nievola, C.C. 2015. Effect of sucrose concentrations on in 
+vitro growth and subsequent acclimatization of the native bromeliad Vriesea inflata 
+(Wawra) Wawra. Biotemas 28: 37-42. 
+Imarhiagbe, O., Osazee, J.O., Aiwansoba, R.O. & Shittu, O.H. 2016. In vitro 
+germplasm collection and storage: a review. International Journal of Biology 
+Research 1: 9-14. 
+Kranner, I., Roach, T., Beckett, R.P., Whitaker, C. & Minibayeva, F.V. 2010. 
+Extracellular production of reactive oxygen species during seed germination and 
+early seedling growth in Pisum sativum. Journal of Plant Physiology 167: 805-811. 
+Krömer, S. 1995. Respiration during photosynthesis. Annual Review of Plant 
+Physiology and Plant Molecular Biology 46: 45-70. 
+Kyte, L., Kleyn, J., Scoggins, H., & Bridgen, M. 2013. Plants from test tubes: an 
+introduction to micropropagation. 4th ed. Timber Press, Portland. 
+Lamarca, E.V., & Barbedo, C.J. 2012. Short storability of Caesalpinia echinata Lam. 
+seeds as a consequence of oxidative processes. Hoehnea 39: 577-586.  
+Li, G., Tan, M., Cheng, F., Liu, X., Qi, S., Chen, H., Zhang, D., Zhao, C., Han, M. 
+& Ma, J. 2018. Molecular role of cytokinin in bud activation and outgrowth in 
+apple branching based on transcriptomic analysis. Plant Molecular Biology 98: 261-
+274. 
+Lucchesini, M., Mensuali-Sodi, A., Massai, R. & Gucci, R. 2001. Development of 
+autotrophy and tolerance to acclimatization of Myrtus communis transplants cultured 
+in vitro under different aeration. Biologia Plantarum 44: 167-174. 
+Mercier, H. & Nievola, C.C. 2003. Obtenção de bromélias in vitro como estratégia de 
+preservação. Vidalia 1: 57-62. 
+Møller, I.M. 2001. Plant mitochondria and oxidative stress: electron transport, NADPH 
+turnover, and metabolism of reactive oxygen species. Annual Review of Plant 
+Physiology and Plant Molecular Biology 52: 561-591. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+14 
+ 
+Murashige, T. & Skoog, F. 1962. A revised medium for rapid growth and bio assays 
+with tobacco tissue cultures. Physiologia Plantarum 15: 473-497. 
+Narayani, M. & Srivastava, S. 2017. Elicitation: a stimulation of stress in in vitro 
+plant cell/tissue cultures for enhancement of secondary metabolite production. 
+Phytochemistry Reviews 16: 1227-1252. 
+Negrelle, R.R.B., Mitchell, D. & Anacleto, A. 2012. Bromeliad ornamental species: 
+conservation issues and challenges related to commercialization. Acta Scientiarum 
+34: 91-100. 
+Ogasawara, N., Haneishi, S., Suzuki, C. & Takagi, H. 1995. The growth and CO2 
+exchange of Cymbidium protocorm-like bodies related to sugar in the culture 
+medium. Acta Horticulturae 393: 85-90. 
+Oseni, O.M., Pande, V. & Nailwal, T.K. 2018. A review on plant tissue culture, a 
+technique for propagation and conservation of endangered plant species. 
+International Journal of Current Microbiology and Applied Sciences 7: 3778-3786. 
+Pence, V.C. 2010. The possibilities and challenges of in vitro methods for plant 
+conservation. Kew Bulletin 65: 539-547. 
+Pereira, T.S. 1988. Bromelioideae (Bromeliaceae): morfologia do desenvolvimento 
+pós-seminal de algumas espécies. Arquivos do Jardim Botânico do Rio de Janeiro 
+29: 115-154. 
+Pilatti, F.K., Aguiar, T., Simões, T, Benson, E.E. & Viana, A.M. 2011. In vitro and 
+cryogenic preservation of plant biodiversity in Brazil. In Vitro Cellular & 
+Developmental Biology - Plant 47: 82-98. 
+Santos, D.S., Tamaki, V. & Nievola, C.C. 2010. In vitro propagation of the 
+ornamental bromeliad Acanthostachys strobilacea (Schult. f.) Klotzsch via nodal 
+segments. In vitro Cellular & Developmental Biology - Plant 46: 524-529. 
+Santos, D.S., Cardoso-Gustavson, P. & Nievola, C.C. 2017. Stem elongation of 
+ornamental bromeliad in tissue culture depends on the temperature even in the 
+presence of gibberellic acid. Acta Physiologiae Plantarum 39: 230. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+15 
+ 
+Schneider, A., Godin, C., Boudon, F., Demotes-Mainard, S., Sakr, S. & Bertheloot, 
+J. 2019. Light regulation of axillary bud outgrowth along plant axes: an overview of 
+the roles of sugars and hormones. Frontiers in Plant Science 10: 1296. 
+Ševčíková, H., Lhotáková, Z., Hamet, J. & Lipavská, H. 2019. Mixotrophic in vitro 
+cultivations: the way to go astray in plant physiology. Physiologia Plantarum 167: 
+365-377. 
+Signorelli, S., Agudelo-Romero, P., Meitha, K., Foyer, C. H. & Considine, M.J. 
+2018. Roles for light, energy, and oxygen in the fate of quiescent axillary buds. Plant 
+Physiology 176: 1171-1181. 
+Silva, P.P.A., Kurita, F.M.K. & Tamaki, V. 2017. In vitro propagation of Ananas 
+comosus var. ananassoide (Baker) Coppens & F. Leal (Bromeliaceae). Científica 
+45: 313-320. 
+Silva, P.P.A., Medina, I.A., Young, J.L.M. & Tamaki, V. 2020. Nitrogen 
+assimilation in the bromeliad Ananas comosus var. ananassoides (Baker) Coppens 
+& F. Leal grown in vitro with different sources of inorganic nitrogen. Hoehnea 47: 
+e962019. 
+Siqueira, J.A., Hardoim, P., Ferreira, P.C., Nunes-Nesi, A. & Hemerly, A.S. 2018. 
+Unraveling interfaces between energy metabolism and cell cycle in plants. Trends in 
+Plant Science 23: 731-747. 
+Souza, B.M., Molfetta-Machado, J.B., Freschi, L., Figueira, A., Purgatto, E., 
+Buckeridge, M.S., Van Sluys, M.-A. & Mercier, H. 2010. Axillary bud 
+development in pineapple nodal segments correlates with changes on cell cycle gene 
+expression, hormone level, and sucrose and glutamate contents. In Vitro Cellular & 
+Developmental Biology ‒ Plant 46: 281-288. 
+Taiz, L., Zeiger, E., Møller, I.M. & Murphy, A. 2017. Fisiologia e Desenvolvimento 
+Vegetal, 6 ed. Artmed, Porto Alegre. 
+Yaseen, M., Ahmad, T., Sablok, G., Standardi, A. & Hafiz, I.A. 2012. Review: role 
+of carbon sources for in vitro plant growth and development. Molecular Biology 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+16 
+ 
+Reports 
+40: 
+2837-2849.
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+17 
+ 
+ 
+Table 1. Number of shoots of Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch 
+plants obtained from seeds and nodal segments (NS) cultivated in vitro. Values are 
+means±s.d. (n=15). 
+Time 
+(days) 
+Seed 
+ 
+NS 
+0 
+0 ± 0 
+ 
+0 ± 0 
+15 
+0 ± 0 
+ 
+2 ± 1 
+30 
+0 ± 0 
+ 
+4 ± 1 
+45 
+0 ± 0 
+ 
+4 ± 1 
+60 
+0 ± 0 
+ 
+5 ± 1 
+75 
+0 ± 0 
+ 
+5 ± 1 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+18 
+ 
+ 
+ 
+Figure 1. a. General aspect of the micropropagation procedure of Acanthostachys 
+strobilacea (Schult. & Schult.f.) Klotzsch, indicating the seed, elongated plants, 
+defoliated stem, and isolated nodal segments (from left to right). Visual aspect of nodal 
+segment plants with multiple shoots at b. 15 days and c. 35 days. Seed plants at d. 15 
+days and e. 35 days. Bar in figure e applies to figures b-d. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+19 
+ 
+ 
+ 
+ 
+Figure 2. Leaf and root number and length in Acanthostachys strobilacea (Schult. & 
+Schult.f.) Klotzsch plants obtained from seeds and nodal segments cultured in vitro. 
+Values are means±s.e. and asterisks show significant differences according to the t test 
+for samples taken at the same time (P<0.05, n=20). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+20 
+ 
+ 
+ 
+Figure 3. a. Oxygen (O2) consumption and b. carbon dioxide (CO2) release in 
+Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch plants obtained from nodal 
+segments and seeds cultured in vitro. Values are means±s.e. and asterisks show 
+significant differences according to the t test for samples taken at the same time 
+(P<0.05, n=5). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-97/2020 
+ 
+21 
+ 
+ 
+ 
+CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO 
+PORTAL DE PREPRINTS DO SCIELO 
+ 
+ 
+ 
+Ao Comitê Editorial de HOEHNEA 
+ 
+ 
+Declaro, em meu próprio nome e nos dos demais Autores que concordo com a 
+publicação do artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Initial in 
+vitro plant establishment of seeds and nodal segments from bromeliad 
+Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch differs in respiratory rates 
+and shoot formation” de autoria de Victória Carvalho, Camila Pereira Carvalho, 
+Daniela Soares dos Santos and Catarina Carvalho Nievola, no Portal de Preprints do 
+SciELO Brasil (Biological Sciences | SciELO Preprints). 
+Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi 
+ou não está sendo considerado para publicação em outra Revista, quer seja no formato 
+impresso e/ou eletrônico. 
+ 
+São Paulo, 19 de maio  de 
+2021. 
+ 
+ 
+ 
+ 
+ 
+Dra. Catarina Carvalho 
+Nievola 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-97/2020
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

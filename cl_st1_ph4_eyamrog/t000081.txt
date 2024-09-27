@@ -1,33 +1,54 @@
+Publication status: Not informed by the submitting author
+Intensive Olfactory Training in Post-COVID Patients: A
+Randomized Multicenter Clinical Trial
+Ícaro Almeida Toledo Pires, Sara Thais Steffens, Aurenzo Gonçalves  Mocelin, Debora Emi 
+Shibukawa, Letícia Leahy, Fernanda Laís Saito, Nicole Tássia  Amadeu, Natália Medeiros Dias
+Lopes, Ellen Cristine Duarte Garcia, Maria Laura Albanese, Laura Freitas De Mari, Isabel Moura 
+Ferreira, César Antônio Veiga, Yasser Jebahi, Herton Coifman, Marco Aurélio  Fornazieri,
+Rogerio Hamerschmidt
+https://doi.org/10.1590/SciELOPreprints.3301
+Submitted on: 2021-11-29
+Posted on: 2022-01-26 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Intensive Olfactory Training in Post-COVID Patients: A 
+Randomized Multicenter Clinical Trial 
+Ícaro de Almeida Toledo Piresa, Sara Thais Steffensa, Aurenzo Gonçalves Mocelinb, Debora Emi 
+Shibukawaa, Letícia Leahya, Fernanda Laís Saitoa, Nicole Tássia Amadeua, Natália Medeiros Dias 
+Lopesc, Ellen Cristine Duarte Garciac, Maria Laura Albanesed, Laura Freitas De Maric, Isabel 
+Moura Ferreirad, César Antônio Veigae, Yasser Jebahia, Herton Coifmana, Marco Aurélio 
+Fornazieric,d,e, Rogério Hamerschmidta,b 
+a Clinical Hospital of the Federal University of Paraná, Curitiba, Brazil; b Federal University of Paraná, 
+Curitiba, Brazil; c Londrina State University, Londrina, Brazil; d Pontifical Catholic University of Paraná, 
+Londrina, Brazil; e Division of Otorhinolaryngology, University of São Paulo, São Paulo, Brazil; f Olfactory 
+Intelligence Nucleus of the Boticario Group, Curitiba, Brazil 
+For email correspondence: icaroatp@gmail.com 
+ABSTRACT 
 Introduction: Olfactory dysfunction (OD) is one of the most reported symptoms of COVID -19. 
 Previous studies have identified olfactory training (OT) as an important treatment for 
 postinfectious OD, but little is known about its effect after SARS-CoV-2 infection and how it can 
-be optimized. 
-
-Objective: To assess whether OT can be optimized if performed intensively, with 
+be optimized. Objective: To assess whether OT can be optimized if performed intensively, with 
 more fragrances over a shorter period in patients with persistent OD after COVID -19. Also, to 
 determine the presence of other variables related to OD and treatment response in this 
-population. 
-
-Method: This multicenter randomized clinical trial recruited 80 patients with 
+population. Method: This multicenter randomized clinical trial recruited 80 patients with 
 persistent OD with previous COVID-19 for less than three months. The patients were divided 
 into two groups, who received treatment with 4 and 8 essences over four weeks. Subjective 
 assessments and the University of Pennsylvania Smell Identification Test (UPSIT) were 
-performed before and after treatment. 
-
-Results: A significant improvement in olfaction was 
+performed before and after treatment. Results: A significant improvement in olfaction was 
 measured subjectively and on UPSIT in both groups, but without significant differences between 
 groups. In addition, the presence of olfactory fluctuation was associated with higher UPSIT 
-scores. 
-
-Conclusion: These data suggest that intensifying the training by increasing the number 
+scores. Conclusion: These data suggest that intensifying the training by increasing the number 
 of essences for 4 weeks does not show superiority over the classical method. Moreover, a 
 fluctuating olfactory ability seems to be related to a better score in the UPSIT. 
-
+Keywords: Olfactory training, anosmia, hyposmia, smell, COVID-19, coronavirus 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+INTRODUCTION 
 In December 2019, transmission of a new coronavirus (SARS-CoV-2) that causes the 
 disease COVID -19 began in China 1. The virus is transmitted mainly through respiratory droplets 
 and contact routes. The most common symptoms of the disease are cough, fever, sore throat, 
 shortness of breath, and sudden loss of smell or taste 1. 
-
 Olfactory dysfunction (OD) is now recognized as one of the cardinal symptoms of COVID-
 19, with a high predictive value 2. Not only is it one of the most reported symptoms, but the 
 magnitude of this manifestation appears to be even greater when assessed with psychophysical 
@@ -35,21 +56,20 @@ testing 3. The University of Pennsylvania Smell Identification Test (UPSIT®) is
 test for the identification of microencapsulated odors that has been adapted and validated for 
 use in different countries, including the Brazilian population 4. Patients with COVID-19 had their 
 UPSIT classified as anosmia or severe hyposmia in almost all cases 5. 
-
 Previous studies bring olfactory training (OT) as one of the most important treatments 
 for postinfectious OD 6. This therapy consists of daily and repeated exposure to odors over a 
 long period of time 7. Hummel et al. initially described an OT method to improve general 
 olfactory sensitivity involving four essences (phenylethyl alcohol, eucalyptol, citronella, and 
 eugenol), for a period of 12 weeks 8. Altundag et at. observed that changing odors every 12 
 weeks can increase the success rate of this therapy in patients with post-infectious OD 7.  
-
 The current study aims to compare the response of olfactory function to OT with 4 and 
 8 essences in patients with recent OD post-COVID over 4 weeks. Thus, we prospectively 
 investigated whether OT could optimize olfactory rehabilitation when it is intensive, with more 
 fragrances, and over a shorter period. In addition, we wanted to prospectively analyze and study 
 patients with persistent post-COVID OD to identify other variables related to the disorder or the 
 response to OT. 
-
+ 
+METHODS 
 This is a multicenter randomized clinical trial involving individuals aged between 18 to 
 60 years with previous COVID -19 infection for less than 3 months, confirmed at that time by RT-
 PCR (reverse transcriptase polymerase chain reaction) testing, and complaint of olfactory 
@@ -60,9 +80,9 @@ nasal masses, (3) a report of previous traumatic brain injury with olfactory seq
 to SARS-CoV-2 infection, (5) a neurologic disorder known to affect olfactory function, and (6) 
 other current or previous treatment for OD, caused by COVID-19, were excluded from the 
 research. 
-
 Patients were invited through the dissemination of the study in the press and social 
 networks and followed up in the Otolaryngology services from tertiary hospitals in Curitiba and 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
 Londrina. If the patient agreed and wanted to participate in the research, an informed consent 
 form was applied by one of the physicians involved in the study. All participants underwent a 
 medical examination by an otolaryngologist, which included nasal endoscopy and the 
@@ -77,13 +97,11 @@ which microencapsulated odorants are released from a strip when scratched. Out o
 can be considered a clinically significant improvement in symptoms 9. Both the UPSIT and 
 subjective assessments were performed again within 4 weeks of starting the proposed 
 treatment.  
-
 Patients were randomly assigned in a 2:1 ratio to two separate groups for OT. The first 
 study group received a classical olfactory training set (COT) with four essential oils: rose, 
 eucalyptus, clove, and lemon. The second group received an advanced olfactory training set 
 (AOT) with eight essential oils: rose, eucalyptus, clove and lemon, citronella, mint, vanilla and 
 cedarwood. 
-
 The guidelines for performing the OT were explained at the first appointment and 
 provided in simple and easy-to-understand language booklets. During training, patients were 
 exposed to each odor for 15 seconds twice daily, with a 30-second break between odors. 
@@ -92,10 +110,9 @@ telephone after completing 1 and 3 weeks of OT by the research team to emphasize
 importance of treatment adherence. Along with the general instruction booklets, they were 
 given a diary to track the training. Those who had not taken the essences for a period of at least 
 7 days were excluded from the study. 
-
 The study design was approved by the ethics committee of the institutions involved 
 (CAAE: 46698721.5.0000.0096 and 47078821.5.0000.0020).  
-
+Statistical Analysis 
 Quantitative variables were described as mean, standard deviation, median, minimum, 
 maximum, and interquartile range. To compare the evaluations regarding the presence of OD, 
 the binomial test was used. A comparison between two assessments of UPSIT® and VAS scores 
@@ -106,9 +123,12 @@ used. More than two groups were compared using the non-parametric Kruskal-Wallis
 analysis of the correlation between two quantitative variables was performed by estimating the 
 Spearman correlation coefficient. To assess the association between two categorical variables, 
 Fisher’s exact test or the Chi-square test was used. Values of p<0.05 indicated statistical 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
 significance. For multiple comparisons, p values were adjusted by Bonferroni correction. Data 
 were analyzed with the computer program IBM SPSS Statistics v.28.0. Armonk, NY: IBM Corp. 
-
+RESULTS 
+ 
+ 
 Three hundred and forty patients were screened for eligibility, and eighty were enrolled 
 in the study. Only one patient required intensive care during the time he had COVID-19, and the 
 others had mild or moderate forms without requiring hospitalization. Characterization of all 
@@ -116,7 +136,171 @@ study participants revealed a mean age of 36.7 ± 10.3 years, a mean interval be
 of symptoms of COVID -19 and the start of treatment with OT of 63.9 ± 24.2 days (Table 1). The 
 mean time for the onset of OD after the onset of symptoms of COVID-19 was 4.6 ± 3.8 days. 
 Other characteristics of the analyzed sample are shown in Table 2.  
-
+TABLE 1 – Age of participants and intervals between appointments and treatment. 
+ 
+n 
+Mean ± standard 
+deviation 
+Median (min-max.) IQR 
+Age (years) 
+80 
+36,7 ± 10,3 
+37 (18,7 – 57,7) IQR=16,1 
+Appointment interval (days) 
+80 
+36,1 ± 10,0 
+35 (21 – 78) IQR=13,5 
+Interval COVID-19-OT (days) 
+80 
+63,9 ± 24,2 
+62 (24 – 126) IQR=36,5 
+Olfactory dysfunction onset 
+after COVID-19 (days) 
+75 
+4,6 ± 3,8 
+4 (0 – 20) IQR=5 
+ IQR: interquartile range (quartile 3 – quartile 1); OT: Olfactory training 
+ 
+TABLE 2 – Description of the evaluated participants and key factors in the characterization 
+ 
+Valid n 
+Classification 
+n 
+% 
+Gender 
+80 
+Female 
+52 
+65,0 
+  
+  
+Male 
+28 
+35,0 
+OT Group 
+80 
+AOT 
+26 
+32,5 
+  
+  
+COT 
+54 
+67,5 
+Smoking 
+80 
+Current 
+8 
+10,0 
+ 
+  
+Denied 
+66 
+82,5 
+ 
+  
+Previous 
+6 
+7,5 
+Hospitalization 
+78 
+No 
+76 
+97,4 
+ 
+  
+Yes 
+1 
+1,3 
+    
+Yes, ITU 
+1 
+1,3 
+Mechanical Ventilation during 
+COVID-19 
+78 
+No 
+77 
+98,7 
+ 
+  
+Yes 
+1 
+1,3 
+Partial improvement 
+78 
+No 
+10 
+12,8 
+ 
+  
+Yes 
+68 
+87,2 
+Side effect with OT 
+80 
+No 
+62 
+77,5 
+ 
+  
+Yes 
+18 
+22,5 
+Subjective improvement 
+80 
+No 
+15 
+18,8 
+ 
+  
+Yes 
+65 
+81,3 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+Immunization against COVID-19 
+80 
+No 
+10 
+12,5 
+  
+  
+Yes 
+70 
+87,5 
+Vaccine manufacturer 
+70 
+Astrazeneca 
+25 
+35,7 
+  
+  
+Pfizer 
+25 
+35,7 
+  
+  
+Coronavac 
+19 
+27,1 
+  
+  
+Janssen 
+1 
+1,4 
+Vaccine before or after starting 
+treatment 
+70 
+Before 
+48 
+68,6 
+  
+  
+After 
+22 
+31,4 
+ ITU: intensive treatment unit; OT: Olfactory training; AOT: Advanced Olfactory Training; COT: Classical 
+Olfactory Training. 
 As seen in Table 3, the complaint of anosmia, the complete loss of the sense of smell, 
 was reported by 82.5% of patients during the COVID -19 period, whereas it was present in only 
 13.8% at the time of the first appointment and was not reported by any patient after 4 weeks 
@@ -127,12 +311,291 @@ although the prevalence decreased rapidly thereafter and was only 1.3% at the en
 Meanwhile, dysgeusia complaint was reported by 23.8% of patients at the time of infection, 75% 
 at the beginning of treatment and 63.8% after 4 weeks. At the end of the study, only 3.8% of 
 patients denied any chemosensory complaints. 
-
+TABLE 3 – Prevalence of chemosensory complaints in the initial appointment and in the return after 1 
+month 
+Classification 
+COVID-19 
+Initial Appointment 
+Follow-up 
+n 
+% 
+n 
+% 
+n 
+% 
+Anosmia 
+No 
+14 
+17,5 
+69 
+86,3 
+80 
+100,0 
+ 
+Yes 
+66 
+82,5 
+11 
+13,8 
+0 
+0 
+Hyposmia 
+No 
+68 
+85,0 
+15 
+18,8 
+5 
+6,3 
+ 
+Yes 
+12 
+15,0 
+65 
+81,3 
+75 
+93,8 
+Parosmia 
+No 
+73 
+91,3 
+54 
+67,5 
+42 
+52,5 
+ 
+Yes 
+7 
+8,8 
+26 
+32,5 
+38 
+47,5 
+Cacosmia 
+No 
+75 
+93,8 
+66 
+82,5 
+66 
+82,5 
+ 
+Yes 
+5 
+6,3 
+14 
+17,5 
+14 
+17,5 
+Phantosmia 
+No 
+74 
+92,5 
+59 
+73,8 
+52 
+65,0 
+ 
+Yes 
+6 
+7,5 
+21 
+26,3 
+28 
+35,0 
+Dysgeusia 
+No 
+61 
+76,3 
+20 
+25,0 
+29 
+36,3 
+ 
+Yes 
+19 
+23,8 
+60 
+75,0 
+51 
+63,8 
+Ageusia 
+No 
+29 
+36,3 
+74 
+92,5 
+79 
+98,8 
+ 
+Yes 
+51 
+63,8 
+6 
+7,5 
+1 
+1,3 
+ 
 There was no statistically significant difference between treatment groups regarding 
 sex, age, current or previous smoking, use of nasal corticosteroid spray, vaccination for COVID -
 19, the interval between onset of SARS-CoV-2 infection and treatment, and the interval between 
 first appointment and the second visit (Tables 4 and 5).  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+TABLE 4 – Comparison between age and intervals between treatment groups 
+ 
+Group 
+n 
+Mean ± Standard 
+deviation 
+Median (min – max; IQR) 
+p* 
+Age (years) 
+AOT 
+26 
+38,0 ± 9,9 
+39,7 (20,8 – 54,7) IQR=14,9 
+  
+  
+COT 
+54 
+36,1 ± 10,6 
+36,6 (18,7 – 57,7) IQR=16,8 
+0,45 
+Interval COVID-19-
+OT (days) 
+AOT 
+26 
+61,7 ± 22,8 
+64 (24 – 101) IQR=36 
+  
+  
+COT 
+54 
+64,9 ± 25,0 
+62 (30 – 126) IQR=37 
+0,71 
+Appointment 
+interval (days) 
+AOT 
+26 
+37,5 ± 8,8 
+35 (25 – 60) IQR=9 
+  
+ 
+COT 
+54 
+35,4 ± 10,6 
+32 (21 – 78) IQR=13 
+0,13 
+IQR: Interquartile Range (quartile 3 – quartile 1); OT: Olfactory Training; AOT: Advanced Olfactory 
+Training; COT: Classical Olfactory Training. 
+*Student's t test for independent samples or non-parametric Mann-Whitney test, p<0.05 
+ 
+ 
+TABLE 5 – Comparison of homogeneity of groups regarding selected key factors 
+Variables 
+Group 
+p* 
+AOT 
+COT 
+n 
+% 
+n 
+% 
+Gender 
+Female 
+19 
+73,1% 
+33 
+61,1% 
+ 
+ 
+Male 
+7 
+26,9% 
+21 
+38,9% 
+0,328 
+Corticosteroid nasal 
+sprays 
+No 
+19 
+73,1% 
+42 
+77,8% 
+ 
+ 
+Yes 
+7 
+26,9% 
+12 
+22,2% 
+0,780 
+Smoking 
+Current 
+1 
+3,8% 
+7 
+13,0% 
+ 
+ 
+Denied 
+22 
+84,6% 
+44 
+81,5% 
+ 
+ 
+Previous 
+3 
+11,5% 
+3 
+5,6% 
+0,314 
+Immunization against 
+COVID-19 
+No 
+1 
+3,8% 
+9 
+16,7% 
+ 
+ 
+Yes 
+25 
+96,2% 
+45 
+83,3% 
+0,154 
+Vaccine manufacturer 
+Pfizer 
+14 
+56,0% 
+11 
+24,4% 
+ 
+ 
+Astrazeneca 
+6 
+24,0% 
+19 
+42,2% 
+ 
+ 
+Coronavac 
+4 
+16,0% 
+15 
+33,3% 
+ 
+ 
+Janssen 
+1 
+4,0% 
+0 
+0,0% 
+- 
+*Fisher's exact test or Chi-square test, p<0.05 
 Participants' subjective sense of smell improved throughout the study and between 
 medical appointments, as measured by the olfaction VAS. In the general assessment of all 
 participants, the olfaction VAS showed a statistically significant difference in the comparison 
@@ -144,7 +607,57 @@ with the olfactory deficit decreased between the first and the second appointmen
 score of 7.2 ± 2.7 at the first appointment and 6.2 ± 3 at the second appointment (p < 0.05). In 
 addition, there was a statistically significant improvement between appointments in the taste 
 VAS scores (Table 7). 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+TABLE 6 – Comparison between VAS scores at separate times 
+Olfaction VAS 
+n 
+Mean ± Std. 
+deviation 
+Median (min-max) 
+IQR 
+p* 
+Before COVID-19 
+80 
+9,7 ± 0,7 
+10 (7 – 10) IQR=0 
+<0,001 
+COVID-19 
+80 
+0,9 ± 1,7 
+0 (0 – 7) IQR=1,5 
+First appointment 
+80 
+3,6 ± 2,2 
+4 (0 – 8) IQR=3 
+Return 
+80 
+5,8 ± 2,1 
+6 (0 – 10) IQR=3 
+VAS: Visual analogue scale 
+*Friedman's non-parametric test, p<0.05 
+ 
+TABLE 7 – Improved taste on the Visual Analog Scale 
+Gustation VAS 
+n 
+Mean ± Std. 
+deviation 
+Median (min-max) IQR 
+p* 
+First appointment 
+80 
+6,1 ± 2,7 
+6 (0 – 10) IQR=4 
+0,009 
+Second visit 
+80 
+6,9 ± 2,5 
+7 (1 – 10) IQR=4 
+Taste improvement 
+80 
+0,8 ± 2,9 
+1 (-8 – 8) IQR=3,5 
+VAS: Visual analogue scale 
+*Wilcoxon's non-parametric test, p<0.05 
 In the overall assessment of these participants, there was an improvement in the mean 
 UPSIT score with a statistically significant difference when comparing the initial (25.2 ± 7.1) and 
 final (26.7 ± 6.3) UPSIT, a mean increase of 1.5 ± 3.9 in the final test score (Wilcoxon 
@@ -153,7 +666,235 @@ olfaction VAS were examined, but none showed a significant difference between th
 treatment groups (Table 8). When comparing the outcome of the directly queried subjective 
 improvement, where only yes or no responses were possible, 81.3% of participants reported 
 improvement, but there was no statistically significant difference between treatment groups. 
-
+TABLE 8 – Comparison of objective and subjective variables that assess olfactory function between 
+treatment groups 
+ 
+Group 
+n 
+Mean ± Std. 
+deviation 
+Median (min-max) 
+IQR 
+p* 
+Initial UPSIT  
+AOT 
+26 
+26,2 ± 6,1 
+27,5 (15 – 34) IQR=11 
+ 
+ 
+COT 
+54 
+24,7 ± 7,5 
+25,5 (5 – 36) IQR=9 
+0,481 
+Final UPSIT  
+AOT 
+26 
+27,2 ± 4,8 
+27 (15 – 35) IQR=6 
+  
+ 
+COT 
+54 
+26,4 ± 6,9 
+28,5 (10 – 38) IQR=9 
+0,992 
+UPSIT score improvement 
+AOT 
+26 
+1,0 ± 4,2 
+1 (-7 – 10) IQR=4 
+  
+ 
+COT 
+54 
+1,7 ± 3,8 
+2 (-7 – 12) IQR=5 
+0,281 
+Olfaction VAS before COVID-19 
+AOT 
+26 
+9,6 ± 0,7 
+10 (8 – 10) IQR=1 
+  
+ 
+COT 
+54 
+9,7 ± 0,7 
+10 (7 – 10) IQR=0 
+0,508 
+Olfaction VAS in COVID-19 
+AOT 
+26 
+1,0 ± 1,9 
+0 (0 – 7) IQR=1 
+  
+ 
+COT 
+54 
+0,9 ± 1,5 
+0 (0 – 5) IQR=2 
+0,761 
+Olfaction 
+VAS 
+at 
+initial 
+appointment 
+AOT 
+26 
+3,8 ± 1,5 
+4 (1 – 8) IQR=1 
+  
+ 
+  COT 
+54 
+3,5 ± 2,5 
+3 (0 – 7) IQR=5 
+0,471 
+Gustation 
+VAS 
+at 
+initial 
+appointment 
+AOT 
+26 
+6,0 ± 2,4 
+6 (2 – 10) IQR=4 
+  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+ 
+COT 
+54 
+6,2 ± 2,8 
+6 (0 – 10) IQR=3 
+0,608 
+Annoyance with the OD at initial 
+appointment 
+AOT 
+26 
+7,9 ± 2,4 
+9 (0 – 10) IQR=4 
+  
+ 
+COT 
+54 
+6,8 ± 2,8 
+7 (1 – 10) IQR=5 
+0,122 
+Nasal symptoms at initial 
+appointment 
+AOT 
+26 
+4,7 ± 3,4 
+6 (0 – 10) IQR=7 
+  
+ 
+COT 
+54 
+4,1 ± 3,4 
+3 (0 – 10) IQR=6 
+0,548 
+Olfaction VAS at return 
+AOT 
+26 
+5,6 ± 2,2 
+6 (0 – 10) IQR=3 
+ 
+ 
+COT 
+54 
+5,8 ± 2,1 
+6 (0 – 9) IQR=3 
+0,499 
+Gustation VAS at return 
+AOT 
+26 
+7,2 ± 2,2 
+7,5 (2 – 10) IQR=3 
+ 
+ 
+COT 
+54 
+6,8 ± 2,7 
+7 (1 – 10) IQR=4 
+0,655 
+Annoyance with the OD at return 
+AOT 
+26 
+6,5 ± 2,8 
+6,5 (0 – 10) IQR=4 
+ 
+ 
+COT 
+54 
+6,0 ± 3,1 
+7 (0 – 10) IQR=6 
+0,609 
+Nasal symptoms at return 
+AOT 
+26 
+4,3 ± 3,2 
+5 (0 – 10) IQR=7 
+ 
+ 
+COT 
+54 
+4,4 ± 3,4 
+5 (0 – 10) IQR=6 
+0,872 
+Gustation improvement (VAS) 
+AOT 
+26 
+1,2 ± 2,9 
+1 (-6 – 6) IQR=4 
+ 
+ 
+COT 
+54 
+0,6 ± 2,9 
+1 (-8 – 8) IQR=3 
+0,491 
+Improved sense of smell (VAS) 
+AOT 
+26 
+1,8 ± 2,3 
+2 (-4 – 7) IQR=3 
+ 
+ 
+COT 
+54 
+2,4 ± 2,3 
+2 (-5 – 7) IQR=3 
+0,254 
+Annoyance improvement (VAS) 
+AOT 
+26 
+-1,3 ± 2,9 
+-1 (-8 – 6) IQR=3 
+ 
+ 
+COT 
+54 
+-0,8 ± 3,4 
+-1 (-10– 7) IQR=3 
+0,384 
+Nasal symptoms improvement 
+(VAS) 
+AOT 
+26 
+-0,3 ± 3,2 
+0 (-6 – 7) IQR=4 
+  
+  
+COT 
+54 
+0,3 ± 4,7 
+0 (-10 – 8) IQR=5 
+0,244 
+UPSIT: University of Pennsylvania Smell Identification Test; VAS: Visual analogue scale; COT: Classical 
+Olfactory Training; AOT: Advanced Olfactory Training; OD: Olfactory Dysfunction. 
+*Mann-Whitney non-parametric test, p<0.05 
 In relation to other measured factors that could be related to the outcomes of olfaction, 
 it was observed that patients who reported fluctuations in their olfactory ability at the initial 
 appointment (Mann-Whitney nonparametric test) had higher UPSIT scores at baseline (26.8 ± 
@@ -164,13 +905,14 @@ this symptom (p=0.003). Nevertheless, subjective improvement, as measured by olf
 was statistically lower in these patients (1.8 ± 2.5 vs. 2.9 ± 1; p=0.03). The smell fluctuation 
 differed between the first visit and return (binomial test; p=0.023). At the first assessment, 
 62.8% of patients reported this symptom; at the return, 78.8% reported it. 
-
 There was no association between the reported changes in nasal functions of the 
 trigeminal nerve and the presence of any of the chemosensory disorders in any of the moments 
 evaluated (Fisher's exact test, p < 0.05). We also found no association between these complaints 
 and the mean of the UPSIT scores or the applied VAS (nonparametric Mann-Whitney test, p < 
 0.05). 
-
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+DISCUSSION 
 To date, there have been few randomized clinical trials involving olfactory training in 
 patients with OD associated with COVID-19, and no study has yet compared variants of this 
 therapy in this subset of patients. In addition, this is the first study to evaluate an alternative 
@@ -183,7 +925,6 @@ history, duration of the olfactory dysfunction, qualification of the disorder, s
 report of impaired trigeminal function, OT adherence, nasosinusal symptoms, and use of topical 
 corticosteroids. Patients also received explanatory videos of the OT on their smartphones and 
 were contacted by telephone to ensure adherence. 
-
 The selection of AOT essential oils was made by a fragrance expert in our research group 
 based on olfactory training methods used for training recognition and memorization of odors, 
 such as the Carles Method 10. We sought to cover different families of odors to improve training 
@@ -196,7 +937,6 @@ difference was found in the UPSIT score progression between the AOT (1.0 ± 4.2)
 the data collected via the various VAS-scores (Table 8). The data suggest that OT intensification 
 does not show superiority over classical training during the 4-week period proposed in this 
 study. 
-
 In a study conducted by Altundag et al., a modified form of OT was assessed in which 
 patients trained four different essences every 12 weeks over a 36-week period. It was found that 
 the group that performed such alternation scored better on the Sniffin' Sticks test than the 
@@ -207,14 +947,13 @@ maximize the potential benefit of training and to improve the analysis of differ
 groups. However, a major difference between our work and that of Altundag et. al. concerns the 
 period of use of OT, which is significantly shorter in our study and probably related to the lack 
 of benefit of the AOT group. 
-
 In a clinical study comparing periodic alternation of odors with classical training in 
 patients with posttraumatic OD, no significant difference was found between the training 
 modalities 14. We know that olfactory rehabilitation by OT shows different results depending on 
 the etiology of the dysfunction. Patients with posttraumatic etiology respond worse than 
 patients with postinfectious OD, for example 11. To date, no study has examined the efficacy of 
 modified OT in patients after COVID 19.  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
 Another challenge to the analysis and applicability of treatments for OD is OT adherence 
 6. As described by Fornazieri et al, adherence to treatment progressively decreases over the 
 months of treatment 15. In light of this, the possibility of intensifying OT by increasing the number 
@@ -224,7 +963,6 @@ Regarding daily adherence, none of the patients failed to use the OT for 7 days,
 exclusion based on this criterion. The occurrence of side effects was limited to mild symptoms 
 without the need to interrupt the OT. The most commonly reported complaints were headache, 
 nausea and worsening of nasal symptoms. 
-
 Another 
 important 
 analysis concerns self-assessment 
@@ -239,48 +977,41 @@ observed in only a few patients in the study. The weak association between these
 subjective assessment has been described in some previous papers 18–21, which underlines the 
 importance of assessing patients with olfactory complaints with standardized tests in addition 
 to self-assessment. 
-
 The average time reported for the onset of OD (Table 1) after the onset of symptoms of 
 COVID -19 was 4.6 ± 3.8 days, which is consistent with what has been reported in the literature 
 22,23. 
-
 Several studies have shown that COVID -19-related OD has a short recovery period in 
 most patients, occurring on average 1 to 2 weeks after the onset of the disorder 22,24–26. In a 
 paper by Vaira et al, a higher risk for a long-lasting olfactory disturbance was observed in 
 patients in whom symptoms persisted 20 days after the onset of OD 25. In our study, all patients 
 were selected after at least 4 weeks of olfactory complaints to reduce those who would show 
 spontaneous recovery regardless of therapy. 
-
 In the present study, similar to the literature, a sudden anosmia was observed in the 
 acute state of COVID -19 (Table 3), leading to a progressive recovery that was accompanied by 
 the appearance of other qualitative disorders of olfaction 27.  Although parosmia seems to be 
 indicative of the recovery of the functions of olfactory discrimination and identification 28, we 
 could not find any relationship between the presence of this symptom and a better development 
 by UPSIT or by the olfaction VAS. 
-
 In the global analysis of patients by gustation VAS (Table 7), mean values of 6.1 ± 2.7 and 
 6.9 ± 2.5 were obtained at the first and second appointments, respectively, corresponding to an 
 improvement of 0.8 ± 2.9 (p=0.009). However, the data showed no statistical difference 
 between the groups of OT (Table 8), neither in the mean of the first appointment (p=0.608) nor 
 in the difference between it and the mean of the return (p=0.491). 
-
 Patients were asked about their perception of fluctuations in their sense of smell during 
 both assessments. At baseline, these complaints occurred in 62.8% of patients and at the end in 
 78.8%, a more marked prevalence than that reported by Jerome et. al 29. As expected, patients 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
 with fluctuations in olfaction also had higher VAS scores for nasal symptoms (p=0.003). 
 Fluctuations in olfaction are commonly associated with nasal conditions, such as allergic 
 diseases 30 and are less pronounced in patients with postinfectious OD 31.  
-
 The presence of this symptom at the first appointment was associated with better scores 
 at both the first UPSIT (p=0.011) and the second appointment (p=0.029). These results may 
 suggest that the fluctuations are also related to the regeneration of the neuroepithelium.  
-
 Interestingly, olfactory fluctuations were related to worse smell evolution measured by 
 VAS (p=0.029). Considering that self-assessment of this sense seems to reflect mainly changes 
 in nasal patency and, to a lesser extent, olfactory function 32, this would explain why fluctuations 
 in our study were more pronounced in patients with more severe nasal symptoms, who 
 therefore reported worse VAS. 
-
 The trigeminal nerve has an important influence on olfactory perception, being 
 associated with the sensation of freshness for minty odors and the tickling sensation for 
 carbonated beverages 33. Its somatosensory function in the nose was assessed using 
@@ -289,20 +1020,19 @@ trigeminal function impairment and reported chemosensory disturbances at three t
 was assessed: the acute period of SARS-CoV-2 infection; the first appointment; the return. None 
 of the reported disturbances were found to be related to trigeminal function, suggesting a 
 pathophysiology likely distinct from that of olfaction. 
-
 The main limitation of the present study is the short duration of the proposed treatment. 
 The aim is to evaluate an alternative to the TOC originally described by Hummel et. al 8, that is 
 performed intensively, including twice as many scents, and with fewer weeks of stimulation. We 
 are aware that most of the studies conducted on this topic have maintained olfactory training 
 for a longer period, which limits our analysis of the potential benefits of AOT. 
-
 Another possible criticism relates to the psychophysical test chosen to assess patients, 
 as the UPSIT limits the assessment to odor identification only and does not take into account 
 the discrimination or olfactory threshold abilities present in other tests. However, work 
 conducted by Doty et al. suggested that different psychophysical tests measure what would be 
 a common source of variation, so that olfactory impairment and improvement can be effectively 
 assessed using only the identification of odors 34.  
-
+ 
+CONCLUSION 
 Prospective evaluation with subjective scales and psychophysical tests in patients with 
 persistent olfactory dysfunction post-COVID showed an improvement in the smell capacity with 
 the OT performed during 4 weeks. However, the data suggest that intensifying the training by 
@@ -310,6 +1040,213 @@ increasing the number of essences does not show superiority over the four-week c
 method. Future studies with an extension of the treatment period are needed to analyze AOT's 
 potential benefits better. Additionally, the data indicate that patients with fluctuating olfactory 
 ability have better scores in the psychophysical assessment. 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+REFERENCES 
+1. 
+Guan, W. et al. Clinical Characteristics of Coronavirus Disease 2019 in China. New England 
+Journal of Medicine 382, 1708–1720 (2020). 
+2. 
+Gerkin, R. C. et al. The best COVID-19 predictor is recent smell loss: a cross-sectional 
+study. medRxiv 2020.07.22.20157263 (2020) doi:10.1101/2020.07.22.20157263. 
+3. 
+Vaira, L. A., Salzano, G., Deiana, G. & de Riu, G. Anosmia and Ageusia: Common Findings 
+in COVID-19 Patients. Laryngoscope 130, 1787 (2020). 
+4. 
+Fornazieri, M. A. et al. Development of normative data for the Brazilian adaptation of the 
+university of pennsylvania smell identification test. Chemical Senses 40, 141–149 (2015). 
+5. 
+Moein, S. T., Hashemian, S. M. R., Tabarsi, P. & Doty, R. L. Prevalence and reversibility of 
+smell dysfunction measured psychophysically in a cohort of COVID-19 patients. 
+International Forum of Allergy and Rhinology 10, 1127–1135 (2020). 
+6. 
+Hura, N. et al. Treatment of post-viral olfactory dysfunction: an evidence-based review 
+with recommendations. International Forum of Allergy and Rhinology vol. 10 1065–1086 
+(2020). 
+7. 
+Altundag, A. et al. Modified olfactory training in patients with postinfectious olfactory 
+loss. Laryngoscope 125, 1763–1766 (2015). 
+8. 
+Hummel, T., Reden, K. R. J., Hähner, A., Weidenbecher, M. & Hüttenbrink, K. B. Effects of 
+olfactory Training in patients with olfactory loss. Laryngoscope 119, 496–499 (2009). 
+9. 
+Doty, R. L. et al. Olfactory Dysfunction in Patients With Head Trauma. Archives of 
+Neurology 54, 1131–1140 (1997). 
+10. 
+Carles, J. A Method of Creation & Perfumery. Soap Perfumes Cosmet 35, 328 (1962). 
+11. 
+Konstantinidis, I., Tsakiropoulou, E., Bekiaridou, P., Kazantzidou, C. & Constantinidis, J. 
+Use of olfactory training in post-traumatic and postinfectious olfactory dysfunction. 
+Laryngoscope 123, (2013). 
+12. 
+Choi, B. Y. et al. Effects of olfactory training in patients with postinfectious olfactory 
+dysfunction. Clinical and Experimental Otorhinolaryngology 14, 88–92 (2021). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+13. 
+Konstantinidis, I., Tsakiropoulou, E. & Constantinidis, J. Long term effects of olfactory 
+training in patients with post-infectious olfactory loss. Rhinology 54, 170–175 (2016). 
+14. 
+Rezaeyan, A., Asadi, S., Kamrava, S. K., Khoei, S. & Zare-Sadeghi, A. Reorganizing brain 
+structure through olfactory training in post-traumatic smell impairment: An MRI study. 
+Journal of Neuroradiology (2021) doi:10.1016/j.neurad.2021.04.035. 
+15. 
+Fornazieri, M. A. et al. Adherence and Efficacy of Olfactory Training as a Treatment for 
+Persistent Olfactory Loss. American Journal of Rhinology and Allergy 34, 238–248 (2020). 
+16. 
+Rotenberg, B. W., Saunders, S. & Duggal, N. Olfactory outcomes after endoscopic 
+transsphenoidal pituitary surgery. The Laryngoscope 121, 1611–1613 (2011). 
+17. 
+Patel, Z. M., Wise, S. K. & DelGaudio, J. M. Randomized Controlled Trial Demonstrating 
+Cost-Effective Method of Olfactory Training in Clinical Practice: Essential Oils at 
+Uncontrolled Concentration. Laryngoscope Investigative Otolaryngology 2, 53–56 
+(2017). 
+18. 
+Vaira, L. A. et al. Olfactory and gustatory function impairment in COVID-19 patients: 
+Italian objective multicenter-study. Head and Neck 42, 1560–1569 (2020). 
+19. 
+Haxel, B. R. et al. Comparison of subjective olfaction ratings in patients with and without 
+olfactory disorders. Journal of Laryngology and Otology 126, 692–697 (2012). 
+20. 
+CM, P., CR, W., PC, G., A, C. & GE, M. Comparison of subjective perception with objective 
+measurement of olfaction. Otolaryngology--head and neck surgery : official journal of 
+American Academy of Otolaryngology-Head and Neck Surgery 134, 488–490 (2006). 
+21. 
+BN, L., T, H., M, H., R, G. & JS, L. Ratings of overall olfactory function. Chemical senses 28, 
+691–694 (2003). 
+22. 
+Klopfenstein, T. et al. Features of anosmia in COVID-19. Médecine et Maladies 
+Infectieuses 50, 436–439 (2020). 
+23. 
+Santos, R. E. A. et al. Onset and duration of symptoms of loss of smell/taste in patients 
+with COVID-19: A systematic review. American Journal of Otolaryngology - Head and 
+Neck Medicine and Surgery vol. 42 (2021). 
+24. 
+Klopfenstein, T. et al. New loss of smell and taste: Uncommon symptoms in COVID-19 
+patients on Nord Franche-Comte cluster, France. International Journal of Infectious 
+Diseases 100, 117–122 (2020). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+25. 
+Vaira, L. A. et al. Smell and taste recovery in coronavirus disease 2019 patients: a 60-day 
+objective and prospective study. The Journal of Laryngology & Otology 134, 703–709 
+(2020). 
+26. 
+Klopfenstein, T. et al. Features of anosmia in COVID-19. Médecine et Maladies 
+Infectieuses 50, 436–439 (2020). 
+27. 
+Rashid, R. A., Alaqeedy, A. A. & Al-Ani, R. M. Parosmia Due to COVID-19 Disease: A 268 
+Case Series. Indian Journal of Otolaryngology and Head and Neck Surgery (2021) 
+doi:10.1007/s12070-021-02630-9. 
+28. 
+Liu, D. T. et al. Parosmia is Associated with Relevant Olfactory Recovery After Olfactory 
+Training. Laryngoscope 131, 618–623 (2021). 
+29. 
+Lechien, J. R. et al. Olfactory and gustatory dysfunctions as a clinical presentation of mild-
+to-moderate forms of the coronavirus disease (COVID-19): a multicenter European study. 
+European Archives of Oto-Rhino-Laryngology 277, 2251–2261 (2020). 
+30. 
+Enriquez, K., Lehrer, E. & Mullol, J. The optimal evaluation and management of patients 
+with a gradual onset of olfactory loss. Current opinion in otolaryngology & head and neck 
+surgery 22, 34–41 (2014). 
+31. 
+Whitcroft, K. L., Cuevas, M., Haehner, A. & Hummel, T. Patterns of olfactory impairment 
+reflect underlying disease etiology. The Laryngoscope 127, 291–295 (2017). 
+32. 
+Landis, B. N., Hummel, T., Hugentobler, M., Giger, R. & Lacroix, J. S. Ratings of overall 
+olfactory function. Chemical senses 28, 691–694 (2003). 
+33. 
+Hummel, T., Iannilli, E., Frasnelli, J., Boyle, J. & Gerber, J. Central processing of trigeminal 
+activation in humans. Annals of the New York Academy of Sciences 1170, 190–195 (2009). 
+34. 
+RL, D., R, S., DA, M. & J, R. Tests of human olfactory function: principal components 
+analysis suggests that most measure a common source of variance. Perception & 
+psychophysics 56, 701–707 (1994). 
+  
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+Acknowledgments: 
 The essential oils and the University of Pennsylvania Smell Identification Tests were donated by 
 O BOTICÁRIO FRANCHISING LTDA. 
+Conflicts of Interest:  
+César Antônio Veiga works for O BOTICÁRIO FRANCHISING LTDA. The other authors have no 
+conflicting interests to declare. 
+Authors' contribution: 
+Ícaro de Almeida Toledo Pires, Sara Thais Steffens, Aurenzo Gonçalves Mocelin: contributions to 
+the conception, work design, acquisition, analysis, and interpretation of data. Also, to the writing 
+and preparation of the article and its critical review. 
+Debora Emi Shibukawa, Letícia Leahy, Fernanda Laís Saito, Nicole Tássia Amadeu, Natália 
+Medeiros Dias Lopes, Ellen Cristine Duarte Garcia, Maria Laura Albanese, Laura Freitas De Mari, 
+Isabel Moura Ferreira: contributions to the acquisition and interpretation of data and to the final 
+approval of the version to be published. 
+César Antônio Veiga, Yasser Jebahi, Herton Coifman, Marco Aurélio Fornazieri, Rogério 
+Hamerschmidt: contributions to the conception, work design and data interpretation. In 
+addition to the critical review and final approval of the version to be published. 
+ORCIDs: 
+• 
+Ícaro de Almeida Toledo Pires: https://orcid.org/0000-0002-0099-4135 
+• 
+Sara Thais Steffens: https://orcid.org/0000-0001-5356-3593 
+• 
+Aurenzo Gonçalves Mocelin: https://orcid.org/0000-0002-3636-694X 
+• 
+Debora Emi Shibukawa: https://orcid.org/0000-0002-2763-4981 
+• 
+Letícia Leahy: https://orcid.org/0000-0002-4260-9354 
+• 
+Fernanda Laís Saito: https://orcid.org/0000-0001-6742-2361 
+• 
+Nicole Tássia Amadeu: https://orcid.org/0000-0003-3615-8232 
+• 
+Natália Medeiros Dias Lopes: https://orcid.org/0000-0001-6457-7552 
+• 
+Ellen Cristine Duarte Garcia: https://orcid.org/0000-0002-4083-8049 
+• 
+Maria Laura Albanese: https://orcid.org/0000-0003-0751-3135 
+• 
+Laura Freitas De Mari: https://orcid.org/0000-0002-7177-4383 
+• 
+Isabel Moura Ferreira: https://orcid.org/0000-0003-1477-7729 
+• 
+César Antônio Veiga: https://orcid.org/0000-0002-2930-1590 
+• 
+Yasser Jebahi: https://orcid.org/0000-0001-5362-3509 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+• 
+Herton Coifman: https://orcid.org/0000-0002-5505-9435 
+• 
+Marco Aurélio Fornazieri: https://orcid.org/0000-0001-5213-2337 
+• 
+Rogério Hamerschmidt: https://orcid.org/0000-0002-7722-6409 
+ReBEC: 
+Title: Treinamento olfativo com óleos essenciais em pacientes com sequela no olfato após 
+COVID-19 
+Status: approved 
+https://ensaiosclinicos.gov.br/rg/RBR-3f8dm6q 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3301
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

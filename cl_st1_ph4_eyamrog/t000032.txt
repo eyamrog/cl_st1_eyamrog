@@ -1,3 +1,52 @@
+Publication status: Not informed by the submitting author
+Changes in Present Mood States of Youth Soccer Players
+During the Competition Period
+Ricardo Picoli, José Lino Oliveira Bueno
+https://doi.org/10.1590/SciELOPreprints.4397
+Submitted on: 2022-07-08
+Posted on: 2022-07-11 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Changes in Present Mood States of Youth Soccer Players During the Competition 
+Period 
+ 
+ 
+Cambios en los Estados de Ànimo de Futbolistas Juveniles Durante el Periodo de 
+Competición 
+ 
+Variações de Estados de Ânimo Presentes de Futebolistas Juvenis Durante um Período 
+Competitivo 
+ 
+Ricardo Marinho de Mello de Picoli 
+University of São Paulo 
+https://orcid.org/ 0000-0003-1794-9549 
+José Lino Oliveira Bueno 
+University of São Paulo 
+https://orcid.org/0000-0002-4193-5094 
+ 
+This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível 
+Superior - Brasil (CAPES) - Finance Code 001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+2 
+ 
+Abstract 
 Atlhetes' mood states may vary depending on match contexts. This study analyzes present 
 mood states variations over time in 18 male youth soccer players (Mage: 15.4 ± 0.266 years) 
 during a competitive season. The Present Mood States List (PMSL) was applied for the 
@@ -7,14 +56,41 @@ Event for each soccer player. Specific patterns of changes in mood states have b
 over time. Furthermore, depending on which Event was related to a specific match, some 
 mood states differed in their pattern of change. The importance of including the dynamic 
 component of time as an influential variable in athlete mood states changes is discussed. 
-
+Keywords: mood states, soccer, time course, Sport psychology. 
+Resumen 
+Estados de ánimo de los atletas pueden cambiar dependiendo de los contextos del juego. El 
+estudio examinó los cambios en los estados de ánimo medidos en 18 futbolistas jóvenes del 
+sexo masculino (promedio de 15,4 años ± 0.266) que ocurrieron en un periodo competitivo, 
+dependiendo del decurso temporal. Para acceder a los estados de ánimo de los participantes, 
+se utilizó la Lista de Estados de Ánimo Presentes (LEAP), aplicada 40 minutos antes de cada 
+Evento de una secuencia de entrenamientos y partidos. Los valores de presencia de cada 
+Factor de la LEAP en cada Evento se calcuralon para cada futbolista.  Los patrones 
+específicos de alteración de los estados de ánimo se encontraron dependiendo de los Eventos 
+relacionados con una partida. La importancia de incluir el componente dinámico de la 
+temporalidad como variable influyente en los modelos de variación del estado de ánimo de 
+los atletas es discutida. 
+Palabras clave: Estados de ánimo, futbol, decurso temporal, psicología del deporte. 
+Resumo 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+3 
+ 
+Os estados de ânimo de atletas podem variar dependendo do contexto do jogo. Este estudo 
+analisou variações de estados de ânimo de 18 futebolistas masculinos juvenis (Midade: 15,4 ± 
+0,266 anos) ao longo de um período competitivo. A Lista de Estados de Ânimo Presentes 
+(LEAP) foi utilizada para a avaliação dos estados de ânimo presentes cerca de 40 minutos 
+antes de cada Evento, numa sequência de sessões de treinamento e jogos. Os valores de 
+presença de cada Fator da LEAP foram calculados em cada Evento para cada atleta. Padrões 
+específicos de variações de estados de ânimos foram detectados em função da passagem do 
+tempo. Além disso, dependendo do Evento relacionado a um jogo específico, alguns estados 
+de ânimo mudaram seu padrão de variação. A importância de incluir o componente dinâmico 
+do tempo como variável influente nas variações de estados de ânimos em atletas é discutida.  
+Introduction 
 A subjective emotional experience - also understood as feeling or sensation - is the 
 essence of an emotion, and its objective manifestations is observed in its influences on 
 behaviour or by physiological signals from the body or brain are indirect indicators of these 
 internal experiences. As a consequence, the best way to access these feelings is through 
 verbal reports (LeDoux & Hofmann, 2018). Measures of subjective states assessed through 
 verbal reports of the athletes, can describe psychological conditions (Bueno & Souza, 2019).  
-
 Engelmann (1986, p. 121) define mood states as a “fundamental patterns of general 
 functioning and orientation”, representing  “the effect upon a person of his own configuration 
 of activity”, approaching what is understood as feeling in everyday language (Bueno & 
@@ -23,7 +99,9 @@ experience presupone the study of a wide range of states, there are a primacy in
 of negative aspects such as depression, anxiety and stress, mainly because these aspects could 
 have a detrimental effect upon sports performance (Frame & Reichin, 2019; Rocha & Osório, 
 2018).  
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+4 
+ 
 Studies about athletes’ mood states have followed the same tradition, particularly 
 using the Profile of Mood States – POMS (Chennaoui et al., 2016; Morgan, 1980), which has 
 just one positive factor (Vigor) and five negative factors (Tension, Depression, Confusion, 
@@ -31,7 +109,6 @@ Angry and Fatigue), and has been pointed out as a limitation for the advancement
 theoretical models and methods of intervention in this field (Hagtvet & Hanin, 2007; Hanin, 
 2012; Hernández, 2016; Prapavessis, 2000). Even with that, POMS has been widely used to 
 investigate mood states in sport over the world.  
-
 Applicable instruments for the investigation of this wide range of mood states in 
 sports contexts are necessary. The Present Mood States List (PMSL) elaborated by 
 Engelmann (1986, 2001) is a Brazilian instrument which involves positive and negative 
@@ -40,7 +117,6 @@ probabilistically give adequate access to subjective states of people. PMSL meas
 presence of a person’s mood states at the time when is responding and has been used in the 
 investigation of  Present Mood States in sport in Brazil (Bueno & Di Bonifácio, 2007, 2009; 
 Bueno & Souza, 2019).  
-
 The understanding about how, when and why these feelings influence athletes remains 
 unclear and contradictory, with “a scarcity of empirical evidence to support the timing, and 
 content of psychological skill application during the time preceding competition” (Hagan et 
@@ -51,6 +127,9 @@ between the beginning and the end of the championship phase period. This study s
 stability of mood states along time within the same championship phase. Torres-Luque, et al. 
 (2013) analyzed the relationship between the evolution of training load, days of competition 
 and mood states with the POMS in elite judo athletes during a competitive period and 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+5 
+ 
 detected effects of training load and competitive cycles on mood states, Fatigue in particular. 
 In their study, Torres-Luque et al. (2013) extended the evaluation of mood states to training 
 sessions, without limiting it to the days of competition. Box et al. (2018) examined mood 
@@ -60,7 +139,6 @@ and pre-workout mood did not differ across the 5-weeks of the competition, In ad
 found certain negative moods increases immediately following the workout (i.e., Fatigue), 
 but these values declined to pre-workout values during recovery, while feelings of Vigor 
 remained elevated throughout the entire session.  
-
 Hagan et al. (2017b) examined the competitive anxiety responses of elite and semi-
 elite table tennis athletes as temporal events, based on the multidimensional anxiety theory as 
 a framework (i.e. Martens et al., 1990) using the time-to-event paradigm. This paradigm takes 
@@ -77,10 +155,12 @@ function of the positions of youth soccer players and related to the competition
 results showed a common profile of mood states for all athletes immediately before the 
 match, but differences between before and after the game, as well as the presence of specific 
 mood states for the different positions of the athletes and the influence of the match outcome 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+6 
+ 
 on post-match mood states. Dias-Silva (2013) revealed a common Present Mood States 
 profile for soccer players and a specific Present Mood State profile for their positions, which 
 were related to the behaviour of the players during the match.  
-
 The investigation of the Present Mood States and its changes over time is relevant in 
 order to help construct the periodization of training and competition and also in order to 
 permit psychological intervention aiming at a better preparation of the athlete for 
@@ -93,13 +173,19 @@ Luque et al. (2013) and Hagan et al. (2017b). The aim of the present study was t
 wheter Present Mood States of youth soccer players’ changes or not during a competitive 
 period (sequence of matches and trainning sessions) as a function of the closeness of the 
 match.   
-
+Method 
+Participants 
 Participated voluntairily 18 Brazilian soccer players (Mage= 15.4 years; SD = 0. 266) 
 belonging to a U-15 male soccer team. This soccer team was disputing the second phase of a 
 state championship and accepted to participate in the study after authorization of their 
 parents. This study has been approved by the Ethics Committee of the institution responsible 
 for the research1.  
-
+Instruments 
+                                                           
+1  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+7 
+ 
 To acess the athletes’ Present Mood States, PMSL was used. In PMSL, mood states 
 are accessed through 40 locutions presented in the first singular person that denote these 
 mood states. A 5-point likert-type scale located at the side of each locution contains degrees 
@@ -110,7 +196,7 @@ in the sporting context (Picoli, 2016; Silva, 2017) have named the following fac
 representative locutions: I—Humiliation/Anger, II—Fatigue, III—Hope, IV—
 Limerence/Empathy, V—Physiological Response, VI—Repulsion, VII—Interest, VIII—
 Surprise, IX—Hunger, X—Disregard/Envy, XI—Receptivity, and XII—Serenity. 
-
+Procedure 
 All athletes responded in the locker room to the PMSL (Engelmann, 1986) in three 
 conditions: about 40 minutes before the last training session preceding the match (Training-
 Previous condition), about 40 minutes before the match (Match condition) and about 40 
@@ -118,13 +204,16 @@ minutes before the first training after the match (Training-Post condition). Dat
 collected during three consecutive championship rounds, for a total of three Training-
 Previous condition (TR-PRE), three Matches condition (MATCH) and three Training-Post 
 condition (TR-POST) assessments.  
-
+Data analysis 
 Players were divided into four groups, each referring to their field position: 
 Goalkeepers (n=2), Defenders (n=7), Midfielders (n=7) and Forwards (n=2). The presence 
 values of each PMSL factor, as proposed by Engelmann (1986), were calculated multiplying 
 the value assigned by the participant on the scale at the side of each locution by its value of 
 correlation (charge) with each factor. To permit comparisons envolving factors with diferent 
 number of correlated locutions a standardization was done to put each value of presence of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+8 
+ 
 each PMSL factor in a 0-1 scale. This standardization was done this way: In each PMSL 
 factor, the maximum possible value was calculated by multiplying all its positive charges by 
 5 (maximum value of the PMSL scale at the side of the locution) and its negative charges by 
@@ -139,7 +228,6 @@ presence value obtained in the original scale (1 to 5) was also divided by the m
 adjusted, having the value of presence of the PMSL factor. This scale standardization 
 procedure was done for all presence values of all participants at all events. The mean values 
 of presence of each PMSL factor were considered for statistical analysis.  
-
 Also, statistical analysis used the value of the Event Series, calculated by the mean 
 value of the presence of PMSL factors in the TR-PRE, MATCH and TR-POST for the same 
 round of the championship. Kolmogorov-Smirnov test was done and presented a normal 
@@ -147,13 +235,16 @@ distribution (p=0.068). Data were compared by analysis of variance (ANOVA) multi
 with repeated measures of mixed-model. The post hoc Bonferroni test was used when 
 significant differences were detected in the data. The level of significance was set at p ≤ .05 
 and the calculations were made using the SPSS 20.0 software for Windows.  
-
+Results 
 The data reported refer to the comparisons of the mean values of all participants as a 
 single group, since there were not statistically differences between values of the presence of 
 PMSL factors as a function of player’s field position. Factors I (Humiliation/Anger), VI 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+9 
+ 
 (Repulsion), VIII (Surprise), IX (Hunger) and X (Disregard/Envy) showed very low presence 
 values (> 0.30) throughout the study.  
-
+ 
 Comparison of the presence values of each Factor of a same Series between Events 
 revealed changes in mood states as a function of time course (Figure 1). Temporal patterns of 
 changes in mood states were detected, represented by Factors II (Fatigue), VII (Interest) and 
@@ -166,7 +257,7 @@ and MATCH values were also higher than TR-POST values (p=0.000). For Factor XII
 were higher for Factor II (Fatigue) compared to MATCH values and MATCH values were 
 higher for Factors VII (Interest) and XII (Serenity) compared to TR-POST values. TR-POST 
 values of Factor II (Fatigue) were higher than MATCH values. 
-
+INSERT FIGURE 1 HERE 
 Comparison of the values for each Factor between Series revealed a change in mood 
 states as function of time (Figure 2). Temporal patterns of mood state changes were detected 
 regarding Factors IV (Limerence/Empathy) and VII (Interest). Higher Factor IV 
@@ -176,7 +267,10 @@ regarding Factors IV (Limerence/Empathy) and VII (Interest). Higher Factor IV
 0.055). Thus Factor IV (Limerence/Empathy) presence values were higher in Series 1 than in 
 Series 2 and Factor VII (Interest) presence values were also higher than those of Series 2 and 
 3. 
-
+INSERT FIGURE 2 HERE 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+10 
+ 
 Statistical analysis for the comparison of presence values between Events and the 
 different Series revealed temporal patterns of change both as a function of Event and Series 
 of Factors III (Hope) and XI (Receptivity). This means that an interaction was detected 
@@ -193,7 +287,7 @@ presence values in Series 1 MATCHES compared to Series 2 (p=0.005) and in Series
 MATCHES compared to Series 3 (p=0.028). It can be seen that Factor VII (Interest) also 
 showed statistically significant differences depending on Event and Series, but no interaction 
 between these variables. 
-
+INSERT FIGURE 3 HERE 
 Factor V (Physiologic) was the one showing the greatest change during the study 
 since the differences detected showed a pattern of Factor presence over the time course of the 
 sequence of Series of Events, side by side with specific changes in Series 3. The TR-POST 
@@ -202,19 +296,22 @@ some changes were detected in the presence values of this Factor compared to Ser
 TR-PRE presence values were higher in Series 1 (p=0.007) and 2 (p=0.000) than those of the 
 MATCHES of both series, but the TR-PRE value of Series 3 was lower than that of MATCH 
 3 (p=0,000). The MATCH presence values differed between the 3 Series, with the Series 2 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+11 
+ 
 MATCH value being lower than those of Series 1 and 3. Thus, analysis of the interaction 
 between Series and Event revealed a common pattern for the presence of mood states Factors 
 along the temporal sequence for all 3 Series, although there were some significant and 
 specific changes in Series 3 compared to Series 1 and 2. 
-
+INSERT FIGURE 4 HERE 
+Discussion 
 The results of the present study, considering the time course between training sessions 
 and matches, are in according to time-to-event paradigm (Hagan et al., 2017b), which these 
 event are an important influence to Present Mood States variations as well as the influence of 
 match outcome. Although the match outcome was not the aim of the present study, the 
 discussion of the results takes into consideration the fact that the participant team was 
 defeated in all matches.  
-
-Patterns of change in Present Mood States represented by PMSL Factors II (Fatigue), 
+ Patterns of change in Present Mood States represented by PMSL Factors II (Fatigue), 
 VII (Interest) and XII (Serenity) were detected between Events (TR-PRE, MATCH and TR-
 POST), suggesting that the temporal patterns of change in these mood states are repeated 
 along time. While the presence value of Factor VII (Interest) increased with proximity to the 
@@ -227,11 +324,13 @@ highest load in Factor II (Fatigue), immediately after the matches, regardless o
 Although in the present study the evaluation was performed 48 hours after the matches, as 
 recorded in the TR-POST, the high presence of Factor II (Fatigue) after the competition 
 persisted. Russell et al. (2019) highlighted an inconsistency of studies about mental fatigue in 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+12 
+ 
 sports, especially its influence on sports performance and stressed the need to “improving 
 the ecological validity of research in the area of mental fatigue and sport”. A possibility to do 
 this advance, according to them, is to investigate the effect of mental fatigue on performance 
 over a season. 
-
 Factor VII (Interest) seems to be a Factor present about 40 minutes before the match, 
 as also shown by Bueno and Di Bonifácio (2007), Dias-Silva (2013), Di Bonifácio (2013) 
 and Silva (2013). Factor VII (Interest) can be considered related to organic activation and 
@@ -244,7 +343,6 @@ in college athletes. In the current study, the highest presence values of Factor
 were detected temporally more distant from the matches. It is important to note that the level 
 of competition and the age range are different between these studies and an investigation of 
 the influence of these aspects to the presence of this Factor will be relevant. 
-
 Presence values of Factors IV (Limerence/Empathy) and VII (Interest) differed in 
 their patterns of change according to a Series of Events, as shown by the mean presence 
 values of PMSL Factors related to the same match. The mean presence values of Factors IV 
@@ -254,11 +352,13 @@ team already eliminated from the competition after the second match and particip
 remaining matches only for a perfunctory appearance. The relationship between these Factors 
 within this context can be understood in terms of the interaction between group cohesion 
 (Lafferty et al., 2017) and achievement goals (Mascret et al., 2015). The elimination may 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+13 
+ 
 have affected group cohesion, explaining the reduced value of Factor IV 
 (Limerence/Empathy). Thus, these data suggest that, regardless of this unfavorable context, 
 the mood states related to these PMSL Factors are commonly observed in competitive 
 collective sport experience. 
-
 Depending on the type of Event and on the Series to which it belonged, Factors III 
 (Hope) and XI (Receptivity) showed specific patterns of change. The mean presence value of 
 Factor III (Hope) was reduced as soon as the possibility of the team to be disqualified 
@@ -268,7 +368,6 @@ elite voleyball players, although the values did not continue to be high during 
 the competition (Di Bonifácio, 2013). Pujals and Vieira (2002) also observed that Hope was a 
 positive psychological Factor among youth soccer players, influencing performance in the 
 field. 
-
 Nogueira (2009) and Silva (2013) showed high presence values in locution with a 
 greater correlation load with Factor XI (Receptivity) after the matches in which they were 
 defeated for midfielders. In the present study, no difference was detected between groups 
@@ -277,16 +376,17 @@ category (U-15), unlike adult categories examined in other studies, players had 
 specialization for each function to be performed in the field. However, this factor was found 
 to be present after the defeats even though its presence value was reduced compared to the 
 Match values.  
-
 Factor V (Physiologic) showed the greatest changes during the competition. It is 
 possible that the locutions correlated with this Factor (“I feel cold”, “I feel warm” and “I am 
 thirsty”) are highly sensitive to situational and contextual conditions. In this study, 
 experimenter can identify contextual conditons, as related to the chances of classification in 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+14 
+ 
 the championship. Besides, situational conditions was observed, as training sessions at times 
 performed on a synthetic grass field and at others on a natural grass field, the meteorological 
 conditions during the Events. These conditions, however, were not experimentally controlled 
 in the present study. 
-
 Mood states analyzed in the present study showed differences that could be attributed 
 to the match as an important temporal reference for these changes. Time-perspective can be 
 an important aspect to be studied in terms of predict how these mood states changes over time 
@@ -302,20 +402,21 @@ one hour before the match, immediately after a match and two hours after a match
 detected differences in the mood states profile of the athletes between these different time 
 points. These differences were related to the results obtained by the team in the matches 
 evaluated.  
-
 Some elements such as the chance of classification and the outcome of matches 
 (defeat in particular) influenced the way the Present Mood States changed during the present 
 study period. It was perceived by changes in the presence of PMSL Factors showing the 
 increased intensity of the locutions involving Present Mood States of negative hedonic value 
 such as “I am angry”, “I am sad”, “I feel humiliated” and “I feel ashamed” after the matches 
 and by the reduction of presence values of Factors III (Hope) and VII (Interest) at the end of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+15 
+ 
 the study period, since the team no longer had any chance of classification. Studies report that 
 defeat elicits negative emotions and reduces positive emotions among the athletes after a 
 competition (Ahmadi et al., 2015; Lewis et al., 2017; Rubio, 2006) and that the intensity of 
 negative mood states changes as the competition progresses (Bueno & Di Bonifácio, 2007). 
 Further studies may confirm how other results (a tie and winning) will influence the presence 
 of specific Present Mood States and their changes along a competititive period. 
-
 In the present study, analysis of Present Mood States revealed significant differences 
 in the their presence values along the time sequence of the competition, suggesting that 
 investigation with an instrument such as the PMSL, made in Brazil with Brazilian population, 
@@ -330,12 +431,14 @@ PMSL by Bueno and Di Bonifácio (2007), Dias-Silva (2013), Di Bonifácio (2013),
 “I am happy” (a locution negatively correlated with Factor I - Humiliation/Anger, decreasing 
 the presence value of this Factor) reveals a common mood states among Soccer, Football, 
 Volleyball and Futsal athletes before the matches.  
-
 The present study expands the investigation of Present Mood States of athletes by 
 assessing them not only immediately before a match, but also during the training sessions, 
 allowing the analysis of changes in these mood states as a function of time course during a 
 competitive period. Martini (2000 pp. 103) pointed out that “The psychological preparation 
 of sportsmen (...) should be based on systematic interventions carried out according to a 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+16 
+ 
 program that will accompany and consider the succession of sport events”. The data obtained 
 in the present study permit a better understanding of how, when and which mood states 
 change, providing better support to the planning and implementation of interventions in the 
@@ -343,3 +446,265 @@ preparation of athletes for competition. Thus, it is important to include the dy
 component of temporality as a variable affecting the models of variation of 
 neuropsychological processes (Staddon & Bueno, 1991), especially in investigations of 
 subjective aspects such as Present Mood States within the sport context. 
+References 
+Ahmadi, E., Far, A. B., & Kazemzadeh, Y. (2015). Studying of Winning or Losing on the 
+Quality of Mood and Salivary Cortisol Concentrations in Female Futsalists. 
+Biological Forum - An International Journal, 7(2), 9–12. 
+Box, A., Feito, Y., Petruzzello, S., & Mangine, G. (2018). Mood State Changes 
+Accompanying the Crossfit OpenTM Competition in Healthy Adults. Sports, 6(3), 67. 
+https://doi.org/10.3390/sports6030067 
+Bueno, J. L. O., & Di Bonifácio, M. A. (2007). Alterações de estados de ânimo presentes em 
+atletas de voleibol, avaliados em fases do campeonato. Psicologia em Estudo, 12(1), 
+179–184. 
+Bueno, J. L. O., & Di Bonifácio, M. A. (2009). Variações emocionais e desempenho de 
+atetas. Em S. R. Pasian, G. Romanelle, & M. V. Da Cunha (Orgs.), Investigação 
+científica em Psicologia: Aplicações atuais em saúde. Vetor Editora Psico-
+pedagógica. 
+Bueno, J. L. O., & Souza, V. C. (2019). Mood states as motivational and emotional 
+determinants of football performance. Em E. Konter, J. Beckmann, & T. M. 
+Loughead (Orgs.), Football Psychology: From Theory to Practice (p. 9–22). 
+Routlegde. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+17 
+ 
+Chennaoui, M., Bougard, C., Drogou, C., Langrume, C., Miller, C., Gomez-Merino, D., & 
+Vergnoux, F. (2016). Stress Biomarkers, Mood States, and Sleep during a Major 
+Competition: “Success” and “Failure” Athlete’s Profile of High-Level Swimmers. 
+Frontiers in Physiology, 7. https://doi.org/10.3389/fphys.2016.00094 
+Di Bonifácio, M. A. (2013). Os estados de ânimo pré-competitivos e o desempenho de atletas 
+de voleibol de alto nível. (Tese de doutorado não publicada). Faculdade de Filosofia, 
+Ciências e Letras de Ribeirão Preto. Ribeirão Preto, São Paulo. 
+Dias-Silva, W. (2013). Relação entre estados de ânimo momentâneo e desempenho em 
+atletas de futebol de campo. (Dissertação de mestrado). Faculdade de Filosofia, 
+Ciências e Letras de Ribeirão Preto. Ribeirão Preto, São Paulo. 
+Engelmann, A. (1986). Lep – uma lista, de origem brasileira, para medir a presença de 
+estados de ânimo no momento em que está sendo respondida. Ciência e Cultura, 
+38(1), 121–146. 
+Engelmann, A. (2001). A new scale for evaluating hedonic percepts. Em J. A. Da Silva, E. H. 
+Matsyshima, & N. P. Ribeiro Filho (Orgs.), Fechner Day. Annual Meeting of the 
+International Society for Psychophysics. (p. 191–196). The International Society for 
+Psychophysics. 
+Frame, M. C., & Reichin, S. (2019). Emotion and sport performance: Stress, anxiety, arousal, 
+and choking. Em APA Handbook of Sport and Exercise psychology, volume 1: Sport 
+psychology, Vol. 1 (p. 219–243). American Psychological Association. 
+Gea Garcia, G. M., Alonso Roque, J. I., Urena Ortin, N., & de los Fayos Ruiz, E. G. (2016). 
+Impact of competitive sports games on the mood state of university students. Revista 
+de Psicología del Deporte, 25(2), 237–244. 
+Hagan, J. E., Pollmann, D., & Schack, T. (2017a). Exploring temporal patterning of 
+psychological skills usage during the week leading up to competition: Lessons for 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+18 
+ 
+developing intervention programmes. PloS one, 12(8), 1–14. 
+https://doi.org/10.1371/journal.pone.0181814 
+Hagan, J. E., Pollmann, D., & Schack, T. (2017b). Interaction between Gender and Skill on 
+Competitive State Anxiety Using the Time-to-Event Paradigm: What Roles Do 
+Intensity , Direction , and Frequency Dimensions Play ? Frontiers in Psychology, 
+8(692), 1–13. https://doi.org/10.3389/fpsyg.2017.00692 
+Hagtvet, K. A., & Hanin, Y. L. (2007). Consistency of performance-related emotions in elite 
+athletes: Generalizability theory applied to the IZOF model. Psychology of Sport and 
+Exercise, 8(1), 47–72. https://doi.org/10.1016/j.psychsport.2005.12.002 
+Hanin, Y. L. (2012). Emotions in Sport: Current Issues and Perspectives. Em G. Tenenbaum 
+& R. C. Eklund (Orgs.), Handbook of Sport Psychology (3rd ed, p. 31–58). John 
+Wiley & Sons, Inc. https://doi.org/10.1002/9781118270011.ch2 
+Hassmén, P., & Blomstrand, E. (1995). Mood State Relationships and Soccer Team 
+Performance. The Sport Psychologist, 9, 297–308. 
+Hernández, P. J. B. (2016). Influencia del estado emocional previo a la competición en el 
+rendimiento deportivo. Universidad Autónoma de Madrid. 
+Keikha, B. M., Yusof, S., & Jourkesh, M. (2015). The Relationship between Pre-Competition 
+State Anxiety Components and Mood State Sub-Scales Scores and the Result of 
+among College Athletes through Temporal Patterning. International Journal of Sports 
+Science, 5(1), 8–15. https://doi.org/10.5923/j.sports.20150501.02 
+Lafferty, M. E., Wakefield, C., & Brown, H. (2017). “We do it for the team” – Student-
+athletes’ initiation practices and their impact on group cohesion. International Journal 
+of Sport and Exercise Psychology, 15(4), 438–446. 
+https://doi.org/10.1080/1612197X.2015.1121507 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+19 
+ 
+LeDoux, J. E., & Hofmann, S. G. (2018). The subjective experience of emotion: A fearful 
+view. Current Opinion in Behavioral Sciences, 19, 67–72. 
+https://doi.org/10.1016/j.cobeha.2017.09.011 
+Lewis, F. R., Knight, C. J., & Mellalieu, S. D. (2017). Emotional experiences in youth tennis. 
+Psychology of Sport and Exercise, 29, 69–83. 
+https://doi.org/10.1016/j.psychsport.2016.12.003 
+Martens, R., Vealey, R. S., & Burton, D. (1990). Competitive anxiety in sport. Human 
+Kinectics Inc. 
+Martini, L. de A. (2000). Fundamentos da preparação psicológica do esportista. Em K. Rubio 
+(Org.), Psicologia do Esporte: Interfaces, Pesquisa e Intervenção (1a, p. 101–111). 
+Casa do Psicólogo. 
+Mascret, N., Elliot, A. J., & Cury, F. (2015). Extending the 3 × 2 achievement goal model to 
+the sport domain: The 3 × 2 Achievement Goal Questionnaire for Sport. Psychology 
+of Sport and Exercise, 17, 7–14. https://doi.org/10.1016/j.psychsport.2014.11.001 
+Morgan, W. P. (1980). Test of the champions: The iceberg profile. Psychology Today, 
+6(July), 92–108. 
+Nogueira, J. E. (2009). Alterações de estados de ânimo em atletas de futebol de campo, 
+avaliados em fase do campeonato. (Trabalho de Conclusão de Curso não publicado) 
+Centro Universitário Moura Lacerda/Faculdade de Filosofia, Ciências e Letras de 
+Ribeirão Preto. Universidade de São Paulo, Ribeirão Preto/SP. 
+Pires, P., Filgueiras, A., Ribas, R., & Santana, C. (2013). Positive and Negative Affect 
+Schedule: Psychometric Properties for the Brazilian Portuguese Version. The Spanish 
+Journal of Psychology, 16, E58. https://doi.org/10.1017/sjp.2013.60 
+Prapavessis, H. (2000). The POMS and sports performance: A review. Journal of Applied 
+Sport Psychology, 12(1), 34–48. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+20 
+ 
+Pujals, C., & Vieira, L. F. (2002). Análise dos Fatores Psicológicos que interferem no 
+comportamento dos atletas de futebol de campo. Revista da Educação Física/UEM, 
+13(1), 89–97. 
+Rocha, V. V. S., & Osório, F. de L. (2018). Associations between competitive anxiety, athlete 
+characteristics and sport context: Evidence from a systematic review and meta-
+analysis. Archives of Clinical Psychiatry (São Paulo), 45(3), 67–74. 
+https://doi.org/10.1590/0101-60830000000160 
+Rubio, K. (2006). O imaginário da derrota no esporte contemporâneo. Psicologia & 
+Sociedade, 18(1), 86–91. 
+Russell, S., Jenkins, D., Smith, M., Halson, S., & Kelly, V. (2019). The application of mental 
+fatigue research to elite team sport performance: New perspectives. Journal of 
+Science and Medicine in Sport, 22(6), 723–728. 
+https://doi.org/10.1016/j.jsams.2018.12.008 
+Silva, R. C. da. (2013). Relação entre estados de â nimo momentâneos e desempenho dentro 
+e fora de casa em atletas de futebol. (Trabalho de Conclusão de Curso não publicado). 
+Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto. Ribeirão Preto, São 
+Paulo. 
+Staddon, J. E., & Bueno, J. L. O. (1991). On models, Behaviorism and the Neural basis of 
+Learning. Psychological Science, 2(1), 3–11. 
+Stolarski, M., Waleriańczyk, W., & Pruszczak, D. (2019). Introducing Temporal Theory to 
+the Field of Sport Psychology: Toward a Conceptual Model of Time Perspectives in 
+Athletes’ Functioning. Frontiers in Psychology, 9, 2772. 
+https://doi.org/10.3389/fpsyg.2018.02772 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+21 
+ 
+Torres-Luque, G., Hernández-García, R., Olmedilla, A., Toro, E. O., & Garatachea Vallejo, 
+N. (2013). Fluctuación del perfil de estados de Ánimo (POMS) en un periodo 
+competitivo en judokas de élite. Revista de Psicologia del Deporte, 22(2), 313–320. 
+Vega Marcos, R. de la, Barquín, R. R., Alexandre, G. M., Balagué, G., Zafra, A. O., & Del 
+Valle Díaz, S. (2008). Consistencia y fluctuación de los estados de ánimo en un 
+equipo de fútbol profesional durante una competición de play off. Revista de 
+Psicologia del Deporte, 17(2), 241–251. 
+ 
+Author’s Contribution 
+Picoli, R. M. M.: Conceptualization, Data Curation, Formal Analysis, Investigation, 
+Methodology, Visualization, Writing – original draft and Writing – review & editing. 
+Bueno, J. L. O: Funding acquisition, Methodology, Project administration, Resources, 
+Supervision, Validation and Writing – review & editing. 
+ 
+Conflicts of interest 
+The authors declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the manuscript reported in this paper. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+ 
+FIGURE 1 
+Figure 1. Mean values of Factors II (Fatigue), VII (Interest) and XII (Serenity) and 
+statistically significant differences detected in the comparison as a function of Events, 
+indicated by connecting lines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. Mean values of Factors II (Fatigue), VII (Interest) and XII (Serenity) and 
+statistically significant differences detected in the comparison as a function of Events, 
+indicated by connecting lines.  
+22 
+ 
+. Mean values of Factors II (Fatigue), VII (Interest) and XII (Serenity) and 
+statistically significant differences detected in the comparison as a function of Events, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+ 
+FIGURE 2 
+Figure 2. Mean values of Factors IV (L
+statistically significant differences detected in the comparison as a function of Series.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. Mean values of Factors IV (Limerence/Empathy) and VII (Interest) and 
+statistically significant differences detected in the comparison as a function of Series.
+23 
+ 
+imerence/Empathy) and VII (Interest) and 
+statistically significant differences detected in the comparison as a function of Series. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+ 
+FIGURE 3 
+Figure 3. Mean values of Factor III (Hope) and XI (Receptivity) and statistically 
+significant differences detected in the comparison as a function of Events and Series. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. Mean values of Factor III (Hope) and XI (Receptivity) and statistically 
+es detected in the comparison as a function of Events and Series. 
+24 
+ 
+. Mean values of Factor III (Hope) and XI (Receptivity) and statistically 
+es detected in the comparison as a function of Events and Series.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+ 
+FIGURE 4 
+Figure 4. Mean values of Factor V (Physiologic) presence and the statistically significant 
+differences detected in the comparison as a function of Events, Series and their 
+interaction.  
+ 
+. Mean values of Factor V (Physiologic) presence and the statistically significant 
+differences detected in the comparison as a function of Events, Series and their 
+25 
+ 
+. Mean values of Factor V (Physiologic) presence and the statistically significant 
+differences detected in the comparison as a function of Events, Series and their 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4397
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

@@ -1,132 +1,1316 @@
-This article presents a theoretical work whose objective is the discussion of methodologies and methods in educational research, in particular those that analyze classroom discursive interactions. The first part discusses the two main research paradigms and their ontological and epistemological bases: positivism and interpretivism. Next, two methods for analyzing discursive interactions are presented and discussed, one for each paradigm. Systematic coding - within the quantitative context - is indicated to treat data from large samples, to describe general patterns and, by transforming the discourse into variables, to statistical comparisons or temporal analyses. The method is applied in a set of 42 episodes of group dialogue and the results are discussed in light of the nature of the research questions, showing what types of statistical tests can be performed. Within the interpretivist paradigm,  sociocultural discourse analysis is presented as an example of qualitative method an it is applied to excerpts from classroom dialogues. The main finding is the identification of typologies that describe the ways in which teacher and students construct scientific explanations. In the final part, some possibilities and limits of each method are discussed and the conclusion defendes that both can be seen as complementary for the advancement of knowledge in the educational field. 
-
-Much research has focused on the role of language and discursive interaction in the knowledge-building process in classroom-based settings (Howe & Mercer, 2007; Mercer et al., 2020; Resnick et al., 2015; Schwarz & Baker, 2016). In the last 40 years, this research field has flourished under umbrella terms such as ‘classroom dialogue’ or ‘dialogic teaching’ (Kim & Wilkinson, 2019; Mercer & Dawes, 2014), encapsulating studies that aim to effectively use discursive interactions in the teaching context (Alexander, 2008). This stance in the educational field has been called ‘dialogic turn’, emphasising students’ voice, agency, and participation in the co-construction of knowledge (Wilkinson & Son, 2011). 
-
-The first large-scale study on classroom dialogue was probably Flanders’s (1970), who depicted the two-thirds rule; that is, in regular classes, two-thirds of the time is filled by talk; two-thirds of this talk is teacher’s talk, and two-thirds of this teacher’s talk is lecturing. Another relevant finding is framed in the triadic discourse: initiation, response, and feedback or evaluation (Mehan, 1979; Sinclair & Coulthard, 1975). This pattern is possibly the most common feature in whole-class talk and can account for up to 70% of all teacher-student interactions (Cazden, 1988; Nassaji & Wells, 2000; Wells, 1993). Although much of these studies have taken place in Anglo-Saxon countries, this pattern is recognised worldwide (Alexander, 2001). 
-
-Interventionist research has investigated and identified forms of enhanced teacher-student interactions that support teaching and learning (e.g., Mercer, 2002). Perhaps the main conclusion is that forms of talking have profound implications for what is made available to learn (Howe & Mercer, 2007; Kelly, 2014; Lemke, 2001); “the quality of student learning is closely linked to the quality of classroom talk” (Nystrand, 1997, p. 29). 
-
-More recently, review books on methods for analysing classroom dialogue have been published (Kershner, Hennessy, et al., 2020; Kumpulainen et al., 2009; Märtsin, 2012). Contributing to this proliferating field of research, the proposal of this discussion paper is to reflect on the methodologies and methods to analyse classroom discursive interaction. However, instead of directly departing to analytical methods, it is firstly offered a broad methodological discussion starting from research paradigms that considers elements such as epistemology and ontology. In the second part of this paper, methods and procedures for discursive data analysis are presented in two veins: quantitative and qualitative approaches. Both methods are discussed and illustrated based on examples from previous research. 
-
-There is a usual view that relates methodology with the selection of methods (techniques) for a study and their application for data analysis. However, a far more comprehensive notion of methodology comprises the researcher’s attachment to different epistemological and theoretical traditions that influence not only the selection of methods, but also the framing of research questions and design (Mercer et al., 2004; Taber, 2012, 2013; Treagust et al., 2014). 
-
-Crotty (1998) argues that a research conceptualisation should entail four elements: epistemology, theoretical perspective, methodology, and methods. Taber (2013) considers similar elements when referring to ontological and epistemological assumptions in research: theoretical perspective, methodology, research design, and the coherent employment of techniques for acquiring and analysing data. 
-
-These elements jointly create what is often called the research paradigm, a worldview or basic belief that sets the value of research and guides the investigator not only in the choice of methods but also in some fundamental assumptions (Guba & Lincoln, 1994; Treagust et al., 2014). In other words, the research paradigm is seen as a ‘reference point’, ‘vision’, or ‘philosophy’ that amalgamates beliefs, values, and methodologies in research (Taber, 2013; Treagust et al., 2014). In practice, paradigms are how the researcher thinks about and makes sense of their study.  
-
-Different paradigms can employ very contrasting aspects, most fundamentally when considering the two broadest perspectives. The first paradigm is positivist, nomothetic, and confirmatory, which means that it deals with definitive and objective knowledge, seeks general patterns or laws, and tests hypotheses. The underlying assumption is that “it is possible to report unambiguous truth, in terms of observable phenomena and verified facts” (Taber, 2013, p. 49). Guba and Lincoln (1994) pointed out that this approach is grounded in realistic ontology and objectivist epistemology. Realistic ontology entails that “an apprehendable reality is assumed to exist, driven by immutable natural laws and mechanisms” (p. 109), whereas an objectivist epistemology assumes that “the investigator and the investigated ‘object’ are assumed to be independent entities, and the investigator to be capable of studying the object without influencing it or being influenced by it.” (p. 110). This approach to social science is deemed objectivist and determinist because it sees human beings as products of the environment and responses to it (Cohen et al., 2007). 
-
-In more detail, positivist research “strives for objectivity, measurability, predictability, controllability, patterning, the construction of laws and rules of behaviour” and seeks causal explanations to produce claims (Cohen et al., 2007, p. 26; Treagust et al., 2014). Within this context, quantitative methods are more aligned with such a perspective, trying to capture social reality through predesigned categories and measurements as well as providing causal-effect explanations. 
-
-The second paradigm is interpretivist, idiographic and involving discovery. As knowledge (or nature) is viewed as an inherently subjective human interpretation, this paradigm focuses on specific and contextual cases. It deals with “meanings that those participating in educational situations give to what they experience” (Taber, 2013, p. 52). Researchers under this paradigm believe that meanings are not pregiven but co-created through interaction. Therefore, they might engage with participants in activities and seek their views (Treagust et al., 2014). Guba and Lincoln (1994) said that this approach is grounded in a relativist ontology and subjectivist epistemology. Relativist ontology conceives that “realities are apprehendable in the form of multiple, intangible mental constructions, socially and experientially based” (p. 110). In contrast, a subjectivist epistemology denotes that “the investigator and the object of investigation are assumed to be interactively linked so that the ‘findings’ are created as the investigation proceeds” (p. 111). In this approach, human beings are seen as agents of their own actions and producers of their own environment. Because of this, this perspective is deemed subjectivist and voluntarist (Cohen et al., 2007).  
-
-Thus, interpretive researchers “strive to understand and interpret the world in terms of its actors” (Cohen et al., 2007, p. 26) and frame the situated meaning of human experience (Treagust et al., 2014). Employing mainly qualitative methods, such tradition interprets social situations when constructing meanings from the data. 
-
-There is criticism about both paradigms. Positivist researchers might be seen as superficial and limiting, as they do not grasp the inner contradictions and assume that the same finding or solutions can be applied in every context (Taber, 2013). At the same time, interpretivist studies have sometimes been critiqued for being anecdotal or not methodically rigorous, resulting in a lack of generalisation or scalability. 
-
-Notwithstanding the above, some researchers consider critical theory to be a third research paradigm (Cohen et al., 2007; Guba & Lincoln, 1994; Treagust et al., 2014). Researchers following this tradition emphasise the political and ideological stances in human interaction, arguing that factors such as power and inequality shape and forge the ways that human beings live, behave and perceive reality (Cohen et al., 2007).  
-
-The existence of many research paradigms might not be a problem in itself, especially in educational research. Treagust and colleagues (2014) advocate that this diversity promotes the construction of more balanced knowledge and broader effort. In same position, Taber (2013) acknowledges that any paradigm has strengths and limitations, thus any of them can produce valuable knowledge and can be employed in complementary ways.  
-
-At this point at least three aspects must be considered in relation to the adoption of a research paradigm. First, it must provide a consistent and coherent account across every step of the study (Taber, 2013, p. 55). Second, different paradigms have different purposes and methods that must lead to different outcomes (p. 68). Third, and finally, any study refers to a paradigm, if it is not explicit, it is implicit in the manner that the research questions are framed and addressed (p. 68). These concerns stress the importance of thinking carefully on the relationship between the research aims and the most appropriate methods to find them.  
-
-Surely, all paradigms can be applied and generate new knowledge when analysing classroom interaction. For instance, the positivist approach demands simplification of social practices to make research manageable; in general, selecting a set of dialogue variables and controlling others one related to learning outcomes (Asterhan et al., 2020). It is such a method that allows us to state something about how dialogic teaching affects students' learning. On the other side, the interpretivist paradigm might provide a more nuanced frame on the dynamics of dialogue through, for example, ethnographic case studies that stretch the cultural context of the classroom setting (Asterhan et al., 2020). However, as said above, different methods are required for each paradigm when addressing research questions of different natures. Ultimately, this is exactly the aim of this discussion paper. 
-
-For didactic purposes, the next sections are divided into quantitative or qualitative methods. For each of them, there is a brief presentation of one analytical procedure and its application to real classroom discursive data from a previous project. The research questions and findings are presented here just as an exemplary model of operationalising paradigms and methods. Thus, the goal is not to discuss the new knowledge on dialogic teaching generated from this data. 
-
-First of all, analysing discursive interaction is an inherently subjective exercise of building meaning from the thoughts and voices of others, which are constrained and affected by social, cultural, and situated contexts. Such analytical process involves a great deal of interpretation as it relates to reflexivity; researchers bring their own preconceptions, interests, biases, agenda, and so on (Cohen et al., 2007). 
-
-Researchers have also discussed competing tensions between ‘deductive’ and ‘inductive’ approaches in analysing data (Evans, 2013; Taber, 2013). While the former looks for evidence in relation to pre-established themes, which undoubtedly steers analysis, the latter stems from open-minded inquiry, generates themes from the data and uses them as an analytical tool (Evans, 2013). In other words, the analysis can be drawn from the conceptual framework or be grounded in data (Taber, 2013), but both cases involve instances of creating categories, grouping them under higher-order headings, and formulating a general description of the research topic (Elo & Kyngäs, 2008).  
-
-Despite there being many approaches to analyse discursive data and interaction, it might be argued that all of them assume that the researcher must “reflect on them [data] repeatedly and at length, to be able to fragment and manipulate them in the search for underlying patterns and meanings” (Evans, 2013, p. 158). The extension in which the data is fragmented may define the use of quantitative or qualitative methods. It is considered that when analysing discursive interaction, in most cases there is a moment in which the researcher will categorise or ‘code’ an utterance, turn of speech or episode (Hennessy et al., 2020). 
-
-Below, two examples are provided. The first is an illustration of a quantitative analysis regarding small-group dialogue during seven different tasks. The second is a qualitative analysis carried out in episodes of whole-class teaching about the topic of evaporation. 
-
-In this section, we focus on the systematic coding method, as it is the most popular among researchers and examines interaction as a turn-taking system and categorises each of them. Within this method, the analytic process of discursive data involves the reduction of the data through the marking of relevant points about what is looked for. Very frequently, this procedure is called ‘coding’ and enables the researcher to “organise and structure the data” at the same time that “translate raw data into particular conceptual references” and then “identify links to the different categories” (Evans, 2013, pp. 158–159). Objectivity is a key aspect of systematic coding as it encompasses the development of a scheme that needs to be unambiguous; that is, the criteria for coding must be clear enough so that different observers assign the same code/category to the discursive unit (Galton et al., 1980). Quite frequently, codes come from a theoretical framework or previous research. In this case, this research may be labelled as ‘template’ since the analytical framework is informed by the theoretical perspective, “so that the analyst knows just what they are looking for in  the data from the start” (Robson, 2002; Taber, 2013, p. 293). 
-
-When the codes' occurrences are counted, such a method provides a broad overview of data sample and allows the establishment of patterns within and across events (Snell & Lefstein, 2011). However, this technique is not free of problematic issues, as there is a trend to fragment the data and lose context or other meanings that are not captured in the codes (Cohen et al., 2007). Therefore, systematic coding might be seen as reductionist (Mercer et al., 2004; Snell & Lefstein, 2011). The next subsection shows an example of the kinds of research questions and findings that systematic coding might provide. 
-
-In the research reported in Author (XXXX), there were three questions about group-work interaction, more specifically; 1) How can small-group dialogue in a Brazilian primary school be characterised? 2) How did it change over the course of the intervention? and; 3) Did the groups become more dialogic? For context, the research project was based on a teacher professional development programme to promote dialogic talk both in small-group work and whole-class teaching. 
-
-In total, 42 episodes of group talk were recorded, transcribed, and analysed. Due to the size sample and the nature of the questions, a quantitative analysis would be the most reasonable approach to find the general pattern of the discursive interaction that emerged in the groups and how such a pattern has potentially changed over time.  
-
-A coding scheme was devised based on previous works from the literature and comprised a set of ten codes relevant to dialogic classroom talk at the utterance level. The resulting scheme contained ten categories divided into three contexts: content, task and off-topic that discriminate the utterance’s tenor. That is, the codes can be arranged to distinguish if the utterance is related to the content proposed in the task (topic under discussion); if it is related to task procedures or class management; or, ultimately, if it is off-topic, talk neither focused on content nor task (Table 1). 
-
-The utterances that are related to the task content were classified regarding their discursive functions inspired in the IRF pattern and based on the dialogic features that describe productive talk (Howe et al., 2019). Thus, it was generated created six codes, two for each move of the triadic discourse: invitation (INV), dialogic invitation (D_INV), contribution (CON), dialogic contribution (D_CON), follow-up (FOL) and dialogic evaluation (D_EVA). This distinction was made only for content utterances because they are the medium in which knowledge construction and conceptual learning happen. 
-
-The use of the term 'dialogic' tries to frame the utterances in which participants make significant contributions by moving ideas forward through critically taking account of others’ perspectives in building knowledge collectively (Kershner, Dowdall, et al., 2020; Mercer, 2003). Given the research interest, engagement in dialogic talk was operationalised by relatively frequent occurrences of the three dialogic codes.  
-
-To conclude, this scheme made it possible to describe classroom talk and evaluate dialogicity; both goals were at the core of the research questions. Classroom talk could be described by comparing the relative code occurrences within each context (content, instruction, off-topic) and dialogicity evaluated by considering the frequency of dialogic utterances in relation to simple ones.  
-
-This kind of positivist coding assumes that the codes can capture components or characteristics of the discursive interaction. Thus, aiming objectivism, the coding scheme was tested for inter-reliability purposes. Three Masters students to join the researcher in piloting and refine the scheme, establish coding rules, and achieve consistency.  
-
-In the first round, all raters coded the same group-talk episode and discussed the scheme and rules for alignment and convergence. After moderate scores were obtained, the scheme was simplified by dropping some codes, and rules were clarified and written in more detail. Two raters coded 28% of the episodes (12 out of 42), and inter-rater reliability was calculated using Cohen’s Kappa scores through R (RStudio team, 2020). After the iterative process, an acceptable/excellent level of agreement was accomplished, as Cohen’s Kappa scores averaged K = .79 (Kappa values for each code are presented in Table 1). Then, the researcher finally coded the rest of the material .This procedure makes the scheme reliable. 
-
-In addressing the first research question, the result is presented considering the entire dataset. Firstly, group talk as a whole was considered, and relative code frequencies measured the number of content-related (codes 1 to 6), instruction-related (code 7), and off-topic utterances (code 8) divided by the sum of all of them. Figure 1 shows that groups spent almost half (56%) of the utterances talking about the content of the task, around one-quarter negotiating the task-instruction (25%), and a reasonable number off-topic (19%). Only half of group work was devoted to content, which is the kind of talk was more directly related to conceptual-disciplinary learning gains. 
-
-The data could be further explored by searching for variations in the codes’ frequencies across tasks (question 2) and using statistical analysis to find significant variances. The dataset was consistent for non-parametric tests to compare three or more populations (Fligner-Killeen’s test was above the significance level for all but the D_EVA code when comparing tasks or groups, p > 0.05). This result allowed non-parametric tests to analyse comparisons among groups employing the Kruskal-Wallis test and the post-hoc Nemenyi test. The ‘other’ and ‘inaudible’ codes were discarded and not considered for analysis. 
-
-Figure 2 shows code distributions for contexts of group talk as a whole and discursive functions across tasks. Only a small number of significant differences between groups were found. For instance, the analysis for context showed a significant difference in content (H(6) = 17.575, p = .007) between Tasks 3–4 (p = .037) and Tasks 3–5 (p = .022), as well as in off-topic (H(6) = 14.007, p = .029) between Tasks 3-5 (p = .046). No difference was found in instruction. Broadly speaking, students talked more about the content and less off-topic in Tasks 2 and 3.  
-
-In order to answer whether the groups became more dialogic (question 3), it was compared the aggregated results for non-dialogic utterances (the sum-up of codes 1, 3 and 5) with those considered dialogic (codes 2, 4 and 6). As the dialogic and non-dialogic measures are mirrored images, it suffices to conduct the statistical analysis for just one of them.  
-
-There are just three task-pairs that show significant differences (H(6) = 24.881, p < .001); tasks 1-2 (p = .008), tasks 2-6 (p = .001) and tasks 4-6 (p = .04). In Figure 3, it can be seen that tasks 2 was the most dialogic, followed by task 4, while tasks 1 and 6 showed moves with more non-dialogic utterances. Therefore, the hypothesis of enhancing the use of dialogic utterances throughout tasks was not confirmed. There were only a few differences between tasks that cannot be classified as an effect of the intervention. 
-
-It is worth noting that these findings on classroom interaction were obtained without presenting any discursive extract to the reader. In some cases, researchers present just a small extract to illustrate the scheme application and not as part of the analysis itself. Thus, the result is totally based on the explanatory power of the codes and on the reliability of the coding process. Moreover, considering the nature of the questions, it is clear that a qualitative approach would neither offer the generalisation for the description nor objectivism to compare the change in the discursive variables over time.   
-
-For example, Extract 1 shows an example of dialogic talk that did emerge in these groups: a episode carefully selected to illustrate how students interacted in high levels of dialogicity. The identification of such episode among the others was only possible after the systematic codification and frequency counting of the entire dataset. Quantitatively, more than half of the utterances was considered dialogic (17 out of 30; around 57%). For a brief comparison, the average of the dialogicity across the seven tasks was something around 33% (Figure 3).  
-
-Qualitative methods underpinned by the interpretivism paradigm usually take into account the cultural and social context and practices that shape the classroom interaction (e.g., Gee & Green, 1998). It is said that the knowledge is socially constructed through language. These methods can include linguistic ethnography, sociolinguistics, discourse analysis among others (Hennessy et al., 2020). In most cases, they stress the contextual and sociocultural dimensions rather than the verbal exchange per se (turn-taking) mainly because discourse is framed in a broad sense: "the text (speech, writing, or image), the discursive practice of analysis within the text, and the social practices and structures bound to notions of power and knowledge." (Gregory, 2020). 
-
-Researchers dealing with discursive data and qualitative methods employ a variety of procedures such as identifying themes, generating units, classifying and categorising these units, structuring narratives to describe content, interpreting scenarios and constructing theory (Cohen et al., 2007; Robson, 2002). 
-
-As an example of qualitative method, sociocultural discourse analysis is presented and applied to trace relationships between classroom interaction and conceptual learning. Such analysis consisted of closely examining the episodes aiming at generating categories and illustrating them with selected extracts. This focus enabled researchers to search not simply for a specific discursive function but to investigate whole forms of interactions that can be used to generate typologies and evaluate their impact on particular educational purposes. In addition, this method deals with language “content, function, and the ways shared understanding is developed in social context, over time” (Mercer, 2010, p. 9). 
-
-One of the strengths of sociocultural discourse analysis is that “the actual talk remains the data throughout the analysis and so the processes of the joint construction of knowledge can be examined in detail” (Mercer, 2004, p. 143). Thus, here, the focus is not the discursive functions or the language itself but the content of talk and the pursuit of joint intellectual activity (Mercer, 2004). It is an inductive approach to inquiry from which themes or categories should emerge from the data (Evans, 2013; Taber, 2013).  
-
-Such analysis is often illustrated by selected extracts followed by a commentary with reference to prior knowledge of both the field and the context. It can be concerned with the syntax and the cohesive structure of language to represent the ways that knowledge is socially built in the classroom (Mercer, 2004). As dialogue remains untouchable throughout the analysis, the emerged typologies offer a heuristic device for making sense of the talk in relation to one particular issue (Mercer, 2004). For instance, Mercer’s studies identified three types of group talk: disputational, cumulative, and exploratory; and verified that this last have a positive impact on student learning. Thus, the point is not to reduce the data to a categorical tally, but set broad features that involve the context and the discursive dynamic regarding an educational learning goal (Mercer et al., 2004). The next subsection shows an example of the kind of research questions and finding that sociocultural discourse analysis might provide. 
-
-Again, the data comes from the same previous project that consisted of a classroom-based intervention to promote dialogue. The second module of the TPD programme was based on a predefined classroom material that included a considerable amount of student talking and thinking while allowing students to develop their own theories about water evaporation based on observations and everyday experiences (SPRinG, n.d.). 
-
-A research question proposed to investigate how classroom talk supported students’ scientific understanding. It was argued that much of the conceptual learning in primary science occurs through the construction of explanations. Thus, the point here was to frame and analyse how teachers and students jointly construct the scientific explanation of evaporation through talk. 
-
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/0102-469841747t
+ON METHODOLOGY AND METHODS FOR ANALYSING
+CLASSROOM DISCURSIVE ‎INTERACTION: A ‎DISCUSSION
+‎BETWEEN QUANTITATIVE AND QUALITATIVE ‎APPROACHES ‎
+Leonardo Goncalves Lago
+https://doi.org/10.1590/SciELOPreprints.5052
+Submitted on: 2022-11-10
+Posted on: 2022-11-16 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ARTIGO 
+ 
+SOBRE METODOLOGIA E MÉTODOS PARA ANÁLISE DA INTERAÇÃO DISCURSIVA EM 
+SALA DE AULA: UMA DISCUSSÃO ENTRE ABORDAGENS QUANTITATIVA E 
+QUALITATIVA  
+ 
+LEONARDO LAGO 
+Universidade de Cambridge, Cambridge, Reino Unido. <lago@alumni.usp.br> 
+ORCID: https://orcid.org/0000-0002-3143-1757 
+ 
+  
+RESUMO: Esse artigo apresenta um trabalho teórico cujo objetivo é a discussão de metodologias e 
+métodos para a pesquisa educacional, em particular aquelas que analisam as interações discursivas que 
+ocorrem em sala de aula. A primeira parte discorre sobre os dois principais paradigmas de pesquisa e suas 
+bases ontológicas e epistemológicas: o positivismo e o interpretivismo. A seguir,  dois métodos para 
+análise das interações discursivas são apresentados e discutidos, um para cada paradigma. A codificação 
+sistemática - dentro do contexto quantitativo - é indicada para tratar dados provenientes de grandes 
+amostras, para a descrição de padrões gerais e, ao transformar o discurso em variáveis, poder ser utilizada 
+para comparações estatísticas entre grupos ou análises temporais. O método é aplicado em um conjunto 
+de 42 episódios de diálogo em grupo e os resultados discutidos à luz da natureza das perguntas de 
+pesquisa, mostrando-se quais tipos de testes estatísticos podem ser realizados. Dentro do paradigma 
+interpretivista, apresenta-se a análise do discurso sociocultural para exemplo de método qualitativo. O 
+método é aplicado a trechos de diálogos de sala de aula em que o resultado é a identificação de tipologias 
+que descrevem as formas em que professor e alunos constroem explicações científicas. Na parte final do 
+trabalho, as possibilidades e limites de cada método são discutidas e na conclusão se defende a tese de 
+que ambos são complementares para o avanço do conhecimento no campo educacional. 
+ 
+Palavras-chave: interações discursivas, metodologia, paradigmas de pesquisa, codificação sistemática, 
+análise do discurso sociocultural. 
+ 
+  
+ON METHODOLOGY AND METHODS FOR ANALYSING CLASSROOM DISCURSIVE INTERACTION: A 
+DISCUSSION BETWEEN QUANTITATIVE AND QUALITATIVE APPROACHES  
+  
+ABSTRACT: This article presents a theoretical work whose objective is the discussion of methodologies 
+and methods in educational research, in particular those that analyze classroom discursive interactions. 
+The first part discusses the two main research paradigms and their ontological and epistemological bases: 
+positivism and interpretivism. Next, two methods for analyzing discursive interactions are presented and 
+discussed, one for each paradigm. Systematic coding - within the quantitative context - is indicated to 
+treat data from large samples, to describe general patterns and, by transforming the discourse into 
+variables, to statistical comparisons or temporal analyses. The method is applied in a set of 42 episodes 
+of group dialogue and the results are discussed in light of the nature of the research questions, showing 
+what types of statistical tests can be performed. Within the interpretivist paradigm,  sociocultural 
+discourse analysis is presented as an example of qualitative method an it is applied to excerpts from 
+classroom dialogues. The main finding is the identification of typologies that describe the ways in which 
+teacher and students construct scientific explanations. In the final part, some possibilities and limits of 
+each method are discussed and the conclusion defendes that both can be seen as complementary for the 
+advancement of knowledge in the educational field. 
+  
+Keywords: discursive interactions, methodology, research paradigms, systematic coding, sociocultural  
+discourse analysis. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SOBRE METODOLOGÍA Y MÉTODOS PARA EL ANÁLISIS DE LA INTERACCIÓN DISCURSIVA EN EL 
+AULA: UNA DISCUSIÓN ENTRE LOS ENFOQUES CUANTITATIVO Y CUALITATIVO 
+  
+RESUMEN: Este artículo presenta un trabajo teórico cuyo objetivo es la discusión de metodologías y 
+métodos para la investigación educativa, en particular aquellos que analizan las interacciones discursivas 
+que ocurren en el aula. La primera parte discute los dos principales paradigmas de investigación y sus 
+bases ontológicas y epistemológicas: el positivismo y el interpretativismo. A continuación, se presentan y 
+discuten dos métodos para analizar interacciones discursivas, uno para cada paradigma. La codificación 
+sistemática -dentro del contexto cuantitativo- está indicada para tratar datos de grandes muestras, 
+describir patrones generales y, al transformar el discurso en variables, puede utilizarse para comparaciones 
+estadísticas entre grupos o análisis temporales. El método se aplica a un conjunto de 42 episodios de 
+diálogo grupal y los resultados se discuten a la luz de la naturaleza de las preguntas de investigación, 
+mostrando qué tipos de pruebas estadísticas se pueden realizar. Dentro del paradigma interpretativo, el 
+análisis del discurso sociocultural se presenta como un ejemplo de método cualitativo. El método se 
+aplica a extractos de diálogos de aula en los que el resultado es la identificación de tipologías que describen 
+las formas en que el profesor y los estudiantes construyen explicaciones científicas. En la parte final del 
+trabajo se discuten las posibilidades y límites de cada método y en la conclusión se defiende la tesis de 
+que ambos son complementarios para el avance del conocimiento en el campo educativo. 
+  
+Palabras clave: interacciones discursivas, metodología, paradigmas de investigación, codificación 
+sistemática, análisis del discurso sociocultural. 
+ 
+  
+INTRODUCTION 
+Much research has focused on the role of language and discursive interaction in the 
+knowledge-building process in classroom-based settings (Howe & Mercer, 2007; Mercer et al., 2020; 
+Resnick et al., 2015; Schwarz & Baker, 2016). In the last 40 years, this research field has flourished under 
+umbrella terms such as ‘classroom dialogue’ or ‘dialogic teaching’ (Kim & Wilkinson, 2019; Mercer & 
+Dawes, 2014), encapsulating studies that aim to effectively use discursive interactions in the teaching 
+context (Alexander, 2008). This stance in the educational field has been called ‘dialogic turn’, emphasising 
+students’ voice, agency, and participation in the co-construction of knowledge (Wilkinson & Son, 2011). 
+The first large-scale study on classroom dialogue was probably Flanders’s (1970), who 
+depicted the two-thirds rule; that is, in regular classes, two-thirds of the time is filled by talk; two-thirds 
+of this talk is teacher’s talk, and two-thirds of this teacher’s talk is lecturing. Another relevant finding is 
+framed in the triadic discourse: initiation, response, and feedback or evaluation (Mehan, 1979; Sinclair & 
+Coulthard, 1975). This pattern is possibly the most common feature in whole-class talk and can account 
+for up to 70% of all teacher-student interactions (Cazden, 1988; Nassaji & Wells, 2000; Wells, 1993). 
+Although much of these studies have taken place in Anglo-Saxon countries, this pattern is recognised 
+worldwide (Alexander, 2001). 
+Interventionist research has investigated and identified forms of enhanced teacher-student 
+interactions that support teaching and learning (e.g., Mercer, 2002). Perhaps the main conclusion is that 
+forms of talking have profound implications for what is made available to learn (Howe & Mercer, 2007; 
+Kelly, 2014; Lemke, 2001); “the quality of student learning is closely linked to the quality of classroom 
+talk” (Nystrand, 1997, p. 29). 
+More recently, review books on methods for analysing classroom dialogue have been 
+published (Kershner, Hennessy, et al., 2020; Kumpulainen et al., 2009; Märtsin, 2012). Contributing to 
+this proliferating field of research, the proposal of this discussion paper is to reflect on the methodologies 
+and methods to analyse classroom discursive interaction. However, instead of directly departing to 
+analytical methods, it is firstly offered a broad methodological discussion starting from research 
+paradigms that considers elements such as epistemology and ontology. In the second part of this paper, 
+methods and procedures for discursive data analysis are presented in two veins: quantitative and 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+qualitative approaches. Both methods are discussed and illustrated based on examples from previous 
+research. 
+ 
+RESEARCH PARADIGM: A ONE-WAY RELATIONSHIP 
+There is a usual view that relates methodology with the selection of methods (techniques) 
+for a study and their application for data analysis. However, a far more comprehensive notion of 
+methodology comprises the researcher’s attachment to different epistemological and theoretical 
+traditions that influence not only the selection of methods, but also the framing of research questions 
+and design (Mercer et al., 2004; Taber, 2012, 2013; Treagust et al., 2014). 
+Crotty (1998) argues that a research conceptualisation should entail four elements: 
+epistemology, theoretical perspective, methodology, and methods. Taber (2013) considers similar 
+elements when referring to ontological and epistemological assumptions in research: theoretical 
+perspective, methodology, research design, and the coherent employment of techniques for acquiring 
+and analysing data. 
+These elements jointly create what is often called the research paradigm, a worldview or basic 
+belief that sets the value of research and guides the investigator not only in the choice of methods but 
+also in some fundamental assumptions (Guba & Lincoln, 1994; Treagust et al., 2014). In other words, 
+the research paradigm is seen as a ‘reference point’, ‘vision’, or ‘philosophy’ that amalgamates beliefs, 
+values, and methodologies in research (Taber, 2013; Treagust et al., 2014). In practice, paradigms are how 
+the researcher thinks about and makes sense of their study.  
+Different paradigms can employ very contrasting aspects, most fundamentally when 
+considering the two broadest perspectives. The first paradigm is positivist, nomothetic, and 
+confirmatory, which means that it deals with definitive and objective knowledge, seeks general patterns 
+or laws, and tests hypotheses. The underlying assumption is that “it is possible to report unambiguous 
+truth, in terms of observable phenomena and verified facts” (Taber, 2013, p. 49). Guba and Lincoln 
+(1994) pointed out that this approach is grounded in realistic ontology and objectivist epistemology. 
+Realistic ontology entails that “an apprehendable reality is assumed to exist, driven by immutable natural 
+laws and mechanisms” (p. 109), whereas an objectivist epistemology assumes that “the investigator and 
+the investigated ‘object’ are assumed to be independent entities, and the investigator to be capable of 
+studying the object without influencing it or being influenced by it.” (p. 110). This approach to social 
+science is deemed objectivist and determinist because it sees human beings as products of the 
+environment and responses to it (Cohen et al., 2007). 
+In more detail, positivist research “strives for objectivity, measurability, predictability, 
+controllability, patterning, the construction of laws and rules of behaviour” and seeks causal explanations 
+to produce claims (Cohen et al., 2007, p. 26; Treagust et al., 2014). Within this context, quantitative 
+methods are more aligned with such a perspective, trying to capture social reality through predesigned 
+categories and measurements as well as providing causal-effect explanations. 
+The second paradigm is interpretivist, idiographic and involving discovery. As knowledge 
+(or nature) is viewed as an inherently subjective human interpretation, this paradigm focuses on specific 
+and contextual cases. It deals with “meanings that those participating in educational situations give to 
+what they experience” (Taber, 2013, p. 52). Researchers under this paradigm believe that meanings are 
+not pregiven but co-created through interaction. Therefore, they might engage with participants in 
+activities and seek their views (Treagust et al., 2014). Guba and Lincoln (1994) said that this approach is 
+grounded in a relativist ontology and subjectivist epistemology. Relativist ontology conceives that 
+“realities are apprehendable in the form of multiple, intangible mental constructions, socially and 
+experientially based” (p. 110). In contrast, a subjectivist epistemology denotes that “the investigator and 
+the object of investigation are assumed to be interactively linked so that the ‘findings’ are created as the 
+investigation proceeds” (p. 111). In this approach, human beings are seen as agents of their own actions 
+and producers of their own environment. Because of this, this perspective is deemed subjectivist and 
+voluntarist (Cohen et al., 2007).  
+Thus, interpretive researchers “strive to understand and interpret the world in terms of its 
+actors” (Cohen et al., 2007, p. 26) and frame the situated meaning of human experience (Treagust et al., 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2014). Employing mainly qualitative methods, such tradition interprets social situations when 
+constructing meanings from the data. 
+There is criticism about both paradigms. Positivist researchers might be seen as superficial 
+and limiting, as they do not grasp the inner contradictions and assume that the same finding or solutions 
+can be applied in every context (Taber, 2013). At the same time, interpretivist studies have sometimes 
+been critiqued for being anecdotal or not methodically rigorous, resulting in a lack of generalisation or 
+scalability. 
+Notwithstanding the above, some researchers consider critical theory to be a third research 
+paradigm (Cohen et al., 2007; Guba & Lincoln, 1994; Treagust et al., 2014). Researchers following this 
+tradition emphasise the political and ideological stances in human interaction, arguing that factors such 
+as power and inequality shape and forge the ways that human beings live, behave and perceive reality 
+(Cohen et al., 2007).  
+The existence of many research paradigms might not be a problem in itself, especially in 
+educational research. Treagust and colleagues (2014) advocate that this diversity promotes the 
+construction of more balanced knowledge and broader effort. In same position, Taber (2013) 
+acknowledges that any paradigm has strengths and limitations, thus any of them can produce valuable 
+knowledge and can be employed in complementary ways.  
+At this point at least three aspects must be considered in relation to the adoption of a research 
+paradigm. First, it must provide a consistent and coherent account across every step of the study (Taber, 
+2013, p. 55). Second, different paradigms have different purposes and methods that must lead to different 
+outcomes (p. 68). Third, and finally, any study refers to a paradigm, if it is not explicit, it is implicit in the 
+manner that the research questions are framed and addressed (p. 68). These concerns stress the 
+importance of thinking carefully on the relationship between the research aims and the most 
+appropriate methods to find them.  
+Surely, all paradigms can be applied and generate new knowledge when analysing classroom 
+interaction. For instance, the positivist approach demands simplification of social practices to make 
+research manageable; in general, selecting a set of dialogue variables and controlling others one related to 
+learning outcomes (Asterhan et al., 2020). It is such a method that allows us to state something about 
+how dialogic teaching affects students' learning. On the other side, the interpretivist paradigm might 
+provide a more nuanced frame on the dynamics of dialogue through, for example, ethnographic case 
+studies that stretch the cultural context of the classroom setting (Asterhan et al., 2020). However, as said 
+above, different methods are required for each paradigm when addressing research questions of different 
+natures. Ultimately, this is exactly the aim of this discussion paper. 
+For didactic purposes, the next sections are divided into quantitative or qualitative 
+methods. For each of them, there is a brief presentation of one analytical procedure and its application to 
+real classroom discursive data from a previous project. The research questions and findings are presented 
+here just as an exemplary model of operationalising paradigms and methods. Thus, the goal is not to 
+discuss the new knowledge on dialogic teaching generated from this data. 
+ 
+METHODS FOR DISCURSIVE DATA ANALYSIS: A QUANTITATIVE AND 
+QUALITATIVE COMPARISON 
+First of all, analysing discursive interaction is an inherently subjective exercise of building 
+meaning from the thoughts and voices of others, which are constrained and affected by social, 
+cultural, and situated contexts. Such analytical process involves a great deal of interpretation as it relates 
+to reflexivity; researchers bring their own preconceptions, interests, biases, agenda, and so on (Cohen et 
+al., 2007). 
+Researchers have also discussed competing tensions between ‘deductive’ and ‘inductive’ 
+approaches in analysing data (Evans, 2013; Taber, 2013). While the former looks for evidence in relation 
+to pre-established themes, which undoubtedly steers analysis, the latter stems from open-minded inquiry, 
+generates themes from the data and uses them as an analytical tool (Evans, 2013). In other words, the 
+analysis can be drawn from the conceptual framework or be grounded in data (Taber, 2013), but both 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cases involve instances of creating categories, grouping them under higher-order headings, and 
+formulating a general description of the research topic (Elo & Kyngäs, 2008).  
+Despite there being many approaches to analyse discursive data and interaction, it might be 
+argued that all of them assume that the researcher must “reflect on them [data] repeatedly and at length, 
+to be able to fragment and manipulate them in the search for underlying patterns and meanings” (Evans, 
+2013, p. 158). The extension in which the data is fragmented may define the use of quantitative or 
+qualitative methods. It is considered that when analysing discursive interaction, in most cases there is a 
+moment in which the researcher will categorise or ‘code’ an utterance, turn of speech or episode 
+(Hennessy et al., 2020). 
+Below, two examples are provided. The first is an illustration of a quantitative analysis 
+regarding small-group dialogue during seven different tasks. The second is a qualitative analysis carried 
+out in episodes of whole-class teaching about the topic of evaporation. 
+ 
+Quantitative approach to discursive data: systematic coding 
+In this section, we focus on the systematic coding method, as it is the most popular among 
+researchers and examines interaction as a turn-taking system and categorises each of them. Within this 
+method, the analytic process of discursive data involves the reduction of the data through the marking of 
+relevant points about what is looked for. Very frequently, this procedure is called ‘coding’ and enables 
+the researcher to “organise and structure the data” at the same time that “translate raw data into particular 
+conceptual references” and then “identify links to the different categories” (Evans, 2013, pp. 158–159). 
+Objectivity is a key aspect of systematic coding as it encompasses the development of a scheme that 
+needs to be unambiguous; that is, the criteria for coding must be clear enough so that different observers 
+assign the same code/category to the discursive unit (Galton et al., 1980). Quite frequently, codes come 
+from a theoretical framework or previous research. In this case, this research may be labelled as ‘template’ 
+since the analytical framework is informed by the theoretical perspective, “so that the analyst knows just 
+what they are looking for in  the data from the start” (Robson, 2002; Taber, 2013, p. 293). 
+When the codes' occurrences are counted, such a method provides a broad overview of data 
+sample and allows the establishment of patterns within and across events (Snell & Lefstein, 2011). 
+However, this technique is not free of problematic issues, as there is a trend to fragment the data and 
+lose context or other meanings that are not captured in the codes (Cohen et al., 2007). Therefore, 
+systematic coding might be seen as reductionist (Mercer et al., 2004; Snell & Lefstein, 2011). The next 
+subsection shows an example of the kinds of research questions and findings that systematic coding 
+might provide. 
+ 
+Material and method 
+In the research reported in Author (XXXX), there were three questions about group-work 
+interaction, more specifically; 1) How can small-group dialogue in a Brazilian primary school 
+be characterised? 2) How did it change over the course of the intervention? and; 3) Did the groups 
+become more dialogic ?
+ For context, the research project was based on a teacher professional 
+development programme to promote dialogic talk both in small-group work and whole-class teaching. 
+In total, 42 episodes of group talk were recorded, transcribed, and analysed. Due to the size 
+sample and the nature of the questions, a quantitative analysis would be the most reasonable approach 
+to find the general pattern of the discursive interaction that emerged in the groups and how such a pattern 
+has potentially changed over time.  
+A coding scheme was devised based on previous works from the literature and comprised a 
+set of ten codes relevant to dialogic classroom talk at the utterance level. The resulting scheme contained 
+ten categories divided into three contexts: content, task and off-topic that discriminate the utterance’s 
+tenor. That is, the codes can be arranged to distinguish if the utterance is related to the content proposed 
+in the task (topic under discussion); if it is related to task procedures or class management; or, ultimately, 
+if it is off-topic, talk neither focused on content nor task (Table 1). 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Code 
+Definition and Examples 
+Content 
+1. Invitation 
+(INV) 
+K = .57 
+Request for facts, beliefs and opinion (without grounds) among others. 
+Examples: ‘How many ideas does the group have?’, ‘What are your ideas?’, ‘What is 
+going on, here?’, ‘Does water evaporate?’. 
+2. Dialogic 
+invitation 
+(D_INV) 
+K = .80 
+Request for reasoning, reflecting, speculating, building on, positioning, clarifying, 
+referencing back or beyond, agreement or consensus.  
+Examples: ‘Why?’, ‘How do know this?’, ‘What else?’, ‘Do you agree?’, ‘But, the 
+room is totally closed and neither air or heat can get in’.  
+3. Contribution 
+(CON) 
+K = .78 
+Lecturing, stating facts or examples, stating opinions or expressing ideas 
+without grounds.  
+Examples: ‘Heat and wind’, ‘It evaporates’, ‘Evaporation’. 
+4. Dialogic 
+contribution 
+(D_CON) 
+K = .71 
+Current or previous contribution followed by reasoning, expanding, 
+elaboration, building on, referencing back or beyond. 
+Examples: ‘Because the wind blows and makes dries it’, ‘Vapour rises up and makes 
+clouds’. 
+5. Follow-up  
+(FOL) 
+K = .73 
+Quick evaluations, simple reactions, agreement, disagreement, and 
+interjections used as a filter that functions to keep the flow. 
+Examples: ‘I see’, ‘Right’, ‘Yes’, ‘No’, ‘Okay’, ‘Me too’, ‘Yes, that is it’. 
+6. Dialogic 
+evaluation   
+(D_EVA) 
+K = .62 
+Assess status of answer by stating it is wrong and must be followed by 
+grounds (reasons, evidences or elaboration).  
+Examples: ‘No, because the wind makes the water moist and the sun turns it in 
+smoke’, ‘You are wrong, the water evaporates, it turns into tiny droplets that form all 
+the clouds’. 
+Task 
+7. Instruction 
+(INS) 
+K = .85 
+When conveying task procedures, classroom management or behaviour 
+controlling; one tells another one to carry out some action. 
+Examples: ‘Go’, ‘It is me’, ‘Your turn’, ‘She writes’, ‘Is it your turn?’, ‘Write down’, 
+‘Grab the pen’, ‘Can I borrow your rubber?’ 
+Off-topic 
+8. Off-topic 
+(OFF) 
+K = .90 
+Interaction not related to the topic under discussion (content) or the task. It includes 
+personal critiques. 
+Examples of topics: nails, hair, friend, travel, go out, handwriting, jokes  
+9. Other (OTH) 
+K = .57 
+Interaction not covered by none of the other codes. It includes incomplete 
+sentences that it is hard to grasp a clear meaning. 
+Examples: ‘It evaporates because’, ‘The wind, it’, ‘I thought a better one’. 
+10. Inaudible 
+(INA)  
+K = 1.00 
+Interaction is either inaudible or indeciferable.  
+Examples: See notation in the transcript (ina) 
+Table 1. Coding scheme comprised of ten codes: description and examples (The numbers in the first column are the 
+Cohen’s Kappa scores of the interrater reability).  
+ 
+The utterances that are related to the task content were classified regarding their discursive 
+functions inspired in the IRF pattern and based on the dialogic features that describe productive talk 
+(Howe et al., 2019). Thus, it was generated created six codes, two for each move of the triadic discourse: 
+invitation (INV), dialogic invitation (D_INV), contribution (CON), dialogic contribution 
+(D_CON), follow-up (FOL) and dialogic evaluation (D_EVA). This distinction was made only 
+for content utterances because they are the medium in which knowledge construction and conceptual 
+learning happen. 
+The use of the term 'dialogic' tries to frame the utterances in which participants 
+make significant contributions by moving ideas forward through critically taking account of others’ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+perspectives in building knowledge collectively (Kershner, Dowdall, et al., 2020; Mercer, 2003). Given 
+the research interest, engagement in dialogic talk was operationalised by relatively frequent occurrences 
+of the three dialogic codes.  
+To conclude, this scheme made it possible to describe classroom talk and evaluate dialogicity; 
+both goals were at the core of the research questions. Classroom talk could be described by comparing 
+the relative code occurrences within each context (content, instruction, off-topic) and dialogicity 
+evaluated by considering the frequency of dialogic utterances in relation to simple ones.  
+This kind of positivist coding assumes that the codes can capture components or 
+characteristics of the discursive interaction. Thus, aiming objectivism, the coding scheme was tested for 
+inter-reliability purposes. Three Masters students to join the researcher in piloting and refine the scheme, 
+establish coding rules, and achieve consistency.  
+In the first round, all raters coded the same group-talk episode and discussed the scheme and 
+rules for alignment and convergence. After moderate scores were obtained, the scheme was simplified 
+by dropping some codes, and rules were clarified and written in more detail. Two raters coded 28% of 
+the episodes (12 out of 42), and inter-rater reliability was calculated using Cohen’s Kappa scores through 
+R (RStudio team, 2020). After the iterative process, an acceptable/excellent level of agreement was 
+accomplished, as Cohen’s Kappa scores averaged K = .79 (Kappa values for each code are presented in 
+Table 1). Then, the researcher finally coded the rest of the material .This procedure makes the scheme 
+reliable. 
+ 
+Results 
+In addressing the first research question, the result is presented considering the entire dataset. 
+Firstly, group talk as a whole was considered, and relative code frequencies measured the number of 
+content-related (codes 1 to 6), instruction-related (code 7), and off-topic utterances (code 8) divided by 
+the sum of all of them. Figure 1 shows that groups spent almost half (56%) of the utterances talking 
+about the content of the task, around one-quarter negotiating the task-instruction (25%), and a reasonable 
+number off-topic (19%). Only half of group work was devoted to content, which is the kind of talk was 
+more directly related to conceptual-disciplinary learning gains. 
+ 
+ 
+ 
+Figure 1: Small-group talk divided among the three contexts. 
+ 
+The data could be further explored by searching for variations in the codes’ frequencies 
+across tasks (question 2) and using statistical analysis to find significant variances. The dataset was 
+consistent for non-parametric tests to compare three or more populations (Fligner-Killeen’s test was 
+above the significance level for all but the D_EVA code when comparing tasks or groups, p > 0.05). This 
+result allowed non-parametric tests to analyse comparisons among groups employing the Kruskal-Wallis 
+test and the post-hoc Nemenyi test. The ‘other’ and ‘inaudible’ codes were discarded and not considered 
+for analysis. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 shows code distributions for contexts of group talk as a whole and discursive 
+functions across tasks. Only a small number of significant differences between groups were found. For 
+instance, the analysis for context showed a significant difference in content (H(6) = 17.575, p = .007) 
+between Tasks 3–4 (p = .037) and Tasks 3–5 (p = .022), as well as in off-topic (H(6) = 14.007, p = 
+.029) between Tasks 3-5 (p = .046). No difference was found in instruction. Broadly speaking, students 
+talked more about the content and less off-topic in Tasks 2 and 3.  
+ 
+ Figure 2: Variation of the three contexts of talk across tasks.  
+ 
+In order to answer whether the groups became more dialogic (question 3), it was compared 
+the aggregated results for non-dialogic utterances (the sum-up of codes 1, 3 and 5) with those considered 
+dialogic (codes 2, 4 and 6). As the dialogic and non-dialogic measures are mirrored images, it suffices to 
+conduct the statistical analysis for just one of them.  
+There are just three task-pairs that show significant differences (H(6) = 24.881, p < .001); 
+tasks 1-2 (p = .008), tasks 2-6 (p = .001) and tasks 4-6 (p = .04). In Figure 3, it can be seen that tasks 2 
+was the most dialogic, followed by task 4, while tasks 1 and 6 showed moves with more non-dialogic 
+utterances. Therefore, the hypothesis of enhancing the use of dialogic utterances throughout tasks was 
+not confirmed. There were only a few differences between tasks that cannot be classified as an effect of 
+the intervention. 
+ 
+ 
+Figure 3: Variation of dialogicity across tasks. 
+0.45
+0.60
+0.66
+0.43
+0.42
+0.57
+0.56
+0.26
+0.27
+0.22
+0.29
+0.23
+0.19
+0.20
+0.29
+0.13
+0.12
+0.28
+0.35
+0.24
+0.24
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1
+2
+3
+4
+5
+6
+7
+Task
+Context
+Content
+Instruction
+Off-topic
+0.76
+0.52
+0.72
+0.60
+0.63
+0.78
+0.65
+0.24
+0.48
+0.28
+0.40
+0.37
+0.22
+0.35
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1
+2
+3
+4
+5
+6
+7
+Task
+Dialogicity
+Non-Dialogic
+Dialogic
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It is worth noting that these findings on classroom interaction were obtained without 
+presenting any discursive extract to the reader. In some cases, researchers present just a small extract to 
+illustrate the scheme application and not as part of the analysis itself. Thus, the result is totally based on 
+the explanatory power of the codes and on the reliability of the coding process. Moreover, considering 
+the nature of the questions, it is clear that a qualitative approach would neither offer the generalisation 
+for the description nor objectivism to compare the change in the discursive variables over time.   
+For example, Extract 1 shows an example of dialogic talk that did emerge in these groups: 
+a episode carefully selected to illustrate how students interacted in high levels of dialogicity. The 
+identification of such episode among the others was only possible after the systematic codification and 
+frequency counting of the entire dataset. Quantitatively, more than half of the utterances was considered 
+dialogic (17 out of 30; around 57%). For a brief comparison, the average of the dialogicity across the 
+seven tasks was something around 33% (Figure 3).  
+ 
+     Extract 1. Small-group talk: dialogic talk 
+Line 
+Speaker 
+Utterances 
+Code 
+96 
+S43 
+I'd rather buy a new toy than tell the truth... otherwise the girl would get mad at 
+me... and... 
+D_CON 
+97 
+S47 
+Look here... but like... no... friend... you have to say to buy a new one and return 
+it... and be quiet... 
+INS 
+98 
+S46 
+But you're going to buy a toy... 
+CON 
+99 
+S47 
+There is no such alternative... it is to buy a new toy and return it without saying 
+anything or apologizing... 
+D_CON 
+100 
+S43 
+So... but I as said... I’d prefer to buy a new toy instead of telling the truth, because 
+later... 
+CON 
+101 
+S47 
+We know what you want, but what's the reason? 
+D_INV 
+102 
+S46 
+And… why do you have to buy a new toy and not to tell the truth? 
+D_INV 
+103 
+S43 
+Because if I tell the truth, sometimes my friend may not want to be my friend 
+anymore because I lost her toy... 
+D_CON 
+104 
+S6 
+Ahhhh ok... 
+FOL 
+105 
+S43 
+I thought so... 
+FOL 
+106 
+S47 
+I’d say that it was an accident and it wasn't my fault... because… like, you can keep 
+your friendship with the girl... and still tell the truth... but if you buy a new toy, 
+return it and tell the truth, you will be like guilty... 
+D_CON 
+107 
+S43 
+But at least you gave her a new toy and apologized 
+D_CON 
+108 
+S47 
+Yeah... but I think we'd better tell the truth... imagine... 
+CON 
+109 
+S43 
+Will you lie to her, then? 
+INV 
+110 
+S47 
+Look... like... you borrow a doll from her, then, all of a sudden... you're going to 
+dry the doll's hair like that... with the blow dryer and suddenly it goes all black 
+here... 
+D_CON 
+111 
+S46 
+Burn it 
+CON 
+112 
+S47 
+Burn it... there... like, it's like you lost it... there... 
+D_CON 
+113 
+S47 
+Then! S43, think... then you take the doll and lose it... or burn its hair 
+D_CON 
+114 
+S43 
+But do you think it's right to say that it's a lie... to say that you lost it? 
+INV 
+115 
+S47 
+Then you go there and buy a doll just like it... and say… take it... then... you like... 
+Will she continue to be my friend? You will be lying to her... 
+D_CON 
+116 
+S43 
+But I ruined her doll and at least I won't feel guilty since I returned the doll to 
+her... 
+D_CON 
+117 
+S47 
+But you have to tell the truth... or are you a liar? 
+INV 
+118 
+S46 
+Or we can add both of them... buy a new toy, say that it was an accident and that 
+it wasn’t our fault  
+D_CON 
+119 
+S 
+It's... 
+OTH 
+120 
+S46 
+It might be...? Do you agree? 
+D_INV 
+121 
+S43 
+No... 
+FOL 
+122 
+S47 
+So… convince us that there is a better one? 
+D_INV 
+123 
+S43 
+If I buy her a new toy... the same way, I lost the toy... like... the same way if she 
+lost a toy of mine and bought another one, the same way, I wouldn't know that a 
+toy of mine had been lost... 
+D_CON 
+124 
+S46 
+But then you would lie to her? 
+D_INV 
+125 
+S43 
+I prefer to return the new toy... 
+CON 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Qualitative approach to discursive data: sociocultural discourse 
+Qualitative methods underpinned by the interpretivism paradigm usually take into account 
+the cultural and social context and practices that shape the classroom interaction (e.g., Gee & Green, 
+1998). It is said that the knowledge is socially constructed through language. These methods can include 
+linguistic ethnography, sociolinguistics, discourse analysis among others (Hennessy et al., 2020). In most 
+cases, they stress the contextual and sociocultural dimensions rather than the verbal exchange per se (turn-
+taking) mainly because discourse is framed in a broad sense: "the text (speech, writing, or image), the 
+discursive practice of analysis within the text, and the social practices and structures bound to notions of 
+power and knowledge." (Gregory, 2020). 
+Researchers dealing with discursive data and qualitative methods employ a variety of 
+procedures such as identifying themes, generating units, classifying and categorising these 
+units, structuring narratives to describe content, interpreting scenarios and constructing theory (Cohen 
+et al., 2007; Robson, 2002). 
+As an example of qualitative method, sociocultural discourse analysis is presented and 
+applied to trace relationships between classroom interaction and conceptual learning. Such analysis 
+consisted of closely examining the episodes aiming at generating categories and illustrating them with 
+selected extracts. This focus enabled researchers to search not simply for a specific discursive function 
+but to investigate whole forms of interactions that can be used to generate typologies and evaluate their 
+impact on particular educational purposes. In addition, this method deals with language “content, 
+function, and the ways shared understanding is developed in social context, over time” (Mercer, 2010, p. 
+9). 
+One of the strengths of sociocultural discourse analysis is that “the actual talk remains the 
+data throughout the analysis and so the processes of the joint construction of knowledge can be examined 
+in detail” (Mercer, 2004, p. 143). Thus, here, the focus is not the discursive functions or the language 
+itself but the content of talk and the pursuit of joint intellectual activity (Mercer, 2004). It is an inductive 
+approach to inquiry from which themes or categories should emerge from the data (Evans, 2013; Taber, 
+2013).  
+Such analysis is often illustrated by selected extracts followed by a commentary with 
+reference to prior knowledge of both the field and the context. It can be concerned with the syntax and 
+the cohesive structure of language to represent the ways that knowledge is socially built in the classroom 
+(Mercer, 2004). As dialogue remains untouchable throughout the analysis, the emerged typologies offer 
+a heuristic device for making sense of the talk in relation to one particular issue (Mercer, 2004). For 
+instance, Mercer’s studies identified three types of group talk: disputational, cumulative, and exploratory; 
+and verified that this last have a positive impact on student learning. Thus, the point is not to reduce the 
+data to a categorical tally, but set broad features that involve the context and the discursive dynamic 
+regarding an educational learning goal (Mercer et al., 2004). The next subsection shows an example of 
+the kind of research questions and finding that sociocultural discourse analysis might provide. 
+ 
+Material and method 
+Again, the data comes from the same previous project that consisted of a classroom-based 
+intervention to promote dialogue. The second module of the TPD programme was based on a predefined 
+classroom material that included a considerable amount of student talking and thinking while allowing 
+students to develop their own theories about water evaporation based on observations and everyday 
+experiences (SPRinG, n.d.). 
+A research question proposed to investigate how classroom talk supported students’ 
+scientific understanding. It was argued that much of the conceptual learning in primary science occurs 
+through the construction of explanations. Thus, the point here was to frame and analyse how teachers 
+and students jointly construct the scientific explanation of evaporation through talk. 
 However, defining what counts as an explanation or framing its structure is not an easy task, 
 despite the consensus in taking it as an intellectual elaboration that accounts for a cause-effect relationship 
 and uses a logical connective like ‘because’ connecting the cause and the result. Within this perspective, 
 the corpus of data was read to search for structures that resemble scientific explanations. 
-
-Considering the interpretivism nature of this analysis and the specificities of the study (primary science, scientific discourse and evaporation), a further framework was required during the data interrogation. Basically, it was required to define 'what counts as an explanation in classroom talk within primary science'. Very briefly, looking at the data and theory reiteratively, two structural aspects was set: forms of explanations and causation (Braaten & Windschitl, 2011). Thus, the analysis would search for sequences of utterances that convey instances of explanation (definitions, descriptions, and reasoning) and causation (cause-effect accounts of an observable event). Finding examples of these occurrences might make it possible to generate typologies, comment on and describe them, and discuss potential outcomes.  
-
-Thus, the data corpus was analysed in order to select instances of explanations being built as a collective activity between teachers and students. In the 18 episodes of whole-class teaching recorded in this module, five types of explanatory sequences were elaborated and arranged into three broad discursive acts depending on whether teachers were exploring, guiding, or providing an explanation. 
-
-No clear, straightforward distinction exists between the sequences of exploring and guiding explanations as real classroom interactions have unplanned utterances, deviations, and uncontrolled flows that make it hard to frame the sequences under a single category (Barnes, 1976). Thus, these kinds of explanatory sequences  should not be taken as neat or crystalline; different categories overlap in some utterances. Mercer (1995) already raised this concern when he proposed the three kinds of group talk. 
-
-Whereas ‘exploring explanations’ involved advancing, extending, and adding to students’ ideas, ‘guiding explanations’ marked sequences headed towards the scientific explanation, including an effort to use scientific terms more precisely. These two categories were further divided into four granular typologies. Finally, ‘providing explanations’ labelled sequences in which the teacher delivered an explanation to the students. In this sample of talk-intensive lessons, this kind of direct telling was highly interactive, and students contributed with some words, but the teacher did most of the conceptual development. 
-
-The full research report (Author, XXXX) discusses these forms of collective construction while proposing a framework of reference to each typology, providing examples from lessons, and commenting on them. In this paper, for a matter of space and scope, I opt to illustrate and discuss only one of these typologies; guiding explanations through response narrowing. 
-
-Here, two extracts illustrate the excessive use of cued elicitation (Mercer, 1995) and Socratic questioning (Roth, 1996), respectively; that is, the use of limiting invitations that constrain the discourse to a narrow line of reasoning. Students just needed to give a few-word response to follow the explanation across the scientific point of view. In the first case, the lesson aim was to compare water and perfume evaporation. As students could not see or feel the water evaporating, the perfume played the role of showing that something was leaving the water and spreading into the air. The teacher developed this reasoning (Extract 2). 
-
-In the teacher’s third move (line 82), she used a strong intonation (“SEE”) to reject a student’s answer. In the following move (line 84), she reinforced the right answer with a justification: “We don’t see them, these particles are tiny, they are invisible”. In the same turn, she asked about the reason for bringing the perfume to the classroom. Knowing that the visual effect was not the answer, a student argued about the feeling.  
-
-Although this was a why-question, there was so much indication of the correct answer that it was not coded as a dialogic invitation. Then, in lines 87 and 88, the teacher developed a largely complete explanation, leaving only a final word unsaid for student completion—‘vapour’. Having this expected response, she moved on with the explanation relating vapour, the scent, and its spreading around the room. It was an explanatory construction, despite the narrow, inducing line of reasoning that the teacher pursued. 
-
-In this following extract (3), students had just read the brief text about particle theory, and they were answering handout questions collectively. During the interactions, the teacher generally accepted responses including things like ‘separate’, ‘get further away from each other’, and ‘move faster’. She also explicitly asked for two other ‘things’ (lines 50 and 53) whereby she readily obtained ‘energy’ and ‘freely’. The teacher seemingly aimed to find in students’ voices some keywords from the text. With these expected answers at hand (or their synonyms), the teacher provided the entire explanation in the last line. Again, these questions were not coded as dialogic (lines 50, 53, and 55) because expected answers were in the handout; students were merely reproducing them aloud and, as line 56 shows, hesitantly. It might the said that students’ text comprehension was explored, but it is harder to say that explanations were explored. 
-
-Neither of the examples show clear evidence of exploring or deepening students’ ideas. Instead, it might be said that the teachers had clear objectives and tried to achieve them together with students. I would say that they were successful in highlighting the comparative analogy between water and perfume evaporation and emphasising a microscopic explanation of the evaporation process. The student contributed with few words and, apparently, followed the teachers’ line of reasoning. 
-
-This type of micro-analysis of content of the utterances in these extracts have allowed us to explore some factors in more depth, like the building of conceptual understanding and results of each discursive strategy employed by the teacher.  It was possible to highlight a particular classroom activity and discursive techniques that had an impact on shaping classroom talk. 
-
-In this paper, we have discussed two research paradigms and related them to two methodological approaches to analysing educational dialogue; systematic coding (positivism-quantitative) and sociocultural discourse analysis (interpretivism-qualitative). The first consisted of a coding scheme in which utterances were allocated to predefined categories that can be broadened or broken down further as desired. Hennessy et al. (2020) list some advantages of frequency counting, such as processing large quantities of data, highlighting key markers, searching the dataset efficiently to find how specific acts correlate with others, detecting patterns, measuring change in practice and making comparisons subjected to statistical analysis. 
-
-Such method allowed us to frame a general pattern of the small-group talk that emerged in a Brazilian primary school, as well as to search for differences across time. This last procedure was done by measuring the relative frequencies of the occurrence of codes. Thus, the findings represented here have illustrated the positive aspects highlighted above. The great loss in this analysis is the temporal development of meanings and the ambiguity because utterances can have more than one functions. In some cases, coding is said to be atheoretical or dogmatic in their conclusions (Hennessy et al., 2020). 
-
-The second method explored in the paper is sociocultural discourse analysis. It gives prominence to the contextual and situatedness of turns of speech while deepening the meaning of contributions. Qualitative analysis can highlight the "participants' underlying intentions and responses to others moreover enables the researcher to go beyond the data, for instance to identify missed opportunities for extension or challenge." (Hennessy et al., 2020, p. 6). Categorising extracts as a whole can build models rather than recording the presence/absence of target discourse moves in a way in which categories/typologies are generated as outcomes rather than predetermined (Mercer, 2010).  
-
-Employing this method, it was shown how teachers and students work together to build scientific explanation through classroom talk. From the five typologies identified in the original work, only one was presented here. It was seen how teachers can guide students’ ideas through a line of reasoning while building explanation interactively. Strategies like confrontation, response narrowing, and questioning were employed. 
-
-Although quantitative and qualitative methods have been contrasted, both methodologies play play relevant roles and can be seen as complementary (Snell & Lefstein, 2011). Systematic coding is a method for managing an extensive data set, identification of general patterns across multiple lessons /tasks while allowing statistical comparisons and developmental analysis (Mercer et al., 2004). On the other hand, sociocultural discourse analysis can explore fine-grained and offer a multi-dimensional understanding of the complexities of classroom dialogue (Asterhan et al., 2020). While the former constricts the discursive interactions into measured variables (positivist ideal), the latter reveals the complexity and richness of the discursive exchanges with greater interpretative vein.  
-
-From a theoretical point of view, Filho (2013) brings an instigating theoretical discussion on the incommensurability, complementary, and unity of the paradigms. Researchers from the first thesis argue that the realism and interpretivism views are in strict opposition and therefore are incompatible.  The ones who advocate in favour of complementarity say that both paradigms are legitimate as they are not in necessarily conflict. Moreover, in the empirical domain, each paradigm aligns to goals that could not be tackled with another. Finally, the unity between these paradigms is considered mainly by pos-positivist and critical philosophers who defend that there is no logical and consistent way to divide knowledge into radical terms. 
-
-Here, I argue for a complementarity stance mainly in the analytical-empirical dimension as due to the nature of the research questions, both quanti- and qualitative methods can be required for the educational studies (Souza & Kerbauy, 2017). That is, taking a mixed-method approach to methodology (Tashakkori & Teddlie, 1998), it is possible to juxtapose different languages in order to answer research questions properly and coherently. As a result, while exploratory research questions privilege a qualitative analysis, others present a confirmatory bias should employ quantitative characterizations and comparisons. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Considering the interpretivism nature of this analysis and the specificities of the study 
+(primary science, scientific discourse and evaporation), a further framework was required during the data 
+interrogation. Basically, it was required to define 'what counts as an explanation in classroom talk 
+within primary science'. Very briefly, looking at the data and theory reiteratively, two structural aspects 
+was set: forms of explanations and causation (Braaten & Windschitl, 2011). Thus, the analysis would 
+search for sequences of utterances that convey instances of explanation (definitions, descriptions, and 
+reasoning) and causation (cause-effect accounts of an observable event). Finding examples of these 
+occurrences might make it possible to generate typologies, comment on and describe them, and discuss 
+potential outcomes.  
+ 
+Results 
+Thus, the data corpus was analysed in order to select instances of explanations being built as 
+a collective activity between teachers and students. In the 18 episodes of whole-class teaching recorded 
+in this module, five types of explanatory sequences were elaborated and arranged into three broad 
+discursive acts depending on whether teachers were exploring, guiding, or providing an explanation. 
+No clear, straightforward distinction exists between the sequences of exploring and guiding 
+explanations as real classroom interactions have unplanned utterances, deviations, and uncontrolled flows 
+that make it hard to frame the sequences under a single category (Barnes, 1976). Thus, these kinds of 
+explanatory sequences  should not be taken as neat or crystalline; different categories overlap in some 
+utterances. Mercer (1995) already raised this concern when he proposed the three kinds of group talk. 
+Whereas ‘exploring explanations’ involved advancing, extending, and adding to students’ 
+ideas, ‘guiding explanations’ marked sequences headed towards the scientific explanation, including an 
+effort to use scientific terms more precisely. These two categories were further divided into four granular 
+typologies. Finally, ‘providing explanations’ labelled sequences in which the teacher delivered an 
+explanation to the students. In this sample of talk-intensive lessons, this kind of direct telling was 
+highly interactive, and students contributed with some words, but the teacher did most of the conceptual 
+development. 
+The full research report (Author, XXXX) discusses these forms of collective construction 
+while proposing a framework of reference to each typology, providing examples from lessons, and 
+commenting on them. In this paper, for a matter of space and scope, I opt to illustrate and discuss only 
+one of these typologies; guiding explanations through response narrowing. 
+Here, two extracts illustrate the excessive use of cued elicitation (Mercer, 1995) and Socratic 
+questioning (Roth, 1996), respectively; that is, the use of limiting invitations that constrain the discourse 
+to a narrow line of reasoning. Students just needed to give a few-word response to follow the explanation 
+across the scientific point of view. In the first case, the lesson aim was to compare water and perfume 
+evaporation. As students could not see or feel the water evaporating, the perfume played the role of 
+showing that something was leaving the water and spreading into the air. The teacher developed this 
+reasoning (Extract 2). 
+In the teacher’s third move (line 82), she used a strong intonation (“SEE”) to reject 
+a student’s answer. In the following move (line 84), she reinforced the right answer with a justification: 
+“We don’t see them, these particles are tiny, they are invisible”. In the same turn, she asked about the 
+reason for bringing the perfume to the classroom. Knowing that the visual effect was not the answer, a 
+student argued about the feeling.  
+Although this was a why-question, there was so much indication of the correct answer that 
+it was not coded as a dialogic invitation. Then, in lines 87 and 88, the teacher developed a largely complete 
+explanation, leaving only a final word unsaid for student completion—‘vapour’. Having this expected 
+response, she moved on with the explanation relating vapour, the scent, and its spreading around the 
+room. It was an explanatory construction, despite the narrow, inducing line of reasoning that the teacher 
+pursued. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Extract 2. Whole-class: Guiding explanations through responses narrowing 
+Line 
+Speaker 
+Utterances 
+ 
+77 
+T 
+What is similar in the disappearance of the handprint on the blackboard and in the 
+perfume? 
+ 
+78 
+S 
+Both evaporated. 
+ 
+79 
+T 
+They both evaporated...  
+ 
+80 
+Do we see this happening? 
+ 
+81 
+S 
+Yes 
+ 
+82 
+T 
+If I put a glass of water… do you “”SEE”” this happening? 
+ 
+83 
+S 
+No 
+ 
+84 
+T 
+We don’t actually see them, the particles are tiny, they are invisible… 
+ 
+85 
+Why did I bring the perfume, then? 
+ 
+86 
+S 
+So we can feel it. 
+ 
+87 
+T 
+When the perfume liquid evaporates, it means that the perfume particle, the particle that 
+has the smell, it was here in the liquid… 
+ 
+88 
+…it becomes...(?) 
+ 
+89 
+S 
+Vapour. 
+ 
+90 
+T 
+And then… when it turns into vapour, what can it do? 
+ 
+91 
+S 
+It makes us smell it. 
+ 
+92 
+T 
+It can spread. 
+ 
+93 
+S 
+And smell it. 
+ 
+ 
+In this following extract (3), students had just read the brief text about particle theory, and 
+they were answering handout questions collectively. During the interactions, the teacher generally 
+accepted responses including things like ‘separate’, ‘get further away from each other’, and ‘move faster’. 
+She also explicitly asked for two other ‘things’ (lines 50 and 53) whereby she readily obtained ‘energy’ and 
+‘freely’. The teacher seemingly aimed to find in students’ voices some keywords from the text. With these 
+expected answers at hand (or their synonyms), the teacher provided the entire explanation in the last line. 
+Again, these questions were not coded as dialogic (lines 50, 53, and 55) because expected answers were 
+in the handout; students were merely reproducing them aloud and, as line 56 shows, hesitantly. It might 
+the said that students’ text comprehension was explored, but it is harder to say that explanations were 
+explored. 
+ 
+       Extract 3. Whole-class: Guiding explanations through responses narrowing 
+Line 
+Speaker 
+Utterances 
+ 
+47 
+T 
+Now come on… question number three. What happens to water particles when it 
+transforms from liquid to vapour? 
+ 
+48 
+S 
+They separate and move faster 
+ 
+49 
+S 
+They get further away from each other 
+ 
+50 
+T 
+And there's one more thing... Who remembers? 
+ 
+51 
+S 
+They also have a lot of energy 
+ 
+52 
+53 
+T 
+So they get more energy, don't they? And they can move faster, right? And there is another 
+thing... What happens to the particles? 
+ 
+54 
+S 
+They can move. 
+ 
+55 
+T 
+Yes, but how can they move? 
+ 
+56 
+S 
+Freely(?) 
+ 
+57 
+T 
+So ... very well. The particles, then, they gain energy, don't they? 
+ 
+58 
+When they turn to vapour, they gain energy. They detach from each other. It is what 
+happened in the dramatization. They detach from each other and are free in the 
+surroundings, they move more quickly. 
+ 
+ 
+Neither of the examples show clear evidence of exploring or deepening students’ ideas. 
+Instead, it might be said that the teachers had clear objectives and tried to achieve them together with 
+students. I would say that they were successful in highlighting the comparative analogy between water 
+and perfume evaporation and emphasising a microscopic explanation of the evaporation process. The 
+student contributed with few words and, apparently, followed the teachers’ line of reasoning. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This type of micro-analysis of content of the utterances in these extracts have allowed us to 
+explore some factors in more depth, like the building of conceptual understanding and results of each 
+discursive strategy employed by the teacher.  It was possible to highlight a particular classroom activity 
+and discursive techniques that had an impact on shaping classroom talk. 
+ 
+DISCUSSION AND CONCLUSION 
+In this paper, we have discussed two research paradigms and related them to two 
+methodological approaches to analysing educational dialogue; systematic coding (positivism-quantitative) 
+and sociocultural discourse analysis (interpretivism-qualitative). The first consisted of a coding scheme 
+in which utterances were allocated to predefined categories that can be broadened or broken down 
+further as desired. Hennessy et al. (2020) list some advantages of frequency counting, such as processing 
+large quantities of data, highlighting key markers, searching the dataset efficiently to find how specific 
+acts correlate with others, detecting patterns, measuring change in practice and making comparisons 
+subjected to statistical analysis. 
+Such method allowed us to frame a general pattern of the small-group talk that emerged in 
+a Brazilian primary school, as well as to search for differences across time. This last procedure was done 
+by measuring the relative frequencies of the occurrence of codes. Thus, the findings represented here 
+have illustrated the positive aspects highlighted above. The great loss in this analysis is the temporal 
+development of meanings and the ambiguity because utterances can have more than one functions. In 
+some cases, coding is said to be atheoretical or dogmatic in their conclusions (Hennessy et al., 2020). 
+The second method explored in the paper is sociocultural discourse analysis. It gives 
+prominence to the contextual and situatedness of turns of speech while deepening the meaning of 
+contributions. Qualitative analysis can highlight the "participants' underlying intentions and responses to 
+others moreover enables the researcher to go beyond the data, for instance to identify missed 
+opportunities for extension or challenge." (Hennessy et al., 2020, p. 6). Categorising extracts as a whole 
+can build models rather than recording the presence/absence of target discourse moves in a way in which 
+categories/typologies are generated as outcomes rather than predetermined (Mercer, 2010).  
+Employing this method, it was shown how teachers and students work together to build 
+scientific explanation through classroom talk. From the five typologies identified in the original work, 
+only one was presented here. It was seen how teachers can guide students’ ideas through a line of 
+reasoning while building explanation interactively. Strategies like confrontation, response narrowing, and 
+questioning were employed. 
+Although quantitative and qualitative methods have been contrasted, both methodologies 
+play play relevant roles and can be seen as complementary (Snell & Lefstein, 2011). Systematic coding is 
+a method for managing an extensive data set, identification of general patterns across multiple lessons 
+/tasks while allowing statistical comparisons and developmental analysis (Mercer et al., 2004). On the 
+other hand, sociocultural discourse analysis can explore fine-grained and offer a multi-dimensional 
+understanding of the complexities of classroom dialogue (Asterhan et al., 2020). While the former 
+constricts the discursive interactions into measured variables (positivist ideal), the latter reveals the 
+complexity and richness of the discursive exchanges with greater interpretative vein.  
+From a theoretical point of view, Filho (2013) brings an instigating theoretical discussion on 
+the incommensurability, complementary, and unity of the paradigms. Researchers from the first thesis 
+argue that the realism and interpretivism views are in strict opposition and therefore are incompatible.  
+The ones who advocate in favour of complementarity say that both paradigms are legitimate as they are 
+not in necessarily conflict. Moreover, in the empirical domain, each paradigm aligns to goals that could 
+not be tackled with another. Finally, the unity between these paradigms is considered mainly by pos-
+positivist and critical philosophers who defend that there is no logical and consistent way to divide 
+knowledge into radical terms. 
+Here, I argue for a complementarity stance mainly in the analytical-empirical dimension as 
+due to the nature of the research questions, both quanti- and qualitative methods can be required for the 
+educational studies (Souza & Kerbauy, 2017). That is, taking a mixed-method approach to methodology 
+(Tashakkori & Teddlie, 1998), it is possible to juxtapose different languages in order to answer 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+research questions properly and coherently. As a result, while exploratory research questions privilege a 
+qualitative analysis, others present a confirmatory bias should employ quantitative characterizations and 
+comparisons. 
+ 
+ 
+ 
+REFERÊNCIAS 
+Author (XXXX) 
+ 
+Alexander, R. (2001). Culture and pedagogy: International comparisons in primary education. Blackwell. 
+ 
+Alexander, R. (2008). Towards dialogic teaching: Rethinking classroom talk (4th ed.). Dialogos. 
+ 
+Asterhan, C. S. C., Howe, C., Lefstein, A., Matusov, E., & Reznitskaya, A. (2020). Controversies and 
+consensus in research on dialogic teaching and learning. Dialogic Pedagogy: An International Online 
+Journal, 8. https://doi.org/10.5195/dpj.2020.312 
+ 
+Barnes, D. (1976). From communication to curriculum. Penguin Books. 
+ 
+Braaten, M., & Windschitl, M. (2011). Working toward a stronger conceptualization of scientific 
+explanation for science education: Scientific Explanations. Science Education, 95(4), 639–669. 
+https://doi.org/10.1002/sce.20449 
+ 
+Cazden, C. (1988). Classroom discourse: The language of teaching and learning. Heinemann. 
+ 
+Cohen, L., Manion, L., & Morrison, K. (2007). Research Methods in Education. Routledge Ltd. 
+ 
+Crotty, M. (1998). The foundations of social research: Meaning and perspective in the research process. SAGE 
+Publications. 
+ 
+Elo, S., & Kyngäs, H. (2008). The qualitative content analysis process. Journal of Advanced Nursing, 62(1), 
+107–115. https://doi.org/10.1111/j.1365-2648.2007.04569.x 
+ 
+Evans, M. (2013). Analysing qualitative data. In E. Wilson (Ed.), School-based research: A guide for education 
+students (2nd ed., pp. 157–170). SAGE Publications. 
+ 
+Filho, J. C. dos S. (2013). Pesquisa quantitativa versus pesquisa qualitativa: O desafio paradigmático. In 
+J. C. dos S. Filho & S. Gamboa (Eds.), Pesquisa educacional: Quantidade-qualidade (8a ed, pp. 6–83). 
+Cortez. 
+ 
+Flanders, N. A. (1970). Analyzing teaching behavior. Addison-Wesley. 
+ 
+Galton, M., Simon, B., & Croll, P. (1980). Inside the primary classroom. Routledge and Kegan Paul. 
+https://doi.org/10.4324/9780203480892 
+ 
+Gee, J. P., & Green, J. L. (1998). Discourse Analysis, Learning, and Social Practice: A Methodological 
+Study. Review of Research in Education, 23, 119–169. https://doi.org/10.2307/1167289 
+ 
+Gregory, C. G. (2020). Theoretical Promises and Methodological Troubles Capturing Dialogical 
+Discourse in Classroom Research. Dialogic Pedagogy: An International Online Journal, 8. 
+https://doi.org/10.5195/dpj.2020.313 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guba, E. G., & Lincoln, Y. S. (1994). Competing paradigms in qualitative research. In N. K. Denzin & 
+Y. S. Lincoln (Eds.), Handbook of qualitative research (pp. 105–117). SAGE Publications. 
+ 
+Hennessy, S., Howe, C., Mercer, N., & Vrikki, M. (2020). Coding classroom dialogue: Methodological 
+considerations for researchers. Learning, Culture and Social Interaction, 25, 100404. 
+https://doi.org/10.1016/j.lcsi.2020.100404 
+Howe, C., Hennessy, S., Mercer, N., Vrikki, M., & Wheatley, L. (2019). Teacher–Student Dialogue During 
+Classroom Teaching: Does It Really Impact on Student Outcomes? Journal of the Learning Sciences, 
+1–51. https://doi.org/10.1080/10508406.2019.1573730 
+ 
+Howe, C., & Mercer, N. (2007). Children’s social development, peer interaction and classroom learning. Primary 
+Review, University of Cambridge Faculty of Education. https://cprtrust.org.uk/wp-
+content/uploads/2014/06/research-survey-2-1b.pdf 
+ 
+Kelly, G. J. (2014). Discourse Practices in Science Learning and Teaching. In N. G. Lederman & S. K. 
+Abell (Eds.), Handbook of Research on Science Education, Volume II (pp. 321–336). Routledge. 
+ 
+Kershner, R., Dowdall, K., Hennessy, S., Owen, H., & Calcagni, E. (2020). Teachers as ‘natural 
+experimenters’: Using T-SEDA to develop classroom dialogue. In E. Hargreaves & L. Rolls 
+(Eds.), Reimagining Professional Development in Schools (1st ed., pp. 102–122). Routledge. 
+https://doi.org/10.4324/9780429293337-8 
+ 
+Kershner, R., Hennessy, S., Wegerif, R., & Ahmed, A. (Eds.). (2020). Research Methods for Educational 
+Dialogue. Bloomsbury Publishing. 
+ 
+Kim, M.-Y., & Wilkinson, I. (2019). What is dialogic teaching? Constructing, deconstructing, and 
+reconstructing a pedagogy of classroom talk. Learning, Culture and Social Interaction, 21, 70–86. 
+https://doi.org/10.1016/j.lcsi.2019.02.003 
+ 
+Kumpulainen, K., Hmelo-Silver, C., & César, M. (Eds.). (2009). Investigating classroom interaction: 
+Methodologies in action. Sense Publishers. 
+ 
+Lemke, J. L. (2001). Articulating communities: Sociocultural perspectives on science education. Journal of 
+Research 
+in 
+Science 
+Teaching, 
+38(3), 
+296–316. 
+https://doi.org/10.1002/1098-
+2736(200103)38:3%3C296::aid-tea1007%3E3.0.co;2-r 
+ 
+Märtsin, M. (Ed.). (2012). Dialogicality in focus: Challenges to theory, method and application. Nova Science 
+Publishers. 
+ 
+Mehan, H. (1979). Learning lessons: Social organization in the classroom. Harvard University Press. 
+ 
+Mercer, N. (1995). The guided construction of knowledge: Talk amongst teachers and learners. Multilingual Matters. 
+ 
+Mercer, N. (2002). Developing Dialogues. In G. Wells & G. Claxton (Eds.), Learning for Life in the 21st 
+Century: Sociocultural Perspectives on the Future of Education (pp. 141–153). Blackwell Publishers. 
+ 
+Mercer, N. (2003). Helping children to talk and think together more effectively. Polifonia, 7(07). 
+ 
+Mercer, N. (2004). Sociocultural discourse analysis: Analysing classroom talk as a social mode of thinking. 
+Journal of Applied Linguistics, 1(2), 137–168. https://doi.org/10.1558/japl.v1i2.137 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mercer, N., & Dawes, L. (2014). The study of talk between teachers and students, from the 1970s until 
+the 
+2010s. 
+Oxford 
+Review 
+of 
+Education, 
+40(4), 
+430–445. 
+https://doi.org/10.1080/03054985.2014.934087 
+ 
+Mercer, N., Littleton, K., & Wegerif, R. (2004). Methods for studying the processes of interaction and 
+collaborative activity in computer-based educational activities. Technology, Pedagogy and Education, 
+13(2), 195–212. https://doi.org/10.1080/14759390400200180 
+ 
+Mercer, N., Wegerif, R., & Major, L. (Eds.). (2020). The Routledge International Handbook of Research on 
+Dialogic Education (1st ed.). Routledge. https://doi.org/10.4324/9780429441677 
+ 
+Mercer, Neil. (2010). The analysis of classroom talk: Methods and methodologies. British Journal of 
+Educational Psychology, 80(1), 1–14. https://doi.org/10.1348/000709909X479853 
+ 
+Nassaji, H., & Wells, G. (2000). What’s the use of “triadic dialogue”?: An investigation of teacher-student 
+interaction. Applied Linguistics, 21(3), 376–406. https://doi.org/10.1093/applin/21.3.376 
+ 
+Nystrand, M. (1997). Opening dialogue: Understanding the dynamics of language and learning in the English classroom. 
+Teachers College Press. 
+ 
+Resnick, L., Asterhan, C., & Clarke, S. (Eds.). (2015). Socializing Intelligence through academic talk and dialogue. 
+American Educational Research Association. 
+ 
+Robson, C. (2002). Real world research: A resource for social scientists and practitioner-researchers (2nd ed.). 
+Blackwell. 
+ 
+Roth, W.-M. (1996). Teacher questioning in an open-inquiry learning environment: Interactions of 
+context, content, and student responses. Journal of Research in Science Teaching, 33(7), 709–736. 
+ 
+RStudio team. (2020). RStudio: Integrated Development for R. PBC. http://www.rstudio.com 
+ 
+Schwarz, B., & Baker, M. (2016). Dialogue, Argumentation and Education: History, Theory and Practice. 
+Cambridge University Press. 
+ 
+Sinclair, J., & Coulthard, R. M. (1975). Towards an analysis of discourse: The English used by teachers and pupils. 
+Oxford University Press. 
+ 
+Snell, J., & Lefstein, A. (2011). Computer-assisted systematic observation of classroom discourse & 
+interaction. Working Papers in Urban Language and Literacies. King’s College London., 77. 
+https://www.academia.edu/attachments/33178716/download_file?s=portfolio. 
+https://www.academia.edu/attachments/33178716/download_file?s=portfolio 
+ 
+Souza, K., & Kerbauy, M. T. (2017). Abordagem quanti-qualitativa: Superação da dicotoamia 
+quantitativa-qualitativa na pesquisa em educação. EDUCAÇÃO E FILOSOFIA, 31(61), 21–44. 
+https://doi.org/10.14393/REVEDFIL.issn.0102-6801.v31n61a2017-p21a44 
+ 
+SPRinG. (n.d.). SPRinG Project: Improving the effectiveness of pupil group-work in classrooms. Social Pedagogic 
+Research into Group-work. http://www.spring-project.org.uk/ 
+ 
+Taber, K. (2012). Prioritising paradigms, mixing methods, and characterising the ‘qualitative’ in 
+educational 
+research. 
+Teacher 
+Development, 
+16(1), 
+125–138. 
+https://doi.org/10.1080/13664530.2012.674294 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Taber, K. (2013). Classroom-based research and evidence-based practice: An introduction (2nd ed.). Sage 
+Publications. 
+ 
+Tashakkori, A., & Teddlie, C. (1998). Mixed methodology: Combining qualitative and quantitative approaches (pp. 
+xi, 185). Sage Publications. 
+ 
+ 
+Treagust, D. F., Won, M., & Duit, R. (2014). Paradigms in Science Education Research. In N. G. 
+Lederman & S. K. Abell (Eds.), Handbook of Research on Science Education, Volume II (pp. 3–17). 
+Routledge. https://doi.org/10.4324/9780203097267.ch1 
+ 
+Wells, G. (1993). Reevaluating the IRF sequence: A proposal for the articulation of theories of activity 
+and discourse for the analysis of teaching and learning in the classroom. Linguistics and Education, 
+5(1), 1–37. https://doi.org/10.1016/S0898-5898(05)80001-4 
+ 
+Wilkinson, I., & Son, E. (2011). A Dialogic Turn in Research on Learning and Teaching to Comprehend. 
+In Handbook of Reading Research (Vol. 4, pp. 359–387). Routledge. 
+ 
+DECLARATION OF CONFLICT OF INTEREST 
+ 
+The authors declare that there is no conflict of interest with this article. 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.5052
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

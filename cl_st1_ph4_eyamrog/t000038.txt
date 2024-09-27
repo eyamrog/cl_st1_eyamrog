@@ -1,3 +1,16 @@
+Publication status: Not informed by the submitting author
+COVID-19 PERITRAUMATIC DISTRESS INDEX EXPLORATORY
+FACTOR ANALYSIS RESULTS USING A BRAZILIAN SAMPLE
+Alberto Abad
+https://doi.org/10.1590/SciELOPreprints.4310
+Submitted on: 2022-06-20
+Posted on: 2022-06-20 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+COVID-19 PERITRAUMATIC DISTRESS INDEX EXPLORATORY 
+FACTOR ANALYSIS RESULTS USING A BRAZILIAN SAMPLE 
+Alberto Abad1 
+Abstract 
 We conducted an exploratory factor analysis (EFA) to empirically derive the COVID-19 
 Peritraumatic Distress Index (CPDI) factor structure. Data (peri-traumatic stress during the 
 COVID-19). We used data from the Physical and Psychological Reactions as Health Indicators 
@@ -13,7 +26,54 @@ measured by Bartlett's sphericity (21116.6, (df =   276; p < 0.00001) and KMO = 
 overall assessment (UniCo = 0.918; ECV = 0.85), MIREAL = 0.200), suggested that CPDI can 
 be treated as a two-factor structure: first factor (internal stressors), second factor (external 
 stressors). Replication studies to verify further validity and reliability should be undertaken. 
-
+Keywords: Peritraumatic Distress Index; Stress; Factor Analysis. 
+ 
+ANÁLISE FATORIAL DO ÍNDICE DE ESTRESSE PERI-TRAUMÁTICO COVID-19 
+USANDO UMA AMOSTRA BRASILEIRA 
+Resumo 
+Realizamos uma análise fatorial exploratória (EFA) para derivar empiricamente a estrutura 
+fatorial do Índice de Estresse Peri-traumático COVID-19 (CPDI). Foram utilizados dados da 
+Pesquisa de Reações Físicas e Psicológicas como Indicadores de Saúde (Laboratório Virtual 
+de Neuro-psicometria Afetiva, Cognitiva e Comportamental – LAVINACC). A EFA foi 
+implementada usando um método de extração de Matriz Policórica e Robust Diagonally 
+Weighted Least Squares (RDWLS). Utilizou-se a Análise Paralela com permutação aleatória, 
+e como técnica de rotação, utilizou-se Promin. A adequação do modelo foi avaliada por meio 
+dos índices de ajuste Root Mean Square Error of Approach (RMSEA), Tucker-Lewis Index 
+(TLI) e Comparative Fit Index (CFI). O Índice de Comunalidade da Razão (RCI) relatado (RCI 
+= 0,998452) mostrou que ambas as sub-amostras têm uma quantidade semelhante de variância 
+comum. Os resultados mostraram adequação da matriz de correlação policórica medida pela 
+esfericidade de Bartlett (21116,6, (df = 276; p < 0,00001) e KMO = 0,939. A avaliação global 
+(UniCo = 0,918); (ECV = 0,85), MIREAL = 0,200), sugeriu que o CPDI pode ser tratada como 
+uma estrutura de dois fatores: primeiro fator (estressores internos), segundo fator (estressores 
+externos). Estudos de replicação para verificar mais validade e confiabilidade devem ser 
+realizados. 
+ 
+Palavras-Chave: Índice de Estresse Peri-traumático; Estresse; Análise Fatorial. 
+ 
+1 Ph.D. student at Juiz de fora Federal University of (UFJF). https://orcid.org/0000-0002-7748-6008, alberto.abad@ich.ufjf.br  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4310
+ANÁLISIS FACTORAL DEL ÍNDICE DE ESTRÉS PERITRAUMÁTICO COVID-19 
+UTILIZANDO UNA MUESTRA BRASILEÑA 
+Resumen 
+Realizamos un análisis factorial exploratoria (AFE) para derivar empíricamente la estructura 
+factorial del índice de estrés peritraumático (CPDI) de COVID-19. Se utilizaron datos de la 
+Investigación sobre Reacciones Físicas y Psicológicas como Indicadores de Salud (Laboratorio 
+Virtual de Neuropsicometría Afectiva, Cognitiva y Conductual – LAVINACC). El EFA se 
+implementó utilizando un método de extracción de matriz policórica y mínimos cuadrados 
+ponderados diagonalmente robustos (RDWLS). Se utilizó el Análisis Paralelo con permutación 
+aleatoria, y como técnica de rotación se utilizó Promin. La idoneidad del modelo se evaluó 
+utilizando los índices de ajuste Raíz del error cuadrático medio de aproximación (RMSEA), 
+Índice de Tucker-Lewis (TLI) e Índice de ajuste comparativo (CFI). El índice de similitud 
+(RCI) informado (RCI = 0.998452) mostró que ambas submuestras tienen una cantidad similar 
+de varianza común. Los resultados mostraron adecuación de la matriz de correlación policórica 
+medida por la esfericidad de Bartlett (21116.6, (df = 276; p < 0.00001) y KMO = 0.939. La 
+evaluación global (UniCo = 0.918); (ECV = 0.85), MIREAL = 0.200), sugirió que el CPDI 
+puede ser tratado como una estructura de dos factores: primer factor (estresores internos), 
+segundo factor (estresores externos). Se deben realizar estudios de replicación para verificar 
+una mayor validez y confiabilidad. 
+ 
+Palabras clave: Índice de Estrés Peritraumático; Estrés; Análisis factorial. 
+Introduction 
 The coronavirus (SARS-CoV-2) pandemic is one of the most significant health 
 challenges on a global scale this century. By 2022, two years after the outbreak in China in late 
 2019, there had been more than 62 million deaths worldwide from COVID-19. As no one can 
@@ -22,23 +82,23 @@ and anguish for a long time (Danese et al. 2020). Previous research has revealed
 and wide range of psychosocial impacts on people at the individual levels during the outbreak 
 of infection (Abad et al. 2020). People are likely to experience fear of falling sick or dying, 
 feelings of helplessness, and stigma (Wang et al. 2020). 
-
 Through 2020 and 2021, the Virtual Laboratory of Affective, Cognitive, and Behavioral 
 Neuropsychometry – LAVINACC – conducted the Physical and Psychological Reactions as 
 Health Indicators throughout the COVID-19 Pandemic research. Among other indicators, they 
 researched the peri-traumatic stress during the COVID-19 pandemics in Brazil using the Peri-
 Traumatic Distress Scale (CPDI) (Qiu et al. 2020) to a sample of 1844 participants (Abad et 
 al. 2020). 
-
 According to Qiu et al. (2020), CPDI inquired about the frequency of 22 factors (Anger; 
 Anxiety; Negative Mood; Irritableness; Exhaustion; Sluggishness; Helplessness; Avoidance; 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4310
 Indecisiveness; Sleeplessness; Poor Appetite; Distrust; Physical Symptoms; Bladder and 
 Bowel; Obsessive Behavior; Insecurity; Fear; Sadness; Spread Negative News; Social 
 function; Lack of Judgement; Attention Deficit). Shanghai Mental Health Center Psychiatrists 
 verified the CPDI content validity. The Cronbach’s alpha of CPDI is 0.95 (p<0.001) (Qiu et al. 
 2020). This research aims to empirically derive the factor structure of the COVID-19 
 Peritraumatic Distress Index (CPDI). 
- 
+Method 
+Research Design 
 Exploratory factor analysis (EFA) was conducted to empirically derive the factor 
 structure of the COVID-19 Peritraumatic Distress Index (CPDI) (Qiu et al. 2020). We used 
 FACTOR, a program developed to fit the EFA model using a variety of procedures (e g., 
@@ -46,7 +106,6 @@ number of factors/components to be retained, factor and component analysis, rota
 (Lorezo-Seva e Ferrando 2013). As a preliminary analysis, the program performed SOLOMON 
 (splitting a sample into subsamples in factor analysis) to assess if both subsamples have a 
 similar common variance amount (Lorenzo-Seva 2021). 
-
 We implemented EFA using a Polychoric Matrix and Robust Diagonally Weighted 
 Least Squares (RDWLS) extraction method. RDWLS is advised when the univariate 
 distributions of ordinal items are asymmetric) (Asparouhov e Muthén 2010). We used the 
@@ -54,18 +113,17 @@ Parallel Analysis with random permutation as an improved method to asses dimensi
 We based the decision of dimensionality on the percentage of common explained variance 
 (Timmerman e Lorenzo-Seva 2011). As a rotation technique, we used the Robust Promin 
 (Ferrando e Lorenzo-Seva 2018). 
-
 We evaluated the adequacy of the model using the Root Mean Square Error of 
 Approximation (RMSEA), Tucker-Lewis Index (TLI), and Comparative Fit Index (CFI) fit 
 indices. According to Brown (2015), RMSEA values must be less than 0.08, with confidence 
 intervals not reaching 0.10. TLI and CFI values must be above 0.90, or preferably 0.95. 
-
 Additionally, We use the H index to assess how well a set of items represents a 
 common factor – factor stability – (Ferrando e Lorenzo-Seva 2018). H values range from 0 to 
 1, showing the latent variable strength across different studies (High H values (> 0.80) suggest 
 a well-defined latent variable, low H values suggest an ill-defined latent variable) (Ferrando e 
 Lorenzo-Seva 2018). 
-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4310
+Results 
 As a preliminary approach – the sample was over 400 observations (n = 1844) – FACTOR 
 performed the SALOMON splitting method (Lorenzo-Seva 2021). The Ratio Communality 
 Index (RCI) reported (RCI = 0.998452) showed both subsamples have a similar amount of 
@@ -74,18 +132,214 @@ Seva 2021). We have a kurtosis (p < 0.05), which indicates our data do not have 
 distribution. Therefore, the Diagonally Weighted Least Squares (RDWLS) extraction method 
 is suitable for categorical data that do not have a normal distribution (Asparouhov e Muthén 
 2010). 
-
 Adequacy of the polychoric correlation matrix measured by Bartlett's sphericity 
 21116.6, (df =   276; p < 0.00001) and KMO = 0.939 tests suggested the interpretability of the 
 items' correlation matrix. Parallel analysis suggested two factors as being the most 
 representative of the data (See Table 1). 
-
+Table 1. 
+Parallel Analysis (PA) based on minimum rank factor analysis 
+Factors 
+Real-data % of the variance 
+95 percentiles of random % of the 
+variance 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+44.6815** 
+8.7260* 
+6.4460 
+5.6986 
+4.8193 
+3.8661 
+3.4960 
+3.2895 
+2.6277 
+2.3598 
+2.1117 
+1.9076 
+1.6978 
+1.6292 
+1.4929 
+1.3169 
+1.0860 
+0.8568 
+0.7091 
+0.5451 
+0.4249 
+0.1339 
+0.0776 
+9.4304 
+8.8866 
+8.4607 
+7.9157 
+7.3931 
+7.0071 
+6.6178 
+6.2075 
+5.8782 
+5.5255 
+5.1638 
+4.8240 
+4.4734 
+4.1910 
+3.8892 
+3.5129 
+3.2503 
+2.8530 
+2.5205 
+2.1513 
+1.7944 
+1.3336 
+0.9004 
+Note: *The number of factors to retain is one, as these factors from real data have a higher % explained 
+variance than random data. **Advised number of dimensions when 95 percentiles are considered: 2 
 We present item factor loadings in Table 2. We also report the estimates of replicability 
 of factor scores (H-index). This index evaluates how well a set of items represents a common 
 factor (Ferrando e Lorenzo-Seva 2018). High H values (>.80) suggest a well-defined latent 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4310
 variable, which is more likely to be stable across studies; low H values indicate a poorly defined 
 latent variable, which is likely to change across studies (Ferrando e Lorenzo-Seva 2018). 
-
+Table 2. 
+Factor Structure of COVID-19 Peritraumatic Distress Index (CPDI) 
+ 
+ITEM 
+FACTOR 01 
+FACTOR 02 
+1 
+Compared to usual, I feel more nervous and anxious 
+0.702 
+ 
+2 
+I feel insecure and bought a lot of masks, medications, sanitizer, 
+gloves and/or other home supplies 
+ 
+0.570 
+3 
+I can’t stop myself from imagining myself or my family being 
+infected and feel terrified and anxious about it 
+ 
+0.599 
+4 
+I feel empty and helpless no matter what I do 
+0.653 
+ 
+5 
+I feel sympathetic to the COVID-19 patients and their families. I 
+feel sad about them. 
+ 
+ 
+6 
+I feel helpless and angry about people around me, governors, and 
+media 
+ 
+ 
+7 
+I am losing faith in the people around me 
+0.340 
+ 
+8 
+I collect information about COVID-19 all day. Even if it’s not 
+necessary, I can’t stop myself 
+ 
+0.744 
+9 
+I will believe the COVID-19 information from all sources without 
+any evaluation 
+ 
+0.665 
+10 
+I would rather believe in negative news about COVID-19 and be 
+skeptical about the good news 
+ 
+0.532 
+11 
+I am constantly sharing news about COVID-19(mostly negative 
+news) 
+ 
+0.779 
+12 
+I avoid watching COVID-19 news, since I am too scared to do so 
+0.374 
+ 
+13 
+I am more irritable and have frequent conflicts with my family 
+0.623 
+ 
+14 
+I feel tired and sometimes even exhausted 
+0.881 
+ 
+15 
+Due to feelings of anxiety, my reactions are becoming sluggish. 
+0.959 
+ 
+16 
+I find it hard to concentrate 
+1.102 
+ 
+17 
+I find it hard to make any decisions 
+1.055 
+ 
+18 
+During this COVID-19 period, I often feel dizzy or have back pain 
+and chest distress 
+0.594 
+ 
+19 
+During this COVID-19 period, I often feel stomach pain, bloating, 
+and other stomach discomfort 
+0.601 
+ 
+20 
+I feel uncomfortable when communicating with others 
+0.553 
+ 
+21 
+Recently, I rarely talk to my family 
+ 
+ 
+22 
+I cannot sleep well. I always dream about myself or my family 
+being infected by COVID-19 
+ 
+0.498 
+23 
+I lost my appetite 
+0.456 
+ 
+24 
+I have constipation or frequent urination 
+0.427 
+ 
+ 
+H-Latent   
+0.964       
+0.871 
+ 
+H-Observed    
+0.949          
+0.826 
 Unidimensional Congruence (UniCo = 0.918) suggested data cannot be treated as 
 essentially unidimensional (Ferrando e Lorenzo-Seva 2018). Nevertheless, Explained 
 Common Variance (ECV = 0.85) was within the limit, as values larger than 0.85 suggests that 
@@ -93,21 +347,20 @@ data can be treated as essentially unidimensional. Finally, the Mean of Item Res
 Loadings (MIREAL) value (MIREAL = 0.200), lower than 0.300 suggests that data can be 
 treated as essentially unidimensional. Additionally, the adjustment indexes which assess 
 whether the obtained factor structure is suitable for the database show strong criteria indexes 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4310
 attesting to the plausibility of this model:  Root Mean Square Error of Approximation (RMSEA 
 = 0.067); Non-Normed Fit Index (NNFI = 0.976). 
-
 The Measure of Sampling Adequacy (MSA) proposed to remove one item (21 Recently, 
 I rarely talk to my family) (MSA = 0.55089) (Lorenzo e Ferrando 2021). Nevertheless, Pratt's 
 relative importance indicator that measures how much each of the factors explains the item’s 
 variance showed item #21 is significant for the first factor, therefore the decision was to retain 
 the item. 
-
 The quality and Effectiveness of Factor Score estimates  (Ferrando e Lorenzo-Seva 
 2018) showed: Factor Determinacy Index (FDI = 0.982) for factor 1, and (FDI = 0.933) for 
 factor 2; ORION marginal reliability showed (ORION =  0.964) for factor 1 and (ORION = 
 0.871) for factor 2 as factorial score reliability indicators. Finally, the Sensitivity ratio (SR) 
 score was for the first factor (SR = 5.200) and (SR = 2.597) for the second factor. 
-
+Discussion 
 Our results point out a two-factor structure of the CPDI (Qiu et al. 2020) that could be 
 congruent if we consider stress as the physiological or psychological response to internal or 
 external stressors (VandenBos 2015). The first factor, internal stressors (items 1, 4, 7, 12, 13, 
@@ -118,6 +371,85 @@ external stressors (items 2, 3, 8, 9, 10, 11, and 22) [e g., any event, force, o
 results in physical or emotional stress (VandenBos 2015)]. Probably, it is advisable to 
 reformulate items (5, 6, and 21). Since the present findings are preliminary, further replication 
 studies for validity and reliability should be conducted. 
-
+Data Availability 
 The datasets generated during the current study are available from the corresponding 
 author on reasonable request. 
+Conflict of Interest 
+We have no conflicts of interest to disclose. 
+References 
+Abad, Alberto, Juliana Almeida da Silva, L. E. P. de Paiva Teixeira, Mayra Antonelli-Ponti, Sandra 
+Bastos, C. H. C. Mármora, L. A. M. Campos, Scheila Paiva, Renato Leonardo de Freitas, e José 
+Aparecido da Silva. 2020. “Evaluation of Fear and Peritraumatic Distress during COVID-19 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4310
+Pandemic 
+in 
+Brazil”. 
+Advances 
+in 
+Infectious 
+Diseases 
+10(03):184–94. 
+doi: 
+10.4236/aid.2020.103019. 
+Asparouhov, Tihomir, e Bengt Muthén. 2010. “Simple second order chi-square correction”. Mplus 
+technical appendix 1–8. 
+Brown, Timothy A. 2015. Confirmatory factor analysis for applied research. Second edition. New 
+York ; London: The Guilford Press. 
+Danese, Silvio, Bruce Sands, Siew C. Ng, e Laurent Peyrin-Biroulet. 2020. “The Day after COVID-19 
+in IBD: How to Go Back to ‘Normal’”. Nature Reviews Gastroenterology & Hepatology 
+17(8):441–43. doi: 10.1038/s41575-020-0322-8. 
+Ferrando, Pere J., e Urbano Lorenzo-Seva. 2018. “Assessing the Quality and Appropriateness of Factor 
+Solutions and Factor Score Estimates in Exploratory Item Factor Analysis”. Educational and 
+Psychological Measurement 78(5):762–80. doi: 10.1177/0013164417719308. 
+Lorenzo, Urbano, e Pere J. Ferrando. 2021. “MSA: the forgotten index for identifying inappropriate 
+items before computing exploratory item factor analysis”. Methodology 17(4):296–306. 
+Lorenzo-Seva, Urbano. 2021. “SOLOMON: A Method for Splitting a Sample into Equivalent 
+Subsamples in Factor Analysis”. Behavior Research Methods. doi: 10.3758/s13428-021-
+01750-y. 
+Lorezo-Seva, Urbano, e Pere Joan Ferrando. 2013. “Manual Of The Program”. 
+Qiu, Jianyin, Bin Shen, Min Zhao, Zhen Wang, Bin Xie, e Yifeng Xu. 2020. “A Nationwide Survey of 
+Psychological Distress among Chinese People in the COVID-19 Epidemic: Implications and 
+Policy Recommendations”. General Psychiatry 33(2):e100213. doi: 10.1136/gpsych-2020-
+100213. 
+Reckase, Mark D. 1985. “The Difficulty of Test Items That Measure More Than One Ability”. Applied 
+Psychological Measurement 9(4):401–12. doi: 10.1177/014662168500900409. 
+Timmerman, Marieke E., e Urbano Lorenzo-Seva. 2011. “Dimensionality Assessment of Ordered 
+Polytomous Items with Parallel Analysis.” Psychological Methods 16(2):209–20. doi: 
+10.1037/a0023353. 
+VandenBos, Gary R., org. 2015. APA Dictionary of Psychology (2nd Ed.). Washington: American 
+Psychological Association. 
+Wang, Cuiyan, Riyu Pan, Xiaoyang Wan, Yilin Tan, Linkang Xu, Cyrus S. Ho, e Roger C. Ho. 2020. 
+“Immediate Psychological Responses and Associated Factors during the Initial Stage of the 
+2019 Coronavirus Disease (COVID-19) Epidemic among the General Population in China”. 
+International Journal of Environmental Research and Public Health 17(5):1729. doi: 
+10.3390/ijerph17051729. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4310
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

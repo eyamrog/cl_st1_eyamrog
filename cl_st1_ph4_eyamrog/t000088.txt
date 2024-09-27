@@ -1,22 +1,92 @@
+Status: 
+Clinical parameters of individuals with periodontitis and
+Diabetes Mellitus reveals signatures of the minority microbiota
+in saliva
+Débora Côrtes, Jéssica de Cena, Letícia Marconatto, Maria do Carmo Guimarães, Daniela Grisi,
+Laudimar de Oliveira, Loise Salles, Luiz Gustavo Borges, Nailê Damé-Teixeira
+https://doi.org/10.1590/SciELOPreprints.3093
+Submitted on: 2021-10-20
+Posted on: 2021-10-22 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Clinical parameters of individuals with periodontitis and Diabetes 
+Mellitus reveals signatures of the minority microbiota in saliva 
+ 
+Débora Azevedo Côrtesb, Jéssica Alves de Cenaa, Letícia Marconattoc, Maria do Carmo 
+Machado Guimarãesa, Daniela Corrêa Grisia, Laudimar Alves de Oliveiraa, Loise Pedrosa 
+Sallesa, Luiz Gustavo dos Anjos Borgesc, Naile Damé-Teixeiraa* 
+ 
+a Department of Dentistry, School of Health Sciences, University of Brasília, Brasília, DF, Brazil; 
+b Department of Cell Biology, Institute of Biological Sciences, University of Brasília, Brasília, DF, Brazil; 
+c Institute of Petroleum and Natural Resources, Pontifical Catholic University of Rio Grande do Sul, Porto 
+Alegre, RS, Brazil. 
+ 
+ 
+*Correspondence:  
+Dr. Naile Damé-Teixeira (she/her): nailedame@unb.br 
+ 
+ORCID iDs: 
+Débora Azevedo Côrtes: 0000-0003-0133-6836 
+Jéssica Alves de Cena: 0000-0001-6442-5639 
+Letícia Marconatto: 0000-0002-5578-5920 
+Maria do Carmo Machado Guimarães: 0000-0003-0728-2461 
+Daniela Corrêa Grisi: 0000-0002-2466-8190 
+Laudimar Alves de Oliveira: 0000-0001-7959-7150 
+Loise Pedrosa Salles: 0000-0003-1061-7963 
+Luiz Gustavo dos Anjos Borges: 0000-0002-6987-0309 
+Naile Damé-Teixeira: 0000-0002-0490-0036 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+2 
+ 
+Abstract 
 Aims: This pilot study aimed to describe the majority and minority microbiota of saliva from individuals with 
 advanced periodontitis, with or without type 2 diabetes mellitus (T2D), correlating the relative abundance of 
 microorganisms with clinical parameters. 
-
 Material/Methods: Six individuals diagnosed with periodontitis were included and classified according to their 
 diagnosis of T2D. Salivary pH, number of teeth with active caries lesions, number of remaining teeth, 
 periodontal and glycemic parameters were evaluated. V4 region amplicons of the 16S rRNA from salivary 
 DNA were sequenced at Ion PGM. Amplicon sequence variants (ASVs) were compared according to the 
 clinical parameters. 
-
 Results: Correlation showed eight low-abundant bacteria significantly correlated with co-variables, either 
 positively or negatively. The periodontitis-associated bacteria followed the increasing pH and number of 
 remaining teeth.  
-
 Conclusions: This survey provided potential minority microbiota correlations with clinical parameters, such 
 as number of remaining teeth, FBG, and salivary pH. The ubiquity of some low abundant microorganisms in 
 individuals with advanced periodontitis, exposed or not to type 2 DM, can reveal microbial signatures not yet 
 explored. 
-
+ 
+Keywords: periodontal disease; type 2 diabetes; low abundance microorganisms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+3 
+ 
+1. INTRODUCTION 
 Changes in the salivary flow and composition are among the most critical factors for the oral 
 microbiota shift. The balance of oral microorganisms can be disrupted, prompting oral diseases due 
 to a dysbiosis (1). The salivary secretion is strongly affected by age, medications and hypoglycemia 
@@ -26,7 +96,6 @@ has been subject to considerable discussion (4, 5). Extensive research has shown
 only to salivary dysfunctions in terms of flow rates (hyposalivation) (3, 6-9), but also to significant 
 changes in the composition of saliva that is secreted by the salivary glands, increasing the salivary 
 glucose levels (10). 
-
 There is strong evidence demonstrating that glycemic control plays a crucial role in regulating 
 the periodontal-associated subgingival biofilm (11-14). A potential impact of DM on the salivary 
 microbiome has also been investigated (15-18). Correlations of the salivary microbiome with 
@@ -38,7 +107,6 @@ the identification of most abundant microbiota associated with health or disease
 abundant microbiota. We believe that this strategy could cause a misunderstanding of whole 
 environment as metabolic functions exerted by low-abundant microorganisms can be linked the 
 dysbiotic microhabitats (20).  
-
 Since the salivary microbiome can reflect the entire oral microenvironment, saliva can be a 
 more representative sample for searching the shifts to dysbiosis. By studying the salivary fluid of 
 individuals with DM, oral manifestations of DM other than periodontitis affect the microbial 
@@ -49,20 +117,24 @@ showing that the higher the salivary glucose the lower the pH of the saliva (21)
 known energy source for many oral bacteria, changes in its concentration may have a pivotal role in 
 the salivary microbiome leading to reduced overall bacterial diversity and significant changes in the 
 relative bacterial frequencies, favouring acidic bacterial species.  
-
 This pilot study aimed to describe the majority and minority microbiota of saliva from 
 individuals with advanced periodontitis, with or without type 2 DM (T2D), correlating the relative 
 abundance of organisms with the salivary pH, the number of teeth with active caries lesions, the 
 number of remaining teeth and the periodontal and glycemic parameters.              
-
+ 
+2. MATERIAL AND METHODS 
+2.1. Ethics 
 This study was approved by the Research Ethics Committee of the School of Health Sciences 
 of the University of Brasília (process number 87962818.4.0000.0030) in accordance with the 
 declaration of Helsinki. All patients signed a formal consent form and received basic dental treatment. 
-
+2.2. Study Design, Setting and Participants  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+4 
+ 
 A pilot study enrolled six individuals diagnosed with periodontitis according to a New 
 Classification of Periodontal Disease (22) at the “Diabetes dental clinic” at the University Hospital 
 of Brasília. Patients were recruited and the data collected from August 2018 to March 2019.  
-
 To be included, individuals should have age ≥30 years and at least two teeth with 
 interproximal insertion loss ≥ 3mm. Exclusion criteria comprised DM complications and severe 
 systemic comorbidities; transplanted patients; a positive history of epilepsy; a history of radiotherapy 
@@ -72,17 +144,16 @@ other oral hypoglycemic medications. Six patients with periodontal disease were 
 present study and were divided according to the medical condition, as follows: three patients were 
 not previously diagnosed with DM (P21, P10 e P2) and three had been previously diagnosed with 
 DM (DMP14, DMP27 e DMP33).  
-
+2.3. Clinical examination 
 Trained examiners evaluated the periodontal status. The periodontal parameters such as 
 probing depth, clinical attachment loss and bleeding on probing (BOP) were recorded using a 
 Williams-type periodontal probe (Hu-Friedy MFG. Co. Inc., Chicago, IL, USA). The number of 
 remaining teeth was counted by visual inspection. The number of teeth with either non-cavitated or 
 cavitated caries lesions was also recorded, including the classification of lesion activity (23) by 
 trained and calibrated examiners (weighted Kappa>0.7). 
-
 Participants were also tested regarding their fasting blood glucose (FBG) levels within three 
 months before salivary collection (Sabin laboratories, Brasília, Brazil). 
-
+2.4. Salivary collection 
 Stimulated and passive salivary flow collects were performed in the morning (8-10 am) to 
 minimize the effect of circadian rhythms. Individuals were asked to refrain from drinking, eating, and 
 performing physical activities at least two hours before salivary collection (17). The collection time 
@@ -90,23 +161,26 @@ by passive drooling was 5 minutes. After collection, the unstimulated saliva was
 into sterile DNAse and RNAse free microtubes and stored at -20oC until further DNA extraction and 
 sequencing. The suspension was then centrifuged for 30 seconds at 10,000 rpm and the supernatant 
 discarded. 
-
+2.5. Salivary flow, pH, and buffer capacity assays 
 The salivary pH and buffer capacity were tested in the stimulated saliva. After a minute of 
 chewing a rubber device, the total volume of stimulated saliva was collected for 5 minutes by passive 
 drool to a plastic container. The pH was checked using an indicator strip. Buffer capacity was assessed 
 after adding 3mL of 0.005M hydrochloric acids for every 1mL of stimulated saliva. After 2 minutes, 
 the pH was measured, considering a low buffering capacity when the pH values were less than 4.0. 
-
+2.6. Salivary DNA extraction and PCR 
 Extraction of the total DNA was performed following the protocol established by Smalla et 
 al. (24). The protocol of the DNA amplification of the 16S rRNA gene using the universal primers 
 F515/R806 was described elsewhere (25). Briefly, approximately 10ng of genomic DNA was added 
 into a 50-μL PCR mixture, including a 1U Platinum Taq DNA polymerase (Tm 52 °C).   
-
+2.7. Amplicon sequencing and bioinformatics 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+5 
+ 
 After the amplicons were purified using Agencount AMPure Beads (Beckman Coulter), a 
 library construction was performed as described in the Ion Plus Fragment Library from an 
 initial amount of 100ng of DNA. Sequencing was conducted on an Ion PGM System (Thermo Fisher) 
 using an Ion 316 chip, following the manufacturer’s instructions. 
-
 The 16S rRNA gene reads were submitted to the DADA2 (26) for a single read dataset of 
 amplicon sequence variants (ASVs), a more stringent pipeline to identify low abundant 
 microorganisms. Reads were filtered by quality and size, and error rates were estimated. Singletons 
@@ -114,7 +188,7 @@ were identified and removed during dereplication. Chimeras were removed, and tax
 assigned using the Silva v.132 database (27). ASVs assigned to Eukaryote, Chloroplast, or 
 Mitochondria were removed for further analysis. The sequences were deposited at the National 
 Biotechnology Information Center (NCBI) under the BioProject PRJNA558499. 
-
+2.8. Data analysis 
 Mann-Whitney test was applied to compare clinical parameters between groups after 
 confirming the non-parametric condition of the data (SPSS software version 25.0 for Mac; SPSS Inc., 
 Chicago, IL, USA). The values per ASVs were summed per phyla and then the average was calculated 
@@ -124,13 +198,14 @@ proportion of sites with BOP, and proportion of insertion loss >5mm.  Spearman c
 to compare ASVs relative abundance (RA) with these metadata. The saliva microbiome of individuals 
 was also grouped according to clinical characteristics for a descriptive analysis. Mean and standard 
 deviation were calculated for the clinical variables. The significance level considered was p <0.05. 
-
+ 
+3. RESULTS 
+3.1. Clinical characteristics 
 According to the extension of periodontal disease, all patients had generalized periodontitis, 
 except the individual DMP33 that presented localized periodontitis. Two patients (DMP27 and P10) 
 were diagnosed as periodontitis stage IV and four patients (DMP14, P2, P21, DMP33) as periodontitis 
 stage III. Only one individual diagnosed with DM presented uncontrolled levels of blood glucose 
 (369 ml/dl). Subjects without a diagnosis of DM had a borderline FBG level (~100 ml/dl). 
-
 Individuals with both periodontitis and DM (named as DMP group) were older than those 
 presenting periodontitis and no DM (named as P group). The salivary pH in individuals with the 
 diagnosis of DM ranged from pH=7-8, while in P it ranged from pH=6-7. The number of remaining 
@@ -144,9 +219,12 @@ and combined into 117 OTUs, of which two out of them were assigned to archaea. F
 the relative abundance of the majority microbiota (ASVs ≥1%), representing more than 99% of the 
 total sequences. At the phylum level (1A), the predominance of Firmicutes was observed in both 
 groups; however, saliva of individuals with a diagnosis of DM (DMP group) were enriched with 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+6 
+ 
 Bacteroidetes and Proteobacteria. In individuals with periodontitis but no DM, a tendency of 
 enrichment of Actinobacteria, Fusobacteria and Spirochaetes was observed.  
-
 At the genus level (or respective ASV) (1B), the majority microbiota represented 93-94% of 
 the whole microbiota in both groups. The salivary microbiome was dominated by the genus 
 Streptococcus, representing ~30% of the total microbiota in both groups. The genera Fusobacterium 
@@ -158,7 +236,6 @@ of DM: >1.5% in all DMP samples (average=2.8%), while in all the P samples, it w
 of 5.3% in DMP and only <0.3% across all P group samples. Conversely, Treponema and Tannerella, 
 both periodontitis-associated genera, presented low abundance in the DMP group (average 0.03 and 
 0.1%, respectively), but higher in the P group (3% and 0.7%, respectively). 
-
 As we considered the ASV, it was possible to analyse the minority microbiota (<1%), 
 representing 0.6 and 0.8% of the total relative abundance in the DMP and P, respectively, and 
 dominated by phylum Epsilonbacteraeota (Figure 1C). Saliva of the P group was enriched with 
@@ -177,14 +254,13 @@ Rikenellaceae
 Lentimicrobiaceae (≥0.05%), Fastidiosipila (≥0.08%), Alishewanella (≥0.07%), unnamed CK06-06-
 Mud-MAS4B-21 (≥0.05%). Solobacterium was found in all DMP samples, with at least 0.1% of 
 relative abundance. 
-
+3.3 Correlation of the microbial composition and the clinical parameters 
 To better explore these findings from the descriptive analysis, a Spearman correlation was 
 performed to compare the clinical parameters and the RA of microorganisms (Figure 2). Eight ASVs 
 were significantly correlated to clinical variables, either positively or negatively. Interestingly, the 
 pattern observed when the variables were grouped was not observed here. Neither the salivary pH 
 nor the presence of lesions with caries activity presented significant correlations with the microbial 
 composition.  
-
 FBG was positively correlated to Absconditabacteriales (SR1) and Caldicoprobacter and 
 negatively correlated to Leptotrichia, Parviromonas, and Balneolaceae; unnamed CK06-06-Mud-
 MAS4B-21. Abiotrophia was negative, while Johnsonella was positively correlated to the number of 
@@ -192,12 +268,16 @@ remaining teeth. The clinical attachment loss >5mm was positively correlated to 
 abundance of the Balneolaceae CK06-06-Mud-MAS4B-21 and Fastidiosipila. Interestingly, none 
 comprised the majority microbiota, but Leptotrichia (3 out of 6 samples with 1%), 
 Absconditabacteriales (SR1) (a single sample >1%) and Parviromonas (2 out of 6 samples with 1%). 
-
 The CCA triplot showed a contrary direction of the salivary pH and the FBG and the BOP 
 (referred to as bleeding index in the figure) and the clinical attachment loss >5mm. The periodontitis-
 associated bacteria, Tannarela, Treponema, and Porphyromonas, followed the increasing pH and 
 number of remaining teeth (Figure 3). 
-
+ 
+4. DISCUSSION 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+7 
+ 
 To gain insight into the correlation of the salivary microbiome and clinical parameters of 
 patients with periodontitis with or without DM, this pilot study analyzing the abundance of microbial 
 ASVs commonly found in the oral cavity sites using a next-generation sequencing approach. A core 
@@ -211,7 +291,6 @@ presence of DM. The presence of an inflammatory process in the periodontal sites
 fluctuation, the blood glucose level and the number of remaining teeth reflected intricate competition 
 patterns among low abundance microbial populations, as significant correlations were observed 
 between clinical parameters and ASVs representing the minority microbiota.  
-
 There has been a renewed interest in the influence of minority organisms in the microbiome 
 accompanying dysbiosis, as primary functions can be assigned to minor members in the community. 
 Studies of the minority microbiome may reveal unique signatures associated with both periodontal 
@@ -227,7 +306,6 @@ metabolism can influence (or be impacted by) the transition from health to disea
 none of the organisms correlated with clinical parameters comprised the majority microbiota, but 
 Leptotrichia (3 out of 6 samples with 1%), SR1 (a single sample >1%) and Parviromonas (2 out of 6 
 samples with 1%).  
-
 The abnormal blood sugar status can disrupt homeostasis, providing a more profound change 
 on the microbiota profile particularly when combined with periodontitis (19). In a recent study, 
 Matsha et al. detected nine phyla in plaque samples of individuals with DM and periodontitis, namely 
@@ -245,11 +323,14 @@ Johnsonella was positively correlated to the number of remaining teeth (Figure 2
 power to confirm those correlations, more studies are necessary focusing on the salivary minority 
 microbiota. We project that it is necessary to recruit a minimum sample size of 14 to detect a 
 correlation of 0.7, power of 80%, and alpha of 5% (Fisher’s Z test). 
-
 What stands out in the patients’ clinical parameters is the slightly lower salivary pH in the 
 presence of DM. The superior amount of glucose in the saliva and the crevicular gingival fluid 
 increases the acidogenicity of bacteria (21). It can be accountable for reducing the pH, which can 
 contribute to the proliferation of fermenting organisms and metabolizing acids. Yang et al., for 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+8 
+ 
 example, observed an enrichment of Lactobacillus fermentum in the saliva of patients with DM that 
 decreased after DM treatment (18). Furthermore, important pH regulating mechanisms are lactate 
 metabolism that facilitates the pH neutralization, producing propionate, acetate, CO2 and H2; the 
@@ -266,7 +347,6 @@ responsible for a pH of recovery linked to Veillonella, recognizing this species
 organism (31). Furthermore, these health-related organisms in periodontal sites (32) supplies through 
 its metabolism the menadione (vitamin K)  indispensable for the development of Porphyromonas 
 gingivalis and Prevotella intermedia (33).   
-
 The abundance of bacterial genera found in the saliva could be impacted by the abundance 
 and composition of bacteria attached to the dental surfaces since all patients included in the presented 
 study were diagnosed with periodontitis regardless of their systemic condition. These results reinforce 
@@ -279,7 +359,6 @@ Bacteroidetes and Firmicutes in comparison with healthy individuals. In this pil
 Bacterioidetes and Proteobacacteria were also enriched in the salivary microbiome of DMP, 
 somehow reflecting the pattern the gut microbiome (34), and this can suggest a correlation of the gut 
 and oral microbiome that should be investigated.  
-
 Here, all participants presented high degrees of periodontitis. The clinical inflammatory 
 parameter BOP increasing was related to the enrichment of Actinobacteria and a lower BOP to 
 Spirochaetes. Sun et al. also demonstrated that periodontal parameters were positively correlated with 
@@ -291,25 +370,368 @@ P. gingivalis can orchestrate the inflammophilic microbiota promoting the imbala
 environment. Following the concepts of the ‘polymicrobial synergy and dysbiosis’ (PSD) model (35), 
 what means that those microorganisms do not always lead to converting a symbiotic microbiota to a 
 dysbiotic one but are benefiting from it and help maintain it.  
-
 Based on the implicating evidence from a small sample size, caution must be applied. Besides, 
 further studies are needed to confirm the impact of controlled/uncontrolled DM. Lastly, it is always 
 important to emphasize the choice of primer in the conception of sample diversity, although the V4 
 hypervariable region is traditionally selected due to the lower error rate and adequate information for 
 taxonomic classification of microbial communities. 
-
 In conclusion, these preliminary results possibly suggest that clinical parameters can be 
 reflected in the minority salivary microbiome of patients with T2D and periodontitis. Results 
 suggested putative signatures of the number of the low-abundance microbiota correlated with the 
 number of remaining teeth, FBG, and salivary pH. It is indispensable to perform more studies with 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+9 
+ 
 larger sample sizes to understand these patterns of oral manifestations of DM for effective prevention 
 and treatment strategies. This pilot study can be helpful for further research planning on salivary 
 microbiome considering the low abundant species, as well as supporting research for further 
 manipulate oral microbiota in clinic for medical benefit. Once confirmed, low abundant 
 microorganisms correlated to clinical parameters can be a potential strategic therapeutic target. 
-
+ 
+ACKNOWLEDGMENTS 
 Dr. Adriana Giongo, Prof. Cynthia Kyaw and Dr. Aline Belmok are acknowledged for their support. 
 Luiz Gustavo dos A. Borges thanks PEGA/PUCRS. We thank the High-Performance Computing Lab 
 (LAD/PUCRS) fellows for allowing access to run the high-throughput computational analyses. The 
 authors are grateful to the Scientific Initiation Program from the Brazilian National Council for 
 Scientific and Technological Development (CNPq). 
+ 
+AUTHORS CONTRIBUTIONS 
+DAC and NDT contributed to conception, design, data acquisition and analysis, drafted and critically 
+revised the manuscript; JAC, DCG, MCMG, LAO and LPS contributed to data acquisition and 
+analysis, and critically revised the manuscript; LM and LGAB contributed to data acquisition, data 
+analysis, figure creation, and critically revised the manuscript. All authors gave final approval and 
+agreed to be accountable for all aspects of the work. 
+ 
+DATA STATEMENT 
+https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA558499  
+ 
+DECLARATIONS OF INTEREST 
+The authors have no conflicts of interest to declare. 
+ 
+FUNDING 
+The authors certify that this project was partially funded by the Research Support Foundation of the 
+Federal District, (FAP-DF) (process no. 16991.78.45532.26042017). Dr. Nailê Dame-Teixeira was 
+supported by UK’s Academy of Medical Sciences Newton International Fellowship (Grant no. 
+NIF/R5/242). The authors declare that the research was conducted in the absence of any commercial 
+or financial relationships that could be construed as a potential conflict of interest. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+10 
+ 
+5. REFERENCES 
+1. 
+Marsh PD. Are dental diseases examples of ecological catastrophes? Microbiology. 2003;149(Pt 
+2):279-94. 
+2. 
+Verhulst MJL, Loos BG, Gerdes VEA, Teeuw WJ. Evaluating All Potential Oral Complications of 
+Diabetes Mellitus. Front Endocrinol (Lausanne). 2019;10:56. 
+3. 
+Mata AD, Marques D, Rocha S, Francisco H, Santos C, Mesquita MF, et al. Effects of diabetes 
+mellitus on salivary secretion and its composition in the human. Mol Cell Biochem. 2004;261(1-
+2):137-42. 
+4. 
+Mauri-Obradors E, Estrugo-Devesa A, Jané-Salas E, Viñas M, López-López J. Oral manifestations 
+of Diabetes Mellitus. A systematic review. Med Oral Patol Oral Cir Bucal. 2017;22(5):e586-e94. 
+5. 
+de Lima AKA, Amorim Dos Santos J, Stefani CM, Almeida de Lima A, Damé-Teixeira N. Diabetes 
+mellitus and poor glycemic control increase the occurrence of coronal and root caries: a systematic 
+review and meta-analysis. Clin Oral Investig. 2020;24(11):3801-12. 
+6. 
+Bernardi MJ, Reis A, Loguercio AD, Kehrig R, Leite MF, Nicolau J. Study of the buffering capacity, 
+pH and salivary flow rate in type 2 well-controlled and poorly controlled diabetic patients. Oral Health 
+Prev Dent. 2007;5(1):73-8. 
+7. 
+Kogawa EM, Grisi DC, Falcão DP, Amorim IA, Rezende TM, da Silva IC, et al. Impact of glycemic 
+control on oral health status in type 2 diabetes individuals and its association with salivary and plasma 
+levels of chromogranin A. Arch Oral Biol. 2016;62:10-9. 
+8. 
+Navea Aguilera C, Guijarro de Armas MG, Monereo Megías S, Merino Viveros M, Torán Ranero 
+C. The relationship between xerostomia and diabetes mellitus: a little known complication. Endocrinol 
+Nutr. 2015;62(1):45-6. 
+9. 
+Aitken-Saavedra J, Rojas-Alcayaga G, Maturana-Ramírez A, Escobar-Álvarez A, Cortes-Coloma 
+A, Reyes-Rojas M, et al. Salivary gland dysfunction markers in type 2 diabetes mellitus patients. J Clin 
+Exp Dent. 2015;7(4):e501-5. 
+10. 
+Naseri R, Mozaffari HR, Ramezani M, Sadeghi M. Effect of diabetes mellitus type 2 on salivary 
+glucose, immunoglobulin A, total protein, and amylase levels in adults: A systematic review and meta-
+analysis of case-control studies. J Res Med Sci. 2018;23:89. 
+11. 
+MIRANDA TS, Magda F, Belén R-V, Juliana P-CP, Silva MS, Mendes DP. Influence of glycemic 
+control on the levels of subgingival periodontal pathogens in patients with generalized chronic 
+periodontitis and type 2 diabetes. J. Appl. Oral Sci; 2017. p. 82-9. 
+12. 
+Longo PL, Dabdoub S, Kumar P, Artese HPC, Dib SA, Romito GA, et al. Glycaemic status affects 
+the subgingival microbiome of diabetic patients. J Clin Periodontol. 2018;45(8):932-40. 
+13. 
+Matsha TE, Prince Y, Davids S, Chikte U, Erasmus RT, Kengne AP, et al. Oral Microbiome 
+Signatures in Diabetes Mellitus and Periodontal Disease. J Dent Res. 2020;99(6):658-65. 
+14. 
+Kumar PS, Monteiro MF, Dabdoub SM, Miranda GL, Casati MZ, Ribeiro FV, et al. Subgingival 
+Host-Microbial Interactions in Hyperglycemic Individuals. J Dent Res. 2020;99(6):650-7. 
+15. 
+Sabharwal A, Ganley K, Miecznikowski JC, Haase EM, Barnes V, Scannapieco FA. The salivary 
+microbiome of diabetic and non-diabetic adults with periodontal disease. J Periodontol. 
+2019;90(1):26-34. 
+16. 
+Saeb ATM, Al-Rubeaan KA, Aldosary K, Udaya Raja GK, Mani B, Abouelhoda M, et al. Relative 
+reduction of biological and phylogenetic diversity of the oral microbiota of diabetes and pre-diabetes 
+patients. Microb Pathog. 2019;128:215-29. 
+17. 
+Ogawa T, Honda-Ogawa M, Ikebe K, Notomi Y, Iwamoto Y, Shirobayashi I, et al. 
+Characterizations of oral microbiota in elderly nursing home residents with diabetes. J Oral Sci. 
+2017;59(4):549-55. 
+18. 
+Yang Y, Liu S, Wang Y, Wang Z, Ding W, Sun X, et al. Changes of saliva microbiota in the onset 
+and after the treatment of diabetes in patients with periodontitis. Aging (Albany NY). 
+2020;12(13):13090-114. 
+19. 
+Sun X, Li M, Xia L, Fang Z, Yu S, Gao J, et al. Alteration of salivary microbiome in periodontitis 
+with or without type-2 diabetes mellitus and metformin treatment. Sci Rep. 2020;10(1):15363. 
+20. 
+Cena JAd, Zhang J, Deng D, Damé-Teixeira N, Do T. Low-Abundant Microorganisms: The Human 
+Microbiome’s Dark Matter, a Scoping Review. Frontiers in Cellular and Infection Microbiology. 
+2021;11(478). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+11 
+ 
+21. 
+Goodson JM, Hartman ML, Shi P, Hasturk H, Yaskell T, Vargas J, et al. The salivary microbiome 
+is altered in the presence of a high salivary glucose concentration. PLoS One. 2017;12(3):e0170437. 
+22. 
+Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: Framework and 
+proposal of a new classification and case definition. J Periodontol. 2018;89 Suppl 1:S159-S72. 
+23. 
+Nyvad B, Baelum V. Nyvad Criteria for Caries Lesion Activity and Severity Assessment: A 
+Validated Approach for Clinical Management and Research. Caries Res. 2018;52(5):397-405. 
+24. 
+Smalla K, Cresswell N, Mendonca‐Hagler L, Wolters A, van Elsas J. Rapid DNA extraction 
+protocol from soil for polymerase chain reaction‐mediated amplification. Journal of Applied 
+Bacteriology. 1993;74(1):78-85. 
+25. 
+Dame-Teixeira N, de Cena JA, Côrtes DA, Belmok A, Dos Anjos Borges LG, Marconatto L, et al. 
+Presence of Archaea in dental caries biofilms. Arch Oral Biol. 2019;110:104606. 
+26. 
+Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJ, Holmes SP. DADA2: High-resolution 
+sample inference from Illumina amplicon data. Nat Methods. 2016;13(7):581-3. 
+27. 
+Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, et al. The SILVA ribosomal RNA 
+gene database project: improved data processing and web-based tools. Nucleic Acids Res. 
+2013;41(Database issue):D590-6. 
+28. 
+Carda-Diéguez M, Bravo-González LA, Morata IM, Vicente A, Mira A. High-throughput DNA 
+sequencing of microbiota at interproximal sites. J Oral Microbiol. 2020;12(1):1687397. 
+29. 
+Gross EL, Leys EJ, Gasparovich SR, Firestone ND, Schwartzbaum JA, Janies DA, et al. Bacterial 
+16S sequence analysis of severe caries in young permanent teeth. J Clin Microbiol. 2010;48(11):4121-
+8. 
+30. 
+Socransky SS, Haffajee AD, Cugini MA, Smith C, Kent RL. Microbial complexes in subgingival 
+plaque. J Clin Periodontol. 1998;25(2):134-44. 
+31. 
+Edlund A, Yang Y, Yooseph S, Hall AP, Nguyen DD, Dorrestein PC, et al. Meta-omics uncover 
+temporal regulation of pathways across oral microbiome genera during in vitro sugar metabolism. 
+ISME J. 2015;9(12):2605-19. 
+32. 
+Diaz PI. Microbial diversity and interactions in subgingival biofilm communities.  Periodontal 
+Disease. 152011. p. 17-40. 
+33. 
+Hojo K, Nagaoka S, Murata S, Taketomo N, Ohshima T, Maeda N. Reduction of vitamin K 
+concentration by salivary Bifidobacterium strains and their possible nutritional competition with 
+Porphyromonas gingivalis. J Appl Microbiol. 2007;103(5):1969-74. 
+34. 
+Qin J, Li Y, Cai Z, Li S, Zhu J, Zhang F, et al. A metagenome-wide association study of gut 
+microbiota in type 2 diabetes. Nature. 2012;490(7418):55-60. 
+35. 
+Hajishengallis G. The inflammophilic character of the periodontitis-associated microbiota. Mol 
+Oral Microbiol. 2014;29(6):248-57. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+12 
+ 
+6. TABLES AND FIGURES 
+ 
+Table 1. Clinical characteristics of the individuals with periodontitis. 
+ 
+Diagnosis of Diabetes mellitus 
+Individual 
+Yes 
+No 
+Gender (Female/Male) 
+1/2  
+2/1  
+Age (mean±SD)** 
+60±9.8 
+48±5.6 
+Fasting blood glucose (mg/dl)** 
+236±188*  
+106±17 
+Number of remaining teeth 
+21.3±6.3 
+20.33±10.9 
+Salivary pH (ml/min) 
+6.67±0.58 
+7.67±0.58 
+Salivary buffer capacity 
+3.67±1.15 
+3.50±0.71 
+Number of teeth with active caries 
+1.33±1.52 
+1.0±1.0 
+Insertion loss >5mm (average %) 
+77.0±34.7 
+34.2±28.9 
+Bleeding on probing (average %)  
+39.6±31.4 
+51.1±11.5 
+*1 missing data (individual DMP27) 
+** Mann-Whitney test <0.05 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+13 
+ 
+ 
+ 
+Figure 1. The relative abundance of the salivary microbiome of individuals with periodontitis 
+diagnosed with DM (DMP) and without DM (P). (A) The mean of relative abundance at phylum level 
+of the majority microbiota (≥1%). (B) Heatmap of the relative abundance at genus level of the 
+majority microbiota (≥1%). (C) The mean of relative abundance at phylum level of the minority 
+microbiota (<1%). (D) Heatmap of the relative abundance at genus level of the minority microbiota 
+(<1%). 
+0%	
+10%	
+20%	
+30%	
+40%	
+50%	
+60%	
+70%	
+80%	
+90%	
+100%	
+DMP	(99.4%)	
+P	(99.2%)	
+Spirochaetes	
+Proteobacteria	
+Patescibacteria	
+Fusobacteria	
+Firmicutes	
+Bacteroidetes	
+Actinobacteria	
+A	
+B	
+0%	
+10%	
+20%	
+30%	
+40%	
+50%	
+60%	
+70%	
+80%	
+90%	
+100%	
+DMP	(0.6%)	
+P	(0.8%)	
+Verrucomicrobia	
+Thaumarchaeota	
+Tenericutes	
+Synergistetes	
+Planctomycetes	
+Gemmatimonadetes	
+Euryarchaeota	
+Epsilonbacteraeota	
+Deinococcus-Thermus	
+Cyanobacteria	
+Chloroflexi	
+BRC1	
+Acidobacteria	
+C	
+D	
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+14 
+ 
+ 
+Figure 2. Correlation between clinical variables and the relative abundance of OTUs in the salivary 
+microbiome of patients with periodontitis (Spearman correlation; p<0.05). Blue color means positive 
+correlation; Red color means negative correlation.  
+ 
+ 
+ 
+ 
+ 
+ 
+salivary pH
+number active caries
+fasting blood glucose
+number of teeth
+Bleeding index (%)
+Insertion loss>5mm (%)
+Absconditabacteriales (SR1)
+Leptotrichia
+Parvimonas
+Abiotrophia
+Caldicoprobacter
+Balneolaceae; CK06-06-Mud-MAS4B-21
+Fastidiosipila
+Johnsonella
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+15 
+ 
+ 
+ 
+Figure 3. CCA triplot showing the correlation of every OTU of the saliva microbial composition with 
+the clinical variables of patients with periodontitis. Plot A represents all OTUs. The plot B represents 
+OTUs with relative abundance >1% (for OTUs <1%, no response was observed in the graph). 
+A	
+B	
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3093
+Powered by TCPDF (www.tcpdf.org)
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Powered by TCPDF (www.tcpdf.org)

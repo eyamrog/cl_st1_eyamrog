@@ -1,75 +1,616 @@
-(Fern flora of Viçosa, Minas Gerais State, Brazil: Dennstaedtiaceae, Lindsaeaceae and Saccolomataceae). As part of an ongoing project treating the ferns and lycophytes from the region of Viçosa, Minas Gerais State, Brazil, we here present the taxonomic treatment of the early divergent lineages of the leptosporangiate ferns: the families Dennstaedtiaceae, Lindsaeaceae and Saccolomataceae. We have been sampling the remnant forest patches since 2012; we also fully reviewed the collection of herbarium VIC and other online collections: F, IAN, NY, PH, RB, U, UC, UPCB, US, and WTU. In the region of Viçosa, six taxa belonging to those families occur Dennstaedtia cicutaria and Pteridium esculentum subsp. arachnoideum (Dennstaedtiaceae); Lindsaea lancea var. lancea, L. quadrangularis subsp. quadrangularis, and L. stricta var. stricta (Lindsaeaceae); and Saccoloma elegans (Saccolomataceae). Among these taxa, only L. quadrangularis subsp. quadrangularis and S. elegans are endemic to the Brazilian Atlantic Rainforest; the remaining are widespread in the Neotropics. We present keys, descriptions, illustrations, examined specimens, and comments. 
-
-At the end of the era in which the plant Classification Systems were mostly based on morphological data, Dennstaedtiaceae was considered a big family, comprehending three subfamilies (or tribes) and about 17 genera (Tryon & Tryon 1982, Kramer 1990). With the advent of molecular data, those subfamilies were raised to family-level, some families were created, and now the early-diverging leptosporangiate ferns are represented by Cystodiaceae (one genus), Dennstaedtiaceae with a stricter circumscription (11-12 genera), Lindsaeaceae (seven genera), Lonchitidaceae (one genus), Saccolomataceae (one or two genera), as well as the great Pteridaceae (+50 genera) (Smith et al. 2006, PPG I 2016, Shang et al. 2018, Schwartsburd et al. 2020). 
-
-Brazil is represented by Dennstaedtiaceae with eight genera and 26 species, Lindsaeaceae with one genus and 34 spp., Lonchitidaceae with one genus and one sp., and Saccolomataceae with one genus and nine spp., leaving Pteridaceae apart (which is subject to another paper) (Kramer 1957, Pena et al. 2020, Schwartsburd 2020, Schwartsburd & Pena 2020). In general, these plants present characters considered plesiomorphic that are typical of the early-diverging lineages of Polypodiales, such as solesnotelic rhizomes clothed with hairs or primitive scales, large, highly dissected leaves, the sori that are truly marginal and protected by inner and outer indusia, and trilete spores (Tryon & Tryon 1982, Kramer 1990, PPG I 2016, Schwartsburd et al. 2020). 
-
-Pteridium is spread all across the globe (except for Antarctic) and may be the one most important to mankind by if directly affects the local human populations: it behaves as a pioneer weed invading croplands; it spreads its underground rhizomes making it hard to be removed; it intoxicates the cattle and horses; and it also intoxicates humans, when ingested - some studies also pointed out the transmission of its toxins (the psilatoquinis) via cow milk (e.g., Tryon 1941, Evans 1976, Page 1976, Marrs et al. 2000, Martini-Santos et al. 2010, Oliveira et al. 2018, Schwartsburd et al. 2018). 
-
-In the State of Minas Gerais, Dennstaedtiaceae is represented by 14 species, Lindsaeaceae by 11 spp., and Saccolomataceae by three spp. (Pena et al. 2020 Schwartsburd 2020, Schwartsburd & Pena 2020, Schwartsburd 2022). Here, we present the taxonomic treatment of these families for the region of Viçosa, Minas Gerais State, Brazil, as part of the ongoing project on the Fern Flora of this region with fascicles in preparation and others already published: Miranda & Schwartsburd (2016 - Salviniales), Rabelo & Schwartsburd (2016 - Schizaeales), and Gonçalves da Silva & Schwartsburd (2017 - Polypodiaceae). 
-
-In the region of Viçosa, Minas Gerais State, Brazil, the remaining forest patches are classified as Semi-Deciduous Seasonal Forest (IBGE 2012). The local elevation ranges from 600 to 900 m.a.s.l. (pers. obs.), and the annual temperatures range from 5° to 30°C (INMET 2021). 
-
-We have been sampling the remnant forest patches since 2012. Specimens were collected and dried according to usual methods for fern collections (Windisch 1992) and then incorporated in herbarium VIC (acronyms following Thiers, continuously updated), with duplicates to be sent to other herbaria. We also fully reviewed the collection of herbarium VIC and collections of other herbaria online: F, IAN, NY, PH, RB, U, UC, UPCB, US, and WTU. Although the classification system adopted for the previous fascicles was based on an adaptation of Kenrick & Crane (1997) and Smith et al. (2006), we here adopt the system of PPG I (2016). Morphological terms are according to Lellinger (2002). 
-
-Dennstaedtiaceae, Lindsaeaceae, and Saccolomataceae, presented a total of four genera and six species occurring in the region of Viçosa. Four of those species have also infra-specific classifications, which were adopted here. The six taxa are: Dennstaedtia cicutaria (Sw.) T. Moore, and Pteridium esculentum subsp. arachnoideum (Kaulf.) J.A. Thomson (Dennstaedtiaceae); Lindsaea lancea (L.) Bedd. var. lancea, L. quadrangularis Raddi subsp. quadrangularis, and L. stricta (Sw.) Dryand. var. stricta (Lindsaeaceae); and Saccoloma elegans Kaulf. Among them, only L. quadrangularis subsp. quadrangularis and S. elegans are endemic to the Brazilian Atlantic Rainforest; the remaining taxa are widespread in the Neotropics. Differently from the other studied families: Salviniaceae (Miranda & Schwartsburd 2016); Anemiaceae (Rabelo & Schwartsburd 2016); Polypodicaeae (Gonçalves da Silva & Schwartsburd 2017), we have not recollected half of the taxa involved in this paper, which were collected on the 1930s and never again. Probably, they went locally extinct due to forest fragmentation and disturbance. We have not recollected D. cicutaria, L. lancea var. lancea, nor L. quandrangularis subsp. quadrangularis. 
-
-Rhizomes generaly long-creeping, solenostelic or rarely dictyostelic or polycyclic, bearing hairs or rarely with primitive scales. Leaves monomorphic; stipes often with epipetiolar buds, usually with a omega-shaped vascular strand; laminae 2-5-pinnate, rarely less dissected; veins free or rarely anastomosing and then without included veinlets; indument formed by hairs or glandular hairs, or absent. Sori marginal or submarginal, linear or discrete, introrse or extrorse, protected by outer and/or inner indusia or rarely not protected; spores tetrahedral and trilete, or reniform and monolete (Smith et al. 2006). 
-
-The family is cosmopolitan, composed of eleven genera and ca. 270 species (PPG I 2016, Shang et al. 2018, Schwartsburd et al. 2020). The clade containing Dennstaedtia, Leptolepia, Microlepia, and Oenotrichia still needs recircumscriptions, due to a polyphyletic Dennstaedtia (Schwartsburd et al. 2020). 
-
-Rhizomes short to long-creeping, glabrous or with catenate hairs. Leaves large, to 4 m long; laminae 2-4-pinnate; veins free; indument formed by catenate hairs, acicular hairs, or absent; sori marginal, discrete, at the tip of single veins; inner and outer indusia fused into purse- or cup-shaped or hemi-globose indusia (Smith et al. 2006). 
-
-Dennstaedtia is polyphyletic in current circumscription (Schwartsburd et al. 2020), with about 70 species. In Brazil occur six species (Schwartsburd & Pena 2020), but there are probably about eight to ten species (pers. obs.). 
-
-Plants terrestrial. Rhizomes long-creeping, with brownish catenate hairs. Leaves 1-3.5 m long; stipes 0.5-2.5 m long, proximally brown, lighter brown above, with acicular hairs or glabrescent; laminae 0.5-2 m long, proximally 3-pinnate-pinnatifid to 4-pinnate; rachises light brown, pilose, with brownish catenate hairs, without proliferous buds; basal pinnae 25-100 cm × 12-35 cm, subequilateral; pinnules sessile, lanceolate to oblong, margins dentate; costae abaxially and adaxially pilose, with light brown to reddish catenate hairs; costules abaxially and adaxially pilose, with light brown to reddish catenate hairs; veins free,  abaxially and adaxially hirsute, with erect, light brown to reddish acicular hairs; laminar tissue between the veins abaxially and adaxially with catenate and acicular hairs; sori oblong or rounded, born at the tip of single veins, in sinuses of segments; indusia purse-shaped, commonly with acicular and catenate hairs. 
-
-Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Agricultural College land, Horticultural Hill, 670 m, 7-VII-1930, Y. Mexia 4846 (F, MO-n.v., U, UC, US); Escola Superior de Agricultura e Veterinária, base of Horticultural Hill, 668 m, 17-VII-1930, Y. Mexia 4866 (IAN, F, U, UC, US, VIC, WTU); Escola Superior de Agricultura e Veterinária, I-1934, J.G. Kuhlmann s.n. (VIC-1309). 
-
-Dennstaedtia cicutaria is recognized by veins and laminar tissue between the veins densely with catenate and acicular hairs, indusia purse-shaped with acicular and catenate hairs.           
-
-Rhizomes long-creeping, with setose hairs. Leaves large, to 4.5 m long; laminae 3-5-pinnate; veins free; indument formed by catenate hairs, acicular hairs, arachnoid hairs, and/or minute gnarled hairs; sori marginal, linear, continuous along the laminar margins, born on comissural veins; inner indusia vestigial; outer indusia linear (Smith et al. 2006).  
-
-Two species plus two species with hybrid origin are currently recognized (Thomson 2012, Zhou et al. 2014, Schwartsburd et al. 2018, 2020). In addition, a total of ca. 20 morpho-taxa are also recognized as infra-specific entities, such as subspecies, varieties, forms, or combinations of more than one rank (e.g., Tryon 1941, Page 1976, Thomson 2012, Schwartsburd et al. 2018). In Brazil, the following taxa are currently recognized: Pteridium caudatum (L.) Maxon, P. esculentum subsp. arachnoideum, P. esculentum subsp. campestre (Schrad.) Schwartsb. & J. Prado, P. esculentum subsp. gryphus Schwartsb., P. esculentum var. harpianum Schwartsb. & A. Yañez, and P. esculentum var. paedomorficum Schwartsb. & J. Prado (Schwartsburd 2020). The most common taxon in southeastern Brazil is P. esculentum subsp. arachnoideum, which invades crops and is toxic for cattle, horses, and human ingestion (Schwartsburd et al. 2018). 
-
-Plants terrestrial, ticket-forming. Rhizomes long-creeping, with ciliform hairs. Leaves 1.5-4.5m long; stipes 0.75-2.5 m long, proximally dark brown, stramineous above, glabrous; laminae 0.75-2.5m m long, proximally 3-4-pinnate-pinnatifid; rachises stramineous, glabrous; basal pinnae 60-100 × 25-70cm, equilateral; pinnae and pinnules distally with free lobes between the segments; compound distal segments inequilateral, irregularly dissected, caudate at apex; simple distal segments linear, up to 3(-4) cm long; costae abaxially with reddish catenate hairs, adaxially glabrous; costules abaxially with reddish catenate hairs, adaxially glabrous; veins abaxially lanose, with lax, arachnoid hairs, adaxially glabrous; laminar tissue between the veins abaxially and adaxially glabrous; sori marginal, linear, along segment margins, born at the tip of multiple veins; inner indusia vestigial; outer indusia linear. 
-
-Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Entre Viçosa e Visconde do Rio Branco, 11-V-2013, P.B. Schwartsburd et al. 2837 (VIC); idem, 11-V-2013, P.B. Schwartsburd et al. 2838 (VIC); State Agricultural School, 24-II-1957, H.S. Irwin 2721 (F, TEX-n.v., UC, US, VIC); Escola Superior de Agricultura e Veterinária, 1943, P. Alvin s.n. (VIC-3537); Universidade Federal de Viçosa, Fazendinha, 11-IX-1977, Rosane & Rosângela s.n. (VIC-7962, 7963, 7964, 7965); idem, Mata do Paraíso, Trilha dos Alpes, 9-II-2017, P.B. Schwartsburd et al. 3877 (VIC); idem, Mata do Paraíso, Trilha dos Alpes, 9-II-2017, P.B. Schwartsburd et al. 3879 (VIC); idem, Mata da Biologia, 27-III-2019, N.T.L. Pena et al. 783 (VIC); idem, Mata da Biologia, 27-III-2019, N.T.L. Pena et al. 784 (VIC).  
-
-Pteridium esculentum subsp. arachnoideum is recognized by the pinnae and pinnules distally with free lobes between the segments, veins abaxially with arachnoid hairs, and glabrous laminar tissue between the veins. The outer indusia is always present, even in sterile leaves. 
-
-Rhizomes short to long-creeping, protostelic with internal phloem, or rarely solenostelic, bearing basally attached, nonclathrate scales or hairs. Leaves monomorphic; laminae simple to 3-pinnate or rarely more dissected; veins usually free, occasionally anastomosing and then without included veinlets; indument generally absent or formed by 2-celled glandular hairs. Sori marginal or submarginal, extrorse, elongate to linear, protected by outer (not modified) and inner (modified) indusia; spores tetrahedral and trilete, or rarely bilateral and monolete (Smith et al. 2006). 
-
-Rhizomes short-creeping, with primitive scales. Leaves small to medium-sized, ca. 20 cm to 1 m long; laminae simple to 3-pinnate; indument absent or formed by 2-celled glandular hairs; veins generally free; sori marginal or submarginal, elongate, born on comissural veins; inner indusia modified, elongate; outer indusia not modified (Smith et al. 2006). 
-
-About 180 species, with 34 spp. occurring in Brazil (Kramer 1957, PPG I 2016, Pena et al. 2020). 
-
-Plants terrestrial. Rhizomes short-creeping, with dark brown, lanceolate scales. Leaves 30-50 cm long; stipes 15-25 cm long, dark brown proximally, stramineous above, quadrangular, proximally with dark brown, acuminate scales and sparse 2-celled glandular hairs; laminae 15-25 cm long, 2-pinnate; rachises not winged, stramineous, with sparse 2-celled glandular hairs; basal pinnae 10-15cm × 2.5-3.5cm equilateral; pinnules petiolulate, dimidiate, 1.5-2 cm long; costae abaxially and adaxially with sparse 2-celled glandular hairs or glabrescent; veins abaxially and adaxially glabrous; laminar tissue between the veins abaxially and adaxially glabrous; sori continuous, born at the tip of multiple veins; inner indusia membranaceous to papyraceous, the margins entire, wavy, glabrous. 
-
-Specimens examined: BRAZIL. MINAS GERAIS: Viçosa, 1930, Y. Mexia 4639-a (GH-n.v., UC, US, VIC). 
-
-All Lindsaea spp. from Viçosa are similar in having 2-pinnate laminae and dimidiate pinnules. Lindsaea lancea var. lancea differs from the other two by having continuous sori; L. quadrangularis subsp. quadrangularis differs from the other two by having reddish-brown, winged rachises; and L. stricta var. stricta differs from the other two by having petioles that are terete abaxially. In addition, pinnule lenghts are different between the three taxa: 1.5-2 cm in L. lancea var. lancea, 1.2-1.5 cm in L. quadrangularis subsp. quadrangularis, and to 1 cm in L. stricta var. stricta. 
-
-Plants terrestrial. Rhizomes short-creeping, with light brown, lanceolate scales. Leaves 40-75 cm long; stipes 25-40 cm long, entirely reddish-brown, quadrangular, proximally with light brown, acuminate scales and sparse 2-celled glandular hairs; laminae 20-40 cm long, 2-pinnate; rachises winged, reddish-brown, with sparse 2-celled glandular hairs; basal pinnae 10-18 × 2-3 cm; pinnules short-petiolulate, dimidiate, 1.2-1.5 cm long; costae abaxially and adaxially with sparse 2-celled glandular hairs; veins abaxially and adaxially glabrous; laminar tissue between the veins abaxially with sparse 2-celled glandular hairs, adaxially glabrous; sori interrupted, born at the tip of multiple veins; indusia membranaceous, the margin dentate, glabrous. 
-
-Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Agricultural College lands, Hillside of Cha-Cha Valley, 1-III-1930, Y. Mexia 4410-a (UC, US-n.v.); s.l., 1935, J.G. Kuhlmann s.n. (VIC-1894). 
-
-Plants terrestrial. Rhizomes short-creeping, with dark brown, lanceolate scales. Leaves 35-80 cm long; stipes 15-50 cm long, dark brown proximally, stramineous above, abaxially terete, adaxially flattened, proximally with dark brown, acuminate scales; laminae 20-35cm long, 2-pinnate or rarely 1- or 3-pinnate; rachises not winged, stramineous, with sparse 2-celled glandular hairs or glabrescent; basal pinnae 12-25 cm × 1-2 cm; pinnules short-petiolate, dimidiate or flabellate, to 1 cm long; costae abaxially and adaxially with sparse 2-celled glandular hairs or glabrescent; veins abaxially and adaxially with sparse 2-celled glandular hairs or glabrous; laminar tissue between the veins abaxially and adaxially with sparse 2-celled glandular hairs or glabrous; sori interrupted, born at the tip of multiple veins; inner indusia membranaceous, the margins dentate, glabrous. 
-
-Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: road to Cajurí, Moro Grande, 750 m, 7-I-1931, Y. Mexia 5486 (B-n.v., BM-n.v., C-n.v., F, G-n.v., GH-n.v., K-n.v., MO-n.v., NY-n.v., PH-n.v., S-n.v., TEX-n.v., U-n.v., UC, US, VIC); Silvestre, 10-IV-1999, M.G. Bovini 1624 (VIC); Universidade Federal de Viçosa, Mata da Silvicultura, em direção ao Cristo, 740 m, 20º46’S,  42º52’W, 31-X-2014, P.B. Schwartsburd et al. 3421, 3423 (VIC); idem, Mata do Paraíso, Trilha dos Alpes, 9-II-2017, P.B. Schwartsburd et al. 3881 (VIC); idem, Recanto das Cigarras, 8-VII-2019, N.T.L. Pena et al. 1049 (VIC). 
-
-Rhizomes erect or rarely short-creeping, sometimes forming small trunks, dictyostelic, bearing peltate scales. Leaves monomorphic; stipes with an omega-shaped vascular strand; laminae 1-4-pinnate; veins free; indument formed by caduceus scales or rarely by scattered catenate hairs. Sori marginal or submarginal, discrete, extrorse, protected by outer (not modified) and inner (modified) indusia; spores tetrahedral-globose and trilete (Smith et al. 2006). 
-
-One pantropical genus with about 24 species (Rojas-Alvarado 2010, Luong et al. 2015, Schwartsburd 2020, Schwartsburd 2022). The adoption of genus Orthiopteris for the Paleotropical species is phylogenetically justified, but lacks morphological support; thus, regarding only Saccoloma in Saccolomataceae is more convenient (Schwartsburd 2022). In Brazil, nine species are currently recognized (Schwartsburd 2022). 
-
-Plants terrestrial. Rhizomes erect to decumbent, stout to trunk-like, glabrescent; leaves 1.2-2.2 m long; petioles proximally burgundy, stramineous above, 40-80 cm long, proximally wrinkled to minutely spiny; petiolar scales peltate, blackish, with or without lighter, dentate margins; laminae 1-pinnnate 80-140 cm long; rachises stramineous, glabrous; basal pinnae 15-25 × 2.5-3.5 cm; costae abaxially and adaxially glabrous; veins commonly 1-furcate, rarely simple or 2 or 3-furcate (at the base of pinnae), abaxially and adaxially glabrous; sori marginal, discrete, born at the tip of single veins, placed side by side, opening extrorsely; outer indusia not modified; inner indusia hemi-umbonate, commonly forming wings connecting adjacent sori. Geographical distribution: Endemic to the Brazilian Atlantic Forest, from Pernambuco to Santa Catarina. 
-
-Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Estrada São Miguel-Viçosa [Road to São Miguel], 25-IV-1930, Y. Mexia 4639 (F, IAN, MO-n.v., NY, PH, VIC, UC, US); Escola Superior de Agricultura e Veterinária, s.d., Y. Mexia 4964 (MO-n.v., NY, US, VIC); woods on slope, 710 m, 6-X-1930, Y. Mexia 5385-a (UC-2 sheets); Viçosa-Coimbra, km 120, Sítio Bom Sucesso, 13-IX-2002, G.E. Valente & M.L. Batista 1071 (VIC); Mata do Seu Nico, 20°47’S, 42°51’W, 800 m, 6-XI-2012, P.B. Schwartsburd & E. Guatimosin 2618 (NY, RB, UPCB, VIC). 
-
-Saccoloma elegans is recognized by the 1-pinnate laminae and the discrete sori placed side by side, opening extrorsely. 
-
-We thank Universidade Federal de Viçosa (UFV) and Programa de Pós-Graduação em Botânica; the Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) for the PhD scholarship to Nelson Túlio Lage Pena; the International Association for Plant Taxonomy (IAPT) for the “Grant 2020” to Nelson Túlio Lage Pena; the students and staff at Herbarium VIC; and Reinaldo Pinto for the illustrations. 
-
-Nelson Túlio Lage Pena: Substantial contribution in the concept and design of the study; Contribution to data collection; Contribution to data analysis and interpretation; Contribution to manuscript preparation.  
-
-Pedro Bond Schwartsburd: Substantial contribution in the concept and design of the study; Contribution to critical revision, adding intellectual content. 
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906e152022
+(Fern flora of Viçosa, Minas Gerais State, Brazil:
+Dennstaedtiaceae, Lindsaeaceae and Saccolomataceae
+Nelson Túlio Lage Pena, Pedro Bond Schwartsburd
+https://doi.org/10.1590/2236-8906-15/2022
+Submitted on: 2022-11-22
+Posted on: 2022-11-23 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-15/2022 
+ 
+1 Part of the Doctoral Thesis of the first Author 
+2 Universidade Federal de Viçosa, Departamento de Biologia Vegetal, Programa de Pós-Graduação 
+em Botânica, Laboratório de Sistemática e Evolução de Plantas, Avenida Peter Henry Rolfs, s/n, 
+36570-900 Viçosa, Minas Gerais State, Brazil 
+3 Corresponding author: penatulio@gmail.com 
+ 
+Fern flora of Viçosa, Minas Gerais State, Brazil: Dennstaedtiaceae, Lindsaeaceae and 
+Saccolomataceae 
+ 
+Nelson Túlio Lage Pena1,2 and Pedro Bond Schwartsburd1 
+ 
+Running title: Fern flora of Viçosa: Dennstaedtiaceae, Lindsaeaceae and Saccolomataceae 
+ 
+ 
+Nelson Túlio Lage Pena: https://orcid.org/0000-0002-3145-8183  
+Pedro Bond Schwartsburd: https://orcid.org/0000-0002-5305-9300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+2 
+ 
+ABSTRACT – (Fern flora of Viçosa, Minas Gerais State, Brazil: Dennstaedtiaceae, Lindsaeaceae 
+and Saccolomataceae). As part of an ongoing project treating the ferns and lycophytes from the region 
+of Viçosa, Minas Gerais State, Brazil, we here present the taxonomic treatment of the early divergent 
+lineages of the leptosporangiate ferns: the families Dennstaedtiaceae, Lindsaeaceae and 
+Saccolomataceae. We have been sampling the remnant forest patches since 2012; we also fully 
+reviewed the collection of herbarium VIC and other online collections: F, IAN, NY, PH, RB, U, UC, 
+UPCB, US, and WTU. In the region of Viçosa, six taxa belonging to those families occur 
+Dennstaedtia cicutaria and Pteridium esculentum subsp. arachnoideum (Dennstaedtiaceae); 
+Lindsaea lancea var. lancea, L. quadrangularis subsp. quadrangularis, and L. stricta var. stricta 
+(Lindsaeaceae); and Saccoloma elegans (Saccolomataceae). Among these taxa, only L. 
+quadrangularis subsp. quadrangularis and S. elegans are endemic to the Brazilian Atlantic 
+Rainforest; the remaining are widespread in the Neotropics. We present keys, descriptions, 
+illustrations, examined specimens, and comments. 
+Keywords: Brazilian Atlantic Rainforest, Polypodiales, pteridophytes, southeast Brazil, taxonomy 
+ 
+RESUMO – (Flora de samambaias de Viçosa, Estado de Minas Gerais, Brasil: Dennstaedtiaceae, 
+Lindsaeaceae and Saccolomataceae). Como parte de um projeto em andamento sobre samambaias e 
+licófitas da região de Viçosa, Estado de Minas Gerais, Brasil, o tratamento taxonômico das primeiras 
+linhagens divergentes de samambaias leptosporangiadas: as famílias Dennstaedtiaceae, Lindsaeaceae 
+e Saccolomataceae são apresentadas. Expedições de campo foram realizadas desde 2012 em 
+remanescentes florestais da região. Também foi realizada uma revisão completa da coleção do 
+herbário VIC, cuja data de início é 1930, bem como de outras coleções online de herbários: F, IAN, 
+NY, PH, RB, U, UC, UPCB, US, and WTU. Na região de Viçosa, existem seis táxons pertencentes a 
+essas famílias: 
+Dennstaedtia 
+cicutaria 
+e 
+Pteridium esculentum 
+subsp. 
+arachnoideum 
+(Dennstaedtiaceae); Lindsaea lancea var. lancea, L. quadrangularis subsp. quadrangularis e L. 
+stricta var. stricta (Lindsaeaceae); e Saccoloma elegans (Saccolomataceae). Dentre esses táxons, 
+apenas L. quadrangularis subsp. quadrangularis e S. elegans são endêmicos da Mata Atlântica 
+brasileira; as demais estão amplamente distribuídas na região Neotropical. São apresentadas chaves, 
+descrições, ilustrações, materiais examinados e comentários. 
+Palavras-chave: Mata Atlântica brasileira, Polypodiales, pteridófitas, sudeste do Brasil, taxonomia. 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+3 
+ 
+Introduction 
+ 
+At the end of the era in which the plant Classification Systems were mostly based on 
+morphological data, Dennstaedtiaceae was considered a big family, comprehending three subfamilies 
+(or tribes) and about 17 genera (Tryon & Tryon 1982, Kramer 1990). With the advent of molecular 
+data, those subfamilies were raised to family-level, some families were created, and now the early-
+diverging leptosporangiate ferns are represented by Cystodiaceae (one genus), Dennstaedtiaceae with 
+a stricter circumscription (11-12 genera), Lindsaeaceae (seven genera), Lonchitidaceae (one genus), 
+Saccolomataceae (one or two genera), as well as the great Pteridaceae (+50 genera) (Smith et al. 
+2006, PPG I 2016, Shang et al. 2018, Schwartsburd et al. 2020). 
+Brazil is represented by Dennstaedtiaceae with eight genera and 26 species, Lindsaeaceae with 
+one genus and 34 spp., Lonchitidaceae with one genus and one sp., and Saccolomataceae with one 
+genus and nine spp., leaving Pteridaceae apart (which is subject to another paper) (Kramer 1957, Pena 
+et al. 2020, Schwartsburd 2020, Schwartsburd & Pena 2020). In general, these plants present 
+characters considered plesiomorphic that are typical of the early-diverging lineages of Polypodiales, 
+such as solesnotelic rhizomes clothed with hairs or primitive scales, large, highly dissected leaves, 
+the sori that are truly marginal and protected by inner and outer indusia, and trilete spores (Tryon & 
+Tryon 1982, Kramer 1990, PPG I 2016, Schwartsburd et al. 2020). 
+Pteridium is spread all across the globe (except for Antarctic) and may be the one most 
+important to mankind by if directly affects the local human populations: it behaves as a pioneer weed 
+invading croplands; it spreads its underground rhizomes making it hard to be removed; it intoxicates 
+the cattle and horses; and it also intoxicates humans, when ingested - some studies also pointed out 
+the transmission of its toxins (the psilatoquinis) via cow milk (e.g., Tryon 1941, Evans 1976, Page 
+1976, Marrs et al. 2000, Martini-Santos et al. 2010, Oliveira et al. 2018, Schwartsburd et al. 2018). 
+In the State of Minas Gerais, Dennstaedtiaceae is represented by 14 species, Lindsaeaceae by 11 
+spp., and Saccolomataceae by three spp. (Pena et al. 2020 Schwartsburd 2020, Schwartsburd & Pena 2020, 
+Schwartsburd 2022). Here, we present the taxonomic treatment of these families for the region of Viçosa, 
+Minas Gerais State, Brazil, as part of the ongoing project on the Fern Flora of this region with fascicles in 
+preparation and others already published: Miranda & Schwartsburd (2016 - Salviniales), Rabelo & 
+Schwartsburd (2016 - Schizaeales), and Gonçalves da Silva & Schwartsburd (2017 - Polypodiaceae). 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+4 
+ 
+ 
+Material and methods 
+ 
+ 
+In the region of Viçosa, Minas Gerais State, Brazil, the remaining forest patches are classified 
+as Semi-Deciduous Seasonal Forest (IBGE 2012). The local elevation ranges from 600 to 900 m.a.s.l. 
+(pers. obs.), and the annual temperatures range from 5° to 30°C (INMET 2021). 
+We have been sampling the remnant forest patches since 2012. Specimens were collected and 
+dried according to usual methods for fern collections (Windisch 1992) and then incorporated in 
+herbarium VIC (acronyms following Thiers, continuously updated), with duplicates to be sent to other 
+herbaria. We also fully reviewed the collection of herbarium VIC and collections of other herbaria 
+online: F, IAN, NY, PH, RB, U, UC, UPCB, US, and WTU. Although the classification system adopted 
+for the previous fascicles was based on an adaptation of Kenrick & Crane (1997) and Smith et al. (2006), 
+we here adopt the system of PPG I (2016). Morphological terms are according to Lellinger (2002). 
+ 
+ 
+Results and Discussion 
+ 
+ 
+Dennstaedtiaceae, Lindsaeaceae, and Saccolomataceae, presented a total of four genera and 
+six species occurring in the region of Viçosa. Four of those species have also infra-specific 
+classifications, which were adopted here. The six taxa are: Dennstaedtia cicutaria (Sw.) T. Moore, 
+and Pteridium esculentum subsp. arachnoideum (Kaulf.) J.A. Thomson (Dennstaedtiaceae); Lindsaea 
+lancea (L.) Bedd. var. lancea, L. quadrangularis Raddi subsp. quadrangularis, and L. stricta (Sw.) 
+Dryand. var. stricta (Lindsaeaceae); and Saccoloma elegans Kaulf. Among them, only L. 
+quadrangularis subsp. quadrangularis and S. elegans are endemic to the Brazilian Atlantic 
+Rainforest; the remaining taxa are widespread in the Neotropics. Differently from the other studied 
+families: Salviniaceae (Miranda & Schwartsburd 2016); Anemiaceae (Rabelo & Schwartsburd 2016); 
+Polypodicaeae (Gonçalves da Silva & Schwartsburd 2017), we have not recollected half of the taxa 
+involved in this paper, which were collected on the 1930s and never again. Probably, they went locally 
+extinct due to forest fragmentation and disturbance. We have not recollected D. cicutaria, L. lancea 
+var. lancea, nor L. quandrangularis subsp. quadrangularis. 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+5 
+ 
+Key to taxa of Dennstaedtiaceae, Lindsaeaceae and Saccolomataceae from the region of Viçosa 
+ 
+1. Sori born at the tip of single veins 
+2. 
+Laminae 
+1-pinnate; 
+sori 
+along 
+the 
+laminar 
+margins, 
+parallel 
+to 
+each 
+other 
+………………………………………………………….…. Saccoloma elegans (Saccolomataceae) 
+2. Laminae 3-pinnate-pinnatifid to 4-pinnate; sori born on sinuses of the segments 
+…………………………………………………...……. Dennstaedtia cicutaria (Dennstaedtiaceae) 
+1. Sori born at the tip of multiple veins (on a commisural vein) 
+3. Rhizomes with hairs; laminae 3-4-pinnate-pinnatifid …………………………………………. 
+…………………………………. Pteridium esculentum subsp. arachnoideum (Dennstaedtiaceae) 
+3. Rhizomes with scales; laminae 1-2-pinnate (or rarely 3-pinnate) (Lindsaeaceae) 
+4. Stipes abaxially terete, adaxially flattened ………………….……. Lindsaea stricta var. stricta 
+4. Stipes quadrangular in cross section 
+5. Stipes and rachises reddish-brown; sori interrupted …………………………… 
+………………………………...……...…... Lindsaea quandrangularis subsp. quadrangularis 
+5. Stipes proximally dark brown, stramineous above; rachises stramineous; sori not interrupted 
+…………………………………………………..….……………. Lindsaea lancea var. lancea 
+ 
+Dennstaedtiaceae 
+Rhizomes generaly long-creeping, solenostelic or rarely dictyostelic or polycyclic, bearing hairs 
+or rarely with primitive scales. Leaves monomorphic; stipes often with epipetiolar buds, usually with a 
+omega-shaped vascular strand; laminae 2-5-pinnate, rarely less dissected; veins free or rarely 
+anastomosing and then without included veinlets; indument formed by hairs or glandular hairs, or absent. 
+Sori marginal or submarginal, linear or discrete, introrse or extrorse, protected by outer and/or inner 
+indusia or rarely not protected; spores tetrahedral and trilete, or reniform and monolete (Smith et al. 2006). 
+ 
+The family is cosmopolitan, composed of eleven genera and ca. 270 species (PPG I 2016, 
+Shang et al. 2018, Schwartsburd et al. 2020). The clade containing Dennstaedtia, Leptolepia, 
+Microlepia, and Oenotrichia still needs recircumscriptions, due to a polyphyletic Dennstaedtia 
+(Schwartsburd et al. 2020). 
+ 
+Dennstaedtia Bernh. 
+Rhizomes short to long-creeping, glabrous or with catenate hairs. Leaves large, to 4 m long; 
+laminae 2-4-pinnate; veins free; indument formed by catenate hairs, acicular hairs, or absent; sori 
+marginal, discrete, at the tip of single veins; inner and outer indusia fused into purse- or cup-shaped 
+or hemi-globose indusia (Smith et al. 2006). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+6 
+ 
+Dennstaedtia is polyphyletic in current circumscription (Schwartsburd et al. 2020), with about 
+70 species. In Brazil occur six species (Schwartsburd & Pena 2020), but there are probably about 
+eight to ten species (pers. obs.). 
+ 
+Dennstaedtia cicutaria (Sw.) T. Moore, Index Fil. (T. Moore) 2: xcvii. 1857. 
+Figure 1 a-c 
+ 
+Plants terrestrial. Rhizomes long-creeping, with brownish catenate hairs. Leaves 1-3.5 m long; 
+stipes 0.5-2.5 m long, proximally brown, lighter brown above, with acicular hairs or glabrescent; 
+laminae 0.5-2 m long, proximally 3-pinnate-pinnatifid to 4-pinnate; rachises light brown, pilose, with 
+brownish catenate hairs, without proliferous buds; basal pinnae 25-100 cm × 12-35 cm, 
+subequilateral; pinnules sessile, lanceolate to oblong, margins dentate; costae abaxially and adaxially 
+pilose, with light brown to reddish catenate hairs; costules abaxially and adaxially pilose, with light 
+brown to reddish catenate hairs; veins free,  abaxially and adaxially hirsute, with erect, light brown 
+to reddish acicular hairs; laminar tissue between the veins abaxially and adaxially with catenate and 
+acicular hairs; sori oblong or rounded, born at the tip of single veins, in sinuses of segments; indusia 
+purse-shaped, commonly with acicular and catenate hairs. 
+Geographical distribution: Neotropical. 
+Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Agricultural College land, Horticultural 
+Hill, 670 m, 7-VII-1930, Y. Mexia 4846 (F, MO-n.v., U, UC, US); Escola Superior de Agricultura e 
+Veterinária, base of Horticultural Hill, 668 m, 17-VII-1930, Y. Mexia 4866 (IAN, F, U, UC, US, VIC, 
+WTU); Escola Superior de Agricultura e Veterinária, I-1934, J.G. Kuhlmann s.n. (VIC-1309). 
+Dennstaedtia cicutaria is recognized by veins and laminar tissue between the veins densely 
+with catenate and acicular hairs, indusia purse-shaped with acicular and catenate hairs.           
+ 
+Pteridium Gled. ex Scop., nom. cons. 
+Rhizomes long-creeping, with setose hairs. Leaves large, to 4.5 m long; laminae 3-5-pinnate; 
+veins free; indument formed by catenate hairs, acicular hairs, arachnoid hairs, and/or minute gnarled 
+hairs; sori marginal, linear, continuous along the laminar margins, born on comissural veins; inner 
+indusia vestigial; outer indusia linear (Smith et al. 2006).  
+ 
+Two species plus two species with hybrid origin are currently recognized (Thomson 2012, 
+Zhou et al. 2014, Schwartsburd et al. 2018, 2020). In addition, a total of ca. 20 morpho-taxa are also 
+recognized as infra-specific entities, such as subspecies, varieties, forms, or combinations of more 
+than one rank (e.g., Tryon 1941, Page 1976, Thomson 2012, Schwartsburd et al. 2018). In Brazil, the 
+following taxa are currently recognized: Pteridium caudatum (L.) Maxon, P. esculentum subsp. 
+arachnoideum, P. esculentum subsp. campestre (Schrad.) Schwartsb. & J. Prado, P. esculentum 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+7 
+ 
+subsp. gryphus Schwartsb., P. esculentum var. harpianum Schwartsb. & A. Yañez, and P. esculentum 
+var. paedomorficum Schwartsb. & J. Prado (Schwartsburd 2020). The most common taxon in 
+southeastern Brazil is P. esculentum subsp. arachnoideum, which invades crops and is toxic for cattle, 
+horses, and human ingestion (Schwartsburd et al. 2018). 
+ 
+Pteridium esculentum subsp. arachnoideum (Kaulf.) J.A. Thomson, Telopea 14: 45. 2012. 
+Figure 1 d-g 
+ 
+Plants terrestrial, ticket-forming. Rhizomes long-creeping, with ciliform hairs. Leaves 1.5-
+4.5m long; stipes 0.75-2.5 m long, proximally dark brown, stramineous above, glabrous; laminae 
+0.75-2.5m m long, proximally 3-4-pinnate-pinnatifid; rachises stramineous, glabrous; basal pinnae 
+60-100 × 25-70cm, equilateral; pinnae and pinnules distally with free lobes between the segments; 
+compound distal segments inequilateral, irregularly dissected, caudate at apex; simple distal segments 
+linear, up to 3(-4) cm long; costae abaxially with reddish catenate hairs, adaxially glabrous; costules 
+abaxially with reddish catenate hairs, adaxially glabrous; veins abaxially lanose, with lax, arachnoid 
+hairs, adaxially glabrous; laminar tissue between the veins abaxially and adaxially glabrous; sori 
+marginal, linear, along segment margins, born at the tip of multiple veins; inner indusia vestigial; 
+outer indusia linear. 
+Geographical distribution: Neotropical. 
+Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Entre Viçosa e Visconde do Rio Branco, 11-
+V-2013, P.B. Schwartsburd et al. 2837 (VIC); idem, 11-V-2013, P.B. Schwartsburd et al. 2838 
+(VIC); State Agricultural School, 24-II-1957, H.S. Irwin 2721 (F, TEX-n.v., UC, US, VIC); Escola 
+Superior de Agricultura e Veterinária, 1943, P. Alvin s.n. (VIC-3537); Universidade Federal de 
+Viçosa, Fazendinha, 11-IX-1977, Rosane & Rosângela s.n. (VIC-7962, 7963, 7964, 7965); idem, 
+Mata do Paraíso, Trilha dos Alpes, 9-II-2017, P.B. Schwartsburd et al. 3877 (VIC); idem, Mata do 
+Paraíso, Trilha dos Alpes, 9-II-2017, P.B. Schwartsburd et al. 3879 (VIC); idem, Mata da Biologia, 
+27-III-2019, N.T.L. Pena et al. 783 (VIC); idem, Mata da Biologia, 27-III-2019, N.T.L. Pena et al. 
+784 (VIC).  
+Pteridium esculentum subsp. arachnoideum is recognized by the pinnae and pinnules distally 
+with free lobes between the segments, veins abaxially with arachnoid hairs, and glabrous laminar 
+tissue between the veins. The outer indusia is always present, even in sterile leaves. 
+ 
+Lindsaeaceae 
+Rhizomes short to long-creeping, protostelic with internal phloem, or rarely solenostelic, 
+bearing basally attached, nonclathrate scales or hairs. Leaves monomorphic; laminae simple to 3-
+pinnate or rarely more dissected; veins usually free, occasionally anastomosing and then without 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+8 
+ 
+included veinlets; indument generally absent or formed by 2-celled glandular hairs. Sori marginal or 
+submarginal, extrorse, elongate to linear, protected by outer (not modified) and inner (modified) 
+indusia; spores tetrahedral and trilete, or rarely bilateral and monolete (Smith et al. 2006). 
+ 
+Lindsaea Dryand. ex Sm. 
+Rhizomes short-creeping, with primitive scales. Leaves small to medium-sized, ca. 20 cm to 
+1 m long; laminae simple to 3-pinnate; indument absent or formed by 2-celled glandular hairs; veins 
+generally free; sori marginal or submarginal, elongate, born on comissural veins; inner indusia 
+modified, elongate; outer indusia not modified (Smith et al. 2006). 
+About 180 species, with 34 spp. occurring in Brazil (Kramer 1957, PPG I 2016, Pena et al. 
+2020). 
+ 
+Lindsaea lancea (L.) Bedd. var. lancea, Suppl. Ferns S. Ind. 6.: 292. 1876.  
+Figure 2 a-d 
+ 
+Plants terrestrial. Rhizomes short-creeping, with dark brown, lanceolate scales. Leaves 30-50 
+cm long; stipes 15-25 cm long, dark brown proximally, stramineous above, quadrangular, proximally 
+with dark brown, acuminate scales and sparse 2-celled glandular hairs; laminae 15-25 cm long, 2-
+pinnate; rachises not winged, stramineous, with sparse 2-celled glandular hairs; basal pinnae 10-15cm 
+× 2.5-3.5cm equilateral; pinnules petiolulate, dimidiate, 1.5-2 cm long; costae abaxially and adaxially 
+with sparse 2-celled glandular hairs or glabrescent; veins abaxially and adaxially glabrous; laminar 
+tissue between the veins abaxially and adaxially glabrous; sori continuous, born at the tip of multiple 
+veins; inner indusia membranaceous to papyraceous, the margins entire, wavy, glabrous. 
+Geographical distribution: Neotropical. 
+Specimens examined: BRAZIL. MINAS GERAIS: Viçosa, 1930, Y. Mexia 4639-a (GH-n.v., UC, US, 
+VIC). 
+All Lindsaea spp. from Viçosa are similar in having 2-pinnate laminae and dimidiate pinnules. 
+Lindsaea lancea var. lancea differs from the other two by having continuous sori; L. quadrangularis 
+subsp. quadrangularis differs from the other two by having reddish-brown, winged rachises; and L. 
+stricta var. stricta differs from the other two by having petioles that are terete abaxially. In addition, 
+pinnule lenghts are different between the three taxa: 1.5-2 cm in L. lancea var. lancea, 1.2-1.5 cm in 
+L. quadrangularis subsp. quadrangularis, and to 1 cm in L. stricta var. stricta. 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+9 
+ 
+Lindsaea quadrangularis Raddi subsp. quadrangularis, Opusc. Sci. 3: 294. 1825. 
+Figure 2 e-h 
+ 
+Plants terrestrial. Rhizomes short-creeping, with light brown, lanceolate scales. Leaves 40-75 
+cm long; stipes 25-40 cm long, entirely reddish-brown, quadrangular, proximally with light brown, 
+acuminate scales and sparse 2-celled glandular hairs; laminae 20-40 cm long, 2-pinnate; rachises 
+winged, reddish-brown, with sparse 2-celled glandular hairs; basal pinnae 10-18 × 2-3 cm; pinnules 
+short-petiolulate, dimidiate, 1.2-1.5 cm long; costae abaxially and adaxially with sparse 2-celled 
+glandular hairs; veins abaxially and adaxially glabrous; laminar tissue between the veins abaxially 
+with sparse 2-celled glandular hairs, adaxially glabrous; sori interrupted, born at the tip of multiple 
+veins; indusia membranaceous, the margin dentate, glabrous. 
+Geographical distribution: endemic to the Brazilian Atlantic Forest. 
+Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Agricultural College lands, Hillside of Cha-
+Cha Valley, 1-III-1930, Y. Mexia 4410-a (UC, US-n.v.); s.l., 1935, J.G. Kuhlmann s.n. (VIC-1894). 
+ 
+Lindsaea stricta (Sw.) Dryand. var. stricta, Trans. Linn. Soc. London 3: 42. 1797.  
+Figure 3 a-d 
+ 
+Plants terrestrial. Rhizomes short-creeping, with dark brown, lanceolate scales. Leaves 35-80 
+cm long; stipes 15-50 cm long, dark brown proximally, stramineous above, abaxially terete, adaxially 
+flattened, proximally with dark brown, acuminate scales; laminae 20-35cm long, 2-pinnate or rarely 
+1- or 3-pinnate; rachises not winged, stramineous, with sparse 2-celled glandular hairs or glabrescent; 
+basal pinnae 12-25 cm × 1-2 cm; pinnules short-petiolate, dimidiate or flabellate, to 1 cm long; costae 
+abaxially and adaxially with sparse 2-celled glandular hairs or glabrescent; veins abaxially and 
+adaxially with sparse 2-celled glandular hairs or glabrous; laminar tissue between the veins abaxially 
+and adaxially with sparse 2-celled glandular hairs or glabrous; sori interrupted, born at the tip of 
+multiple veins; inner indusia membranaceous, the margins dentate, glabrous. 
+Geographical distribution: Neotropical. 
+Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: road to Cajurí, Moro Grande, 750 m, 7-I-
+1931, Y. Mexia 5486 (B-n.v., BM-n.v., C-n.v., F, G-n.v., GH-n.v., K-n.v., MO-n.v., NY-n.v., PH-n.v., 
+S-n.v., TEX-n.v., U-n.v., UC, US, VIC); Silvestre, 10-IV-1999, M.G. Bovini 1624 (VIC); 
+Universidade Federal de Viçosa, Mata da Silvicultura, em direção ao Cristo, 740 m, 20º46’S,  
+42º52’W, 31-X-2014, P.B. Schwartsburd et al. 3421, 3423 (VIC); idem, Mata do Paraíso, Trilha dos 
+Alpes, 9-II-2017, P.B. Schwartsburd et al. 3881 (VIC); idem, Recanto das Cigarras, 8-VII-2019, 
+N.T.L. Pena et al. 1049 (VIC). 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+10 
+ 
+Saccolomataceae 
+Rhizomes erect or rarely short-creeping, sometimes forming small trunks, dictyostelic, 
+bearing peltate scales. Leaves monomorphic; stipes with an omega-shaped vascular strand; laminae 
+1-4-pinnate; veins free; indument formed by caduceus scales or rarely by scattered catenate hairs. 
+Sori marginal or submarginal, discrete, extrorse, protected by outer (not modified) and inner 
+(modified) indusia; spores tetrahedral-globose and trilete (Smith et al. 2006). 
+ 
+One pantropical genus with about 24 species (Rojas-Alvarado 2010, Luong et al. 2015, 
+Schwartsburd 2020, Schwartsburd 2022). The adoption of genus Orthiopteris for the Paleotropical 
+species is phylogenetically justified, but lacks morphological support; thus, regarding only 
+Saccoloma in Saccolomataceae is more convenient (Schwartsburd 2022). In Brazil, nine species are 
+currently recognized (Schwartsburd 2022). 
+ 
+Saccoloma Kaulf. 
+Saccoloma elegans Kaulf., Berlin. Jahrb. Pharm. Verbundenen Wiss. 21: 51. 1820. 
+Figure 1 e-l 
+Plants terrestrial. Rhizomes erect to decumbent, stout to trunk-like, glabrescent; leaves 1.2-
+2.2 m long; petioles proximally burgundy, stramineous above, 40-80 cm long, proximally wrinkled 
+to minutely spiny; petiolar scales peltate, blackish, with or without lighter, dentate margins; laminae 
+1-pinnnate 80-140 cm long; rachises stramineous, glabrous; basal pinnae 15-25 × 2.5-3.5 cm; costae 
+abaxially and adaxially glabrous; veins commonly 1-furcate, rarely simple or 2 or 3-furcate (at the 
+base of pinnae), abaxially and adaxially glabrous; sori marginal, discrete, born at the tip of single 
+veins, placed side by side, opening extrorsely; outer indusia not modified; inner indusia hemi-
+umbonate, commonly forming wings connecting adjacent sori. 
+Geographical distribution: Endemic to the Brazilian Atlantic Forest, from Pernambuco to Santa 
+Catarina. 
+Specimens examined: BRAZIL. MINAS GERAIS: Viçosa: Estrada São Miguel-Viçosa [Road to São 
+Miguel], 25-IV-1930, Y. Mexia 4639 (F, IAN, MO-n.v., NY, PH, VIC, UC, US); Escola Superior de 
+Agricultura e Veterinária, s.d., Y. Mexia 4964 (MO-n.v., NY, US, VIC); woods on slope, 710 m, 6-
+X-1930, Y. Mexia 5385-a (UC-2 sheets); Viçosa-Coimbra, km 120, Sítio Bom Sucesso, 13-IX-2002, 
+G.E. Valente & M.L. Batista 1071 (VIC); Mata do Seu Nico, 20°47’S, 42°51’W, 800 m, 6-XI-2012, 
+P.B. Schwartsburd & E. Guatimosin 2618 (NY, RB, UPCB, VIC). 
+Saccoloma elegans is recognized by the 1-pinnate laminae and the discrete sori placed side 
+by side, opening extrorsely. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+11 
+ 
+Acknowledgements 
+ 
+We thank Universidade Federal de Viçosa (UFV) and Programa de Pós-Graduação em 
+Botânica; the Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) for the PhD 
+scholarship to Nelson Túlio Lage Pena; the International Association for Plant Taxonomy (IAPT) for 
+the “Grant 2020” to Nelson Túlio Lage Pena; the students and staff at Herbarium VIC; and Reinaldo 
+Pinto for the illustrations. 
+ 
+Author Contributions 
+ 
+Nelson Túlio Lage Pena: Substantial contribution in the concept and design of the study; 
+Contribution to data collection; Contribution to data analysis and interpretation; Contribution to 
+manuscript preparation.  
+Pedro Bond Schwartsburd: Substantial contribution in the concept and design of the study; 
+Contribution to critical revision, adding intellectual content. 
+ 
+Conflicts of interest  
+ 
+There is no conflict of interest. 
+ 
+Literature cited 
+ 
+Evans, I.A. 1976. Relationship between bracken and cancer. Botanical Journal of the Linnean Society 
+73: 105-112. 
+Gonçalves da Silva, A. & Schwartsburd, P.B. 2017. Ferns of Viçosa, Minas Gerais State, Brazil: 
+Polypodiaceae (Polypodiales, Filicopsida, Tracheophyta). Hoehnea 44: 251-268.  
+IBGE - Instituto Brasileiro de Geografa e Estatística. 2012. Manual técnico da vegetação 
+Brasileira. Série Manuais Técnicos em Geociências, 2ª ed. IBGE, Rio de Janeiro. 
+INMET - Instituto Nacional de Meteorologia. 2021 - Continuous update. Ministério da 
+Agricultura, Pecuária e Abastecimento. Available in http://www.inmet.gov.br/portal/ (access in 
+29-VIII-2021). 
+Kenrick, P. & Crane, P.R. 1997.  The origin and early diversification of land plants. A cladistic 
+study. Smithsonian Institution Press, Washington D.C., USA. 
+Kramer, K.U. 1957. A revision of the genus Lindsaea in the new world with notes on allied genera. 
+Acta Botanica Neerlandica 6: 97-290. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+12 
+ 
+Kramer, K.U. 1990. Dennstaedtiaceae. In: K.U. Kramer, P.S. Green (eds.), v. I, Pteridophytes and 
+Gymnosperms, pp. 81-94. In: K. Kubitzki (ed.). The families and genera of vascular plants. 
+Springer-Verlag, Berlin, Germany. 
+Lellinger, D.B. 2002. A modern multilingual glossary for taxonomic Pteridology. Pteridologia 3: 1-
+263.  
+Luong, T.T., Hovenkamp, P.H. & Sosef, M.S.M. 2015. Revision of the fern genus Orthiopteris 
+(Saccolomataceae) in Malesia and adjacent regions. PhytoKeys 53: 39-71. 
+Marrs, R.H., Le Duc, M.G., Mitchell, R.J., Goddard, D., Paterson, S. & Pakerman, R.J. 2000. 
+The ecology of bracken: Its role in succession and implications for control. Annals of Botany 85: 
+3-15. 
+Martini-Santos, B.J., Peixoto, T.C., Galvão, A., Prado, J.S., Aragão, A.P. & Benevides, M.L.S. 
+2010. Surto de intoxicação aguda por Pteridium arachnoideum (Kaulf.) em bovinos (Outbrake 
+of acute poisoning by Pteridium arachnoideum (Kaulf.) in cattle). Revista Brasileira de Medicina 
+Veterinária 32: 92-96. 
+Miranda, C.V. & Schwartsburd, P.B. 2016. Aquatic ferns from Viçosa (MG, Brazil): Salviniales 
+(Filicopsida; Tracheophyta). Brazilian Journal of Botany 39: 935-942. 
+Oliveira, V.M., Schwartsburd, P.B., Brighenti, A.M., d’Oliveira, P.S. & Miranda, J.E.C. 2018. 
+Plantas tóxicas em pastagens: samambaia-do-campo (Pteridium esculentum subsp. 
+arachnoideum (Kaulf.) Thomson, família Dennstaedtiaceae). Embrapa, Comunicado Técnico 84, 
+Juiz de Fora. 
+Page, C.N. 1976. The taxonomy and phytogeography of bracken. Botanical Journal of the Linnean 
+Society 73: 1-34.  
+Pena, N.T.L., Miranda, C.V., Schwartsburd, P.B., Oliveira, A.G.S. & Smith-Braga, N. 2020. 
+Lindsaeaceae in Flora do Brasil 2020. Jardim Botânico do Rio de Janeiro. Available in 
+http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB91283 (access in 24-XII-2021). 
+PPG I - Pteridophyte Phylogeny Group. 2016. A community-derived classification for extant 
+lycophytes and ferns. Journal of Systematics and Evolution 54: 563-603. 
+Rabelo, L.S. & Schwartsburd, P.B. 2016. Schizaeales (Filicopsida, Tracheophyta) of Viçosa, Minas 
+Gerais, Brazil, with special reference to hybrids. Brittonia 68: 379-396.  
+Rojas-Alvarado, A.F. 2010. Novelties in the Saccoloma inaequale complex (Saccolomataceae) 
+from the Neotropics. Métodos en Ecología y Sistemática 5: 1-16. 
+Schwartsburd, P.B. 2020. Saccolomataceae in Flora e Funga do Brasil 2020. Jardim Botânico do 
+Rio de Janeiro. Available in http://floradobrasil.jbrj.gov.br/reflora/floradobrasil/FB92021 
+(access in 24-XIII-2021). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+13 
+ 
+Schwartsburd, P.B. 2022. Saccoloma (Saccolomataceae) from Brazil, including new species and 
+new combinations. Brittonia 74: 155-179. 
+Schwartsburd, P.B. & Pena, N.T.L. 2020. Dennstaedtiaceae in Flora e Funga do Brasil. Jardim 
+Botânico do Rio de Janeiro. Available in https://floradobrasil.jbrj.gov.br/FB90915 (access in 
+26-VIII-2022). 
+Schwarstsburd, P.B, Yañez, A. & Prado, J. 2018. Formal recognition of six subordinate taxa within 
+the South American bracken fern, Pteridium esculentum (P. esculentum subsp. arachnoideum 
+s.l. - Dennstaedtiaceae), based on morphology and geography. Phytotaxa 333: 22-40. 
+Schwartsburd, P.B., Perrie, L.R., Brownsey, P., Shepherd, L.D., Shang, H., Barrington, D.S. & 
+Sundue, M.A. 2020. New insights into the evolution of the fern family Dennstaedtiaceae from 
+an expanded molecular phylogeny and morphological analysis. Molecular Phylogenetics and 
+Evolution 150: 106881.  
+Shang, H., Sundue, M., Wei, R., Wei, X.P., Luo, J.J., Liu, L., Schwartsburd, P.B., Yan, Y.H. & 
+Zhang, X.C. 2018. Hiya: A new genus segregated from Hypolepis in the fern family 
+Dennstaedtiaceae, based on phylogenetic evidence and character evolution. Molecular 
+Phylogenetics and Evolution 127: 449-458. 
+Smith, A.R., Pryer, K.M., Smith, A.R., Pryer, K.M., Schuettpelz, E., Korall, P., Schneider, H. 
+& Wolf, P.G. 2006. A Classification for Extant Ferns. Taxon 55: 705-731. 
+Thiers, B. [continuously updated]. Index Herbariorum: A global directory of public herbaria and 
+associated staff. New York Botanical Garden’s Virtual Herbarium. Available in 
+http://sweetgum.nybg.org/science/ih/ (access in 26-VIII-2022). 
+Thomson, J.A. 2012. Taxonomic status of diploid southern hemisphere brackens (Pteridium: 
+Dennstaedtiaceae). Telopea 14: 43-48. 
+Tryon, R.M. 1941. Revision of the genus Pteridium. Contributions from the Gray Herbarium of 
+Harvard University 134 (reprint from Rhodora 43): 1-31, 37-67. 
+Tryon, R.M. & Tryon, A.F. 1982. Ferns and allied plants, with special reference to Tropical 
+America. Springer-Verlag, New York. 
+Windisch, P.G. 1992. Pteridófitas da região norte-ocidental do Estado de São Paulo: guia para estudo 
+e excursões. 2 ed. Universidade Estadual Paulista, São José do Rio Preto. 
+ Zhou, S., Dong, W., Chen, X., Zhang, X., Wen, J. & Schneider, H. 2014. How many species of 
+bracken (Pteridium) are there? Assessing the Chinese brackens using molecular evidence. Taxon 
+63: 509-521. 
+ 
+Editora Associada: Regina Yoshie Hirai 
+Submissão: 01/05/2022 
+Aceite: 15/11/2022 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+14 
+ 
+ 
+ 
+Figure 1. a-c. Dennstaedtia cicutaria (Sw.) T. Morre. a. rhizome. b. basal pinna. c. segments, 
+abaxially, showing indument and sori. d-g. Pteridium esculentum subsp. arachnoideum (Kaulf.) J.A. 
+Thomson. d. rhizome. e. pinnule. f. segment, abaxially, showing indument and sori. g. segment in 
+cross section, showing indument and outer indusium (abaxial surface up). 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+15 
+ 
+ 
+Figure 2. a-d. Lindsaea lancea (L.) Bedd. var. lancea. a. rhizome. b. petiole, in cross section. c. leaf. 
+d. pinnule, abaxially, showing sorus. e-h. Lindsaea quadrangularis Raddi subsp. quadrangularis. e. 
+rhizome. f. petiole, in cross section. g. leaf. h. pinnule, abaxially, showing sorus. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3. a-d. Lindsaea stricta (Sw.) Dryand. var. stricta. a. rhizome. b. petiole, in cross section. c. 
+leaf. d. pinnule, abaxially, showing sorus. e-l. Saccoloma elegans Kaulf. e. rhizome. f. and g. petiolar 
+scales. h. medium pinna. i. base of pinna. j. pinna, abaxially, showing venation pattern. k. pinna, 
+abaxially, showing sori. l. apex of pinna. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-15/2022
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)
