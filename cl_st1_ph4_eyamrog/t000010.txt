@@ -1,59 +1,3 @@
-Publication status: Not informed by the submitting author
-Cultural differences in neuropsychological tests and
-intelligence of Cuban preschool children
-Rodneys Mauricio Jiménez Morales, Yaser Ramirez Benitez, Agustín Villarreal, Francisco Joel
-Pérez Hernández
-https://doi.org/10.1590/SciELOPreprints.4785
-Submitted on: 2022-09-25
-Posted on: 2022-10-03 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Cultural differences in neuropsychological tests and intelligence of Cuban 
-preschool children. 
-Autores:  
-- 
-Rodneys Mauricio Jiménez-Morales. Instituto Superior Antonio Ruiz de Montoya 
-(ISARM), Argentina. http://orcid.org/0000-0002-5408-3898      
-- 
-Yaser Ramírez-Benítez. Universidad de Cienfuegos, Cuba. Centro Universitario 
-Municipal Rodas. https://orcid.org/0000-0001-9694-9744   
-- 
-Agustín Villarreal. Instituto de Ciencias Sociales y Humanos (IHSS - CONICET), 
-Argentina. https://orcid.org/0000-0002-7648-6583 
-- 
-Francisco Joel Pérez Hernández. Centro de Estudios de Ciencias de la Educación 
-(CECESS), 
-Universidad 
-José 
-Martí 
-de 
-Sancti 
-Spíritus, 
-Cuba. 
-https://orcid.org/0000-0003-3482-6081 
- 
- 
-Corresponding author information: Prof. Rodneys M. Jiménez-Morales, PhD. 
-Instituto 
-Superior 
-Antonio 
-Ruiz 
-de 
-Montoya 
-(ISARM), 
-Argentina. 
-Email: 
-mauricio770927@gmail.com  
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Abstract 
 The objective of this research was to determine the cultural differences in the execution 
 of neuropsychological tests between a group of preschoolers with typical development in 
 the province of Cienfuegos and another one in Sancti Spíritus, both in Cuba; as well as to 
@@ -66,28 +10,7 @@ neuropsychological variables influencing intellectual performance varied dependi
 the cultural groups. Taken together, the results suggest that cultural differences demand 
 diverse patterns of cognitive skills that uniquely influence the development of intelligence 
 and neuropsychological factors in preschool childhood.  
-Keywords: culture, neuropsychological functions, intelligence, preschool childhood. 
- 
-Resumen 
-La investigación tuvo como objetivo determinar las diferencias culturales en la ejecución 
-de los tests neuropsicológicos entre un grupo de preescolares con desarrollo típico de la 
-provincia de Cienfuegos, y otro de Sancti Spíritus, ambas de Cuba; así como identificar 
-las funciones neuropsicológicas que influyen en el rendimiento intelectual. Fueron 
-seleccionados y subdivididos en grupos 67 niños. Como instrumentos de evaluación 
-neuropsicológica se aplicaron la prueba de inteligencia matrices progresivas de Raven y 
-la batería neuropsicológica Luria Inicial. Los resultados mostraron diferencias 
-significativas en la inteligencia y diversas funciones neuropsicológicas entre las 
-provincias. Las variables neuropsicológicas que influyen en el rendimiento intelectual, 
-varían en dependencia de los grupos culturales. En conjunto, los resultados sugieren que 
-las diferencias culturales demandan diversos patrones de habilidades cognitivas que 
-influyen de forma singular en el desarrollo de la inteligencia y en los factores 
-neuropsicológicos en la infancia preescolar.  
-Palabras clave: cultura, funciones neuropsicológicas, inteligencia, infancia preescolar.  
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Introduction 
+
 The influence of culture and education on the results of neuropsychological tests has been 
 noted for several years, especially the variability between culturally different groups in 
 functions such as language, memory, visuospatial skills and intelligence (Fog, 2021). 
@@ -97,6 +20,7 @@ standardization of the tests, with the effective classification of neuropsycholo
 alterations and with the therapeutic and educational approach in countries with many 
 immigrants such as the United States and the European Community (Mercado et al., 
 2019).  
+
 Faced with this problem, some solution proposals have emerged, firstly, to apply several 
 tests selected from different neuropsychological batteries (cross-battery) (Franzen, et al., 
 2022), and secondly, to apply non-verbal neuropsychological tests (Ben et al., 2021).  
@@ -111,24 +35,27 @@ neurological disease or the ruling of a court may be influenced by the effect of
 and education of the subject. Therefore, an error in diagnosis by classification regulations 
 can change a subject's life, as an inmate with mental retardation or neurological diseases 
 is not sentenced to death (Daugherty, et al., 2017; Puente, et al., 2017). 
+
 Another proposed solution is to use several visual type tests, as it is expected not to have 
 a high cultural and educational burden. The subject to answer this type of tasks should 
 preferably use strategies with a minimum of specialized knowledge, such as up - down, 
 right - left, shallow - deep, size and color. However, nonverbal tests are not completely 
 free of cultural bias, as thinking schemes vary from one culture to another. Nevertheless, 
 in the child population it is an adequate solution.   
+
 Although these solutions exist, some authors recognize that the variability of 
 neuropsychological tests in the pediatric population is more complex than thought.    
 Solovieva et al., (2021), highlight that sociocultural factors have been identified as 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
 determinants to explain the variability of neuropsychological development, while other 
 reviews highlight the effect on psychometric intelligence (Rea-Sandin et al., 2021).  
+
 Scarce neuropsychological research in the child population has shown that children's 
 performance can vary significantly by cultural, educational and socioeconomic effects; in 
 particular, the few results have revealed differences in cognitive and socioemotional 
 development in preschoolers (Lohndorf, et al., 2019). However, Porto et al. (2021), Rea-
 Sandin and Causadias (2021) specify that the variability is more significant in executive 
 functions due to the effect of the parents' educational level.  
+
 The above results have in common the contributions of Ardila (1995), who suggests 
 analyzing neuropsychology and its relationship with culture and education through six 
 units of analysis: (1) the standardization of current basic neuropsychological instruments 
@@ -139,29 +66,32 @@ factors and subcultural variations in relation to test performance, (4) the anal
 cognitive disorders in cases of brain pathology in different cultural and educational 
 contexts, (5) the search for commonalities in neuropsychological performance among 
 existing human groups, and (6) the analysis of the origins of cognitive activity. 
+
 From this position, researchers have used these suggestions to improve the design, 
 validation, and standardization of psychometric and neuropsychological tests in various 
 cultural contexts. Similarly, it has been used to analyze in depth neuropsychological 
 diagnosis in countries with abundant migrants (Daugherty, et al., 2017; Puente, et al., 
 2017).   
+
 However, few scientific studies have been reported where neuropsychological 
 performance is compared in children living together in the same country of origin 
 (Burneo-Garcés, et al., 2018). In addition, the few studies perform a comparative analysis 
 between groups through descriptive statistics and to a lesser extent with more rigorous 
 methodological tools such as Cohen's d.  
+
 In Cuba, attempts have been oriented towards the characterization of preschool children 
 with typical development and in clinical populations (Prieto, et al., 2020) however, few 
 studies have been reported focused on comparing neuropsychological performance in 
 different provinces, which could be an alternative to organize stimulation strategies 
 according to the particularities of the province and its culture.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
+
 In response to these limitations, the present study aims to: (1) Determine the variability 
 of neuropsychological tests between a group of preschoolers with typical development in 
 the province of Cienfuegos and another in Sancti Spiritus, both located in Cuba, and (2) 
 Identify the neuropsychological functions that influence intellectual performance taking 
 into account that both are provinces with different cultural characteristics, but with a 
 similar education policy. 
-Methodology 
+
 In the present research, a cross-sectional comparative study was conducted in the period 
 from January to December 2019. From a total of seventy-seven children aged 5 and 6 
 years with typical development, they were selected and subdivided into groups according 
@@ -169,6 +99,7 @@ to the province of the country (Sancti Spíritus and Cienfuegos) (Table 1). The 
 were balanced following the criteria of methodological parity according to sex in the 
 different provinces of the country studied. The distribution analysis obtained a normal 
 equivalence between both groups (χ2: 0.633). 
+
 The children were randomly selected from several classrooms, using the list provided by 
 the school teachers. The selection of children and educational institutions was made based 
 on the following criteria of the researchers: (1) The children had to reach percentile ≥ 50 
@@ -176,20 +107,19 @@ on the Raven's Matrices intelligence test according to a Cuban cut-off point (Ra
 al. 2017); (2) The children had to be natives of the province of Cienfuegos and Sancti 
 Spíritus from urban area. All study participants were children with typical development, 
 without medical or neurological problems. 
- 
-Measuring instruments 
+
 Raven's Progressive Matrices Intelligence Test. It consists of 36 problems, which are 
 presented in a paper notebook. Each of them consists of an incomplete figure that the 
 child must complete. It is a classic test to measure fluid intelligence. The Cuban norms of 
 Ramírez et al. (2017) were used. The instrument shows adequate levels of reliability in 
 the Cuban context. The analysis indicated, 91% of the items with good discrimination 
 indices (items - total) (Ramírez et al., 2017). 
+
 Luria Inicial neuropsychological battery: The instrument evaluates four domains of 
 cognition for children aged 4 to 6 years, these are: executive, linguistic, speed and 
 memory; as well as, a manual lateralization test (Ramirez, et al., 2015). It is made up of 
 14 tests that are grouped into executive domain (test 1 to 5: manual dexterity, right-left 
 orientation, manual gestures and orofacial praxis, verbal control of the motor act, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
 reproduction of visuospatial patterns). Linguistic domain (tests 6 to 10: visual perception 
 of objects and sets of drawings for naming, phonemic hearing, vocabulary in images, 
 reasoning by verbal analogy and numerical operations). Processing speed domain (tests 
@@ -198,36 +128,36 @@ and 14: verbal memory and visual memory). Manual laterality (preference, speed a
 manual recognition) in order to know the state of specialization of the cerebral 
 hemispheres. In the proposed research, the Cuban regulations were used (Ramírez, et al., 
 2015). 
- 
-Procedure 
+
 The purpose of this research was initially explained to school principals. Subsequently, 
 preschool teachers were informed of the characteristics of the different 
 neuropsychological tests; so also parents were contacted and interviewed. Parental 
 consent was obtained and parents were given the time needed to complete the 
 neuropsychological screening battery.  
-Ethics Committee Approval Statement 
+
 The Research Ethics Committee of the Center for the Study of Educational Sciences, 
 Faculty of Pedagogical Sciences of the “José Martí Pérez” University of Sancti Spíritus, 
 Cuba approved the research. 
+
 The research was carried out in three sessions, with a duration of 45 to 60 minutes and 5 
 minutes of rest when the children required it. In the first session, the children's Raven test 
 was performed; and in the second and third sessions, the Luria Initial Neuropsychological 
 Battery was administered. They were distributed in this way, with the aim of avoiding 
 mental fatigue and demotivation of the child by the instrument. 
- 
-Statistical analysis of the data 
+
 Once the primary data were collected, a database was created with the study variables, 
 using the SPSS statistical package for Windows version 11.5, to facilitate the statistical 
 processing of the information. The study variables were characterized using the arithmetic 
 mean, standard deviation and contingency table.  
+
 First, the Chi-square test was used to determine the parity criteria between some 
 demographic variables of the study, such as sex. The t-test (mean comparison test for 
 independent samples) was used to compare the mean of the study groups in the different 
 neuropsychological variables and intelligence. The calculation of the magnitude of the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
 effect size was applied in order to identify the size of the differences in the variables 
 studied. For this purpose, Cohen's d was used, where values of 0.2, 0.5 and 0.8 represent 
 small, medium and large effect sizes, respectively.  
+
 A simple linear regression analysis was performed using the values of the 
 neuropsychological tests in the two provinces of the country. Neuropsychological 
 variables were used as predictors (independent variable) and the dependent variables were 
@@ -236,35 +166,10 @@ preschoolers. A radial graph was used for the presentation of the results with t
 of representing the neuropsychological profiles based on the weaknesses and strengths 
 between both provinces of the country. In all cases when the significance of the test was 
 less than 0.05, then we say that significant differences exist. 
-Results 
+
 In the analysis of the demographic variables, no differences were found with respect to 
 sex and age in the two provinces of the country (Table 1).  
-Table 1. General characteristics of the sample of children aged 5 to 6 years in the different provinces. 
-Characteristics  
-Sancti Spíritus 
-(n-34) 
-Cienfuegos 
-(n-35) 
-t /χ2 
-p 
-Age (SD) 
-5,61(0,445) 
-5,46 (0,271) 
-1,652 
- 
-0,103 
-Female (%) 
-18 (52,9) 
-16 (45,7) 
- 
-0,129 
- 
-0,633 
-Male (%) 
-16 (47,1) 
-19 (54,3) 
-Note: SD: standard deviation; χ2: chi-square test; t: comparison index. 
- 
+
 The table 2 shows the results of the differences in neuropsychological development and 
 intelligence in preschoolers in the two provinces of the country. According to Students’t, 
 there are significant differences in intelligence, manual dexterity, manual gestures and 
@@ -273,341 +178,19 @@ phonematic hearing, vocabulary in images, numerical operations, quick denominati
 colors, in favor of the group belonging to the province of Sancti Spíritus. However, 
 significant differences in picture naming and visual memory were obtained in favor of 
 the group belonging to the province of Cienfuegos (Figure 1).  
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Table 2. Difference between the province of Sancti Spíritus and Cienfuegos in neuropsychological tests 
-and intelligence in preschool children. 
-Neuropsychological 
-variables 
-Provincia        
-Sancti Spíritus 
-(n-34) 
-Provincia 
-Cienfuegos 
-(n-35) 
-Prueba T 
-M 
-DE 
-M 
-DE 
-t 
-Sig. 
-d 
-Intelligence  
-18.21 
-2.143 
-14.40 
-1.143 
-9,242 
-0,000** 
-2.23 
-Manual motor skills 
-12.15 
-2.190 
-9.40 
-1.241 
-6,434 
-0,000** 
-1.55 
-Right-left orientation 
-10.68 
-3.373 
-9.83 
-1.445 
-1,364 
-0,177 
-0.33 
-Gestures and praxis 
-17.88 
-1.771 
-13.51 
-1.358 
-11,515 
-0,000** 
-2.77 
-Verbal regulation 
-11.53 
-2.501 
-8.99 
-1.638 
-5,011 
-0,000** 
-1.21 
-Spatial orientation 
-3.88 
-1.701 
-3.80 
-0.964 
-0,248 
-0,805 
-0.06 
-Naming objects and 
-pictures 
-16.00 
-1.279 
-12.23 
-3.154 
-6,474 
-0,000** 
-1.56 
-Phonetic hearing 
-12.29 
-1.750 
-11.34 
-1.846 
-2,195 
-0,032* 
-0.52 
-Picture vocabulary 
-19.24 
-1.415 
-18.06 
-1.924 
-2,890 
-0,005* 
-0.70 
-Similarity and 
-difference 
-2.97 
-1.425 
-2.91 
-.658 
-0,212 
-0,833 
-0.05 
-Number operations 
-4.15 
-1.329 
-3.09 
-1.669 
-2,917 
-0,005* 
-0.70 
-Picture naming 
-40.29 
-9.418 
-48.11 
-2.763 
--4,709 
-0,000** 
-1.13 
-Color naming 
-33.21 
-7.049 
-22.43 
-2.417 
-8,545 
-0,000** 
-2.06 
-Visual memory 
-5.03 
-1.000 
-6.26 
-1.656 
--3,716 
-0,000** 
- 
-0.90 
-Verbal memory 
-25.09 
-4.288 
-19.97 
-2.717 
-5,939 
-0,000** 
- 
-1.43 
-Right limb 
-5.79 
-1.038 
-5.97 
-1.963 
--0,467 
-0,642 
-0.11 
-Left limb 
-4.88 
-1.200 
-5.43 
-2.404 
--1,188 
-0,239 
-0,30 
-Note: M: Mean, SD: Standard Deviation, t: comparison index, Sig: Significance, d: effect size. * p<0.05, 
-** p<0.01. 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 1. Analysis of neuropsychological tests and intellectual performance in the groups studied. 
-Intelligence (I), Manual motor skills (MM), Right-left orientation (ODI), Gestures and praxis (GP), Verbal 
-regulation (VR), Spatial orientation (OE), Naming objects and pictures (NOF), Phonetic hearing (AF), 
-Picture vocabulary (VI), Similarity and difference (SD), Numerical operations (ON), Picture naming (DD), 
-Color naming (DC), Visual memory (Mvi), Verbal memory (Mve), Right limb (MD) and Left limb (MI). 
- 
+
 No differences in manual laterality were found between the two provinces of the country. 
 Cohen's d was calculated to obtain the effect sizes (Table 2). 
+
 When the level of prediction presented by the results of the neuropsychological variables 
 on intelligence was checked, disparate and coincident findings were found between the 
 provinces of Sancti Spíritus and Cienfuegos. 
+
 First, the processes of right-left orientation, verbal regulation, spatial orientation, naming 
 objects and drawings, similarities and differences; as well as numerical operations were 
 predictors of intellectual performance in both preschool children of Sancti Spíritus and 
 Cienfuegos provinces (Table 3). 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Table 3. Linear regression analysis between neuropsychological processes on intellectual performance in 
-preschool children based on different provinces of the country. 
-Variables 
-Sancti Spíritus 
-(n-34) 
-Cienfuegos 
-(n-35) 
-Adj. R2 
-β 
-p-value 
-Adj. R2 
-β 
-p-value 
-Manual motor skills 
-0.089 
-0.335 
-0.048* 
--0.016 
--0.107 
-.507 
-Right-left orientation 
-0.091 
-0.219 
-0.046* 
-0.379 
-0.499 
-0.000** 
-Gestures and praxis 
-0.000 
-0.211 
-0.324 
-0.526 
-0.618 
-0.000** 
-Verbal regulation 
-0.362 
-0.529 
-0.000** 
-0.371 
-0.435 
-0.000** 
-Spatial orientation 
-0.207 
-0.605 
-0.004* 
-0.153 
-0.500 
-0.012* 
-Naming objects and 
-pictures 
-0.170 
-0.741 
-0.009 
-0.723 
-0.310 
-0.000** 
-Phonetic hearing 
-0.046 
-0.336 
-0.117 
-0.648 
-0.502 
-0.000** 
-Picture vocabulary 
--0.022 
-0.141 
-0.599 
-0.660 
-0.486 
-0.000** 
-Similarity and 
-difference 
-0.117 
-0.570 
-0.027 
-0.491 
-1.234 
-0.000** 
-Number operations 
-0.237 
-0.823 
-0.002* 
-0.483 
-0.483 
-0.000** 
-Picture naming 
-0.182 
--0.104 
-0.007* 
-0.069 
-0.129 
-0.069 
-Color naming 
-0.045 
--0.083 
-0.120 
-0.217 
-0.232 
-0.003* 
-Visual memory 
-0.004 
-0.093 
-0.292 
--0.023 
--0.034 
-0.642 
-Verbal memory 
--0.028 
--0.128 
-0.738 
--0.030 
--0.012 
-0.922 
-Right limb 
-0.252 
-1.081 
-0.001* 
-0.038 
--0.150 
-0.136 
-Left limb 
-0.064 
-0.543 
-0.080 
--0.030 
--0.005 
-0.951 
-Note: Adj. R2: adjusted coefficient of determination, β: unstandardized beta coefficient. * p<0.05, ** 
-p<0.01. 
+
 Secondly, although neuropsychological variables coincide in both provinces of the 
 country, there are particular differences that are relevant in the research. For example: in 
 the province of Sancti Spíritus, it has been proved that fine motor skills (t= 2.059; p= 
@@ -617,15 +200,14 @@ intellectual performance in preschoolers of this province. The level of predicti
 variable fluctuated between 0.089 and 0.252 (Table 3), while the performance of the same 
 neuropsychological tasks, in the Cienfuegos group, were not predictors for the 
 development of intelligence in children. 
+
 On the other hand, gestures and praxis (t= 6.229; p= 0.000), phonemic hearing (t= 7.974; 
 p= 0.000), picture vocabulary (t= 8.187; p= 0.000), and color naming (t= 3.228; p= 0.003) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
 were found to significantly predict the variability of intellectual performance in children 
 from Cienfuegos province. The level of prediction for each variable ranged from 0.217 to 
 0.660 (Table 3). The results of the same neuropsychological tests in children from Sancti 
 Spíritus, were not significant in predicting the variability of intelligence performance. 
- 
-Discussion 
+
 The present investigation revealed that the neuropsychological performance of the 
 espirituanos was notably better than the cienfuegueros in the tests that evaluated executive 
 functions (manual motor skills, gestures and praxis, verbal regulation), language (naming 
@@ -633,11 +215,13 @@ objects and figures, phonemic hearing, image vocabulary and numerical operations
 speed in naming colors and verbal memory. Cienfuegos preschool children obtained 
 better results in speed in naming pictures and in visual memory. In intellectual 
 performance, there were also significant differences between the two groups.  
+
 In the case of executive functions or functions related to frontal lobe development, Ardila 
 et al. (1995) have shown that one factor that may influence the differences between groups 
 is the socioeconomic status of the parents. However, some studies indicate that it has no 
 effect on Cuban child development (Jiménez-Colín, et al., 2018), although others indicate 
 the opposite (Mora & Anangonó, 2016). 
+
 Porto et al., (2021) showed the importance of language in parents and its influence on the 
 neuropsychological development of the child. According to these authors, the educational 
 level of the parents is a good measure to expect a good development in the child and 
@@ -648,20 +232,22 @@ condition may not be the ideal one to justify the differences between the Cienfu
 Santi Spíritus groups; however, it should be reviewed, since sometimes highly educated 
 or professional parents are very busy and share their child's education with other non-
 professionals (caregivers).  
+
 From this last idea, a result of Fernández-Hernández et al. (2022) emerges, which showed 
 that parents who participate little in recreational and sports activities with their children 
 have a negative effect on the development of executive functions in their children. The 
 question is, do parents from Cienfuegos and Espiritu play with their children frequently? 
 What kind of games do they use? These are interesting questions that could justify part 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
 of the results of the study. In this sense, these questions could open the doors to new 
 propositions for future lines of scientific research on preschool children.   
+
 If the differences between groups are important, the similarities are a point of analysis of 
 the problem. In both groups, age, sex, urbanity and the educational model (Cuban 
 program in preschool education) were controlled. Therefore, these variables do not justify 
 the neuropsychological variability between the groups. Similarly, the variables right-left 
 orientation, similarity and differences, as well as manual laterality did not show 
 differences between the groups. 
+
 These results can be justified according to the intense or low educational stimulation in 
 both groups. It is thought that intense stimulation may explain the similarity because most 
 preschool games contain many activities where comparisons are made between objects 
@@ -671,6 +257,7 @@ possible to think of low stimulation or slow development in these neuropsycholog
 variables. In other Cuban research similarity - difference and right - left orientation have 
 been identified as skills with slow development in preschool children according to their 
 chronological age (Ramirez, et al., 2015).  
+
 Regarding the intellectual development of the groups, it could be observed that the 
 performance in the Raven test of the espirituanos was significantly higher compared to 
 the Cienfuegueros group. These obtained results emphasize the notion that nonverbal tests 
@@ -680,15 +267,16 @@ between subjects. Certainly, Raven's Matrices require simple solution strategies
 down, right-left), although they also include other implicit strategies such as induction-
 deduction, comparison of inferences, classification, hypothesis generation and evaluation, 
 identification of relationships and extrapolation of images. 
+
 The study showed that performance on various neuropsychological tasks influence 
 variability in IQ, which is consistent with results from previous studies (Muchiut et al., 
 2021). However, in the group of children from Sancti Spíritus province (higher IQ group) 
 it was detected that fine motor and manual skills, increased as key neuropsychological 
 predictors contributing to higher intellectual performance in preschool childhood.  
+
 Indeed, frontal lobe development favors the development of motor and fluid intelligence, 
 both of which benefit from the maturation of these brain structures (Khng & Ng, 2021). 
 Therefore, the evidence verifies that intelligence can be stimulated not only with 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
 reasoning-type tasks, but also with game situations and activities where perception and 
 motor skills lead to reasoning and analysis. In the same sense, this result is consistent with 
 the study by Fernández-Hernández et al. (2022), who revealed that the child's physical 
@@ -701,6 +289,7 @@ first, the standardization and validity of tests according to the characteristic
 Second, to establish norms for classifying and issuing a diagnosis. Third, to make an 
 assessment of the sociocultural characteristics of the child, including its context, parental 
 stimulation and the educational institutions involved.  
+
 Thus, the present research considers that neuropsychological and intellectual 
 development in preschool childhood depends on sociocultural factors. These factors 
 should be analyzed by different categories that will allow a better visibility of their 
@@ -710,152 +299,3 @@ activities), and the educational institutions (educational programs, type of edu
 frequency of stimulation, activities carried out).  It would be important for future research 
 to observe these variables from the sociology of culture and their relationship with the 
 development of neuropsychological functions. 
- 
-Conflict of Interest 
-The authors declare that they have no conflicts of interest. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Referencias bibliográficas  
-Ardila, A. (1995). Directions of research in cross-cultural neuropsychology. Journal of 
-Clinical and Experimental Neuropsychology, 17, 1, 143-150. https://Doi: 
-10.1080/13803399508406589   
-Burneo-Garcés, C., Cruz-Quintana, F., Pérez-García, M., Fernández-Alcántara, M., 
-Fasfous, A., & Pérez-Marfil, M. N. (2019). Interaction between socioeconomic 
-status and cognitive development in children aged 7, 9, and 11 years: a cross-
-sectional study. Developmental Neuropsychology, 44, 1, 1-16. https://doi: 
-10.1080/87565641.2018.1554662   
-Ben Itzhak, N., Vancleef, K., Franki, I., Laenen, A., Wagemans, J., & Ortibus, E. (2021). 
-Quantifying visuoperceptual profiles of children with cerebral visual impairment. 
-Child Neuropsychology, 27(8), 995-1023.  
-Daugherty, J. C., Puente, A. E., Fasfous, A. F., Hidalgo-Ruzzante, N., & Pérez-Garcia, 
-M. (2017). Diagnostic mistakes of culturally diverse individuals when using North 
-American neuropsychological tests. Applied Neuropsychology: Adult, 24, 1, 16-
-22. https://Doi:10.1080/23279095.2015.1036992  
-Fernández-Hernández, A., Conesa-Cervera, P., Belando, N., Ardoy, D. N., & Valero-
-Valenzuela, A. (2022). Funciones ejecutivas, condiciones físicas y composición 
-corporal en función del tipo de pedagogía experimentada por el alumnado de 
-educación primaria. Journal of Sport & Health Research, 14, 1, 75 – 86.   
-Franzen, S., European Consortium on Cross-Cultural Neuropsychology (ECCroN), 
-Watermeyer, T. J., Pomati, S., Papma, J. M., Nielsen, T. R., ... & Bekkhus-
-Wetterberg, P. (2022). Cross-cultural neuropsychological assessment in Europe: 
-Position 
-statement 
-of 
-the 
-European 
-Consortium 
-on 
-Cross-Cultural 
-Neuropsychology (ECCroN). The Clinical Neuropsychologist, 36, 3, 546-557.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Fog, A. (2021). A test of the reproducibility of the clustering of cultural variables. Cross-
-Cultural Research, 55, 1, 29-57.  
-Jiménez-Colín, M., Ricardo-Garcell, J., Bosch-Bayard, J., Cruz-Rivero, E., Salvador-
-Cruz, J., Pasaye-Alcaraz, E. H., & Harmony-Baillet, T. (2018). Influence of 
-socioeconomic status on cognitive and electroencephalographic variables in 
-school children at risk of brain damage. Revista Cubana de Pediatría, 90, 2, 262-
-275.  
-Khng, K. H., & Ng, E. L. (2021). Fine motor and executive functioning skills predict 
-maths and spelling skills at the start of kindergarten: a compensatory account. 
-Journal for the Study of Education and Development, 44, 3, 675-718.  
-Lohndorf, RT., Vermeer, HJ., Cárcamo, RA., Harpec, C. & Mesman J. (2019). 
-Preschoolers’ problem behavior, prosocial behavior, and languageability in a 
-Latin-American context: The roles of child executive functions and socialization 
-environments. Early Childhood Research Quarterly, 48, 2019, 36–49.  
-Mercado, A., Venta, A., Henderson, C., & Pimentel, N. (2021). Trauma and cultural 
-values in the health of recently immigrated families. Journal of Health 
-Psychology, 26, 5, 728-740.   
-Mora, R. M., & Anangonó, M. B. (2016). Maltrato infantil y factores sociodemográficos-
-ambientales asociados a niños con retraso del desarrollo psicomotor (Habana 
-Vieja, 2010–2013). Revista Cubana de Neurología y Neurocirugía, 6, 1, 17-25.  
-Muchiut, Á. F., Vaccaro, P., & Pietto, M. L. (2021). Inteligencia, funciones ejecutivas y 
-rendimiento académico de adolescentes de 13 y 14 años de Resistencia (Chaco, 
-Argentina). Interdisciplinaria, 38, 3, 83-102.  
-Porto, M., Puerta-Morales, L., Gelves-Ospina, M., & Urrego-Betancourt, Y. (2021). 
-Funciones Ejecutivas y Rendimiento Académico en Educación Primaria de la 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Costa Colombiana. Electronic Journal of Research in Educational Psychology, 
-19, 54, 351- 368.  
-Prieto, M. F. A., García, D. F. G., & Lozada, C. F. R. (2020). Riesgos prenatales, 
-perinatales y neonatales asociados a signos neurológicos blandos. Revista Cubana 
-de Pediatría, 92, 1, 1-21.  
-Puente, A. E., Mejia, A. M., & Kuwabara, H. C. (2017). A Complex Case of Tri-lingual, 
-Tri-cultural, Bi-racial, and Multiple Medical Comorbidities. Journal of Pediatric 
-Neuropsychology, 3, 2, 156-169. http://dx.doi.org/10.1007/s40817-017-0043-2.  
-Ramírez-Benítez, Y., Bermúdez, B. & Acea, S. (2017). Matrices progresivas de Raven: 
-Percentiles para preescolares cubanos de entre 4 y 6 años. Evaluar, 17, 2, 32-46. 
-https://doi.org/10.35670/1667-4545.v17.n2.18720   
-Ramírez-Benítez, Y., Díaz, M., Jiménez-Morales, R.M. & Fárdales, V.E. (2015). Normas 
-cubanas del instrumento neuropsicológico Luria Inicial para niños preescolares 4-
-6 años. Cuadernos de Neuropsicología, 9, 2, 49-69. https:// doi: 
-10.7714/cnps/9.2.20  
-Rea-Sandin, G., Korous, K. M., & Causadias, J. M. (2021). A systematic review and 
-meta-analysis of racial/ethnic differences and similarities in executive function 
-performance in the United States. Neuropsychology, 35, 2, 141- 156.  
-Solovieva Y., Athanasios, K., & Luis, Q. (2021). Neuropsychological Assessment of 
-Difficulties in Reading Spanish: A Cultural-Historical Approach. Psychology in 
-Russia: State of the art, 14, 4, 51-64.  
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-Authors' contribution 
-- 
-Rodneys Mauricio Jiménez-Morales. Conceptualization, Data curation, Formal 
-Analysis, Funding 
-acquisition, Investigation, Methodology, Resources, 
-Supervision, Validation, Visualization, Writing – original draft, Writing – review 
-& editing  
-- 
-Yaser Ramírez-Benítez. Conceptualization, Data curation, Formal Analysis, 
-Funding acquisition, Investigation, Methodology, Resources, Supervision, 
-Validation, Visualization, Writing – original draft, Writing – review & editing 
-- 
-Agustín Villarreal. Conceptualization, Supervision, Validation, Methodology, 
-Visualization, Writing – original draft.  
-- 
-Francisco Joel Pérez Hernández. Conceptualization, Supervision, Validation, 
-Methodology, Visualization, Writing – original draft.  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4785
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

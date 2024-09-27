@@ -1,24 +1,3 @@
-Publication status: Preprint has been submitted for publication in journal
-MOBILIZING LINGUISTIC AND SEMIOTIC RESOURCES,
-CONSTRUCTING IDENTITIES IN LOCAL LIFE WORLDS: MIGRANT
-WORKERS FROM TIMOR- LESTE AND THEIR FOOTBALL CLUBS
-Estêvão Cabral, Marylin Martin-Jones
-https://doi.org/10.1590/010318138669235v61n32022
-Submitted on: 2022-11-07
-Posted on: 2022-11-07 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-http://dx.doi.org/10.1590/010318138669235v61n32022
-Preprint
-MOBILIZING LINGUISTIC AND SEMIOTIC RESOURCES, CONSTRUCTING 
-IDENTITIES IN LOCAL LIFE WORLDS: MIGRANT WORKERS FROM TIMOR-
-LESTE AND THEIR FOOTBALL CLUBS
-MOBILIZANDO RECURSOS LINGUÍSTICOS E SEMIÓTICOS, CONSTRUINDO 
-IDENTIDADES NOS MUNDOS DA VIDA LOCAIS: TRABALHADORES MIGRANTES DE 
-TIMOR-LESTE E SEUS CLUBES DE FUTEBOL
-Estêvão Cabral*
-Marilyn Martin-Jones**
-ABSTRACT
 This paper is based on research of a sociolinguistic and ethnographic nature, which was carried out with young migrants from 
 Timor-Leste, who were based in a small town in Northern Ireland (CABRAL; MARTIN-JONES, 2017). Through this research 
 we traced their migration trajectories (via Portugal or England), and we documented the agentive ways in which they were dealing 
@@ -31,40 +10,9 @@ indexed different globalised cultural worlds of football; (2.) the language reso
 Tetum, Portuguese and English), and their organisational practices, their ethos and their funds of knowledge; (3.) the significance 
 of the scheduling of football tournaments around key dates in the establishment of the nation of Timor-Leste – a regular practice 
 that indexed an orientation to a shared national origin.
-Keywords: Timor-Leste; migration trajectories; mooring; life worlds; conviviality; identities; football; language resources; 
-linguistic, cultural and semiotic practices
-RESUMO
-Este artigo é baseado numa pesquisa de caráter sociolinguístico e etnográfico, que foi feita com migrantes de Timor-Leste numa 
-pequena cidade na Irlanda do Norte (CABRAL; MARTIN-JONES, 2017). Através desta pesquisa, traçamos as suas trajetórias de 
-migração (via Portugal ou Inglaterra) e documentamos os modos agentivos que eles encontraram para lidar com as condições de 
-estabelecimento e de emprego e, ao mesmo tempo, de criar novos espaços de solidariedade e convivialidade nos mundos da vida 
-locais. Aqui, focamo-nos em um mundo em particular – o do desporto – e nos nove clubes de futebol formados para homens e 
-jovens timorenses naquele contexto irlandês. Descrevemos e analisamos três aspetos diferentes de práticas de comunicação que 
-se desenvolveram à volta do futebol: (1.) as práticas linguísticas, culturais e semióticas envolvidas na escolha de nomes e “marcas” 
-(branding) para os clubes, em especial, práticas que indexavam diversas identidades timorenses (de diferentes regiões de Timor-
-Leste) e que indexavam diferentes mundos culturais e globalizados de futebol; (2.) os recursos linguísticos dos “treinadores” 
-dos clubes (inclusive Tétum, Português e Inglês), as suas práticas de organização, os seus sistemas de valores e os seus fundos de 
-conhecimento; (3.) o sentido da programação dos torneios de futebol em torno de datas importantes na construção da nação de 
-Timor-Leste – uma prática regular evocava uma orientação para uma identidade nacional partilhada. 
-Palavras-chave: Timor-Leste; trajetórias de migração; amarração (mooring); mundos da vida; convivialidade; práticas linguísticas, 
-culturais e semióticas
-INTRODUCTION
+
 This paper draws on research, of a sociolinguistic ethnographic nature, conducted with young migrant workers 
 from Timor-Leste based in a small town in Northern Ireland (CABRAL; MARTIN-JONES, 2017). The overall aims 
-*	 Independent researcher, estevao.cabral@gmail.com
-	
-Orcid: https://orcid.org/0000-0003-3819-9863
-**	Emeritus Professor in the MOSAIC Group, School of Education, University of Birmingham, United Kingdom. m.martinjones@bham.ac.uk.
-	
-Orcid: https://orcid.org/0000-0001-6956-8639
-Trabalhos em Linguística Aplicada renders public this preprint hosted on SciELO Preprints, which is an integral part of the 
-SciELO collection. The text was formally approved after peer review. Its final version, with possible modifications, 
-will be published in an upcoming issue of the journal.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Preprint	
-Cabral & Martin-Jones
-2	
-Trab. Ling. Aplic., Campinas
 of this research were: (1.) to build an account of the life histories of a small sample of these young Timorese, taking 
 account of their education and prior work experience in Timor-Leste and their migration trajectories from Timor-
 Leste to Northern Ireland (via Portugal or England); (2.) to document the ways in which they were dealing with 
@@ -72,6 +20,7 @@ the local conditions of settlement and employment; (3.) to gain insight into the
 creating new spaces of solidarity and conviviality within local life worlds, and (4.) to focus on the ways in which 
 they were drawing on different linguistic, cultural and semiotic resources (including Portuguese) as they built new 
 transnational and transcultural identities within local life worlds.
+
 In this paper, we focus on one particular life world: that of sport and, in particular, the nine football clubs that 
 had been formed for men and boys, in this small-town context. We describe and analyse three different aspects of 
 the social, cultural and semiotic practices that were developing around the football: (1.) The linguistic, cultural and 
@@ -81,6 +30,7 @@ football; (2.) the language resources of the Timorese club managers (including T
 their organisational practices, their ethos and their funds of knowledge; (3.) the significance of the scheduling of the 
 football tournaments around key dates in the establishment of the nation of Timor-Leste – a regular practice that 
 indexed an orientation to a shared national origin.
+
 Our research revealed the situated and multifaceted ways in which these Timorese migrants were constructing 
 identities within this particular life world, along with the agentive ways in which they drew on different linguistic, 
 cultural and semiotic resources, in doing so. It demonstrated the need to rethink the design and scope of contemporary 
@@ -91,6 +41,7 @@ Hannam et al. (2006) referred to as mooring and to the communicative practices t
 processes of mooring. It is only by adopting a dual focus on migration and mooring that we can build a full picture of 
 the ways in which multilingual resources are reconfigured in the context of transnational migration and the ways in 
 which identities are constructed in different domains of social life.
+
 The orienting theories for our research come from the field of multilingualism, from the sociolinguistics of 
 globalization, from anthropological research on migration and diaspora and from recent writing by sociologists about 
 mobilities and mooring. In the next section of this paper, we touch on overlapping lines of theory-building in these 
@@ -107,19 +58,15 @@ funds of knowledge are drawn upon by club organisers and managers in the organis
 point to the complex processes of identification at work in this sports context, and to the multifaceted local ways of 
 representing what counts as being Timorese. Then, in the two final sections, we offer reflections on the significance 
 of the insights we have gleaned from the research that we have done thus far.  
-1. ORIENTING THEORIES 
+
 The last decade of the twentieth century and the first decade of the twenty-first century saw a surge of interest, 
 across the social sciences, in globalisation. In the sociological and anthropological literature of this period, there was 
 a wealth of theory-building and commentary on the changing social and cultural conditions of the late modern age 
 (e.g. HARVEY, 1989, APPADURAI, 1996, CASTELLS, 2000, HANNERZ, 1996). Attention was drawn to the 
 different types of changes ushered in by globalisation: the intensification of transnational population flows, the rapid 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Mobilizing linguistic and semiotic resources, constructing identities in local life worlds...	
-Preprint
-Trab. Ling. Aplic., Campinas	
-3
 development of new communication technologies and the transformation of the political and economic landscapes 
 of different regions of the world. 
+
 By the first decade of the twenty first century, sociolinguists began to make their own significant contributions to 
 this emerging body of research, through empirical work and theory building. They contributed to the characterisation 
 of the political, economic and cultural conditions of late modernity and to the identification of the ways in which 
@@ -127,12 +74,14 @@ language practices and ideologies organise and legitimise these conditions (COUP
 2011, BLOMMAERT, 2010, DUCHÊNE; HELLER, 2012, HELLER et al. 2016). Here, we focus in on the specific 
 epistemological shifts that have taken place in the sociolinguistics of multilingualism and we show how the specific 
 debates in this field guided our own thinking as we undertook this research with Timorese in the UK. 
+
 For most of the twentieth century, the dominant concern in the sociolinguistics of multilingualism was with 
 the mapping of patterns of language use in local ‘communities’ – communities that were constructed as stable, 
 homogeneous and bounded entities. Pratt (1987, p. 60) was the first to call for a de-centering of the notion of 
 “community” and for a move towards a “linguistics of contact”. She argued that such research would focus on “modes 
 and zones of contact between dominant and dominated groups, between persons of different and multiple identities, 
 speakers of different languages”.  
+
 Along with this critique of essentialised notions of community, we also saw the development of a new 
 orientation, across the social sciences, to the study of contemporary mobilities. A broad epistemological shift took 
 place away from “sedentarist approaches” (HANNAM et al., 2006, p. 5) and towards a new concern with mobility, 
@@ -148,11 +97,13 @@ are shaped within these trajectories. The notion of trajectory provides a way of
 dimensions of time and space, and of moving away from synchronic accounts. In addition, it enables us to capture 
 some of the complexity of contemporary transnational movements, including those that involve extended sojourns 
 in different countries and, hence, access to diverse language resources and funds of knowledge  
+
 In his volume on the sociolinguistics of globalisation, Blommaert (2010) called for a “sociolinguistics of 
 mobile resources”, one that takes account of the diverse material and symbolic ties that get established across global 
 networks. He argued that we need a sociolinguistic analysis that represents linguistic and semiotic phenomena as 
 being located and distributed across scales, from global to local, and specifically, one that interrogates the links 
 between scales. 
+
 As the mobility paradigm has been developed in sociolinguistics, and across the social sciences, there has 
 however been growing divergence of views. In one strand of work (e.g. CRESSWELL, 2002, BRENNER, 2004, 
 HANNAM et al., 2006, URRY, 2007), there has been a critique of research where there is an exclusive focus on 
@@ -161,6 +112,7 @@ as a pervasive condition of postmodernity or globalization” (HANNAM et al., 20
 argued that an account of mobilities is incomplete without reference to moorings and reterritorializations.  They 
 argue that “forms of detachment or ‘deterritorialization’…are always accompanied by rhizomic attachments and 
 reterritorializations of various kinds” (HANNAM et al., 2006, p. 3). 
+
 Aligning ourselves with this strand of work, we take the view that, in our endeavours to provide as full an 
 account as possible of the lived experience of migration among different groups of social actors, we need to keep both 
 mobility and mooring (or even re-mooring) within our sights, since, as Hannam et al. (2006, p. 2) put it: “mobilities 
@@ -169,17 +121,14 @@ at the same time, we need to capture the situated ways in which mooring (or re-m
 in which new forms of social organization, new communities of practice (WENGER, 1998) and new social activities 
 come to be imbued with meaning. Studies of migration, within the disciplines of anthropology and cultural studies 
 (e.g. BRAH, 1996, FORTIER, 2000, AHMED et al., 2003) have sustained this dual focus. They have provided 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Preprint	
-Cabral & Martin-Jones
-4	
-Trab. Ling. Aplic., Campinas
 accounts of dislocation and displacement, while also throwing light on the social and cultural processes involved in 
 mooring, reterritorialization or what Ahmed et al. (2003) call regrounding. 
+
 Mooring and remooring imply considerable agency on the part of the social actors involved. In the case 
 of labour migration, it involves finding accommodation and work, but also identifying spaces where recreational 
 activities associated with the place of origin can be organised, and also working out how these activities might be 
 organised, and by whom. In the case of remooring, these social processes are necessarily iterative.
+
 Locating our research with Timorese migrants in Northern Ireland within the new sociolinguistics of 
 multilingualism, we combine this duality of focus on the social processes of mobility and mooring with an account 
 of the ways in which language, and other semiotic resources (KRESS, 2010), are drawn upon in the process of 
@@ -191,6 +140,7 @@ in a broad sense, including the everyday meaning of “spaces where we do things
 also including the meaning proposed by Gilroy (2004), in his reflections on the potential for conviviality in some 
 contemporary urban settings where people of different origins live side by side, where differences are rendered banal, 
 and where cultural resources come to be shared and/or blended across generations.
+
 At the same time, we are keenly aware of the fact that south-north migration is bound up with global 
 asymmetries of power and with the major economic shifts taking place in late capitalism. As Adey (2006, p. 85-86) 
 has pointed out: “Mobility, like power, is a relational thing” and it is unevenly distributed. The mobility of some social 
@@ -198,6 +148,7 @@ actors needs to be viewed in relation to the immobility of others, and moving no
 rarely involves retaining the same positioning with the social hierarchy. As Duchêne and Heller (2012, p. 15-16) 
 remind us: “The landscape is uneven, unbounded and fluid and (…) social actors occupy different (and differently 
 advantageous) positions with respect to access to the resources that circulate across it”. 
+
 For this reason, our broader research project spans the different social spaces traversed by the young Timorese 
 migrants participating in our study. While our main focus in this paper is on the spaces of conviviality that they are 
 creating within their local life worlds, on the ways in which they are building different identities within these life 
@@ -206,7 +157,7 @@ Leste, in the broader project we are also taking stock of their lived experience
 small-town settings in which they find themselves and their experience of endeavouring to gain access to different 
 workplaces. We also include the ways in which they are positioned within these workplaces, depending on the 
 language resources and funds of knowledge available to them.  
-2. THE TRANSNATIONAL MOVEMENT OF TIMORESE 
+
 The first major outward movement of Timorese came in the wake of the Indonesian invasion and occupation 
 of the eastern region of the island of Timor, in 19751. Individuals and whole families moved abroad, as refugees, with 
 the assistance of the International Red Cross, to build a new and more tranquil life in another country. Most moved 
@@ -216,23 +167,17 @@ occupation, a significant number of Timorese students sought refuge in foreign e
 as a consequence of student-led demonstrations in Timor and in Indonesia (FERNANDES, 2011). Most of these 
 students eventually made their way to Portugal, where they received financial support for several years to continue 
 their studies. Some of these students then found their way to the UK as migrant workers.
+
 Since Independence in 2002, there has been a new transnational movement. A significant number of young 
 Timorese men and women have been leaving Timor-Leste in search of work in Indonesia, South Korea, Australia and 
 in Western Europe. On Independence, Portugal made it possible for all Timorese born before May 20, 2002 (the 
-1.	 For details of the political history of Timor-Leste, including the Indonesian invasion and occupation (1975-1999), the East Timorese 
-Resistance, the UN administration (1999-2002), and Independence in 2002, see Budiardjo; Liong, 1984, Taylor, 1999, Fernandes, 2011 and 
-Leach, 2017.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Mobilizing linguistic and semiotic resources, constructing identities in local life worlds...	
-Preprint
-Trab. Ling. Aplic., Campinas	
-5
 date of Independence) to apply for Portuguese citizenship and, thus, for the right of residence and employment in 
 Portugal, and elsewhere within the European Union (EU).  This was because, under international law, the eastern 
 region of the island of Timor remained a colony of Portugal until Independence in 2002. Neither Portugal nor the 
 United Nations recognised the Indonesian occupation and administration of the territory from 1975 to 2002. This 
 political and legal arrangement helped to alleviate the high level of unemployment among young people in the urban 
 areas of Timor-Leste in the years immediately following Independence. 
+
 Many of those who have taken up this entitlement to apply for Portuguese citizenship have sought work 
 in countries other than Portugal, notably the United Kingdom. This trend has been particularly marked since the 
 recent economic downturn in Portugal. There are no official statistics on the numbers of Timorese currently living 
@@ -240,6 +185,7 @@ and working in the UK, but according to informal estimates, the overall number i
 (to family members in Timor-Leste) are highly significant: in 2008, it was estimated that remittances to Timor-Leste 
 from the UK amounted to $5 million (US dollars) a year (SHUAIB, 2008). It is likely to be much higher now, because 
 of the significant rise in numbers of people migrating to the UK (see, for example, McWILLIAM, 2022).
+
 There have been two overlapping routes into employment in the UK for these young migrants from Timor-
 Leste: First, some have followed the long-established labour migration routes from mainland Portugal, and from 
 Madeira, into the rural sector. This has led to the clustering of Timorese migrant workers in small towns and in rural 
@@ -251,7 +197,7 @@ work within the service sector (e.g. supermarkets, department stores, online sho
 they are based in rural or urban areas, they occupy precarious positions with the local economy and are part of what 
 Standing (2010) refers to as the growing “global precariat”. They are generally recruited by employment agencies 
 and are expected to work to flexible schedules. 
-3. OUR STUDY IN NORTHERN IRELAND: DETAILS OF OUR ETHNOGRAPHIC FIELDWORK 
+
 We made our first field visits to Northern Ireland: in October 2014 and in June 2015. We conducted 
 participant observation in different public settings e.g. in the Catholic Church in Dungannon and in local sports 
 events (particularly football matches) and we have kept detailed field notes. We also used still photography and we 
@@ -263,103 +209,19 @@ approximately one hour and they were all audio-recorded. Six were individual int
 interviews with football team members. They focused on the interviewees’ migration trajectories and on their lived 
 experiences of mooring or re-mooring in this Northern Irish context. The six individual interviewees constituted a 
 core group of research participants (see Table 1 below). 
-4. DIVERSE ORIGINS, TRAJECTORIES, LANGUAGE RESOURCES AND FUNDS OF KNOWLEDGE 
+
 From our participant observation and our interviews, and from earlier research in Dungannon by Da Costa 
 Cabral (2010), it is becoming clear that there is considerable diversity among the young Timorese currently living 
 and working in Dungannon and Cookstown. They come from different districts of Timor-Leste and they speak 
 different regional languages4 (e.g. Fataluku, Makasai and Mambai), as well as Tetum, the primary lingua franca. Table 
-2.	 Initials have been used here, instead of names, to preserve confidentiality. 
-3.	 Tetum has long been a language of wider communication in Timor. Its use widened in the context of the East Timorese Resistance to the 
-Indonesian occupation (see Cabral & Martin-Jones, 2008). It is now a national, official language of the nation of Timor-Leste, along with 
-Portuguese.
-4.	 In the Constitution of Timor-Leste, the regional languages are referred to as national languages. Tetum and Portuguese are co-official 
-languages.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Preprint	
-Cabral & Martin-Jones
-6	
-Trab. Ling. Aplic., Campinas
 1 below shows the language resources and the migration trajectories of those within the core group of research 
 participants. Since all the core group interviewees were between the ages of 20 and 45, they had all received their 
 education, either solely or partly, through the medium of Bahasa Indonesia5.
+
 All members of the core group had had some modest material resources when taking the decision to move 
 north. They had had enough to cover the cost of the long-haul flight from Timor-Leste to Europe and their living 
 expenses while seeking employment. 
-TABLE 1. The core group of interviewees 
-Interviewees 
-Occupation 
-Timor-Leste 
-Occupation 
-Northern 
-Ireland 
-Migration trajectories  
-Language resources 
-Via Portugal Other sojourns 
-in the UK 
-Direct to 
-UK from 
-Timor 
-MFB 
-Bank NGO  
-Factory 
-(meat 
-processing) 
- 
- 
- 
-Makasai 
-Tetum 
-Bahasa Indonesia 
-English  
-CX 
-Male Nurse  
- 
- 
-
-Makasai 
-Tetum 
-Bahasa Indonesia  
-HA  
-Student 
- 
- 
- 
-Tetum 
-Bahasa Indonesia 
-Portuguese 
-English  
-RS 
-Student  
- 
- 
- 
-Tetum 
-Bahasa Indonesia 
-Portuguese 
-English  
-DA 
-Driver for a 
-government 
-department  
- 
- 
- 
-Makasai 
-Tetum 
-Bahasa Indonesia  
-AX  
-Porter 
-Construction 
-Worker  
- 
- 
- 
-Makasai 
-Tetum 
-Bahasa 
-Indonesia 
-English (taking 
-an ESOL course)  
+
 All members of the core group had had some modest material resources when taking the decision to move 
 north. They had had enough to cover the cost of the long-haul flight from Timor-Leste to Europe and their living 
 expenses while seeking employment. Take, for example, MFB who had worked in an Indonesian bank during the 
@@ -369,35 +231,30 @@ Frontières (MSF) during the three-year UN administration6 (1999-2002) and had t
 national health service in Timor-Leste after Independence (Interview with CX, June 2015). DA had been a driver 
 for a government department after Independence (Interview with DA, June 2015). And AX had been employed as a 
 porter in a warehouse in Dili (carrying sacks of rice) and also as a construction worker.
+
 Some of our interviewees had spent some time in Portugal before moving to Northern Ireland and re-mooring 
 there. They thus had a working knowledge of Portuguese. For example, one interviewee had been one of the students 
-5.	 During the Indonesian occupation, Bahasa Indonesia was imposed as the sole official language and medium of education (see Cabral, 2013 
-for details).
-6.	 A UN administration (UNTAET) was established after the referendum in 1999 when the Timorese voted in favour of Independence and 
-the Indonesian military forces were obliged to withdraw from the territory. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Mobilizing linguistic and semiotic resources, constructing identities in local life worlds...	
-Preprint
-Trab. Ling. Aplic., Campinas	
-7
 who had sought refuge in an embassy in Jakarta in the 1990s. He had subsequently been given safe passage to 
 Portugal (Interview with HA, June 2015).  
- 	 Two of those we interviewed in June 2015 (RS and HA) had been among the very first groups to arrive 
+
+Two of those we interviewed in June 2015 (RS and HA) had been among the very first groups to arrive 
 in Dungannon, in 2001 and 2002, directly from Portugal. They had found work through an employment agency 
 in Portugal (Interviews, June 2015). Another interviewee (MFB) had worked in England before moving over to 
 Northern Ireland and had therefore had prior exposure to English in the workplace (Interview with MFB, June 2015).  
+
 Three of these young Timorese (RS, HA and MFB), who had had sojourns in Portugal or England before 
 moving to Northern Ireland, spoke Portuguese and English with some ease and fluency. However, all of those who 
 had arrived in the second decade of the twenty first century had come directly from Timor-Leste to join friends and 
 family who were already working in Northern Ireland. Most of this group spoke rather little English and virtually no 
 Portuguese. They spoke a regional Timorese language and they all spoke Tetum and some Bahasa Indonesia. As in 
 Timor-Leste, Tetum had become the main language of wider communication in this Irish context. 
+
 The communicative challenges faced by new arrivals, in dealing with the Irish authorities and with accessing 
 social services, is evident in recent statistics for health and social care in Northern Ireland. According to Doyle and 
 McAreavey (2016), Tetum was among the top six languages for interpreter requests made, in the context of health 
 and social care, between 1st April and 30th June, 2014. In those three months, 24,158 interpreter requests were made 
 for 41 different languages across Northern Ireland. 
-5. LOCAL CONDITIONS OF SETTLEMENT AND EMPLOYMENT 
+
 While there has been a significant pattern of labour migration to England since the mid twentieth century, 
 large-scale migration to Northern Ireland is a much more recent phenomenon. Northern Ireland only began to see 
 an increase in inward migration at the beginning of the twenty first century. This increase was quite significant. Doyle 
@@ -411,6 +268,7 @@ of Ireland (in the south) and to Northern Ireland, from Poland and from the Balt
 (CORRIGAN et al., 2015, DOYLE; McAREAVEY, 2016).  However, following the UK exit from the European 
 Union on 31st January, 2020, the migration route to Northern Ireland, from the European Union, has no longer been 
 open.
+
 The small number of migrants arriving in Northern Ireland in the second half of the twentieth century had, 
 for the most part, settled in large urban areas such as Belfast, rather than in small towns like those where our study 
 was based. The local population in towns such as Dungannon and Cookstown had had relatively little experience of 
@@ -422,22 +280,20 @@ two with over 30%, a significant change to occur in 10 years”. Because of thes
 the Timorese in our study who came to Dungannon in the early part of the twenty first century reported that 
 they encountered considerable small-town hostility to incomers and frequent use of racist language. They also had 
 considerable difficulty in understanding the local variety of Irish English (Interview with RS and HA, June 2015).  
+
 However, those who indicated that they had experienced this early hostility also noted that there had been 
 change over time as other groups of migrants had also arrived, from Poland, Portugal and the Baltic States (Interview 
 with RS and HA, June 2015).  A local nongovernmental organisation had also made a difference: The South Tyrone 
 Empowerment Project (STEP) had been established to provide assistance to local groups of migrant origin, in finding 
 appropriate housing, in dealing with local authorities and with legal issues and with interpreting and translation in 
 bureaucratic encounters and in health care settings. During our field visits, there were some visible signs of a change 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Preprint	
-Cabral & Martin-Jones
-8	
-Trab. Ling. Aplic., Campinas
 of ethos in the public domain, at least. There were also books for children in different languages in the public library 
 and a multicultural festival had been organised by Dungannon Town Council.  
+
 Most of the rental accommodation available in Dungannon and Cookstown is in houses. There are few 
 apartments. The cost of renting a whole house is high, so, multiple occupancy is the norm for single people of 
 migrant origin. Some of the Timorese who are married also share with family members or friends from Timor-Leste.  
+
 The Timorese arriving in Dungannon, or other local towns, eventually find work in one of the factories in the 
 region. The largest one – Moy Park – is based in Dungannon. It specialises in chicken processing and packaging 
 (e.g. for sale in supermarkets). This was formerly an Irish company, but when we were doing fieldwork in 2015, we 
@@ -445,6 +301,7 @@ learned that it had been owned by a Brazilian corporation since 2010. This devel
 globalized nature of this aspect of food production. Two smaller factories in Cookstown specialise in the packaging 
 of pork and of cheese for the retail sector (Interview with DA, in Tetum, June 2015). There is also a rendering plant 
 in the area that prepares animal feed (Joint interview with RS and HA, June 2015). 
+
 Two local employment agencies act as the gatekeepers for those seeking work. Whilst the Timorese who 
 arrived in the first groups found work right away, and even had their passage from Portugal paid for (Interview with 
 RS and HA, June 2015), those who have arrived in recent years have found that it takes about 5-8 months to get a full 
@@ -455,6 +312,7 @@ an eight-month period, due to the precarity of their situation, one of our inter
 our heads …they could call us at any time) (Interview with CX, June 2015). For those Timorese who do receive a 
 full-time position, the working hours are long. They work twelve-hour shifts, but overtime is no longer paid, since 
 the pattern now alternates each week. They work for 5 days one week and just 2 days the following week.  
+
 The ability to speak English is increasingly used by employment agencies to select employees. Thus, for 
 example, there is an initial screening process in which applicants are interviewed in English before being given 
 an application form. Those who have some capability in English move into positions of greater responsibility in 
@@ -463,29 +321,22 @@ hierarchy of the kind described by Duchêne et al. (2013) is clearly being creat
 workplace practices. In this context, the Timorese migrants are experiencing a re-stratification of their language 
 resources. Those who benefitted from their knowledge of Portuguese in Timor-Leste, have now found that these 
 resources are no longer valued in their new work environments.
-6. CREATING NEW SPACES OF SOLIDARITY AND CONVIVIALITY IN LOCAL LIFE WORLDS: THE TIMORESE 
-FOOTBALL CLUBS  
+
 As we have shown above, the Timorese migrants in Dungannon and Cookstown have faced considerable 
 social, economic and linguistic challenges in securing housing and employment as they have built their new lives 
 there. At the same time, within their local life worlds, they are actively creating spaces for solidarity and conviviality. 
 Focusing on the ways in which Timorese men and women were mooring (or in some case re-mooring) in these small 
 Northern Irish towns gave us a keen sense of their agency in building new lives, in new spaces, despite the challenges 
 facing them.  
+
 There are different groups of Timorese, with particular interests, who have formed particular communities of 
 practice. There is, for example a choir that sings once a month in the Catholic Church. There is also a traditional 
 women’s dance troupe. However, in this section of the paper, we focus on one particular (all male) community of 
 practice that we encountered during our research: One that has developed out of a keen interest in football. 
+
 We provide an account of three different aspects of the activities that were developing around football when 
 we were conducting fieldwork in June 2015, and we introduce some of the key social actors involved. The first aspect 
 is that of the naming and branding7 of the clubs. Here, we focus on the ways in which the linguistic and semiotic 
-7.	 We use italics on the term branding since it is a term that is normally used to refer to advertising discourse. In the case of the Timorese 
-football clubs, we intend it to mean making each club distinct in the eyes of other Timorese – in Northern Ireland, in Timor-Leste and in 
-the wider diaspora. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Mobilizing linguistic and semiotic resources, constructing identities in local life worlds...	
-Preprint
-Trab. Ling. Aplic., Campinas	
-9
 practices involved in the naming and branding indexed different Timorese identities. The second aspect is that 
 of the leadership of the clubs and the organisational practices of the club managers8. Here, we focus on the ways 
 in which the managers, and club organisers, were able to draw on the language resources and funds of knowledge 
@@ -494,7 +345,7 @@ incorporated into the ethos of some of the clubs. The third aspect is that of th
 (around key dates in the history of the establishment of the nation of Timor-Leste). Here, we also draw attention to 
 the friendly away matches and the use of Facebook and YouTube in the representation of all the football matches (in 
 the tournaments and the friendly matches). 
-6.1 The naming and branding of the clubs
+
 It was in October 2014 that we learned that there were nine Timorese football teams for men and boys in the 
 Dungannon/Cookstown area. They are listed in Table 2 below. The names of the clubs indexed the identity of the 
 players in different ways. Different language resources (including Portuguese) were drawn upon. The players in FC 
@@ -502,54 +353,16 @@ Tahi Calu and FC Moko United were mostly Fataluku speakers, from Lospalos, in th
 The names of their clubs signified a regional identity. Similarly, the regional identity of the players in FC Matebian 
 was indexed in the name of their club: They were mostly from the Baucau area, and from the eastern and central 
 regions, and most of the players spoke Makasai.
-TABLE 2. The Timorese football clubs in Dungannon and Cookstown
-Names of the clubs 
-English translation 
-Languages used in the name and the 
-acronym 
-FC Lao Rai United  
-FC Travellers United 
-English, Tetum & English 
-FC Estrela Oriente  
-FC Eastern Star  
-English & Portuguese 
-Fitun Unidade  
-(based in Cookstown) 
-Star United 
-Tetum & Portuguese 
-FC Tahi Calu  
-FC Rough Sea 
-English & Fataluku 
-FC Moko United  
-FC Sons of Los Palos United 
-English & Fataluku 
-The Young Crocs  
-	
-– 	
- 
-English 
-AS Bidau  
-AS + Name of a neighbourhood in Dili, Timor-Leste 
-FC Matebian  
-FC + Name of a mountain in the east of Timor-Leste  
-Ramkabian 
-Compound name, including three mountains in Timor-Leste: Ramelau, Kablake  
-and Matebian  
+
 The Young Crocs team was organised for Timorese boys, aged 14-19, who were growing up in Northern 
 Ireland, speaking Irish English. The name of their team signified their new orientation to English. However, the 
 reference to young crocodiles in the name of their club indexed Timorese-ness, since the image of a crocodile is often 
 evoked in Timor-Leste because the shape of the island of Timor is said to resemble that of a crocodile. The name 
 of FC Tahi Calu had multiple associations, including gendered ones: Literally, it means male sea: This name makes 
 a geographical reference to the South East of Timor-Leste, where the tides are known to be stronger. It also has a 
-8.	 The term manager was used by some of the Timorese we interviewed. However, the managers of the clubs were all volunteers not 
-professional managers with a salary
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Preprint	
-Cabral & Martin-Jones
-10	
-Trab. Ling. Aplic., Campinas
 masculine connotation since, in Fataluku (as in Tetum), a calm sea is described metaphorically as female sea; while a 
 rough sea is described as a male sea.
+
 The six other teams included a mix of adult players, originating from different districts of Timor-Leste. In these 
 football clubs, members were represented as having a shared national identity, as Timorese. When we interviewed 
 the two organisers of the Ramkabian club, they explained that they had created a name that included parts of the 
@@ -563,6 +376,7 @@ participation in tournaments as giving an opportunity for Timorese from differen
 know one another. The use of the term Lao Rai (Travellers) in the name of this club indexed the shared identity of 
 the players as people on the move. A third club, AS Bidau also had an inclusive ethos. The name, AS Bidau, refers to 
 a linguistically diverse neighbourhood of Dili. The players in this team had mixed language backgrounds. 
+
 All the names of the football clubs were compound names and included words from a regional language, from 
 Tetum or Portuguese, or from English. Moreover, the use of the acronyms FC and AS echoed the wider conventions 
 of international football leagues. FC indexed the Anglophone world, although the acronym FC came before the 
@@ -571,27 +385,23 @@ one of the club organisers, it actually stood for the English words: “Football
 in the Italian football league (as in AS Milan), but according to one of our interviewees, it stood for the Portuguese 
 word Associação (Association), so – for the members of AS Bidau - it indexed the world of Portuguese football, 
 which is closely followed in Timor-Leste. 
+
 A range of semiotic resources were creatively employed in the branding of each of the clubs. Each of the clubs 
 had its own colours and its logo, giving it a distinctive identity. We include in Figure 1 below, the logos for FC Lao 
 Rai United, Ramkabian, and the Young Crocs. 
-Figure 1. The logos for three of the football teams – posted on Facebook  
+
 All these logos incorporate images that link them to Timor-Leste. This includes: the map of Timor-Leste in 
 the logo for FC Lao Rai United; the dominant image of the crocodile in the logo for the Young Crocs; the star in the 
 national flag and the colours – red, yellow, black and white - of the flag that appear in the logos for the Ramkabian and 
 Young Crocs teams. All these logos were created online and were primarily used as virtual images which circulated 
 on digital texts. 
+
 Colour was used symbolically in other ways too: in the design of the football shirts, the jackets and even the 
 ribbons for the medals and the cups – all incorporated the red, yellow, black and white of the national flag. FC Lao 
 Rai United had also commissioned the weaving of a traditional Timorese tais in yellow, black and white with the name 
 of the club incorporated into it. We had two tais placed around our necks, at the end of our interview with members 
 of the club. This is a formal Timorese gesture of thanks. One of these tais is shown in Figure 2 below. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Mobilizing linguistic and semiotic resources, constructing identities in local life worlds...	
-Preprint
-Trab. Ling. Aplic., Campinas	
-11
-Figure 2. A black, white and yellow tais with the name of FC Lao Rai United. Photograph by Estêvão Cabral 
-6.2 Club leadership and organisation 
+
 Our interviews with football club organisers, and managers, gave us a window on the amount of organisation 
 that went into the clubs. Most of those who took on a leadership role in a particular club were able to communicate in 
 English with some ease and fluency. They also had funds of knowledge about UK practices around fund-raising, and 
@@ -602,6 +412,7 @@ Fitun Unidade. The sponsorship funded the purchase of football shirts and jacket
 and cups for the football tournaments. Two of the players in the Lao Rai club had been in the national team of Timor-
 Leste before migrating to Northern Ireland, so they also brought a professional touch to the organisation of that 
 club’s activities. 
+
 Some of the club organisers and managers incorporated Timorese cultural practices and values into the 
 management of club funds. This was, for instance, the case with the FC Lao Rai club. This practice came to our 
 attention during an interview we held with one of the managers (Interview with MFB, June 2015). Blending Tetum 
@@ -616,23 +427,18 @@ at times such as funerals, weddings, christening and so on. All those associated
 per month towards the running of the club. The club manager also noted (in English) that all the football clubs had 
 grown in importance in bringing people together and had become “better organised in the last few years” (Same 
 interview with MFB, June 5, 2015).  
-6.3 The football tournaments, the friendly matches and their representation online.
+
 The football tournaments involving these Timorese teams in Dungannon and Cookstown, were (and still are) 
 scheduled to coincide with dates of national, political significance in Timor-Leste. They are held either on May 20 
 (the anniversary of Independence) or on August 30 (the anniversary of the decisive Referendum on Independence 
 in 1999).  In Figure 3 below, we include two photographs of the cup won by Fitun Unidade in the 2014 tournament 
 of May 20, along with the medals won by individual players (e.g. as man of the match, or as highest goal scorer). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Preprint	
-Cabral & Martin-Jones
-12	
-Trab. Ling. Aplic., Campinas
+
 The photograph on the left shows the cup and it shows the ribbons, which are draped around the cup and which are 
 tied to the medals. The ribbons are in three of the colours of the national flag of Timor-Leste: Red, yellow and black. 
 The photograph on the right shows the date of the tournament engraved on the base of the cup, in Portuguese and 
 in English. 
-Figure 3. The cup and medals won by Fitun Unidade during the May 20th tournament in 2014 
-Photographs by Estêvão Cabral 
+
 In addition to the annual tournaments, individual clubs organise friendly matches with Timorese teams in 
 other regions of the UK. Thus, we learned that, in 2014, the FC Lao Rai United football team extended its range 
 of football fixtures and travelled to Northwich, just south of Manchester, in England for a friendly match with a 
@@ -646,7 +452,7 @@ carried out our research. Football is also played in local schools in Timor-Lest
 organise regional football teams. The matches of leading football clubs in Europe (e.g., the national team of Portugal 
 or regional clubs in the UK, such as Manchester United) can be viewed on television or online in Timor-Leste and 
 choosing to support particular football teams has become quite popular. 
-7. REFLECTIONS ON THE DIVERSE PRACTICES EMERGING WITHIN THE FOOTBALL CLUBS 
+
 Narrowing our research lens, and focusing in on the different activities taking place around the football clubs 
 gave us revealing insights into the complex and multi-faceted processes of identification at work in this migration 
 context. Diverse Timorese identities were being constructed in ways that related to the past and the present. These 
@@ -657,11 +463,7 @@ such as the use of the colours of the national flag in the logos in Figure 1, an
 3, indexed national identity. In addition, some clubs adopted symbols of cultural heritage, such as the woven tais 
 and the image of the crocodile. Furthermore, linguistic resources and symbols associated with international football 
 culture were imbricated with these diverse ways of representing Timorese-ness. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Mobilizing linguistic and semiotic resources, constructing identities in local life worlds...	
-Preprint
-Trab. Ling. Aplic., Campinas	
-13
+
 Despite this diversity in the team-specific practices of identification, the annual scheduling of the tournaments 
 around dates of national significance in Timor-Leste foregrounded the shared national identity of the players. The 
 tournaments brought all the clubs together in sports events so that, in this Irish context, they were seen as part of 
@@ -677,7 +479,7 @@ So, for some, there is considerable scope for exercising individual agency, at l
 for creating spaces of solidarity and conviviality, through organisational practices that involve complex and situated 
 uses of linguistic and semiotic resources. At the same time, through these processes of mooring in the new country, 
 a strong sense of shared history and belonging, tied to the nation of origin, is also emerging.  
-CONCLUDING COMMENTS 
+
 Our aim in this paper has been to make a contribution to the new sociolinguistics of multilingualism and 
 mobility, focusing in on one particular transnational population movement from the global south to the north and 
 west. The case of the Timorese migrants in Northern Ireland throws the following points into sharp focus: First, the 
@@ -685,8 +487,10 @@ importance of moving away from purely synchronic description and analysis and of
 context of particular migration movements, of the particular nature of the south/north entanglements involved and 
 of the ways in which memories of key moments in past political struggles, along with emblems of national identity, 
 contribute to the forging of a sense of solidarity and belonging. 
+
 Second, an orientation to national identity is, for some migrants, coupled with an orientation to other identities, 
 such as having particular ties to particular region of origin or a particular urban neighbourhood in that region. 
+
 Third, the case of the Timorese migrants in Northern Ireland demonstrates the value of adopting the notion 
 of trajectory as a conceptual compass: It enables us to foreground two processes in particular: (1.) the ways in 
 which educational backgrounds, combined with migration trajectories, shape the communicative repertoires, 
@@ -694,121 +498,20 @@ language resources and funds of knowledge available to migrants; and (2.) the wa
 with particular linguistic repertoires and resources, which have higher value on the local linguistic market, are able 
 to assume local leadership roles in creating local communities of practice and organising life world activities around 
 sports like football. 
+
 Fourth, the dual focus on mobility and on the processes and practices involved in mooring makes it possible to 
 counter-balance accounts of detachment, dislocation and precarious positioning in migration studies with vivid and 
 revealing insights into the situated ways in which moorings (and re-moorings) occur, foregrounding the agency of 
 those involved. In addition, close attention to the linguistic, cultural and other semiotic practices of specific groups, 
 such as the football clubs we have discussed here, enables us to build an understanding of the complex ways in which 
 local forms of mooring activity come to be imbued with multi-layered social meanings. 
+
 And, finally, undertaking detailed ethnographic research into the use of digital resources for multimodal 
 documentation of the conviviality of life world practices for family members and friends in the country of origin 
 provides us with a deeper understanding of the dynamic nature of diaspora. Diaspora are not bounded social groups 
 but the outcome of intense communicative practices and processes of identification with a homeland orientation. 
-AUTHOR CONTRIBUTION STATEMENT
-Both authors participated in the planning and writing of this manuscript. The manuscript is based on research that 
-was conducted jointly. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Preprint	
-Cabral & Martin-Jones
-14	
-Trab. Ling. Aplic., Campinas
-CONFLICT OF INTEREST
-The authors have no conflicts of interest to disclose.
-DATA AVAILABILITY STATEMENT
+
 The only public data (about recent migration to Northern Ireland, UK), which is cited in this study, is taken from 
 the article by Doyle, C. and McAreavey, R. (2010). This article is listed in the References The interviews with the 
 Timorese migrants are not publicly available as this material contains information that could compromise the privacy 
 and safety of the research participants.
-REFERENCES
-ADEY, P. (2006). If mobility is everything then it is nothing: towards a relational politics of (im)mobilities. Mobilities, v. 1, n. 1, 
-p. 75-94. 
-AHMED, S.; CASTANEDA, C.; FORTIER, A.M.; SHELLER, M. (eds.). (2003). Uprootings/ regroundings: Questions of 
-home and migration. Oxford: Berg. 
-APPADURAI, A. (1996). Modernity at large: Cultural dimensions of globalization. Minneapolis: University of Minnesota Press. 
-BLOMMAERT, J. (2010). The sociolinguistics of globalization. Cambridge: Cambridge University Press. 
-BRAH, A. (1996). Cartographies of diaspora: Contesting identities. London: Routledge. 
-BRENNER, N. (2004). New state spaces, urban governance and the re-scaling of statehood. Oxford: Oxford University Press. 
-BUDIARDJO, C.; LIONG, L. S. (1984). The war against East Timor. Zed Books, London. 
-CABRAL, E. (2013). “The development of language policy in a global age”. In ARTHUR SHOBA. J.; CHIMBUTANE, F. (eds.) 
-Bilingual education and language policy in the global south. New York: Routledge, p. 83-103. 
-CABRAL, E.; MARTIN-JONES, M. (2008). “Writing the Resistance: Literacy in East Timor 19751999”. International Journal 
-of Bilingual Education and Bilingualism, v. 11, n. 2, p. 149-169. 
-CABRAL, E.; MARTIN-JONES, M. (2017). Moving north, navigating new work worlds, and re-mooring: Language and other 
-semiotic resources in the migration trajectories of East Timorese in the UK. In KERFOOT, C.; HYLTENSTAM, K. 
-(eds.) Entangled discourses: South-North orders of visibility. New York: Routledge, p. 79-98.
-CASTELLS, M. (2000). The information age: Economy, society and culture. Oxford: Blackwell. 
-CRESSWELL, T. (2002). Introduction: theorizing place. In  Verstraete, G.; Cresswell, T. (eds.) Mobilizing place, placing 
-mobility. Amsterdam: Rodopi. 
-CORRIGAN, K. P.; MEARNS, A.J.; THORBURN, J. (2015). From home to here: Stories of migration old and new. Belfast: 
-Nicholson Bass. 
-COUPLAND, N. (ed.). (2003). Sociolinguistics and globalization. Journal of Sociolinguistics v. 7, n. 4, p. 465-472. 
-Da COSTA CABRAL, I. (2010). From Dili to Dungannon: A case study of two bilingual migrant families from East Timor. 
-Unpublished MA dissertation, University of Birmingham (UK). 
-DOYLE, C.; McAREAVEY, R. (2016). Patterns and processes of recent migration in Northern Ireland. Irish Geography, v. 49, 
-n. 1, p. 47-72. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-Mobilizing linguistic and semiotic resources, constructing identities in local life worlds...	
-Preprint
-Trab. Ling. Aplic., Campinas	
-15
-DUCHÊNE, A.; HELLER, M. (eds.). (2012). Language in late capitalism: Pride and profit. New York: Routledge. 
-DUCHÊNE, A.; MOYER, M.; ROBERTS, C. (eds.). (2013). Language, migration and social inequalities. Bristol: Multilingual 
-Matters. 
-GILROY, P. (2004). After Empire: Melancholia or convivial culture. London: Routledge.
-HABERMAS, J. (1987) The theory of communicative action, Volume 2, Lifeworld and system: A critique of functionalist reason. 
-London: Heinemann.  
-FERNANDES, C. (2011). The Independence of East-Timor. Brighton: Sussex Academic Press. 
-FORTIER, A.M (2000). Migrant belongings: Memory, space, identity. Oxford: Berg. 
-HANNAM, K.; SHELLER, M.; URRY, J. (2006). Editorial: mobilities, immobilities and moorings. Mobilities, v. 1, n. 1, p. 1-22. 
-HARVEY, D. (1989). The condition of postmodernity. Oxford: Blackwell. 
-HANNERZ, U. (1996). Transnational connections. London and New York: Routledge. 
-HELLER, M. (2007). Bilingualism as ideology and practice. In Heller, M. (ed.) Bilingualism: A social approach. Basingstoke, 
-Hampshire: Palgrave Macmillan, 1-22. 
-HELLER, M. (2011). Paths to post-nationalism: A critical ethnography of language and identity. Oxford: Oxford University 
-Press. 
-HELLER, M.; BELL, L.A.; DAVELUY, M.; McLAUGHLIN, M; NOËL, H. (2016). Sustaining the nation: The making and 
-moving of language and nation. Oxford: Oxford University Press. 
-KRESS, G. (2010). Multimodality: A social semiotic approach to communication. London: Routledge. 
-LEACH, M. (2017). Nation-building and national identity in Timor-Leste. Abingdon, Oxon: Routledge. 
-McWILLIAM, A. (2022). Making money, missing home: Reflections on Timorese informal labour migration to Britain.  The Asia 
-Pacific Journal of Anthropology, v.23, n. 3, p.265-285.
-PRATT, M.L (1987). Linguistic utopias. In Fabb, N.; Attridge, D; Duranti, A; MacCabe, C. (eds.) The linguistics of writing: 
-Arguments between language and literature. Manchester: Manchester University Press. 
-SHUAIB, F. (2008). East Timor Country Report. Canberra, Australia: Department of Foreign Affairs and Trade. Available at: 
-http://aid.dfat.gov.au/Publications/Documents/etimor_study.pdf Acessed: 9/3/ 2014. 
-STANDING, G. (2010). The precariat. London: Bloomsburg 
-TAYLOR, J.G. (1999). East Timor: The price of freedom. London: Zed Press. 
-URRY, J. (2007). Mobilities. Cambridge: Polity Press.  
-WENGER, E. (1998). Communities of practice: Learning, meaning and identity. New York: Cambridge University Press. 
-Received: 10/5/2022
-Accepted: 5/10/2022
-Published: 11/10/2022
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/010318138669235v61n32022
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

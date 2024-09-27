@@ -1,24 +1,3 @@
-Publication status: Not informed by the submitting author
-Ethical Responsibility in Environmentally Sustainable Health
-Care
-José Chen-Xu
-https://doi.org/10.1590/SciELOPreprints.4691
-Submitted on: 2022-09-01
-Posted on: 2022-09-01 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
-1 
-Ethical Responsibility in Environmentally Sustainable Health Care 
-José Chen-Xu1,2 
-1 National School of Public Health - NOVA University of Lisbon, Portugal 
-2 Public Health Unit - Primary Health Care Cluster Baixo Mondego, Coimbra, Portugal 
-Address: Avenida Padre Cruz, 1600-560 Lisboa 
-Mobile: (+351) 91 786 2758 
-Email: josechenx@gmail.com  
-ORCID: https://orcid.org/0000-0003-1238-1384  
- 
-Abstract 
 Environmental issues gained momentum in recent years, with consequences of climate 
 change already being felt across the world. As the environment worsens health, human 
 activities also influence the environment, by worsening this process, creating an 
@@ -37,14 +16,7 @@ implementing green measures, reviewing the current status on environmental
 sustainability within the health care sector, as it discusses different perspectives on 
 ethical issues emerging when managing health institutions and how these can be 
 instrumental to drive policy-based change. 
- 
-Keywords: ethics; environment; sustainability; responsibility; health 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-2 
- 
-Introduction 
+
 Since the beginning of the century, environmental issues have gained more prominence, 
 with a focus on the impact we have on the environment and how it can affect the 
 present and future generations. The United Nations has created in 2015 the Sustainable 
@@ -52,6 +24,7 @@ Development Goals (SDGs), aiming to achieve seventeen different goals by 2030,
 introducing several objectives related to the environment and sustainable cities and 
 communities (SDG11) and climate action (SDG13). (United Nations General Assembly, 
 2015)  
+
 Climate change refers to long-term shifts in conditions and patterns that cause extreme 
 weather events.  These may lead to change in health threats in human beings, which in 
 turn multiplies pre-existing health conditions. (Wu et al., 2016) Effects of climate change 
@@ -59,6 +32,7 @@ are thus a cause of major public health issues. On the other hand, health instit
 also play a part in feeding the cycle, by aggravating environmental issues with its 
 activities, which account for around 8% of all greenhouse gases emitted in the United 
 States. (Eckelman and Sherman, 2016) 
+
 Ethical concerns related to the health sector’s role in the environment has emerged in 
 recent years, (Paraizo and Begin, 2020) with studies showing a great environmental 
 footprint of global healthcare. (Lenzen et al., 2020) Discussions on the benefits of putting 
@@ -67,42 +41,39 @@ to institutions, strengthening leadership, educating communities, and saving mon
 (Institute of Medicine of the National Academies, 2007)  
 Some policy-based solutions have been put forward to regulate energy consumption in 
 buildings. (UN Environment and International Energy Agency, 2017) This has only been 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-3 
 possible with the existence, in the various sectors, of pondered decisions on the ethical 
 implications of health care activities. The application of sustainable practices in this 
 specific sector, of environmental measures within health institutions, as well as green 
 financing and investment which tackles more upstream, are the solutions needed to 
 break this vicious cycle. 
- 
-The issue: impact of health institutions in the environment  
+
 Health institutions are open systems, where material exchanges occur between them 
 and the environment. Just as the environment has a negative influence on health, 
 (Institute of Medicine of the National Academies, 2007) health organizations will also 
 have an impact on the environment, which in turn increases negative health 
 consequences. (Skolnik, 2020) 
+
 According to the United Nations, in its report on buildings and the construction sector, 
 it reports that they represent around 35% of the global energy consumed, leading to 
 almost 40% of energy-related CO2 emissions, playing an important role in sustainable 
 transformation. (UN Environment and International Energy Agency, 2017, Khasreen et 
 al., 2009)  
+
 The health sector also accounts for a big part of this consumption, coming in third just 
 after the food sales and services sectors, consuming around twice as much as the 
 average of all accounted sectors, stated a report in 1995 (Figure 1). (Institute of 
 Medicine of the National Academies, 2007)  
+
 The consumption has ever since increased, with hospitals in the United States 
 consuming an average of 738.5 kWh/m2, 2.6 times higher than other commercial 
 buildings, (Bawaneh et al., 2019) which accounts for 8% of all greenhouse gases 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-4 
 emissions in the country (Figure 2). (Chung and Meltzer, 2009) In the United Kingdom, 
 the National Health Service consumed energy that accounted for 21.3 million metric 
 tons of CO2 equivalents in 2007, which sums up to around 3% of all greenhouse gases 
 emissions in England. (Brown et al., 2012) Regarding hospitals in Brazil, their energy 
 consumption reaches 10.6% of the total energy utilized for commercial purposes. 
 (Dhillon and Kaur, 2015) 
+
 Common energy waste practices in these sectors include the usage of air conditioning 
 in completely unoccupied spaces, failure to maintain or repair equipment and neglect 
 to check for air or water leaks, increasing inefficiency and costs for institutions. (Kaplan 
@@ -120,9 +91,7 @@ this country, 85% of the waste produced in a general hospital is not hazardous (
 and II), often placed in the biological waste container, increasing waste management 
 costs and the environmental impact through inadequate waste treatment. (Kaplan et 
 al., 2012)  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-5 
+
 A study conducted in 2013 in the United States evaluated the impact of health care 
 activities in the environment. Hospitals were the largest contributor to environmental 
 and health impacts, with 31–37% of the total, while prescription drug expenditures were 
@@ -133,6 +102,7 @@ primary processes contributing to acidification, whereas surgical and medical
 instrument manufacturing and pharmaceutical preparation manufacturing contributed 
 more for ozone depletion. Waste management was the most preponderant contributor 
 to ecotoxicity and human health toxicity. (Eckelman and Sherman, 2016) 
+
 Another study evaluated the global environmental footprint of health care in 2015 
 (Figure 3), with categorization by direct (lightest shade), first-order (middle shade), and 
 supply-chain (darkest shade) impacts caused by health care directly, by health care's 
@@ -141,19 +111,17 @@ shown as a percentage of total impact, for the world (segments) and selected cou
 (spokes). Regarding greenhouse gas emissions, health care contributes with around 
 4.4%, while it is responsible for 2.8% of particulate matter emissions, 3.4% of NOx 
 emissions and 3.6% of SO2 emissions. (Lenzen et al., 2020) 
- 
-Organizational ethics in building sustainable health institutions 
+
 Ethical issues often arise in clinical settings, being one of the subjects studied in medical 
 schools across the world. (Shamim et al., 2020) However, another field within this 
 context and which is often forgotten is organizational ethics, a field of the applied ethics 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-6 
 which focus on the health environment, resource allocation and decision-making 
 processes associated with the organization. (Paraizo and Begin, 2020)  
+
 Problems that emerge in organizational ethics are varied, and professionals tend to 
 focus on costs management and saving, efficiency, quality of care and the effects of their 
 decisions on patient care. (Castlen et al., 2017)  
+
 Sustainability issues of buildings have also been addressed in the literature within this 
 topic. Many of the issues discussed by the end of the 20th century are related to the 
 durability of buildings – many of the health facilities built in the 1950s and sometimes 
@@ -163,6 +131,7 @@ that are preventable. (Institute of Medicine of the National Academies, 2007) As
 there is a need to design health facilities in a pragmatic, ethical, and holistic manner, 
 which might influence the health environment and even workers’ productivity. (World 
 Green Building Council, 2014) 
+
 More recent research reported issues related to organizational vulnerabilities, with 
 associated conditions that weaken the organization, as public money management, and 
 respective risk analysis in health care management, in order to assess and prevent 
@@ -170,11 +139,7 @@ ethical risks, including the ones linked to quality of care and financial alloca
 resources. (Paraizo and Begin, 2020, Sepetis, 2020) These issues contribute to the 
 sustainability of health care institutions and should also be taken into consideration in 
 decision-making processes. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-7 
-Ethics and social responsibility in health 
+
 The Universal Declaration of Bioethics and Human Rights refers in its Article 14 - "social 
 responsibility and health" as a principle of bioethics. (Unesco, 2005) This holistic 
 approach broadens the scope of bioethics into other areas, such as social problems, 
@@ -182,12 +147,14 @@ determinants of health and health policies, (Vivanco, 2018) adding aspects of ju
 fairness to these problems. (Jennings et al., 2016) As a result, health care is seen as a 
 responsibility of governments towards the people they serve, which focus in four main 
 areas: medical care; research; industry; and education. (UNESCO, 2018)  
+
 Some of the concrete actions enunciated in the UNESCO report on social responsibility 
 and health are related to the criteria in decision-making in health policies and the 
 mitigating actions of environmental deterioration and pandemic management. 
 (UNESCO, 2018, Vivanco, 2018) Failure to provide mitigation and adaptation actions for 
 issues as climate change would be to disrespect the principle of social responsibility. 
 (UNESCO, 2018) 
+
 Despite referring to environment issues and natural disasters as part of the social 
 responsibilities within bioethics, UNESCO fails to address the issue upstream – the need 
 to tackle the issues where they emerge, by building green, and by implementing green 
@@ -195,11 +162,7 @@ measures before issues appear. These changes might be enacted by creating public
 policies, (Watts et al., 2015) changing regulations and procedures related to health care 
 institutions’ management (Kallio et al., 2018) and providing green financing 
 opportunities (OECD, 2016).   
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-8 
-Environmental Health Ethics 
+
 Ethical issues related to environment have been discussed by other ethicists, but 
 oftentimes in a separate way from health issues. This is due to the focus of 
 environmental ethics on the environment itself and the value of non-human nature, 
@@ -213,6 +176,7 @@ criticized. (Jennings et al., 2016) Conversely, environmental ethics brings forw
 potential harmful effects of human health care in the deterioration of the environment, 
 which has been recognized by hospitals, becoming a driver for change to more 
 sustainable health care management practices. (Jameton and Pierce, 2001)  
+
 On the other hand, frameworks on environmental health ethics have emerged, (Gribble, 
 2017) as environmental health is an integral part of public health. Within this field, 
 climate change and its effects on human health are studied, as well as political and 
@@ -221,37 +185,32 @@ made regarding the role of health care institutions in fighting global warming. 
 a more general mention of industries with direct impact on the environment, as the ones 
 related with fossil fuels, are the main focus when discussing environmental health 
 ethics. (Resnik, 2012) These frameworks do, however, account for principles as utility, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-9 
 justice, stewardship, sustainability, and precaution, (Gribble, 2017) which will inherently 
 include the role of health institutions in the fight against climate change.  
- 
-Ethical responsibility of health institutions regarding the environment 
+
 Ethical issues arise in the decision-making processes, as the environmental impact of 
 health care and the need for sustainability in health institutions raise ethical questions 
 regarding the environmental stewardship. (Jameton and Pierce, 2001) Not only 
 bioethics and social responsibility are involved, but also organizational and 
 environmental health ethics.  
+
 The main environmental responsibility in hospital care is to avoid unnecessary 
 emissions, and this is guided by the management body and by ethical values. These 
 values consist on social responsibility, good care, and professionalism, (Kallio et al., 
 2018) which together act as a driver for changing and improving environmental practices 
 in health care institutions. 
+
 Accordingly, organizational commitment of the management and staff is key for 
 implementation of environmental measures. (Pisters et al., 2017, Kallio et al., 2018) 
 However, this is not sufficient. Health care organizations need to go further in the 
 commitment and support these measures, by providing education and training, clear 
 procedures, defined roles, and a motivational culture and health facilities that are 
 prepared for the implementation of green measures. (Kallio et al., 2018)  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-10 
-Environmental measures in health institutions  
+
 The United Nations report published in 2017 lists a set of objectives for achieving the 
 environmental sustainability of buildings, which includes planning policies, adaptation 
 of buildings and energy management, among others.  
+
 Several measures are suggested, such as the use of technology to improve efficiency, 
 using solar energy for heating and cooling, and as a water transport pump, in addition 
 to the application of efficient lighting measures, such as the utilization of light-emitting 
@@ -260,6 +219,7 @@ Kaur, 2015) Countries such as Canada, China and Rwanda already have regulations 
 establish minimum requirements for energy efficiency and resource management in 
 buildings, although about two thirds of the countries worldwide do not have such 
 regulations. (UN Environment and International Energy Agency, 2017)  
+
 For these measures to be applied, there must be investment in energy efficiency, which 
 still represents a small portion of the investment made at the management level. 
 Despite this, the European Union has proposed several projects and funding in recent 
@@ -269,12 +229,10 @@ focus on hospitals, with the aim of transforming them into green hospitals. Gree
 buildings seek to minimize the impact on the environment by reducing energy and water 
 consumption and limiting environmental damage at the construction site. (Allen et al., 
 2015)  
+
 Other measures have been mentioned in previous studies. (Buffoli et al., 2014, McGain 
 and Naylor, 2014) A study exemplifies the cost-effectiveness of implementing these 
 measures, through the application of energy saving measures and the reprocessing of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-11 
 single-use materials, with a cost reduction in the order of ten billion dollars over ten 
 years. (Kaplan et al., 2012) Another study compares initiatives and measures that 
 contribute to the institution’s resilience in the face of climate change, demonstrating 
@@ -282,6 +240,7 @@ their long-term cost-effectiveness. (Balbus et al., 2016) Pisters et al. reinfor
 importance and need for organizational commitment, combined with the reduction of 
 energy consumption, as key elements for the success of the institution. (Pisters et al., 
 2017) 
+
 A major measure applied in recent years is digitalization. Even though this process also 
 requires use of energy, it still allows for energy saving, with smart controls and 
 connected devices saving around 230 EJ until 2040, and around 140 EJ in non-residential 
@@ -290,19 +249,17 @@ All these measures contribute for building more sustainable health care institut
 which allow for decreasing resources consumption, increasing efficiency in their 
 processes, and overall decreasing the emission of greenhouse gases, thus decreasing 
 their impact in the environment. 
- 
-Instruments enabling implementation of Green Measures 
+
 The Green Guide for Health Care is a toolkit that advises on the steps needed to enable 
 implementation of environmental measures, created by Health Care Without Harm, and 
 joins several methods based on Leadership in Energy and Environmental Design (LEED) 
 and Triple Bottom Line (TBL), and it has been used in the construction and renovation of 
 several health care facilities. (Institute of Medicine of the National Academies, 2007) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-12 
+
 The Pan-American Health Organization has created a Green Checklist and Discussion 
 Guide, (PAHO, 2013) based on LEED rating system. This type of tools help institutions 
 analyse and prepare the implementation of green measures. 
+
 Another valuable instrument is the Green Hospital Procurement Policy and Procedure 
 Manual, and Implementation Guide, (Canadian Coalition For Green Health Care, 2016) 
 created by the Canadian Coalition for Green Health Care, as well as the Green Purchasing 
@@ -310,12 +267,12 @@ in Health Care guide developed by Health Care Without Harm, (Health Care Without
 Harm, 2006) assisting institutions in putting in place environmentally-friendly 
 purchasing practices, taking into account life cycle perspective, resource efficiency and 
 pollution prevention.   
- 
-Conclusion 
+
 The health care sector has an ethical responsibility to evaluate its impact through 
 meaningful research and implement sustainable measures that cause less harm to the 
 environment, decreasing its long-term impact and ensuring more sustainability in their 
 practices.  
+
 There is still a long way to go as the COVID-19 pandemic has had a profound impact in 
 waste production, with increasing single use materials and worsening waste 
 management processes. As such, the post-pandemic world must focus on building back 
@@ -324,172 +281,7 @@ However, green financing is not the sole duty of health care institutions, since
 concerns and corporate social responsibility are also part of other private business and 
 public service sectors. This role is as important, if not even more pressing as health care 
 institutions need to operate continuously to provide the needed care to populations. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-13 
+
 The investment in environmentally friendly solutions is urgent, so that a joint change in 
 all sectors can have a stronger and lasting positive impact in the environment and thus 
 delaying the consequences of climate change.  
- 
-Funding Statement: The author received no financial support for the research, authorship, 
-and/or publication of this article. 
-Conflict of Interests Declaration: The author certifies that he has NO affiliations with or 
-involvement in any organization or entity with any financial or non-financial interest in the 
-subject matter or materials discussed in this manuscript. 
- 
- 
-References  
- 
-ALLEN, J. G., MACNAUGHTON, P., LAURENT, J. G., FLANIGAN, S. S., EITLAND, E. S. & 
-SPENGLER, J. D. 2015. Green Buildings and Health. Curr Environ Health Rep, 2, 
-250-8. 
-BALBUS, J., BERRY, P., BRETTLE, M., JAGNARINE-AZAN, S., SOARES, A., UGARTE, C., 
-VARANGU, L. & PRATS, E. V. 2016. Enhancing the sustainability and climate 
-resiliency of health care facilities: a comparison of initiatives and toolkits. Rev 
-Panam Salud Publica, 40, 174-180. 
-BAWANEH, K., NEZAMI, F. G., RASHEDUZZAMAN, M. & DEKEN, B. 2019. Energy 
-Consumption Analysis and Characterization of Healthcare Facilities in the United 
-States. Energies, 12. 
-BROWN, L. H., BUETTNER, P. G. & CANYON, D. V. 2012. The energy burden and 
-environmental impact of health services. Am J Public Health, 102, e76-82. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-14 
-BUFFOLI, M., GOLA, M., ROSTAGNO, M., CAPOLONGO, S. & NACHIERO, D. 2014. Making 
-hospitals healthier: how to improve sustainability in healthcare facilities. Ann Ig, 
-26, 418-25. 
-CANADIAN COALITION FOR GREEN HEALTH CARE 2016. Green Hospital Procurement 
-Policy and Procedure Manual, and Implementation Guide. 
-CASTLEN, J. P., COTE, D. J., MOOJEN, W. A., ROBE, P. A., BALAK, N., BRENNUM, J., 
-AMMIRATI, M., MATHIESEN, T., BROEKMAN, M. L. D., WORLD FEDERATION OF 
-NEUROSURGICAL SOCIETIES ETHICS, C. & EUROPEAN ASSOCIATION OF 
-NEUROSURGICAL SOCIETIES ETHICO-LEGAL, C. 2017. The Changing Health Care 
-Landscape and Implications of Organizational Ethics on Modern Medical 
-Practice. World Neurosurg, 102, 420-424. 
-CHUNG, J. W. & MELTZER, D. O. 2009. Estimate of the carbon footprint of the US health 
-care sector. JAMA, 302, 1970-2. 
-DHILLON, V. S. & KAUR, D. 2015. Green Hospital and Climate Change: Their 
-Interrelationship and the Way Forward. J Clin Diagn Res, 9, LE01-5. 
-ECKELMAN, M. J. & SHERMAN, J. 2016. Environmental Impacts of the U.S. Health Care 
-System and Effects on Public Health. PLoS One, 11, e0157014. 
-EUROPEAN COMMISSION 2020. Proposal for a Regulation of the European Parliament 
-and of the Council establishing the framework for achieving climate neutrality 
-and amending Regulation (EU) 2018/1999 (European Climate Law). 
-(COM/2020/80 final). 
-GRIBBLE, M. O. 2017. Environmental Health Virtue Ethics. Am J Bioeth, 17, 33-35. 
-HEALTH CARE WITHOUT HARM 2006. Green Purchasing in Health Care. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-15 
-INSTITUTE OF MEDICINE OF THE NATIONAL ACADEMIES 2007. Green Healthcare 
-Institutions: Health, Environment, and Economics: Workshop Summary. The 
-National Academies Press. Washington (DC). 
-JAMETON, A. & PIERCE, J. 2001. Environment and health: 8. Sustainable health care and 
-emerging ethical responsibilities. CMAJ, 164, 365-9. 
-JAX, K., BARTON, D. N., CHAN, K. M., DE GROOT, R., DOYLE, U., ESER, U., GÖRG, C., 
-GÓMEZ-BAGGETHUN, E., GRIEWALD, Y. & HABER, W. 2013. Ecosystem services 
-and ethics. Ecol. Econ, 93, 260-268. 
-JENNINGS, V., YUN, J. & LARSON, L. 2016. Finding Common Ground: Environmental 
-Ethics, Social Justice, and a Sustainable Path for Nature-Based Health Promotion. 
-Healthcare (Basel), 4. 
-KALLIO, H., PIETILÄ, A., JOHNSON, M. & KANGASNIEMI, M. 2018. Environmental 
-responsibility in hospital care: Findings from a qualitative study. Journal of 
-Hospital Administration, 7. 
-KAPLAN, S., SADLER, B., LITTLE, K., FRANZ, C. & ORRIS, P. 2012. Can sustainable hospitals 
-help bend the health care cost curve? Issue Brief (Commonw Fund), 29, 1-14. 
-KHASREEN, M. M., BANFILL, P. F. G. & MENZIES, G. F. 2009. Life-Cycle Assessment and 
-the Environmental Impact of Buildings: A Review. Sustainability, 1, 674-701. 
-LENZEN, M., MALIK, A., LI, M., FRY, J., WEISZ, H., PICHLER, P. P., CHAVES, L. S. M., CAPON, 
-A. & PENCHEON, D. 2020. The environmental footprint of health care: a global 
-assessment. Lancet Planet Health, 4, e271-e279. 
-MANNAN, M. & AL-GHAMDI, S. G. 2020. Environmental impact of water-use in buildings: 
-Latest developments from a life-cycle assessment perspective. J Environ 
-Manage, 261, 110198. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-16 
-MCGAIN, F. & NAYLOR, C. 2014. Environmental sustainability in hospitals - a systematic 
-review and research agenda. J Health Serv Res Policy, 19, 245-52. 
-OECD 2016. Green Finance and Investment Green Investment Banks: Scaling up Private 
-Investment in Low-carbon, Climate-resilient Infrastructure. Paris: OECD 
-Publishing. 
-PAHO 2013. The Green Checklist and Discussion Guide. PAHO. 
-PARAIZO, C. B. & BEGIN, L. 2020. Organizational Ethics in Health Settings. Cien Saude 
-Colet, 25, 251-259. 
-PISTERS, P., BIEN, B., DANKNER, S., RUBINSTEIN, E. & SHERIFF, F. 2017. Supporting 
-hospital renewal through strategic environmental sustainability programs. 
-Healthc Manage Forum, 30, 79-83. 
-RESNIK, D. B. 2012. Environmental Health Ethics, Cambridge MA, Oxford University 
-Press. 
-ROTHAUSEN, S. G. S. A. & CONWAY, D. 2011. Greenhouse-gas emissions from energy 
-use in the water sector. Nature Climate Change, 1, 210-219. 
-SENAY, E. & LANDRIGAN, P. J. 2018. Assessment of Environmental Sustainability and 
-Corporate Social Responsibility Reporting by Large Health Care Organizations. 
-JAMA Netw Open, 1, e180975. 
-SEPETIS, A. 2020. Sustainable Finance in Sustainable Health Care System. Open Journal 
-of Business and Management, 8, 262-281. 
-SHAMIM, M. S., BAIG, L., ZUBAIRI, N. & TORDA, A. 2020. Review of ethics teaching in 
-undergraduate medical education. J Pak Med Assoc, 70, 1056-1062. 
-SKOLNIK, R. L. 2020. Global health 101, Burlington, Massachusetts, Jones & Bartlett 
-Learning. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-17 
-UN ENVIRONMENT AND INTERNATIONAL ENERGY AGENCY 2017. Towards a zero-
-emission, efficient, and resilient buildings and construction sector. Global Status 
-Report 2017. 
-UNESCO 2005. Universal Declaration on Bioethics & Human Rights. Bull Med Ethics, 11-
-5. 
-UNESCO 2018. Responsabilidad social y salud. Informe del Comité Internacional de 
-Bioética de la UNESCO, Logroño: UNESCO. 
-UNITED NATIONS GENERAL ASSEMBLY 2015. Transforming our world: the 2030 Agenda 
-for Sustainable Development. . (Seventieth session, Agenda items 15 and 116). 
-VIVANCO, L. 2018. [Social responsibility and health: A pending task]. Aten Primaria, 50, 
-653-654. 
-WATTS, N., ADGER, W. N., AGNOLUCCI, P., BLACKSTOCK, J., BYASS, P., CAI, W., CHAYTOR, 
-S., COLBOURN, T., COLLINS, M., COOPER, A., COX, P. M., DEPLEDGE, J., 
-DRUMMOND, P., EKINS, P., GALAZ, V., GRACE, D., GRAHAM, H., GRUBB, M., 
-HAINES, A., HAMILTON, I., HUNTER, A., JIANG, X., LI, M., KELMAN, I., LIANG, L., 
-LOTT, M., LOWE, R., LUO, Y., MACE, G., MASLIN, M., NILSSON, M., ORESZCZYN, 
-T., PYE, S., QUINN, T., SVENSDOTTER, M., VENEVSKY, S., WARNER, K., XU, B., 
-YANG, J., YIN, Y., YU, C., ZHANG, Q., GONG, P., MONTGOMERY, H. & COSTELLO, 
-A. 2015. Health and climate change: policy responses to protect public health. 
-Lancet, 386, 1861-914. 
-WORLD GREEN BUILDING COUNCIL 2014. Health, Wellbeing & Productivity in Offices: 
-the next chapter for green building. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
- 
-18 
-WU, X., LU, Y., ZHOU, S., CHEN, L. & XU, B. 2016. Impact of climate change on human 
-infectious diseases: Empirical evidence and human adaptation. Environ Int, 86, 
-14-23. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4691
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)
