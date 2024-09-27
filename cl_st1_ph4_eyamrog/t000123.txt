@@ -1,74 +1,3 @@
-Status: Preprint has not been submitted for publication
-Trend in the prevalence of depression and correlates in Brazil:
-results from the National Health Surveys 2013 and 2019
-Claudia de Souza Lopes, Nayara Lopes Gomes, Washington Leite Junger, Paulo Rossi Menezes
-https://doi.org/10.1590/SciELOPreprints.2388
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Submitted on (YYYY-MM-DD): 2021-05-26
-Posted on (YYYY-MM-DD): 2021-05-28
-Powered by TCPDF (www.tcpdf.org)
-     Trend in the prevalence of depression and correlates in Brazil: results from the 
-National Health Surveys 2013 and 2019 
- 
-Claudia Souza Lopes 1  
-ORCID: 0000-0002-0401- 689X  
- 
-Nayara Lopes Gomes 1, 2  
-ORCID: 0000-0001-9743-9850 
-  
-Washington Leite Junger 1  
-ORCID: 0000-0002-6394-6587 
- 
-Paulo Rossi Menezes 3  
-ORCID: 0000-0001-6330-3314 
- 
- 
-1. Instituto de Medicina Social Hesio Cordeiro da Universidade do Estado do Rio 
-de Janeiro (IMS/UERJ) 
-2. Diretoria de Pesquisa do Instituto Brasileiro de Geografia e Estatística (IBGE) 
-3. Departamento de Medicina Preventiva da Faculdade de Ciências Médicas da 
-Universidade de São Paulo (FCM/USP) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Abstract 
 This study aims to evaluate national variation in depression prevalence overall and in 
 different socio-demographic groups, health behaviors and macro-regions of the country, 
 between 2013-2019. Data were obtained from two nationwide Brazilian surveys – PNS 
@@ -89,27 +18,7 @@ lack of physical activity. Our results show a significant increase in the preval
 depression over the six-year period between the two surveys, mainly among the younger 
 and unemployed men. The country´s economic context of recession during this period 
 may be an explanation for this finding. 
-Keywords: Trend study; Health Surveys; Depression; Mental Health   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Introduction: 
+
 Depression is considered one of the main global public health issues. Data from 
 the Global Burden of Disease Study show that depression is one of the three main 
 causes for years lived with disability (YLD), especially among women 1.  Studies of 
@@ -127,6 +36,7 @@ the change over time in depression incidence and prevalence in the general popul
 showed a predominant increasing trend in the prevalence of depression within 
 populations over time, which seems not to be explainable by study design differences or 
 publication bias alone 4.  
+
 There is now robust evidence that social, economic, and environmental 
 inequalities, such as accelerated urbanization, impact the quality of life of populations, 
 their health behaviors, access to health services, among others, influencing the 
@@ -138,17 +48,16 @@ increase in mental disorders in the population, with a greater impact on the lev
 depression and suicide 8, 9, 10. Two meta-analyses have shown that people experiencing 
 unemployment are at greater risk for mental health problems than the general population 
 11, 12. 
- 
+
 During the first decade of the 21st century, Brazilian economy thrived and the 
 country became the sixth economy in the world 13. However, since 2013, Brazil has 
 been facing a scenario of deterioration and economic recession, with successive 
 financial crises, increased unemployment, precarious work, and an increase in poverty. 
 In addition, young people have faced enormous difficulties in entering the labor market. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
 These factors may have an impact in the Brazilian population's mental health, increasing 
 the prevalence rates of depression in the general population, especially among those 
 more vulnerable.     
+
 Data from the National Health Survey of 2013, a population-based survey 
 conducted in the Brazilian population aged 18 or over, showed a prevalence of 4.1% for 
 major depression, 7.9% for depression and 21.0% for depressed mood, assessed with 
@@ -156,21 +65,19 @@ the Patient Health Questionnaire (PHQ-9), being higher among women, individuals
 aged 40-59 years and 70 years old or more, those with lower educational level and those 
 who lived in urban regions. Among those with depression, about 80% did not receive 
 any treatment and 14% were treated only with medication 14, 15. 
+
 The second edition of the National Health Survey, held in 2019, represents an 
 opportunity to evaluate temporal changes of several health problems in the general 
 population, for the first time in Brazil. The present study aims to evaluate the variation 
 in the overall prevalence of depression, and to examine how changes in prevalence of 
 depression may have happened in different socioeconomic and demographic groups, 
 health behaviors, and macro-regions of the country, between 2013 and 2019. 
- 
-Methods: 
-Study design and population  
- 
+
 We used two cross-sectional population-based datasets drawn from the National 
 Health Survey (PNS) carried in Brazil in 2013 and 2019 16, 17. The PNS is a household-
 based nationwide survey conducted by the Ministry of Health, in partnership with the 
 Brazilian Institute of Geography and Statistics (IBGE), in 2013 and 2019.  
- 
+
 Both surveys are representative samples of the Brazilian population and allow 
 estimates for urban and rural areas, for the country’s five macro-regions, and for 
 Federative Units, state capitals and metropolitan regions. The surveys were household-
@@ -181,13 +88,11 @@ randomly selected within each PSU. In the third stage, an adult resident (18 yea
 older in the 2013 edition and 15 years old or older in the 2019 edition) was selected 
 with equal probability among all adult residents in the household. Weighting factors 
 were calculated for each of the three sampling units, considering the probabilities of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
 selection and the non-response rate. For the selected resident, the weight was calculated 
 considering the weight for the corresponding household, the probability of selection of 
 the resident, the adjustment of non-response for sex, and calibration for the total 
 population by sex and age groups estimated with the weight of all residents 18, 19.       
- 
+
 Despite the change in the age group of the household selected resident in PNS 
 2019, which now includes the population aged 15 years old or over, in order to provide 
 valid data for monitoring the indicators established by the Sustainable Development 
@@ -195,19 +100,19 @@ Goals (SDGs) 20, the indicators that have been used in the publications of IBGE 
 Ministry of Health, are related to the population of 18 years or older 17. Thus, following 
 this guideline and to allow comparisons between the two editions of the PNS, the 
 present study uses data referring only to the population aged 18 or over. 
- 
+
 In the PNS 2013, a total of 69,954 occupied households were visited and 60,202 
 individuals were interviewed, resulting in a response rate of 86.1%. In the PNS 2019, of 
 a total of 108,525 households visited, interviews were conducted in 94,114 households, 
 with a loss rate of 13.2%. The sample of households with a person aged 18 or over 
 (selected resident), reached 88,531 individuals. 
- 
+
 The PNS 2013 and PNS 2019 surveys were approved by the National 
 Commission of Ethics in Research (CONEP) of the National Health Council – CNS, in 
 June 2013, Regulation No. 328.159, and in August 2019, No. 3.529.376, respectively. In 
 both editions all participants signed an informed consent agreement. 
 Assessment of depression 
- 
+
 Depression was assessed, in both editions of PNS, through the Patient Health 
 Questionnaire PHQ-9, which evaluates the frequency of depressive symptoms over the 
 two weeks prior to data collection 21. The instrument had previously been validated in 
@@ -218,11 +123,7 @@ al.21, which classifies depression severity according to the following threshold
 27 points). In the present study, depression was defined by a PHQ-9 score of 10 or 
 higher, which is considered the best cutoff point to detect the presence of clinically 
 relevant depressive symptoms 23, 24. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Other measures 
- 
+
 In both surveys, socio-demographic variables were assessed, including sex (male 
 and female); age group (18-24, 25-29, 30-39, 40-49, 50-59, 60-69, 70 years or over), 
 race/skin color (white, black and others: yellow, brown and indigenous); level of 
@@ -232,7 +133,7 @@ complete college/university); marital status (married or in cohabit with a partn
 single) and work status (working / not working). Geographical areas were defined as 
 macro-region of residence (North, Northeast, Midwest, Southeast, and South), and 
 living in urban vs. rural areas. 
- 
+
 Health behaviors selected for analysis were: current smoker of any type of 
 tobacco (yes, no); excessive alcohol consumption (heavy drinking) being defined as the 
 weekly consumption of 15 or more alcoholic drinks for men and 8 or more for women 
@@ -241,7 +142,7 @@ distilled drink; and leisure physical activity, assessed through the number of d
 week that the person practiced physical exercise or sport in the last 3 months, in which 
 those who practiced any activity for at least once a week were considered active.  
 Data analysis 
- 
+
 Prevalence of depression was described according to socio-demographic 
 characteristics and geographical area. Estimates were computed for both PNS 2013 and 
 PNS 2019, with their respective 95% confidence intervals using the t distribution, given 
@@ -254,22 +155,18 @@ errors of the interaction term, between the group variable and the survey indica
 and the confidence intervals, respectively. The datasets from both surveys were stacked 
 and an indicator variable was created to flag their respective survey iteration, then post-
 stratification was carried out in order to adjust the weights. 
- 
+
 All statistical analyses were performed using survey-specific weighting factors 
 adjusting the study samples to the demographic-geographic distribution of the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
 population in Brazil. To estimate the prevalence of depression according to the 
 correlates in each year, their variations between surveys, and confidence intervals we 
 used R version 4.0.5 26 with the survey package version 4.0 27. 
- 
-Results: 
- 
-     Demographic features of PNS 2013 and PNS 2019 samples are shown in 
+
+Demographic features of PNS 2013 and PNS 2019 samples are shown in 
 Table 1. Overall, the sample characteristics of PNS 2013 and PNS 2019 showed little 
 change in the underlying population regarding the included variables, except for age 
 distribution (shift towards older age) and increase in higher levels of education. 
- 
+
 Table 2 shows the prevalence of depression according to socio-demographic 
 characteristics and health behaviors of the general population in 2013 and 2019. 
 Overall, there was a 36.7% increase in the prevalence of depression between 2013 
@@ -280,7 +177,7 @@ depression, with women having a higher prevalence in both periods of time; with 
 increase in prevalence between 2013 (10.7%) and 2019 (15.0%) greater than that 
 observed among men (4.7% vs. 6.1%). Prevalence among women was significantly 
 higher than among men in all age groups and at both time points.  
- 
+
 Although there was an increase in the prevalence of depression for all age 
 groups, this increase was more marked among the younger age groups, especially 
 among those aged 18 to 24 years old, where the prevalence of depression almost 
@@ -288,33 +185,31 @@ doubled, being 5.6% in 2013 and 11.1% in 2019. This pattern was repeated for wom
 (8.3% vs. 15.6%) and men (2.9% vs. 6.6%) in this age group. In contrast, for those aged 
 70 years or more, the prevalence remained almost constant in the whole population, 
 changing from 10.2% to 11.1%, having an increase among women, but not among men.  
- 
+
 Those living in urban areas of the country presented a higher increase (of 39.8%) 
 in the prevalence of depression (from 8.1% in 2013 to 11.3% in 2019), when compared 
 to those living in rural areas (from 6,4% to 7,7% in the same period), a relative increase 
 of 20.2%. When considering the country's macro-regions, the absolute differences 
 between the prevalence of depression in 2013 and 2019 followed the 2-3 percentage 
 points found for the whole country (Table 2). When stratified by sex, among women, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
 the differences of 4-5 percentage points in the prevalence of depression between 2013 
 and 2019 remained for all regions, except for the Southern region of the country, where 
 it was less than one point percentage (13.4% in 2013 and 14.3% in 2019). In 2013, the 
 prevalence of depression among women in the Southern region was higher than in the 
 rest of the country, and remained stable after six years (Table 3). 
- 
+
 For other socioeconomic and demographic characteristics, no significant 
 variations were found in the prevalence of depression between 2013 and 2019 in the 
 categories under study, with the changes generally accompanying the difference of 
 about 3 percentage points between 2013 and 2019 for the overall population, and of 
 about 4-5 percentage points for women and 1.5 percentage points for men (Tables 2 and 
 3).  
- 
+
 There was a significant and almost three-fold absolute difference increase in the 
 prevalence of depression in the group of men aged 18 to 24, who were not working 
 (3.7% in 2013 and 10.3% in 2019), an increase of 178.4%, when compared to those 
 who were working (2.6% vs. 4.9%), a relative increase of 90.5% (Table 4 and Figure 1). 
- 
+
 Regarding health behaviors, as can be seen in Table 2, in the general population, 
 there was an increase in the prevalence of depression in all three categories, following 
 the increase of about three percentage points in the general prevalence. Both in 2013 
@@ -325,7 +220,7 @@ went from 10.8% in 2013 to 14.7% in 2019, a relative difference of 35.9%. A rela
 increase of 40.5% was found among those that were not engaged in physical activities at 
 least once a week, higher than differences observed in the other categories of health risk 
 behaviors. 
- 
+
 When stratifying by sex (Table 3), among women who reported heavy drinking, 
 there was a greater variation in the prevalence of depression from 2013 to 2019 than 
 among those who did not report this pattern of alcohol consumption in those years. 
@@ -334,8 +229,6 @@ Women who reported smoking in 2013 showed a higher prevalence of depression in
 smokers and 14.1% among nonsmokers); with a relative increase of 30.4% among 
 smokers from 2013 to 2019. Among men, smoking showed a higher prevalence of 
 depression in 2013 and 2019, with a relative increase of 41.9%, considerably higher 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
 than the variation among men in general. Regarding the practice of physical activity, 
 women who did not practice physical activity in 2019 showed a higher prevalence of 
 depression than those who practiced physical activity, as observed in 2013, with a 
@@ -343,9 +236,7 @@ relative increase of 46.5%. Conversely, among men, those who did not practice ph
 activity had a relative increase of 25.2% in the prevalence of depression as compared to 
 those who practiced physical activity, moving from 5.9% in 2013 to 7,3% in 2019 
 (Table 3). 
- 
-Discussion: 
- 
+
 This is the first study to compare the prevalence of depression in the Brazilian 
 population in two distinct periods in time. The study shows an increase in the 
 prevalence of depression from 2013 to 2019, from 7.9% to 10.8%, mainly among 
@@ -353,7 +244,7 @@ women and the youngest. The change in the prevalence of depression was not
 homogeneous in all age groups, with a greater increase among those aged 18 to 24 years 
 old. This increase among the youngest was even greater among those who did not work, 
 and especially among young men. 
- 
+
 Overall, the current results differ from those in the initially presented meta-
 analysis and from the findings of the Global Burden of Disease Study, which found no 
 differences in the prevalence of depression over time 1, 3. A study in Chile, which 
@@ -371,8 +262,6 @@ country in 2008 30. A study conducted among representative samples of the workin
 (25–64 years) general population in England between 1991 and 2010, to assess short-
 term differences in population mental health before and after the 2008 recession, 
 showed an increase of common mental disorders, from 13.7% in 2008 to 16.4% in 2009 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
 and 15.5% in 2010 31. Some of these studies also found that financial crises and periods 
 of recession and unemployment have higher impact in specific subgroups, especially 
 among the youngest and among men 32. These groups are more likely to be affected by 
@@ -390,7 +279,7 @@ standard of living, affecting mainly those who were at the age of entry into the
 market. As Brazil did not have effective governmental mechanisms for social protection 
 in such crisis periods, it is possible that those more vulnerable groups suffered the 
 consequences of economic hardship more intensively.   
- 
+
 The present study also found that residents in urban areas of the country had a 
 higher prevalence of depression in both 2013 and 2019, and a greater increase in the 
 prevalence of depression in the six year period (39.8%), when compared to residents in 
@@ -407,9 +296,7 @@ accelerated urbanization processes 38, 39. Other studies, however, did not obser
 trend 28, 40. A recent study, conducted in Peru, to assess trends in the prevalence of 
 depression between 2014 and 2018, found no significant differences in the prevalence 
 of depression in the period, for urban and rural regions 41.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
- 
+
 Regarding health behaviors, the present study found an increase in the 
 prevalence of depression between 2013 and 2019 for the worst categories of the three 
 health behaviors under study, for both sexes: heavy drinking, smoking and lack of 
@@ -432,7 +319,7 @@ substance use disorders were consistent only for black men between 18-29 years o
 47. The results of the present study are also in line with longitudinal studies which 
 showed that women who were in a high-risk drinking group at baseline are under higher 
 risk of developing depression disorder at follow-up 45, 48.  
-Strengths and limitations of this study 
+
 One of the strengths of the present study is the fact that it is the first that 
 assessed the trend in the prevalence of depression based in two nationally representative 
 surveys, which allowed the assessment of changes in the prevalence of depression 
@@ -441,10 +328,9 @@ behaviors. In addition, both surveys used the same standardized questionnaire (P
 widely used in national and international studies, for the assessment of depression 
 according to internationally accepted criteria, allowing the comparison of results of the 
 present study with those of other international studies. 
+
 There are also some limitations that need to be considered. First, presence of 
 depression was assessed with the PHQ-9 with the cut-off 10 to assess depression, and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
 pooled estimates for such cut-off are 0.77 for sensitivity and 0.85 for specificity, 
 implying that some degree of random misclassification must have occurred. This may 
 have weakened the observed associations. Secondly, more severe cases of depression 
@@ -456,7 +342,7 @@ variability not accounted for. Thus, the confidence intervals for the difference
 prevalence in 2013 and 2019 may be slightly underestimated, increasing the probability 
 of type I error. So, confidence limits close to the null hypothesis should be interpreted 
 with caution.  
-  
+
 In conclusion, our findings show evidence of a significant increase in the 
 prevalence of depression over the six-year period between the two surveys. The finding 
 that the group of younger and unemployed men showed the greatest variation in the 
@@ -467,1762 +353,3 @@ will have an impact on their mental health. Although economic crises tend to lea
 reduced resources for health care, resources for mental health care must be maintained 
 or even increased to allow faster and better results, both in terms of economic recovery, 
 and mental health of the population.           
- 
-Funding: TED 18/2019 - Health Surveillance Secretariat, Ministry of Health. 
- 
-Conflict of interest: The authors declare no conflicts of interest 
- 
-Contribution of all authors: CSL and PRM conceived the study, interpreted the results 
-and wrote the manuscript, NLG and WLJ analyzed the data and participated in the 
-writing of the manuscript.  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-References 
- 
-1. GBD 2017 Disease and Injury Incidence and Prevalence Collaborators. Global, 
-regional, and national incidence, prevalence, and years lived with disability for 354 
-diseases and injuries for 195 countries and territories, 1990-2017: a systematic 
-analysis for the Global Burden of Disease Study 2017. Lancet. 2018; 
-392(10159):1789-1858. 
-2. Vos T, Allen C, Arora M, Barber RM, Bhutta ZA, Brown A, Carter A, Casey DC, 
-Charlson FJ, Chen AZ, et al. Global, regional, and national incidence, prevalence, 
-and years lived with disability for 310 diseases and injuries, 1990–2015: a 
-systematic analysis for the global burden of disease study 2015. Lancet. 2016; 
-388:1545–602. 
-3. Baxter AJ, Scott KM, Ferrari AJ, Norman RE, Vos T, Whiteford HA. Challenging 
-the myth of an “epidemic” of common mental disorders: trends in the global 
-prevalence of anxiety and depression between 1990 and 2010. Depress Anxiety. 
-2014; 31:506–16. 
-4. Moreno-Agostino D, Wu YT, Daskalopoulou C, Hasan MT, Huisman M, Prina M. 
-Global trends in the prevalence and incidence of depression: a systematic review 
-and meta-analysis. J Affect Disord. 2021; 281:235-243.  
-5. Almeida-Filho N, Kawachi I, Filho AP, Dachs JN. Research on health inequalities 
-in Latin America and the Caribbean: bibliometric analysis (1971-2000) and 
-descriptive 
-content 
-analysis 
-(1971-1995). 
-Am 
-J 
-Public 
-Health. 
-2003 
-Dec;93(12):2037-43.  
-6. McMichael AJ, Friel S, Nyong A, Corvalan C. Global environmental change and 
-health: 
-impacts, 
-inequalities, 
-and 
-the 
-health 
-sector. 
-BMJ. 
-2008 
-Jan 
-26;336(7637):191-4.  
-7. Hidaka BH. Depression as a disease of modernity: explanations for increasing 
-prevalence. J Affect Disord. 2012; 140(3):205-14.  
-8. Stuckler D, Basu S, Suhrcke M, McKee M. The health implications of financial 
-crisis: a review of the evidence. Ulster Med J. 2009; 78(3):142-5.  
-9. Ibrahim S, Hunt IM, Rahman MS, Shaw J, Appleby L, Kapur N. Recession, 
-recovery and suicide in mental health patients in England: time trend analysis. Br J 
-Psychiatry. 2019; 13:1-7.  
-10. Konstantakopoulos G, Pikouli K, Ploumpidis D, Bougonikolou E, Kouyanou K, 
-Nystazaki M, Economou M. The impact of unemployment on mental health 
-examined in a community mental health unit during the recent financial crisis in 
-Greece. Psychiatriki. 2019; 30(4):281-290.  
-11. McKee-Ryan F, Song Z, Wanberg CR, Kinicki AJ. Psychological and physical well-
-being during unemployment: a meta-analytic study. J Appl Psychol. 2005 
-Jan;90(1):53-76.  
-12. Paul KI, Moser K. Unemployment impairs mental health: Meta-analyses. Journal of 
-Vocational Behavior. 2009; 74:264-82.  
-13. International Monetary Fund. Research Dept. World Economic Outlook, October 
-2012: Coping with High Debt and Sluggish Growth. Series: World Economic and 
-Financial 
-Surveys. 
-Available 
-from: 
-https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/World-Economic-
-Outlook-October-2012-Coping-with-High-Debt-and-Sluggish-Growth-25845 
-14. Munhoz TN, Nunes BP, Wehrmeister FC, Santos IS, Matijasevich A. A nationwide 
-population-based study of depression in Brazil. J Affect Disord. 2016;192:226-33. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-15. Lopes CS, Hellwig N, Silva GA, Menezes PR. Inequities in access to depression 
-treatment: results of the Brazilian National Health Survey - PNS. Int J Equity 
-Health. 2016;15(1):154. 
-16. Instituto Brasileiro de Geografia e Estatística (IBGE). Pesquisa Nacional de Saúde 
-2013. Percepção do Estado de Saúde, Estilos de Vida e Doenças Crônicas. Rio de 
-Janeiro: IBGE; 2014.  
-17. Instituto Brasileiro de Geografia e Estatística (IBGE). Pesquisa Nacional de Saúde 
-2013. Percepção do Estado de Saúde, Estilos de Vida e Doenças Crônicas. Rio de 
-Janeiro: IBGE; 2020.  
- 
-  
- 
- 
-18. Souza-Júnior PRB, Freitas MPS, Antonaci GA, Szwarcwald, CL. Sampling Design 
-for the National Health Survey, Brazil 2013. Epidemiol. Serv. Saúde. 2015; 
-24(2):207-216. 
-19. Stopa SR, Szwarcwald CL, Oliveira MM, Gouvea ECDP, Vieira MLFP, Freitas 
-MPS, Sardinha LMV, Macário EM. National Health Survey 2019: history, methods 
-and perspectives. Epidemiol Serv Saude. 2020 Oct 5;29(5):e2020315.  
-20. Organização das Nações Unidas - ONU. Objetivos de desenvolvimento sustentável 
-[Internet]. [S.l]: Organização das Nações Unidas; 2017. Disponível em: 
-https://nacoesunidas.org/ pos2015/agenda2030/  
-21. Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression 
-severity measure. J Gen Intern Med. 2001; 16(9):606-13.  
-22. Santos IS, Tavares BF, Munhoz TN, Almeida LS, Silva NT, Tams BD, Patella AM, 
-Matijasevich A. Sensibilidade e especificidade do Patient Health Questionnaire-9 
-(PHQ-9) entre adultos da população geral [Sensitivity and specificity of the Patient 
-Health Questionnaire-9 (PHQ-9) among adults from the general population]. Cad 
-Saude Publica. 2013; 29(8):1533-43.  
-23. Moriarty AS, Gilbody S, McMillan D, Manea L. Screening and case finding for 
-major depressive disorder using the Patient Health Questionnaire (PHQ-9): a meta-
-analysis. Gen Hosp Psychiatry. 2015 Nov-Dec;37(6):567-76.  
-24. He C, Levis B, Riehm KE, Saadat N, Levis AW, Azar M, et al. The Accuracy of the 
-Patient Health Questionnaire-9 Algorithm for Screening to Detect Major 
-Depression: An Individual Participant Data Meta-Analysis. Psychother Psychosom. 
-2020; 89(1):25-37.  
-25. Centers for Disease Control and Prevention (CDC), Excessive alcohol use. 
-Available 
-from:<https://www.cdc.gov/chronicdisease/resources/publications/aag/alcohol.htm 
-26. R Core Team (2021). R: A language and environment for statistical computing. R 
-Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-
-project.org/. 
-27. T. Lumley (2020) "survey: analysis of complex survey samples". R package version 
-4.0. 
-28. Markkula N, Zitko P, Peña S, Margozzini P, Retamal C P. Prevalence, trends, 
-correlates and treatment of depression in Chile in 2003 to 2010. Soc Psychiatry 
-Psychiatr Epidemiol. 2017; 52(4):399-409.  
-29. Gili M, Roca M, Basu S, McKee M, Stuckler D. The mental health risks of 
-economic crisis in Spain: evidence from primary care centres, 2006 and 2010. Eur J 
-Public Health. 2013; 23(1):103-8.  
-30. Economou M, Madianos M, Peppou LE, Patelakis A, Stefanis CN. Major 
-depression in the era of economic crisis: a replication of a cross-sectional study 
-across Greece. J Affect Disord. 2013; 5; 145(3):308-14.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-31. Katikireddi SV, Niedzwiedz CL, Popham F. Trends in population mental health 
-before and after the 2008 recession: a repeat cross-sectional analysis of the 1991-
-2010 Health Surveys of England. BMJ Open. 2012; 2(5):e001790.  
-32. Chang YH, Gunnell D, Hsu CY, Chang SS, Cheng AT. Gender difference in suicide 
-in Taiwan over a century: a time trend analysis in 1905-1940 and 1959-2012. J 
-Epidemiol Community Health. 2020; 74(11):898-906.  
-33. Ludermir AB, Harpham T. Urbanization and mental health in Brazil: social and 
-economic dimensions. Health Place. 1998; 4(3):223-32.  
-34. Almeida-Filho N, Lessa I, Magalhães L, Araújo MJ, Aquino E, James SA, Kawachi 
-I. Social inequality and depressive disorders in Bahia, Brazil: interactions of gender, 
-ethnicity, and social class. Soc Sci Med. 2004; 59(7):1339-53.  
-35. Nepomuceno BB, Cardoso AA, Ximenes VM, Barros JP, Leite JF. Mental health, 
-well-being, and poverty: A study in urban and rural communities in Northeastern 
-Brazil. J Prev Interv Community. 2016; 44(1):63-75.  
-36. Peen J, Schoevers RA, Beekman AT, Dekker J. The current status of urban-rural 
-differences in psychiatric disorders. Acta Psychiatr Scand. 2010; 121(2):84-93.  
-37. Kovess-Masféty V, Alonso J, de Graaf R, Demyttenaere K. A European approach to 
-rural-urban differences in mental health: the ESEMeD 2000 comparative study. Can 
-J Psychiatry. 2005; 50(14):926-36.  
-38. Zhang J, Wang R, Wang C, Wang Y, Chen X, Mi G, Chen X, Cheng X, Wang L, 
-Wu X, Xue F, Wang Q. Prevalence of mental disorders in 21st century Shandong 
-Province, China: A ten-year comparative study. J Affect Disord. 2021; 15; 283:344-
-353.  
-39. Adjaye-Gbewonyo D, Rebok GW, Gallo JJ, Gross AL, Underwood CR. Residence 
-in urban and rural areas over the life course and depression among Ghanaian and 
-South African older adults. Health Place. 2020; 63:102349.  
-40. Breslau J, Marshall GN, Pincus HA, Brown RA. Are mental disorders more 
-common in urban than rural areas of the United States? J Psychiatr Res. 2014; 
-56:50-5.  
-41. Villarreal-Zegarra D, Cabrera-Alva M, Carrillo-Larco RM, Bernabe-Ortiz A. Trends 
-in the prevalence and treatment of depressive symptoms in Peru: a population-based 
-study. BMJ Open. 2020; 10(7):e036777. 
-42. Teychenne, M., Ball, K. & Salmon, J. Sedentary Behavior and Depression Among 
-Adults: A Review. Int. J. Behav. Med. 2010; 17:246–254.  
-43. Bellos S, Skapinakis P, Rai D, Zitko P, Araya R, Lewis G, Lionis C, Mavreas V. 
-Longitudinal association between different levels of alcohol consumption and a new 
-onset of depression and generalized anxiety disorder: Results from an international 
-study in primary care. Psychiatry Res. 2016; 243:30-4.  
-44. Fernandes GS, Lewis G, Hammerton G, Abeysekera K, Mahedy L, Edwards A, 
-Lewis G, Hickman M, Heron J. Alcohol consumption and internalising disorders in 
-young adults of ALSPAC: a population-based study. J Epidemiol Community 
-Health. 2020; 74(12):1023-1027.  
-45. Zhang XC, Woud ML, Becker ES, Margraf J. Do health-related factors predict 
-major depression? A longitudinal epidemiologic study. Clin Psychol Psychother. 
-2018; 25(3):378-387.  
-46. Jokela M, García-Velázquez R, Gluschkoff K, Airaksinen J, Rosenström T. Health 
-behaviors and psychological distress: changing associations between 1997 and 2016 
-in the United States. Soc Psychiatry Psychiatr Epidemiol. 2020; 55(3):385-391.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-47. Compton WM, Conway KP, Stinson FS, Grant BF. Changes in the prevalence of 
-major depression and comorbid substance use disorders in the United States 
-between 1991-1992 and 2001-2002. Am J Psychiatry. 2006; 163(12):2141-7.  
-48. Fonseca LB, Pereira LP, Rodrigues PRM, Muraro AP, Andrade ACS, Pereira RA, 
-Ferreira MG. Incidence of depressive symptoms and its association with 
-sociodemographic factors and lifestyle-related behaviors among Brazilian university 
-students. Psychol Health Med. 2021, 18:1-15.  
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Table 1:  Population distribution of socio-demographic characteristics of 
-18 years and older. National Health Surveys, Brazil, 2013 and 2019. 
- 
- Variables 
-  
-Population in 2013 
-Population in 2019 
- 
- 
-N 
-% 
-N 
-% 
-Region 
-Brazil 
-145,572,210 100.0 
-159,171,311 100.0 
- North 
-10,873,762 
-7.5 
-12,494,635 
-7.8 
- Northeast 
-38,515,102 
-26.5 
-42,106,815 
-26.5 
- Southeast 
-63,924,452 
-43.9 
-69,148,495 
-43.4 
- South 
-21,474,791 
-14.8 
-23,373,724 
-14.7 
- Midwest 
-10,784,103 
-7.4 
-12,047,642 
-7.6 
-Area 
-Urban 
-125,446,098 
-86.2 
-137,171,226 
-86.2 
- Rural 
-20,126,112 
-13.8 
-22,000,085 
-13.8 
-Sex 
-Male 
-68,568,527 
-47.1 
-74,552,698 
-46.8 
- Female 
-77,003,683 
-52.9 
-84,618,613 
-53.2 
-Age (years) 
-18 to 24 
-23,186,777 
-15.9 
-22,072,088 
-13.9 
- 25 to 29 
-14,823,285 
-10.2 
-13,107,254 
-8.2 
- 30 to 39 
-31,430,214 
-21.6 
-33,411,675 
-21.0 
- 40 to 49 
-26,360,041 
-18.1 
-28,930,814 
-18.2 
- 40 to 59 
-23,487,729 
-16.1 
-27,250,627 
-17.1 
- 60 to 69 
-14,866,884 
-10.2 
-19,367,899 
-12.2 
- 70+ 
-11,417,281 
-7.8 
-15,030,954 
-9.4 
-Work status 
-Working 
-89,494,928 
-61.5 
-97,520,408 
-61.3 
- Not working 
-56,077,282 
-38.5 
-61,650,903 
-38.7 
-Income 
-0 to 1 
-72,397,085 
-49.7 
-81,499,740 
-51.2 
-(minimal wage) 
-more than 1 to 3 
-55,514,046 
-38.1 
-59,294,591 
-37.3 
- more than 3 to 5 
-9,341,881 
-6.4 
-10,117,149 
-6.4 
- 5 or more 
-8,295,540 
-5.7 
-8,209,612 
-5.2 
-Education 
-Less than primary 
-56,741,611 
-39.0 
-55,320,373 
-34.8 
- Primary 
-22,589,072 
-15.5 
-23,048,597 
-14.5 
- Secondary 
-47,729,621 
-32.8 
-55,612,506 
-34.9 
-  
-University 
-18,511,905 
-12.7 
-25,189,835 
-15.8 
-Marital status 
-Single 
-53,371,566    36.7 
-58,478,288 
-36.7 
- 
-Married or cohabit 
-92,200,644    63.3 
-100,693,023 
-63.3 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Table 2. Prevalence of depression by socio-demographic factors and health behaviors among adults (> 18 years of age), 
-and relative change, National Health Surveys, Brazil, 2013 and 2019. 
-Variables  
-  
-Prevalence of 
-depression in 2013 
-Prevalence of 
-depression in 2019 
-Relative change 
-  
-  
-% 
-CI 95% 
- %     CI 95% 
- 
-Diff. %     CI 95% 
-Region 
-Brazil 
-7.9 
-7.5 ; 
-8.3 
-10.8 
-10.4 ; 11.2 
-37.6 30.4 ; 44.7 
- 
-North 
-6.1 
-5.3 ; 
-6.8 
-8.3 
-7.6 ; 9.0 
-36.7 19.9 ; 53.4 
- 
-Northeast 
-8.0 
-7.3 ; 
-8.7 
-10.7 
-10.1 ; 11.2 
-33.7 22.8 ; 44.6 
- 
-Southeast 
-7.7 
-7.0 ; 
-8.4 
-11.5 
-10.7 ; 12.3 
-50.0 36.5 ; 63.5 
- 
-South 
-9.1 
-8.0 ; 
-10.1 
-10.2 
-9.3 ; 11.1 
-12.9 
--2.6 ; 28.5 
- 
-Midwest 
-8.2 
-7.3 ; 
-9.1 
-11.4 
-10.3 ; 12.4 
-38.7 22.0 ; 55.5 
-Area 
-Urban 
-8.1 
-7.7 ; 
-8.6 
-11.3 
-10.9 ; 11.8 
-39.8 32.0 ; 47.6 
- 
-Rural 
-6.4 
-5.6 ; 
-7.2 
-7.7 
-7.0 ; 8.4 
-20.2 
-4.1 ; 36.3 
-Age (years) 
-18 to 24 
-5.6 
-4.8 ; 
-6.4 
-11.1 
-9.8 ; 12.4 
-97.4 69.9 ; 125.0 
- 
-25 to 29 
-5.6 
-4.8 ; 
-6.5 
-8.7 
-7.6 ; 9.8 
-54.4 30.0 ; 78.9 
- 
-30 to 39 
-7.3 
-6.6 ; 
-8.0 
-10.0 
-9.2 ; 10.8 
-36.8 21.8 ; 51.9 
- 
-40 to 49 
-8.7 
-7.8 ; 
-9.7 
-11.7 
-10.8 ; 12.5 
-33.7 19.5 ; 47.8 
- 
-40 to 59 
-9.8 
-8.7 ; 
-10.8 
-11.9 
-11.0 ; 12.9 
-22.5 
-7.9 ; 37.0 
- 
-60 to 69 
-8.6 
-7.4 ; 
-9.9 
-10.5 
-9.5 ; 11.5 
-21.4 
-2.7 ; 40.1 
- 
-70+ 
-10.2 
-8.8 ; 
-11.5 
-11.1 
-10.0 ; 12.1 
-8.9 
--8.2 ; 25.9 
-Skin color 
-White 
-7.5 
-6.9 ; 
-8.0 
-10.6 
-9.9 ; 11.2 
-41.4 30.3 ; 52.5 
- 
-Black 
-8.6 
-7.4 ; 
-9.7 
-11.8 
-10.7 ; 12.8 
-37.0 18.9 ; 55.2 
- 
-Others 
-8.2 
-7.6 ; 
-8.7 
-10.8 
-10.3 ; 11.4 
-32.9 23.3 ; 42.5 
-Work status 
-Working 
-6.1 
-5.6 ; 
-6.5 
-8.8 
-8.3 ; 9.2 
-44.8 34.6 ; 55.0 
- 
-Not working 
-10.7 
-10.0 ; 
-11.5 
-14.1 
-13.4 ; 14.7 
-30.8 21.8 ; 39.8 
-Income 
-0 to 1 
-9.2 
-8.6 ; 
-9.8 
-12.2 
-11.7 ; 12.7 
-32.9 24.3 ; 41.6 
-(minimal wage) 
-more than 1 to 3 
-7.1 
-6.5 ; 
-7.7 
-9.9 
-9.3 ; 10.6 
-39.3 26.5 ; 52.1 
- 
-more than 3 to 5 
-5.1 
-4.0 ; 
-6.2 
-7.6 
-6.3 ; 8.8 
-47.8 15.0 ; 80.5 
- 
-5 or more 
-4.5 
-3.4 ; 
-5.6 
-7.8 
-6.5 ; 9.0 
-73.0 35.8 ; 110.1 
-Education 
-Less than primary 
-10.2 
-9.5 ; 
-10.9 
-12.4 
-11.8 ; 13.0 
-21.3 12.1 ; 30.4 
- 
-Primary 
-7.7 
-6.8 ; 
-8.6 
-11.5 
-10.4 ; 12.5 
-48.3 29.7 ; 66.8 
- 
-Secondary 
-6.0 
-5.4 ; 
-6.5 
-9.8 
-9.2 ; 10.5 
-64.5 50.4 ; 78.7 
- 
-University 
-5.7 
-4.8 ; 
-6.6 
-9.0 
-8.0 ; 10.0 
-57.3 33.9 ; 80.7 
-Marital status 
-Single 
-8.0 
-7.4 ; 
-8.6 
-12.7 
-12.0 ; 13.4 
-58.6 47.2 ; 70.0 
- 
-Married or cohabit 
-7.8 
-7.3 ; 
-8.3 
-9.8 
-9.3 ; 10.2 
-25.1 16.4 ; 33.7 
-Heavy drinking 
-Yes 
-8.9 
-7.5 ; 
-10.4 
-12.0 
-10.5 ; 13.6 
-34.7 10.5 ; 58.8 
- 
-No 
-7.8 
-7.4 ; 
-8.2 
-10.7 
-10.3 ; 11.1 
-37.6 30.1 ; 45.0 
-Physical activity 
-Yes 
-5.1 
-4.6 ; 
-5.7 
-8.0 
-7.5 ; 8.6 
-56.0 40.8 ; 71.2 
- 
-No 
-9.1 
-8.6 ; 
-9.6 
-12.7 
-12.2 ; 13.3 
-40.5 32.4 ; 48.6 
-Smoking 
-Yes 
-10.8 
-9.7 ; 
-11.9 
-14.7 
-13.5 ; 15.9 
-35.9 21.0 ; 50.9 
- 
-No 
-7.4 
-7.0 ; 
-7.8 
-10.3 
-9.9 ; 10.7 
-39.4 31.5 ; 47.3 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Table 3. Prevalence of depression by sex, socio-demographic factors and health behaviors among adults (> 18 years of age), 
-and relative change. National Health Surveys, Brazil, 2013 and 2019. 
-Sex 
- Variables 
-  
-Prevalence of 
-depression in 2013 
-Prevalence of 
-depression in 2019 
-Relative change 
-  
-  
-  
-% 
-IC 95% 
-% 
-IC 95% 
-Diff. % 
-CI 95% 
-Male 
-Region 
-Brazil 
-4,7 
-4,2 ; 5,1 
-6,1 
-5,7 ; 6,5 
-30,8 
-17,4 ; 44,1 
- 
- 
-North 
-3,4 
-2,7 ; 4,2 
-4,3 
-3,7 ; 4,9 
-26,1 
--2,4 ; 54,6 
- 
- 
-Northeast 
-5,0 
-4,2 ; 5,7 
-5,8 
-5,2 ; 6,4 
-17,2 
--1,8 ; 36,1 
- 
- 
-Southeast 
-4,9 
-4,0 ; 5,7 
-6,7 
-5,9 ; 7,6 
-39,1 
-14,3 ; 63,9 
- 
- 
-South 
-4,2 
-3,3 ; 5,1 
-5,7 
-4,8 ; 6,5 
-35,2 
-4,8 ; 65,6 
- 
- 
-Midwest 
-4,6 
-3,5 ; 5,7 
-5,9 
-4,9 ; 7,0 
-29,2 
--3,2 ; 61,5 
- 
-Area 
-Urban 
-4,8 
-4,3 ; 5,3 
-6,5 
-6,0 ; 7,0 
-35,0 
-20,1 ; 49,9 
- 
- 
-Rural 
-3,8 
-3,0 ; 4,6 
-4,0 
-3,4 ; 4,5 
-3,8 
--
-22,0 ; 29,7 
- 
-Age (years) 
-18 to 24 
-2,9 
-2,0 ; 3,8 
-6,6 
-5,0 ; 8,2 
-127,1 
-64,1 ; 190,1 
- 
- 
-25 to 29 
-2,7 
-1,8 ; 3,5 
-5,0 
-3,8 ; 6,2 
-87,3 
-32,9 ; 141,8 
- 
- 
-30 to 39 
-4,1 
-3,3 ; 4,9 
-4,7 
-3,9 ; 5,5 
-14,5 
--
-12,8 ; 41,8 
- 
- 
-40 to 49 
-4,8 
-3,7 ; 5,9 
-6,4 
-5,4 ; 7,3 
-31,7 
-2,6 ; 60,8 
- 
- 
-40 to 59 
-6,2 
-4,9 ; 7,5 
-7,0 
-5,9 ; 8,0 
-12,3 
--
-15,0 ; 39,6 
- 
- 
-60 to 69 
-6,0 
-4,4 ; 7,6 
-6,7 
-5,5 ; 7,9 
-11,9 
--
-22,2 ; 46,0 
- 
- 
-70+ 
-7,4 
-5,6 ; 9,3 
-6,4 
-5,3 ; 7,5 
--14,5 
--
-43,2 ; 14,3 
- 
-Skin color 
-White 
-4,8 
-4,1 ; 5,6 
-6,2 
-5,6 ; 6,9 
-28,2 
-8,3 ; 48,2 
- 
- 
-Black 
-4,7 
-3,4 ; 6,0 
-6,3 
-5,2 ; 7,3 
-32,7 
--3,0 ; 68,4 
- 
- 
-Others 
-4,4 
-3,8 ; 5,0 
-5,9 
-5,2 ; 6,6 
-33,5 
-13,1 ; 54,0 
- 
-Work status 
-Working 
-3,6 
-3,1 ; 4,1 
-4,8 
-4,3 ; 5,2 
-34,0 
-15,7 ; 52,2 
- 
- 
-Not working 
-7,8 
-6,7 ; 8,9 
-9,5 
-8,5 ; 10,5 
-22,0 
-2,9 ; 41,1 
- 
-Income 
-0 to 1 
-5,4 
-4,8 ; 6,1 
-6,6 
-6,0 ; 7,3 
-21,9 
-4,8 ; 39,0 
- 
-(minimal wage) more than 1 to 3 
-4,3 
-3,6 ; 5,0 
-5,8 
-5,1 ; 6,5 
-35,2 
-12,4 ; 58,0 
- 
- 
-more than 3 to 5 
-2,4 
-1,4 ; 3,4 
-4,6 
-3,0 ; 6,1 
-90,4 
-13,4 ; 167,3 
- 
- 
-5 or more 
-3,3 
-1,7 ; 4,9 
-4,9 
-3,4 ; 6,3 
-48,2 
-- ; 113,7 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-17,4 
- 
-Education 
-Less than primary 
-6,3 
-5,5 ; 7,1 
-7,0 
-6,2 ; 7,7 
-10,7 
--6,2 ; 27,6 
- 
- 
-Primary 
-4,1 
-3,0 ; 5,1 
-5,9 
-4,8 ; 7,0 
-45,8 
-9,0 ; 82,5 
- 
- 
-Secondary 
-3,3 
-2,7 ; 3,9 
-5,7 
-5,0 ; 6,4 
-73,1 
-43,4 ; 102,8 
- 
- 
-University 
-3,6 
-2,3 ; 4,9 
-5,0 
-4,0 ; 6,0 
-38,4 
--7,0 ; 83,8 
- 
-Marital status 
-Single 
-4,8 
-4,1 ; 5,6 
-7,9 
-6,9 ; 8,8 
-63,0 
-38,3 ; 87,6 
- 
- 
-Married or 
-cohabit 
-4,6 
-4,0 ; 5,1 
-5,3 
-4,8 ; 5,7 
-16,1 
-0,2 ; 32,0 
- 
-Heavy drinking Yes 
-6,8 
-5,2 ; 8,5 
-7,4 
-5,7 ; 9,1 
-8,8 
--
-26,1 ; 43,7 
- 
- 
-No 
-4,4 
-4,0 ; 4,9 
-5,9 
-5,5 ; 6,4 
-33,7 
-19,2 ; 48,3 
- 
-Physical 
-activity 
-Yes 
-2,4 
-2,0 ; 2,9 
-4,5 
-3,9 ; 5,1 
-85,1 
-53,6 ; 116,6 
- 
- 
-No 
-5,9 
-5,2 ; 6,5 
-7,3 
-6,7 ; 8,0 
-25,2 
-10,0 ; 40,3 
- 
-Smoking 
-Yes 
-6,3 
-5,2 ; 7,4 
-9,0 
-7,7 ; 10,2 
-41,9 
-15,6 ; 68,3 
- 
- 
-No 
-4,3 
-3,8 ; 4,7 
-5,5 
-5,1 ; 6,0 
-29,8 
-14,5 ; 45,0 
-Female 
-Region 
-Brazil 
-10,7 10,1 ; 11,3 
-15,0 
-14,4 ; 15,6 
-39,8 
-31,8 ; 47,8 
- 
- 
-North 
-8,6 
-7,3 ; 9,8 
-12,0 
-10,8 ; 13,2 
-39,9 
-19,7 ; 60,1 
- 
- 
-Northeast 
-10,7 
-9,7 ; 11,6 
-14,9 
-14,0 ; 15,8 
-39,8 
-27,6 ; 51,9 
- 
- 
-Southeast 
-10,1 
-9,1 ; 11,1 
-15,6 
-14,4 ; 16,8 
-54,3 
-38,9 ; 69,7 
- 
- 
-South 
-13,4 11,7 ; 15,1 
-14,3 
-12,9 ; 15,8 
-6,5 
--
-10,1 ; 23,2 
- 
- 
-Midwest 
-11,5 10,1 ; 12,8 
-16,2 
-14,7 ; 17,8 
-41,7 
-23,6 ; 59,7 
- 
-Area 
-Urban 
-11,0 10,3 ; 11,6 
-15,4 
-14,7 ; 16,1 
-40,6 
-31,9 ; 49,2 
- 
- 
-Rural 
-9,1 
-7,8 ; 10,4 
-11,9 
-10,8 ; 13,1 
-31,3 
-12,1 ; 50,4 
- 
-Age (years) 
-18 to 24 
-8,3 
-6,9 ; 9,6 
-15,6 
-13,5 ; 17,7 
-89,1 
-59,4 ; 118,7 
- 
- 
-25 to 29 
-8,6 
-7,1 ; 10,0 
-12,1 
-10,4 ; 13,8 
-41,1 
-14,9 ; 67,3 
- 
- 
-30 to 39 
-10,2 
-9,0 ; 11,3 
-14,9 
-13,5 ; 16,3 
-46,3 
-28,8 ; 63,8 
- 
- 
-40 to 49 
-12,0 10,5 ; 13,5 
-16,0 
-14,7 ; 17,4 
-33,8 
-17,4 ; 50,3 
- 
- 
-40 to 59 
-13,0 11,4 ; 14,6 
-16,5 
-15,1 ; 17,9 
-26,8 
-10,6 ; 42,9 
- 
- 
-60 to 69 
-10,6 
-9,0 ; 12,3 
-13,4 
-12,0 ; 14,9 
-26,1 
-5,4 ; 46,9 
- 
- 
-70+ 
-12,2 10,3 ; 14,2 
-14,5 
-12,9 ; 16,1 
-18,2 
--2,4 ; 38,8 
- 
-Skin color 
-White 
-9,8 
-9,0 ; 10,6 
-14,3 
-13,3 ; 15,3 
-46,3 
-33,5 ; 59,2 
- 
- 
-Black 
-12,0 10,2 ; 13,8 
-16,7 
-15,0 ; 18,3 
-38,9 
-18,4 ; 59,4 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Others 
-11,6 10,7 ; 12,4 
-15,3 
-14,5 ; 16,1 
-32,3 
-21,9 ; 42,7 
- 
-Work status 
-Working 
-9,4 
-8,7 ; 10,1 
-13,8 
-12,9 ; 14,6 
-46,8 
-34,9 ; 58,8 
- 
- 
-Not working 
-12,1 11,2 ; 13,0 
-16,3 
-15,5 ; 17,1 
-34,9 
-24,9 ; 44,9 
- 
-Income 
-0 to 1 
-12,2 11,3 ; 13,0 
-16,7 
-15,9 ; 17,5 
-37,5 
-27,9 ; 47,1 
- 
-(minimal wage) more than 1 to 3 
-9,9 
-9,0 ; 10,9 
-13,8 
-12,6 ; 15,0 
-39,0 
-23,9 ; 54,2 
- 
- 
-more than 3 to 5 
-7,7 
-5,8 ; 9,5 
-10,5 
-8,5 ; 12,6 
-37,7 
-1,0 ; 74,3 
- 
- 
-5 or more 
-5,8 
-4,2 ; 7,3 
-10,8 
-8,7 ; 12,8 
-87,0 
-42,3 ; 131,8 
- 
-Education 
-Less than primary 13,9 12,8 ; 14,9 
-17,4 
-16,3 ; 18,4 
-25,2 
-14,5 ; 36,0 
- 
- 
-Primary 
-11,4 
-9,9 ; 12,9 
-17,2 
-15,4 ; 18,9 
-50,4 
-30,3 ; 70,4 
- 
- 
-Secondary 
-8,3 
-7,5 ; 9,1 
-13,4 
-12,4 ; 14,4 
-61,8 
-46,4 ; 77,1 
- 
- 
-University 
-7,3 
-6,0 ; 8,6 
-11,9 
-10,5 ; 13,3 
-63,9 
-37,4 ; 90,4 
- 
-Marital status 
-Single 
-10,5 
-9,6 ; 11,3 
-15,8 
-14,8 ; 16,7 
-50,5 
-38,6 ; 62,5 
- 
- 
-Married or 
-cohabit 
-10,9 10,2 ; 11,7 
-14,5 
-13,6 ; 15,3 
-32,6 
-22,4 ; 42,8 
- 
-Heavy drinking Yes 
-13,6 10,6 ; 16,5 
-19,6 
-16,8 ; 22,4 
-44,4 
-14,4 ; 74,5 
- 
- 
-No 
-10,6 10,0 ; 11,2 
-14,8 
-14,1 ; 15,4 
-38,8 
-30,6 ; 47,0 
- 
-Physical 
-activity 
-Yes 
-8,4 
-7,4 ; 9,5 
-11,7 
-10,8 ; 12,6 
-39,5 
-23,0 ; 56,0 
- 
- 
-No 
-11,6 10,9 ; 12,2 
-16,9 
-16,1 ; 17,7 
-46,5 
-37,4 ; 55,5 
- 
-Smoking 
-Yes 
-17,7 15,6 ; 19,9 
-23,1 
-20,8 ; 25,4 
-30,4 
-12,7 ; 48,1 
-  
-  
-No 
-9,9 
-9,3 ; 10,5 
-14,1 
-13,5 ; 14,8 
-43,2 
-34,4 ; 52,0 
-  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Table 4: Prevalence of depression, by sex, work status, and age among adults (> 18 years of age), and relative change. 
-National Health Surveys, Brazil, 2013 and 2019. 
-Sex 
-Work status 
-Age  
-Prevalence of 
-depression in 2013 
-Prevalence of 
-depression in 2019 
-Relative change 
-% 
-CI 95% 
-% 
-CI 95% 
-Diff. % 
-CI 95% 
-Both 
-Working 
-18 to 24 
-5.2 
-4.2 ; 6.3 
-9.9 
-8.2 ; 11.6 
-89.4 
-51.3 ; 127.6 
- 
- 
-25 to 29 
-4.4 
-3.6 ; 5.2 
-8.2 
-6.9 ; 9.5 
-86.8 
-51.7 ; 121.8 
- 
- 
-30 to 39 
-6.3 
-5.6 ; 7.1 
-8.1 
-7.3 ; 9.0 
-28.8 
-10.8 ; 46.8 
- 
- 
-40 to 49 
-6.7 
-5.7 ; 7.6 
-9.5 
-8.7 ; 10.3 
-42.2 
-23.2 ; 61.2 
- 
- 
-40 to 59 
-6.9 
-5.7 ; 8.0 
-9.2 
-8.1 ; 10.2 
-33.6 
-10.8 ; 56.3 
- 
- 
-60 to 69 
-6.5 
-4.5 ; 8.5 
-7.7 
-6.1 ; 9.2 
-18.6 
--20.8 ; 57.9 
- 
- 
-70+ 
-5.0 
-1.4 ; 8.5 
-4.2 
-2.6 ; 5.8 
--16.3 
--93.9 ; 61.4 
- 
-Not working 
-18 to 24 
-6.2 
-4.9 ; 7.5 
-12.8 10.7 ; 14.9 
-106.5 
-66.9 ; 146.2 
- 
- 
-25 to 29 
-9.3 
-7.0 ; 11.5 9.9 
-8.0 ; 11.7 
-6.3 
--25.4 ; 38.0 
- 
- 
-30 to 39 
-10.7 
-8.8 ; 12.6 16.8 14.8 ; 18.8 
-57.7 
-31.9 ; 83.6 
- 
- 
-40 to 49 
-14.7 12.3 ; 17.0 18.9 16.6 ; 21.1 
-28.8 
-6.6 ; 50.9 
- 
- 
-40 to 59 
-14.3 12.4 ; 16.3 17.1 15.4 ; 18.8 
-19.4 
-1.2 ; 37.6 
- 
- 
-60 to 69 
-9.6 
-8.2 ; 11.0 12.0 10.7 ; 13.3 
-25.1 
-5.1 ; 45.2 
-  
-  
-70+ 
-10.8 
-9.3 ; 12.2 11.9 10.7 ; 13.1 
-10.5 
--6.9 ; 27.9 
-Male 
-Working 
-18 to 24 
-2.6 
-1.7 ; 3.5 
-4.9 
-3.4 ; 6.5 
-90.5 
-20.4 ; 160.5 
- 
- 
-25 to 29 
-2.4 
-1.5 ; 3.2 
-4.6 
-3.4 ; 5.9 
-96.2 
-32.3 ; 160.2 
- 
- 
-30 to 39 
-3.7 
-2.9 ; 4.5 
-4.3 
-3.5 ; 5.2 
-17.3 
--13.8 ; 48.4 
- 
- 
-40 to 49 
-3.4 
-2.4 ; 4.3 
-5.3 
-4.4 ; 6.1 
-55.9 
-17.1 ; 94.8 
- 
- 
-40 to 59 
-4.9 
-3.5 ; 6.3 
-5.2 
-4.1 ; 6.4 
-7.4 
--28.9 ; 43.8 
- 
- 
-60 to 69 
-5.6 
-2.8 ; 8.4 
-4.4 
-2.9 ; 5.9 
--21.6 
--77.9 ; 34.6 
- 
- 
-70+ 
-3.6 
--0.4 ; 7.5 
-3.5 
-1.6 ; 5.4 
--2.7 
--125.3 ; 120.0 
- 
-Not working 
-18 to 24 
-3.7 
-1.7 ; 5.6 
-10.3 
-6.6 ; 14.0 
-178.4 
-65.6 ; 291.2 
- 
- 
-25 to 29 
-5.2 
-2.0 ; 8.5 
-6.9 
-3.5 ; 10.3 
-31.1 
--59.4 ; 121.6 
- 
- 
-30 to 39 
-8.3 
-4.4 ; 12.2 8.4 
-5.8 ; 11.0 
-1.6 
--54.9 ; 58.1 
- 
- 
-40 to 49 
-15.1 
-9.8 ; 20.5 14.9 11.2 ; 18.6 
--1.6 
--44.6 ; 41.3 
- 
- 
-40 to 59 
-10.6 
-7.2 ; 14.0 13.2 10.5 ; 15.9 
-24.2 
--16.8 ; 65.2 
- 
- 
-60 to 69 
-6.3 
-4.4 ; 8.2 
-8.8 
-6.9 ; 10.7 
-39.0 
--3.3 ; 81.4 
-  
-  
-70+ 
-8.3 
-6.3 ; 10.4 7.0 
-5.7 ; 8.2 
--16.2 
--45.4 ; 12.9 
-Female Working 
-18 to 24 
-8.8 
-6.7 ; 10.9 16.7 13.4 ; 20.0 
-89.8 
-45.7 ; 133.9 
- 
- 
-25 to 29 
-7.4 
-5.8 ; 9.0 
-12.7 10.3 ; 15.1 
-71.6 
-32.5 ; 110.6 
- 
- 
-30 to 39 
-9.6 
-8.3 ; 10.8 12.8 11.1 ; 14.5 
-33.6 
-11.7 ; 55.5 
- 
- 
-40 to 49 
-10.5 
-8.8 ; 12.3 14.1 12.7 ; 15.6 
-34.2 
-12.5 ; 55.8 
- 
- 
-40 to 59 
-9.8 
-7.8 ; 11.8 14.4 12.6 ; 16.3 
-47.0 
-19.5 ; 74.4 
- 
- 
-60 to 69 
-7.9 
-4.8 ; 10.9 12.3 
-9.2 ; 15.3 
-56.1 
-1.9 ; 110.4 
- 
- 
-70+ 
-9.4 
-1.4 ; 17.3 5.5 
-2.7 ; 8.4 
--40.8 
--131.3 ; 49.7 
- 
-Not working 
-18 to 24 
-7.7 
-6.0 ; 9.3 
-14.5 11.9 ; 17.0 
-88.4 
-48.6 ; 128.3 
- 
- 
-25 to 29 
-10.4 
-7.7 ; 13.2 11.2 
-8.9 ; 13.4 
-6.8 
--27.2 ; 40.9 
- 
- 
-30 to 39 
-11.3 
-9.2 ; 13.4 19.4 16.9 ; 21.9 
-71.7 
-42.5 ; 100.8 
- 
- 
-40 to 49 
-14.5 12.0 ; 17.1 20.0 17.4 ; 22.7 
-37.9 
-12.3 ; 63.4 
- 
- 
-40 to 59 
-15.8 13.4 ; 18.2 18.8 16.7 ; 20.8 
-18.7 
--1.3 ; 38.6 
- 
- 
-60 to 69 
-11.4 
-9.5 ; 13.4 13.9 12.3 ; 15.4 
-21.2 
--0.7 ; 43.0 
-  
-  
-70+ 
-12.4 10.4 ; 14.4 15.1 13.4 ; 16.8 
-21.8 
-0.7 ; 42.9 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
-Figure 1: Relative change in prevalence of depression 2013-2019 by age, wok status, 
-and sex. (*) indicates statistically significant trend, National Health Surveys, Brazil, 2013 
-and 2019. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
-  
-   
-   
-   
-     
-     
-     
-     
-     
-     
-   
-     
-     
-     
-     
-     
-     
-   
-       
-           
-                  
-                     
-    
-      
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2388
-Powered by TCPDF (www.tcpdf.org)
