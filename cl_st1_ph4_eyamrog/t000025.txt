@@ -1,207 +1,25 @@
-Publication status: Not informed by the submitting author
-Topical therapy for pain management in malignant fungating
-wounds: a scoping review
-Suzana Aparecida da Costa Ferreira, Carol Viviana Serna González, Magali Thum, Adriane
-Aparecida da Costa Faresin , Kevin Woo, Vera Lúcia Conceição de Gouveia Santos 
-https://doi.org/10.1590/SciELOPreprints.4518
-Submitted on: 2022-08-08
-Posted on: 2022-08-11 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Malignant Fungating Wounds: pain topical management 
-1 
- 
-Topical therapy for pain management in malignant fungating wounds: a scoping review 
- 
-Suzana Aparecida da COSTA FERREIRA RN, ET, Ed.S, OCN, MSc; Carol Viviana SERNA 
-GONZÁLEZ RN, ETN, MSc (Cellular and Tissue Biology); Magali THUM RN, ETN, MSc (c); 
-Adriane Aparecida da COSTA FARESIN RN, ETN,  OCN, PHN, NM; Kevin WOO PhD RN 
-NSWOC WOCC(C);  Vera Lúcia Conceição de GOUVEIA SANTOS PhD, MSN, RN, CETN (Ti-
-SOBEST).  
-Health consulting and education HFSaude. (Mrs. Ferreira); Adult Health Nursing Graduate 
-Program-PROESA at the University of São Paulo, School of Nursing-EEUSP (Ms. González, Mrs. 
-Thum); São Paulo State Cancer Institute-ICESP from the Hospital das Clínicas of the Faculty of 
-Medicine of the University of Sao Paulo-HCFMUSP (Mrs. Faresin); Faculty of Health Sciences, 
-School of Nursing, Queen’s University, Kingston, Ontario, Canada (Mr. Woo). Medical-Surgical 
-Nursing Department, University of São Paulo, School of Nursing-EEUSP. Adress: Doctor Enéas 
-de Carvalho Aguiar Avenue, 419. Postal Code: 05403-000 São Paulo City, São Paulo State, Brazil 
-(Mrs. Santos); Research Group of Enterostomal Therapy Nursing Stomatherapy-GPET, São Paulo 
-city, São Paulo state, Brazil.  
-Correspondence: Suzana Aparecida da Costa Ferreira, MSc, E-mail: suzanaenfer@gmail.com  
-Twitter handles 
-@CarolVGonzalez (Carol Viviana Serna Gonzákez) 
-@MagaliThum (Magali Thum) 
-@AdrianeFaresin (Adriane Aparecida da Costa Faresin) 
-@Kevinywoo (Kevin Woo) 
-@EnfermagemUSP (Escola de Enfermagem da Universidade de São Paulo- University of São 
-Paulo School of Nursing) 
-@JBI_Brasil (Brazilian JBI center) 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-2 
- 
- 
-Acknowledgments 
-The Brazilian Centre for Evidence-based Healthcare: A JBI® Centre of Excellence, São 
-Paulo, Brazil. 
-Librarian: Juliana Takahashi. 
-Mateus Costa Ferreira for figures editing. 
-Alexandre Ferreira for tables and software support during the data collection and analysis. 
-This study was partly financed by the Coordenação de Aperfeiçoamento de Pessoal de 
-Nível Superior - Brasil (CAPES) - Finance Code 001 
-Research data (full-text protocol and database) will be available with as few restrictions as 
-possible. Additional requests should be sent to the corresponding author.  
-CRediT authorship contribution statement 
-Suzana Aparecida da Costa Ferreira: study conception, project administration, design, 
-data collection, data curation, data interpretation, manuscript writing, and final approval. Carol 
-Viviana Serna González: design, data collection, data curation, data interpretation, manuscript 
-writing, and final approval. Magali Thum: data collection, data analysis, manuscript writing, and 
-final approval. Adriane Aparecida da Costa Faresin: data collection, data analysis, manuscript 
-writing, and final approval. Kevin Woo: design, data collection, data curation, data interpretation, 
-manuscript writing, and final approval. Vera Lúcia Conceição de Gouveia Santos: conception 
-and project administration, design, data collection, data curation, data interpretation, manuscript 
-writing, and final approval. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-3 
- 
-Conflict of Interest Statement  
- 
-Suzana da C. Ferreira declares having no funding or conflicts of interest to disclose. 
-Carol V. S. González declares having received a doctorate scholarship from Coordination 
-for the Improvement of Higher Education Personnel CAPES and personal fees for consulting for 
-3M® and Essity®. Not related to the present study. 
-Magali Thum declares having received a Master’s scholarship from Coordination for the 
-Improvement of Higher Education Personnel CAPES. Not related to the present study. 
-Adriane A. da C. Faresin does not declare any conflict of interest.  
-Vera L.C.G. Santos declares having received a faculty scholarship from the National 
-Council of Scientific and Technological Development – CNPq. She also reports the licensed patent 
-No. BR 10 2013 032620-8. Not related to the present study. 
-Funding Sources 
 This study was partially financed by the Coordination for the Improvement of Higher 
 Education Personnel from Brazil, Finance Code 001. Funder role: the funding agency did not 
 interfere with the study design, data collection analysis or interpretation, writing of the report, nor 
 the decision to submit the article for publication. 
-Review Registration  
-Open Science Framework (OSF) Platform: https://osf.io/gkv9s 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-4 
- 
-ORCID 
-Suzana Aparecida da Costa Ferreira https://orcid.org/0000-0001-8308-2053  
-Carol Viviana Serna González https://orcid.org/0000-0002-9850-3030  
-Magali Thum  https://orcid.org/0000-0003-3240-2226  
-Adriane Aparecida da Costa Faresin https://orcid.org/0000-0001-5663-2195 
-Kevin Woo  https://orcid.org/0000-0001-8676-5757  
-Vera Lúcia Conceição de Gouveia Santos https://orcid.org/0000-0002-1288-5761 
- 
-Terapia Tópica para el manejo del dolor en heridas neoplásicas malignas: revisión de alcance 
- 
-Resumen 
-Objetivos: Mapear y sintetizar la literatura existente sobre las terapias tópicas para el manejo del 
-dolor en heridas neoplásicas malignas y los vacíos en investigación. 
-Introducción: La mayoría de los pacientes con heridas neoplásicas malignas sienten dolor 
-relacionado con la herida, que afecta su calidad de vida. Desafortunadamente, apesar de que el 
-dolor es un síntoma relevante tanto en el cuidado de personas con cancer como en cuidados 
-paliativos, poco se sabe actualmente sobre la disponibilidad de tratamientos tópicos y su impacto 
-en el manejo del dolor. 
-Diseño: Revisión de escopo según la metodología de la JBI®. 
-Métodos: fueron realizada búsquedas en las bases de datos CINAHL, LILACS, Embase, Web of 
-Science, PubMed, Cochrane, NICE, Scopus, JBISRIR, y literatura gris; en inglés, español y 
-portugués, sin límite de tiempo. Dos autores revisaron todas las citaciones independientemente. 
-Estudios en adultos con heridas neoplásicas malignas que reportaran intervenciones tópicas para 
-el dolor fueron incluidos. Adicionalmente, un instrumento para extracción de datos fue 
-desarrollado para la síntesis y análisis del tema. Este estudio siguió la lista de chequeo para el 
-reporte de revisiones de alcance PRISMA-ScR de la red Equator. 
-Resultados: 70 Publicaciones fueron seleccionadas de 796 identificadas en las bases de datos. Los 
-estudios incluyeron principalmente revisiones no sistemáticas y estudios de caso; solo seis fueron 
-ensayos clínicos. Según la síntesis narrativa realizada, fueron identificadas veinte terapias, que 
-incluyeron el uso de apósitos (58.6%), drogas analgésicas (55.7%), antimicrobianos tópicos 
-(25.7%), protectores de piel (15.7%), crioterapia (5.7%), y terapia por presión negativa (4.3%). 
-Las diversas terapias tópicas fueron recomendadas para el el lecho de la herida y el área 
-perilesional. En el 68.5% de los estudios, no fue descrita la aplicación de instrumentos para la 
-valoración del dolor. 
-Conclusiones: fueron identificadas terapias tópicas aplicadas al lecho de las heridas neoplásicas 
-malignas o al área perilesionar, para el manejo del dolor. Sin embargo, la efectividad de las 
-intervenciones fue analizada por pocos estudios clínicos, indicando la necesidad por más estudios 
-primarios que informen la prácica clínica basada en la evidencia. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-5 
- 
-Implicaciones para la práctica: se destacan para aplicación clínica, el uso de opioides, 
-anestésicos y antimicrobianos, con resultados positivos en ensayos clínicos randomizados. Este 
-estudio no incluyó pacientes.  
-Palabras claves: Neoplasia; Heridas y Lesiones; Manejo del Dolor; Cuidado centrado en el 
-Paciente; 
-Administración 
-Tópica; 
-Revisión; 
-Enfermería; 
-Enfermería 
-basada 
-en 
-la 
-evidencia; Enfermería Oncológica. 
- 
-Terapia tópica para controle da dor em feridas neoplásicas malignas: revisão de escopo 
- 
-Resumo 
-Objetivos: Mapear e sintetizar a literatura existente sobre terapias tópicas para o manejo da dor 
-em feridas neoplásicas malignas e as lacunas de pesquisa. 
-Introdução: A maioria dos pacientes com feridas neoplásicas malignas sente dor relacionada à 
-ferida, o que afeta sua qualidade de vida. Infelizmente, apesar da dor ser um sintoma relevante 
-tanto no tratamento oncológico quanto nos cuidados paliativos, pouco se sabe atualmente sobre a 
-disponibilidade de tratamentos tópicos e seu impacto no controle da dor. 
-Desenho: Revisão do escopo de acordo com a metodologia JBI®. 
-Métodos: CINAHL, LILACS, Embase, Web of Science, PubMed, Cochrane, NICE, Scopus, 
-JBISRIR e bases de dados de literatura cinzenta foram pesquisados; em inglês, espanhol e 
-português, sem limite de tempo. Dois autores revisaram todas as citações de forma independente. 
-Estudos em adultos com feridas neoplásicas malignas relatando intervenções tópicas para dor 
-foram incluídos. Adicionalmente, foi desenvolvido um instrumento de extração de dados para a 
-síntese e análise do tema. Este estudo seguiu a lista de verificação do relatório de revisão de escopo 
-PRISMA-ScR da rede Equator. 
-Resultados: Foram selecionadas 70 publicações dentre 796 identificadas nas bases de dados. Os 
-estudos incluíram principalmente revisões não sistemáticas e estudos de caso; apenas seis eram 
-ensaios clínicos. De acordo com a síntese narrativa realizada, foram identificadas vinte terapias, 
-que incluíram o uso de curativos (58,6%), analgésicos (55,7%), antimicrobianos tópicos (25,7%), 
-protetores cutâneos (15,7%), crioterapia (5,7%). , e terapia com pressão negativa (4,3%). Várias 
-terapias tópicas foram recomendadas para o leito da ferida e a área periferida. Em 68,5% dos 
-estudos não foi descrita a aplicação de instrumentos para avaliação da dor. 
-Conclusões: foram identificadas terapias tópicas aplicadas no leito de feridas neoplásicas malignas 
-ou na área perilesional, para controle da dor. No entanto, a eficácia das intervenções foi analisada 
-por poucos estudos clínicos, indicando a necessidade de mais estudos primários que informem a 
-prática clínica baseada em evidências. 
-Implicações para a prática: o uso de opioides, anestésicos e antimicrobianos se destaca pela 
-aplicação clínica, com resultados positivos em ensaios clínicos randomizados. Este estudo não 
-incluiu pacientes. 
-Palavras-chave: Neoplasia; Ferimentos e Lesões; Gestão da dor; Cuidado Centrado no Paciente; 
-Administração Tópica; Revisão; Enfermagem; Enfermagem baseada em evidências; Enfermagem 
-Oncológica. 
- 
-Topical therapy for pain management in malignant fungating wounds: a scoping review 
-Abstract  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-6 
- 
+
 Aims and objectives: To map and synthesize the existing literature on topical therapies for 
 Malignant Fungating Wounds  pain management and the gaps involved. 
+
 Background: Most cancer patients with Malignant Fungating Wounds suffer from wound-related 
 pain, affecting their quality of life. Unfortunately, even though pain is a relevant symptom in 
 cancer and palliative care, little is currently known about topical treatments' availability and impact 
 on pain management. 
+
 Design: A scoping review following JBI® methodology 
+
 Methods: Searches were performed in CINAHL, LILACS, Embase, Web of Science, PubMed, 
 Cochrane, NICE, Scopus, JBISRIR, and gray literature, in English, Portuguese and Spanish, with 
 no time limit. Two authors independently reviewed all citations and a third was called in case of 
 divergence, and studies in adults with Malignant Fungal Wounds reporting topical pain 
 interventions were included. In addition, a data extraction tool for synthesis and thematic analysis 
 was developed. This study followed the PRISMA-ScR Checklist. 
+
 Results: 70 publications were selected from 796 records retrieved from databases. The studies 
 mainly included non-systematic reviews and case studies with only six clinical trials. According 
 to the narrative synthesis, twenty therapies were identified, including the use of wound dressings 
@@ -209,49 +27,47 @@ to the narrative synthesis, twenty therapies were identified, including the use 
 cryotherapy (5.7%), and Negative Pressure Wound Therapy (4.3%). Therapies were recommended 
 to be applied to the wound bed or the periwound skin. In 68.5% of the studies, a standardized 
 assessment for pain was not described.  
+
 Conclusions: Topical therapies applied to Malignant Fungating Wounds or periwound areas had 
 been examined for pain management. However, their effectiveness was analyzed in a few 
 interventional studies, indicating the need for further primary studies to inform evidence-based 
 practice.  
+
 Implication for Practice: Highlighted topical therapies for clinical practice consideration are 
 opioids, anesthetics, and antimicrobials, with positive results described in randomized clinical 
 trials.  
+
 This study did not include patients.  
-Keywords: Neoplasms; Wounds and injuries; Pain Management; Patient-Centered Care; Topical 
-Administration; Review; Nursing; Evidence-based Nursing; Oncology Nursing.   
- 
+
 What does this paper contribute to the broader global clinical community? 
  
 ● Patients with Malignant Fungating Wounds experience physical, mental, social, and 
 spiritual pain, as conceptualized by Cecily Saunders in "total pain". Pain may be related to 
 tumor infiltration and be of a nociceptive, neuropathic origin, caused by moisture-
 associated periwound skin damage or wound dressing manipulation. 
+
 ● Systemic treatments for pain management in patients with cancer ineffectively manage 
 malignant fungating wound-related pain due to its etiopathogenic characteristics and poor 
 superficial tissue perfusion. In addition, there is no clarity about available topical options 
 for pain control in these wounds. 
+
 ● This scoping review found 20 potential topical therapies for Malignant Fungating Wound-
 associated pain, documented mainly in non-systematic reviews, case reports, and a few 
 interventional studies. Eleven studies recommended the use of topical therapies applied to 
 the peri-wound skin that act by promoting a protective barrier. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-7 
- 
+
 ● Topical products were categorized as anti-adherent, antimicrobial, anti-inflammatory, 
 absorbent dressings, analgesic drugs (gel based on anesthetic, opioid, and oil with 
 cannabinoids), negative pressure wound therapy or cryotherapy, and careful irrigation and 
 removal of dressings. 
+
 ● Most of the included studies (69%) did not formally assess pain using the appropriate tools. 
+
 ● This study’s comprehensive mapping of the literature on topical MFW pain therapies 
 highlights different treatments worldwide, opening the door for urgent primary research 
 and evidence-based implementation projects. Furthermore, the results included herein may 
 guide future studies and support the revision of local protocols. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-8 
- 
-Introduction   
+
 According to the Globocan 2020 report, one in five people will develop cancer. The report 
 estimated that 19.3 million people across the globe were living with cancer at the time of the 
 publication, and 10 million had died from the disease (Sung et al., 2021). Advancements in cancer 
@@ -259,6 +75,7 @@ diagnosis and treatments have led to prolonged survival time in recent decades (
 Tsichlakidou et al., 2019); , putting cancer survivors at risk for chronic complications from the 
 progression of the disease and treatments, including the emergence of Malignant Fungating 
 Wounds (MFWs) (Hoshi et al., 2019; Tilley et al., 2020). 
+
 MFWs are complex chronic wounds that originate from uncontrolled proliferation of 
 infiltrating malignant cells, disrupting skin integrity. Over time, these wounds evolve and 
 deteriorate, becoming more extensive and invasive (Hoshi et al., 2019; Tilley et al., 2020; Young, 
@@ -270,21 +87,20 @@ system, people with MFWs in their advanced stages are beleaguered by debilitatin
 including odor, exudate, itching, bleeding, and pain (Haisfield-Wolde ME, 1999). These symptoms 
 can present significant challenges to patients, caregivers, and health professionals (Santos & Fuly, 
 2015; Tilley et al., 2020).  
+
 Pain is the most common concern of all symptoms related to people living with MFWs. 
 However, pain is a subjective experience that is difficult to assess objectively; evaluation relies on 
 self-reported measures (Raja et al., 2020). Therefore, using validated instruments to evaluate pain 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-9 
- 
 systematically is essential to monitor and benchmark the efficacy of pain treatment over time 
 (Caraceni & Shkodra, 2019). 
+
 Mechanism involved in MFW-related pain is complex and multifactorial because of the 
 omnipresence of infection due to high local microbial load (Vardhan et al., 2019), irritation of 
 exposed nerve endings (trauma at dressing changes), tumor growth (pressure compressing on body 
 structures), and edema (impaired lymphatic and capillary drainage). In consequence, patients may 
 experience nociceptive, neuropathic, inflammatory, or mixed pain, depending on the trigger 
 (EONS, 2015; Naylor, 2001). 
+
 Current literature regarding topical interventions for the management of MFWs is 
 inconsistent with the use of different topical substances with varying analgesic effects, such as 
 opioids, anti-inflammatory drugs, anesthetics, and non-adherent dressings (EONS, 2015). Topical 
@@ -292,52 +108,48 @@ pain treatment may be preferred over systemic use of medication linked to many d
 effects. In addition, the bioavailability of systemic pain medication can be unpredictable for 
 controlling MFW-related pain due to altered circulation caused by malignant infiltration (LeBon 
 et al., 2009). 
+
 A previous systematic review examined the efficacy of topical MFW treatments for local 
 infection, odor, and pain. The review included four studies, three randomized controlled trials, and 
 a pre and post-test survey on odor and infection management; In the end, the authors recommended 
 new intervention studies for the control of MFW-related pain (Finlayson et al., 2017a). 
-Aims 
+
 This study aimed to map and synthesize the existing literature on topical therapies for MFW pain 
 management and identify the existing gaps. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-10 
- 
-Methods 
+
 A scoping review was conducted according to the JBI® approach developed to map key 
 concepts, clarify definitions, define boundaries of a subject, summarize information, and describe 
 research and clinical gaps (Peters et al., 2020). Unlike a systemic review that focuses on treatment 
 effectiveness, a scoping review is a rigorous undertaking to conduct a comprehensive search for 
 all the available literature about a subject without stringent methodological restriction.  
+
 The title of this review was recorded in the JBI® database (JBI, 2019). The protocol is on 
 the Open Science Framework (OSF) platform (da Costa Ferreira et al., 2020) and was published 
 in the Journal Wound Care (JWC) (Ferreira et al., 2021). 
+
 This study entailed secondary methodology (review of the literature); therefore, an ethical 
 review was not necessary.  
-Review question 
+
 What types of topical therapies and/or treatments are available for pain management in patients 
 with MFWs? 
-Inclusion criteria 
-Participants 
+
 This review considered studies of patients who were 18 years of age and above with painful 
 MFWs. 
-Concept 
+
 The key concept of this review was to map any topical therapy for MFW-related pain 
 management. Topical therapy was defined as applying a product to the wound and periwound skin, 
 as previously described (Mayba & Gooderham, 2018). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-11 
- 
+
 The secondary concept was to identify and describe how topical therapies are used for 
 MFW-related pain management and the instruments used to assess pain. 
-Context 
+
 This study considered all types of care settings for patients with MFWs, such as 
 hospitalization, outpatient and/or home care, long-term care, and palliative care support 
 institutions. 
-Types of sources 
+
 For this review, we considered all qualitative, quantitative, and review studies describing 
 the use of topical therapies to manage MFW-related pain in adult patients. 
+
 Any study with a qualitative theoretical and methodological framework was considered for 
 qualitative studies. Any experimental (controlled trials with or without randomization, quasi-
 experimental, before and after) and observational studies (descriptive, cohort, cross-sectional, 
@@ -345,327 +157,86 @@ case, and case series) were considered for quantitative studies. Systematic, non
 analyzes, meta-synthesis, and clinical practice guidelines were considered. In addition, 
 unpublished studies (gray literature) in English, Portuguese, and Spanish without time limits were 
 also considered. 
-Search strategy 
+
 Searches were performed in three steps: 1. An initial search was done on the MEDLINE 
 and CINAHL databases using the terms "Wounds and Injuries; Neoplasms; Pain Management; 
 Administration, Topical" to identify new keywords. 2. A new search was applied using all 
 keywords and descriptors identified in the included databases. 3. Additionally, with the support of 
 a librarian, a search equation was built for each database. The search strategy for CINAHL 
 (EBSCO) is detailed in Table 1. No time limit was applied in the search equations conducted from 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-12 
- 
 2019 to 2020 which was then updated in March 2022. Finally, an active search in the reference 
 lists of selected studies was performed to identify additional studies of interest. 
-Table 1: Search Strategy Example on CINAHL database through EBSCO platform† 
-Search 
-Descriptors 
-Records 
-retrieved 
-1 
-(MH "Wounds and Injuries/TH") [Mesh] 
-38,896 
-2 
-(MH "Fungating Wounds/TH") 
-57 
-3 
-(MH "Fungating Wounds/TH") OR TI “malignant fungating 
-wounds” OR AB “malignant fungating wounds” 
-87 
-4 
-(MH "Neoplasms") [Mesh] 
-72,428 
-5 
-(MH "Neoplasms") [Mesh] OR TI cancer OR AB cancer OR TI 
-oncol* OR AB oncol* 
-392,223 
-6 
-1 AND 5 
-28 
-7 
-3 OR 6 
-217 
-†Search carried out until March 22,2022. Filters: no time or language limit 
-Abbreviations: TI, Title; AB, Abstract; MH, Major Headings 
- 
-Information sources 
+
 CINAHL (EBSCO), LILACS (VHL Regional Portal), Embase, Scopus, Web of Science, 
 Medline (PubMed), Cochrane, NICE, JBISRIR, as well as unpublished studies on the Open Access 
 Scientific Repository (Canada), Canadian Dissertation and Thesis Portal, Tesis Doctorales 
 Database -Teseo (Spain), CAPES Thesis Bank (Brazil), Google Scholar (including Textbooks and 
 Congress Proceedings), and the European Thesis and Dissertation Database-Dart-E. 
-Inclusion of the studies 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-13 
- 
+
 After conducting the searches, all identified records were grouped and registered on 
 MendeleyⓇ (Mendeley Ltd., Elsevier, The Netherlands) for management and duplicate removal. 
 Two independent reviewers reviewed titles and abstracts based on the inclusion criteria for 
 evaluation. Potentially relevant documents were retrieved in full text. Two independent reviewers 
 evaluated the full text of the selected citations in detail, based on the inclusion criteria. A third 
 reviewer decided on disagreements between reviewers at any stage of the selection process. 
-Data extraction 
+
 Two independent reviewers extracted the data using a data extraction tool developed by 
 the authors and previously tested on three articles to assess their adequacy. After the test, we added 
 the variables: "trade name of the therapy," "formulation," and "application form" (Table 2). 
-Table 2: Data extraction instrument 
-General data 
-Article n°: _________________ Database: _____________________________________________ 
-Title of article: ___________________________________________________________________ 
-Authors: ________________________________________________________________________ 
-Author's main training: Nursing (  ) Medicine (  ) others (  )________________________________ 
-Journal: ________________________ Year: _________________ Vol: ______________________ 
-Publication language (  ) English  (  ) Spanish  (  ) Portuguese  (  ) Other: ______________________ 
-Country of publication: USA (  ) Brazil (  ) Other (  )_______________________________________ 
-Type of study: ______________________ Objective: ____________________________________ 
-Sample: ______________________Sex: ____________________ Age: ______________________ 
-Methodological design: ___________________________________________________________ 
-Topical MFW Pain Therapy: ________________________________________________________ 
-Results: ________________________________________________________________________ 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-14 
- 
-Conclusion: _____________________________________________________________________ 
-Specific data 
-Primary tumor: ________________________ Tumor Staging: _____________________________ 
-Metastasis: (  ) No (  ) Yes metastasis location: __________________________________________ 
-Wound location: _______________________ Wound Staging: _____________________________ 
-Wound Pain Rating: ( ) No ( ) Yes 
-Assessment Instrument: ___________________________________________________________ 
-Wound pain classification:__________________________________________________________ 
-Location of wound pain: ___________________________________________________________ 
-Description of wound pain: _________________________________________________________ 
-Duration and moment of feeling the wound pain: _______________________________________ 
-Taking wound pain control medication: ( ) No ( ) Yes Specify: _______________________________ 
- 
- Extracted data included general data regarding the author(s), year of publication, origins, 
+
+Extracted data included general data regarding the author(s), year of publication, origins, 
 objectives, methods, topical therapies used, and results. In addition, specific data regarding tumor 
 type, staging, wound location and stage, pain evaluation with an assessment tool, pain 
 classification, location and duration of pain, and the use of medication to control wound pain were 
 extracted. The authors of one of the included articles were contacted to request additional data 
 (Ciałkowska-Rysz & Dzierżanowski, 2019). As seen in the methodology of scoping reviews, a 
 critical evaluation of the included articles was not carried out. 
-Data presentation 
+
 Extracted information from the included articles was summarized using narrative synthesis 
 to delineate all available strategies in the literature, identify possible gaps and limitations in the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-15 
- 
 current knowledge, and guide future primary studies that can respond to the challenges of topical 
 MFW-related pain management.  
+
 According to the objectives and the review question, the narrative synthesis is presented in 
 suitable key conceptual categories and specific subgroups created after the data extraction process. 
 The synthesis followed the guidelines of the EQUATOR checklist called the Preferred Reporting 
 Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) 
 (Supplementary File 1) (Tricco et al., 2018). Results were categorized and refined to describe the 
 characteristics of the interventions using figures and tables. 
-Results  
-Study characteristics 
+
 Among the 796 identified studies, 564 articles did not meet the inclusion criteria. Eighty-
 seven were considered eligible for a full-text reading after excluding 145 duplicates, from which 
 24 were further discarded (Supplementary Table 3) as they did not meet the inclusion criteria.  
- 
-Table 3. Excluded Articles Description† 
-Exclusion motive 1: the articles did not meet the inclusion criteria (do not present a proposal for pain 
-management therapy in Malignant Fungating Wounds). n=18 
-Year 
-Title of the article 
-Authors 
-2019 
-Applying honey dressings to non-healing wounds in elderly 
-persons receiving home care 
-R Zeleníková, D 
-Vyhlídalová 
-2018 
-Management of Non-Healing Wounds with Honey Dressings: 
-A Literature Review 
-Vyhlídalová D, Kozáková 
-R, Zeleníková R. 
-2017 
-Topical Opioids and Antimicrobials for the Management of 
-Pain, Infection, and Infection -Related Odors in Malignant 
-Wounds: A Systematic Review 
-Finlayson, Kathleen; Teleni, 
-Laisa; McCarthy, Alexandra 
-L. 
-2017 
-Systemic antibiotics for treating malignant wounds. 
-Ramasubbu DA1, Smith V, 
-Hayden F, Cronin P. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-16 
- 
-2016 
-The relationship between malignant wound status and pain in 
-breast cancer patients 
-Tamai, N., Mugita, Y., 
-Ikeda, M., Sanada, H. 
-2015 
-Management of signs and symptoms in malignant wounds: 
-An integrative review (congress summary) 
-Vasques C.I., Sacramento C. 
-2014 
-Feridas malignas: caraterística e qualidade de vida 
-Ázera, Joana Vaz 
-2014 
-Enfermeiras no atendimento ambulatorial a mulheres com 
-feridas neoplásicas malignas 
-Firmino, Flávia; Alcântara, 
-Laísa Figueiredo Ferreira 
-Lós 
-2013 
-Patient story 3:1 Fungating wound 
-British Journal of 
-Community Nursing 
-2013 
-A Gestão da ferida maligna em cuidados paliativos: práticas 
-de enfermagem (dissertação 
-Moreira, Cátia Regina Lima 
-2012 
-Home nursing care of a woman with a malignant wound in a 
-primary health care setting 
-Romero-Collado A. 
-2011 
-Management of a fungating wound 
-Watret L. 
-2011 
-Fungating wounds - Multidimensional challenge in palliative 
-care 
-Merz T., Klein C., Uebach 
-B., Kern M., Ostgathe C., 
-Bükki J. 
-2010 
-Caring for a patient with a fungating malignant lesion in a 
-hospice setting: reflecting on practice 
-Maureen Hawthorn 
-2007 
-Revisão sistemática sobre tratamento tópico de lesões 
-vegetantes malignas 
-Cristina Mamedio da Costa 
-Santos 
-2005 
-Qualitative and quantitative evaluation of a new regimen for 
-malignant wounds in women with advanced breast cancer 
-Lund-Nielsen, B., Müller, 
-K., Adamsen, L. 
-2003 
-Palliative wound management: the use of a glycerine hydrogel 
-Burns J1, Stephens M. 
-2001 
-Malignant wound management: what dressings do nurses use? 
-Wilkes, L., White, K., 
-Smeal, T., Beale, B. 
-Exclusion motive 2: the articles did not meet the exclusion criteria (language different than English, 
-Portuguese, and Spanish) (n=6) 
-2018 
-Malignant wounds: A scab which no longer heals (German) 
-Witte F. 
-2015 
-Malignant wounds in palliative care (French) 
-Fromantin I, Rollot F, 
-Nicodeme M, Kriegel I. 
-2013 
-History and care of malignant wounds in breast câncer 
-(French) 
-Fromantin I1, Alran S2, 
-Cassoux N2. 
-2009 
-Nurse’s experience caring for a patient with malignant 
-fungating wound with enterocutaneous fistula (Chinese) 
-Chuang W, Hsieh S. 
-2009 
-Palliative care for patients with malignant non-healing 
-wounds (Croatian) 
-Kloke, M., Pinbauer, M. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-17 
- 
-2007 
-Care of patients with fungating malignant wounds. (French) 
-Grocott P1. 
- †Papers excluded after the confirmation of at least two researchers.  
+
 After actively searching the references of the included articles, seven extra papers were 
 added, thus totaling 70 articles for this scoping review analysis (Figure 1).  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-18 
- 
- 
+
 The selected studies presented the following characteristics: 54 (88.6%) were published in 
 English, four (5.7%) in Portuguese, and four (5.7%) in Spanish. England was the country with the 
 largest number of publications (18 / 24.3%), followed by the USA (16 / 22.9%). Twenty-two 
 studies (31.4%) were published in the last seven years (2015-2022). Nurses were the professional 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-19 
- 
 category that most published on the topic (54 / 77.1%), followed by physicians (15 / 24.1%) and 
 pharmacists (1 / 1.4%). 
+
 Regarding the types of studies, 32 (45.7%) were non-systematic literature reviews, 20 
 (28.5%) case studies, and 18 (25.8%) the other methodologies (control trials, systematic reviews, 
 cohorts, guidelines, and surveys) as detailed in the Table 4. Only seven MFW studies (10%) 
 included pain management as a primary outcome. Study sample sizes ranged from 1 to 60 patients. 
-Table 4 - Distribution of the Study Types 
-Type of study 
-n 
-% 
-Non-systematic reviews  
-32 
-45.7 
-Case studies  
-20 
-28.5 
-Randomized clinical trials  
-6 
-8.6 
-Systematic reviews  
-3 
-4.3 
-Prospective cohorts  
-3 
-4.3 
-Guidelines 
-3 
-4.3 
-Surveys 
-2 
-2.9 
-Retrospective cohorts  
-1 
-1.4 
- 
+
 Finally, 20 proposals were identified for the topical management of MFW-related pain. 
 These are presented according to two general categories: Topical therapies applied in the wound 
 and Topical therapies applied to periwound skin. Figure 2 shows the distribution of topical 
 therapies in the 70 studies. Figure 3 summarizes the identified topical therapies grouped by MFW-
 derived sources of pain and the main research gaps.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-20 
- 
- 
-Figure 2: MFW-derived sources of pain and the main research gaps 
-Topical Therapies Applied in the wound 
-         The topical therapies identified in this review included Analgesic Drugs, Antimicrobial 
+
+The topical therapies identified in this review included Analgesic Drugs, Antimicrobial 
 Substances, Dressings, Negative Pressure Wound Therapy, and Cryotherapy. In addition, some 
 studies presented more than one therapy, proposing an integrated approach for MFW-related pain 
 management.  
-Dressings 
+
 This category included: Non-adherent dressings, Hydrogel, Absorbent dressings, and Anti-
 inflammatory dressings.  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-21 
- 
-Non-adherent Dressing  
+
 Twenty-six (37.1%) articles proposed non-adherent dressings for MFW-related pain 
 management. The studies were non-systematic reviews (65.3%), case studies (19.8%), randomized 
 clinical trials (3.8%), a guideline (3.8%), prospective cohorts (3.8%), and a Survey (3.8%). 
@@ -673,7 +244,7 @@ Twenty-five studies (35.7%) did not include pain management as a primary objecti
 used dressings with other therapies such as opioids, anesthetics, and antiseptics. None of the 
 studies mentioned a standardized way of using them or described the pain-related specific results 
 from non-adherent dressings alone.  
-Hydrogel 
+
 Eleven out of the 70 studies (15.7%) recommended using hydrogels to manage MFW-
 related pain. The studies included non-systematic reviews (54.5%), case studies (36.3%), and 
 systematic reviews (9.2%). Eight (72.7%) studies discussed hydrogel perfunctorily as an optional 
@@ -681,45 +252,39 @@ dressing for these patients to reduce pain by maintaining a moist wound environm
 were brief without substantiation. The hydrogel was also mentioned as a vehicle to deliver other 
 active substances such as opioids, anesthetics, and antibiotics in the included studies. None of the 
 studies presented a standardized way of using this type of dressing, and no results were presented.  
-Absorbent Dressing 
+
 Ten (14.2%) studies used absorbent dressings to manage MFW-related pain. The studies 
 included non-systematic reviews (50%), case studies (20%), a guideline (10%), randomized 
 clinical trials (10%), and a survey (10%). None (90%) of the studies aimed to test the absorbent 
 dressing to control MFW-related pain. Some studies only cite them as a dressing option for patients 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-22 
- 
 with pain related to high exudate absorption, minimizing the possible dermatitis related-pain 
 derived from periwound moisture. In all studies, these dressings are associated with other therapies 
 such as opioids, anesthetics, and antiseptics. No study mentions a standardized way of using the 
 dressings or of displaying their results on pain management without being combined with other 
 products. 
-Anti-inflammatory Dressing 
+
 Anti-inflammatory dressings include absorbent polyurethane foam containing 0.5 mg/cm2 
 of Ibuprofen homogeneously distributed throughout the foam matrix and a cream with essential 
 oils. 
-● Foam with Ibuprofen 
+
+● Foam with Ibuprofen. 
 Eight (10%) out of 70 studies suggested using foam with Ibuprofen dressing as a therapy 
 for MFW pain management. The studies were of the non-systematic reviews (87.5%) and 
 survey (12.5%) types. None of the studies focused on evaluating the foam with Ibuprofen for 
 MFW-related pain management, but only cited it as a dressing option for these patients. In 
 addition, no study mentioned how to use the dressing or the results of its use. 
-● Cream with essential oils 
+
+● Cream with essential oils. 
 Only one case study (1.4%) published in 2014 (Stringer et al., 2014) evaluated the use of a 
 cream with essential oils in 12 patients (mostly women with breast cancer with ages between 40 
 and 81 years) for MFW symptoms. The cream contained 3% essential oils (without specifying 
 ingredients). Without standardizing the dressings and reporting the cream's form and several 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-23 
- 
 applications on the wounds, the authors mentioned that six patients reported pain improvement 
 (reducing the maximum score to zero on a Likert scale). 
-Analgesic Drugs 
+
 Topical opioids, topical anesthetics, and Medicinal Cannabis were categorized within 
 analgesic drugs.  
-Topical Opioids 
+
 Thirty-one (44.2%) studies examined opioids applied topically to the wound bed to control 
 MFW-related pain. The studies included non-systematic reviews (67.7%), case studies (16.1%), 
 randomized clinical trials (.06%) (including a letter to the editor in which data from an unfinished 
@@ -727,526 +292,7 @@ trial was reported), guidelines (.03%), prospective cohorts (.03%) and systemati
 Of these 31 studies, just under a half mentioned specific opioids to treat MFW-related pain, 
 specifically suggesting Morphine. Meanwhile, two of them also mentioned Oxycodone without 
 describing its preparation or ways of applying these drugs, as shown in Table 5. 
-Table 5 - Topical Opioids and Related Results for Malignant Fungating Wound-related Pain 
-Management (n = 18) 
-Citation 
-Country 
-Type of 
-study 
-Type of 
-opioid  
-Formulation 
-Form of 
-application 
-Results† 
-Cornish L. Br J 
-Community 
-Nurs. 
-2019 
-Sep 
-1;24(Sup9):S1
-9–23. 
-England 
-  
-Non-
-systematic 
-review 
-Injectable 
-Diamorph
-ine 
-6.25–15 
-mg 
-of 
-injectable 
-Diamorphine 
-(usually 
-10 
-mg) 
-mixed with 8 g of an 
-amorphous gel 
-Not described 
-Not described 
-Ciałkowska-
-Rysz 
-& 
-Dzierżanowski
-, T. Arch Med 
-Sci. 
-Poland 
-Randomized 
-clinical trial 
-Topical 
-Morphine 
-in 
-.2% 
-ointment 
-form  
-.2 g of Morphine 
-sulfate  
-3 g of Glycerol  
-100 g of Eucerin 
-Free 
-application by 
-patients 
-without 
-restrictions on 
-Visual Analogue 
-Scale of 5.9 and 
-2.5 
-after 
-morphine 
-application 
-(p <.001) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-24 
- 
-2019;15(1):14
-6–51. 
-the number of 
-doses per day. 
-Tilley et al. 
-2016;51(3):51
-3–31. 
-USA 
-Case study 
-Morphine 
-10 mg of Morphine 
-8 g of hydrogel 
-Not described 
-Pain control 
-Probst et al. 
-Eur J Cancer 
-Suppl. 
-2009 
-Sep;7(2):232–
-3. 2009 
-Switzerlan
-d 
-Survey 
-Morphine 
-6.25-15 
-mg 
-of 
-Morphine 
-(usually 
-10 mg) 
-8g of hydrogel 
-Not described 
-Not described 
-Woo et al., 
-Adv Ski 
-Wound Care. 
-2015;28(3):13
-0–40. 
-Canada 
-Non-
-systematic 
-review 
-.1% 
-Morphine   
-25 mg of Morphine 
-25 g of hydrogel or 
-use injection of 10 
-mg/ml 
-Morphine 
-sulfate or 10 mg of 
-Morphine in 8 g of 
-hydrogel (0.125%) 
-Apply 1 to 3 
-times a day 
- 
- 
-Not described 
- 
-  
-  
-.02% 
-Hydromor
-phone  
-In 2% lidocaine gel 
-or 5% ointment. 
-It is recommended 
-to use an injection 
-volume of 50 mg/ml 
-to minimize dilution 
-of the base 
-Apply 1 to 3 
-times a day 
-Not described 
-  
-  
-  
-1% 
-Powdered 
-methadon
-e  
-100 
-mg 
-of 
-Methadone 
-10 g of hydrocolloid 
-powder 
-or 
-Carboxymethyl 
-Cellulose gel 
-Sprayed 
-on 
-the 
-wound 
-with a 60 ml 
-syringe once a 
-day 
-Not described 
-Meaume et al., 
-J 
-Tissue 
-Viability. 
-2013;22(4):12
-2–30 
-France 
-Non-
-systematic 
-review 
-Morphine 
-10 and/or 30 mg of 
-Morphine 
-15 g of gel 
-Not described 
-It 
-has 
-been 
-reported 
-to 
-be 
-beneficial 
-Graham et al., 
-Pain. 
-2013;154(10):
-1920–8. 
-England 
-Non-
-systematic 
-review 
-Diamorph
-ine, 
-morphine 
-sulfate, 
-morphine 
-hydrochlo
-ride, 
-methadon
-e 
-Varied doses and 
-concentrations 
-1.6-15 
-mg 
-of 
-Diamorphine, 
-Morphine 
-sulfate, 
-Morphine 
-hydrochloride, 
-or 
-Methadone  
-Not described 
-The 
-most 
-common 
-analgesic 
-relief 
-was achieved in 
-patients with a 
-pressure 
-injury 
-and MFWs 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-25 
- 
-8 g of hydrogel 
-Vaquer, 
-LM. 
-Rev Int Grup 
-Invest Oncol. 
-2012 
-Feb;1(2):52–9. 
-Spain 
-Non-
-systematic 
-review 
-.1% 
-Morphine  
-1 mg of Morphine 
-1 g of hydrogel 
-Not described 
-Not described 
-Laird 
-& 
-Fallon, 
-Clin 
-Oncol. 
-2009;21(2):13
-1–9. 
-Scotland 
-Non-
-systematic 
-review 
-Gel 
-Morphine 
-10 and 20 mg of 
-Morphine  
-Not described 
-Not described 
-Alexander, 
-J 
-Wound Care. 
-2009 
-Oct;18(10):41
-8–25. 
-Australia 
-Non-
-systematic 
-review 
-.1% 
-Morphine  
-1 mg of Morphine 
-1 g of hydrogel or 
-20 
-mg 
-of  
-Diamorphine 
-30 g of hydrogel 
-Not described 
-Not described 
-McDonald A 
-& Lesage P. J 
-Palliat 
-Med. 
-2006;9(2):285
-–95 
-USA 
-Non-
-systematic 
-review 
-.1% 
-Morphine  
-1 mg of Morphine 
-1 g of hydrogel 
-Not described 
-Not described 
-Seaman 
-S. 
-Semin Oncol 
-Nurs. 2006 
-USA 
-Non-
-systematic 
-review 
-Diamorph
-ine 
-10 
-mg 
-of 
-Diamorphine added 
-to an amorphous 
-hydrogel 
-Daily 
-application 
-Improved 
-pain 
-control 
- 
- 
- 
-.08% 
-Morphine  
-3.2 mg of Morphine 
-4 g of amorphous 
-hydrogel 
-Daily 
-application 
- 
- 
- 
-Morphine 
-sulfate 
-10 
-mg/ml 
-of 
-Morphine sulfate 
-8 g of gel 
-Not described 
-Naylor, 
-W. 
-Nurs 
-Stand. 
-2002. 
-Sep 
-11;16(52):45–
-53 
-England 
-Non-
-systematic 
-review 
-.1% 
-Morphine 
-or 
-Diamorph
-ine  
-1 mg of Morphine or 
-Diamorphine to 1 g 
-of hydrogel 
-Once per day 
-Not described 
-Naylor, World 
-Wide Wounds. 
-2002 
-New 
-Zealand 
-Non-
-systematic 
-review 
-Morphine 
-1 mg of Morphine 
-1 g of hydrogel 
-Once per day 
-Not described 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-26 
- 
-Naylor, W. Br 
-J Nurs. 2001 
-Dec 
-13;10(Sup5):S
-33–56 
-  
-  
-England 
-Non-
-systematic 
-review 
-Morphine 
-1 mg of Morphine 
-1 g of hydrogel 
-Twice per day Pain reduction 
-  
-Diamorph
-ine 
-10 
-mg 
-of 
-Diamorphine in an 
-unspecified amount 
-of hydrogel. 
-Once per day 
-  
-Diamorph
-ine 
-10 
-mg 
-of 
-Diamorphine to 15 g 
-of hydrogel 
-Once per day 
-Twillman 
-et 
-al., 
-J 
-Pain 
-Symptom 
-Manage. 
-1999;17(4):28
-8–92. 
-USA 
-Case study 
-Morphine 
-1-1.5 
-mg 
-of 
-Morphine 
-1 ml of amorphous 
-hydrogel 
-(Carboxymethyl 
-cellulose 
-polymer, 
-propylene 
-glycol 
-and water) 
-Twice per day Of the 9 patients, 
-8 
-reported 
-significant 
-improvements in 
-Pain  
-Krajnik et al., 
-Pain. 
-1999;80(1–
-2):121–5. 
-Poland 
-Case study 
-.1% 
-Diamorph
-ine  
-2500 
-mg 
-of 
-Morphine HCl 
-25 g of Carbomerum 
-974 
-2500 mg of Sodium 
-EDTA 
-25 g of Trometamol 
-15% of propylene 
-glycol / 25 g of 
-Diamorphine 
-2500 ml distilled 
-water 
-Doses ranged 
-from 0.5 ml to 
-50 ml with an 
-average 
-application of 
-twice per day 
-In all but one 
-case, 
-topical 
-morphine 
-provided 
-rapid 
-relief, 
-which 
-generally lasted 7 
-to 8 hours 
-Back & 
-Finlay. Jounal 
-pain Sympt 
-Manag. 
-1995;10(7):49
-3.  
-USA 
-Case study 
-Diamorph
-ine 
-10 
-mg 
-of 
-Diamorphine added 
-to hydrogel and a 
-carboxymethyl 
-cellulose dressing 
-Daily 
-application 
-Pain relief 
-†Main results were literally extracted from papers.  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-27 
- 
-Topical Anesthetics 
+
 Regarding analgesic drugs, 20 (28.5%) studies proposed using topical anesthetics to 
 manage MFW-related pain. The studies were non-systematic reviews (75%), case studies (5%), 
 randomized clinical trials (5%), guidelines (5%), prospective cohorts (5%), and surveys (5%). 
@@ -1254,241 +300,7 @@ Nine studies (45%) presented dosages and application guidelines for various topi
 that are grouped and detailed in Table 6. Additionally, 11 (55%) mention using lidocaine, 
 prilocaine, benzocaine, and a tricyclic anesthetic, without describing the formulation or mode of 
 use. 
-Table 6- Topical Anesthetics and Related Results for Malignant Fungating Wound-related Pain 
-Management (n = 9) 
-Citation 
-Setting 
-Type of 
-study 
-Anesthetic 
-Formulation 
-Form of 
-application 
-Results† 
-Cornish, L. Br 
-J Community 
-Nurs 
-[Internet]. 
-2019 
-Sep 
-1;24(Sup9):S
-19–23. 
-England 
-  
-Non-
-systematic 
-review 
-Lidocaine 
-patches 
- 5% 
-Lidocaine 
-Not 
-described 
-Not described 
-Agra et al. 
-Enferm Bras 
-[Internet]. 
-2019 
-Mar 
-18;18(1):3. 
-Brazil 
-Non-
-systematic 
-review 
-Lidocaine 
-gel 
-2% Lidocaine 
-gel 
-With 
-each 
-dressing 
-Not described 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-28 
- 
-Peng et al. 
-Brazilian 
-J 
-Med Biol Res 
-[Internet]. 
-2019;52(11):
-1–5. 
-China 
-Randomize
-d 
-clinical 
-trial 
-5 
-% 
-lidocaine 
-and 
-prilocaine 
-cream  
-2.5% 
-Lidocaine 
-2.5% 
-Prilocaine 
-Applied 10 
-minutes 
-before 
-dressing 
-change 
-Dose of 1.5 
-g / 10 cm2 
-It had an analgesic 
-effect. 
-In 
-pain 
-relief, the effect of 
-lidocaine 
-was 
-faster and greater 
-than 10 mg of 
-morphine 
-tablets 
-and maintained an 
-almost 
-painless 
-state for a long 
-time. Any p-value 
-was informed 
-Young, 
-T. 
-Wounds UK 
-EWMA Spec. 
-2017;1–6. 
-England 
-  
-Non-
-sistematic 
-review 
-5% 
-lidocaine 
-5% Lidocaine 
-Not 
-described 
-Not described 
-Tilley et al. 
-Nurs Clin 
-North Am. 
-2016;51(3):5
-13–31.  
- 
-USA 
-Case study 
-2% 
-Lidocaine  
-2% Lidocaine 
-gel 
-Not 
-described 
-Pain 
-control 
-in 
-MFWs 
-Woo et al., 
-Adv 
-Ski 
-Wound Care. 
-2015;28(3):1
-30–40. 
-Canada 
-Non-
-sistematic 
-review 
-Lidocaine 
-cream 
-2.5% 
-Lidocaine 
-2.5% 
-Prilocaine 
-Before 
-wound 
-debridement 
-Significantly 
-reduces acute Pain 
-induced 
-by 
-debridement 
-Sacramento et 
-al., R Enferm 
-Cent O Min 
-[Internet]. 
-2015;5(1):15
-14–27. 
-Brazil 
-Non-
-systematic 
-review 
-2% 
-lidocaine  
-2% Lidocaine 
-gel 
-Not 
-described 
-Not described 
-Chrisman, 
-CA. 
-Int 
-Wound 
-J 
-[Internet]. 
-2010 
-May 
-28;7(4):214–
-35. 
-USA 
-Non-
-systematic 
-review 
-Lidocaine 
-2-75% 
-Lidocaine in 
-zinc 
-oxide 
-cream 
-30-45 
-minutes 
-before 
-debridement 
-Controls 
-Pain 
-quickly and lasts up 
-to 4 hours 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-29 
- 
-INCA. 
-Ministério da 
-Saúde - Brasil 
-- 
-Série 
-Cuidados 
-Paliativos; 
-2009.  
-Brazil 
-Guidelines 
-  
-2% 
-lidocaine 
-gel 
-2% Lidocaine 
-gel 
-Apply 
-on 
-and around 
-the MFWs, 
-covering 
-about 2 cm 
-of 
-healthy 
-tissue 
-Not described 
-†Main results were extracted literally from papers. 
- 
-Medicinal Cannabis 
+
 Only one case study (1.4%) (Maida, 2017) proposed using medicinal cannabis as topical 
 and vaporized oil as part of the MFW pain management armamentarium. The case focused on a 
 44-year-old male patient diagnosed with squamous cell cancer in the oral cavity, resulting in a 
@@ -1499,24 +311,19 @@ oil throughout the wound, externally and intra-orally, the patient reported sign
 with his pain score was reduced to 3 and 4, this improvement allowed for a modification of the 
 analgesic regimen. This is the first case report demonstrating the potential of topical medicinal 
 cannabis for effective MFW pain management. 
- 
-Antimicrobial substances 
+
 This scoping review categorized antimicrobial substances as topical antimicrobials, honey, 
 and antiseptics. We consider any implications of antimicrobial substances if they present the ability 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-30 
- 
 to kill or inhibit the growth and development of a microorganism (bacteria, fungi, and viruses), 
 including antibiotics, antiseptics, and disinfectants. 
- 
-Topical antimicrobials 
+
 Ten (14.2%) studies proposed using topical antimicrobials such as Metronidazole, 
 Nanocrystalline Silver, and Silver Sulfadiazine to manage MFW-related pain. These studies were 
 case studies (40%), randomized clinical trials (20%), non-systematic reviews (10%), retrospective 
 cohorts (10%), systematic reviews (10%), and surveys (10%). Six (60%) reported using 
 antimicrobials, although pain was not their main focus, but did not present the form of use or the 
 outcomes. 
+
 One randomized clinical trial (Lund-Nielsen et al., 2011) included in a systematic review 
 (Adderley & Holt, 2014) reported positive results when using antimicrobials to control MFW odor, 
 exudate, and pain. Three studies tested antimicrobials to manage MFW symptoms, including pain. 
@@ -1525,180 +332,7 @@ with MFWs, mainly women aged between 47 and 90 years and primarily with breast c
 these clinical trials, two used a verbal numeric scale and a visual analog scale, demonstrating 
 improvement in pain; the third found no statistically significant effect on the pain outcome (Table 
 7). 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-31 
- 
-Table 7 - Topical Antimicrobials and Related Results for Malignant Fungating Wound-related Pain 
-Management (Studies = 3 / patients = 192) 
-Citation 
-Setting 
-Type of 
-study 
-Topical 
-antimicrobials 
-Formulation 
-Form of 
-application 
-Results† 
-Villela-Castro 
-et al., J wound, 
-ostomy, Cont 
-Nurs Off Publ 
-Wound, 
-Ostomy Cont 
-Nurses Soc. 
-2018;45(5):413
-–8.  
- 
-  
-  
-Brazil 
-Random
-ized 
-clinical 
-trial 
-Antimicrobial 
-solution 
-  
-.2% 
-of 
-Polyhexamethylen
-e 
-Biguanide 
-(PHMB) 
-  
-.8% 
-of 
-Metronidazole 
-30 ml of PHMB 
-or 
-metronidazole 
-solution 
-was 
-applied to wash 
-the wound, and 
-then gauze was 
-soaked in the 
-solutions 
-to 
-cover 
-the 
-wound 
-bed. 
-Changed 
-the 
-dressing twice a 
-day 
-Maintenance 
-of pain score 
-  
-  
-  
-Metronidazole 
-Solution handled 
-by 
-the 
-study 
-hospital 
-pharmacy 
-Lund-Nielsen et 
-al., 
-Wound 
-Repair Regen. 
-2011 
-Nov;19(6):664
-–70. 
-  
-Denmark 
-Random
-ized 
-clinical 
-trial 
-Antiadherent 
-Dressing 
-with 
-antimicrobial 
-Honey dressing 
-  
-  
-Nanocrystalline 
-silver dressing 
-Changed 
-the 
-dressing every 
-two 
-to 
-three 
-days 
-There was no 
-statistical 
-difference 
-in 
-pain 
-control 
-when 
-comparing the 
-honey dressing 
-to the silver 
-dressing  
-(p = .733) 
-  
-  
-Silver 
-coated 
-absorbent 
-dressing 
-Signe-Picard et 
-al., J Wound 
-Care. 
-2010;19(9):369
-–78.  
- 
-  
-France 
-Retrosp
-ective 
-cohort 
-1% 
-of 
-Silver 
-Sulfadiazine and 
-2% 
-of 
-Ceric 
-Nitrate 
-Silver Sulfadiazine 
-(1g / 100g), Ceric 
-nitrate (2g / 100g) 
- 
-Daily 
-application for 
-the first seven 
-days and then 
-application 
-every two days, 
-ensuring a 3 
-mm layer of the 
-product during 
-the application 
-Improved pain 
-control, 
-decreased 
-levels 
-of 
-exudate 
-and 
-odor 
-†Main results were extracted literally from papers. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-32 
- 
-Honey 
+
 Five (7%) articles reported topical honey as a therapy for MFW-related pain management. 
 None of the studies focused on pain management but on the general control of MFW symptoms, 
 including pain. Two reviews (systematic and non-systematic) (Adderley & Holt, 2014; Praptiwi, 
@@ -1706,342 +340,16 @@ including pain. Two reviews (systematic and non-systematic) (Adderley & Holt, 20
 control MFW odor, exudate, and pain. These studies analyzed 384 patients, mainly women, with 
 an average age of 44 to 90 years, primarily with breast tumors. A visual analog scale was used just 
 in one of the studies (Lund-Nielsen et al., 2011). (Table 8).  
- 
-Table 8 - Topical Honey and Related Results for Malignant Fungating Wound-related Pain 
-Management (Studies = 5 / patients = 384). 
-Citation 
-Setting 
-Type of 
-study 
-Topical Honey 
-Formulation 
-Form of 
-application 
-Results† 
-Tsichlakidou 
-et al. . J 
-BUON. 
-2019;24(3):1
-301–8. 
-  
-  
-Greece 
-Systemat
-ic review 
-Honey paste 
-Swab 
-application, 
-two times in the 
-oral cavity 
-Decreased 
-pain 
-Honey was safe for 
-palliative treatment 
-of MFW symptoms 
-on skin and mucosa 
-  
-  
-Honey in calcium 
-alginate 
-Replacement of 
-calcium 
-alginate, in the 
-external 
-wound, 
-according 
-to 
-need 
-  
-  
-Pure honey 
-Not described 
-Woo et al., 
-Adv 
-Ski 
-Wound 
-Care. 
-2015;28(3):1
-30–40. 
-Canada 
-Non-
-systemati
-c review 
-Not described 
-Not described 
-Not 
-described 
-Not described 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-33 
- 
-O'Brien, C. 
-Can Fam 
-Physician. 
-2012;58(3):2
-72–4.  
- 
-Canada 
-Case 
-study 
-Honey 
-Not described 
-Not 
-described 
-Not described 
-Lund-
-Nielsen 
-et 
-al., 
-Wound 
-Repair 
-Regen. 2011 
-Nov;19(6):6
-64–70. 
-  
-Denmark 
-Randomi
-zed 
-clinical 
-trial 
-Non-adherent 
-dressing 
-with 
-honey 
-Honey 
-dressings 
-  
-Nano-
-crystalline 
-silver dressings 
-Changed 
-every two to 
-three days 
-There 
-was 
-no 
-statistical difference 
-in 
-pain 
-control 
-when 
-comparing 
-the honey dressing 
-to 
-the 
-silver 
-dressing (p = .733) 
-  
-  
-Coated 
-silver 
-absorbent 
-dressing 
-Segovia, D. 
-Ostomy. 
-2010;5610):
-14–7. 
-USA 
-Case 
-study 
-Active 
-Honey 
-Leptospermum 
-(AHL) 
-The 
-dressing 
-was 
-changed 
-every 
-three 
-days 
-The 
-anti-
-inflammator
-y properties 
-of 
-AHL 
-provided an 
-analgesic 
-effect, 
-reducing 
-pain 
-associated 
-with 
-the 
-wound 
-and 
-dressing 
-changes 
-Decreased 
-pain 
-associated 
-with 
-wound and dressing 
-changes 
-†Main results were literally extracted from papers. 
- 
-Topical antiseptics 
+
 Only three (4%) studies proposed topical antiseptics such as Polyhexamethylene 
 Biguanide, Octenidine, and other non-specified degerming agents for MFW pain management. 
 The studies included randomized clinical trials (66.6%) and non-systematic reviews (33.4%). 
 None of the studies had pain control as the primary aim but the control of general symptoms, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-34 
- 
 including pain. The three studies analyzed 54 patients, predominantly women, between 24 and 92 
 years old, with primary tumors, mainly of the breast. Pain was assessed using verbal classification 
 and visual analog scales in two of the studies. The use of topical antiseptics resulted in pain 
 improvement in two studies and no changes in pain intensity scores in one study (Table 9). 
- 
-Table 9 - Topical Antiseptics and Related Results for Malignant Fungating Wound-related Pain 
-Management (Studies = 3 / patients = 54) 
-Citation 
-Setting 
-Type 
-of 
-study 
-Topical 
-antiseptics 
-Formulation 
-Form of 
-application 
-Results† 
-Villela-
-Castro et 
-al., J 
-wound, 
-ostomy, 
-Cont Nurs 
-Off Publ 
-Wound, 
-Ostomy 
-Cont 
-Nurses 
-Soc. 
-2018;45(5)
-:413–8.  
-  
-Brazil 
-Rando
-mized 
-clinical 
-trial 
-Antimicrobial 
-solution  
-  
-  
-.2% 
-of 
-Polyhexamethylen
-e 
-Biguanide 
-(PHMB) 
-  
-  
-.8% 
-of 
-Metronidazole 
-30 ml of PHMB 
-or metronidazole 
-solution 
-was 
-applied to wash 
-the wound and 
-then gauze was 
-soaked in the 
-solutions 
-to 
-cover the wound 
-bed. 
-Dressing 
-was 
-changed 
-twice a day 
-Maintenance 
-of 
-pain score 
-  
-Metronidazole 
-solution 
-Sopata 
-et 
-al., 
-Adv 
-Dermatolo
-gy Allergo. 
-2013;4(4):
-237–45. 
-  
-  
-Poland 
-Rando
-mized 
-clinical 
-trial 
-Non-adherent 
-silicone 
-dressings,  
-Gazes, 
-and 
-bandages 
-Octenidine 
-dihydrochloride 
-and non-adherent 
-silicone dressing 
-The 
-wounds 
-were 
-washed 
-with 
-saline 
-solution 
-three 
-times a day and 
-covered 
-with 
-non-adherent 
-silicone 
-dressings 
-and 
-The 
-decrease 
-in 
-pain 
-experienced 
-by 
-patients 
-was 
-statistically 
-significant (p <.05) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-35 
- 
-gauze saturated 
-with octenidine 
-dihydrochloride 
-Langemo 
-et al., Adv 
-Skin 
-Wound 
-Care. 
-2007;20(6)
-:312–4 
-England 
-Non-
-system
-atic 
-review 
-Degerming 
-agent 
-Not described 
-Not described 
-Can minimize pain 
-†Main results were literally extracted from papers. 
- 
-Negative Pressure Wound Therapy  
+
 Three (4%) studies elucidated the use of Negative Pressure Wound Therapy (NPWT) to 
 manage MFW-related pain. The studies were case studies (66.6%) and non-systematic reviews 
 (33.4%). None of the studies focused primarily on pain management but on the general direction 
@@ -2050,93 +358,15 @@ These studies analyzed data from six patients, women aged 56 to 62, with differe
 (sarcomas, breast cancer, melanoma, and sigmoid cancer). There was no quantitative or qualitative 
 assessment of pain in any of the studies. Nevertheless, the studies reported an improvement in 
 odor, exudate, and pain, thus impacting patients' quality of life (Table 10). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-36 
- 
-Table 10 - Negative Pressure Therapy and and Related Results for Malignant Fungating Wound-
-related Pain Management (Studies = 3 / patients = 6). 
-Citation 
-Setting 
-Type of 
-study 
-Negative 
-pressure 
-therapy 
-Formulation 
-Form of 
-application 
-Results† 
-Beers, Surg 
-Clin 
-North 
-Am. 
-2019 
-Oct;99(5):89
-9–919. 
-USA 
-Non-
-systemati
-c review 
-Not 
-described 
-Not applicable 
-Not described 
-Reduction 
-of 
-exudate, odor, and 
-pain 
-Riot et al., . 
-Palliat Med. 
-2015;29(5):4
-70–3.  
- 
-France 
-Case 
-study 
-Standard 
-NPWT 
-Not applicable 
-Every five to 
-seven 
-days. 
-Pressure 100 - 
-125 mmHg in 
-continuous 
-mode 
-Reduction 
-of 
-exudate, odor, and 
-pain 
-Ford-Dunn, 
-Palliat Med. 
-2006;20(4):4
-77–8. 
-England 
-Case 
-study 
-Standard 
-NPWT 
-Not applicable 
-Change 
-every 
-three days 
-Control of exudate 
-and pain 
-†Main results were literally extracted from papers. 
- 
-Cryotherapy 
+
 In four studies (5%), topical cryotherapy was applied to control MFW-related pain without 
 this being the primary focus, but rather the management of symptoms which included pain. The 
 studies were non-systematic reviews (50%), surveys (25%), and guidelines (25%). The studies did 
 not show the forms of use or results.  
+
 Topical therapies applied to periwound skin 
 Eleven (15.7%) studies discussed therapies for pain management in the periwound skin 
 area. The studies were non-systematic reviews (63.7%), case studies (18.1%), guidelines (9.1%), 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-37 
- 
 and surveys (9.1%). The proposed therapies were zinc oxide (ointment and cream), silicone, 
 dimethicone, petrolatum, acrylate and cyanoacrylate, hydrocolloid (paste and powder), and 
 vitamin-rich ointment (A and D), all of which are part of pain-control protocols. All studies were 
@@ -2144,302 +374,29 @@ coordinated by nurses and published in journals on wounds, palliative care, onco
 nursing. Two studies reported assessing pain, and one mentioned a Visual Analog Scale as the 
 instrument used to measure pain. Positive results are reported, however, not further described 
 (Table 11).  
-Table 11 - Topical Therapies Applied to Periwound Skin to Malignant Fungating Wound-related 
-Pain Management (n = 11) 
-Citation 
-Setting 
-Type of 
-study 
-Therapy 
-Formulation 
-Form of 
-application 
-Results† 
-Agra 
-et 
-al., 
-Enferm 
-Bras. 
-2019 
-Mar 
-18;18(1):3. 
-Brazil 
-Non-
-systematic 
-review 
-Zinc oxide 
-Ointment 
-At the edges 
-and 
-around 
-the 
-wound 
-with 
-each 
-dressing 
-Not described 
-Tandler 
-& 
-Stephen-
-Haynes, Br J 
-Nurs. 2017 Jun 
-22;26(12):S6–
-14. 
-England 
-Non-
-systematic 
-review 
-Silicone 
-Adhesive 
-remover 
-Not 
-described 
-Not described 
-Woo et al., Adv 
-Ski 
-Wound 
-Care. 
-2015;28(3):130
-–40. 
-Canada 
-Non-
-systematic 
-review 
-Silicone 
-  
-Polymers 
-Dimethicon
-e 
-Zinc oxide 
-Petrolatum 
-Acrylates 
-and 
-cyanoacryl
-ate 
-Hydrocollo
-id 
-1% to 5% 
-  
-  
-Not 
-described 
-  
-Not described 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-38 
- 
-Vaquer, 
-LM. 
-Rev Int Grup 
-Invest 
-Oncol. 
-2012 
-Feb;1(2):52–9. 
-Spain 
-  
-Non-
-systematic 
-review 
-Polymers 
-(barrier 
-cream) 
-Barrier creams 
-and 
-spray 
-barrier 
- Not 
-described 
-Not described 
-  
-Polymers 
-(barrier 
-spray) 
-Woo 
-& 
-Sibbald, Palliat 
-Care. 
-2011;(Septemb
-er):223–39. 
-Canada 
-Non-
-systematic 
-review 
-Silicone 
-Zinc oxide 
-Petrolatum 
-Acrylates 
-and 
-cyanoacryl
-ate 
-Hydrocollo
-ids 
-Not described 
-Not 
-described 
-Not described 
-Chrisman, 
-Int 
-Wound J. 2010 
-May 
-28;7(4):214–
-35. 
-USA 
-Non-
-systematic 
-review 
-Zinc oxide 
-(cream) 
-Petrolatum-
-based 
-skin 
-ointment 
-with 
-different active 
-principles 
-Not 
-described 
-Not described 
-INCA. 
-Ministério 
-da 
-Saúde - Brasil - 
-Série Cuidados 
-Paliativos; 
-2009. 
-Brazil 
-Guideline 
-Zinc oxide 
-(ointment) 
-  
-At the edges 
-and 
-around 
-the wound 
-Not described 
-Benbow, 
-J 
-Community 
-Nurs. 
-2009;23(11):12
-–8. 
-  
-England 
-Non-
-systematic 
-review 
-Polymer 
-  
-Plate 
-hydrocolloi
-d 
-Spray 
-barrier 
-film 
-  
-Not described 
-Not 
-described 
-Not described 
-  
-  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-39 
- 
-Lo et al., J 
-Wound 
-Care. 
-2007;16(9):373
-–6. 
-  
-Japan 
-  
-Case 
-study 
-  
-Polymer 
-  
-Hydrocollo
-id (powder) 
-Spray 
-barrier 
-film 
-  
-Hydrocolloid in 
-powder 
-Application 
-of 
-hydrocolloid 
-powder, 
-followed by 
-application 
-of a spray 
-polymer 
-layer 
-Wound healing in 
-eight weeks 
-Poletti et al., 
-Rev 
-Bras 
-Cancerol. 
-2002;48(3):411
-–7 
-Brazil 
-Non-
-systematic 
-review 
-Vitamin A 
-and 
-D 
-ointment 
-Not described 
-Not 
-described 
-Not described 
-Collier, 
-Nurs 
-Stand. 
-2000 
-Nov 
-29;15(11):46–
-52. 
-England 
-Case 
-study 
-Hydrocollo
-id 
-Not described 
-Not 
-described 
-Not described 
-†Main results were literally extracted from papers. 
- 
-Technique 
-        The dressing application and removal technique for MFW-related pain management was not 
+
+The dressing application and removal technique for MFW-related pain management was not 
 categorized as a topical therapy. However, several studies alluded to various dressing application 
 techniques and conditions and their effect on pain. Twenty-one (30%) studies proposed procedures 
 related to the dressing technique to minimize pain. The studies were non-systematic reviews 
 (66%), guidelines (14%), randomized clinical trials (10%), a case study (5%), and a survey (5%). 
 In general, the authors proposed cleaning the wound with an appropriately warm solution, applying 
 and removing dressings carefully, refraining from debridement due to the risk of bleeding, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-40 
- 
 maintaining a moist environment in the wound bed, cleaning with soap with an appropriate pH, 
 reducing the frequency of dressing changes, and providing analgesia before applying the dressing. 
-Discussion  
+
 This scoping review aimed to map and examine the literature available on topical MFW-
 related pain management, considering its relevance for oncology and palliative care clinicians. The 
 synthesis of this body of literature may provide insights into treatments which could enhance 
 quality-of-life, especially for patients with terminal cancer (Schmidt et al., 2020). This study is the 
 first scoping review developed in its field to contribute to researchers seeking to advance research 
 trends and elucidate the gaps in this field.  
+
 Cancer patients experience multiple symptoms, including pain that involves 
 neurophysiological and affective components (Wood, 2021). Pain can be exacerbated, amplified, 
 and contribute to loss of body functions, grief, a sense of doom, and other feelings, including 
 anxiety, fear, and uncertainty within this population (Brant, 2017). 
+
 We reviewed 70 studies that explored 20 topical therapies such as dressings with different 
 mechanisms of action, analgesic drugs, and antimicrobial substances, among others, with 
 promising results to mitigate pain. However, only 31.4% of the studies applied standardized pain 
@@ -2448,18 +405,17 @@ the assessment by categories (no pain, weak, moderate, and severe). In addition,
 evaluating attitudes and knowledge about pain assessment and treatment among health care 
 providers, demonstrated that nurses possessed a lower level of knowledge about pain assessment 
 and management (Nuseir et al., 2016). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-41 
- 
+
 In this review, the 20 topical treatments identified were grouped into five categories: 
 dressings, analgesic drugs, antimicrobial substances, negative pressure therapy, and cryotherapy, 
 with various products. 
+
 Studies on the use of dressings predominated as a proposal for topical therapy for MFW-
 related pain management. The treatment of pain that arises from changing dressings due to the 
 adhesion of the product to the wound bed and the subsequent difficulty of removing it was 
 highlighted. This demonstrates the benefits of protecting friable tissue in the wound bed in a 
 malignant fungating wound. (Woo et al., 2015; Woo & Sibbald, 2010). 
+
 Non-adherent dressings, such as polyurethane foam, silicone foams, silicone hydrocellular 
 foam, fibers, and hydrofibers, were recommended for promoting painless removal. However, there 
 is still a need to clarify the best non-adherent therapy applied to MFWs due to changes in 
@@ -2467,21 +423,20 @@ circulation and the presence of non-viable tissue. Absorbent dressings were also
 MFW-related pain management, including the Pain of periwound dermatitis caused by excessive 
 MFW exudation and the irritating components present in the exudate (Gozzo et al., 2014; Tamai 
 et al., 2016a).  
+
 The use of a non-adherent and absorbent polyurethane foam covered with Ibuprofen was 
 mentioned in 11% of the studies with positive results regarding MFW pain control. This was not 
 surprising since this drug introduces anti-inflammatory and analgesic properties into the wound 
 bed. However, new studies with the primary objective of evaluating this therapy to control MFW-
 related pain with an adequate description of the methodology would allow for a safer indication, 
 considering its additional properties of nonadherence and absorbency (Gottrup et al., 2008). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-42 
- 
+
 Topical opioids were another option. Opioid receptors are present in the peripheral nervous 
 system, synthesized in the dorsal root ganglia, transported axonally to the peripheral terminals, 
 and detectable after peripheral injuries and inflammation. An inflammatory process developed in 
 the MFW beds could explain pain improvement using opioids (Vardhan et al., 2019). Future 
 studies should consider more potent opioids such as fentanyl (Wang et al., 2017). 
+
 Medical cannabis was also explored as a potential analgesic drug in a case study that 
 reported a reduction in MFW-related pain. Cannabinoids are substances derived from the Cannabis 
 sativa plant. The expression and identification of cannabinoid receptors in peripheral neurons has 
@@ -2489,6 +444,7 @@ contributed to studies exploring topical formulations based on cannabinoids. In 
 in association with other analgesics, the analgesic effect of cannabinoids has been demonstrated 
 and has even attributed to an increased in the antinociceptive effects of Morphine (Maida et al., 
 2021; Nielsen et al., 2017). 
+
 Antimicrobial substances, including honey, Octenidine, polyhexanide, and metronidazole, 
 showed promising results in MFW-related pain management through decreasing local microbial 
 load which is responsible for triggering pain as a classic indicator of infection (Swanson & Angel, 
@@ -2497,12 +453,9 @@ mainly with anaerobic microorganisms causing wound odor, exudate, and pain. Thus
 of the microbial burden of MFWs through topical antimicrobial substances can explain the 
 reduction of exudate, odor, and pain (Vardhan et al., 2019 ; Villela-Castro et al. 2018; Finlayson 
 et al., 2017b;). 
+
 Case studies included in this review used NPWT to manage symptoms of MFWs and 
 reported favorable results, increasing patients' quality of life. Although NPWT is contraindicated 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-43 
- 
 for MFWs, this therapy should be adequately studied in palliative care (Riot et al., 2015). Negative 
 pressure creates a closed environment for the wound, thereby controlling moisture, removing 
 excess exudate, reducing microbial load, promoting perfusion, stimulating mitosis, and granulation 
@@ -2511,6 +464,7 @@ mitosis is not desired and granulation is not the primary objective for wound ma
 al., 2017). Furthermore, malignant cells can induce the formation of new blood vessels, which are 
 friable, requiring careful evaluation and caution when using NPWT on MFWs due to the risk of 
 bleeding (Firmino et al., 2021). 
+
 Cryotherapy promotes cold-induced vasoconstriction and causes muscle spasms that slow 
 down nerve conduction, reducing pain (Farah et al., 2021). However, no primary studies have been 
 found evaluating the effectiveness of cryotherapy in the past five years. Therefore, it is not 
@@ -2518,6 +472,7 @@ included in the guideline for patients with MFWs published by the European Oncol
 Society (EONS, 2015). The lack of primary studies in cryotherapy may be the result of the 
 development of new therapies and coverage for pain in MFW which demonstrate greater 
 effectiveness and ease of application. 
+
 Wound-related pain is not limited to the wound bed area and may involve periwound skin. 
 MFWs can evolve with high exudation, irritating to the periwound skin, and are characterized by 
 inflammation with or without erosion, itching, pain, and potential skin damage secondary to 
@@ -2525,19 +480,15 @@ infection (Tamai et al., 2016b). Due to constant moisture, periwound protection 
 using a suitable barrier product that can repel excess moisture, protecting the skin from consequent 
 damage (LeBlanc et al., 2021). However, there are few studies on using these products in patients 
 with MFWs. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-44 
- 
- 
+
 Patients often experience pain during dressing changes. Careful application and removal, 
 irrigation techniques, and the proper decision on the frequency of dressing changes can be easily 
 modified to contribute to topical pain management (Woo, 2015). 
-Review Limitations  
+
 This review limited the languages for searching articles to Portuguese, English, and 
 Spanish. However, search strategies brought up six articles in languages other than those cited, 
 and they were not included in this review (supplementary table 3).  
-Conclusions  
+
 This scoping review of the available literature about topical therapies for topical MFW-
 related pain management included 70 studies with 20 topical therapies categorized as dressings 
 (non-adherent dressing, hydrogel, absorbent dressing, and anti-inflammatory dressing); analgesic 
@@ -2551,478 +502,25 @@ debridement, maintaining a moist environment in the wound bed, cleaning with soa
 appropriate pH, reducing the frequency of dressing changes, and applying systemic analgesia 
 before the dressing. However, there is a lack of studies describing the products' mode of use in 
 detail and their effectiveness for evidence-based informed practice. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-45 
- 
+
 Pain was not formally assessed in 68.5% of the studies. However, the following specific 
 pain assessment instruments were mentioned in 22 studies: Visual Analogue Scale, Numerical 
 Verbal Scale, McGill Questionnaire, and assessment by category (no pain, weak, moderate, and 
 severe).  
-Relevance to Clinical Practice 
+
 This scoping review contributed with a systematized summary of the available topical 
 treatments for MFW-related pain management. Topical therapies were identified for 
 considerations in clinical practice, highlighting opioids, anesthetics, and antimicrobials; however, 
 few prospective interventional studies described effectiveness. In addition, none explored cost-
 effectiveness or cost-benefits, which are relevant aspects for clinical implementation.  
+
 The topical therapies with positive results reported by randomized clinical trials were 
 lidocaine/prilocaine 2.5%, morphine gel 0.2% as analgesics, metronidazole 0.8% solution, and 
 polyhexamethylene biguanide (PHMB) with betaine 0.1% solution, octenidine solution, honey, 
 and silver as antimicrobials. Moreover, the combination of topical therapies on the wound bed, 
 periwound skin, and the application of techniques of dressing change aiming at pain prevention 
 can potentially improve the painful experience in people with MFWs (Figure 3).  
+
 This review did not critically appraise the methodologies and studies’ qualities due to the 
 aims and method of a scoping review; consequently, the comments on the clinical practice should 
 be considered carefully.  
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-46 
- 
-References 
-Adderley, U. J., & Holt, I. G. (2014). Topical agents and dressings for fungating wounds. Cochrane 
-Database of Systematic Reviews. https://doi.org/10.1002/14651858.CD003948.pub3 
-Brant, J. M. (2017). Holistic Total Pain Management in Palliative Care: Cultural and Global 
-Considerations. Palliative Medicine and Hospice Care - Open Journal, SE(1), S32–S38. 
-https://doi.org/10.17140/PMHCOJ-SE-1-108 
-Cai, S. S., Gowda, A. U., Alexander, R. H., Silverman, R. P., Goldberg, N. H., & Rasko, Y. M. 
-(2017). Use of negative pressure wound therapy on malignant wounds - a case report and review 
-of literature. International Wound Journal, 14(4), 661–665. https://doi.org/10.1111/iwj.12665 
-Caraceni, A., & Shkodra, M. (2019). Cancer Pain Assessment and Classification. Cancers, 11(4), 510. 
-https://doi.org/10.3390/cancers11040510 
-Ciałkowska-Rysz, A., & Dzierżanowski, T. (2019). Topical morphine for treatment of cancer-related 
-painful mucosal and cutaneous lesions: a double-blind, placebo-controlled cross-over clinical 
-trial. Archives of Medical Science, 15(1), 146–151. https://doi.org/10.5114/aoms.2018.72566 
-da Costa Ferreira SA, de Gouveia Santos VLC. Topical therapy for pain management of malignant 
-fungating wounds: a scoping review protocol 2020. osf.io/gkv9s. 
-EONS. (2015). Recommendations for the Care of Patients with Malignant Fungating Wounds. 
-European Oncology Nursing Society, 30. 
-Farah, N. C., do Carmo Pinto Coelho Paiva, A., Amorim, T. V., Fonseca, A. D. G., Vilas Boas 
-Tavares, A. T. D., Lima, V. F., & Salimena, A. M. de O. (2021). Cuidados de enfermagem à 
-pessoa em cuidados paliativos com ferida neoplásica: revisão integrativa. Revista Enfermagem 
-Atual In Derme, 95(35). https://doi.org/10.31011/reaid-2021-v.95-n.35-art.1058 
-Finlayson, K., Teleni, L., & McCarthy, A. (2017a). Topical Opioids and Antimicrobials for the 
-Management of Pain, Infection, and Infection-Related Odors in Malignant Wounds: A 
-Systematic Review. Oncology Nursing Forum, 44(5), 626–632. 
-https://doi.org/10.1188/17.ONF.626-632 
-Finlayson, K., Teleni, L., & McCarthy, A. (2017b). Topical Opioids and Antimicrobials for the 
-Management of Pain, Infection, and Infection-Related Odors in Malignant Wounds: A 
-Systematic Review. Oncology Nursing Forum, 44(5), 626–632. 
-https://doi.org/10.1188/17.ONF.626-632 
-Firmino, F., Ferreira, S. A. da C., Franck, E. M., de Queiroz, W. M. S., Castro, D. V., Nogueira, P. C., 
-& Santos, V. L. C. G. (2020). Malignant Wounds in Hospitalized Oncology Patients: Prevalence, 
-Characteristics, and Associated Factors. Plastic Surgical Nursing, 40(3), 138–144. 
-https://doi.org/10.1097/PSN.0000000000000320 
-Firmino, F., Villela-Castro, D. L., Santos, J. dos, & Conceição de Gouveia Santos, V. L. (2021). 
-Topical Management of Bleeding From Malignant Wounds Caused by Breast Cancer: A 
-Systematic Review. Journal of Pain and Symptom Management, 61(6), 1278–1286. 
-https://doi.org/10.1016/j.jpainsymman.2020.10.020 
-Ferreira SADC, González CVS, Faresin AADC, Thum M, Rosa TDS, Woo K, Santos VLCG. Terapia 
-tópica para el tratamiento del dolor en heridas neoplásicas malignas: protocolo de revisión de 
-alcance. J Wound Care. 2021 Aug 1;30(LatAm sup 1):11-17. Spanish. doi: 
-10.12968/jowc.2021.30.LatAm_sup_1.11. PMID: 34558973. 
-Gottrup, F., Jørgensen, B., Karlsmark, T., Sibbald, R. G., Rimdeika, R., Harding, K., Price, P., 
-Venning, V., Vowden, P., Jünger, M., Wortmann, S., Sulcaite, R., Vilkevicius, G., Ahokas, T.-
-L., Ettler, K., & Arenbergerova, M. (2008). ORIGINAL RESEARCH-CLINICAL SCIENCE: 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-47 
- 
-Reducing wound pain in venous leg ulcers with Biatain Ibu: A randomized, controlled double-
-blind clinical investigation on the performance and safety. Wound Repair and Regeneration, 
-16(5), 615–625. https://doi.org/10.1111/j.1524-475X.2008.00412.x 
-Gozzo, T. de O., Tahan, F. P., Andrade, M. de, Nascimento, T. G. do, & Prado, M. A. S. (2014). 
-Occurrence and management of neoplastic wounds in women with advanced breast cancer. 
-Escola Anna Nery - Revista de Enfermagem, 18(2). https://doi.org/10.5935/1414-8145.20140039 
-Haisfield-Wolde ME, B.-C. (1999). Staging of malignant cutaneous wounds: a pilot study. ONS 
-Connect, 26(6), 1055–1056. 
-Hoshi, M., Oebisu, N., Iwai, T., Ieguchi, M., & Nakamura, H. (2019). Clinical course of soft tissue 
-sarcomas presenting as malignant wounds. Journal of Orthopaedic Science, 24(6), 1088–1093. 
-https://doi.org/10.1016/j.jos.2019.07.010 
-JBI. Registration of Systematic Review Titles. Syst Rev Regist [Internet]. 2019; Available from: 
-https://joannabriggs.org/ebp/systematic-review-register 
-LeBlanc, K., Beeckman, D., Campbell, K. E., Campos, H. H., Dunk, A. M., Gloeckner, M., 
-Holloway, S., Idensohn, P., Langermo, D., Ousey, K., Santos, V. L. C. de G., Smet, S., Tariq, G., 
-& Woo, K. (2021). Best practice recommendations for prevention and management of 
-periwound skin complications. Wounds International. Wounds International. 
-https://www.woundsinternational.com/resources/details/best-practice-recommendations-
-prevention-and-management-periwound-skin-complications 
-LeBon, B., Zeppetella, G., & Higginson, I. J. (2009). Effectiveness of Topical Administration of 
-Opioids in Palliative Care: A Systematic Review. Journal of Pain and Symptom Management, 
-37(5), 913–917. https://doi.org/10.1016/j.jpainsymman.2008.06.007 
-Lund-Nielsen, B., Adamsen, L., Kolmos, H. J., Rørth, M., Tolver, A., & Gottrup, F. The effect of 
-honey-coated bandages compared with silver-coated bandages on treatment of malignant 
-wounds-a randomized study. Wound Repair and Regeneration, 19(6), 664–670. 
-https://doi.org/10.1111/j.1524-475X.2011.00735.x 
-Maida, V. (2017). Medical Cannabis in the Palliation of Malignant Wounds—A Case Report. Journal 
-of Pain and Symptom Management, 53(1), e4–e6. 
-https://doi.org/10.1016/j.jpainsymman.2016.09.003 
-Maida, V., Shi, R. B., Fazzari, F. G. T., & Zomparelli, L. (2021). Topical cannabis‐based medicines – 
-A novel adjuvant treatment for venous leg ulcers: An open‐label trial. Experimental 
-Dermatology, 30(9), 1258–1267. https://doi.org/10.1111/exd.14395 
-Mayba, J. N., & Gooderham, M. J. (2018). A Guide to Topical Vehicle Formulations. Journal of 
-Cutaneous Medicine and Surgery, 22(2), 207–212. https://doi.org/10.1177/1203475417743234 
-Naylor, W. (2001). Assessment and management of Pain in fungating wounds. British Journal of 
-Nursing, 10(Sup5), S33–S56. https://doi.org/10.12968/bjon.2001.10.Sup5.12325 
-Neves Duarte Lisboa, I. (2016). Caracterização de pacientes com feridas neoplásicas. Estima, 14(1), 
-21–28. https://doi.org/10.5327/Z1806-3144201600010004 
-Nielsen, S., Sabioni, P., Trigo, J. M., Ware, M. A., Betz-Stablein, B. D., Murnion, B., Lintzeris, N., 
-Khor, K. E., Farrell, M., Smith, A., & le Foll, B. (2017). Opioid-Sparing Effect of Cannabinoids: 
-A Systematic Review and Meta-Analysis. Neuropsychopharmacology, 42(9), 1752–1765. 
-https://doi.org/10.1038/npp.2017.51 
-Nuseir, K., Kassab, M., & Almomani, B. (2016). Healthcare Providers’ Knowledge and Current 
-Practice of Pain Assessment and Management: How Much Progress Have We Made? Pain 
-Research and Management, 2016, 1–7. https://doi.org/10.1155/2016/8432973 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-48 
- 
-O’Neill, L., Nelson, Z., Ahmad, N., Fisher, A. H., Denton, A., Renzi, M., Fraimow, H. S., & Stanisce, 
-L. (2022). Malignant Fungating Wounds of the Head and Neck: Management and Antibiotic 
-Stewardship. OTO Open, 6(1), 2473974X2110733. https://doi.org/10.1177/2473974X211073306 
-Peters, M., Godfrey, C., McInerney, P., Munn, Z., Trico, A., & Khalil, H. (2020). Chapter 11: 
-Scoping Reviews. In JBI Manual for Evidence Synthesis. JBI. https://doi.org/10.46658/JBIMES-
-20-12 
-Praptiwi, A. (2017). THE POTENTIALS OF HONEY IN MANAGING BREAST CANCER 
-WOUNDS: A LITERATURE REVIEW. Asian Journal of Pharmaceutical and Clinical 
-Research, 10(14), 102. https://doi.org/10.22159/ajpcr.2017.v10s2.19500 
-Raja, S. N., Carr, D. B., Cohen, M., Finnerup, N. B., Flor, H., Gibson, S., Keefe, F. J., Mogil, J. S., 
-Ringkamp, M., Sluka, K. A., Song, X.-J., Stevens, B., Sullivan, M. D., Tutelman, P. R., Ushida, 
-T., & Vader, K. (2020). The revised International Association for the Study of Pain definition of 
-Pain: concepts, challenges, and compromises. Pain, 161(9), 1976–1982. 
-https://doi.org/10.1097/j.pain.0000000000001939 
-Riot, S., de Bonnecaze, G., Garrido, I., Ferron, G., Grolleau, J.-L., & Chaput, B. (2015). Is the use of 
-negative pressure wound therapy for a malignant wound legitimate in a palliative context? “The 
-concept of NPWT ad vitam ”: A case series. Palliative Medicine, 29(5), 470–473. 
-https://doi.org/10.1177/0269216314560009 
-Santos, W. A., & Fuly, P. dos S. C. (2015). Análise de associação entre odor, exsudado e isolamento 
-social em pacientes com feridas neoplásicas. Revista de Enfermagem UFPE, 9(4), 7497–7500. 
-https://doi.org/10.5205/reuol.7275-62744-1-SM.0904201539 
-Schmidt, F. M. Q., Firmino, F., Lenza, N. de F. B., & Santos, V. L. C. de G. (2020). Nursing team 
-knowledge on care for patients with fungating wounds. Revista Brasileira de Enfermagem, 
-73(1). https://doi.org/10.1590/0034-7167-2017-0738 
-Stringer, J., Donald, G., Knowles, R., & Warn, P. (2014). The symptom management of fungating 
-malignant wounds using a novel essential oil cream. Wounds UK, 10(3), 54–59. 
-Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., & Bray, F. (2021). 
-Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide 
-for 36 Cancers in 185 Countries. CA: A Cancer Journal for Clinicians, 71(3), 209–249. 
-https://doi.org/10.3322/caac.21660 
-Swanson, T., & Angel, D. (2022). International Wound Infection Instutute Wound Infection in 
-Clinical Practice Update Principles of Best Practice. Wounds International, 24(8), 33. 
-Tamai, N., Akase, T., Minematsu, T., Higashi, K., Toida, T., Igarashi, K., & Sanada, H. (2016a). 
-Association Between Components of Exudates and Periwound Moisture-Associated Dermatitis 
-in Breast Cancer Patients With Malignant Fungating Wounds. Biological Research For Nursing, 
-18(2), 199–206. https://doi.org/10.1177/1099800415594452 
-Tamai, N., Akase, T., Minematsu, T., Higashi, K., Toida, T., Igarashi, K., & Sanada, H. (2016b). 
-Association Between Components of Exudates and Periwound Moisture-Associated Dermatitis 
-in Breast Cancer Patients With Malignant Fungating Wounds. Biological Research For Nursing, 
-18(2), 199–206. https://doi.org/10.1177/1099800415594452 
-Tilley, C. P., Fu, M. R., van Cleeve, J., Crocilla, B. L., & Comfort, C. P. (2020). Symptoms of 
-Malignant Fungating Wounds and Functional Performance among Patients with Advanced 
-Cancer: An Integrative Review from 2000 to 2019. Journal of Palliative Medicine, 23(6), 848–
-862. https://doi.org/10.1089/jpm.2019.0617 
-Tricco, A. C., Lillie, E., Zarin, W., O’Brien, K. K., Colquhoun, H., Levac, D., Moher, D., Peters, M. 
-D. J., Horsley, T., Weeks, L., Hempel, S., Akl, E. A., Chang, C., McGowan, J., Stewart, L., 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-49 
- 
-Hartling, L., Aldcroft, A., Wilson, M. G., Garritty, C., … Straus, S. E. (2018). PRISMA 
-extension for scoping reviews (PRISMA-ScR): Checklist and explanation. In Annals of Internal 
-Medicine (Vol. 169, Issue 7). https://doi.org/10.7326/M18-0850 
-Tsichlakidou, A., Govina, O., Vasilopoulos, G., Kavga, A., Vastardi, M., & Kalemikerakis, I. (2019). 
-Intervention for symptom management in patients with malignant fungating wounds - a 
-systematic review. Journal of B.U.ON., 24(3), 1301–1308. 
-Vardhan, M., Flaminio, Z., Sapru, S., Tilley, C. P., Fu, M. R., Comfort, C., Li, X., & Saxena, D. 
-(2019). The Microbiome, Malignant Fungating Wounds, and Palliative Care. Frontiers in 
-Cellular and Infection Microbiology, 9. https://doi.org/10.3389/fcimb.2019.00373 
-Villela-Castro DL, Santos VLC de G, Woo K. Polyhexanide Versus Metronidazole for Odor 
-Management in Malignant (Fungating) Wounds: A Double-Blinded, Randomized, Clinical Trial. 
-J wound, ostomy, Cont Nurs Off Publ Wound, Ostomy Cont Nurses Soc. 2018;45(5):413–8. 
-Wang, Y., Gupta, M., Poonawala, T., Farooqui, M., Li, Y., Peng, F., Rao, S., Ansonoff, M., Pintar, J. 
-E., & Gupta, K. (2017). Opioids and opioid receptors orchestrate wound repair. Translational 
-Research, 185, 13–23. https://doi.org/10.1016/j.trsl.2017.05.003 
-Woo, K. Y. (2015). Unravelling nocebo effect: the mediating effect of anxiety between anticipation 
-and Pain at wound dressing change. Journal of Clinical Nursing, 24(13–14), 1975–1984. 
-https://doi.org/10.1111/jocn.12858 
-Woo, K. Y., Krasner, D. L., Kennedy, B., Wardle, D., & Moir, O. (2015). Palliative Wound Care 
-Management Strategies for Palliative Patients and Their Circles of Care. Advances in Skin & 
-Wound Care, 28(3), 130–140. https://doi.org/10.1097/01.ASW.0000461116.13218.43 
-Woo, K. Y., & Sibbald, R. G. (2010). Local Wound Care for Malignant and Palliative Wounds. 
-Advances in Skin & Wound Care, 23(9), 417–428. 
-https://doi.org/10.1097/01.ASW.0000383206.32244.e2 
-Wood, J. (2021). Cicely Saunders, ‘Total Pain’ and emotional evidence at the end of life. Medical 
-Humanities, medhum-2020-012107. https://doi.org/10.1136/medhum-2020-012107 
-Young, T. (2017). Caring for patients with malignant and end-of-life wounds. Wounds UK, 13(5), 1–
-6. 
-  
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-50 
- 
-Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for 
-Scoping Reviews (PRISMA-ScR) Checklist 
-SECTION 
-ITEM 
-PRISMA-ScR CHECKLIST ITEM 
-REPORTED 
-ON PAGE # 
-TITLE 
-Title 
-1 
-Identify the report as a scoping review. 
- 1 
-ABSTRACT 
- 
-Structured 
-summary 
- 
- 
-2 
-Provide a structured summary that includes (as 
-applicable): background, objectives, eligibility criteria, 
-sources of evidence, charting methods, results, and 
-conclusions that relate to the review questions and 
-objectives. 
-4-8 
-INTRODUCTION 
- 
-Rationale 
- 
-3 
-Describe the rationale for the review in the context of 
-what is already known. Explain why the review 
-questions/objectives lend themselves to a scoping 
-review approach. 
-11-12 
- 
- 
-Objectives 
- 
- 
-4 
-Provide an explicit statement of the questions and 
-objectives being addressed with reference to their key 
-elements (e.g., population or participants, concepts, and 
-context) or other relevant key elements used to 
-conceptualize the review questions and/or objectives. 
-12-13 
-METHODS 
- 
-Protocol and 
-registration 
- 
-5 
-Indicate whether a review protocol exists; state if and 
-where it can be accessed (e.g., a Web address); and if 
-available, provide registration information, including the 
-registration number. 
-12 
- 
-Eligibility criteria 
- 
-6 
-Specify characteristics of the sources of evidence used 
-as eligibility criteria (e.g., years considered, language, 
-and publication status) and provide a rationale. 
-13 
- 
-Information 
-sources* 
- 
-7 
-Describe all information sources in the search (e.g., 
-databases with dates of coverage and contact with 
-authors to identify additional sources), as well as the 
-date the most recent search was executed. 
-13-15 
- 
-Search 
- 
-8 
-Present the full electronic search strategy for at least 1 
-database, including any limits used, such that it could be 
-repeated. 
-13-14 
-Selection of 
-sources of 
-evidence† 
- 
-9 
-State the process for selecting sources of evidence (i.e., 
-screening and eligibility) included in the scoping review. 
-15 
- 
- 
-Data charting 
-process‡ 
- 
- 
-10 
-Describe the methods of charting data from the included 
-sources of evidence (e.g., calibrated forms or forms that 
-have been tested by the team before their use, and 
-whether data charting was done independently or in 
-duplicate) and any processes for obtaining and 
-confirming data from investigators. 
-15-17 
-Data items 
-11 
-List and define all variables for which data were sought 
-and any assumptions and simplifications made. 
-16-17 
-Critical appraisal of 
-individual sources 
-of evidence§ 
- 
-12 
-If done, provide a rationale for conducting a critical 
-appraisal of included sources of evidence; describe the 
-methods used and how this information was used in any 
-data synthesis (if appropriate). 
- No 
-Synthesis of results 
-13 
-Describe the methods of handling and summarizing the 
-data that were charted. 
-17 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-Malignant Fungating Wounds: pain topical management 
-51 
- 
-SECTION 
-ITEM 
-PRISMA-ScR CHECKLIST ITEM 
-REPORTED 
-ON PAGE # 
-RESULTS 
-Selection of 
-sources of 
-evidence 
- 
-14 
-Give numbers of sources of evidence screened, 
-assessed for eligibility, and included in the review, with 
-reasons for exclusions at each stage, ideally using a flow 
-diagram. 
-17-20 
-Figure 1 
-Table 1,3 
-Characteristics of 
-sources of 
-evidence 
- 
-15 
-For each source of evidence, present characteristics for 
-which data were charted and provide the citations. 
-17-22 
-Figure 2 
- 
-Critical appraisal 
-within sources of 
-evidence 
- 
-16 
-If done, present data on critical appraisal of included 
-sources of evidence (see item 12). 
-No 
-Results of 
-individual sources 
-of evidence 
- 
-17 
-For each included source of evidence, present the 
-relevant data that were charted that relate to the review 
-questions and objectives. 
-17-41 
-Table 4-11 
-Synthesis of results 
-18 
-Summarize and/or present the charting results as they 
-relate to the review questions and objectives. 
-17-41 
-Table 4-11 
-DISCUSSION 
- 
-Summary of 
-evidence 
- 
-19 
-Summarize the main results (including an overview of 
-concepts, themes, and types of evidence available), link 
-to the review questions and objectives, and consider the 
-relevance to key groups. 
-17-41 
-Table 4-11 
-Limitations 
-20 
-Discuss the limitations of the scoping review process. 
-45 
- 
-Conclusions 
- 
-21 
-Provide a general interpretation of the results with 
-respect to the review questions and objectives, as well 
-as potential implications and/or next steps. 
-41-47 
-FUNDING 
- 
-Funding 
- 
-22 
-Describe sources of funding for the included sources of 
-evidence, as well as sources of funding for the scoping 
-review. Describe the role of the funders of the scoping 
-review. 
-Title page 
-JBI = Joanna Briggs Institute; PRISMA-ScR = Preferred Reporting Items for Systematic reviews and Meta-Analyses 
-extension for Scoping Reviews. 
-* Where sources of evidence (see second footnote) are compiled from, such as bibliographic databases, social media 
-platforms, and Web sites. 
-† A more inclusive/heterogeneous term used to account for the different types of evidence or data sources (e.g., 
-quantitative and/or qualitative research, expert opinion, and policy documents) that may be eligible in a scoping review as 
-opposed to only studies. This is not to be confused with information sources (see first footnote). 
-‡ The frameworks by Arksey and O’Malley (6) and Levac and colleagues (7) and the JBI guidance (4, 5) refer to the 
-process of data extraction in a scoping review as data charting. 
-§ The process of systematically examining research evidence to assess its validity, results, and relevance before using it to 
-inform a decision. This term is used for items 12 and 19 instead of "risk of bias" (which is more applicable to systematic 
-reviews of interventions) to include and acknowledge the various sources of evidence that may be used in a scoping review 
-(e.g., quantitative and/or qualitative research, expert opinion, and policy document). 
-From: Tricco AC, Lillie E, Zarin W, O'Brien KK, Colquhoun H, Levac D, et al. PRISMA Extension for Scoping Reviews (PRISMAScR): 
-Checklist and Explanation. Ann Intern Med. 2018;169:467–473. doi: 10.7326/M18-0850. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4518
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)
