@@ -1,54 +1,3 @@
-Status: Preprint has not been submitted for publication
-The relationship between foreign exchange rate and femicide
-in Turkey: evidence from the cointegration tests based on
-nonlinear and Fourier functions
-Gülgün Çiğdem
-https://doi.org/10.1590/SciELOPreprints.1669
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees are described in the manuscript, when
-applicable.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-The submitting author declares that all authors responsible for preparing the manuscript agree with this
-deposit.
-The submitting author declares that all authors' contributions are included on the manuscript.
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
-under a Creative Commons CC-BY license.
-The deposited manuscript is in PDF format.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-Submitted on (YYYY-MM-DD): 2021-01-01
-Posted on (YYYY-MM-DD): 2021-02-04
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-The relationship between foreign exchange rate and femicide 
-in Turkey: evidence from the cointegration tests based on 
-nonlinear and Fourier functions 
- 
-A relação entre taxa de câmbio e femicídio na 
-Turquia: evidências dos testes de cointegração 
-baseados em funções não lineares e de Fourier 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Gülgün Çiğdem (https://orcid.org/ 0000-0001-5353-8638) 1 
- 
 Abstract This study aimed to review 
 femicide, which is a result of violence 
 against women and a serious public health 
@@ -88,24 +37,7 @@ that current and advanced empirical
 analyses and exchange rate fluctuations 
 are "vital" in terms of non-economic facts 
 and public health as well.  
-1 Istanbul Gelişim 
-University-Cihangir 
-Mahallesi Şehit Jandarma 
-Komando Er Hakan Öner 
-Sk. No:1 Avcılar Istanbul 
-Turkey. 
-gulguncigdem@gmail.com 
-Key words Femicide, Foreign exchange rates, 
-Cointegration, Fourier function, Nonlinearity
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
- 
-Introduction 
- 
+
 Femicide is the result of a violent 
 interaction that involves the death of a 
 woman or a girl and the extreme and direct 
@@ -167,6 +99,7 @@ the
 deliberate 
 extermination of individuals of a particular 
 gender6.  
+
 Femicide is a sociological effort of 
 apprehension that has been successful 
 in transforming traditional perception, 
@@ -186,13 +119,13 @@ deaths and create changes in the social
 order. It aims to prevent the confusion of 
 women's violent deaths with the concept 
 of murder, which does not discriminate  
- 
 between genders, draw attention that it is a 
 crime in itself, and raise awareness7. Thanks 
 to Radford & Russell (1992)8 and Russell & 
 Harmes (2001)9, the word femicide evolved as a 
 theoretical concept aimed at reversing the 
 structuring forms of patriarchal power.  
+
 According to Ertürk (2015)10, the female 
 body is subjected to social control for the 
 social groups to reproduce generations 
@@ -215,6 +148,7 @@ Inequalities in the gender ratio and the
 relatively high number of males have 
 potentially devastating consequences for 
 society11.  
+
 Figure 1 presents the global scale of 
 femicides. There is a great difficulty in 
 accessing data on this sensitive matter, which 
@@ -250,85 +184,10 @@ neglected. However, economic conditions
 affect the psychology and behavior of 
 individuals. Therefore, it is important to 
 investigate femicide from a perspective based  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
 on the economy. In order to prevent future murders, it is vital to determine the causes of 
 genecide from different perspectives, take the necessary measures, and put the necessary 
 policies into practice. 
- 
- 
-Figure 1. Femicide Around the World (2018). 
-Source: United Nations Office on Drugs and Crime (UNODC). 
- 
- 
- 
- 
- 
-Figure 2. Global Femicide Rate Around the World (2018). 
-Source: Created by the Author. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- -
- 10.000.00
- 20.000.00
- 30.000.00
- 40.000.00
- 50.000.00
- 60.000.00
- 70.000.00
- 80.000.00
- 90.000.00
-1990
-1991
-1992
-1993
-1994
-1995
-1996
-1997
-1998
-1999
-2000
-2001
-2002
-2003
-2004
-2005
-2006
-2007
-2008
-2009
-2010
-2011
-2012
-2013
-2014
-2015
-2016
-2017
-2018
-FEMICIDE
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
+
 This study investigates the presence of a 
 relationship between the foreign exchange 
 rate, which has devastating effects when not 
@@ -408,6 +267,7 @@ the foreign exchange rate were empirically
 presented in the study conducted for Turkey 
 by Demir (2009)18 regarding its negative effect 
 on employment.  
+
 Recession, unemployment, and poverty 
 caused by the crises adversely affect human 
 psychology. In a report published by the 
@@ -472,21 +332,16 @@ divorce. Kavaklı (2020)37 found that femicide
 was committed mostly in economically less 
 developed locations. Economic development 
 reduces the negative impact of the risk factor. 
+
 There is a clear loop among crisis, 
 unemployment, violence, and murder in light 
 of all this information. Is there a relationship 
 between systematically committed femicide 
 and the foreign exchange rate as an                    
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
 important trigger of crises? In this study, which sought an answer to this question, firstly the 
 methods and data sets used will be presented, and the findings will be explained. Next, 
 inferences will be made based on these findings.  
- 
- 
-Methodology and Data 
- 
+
 In order to investigate the existence of the relationship between the foreign exchange rate 
 and femicide n Turkey, the daily femicide data belonging to the period between 01 January 
 2019 and 29 September 2020 were obtained from the We Will Stop Femicide Platform, and the 
@@ -496,59 +351,7 @@ Central Bank of the Republic of Turkey (CBTR) Electronic Data Delivery System (E
 observations. Figures 3 and 4 present the distribution of variables over the period of analysis. 
 While an increase was observed in the foreign exchange rate during this process, a systematic 
 "gendercide" was also prominent. 
- 
-Table 1. Data Used in Analysis 
-Variables 
-Abbreviation 
-Source 
-Femicide 
-Femicide 
-We Will Stop Femicide Platform 
-American Dollar, Buying Rate 
-Rate 
-CBTR 
- 
-0
-1
-2
-3
-4
-5
-6
-50
-100
-150
-200
-250
-300
-350
- 
-Figure 3. Femicide in Turkey (01.01.2019-29.09.2020). 
-Source: Created by the Author. 
- 
-5.0
-5.5
-6.0
-6.5
-7.0
-7.5
-8.0
-50
-100
-150
-200
-250
-300
-350
- 
- 
-Figure 4. USD/TRY Buying Rate (01.01.2019-29.09.2020). 
-Source: Created by the Author. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
+
 Is there a relationship between the 
 depreciation of the national currency and 
 femicide? Before starting to search for the 
@@ -557,13 +360,12 @@ linearity tests were carried out using Harvey
 & Leybourne (2007)38 and Harvey, Leybourne 
 & Xiao (2008)39 Tests. Next, the stationary 
 tests were performed. 
- 
-Tests for Linearity 
- 
+
 Linearity tests of the series should be 
 performed first since the linear analysis of the 
 series exhibiting nonlinear behaviors would 
 lead to the establishment of false models.     
+
 Linearity Tests are structured upon the 
 models based on smooth transitions typed 
 the STAR (Smooth Transition Autoregressive). 
@@ -585,23 +387,21 @@ stationarity levels, Harvey & Leybourne
 (2007) and Harvey, Leybourne & Xiao (2008) 
 Tests were administered for testing the 
 linearity. 
- 
-i. Harvey & Leybourne (2007) Test 
- 
+
 This test, which introduced to the 
 literature by Harvey & Leybourne (2007), 
 does not make any assumptions, 𝐼1 and 𝐼2 it 
 allows the coexistence of processes. This test 
 has a structure with four degrees of freedom, 
 where the following equation is used (1): 
- 
+
 𝑦𝑡= 𝛽0 + 𝛽1𝑦𝑡−1 + 𝛽2𝑦𝑡−1
 2
 + 𝛽3𝑦𝑡−1
 3
 + 𝛽4𝛥𝑦𝑡−1 +
 𝛽5(𝛥𝑦𝑡−1)2 + 𝛽5(𝛥𝑦𝑡−1)3 + 𝜀𝑡                              (1) 
- 
+
 The 
 null 
 hypothesis 
@@ -610,10 +410,10 @@ the
 linearity and the alternative hypothesis 
 indicating the nonlinearity is presented in 
 Equation 2 and Equation 3;   
- 
+
 𝐻0 : 𝛽2 = 𝛽3 = 𝛽5 = 𝛽6 = 0                     (2)                                                    
 𝐻1 : 𝛽2 ≠𝛽3 ≠𝛽5 ≠𝛽6 ≠0                     (3) 
- 
+
 Test 
 statistics 
 of 
@@ -621,8 +421,8 @@ Harvey
 & 
 Leybourne (2007) are presented in 
 Equation 4; 
- 
-                  (4)  
+
+<> (4)  
  
 In this equation (Equation 4), b 
 indicates the non-zero constant, 𝐷𝐹𝑇 
@@ -634,9 +434,7 @@ error term for the H1 hypothesis. The
 Harvey & Leybourne (2007) test statistics 
 are suitable for the distribution of 𝑥4
 2.  
- 
-ii.Harvey, Leybourne & Xiao (2008) Test 
- 
+
 The Harvey, Leybourne & Xiao (2008) 
 Linearity Test, which was developed by 
 enhancing and strengthening the Harvey 
@@ -644,6 +442,7 @@ enhancing and strengthening the Harvey
 state of stationarity and I1 separately. It 
 has a structure with two degrees of 
 freedom.  
+
 In 
 order 
 to 
@@ -671,18 +470,18 @@ it is suggested to use the Equation 6;
 𝑝
 𝑗=1
 + 𝜀𝑡                                  (6) 
- 
+
 Equation 6 can be reorganized using 
 the first-order Taylor expansion, and it 
 can be written as Equation7; 
- 
+
 𝛥𝑦𝑡= 𝜆1𝛥𝑦𝑡−1 + 𝜆2(𝛥𝑦𝑡−1)2 + 𝜆3(𝛥𝑦𝑡−1)3 +
 ∑
 𝜆4,𝑗𝛥𝑦𝑡−𝑗
 𝑝
 𝑗=1
 + 𝜀𝑡                                   (7) 
- 
+
 In Equation 7, p indicates the number 
 of delays, and Δ indicates the difference 
 operator.  The (W0) test statistics, which 
@@ -697,16 +496,11 @@ with
 the 
 distribution of Wλ 𝑥2
 2. 
- 
-Nonlinear Unit Root Tests 
- 
+
 Following the determination of the 
 nonlinearity, the unit root tests produced 
 from nonlinear models were performed. 
- 
-i.Leybourne, Newbold & Vougas (LNV) 
-(1998) Unit Root Test 
- 
+
 Leybourne, Newbold & Vougas (LNV) 
 (1998)40, 
 who 
@@ -728,21 +522,21 @@ and
 constitutes 
 the 
 beginning of nonlinear tests. Logistic soft  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
 transition regressions were created by 
 defining three models; 
- 
+
 Model A 
-                      (8) 
- 
+
+<> (8) 
+
 Model B 
-              (9) 
- 
+
+<> (9) 
+
 Model C 
- (10) 
- 
+
+<> (10) 
+
 In the models, the St(λ,τ), indicates 
 the logistic smooth transition, which is 
 presented in Equation 11. In this logistic 
@@ -758,8 +552,9 @@ greater, Sτ(γτ) would exceed the (0,1)
 interval rapidly. If 𝛾 converges to +∞, the 
 value of the function changes from 0 to 1 
 momentarily at 𝑡= 𝜏T. 
- 
-      (11) 
+
+<> (11) 
+
 vt is the expression of the stationary 
 process with a mean of zero. Hence, the 
 Y initial value for Model A is stationary 
@@ -776,6 +571,7 @@ speed and time. In this test, there is a
 constraint that the constant and trend 
 transitions occur at the same time and at 
 the same speed. 
+
 There are two phases for calculating 
 the test statistics. In the first step, using 
 the Nonlinear Least Squares (NLS), the 
@@ -785,25 +581,25 @@ components,
 and 
 the 
 residuals are obtained; 
- 
+
 Model A 
-                     (12) 
+
+<> (12) 
+
 Model B 
-               (13) 
- 
+
+<> (13) 
+
 Model C 
-  (14) 
- 
+
+<> (14) 
+
 After the residuals are obtained, the 
 ADF regression is established in the 
 second phase, and the unit root test is 
 performed over this regression (Equation 
 15).   
- 
-           (15) 
-                                         (16) 
-                                         (17) 
- 
+
 The hypotheses to be established in 
 the analysis of the unit root are 
 presented 
@@ -813,10 +609,7 @@ and
 Equation17. This test is performed by 
 testing the statistical significance of ρˆ 
 using the t test. 
- 
-ii.Harvey & Mills (HM) Unit Root Test 
-(2002) 
- 
+
 The unit root test based on soft 
 transition, 
 created 
@@ -827,456 +620,41 @@ to two soft transitions and introduced to
 the literature by Harvey & Mills (2002)41. 
 Three models were also created for this 
 test; 
- 
+
 Model A 
-  (18) 
- 
+
+<>(18) 
+
 Model B 
-   (19) 
- 
+
+<> (19) 
+
 Model C 
- 
-                   (20) 
- 
+
+<> (20) 
+
 While there are two transitions for 
 mean in Model A and Model B, unlike 
 Model A, there is a fixed trend in Model 
 B. Model C allows two transitions in both 
 mean and trend. 
+
 In the models, 𝑆𝑖𝑡(λ1,τ1) indicates the 
 logistic smooth transition, which is 
 presented in Equation 21. The error 
 term, 𝑣𝑡 is the expression of the 
 stationary process with a mean of zero.  
-
-
-1
-2
-,
-t
-t
-t
-y
-S
-v
-
-
-
-
-
-
-
-
-1
-1
-2
-,
-t
-t
-t
-y
-t
-S
-v
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-2
-,
-,
-t
-t
-t
-t
-y
-t
-S
-tS
-v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-,
-1
-exp
-tS
-t
-T
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-2
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-,
-t
-t
-t
-v
-y
-S
-
-
-
-
-
-
-
-
-1
-1
-2
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-,
-t
-t
-t
-v
-y
-t
-S
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-2
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-,
-,
-t
-t
-t
-t
-v
-y
-t
-S
-tS
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-ˆ
-ˆ
-ˆ
-
-
-
-
-
-
-
-
-
-p
-t
-t
-i
-t i
-t
-i
-v
-v
-v
-
-
-
-0 :
-0
-
-H
-
-1 :
-0
-
-H
-
-
-
-
-
-1
-2
-1
-1
-1
-3
-2
-2
-2
-,
-,
-t
-t
-t
-t
-y
-S
-S
-v
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-1
-1
-1
-3
-2
-2
-2
-,
-,
-t
-t
-t
-t
-y
-t
-S
-S
-v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-3
-2
-2
-2
-3
-2
-2
-2
-,
-,
-,
-,
-t
-t
-t
-t
-t
-t
-y
-t
-S
-tS
-S
-tS
-v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-3
-2
-2
-2
-3
-2
-2
-2
-,
-,
-,
-,
-t
-t
-t
-t
-t
-t
-y
-t
-S
-tS
-S
-tS
-v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
+
 τ1T and τ2T, indicate the middle points of 
 the transition process; γ1 and γ2 indicate 
 the transition speeds. The difference in 
 transition speeds is allowed. 
- 
-           (21) 
-                       
-            
- 
-         (22) 
-  (23) 
- 
-                      (24) 
-                              (25) 
+
 The hypotheses to be established in 
 the analysis of the unit root are 
 presented in Equation 26 and Equation 
 27. 
-                                          (26) 
-                                           (27) 
+
 Unit root testing can be performed 
 using 
 the 
@@ -1287,9 +665,7 @@ Vougas (1998). The t statistics of ρ
 obtained by the classical least squares 
 method of estimation is used as the test 
 statistics.  
- 
- Cointegration Tests 
- 
+
 The Kapetanios, Shin & Snell (KSS) 
 (2006) Cointegration Test from the 
 nonlinear cointegration tests, and the 
@@ -1298,10 +674,7 @@ Cointegration Test from the cointegration
 tests based on Fourier functions, which 
 were used in the analysis, were explained 
 in this part.    
- 
-i.Kapetanios, Shin and Snell (KSS) 
-(2006) Cointegration Test 
- 
+
 Kapetanios, Shin & Snell (KSS) 
 (2006)42 enhanced the Engle-Granger 
 Cointegration Test and introduced it to 
@@ -1317,28 +690,13 @@ relationship
 between the variables is tested against 
 the basic hypothesis stating that there is 
 no cointegration relationship.   
+
 The KSS Test, in which a smooth 
 transition is modeled using a logistic 
 function, can be used for the variable  
 series of raw data, demeaned data, and 
 detrended data. 
- 
-(28) 
- 
-                                     (29) 
- 
- 
-                                 (30) 
- 
-       (31) 
- 
-                                   (32) 
- 
-                  (33) 
- 
-ii.Banerjee, Arčabić & Lee (2017) 
-Fourier Cointegration Test 
- 
+
 This test, which was introduced to the 
 literature by Banerjee, Arčabić & Lee 
 (2017)43, is a typical cointegration test 
@@ -1351,1108 +709,11 @@ and Equation 35, the test includes
 constant and trend terms, the delayed 
 value of the independent variable, and 
 the value of its level the previous period.   
- 
- 
-                    (34) 
- 
-                          (35) 
-                                              (36) 
-                                              (37) 
+
 Testing is performed based on the 
 equation that the coefficient (δ) before the 
 variable of 𝑦𝑡−1  is equal to or smaller 
 than zero. In other words, the null   
- 
-
-
-
-
-
-
-1
-,
-1 exp
-0
-1,2
-it
-i
-i
-i
-i
-i
-S
-t
-T
-i
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-,
-1 exp
-0
-1,2
-i
-i
-i
-i
-t
-T
-i
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-2
-1
-1
-1
-3
-2
-2
-2
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-,
-,
-t
-t
-t
-t
-v
-y
-S
-S
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-1
-1
-3
-2
-2
-2
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-,
-,
-t
-t
-t
-t
-v
-y
-t
-S
-S
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-2
-3
-2
-2
-2
-3
-2
-2
-2
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-,
-,
-,
-,
-t
-t
-t
-t
-t
-t
-v
-y
-t
-S
-tS
-S
-tS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-1
-2
-2
-3
-2
-2
-2
-3
-2
-2
-2
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-ˆ
-,
-,
-,
-,
-t
-t
-t
-t
-t
-S
-tS
-S
-tS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-ˆ
-ˆ
-ˆ 
-
-
-
-
-
-
-
-p
-t
-i
-t i
-t
-i
-v
-v
-v
-
-
-
-0 :
-0
-
-H
-
-1 :
-0
-
-H
-
-
-
-2
-1
-1
-1
-1
-1
-1 e
-t
-p
-i
-p
-u
-t
-t
-t
-t
-i
-y
-u
-u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-i
-t-i
-t
-i
-t-i
-t
-x
-z
-x
-ω
-z
-Γ
-η
-ˆ
-ˆ
-ˆ
-t
-t
-u
-y
-
-
-
-t
-xx
-β
-2
-3
-1
-1
-2
-1
-3
-1
-1
-ˆ
-ˆ
-ˆ
-p
-t
-t
-t
-t
-t
-i
-y
-u
-u
-u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-i
-t-i
-x
-ω
-z
-2
-3
-1
-1
-2
-1
-3
-1
-1
-ˆ
-ˆ
-ˆ
-p
-t
-t
-t
-t
-t
-i
-y
-u
-u
-u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-i
-t-i
-x
-ω
-z
-0
-1
-2
-3
-:
-0
-NEC
-H
-F
-
-
-
-
-
-
-
-3
-1
-1
-3
-1
-1
-ˆ
-ˆ
-p
-t
-t
-t
-t
-i
-y
-u
-u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-i
-t-i
-x
-ω
-z
-3
-1
-1
-3
-1
-1
-ˆ
-ˆ
-p
-t
-t
-t
-t
-i
-y
-u
-u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-i
-t-i
-x
-ω
-z
-*
-0
-1
-3
-:
-0
-NEC
-H
-F
-
-
-
-
-
-1
-2
-1
-1
-1
-2
-1
-1
-2
-2
-sin
-cos
-2
-2
-sin
-cos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-t
-t
-t
-t
-t
-t
-t
-t
-t
-kt
-kt
-y
-y
-x
-x
-T
-T
-kt
-kt
-y
-t
-y
-x
-x
-T
-T
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-2
-1
-1
-1
-2
-1
-1
-2
-2
-sin
-cos
-2
-2
-sin
-cos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-t
-t
-t
-t
-t
-t
-t
-t
-t
-kt
-kt
-y
-y
-x
-x
-T
-T
-kt
-kt
-y
-t
-y
-x
-x
-T
-T
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-2
-1
-1
-1
-2
-1
-1
-2
-2
-sin
-cos
-2
-2
-sin
-cos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-t
-t
-t
-t
-t
-t
-t
-t
-t
-kt
-kt
-y
-y
-x
-x
-T
-T
-kt
-kt
-y
-t
-y
-x
-x
-T
-T
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-2
-1
-1
-1
-2
-1
-1
-2
-2
-sin
-cos
-2
-2
-sin
-cos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t
-t
-t
-t
-t
-t
-t
-t
-t
-t
-kt
-kt
-y
-y
-x
-x
-T
-T
-kt
-kt
-y
-t
-y
-x
-x
-T
-T
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
-1
-:
-0
-:
-0
-
-
-H
-H
-
-
-0
-1
-:
-0
-:
-0
-
-
-H
-H
-
-
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
 hypothesis 
 indicates 
 that 
@@ -2467,9 +728,7 @@ alternative hypothesis indicates the presence
 of a cointegrating relationship. What we need 
 to do is to estimate this model and 𝑦𝑡−1 test 
 the coefficient before the variable. variable.  
- 
-Empirical Results 
- 
+
 This part presents the empirical 
 findings obtained by performing the tests 
 described 
@@ -2479,45 +738,7 @@ methodology
 and 
 dataset parts. The linearity test results of 
 the series are presented in Table 2. 
- 
-Table 2. Linearity Test Results 
-Variable 
-Harvey 
-&Leybour
-ne (2007) 
-Critical 
-Value 
-Result 
-Femicide 
-11.57 
-5.991465 
-H0 
-Rejected 
-Rate 
-52.72 
-5.991465 
-H0 
-Rejected 
-Variable 
-Harvey, 
-Leybourn
-e & Xiao 
-(2008) 
-Critical 
-Value 
-Result 
-Femicide 
-9.51 
-9.487729 
-H0 
-Rejected 
-Rate 
-3.49 
-9.487729 
-H0 
-cannotbe 
-rejected 
- 
+
 According to the results of both tests, 
 there is nonlinearity in the femicide 
 series. In the foreign exchange rate 
@@ -2535,101 +756,7 @@ the
 stationarity of the series was tested using 
 nonlinear unit root tests. The results of 
 the analysis are presented in Table 3. 
- 
-Table 3. Stationarity Tests with Nonlinear Unit Root 
-Tests 
-Variables 
-Leybourne, 
-Newbold & 
-Vougas 
-(LNV) Unit 
-Root Test 
-Critical 
-Value 
-Result 
-Femicide 
--1.90520 
-4.825 
-H0 
-can 
-not 
-be 
-rejected. 
-Unit root. 
-Rate 
--0.46622 
-4.825 
-H0 
-can 
-not 
-be 
-rejected. 
-Unit root. 
- 
- 
- 
- 
- 
- 
- 
- 
-Table 4. Stationarity Tests with Traditional Unit Root 
-Tests 
-ADF 
-Variables 
-T-Statistics 
-%1 
-%5 
-%10 
-Result 
- 
-Femicide 
- 
--15.035 
--3.9837 
--3.4223 
--3.1340 
- 
-Unit 
-Root 
- 
-Rate 
- 
--16.651 
--3.9834 
--3.4222 
--3.1339 
- 
-Unit 
-Root 
-PP 
-Variables 
-T-Statistics 
-%1 
-%5 
-%10 
-Result 
- 
-Femicide 
- 
--259.7058 
--3.9832 
--3.4221 
--3.1339 
- 
-Unit 
-Root 
- 
-Rate 
- 
--16.58659 
--3.9834 
--3.4222 
--3.1339 
- 
-Unit 
-Root 
- 
+
 In order to confirm that the series that 
 were determined to have unit roots by 
 nonlinear unit root tests (Table 3) are 
@@ -2639,17 +766,7 @@ differences (Table 4). Following the
 determination of the stationarity of the 
 series at I1, cointegration tests were 
 performed. 
- 
-Table 5. Kapetanios, Shin & Snell (KSS) (2006) 
-Cointegration Test Results 
-F Statistic 
-Critical 
-Values 
-Result 
-15.24 
-15.07 
-𝐻0 Rejected 
- 
+
 According to the results of the 
 Kapetanios, Shin & Snell (KSS) (2006) 
 Cointegration 
@@ -2669,50 +786,11 @@ the
 cointegrating 
 relationship, the short-run causality test 
 was performed; 
- 
- 
- 
-Variables 
-Harvey & 
-Mills 
-(HM) Unit 
-Root Test 
-(2002) 
-Critical 
-Value 
-Result 
-Femicide 
--2.19824 
-6.01 
-H0 cannot be 
-rejected. 
-Unit root. 
-Rate 
--1.55240 
-6.01 
-H0 cannot be 
-rejected. 
-Unit root. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
-Table 6. Kapetanios, Shin & Snell (KSS) (2006) 
-Causality Test Result 
-Prob. 
-Error 
-Correction 
-Coefficient  
-Result 
-0.17748550 
-0.044197075 
-𝐻0 can not 
-be 
-rejected* 
-*0.17748550>0.05. 
- 
+
 In the short run, no causality was 
 determined from the exchange rate towards 
 femicide.  
+
 Based on the error correction coefficient 
 (ECC), it is possible to calculate the rebalance 
 ratio of the system by dividing the ECC by “1” 
@@ -2720,17 +798,7 @@ ratio of the system by dividing the ECC by “1”
 the deviation caused by a 1% shock in the 
 foreign exchange rate can be balanced after a 
 period of 22.6 days. 
- 
-Table 7. Banerjee, Arčabić ve Lee (2017) Fourier 
-Coentegration Test Result 
-F Statistic 
-Critical 
-Values 
-Result 
--15.61680 
-4.27 
-𝐻0 Rejected 
- 
+
 As a result of the Banerjee, Arčabić & Lee 
 (2017) Fourier Cointegration Test, one of the 
 cointegration 
@@ -2741,9 +809,7 @@ Fourier
 functions, long-run cointegration was found 
 between the foreign exchange rate and 
 femicide. 
- 
-Conclusion 
- 
+
 The 
 current 
 living 
@@ -2761,6 +827,7 @@ macro-economic phenomena on the violent
 deaths of women and shape the monetary 
 and fiscal policies based on the findings to 
 prevent future murders. 
+
 All experiences are the results of the 
 choices. For instance, as Erturk (2015), 
 pointed out, the allocation of available 
@@ -2782,6 +849,7 @@ increase in male unemployment in some
 areas. Losing socio-economic status and the  
 balance of power are tried to be compensated in the 
 form of violence against women and girls. 
+
 As mentioned by Engelen et al. (2016)44, based on 
 the findings of their study, the significant and strong 
 deterrent effect of the increase in the probability of 
@@ -2812,11 +880,14 @@ period between 01 January 2019 and 29 September
 Platform and the Central Bank of Turkey. Various 
 econometric analyses were performed on these data. 
 According to the results of the analyses, 
+
 - A long-run cointegrating relationship was found 
 between foreign exchange rate and femicide. 
+
 - It was determined that the deviation caused by 
 a 1% shock in the exchange rate could reach the 
 balance after 22.6 days.  
+
 Based 
 on 
 these 
@@ -2846,13 +917,7 @@ widespread
 and 
 systematic violence against women and girls and 
 femicide from an economic perspective. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
-Acknowledgement 
- 
+
 I would like to thank Atty. Hülya GÜLBAHAR 
 and Fidan ATASELİM from We Will Stop 
 Femicide Platform for their contribution in 
@@ -2861,315 +926,3 @@ HEPSAĞ, from Istanbul University Deputy
 Head of Econometrics Department, for his 
 contrubution to carry forward my knowledge 
 of advanced econometric analysis techniques. 
- 
- 
- 
-Author contribution statements 
- 
-Gülgün Çiğdem contributed to the design and 
-implementation of the research, to the analysis of the 
-results and to the writing of the manuscript. 
- 
-Conflict of Interest Statement 
- 
-Author has declared that: (i) no support, financial or 
-otherwise, has been received from any organization 
-that may have an interest in the submitted work; and 
-(ii) there are no other relationships or activities that 
-could appear to have influenced the submitted work. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-References 
- 
-1. 
-Corry J. The satirical review of London at the 
-commencement of the nineteenth century. London: G. 
-Kearsley; 1801.  
-2. 
-Radford J. Introduction. In J. Radford & D. Russell 
-(Eds.). 
-Femicide: 
-politics 
-of 
-woman 
-killing. 
-Buckingham: Open U.P. 3-13; 1992. 
-3. 
-Radford J, Russell D. Femicide: the politics of 
-woman killing. New York: Twayne Publishers, 
-Buckingham, England: Open University Press; 
-1992. 
-4. 
-Gazioğlu E. Kadın cinayetleri: kavramsallaştırma 
-ve 
-sorunlu 
-yaklaşımlar. 
-Sosyal 
-Politika 
-Çalışmaları 2013; 7(30): 89-100. 
-5. 
-Corradi C, Marcuello-Servós C, Boira S, Weil, S.  
-Theories of femicide and their significance for social 
-research. Current Sociology 2016; 64(7): 976-995.  
-6. 
-Grech V. Gendercide and femineglect. Early Human 
-Development 2015; 91(12): 851-854. 
-7. 
-Corradi C, Marcuello-Servós C, Boira S, Weil S.  (2016). 
-Theories of femicide and their significance for social 
-research. Current Sociology 2016; 64(7): 976-995. 
-8. 
-Radford J, Russell D. Femicide: the politics of 
-woman killing. New York: Twayne Publishers, 
-and Buckingham, England: Open University 
-Press; 1992. 
-9. 
-Russell D Harmes R. Femicide in global perspective. 
-New York and London: Teachers College Press; 
-2001. 
-10. 
-Ertürk Y. Sınır tanımayan şiddet, paradigma, 
-politika ve pratikteki yönleriyle kadına şiddet 
-olgusu. Istanbul: Metis Yayınları; 2015. 
-11. 
-Hudson VM. The missing girls of China and India: 
-what is being done? Cumberland Law Review 2010;  
-12. 
-Friedman J. Globalization, the state and violence. 
-New York: Alta Mira Press; 2003.  
-13. 
-Buscher HS, Mueller C. (1997). Exchange rate 
-volatility effects on the German labour market: a 
-survey 
-of 
-recent 
-results 
-and 
-extensions. 
-Discussion Paper Series 1997, No. 37, Institute 
-for The Study of Labor. 
-14. 
-Gordon RJ. Inflation, flexible exchange 
-rates, 
-and 
-the 
-natural 
-rate 
-of 
-unemployment. NBER Working Paper Series 
-1981, No. 708. 
-15. 
-Bertrand M. From the invisible handshake to the 
-invisible hand? How import competition changes 
-the employment relationship. NBER Working 
-Paper Series 1999; No. 6900.  
-16. 
-Song MS. Korea’s fast recovery: the role of 
-macroeconomic 
-policies 
-and 
-reform 
-programs. Social Science 2000; 410. 
-17. 
-Kazgan G. Türkiye ekonomisinde krizler. 
-İstanbul: Bilgi Üniversitesi Yayınları; 2017. 
-18. 
-Demir F. Exchange rate volatility and 
-employment growth in developing countries: 
-evidence from Turkey. Applied Economics 
-Letters 2009. 
-19. 
-De Vogli R, De Falco R, Mattei G. Excess 
-suicides due to the global economic crisis in 
-Italy: 
-an 
-update. 
-Epidemiologia 
-e 
-Prevenzione 2019; 43(2-3): 111.  
-20. 
-World Health Organization (WHO).  COVID-
-19 and violence against women: What the 
-health sector/system can do. Geneva: WHO; 
-2020; [cited 2020 Dec 1]. Available from:  
-https://www.who.int/reproductivehealth/
-publications/vaw-covid-19/en/ 
-21. 
-Barnet RJ, Cavanagh J. Küresel düşler 
-imparator şirketler ve yeni dünya düzeni. 
-Translator: Gülden Şen. İstanbul: Sabah  
-Kitapları; 1995. 
-22. 
-Cerro AM, Meloni O. Determinants of the 
-crime rate in Argentina during the ‘90s”. 
-Estudios de Economia 2000; 27(2): 297-311. 
-23. 
-Cömertler N, Kar M. Türkiye’de suç oranının 
-sosyo-ekonomik belirleyicileri: yatay kesit 
-analizi. Ankara Üniversitesi Siyasal Bilgiler 
-Fakültesi Dergisi 2007; 62(2): 37-57. 
-24. 
-Tunca 
-H. 
-Suçun 
-sosyo-ekonomik 
-belirleyicileri: panel veri analizi. İnsan ve 
-Toplum Bilimleri Araştırmaları Dergisi 2019; 
-(4): 2767-2784. 
-25. 
-Ata AY. Ücretler, işsizlik ve suç arasındaki 
-ilişki: yatay-kesit analizi. Çalışma ve Toplum 
-2011; 4: 113-134. 
-26. 
-Yıldız R, Öcal O, Yıldırım E. Suçun 
-sosyoekonomik 
-belirleyicileri: 
-Kayseri 
-üzerine bir uygulama. Erciyes Üniversitesi 
-İİBF Dergisi 2010; 36: 15-31. 
-27. 
-Aksu H, Akkuş Y. Türkiye’de mala karşı 
-suçların 
-sosyoekonomik 
-belirleyicileri 
-üzerine bir deneme: sınır testi yaklaşımı 
-(1970-2007). Sosyoekonomi 2010; 1: 192-
-214. 
-28. 
-Andresen MA. Unemployment and crime: a 
-neighborhood level panel data approach. 
-Social Science Research 2012; 41: 1615-
-1628. 
-29. 
-Altındağ 
-DT. 
-(2012). 
-Crime 
-and 
-unemployment: 
-evidence 
-from 
-Europe. 
-International Review of Law and Economics 
-2012; 32: 145-157.   
-30. 
-Blomquist 
-J, 
-Westerlund 
-J. 
-A 
-non-
-stationary panel data investigation of the 
-unemployment–crime relationship. Social 
-Science Research 2014; 44: 114-125. 
-31. 
-Cerro AM, Meloni O. Determinants of The 
-Crime Rate in Argentina During The ‘90s”. 
-Estudios de Economia 2000; 27(2): 297-311.   
-32. 
-Chintrakarn P, Herzer D. More inequality, more 
-crime? A panel cointegration analysis for the 
-Unites States. Economics Letters 2012; 116: 389-
-391. 
-33. 
-Nikolaos D, Alexandros G. The effect of socio-
-economic determinants on crime rates: an 
-empirical research in the case of Greece with 
-cointegration analysis. International Journal of 
-Economic Sciences and Applied Research 2009; 
-2(2): 51-64. 
-34. 
-Lombardo R, Falcone 
-M. Crime and 
-economic performance. A cluster analysis of 
-panel data on Italy’s NUT3 Regions. Working 
-Papers 2011; Universita della Calabria, 
-Dipartimento di Economia, Statistica e 
-Finanza-DESF. 
-35. 
-Andresen MA. (2012). Unemployment and 
-crime: a neighborhood level panel data 
-approach. Social Science Research 2012; 41: 
-1615-1628. 
-36. 
-Taş N, Doğan A, Önder E. İşsizlik, takibe 
-düşen 
-kredi 
-ve 
-boşanma 
-oranı 
-değişkenlerinin suç sayısı üzerine etkisinin 
-belirlenmesi: Türkiye için bölgesel panel veri 
-analizi. Niğde Üniversitesi İİBF Dergisi 2014; 
-7(1): 13-35. 
-37. 
-Kavaklı KC. Women’s murders and the 
-interaction between gender (in)equality and 
-economic 
-development: 
-a 
-subnational 
-analysis in Turkey. Journal of Interpersonal 
-Violence 2020; 1-22.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
-38. 
-Harvey DI, Leybourne SJ. Testing for time 
-series linearity. Econometrics Journal 2007; 
-10: 149–165. 
-39. 
-Harvey DI, Leybourne SJ, Xiao B. A 
-powerful test for linearity when the order of 
-integration is unknown. Studies in Nonlinear 
-Dynamics & Econometrics 2008; 12(3): 
-Article 2. 
-40. 
-Leybourne S, Newbold P, Vougas D. Unit 
-roots and smooth transitions. Journal of 
-Time Series Analysis 1998, 19(1): 83-97. 
-41. 
-Harvey DI, Mills TC. Unit roots and double 
-smooth transitions. Journal of Applied Statistics 
-2002, 29(5), 675-683. 
-42. 
-Kapetanios G, Shin Y, Snell A. (2006). Testing for 
-cointegration in nonlinear smooth transition error 
-correction models. Econometric Theory 2006; 22(2): 
-279-303. 
-43. 
-Banerjee P, Arčabićb V, Leed H. Fourier ADL 
-cointegration test to approximate smooth 
-breaks with new evidence from crude oil 
-market. Economic Modelling 2017; 67: 114–
-124. 
-44. 
-Engelen PJ, Lander MW, Van Essen M. 
-What determines crime rates? An empirical 
-test of integrated economic and sociological 
-theories of criminal behavior. The Social 
-Science Journal 2016; 53: 247-262. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1669
-Powered by TCPDF (www.tcpdf.org)

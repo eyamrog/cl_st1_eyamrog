@@ -1,130 +1,35 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/1980-549720210016.supl.1
-The geography of femicide in Sergipe, Brazil: matriarchy,
-human development and income distribution
-Yamilla Ramos Carvalho de  Sá , Paula Cristina Pedroso  Moi, Noemi Dreyer  Galvão , Ageo
-Mário Cândido da  Silva , Gisele Pedroso  Moi 
-https://doi.org/10.1590/1980-549720210016.supl.1
-Submitted on: 2020-12-15
-Posted on: 2020-12-15 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
-DOI: 10.1590/1980-549720210016.supl.1 
-e210016.supl.1 
- 
-Artigo original 
- 
-The geography of femicide in Sergipe, Brazil: matriarchy, human development 
-and income distribution 
-A geografia do feminicídio em Sergipe, Brasil: matriarcado, desenvolvimento humano e 
-distribuição de renda 
-The geography of femicide in Sergipe, Brazil 
-A geografia do feminicídio em Sergipe, Brasil 
- 
-Yamilla Ramos Carvalho de Sá (https://orcid.org/0000-0003-4604-5143) 
-Department of Dentistry, Federal University of Sergipe. Aracaju (SE), Brazil. Email: 
-yamillarcs@gmail.com 
-Paula Cristina Pedroso Moi (https://orcid.org/0000-0002-7586-9072) 
-Center for Postgraduate Studies in Administration, Federal University of Bahia. 
-Salvador (BA), Brazil. Email: paulacpmoi@gmail.com 
-Noemi Dreyer Galvão (https://orcid.org/0000-0002-8337-0669) 
-Institute of Collective Health, Federal University of Mato Grosso. Cuiabá (MT), Brazil. 
-Email: noemidreyer@hotmail.com 
-Ageo Mário Cândido da Silva (https://orcid.org/0000-0001-5293-9413) 
-Institute of Collective Health, Federal University of Mato Grosso. Cuiabá (MT), Brazil. 
-Email: ageoms@hotmail.com 
-Gisele Pedroso Moi (https://orcid.org/0000-0002-5901-5042) 
-Department of Dentistry, Federal University of Sergipe. Aracaju (SE), Brazil. Email: 
-gisele.pedroso.moi@gmail.com 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Corresponding author. E-mail address: gisele.pedroso.moi@gmail.com 
-St. Cláudio Batista, no number, 49060-108, Cidade Nova, Aracaju, SE, Brazil. 
- 
-Declaration of competing interest: None. 
-Funding: This research did not receive any specific grant from funding agencies in the 
-public, commercial, or not-for-profit sectors. 
-Research Ethics Council: This exploratory ecological study, approved by the Ethics 
-Committee of the Federal University of Sergipe (CAEE 17504319.0.0000.5546), 
-included secondary data from the Sergipe population, which is freely available in 
-Brazilian databases. 
- 
-Individual collaboration of the authors 
-Yamilla Ramos Carvalho de Sá: Writing – original draft, Formal analysis 
-Paula Cristina Pedroso Moi: Data curation, Methodology, Writing – review & editing 
-Noemi Dreyer Galvão: Formal analysis, Writing – review & editing 
-Ageo Mário Cândido da Silva: Validation, Methodology, Writing – review & editing 
-Gisele Pedroso Moi: Conceptualization, Formal analysis, Project administration, 
-Supervision, Validation, Writing – review & editing 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-Abstract 
 Objective: This research analyzed the joint spatial distribution and explored possible 
 associations between epidemiological aspects and feminicide rates, in the municipalities 
-of the State of Sergipe located into northeastern Brazilian. Methodology: An 
+of the State of Sergipe located into northeastern Brazilian. 
+
+Methodology: An 
 exploratory ecological study investigated the global spatial autocorrelation of 
 epidemiological aspects with feminicide rates from municipalities of the State of 
 Sergipe – Brazil (n= 75), in the 2013-2017 period, using the “global” and “local” Moran 
 statistic method and a multiple spatial regression, having as variables of exposure the 
 socioeconomic status, the demographic status, the services and health status, feminicide 
-rates. The software used was Stata 11.0, SPSS 18.0 and GeoDa 0.95-i. Results:  The 
+rates. The software used was Stata 11.0, SPSS 18.0 and GeoDa 0.95-i. 
+
+Results:  The 
 spatial distribution of the femicide rates was not random and showed high spatial 
 autocorrelation and predominance of significant spatial groupings of municipalities with 
 the highest mortality rates due to feminicide in the central region of Sergipe State. In the 
 multiple regression, the percentage of women heads of families and the Municipal 
 Human Development Index were positively associated with the rates of femicide in 
 Sergipe's municipalities in the studied period (p <0.05). The opposite situation occurred 
-between the GINI Index and the rates of femicide. Conclusions: This is the first study 
+between the GINI Index and the rates of femicide. 
+
+Conclusions: This is the first study 
 that analyze the factors associated with the spatial clusters of feminicide rates in a 
 geographical space where there is a predominance of patriarchal culture. There was an 
 increase in femicide in locations where there is lowest social inequality, greater human 
 development and greater authority exercised by women in the family environment.  
- 
-Keywords: Homicide. Gender-Based Violence. Mortality. Epidemiology. Ecological 
-Studies. Spatial Analysis. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-Resumo 
- 
-Objetivo: Esta pesquisa analisou a distribuição espacial conjunta e explorou possíveis 
-associações entre aspectos epidemiológicos e taxas de feminicídio, nos municípios do 
-Estado de Sergipe, localizados no nordeste brasileiro. Metodologia: Um estudo 
-ecológico exploratório investigou a autocorrelação espacial global de aspectos 
-epidemiológicos com taxas de feminicídio em municípios do Estado de Sergipe - Brasil 
-(n = 75), no período 2013-2017, utilizando a estatística de Moran “global” e “local” e 
-uma regressão espacial múltipla, tendo como variáveis a condição socioeconômica, a 
-situação demográfica, os serviços e estado de saúde, taxas de feminicídio. Os softwares 
-utilizados foram Stata 11.0, SPSS 18.0 e GeoDa 0.95-i. Resultados: A distribuição 
-espacial das taxas de feminicídio não foi aleatória e apresentou elevada autocorrelação 
-espacial e predomínio de agrupamentos espaciais significativos de municípios com as 
-maiores taxas de mortalidade por feminicídio na região central do Estado de Sergipe. Na 
-regressão múltipla, o percentual de mulheres chefes de família e o Índice de 
-Desenvolvimento Humano Municipal associaram-se positivamente às taxas de 
-feminicídio nos municípios sergipanos no período estudado (p <0,05). Situação oposta 
-ocorreu entre o Índice GINI e as taxas de feminicídio. Conclusões: Este é o primeiro 
-estudo que analisa os fatores associados aos clusters espaciais das taxas de feminicídio 
-em um espaço geográfico onde há predomínio da cultura patriarcal. Houve aumento do 
-feminicídio em localidades onde há menor desigualdade social, maior desenvolvimento 
-humano e maior autoridade exercida pelas mulheres no ambiente familiar. 
- 
-Palavras-chave: Homicídio. Violência baseada no gênero. Mortalidade. Epidemiologia. 
-Estudos Ecológicos. Análise espacial. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
+
 Femicide is rooted in gender inequality and contributes to perpetuate the 
 subordinate position of women in society at a legal, social and economic level, being 
 considered a serious public health problem already described by the World Health 
 Organization over 30 years ago 1,2. 
+
 Brazil ranks 5th on the world scale of femicide, preceded only by El Salvador, 
 Colombia, Guatemala and Russia 3. The Map of Violence in Brazil (2015) already 
 illustrated rising rates of female deaths from aggression in the 1980-2013 period and 
@@ -141,14 +46,12 @@ Rio Grande do Norte (67.4), followed by Ceará (64.0), Pernambuco (62.3), Sergip
 5. Among Brazilian states, Sergipe draws attention for presenting the highest increase in 
 the rate of femicide per 100 thousand women (163.9%) between the years 2017 and 
 2018 5. 
+
 It is clear that despite the promulgation of what is known as the “Maria da 
 Penha Law” which aimed to create mechanisms to curb domestic and family violence 
 against women, female mortality from aggression in Brazil has increased more than 
 twice in the last 30 years (Maria da Penha Law, Law n. 11.340, August 7th, 2006; 
 Meneghel et al., 2013). It is not known for sure whether the increase in police records of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
 femicide reflects an increase in the number of cases, or a decrease in underreporting, 
 since the “Maria da Penha Law” is relatively new, so that there may be an ongoing 
 learning process by the judicial authorities 5. On the other hand, this can had happened 
@@ -158,6 +61,7 @@ Law” was implemented with the purpose of being even more rigorous in coercing
 aggressors and making this phenomenon still visible. With the amendment of article 121 
 of the Brazilian Penal Code, femicide becomes qualified in the list of heinous crimes 
 (Femicide Law, Law n. 13.104, March 9th, 2015; Teles, 2018). 
+
 Studies have shown an increase in femicides in capitals and large Brazilian 
 cities, in the three-year periods of 2007-2009 and 2011-2013, mainly among young, 
 poor, black, single and low-educated women 3. Paradoxically, some studies on femicide 
@@ -165,6 +69,7 @@ have pointed out that poor women are more affected, since they observed a positi
 association between poverty and female deaths 12,13. The contexts of women's homicides 
 are diverse and obey distinct social dynamics and peculiarities to the geographic context 
 of origin, in which the gender marker is always present 3. 
+
 In addition, northeastern society, especially that of the state of Sergipe, 
 culturally preserves provincial habits and traditions in a peculiar way, whose 
 valorization of families with surnames, titles and economic possessions is an indelible 
@@ -174,21 +79,16 @@ violence in places where patriarchal culture is still perpetuated 16, being just
 fact that in more conservative communities, gender norms are more rigid and women 
 remain submissive, strictly fulfilling and supporting for long periods the roles assigned 
 to them by the culture 3. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
+
 In this context, the present study aims to analyze the joint spatial distribution and 
 explore possible associations between epidemiological aspects and feminicide rates, in 
 the 2013-2017 period, in the municipalities of the state of Sergipe located in 
 northeastern Brazil. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-Materials and methods 
+
 This exploratory ecological study, approved by the Ethics Committee of the 
 Federal University of Sergipe (CAEE 17504319.0.0000.5546), included secondary data 
 from the Sergipe population, which is freely available in Brazilian databases. 
+
 Sergipe is the smallest Brazilian state and sixth least populous in the country, 
 has a geographical area of 21,926.908 km² and a population of 2,068,017 people, being 
 divided into 8 territories (Agreste Central, Alto Sertão, Baixo São Francisco, Centro 
@@ -201,18 +101,17 @@ rates and indicators in Sergipe and thus offers the best job and service opportu
 aspects that have attracted to the capital the population residing in the interior of the 
 state 17. Since more than half of the municipalities of Sergipe's State have a low Human 
 development index and high social vulnerability index 18. 
+
 The geographic and spatial data of each municipality in Sergipe, considering its 
 latitude, longitude, perimeter, area and location were obtained from the website of the 
 Brazilian Institute of Geography and Statistics 17. 
+
 The dependent variable of this study was determined from the female mortality 
 rates due to aggression, calculated according to each municipality in Sergipe, in the 
 period from 2013 to 2017. The coefficients were grouped into five years to decrease the 
 temporal and geographic oscillations common in events of small magnitude. Gross 
 mortality data due to aggression of women were retrieved from the Brazilian Ministry 
 of Health's Mortality Information System and causes of death were be considered 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
 according to the categories of the 10th edition of the International Classification of 
 Diseases (ICD-10) in the range of X85 to Y09 19. The data of the total resident 
 population in each municipality in the state of Sergipe in the period corresponding to the 
@@ -221,27 +120,29 @@ that were obtained on the website of the Brazilian Institute of Geography and St
 17. Femicide rates were calculated by dividing the data on mortality from aggression by 
 women in each of the Sergipe’s municipalities by the data on the total female population 
 residing in the same place. 
+
 The independent variables selected for this study were collected in several 
 national databases in the studied period (2013-2017), being estimated the averages of 
 the data available for each of these variables. These variables are described in detail 
 below: 
+
 Socioeconomic status: Municipal Human Development Index (MHDI), Income 
 Concentration Index (GINI Index), average household income per capita, percentage of 
 the population with less than ½ minimum wage, percentage unemployed and percentage 
 of female heads of household were recovered from the Brazilian Institute of Geography 
 and Statistic website 20; and the Social Vulnerability Index (SVI) was obtained from the 
 Institute of Applied Economic Research18. 
+
 Demographic status:  percentage of civil and/or religious marriage, percentage 
 of Catholics, percentage of Evangelicals, percentage of the population without religion, 
 percentage of the urban population, percentage of the rural population were recovered 
 from IBGE website 20. 
+
 Services and health status: percentage of population covered by the Unified 
 Health System, mortality rate from Human Immunodeficiency Virus, maternal mortality 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
 rate, cervical cancer mortality rate that were retrieved from the Health Information 
 System websites of the Brazilian Ministry of Health 19. 
+
 Univariate exploratory analysis of spatial data was performed to investigate 
 global spatial autocorrelation of femicide rates in Sergipe's municipalities using the 
 Moran I index, under the assumptions of normality and randomization 21. The 
@@ -250,6 +151,7 @@ connected areas present greater similarity in relation to the studied indicator,
 be expected in a random pattern. Thus, spatial autocorrelation measures the number of 
 nearby objects compared to other nearby objects using the Moran I index, which can be 
 classified as positive, negative and without spatial autocorrelation. 
+
 The variables in this study were grouped into three blocks to jointly assess the 
 indicators associated with femicide by Pearson's correlation coefficient (r), where the 
 direction and magnitude of the associations between the independent variables were 
@@ -257,6 +159,7 @@ assessed using a correlation matrix: 1) socioeconomic status; 2) demographic sta
 3) services and health status. For this analysis, all variables were standardized with a 
 mean of zero (0.0) and standard deviation equal to one (1.0), due to their different 
 dimensions, which could impair their inclusion and interpretation in the model. 
+
 Multiple spatial regression was performed in the last analysis phase. The quality 
 of the fit of the spatial regression model is similar to the traditional linear regression 
 model, verified by the residual analysis and also based on the Moran I index 22. The 
@@ -265,17 +168,11 @@ of the variable with the highest statistical correlation; 2) Inclusion of variab
 when analyzed together, obtained a higher F in the simple regression analysis; This 
 inclusion does not prevent variables from the same block from being included as 
 “adjustment variables”, regardless of their association. 3) Inclusion of variables that, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
 once in partial correlation, controlled by modeled variables, showed significant 
 correlation with the dependent variable. The final model exclusion criteria for the 
 variables were the value of p ≥0,05. The software used was Stata 11.0, SPSS 18.0 and 
 GeoDa 0.95-i. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-Results 
+
 A standardized average mortality rate of 26,80 death/100,000 women in 
 Sergipe's municipalities. The spatial distribution of femicide rates are illustrated in 
 Figure 1. It is observed that the highest rates occurred in Sergipe's territories that 
@@ -285,6 +182,7 @@ death/100,000 women), Agreste Central (32.44 death/100,000 women), Médio Sertã
 Francisco (17.59 death/100,000 women), Alto Sertão (16.79 death/100,000 women) and 
 Leste (16,04 death/100,000 women), successively. Among the 75 municipalities in the 
 state of Sergipe, its capital Aracaju is in 37th position in the ranking of femicide. 
+
 There was not a random distribution of this rate with positive spatial 
 autocorrelation (I=0,0993881; p-valor = 0,001 for 999 permutations). It is possible to 
 observe the occurrence of spatial autocorrelations of the "high-high" type, indicating a 
@@ -299,9 +197,7 @@ the surrounding municipalities (Fig. 2). An inverse condition was observed in th
 municipalities of Lagarto, Aquidabã and Carmópolis, where spatial autocorrelations of 
 the “high-low” type occurred, a scenario in which these municipalities present high 
 rates of femicide, but their surrounding municipalities have low rates (Fig. 2). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
+
 Moran Local's Statistics I (Fig. 3) is also of great importance for the analysis, 
 since it shows the degree of significance of certain groups. According to the Local 
 Space Association Indicator (LISA), the municipalities with the highest rates of 
@@ -309,22 +205,20 @@ femicide are Santa Rosa de Lima and Aquidabã. The analysis identified significa
 LISA sector clusters. The significance of this indicator in the period considered implies 
 the existence of positive multidirectional externalities of the rates of femicide in the 
 municipalities of the State of Sergipe. 
+
 In the bivariate analysis (table 1), the percentage unemployed and the percentage 
 of women heads of families (matriarchy had a statistically significant positive 
 correlation with the rates of femicide (p< 0,01 and p < 0,05, respectively). There were 
 also negative significant correlations between the proportion of the population with less 
 than ½ minimum wage and feminicide rates (p < 0.05). 
+
 Table 2 illustrates the results of the final spatial regression analysis model. The 
 percentage of women heads of families (matriarchy) and the Municipal Human 
 Development Index (MHDI) were positively associated with the rates of femicide in 
 Sergipe's municipalities in the period between 2013 and 2017 (p <0.05). The opposite 
 situation occurred between the Income Concentration Index (GINI Index) and the rates 
 of femicide in these municipalities in the period studied. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-Discussion 
+
 This study has some limitations inherent to the methodology used. The 
 possibility of ecological fallacy cannot be excluded, since an association observed 
 between aggregates does not necessarily mean that the same association occurs in an 
@@ -333,6 +227,7 @@ out, since not all explanatory outcomes of the variables may have been included 
 methodology used 24. In order to reduce some of these limitations, this study worked 
 with variables available in several national databases and may present differences in 
 quality inherent to the use of indirect estimates 25. 
+
 The results of the present study show a very uneven distribution of the rates 
 of femicide per 100 thousand women in the Sergipe’s municipalities in the period 
 studies, whose rates standardized ranged between 11.74 death/100,000 women and 
@@ -346,12 +241,10 @@ feminicide proxy variable could overestimate this phenomenon. However, a percent
 of underreporting deaths of 24% in the Northeast region of Brazil should be expected 
 2,17,27, which could compensate for underreporting or even the ill-defined diagnosis of 
 the cause of death due to female aggression. 
+
 There was a predominance of significant spatial groupings of femicide rates 
 in the central Sergipe region (Fig. 2), which was confirmed by LISA (Fig. 3). Studies 
 also show the possibility of some peculiar context in the central region of Sergipe, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
 despite not having found spatial dependence on the rates of femicide in the Sergipe’s 
 municipalities in 2017 28, despite the findings of Grana 29 and Meneghel & Portella 30 
 suggest that the incidence of femicide is higher in urban agglomerations and cities with 
@@ -366,20 +259,19 @@ virility of men are considered essential to work with cattle, usually extending 
 relations and daily life. Similar conditions were found in other regions of Brazil that 
 also have this economic matrix and still maintain strong traditional patriarchal values 
 and the submission of women to men 33. 
+
 In multiple spatial regression, the Municipal Human Development Index 
 (MHDI) was directly associated with the rates of femicide. This fact makes evident the 
 contradiction between the increase in femicide in places with higher human 
 development rates 30,34. Contrasting results of other studies, which describe an inverse 
 relationship between the occurrence of feminicide with economic development and the 
 quality of life of the population, respectively 35.  
+
 The income concentration, estimated from the GINI index, showed an 
 inverse association with the femicide rates in the final spatial model. Suggesting that in 
 the places with the lowest social inequality are found the highest rates of femicide.  This 
 result is contradicting the findings of Leite et.al. (2017) 35 that they reported the 
 presence of a direct relationship between social inequality and the rates of femicide. On 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
 the other hand, in this same study, it is reported in a peculiar some regionals exceptions 
 about the trends of social inequity found as in Espírito Santo State, which it presented 
 better inequality and high indicators of the female mortality rates due to aggression 
@@ -388,26 +280,26 @@ in this moment that although lost socioeconomic issues linked to femicide, the f
 that permeate violence in general go beyond poverty and social inequality. This is 
 reinforcing the multifactorial nature of violence against women, resulting from the 
 interaction of individual, relational, social, cultural and environmental  factors 35,36. 
+
 The matriarchy was positively associated with the rates of femicide in 
 Sergipe's municipalities in the period studied. Suggesting that the change in traditional 
 gender roles is a potential generator of conflicts for challenging the patriarchal thinking 
 of society 2,3. Thus, the achievement of women's socioeconomic autonomy in patriarchal 
 societies is able to tension traditional gender patterns, increasing the risk of feminicide 
 37,38. 
+
 In this context, it is clear that despite the socioeconomic condition being 
 closely related to feminicide, this phenomenon has multifactorial characteristics that 
 result from the interaction between individual, relational, social, cultural and 
 environmental conditions 1. Feminicide has its roots in gender inequality, presenting 
 diverse contexts that obey distinct social dynamics and peculiar to the geographic 
 context of origin. 
+
 This is the first study that analyzed the factors associated with spatial clusters 
 of femicide in a geographic space where there is a predominance of patriarchal culture. 
 Although public policies to combat femicide have already completed more than a 
 decade in Brazil, this study shows a very uneven distribution of rates of femicide that 
 showed a direct association with human development and matriarchy, and an inverse 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
 association with concentration of income. These findings reinforce the fact that of 
 violence against women as a multifactorial phenomenon, resulting from the interaction 
 of individual, relational, social, cultural, and environmental factors. Making it 
@@ -416,295 +308,3 @@ high rates of femicides in in the municipalities of the State of Sergipe. It is 
 the need for local redirection of Brazilian public policies to combat femicide, since 
 feminicide has its roots in gender inequality, having different contexts that obey social 
 dynamics and peculiarities to the geographical context of its origin. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-References 
-1.  
-Krug E, Dahlberg L, Mercy J, Zwi A, Lozano R. Informe mundial sobre la 
-violencia y la salud. Rev Inst Med Trop Sao Paulo. Published online 2003. 
-doi:10.1590/s0036-46652003000300014 
-2.  
-Meneghel SN, Hirakata VN. Femicídios: homicídios femininos no Brasil. Rev 
-Saude Publica. 2011;45(3):564-574. doi:10.1590/S0034-89102011000300015 
-3.  
-Meneghel SN, Rosa BAR da, Ceccon RF, Hirakata VN, Danilevicz IM. 
-Feminicídios: estudo em capitais e municípios brasileiros de grande porte 
-populacional. Cien Saude Colet. 2017;22(9):2963-2970. doi:10.1590/1413-
-81232017229.22732015 
-4.  
-Waiselfisz JJ. O Mapa Da Violência 2015: Homicídios de Mulheres No Brasil. 
-FLACSO; 2015. 
-https://www.mapadaviolencia.org.br/pdf2015/MapaViolencia_2015_mulheres.pd
-f 
-5.  
-IPEA. Atlas Da Violência 2019.; 2019. 
-http://www.ipea.gov.br/portal/index.php?option=com_content&id=34784&Itemi
-d=432 
-6.  
-Meneghel SN, Mueller B, Collaziol ME, Quadros MM de. Repercussões da Lei 
-Maria da Penha no enfrentamento da violência de gênero. Cien Saude Colet. 
-2013;18(3):691-700. doi:10.1590/S1413-81232013000300015 
-7.  
-Brasil. Lei Maria Da Penha, Lei No 11.340 de 7 de Agosto de 2006.; 2006. 
-http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm 
-8.  
-Porto RTC. A implementação das práticas restaurativas na prevenção ao 
-feminicídio enquanto política pública para os homens autores de violência de 
-gênero no Brasil. Published online 2016. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-https://repositorio.unisc.br/jspui/handle/11624/1051 
-9.  
-Osava M. Mulheres-Violência: Lei brasileira ainda não evita mortes. 
-IPS/Envolverde. Published 2019. Accessed November 6, 2019. 
-http://www.ipsnoticias.net/portuguese/2009/03/america-latina/mulheres-
-violencia-lei-brasileira-ainda-nao-evita-mortes/ 
-10.  
-Brasil. Lei Do Feminicídio, Lei No 13.104, de 9 de Março de 2015.; 2015. 
-http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13104.htm 
-11.  
-Teles MVS. A Lei do Feminicídio e a promessa de redução da violência letal 
-contra a mulher: o caminho do reconhecimento do direito da mulher. Rev UFG. 
-Published online 2018. doi:10.5216/revufg.v17i21.51712 
-12.  
-Campbell JC, Glass N, Sharps PW, Laughon K, Bloom T. Intimate partner 
-homicide: Review and implications of research and policy. Trauma, Violence, 
-Abus. Published online 2007. doi:10.1177/1524838007303505 
-13.  
-Carcedo A. No Olvidamos Ni Aceptamos: Femicidio En Centroamérica 2000-
-2006. Cefemina y Horizons; 2010. 
-14.  
-Cachapuz R. Da família patriarcal à família contemporânea. Rev Jurídica 
-Cesumar. 2004;4(1):69-77. 
-15.  
-Mello JC de. MULHERES NA JURISPRUDENCIA SERGIPANA: A 
-DESEMBARGADORA CLARA LEITE EM SERGIPE E SUA TRAJETÓRIA. 
-Interfaces Científicas - Direito. Published online 2014. doi:10.17564/2316-
-381x.2014v3n1p95-106 
-16.  
-Costa MC da, Lopes MJM, Soares J dos SF, Costa MC da, Lopes MJM, Soares J 
-dos SF. Violence against rural women: gender and health actions. Esc Anna Nery 
-- Rev Enferm. 2015;19(1):162-168. doi:10.5935/1414-8145.20150022 
-17.  
-IBGE. Instituto Brasileiro de Geografia e Estatística. Estatísticas do Registro 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-Civil 2009. Published 2010. Accessed July 6, 2019. 
-http://www.ibge.gov.br/home/presidencia/noticias/imprensa/ppts/0000000205.pd
-f 
-18.  
-Andrade CB de, Santos AJ da R, Cruz F dos SL, et al. Vulnerabilidade social no 
-Estado de Sergipe. In: Costa MA, Margut BO, eds. Atlas Da Vulnerabilidade 
-Social Nos Municípios Brasileiros. IPEA; 2015. 
-http://repositorio.ipea.gov.br/bitstream/11058/8908/1/Vulnerabilidade 
-Sergipe.pdf 
-19.  
-DATASUS. Informações de Saúde: Estatísticas Vitais Mortalidade e Nascidos 
-Vivos. Brasil. Ministério da Saúde. Departamento de Informática do SUS. 
-Published 2020. Accessed July 25, 2016. 
-http://www2.datasus.gov.br/DATASUS/index.php?area=0205 
-20.  
-IBGE. Instituto Brasileiro de Geografia e Estatística: Cidades@. Instituto 
-Brasileiro de Geografia e Estatística. Published 2020. Accessed February 4, 2020. 
-http://cidades.ibge.gov.br/xtras/perfil.php?codmun=510790 
-21.  
-Druck S, Carvalho S, Câmara G, Monteiro A. Spatial Analysis and 
-Geoprocessing. Spatial Analysis of Geographic Data. EMBRAPA; 2004. 
-22.  
-Anselin L. Exploring spatial data with GeoDaTM: a workbook. Urbana. 
-2005;51:61801. 
-https://www.csiss.org/clearinghouse/GeoDa/geodaworkbook.pdf%5Cnpapers2://
-publication/uuid/E0873286-D4F0-4180-97A0-880162216293 
-23.  
-Szklo M, Javier-Nieto F. Epidemiology: Beyond the Basics. 3rd ed. Jones & 
-Bartlett Publishers; 2012. 
-24.  
-Schwartz S. The fallacy of the ecological fallacy: the potential misuse of a 
-concept and the consequences. Am J Public Health. 1994;84(5):819-824. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-doi:10.2105/AJPH.84.5.819 
-25.  
-Frias PG De, Pereira PMH, Andrade CLT De, Szwarcwald CL. Sistema de 
-Informações sobre Mortalidade: estudo de caso em municípios com precariedade 
-dos dados. Cad Saude Publica. 2008;24(10):2257-2266. doi:10.1590/S0102-
-311X2008001000007 
-26.  
-Beaglehole R, Bonita R. Basic Epidemiology.Pdf.; 2002. 
-27.  
-Soares-Filho AM, Souza M de FM de, Gazal-Carvalho C, et al. Análise da 
-mortalidade por homicídios no Brasil. Epidemiol e Serviços Saúde. Published 
-online 2007. doi:10.5123/s1679-49742007000100002 
-28.  
-Marques WTS, Santos SM dos, Santos M de S, Oliveira MGD de, Nery FS. 
-Distribuição espacial do feminicídio no estado de Sergipe. In: Congresso 
-Internacional de Enfermagem. UNIT; 2019. 
-https://eventos.set.edu.br/index.php/cie/article/view/11335 
-29.  
-Grana SJ. Sociostructural considerations of domestic femicide. J Fam Violence. 
-Published online 2001. doi:10.1023/A:1012229011161 
-30.  
-Meneghel SN, Portella AP. Feminicídios: conceitos, tipos e cenários. Cien Saude 
-Colet. 2017;22(9):3077-3086. doi:10.1590/1413-81232017229.11412017 
-31.  
-Leão LH da C, Vasconcellos LCF de. Cadeias produtivas e a vigilância em saúde, 
-trabalho e ambiente. Saúde e Soc. 2015;24(4):1232-1243. doi:10.1590/S0104-
-12902015136460 
-32.  
-Godoi H, de Mello ALSF, Caetano JC. [An oral health care network organized by 
-large municipalities in Santa Catarina State, Brazil]. Cad Saude Publica. 
-2014;30(2):318-332. doi:10.1590/0102-311X00084513 
-33.  
-Leites GT, Meneghel SN, Hirakata VN. Female homicide in Rio Grande do Sul, 
-Brazil. Rev Bras Epidemiol. 2014;17(3):642-653. doi:10.1590/1809-
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
-4503201400030006 
-34.  
-Faludi S. Backlash: O Contra-Ataque Na Guerra Não Declarada Contra as 
-Mulheres. Rocco; 2001. 
-35.  
-Leite FMC, Mascarello KC, Almeida APSC, et al. Análise da tendência da 
-mortalidade feminina por agressão no Brasil, estados e regiões. Cien Saude Colet. 
-2017;22(9):2971-2978. doi:10.1590/1413-81232017229.25702016 
-36.  
-Dahlberg LL, Krug EG. Violência: um problema global de saúde pública. Cien 
-Saude Colet. 2006;11(suppl):1163-1178. doi:10.1590/S1413-
-81232006000500007 
-37.  
-Gartner R, Baker K, Pampel FC. Gender Stratification and the Gender Gap in 
-Homicide Victimization. Soc Probl. Published online 1990. doi:10.2307/800584 
-38.  
-Schraiber LB, Gomes R, Couto MT. Homens e saúde na pauta da Saúde Coletiva. 
-Cien Saude Colet. 2005;10(1):7-17. doi:10.1590/S1413-81232005000100002 
- 
- 
-Recebido em 24/08/2020 
-Revisado em 07/12/2020 
-Aprovado 
-em 
-08/12/2020
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-Fig. 1. Femicide rates per 100 thousand female inhabitants, in Sergipe's municipalities, in the period 2013-2017, according to tercil. 
-Source: research results (2020). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
- 
-Fig 2. Moran's dispersion map for the rates of femicide per 100 thousand inhabitants, in Sergipe's municipalities, in the period 2013-2017. 
-Source: research results (2020). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-Fig. 3. Identification of the occurrence of significant clusters, based on the analysis of the local Moran index, for the rates of femicide per 
-100 thousand inhabitants, in Sergipe's municipalities, in the period. 
-Source: research results (2020). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Table 1. Correlation matrix among feminicide rates standardized by 100 thousand women in Sergipe's municipalities, in the period 2013-2017, 
-and the variables selected in the different blocks of analysis. 
-ZTXFEM 
-ZTXFEM 
-ZIDHM 
-ZGINI 
-ZRENDA 
-ZPOBRE 
-ZIVS 
-ZDES 
-ZMATRI 
-ZCASA 
-1 
-0,026 
-0,065 
--0,211 
--,522** 
-0,104 
-,588** 
-,246* 
--0,077 
-ZTXFEM 
-ZCAT 
-ZEVA 
-ZSRELI 
-ZURB 
-ZRUR 
-ZSUS 
-ZHIV 
-ZMMAT 
-ZMCC 
--0,077 
-0,045 
-0,037 
-0,15 
--0,156 
-0,089 
--0,115 
-0,009 
-0,168 
-** p<0,01 
-* p<0.05 
-ZTXFEM: feminicide rates standardized by 100 thousand women in Sergipe's municipalities; Z MHDI: average municipal human development index; 
-ZGINI: average Gini Index; ZINCOME: average household income per capita; ZPOOR: proportion of the population with less than ½ minimum wage; 
-ZVSI:  Social Vulnerability Index; ZUE: percentage unemployed; ZFHH: percentage of female heads of household (matriarchy); ZM: percentage of 
-civil and/or religious marriage; ZCAT: percentage of catholics; ZEVA: percentage of evangelicals; ZWRELI: percentage of the population without 
-religion; ZURB: percentage of the urban population; ZRUR: percentage of the rural population; ZSUS: percentage of population covered by the Unified 
-Health System; ZHIV: average of mortality rate from Human Immunodeficiency Virus; ZMMR: maternal mortality rate; ZMCC cervical cancer 
-mortality rate. 
-Source: research results (2020). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-Table 2. Spatial Multiple Regression Model of feminicide rates standardized by 100 thousand women in Sergipe's municipalities and 
-associated factors, between 2013-2017. 
-Variables 
-Coefficients 
-Standard 
-error 
-t 
-p-value 
-CONSTANT 
--1.1329 
-0.557672 
--2.03154 
-0.04594 
-MATRIARCHY 
-0.00914008 
-0.00359773 
-2.54051 
-0.01326 
-MHDI 
-4.35668 
-1.64747 
-2.64447 
-0.01006 
-GINI 
--3.18472 
-1.06176 
--2.99946 
-0.00373 
-Source: research results (2020). 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210016.supl.1
-Powered by TCPDF (www.tcpdf.org)

@@ -1,98 +1,10 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/1980-549720210009.supl.1
-Spatial and temporal distribution of cancer mortality in a
-Brazilian Legal Amazon State between 2000 and 2015
-Mario Ribeiro  Alves, Noemi Dreyer  Galvão, Rita Adriana Gomes de  Souza, Amanda Cristina de
-Souza  Andrade, Jânia Cristiane de Souza  Oliveira, Bárbara da Silva Nalin de  Souza, Elicléia
-Filgueira Santiago de  Azevedo
-https://doi.org/10.1590/1980-549720210009.supl.1
-Submitted on: 2020-12-14
-Posted on: 2020-12-14 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-1 
- 
-DOI: 10.1590/1980-549720210009.supl.1 
-e210009.supl.1 
- 
-Artigo original 
- 
-Spatial and temporal distribution of cancer mortality in a Brazilian Legal Amazon 
-State between 2000 and 2015 
-Distribuição espacial e temporal da mortalidade por câncer em um estado da Amazônia 
-Legal Brasileira entre 2000 e 2015 
-Distribution of cancer mortality between 2000 and 2015 
-Distribuição da mortalidade por câncer entre 2000 e 2015 
- 
-Mario Ribeiro Alves1* - malvesgeo@gmail.com - https://orcid.org/0000-0003-3665-
-6821 
-Noemi Dreyer Galvão1 - noemidreyer@hotmail.com - https://orcid.org/0000-0002-
-8337-0669 
-Rita Adriana Gomes de Souza1 – ritaepid@gmail.com – https://orcid.org/0000-0002-
-0831-9302 
-Amanda 
-Cristina 
-de 
-Souza 
-Andrade1 
-– 
-amandasouza_est@yahoo.com.br 
-- 
-https://orcid.org/0000-0002-3366-4423 
-Jânia Cristiane de Souza Oliveira1 – jania.ufmt@gmail.com - https://orcid.org/0000-
-0003-4035-2492 
-Bárbara da Silva Nalin de Souza1 – bnalinsouza@gmail.com - https://orcid.org/0000-
-0002-4266-7503 
-Elicléia 
-Filgueira 
-Santiago 
-de 
-Azevedo1 
-– 
-elicleia_fs@hotmail.com 
-- 
-https://orcid.org/0000-0002-7469-2252 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-2 
- 
- 
-*Correspondence: Fernando Corrêa da Costa Avenue, 2367, Boa Esperança, Cuiabá, 
-Mato Grosso. E-mail: malvesgeo@gmail.com 
-1Collective Health Institute, Mato Grosso Federal University. Cuiabá, Mato Grosso 
-State, Brazil. 
- 
-Acknowledgements 
 To the Institute of Collective Health of the Mato Grosso Federal University, for the 
 opportunity of work and learning. To funders, for the support needed for this work. 
-Competing interests 
-The authors declare that they have no competing interests. 
-Funding 
-This work was supported by the State Health Department of Mato Grosso and Public 
-Ministry of Labor (Twenty-third Region). Both were not involved in the study design or 
-in the writing of the manuscript. 
-Ethics approval and consent to participate 
-The study was approved by the Ethics and Research Committee of Júlio Muller 
-Universitary Hospital (CAAE: 98150718.1.40.8124), with ethical approval obtained for 
-mortality data from the referred hospital. 
-Author’s contributions 
-Noemi Dreyer Galvão and Bárbara da Silva Nalin de Souza designed the study; Mário 
-Ribeiro Alves and Amanda Cristina de Souza Andrade analyzed the data; Jânia 
-Cristiane de Souza Oliveira did literature search; Elicléia Filgueira Santiago de Azevedo 
-drafted the manuscript; Rita Adriana Gomes de Souza revised the manuscript. All 
-authors revised and approved the submitted manuscript. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-3 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-4 
- 
-ABSTRACT 
+
 Objective: To analyze the spatial distribution of the four-year rates of mortality from 
-cancer in Mato Grosso state, Brazil, in the period from 2000 to 2015. Methodology: 
+cancer in Mato Grosso state, Brazil, in the period from 2000 to 2015. 
+
+Methodology: 
 Ecological design study, in which mortality from neoplasia was analyzed, from 2000 to 
 2015, for the municipalities of the Mato Grosso state. Mortality rates due to cancer were 
 calculated by the ratio of the sum of deaths by cancer in each quadrennium, divided by 
@@ -100,59 +12,30 @@ the average of the population in the two central years of the period, multiplied
 10,000 inhabitants. Annual percentage change was calculated by the ratio of the linear 
 regression coefficient to the cancer mortality rates in the Mato Grosso state at the 
 beginning of the analyzed period (2000 to 2003). Thematic maps were constructed for 
-each quadrennium using intervals of equal classes. Results: Cancer caused 31,097 
+each quadrennium using intervals of equal classes. 
+
+Results: Cancer caused 31,097 
 deaths in the Mato Grosso state in the period, 13,058 in women and 18,039 in men, with 
 a male to female ratio of 1.38. The top five causes of cancer death in the period were 
 lung (12.2%), prostate (8.7%), stomach (7.7%), breast (6.0%) and liver (4.7%). There 
 was increase in the number of municipalities with rates greater than 23.67 deaths per 
-100,000 inhabitants in the period. Conclusion: There was an increase in cancer 
+100,000 inhabitants in the period. 
+
+Conclusion: There was an increase in cancer 
 mortality and an increase in the proportion of municipalities with higher mortality rates. 
 Higher density of cancer mortality occurred in the municipalities located in the West, 
 Center-South, Southeast and Center-North regions of the state. 
-Keywords: Neoplasms; Information systems; Mortality Rate; Spatial Analysis; 
-Temporal Distribution. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-5 
- 
-RESUMO 
-Objetivo: Analisar a distribuição espacial das taxas quadrimestrais de mortalidade por 
-câncer no estado de Mato Grosso, Brasil, no período de 2000 a 2015. Metodologia: 
-Estudo de desenho ecológico, no qual foi analisada a mortalidade por neoplasia, de 
-2000 a 2015, para os municípios do estado de Mato Grosso. As taxas de mortalidade por 
-câncer foram calculadas pela razão da soma das mortes por câncer em cada quadrênio, 
-dividida pela média da população nos dois anos centrais do período, multiplicada por 
-10.000 habitantes. Uma variação percentual anual foi calculada pela razão do 
-coeficiente de regressão linear para as taxas de mortalidade por câncer no estado de 
-Mato Grosso no início do período analisado (2000 a 2003). Mapas temáticos foram 
-construídos para cada quadriênio usando intervalos de classes iguais. Resultados: O 
-câncer causou 31.097 óbitos no estado de Mato Grosso no período, 13.058 em mulheres 
-e 18.039 em homens, com uma proporção de homens e mulheres de 1,38. As cinco 
-principais causas de morte por câncer no período foram pulmão (12,2%), próstata 
-(8,7%), estômago (7,7%), mama (6,0%) e fígado (4,7%). Houve um aumento no 
-número de municípios com taxas superiores a 23,67 óbitos por 100.000 habitantes no 
-período. Conclusão: Houve aumento da mortalidade por câncer e aumento na proporção 
-de municípios com maiores taxas de mortalidade. Maiores densidades de mortalidade 
-por câncer ocorreram nos municípios localizados nas regiões Oeste, Centro-Sul, Sudeste 
-e Centro-Norte do estado. 
- 
-Palavras-chave: Neoplasias; Sistemas de informação; Taxa de Mortalidade; Análise 
-espacial; Distribuição Temporal. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-6 
- 
-INTRODUCTION 
+
 Chronic noncommunicable diseases are responsible for most deaths worldwide. It is 
 estimated that cancer is at the top of the basic causes of death and is the most important 
 barrier to increasing life expectancy in the world1. 
+
 In 2016, about 41 million deaths were due to chronic noncommunicable diseases and of 
 these, 9 million (22%) had cancer as a basic cause1. Worldwide, projections for the year 
 2030 indicate the occurrence of 26 million new cases and 17 million deaths from the 
 disease2. These numbers express the importance of cancer as a leading cause of death 
 worldwide3. 
+
 In Brazil, between 1996 and 2010, 2,023,038 deaths from cancer occurred, with 53.9% 
 affecting men and 46.1% women4. In the year 2017, the five primary locations with the 
 highest death rates in the male population in the country were: bronchi and lung with 
@@ -163,15 +46,13 @@ year, the primary location that showed the highest rate was the breast with 13.2
 100,000, secondly that of the bronchi and lung with 9.20 per 100,000, followed by 
 cervical cancer with 5.14 per 100,000, in the fourth place the colon with 4.62 per 
 100,000 and in the fifth place the pancreas with 4.06 per 100,0005. 
+
 The estimate of new cases of cancer in Brazil for the period 2020 to 2022 is 625 
 thousand and for the state of Mato Grosso, were estimated crude rates of 252.04 per 
 100,000 for men and 217.31 per 100,000 for women6. 
+
 Spatial analysis of data allows the analysis of cases according to the distribution in a 
 specific geographical area. However, it is worth mentioning that the spaces are not 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-7 
- 
 homogeneous, because the spatial differentiation implies several other singularities, 
 such as culture, education, income, genetic and housing characteristics7. 
 In this way, the relevance of this study is unique, since the environment has 
@@ -180,30 +61,29 @@ scientific production on the theme of cancer, using geoprocessing as an analysis
 still little explored, which further highlights the importance of this study, aiming to 
 analyze the spatial distribution of the four-year rates of mortality from neoplasia, in the 
 period from 2000 to 2015 in the State of Mato Grosso, Brazil. 
- 
-METHODOLOGY 
+
 Ecological design study, in which mortality from neoplasia (by municipality of 
 residence) was analyzed, from 2000 to 2015, for the state of Mato Grosso. 
+
 The Brazilian Legal Amazon corresponds to the area of operation of the 
 Superintendence of Development of the Amazon - SUDAM, being formed by the states 
 of Rondônia, Acre, Amazonas, Roraima, Pará, Amapá, Tocantins, Mato Grosso and the 
 western part of the State of Maranhão. It has an area of approximately 5,015,067.749 
 km², corresponding to approximately 58.9% of the Brazilian territory8. 
+
 Data on the estimated population of the state were acquired from IBGE (Institute of 
 Geography and Statistics, in portuguese)8 for the year 2018 (3,441,998 inhabitants, with 
 a population density of 3.36 inhabitants per km2 and a territorial area of 903,206,997 
 km²). The Mato Grosso state is divided into 7 geographic regions and 141 
 municipalities (Figure 1). 
+
 Mortality data were obtained from the databases of the Mortality Information System 
 (SIM, in portuguese)9 provided by the Mato Grosso State Department of Health. Cancer 
 deaths were analyzed under codes C00 to C97, according to the 10th ICD-10 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-8 
- 
 (International Classification of Diseases). These deaths refer to individuals of all ages. 
 Population estimates by age group were collected from the website of the Department of 
 Informatics of the Unified Health System, the Brazilian public health system10. 
+
 Mortality rates due to cancer were calculated by the ratio of the sum of deaths by cancer 
 in each quadrennium, divided by the average of the population in the two central years 
 of the period, multiplied by 10,000 inhabitants. The rates were adjusted by the direct 
@@ -212,9 +92,11 @@ the distribution of the world population11. In order to reduce instability in th
 data on mortality by municipality, we sought to smooth out random fluctuations by 
 grouping rates in four-year periods: 2000 to 2003; 2004 to 2007; 2008 to 2011; 2012 to 
 2015. 
+
 An annual percentage change was calculated by the ratio of the linear regression 
 coefficient to the cancer mortality rates in the Mato Grosso state at the beginning of the 
 analyzed period (2000 to 2003). Adopt a 5% significance level. 
+
 To explore the spatial distribution of cancer mortality rates, thematic maps were 
 constructed for each quadrennium using intervals of equal classes (0.00; between 0.01 
 and 12.52; between 12.53 and 23.67; between 23.68 and 36.21; between 36.22 and 
@@ -226,15 +108,11 @@ quadrennium from 2000 to 2003 and were declared as missings. The cartographic ba
 were obtained from the Brazilian Institute of Geography and Statistics12. The Kernel 
 maps were built with an adaptive radius. Nine strata were used, divided into equal 
 intervals. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-9 
- 
+
 For data analysis, the software STATA version 12.0 and the ArcMap Program version 
 10.3 were used. The study was approved by the Ethics and Research Committee of Júlio 
 Muller Universitary Hospital. 
- 
-RESULTS 
+
 In the period from 2000 to 2015, cancer caused 31,097 deaths in the Mato Grosso state, 
 13,058 in women and 18,039 in men, with a male to female ratio of 1.38. The top five 
 causes of cancer death in the period were lung (12.2%), prostate (8.7%), stomach 
@@ -242,32 +120,31 @@ causes of cancer death in the period were lung (12.2%), prostate (8.7%), stomach
 quadrenniums from 2000 to 2003, 2004 to 2007, 2008 to 2011 and 2012 to 2015 was 
 30.0, 32.4, 32.8 and 33.2 per 100,000 inhabitants, respectively, indicating an average 
 annual increase of 8.3% (p = 0.030) (data not shown). 
+
 Figure 2 shows the proportion of municipalities according to the intervals of equal 
 classes defined in the maps. There is an increase in the proportion of municipalities with 
 mortality rates between 23.68 to 36.21, between 36.22 to 48.00 and above 48.00. For 
 the remaining intervals (0.00; between 0.01 and 12.52; between 12.53 to 23.67), there 
 was a downward trend. 
+
 Figure 3 shows the four-year trends in cancer mortality rates according to municipality. 
 There is increase in the number of municipalities with rates greater than 23.67 deaths 
 per 100,000 inhabitants in the period. The regions with the highest rate in the 
 quadrenniums were West, Center-South, Southeast, Center-North and North, while the 
 Northeast and Northwest regions had the lowest rates. 
+
 The kernel intensity map (Figure 4) confirms that the highest density of cancer mortality 
 occurred in the West, Center-South, Southeast and Center-North regions of the state and 
 the lowest in the Northeast and Northwest regions. This pattern tends to be maintained 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-10 
- 
 throughout the quadrenniums. For the North and Northwest regions there is a decrease 
 in mortality densities over the four-year period. The Northeast region had the lowest 
 densities in the entire period studied. 
- 
-DISCUSSION 
+
 There was an average annual increase of 8.3% in cancer mortality rates and an increase 
 in the proportion of municipalities with higher mortality rates. The municipalities 
 located in the West, Center-South, Southeast and Center-North regions of the state 
 presented higher density of cancer mortality. 
+
 The results of this study identified space and time patterns that point to an increase in 
 standardized rates of cancer mortality in the State of Mato Grosso from 2000 to 2015. 
 According to IBGE data on the age distribution of the population, at least 80% of the 
@@ -276,6 +153,7 @@ Grosso Oncology Care Action Plan, even though the state has a predominantly youn
 population, cancer has appeared as the second cause of death in mortality statistics 
 (excluding external causes). In addition, there was also an increase in proportional 
 cancer mortality, from 10.8% in 2001 to 14.3% in 201313. 
+
 The pattern shown in the state was different from the national pattern, where general 
 rates for the disease have been showing some stability4. A study that described the main 
 groups of causes of death from chronic non-communicable diseases between 1990 and 
@@ -283,14 +161,12 @@ groups of causes of death from chronic non-communicable diseases between 1990 an
 showed that, for Brazil, the standardized mortality rates for cancer went from 142.7 per 
 100,000 inhabitants (1990) to 133.5 per 100,000 inhabitants (2015), considered stable 
 for the analyzed period14. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-11 
- 
+
 The five main causes of death from cancer in the period for the state, considering the 
 anatomical location, were lung, prostate, stomach, breast and liver. With the exception 
 of liver cancer, which appears only in Mato Grosso, the others are also among the five 
 main types of cancer that kill the most in Brazil, although not in the same order15. 
+
 Estimates from Global Cancer Observatory show that, worldwide, lung cancer remains 
 the leading cause of cancer mortality, with 1.8 million deaths predicted in 2018, 
 representing about 1 in 5 cancer deaths. Prostate cancer is considered the fifth leading 
@@ -299,26 +175,26 @@ cause of cancer death in men, and breast cancer the first in women, accounting f
 worldwide, accounting for about 783,000 deaths, equivalent to 1 in 12 deaths from 
 cancer, while liver cancer is considered the fourth leading cause of cancer death 
 worldwide3. 
+
 The profile of deaths presented in the state has been associated with more urbanized, 
 industrialized regions with an aging population, in line with developed countries in the 
 West. On the other hand, the state continues to live with deaths due to types of cancer 
 associated with infections, such as stomach cancer, which have a high potential for 
 prevention and tend to be more prevalent in countries of low and medium 
 development16. 
+
 Cancer is a multifactorial disease, however, according to the WHO (World Health 
 Organization), some risk factors are related to most deaths from chronic 
 noncommunicable diseases, including cancer, having an important contribution to the 
 burden of diseases. Among these factors, smoking, excessive alcohol consumption, 
 inadequate diet and physical inactivity stand out17. 
+
 Data from the National Health Survey for Mato Grosso18, showed that only 37.0% of 
 the state's population aged 18 or over reported recommended consumption of fruits and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-12 
- 
 vegetables, while 52.9% were classified as insufficiently active (behind Rondônia state 
 only), 24.3% reported weekly alcohol consumption and 12.8% as current users of 
 tobacco products. 
+
 There was also a higher proportion of deaths for men. This can be explained by the fact 
 that the three main types of cancer were more present in this group. A study that aimed 
 to analyze the temporal trend of cancer mortality in Brazil in the period from 1996 to 
@@ -326,40 +202,43 @@ to analyze the temporal trend of cancer mortality in Brazil in the period from 1
 2030, showed that 53.9% of deaths affected men and 46.1% were female. In addition, 
 there was stability in female mortality and a significant increase in the trend for males 
 between 1996 and 20084. 
+
 Literature data have pointed out that men and women have different life expectancies 
 and habits, with greater female demand for health services and, consequently, with 
 women adopting greater preventive health care than men19. 
+
 Spatial analysis of cancer mortality, through the use of maps, is an important tool to 
 evaluate health risks, especially when this type of analysis considers environmental 
 aspects, as the visualization of information allows a better understanding of how 
 relationships occur, and can contribute to the identification of priority territories, as well 
 as a better understanding of the health-disease process and health planning actions20. 
+
 The use of geoprocessing also allows for a historical analysis of the demand for care in 
 health services, helping to optimize care in health units and producing important 
 changes in epidemiological and operational indicators21. 
+
 The use of this analysis allowed us to identify that the regions of the state that had the 
 highest mortality rates were the West, Center-South, Southeast, Center-North and North 
 regions. These regions showed differences that can be expressed through socioeconomic 
 indicators of the municipalities that integrate them, with also an inequality in installed 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-13 
- 
 capacity and in public and private investments, especially in those with less economic 
 dynamism22. Despite this diversity, what can be observed is that, in general, these 
 regions have less availability of primary care services, and some also have low health 
 care expenditures (West Region), low availability of specialized assistance 
 establishments (West and North Regions) and low outpatient care per inhabitant in 
 medium and high complexity (West, North and Center-North Regions)23,24. 
+
 Specifically with regard to primary health care services, they serve as a gateway to the 
 health care network. The low availability of these services may impair the identification, 
 in the initial phase, of the first lesions suggestive of cancer and, consequently, 
 determine the specialized services as the predominant places for the diagnosis of the 
 disease, since the confirmation of the lesions requires procedures and supplies available 
 only in medium and high complexity services25. 
+
 Another characteristic of the state is that, with the exception of some municipalities in 
 the Center-South region, agriculture and services are the economic base of practically 
 all regions of the same23. 
+
 Currently, Mato Grosso is the state that most produces soy, corn, cotton and cattle in 
 Brazil, having become, for several years, a strategic territory for the expansion of 
 agribusiness26, in whose model predominates large monoculture properties, intensive 
@@ -369,20 +248,19 @@ rates in cities close to BR-163 (a federal highway) (Figure 3), which can probab
 explained by the relationship between soy production (with transgenics and use of 
 pesticides, which have highly carcinogenic potentials) and the presence of the highway 
 to transport production to other countries28. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-14 
- 
+
 The state has some municipalities that concentrate a large part of the national 
 agricultural production, such as some municipalities located in the central and southeast 
 regions. Consequently, due to the chemical-dependent production method, in these 
 municipalities there are high rates of consumption of pesticides29. 
+
 The relationship between exposure to pesticides and cancer development has been 
 established in several studies30-33, being modulated by type of product used, time of 
 exposure and amount absorbed by the body34. It is important to highlight that the entire 
 population is susceptible to multiple exposures to pesticides, through the consumption 
 of contaminated water and food, and not only farmers and workers in the pesticide 
 production chain35. 
+
 A possible limitation of the study concerns the incorrect or incomplete filling of 
 information on death certificates in relation to the causes. There was no correction of 
 rates for deaths from ill-defined causes. However, deaths from these causes have 
@@ -391,268 +269,16 @@ capitals36,37. This has indicated an improvement in the quality of the informati
 recorded in the Mortality Information System, especially for the group of malignant 
 neoplasms, where the quality of information about the basic cause registered in the 
 system can be considered better than for other groups of causes38. 
+
 In 2015, the UN adopted a set of 17 goals as part of a sustainable development agenda. 
 One of the goals is related to the reduction of premature mortality due to 
 noncommunicable diseases through prevention and treatment. It has therefore become a 
 global priority to monitor trends in mortality due to these diseases, provided by quality 
 information systems, in order to verify whether national and global commitments are 
 being achieved39. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-15 
- 
+
 Thus, the description of cancer mortality can bring important contributions to 
 epidemiological studies based on the person-space-time triad. Studies of this magnitude 
 are necessary, especially in Mato Grosso, since studies on this topic are scarce, and 
 knowing this reality can potentially contribute to the identification of priority regions 
 for intervention aiming to reduce mortality rates. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-16 
- 
-REFERENCES 
-1. World Health Organization. Global Health Observatory. Geneva: World Health 
-Organization; 2018. who.int/gho/database/en/. 
-2. Thun MJ, DeLancey JO, Center MM, et al. The global burden of cancer: priorities for 
-prevention. Carcinogenesis. 2010; 31:100–110. https://doi.org/10.1093/carcin/bgp263 
-3. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer 
-statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 
-cancers 
-in 
-185 
-countries. 
-CA 
-Cancer 
-J 
-Clin. 
-2018 
-Nov;68(6):394-424. 
-https://doi.org/10.3322/caac.21492 
-4. Barbosa IR, Souza DLB, Bernal MM, Costa ICC. Cancer mortality in Brazil: 
-Temporal Trends and Predictions for the Year 2030. Medicine (Baltimore) 2015; 
-Volume 94, Number 16: e746. https://doi.org/10.1097/md.0000000000000746 
-5. 
-Instituto 
-Nacional 
-de 
-Câncer 
-(BR). 
-Atlas 
-da 
-Mortalidade. 
-http://mortalidade.inca.gov.br/Mortalidade/. Accessed 15 Feb 2020. 
-6. Instituto Nacional de Câncer José Alencar Gomes da Silva.  Estimativa 2020: 
-incidência de câncer no Brasil. Rio de Janeiro: INCA, 2019. 120 p. 
-7. Barcellos C, Bastos FI. Geoprocessamento, ambiente e saúde: uma união possível? 
-Cad 
-Saúde 
-Pública 
-1996; 
-12: 
-389-97. 
-http://dx.doi.org/10.1590/S0102-
-311X1996000300012 
-8. Instituto Brasileiro de Geografia e Estatística. IBGE. http://www.ibge.gov.br. 
-Accessed 10 Jul 2018. 
-9. Sistema de Informação sobre Mortalidade (SIM). Ministério da Saúde. 
-http://www2.datasus.gov.br/. Accessed 10 0Jul 2018.  
-10. 
-Estimativas 
-populacionais. 
-Ministério 
-da 
-Saúde. 
-http://datasus.saude.gov.br/populacao-residente/. Accessed 10 Jul 2018. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-17 
- 
-11. Doll R. Comparison between registries and age-standardized rates. In: Waterhouse 
-JA, Muir CS, Correa P, Powell J, editors. Cancer incidence in five continents. Lyon: 
-IARC.1976; 3: 453-9. 
-12. 
-Instituto 
-Brasileiro 
-de 
-Geografia 
-e 
-Estatística. 
-IBGE. 
-https://mapas.ibge.gov.br/bases-e-referencial/bases-cartograficas/malhas-digitais. 
-Accessed 10 Jul 2018. 
-13. Secretaria de Estado de Saúde (SES-MT). Governo de Mato Grosso. Plano de Ação 
-da Atenção Oncológica no Estado de Mato Grosso 2017 a 2019. Cuiabá: SES-MT, 
-2017. www.saude.mt.gov.br/arquivo/7317. Accessed 10 Jul 2018. 
- 
-14. Malta DC, França E, Abreu DMX, Perillo RD, Salmen MC, Teixeira RA, Passos V, 
-Souza MFM, Mooney M, Naghavi M. Mortality due to noncommunicable diseases in 
-Brazil, 1990 to 2015, according to estimates from the Global Burden of Disease study. 
-Sao 
-Paulo 
-Med 
-J. 
-2017;135(3):213-21. 
-http://dx.doi.org/10.1590/1516-
-3180.2016.0330050117 
-15. Ministério da Saúde (MS). Instituto Nacional de Câncer. Coordenação de Prevenção 
-e Vigilância. Divisão de Vigilância e Análise de Situação, 2019. 
-16. Balakrishnan M, George R, Sharma A, Graham DY. Changing trends in stomach 
-cancer throughout the world. Curr Gastroenterol Rep. 2017;19:36. doi: 10.1007/s11894-
-017-0575-8 
-17. World Health Organization (WHO). Global status report on noncommunicable 
-diseases 2010. Geneva: WHO, 2011. 
-18. Ministério da Saúde (MS). Pesquisa Nacional de Saúde 2013. Percepção do estado 
-de saúde, estilos de vida e doenças crônicas. Brasil, Grandes Regiões e Unidades da 
-Federação. Rio de Janeiro: MS, 2014. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-18 
- 
-19. Vieira KLD, Gomes VLO, Borba MR, Costa CFS. Atendimento da população 
-masculina em unidade básica saúde da família: motivos para a (não) procura. Esc. Anna 
-Nery, Rio 
-de 
-Janeiro, 
-v. 
-17, n. 
-1, p. 
-120-127, mar.  
-2013. 
-http://dx.doi.org/10.1590/S1414-81452013000100017 
-20. Carvalho MS, Souza-Santos R. Análise de dados espaciais em saúde pública: 
-métodos, problemas, perspectivas. Cad. Saúde Pública 2005; v. 21, n. 2, p. 361-378. 
-http://dx.doi.org/10.1590/S0102-311X2005000200003   
-21. Nardi SMT, Paschoal JAA, Pedro HSP, Paschoal VD, Sichieri EP. 
-Geoprocessamento em Saúde Pública: fundamentos e aplicações. Rev. Inst. Adolfo Lutz 
-2013; 72(3):185-91. 
-22. Secretaria de Estado de Saúde do Estado de Mato Grosso (SES-MT). Escola de 
-Saúde Pública do Estado de Mato Grosso. Plano Estadual de Educação Permanente do 
-Mato Grosso - PEEPS/MT. Cuiabá: SES-MT, 2019. 
-23. Scatena JHG, Oliveira LR, Galvão ND, das Neves MAB. Caracterização das regiões 
-de saúde de Mato Grosso. In: Regiões de Saúde: diversidade e processo de 
-regionalização em Mato Grosso. Organizadores: Scatena JHG, Kehrig RT, Spinelli 
-MAS. 1ª. Ed. São Paulo: Hucitec, 2014a. 
-24. Scatena JHG, Oliveira LR, Galvão ND, das Neves MAB. O uso de indicadores 
-compostos para classificação das regiões de saúde de Mato Grosso. In: Regiões de 
-Saúde: diversidade e processo de regionalização em Mato Grosso. Organizadores: 
-Scatena JHG, Kehrig RT, Spinelli MAS. 1ª. Ed. São Paulo: Hucitec, 2014b. 
-25. Aquino RCA, Lima MLLT, Silva VL, Alencar FL, Rodrigues M. Acesso e itinerário 
-terapêutico aos serviços de saúde nos casos de óbitos por câncer de boca. Rev. CEFAC. 
-2018; 20(5): 595-603. http://dx.doi.org/10.1590/1982-0216201820515017  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-19 
- 
-26. Instituto Brasileiro de Geografia e Estatística (IBGE). Produção Agrícola Municipal 
-2015. Brasília: IBGE, 2015. https://sidra.ibge.gov.br/pesquisa/pam/tabelas. Accessed 20 
-Jul 2019. 
-27. Albergoni L, Pelaez V. Da Revolução Verde à agrobiotecnologia: ruptura ou 
-continuidade 
-de 
-paradigmas? 
-Rev 
-de 
-Economia. 
-2007; 
-33(1): 
-31-5. 
-http://dx.doi.org/10.5380/re.v33i1.8546 
-28. Ministério da Infraestrutura. Departamento Nacional de Infraestrutura de 
-Transportes. http://www.dnit.gov.br/noticias/governo-federal-conclui-asfaltamento-da-
-br-163-pa. Accessed 20 Apr 2020. 
-29. Beserra L. Agrotóxicos, vulnerabilidade socioambientais e saúde: uma avaliação 
-participativa em municípios da bacia do rio Juruena, Mato Grosso. UFMT: 2017. 137 f.  
-30. Barry KH, Koutros S, Lubin JH, Coble JB, Barone-Adesi F, Beane Freeman LE, et 
-al. Methyl bromide exposure and cancer risk in the Agricultural Health Study. Cancer 
-Causes Control 2012; 23:807–818. https://doi.org/10.1007/s10552-012-9949-2 
-31. VoPham T, Brooks MM, Yuan JM, Talbott EO, Ruddell D, Hart JE, et al. Pesticide 
-exposure and hepatocellular carcinoma risk: a case–control study using a geographic 
-information system (GIS) to link SEER-Medicare and California pesticide data. Environ 
-Res 2015; 143:68–82. https://doi.org/10.1016/j.envres.2015.09.027 
-32. Koutros S, Beane Freeman LE, Lubin JH, Heltshe SL, Andreotti G, Barry KH, et al. 
-Risk of total and aggressive prostate cancer and pesticide use in the Agricultural Health 
-Study. Am J Epidemiol 2013; 177:59–74. https://doi.org/10.1093/aje/kws225 
-33. Parada H Jr, Wolff MS, Engel LS, White AJ, Eng SM, Cleveland RJ, et al. 
-Organochlorine insecticides DDT and chlordane in relation to survival following breast 
-cancer. Int J Cancer 2016; 138:565–575. https://doi.org/10.1002/ijc.29806 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-20 
- 
-34. Alavanja MCR, Hoppin JÁ, Kamel F. Health effects of chronic pesticide exposure: 
-cancer 
-and 
-neurotoxity. 
-Annu. 
-Rev. 
-Public 
-Health 
-2004; 
-25:157-197. 
-https://doi.org/10.1146/annurev.punlhealth.25.101802.123020  
-35. Dutra LS, Ferreira AP. Associação entre malformações congênitas e a utilização de 
-agrotóxicos em monoculturas no Paraná, Brasil. Saúde debate 41 (spe2) Jun 2017. 
-https://doi.org/10.1590/0103-11042017s220 
-36. Silva GA, Gamarra CJ, Girianelli VR, Valente JG. Tendência da mortalidade por 
-câncer nas capitais e interior do Brasil entre 1980 e 2006. Rev Saúde Pública 
-2011;45(6):1009-18. https://doi.org/10.1590/S0034-89102011005000076  
-37. Frias PG, Szwarcwald CL, Lira PIC. Avaliação dos sistemas de informações sobre 
-nascidos vivos e óbitos no Brasil na década de 2000. Cadernos de Saúde Pública 2014; 
-30(10), 2068-2280. https://doi.org/10.1590/0102-311X00196113  
-38. Mello Jorge MH, Gotlieb SLD, Laurenti R. O sistema de informações sobre 
-mortalidade: problemas e propostas para o seu enfrentamento I-mortes por causas 
-naturais. Rev Bras Epidemiol. 2002;5(2):197-211. https://doi.org/10.1590/S1415-
-790X2002000200007 
-39. United Nations (UN). Economic and Social Council. Nova Iorque: United Nations; 
-2019. https://undocs.org/E/2019/68. Accessed 28 Jan 2020. 
- 
-Recebido em 22/08/2020 
-Revisado em 01/12/2020 
-Aprovado em 03/12/20 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-21 
- 
- 
-Figure 1 - Location and regional division of Mato Grosso state, Brazil.  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-22 
- 
- 
- 
-Figure 2 - Proportions of cancer mortality rates in the municipalities of Mato Grosso 
-state (2000-2015). 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-23 
- 
- 
-Figure 3 - Cancer mortality rates in the municipalities of Mato Grosso state (2000-
-2015). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)
-24 
- 
- 
- 
-Figure 4 - Kernel intensity of cancer mortality densities (2000 to 2015). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210009.supl.1
-Powered by TCPDF (www.tcpdf.org)

@@ -1,51 +1,4 @@
-Status: Preprint has not been submitted for publication
-PERFORMANCES OF THE BRAZILIAN UNIVERSITIES IN THE “U-
-MULTIRANK” IN THE  PERIOD 2017-2020
-Antonio Prado
-https://doi.org/10.1590/SciELOPreprints.2351
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Submitted on (YYYY-MM-DD): 2021-05-18
-Posted on (YYYY-MM-DD): 2021-05-21
-Powered by TCPDF (www.tcpdf.org)
-1 
- 
-ARTIGO 
-PERFORMANCES OF THE BRAZILIAN UNIVERSITIES IN THE “U-MULTIRANK” IN THE 
-PERIOD 2017-2020 
-ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO 
-INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS-INPE 
-Av dos Astronautas 1758 – São José dos Campos-SP 
-12243-750-Brazil 
-E-mail: antonio.prado@inpe.br 
-ORCID: 0000-0002-7966-3231 
- 
- 
-ABSTRACT: The present paper makes an evaluation of the performances of the Brazilian Universities 
+The present paper makes an evaluation of the performances of the Brazilian Universities 
 in the “U-Multirank”, in the range from 2017 to 2020. The “U-Multirank” is a multidimensional 
 academic ranking created in Europe, presenting results since 2014. It gives a new multidimensional 
 approach that has the goal of showing the weakness and strengths of each University, using five 
@@ -55,61 +8,14 @@ of the post-graduate system in Brazil. Of course there will be adaptations, but 
 ranking is important to give an idea of its future use. Only 20 Brazilian Universities are listed in this 
 ranking in 2020. It is a small number, but it is significant in regional terms, since South America has 
 only 35 Universities listed. 
- 
-Keywords: Academic rankings, Higher Education Evaluation, Multidimensional rankings, U-Multirank, 
-Education. 
- 
- 
-DESEMPENHO DAS UNIVERSIDADES BRASILEIRAS NO “U-MULTIRANK” NO 
-PERÍODO 2017-2020 
- 
-RESUMO: O presente artigo faz uma avaliação do desempenho das universidades brasileiras no “U-
-Multirank”, no período de 2017 a 2020. O “U-Multirank” é um ranking acadêmico multidimensional 
-criado na Europa, apresentando resultados desde 2014. Ele dá uma nova abordagem multidimensional 
-que tem o objetivo de mostrar os pontos fortes e fracos de cada Universidade, usando cinco 
-dimensões. Dessa forma, ele não classifica as Instituições em um único ranking. Esse ranking é muito 
-importante no Brasil hoje, porque é o modelo que a Capes está usando para preparar a nova avaliação 
-da pós-graduação no Brasil. Claro que haverá adaptações, mas um estudo geral deste ranking é 
-importante para dar uma ideia de seu uso futuro. Apenas 20 Universidades brasileiras estão listadas 
-neste ranking em 2020. É um número pequeno, mas é significativo em termos regionais, uma vez que a 
-América do Sul possui apenas 35 Universidades listadas. 
- 
-Palavras-Chave: Rankings acadêmicos, Avaliação da Educação Superior, Rankings multidimensionais, 
-U-Multirank, Educação. 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-2 
-DESEMPEÑO DE LAS UNIVERSIDADES BRASILEÑAS EN EL “U-MULTIRANK” EN EL PERÍODO 2017-
-2020 
- 
-RESÚMEN: El presente trabajo hace una evaluación del desempeño de las Universidades brasileñas 
-en el “U-Multirank”, de 2017 a 2020. El “U-Multirank” es un ranking académico multidimensional 
-creado en Europa, presentando resultados desde 2014. Tiene un nuevo enfoque multidimensional que 
-tiene como objetivo mostrar las debilidades y fortalezas de cada Universidad, utilizando cinco 
-Dimensiones. De esta forma, no clasifica las Instituciones en uno solo ranking. Este modelo es muy 
-importante en Brasil hoy en día, porque es el modelo que está utilizando Capes para preparar la nueva 
-evaluación del sistema de posgrado en Brasil. Por supuesto que habrá adaptaciones, pero un estudio 
-general de este ranking es importante para dar una idea de su uso futuro. Solo 20 universidades 
-brasileñas figuran en este ranking en 2020. Es un número pequeño, pero es significativo en términos 
-regionales, ya que América del Sur tiene solo 35 universidades en la lista. 
- 
-Palabras clave: Rankings académicos, Evaluación de la educación superior, Rankings 
-multidimensionales, U-Multirank, Educación. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-3 
-INTRODUCTION 
- 
+
 Academic international rankings are receiving increasing attention from scholars, students 
 and general public in the last years (ECCLES, 2002; CALDERÓN; FRANÇA; GONÇALVES, 2017; 
 CALDERÓN; FRANÇA, 2018a, 2018b; DILL; SOO, 2005; GANGA-CONTRERAS ET AL., 2020). 
 They appeared first in the beginning of the 21st century. Their results are always reasons for debate, but 
 most of the Academic Institutions in the world tries to get better positions and they usually make 
 loudly divulgations when they get good results.  
+
 Those debates give more visibility to these rankings, increasing even more the interest from 
 all sides. There are many researches appearing in the literature in this field in the last two decades, 
 which can be considered now a field of research, like WEBSTER, 2001; VAN RAAN, 2005; LIU; 
@@ -119,11 +25,13 @@ BOUYSSOU; VINKE, 2010; AGUILLO ET. AL., 2010; THÉRY, 2010; SHIN; TOUTKOUSHIAN,
 SORZ et. al., 2015; STACK, 2016; HERTING, 2016; GONÇALVES; CALDERÓN, 2017; LLOYD; 
 ORDORIKA; RODRIGUEZ-GÓMES, 2011; DRESCH, 2018; ANDRIOLA; ARAÚJO, 2018; 
 ROTHEN; SANTANA, 2018.  
+
 The first ranking to appear was the “Academic Ranking of World Universities (ARWU) 
 (http://www.shanghairanking.com/ARWU2020.html), also known as “Shanghai Ranking”, which was 
 created in 2003 (CALDERÓN; FRANÇA, 2018b). It was made to support the Chinese government in 
 selecting Universities to send Chinese students abroad and to compare the level of the top Chinese 
 Universities with the best Universities in the world.  
+
 After that, other international rankings appeared. The “Webometrics Ranking of World 
 Universities” (http://www.webometrics.info/en; AGUILLO; ORTEGA; FERNANDEZ, 2008) 
 appeared in 2004, as well as the ranking “THE-QS”, which would be divided in “Times Higher 
@@ -138,6 +46,7 @@ as
 Rankings”, known as “QS” (https://www.topuniversities.com/university-rankings) in 2010. In the 
 sequence several other countries created regional or national rankings (SHIN; TOUTKOUSHIAN, 
 2011; RIGHETTI, 2015 and 2019). 
+
 In the scope of those discussions, a different concept appeared in Europe and a 
 multidimensional ranking was proposed (VAN VUGHT; ZIEGELE, 2012). From this first idea, the 
 "U-Multirank" was created (https://www.umultirank.org/). It measures the performance of Academic 
@@ -145,24 +54,22 @@ Institutions in five Dimensions: (1) Teaching and Learning, (2) Research, (3) Kn
 International Orientation and (5) Regional Engagement. Each Dimension is evaluated using several 
 Indicators. Based on that, the user can evaluate the Universities in each Indicator or grouped in 
 families, focusing in the most important aspects for each user.  
+
 The larger number of Indicators used by the “U-Multirank” gives a more complete view of 
 the Universities, but generates the problem of lack of data. This is particular true for non-Europeans 
 Universities, in particular for Latin American countries. A large portion of data comes from 
 questionnaires collected from the Universities, and many of them do not report regularly those 
 information. This point will also be analyzed here regarding the Brazilian Universities listed in this 
 ranking. 
+
 In South America, this ranking is still not much popular and there are only 35 Universities 
 listed in the version 2020: 3 from Argentina, 20 from Brazil, 6 from Chile, 3 from Colombia, 2 from 
 Ecuador and 1 from Peru. It gives a strong regional leadership to Brazil in this ranking, besides the 
 small number of Brazilian Universities listed in the ranking.  
- 
-THE “U-MULTIRANK” 
+
 The first idea of a multi-dimensional ranking appeared in 2008 (VAN VUGHT; 
 ZIEGELE, 2012). After that, the European Commission decided to develop a multidimensional 
 academic ranking system. After some preliminary tests, the first complete set of results appeared in 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-4 
 May 2014. This ranking was developed and implemented by the European Commission, using a 
 consortium organized by the Centre for Higher Education (CHE), in Germany; the Center for Higher 
 Education Policy Studies (CHEPS) at the University of Twente (Netherlands), the Centre for Science 
@@ -182,15 +89,18 @@ in
 subject 
 areas. 
 (https://www.umultirank.org/about/u-multirank/frequently-asked-questions/) 
- As already explained, “U-Multirank” does not make a general classification of Universities, 
+
+As already explained, “U-Multirank” does not make a general classification of Universities, 
 but classify them only in each specific performance Indicators, which are grouped in five Dimensions. 
 It shows the strengths and weaknesses of each University, in each Indicator and Dimension. The user 
 can elaborate its own ranking, choosing the Dimensions and Indicators that are more important for 
 their needs.  
+
 The “U-Multirank” classifies the Universities in five performance groups for each 
 Indicator: A (Very good), B (Good), C (Average), D (Below average) and E (Weak). This reduces 
 accuracy problems by grouping the grades, leaving these problems only to the border lines between the 
 performance groups. 
+
 The data used by “U-Multirank” to classify the academic Institutions come from 
 information provided by questionnaires submitted by the Institutions and open source databases, like 
 bibliometric and international patent databases, etc. It also uses surveys answered by approximately 
@@ -208,11 +118,13 @@ and
 https://www.umultirank.org/export 
 /sites/default/press-
 media/documents/UMR_Studifragebogen_2020_english.pdf.  
+
 As expected, the information coming from Universities and students are not always 
 available, since some of them do not reply the questionnaires. There is also the problem of low 
 reliability and accuracy in those data. This is a weak point for this ranking, but it is not so crucial, 
 because its goal is not to make a general classification, and the users can benefit from the information 
 available and just neglect the missing ones. 
+
 Figure 1 shows the classical graphical view used to express the results given by the “U-
 Multirank” (https://www.umultirank.org/). The five Dimensions are showed in the circle: Teaching 
 and Learning (green), Research (pink), Knowledge Transfer (blue), International Orientation (orange) 
@@ -237,67 +149,29 @@ Book-2020.pdf), including details about the calculations to obtain the grades. I
 Research publications (absolute numbers), Strategic research partnerships, Professional publications, 
 Open Access Publications, Patents awarded (absolute numbers), Graduate companies, Regional 
 Publications with Industrial Partners. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-5 
-  
- 
- 
- 
- 
- 
-Figure 1 - Classical graphical view used to express  the results of the “U-Multirank” 
-(https://www.umultirank.org/). 
- 
- 
-INDIVIDUAL PERFORMANCES OF THE BRAZILIAN UNIVERSITIES IN 2020 BASED 
-IN THE DIMENSIONS OF THE “U-MULTIRANK” 
+
 The next step of the current research is to make an individual study of the performances of 
 the 20 Brazilian Universities listed in the 2020 version of the ranking, using the graphical classical form 
 shown in Fig. 1. The goal is to have a first view regarding the Brazilian performances in 2020, to later 
 complete the study for the period 2017-2020. This is a sequence of the research made by Morandin et 
 al. (2020), which compared to results obtained in the “U-Multirank” with the results given by the 
 Ranking Universitário Folha, in 2020. Figure 2 shows the results of those Universities. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-6 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-7 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-8 
- 
- 
- 
- 
-Figure 2 - Results of the 20 Brazilian Universities listed in the 2020 version of the ranking in the 
-classical graphic form (https://www.umultirank.org/). 
- 
+
 The Brazilian Academic Institutions listed in the 2020 version of the ranking, as obtained 
 from the site “(https://www.umultirank.org/)”, in February 18, 2020 are: Federal University of Rio de 
 Janeiro, Federal University of São Paulo, State University of Maringá, Federal University of São Carlos, 
 Federal University of Rio Grande do Sul, Federal University of Santa Catarina, Federal University of 
 Minas Gerais, Fluminense Federal University, University of Campinas, Pontifical Catholic University of 
 Rio Grande do Sul, Federal University of Ceará, Federal University of Pernambuco, University of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-9 
 Brasília, Escola Superior de Propaganda e Marketing (ESPM), University of São Paulo, UNESP State 
 University of São Paulo, Federal University of Paraná, Federal University of Viçosa, Rio de Janeiro 
 State University and Federal University of Mato Grosso.  
+
 The first observation is the large amount of missing data, which are represented by the 
 slices of the circles that have only light colors, which represents the Indicators with missing data. This 
 is a frequent problem in the “U-Multirank” that must be addressed by the Brazilian Institutions that 
 have the goal of improving positions in this ranking. 
+
 Looking first at the Teaching and Learning Dimension (green), it is observed that it is the 
 Dimension with the largest number of missing data. Twelve Institutions do not have any data reported 
 in this Dimension, four Institutions have two, two Institutions have one, one Institution has three 
@@ -309,11 +183,13 @@ ranking, and it is already the second one in reporting data, which indicates a h
 Institution in this ranking. Looking at the performances of the Institutions that have a large number of 
 data, we can see that Federal University of Ceará has good grades, 1 C, 2 B and 1 A. ESPM also has a 
 good performance, with 1 C, 1 B and 1 A. 
+
 The next Dimension to be analyzed is Research, which has much more data available 
 compared to Teaching and Learning. The reason is that the Indicators Research publications (size-
 normalized), Citation rate, Top cited publications and Interdisciplinary publications are obtained from 
 open sources. Only the Indicators External research income, Art related output and Post-doc positions 
 are dependent on reports from the Institutions. 
+
 A look at Fig. 2 shows that University of Campinas, Pontifical Catholic University of Rio 
 Grande do Sul and Unesp have data available in six of the seven Indicators, a very good number. In 
 the lower limit side, we see that there is one Institution that has data available in only three Indicators 
@@ -321,6 +197,7 @@ the lower limit side, we see that there is one Institution that has data availab
 Regarding the grades, Unesp (3 A, 1 B, 2 D) and University of Campinas (3 A, 1 B, 1 C, 1D) have the 
 best performances in this Dimension. State University of Maringá, Federal University of São Carlos, 
 Federal University of Pernambuco and University of São Paulo are the next ones, with 2 A each. 
+
 Considering Knowledge Transfer (blue), all the Institutions have at least three Indicators 
 with data available out of the seven Indicators. University of Campinas is the only one to have data in 
 all the seven Indicators. In this Dimension we have four Indicators coming from open sources: Co-
@@ -328,6 +205,7 @@ publications with industrial partners, Patents awarded (size-normalized), Indust
 Publications cited in patents. The Indicators Income from continuous professional development, 
 Income from private sources and Spin-offs depend on reports from the Institutions. ESPM is the only 
 one with 3 A, followed by five others with 2 A. 
+
 International Orientation (orange) is the fourth Dimension we will look in some detail. It 
 has six Indicators. Only International joint publications comes from open sources. The other five are 
 obtained from the Institution. They are: Foreign language bachelor programmes, Foreign language 
@@ -339,26 +217,20 @@ they are making efforts to report data to get better positions in this ranking. 
 University of São Paulo, State University of Campinas and State University of Maringá. There is only 
 one A, given to Federal University of Ceará. The next best grades are B, received by University of São 
 Paulo and University of Campinas, one for each of them. 
+
 Focusing now in the Dimension Regional Engagement (purple), we see that it has five 
 Indicators. Only Regional joint publications is obtained from open sources. The others comes from the 
 data given by the Institutions. They are: Bachelor graduates working in the region, Student internships 
 in the region, Income from regional sources and Master graduates working in the region. There is also 
 a large amount of missing data in this Dimension, with sixteen of the twenty Institutions having only 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-10 
 data for the Indicator obtained from open sources (Regional joint publications). It is a result of poor 
 data report. ESPM has the best results, both in terms of data available (four Indicators with data) and 
 performance (3 A and 1 B). The second one is Federal University of Rio Grande do Sul, with 2 A. 
- 
- 
-MEASURING THE AVAILABILITY OF DATA FOR BRAZILIAN INSTITUTIONS IN 
-THE RANGE 2017-2020 
- 
- 
+
 Next, we take a more detailed look to the problem of missing data for Brazilian 
 Institutions in the whole range of time studied (2017-2020). This point is very important, because 
 missing data is one of the main reasons of lower positions in this ranking.  
+
 Figure 3 shows the amount of data available (in percentage) of all the 35 Indicators that 
 were used in all the four years studied. They are: 1 - Bachelor graduation rate, 2 - Masters graduation 
 rate, 3 - Graduating on time bachelors, 4 -  Graduating on time masters, 5 - Citation rate, 6 - Research 
@@ -378,6 +250,7 @@ Publications” and “Regional Publications with Industrial Partners” used in
 in the other years studied, so they are not included in the present research. There is one line 
 representing every year from 2017 to 2020. 2017 is represented by the blue line; 2018 by the red line; 
 2019 by the green line and 2020 by the purple line.  
+
 It is clear that the lines are very similar, with small improvements in some indicators in the 
 years 2019 and 2020, in particular in the first two Indicators (1 - Bachelor graduation rate and 2 - 
 Masters graduation rate) and in the Indicators 24 to 27 (24 - Foreign language bachelor programmes, 
@@ -386,59 +259,13 @@ means that the availability of data is increasing, but it is still far from idea
 of the 35 possible (34.29 %), have more the 90% of data available in at least one of the years. When 
 studying the performances of the Brazilian Institution, we will concentrate on those 12 Indicators, to 
 have an idea of the performances of those Institutions when the information is reported. 
-  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-11 
- 
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-0
-5
-10
-15
-20
-25
-30
-35
-Available Data
-Indicator
- 
-Figure 3 - Percentage of data available for all the Indicators used in the range 2017-2020: 2017 (blue), 
-2018 (red),  2019 (green) and 2020 (purple). 
- 
+
 Next, Fig 4 shows the evolution of the total data available for Brazilian Institutions in the 
 years 2017-2020. It shows that we have reached a value of 44.71% in the years 2019 and 2020, 
 compared to a minimum of 38.48% in 2018. It means stabilization in this number in the last two years, 
 with some improvements compared to previous years, but this value is still not good enough to give 
 good positions for our Universities. 
-  
- 
-38
-39
-40
-41
-42
-43
-44
-45
-2017
-2018
-2019
-2020
-Available Data (%)
-Year
-Figure 4 Evolution of the data available for Brazilian Institutions in the years 2017-2020. 
- 
+
 To have a better idea of the overall problem of missing data, we observed that, for all 1788 
 academic Institutions listed in the 2020 version of the ranking, we have 39.84% missing data, 5.70% 
 data that were considered “not applicable” and 54.46% of available data. It means that the Brazilian 
@@ -446,25 +273,20 @@ Institutions are about 10% below the world average, in terms of available data.
 Another comparison that can be made is with European countries, since “U-Multiranking” 
 was created in Europe. We can observe that, for the 79 Spanish Educational Institutions evaluated by 
 the “U-Multirank” in the 2020 edition, 86.15% of the data is available. Spain is a good choice for 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-12 
 comparison, because it has a large number of Institutions listed in the ranking in 2020. Therefore, 
 Brazilian Institutions are about 40% below Spanish Institutions. 
+
 A more general comparison can be made with a larger number of European Universities. 
 Considering the top 300 best performers in Europe in 2020, in terms of average of the Dimensions, we 
 can see that they have 85.72% of data available, 10.20% of missing data and 4.08% data that were 
 considered as “not applicable”. This is of course some kind of upper limit, since it has the best 
 performers in Europe, where this ranking was created. So, Brazilian Institutions are about 40% below 
 the best 300 European Universities. 
+
 Therefore, looking at those numbers, we can see that we have a long way to go to reach 
 good values of data available. The good side is that we see that the Brazilian Universities can increase 
 their positions in this ranking just by reporting data more frequently and accurately. 
- 
- 
-INDIVIDUAL PERFORMANCES OF THE BRAZILIAN UNIVERSITIES BASED IN 
-THE INDICATORS WITH MORE THAN 90% OF DATA REPORTED 
- 
+
 Next, we made a study of the performances of the Brazilian Universities that are listed in 
 the four years analyzed in the present research (2017-2020), using only the Indicators with more than 
 90% of data available. Those indicators are: Citation rate, Research publications (absolute numbers), 
@@ -472,391 +294,20 @@ Research publications (size-normalized), Top-cited publications, Interdisciplina
 publications with industrial partners, Patents awarded (absolute numbers), Patents awarded (size-
 normalized), Spinoffs, Publications cited in patents, International joint publications and Regional joint 
 publications. 
+
 The first problem that appears is how to make a general classification of academic 
 Institutions using the “U-Multirank”, which was not created for that. Even if it is not its main goal, the 
 “U-Multiranking” prepares general classifications when asked. As an example, when we asked for a 
 general classification of the Brazilian Universities in the 2020 version using only the Indicators that 
 have more than 90% of data reported, it gives the list showed in Table 1. 
- 
- 
-Table 1 - General classification of the Brazilian Universities in 2020, as given by “U-Multirank”, using 
-only Indicators with more than 90% of data available. 
- 
- 
-Citatio
-n rate 
-Resear
-ch 
-public
-ations 
-(absol
-ute 
-numb
-ers) 
-Resear
-ch 
-public
-ations 
-(size-
-norma
-lized) 
-Top 
-cited 
-public
-ations 
-Interd
-iscipli
-nary 
-public
-ations 
-Co-
-public
-ations 
-with 
-indust
-rial 
-partne
-rs 
-Patent
-s 
-award
-ed 
-(absol
-ute 
-numb
-ers) 
-Patent
-s 
-award
-ed 
-(size-
-norma
-lized) 
-Spin-
-offs 
-Public
-ations 
-cited 
-in 
-patent
-s 
-Intern
-ational 
-joint 
-public
-ations 
-Regio
-nal 
-joint 
-public
-ations 
-Federal 
-University of 
-Rio de Janeiro 
-C 
-B 
-A 
-D 
-B 
-B 
-D 
-A 
-- 
-D 
-C 
-A 
-Federal 
-University of 
-São Carlos 
-D 
-B 
-A 
-D 
-A 
-D 
-D 
-A 
-- 
-D 
-D 
-B 
-University of 
-São Paulo 
-C 
-A 
-A 
-D 
-B 
-D 
-D 
-D 
-A 
-D 
-C 
-C 
-Federal 
-University of 
-São Paulo 
-D 
-B 
-A 
-D 
-C 
-D 
-D 
-A 
-- 
-D 
-C 
-A 
-UNESP State 
-University of 
-São Paulo 
-D 
-A 
-A 
-D 
-B 
-D 
-D 
-D 
-A 
-D 
-D 
-C 
-State University 
-of Maringá 
-D 
-B 
-A 
-D 
-A 
-D 
-E 
-E 
-A 
-D 
-D 
-D 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-13 
-Federal 
-University of 
-Rio Grande do 
-Sul 
-D 
-B 
-A 
-D 
-B 
-D 
-C 
-A 
-- 
-D 
-C 
-C 
-Federal 
-University of 
-Santa Catarina 
-C 
-B 
-A 
-D 
-B 
-D 
-C 
-A 
-- 
-D 
-C 
-D 
-Federal 
-University of 
-Minas Gerais 
-D 
-B 
-A 
-D 
-B 
-D 
-C 
-A 
-- 
-D 
-D 
-C 
-Federal 
-University of 
-Pernambuco 
-D 
-B 
-A 
-D 
-A 
-D 
-D 
-C 
-- 
-D 
-D 
-B 
-Fluminense 
-Federal 
-University 
-D 
-B 
-A 
-D 
-B 
-D 
-E 
-E 
-- 
-D 
-D 
-A 
-State University 
-of Campinas 
-C 
-A 
-A 
-D 
-B 
-D 
-D 
-D 
-D 
-D 
-C 
-D 
-Pontifical 
-Catholic 
-University of 
-Rio Grande do 
-Sul 
-C 
-C 
-D 
-D 
-C 
-B 
-E 
-E 
-- 
-B 
-C 
-A 
-University of 
-Brasília 
-D 
-B 
-A 
-D 
-C 
-D 
-E 
-E 
-- 
-D 
-C 
-B 
-Federal 
-University of 
-Ceará 
-D 
-B 
-C 
-D 
-A 
-D 
-E 
-E 
-- 
-D 
-D 
-B 
-Federal 
-University of 
-Paraná 
-D 
-B 
-A 
-D 
-B 
-D 
-E 
-E 
-- 
-D 
-D 
-C 
-Federal 
-University of 
-Viçosa 
-D 
-B 
-A 
-D 
-B 
-C 
-E 
-E 
-- 
-D 
-D 
-D 
-Rio de Janeiro 
-State University 
-D 
-B 
-- 
-D 
-B 
-D 
-E 
-E 
-- 
-D 
-C 
-A 
-Federal 
-University of 
-Mato Grosso 
-D 
-B 
-D 
-D 
-A 
-D 
-E 
-E 
-- 
-D 
-D 
-D 
-ESPM 
-x 
-D 
-D 
-x 
-x 
-x 
-E 
-E 
-A 
-x 
-x 
-x 
- 
- 
+
 To generate this classification, “U-Multirank” makes a criterion similar to an “Olympic 
 Medals Table”. The best performers are the Universities that obtained the highest number of grades A. 
 Scores B and below are considered only for tiebreakers. Then, the first one is Federal University of Rio 
 de Janeiro, because it has 3 A, 3 B, 2 C and 3 D, against 3 A, 2 B and 6 D from Federal University of 
 São Carlos, which takes the second place in this form of making a general classification. Other 
 positions use the same rule.  
+
 This is a questionable form to make a general classification, because it does not look at the 
 whole performances in all Indicators. Besides that, there is also the problem of giving different weights 
 for each Dimension, because Dimensions with more Indicators will dominate the global evaluation. A 
@@ -867,14 +318,13 @@ assuming a correspondence like A = 5, B = 4, C = 3, D = 2 and E = 1, University 
 have 35 points in total, while University of São Paulo would have 38 points, a better general 
 performances. Therefore, the order of positions in the ranking would be inverted and University of São 
 Paulo would be in the second place. Of course there is potential for much more problems of this type. 
+
 There are many options to solve this problem. In the present paper we use a different 
 form to classify the Universities as a whole. We make first the averages of Indicators inside each 
 Dimension, and then we calculate a global average using the values coming from each Dimension. It 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-14 
 gives equal weight for each Dimension, independent of the number of Indicators, and do not give 
 almost the same importance to grades B or E, as done by the “U-Multirank”.  
+
 We will now study the performances of each individual Brazilian Institution in every year. 
 To measure the general performance of each Institution, we will use the average of the Dimensions as 
 a parameter to classify the Universities, instead of the standard “Olympic Medals Table” used by the 
@@ -882,6 +332,7 @@ a parameter to classify the Universities, instead of the standard “Olympic Med
 Brazilian University for every year in the range 2017-2020. It is showed the average of all the 
 Indicators, the average of the Indicators of each Dimension and the average of the Dimensions, using 
 all the data available. 
+
 In the year 2017, showed in Table 2, there is a clear advantage of São Paulo State 
 University (UNESP), with an average of 2.81 points, against 1.56 of Federal University of Mato 
 Grosso, the second place. After that all the Universities are below the mark of 1.0 point and they are 
@@ -893,170 +344,12 @@ reported data; and “Regional Engagement”, where Unesp reached a very high sc
 needs to be better studied, but it is important to remember that Unesp increased very much the 
 number of campus in the last decades by absorbing smaller private academic Institutions in many cities 
 in São Paulo state. 
- 
-Table 2 - Performances of Brazilian Universities in 2017 
-University 
-Average of 
-Indicators  
-Teaching 
-and 
-Learning 
-Research 
-Knowledge 
- Transfer 
-International 
-Orientation 
-Regional 
-Engagement 
-Average of 
-Dimensions 
-São Paulo State 
-University 
-2.74 
-3.25 
-3.10 
-1.89 
-1.83 
-4.00 
-2.81 
-Federal University 
-of Mato Grosso 
-1.62 
-2.00 
-2.70 
-0.75 
-1.17 
-1.17 
-1.56 
-Federal University 
-of Rio de Janeiro 
-1.14 
-0.00 
-1.70 
-1.67 
-0.50 
-0.83 
-0.94 
-Federal University 
-of São Paulo 
-1.11 
-0.00 
-1.60 
-1.78 
-0.33 
-0.83 
-0.91 
-University of São 
-Paulo 
-1.09 
-0.00 
-1.80 
-1.44 
-0.50 
-0.67 
-0.88 
-State University of 
-Campinas 
-1.06 
-0.00 
-1.80 
-1.67 
-0.33 
-0.33 
-0.83 
-Federal University 
-of Minas Gerais 
-1.03 
-0.00 
-1.60 
-1.67 
-0.33 
-0.50 
-0.82 
-Federal University 
-of Santa Catarina 
-1.03 
-0.00 
-1.70 
-1.67 
-0.33 
-0.33 
-0.81 
-Federal University 
-of Rio Grande do 
-Sul 
-1.00 
-0.00 
-1.60 
-1.56 
-0.33 
-0.50 
-0.80 
-Federal University 
-of São Carlos - 
-UFSCAR 
-0.91 
-0.00 
-1.60 
-1.11 
-0.33 
-0.67 
-0.74 
-Federal University 
-of  Pernambuco 
-0.89 
-0.00 
-1.60 
-1.00 
-0.33 
-0.67 
-0.72 
-University of 
-Brasília - UNB 
-0.86 
-0.00 
-1.40 
-1.00 
-0.50 
-0.67 
-0.71 
-Fluminense 
-Federal University  
-0.82 
-0.00 
-1.40 
-0.88 
-0.33 
-0.83 
-0.69 
-Federal University 
-of Ceará - UFC 
-0.79 
-0.00 
-1.50 
-0.75 
-0.33 
-0.67 
-0.65 
-Federal University 
-of Paraná 
-0.76 
-0.00 
-1.40 
-0.88 
-0.33 
-0.50 
-0.62 
- 
- 
+
 In the year 2018, showed in Table 3, there is again a clear advantage of São Paulo State 
 University (UNESP), although its score has decreased from 2.81 points in 2017 to 2.49 points in 2018. 
 It still has a good advantage over the second place, again Federal University of Mato Grosso, which has 
 an average of Dimensions of 1.57 points, just 0.01 ahead of its result in 2017. Once again, after the two 
 first places, all the Universities are below the mark of 1.0 point and they are very close to each other, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-15 
 with only 0.29 points of difference between the third and the last position. Unesp leads again in all 
 Dimensions, with emphasis in the same two Dimensions: “Teaching and Learning”, again with 3.25 
 points in a Dimension where only Unesp and Federal University of Mato Grosso (2.00 points) have 
@@ -1064,183 +357,7 @@ reported data, as happened in 2017; and “Regional Engagement”, where Unesp h
 from 4.00 in 2017 to 2.50 in 2018, while Federal University of Mato Grosso increased from 1.17 to 
 1.33. This is the main factor of the reduction in the difference between the top two Brazilian 
 Universities. 
- 
- 
-Table 3 - Performances of Brazilian Universities in 2018 
-University 
-Average of 
-Indicators  
-Teaching 
-and 
-Learning 
-Research 
-Knowledge 
- Transfer 
-International 
-Orientation 
-Regional 
-Engagement 
-Average of 
-Dimensions 
-São Paulo 
-State 
-University 
-2.46 
-3.25 
-3.00 
-1.89 
-1.83 
-2.50 
-2.49 
-Federal 
-University of 
-Mato Grosso 
-1.62 
-2.00 
-2.60 
-0.75 
-1.17 
-1.33 
-1.57 
-State 
-University of 
-Campinas 
-1.11 
-0.00 
-1.80 
-1.67 
-0.50 
-0.50 
-0.89 
-Federal 
-University of 
-São Paulo 
-1.09 
-0.00 
-1.60 
-1.67 
-0.33 
-0.83 
-0.89 
-Federal 
-University of 
-Rio Grande 
-do Sul 
-1.09 
-0.00 
-1.70 
-1.56 
-0.33 
-0.83 
-0.88 
-Federal 
-University of 
-Minas Gerais 
-1.06 
-0.00 
-1.60 
-1.44 
-0.50 
-0.83 
-0.88 
-Federal 
-University of 
-Santa 
-Catarina 
-1.09 
-0.00 
-1.70 
-1.67 
-0.50 
-0.50 
-0.87 
-University of 
-São Paulo 
-1.06 
-0.00 
-1.90 
-1.22 
-0.50 
-0.67 
-0.86 
-Federal 
-University of 
-São Carlos - 
-UFSCAR 
-0.94 
-0.00 
-1.70 
-1.11 
-0.33 
-0.67 
-0.76 
-Federal 
-University of  
-Pernambuco 
-0.91 
-0.00 
-1.60 
-1.00 
-0.33 
-0.83 
-0.75 
-Federal 
-University of 
-Rio de 
-Janeiro 
-0.89 
-0.00 
-1.30 
-1.56 
-0.50 
-0.17 
-0.70 
-Federal 
-University of 
-Ceará - UFC 
-0.82 
-0.00 
-1.50 
-0.75 
-0.33 
-0.83 
-0.68 
-University of 
-Brasília - 
-UNB 
-0.82 
-0.00 
-1.50 
-0.75 
-0.50 
-0.67 
-0.68 
-Federal 
-University of 
-Paraná 
-0.79 
-0.00 
-1.50 
-0.75 
-0.33 
-0.67 
-0.65 
-Fluminense 
-Federal 
-University 
-0.74 
-0.00 
-1.40 
-0.75 
-0.33 
-0.50 
-0.60 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-16 
- 
- 
- 
+
 In the year 2019, showed in Table 4, we notice an increase in the data reported, in 
 particular in the “Teaching and Learning” Dimension. We have now five Institutions with data 
 available in this Dimension, not only two. All those five Universities have average grades above 1.00 
@@ -1251,213 +368,21 @@ ahead of the third place, Federal University of Ceará. University of São Paulo
 1.85 points. Federal University of Mato Grosso decreased its position to fifth place, now with 1.27 
 points, 0.30 points below its results in 2018. Federal University of São Paulo, with 1.04 points, 
 completes the list of Brazilian Universities above 1.00 points, in sixth place. 
+
 Unesp no longer leads in all Dimensions. It leads alone only in “Regional Engagement” 
 and shares the first place with State University of Campinas in “Teaching and Learning”. Besides this 
 shared first place with Unesp, State University of Campinas also leads in “Research” and “Knowledge 
 Transfer”. “International Orientation” is leaded by Federal University of Ceará. 
+
 So, the more emphasis the Brazilian Universities are given in reporting data, the more 
 diverse are the results among them, and there is no more a concentration of first places in the different 
 Dimensions in only one University. 
-  
-Table 4 - Performances of Brazilian Universities in 2019 
- 
-University 
-Average of 
-Indicators  
-Teaching 
-and 
-Learning 
-Research 
-Knowledge 
- Transfer 
-International 
-Orientation 
-Regional 
-Engagement 
-Average of 
-Dimensions 
-UNESP - São 
-Paulo State 
-University 
-2.34 
-3.50 
-2.60 
-2.00 
-1.83 
-2.17 
-2.42 
-State 
-University of 
-Campinas 
-2.26 
-2.00 
-2.80 
-3.44 
-1.67 
-0.33 
-2.05 
-Federal 
-University of 
-Ceará - UFC 
-1.88 
-3.50 
-1.80 
-1.38 
-2.00 
-1.50 
-2.04 
-University of 
-São Paulo 
-1.97 
-2.00 
-2.70 
-2.22 
-1.83 
-0.50 
-1.85 
-Federal 
-University of 
-Mato Grosso 
-1.35 
-1.50 
-2.20 
-1.00 
-1.33 
-0.33 
-1.27 
-Federal 
-University of 
-São Paulo 
-1.29 
-0.00 
-1.70 
-2.33 
-0.33 
-0.83 
-1.04 
-Federal 
-University of 
-Rio Grande 
-do Sul 
-1.11 
-0.00 
-1.40 
-2.11 
-0.50 
-0.50 
-0.90 
-Federal 
-University of 
-Santa 
-Catarina 
-1.11 
-0.00 
-1.60 
-2.00 
-0.50 
-0.33 
-0.89 
-Federal 
-University of 
-Minas Gerais 
-1.09 
-0.00 
-1.50 
-2.00 
-0.33 
-0.50 
-0.87 
-Federal 
-University of 
-São Carlos - 
-UFSCAR 
-1.00 
-0.00 
-1.40 
-1.67 
-0.33 
-0.67 
-0.81 
-Federal 
-0.97 
-0.00 
-1.50 
-1.33 
-0.50 
-0.67 
-0.80 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-17 
-University of  
-Pernambuco 
-Fluminense 
-Federal 
-University 
-0.94 
-0.00 
-1.70 
-1.00 
-0.33 
-0.83 
-0.77 
-Rio de 
-Janeiro State 
-University 
-0.88 
-0.00 
-1.60 
-0.75 
-0.50 
-0.83 
-0.74 
-University of 
-Brasília - 
-UNB 
-0.85 
-0.00 
-1.30 
-1.13 
-0.50 
-0.67 
-0.72 
-Federal 
-University of 
-Rio de 
-Janeiro 
-0.89 
-0.00 
-1.20 
-1.67 
-0.50 
-0.17 
-0.71 
-Federal 
-University of 
-Paraná 
-0.82 
-0.00 
-1.30 
-1.25 
-0.33 
-0.50 
-0.68 
-Federal 
-University of 
-Viçosa 
-0.76 
-0.00 
-1.20 
-1.25 
-0.33 
-0.33 
-0.62 
- 
- 
+
 In the year 2020, showed in Table 5, we notice the continuation of the increase in the data 
 reported, in particular in the “Teaching and Learning” Dimension, which have now eight Institutions 
 with data available. It increased also the number of Brazilian Universities having average grades above 
 1.00 points, which now reaches the number eight. 
+
 It is also observed the appearance of three Institutions that were not listed in the previous 
 years: ESPM (Escola Superior de Propaganda e Marketing), Pontifical Catholic University of Rio 
 Grande do Sul and State University of Maringá. All of them are well positioned in the ranking, with 
@@ -1466,6 +391,7 @@ University of Maringá the seventh position. It is a result of large efforts of 
 reporting data to “U-Multirank”. ESPM is not an University, but a much smaller Academic Institution, 
 which means that deeper studies needs to be done to understating the effects of the size of the 
 Institution in the position it takes in the ranking. 
+
 Just after ESPM, that has 2.82 points as an average for the Dimensions; the second place 
 again belongs to State University of Campinas, with 2.05 points, the same score received in 2019. It is 
 now the leader among the largest Brazilian Universities. The third place belongs again to Federal 
@@ -1474,370 +400,46 @@ points, we have University of São Paulo in fourth place, with an average score 
 Paulo State University dropped to fifth place, due to the increase of the grades of the other Institutions 
 and its own losses, reaching now an average grade of 1.76, a large drop of 0.66 points compared to 
 2019. 
+
 Completing the group of Institutions with averages above 1.00 points, we have Pontifical 
 Catholic University of Rio Grande do Sul, with 1.75 points; State University of Maringá, with 1.73 
 points and Federal University of Rio de Janeiro, with 1.03 points. 
+
 The new entrant ESPM leads the Dimensions Knowledge Transfer and Regional 
 Engagement, while University of Campinas leads again in Research and shares the leadership with 
 University of São Paulo in International Orientation. Teaching and Learning is now leaded by Federal 
 University of Ceará. 
-  
-Table 5 - Performances of Brazilian Universities in 2020 
-University 
-Average of 
-Indicators  
-Teaching 
-and 
-Learning 
-Research 
-Knowledge 
- Transfer 
-International 
-Orientation 
-Regional 
-Engagement 
-Average of 
-Dimensions 
-ESPM 
-2.81 
-2.75 
-2.29 
-3.67 
-1.60 
-3.80 
-2.82 
-University of 
-Campinas 
-2.20 
-2.00 
-2.90 
-2.67 
-2.33 
-0.33 
-2.05 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-18 
-Federal 
-University of 
-Ceará - UFC 
-1.85 
-3.75 
-1.90 
-1.00 
-2.00 
-1.50 
-2.03 
-University of 
-São Paulo 
-1.94 
-1.75 
-2.40 
-2.25 
-2.33 
-0.50 
-1.85 
-UNESP - São 
-Paulo State 
-University 
-2.00 
-0.75 
-2.80 
-2.75 
-2.00 
-0.50 
-1.76 
-Pontifical 
-Catholic 
-University of 
-Rio Grande do 
-Sul 
-1.88 
-1.00 
-2.10 
-2.50 
-1.50 
-1.67 
-1.75 
-State 
-University of 
-Maringá 
-1.76 
-1.50 
-2.00 
-1.63 
-1.67 
-1.83 
-1.73 
-Federal 
-University of 
-Rio de Janeiro 
-1.26 
-0.00 
-1.80 
-2.00 
-0.50 
-0.83 
-1.03 
-Federal 
-University of 
-Mato Grosso 
-0.97 
-1.50 
-1.50 
-0.75 
-0.67 
-0.33 
-0.95 
-Federal 
-University of 
-Rio Grande do 
-Sul 
-1.14 
-0.00 
-1.70 
-1.89 
-0.50 
-0.50 
-0.92 
-Universidade 
-Federal de 
-Santa Catarina 
-1.14 
-0.00 
-1.80 
-1.89 
-0.50 
-0.33 
-0.90 
-Federal 
-University of 
-Minas Gerais 
-1.09 
-0.00 
-1.70 
-1.78 
-0.33 
-0.50 
-0.86 
-Universidade 
-Federal de São 
-Paulo 
-1.03 
-0.00 
-1.60 
-1.38 
-0.50 
-0.83 
-0.86 
-Federal 
-University of 
-São Carlos - 
-UFSCAR 
-1.03 
-0.00 
-1.80 
-1.38 
-0.33 
-0.67 
-0.84 
-Federal 
-University of 
-Pernambuco 
-0.97 
-0.00 
-1.80 
-1.13 
-0.33 
-0.67 
-0.79 
-Universidade 
-Federal 
-Fluminense - 
-UFF 
-0.88 
-0.00 
-1.70 
-0.75 
-0.33 
-0.83 
-0.72 
-University of 
-Brasília - UNB 
-0.85 
-0.00 
-1.60 
-0.75 
-0.50 
-0.67 
-0.70 
-Federal 
-University of 
-Paraná 
-0.82 
-0.00 
-1.70 
-0.75 
-0.33 
-0.50 
-0.66 
-Rio de Janeiro 
-State 
-University 
-0.76 
-0.00 
-1.20 
-0.75 
-0.50 
-0.83 
-0.66 
-Federal 
-University of 
-Viçosa 
-0.82 
-0.00 
-1.70 
-0.88 
-0.33 
-0.33 
-0.65 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-19 
-CONCLUSIONS 
- 
+
 The present study made an evaluation of the performances of the Brazilian Universities in 
 the “U-Multirank”, in the range from 2017 to 2020. “U-Multirank” is a multidimensional academic 
 ranking that is very important in Brazil nowadays, because it is the inspiration of the new method to be 
 used to evaluate the post-graduate system in Brazil, by Capes. 
+
 It was observed that this ranking is not very popular in Brazil, with only 20 Brazilian 
 Institutions listed in this ranking. The same is true for South America, which has only 35 Universities 
 listed. Efforts should be done to improve those reports, since this ranking is increasing in popularity in 
 the world. 
+
 Another important aspect of the ranking is that it does not have any Indicator based in 
 “reputation” surveys, like other popular rankings, as “QS” and “THE”, therefore its results are all 
 based in very objective Indicators. A negative point is that there is a large number of Indicators that are 
 based on questionnaires that must be sent by the Institutions, and many of them do not make regular 
 reports. Therefore, lack of data is a common problem in this ranking.  
+
 Brazilian Institutions increased the percentages of data available from a minimum of 
 38.48% in 2018 to 44.71% in the years 2019 and 2020. It is an increase, but the numbers are still below 
 the world average of 54.46% in 2020, the average of the Spanish Institutions (86.15%) and the average 
 of the best 300 performers in Europe (85.72%), both also measured in 2020. 
+
 When looking at individual performances, we see that São Paulo State University (UNESP) 
 leaded the ranking in 2017 and 2018, but lost many positions after that. The year 2019 was marked by 
 an increase in data reported and new Brazilian Institutions appearing in this ranking, which shows that 
 this ranking is growing in importance in Brazil. This fact makes the leadership in the dimensions to be 
 more divided among Institutions, so increasing the equilibrium among the best Brazilian performers. 
 2020 confirmed this tendency. 
+
 Of course this is just a first study, but those aspects are important and deserve to be better 
 studied.  
- 
- 
-ACKLOWDEGEMENTS  
- 
+
 The author thanks “U-Multiranking” for the data used in the present research, which were 
 received from the “U-Multirank” by request. 
- 
- 
-REFERENCES 
- 
- 
-AGUILLO, I. F.; BAR-LLAN, J.; LEVENE, M.; ORTEGA, J. L. Comparing university 
-rankings. Scientometrics. v. 85, p. 243–256. 2010. DOI 10.1007/s11192-010-0190-z. 
-AGUILLO, I. F.; GRANADINO, B.; ORTEGA, J. L.; Prieto, J. A. Scientific research 
-activity and communication measured with cybermetric indicators. Journal of the American Society of 
-Information Science and Technology, v. 57, n. 10, p. 1296–1302, 2006. 
-AGUILLO, I. F.; ORTEGA, J. L.; FERNANDEZ, M. Webometric ranking of world 
-universities: Introduction. methodology. and future developments. Higher Education in Europe. v. 33, 
-n. 2/3, p. 234–244, 2008. 
-ANDRIOLA, W. B.; ARAÚJO, A. C. Uso de indicadores para diagnóstico situacional de 
-Instituições de Ensino Superior. Ensaio: Avaliação de Políticas Públicas Educacionais,  Rio de Janeiro, 
-v. 26, n. 100, p. 645-663,  July  2018.    
-BERNHARD, A. Quality Assurance in an International Higher Education Area: A Case 
-Study Approach and Comparative Analysis; VS Research, Springer, Germany, 2012. 
-BILLAUT., J.; BOUYSSOU, D.; VINKE, P. Should we believe the Shanghai ranking? An 
-MCDM view. Scientometrics, 2010, doi:10.1007/s11192-009-0115-x. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-20 
-CALDERÓN, A. I.; FRANÇA, C. M. Rankings acadêmicos na educação superior: 
-tendências da literatura ibero-americana. Avaliação: Revista da Avaliação da Educação Superior. v. 23, 
-p. 448-466. 2018a. 
-CALDERÓN, A. I.; FRANÇA, C. M. Os rankings acadêmicos da educação superior: 
-apontamentos no campo da avaliação educacional. Capítulo 6. pgs 95-114. de: Avaliação da Educação: 
-referencias para uma primeira conversa. Editora da Universidade de São Carlos. 207 p., ISBN 978-85-
-7600-491-2, 2018b. 
-CALDERÓN, A. I.; FRANÇA, C. M.; GONÇALVES, A. Tendências dos rankings 
-acadêmicos de abrangência nacional de países do espaço ibero-americano: os rankings dos jornais El 
-Mundo (Espanha). El Mercurio (Chile). Folha de São Paulo (Brasil). Reforma (México) e El Universal 
-(México). ECCOS Revista Científica (online), v. 44, p. 117-142, 2017. 
-DILL, D. D.; SOO, M. Academic quality. league tables and public policy: A cross national 
-analysis of university ranking systems. Higher Education. v. 49, p. 499–533, 2005. 
-DRESCH, J. F. Avaliação da educação e o cenário midiatizado da responsabilização. 
-Capítulo 5. pgs 81-94. de: Avaliação da Educação: referencias para uma primeira conversa. Editora da 
-Universidade de São Carlos. 207 p., 2018, ISBN 978-85-7600-491-2. 
-ECCLES, C. The use of university rankings in the United Kingdom. Higher Education in 
-Europe. v. 27, n. 4, p. 423–432, 2002. 
-GANGA-CONTRERAS, F.; SÁEZ, W.; CALDERÓN, A. I.; CALDERÓN, Á.; 
-RODRIGUEZ-PONCE, E. Principales rankings académicos internacionales: el caso de Chile. Ensaio 
-(Rio de Janeiro. Online), v. 28, p. 407-434, 2020. 
-GONÇALVES, A.; CALDERÓN, A. I. Academic rankings in higher education: trends of 
-international scientific literature. Revista Diálogo Educacional (PUCPR), v. 17, p. 1125-1145, 2017. 
-HERTING, H. P. Universities. Rankings and the Dynamics of Global Higher Education; 
-Macmillan Publishers Limited, England, 2016. 
-LIU, N. C.; CHENG, Y. The academic ranking of world universities-methodologies and 
-problems. Higher Education in Europe, v. 30, n. 2, p. 127–136, 2005. 
-LLOYD, M. W.; ORDORIKA, I.; RODRIGUEZ-GÓMEZ, R. Los rankings 
-internacionales de universidades: su impacto. metodología y evolución. Cuadernos de Trabajo de la 
-Dirección General de Evaluación Institucional. Universidad Nacional Autónoma de México. México. n. 
-7. nov. 2011. Disponível em: <http://www.dgei.unam.mx/cuaderno7.pdf>. Acesso em: 19 fev. 2017. 
-MARGINSON, S.; VAN DER WENDE, M. To rank or to be ranked: The impact of 
-global rankings in higher education. Journal of Studies in International Education, v. 11, n. ¾, p. 306–
-329, 2007. 
-MORANDIN, J. L. P.; SILVA, N. R.; VANZ, S. A. S. O desempenho das universidades 
-brasileiras no U-Multirank e Ranking Universitário Folha, Ciência da Informação em Revista, v. 7, n. 2, 
-2020. 
-MOURA, B. A.; MOURA, L. B. A. Ranqueamento de universidades: reflexões acerca da 
-construção de reconhecimento institucional Acta Scientiarum. Education, v. 35, n. 2, p. 213-222. 
-https://doi.org/10.4025/actascieduc.v35i2.204002013. 
-RIGHETTI, S. Quando a sociedade é quem avalia: a experiência do Ranking Universitário 
-Folha e os indicadores de ensino superior. COMCIÊNCIA (UNICAMP). v. 166. p. 1, 2015. 
-RIGHETTI, S. O jogo dos rankings -- Como surgiram e o que medem as principais 
-classificações de universidades do mundo. -. ed. 163 p., 2019. 
-ROTHEN, J. C.; SANTANA, A. C. M. (org.) Avaliação da Educação: referencias para uma 
-primeira conversa. Editora da Universidade de São Carlos, 207 p., 2018, ISBN 978-85-7600-491-2. 
-SHIN, J. C.; TOUTKOUSHIAN, R. K. The past. present. and future of University 
-Rankings. In SHIN, J. C.; TOUTKOUSHIAN, R. K; TEICHLER, U. (Eds.). University Rankings. The 
-Changing Academy: The Changing Academic Profession in International Comparative Perspective 
-(Vol. 3). Dordrecht: Springer Science, 2011. 
-SHIN, J. C.; TOUTKOUSHIAN, R. K; TEICHLER, U. (Eds.). University Rankings. 
-Theoretical Basis. Methodology and Impacts on Global Higher Education, Springer, New York, 2011. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)
-21 
-SORZ, J.; WALLNER, B.; SEIDLER, H.; FIEDER, M. Inconsistent year-to-year 
-fluctuations limit the conclusiveness of global higher education rankings for university management. 
-Peer Journal, 3(e1217), p. 1–14, 2015. 
-STACK, M. Global University Rankings and the Mediatization of Higher Education. 
-Palgrave Studies in Global Higher Education, Macmillan Publishers Limited, England, 2016. 
-THÉRY, H. Classificações de universidades mundiais. “Xangai” e outras. Estudos 
-Avançados. São Paulo. v. 24. n. 70. p. 185-205. 2010. 
-VAN RAAN, A. F. J. Fatal attraction-conceptual and methodological problems in the 
-ranking of universities by bibliometric methods, Scientometrics, v. 62, n. 1, p. 133–143, 2005. 
-VAN VUGHT, F. A.; ZIEGELE, F. (Editors). Multidimensional Ranking: The Design 
-and Development of U-Multirank. Springer. New York. 2012. 
-WEBSTER, T. J. A principal component analysis of the US News & World Report tier 
-rankings of colleges and universities, Economics of Education Review, v. 20, n. 3, p. 235–244, 2001. 
- 
- 
-Declaração de conflito de interesses (conflict of interest declaration): O autor confirma que não 
-há conflitos de interesse na realização das pesquisas expostas e na redação deste editorial. 
-Declaração de contribuição dos autores: O trabalho tem um único autor, logo todas as etapas 
-foram desenvolvidas por ele: pesquisa, elaboração de texto, etc.. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2351
-Powered by TCPDF (www.tcpdf.org)

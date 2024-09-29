@@ -1,95 +1,11 @@
-Status: Preprint has not been submitted for publication
-ASSOCIATION BETWEEN LEISURE TIME PHYSICAL ACTIVITY AND
-MORTALITY BY COVID-19 IN THE BRAZILIAN CAPITALS: AN
-ECOLOGICAL ANALYSIS
-Francisco José Gondim Pitanga, Carmem Cristina  Beck, Cristiano Penas Seara  Pitanga,
-Cristiano Silva  Pinho, Antonio Carlos Leal Cortez, Dartagnan Pinto  Guedes, Victor Keihan
-Rodrigues  Matsudo
-https://doi.org/10.1590/SciELOPreprints.1912
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees are described in the manuscript, when
-applicable.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-The submitting author declares that all authors responsible for preparing the manuscript agree with this
-deposit.
-The submitting author declares that all authors' contributions are included on the manuscript.
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
-under a Creative Commons CC-BY license.
-The deposited manuscript is in PDF format.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-Submitted on (YYYY-MM-DD): 2021-02-25
-Posted on (YYYY-MM-DD): 2021-03-01
-Powered by TCPDF (www.tcpdf.org)
-ORIGINAL ARTICLE   
- 
- 
-ASSOCIATION BETWEEN LEISURE TIME PHYSICAL ACTIVITY AND MORTALITY 
-BY COVID-19 IN THE BRAZILIAN CAPITALS: AN ECOLOGICAL ANALYSIS 
- 
- 
-PHYSICAL ACTIVITY AND MORTALITY BY COVID-19 
- 
-AUTORES 
-Francisco José Gondim Pitanga1 
-ORCID iD:  https://orcid.org/0000-0002-1033-8684 
- 
-Carmem Cristina Beck2 
-ORCID iD:  https://orcid.org/0000-0002-9429-9140 
- 
-Cristiano Penas Seara Pitanga3 
-ORCID iD:  https://orcid.org/0000-0001-8276-3738 
- 
-Cristiano Silva Pinho4 
-ORCID iD:  https://orcid.org/0000-0002-9183-5892 
- 
-Antônio Carlos Leal Cortez5 
-ORCID iD:  https://orcid.org/0000-0002-8387-5026 
- 
-Dartagnan Pinto Guedes6 
-ORCID iD:  https://orcid.org/0000-0002-7367-2276 
- 
-Victor Keihan Rodrigues Matsudo7 
-ORCID iD:  https://orcid.org/0000-0003-3552-486X 
- 
- 
-1. Department of Physical Education. Federal University of Bahia, Salvador, BA, Brazil. 
-2. Federal Institute of Santa Catarina, Palhoça, SC, Brazil. 
-3. Catholic University of Salvador, Salvador, BA, Brazil. 
-4. PhD student in Medicine and Health / PhD Student at Medicine and Health - PPGMS / 
-UFBA - Professor Edgard Santos University Hospital (HUPES) 
-5. Santo Agostinho University Center - UNIFSA, Teresina, PI, Brazil. Stricto Sensu Graduate 
-Program in Nursing and Biosciences at the Federal University of the State of Rio de Janeiro - 
-UNIRIO - Rio de Janeiro, RJ, Brazil. 
-6. Center for Research in Health Sciences, University of Northern Paraná, Brazil. 
-7. Center for the Study of the Physical Fitness Laboratory of São Caetano do Sul - 
-CELAFISCS - São Caetano do Sul, SP, Brazil 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-Author contributions  
-Conception and design of the research: Pitanga FJG; Data analysis: Pitanga FJG; Writing of 
-the manuscript and Critical revision of the manuscript for intellectual content: Pitanga FJG, 
-Beck CC, Pitanga CPS, Pinho CS, Cortez ACL, Matsudo VKR, Guedes DP. 
- 
-ABSTRACT 
 Background: recent points of view catch us attention to the importance of continuing to 
 practice physical activity during the Covid-19 pandemic, however few studies have analyzed 
 the association between physical activity and worsening of the clinical outcome, 
 hospitalizations or mortality from the new coronavirus  
+
 Objective: to analyze the association between physical activity and deaths by Covid-19 in the 
 Brazilian capitals. 
+
 Methods: observational cross-sectional ecological study, when data on prevalence of leisure 
 time physical activity and deaths by Covid-19 were analyzed in 26 Brazilian capitals and the 
 Federal District as well. Data on the prevalence of leisure time physical activity, obesity and 
@@ -99,23 +15,21 @@ accumulated deaths, lethality of the disease and mortality rate were extracted f
 SUS(Brazil's Unified National Health System) Analytical: data on COVID-19 in Brazil, 
 available on the website of the Brazilian Ministry of Health. For data analysis, simple Pearson 
 correlation and multiple regression were used with a 5% significance level. 
+
 Results: demonstrate the existence of an inverse correlation between leisure time physical 
 activity and accumulated deaths (r = -0.44, p = 0.03), mortality rate/100,000 inhabitants (r =   
 -0.43, p = 0.02) as well as with the lethality of the disease (r = -0.51, p = 0.01). They also 
 demonstrate an inverse association between leisure time physical activity and accumulated 
 deaths (β = -485.1, p = 0.04), as well as with the lethality of the disease (β = -0.21, p = 0.02), 
 even after adjusting for confounding variables. 
+
 Conclusions: the practice of leisure time physical activity can be an important ally in coping 
 with Covid-19. The inverse association observed among physical activity, accumulated deaths 
 and disease lethality can bring important reflections on the actions that have been 
 implemented by government agencies, both state and municipal regarding the practice of 
 physical activity by the population. 
- 
-Keyword: Physical Activity, Deaths, Disease Lethality, Mortality Rate, Covid-19 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-INTRODUCTION 
-       The important benefits of physical activity for cardiometabolic1, immunological2 and 
+
+The important benefits of physical activity for cardiometabolic1, immunological2 and 
 mental health3 are already widely known by the scientific community. Regular physical 
 activity can be very effective in preventing obesity, high blood pressure and other 
 cardiometabolic disorders which are risk factors for the severity of hospital admissions due to 
@@ -125,7 +39,8 @@ adequate defense mechanisms to reduce the inflammatory process caused by the con
 between the virus and the immune cells of our body. Thus, the reduction of the inflammatory 
 process in the lungs can decrease the severity of the patient's clinical condition, avoiding the 
 use of more drastic interventions, such as, for example, mechanical ventilation4. 
-     In this context, a recent publication demonstrated that physical inactivity can be an 
+
+In this context, a recent publication demonstrated that physical inactivity can be an 
 important risk factor for hospital admissions for COVID-19, and suggests that the adoption of 
 a simple lifestyle can decrease the risk of severe Covid-19 infection5. There are still points of 
 view, that catch us attention to the importance of continuing physical activity and reducing 
@@ -135,37 +50,36 @@ activity essential during the current pandemic7. They also suggest that we live 
 where, in addition to COVID-19, other pandemics are plaguing humanity, such as physical 
 inactivity and obesity wich come with serious consequences for the health of the world 
 population8. 
-       In addition, publications on influenza/H1N1, transported to the current pandemic, suggest 
+
+In addition, publications on influenza/H1N1, transported to the current pandemic, suggest 
 that the more physically active the population is, the lower the mortality rates and severity of 
 the infection caused by COVID-19 will be9,10. In this context, a recent publication when 
 public domain data were analyzed in 45 African countries showed an association between the 
 prevalence of insufficient physical activity and mortality due to COVID-1911.  
-      On the other hand, publications draw attention to the importance of regular physical 
+
+On the other hand, publications draw attention to the importance of regular physical 
 activity as a means of protection against the severity of infection caused by the new 
 coronavirus12,13.They even suggest that doses of physical activity be “inoculated” in the 
 population as a means of protection for future pandemics14. Furthermore, studies show that 
 the effect of the influenza vaccine has more significant protective effects on physically active 
 elderly people, a fact that may also be present in the current pandemic15,16. 
-       Considering there are very few original studies that relate physical activity to the 
+
+Considering there are very few original studies that relate physical activity to the 
 worsening of the clinical outcome, hospitalizations and mortality due to COVID-19, as well 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
 many points of view that draw attention to the importance of physical activity in the context 
 of the new coronavirus, and also, several studies on physical activity and influenza with data 
 transported to the current pandemic, the present work may expand the initial knowledge about 
 the association between physical activity and Covid-19 contributing to a better understanding 
 on the subject. 
-       Thus, the objective of the study was to analyze the association between physical activity 
+
+Thus, the objective of the study was to analyze the association between physical activity 
 and mortality by Covid-19 in Brazilian capitals. 
- 
-METHODS 
-Study type 
-     This is an observational cross-sectional ecological study, when data on prevalence of 
+
+This is an observational cross-sectional ecological study, when data on prevalence of 
 leisure time physical activity (LTPA), accumulated deaths, disease lethality and mortality rate 
 by Covid-19 in 26 Brazilian capitals and the Federal District were analyzed. 
- 
-Data collect 
-     Data on the prevalence of LTPA, obesity and arterial hypertension collected in 2019 
+
+Data on the prevalence of LTPA, obesity and arterial hypertension collected in 2019 
 through the Risk Factor Surveillance System for chronic non-communicable diseases 
 (VIGITEL 2019) were used, available in a document published by the Ministry of Health of 
 Brazil17. The information on deaths was related to January 22, 2021, extracted from the 
@@ -173,9 +87,8 @@ Analytical SUS: data on COVID-19 in Brazil, available on the website of the Mini
 Health of Brazil18. Information on accumulated deaths by Covid-19, lethality of the disease 
 and mortality rate by Covid-19 per one hundred thousand inhabitants was used, by Brazilian 
 capitals and the Federal District. 
- 
-Data analysis 
-     Initially, Pearson's simple correlation analysis was performed between LTPA and 
+
+Initially, Pearson's simple correlation analysis was performed between LTPA and 
 accumulated deaths by Covid-19, lethality of the disease and mortality by Covid-19 per 100 
 thousand inhabitants. Subsequently, multiple regression analysis between LTPA and 
 accumulated deaths by Covid-19, lethality of the disease and mortality by Covid-19 per 
@@ -184,58 +97,38 @@ adequacy of the final model was tested by analyzing the residuals, the adjusted 
 coefficient, sum of the squares of the regression residues, normality test of the regression 
 residues and analysis of the presence of aberrant points. The level of significance used was 
 <0,05). The statistical program STATA 12.0 was used. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
- 
-RESULTS 
-      Information on the prevalence of the variables analyzed in the study, as well as 
+
+Information on the prevalence of the variables analyzed in the study, as well as 
 accumulated deaths by Covid-19, lethality of the disease and mortality rate by Covid-19 per 
 100 thousand inhabitants in each of the Brazilian capitals are available in Table 1. 
- 
-INSERT TABLE 1 
- 
-     The simple correlations between LTPA, accumulated deaths, lethality of the disease and 
+
+The simple correlations between LTPA, accumulated deaths, lethality of the disease and 
 mortality by Covid-19 per 100 thousand inhabitants are shown in Figures 1, 2 and 3. There is 
 an inverse and statistically significant correlation between LTPA, accumulated deaths, 
 mortality rate/100,000 inhabitants and lethality of the disease.  
- 
-INSERT FIGURE 1 
- 
-INSERT FIGURE 2 
- 
-INSERT FIGURE 3 
- 
-     The multiple regression analyzes between the variables involved in the study are shown in 
+
+The multiple regression analyzes between the variables involved in the study are shown in 
 Tables 2, 3 and 4. One can observe statistically significant regression coefficients in the 
 association between LTPA, accumulated deaths and lethality of the disease even after 
 adjustments for the confounding variables. With regard to the multiple regression analysis 
 between LTPA and Covid-19 mortality rate for every 100 thousand inhabitants, the 
 association losed statistical significance. 
- 
-INSERT TABLE 2 
- 
-INSERT TABLE 3 
- 
-INSERT TABLE 4 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-DISCUSSION 
-      The study analyzed in an ecological way the association between physical activity, 
+
+The study analyzed in an ecological way the association between physical activity, 
 accumulated deaths, lethality of the disease and mortality rate by Covid-19 for every 100 
 thousand inhabitants. The results demonstrate the existence of an inverse association, even 
 after adjusting for confounding variables between LTPA, accumulated deaths and lethality of 
 the disease. Despite the limitations inherent to studies with ecological characteristics, the 
 information obtained based on these analyzes can serve as a basis for further studies.  
-      In this context, considering that the Covid-19 pandemic is very recent, we found in the 
+
+In this context, considering that the Covid-19 pandemic is very recent, we found in the 
 literature consulted few studies on the association between physical activity and worsening of 
 clinical outcome, hospital admissions and mortality by Covid-19. One of these studies, carried 
 out in England, the authors demonstrated that physical inactivity was a risk factor for hospital 
 admissions by Covid-19, despite the fact that information on physical activity was obtained 
 between 2006 and 2010, approximately 10 years ago5. 
-       Another more recent study, including characteristics similar to ours, carried out in 45 
+
+Another more recent study, including characteristics similar to ours, carried out in 45 
 African countries demonstrated an association between physical inactivity and mortality due 
 to Covid-19. It is noteworthy that the association was observed only in accumulated deaths, 
 not remaining statistically significant when deaths were adjusted per million inhabitants11. In 
@@ -243,7 +136,8 @@ our study, we were able to demonstrate an inverse association between physical a
 accumulated deaths, deaths per 100 thousand inhabitants and Covid-19 lethality. In another 
 recent publication, it was observed that athletes are less likely to be admitted to hospital, go to 
 the intensive care unit or die from Covid-19 than non-athletes19.  
-       Despite this gap in the literature, recent point of views have been published on the topic 
+
+Despite this gap in the literature, recent point of views have been published on the topic 
 of physical activity and Covid-19: the first one reported the importance of continuing physical 
 activity during the Covid-19 pandemic and was based in the city of Wuhan in China20, the 
 initial epicenter of the disease, where people were recommended to continue the practice of 
@@ -253,24 +147,26 @@ or at home as therapy to combat the physical and mental consequences of quaranti
 the Covid-19 pandemic. Following, the position of the American College of Sports 
 Medicine22 was published when it was suggested to continue the practice of physical activity 
 outdoors or indoors during the pandemic.  
-     It is important to note that the "Manifesto for the Promotion of Physical Activity in Post 
+
+It is important to note that the "Manifesto for the Promotion of Physical Activity in Post 
 Covid” was recently published in Brazil, which calls attention to sensitize and mobilize the 
 most distinct population groups, governmental agencies, non-governmental agencies and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
 private initiatives to promote a more active lifestyle, considering its preventive effects on 
 mitigating pandemics such as Covid-1923. 
-         In addition, a publication by Italian researchers presents lessons learned from studies on 
+
+In addition, a publication by Italian researchers presents lessons learned from studies on 
 influenza and physical activity in obese patients and suggests that the findings may be 
 considered for Covid-19. In this work, the authors emphasize the importance of physical 
 activity in order to enhance the positive immunomodulation provided by the practice of light 
 to moderate intensity physical exercise, especially in obese individuals12.      
-        Also is noteworthy a strong relation between physical exercise and extracellular 
+
+Also is noteworthy a strong relation between physical exercise and extracellular 
 superoxide dismutase (EcSOD) enzymes, in recent study, it has been demonstrated that 
 moderate intensity exercise increased EcSOD enzymes and reduced the cytotoxic activity of 
 ROS cells24,25 EcSOD, a molecular transducer of health benefits of exercise has been 
 associated with lower endothelial tissues damages26,27. 
-      And in addition, another important study catch us much attention about the role of Irisin 
+
+And in addition, another important study catch us much attention about the role of Irisin 
 hormone on the imune system. This original study has been conducted by researchers at São 
 Paulo State University (UNESP) and suggests that irisin, a hormone found to be secreted from 
 muscles in response to exercise, in fact, could have an important therapeutic effect on 
@@ -279,24 +175,25 @@ irisin modulated genes associated with replication of the novel coronavirus SARS
 human cells. They found in uninfected adipocytes, the irisin has been altered the expression of 
 genes that regulate ACE-2, and this one is found to encode a protein to which the virus binds 
 in order to invade human cells28.      
-       In this sense, it is emphasized that although so far, only one study has been found on the 
+
+In this sense, it is emphasized that although so far, only one study has been found on the 
 association between physical activity and mortality on Covid-1911, the literature presents 
 some publications on physical activity and influenza. Among them, we can mention a study 
 carried out by researchers from Hong Kong10 where less was observed mortality rate 
 associated with influenza in individuals who exercised at low/moderate intensity. In another 
 publication, it was shown that higher levels of physical activity may be associated with 
 reduced risk and severity of influenza infection in individuals under 65 years of age9. 
-       Our results demonstrate that physical activity has an inverse association with 
+
+Our results demonstrate that physical activity has an inverse association with 
 accumulated deaths by Covid-19, as well as with the lethality of the disease. We also 
 observed, as can be seen in Tables 3 and 4, that for each 1% increase in the prevalence of 
 physical activity, there would be a reduction of approximately 485 deaths by Covid-19, as 
 well as a 0.21% decrease in the lethality of disease. In this regard, it is important to emphasize 
 that the World Health Organization (WHO) published in 2018 the Global Action Plan for 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
 physical activity 2018-2030, when actions to reduce physical inactivity by 10% were 
 recommended to all countries in the world by 2025 and 15% by 203028. 
-       The strength of the study lies in the fact that it was one of the first to analyze associations 
+
+The strength of the study lies in the fact that it was one of the first to analyze associations 
 between physical activity and deaths resulting from the current Covid-19 pandemic. On the 
 other hand, the present results should be interpreted with caution since the ecological or 
 aggregate study analyzes groups, instead of individuals, a fact that can lead to a lack of 
@@ -307,9 +204,8 @@ should also be noted that the information used is from VIGITEL 2019, since the d
 year 2020 will be published later in 2021. Regarding the information on deaths, it is important 
 to clarify that the results presented here may undergo changes over time, since the number of 
 deaths is being changed according to the continuity of the pandemic.       
- 
-CONCLUSIONS 
-    The results of the present study lead us to believe that the practice of leisure time physical 
+
+The results of the present study lead us to believe that the practice of leisure time physical 
 activity can be an important ally in coping with Covid-19. The inverse association observed 
 between physical activity, accumulated deaths and lethality from the disease can bring 
 important reflections on the actions that have been implemented by government agencies, 
@@ -325,553 +221,3 @@ in theory, we would observe a 2.1% reduction in the lethality of the disease, wh
 the mortality in some Brazilian capitals. New prospective and retrospective observational 
 studies are suggested, as well as clinical trials that can confirm the results found in this 
 ecological study. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-BIBLIOGRAPHIC REFERENCES 
- 
-1. Lin X, Alvim SM, Simoes EJ, Bensenor IM, Barreto SM, Schmidt MI, Ribeiro AL, 
-Pitanga F, Almeida MC, Liu S, Lotufo PA. Leisure Time Physical Activity and 
-Cardio-Metabolic Health: Results From the Brazilian Longitudinal Study of Adult 
-Health 
-(ELSA-Brasil). 
-J 
-Am 
-Heart 
-Assoc. 
-2016; 
-5(6): 
-e003337. 
-doi: 
-10.1161/JAHA.116.003337 
- 
-2. Gonçalves CAM, Dantas PMS, Dos Santos IK, Dantas M, da Silva DCP, Cabral 
-BGAT, Guerra RO, Júnior GBC. Effect of Acute and Chronic Aerobic Exercise on 
-Immunological Markers: A Systematic Review. Front Physiol. 2020; 10: 1602. doi: 
-10.3389/fphys.2019.01602. 
- 
-3. Jonsdottir IH, Rödjer L, Hadzibajramovic E, Börjesson M, Ahlborg G Jr. A 
-prospective study of leisure-time physical activity and mental health in Swedish health 
-care workers and social insurance officers. Prev Med. 2010;51(5):373–377. 
-doi:10.1016/j.ypmed.2010.07.019. 
- 
-4. Sallis JF & Pratt M.  Multiple benefits of physical activity during the Coronavirus 
-pandemic. Rev Bras Ativ Fís Saúde. 2020;25e0112. DOI: 10.12820/rbafs.25e0112 
- 
-5. Hamer M, Kivimäki M, Gale CR, Batty GD. Lifestyle risk factors, inflammatory 
-mechanisms, and COVID-19 hospitalization: A community-based cohort study of 
-387,109 
-adults 
-in 
-UK. 
-Brain 
-Behav 
-Immun. 
-2020; 
-87: 
-184-187. 
-doi:10.1016/j.bbi.2020.05.059. 
- 
-6. Pitanga FJG, Beck, CC, Pitanga CPS. Physical Activity And Reducing Sedentary 
-Behavior During The Coronavirus Pandemic. Arq Bras Cardiol. 2020; 114(6): 1058-
-1060.  
- 
-7. Pitanga FJG, Beck, CC, Pitanga CPS. Should physical activity be considered essential 
-activity during the covid-19 pandemic? Int J Cardiovasc Sci. 2020; 33(4): 401-403.  
- 
-8. Pitanga FJG, Beck CC, Pitanga CPS. Inatividade física, obesidade e COVID-19: 
-perspectivas entre múltiplas pandemias. Rev Bras Ativ Fis Saúde. 2020;25:e0114. doi: 
-10.12820/rbafs.25e0114 
- 
-9. Siu E, Campitelli MA, Kwong JC. Physical activity and influenza-coded outpatient 
-visits, 
-a 
-population-based 
-cohort 
-study. 
-PLoS 
-One. 
-2012;7(6):e39518. 
-doi:10.1371/journal.pone.0039518.  
- 
-10. Wong CM, Lai HK, Ou CQ, et al. Is exercise protective against influenza-associated 
-mortality?. PLoS One. 2008;3(5):e2108. Publ. doi:10.1371/journal.pone.0002108. 
- 
-11. Okeahalam C, Williams V, Otwombe K. Factors associated with COVID-19 infections 
-and mortality in Africa: a cross-sectional study using publicly available data. BMJ 
-Open. 2020;10(11):e042750. doi: 10.1136/bmjopen-2020-042750. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-12. Luzi L, Radaelli MG. Influenza and obesity: its odd relationship and the lessons for 
-COVID-19 pandemic. Acta Diabetol. 2020;57(6):759-764. doi:10.1007/s00592-020-
-01522-8. 
- 
-13. Carter SJ, Baranauskas MN, Fly AD. Considerations for Obesity, Vitamin D, and 
-Physical Activity Amid the COVID-19 Pandemic. Obesity (Silver Spring). 
-2020;28(7):1176-1177. doi:10.1002/oby.22838. 
- 
-14. Laddu DR, Lavie CJ, Phillips SA, Arena R. Physical activity for immunity protection: 
-Inoculating populations with healthy living medicine in preparation for the next 
-pandemic. 
-Prog 
-Cardiovasc 
-Dis. 
-2020: 
-S0033-0620 
-(20) 
-30078-5. 
-doi: 
-10.1016/j.pcad.2020.04.006. 
- 
-15. Song Y, Ren F, Sun D, et al. Benefits of Exercise on Influenza or Pneumonia in Older 
-Adults: A Systematic Review. Int J Environ Res Public Health. 2020;17(8):E2655. 
-Published 2020 Apr 13. doi:10.3390/ijerph17082655. 
- 
-16. Pitanga FJG, Pitanga CPS, Beck CC. Can physical activity influence the effect of the 
-COVID-19 vaccine on older adults? Rev Bras Cineantropom Desempenho Hum. 
-2020, 22:e76586. DOI: http://dx.doi.org/10.1590/1980-0037.2020v22 e76586 
- 
-17. Vigitel Brazil 2019: surveillance of risk and protective factors for chronic diseases by 
-telephone survey: estimates of frequency and sociodemographic distribution of risk 
-and protective factors for chronic diseases in the capitals of the Brazilian states and the 
-Federal District in 2019. Brasília, 2020. 
- 
-18. Ministry of Health of Brazil. Analytical SUS: data on COVID-19 in Brazil.  Available 
-in: 
-https://susanalitico.saude.gov.br/extensions/covid-19_html/covid-19_html.html. 
-[accessed em 22.01.2021]. 
- 
-19. Halabchi F, Mazaheri R, Sabeti K, Yunesian M, Alizadeh Z, Ahmadinejad Z, Aghili 
-SM, Tavakol Z. Regular Sports Participation as a Potential Predictor of Better Clinical 
-Outcome in Adult Patients With COVID-19: A Large Cross-Sectional Study. J Phys 
-Act Health. 2020:1-5. doi: 10.1123/jpah.2020-0392. 
- 
- 
-20. Chen P, Mao L, Nassis GP, Harmer P, Ainsworth BE, Li F. Coronavirus disease 
-(COVID-19): The need to maintain regular physical activity while taking precautions. 
-J Sport Health Sci. 2020 Mar;9(2):103-104. doi:10.1016/j.jshs.2020.02.001. 
- 
-21. Jiménez-Pavón D, Carbonell-Baeza A, Lavie CJ. Physical exercise as therapy to fight 
-against the mental and physical consequences of COVID-19 quarantine: Special focus 
-in 
-older 
-people. 
-Prog 
-Cardiovasc 
-Dis. 
-2020;63(3):386-388. 
-doi:10.1016/j.pcad.2020.03.009. 
- 
-22. American College of Sport Medicine. Staying Physically Active During the COVID-
-19 Pandemic. Available in: https://www.acsm.org/. [accessed em 11.04.2020]. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-23. Centro de Estudos do Laboratório de Aptidão Física de São Caetano do Sul. Manifesto 
-to Promote Physical Activity Post-COVID-19: An Interna-tional Call for Urgent 
-Action. Rev Bras Ativ Fís Saúde. 2020;25:e0175. DOI: 10.12820/rbafs.25e0175. 
- 
- 
-24. Pinho C.S. Isolamento Social e Imunomodulação através do Exercício Físico. Social 
-Isolation and Immunomodulation by Physical Exercises. E-book Ed. CBL / Amazon. 
-p. 99-100, 2020 
- 
-25. Pinho, C. S., Caria, A. C. I., Aras Júnior, R., & Pitanga, F. J. G. (2020). The effects of 
-the COVID-19 pandemic on levels of physical fitness. Revista da Associação Médica 
-Brasileira, 66, 34-37. 
- 
-26. Yan, Zhen; Spaulding, Hannah R. Extracellular superoxide dismutase, a molecular 
-transducer of health benefits of exercise. Redox Biology, p. 101508, 2020. 
- 
-27. Call, Jarrod A. et al. Muscle-derived extracellular superoxide dismutase inhibits 
-endothelial activation and protects against multiple organ dysfunction syndrome in 
-mice. Free Radical Biology and Medicine, v. 113, p. 212-223, 2017. 
- 
-28. de Oliveira M, De Sibio MT, Mathias LS, Rodrigues BM, Sakalem ME, Nogueira CR. 
-Irisin modulates genes associated with severe coronavirus disease (COVID-19) 
-outcome in human subcutaneous adipocytes cell culture. Molecular and Cellular 
-Endocrinology. 2020 Sep 15;515:110917. 
- 
-29. World Health Organization. Global action plan for physical activity 2018-2030. 
-Geneva, 2018. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-Table 1 - Characteristics of the variables analyzed by Brazilian capitals. 
-CAPITALS 
-LTPA 
-(%) 
-Death (n) 
- 
-Lethality (%) 
-Obesity (%) 
-Arterial 
-Hypertension (%) 
-Rate 
-Mortality 
-Aracajú 
-41,9 
-975 
-1,5 
-20,6 
-25,1 
-148 
-Belém 
-43,2 
-2529 
-3,9 
-19,6 
-19,3 
-169 
-BH 
-39,7 
-2136 
-2,6 
-19,9 
-25,8 
-85 
-Boa vista 
-39,7 
-594 
-1,1 
-21,2 
-20,4 
-149 
-Cpo. Grande 
-39,5 
-1242 
-1,8 
-22,5 
-24,9 
-139 
-Cuiabá 
-38,3 
-1287 
-2,8 
-22,5 
-22,8 
-210 
-Curitiba 
-41 
-2117 
-2,8 
-19,4 
-21,1 
-110 
-Florianópolis 
-45,2 
-387 
-0,8 
-17,8 
-21,6 
-77 
-Fortaleza 
-40,3 
-4282 
-4,6 
-19,9 
-21,2 
-160 
-Goiânia 
-41 
-2207 
-2,5 
-19,5 
-24,3 
-146 
-João Pessoa  
-40,1 
-1244 
-2,7 
-20,4 
-25,6 
-154 
-Macapá 
-44,3 
-758 
-2,4 
-22,9 
-23,2 
-151 
-Maceió 
-39,9 
-1189 
-2,9 
-20 
-26,8 
-117 
-Manaus 
-37,1 
-4617 
-4,3 
-23,4 
-18,4 
-212 
-Natal  
-45,4 
-1281 
-3,4 
-22,5 
-24,5 
-145 
-Palmas 
-49,9 
-232 
-0,9 
-15,4 
-17,6 
-78 
-Porto Alegre 
-37,7 
-2059 
-2,6 
-21,6 
-28,2 
-139 
-Porto Velho 
-37,1 
-1020 
-2,2 
-19,9 
-19,6 
-193 
-Recife 
-35,6 
-2860 
-5,1 
-21,7 
-28,4 
-174 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-Rio Branco 
-44,6 
-533 
-2,5 
-23,3 
-18,5 
-131 
-Rio Janeiro 
-37,8 
-16608 
-9,1 
-21,7 
-28 
-247 
-Salvador 
-41,3 
-3305 
-2,7 
-18,1 
-25,2 
-115 
-São Luís 
-37,9 
-1326 
-4,8 
-17,2 
-16,9 
-120 
-São Paulo 
-34,6 
-16915 
-3,8 
-19,9 
-24,4 
-138 
-Teresina 
-44,3 
-1265 
-2,3 
-17,6 
-22,4 
-146 
-Vitória 
-44,2 
-628 
-1,9 
-17,6 
-24,3 
-173 
-Distrito Federal 
-47,1 
-4460 
-1,6 
-19,6 
-28,5 
-148 
-LTPA, leisure time physical activity; mortality rate per 100 thousand inhabitants; mortality data for the day January 22 2021;  
-information on leisure time physical activity, obesity and high blood pressure obtained from VIGITEL 2019
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-0
-5000
-10000
-15000
-20000
-35
-40
-45
-50
-Prevalence LTPA
-Accumulated Deaths 
-Fitted values
- 
-Figure 1 - Association between LTPA (%) and accumulated deaths in Brazilian capitals 
- 
- 
-0
-2
-4
-6
-8
-10
-35
-40
-45
-50
-Prevalence LTPA
-Lethality
-Fitted values
- 
-Figure 2 - Association between LTPA (%) and lethality of the disease in Brazilian capitals 
- 
-Correlation coefficient = -0,44, p = 0,03 
-Correlation coefficient = -0,51, p = 0,01 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
- 
-50
-100
-150
-200
-250
-35
-40
-45
-50
-Prevalence LTPA
-Mortality Rate
-Fitted values
- 
- Figure 3 - Association between LTPA (%) and mortality rate/100,000 inhabitants in  
- Brazilian capitals  
- 
- 
- 
- 
-Table 2 - Multiple Regression Analysis between LTPA and accumulated deaths by Covid-19 
-Deaths  
-Coefficient 
-Standard Error p value   Confidence Interval (95%) 
-LTPA 
--485.1158 
-223.7967 
-0.041 
--948.0746               -22.15704 
-Obesity 
--185.4248 
-405.1669 
-0.651 
--1023.576                 652.7269 
-Hypertension 285.3133 
-227.1759 
-0.222 
--184.6359                 755.2625 
-Constant 
-19933.29 
-15117.76 
-0.200 
--11340.19                 51206.76 
-Analysis adjusted for confounding variables; LTPA = Leisure Time Physical Activity. 
- 
- 
- 
- 
- 
- 
- 
-Correlation coefficient = - 0,43, p = 0,02 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-Table 3 - Multiple Regression Analysis between LTPA and Lethality by Covid-19. 
-Deaths  
-Coefficient 
-Standard Error p value   Confidence Interval (95%) 
-LTPA 
--.2131576 
-.0882119 
-0.024 
--.3956378               -.0306774 
-Obesity 
-.0629409 
-.1597009 
-0.697 
--.2674256                 .3933074 
-Hypertension .0314237 
-.0895438 
-0.729 
--.1538118                 .2166592 
-Constant 
-9.699197 
-5.958829 
-0.117 
--2.627581                 22.02597 
-Analysis adjusted for confounding variables; LTPA = Leisure Time Physical Activity. 
- 
- 
- 
- 
-Table 4 - Multiple Regression Analysis between AFTL and the mortality rate due to COVID-
-19 per 100 thousand inhabitants 
-Deaths  
-Coefficient 
-Standard Error p value 
-  Confidence Interval (95%) 
-LTPA 
--3.010927 
-1.982317 
-0.142 
--7.111662                     1.089807 
-Obesity 
- 8.00069 
-3.588834 
-0.036 
-.5766218                       15.42476 
-Hypertension -.134712 
-2.012249 
-0.947 
--4.297366                     4.027942 
-Constant 
- 112.2483 
-133.9081 
-0.411 
--164.7618                     389.2583 
-Analysis adjusted for confounding variables; LTPA = Leisure Time Physical Activity. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)
-DECLARAÇÃO DE ISENÇÃO DE CONFLITO DE INTERESSE 
- 
-Ao Comitê Editorial do SciELO Preprints  
- 
-Nós, Francisco José Gondim Pitanga, Carmem Cristina Beck, Cristiano Penas Seara Pitanga, Cristiano 
-Silva Pinho, Dartagnan Pinto Guedes, Victor Keihan Rodrigues Matsudo e Antônio Carlos Leal Cortez 
-(autor correspondente), investigadores e responsáveis pelo estudo: ASSOCIATION BETWEEN 
-LEISURE TIME PHYSICAL ACTIVITY AND MORTALITY BY COVID-19 IN THE BRAZILIAN 
-CAPITALS: AN ECOLOGICAL ANALYSIS declaramos que não há nenhum conflito de interesse que 
-possa influenciar o resultado da pesquisa. 
- 
-Teresina, 26 de Fevereiro de 2021 
- 
-Antônio Carlos Leal Cortez 
-(Autor Correspondente) 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1912
-Powered by TCPDF (www.tcpdf.org)

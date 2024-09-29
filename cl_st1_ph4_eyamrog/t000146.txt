@@ -1,58 +1,14 @@
-Status: Preprint has not been submitted for publication
-THE RELATIONSHIP BETWEEN THE PUBLICATION LANGUAGE
-AND ITS IMPACT ON PUBLIC AND COLLECTIVE HEALTH
-Solange Maria dos Santos, Grischa  Fraumann, Simone Belli, Rogério  Mugnaini
-https://doi.org/10.1590/SciELOPreprints.1549
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees are described in the manuscript, when
-applicable.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-The submitting author declares that all authors responsible for preparing the manuscript agree with this
-deposit.
-The submitting author declares that all authors' contributions are included on the manuscript.
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
-under a Creative Commons CC-BY license.
-The deposited manuscript is in PDF format.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-Submitted on (YYYY-MM-DD): 2020-12-04
-Posted on (YYYY-MM-DD): 2021-03-31
-Powered by TCPDF (www.tcpdf.org)
-THE RELATIONSHIP BETWEEN THE PUBLICATION LANGUAGE 
-AND ITS IMPACT ON PUBLIC AND COLLECTIVE HEALTH 
- 
-Research article 
- 
-Solange Maria dos Santos1*, Grischa Fraumann2, Simone Belli3 & Rogério Mugnaini4 
- 
-1Scientific Electronic Library Online - SciELO / FapUNIFESP, São Paulo, Brazil, 
-http://orcid.org/0000-0002-5067-6362, solange.santos@scielo.org,  
-2TIB Leibniz Information Centre for Science and Technology, Hannover, Germany, 
-https://orcid.org/0000-0003-0099-6509, grischa.fraumann@tib.eu,  
-3Complutense University of Madrid, Madrid, Spain, https://orcid.org/0000-0001-8934-
-7569, sbelli@ucm.es,  
-4University of São Paulo, São Paulo, Brazil, https://orcid.org/0000-0001-9334-3448, 
-mugnaini@usp.br 
- 
-  
-Abstract  
- 
 Objective: The purpose of this study is to analyze the relationship between scientific output 
 published in a native language and its degree of exposure and impact on Public and 
-Collective Health. Methods: This bibliometric study was carried out on the basis of the 
+Collective Health. 
+
+Methods: This bibliometric study was carried out on the basis of the 
 scientific production from the most prolific countries that are members of the SciELO 
 Network, in Public and Collective Health, in the period 2011-2015. The data was collected 
 from the SciELO Citation Index database (SciELO CI) and the citations were analysed by 
-language and source. Findings: Brazilian publications in Portuguese had the greatest citation 
+language and source. 
+
+Findings: Brazilian publications in Portuguese had the greatest citation 
 impact in the same language (55.7%), while its publications in English had 47.9% of impact 
 in Portuguese and 34.4% in Spanish publications (34.4%). The impact on the national 
 language is also significant to Colombian and Spanish publications. To Spain, the percentage 
@@ -60,37 +16,15 @@ of citing articles in Spanish for papers in the same language is more than twice
 impact in English. To US-American articles, 42.5% of the citations are in a native language 
 when published in English. Cuban and Peruvian publications presented more than 90% of 
 their impact in the national language. In contrast, the USA and Brazil presented greater 
-citation impact on other languages, especially when publishing in Spanish. Conclusion: The 
+citation impact on other languages, especially when publishing in Spanish. 
+
+Conclusion: The 
 extent of the exposure of a publication language varies in accordance with the country´s 
 scientific output. In the case of Brazilian and US-American publications, the effects on 
 audiences in other languages can be measured by the citation impact. Furthermore, the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-2 
- 
- 
- 
- 
- 
 degree of exposure offered by SciELO CI makes it useful for evaluation,  particularly for 
 publications in the national language. 
- 
-Keywords: citations; native languages; publications; Public and Collective Health; 
-visibility 
- 
-Conflicts of Interest: Solange Maria Santos is SciELO Brazil publishing coordinator. 
- 
-Financing: Source:None.Authors' 
- 
-Authors’ Contribution: Solange Maria Santos and Rogério Mugnaini worked on the 
-conception, analysis and interpretation of data and writing of the article. Grischa Fraumann 
-and Simone Belli worked on writing and the critical review of the final version to be 
-published. 
- 
-INTRODUCTION 
+
 The publication language is an essential means of communication owing to of the 
 extent of the international audience that it encompasses for research purposes, as it directly 
 affects the linguistic accessibility and geographical scope of the question under study. 
@@ -103,6 +37,7 @@ reflected in the following: a) the large amount of scientific output devoted to 
 national interest, b) a low proportion of articles written in English, c) articles of 
 predominantly national authorship, d) low levels of international collaboration and e) 
 publications that tend to be published in national journals with a limited circulation [4-7]. 
+
 These questions which are already well known in the area of the social sciences and 
 humanities lie at the heart of the debate about how to handle the local features of some 
 scientific communities, while at the same time ensuring they meet the research requirements 
@@ -111,25 +46,14 @@ also to serve and cooperate with culture and society, which means that it is bet
 research results are communicated in languages other than English [8]. Moreover, this 
 challenge is even greater at a time when science is opening up, and when the social 
 repercussions of its findings are being felt, particularly at a local level[9]. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-3 
- 
- 
- 
- 
- 
+
 As well as the social sciences and humanities, the field of Public and Collective 
 Health also displays some of these national and centralized features. Thus, they also face the 
 moral dilemma of whether to publish important research results in their mother tongue so 
 that they can serve the local community (professionals, researchers and citizens in general), 
 or else publish them in English to make these results more widely accessible so that they can 
 reach an international audience. 
- 
-LITERATURE REVIEW 
+
 As observed in previous studies[10], the main papers published in one of the most 
 prestigious international scientific databases (Web of Science) are in English. These 
 scientific articles represent 95.87% of the total, followed by Spanish with 3%. If we compare 
@@ -149,29 +73,19 @@ had 15, 35 and 26 indexed journals respectively. According to Collazo-Reyes [12]
 presence of Brazilian journals meant that, when the whole LAC output of journals in the 
 region was taken into account, for the first time, Portuguese became the second most widely-
 used language. 
+
 In terms of a wider domain (SciELO and WoS), Lucio-Arias, Velez-Cuartas and 
 Leydesdorff [13] compiled 79,924 items to analyze international cooperation and noted that 
 the LAC papers in Spanish and Portuguese remained the main languages for communication. 
 In the view of the authors, this is one of the reasons why researchers from LAC countries 
 may have a limited participation in collaborative networks. In addition, it should be 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-4 
- 
- 
- 
- 
- 
 remembered that, as Luukkonen, Persson and Sivertsen [14] state the stronger the scientific 
 infrastructure of a country, the lower the degree of international collaboration. For this 
 reason, the rate of international collaboration in Haiti, Honduras, Nicaragua and the 
 Dominican Republic is above 80%, while in the case of the more prolific Argentina, Brazil, 
 Chile and Mexico, it is between 30 and 40% [15]. In general, every country is seeking to 
 increase its rate of international collaboration. 
-  
+
 In a recent study, Velez-Cuartas, Lucio-Arias and Leydesdorff [16] compared the 
 degree of visibility of LAC publications in WoS and SciELO to determine the dissemination 
 of scientific knowledge in LAC. They found that LAC scientific communications continued 
@@ -190,6 +104,7 @@ presence of Spanish and especially Portuguese is significantly higher in the AA 
 dominance of English is low (70.37% as opposed to 84.96% in the total sample). In contrast, 
 papers indexed in SciELO CI are mainly published in Spanish (39.60%), followed by 
 Portuguese (33.30%) and English (27.07%). Other languages account for only 0.03% [17]. 
+
 The data thus show that the predominance of English-language papers is limited to 
 WoS. Within WoS, Portuguese is the second most important publication language, while 
 Spanish plays a smaller but still significant role.. Hence, it is worth noting that the 
@@ -199,17 +114,6 @@ presence of Portuguese is more prominent than that of English. In general terms,
 a global undertaking, and scientific knowledge is of global significance; that is, in theory it 
 should have a worldwide audience [18]. This feature has been classified as the ´ Fourth Age 
 of Research´, which has moved on from individual, institutional and national levels to 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-5 
- 
- 
- 
- 
- 
 international collaboration [19-20]. International collaboration can assist in overcoming global 
 challenges and provide access to a suitable infrastructure and appropriate funding 
 schemes[20]. In addition, international collaboration can have a greater research impact, [20] 
@@ -222,6 +126,7 @@ above, since English is the lingua franca of science, it can reach out to an aud
 national borders. This is essential for communicating with researchers and society abroad, 
 although research must also be conducted in national languages so that it can influence and 
 reach out to the local community.  
+
 This was emphasized again in the Helsinki Initiative on Multilingualism in Scholarly 
 Communication[27]. Furthermore, bibliometrics is not neutral[28], because the indicators 
 chosen also define the real circumstances in which the research is carried out. As far as the 
@@ -233,6 +138,7 @@ it an attractive profession for some students[26]. It is argued that the univers
 will be international[29], and funding programmes have been launched to support these 
 institutions, such as the African University of Science and Technology and the so-called 
 European Universities[31]. 
+
 One means of estimating the size of the research audience that stretches across 
 national boundaries, is to investigate the citations from a particular country[24]. This method 
 allows us to find out what kind of research is being conducted in other geographical areas, 
@@ -243,29 +149,19 @@ in which the outcome of a country's publications is generalized has also been cr
 International publications are also often the target of publicly- funded research projects, for 
 example, those in the European Union [35]. While this citation impact can be estimated for 
 international publications, it can have the same effect on the country in which the research 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-6 
- 
- 
- 
- 
- 
 findings are published. The number of publications in different languages has been 
 investigated in several studies of countries[36], so this study gives an insight into how 
 publications are cited in various languages. 
- 
-METHODS 
+
 A bibliometric study of an exploratory nature, has been carried out by adopting a 
 descriptive approach. A descriptive statistical analysis was conducted to characterize the 
 sample. Simple Linear Regression was employed to analyze the relationship between the 
 variables. 
+
 The database of the SciELO Citation Index (SciELO CI)1 served as a source of data 
 for the collection and categorization of the scientific output from countries, in the areas of 
 Public and Collective Health, during the period from 2011 to 2015.  
+
 The choice of these areas was based on two factors: its local character and the fact 
 that the coverage area for SciELO CI is more extensive in the Health, since in the case of 
 SciELO Spain, it is restricted to Public and Collective Health. The reliance on SciELO CI is 
@@ -273,151 +169,58 @@ important because it is a relatively new citation index, as well as being one of
 regional indexes, that are still not widely used in bibliometric studies. Furthermore, the study 
 of the citation flow between languages is of great value if undertaken in a regional citation 
 index. 
+
 The dependent variables are represented by relative impact indicators:  
+
 a) citations in the language of the author's country of institutional affiliation – which 
 we simply call the “national language”, or “native language”, as a synonym –, 
 with regard to the total number of citations in any language, and 
+
 b) citations in SciELO CI, with regard to the total number of citations in all the WoS 
 citation sources – which include SciELO CI.  
+
 We have included the number of citations accumulated in the registration of each 
 article, without forming a citation window. The percentage of publications in the national 
- 
-1 In January 2014, the SciELO Citation Index (SciELO CI) came into operation, by forming a partnership 
-between the SciELO / FAPESP Program and Thomson Reuters, through the Web of Science (WoS) platform. 
-One of the objectives of this integration was to make it possible to carry out the indexing of SciELO journals, 
-in particular the citation count in a wide domain of journals, including those indexed in the SciELO Network 
-and in the WoS platform[37]. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-7 
- 
- 
- 
- 
- 
 language was taken into account as an independent variable. Finally, the unit of analysis was 
 the author's country of institutional affiliation. 
+
 The sample was selected to reflect the most prolific countries in Public and Collective 
 Health in SciELO CI. The percentages were only calculated when the country's output 
 amounted to at least 50 articles in a given language. 
- 
-RESULTS 
+
 The distribution of the research output of authors from institutions in the countries 
 that publish most in SciELO CI journals, is displayed in Table 1. It can be seen that the 
 publication rate in the national language is at least 80%, for countries which belong to the 
 SciELO Network. The United States (USA) is the exception, with 73.6%, and it should be 
 noted that, as well as not having its own journals in SciELO CI, names from this country 
 appear as the co-authors of research conducted in Latin America in most of the articles. 
+
 On the other hand, in the case of Brazil, publications in other languages are more 
 evident – 17.8% are in English (IN), followed by the USA, with 16.1% in Spanish (ES) and 
 10.5% in Portuguese (PT) - once again the US-Americans stand out as important 
 contributors. Brazil has been making a significant attempt to internationalize its journals, 
 and this is reflected in its current output. Peru and Colombia are countries whose journals 
 mainly publish articles in the national language. 
- 
-Table 1: Distribution of scientific output, according to the publication language of the 
-countries that have been most prolific in the area of Public and Collective Health – SciELO 
-CI, 2011-2015. 
-Author´s 
-country of 
-institutional 
-affiliation 
-Articles in SciELO CI 
-% by language 
-PT 
-SP 
-EN 
-Other 
-Total 
-PT 
-SP 
-EN 
-Brazil 
-4,566 
-119 
-1,018 
-1 
-5,704 
-80.0% 
-2.1% 
-17.8% 
-Colombia 
-10 
-1,168 
-71 
-- 
-1,249 
-0.8% 
-93.5% 
-5.7% 
-Spain 
-20 
-822 
-94 
-- 
-936 
-2.1% 
-87.8% 
-10.0% 
-Cuba 
-1 
-456 
-45 
-- 
-502 
-0.2% 
-90.8% 
-9.0% 
-Peru 
-- 
-410 
-17 
-- 
-427 
-0.0% 
-96.8% 
-4.0% 
-USA 
-40 
-61 
-279 
-- 
-380 
-10.5% 
-16.1% 
-73.4% 
-Abbreviations: PT=Portuguese; SP=Spanish; EN=English 
- 
+
 When analyzing the citations obtained, two variables allowed us to assess their 
 relative impact, on the basis of the proportion of article citations that correspond to the total 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-8 
- 
- 
- 
- 
- 
 number of citations: a) in the national language compared with citations in any language 
 (Fig. 1-A); and b) citations from the SciELO CI database compared with all the WoS 
 databases (Fig. 1-B). 
+
 The percentages in Fig. 1 were only calculated in cases where the country had 
 published at least 50 articles in that language. It can thus be observed that Brazil is the only 
 country that met this criterion in Portuguese. In addition, Fig. 1-A shows that Brazil achieves 
 the greatest impact in its own language (55.7%) by publishing in Portuguese. When articles 
 are published in English, the impact on its own language is 47.9%, followed by 34.4% when 
 they are published in Spanish.  
+
 The impact on the native language is also more significant in the cases of Colombia 
 and Spain. In the case of Spain, the percentage of articles cited in Spanish, (when the paper 
 cited is in the same language), is more than double that of the papers cited in English. The 
 same is true for the USA, with 42.5 percent of citations in its own language when it is 
 published in English, and 14.7 percent when it is only published in Spanish.  
+
 In the case of Cuba and Peru more than 90 percent of their impact is in their own 
 language, with no clear evidence of their production gaining exposure. On the other hand, 
 the United States has the greatest impact on other languages, especially when it publishes in 
@@ -426,6 +229,7 @@ in Spanish. This is due to the representativeness of the Spanish-speaking audien
 database. Spain has a considerable impact on other languages when it publishes in English. 
 It is clear from Fig. 1-A that the publication language has an influence on the language of 
 the target audience.  
+
 We now turn to Fig. 1-B, where the particular audience is provided by SciELO CI. 
 Brazil, again, is the only case that allows the percentage of citations in SciELO CI to be 
 compared, when the three publication languages are taken into account. The SciELO CI 
@@ -433,86 +237,21 @@ domain is important for its audience, which represents about two thirds of the d
 the WoS platform, when it publishes in Portuguese. Next comes the Spanish language, where 
 the impact on SciELO CI is a little less than 60.8%. The effects of the English language are 
 less apparent in the SciELO CI domain (40.8%). 
+
 All the other countries have a more representative impact on SciELO CI, when they 
 publish in Spanish, even the USA. Unlike what was observed with regard to the language of 
 the articles cited, the SciELO CI regional database is a valuable resource and acts as a 
 showcase for impact, when it comes to publications in Spanish or Portuguese. On the other 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-9 
- 
- 
- 
- 
- 
 hand, the effect of publications in English is more significant in the WoS database, 
 particularly in the case of Brazil, followed by Colombia and Spain. It should be noted that 
 the volume of citations to the USA, when published in English, is less than 9%, since their 
 impact is mainly outside SciELO CI. 
- 
-Figure 1: Distribution of the percentage of citations, based on the total number of citations 
-for each publication language : [A] in the local language of the publishing country with 
-regard to citations in any language; [B] in SciELO CI with regard to all the WoS citation 
-sources – SciELO CI, 2011-2015 
- 
-Abbreviations: PT=Portuguese; SP=Spanish; EN=English 
- 
+
 Each of the two previous variables are now analyzed together with the percentage of 
 publications in the national language. Figure 2 shows that the linear relationship of the 
 percentage of publications in the native language is more representative when the analysis 
 takes account of the impact on the national language (measured in percentage terms) (Fig. 
-0%
-20%
-40%
-60%
-80%
-100%
-Brazil
-Colombia
-Spain
-Cuba
-Peru
-USA
-PT
-SP
-EN
-0%
-20%
-40%
-60%
-80%
-Brazil
-Colombia
-Spain
-Cuba
-Peru
-USA
-PT
-SP
-EN
-[A]
-[B]
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-10 
- 
- 
- 
- 
- 
-2-A). This suggests that countries that publish less in their own language have a more 
-representative audience in other languages. 
- 
-Figure 2: Simple Linear Regression for adjustments between the percentage of publications 
-in the native language and percentage of citations: [A] in the native language; [B] in 
-SciELO CI, 2011-2015 
- 
+
 The non-linearity in the relationship with the representativeness of the SciELO CI 
 domain seems, to some extent, to be caused by the countries represented in it (Fig. 2-B), 
 which are Brazil, USA and Spain. Brazil is the one that has more journals, and has a 
@@ -524,70 +263,18 @@ impact. On the other hand, it should be pointed out that, although SciELO CI is 
 recognized database that can be employed in the analysis of the impact of the research output 
 of the LAC countries on Public and Collective Health. Moreover, all LAC countries also 
 have some impact within the wider context of the WoS platform. 
- 
-CONCLUSION  
+
 The compilation of the SciELO Citation Index – is a recent undertaking that has 
 replaced its older global reference database – WoS Core Collection. For a long time, this 
 endeavor was justified simply on the grounds that it could make scientific output visible and 
 available in open access – which in itself is very significant, insofar as it provides greater 
-Brazil
-Colombia
-Spain
-Cuba
-Peru
-USA
-R² = 0.445
-5%
-15%
-25%
-35%
-45%
-55%
-65%
-75%
-70%
-80%
-90%
-100%
-% Citations (SciELO CI / WoS)
-% Articles in national language
-Brazil
-Colombia
-Spain
-Cuba
-Peru
-USA
-R² = 0.9245
-40%
-55%
-70%
-85%
-100%
-70%
-80%
-90%
-100%
-% Citations in national language
-% Articles in national language
-[A]
-[B]
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-11 
- 
- 
- 
- 
- 
 exposure to nationally published journals. Furthermore, one feature that adds to the 
 credibility of the SciELO collection is its selectivity, which is the result of the strict 
 assessment procedures and criteria applied by the scientific advisory committee of each 
 country that belongs to the SciELO Network. Unfortunately, many previous studies have 
 shown that research published, by “high-quality”, national journals receives fewer citations 
 than commercial “high impact” journals. 
+
 Since the SciELO Network has now been operating for more than 20 years,, the 
 analysis of the impact of its scientific output on the Public and Collective Health areas has 
 made it possible to find out which countries in the region are most productive. This can be 
@@ -597,6 +284,7 @@ platform. This approach underlines the importance of a database such as SciELO C
 research area concerned with local problems, which are best investigated by nationally- 
 affiliated researchers, and are evident in regional or local communities, and where native 
 languages play an important role. 
+
 The analysis of the number of citations made in the native language of the author’s 
 country revealed that there was a linear relationship between the percentage of publications 
 and their impact on their native language. Brazil and the USA publish the least amount of 
@@ -607,24 +295,15 @@ of Spain and the USA, their lowest impact is found in SciELO, which suggests tha
 citations come from outside the domain of SciELO CI. On the other hand, the Latin 
 American countries were notable for the extent of their impact in this research area (about 
 two-thirds of what they obtain from the WoS platform). 
+
 The hegemony of English in science has imposed the use of this language on scientific 
 communication. However, the use of native languages is essential to communicate the results 
 of research in some local and regional communities, such as in the case of Public and 
 Collective Health. In recent years, there has been a growing interest among the scientific 
 community in examining and recommending the responsible use of indicators in evaluation. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-12 
- 
- 
- 
- 
- 
 As a result of this trend, a series of documents with high-level positioning [37-41] were 
 published and some of them highlight the importance of publishing in the native language 
+
 In many parts of the world, excellence in research is associated with publishing in 
 English. This can be particularly problematic for areas such as the Social Sciences and 
 Humanities or Public and Collective Health, which are geared towards research into matters 
@@ -636,194 +315,10 @@ number of citations, even when its research work is published in the native lang
 policymakers. Understanding the dynamics of the citations and the scope of publication in 
 the native language, can assist in the definition of fairer and more responsible scientific 
 policy strategies that do not make them invisible. 
+
 There is a need to recognize and reward the scientific output of research communities 
 which are of local or regional interest, and make it possible to strike a better balance between 
 publications in English. The existence of regional citation indexes in broader platforms such 
 as the Web of Science, makes it possible to give this knowledge greater visibility and 
 inclusion in the global flow of scientific information, as well as to ensure "linguistic 
 accessibility" to local or regional communities. 
- 
-REFERENCES 
- 
-1. Nassi-Calò L. Estudo aponta que artigos em inglês atraem mais citações. São 
-Paulo: SciELO em Perspectiva; 2016. Available from: 
-https://blog.scielo.org/blog/2016/11/04/estudo-aponta-que-artigos-publicados-
-em-ingles-atraem-mais-citacoes/. 
-2. Meneghini R, Packer AL. Is there science beyond English? Initiatives to increase 
-the quality and visibility of non-English publications might help to break down 
-language barriers in scientific communication. EMBO Rep. 2017;8(2):112-6. 
-3. Di Bitetti MS, Ferreras JA. Publish (in English) or perish: the effect on citation 
-rate of using languages other than English in scientific publications. Ambio. 
-2016;46(1): 121-7. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-13 
- 
- 
- 
- 
- 
-4. Fiorin JL. Internacionalização da produção científica: a publicação de trabalhos 
-de Ciências Humanas e Sociais em periódicos internacionais. Revista Brasileira 
-de Pós-Graduação. 2007;4(11):263-81. 
-5. Vargas RA, Vanz SAAS, Stumpf IRC. Brazilian agricultural research in the web 
-of science: bibliometric study of scientific output and collaboration (2000-2011). 
-Em Questão. 2015;21(3):296-318. 
-6. Packer AL. Indicadores de centralidade nacional da pesquisa comunicada pelos 
-periódicos de saúde coletiva editados no Brasil. Ciênc saúde coletiva. 
-2015;20(7):1983-95. 
-7. Gazni A. Globalization of national journals: Investigating the growth of 
-international authorship. Learned Publishing. 2015;28(3):195-204. 
-8. Sivertsen G. Balanced multilingualism in science. BiD: textos universitaris de 
-biblioteconomia i documentació. 2018;40. 
-9. Albagli S, Clinio A, Raychtock S. Ciência aberta: correntes interpretativas e tipos 
-de ação. Liinc em Revista. 2014;10(2):434-50. 
-10. Belli S, Baltà J. Stocktaking scientific publication on bi-regional collaboration 
-between Europe 28 and Latin America and the Caribbean. Scientometrics. 
-2019;121(3): 1447-80. 
-11. Testa J. The globalization of Web of Science. Philadelphia: Thomson Reuters; 
-2011. Available from: http://wokinfo.com/media/pdf/globalwos-essay. 
-12. Collazo-Reyes F. Growth of the number of indexed journals of Latin America 
-and the Caribbean: the effect on the impact of each country. Scientometrics. 
-2013;89(1):197-209. 
-13. Lucio-Arias D, Vélez-Cuartas G, Leydesdorff L. SciELO Citation Index and 
-Web of Science: distinctions in the visibility of regional science. In: Salah AA, 
-Tonta Y, Akdag Salah AA, Sugimoto C, Al U, editors. 15th International 
-Conference of the International Society of Scientometrics and Informetrics; 2015 
-29 Jun-3 Jul; Istanbul: Boğaziçi Universitesi. p. 1152-60. Available from: 
-http://issi-society.org/proceedings/issi_2015/1152.pdf. 
-14. Luukkonen T, Persson O, Sivertsen G. Understanding patterns of international 
-scientific collaboration. Science, Technology, & Human Values. 1992;17(1):101-
-26. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-14 
- 
- 
- 
- 
- 
-15. Sancho R, Morillo F, De Filippo D, Gómez I, Fernández MT. Indicadores de 
-colaboración científica inter-centros en los países de América Latina. 
-Interciencia. 2006;31(4):284-92. 
-16. Vélez-Cuartas G, Lucio-Arias D, Leydesdorff L. Regional and global science: 
-publications from Latin America and the Caribbean in the SciELO Citation Index 
-and the Web of Science. El Profesional de la Información. 2016;25(1):1699-
-2407. 
-17. Minniti S, Santoro V, Belli S. Mapping the development of open access in Latin 
-America and Caribbean countries: an analysis of web of science core collection 
-and SciELO Citation Index (2005-2017). Scientometrics. 2018;117(3):1905-30. 
-18. Hacker, J. Deutsche Wissenschaft im europäischen und internationalen Kontext – 
-Effekte? Aus Deutschland in die Welt – und umgekehrt (Deutsche Akademie der 
-Naturforscher Leopoldina, Nationale Akademie der Wissenschaften). In: Krull, 
-W. (Presidencia). Pakte, nichts als Pakte – Was braucht das deutsche 
-Wissenschaftssystem in den 2020er Jahren? Hannover, Germany: 
-VolkswagenStiftung, 2019 Available from: 
-https://www.volkswagenstiftung.de/sites/default/files/downloads/Programm_Pakt
-e.pdf. 
-19. Adams J. The fourth age of research. Nature. 2013;497(7451):557-60. 
-20. Kosmützky A. A two-sided medal: On the complexity of international 
-comparative and collaborative team research. Higher Educ Q. 2018;72:314-31. 
-21. Katz JS, Hicks D. How much is a collaboration worth? A calibrated bibliometric 
-model. Scientometrics. 1997;40:541-54. 
-22. Aref S, Zagheni E, West J. The demography of the peripatetic researcher: 
-evidence on highly mobile scholars from the web of science. In: Weber I et al., 
-editors. Social informatics. Cham: Springer; 2019. 
-23. Robinson-Garcia N, Sugimoto CR, Murray DS, Yegros-Yegros A, Larivière V, 
-Costas R. Scientific mobility indicators in practice: international mobility profiles 
-at the country level. Profesional de la Información. 2018;27(3): 511-20. 
-24. Wagner CS, Leydesdorff L. Network structure, self-organization, and the growth 
-of international collaboration in science. Research Policy. 2005;34(10):1608-18. 
-25. Leite P, Mugnaini R, Leta J. A new indicator for international visibility: 
-exploring Brazilian scientific community. Scientometrics. 2011;88:311. 
-26. Aufderheide, E. Deutsche Wissenschaft im europäischen und internationalen 
-Kontext – Effekte? Aus Deutschland in die Welt – und umgekehrt (Alexander 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-15 
- 
- 
- 
- 
- 
-von Humboldt-Stiftung). In: Krull, W. (Presidencia). Pakte, nichts als Pakte – 
-Was braucht das deutsche Wissenschaftssystem in den 2020er Jahren? Hannover, 
-Germany: VolkswagenStiftung, 2019. Available From: 
-https://www.volkswagenstiftung.de/sites/default/files/downloads/Programm_Pakt
-e.pdf. 
-27. Helsinki Initiative. Helsinki Initiative on Multilingualism in Scholarly 
-Communication. Helsinki: Federation of Finnish Learned Societies; 2019. 
-Available from: https://doi.org/10.6084/m9.figshare.7887059. 
-28. Kulczycki E. Insights regarding social sciences and humanities obtained from 
-studies of national bibliographic databases. Poznań: 3rd ENRESSH Training 
-School; 2019. Available from: https://enressh.eu/wp-content/uploads/2019/06/10-
-Emanuel-Kulczycki-%E2%80%93-SSH.pdf. 
-29. Ruland, D. Deutsche Wissenschaft im europäischen und internationalen Kontext 
-– Effekte? Aus Deutschland in die Welt – und umgekehrt (Deutscher 
-Akademischer Austauschdienst). In: Krull, W. (Presidencia). Pakte, nichts als 
-Pakte – Was braucht das deutsche Wissenschaftssystem in den 2020er Jahren? 
-Hannover, Germany: VolkswagenStiftung, 2019. Available From: 
-https://www.volkswagenstiftung.de/sites/default/files/downloads/Programm_Pakt
-e.pdf. 
-30. Fraumann G, Güney I. Human resources management, internationalization and 
-academic staff mobility. In: Pausits A, editor. Human resource management in 
-higher education: case studies and future scenarios. Krems an der Donau: Danube 
-University Krems; 2015. 
-31. Education, Audiovisual and Culture Executive Agency. European universities. 
-Brussels: Education, Audiovisual and Culture Executive Agency; 2018. 
-Available from: https://eacea.ec.europa.eu/erasmus-plus/actions/key-action-2-
-european-universities_en. 
-32. Waltman L, Calero‐Medina C, Kosten J, Noyons ECM, Tijssen RJW, van Eck 
-NJ, et al. The Leiden ranking 2011/2012: Data collection, indicators, and 
-interpretation. Journal of the Association for Information Science and 
-Technology. 2012;63(12):2419-32. 
-33. Small H. On the shoulders of Robert Merton: towards a normative theory of 
-citation. Scientometrics. 2004;60:71-9. 
-34. Sørensen MP, Schneider JW. Studies of national research performance: A case of 
-‘methodological nationalism’ and ‘zombie science’? Science and Public Policy. 
-2017;44(1): 132-45. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)
- 
- 
- 
-16 
- 
- 
- 
- 
- 
-35. Wagner CS, Park HW, Leydesdorff L. The Continuing Growth of Global 
-Cooperation Networks in Research: A Conundrum for National Governments. 
-PLoS ONE. 2015;10(7): e0131816. 
-36. Kulczycki E, Engels TCE, Pölönen J, Bruun K, Dušková M, Guns R, et al. 
-Publication patterns in the social sciences and humanities: evidence from eight 
-European countries. Scientometrics. 2018;116:463-86. 
-37. Packer AL. SciELO Citation Index no Web of Science. São Paulo: SciELO em 
-Perspectiva; 2014. Available from: 
-https://blog.scielo.org/blog/2014/02/28/scielo-citation-index-no-web-of-science/. 
-38. DORA. Declaración De San Francisco Sobre La Evaluación De La Investigación. 
-San Francisco: DORA; 2012. Available from: https://sfdora.org/read/es/. 
-39. Hicks D, Wouters P, Waltman L, de Rijcke S, Rafols I. Bibliometrics: The 
-Leiden Manifesto for research metrics. Nature. 2015;520:429-31. 
-40. Wilsdon J, Allen L, Belfiore E, Campbell P, Curry S, Hill S, et al. The Metric 
-Tide: Report of the Independent Review of the Role of Metrics in Research 
-Assessment and Management. Bristol: Higher Education Funding Council for 
-England; 2015. Available from: 10.13140/RG.2.1.4929.1363. 
-41. Moher D, Bouter L, Kleinert S, Glasziou P, Sham MH, Barbour V, et al. The 
-Hong Kong Principles for assessing researchers: Fostering research integrity. 
-PLoS Biol. 2020;18(7):e3000737. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1549
-Powered by TCPDF (www.tcpdf.org)

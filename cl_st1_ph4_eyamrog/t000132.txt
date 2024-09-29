@@ -1,33 +1,3 @@
-Status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.3389/fpubh.2021.637897
-From modern Planetary Health to decolonial promotion of One
-Health of Peripheries
-Oswaldo Santos Baquero, Mario Nestor Benavides Fernández, Myriam Acero Aguilar
-https://doi.org/10.1590/SciELOPreprints.2053
-Submitted on: 2021-03-26
-Posted on: 2021-03-26 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-From modern Planetary Health to decolonial promotion of One Health 
-of Peripheries
-Oswaldo Santos Baquero1,2*, Mario Nestor Benavidez Fernández3, 
-Myriam Acero Aguilar4
-1 Department of Preventive Veterinary Medicine and Animal Health, School of 
-Veterinary Medicine and Animal Science, University of São Paulo. Av. Prof. 
-Orlando Marques de Paiva, 87, Cidade Universitária, CEP: 05508-270, São Paulo, 
-SP, Brazil. ORCID: https://orcid.org/0000-0003-2695-7946
-2 Research Group on Peripheries, Institute of Advanced Studies, University of 
-São Paulo. Rua da Praça do Relógio, 109, Cidade Universitária, CEP: 05508-050, 
-São Paulo, SP, Brazil.
-3 Universidad de San Buenaventura. Facultad de Humanidades y Ciencias de la 
-Educación. Carrera 8H 172 20 Bogotá, Colombia. ORCID: https://orcid.org/0000-
-0002-1183-214X
-4 Universidad Nacional de Colombia, Facultad de Medicina Veterinaria y de 
-Zootecnia, Departamento de Salud Animal, Grupo de Investigación en Estudios 
-Humano Animal. Calle 45 35 00 bogotá, Colombia. 
-ORCID: https://orcid.org/0000-0003-0107-4960
-* Correspondence: Oswaldo Santos Baquero, baquero@usp.br
-Abstract
 The concept of Planetary Health has recently emerged in the global North as a 
 concern with the global effects of degraded natural systems on human health. It 
 calls for urgent and transformative actions. However, the problem and the call to
@@ -49,15 +19,7 @@ marginalizing apparatuses. In the present article, we show how the decolonial
 promotion of One Health of Peripheries contributes to think and advance 
 decentralized and plural practices to attend to local realities. We propose seven 
 actions for such promotion.
-Keywords: One Health of Peripheries, Modernity, Coloniality, Decolonial
-Turn, Health Inequities, One Health, Planetary Health, More-than-
-human Biopolitics
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-1
-Introduction
+
 Modernity is a popular concept, often referred to the idea of progress, to positive
 and necessary changes to build a better future. Less famous is the critical 
 comprehension of the modernity/coloniality cultural complex. This is not 
@@ -72,6 +34,7 @@ domination in territories occupied by Europeans, typical of the period of
 colonization of America, which, far from being the discovery of America, was 
 what Dussel called the discovery of an invasion and framed as the very origin of 
 modernity (4).
+
 The global South is a metaphor regarding the “field of epistemic challenges that 
 seek to repair the damage and historical impacts caused by capitalism in its 
 colonial relationship with the world” [translation is ours] (5). Therefore, the 
@@ -91,6 +54,7 @@ and the exploration that underpins the growth of their wealth. The Rockefeller
 Foundation’s philanthropy has been around since the early 20th century, with 
 strategies to shape the health professions and structure public health services 
 (8–10).
+
 But such strategies have also generated decolonial health responses. This is the 
 case of Collective Health (9,11), Critical Epidemiology (12), and South-South 
 International Health (13). However, these responses inherited part of the 
@@ -103,12 +67,9 @@ In the report of The Rockefeller Foundation–Lancet Commission on Planetary
 Health, nonhuman beings appear within terrestrial systems that only have 
 instrumental value, due to their role in human health (16). Like previous projects
 of the Foundation, Planetary Health can be read as a proposal for preserving the
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 capitalist order in the face of the perceived need to avoid environmental 
 deterioration and its impacts on human health.
+
 One Health of Peripheries is a decolonial response to experience, understand, 
 and improve the well-being of marginalized multispecies collectives (17). 
 Baquero presents the biopolitics, social determination, and field of praxis of One 
@@ -117,6 +78,7 @@ and leaving implicit its decolonial foundation (17). One of the aspects that sho
 this foundation is the opposition to animalization, a marginalizing apparatus 
 registering nonhuman animals and marginalized human groups in colonial 
 domination spaces that determine epidemiological profiles.
+
 The excess risks underlying peripheral epidemiological profiles increase the 
 relevance of primary, secondary, and tertiary prevention, that is, of measures 
 directed at specific factors to (1) avoid, (2) early detect and treat, and (3) 
@@ -130,20 +92,21 @@ the resources and capabilities to live well), the absence of diseases or ill-hea
 is not enough in terms of promotion because that absence does not exhaust the 
 possibility of a better life. Promotion is not restricted to risk factors or specific 
 problems; it also works on resources and capabilities.
+
 One Health of Peripheries is inherently preventive because its field of praxis 
 generates excess risk and disease burden. However, peripheries are more than 
 collections of risks and injuries; they have structurally oppressed resources and 
 capabilities, which the ecology of knowledge can release in a multispecies 
 health framework. Such release is the task of decolonial promotion of One 
 Health of Peripheries.
+
 In what follows, we present the myth of modernity and then continue with the 
 colonial precedents of the Rockefeller Foundation’s philanthropy and the 
 coloniality in the report of The Rockefeller Foundation–Lancet Commission on 
 Planetary Health. After this decolonial turn, we move to the ecology of 
 knowledge to frame our proposal of decolonial promotion of One Health of 
 Peripheries.
-2
-Modernity and coloniality
+
 Modernity designates a political, social, and cultural European process that in 
 the 15th century allowed the emergence of capitalism, and since then, its 
 development as a global economic system (18). Modernity has as a backdrop 
@@ -155,16 +118,13 @@ pointed out two connotations of modernity: one, primary and positive, that
 understands modernity as an effort of rational emancipation that opens for 
 humanity a new historical development, and the other, secondary and negative, 
 in which modernity justifies irrational violence (23). According to this 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 perspective, the only civilizing possibility for the “barbarian” peoples seems to 
 be their gradual incorporation into the modern and Eurocentric project that 
 depends to a large extent on the epistemological authority and alleged 
 ontological superiority (racial, ethnic, geopolitical) of the global North (2). The 
 incorporation to that project (modernization) has not been, however, an 
 encounter between equals, but on the contrary, a violent conversion.
+
 This violence, invested with heroism and redemption, marks the myth of 
 modernity, synthesized by Dussel in seven elements: ‘(1) Modern (European) 
 civilization understands itself as the most developed, the superior, civilization. 
@@ -186,6 +146,7 @@ victims from their guilt. (7) Given this “civilizing” and redemptive charact
 modernity, the suffering and sacrifices (the costs) of modernization imposed on 
 “immature” peoples, enslaved races, the “weaker” sex, etcetera, are inevitable 
 and necessary’ (1).
+
 Such suffering and sacrifice become less visible in the light of the seduction that
 turns modernity into aspiration, rather than imposing it through systematic and 
 constant repression: “colonizers also imposed a mystified image of their own 
@@ -202,21 +163,17 @@ attains the aspiration. The ontological superiority of the myth of modernity lim
 material benefits and the exercise of power so that racial, ethnic, and 
 geocultural attributes frustrate or advance the aspiration, depending on their 
 configuration (24).
+
 The configurations of these attributes define the place of hegemonic production 
 of epistemologies of health and, what is more important, how they materialize in
 health. Within modernity, the global North produces epistemologies. In contrast, 
 the global South is limited to benefit from the transfer of knowledge or  
 knowledge building within the epistemological production patterns established 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 by modernity. As we will see, the global North’s health discourses align with the 
 interests of the dominant groups of dominant nations, and to the extent that 
 they neglect the interests of peripheral groups, they induce particular 
 epidemiological profiles.
-3
-Colonial precedents of Rockefeller Foundation
+
 Capitalism, made possible by coloniality, generates figures like the one recently 
 reported by Coffey and collaborators (25): in 2019, the world's billionaires, just 
 2,153 people, accumulated more wealth than 4.6 billion people. In other words, 
@@ -231,6 +188,7 @@ strategy to legitimize the elites and avoid responsibility for the poverty they
 generate and the exploitation that underpins the growth of their wealth. The 
 dialectics between both sides reproduces inequalities and determine conditions 
 of possibility to produce alternatives.
+
 The mentioned transfers can increase the symbolic and cultural capital of elites 
 and consequently their economic capital. Moreover, legitimization strategies are
 also economic investments. Among the main strategies is the influence on the 
@@ -243,6 +201,7 @@ rankings according to modern criteria), many of which are partially homonyms
 with their founders’ magnates (26). John D Rockefeller, the first world billionaire 
 and owner of the Standard Oil Company, contributed to founding the University 
 of Chicago (26).
+
 According to Vieria-da-Silva (9), philanthropists at the beginning of the 20th 
 century anticipated a social reform that they saw as inevitable, investing in 
 scientific approaches to social issues that did not threaten the capitalist order. 
@@ -250,6 +209,7 @@ The Rockefeller Sanitary Commission was created in 1909 (The Rockefeller
 Institute in 1901 and The Rockefeller Foundation in 1913). One of its central 
 objectives was the industrialization of the agrarian South and its articulation to 
 the capitalist interests of the North (9).
+
 The Rockefeller Foundation continued to invest and intervene in the research 
 and development of medicine (9). In 1947, its official Fred Sopper became 
 director of the Opas, an institution subordinated to the United States’ health 
@@ -258,12 +218,9 @@ Second War, with the creation of the WHO, the Opas became a Regional Office
 of that organization. During the Cold War, the United States’ foreign policy, in 
 defense of free trade and foreign investment, involved the creation of a 
 favorable image (9). According to Tota, Nelson Rockefeller, Coordinator of the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 Office of the Coordinator of the Inter-Americans Affairs, contributed to an explicit
 project to promote the United States’ image (27).
+
 In the dispute over the monopoly of legitimate healthcare practices in Latin 
 America, the Rockefeller Foundation's goal was to replace the French model (9). 
 In the 1950s, the Opas was fundamental to this objective, through its strategies 
@@ -277,14 +234,13 @@ possibilities of modern medicine in the way of diagnosis, treatment and
 prevention of diseases, may be brought within the reach of all people. This 
 function, it is believed, should be performed by the medical profession and not 
 to any form of State Medicine” [translation and emphasis is ours].
-4
-Coloniality in the report of the Rockefeller Foundation–Lancet 
-Commission on Planetary Health 
+
 The report of the Rockefeller Foundation-Lancet Commission on Planetary Health
 maintains the Foundation’s historical concern with inequality, the health of the 
 poorest, and the environment. Such insistence is again a colonial proposal for 
 preserving the capitalist order in the face of the perceived need to avoid 
 environmental deterioration and its impacts on human health.
+
 Although we discussed some Rockefeller Foundation colonial precedents in the 
 previous section, it is worth noting that Planetary Health also has precedents 
 omitted in the report (29). Over the last half-century, integrative medicine, 
@@ -299,6 +255,7 @@ legacies in which it is not new to think that health and well-being are also
 nature: “The importance of the natural environment in supporting human health
 and wellbeing is only becoming clear as the Earth's systems are degraded” 
 [emphasis is ours] (16).
+
 How is the modern trajectory of humanity progressing if there have never been 
 so many victims of genocide, dispossession, forced displacement, and 
 exploitation? Which humanity is the one that progresses? The same colonizing 
@@ -306,20 +263,19 @@ and modern humanity for which there is only one civilization, even though
 Western civilization is known to coexist with other civilizations: “Put simply, 
 planetary health is the health of human civilization and the state of the natural 
 systems on which it depends” (16).
+
 It is not the humanity of backward and irrational peoples with visionary healers. 
 It is rational humanity with visionaries from the global North: “[…] Tony 
 McMichael whose visionary book Planetary Overload, published more than 20 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 years ago, presciently addressed many of the issues that confront the world at 
 present” (16).
+
 The previous decolonial reading of the report does not imply its total rejection. 
 The problems pointed out by the Commission must be solved, and it is pertinent 
 to evaluate the attempts at resolution, for which, as the Commission indicates, 
 quantitative indicators are helpful. But these should be used considering their 
 different implications.
+
 Let's look at two examples from the report. Between 1990 and 2012, the 
 percentage of stunted children decreased from 50% to 30%, a significant 
 advance in relative terms. However, in absolute terms, this reduction 
@@ -334,6 +290,7 @@ additional stunted children, while wealth concentration in the global North
 continues. Moreover, relative indicators fuel a discourse of hope, of the 
 possibility of unlimited “progress”, causing increasingly smaller proportional 
 damages.
+
 The other example regards reducing the percentage of people in extreme 
 poverty during the last two centuries. This reduction represents important 
 improvements in the well-being of those who come out of extreme poverty. 
@@ -346,6 +303,7 @@ population. Otherwise, only mentioning the reduction in the fraction or number
 of individuals within unfavorable categories may conceal that changes occur in 
 intervals far from thresholds that decision-makers would accept for themselves 
 in the global North.
+
 Thresholds help to identify limits from which damages become irreversible: 
 “Action has to be taken before irreversible changes in key Earth systems occur, 
 which will require decision-making under uncertainty (panel 13) about the 
@@ -354,6 +312,7 @@ of warning of catastrophes, thresholds are helpful to raise awareness and
 generate changes. However, at the same time, they can promote policies of 
 acceptable minimums to avoid only irreversible changes instead of promoting 
 multispecies flourishing.
+
 Policies of acceptable minimums are symptomatic of crisis that leads not to 
 crossing or scarcely crossing minimum thresholds. A crisis that, when it 
 becomes persistent, ceases to be explained and becomes an explanation (32). 
@@ -361,14 +320,11 @@ Thus, a previous level of causality that perpetuates the status quo is lost. Thi
 evident in the report, in its fragmented descriptions of the threats to Planetary 
 Health. For example, it presents changes in land use as a human action on the 
 “environment”, with deleterious effects on health, without considering their 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 causes (16). From the perspective of One Health of Peripheries, the problem to 
 solve resides in the capitalization of land that generates forced displacement of 
 millions of people and animals, reduces biodiversity, and worsens the climate 
 crisis.
+
 The report identifies several causes of deterioration in health, and we agree with
 that identification. Our critique here is about the omission of previous causal 
 levels. We also agree with the report in other points: the inconvenience of GDP 
@@ -380,10 +336,12 @@ Our disagreement is, as shown by the previous decolonial viewpoint, in the
 interpretation of these messages and in the premises of the conclusions. From 
 our reading, the report's proposal is convenient to preserve the status quo that 
 makes the health of the planet ill.
+
 The report calls for price stability and malnutrition management to fight hunger 
 but not for food sovereignty and security: “[E]nsure stability of food prices and 
 protect the vulnerable from variability that does occur; and tackle malnutrition” 
 (16).
+
 Again in a context of hunger, the proposal is to improve the access of the poor 
 to technology to reduce inequalities, without discussing the control of 
 technology or technological benchmarks; thus, helping oligopolies of the 
@@ -391,16 +349,19 @@ technology market to have more clients: “If these [modern] technologies are to
 make a useful contribution to the reduction of global hunger they have to both 
 protect the environment and be accessible to farmers in low-income settings, 
 otherwise inequities will persist and increase” (16).
+
 In modern-colonial logic, it is essential to maintain epistemological hegemony. 
 Those who do not exercise that hegemony must support it to benefit from it: 
 “But to have a real effect, and to change the trajectory of planetary health, 
 these local movements will need coherence, organization, and solidarity with the
 scientific and health communities” (16).
+
 Those who exercise it have a voice and can be even more influential with the 
 support of those who do not have voice: “The scientific and health communities,
 in turn, will be much more successful in influencing decision-makers who are 
 feeling pressure for change from their constituents than they would without the 
 support of civil society” (16).
+
 In the medical care cost crisis, Private Medicine was clear and explicit in its 
 intention to maintain the hegemony and avoid the participation of State 
 Medicine (see the previous section). Similarly, the Rockefeller Commission is 
@@ -410,20 +371,16 @@ decide what is relevant: “Research funders and the academic community frame
 what questions get asked by scientists and can steer development of new ways 
 of addressing major gaps in knowledge, scientific awareness, and academic 
 focus” (16).
+
 It is the modern logic imposed over centuries  that says (note again the use of 
 acceptable minimums and the meaning of acceptance): “At present trends, even
 with optimistic assumptions, the eradication of poverty (with a poverty line 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 income of USD$5/day per person) will take 200 years, or 100 years for a poverty
 line of USD$1.25/day” (16). So there is no much to expect from modern trends.
 It is necessary to overcome the modern crisis of civilization, starting from the 
 first challenge identified in the report: “conceptual and empathy failures 
 (imagination challenges)” (16).
-5
-Ecology of knowledge
+
 The previous decolonial reading of the report, pointing to some of its 
 possibilities, limits and obstacles, commits us from the global South to 
 understand deeper causal levels and transform the current relationship between
@@ -436,6 +393,7 @@ based on the practices of the classes and social groups that have suffered, in a
 systematic way, destruction, oppression, and discrimination caused by 
 capitalism, colonialism, and the naturalization of inequality” [translation is ours] 
 (33).
+
 According to Santos, non-Western forms of thought have been treated in an 
 abyssal way by hegemonic modern Western thought, referring by abyssal to 
 visible and invisible distinctions that divide social reality into two universes: one 
@@ -451,24 +409,23 @@ universe of what the accepted conception of inclusion considers to be its Other.
 In colonial societies, appropriation and violence segregate multispecies 
 collectives, that is, subjects, nature, bodies, and knowledge that are on the side 
 of denial, translating into permanent hierarchies (33).
+
 Western modernity eliminates any reality that is on the other side of the line. 
 Everything that does not fit in true-false or legal-illegal axes occurs in colonial 
 zones (33). The abyssal lines are constitutive of the political and cultural 
 relations based on the West and the interactions in the modern world-system 
 (33). Thus, disqualification of non-modern knowledge globally underscores social
 and cognitive injustice.
+
 By bringing these elements into the discussion about Planetary Health and One 
 Health as alternatives for understanding and transforming the current 
 relationship between nature, health, and society, the ecology of knowledge or 
 post-abyssal thinking invites us to reflect and ask ourselves, among other 
 things: if appropriation and violence established colonial societies, how can we 
 now receive these philanthropic proposals under conditions of equality and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 justice instead of modernization imperatives? How to move towards a true post-
 abyssal thought?
+
 Post-abyssal thinking takes the perspective of the other side of the line 
 “precisely because the other side of the line has been the realm of the 
 unthinkable in Western modernity” [translation is ours] (33). Post-abyssal 
@@ -477,6 +434,7 @@ thinking is learning from the epistemologies of the South, which confronts the
 science as one among many plural knowledge constituents, making possible a 
 counter-hegemonic science to support marginalized multispecies collectives in 
 their fight to get out of peripheries.
+
 What is at stake is not only an abstract cognitive justice. The ecology of 
 knowledge revalues the concrete interventions that different knowledge can 
 offer (33). In it, knowledge hierarchies are context-dependent and not universal. 
@@ -487,8 +445,7 @@ become a renewed version of abyssal thinking, a softened revision of coloniality
 From the ecology of knowledge we can stand against marginalizing apparatuses 
 that create peripheries, unjust epidemiologic profiles, and only accept 
 epistemologies of health from the global North.
-6
-Decolonial promotion of One Health of Peripheries
+
 There are health-promoting indigenous lifestyles that serve as a reference to 
 promote health in non-indigenous spaces. However, the adaptation of 
 indigenous knowledge and experiences to non-indigenous peripheries leads to 
@@ -500,6 +457,7 @@ how small. From this situation, one of the tasks for the decolonial promotion of
 One Health of Peripheries is to deconstruct, through the ecology of knowledge, 
 the marginalizing apparatuses underlying health inequities suffered by multiple 
 species (17). These are the issues addressed in this section.
+
 In One Health of Peripheries, the peripheries are a symbolic category expressed 
 in epidemiologic profiles (17). The global South is a heterogeneous geopolitical 
 periphery within that category. Its health dimension has been theorized and 
@@ -508,6 +466,7 @@ the form of Critical Epidemiology, Collective Health, and South-South
 International Health. In a broader scope, this periphery, the global South, has 
 promoted worldviews and lifestyles that in current rhetoric could be deemed 
 sustainable, healthy, and instances of good living (34).
+
 The indigenous worldviews and lifestyles, as well as the initiatives that have 
 been based on them in the attempt to transform the institutional arrangement 
 established and maintained by modernity, serve as a reference to promote One 
@@ -515,15 +474,12 @@ Health of Peripheries. Take good living (buen vivir) as an example, a concept
 from the Aimará suma qamaña and the Quechua sumak kawsay, incorporated in
 the constitutions of Bolivia and Ecuador (34). Although a discussion of good 
 living is beyond the scope of this manuscript, we stress that in its generality it is 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 a holistic proposal of self-care exercised by a plural totality in which local 
 communities are not peripheral (34). On the contrary, Planetary Health aims to 
 control natural systems and keep the global South in a subaltern position. In it, 
 the only allowed aspiration is to benefit from the epistemological, scientific, and 
 technological transfers of the global North.
+
 In institutional terms, the meaning of good living has been substantially 
 transformed. Ecuador and Bolivia incorporated the concept in the constitution in 
 2008 and 2009, respectively, and just this by itself is a symbolic recognition of 
@@ -540,6 +496,7 @@ marked differences between projects with opposite origins in the decolonial-
 colonial spectrum, the distance between discourses and implemented practices 
 affects both poles of the spectrum. Contamination between the poles gives rise 
 to the body of the spectrum.
+
 The promotion of One Health of Peripheries must recognize and anticipate the 
 distance between discourses and practices and the contamination between the 
 decolonial and the colonial. Thus, it is convenient to consider the historical-social
@@ -560,6 +517,7 @@ movement, noting that partial decolonial changes means partial reproduction of
 coloniality. Such decolonial-colonial contradiction does not spare One Health of 
 Peripheries, so proposals of promotion must take it into account to better match 
 discourses and material possibilities.
+
 The set of practices exercised from a given position has decolonial and colonial 
 elements instead of decolonial or colonial elements.  So indigenous good living 
 and the neoliberal rhetoric of good living differ in the direction and intensity of 
@@ -567,10 +525,7 @@ bias towards the decolonial-colonial extremes. Similarly, collective health
 education programs are not totally different from colonial higher education or 
 Preventive Medicine in its colonial origins. The degree of difference depends on 
 how close they get to the respective extremes.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
+
 The conditions of possibility of the peripheral cartography (17) also condition the
 decolonial promotion of One Health of Peripheries. Exercising such promotion 
 from within and outside that cartography challenges the center-periphery 
@@ -578,6 +533,7 @@ distinction through social determination movements. It is a utopian and
 dialectical promotion that, by centralizing peripheries, somehow reinforces the 
 mentioned distinction and creates other peripheries. It is a glocal movement 
 between localization and globalization (36).
+
 So far, it may not be clear why it is convenient to add “One” to “Health of 
 Peripheries”. It might well be Planetary Health of Peripheries to highlight the 
 glocal movement between the global (planetary) and the local (peripheries). 
@@ -599,6 +555,7 @@ mistaking exhibition as a necessary condition for wildlife conservation. They di
 not see anything wrong with exhibiting Ota Benga a century ago, and now they 
 do not condemn the same practice with nonhuman animals. Hopefully, they will 
 not need another century to abolish that practice.
+
 In light of the colonial roots of One Health, which goes beyond what we briefly 
 outlined (40), a decolonial proposal based on the One Health concept may seem 
 contradictory. However, it is worth noting that One Health of Peripheries gives 
@@ -606,6 +563,7 @@ other meanings to One Health (17) and metabolizes contradictions through its
 social determination and the ecology of knowledge. Decolonizing One Health 
 adds plurality to the Latin American health movements, thus increasing the 
 strength and resilience of decolonial resistance.
+
 In One Health, health is more-than-human, and it involves three inextricably 
 related domains: human health, animal health, and environmental health (41). 
 This differs from Planetary Health in which health is human and natural systems 
@@ -615,20 +573,19 @@ systems favorable to human health. In One Health approaches, animals are also
 predominantly instrumental to human health (41); however, they appear as 
 carriers of health, and animal health takes a fundamental role in a health that is 
 not just human.
+
 Biomedicine does not question the existence of physiopathological processes in 
 animals in the same way that epidemiology does not question the existence of 
 transmission dynamics between animals or between animals and humans. As 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 any other species, humans have similarities and differences with the individual 
 and population biological processes of health-disease of other species.
+
 The attribution of lower moral status to nonhuman animals for the simple fact of 
 not belonging to the human species (speciesism) is as arbitrary as giving less 
 value to some humans because of the race or gender attributes tied to them 
 [racism and sexism] (42). Attempts to justify the inferior status of animals 
 sometimes base arguments on the greater cognitive capacity of humans. 
+
 However, many animals surpass the cognition of severely disabled humans, 
 leading to justifications of moral differentiation in which not all humans are of 
 equal value and some are of less value than many animals (42). Based on 
@@ -638,6 +595,7 @@ revealing what Agamben calls the anthropological machine, an inclusion-
 exclusion apparatus to separate humans from other animals, that the more it is 
 renewed in the attempt to eliminate aporias, the more it reveals its arbitrariness
 and contradiction (43).
+
 The distinction between humans and nonhumans is a marginalizing apparatus in
 the service of domination. It is a central dichotomy of modernity (44) through 
 which dehumanization/animalization is all the more, the greater the distance of 
@@ -649,6 +607,7 @@ Animals are animalized insofar as they are inscribed in such animal space of
 colonial domination (44). The animalizing apparatus is also applied through 
 colonial health practices that legitimize domination and represent it as a 
 benevolent act.
+
 In his analysis of 19th-century slave farms in Cuba, Camacho describes how 
 Chateusalins, in his Vademecum of Cuban landowners, recommended masters 
 of female slaves “to avoid giving them a harsh treatment”, to give them “better 
@@ -663,18 +622,16 @@ appears that far from suffering a loss of 5.5%, which is what is generally
 calculated in this class of farms, it has been, on the contrary, an increase from 
 4.5 to 5.5%, which shows the advantages that the careful treatment given to 
 blacks brings with it” [translations is ours] (45).
+
 This production-health binomial was framed in what we might understand as an 
 epidemiological-zootechnical approach for slave control. Compartmentalization 
 of facilities; populations divided according to demographic criteria of productive 
 and reproductive interest; classification and monitoring of morbidity and 
 mortality; prevention of communicable diseases; reproductive selection (genetic
 improvement); hygiene, nutrition, socialization, and other generic practices to 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 reduce losses of biological capital [see the documented analyzes of such 
 practices by Smithers and Camacho (45,46)].
+
 The rationalizing discourse of such an approach—statistics, efficiency, evidence
 —sought above all productivity, adding value to animalized commodities. The 
 slaves were objects of knowledge and professional practices (medicine, 
@@ -705,6 +662,7 @@ that legitimize livestock exploitation and add value to live commodities. In bot
 cases (slaves and livestock), oppressive relationships are naturalized, and the 
 better performance of productive and sanitary parameters serves as an 
 indicator of improvements in well-being.
+
 By deconstructing marginalizing apparatuses and giving rise to multispecies 
 collectives in which the Other is not a commodity and its subjectivity is cared for
 and respected, the possibilities of promotion cease to be variations of degree 
@@ -721,10 +679,6 @@ Redefining and complementing these actions with another two lead to the
 promotion of One Health of Peripheries: (1) deconstruct marginalizing 
 apparatuses; (2) enrich the ecology of knowledge; (3) build healthy public 
 policy; (4) create supportive environments; (5) strengthen community actions; 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
 (6) develop more-than-human individual capabilities, and; (7) reorient health 
 services. The deconstruction of marginalizing apparatuses is transversal to the 
 other actions, and in that sense, we do not need to include it as a separate 
@@ -737,6 +691,7 @@ coloniality. However, for the very same reason, they contribute to the decolonia
 turn. A turn that requires imagination and multispecies empathy, and might be 
 seen as a turn from Capitalocene to Chthulocene (see in Haraway (49) a 
 discussion of the Anthropocene, Capitalocene, and Chthulocene).
+
 Despite the difficulties in promoting One Health of Peripheries, there are 
 precedents for each of its seven actions. The first action deconstructs 
 marginalization from a health perspective and finds support in the more-than-
@@ -771,12 +726,7 @@ some of these precedents need reassessments and sound plural participation to
 preclude or stop being stratagems at the service of non-collective interests. But 
 at the same time, they are precedents that in some way have locally fractured 
 peripheries-making margins.
-7
-Conclusion
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
+
 Coloniality did not end with colonialism, and the myth of modernity is at the 
 kernel of the crisis of civilization we are living. Philanthropy allows material 
 gains that significantly improve the livelihood of the poorest because they are in
@@ -791,6 +741,7 @@ how people should live to avoid them. The Rockefeller Foundation has been an
 icon of philanthrocapitalism, shaping Latin American health through public 
 policy, education, and research. One of the Foundation’s recent proposals is 
 Planetary Health, also framed in the rhetoric of the global North.
+
 The ecology of knowledge, with its intercultural translation, is a response from 
 the global South to repair the damage of coloniality. It encompasses indigenous 
 and popular knowledge, Latin American health movements, and the counter-
@@ -805,265 +756,3 @@ marginalization; (2) enrich the ecology of knowledge; (3) build healthy public
 policy; (4) create supportive environments; (5) strengthen community actions; 
 (6) develop more-than-human individual capabilities, and; (7) reorient health 
 services.
-8
-Conflict of Interest
-The authors declare that the research was conducted in the absence of any 
-commercial or financial relationships that could be construed as a potential 
-conflict of interest.
-9
-Author contributions
-OSB conceived and structured the manuscript. OSB, MNB, and MAA wrote and 
-critically review the manuscript.
-10
-Funding
-Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES, Coordination for the
-Improvement of Higher Education Personnel).
-11
-References
-1. 
-Dussel E. Eurocentrism and Modernity (Introduction to the Frankfurt 
-Lectures). Bound 2 (1993) 20:65. doi:10.2307/303341
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-2. 
-Quijano A. Coloniality and modernity/rationality. Cult Stud (2007) 21:168–
-178. doi:10.1080/09502380601164353
-3. 
-Mignolo W. The darker side of western modernity: Global futures, 
-decolonial options. Durham and London: Duke University Press (2011).
-4. 
-Dussel E. 1492 El encubrimiento del Otro: hacia el orgien del “mito de la 
-Modernidad.” La Paz: Plural editores (1994).
-5. 
-Santos B de S, Meneses MP. Epistemologias do Sul. Sao Paulo: Cortez 
-Editora (2010).
-6. 
-Mignolo WD. Citizenship, knowledge, and the limits of humanity. Am lit Hist
-(2006) 18:312–331. doi:10.1093/alh/ajj019
-7. 
-Grosfoguel R. Caos sistémico, crisis civilizatoria y proyectos descoloniales: 
-pensar más allá del proceso civilizatorio de la modernidad/colonialidad. 
-Tabula Rasa (2016) 25:
-8. 
-Arouca S. O dilema preventivista: contribuição para a compreensão e 
-crítica da medicina preventiva. Rio de Janeiro: UNESP Eitora (2003).
-9. 
-Vieira-da-Silva LM. O campo da saúde coletiva: gênese, transformações e 
-articulações coma reforma sanitária. Salvador: Editora da UFBA, Editora 
-Fiocruz (2018).
-10. Moreira MC. The Rockefeller Foundation and the construction of a 
-professional identity in nursing during Brazil’s first Republic. Hist Cienc 
-Saude Manguinhos (1998) 5:621–645. doi:10.1590/s0104-
-59701999000100005
-11. Paim JS, De Almeida Filho N. Saúde coletiva: Uma “nova saúde pública” ou 
-campo aberto a novos paradigmas? Rev Saude Publica (1998) 32:299–316.
-doi:10.1590/s0034-89101998000400001
-12. Breilh J. Epidemiologia crítica: ciência emancipadora e intercultural. 
-Translated by Vera Ribeiro. Rio de Janeiro: Editora Fiocruz (2006).
-13. Basile G. La salud internacional Sur Sur: hacia un giro decolonial y 
-epistemológico. La Plata (2018).
-14. Acero-Aguilar M. Zoonosis y otros problemas de salud pública relacionados 
-con los animales: Reflexiones a propósito de sus aproximaciones teóricas y
-metodológicas. Rev Gerenc y Polit Salud (2016) 15:232–245. 
-doi:10.11144/Javeriana.rgyps15-31.zpsp
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-15. Andrade FAT. Propuesta teórico-metodológica de epidemiología crítica de 
-la salud animal, primer acercamiento de aplicación en el caso de la fiebre 
-aftosa en el Ecuador. (2019)
-16. Whitmee S, Haines A, Beyrer C, Boltz F, Capon AG, De Souza Dias BF, Ezeh 
-A, Frumkin H, Gong P, Head P, et al. Safeguarding human health in the 
-Anthropocene epoch: Report of the Rockefeller Foundation-Lancet 
-Commission on planetary health. Lancet (2015) 386:1973–2028. 
-doi:10.1016/S0140-6736(15)60901-1
-17. Baquero OS. One Health of Peripheries: biopolitics, social determination, 
-and field of praxis. SciELO Prepr (2021) doi:10.1590/SciELOPreprints.2019
-18. Daros W. La creación de la modernidad. Nuevos deseos e intereses de la 
-humanidad. Invenio (2015) 18:51–65. Available at: 
-https://www.redalyc.org/articulo.oa?id=87739279005
-19. Jiménez RG. La modernidad: sintomatología de los procesos modernizantes
-en las sociedades. Temas Cienc y Tecnol (1998) 2:55–67.
-20. Grosfoguel R. The epistemic decolonial turn: Beyond political-economy 
-paradigms. Cult Stud (2007) 21:211–223. 
-doi:10.1080/09502380601162514
-21. Escobar A. Worlds and knowledges otherwise: The Latin American 
-modernity/ coloniality research program. Cult Stud (2007) 21:179–210. 
-doi:10.1080/09502380601162506
-22. Ballestrin L. América Latina e o giro decolonial. Rev Bras Ciência Política 
-(2013)89–117. doi:10.1590/s0103-33522013000200004
-23. Dussel E. “Europa, modernidad y eurocentrismo,” in La colonialidad del 
-saber: eurocentrismo y ciencias sociales. Perspectivas latinoamericanas, 
-ed. E. Lander (Consejo Latinoamericano de Ciencias Sociales).
-24. Quijano A. “Colonialidade do poder e classificação social,” in 
-Epistemologias do Sul, eds. B. de S. Santos,  M. P. Meneses (Sao Paulo: 
-Cortez Editora), 84–130.
-25. Coffey C, Espinoza Revollo P, Harvey R, Lawson M, Parvez Butt A, Piaget K, 
-Sarosi D, Thekkudan J. Time to Care: Unpaid and underpaid care work and 
-the global inequality crisis. Oxford (2020). doi:10.21201/2020.5419
-26. Guilhot N. Une vocation philanthropique. Actes Rech Sci Soc (2004) 151–
-152:36. doi:10.3917/arss.151.0036
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-27. Tota AP. O imperialismo sedutor: a americanização do Brasil na época da 
-Segunda Guerra. Sao Paulo: Companhia das Letras (2000).
-28. Fishbein M, Bierring WL. A history of the American Medical Association 
-1847 to 1947. Philadelphia: Saunders (1947).
-29. Prescott SL, Logan AC. Planetary Health: From the Wellspring of Holistic 
-Medicine to Personal and Public Health Imperative. Explore (2019) 15:98–
-106. doi:10.1016/j.explore.2018.09.002
-30. Redvers N, Yellow Bird M, Quinn D, Yunkaporta T, Arabena K. Molecular 
-Decolonization: An Indigenous Microcosm Perspective of Planetary Health. 
-Int J Environ Res Public Health (2020) 17:4586. 
-doi:10.3390/ijerph17124586
-31. Redvers N, Poelina A, Schultz C, Kobei DM, Githaiga C, Perdrisat M, Prince 
-D, Blondin B. Indigenous Natural and First Law in Planetary Health. 
-Challenges (2020) 11:29. doi:10.3390/challe11020029
-32. Santos B. Vírus: tudo o que é sólido se desfaz no ar. Sul 21 (2020) 
-Available at: https://www.sul21.com.br/opiniaopublica/2020/03/virus-tudo-
-o-que-e-solido-se-desfaz-no-ar-por-boaventura-de-sousa-santos/ [Accessed 
-November 27, 2020]
-33. Santos B de S. “Para além do pensamento abissal: das linhas globais a 
-uma ecologia de saberes,” in Epistemologias do Sul, eds. B. de S. Santos,  
-M. P. Meneses (Sao Paulo: Coertez Editora), 31–83.
-34. Solon P. Alternativas sistêmicas: Bem Viver, decrescimento, comuns, 
-ecofeminismo, direitos da Mãe Terra e desglobalização. Sao Paulo: Elefante
-Editora (2019).
-35. Samaja J. Epistemología de la salud: reproducción social, subjetividad y 
-transdisciplina. Buenos Aires: Lugar (2007).
-36. Roudometof V. Theorizing glocalization. Eur J Soc Theory (2016) 19:391–
-408. doi:10.1177/1368431015605443
-37. Woldehanna S, Zimicki S. An expanded One Health model: Integrating 
-social science and One Health to inform study of the human-animal 
-interface. Soc Sci Med (2015) 129:87–95. 
-doi:10.1016/j.socscimed.2014.10.059
-38. Wildlife Conservation Society. WCS. One World, One HealthTM. 2020
-39. Wildlife Conservation Society. A Statement from the Wildlife Conservation 
-Society. WCSNewsroom (2020) Available at: 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/
-14648/A-Statement-from-the-Wildlife-Conservation-Society.aspx [Accessed 
-November 7, 2020]
-40. Lainé N, Morand S. Linking humans, their animals, and the environment 
-again : a decolonized and more-than-human approach to “One Health.” 
-Parasite (2020) 27:55. doi:10.1051/parasite/2020055
-41. WHO, OIE, FAO. Taking a Multisectoral, One Health Approach: A Tripartite 
-Guide to Addressing Zoonotic Diseases in Countries. (2019).
-42. Singer P. Speciesism and moral status. Metaphilosophy (2009) 40:567–581.
-doi:10.1111/j.1467-9973.2009.01608.x
-43. Agamben G. The Open: Man and Animal. Stanford: Stanford University 
-Press (2004).
-44. Belcourt B-R. Animal Bodies, Colonial Subjects: (Re)Locating Animality in 
-Decolonial Thought. Societies (2014) 5:1–11. doi:10.3390/soc5010001
-45. Camacho J. Los criaderos de esclavos: medicina, cuerpos y sexualidad en 
-los ingenios de Cuba. Hispanófila (2020) 188:3–18.
-46. Smithers G. Slave Breeding: Sex, Violence, and Memory in African 
-American History. Gainesville: University Press of Florida (2012).
-47. Dumont H. Antropología y patología comparadas de los negros esclavos. 
-Translated by Israel Castellanos. La Habana: Habana (1922).
-48. World Health Organization. Milestones in Health Promotion: Statements 
-from Global Conferences. Geneva: WHO Press (2009).
-49. Haraway D. Staying with the trouble. Making kin in the Chtulucene. 
-Durham and London: Duke University Press (2016).
-50. Peggs K. Animals and Sociology. London: Palgrave Macmillan (2012).
-51. Tuomivaara S. Animals in the Sociologies of Westermarck and Durkheim. 
-London: Palgrave Macmillan (2019).
-52. Pyyhtinen O. More-than-Human Sociology: A New Sociological Imagination. 
-New York: Palgrave Macmillan (2016).
-53. Sayes E. Actor-Network Theory and methodology: Just what does it mean 
-to say that nonhumans have agency? Soc Stud Sci (2014) 44:134–149. 
-doi:10.1177/0306312713511867
-54. Kirksey SE, Helmreich S. The emergence of multispecies ethnography. Cult 
-Anthropol (2010) 25:545–576. doi:10.1111/j.1548-1360.2010.01069.x
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-55.
-Asdal K, Druglito T, Hinchliffe S. Humans, Animals and Biopolitics: The
-more-than-human condition. , eds. K. Asdal, T. Druglito,  S. Hinchliffe New
-York: Roudlege (2016).
-56.
-Wadiwel DJ. The war against animals. Leiden: Brill (2015).
-57.
-Taylor N, Twine R. The rise of critical animal studies: From the margins to
-the centre. New York: Routledge (2014).
-58.
-Ryan T. Animals in Social Work: Why and How They Matter. New York:
-Palgrave Macmillan (2014).
-59.
-Ryan T. Animals and Social Work: A Moral Introduction. New York: Palgrave
-Macmillan (2011).
-60.
-Nussbaum M. Frontiers of Justice: Disability, Nationality and Species
-Membership. Cambridge: Harvard University Press (2003).
-61.
-Blattner CE, Coulter K, Kymlicka W. Animal Labour: A New Frontier of
-Interspecies Justice?. Oxford: Oxford University Press (2020).
-62.
-Celermajer D, Schlosberg D, Rickards L, Stewart-Harawira M, Thaler M,
-Tschakert P, Verlie B, Winter C. Multispecies justice: theories, challenges,
-and a research agenda for environmental politics. Env Polit (2020)1–22.
-doi:10.1080/09644016.2020.1827608
-63.
-Johnson L, White TI, Bernstein MH, Peggs K. The Palgrave Handbook of
-Practical Animal Ethics. London: Palgrave Macmillan (2018).
-64.
-Singer P. Animal Liberation: The Definite Classic of Animal Movement. New
-York: Harper Perennial Modern Classics (2009).
-65.
-Hinchliffe S, Whatmore S. Living cities: Towards a politics of conviviality.
-Sci Cult (Lond) (2006) 15:123–138. doi:10.1080/09505430600707988
-66.
-Bauer GR. Incorporating intersectionality theory into population health
-research methodology: Challenges and the potential to advance health
-equity. Soc Sci Med (2014) 110:10–17.
-doi:10.1016/j.socscimed.2014.03.022
-67.
-Prefeitura do Município de São Paulo. DECRETO No 59.685, DE 13 DE
-AGOSTO DE 2020. (2020).
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2053
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-Powered by TCPDF (www.tcpdf.org)
-•
-The authors declare that they are aware that they are solely responsible for the content of the 
-preprint and that the deposit in SciELO Preprints does not mean any commitment on the part of 
-SciELO, except its preservation and dissemination.
-•
-The authors declare that the research that originated the manuscript followed good ethical 
-practices and that the necessary approvals from research ethics committees are described in the 
-manuscript, when applicable.
-•
-The authors declare that the necessary Terms of Free and Informed Consent of participants or 
-patients in the research were obtained and are described in the manuscript, when applicable.
-•
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific 
-communication.
-•
-The authors declare that the manuscript was not deposited and/or previously made available on 
-another preprint server or published by a journal.
-•
-The submitting author declares that all authors responsible for preparing the manuscript agree with 
-this deposit.
-•
-The submitting author declares that all authors' contributions are included on the manuscript.
-•
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be 
-available under a Creative Commons CC-BY license.
-•
-The deposited manuscript is in PDF format.
-•
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a 
-journal, the authors declare that they have received authorization from the journal to make this 
-deposit.
