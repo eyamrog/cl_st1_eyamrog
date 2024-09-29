@@ -1,35 +1,3 @@
-Publication status: Not informed by the submitting author
-IMPACT OF THE COVID-19 PANDEMIC ON ADOLESCENTS’
-PERCEPTION OF SCIENCE, SCIENTISTS AND HEALTH CARE
-WORKERS, AND CHANGE OF CAREER CHOICES
-Carol Perelman, Ma. de Lourdes Patiño-Barba, Jorge Padilla-Gonzalez
-https://doi.org/10.1590/SciELOPreprints.3554
-Submitted on: 2022-02-02
-Posted on: 2022-02-09 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-IMPACT OF THE COVID-19 PANDEMIC ON ADOLESCENTS’ PERCEPTION 
-OF SCIENCE, SCIENTISTS AND HEALTH CARE WORKERS, AND CHANGE 
-OF CAREER CHOICES 
- 
-Carol Perelman, BSc1, Ma. de Lourdes Patiño-Barba, MSc 2, Jorge Padilla-
-Gonzalez, MSc3 
- 
-1 Universidad Nacional Autónoma de México (UNAM), SOMEDICyT, RedMPC, México. ORCID 
-0000-0002-0111-1154 
- 
-2 Fibonacci - Innovación y Cultura Científica, A.C., Sociedad Mexicana para la Divulgación de la 
-Ciencia y la Técnica, A.C. ORCID 0000-0003-1399-6786  
- 
-3 Fibonacci - Innovación y Cultura Científica, A.C, Sociedad Mexicana para la Divulgación de la 
-Ciencia y la Técnica, A.C. ORCID 0000-0003-0938-8956 
- 
- 
-*Correspondence to, Jorge Padilla, MSc.. Fibonacci. Suiza 104, Col. Andrade, 
-C.P. 37020, León, Gto., Mexico. jpadilla@fibonacci.org.mx 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
-ABSTRACT 
- 
 Since the onset of the COVID-19 pandemic, scientists and health care workers 
 provided information based on scientific evidence for the general public, 
 increasing their exposure on social and mainstream media. Society witnessed 
@@ -62,21 +30,13 @@ investigate the duration and further positive consequences of this pandemic
 effect and to understand whether these results are consistent in other parts of the 
 world where adolescents experienced different public policies, public messages 
 and COVID-19 outcomes.  
- 
- 
-CONCLUSIONS: 
+
 Most Mexican adolescents in our study have a positive perception of science. By 
 mid-2021, their experience during the ongoing COVID-19 pandemic significantly 
 improved their perception of science, scientists and health care workers, 
 increased their interests in these careers and inspired some of them in pursuing 
 careers both in science and health care.  
- 
-KEY WORDS: Public Science Perception, Science Communication, Medical 
-Education, Pandemic Impact, Career Change 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
- 
-INTRODUCTION 
+
 The ongoing COVID-19 pandemic required individuals to look for information to 
 increase their safety, and to use terms previously only common in academic 
 contexts and used by audiences interested in science and medicine. Since the 
@@ -90,7 +50,7 @@ information in real time with peers while also informing the general public (2,3
 Few worldwide events in modern history have put science and health sciences 
 on center stage as much as the ongoing COVID-19 pandemic, which by 
 December 2021 had over 5 million confirmed deaths around the globe (4,5). 
-  
+
 Mainstream media, decision makers and the general public increased their 
 interest towards science understanding and engagement to take better decisions 
 and lower the risk of COVID-19 transmission. Since the beginning of the 
@@ -103,143 +63,137 @@ the onset of the COVID-19 pandemic, many countries and organizations have
 reported an increase in public confidence and interest towards science and an 
 increase in applications for scientific and medical studies, an effect popularized 
 as the “Fauci effect”(8, 9, 10, 11, 12).  
- 
+
 We conducted this study to understand if the ongoing COVID-19 pandemic 
 changed the perception that adolescents in Mexico had for science, scientists 
 and health care workers, if it inspired them to change their career choices and if 
 there was an increase in first year college applications and enrollment in Mexican 
 Universities on scientific and health care careers. 
- 
-OBJECTIVE 
+
 To understand the impact of the ongoing COVID-19 pandemic in the perception 
 of science, scientists, health care workers, and career decisions of individuals 14 
 to 19 years of age. 
  
 We assessed four topics: 
+
 1. Science and Health care perception: appraisal of science, scientists and 
 health care workers 
+
 2. Mexican adolescents’ professional interest to study scientific and health 
 care careers (medicine, nursing, public health, clinical psychology, 
 chemistry, biology) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
+
 3. Application to scientific and health care university careers 
+
 4. Enrollment to first year in scientific and health care careers. 
- 
-METHODS 
+
 To address topics 1 and 2 (view, change on perception and interest on science, 
 scientists and health professionals), we applied an anonymous quantitative 
 multiple-choice on-line survey in Spanish to a voluntary national corpus of 14 to 
 19 year olds with Internet access in Mexico, between May 5 and June 27, 2021. 
- 
+
 The survey was conducted following the code of ethics and practices established 
 by the American Association of Public Opinion Research (AAPOR) for honesty, 
 respect and integrity. 
- 
+
 To address topics 3 and 4 (application and enrollment into first year of university 
 for scientific and health care careers), we analyzed the official yearly reports of 
 the National Association of Universities and Higher Education Institutions in 
 Mexico (ANUIES) (13).  
- 
+
 Univariable and multivariable statistical analysis was performed. 
- 
-SAMPLE 
+
 The resulting cohort included 983 adolescents (63.5% women) of 14 to 19 years 
 of age (mean 16.7, 66% 16-18) from all different states in Mexico distributed in a 
 non-representative way according to their population, of whom 971 (98.8%) were 
 in school (69.8% in public schools), most in their last years of high school (77%) 
 and 48% reported that none of their parents underwent university studies. (Fig.1) 
- 
-RESULTS 
-Topic 1. Perception 
-1.1 Science Perception 
+
 Respondents had to choose one of the eight enlisted words that best described 
 their personal view of science: four positive words (knowledge, progress, 
 solutions, well-being) and four negative words (pollution, dehumanization, 
 incomprehensive, risks). (Fig. 2) 
+
 Most (91.4%) respondents selected a positive word to describe their perception 
 of science, being “knowledge” (44.0%) the most popular, followed by “progress” 
 (28.7%). A more positive view of science was held by men (94.2%), those in 
 private schools (94.5%), those enrolled in high school (92.0%) and those with at 
 least one university-educated parent (92.8%). 
+
 Those who had a negative perception of science (8.6%) selected “pollution” 
 (3.8%) as the most frequent word, and mostly they were those not studying 
 (25.0%), or studying in public schools (9.7%), women (10.3%) and those who did 
 not have any university-educated parent (10.2%). 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
-1.2 Change in Science Perception 
+
 69.1% of respondents said that their perception of science improved as a 
 result of the pandemic, 23.1% reported that it remained the same and 7.8% 
 said that the pandemic worsened their view of science. These proportions are 
 similar for both adolescents that reported a good and a bad perception of science 
 in subtopic 1.1 (Fig. 3.a). 
- 
-1.3 Change in the Perception of Scientists 
+
 70.4% of respondents said that their perception of scientists improved as a 
 result of the pandemic, 25.9% reported that it remained the same and 3.7% 
 said that the pandemic worsened their view of scientists. (Fig. 3.b) 
+
 When instructed to choose the best reason, out of four options to explain these 
 changes, 53% of those whose opinion of scientists improved selected “because 
 they are people who provide great discoveries to society” as the main reason, 
 and 43% of those whose opinion of scientists worsened selected “other”, and in 
 second place (33%) “they only discover things and develop products to earn 
 money”. 
- 
-1.4 Change in the Perception of Heath Care Workers 
+
 71.9% of respondents said that their perception of health care workers 
 improved as a result of the pandemic, 24.6% reported that it remained the 
 same and 3.5% said that the pandemic worsened their view of health care 
 workers. (Fig. 3.c) 
+
 When instructed to choose the best reason, out of four options to explain these 
 changes, 28% of those whose opinion of health care workers improved selected 
 “they are intelligent people that studied a lot” as the main reason and (26%) “they 
 avoid suffering and save lives” as their second option. 35% of those whose 
 opinion worsened selected “other” as their main option and (24%) “they are 
 arrogant” in second place.  
- 
- 
-Topic 2: Change in Study Interests and Career Intentions 
- 
+
 433 adolescents (44% of respondents) reported that their study intentions 
 changed: half (22.1%) stated that their study intentions changed as a result 
 of the pandemic, while the other half (22.6%) changed their study plans for 
 “other reasons”, 56% of adolescents will continue with their same pre-pandemic 
 study plans. 
+
 Those who reported a change in interests as a result of the pandemic were more 
 female (23%) than men (20%), more studying in public schools (25%) than in 
 private schools (17%), and those whose neither parents studied in universities 
 (25.7%) than those whose both parents studied (17.2%). Two respondents (18%) 
 out of the 11 adolescents (1.1% of N=983) that will not study a career stated that 
 they changed their study intentions as a result of the pandemic. 
+
 When analyzing the responses of those who changed their career plans as a 
 result of the pandemic according to area of knowledge we found that 23% of the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
 adolescents who want to study science (natural sciences, math and statistics) 
 (6.2% of the total), 28% of the adolescents that want to study health care 
 (22.2% of the total), and 20.0% of the adolescents who want to study careers 
 unrelated to natural sciences or health sciences (71.6% of the total) changed 
 their study intentions as a result of the ongoing pandemic. (Fig. 4 a. b.) 
+
 More respondents in the cohort interested in a health career (28%), followed by 
 science (23%) changed their career plans as a result of their experience during 
 the pandemic, compared to respondents studying other careers (20%) or not 
 planning to study at all (18%). 
+
 Of those adolescents who changed their study intentions due to the pandemic to 
 health sciences (28%), 26% also improved their perception of health care 
 workers due to the pandemic (Subtopic 1.4). And of those adolescents who 
 changed their study intentions to science (natural sciences, math and statistics) 
 (23%) as a result of the pandemic, 15% also improved their perception of 
 scientists (Subtopic 1.3). 
+
 When asked the reason for wanting to study science (natural sciences, math, 
 statistics) or health sciences, the main reason selected by those pursuing 
 careers in these areas was “I like that type of knowledge” in 39.7% of those 
 intending to study health sciences and in 48.4% of those wanting to pursue 
 natural sciences, math and statistics. 3.2% of those wanting to study these 
 careers reported that the ongoing pandemic had inspired them to do so. 
-  
- 
-Topic 3: Changes in Applications to First Year 
+
 Analyzing the official ANUIES reports’ databases we found that overall 
 applications rose by 6.5% from 2019-2020 to 2020-2021 school years (from 
 2,053,348 to 2,186,739). During this period, there was a 21.5% increase in 
@@ -248,8 +202,7 @@ a 17.1% increase during the same period for health sciences (from 374,231 to
 438,284). In the first year of the pandemic the increase in first year 
 applications for scientific (science and health care) fields were well above 
 (21.5% and 17.1%) than the increase in other fields of study (6.5%). (Fig. 5.a) 
- 
-Topic 4: Changes in First Year Enrollment 
+
 Analyzing the official ANUIES reports’ databases we found that first year 
 enrollment for natural sciences, math and statistics in the 2020-2021 school year 
 (32,095) was lower than the total number of applications received (82,214) but 
@@ -262,12 +215,9 @@ demand and supply, along with other variables, resulted in a 2020-2021 first yea
 enrollment of 126,132 students for health sciences (a decrease of 6.1% from the 
 previous school year) and 32,095 for natural sciences, math and statistics (an 
 increase of 3.9% from the previous school year). Both the supply of places and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
 the demand in applications have increased in these fields over time (2011-2021). 
 (Fig. 5.b) 
- 
- 
-DISCUSSION 
+
 As of mid-2021, almost all 14-19 year olds that responded the anonymous 
 questionnaire had a favorable perception of science (91%) being “knowledge” the 
 main word associated with it. Also, 7 out of 10 adolescents stated that their 
@@ -277,6 +227,7 @@ perception of science and of scientists and health care workers, respectively. I
 interesting to note that more adolescents improved both their perception of 
 scientists and health care workers as a result of the pandemic (58%) than those 
 who worsened their perception of both professionals (1%). 
+
 The COVID-19 pandemic had an impact on the study intentions in one fifth of the 
 respondents (22%), being this impact higher in those interested in health care 
 (28%) followed by those wanted to study a career in natural sciences, math and 
@@ -284,9 +235,11 @@ statistics (23%). Most of the adolescents who wanted to study health sciences
 and natural sciences stated that the reason for selecting these careers was “I like 
 that type of knowledge” and only 3% of them reported that the pandemic inspired 
 their choice. 
+
 As a result of the ongoing COVID-19 pandemic, two out of ten adolescents that 
 want to study a career in health sciences or natural sciences, math and statistics 
 also improved their perception of health workers and scientists, respectively. 
+
 For the first year of the pandemic (school year 2020-2021) there was an increase 
 in applications for health sciences (17%) and natural sciences, math and 
 statistics (22%) careers which represented a higher increase than seen for other 
@@ -298,6 +251,7 @@ increase in science careers. It is important to understand this disparity and th
 variables affecting this process. So far, there is a clear increase in demand in 
 both fields, but interesting to note is the slight increase in science enrollment and 
 the larger decrease in health enrollment.  
+
 Future studies should investigate the duration and long-term consequences of 
 the COVID-19 pandemic on both scientific and health care careers in order to 
 assess the real impact of the so-called “Fauci effect”. 
@@ -307,162 +261,10 @@ on professional careers in other parts of the world. It will be of value to comp
 the results observed in this study with those conducted in different parts of the 
 world, where adolescents experienced other public health policies, pandemic 
 messages and COVID-19 outcomes. 
+
 This apparent silver lining in the pandemic could possibly result in a new 
 generation of scientists, physicians and health workers, and it could also be an 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
 opportunity for science communication professionals to enhance their 
 engagement with the general public, for scientists to continue their approach to 
 wider audiences, and for educators to promote science literacy and scientific 
 thinking in students.  
- 
-CONFLICT OF INTEREST: 
- 
-The authors declare no conflict of interest 
- 
-FUNDING/SUPPORT: 
- 
-No funding was required 
- 
-KEYWORDS: 
- 
-Science Communication, Perception of Science, Career Change, COVID-19 
-Pandemic 
- 
-AUTHOR STATEMENT: 
- 
-All relevant ethical guidelines have been followed, and any necessary IRB and/or 
-ethics committee approvals have been obtained. Authors declare no conflict of 
-interest.  
- 
-AUTHORS’ CONTRIBUTION: 
- 
-J.P.G. performed the statistical analysis, J. P. G. and L.P.B. collected the data, 
-C.P. performed the literature search and wrote the manuscript, all authors 
-interpreted the results, created the figures, and made edits. All authors provided 
-critical feedback and contributed to the final manuscript. Correspondence and 
-requests for materials should be addressed to J.P.G. 
- 
-FIGURES: 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
- 
-Fig. 1 Resulting sample included 983 adolescents (63.5% women) of 14 to 19 
-years of age (mean 16.7, 66% 16-18) from all different states in Mexico 
-distributed in a non-representative way according to their population, of whom 
-971 (98.8%) were in school (69.8% in public schools), most in their last years of 
-high school (77%) and 48% reported that none of their parents underwent 
-university studies. 
- 
- 
-Fig. 2 Most (91.4%) respondents selected a positive word to describe their 
-perception of science, being “knowledge” (44.0%) the most popular, followed by 
-“progress” (28.7%). Those who had a negative perception of science (8.6%) 
-selected “pollution” (3.8%) 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
- 
-Fig. 3.a. 69.1% of respondents said that their perception of science improved as 
-a result of the pandemic, 23.1% reported that it remained the same and 7.8% 
-said that the pandemic worsened their view of science. Fig. 3.b. 70.4% of 
-respondents said that their perception of scientists improved as a result of the 
-pandemic, 25.9% reported that it remained the same and 3.7% said that the 
-pandemic worsened their view of scientists. Fig 3.c. 71.9% of respondents said 
-that their perception of health care workers improved as a result of the pandemic, 
-24.6% reported that it remained the same and 3.5% said that the pandemic 
-worsened their view of health care workers. 
- 
- 
-Fig. 4.a.b 433 adolescents (44% of respondents) reported that their study 
-intentions changed: half (22.1%) stated that their study intentions changed as 
-a result of the pandemic, while the other half (22.6%) changed their study plans 
-for “other reasons”, 56% of adolescents will continue with their same pre-
-pandemic study plans. More respondents in the cohort interested in a health 
-career (28%), followed by science (23%) changed their career plans as a result 
-of their experience during the pandemic, compared to respondents studying 
-other careers (20%) or not planning to study at all (18%). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
- 
-Fig. 5.a.b. In the first year of the pandemic the increase in first year applications 
-for scientific (science and health care) fields were well above (21.5% and 17.1%) 
-than the increase in other fields of study (6.5%). First year enrollment for natural 
-sciences, math and statistics in the 2020-2021 school year (32,095) was lower 
-than the total number of applications received (82,214) but also lower than the 
-available spots (45,608), resulting in a 70.4% coverage of the places offered. 
-Similarly, the first year enrollment in health sciences for the 2020-2021 school 
-year (126,132) was lower than the total number of applications received 
-(438,284) but also lower than the spots available (180,423) for entry, resulting in 
-a 69.9% of coverage of places offered. The disparity between demand and 
-supply, along with other variables, resulted in a 2020-2021 first year enrollment 
-of 126,132 students for health sciences (a decrease of 6.1% from the previous 
-school year) and 32,095 for natural sciences, math and statistics (an increase of 
-3.9% from the previous school year). Both the supply of places and the demand 
-in applications have increased in these fields over time (2011-2021). 
- 
- 
-BIBLIOGRAPHY 
-(1) Chandrasekaran R, Mehta V, Valkunde T, Moustakas E (2020) Topics, 
-Trends, and Sentiments of Tweets About the COVID-19 Pandemic: Temporal 
-Infoveillance Study. J Med Internet Res 22(10) http://doi.org/10.2196/22624   
-(2) Colton M, Brown N, Gregory C., et al. (2021). J Med Internet Res ;23(7) 
-http://doi.org/10.2196/28615 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
-(3) Chevaz Clarke (2020, December 7). What were the most popular Twitter 
-trends this year? CBS News  https ://www.cbsnews.com/news/twitter-top-trends-
-2020/ 
-(4) Burns Judith (2019, May 17). The Moon landings: How one small step 
-inspired a generation BBC News https://www.bbc.com/news/education-48298597 
-(5) Johns Hopkins University & Medicine Coronavirus Resource Center 
-https://coronavirus.jhu.edu/map.html 
-(6) Giskin D, Glenn R, Kathlee L., (2021) An outbreak of appreciation: A 
-discursive analysis of tweets of gratitude expressed to the NHS at the outset of 
-the COVID-19 pandemic Health Expect. http://doi.org/10.1111/hex.13359 
-(7) Latefa D, Inaam K, et.al. (2020) Developing an Understanding of Adolescents’ 
-Knowledge, Attitudes, and Practices Toward COVID-19 J Sch Nurs; 36(6):430-
-441. http://doi.org/10.1177/1059840520957069 
-(8) https://www.3m.com/3M/en_US/state-of-science-index-survey/  
-(9) https://www.aamc.org/media/49911/download?attachment 
-Fall Applicant, matriculant, and enrollment Data Tables, AAMC, Dec, 2020 
-(10) Caitlyn Stulpin (2021, September) ´Fauci effect´: ID experts could inspire 
-new generation of doctors, Healio Infectious Disease    
-https://www.healio.com/news/infectious-disease/20210917/fauci-effect-id-
-experts-could-inspire-new-generation-of-doctors 
-(11) Rachel Hall (2021, January 25) Have you been inspired by the pandemic to 
-study science at university? The Guardian  
-https://www.theguardian.com/education/2021/jan/25/have-you-been-inspired-by-
-the-pandemic-to-study-science-at-university 
-(12) Marta Pinedo (2021, May 18) La pandemia dispara la demanda para 
-estudiar Ciencias de la Salud, El Pais https://elpais.com/educacion/2021-05-
-15/la-pandemia-dispara-la-demanda-para-estudiar-ciencias-de-la-salud.html 
-(13) http://www.anuies.mx/informacion-y-servicios/informacion-estadistica-de-
-educacion-superior/anuario-estadistico-de-educacion-superior 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3554
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

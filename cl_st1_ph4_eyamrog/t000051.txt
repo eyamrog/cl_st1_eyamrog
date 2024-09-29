@@ -1,18 +1,3 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1080/17405904.2023.2186450
-The Discursive Construction of a New Reality in Olaf Scholz’s
-Zeitenwende Speech
-Mario Bisiada
-https://doi.org/10.1590/SciELOPreprints.3852
-Submitted on: 2022-03-25
-Posted on: 2022-03-25 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-The Discursive Construction of a New Reality in Olaf Scholz’s
-Zeitenwende Speech / A construção discursiva de uma nova realidade no
-discurso Zeitenwende de Olaf Scholz
-Mario Bisiada*
-ABSTRACT
 This article applies Bakhtinian dialogism and the concept of centripetal-centrifugal 
 struggle to critical discourse studies to analyse how powerful and marginalised 
 discourses are brought into competition in political language to justify paradigm 
@@ -26,29 +11,7 @@ marginalising others, constructing an existential threat for Germany, the so-cal
 watershed, a new situation which casts his policies of German armament as without 
 alternative. The paper demonstrates the strength of the analysis of dialogically 
 contractive and expansive strategies in critical discourse studies.
-KEYWORDS: Dialogism; political discourse; discursive struggle; power; dialogic 
-contraction
-RESUMO
-Este artigo aplica o dialogismo bakhtiniano e o conceito de luta centrípeta-centrífuga a
-estudos de discurso crítico para analisar o quão poderosos e marginalizados discursos 
-são trazidos à concorrência na linguagem política para justificar mudanças de 
-paradigma. Analiso o discurso Zeitenwende ("início de uma era") do chanceler alemão
-Olaf Scholz, que ele deu como resposta à invasão russa da Ucrânia, anunciando um 
-programa radical de armamento e uma mudança na política externa, uma mudança de 
-paradigma que antes era impensável na política alemã. Com base em uma análise 
-qualitativa utilizando as estratégias da Teoria da Avaliação Atitude e Engajamento, 
-identifico como Scholz se alinha a discursos particulares e poderosos, centrado em 
-alguns poderosos e marginalizando outros, construindo uma ameaça existencial para a
-Alemanha, o chamado início de uma era, uma nova situação que lança suas políticas 
-de armamento alemão como sem alternativa. O artigo demonstra a força da análise de 
-estratégias dialogicamente contrativas e expansivas em estudos de discurso crítico.
-PALAVRAS-CHAVE: Dialogismo; discurso político; luta discursiva; poder; contração 
-dialógica
-*
-Universitat Pompeu Fabra – UPF, Department of Translation & Language Sciences, Barcelona, 
-Spain; https://orcid.org/0000-0002-3145-1512; mario.bisiada@upf.edu
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-Introduction
+
 Since the Russian invasion of Ukraine, top German politicians have coincided 
 rhetorically in announcing that the Russians have forced “us” into a “Zeitenwende” 
 (‘dawn of a new era’), a “watershed”, a “new era” and a “new reality”. “With his attack 
@@ -63,6 +26,7 @@ that would make Germany the world’s third largest spender on defence. While Ge
 was never the pacifist country that self-perception myths had entertained 
 (DALGAARD-NIELSEN, 2005; RATHBUN, 2006), Scholz’s decision still means a 
 paradigm shift in German military culture. 
+
 The terms Zeitenwende, watershed, new reality and new era all imply the 
 absence of agency. They do not mean that we see things differently now for some 
 reason, as, for instance, the term paradigm shift that I used above would, but they 
@@ -78,7 +42,7 @@ themselves and how politicians use them to legitimate chosen actions as allegedl
 without alternative. Bakhtin’s dialogic perspective and the notion of centipetal and 
 centrifugal discourses are helpful analytical tools to understand such competition of 
 discourses in the construction of reality to support political aims. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
+
 In this article, I analyse the German federal chancellor Olaf Scholz’s policy 
 statement held in the German parliament on 27 February 2022, investigating which 
 major discourses compete in the speech and how Scholz uses them to legitimise his 
@@ -89,8 +53,7 @@ Second, I analyse the speaker’s engagement, that is, how different discourses 
 brought into competition, seen as centripetal-centrifugal struggle through the lens of 
 Bakhtinian dialogism, and how Scholz thus justifies his policies. To begin, I describe 
 the genre of policy statements and its communicative functions. 
-1 Theoretical framework
-1.1 Communicative functions of a Regierungserklärung
+
 A Regierungserklärung, which I translate here as ‘policy statement’, is usually 
 given at the beginning of a chancellor’s mandate as an inaugural speech. However, 
 under German law, chancellors can give one at any time and they are generally followed
@@ -100,6 +63,7 @@ declaration. As such, it is ambiguous by both referring to an explanation of gov
 policy in the sense of an interpretation and justification of it in terms of the situation, 
 and also to an official declaration and directive clarification of a given situation 
 (PÖRKSEN, 2003, p.40). 
+
 Policy statements are instruments of leadership of German chancellors and their 
 increasing use over time is part of a mediatised democracy: as a public presentation, 
 such policy statements receive particular attention by the media and thus serve as a 
@@ -108,11 +72,11 @@ instrument of government that is both publicly effective and inwardly coordinati
 policy statements are usually based on a range of sources, scientists, surveys, 
 contemporaries or a range of other voices whose composition are a sign of the personal 
 style of the chancellor (KORTE, 2002, p.460–461). Studies of this genre in German 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 political discourse studies have concentrated on the inaugural policy statements given 
 by chancellors at the beginning of their mandate (BARNICKEL, 2020; BUSCH & 
 KAUPERT, 2018; STÜWE, 2005), but studies of strategies of legitimisation have been 
 conducted regularly (see, for instance, REYES, 2011). 
+
 Policy statements have an immediate and a historical function. Immediately, a 
 policy statement may be used as a special expression of the chancellor’s 
 “Richtlinienkompetenz” (‘policy-making power’) (STÜWE, 2005, p.26–43), 
@@ -121,6 +85,7 @@ government (Korte 2002, p.456). Historically, policy statements are also conceiv
 documents in which the problematisation (or not) of particular topics and the language 
 used become primary sources for the interpretation of the chancellor’s historical role 
 (KORTE, 2002, p.457). 
+
 In Bakhtinian dialogism, where speakers enter into a dialogical relationship with
 “the alien horizon of the understanding receiver” (BAKHTIN, 1981, p.282) constructing
 their utterances against the listener’s background, the “listener (real or imagined) shapes
@@ -131,17 +96,18 @@ reactions are anticipated, but also regarding the historical function, that is, 
 to perceived future addressees that may evaluate the role of the speaking chancellor in 
 the discursive construction of historical reality in the future. For this purpose, a dialogic 
 perspective is well-suited, as I argue in the next section. 
-1.2 Dialogism
+
 Dialogism is a central concept in Bakhtin’s work, and he used the term in 
 various senses (MORSON & EMERSON, 1990, p.130–131). In general, he considers 
 all utterances dialogic in the sense that 
+
 the living utterance, having taken meaning and shape at a 
 particular historical moment in a socially specific environment, 
 cannot fail to brush up against thousands of living dialogic 
 threads, woven by socio-ideological consciousness around the 
 given object of an utterance; it cannot fail to become an active 
 participant in social dialogue. (BAKHTIN, 1981, p.276)
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
+
 Utterances are shaped both by past uses of particular discourses as well as by 
 envisaged future uses (VOLOSHINOV, 1973 [1929], p.86), so that “all discourse is in 
 dialogue with prior discourses on the same subject, as well as with discourses yet to 
@@ -152,6 +118,7 @@ that consist of previous utterances about the topic are called the already-spoke
 meaning—a set of propositions that cohere around a given object of meaning” 
 (BAXTER, 2011, p.2). In any utterance, discourses are in competition “when the 
 meanings they advance negate one another in some way” (BAXTER, 2011, p.2). 
+
 This understanding of dialogue can be harnessed for discourse studies. Appraisal
 Theory uses a dialogic perspective to analyse how language “locate[s] the 
 writer/speaker with respect to the value positions being referenced in the text and with 
@@ -163,6 +130,7 @@ other voices, recognise alternative positions or put competing discourses into c
 (BAXTER, 2011, p.127; MARTIN & WHITE, 2005, p.99). Monoglossic talk appears 
 as “a compact and indivisible mass […] fused with its authority”, assuming taken-for-
 granted status so that one can either wholly accept or reject it. 
+
 Within the category of heteroglossic expressions, on the other hand, an utterance
 may be more or less dialogic, depending on the degree to which we either make present 
 other voices in our utterance and reflect on them or whether we hide them (MORSON 
@@ -171,10 +139,10 @@ contractive. The former type opens up dialogic space for alternative positions a
 voices whereas the latter type closes down the dialogic space by challenging, fending 
 off or restricting the scope of dialogic alternatives (MARTIN & WHITE, 2005, p.102–
 103), which we refer to as discursive struggle. 
+
 To analyse how power is exercised through discursive struggle, Baxter (2011) 
 adopts Bakhtin’s concept of centripetal (centralising) and centrifugal (decentralising) 
 forces (BAKHTIN, 1981, p.270–272). Marginalised discourses are “easily forgotten or 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 silenced relative to what is centred. The centre is easily legitimated as normative, 
 typical, and natural” and serves as a benchmark against which all else is compared, a 
 position of privilege and, thus, power compared to the centrifugal (BAXTER, 2011, 
@@ -193,6 +161,7 @@ accounts of the truth” (PENNYCOOK, 2021, p.112). A Bakhtinian understanding of
 languages as worldviews and discursive struggle thus entails the position that meaning-
 making always takes place within relations of power and that there is no truth outside of
 power. 
+
 This understanding is a considerable strength over other approaches to discourse 
 studies. Too many critical discourse approaches hold a view of ideology whereby there 
 is some “ideal order that is distorted, disordered, or perverted by the operations of 
@@ -204,10 +173,10 @@ and truth sits outside such power (the revelations of the analyst)” (PENNYCOOK
 2021, p.112) can lead to “a patronising principle that people are ideological dupes from 
 whose eyes the clear-sighted analyst can remove the blindfolds of ideological 
 obfuscation” (PENNYCOOK, 2021, p.107). 
+
 In the current context, such thinking is behind the EU decision to ban Russian 
 state-owned media, in President Ursula von der Leyen’s words, the “Kremlin’s media 
 machine”, to stop their “toxic and harmful disinformation” from “spread[ing] their lies 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 to justify Putin’s war and to sow division in our Union” (VON DER LEYEN, 2022). 
 “We” assume that “our” media system is free and balanced, while that of the Other is 
 bound by ideology and full of propaganda. As we are so used to our system, we lose 
@@ -232,13 +201,12 @@ visible as actions or “escalations”, while NATO activity is generally constr
 what a preventive war is, or by euphemisms such as humanitarian war and collateral 
 damage. To focus on the current conflict, I will now proceed to give a short account of 
 the context. 
-1.3 The Ukraine crisis context
+
 The Russian invasion of Ukraine can be seen as the tragic culmination of a crisis
 that has been unfolding at least since the Maidan protests in 2014, where democratic 
 protest against electoral fraud ultimately became dominated by far right groups 
 (ISHCHENKO, 2016) and was “inextricably bound up with geopolitical contestation”, 
 as US politicians hurried to Ukraine to voice “US support for Ukraine’s NATO and 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 Euro-Atlantic aspirations” (SAKWA, 2016, p.52–53). The view that “Ukraine’s 
 existence transforms Russian power by reducing it significantly” (BRZEZINSKI, 1996, 
 p.4) has informed US geopolitical strategy and shows the wider importance the current 
@@ -256,11 +224,13 @@ of a threat in Russian perceptions as NATO” (SAKWA, 2016, p.39–41). All the
 implications cannot hope to be accurately and fairly represented in an article, but a 
 wealth of relevant literature exists (D. JOHNSTONE, 2022; PETRO, 2017; POCH-DE-
 FELIU, 2003, p.357–374). 
+
 The NATO expansion in Eastern Europe, a prime reason for the Russian 
 invasion of Ukraine (KLARE, 2022), angered Russia and represents broken promises by
 Western leaders, as documental evidence shows (POCH-DE-FELIU, 2022; SAROTTE, 
 2021; SAVRANSKAYA & BLANTON, 2016). Summarising their work on declassified
 US, Soviet, German, British and French documents, Savranskaya and Blanton state:
+
 The documents show that multiple national leaders were 
 considering and rejecting Central and Eastern European 
 membership in NATO as of early 1990 and through 1991, that 
@@ -270,11 +240,11 @@ status of East German territory, and that subsequent Soviet and
 Russian complaints about being misled about NATO expansion 
 were founded in written contemporaneous memcons and telcons
 at the highest levels. (SAVRANSKAYA & BLANTON, 2017) 
+
 Whether the purpose of NATO expansion is seen as an attempt to prevent the 
 formation of a Eurasian alliance (KLARE, 2022), a “justifiable response to the […] 
 entreaties of new Central and Eastern European democracies” (SAROTTE, 2021) that 
 contributed to the frustration of East-West cooperation, or “the most fateful error in the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 entire post-Cold War era” (KENNAN, 1997) always depends on one’s standpoint; there 
 is no “objective position”. It is a central contention of Bakhtinian dialogism that we do 
 not only engage in talk about discourse, but with discourse, and that a form of dialogical
@@ -285,13 +255,14 @@ up together” (MANNHEIM, 1936, p.152). Individual standpoints, also sometimes
 called researcher bias, thus unavoidably permeate any type of analysis (DAVIS, 1990, 
 p.16; GEE, 2011, p.9). It is with this perspective in mind that I will proceed to outline 
 the method in the following section. 
-2 Method
+
 The text under analysis is the Regierungserklärung (‘policy statement’) given by
 Olaf Scholz on 27 February 2022, three days after the Russian invasion of Ukraine. The 
 text is drawn from the German government’s website (SCHOLZ, 2022). On this 
 website, apart from the original German text, translations into English and Russian are 
 also available, which indicates some secondary addressees. The translations of the 
 examples in this paper are partly official and partly my own. 
+
 The analysis has two steps. In the first step, I identify already-spoken and not-
 yet-spoken discourses in the speech through a thematic analysis. These discourses can 
 be manifest or latent; while manifest discourses are explicitly introduced, latent 
@@ -305,9 +276,9 @@ regarded as typical or normal: “When a judgement is made in talk, it is ground
 often unstated discursive system of meaning” (BAXTER, 2011, p.160). Both already-
 spoken and not-yet-spoken discourses can be proximal or distal: while proximal ones 
 are spoken by directly involved parties, distal ones are utterances circulating in culture 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 at large, spoken “by cultural members other than the parties of a given relationship” 
 (BAXTER, 2011, p.53). 
+
 Attitude is divided into affect (the emotive dimension of meaning; reactions to 
 behaviour), judgement (the ethical/moral dimension of meaning; evaluation of 
 behaviour according to some norm) and appreciation (the aesthetic dimension of 
@@ -321,6 +292,7 @@ in the realm of proposals about behaviour” whereas appreciation expresses eval
 value of things” (MARTIN & WHITE, 2005, p.45). Appreciation and judgement are not
 separate, but overlapping, with affect expressing a more personal evaluation within both
 of them (see the illustration in MARTIN & WHITE, 2005, p.45). 
+
 The second step analyses how the identified discourses are brought into 
 competition, as centred and marginalised. For this, I will draw on resources of 
 engagement, which are ways “to construe for the text a heteroglossic backdrop of prior 
@@ -330,19 +302,17 @@ Section 3. Dialogically contractive resources of engagement are disclaim (deny,
 counter) and proclaim (concur, pronounce, endorse); dialogically expansive resources 
 are entertain and attribute (acknowledge, distance) (MARTIN & WHITE, 2005, p.134).
 For more detail on these resources, see Martin & White (2005, p.97–98). 
-3 Analysis
-3.1 General comments
+
 The speech has seven parts: an introduction, followed by the five “courses of 
 action” that Scholz proposes, and a final part. In the original text, Scholz says “Fünf 
 Handlungsaufträge liegen nun vor uns”, which can be translated as ‘five mandates of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 action now lie ahead of us’ and suggests a certain passivity, an imposition of these 
 mandates by someone else, perhaps a higher force such as moral obligation or time, 
 given that in the previous sentence Scholz identifies a challenge “vor die die Zeit uns 
 gestellt hat” (‘that time has brought us up against’). This constructed passive reactivity 
 disappears in the official translation, which has “there are five courses of action that we 
 must take” and “the challenge that now faces us”, where time disappears as an actor. 
-3.2 Introduction to the speech
+
 Scholz introduces his speech by claiming that the Russian invasion of Ukraine 
 marks a “Zeitenwende” in the history of Europe, officially translated as ‘watershed’. I 
 will here refer to this as the watershed discourse. It is at the level of the proximal not-
@@ -351,13 +321,12 @@ controversial policies, by the logic that a new era needs to be reacted to in ne
 The discourse is manifestly tied to the actions of Russia through Scholz’s analysis of the
 alleged turning point (example 1), which is introduced by the contractive proclaim “im 
 Kern geht es um” to show that Scholz knows what this is fundamentally about. 
-(1) Im Kern geht es um die Frage, ob Macht das Recht brechen darf, ob wir es Putin 
-gestatten, die Uhren zurückzudrehen in die Zeit der Großmächte des 19. Jahrhunderts, 
-oder ob wir die Kraft aufbringen, Kriegstreibern wie Putin Grenzen zu setzen. 
+
 [‘Fundamentally, this is about the question of whether power is allowed to break the 
 law, whether we allow Putin to turn back the clock to the time of the great powers of the
 19th century, or whether we summon the force to keep warmongers like Putin in 
 check.’]
+
 That analysis shifts the focus away from modern great powers’ existence and 
 implication in the Ukraine war and simplifies it as a purely historically revisionist 
 attack. It also implies that power does not routinely break international law, which is an 
@@ -366,12 +335,12 @@ Yugoslavia in Europe (GRAY, 2018; D. JOHNSTONE, 2022). While Scholz is
 adamant that the invasion of Ukraine marks the dawn of a new era, the politics of 
 armament announced as a reaction to that new era are allegedly aimed at preventing 
 such a new era, at retaining the current order. It is thus unclear what exactly this new era
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 is supposed to consist of. Does Scholz say “warmongers like Putin” because he expects 
 there to be others? If the goal is to preserve the current order of security and 
 international law as we know it in Europe and not to return to an era of military 
 aggression and war, why do Scholz and other German politicians so adamantly 
 announce the dawn of a new era of defence spending? 
+
 Scholz then expresses moral indignation about the violation of international law 
 and by drawing analogy to the Second World War, invoking a personal perspective. 
 This is recommended by speech writers, as starting a speech by stating one’s personal 
@@ -389,6 +358,7 @@ international law, for instance in the formulation “infamer Völkerrechtsbruch
 breaches can be benevolent, or the description of the Russian veto, which is its right as a
 permanent member of the UN Security Council, as a “Notbremse” (‘emergency brake’) 
 and the added qualification of “Was für eine Schande!” (‘What a disgrace!’). 
+
 There is also a discourse of personal war experience, manifest through the 
 mention of “Erzählungen unserer Eltern und Großeltern […] vom Krieg” (‘our parents’
 or grandparents’ tales of war’), which invokes World War 2 experiences and constructs 
@@ -399,9 +369,9 @@ claim is made when Scholz states that Putin is demolishing the European security
 that had prevailed for almost half a century since the Helsinki Final Act. While the war 
 in Ukraine may be the first invasion by land, air and sea since the World War 2, the 
 insinuation that Europe has not experienced war or violent redrawings of borders since 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 then is misleading and seems to hide NATO’s and Germany’s controversial role in the 
 Yugoslav wars. 
+
 The fifth discourse I identify is the indivisible security discourse (example 2). It 
 is manifest through the indirect reported speech (“redet von”), which cursorily 
 introduces the safety guarantees that Russia has demanded based on the norm of 
@@ -413,17 +383,18 @@ proximal already-spoken rather than the distal already-spoken. This is a dialogi
 expansion by distancing, followed by the combination of countering and 
 pronouncement “Tatsächlich aber” to suggest that Putin is untruthful and Scholz knows
 what the real intention is. 
-(2) Präsident Putin redet dabei stets von unteilbarer Sicherheit. Tatsächlich aber will er 
-gerade den Kontinent mit Waffengewalt in altbekannte Einflusssphären teilen.
+
 [‘President Putin always talks about indivisible security. But what he really seeks now 
 is to divide the continent into the familiar old spheres of influence through armed 
 force.’]
+
 Dialogic contraction through pronouncement is used to assert that Putin started 
 the war “aus einem einzigen Grund” (‘for a single reason’), which disqualifies the 
 indivisible security discourse in favour of a Putin’s war discourse that casts the invasion
 as an unprovoked attack on the free world by a potentially unhinged individual actor 
 who wants “ein unabhängiges Land von der Weltkarte tilgen” (‘to wipe an independent 
 country off the map’). 
+
 That discourse is also reflected in the phrase in example (3), where Scholz 
 anticipates a potential argument that points to the OSCE accords. To exclude such 
 Eurasian partnership arguments, he connects the indivisible security discourse with the 
@@ -431,13 +402,11 @@ watershed discourse by using a countering construction: he acknowledges that lon
 term peace in Europe is only possible with Russia, but counters it by stating that for the 
 foreseeable future Russia endangers that security, supported by a pronouncement in the 
 last sentence. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-(3) Ja, dauerhaft ist Sicherheit in Europa nicht gegen Russland möglich. Auf absehbare 
-Zeit aber gefährdet Putin diese Sicherheit. Das muss klar ausgesprochen werden.
+
 [‘Yes, in the long term security in Europe cannot be achieved in opposition to Russia. 
 But for the foreseeable future, Putin is jeopardising this security. That must be stated 
 clearly.’]
-3.3 First course of action
+
 The theme of the first course of action Scholz announces is support to Ukraine, 
 which now also includes arms delivery to a conflict zone, an activity that has hitherto 
 been tabu in Germany. I identify this as the Germany as military power discourse at the 
@@ -447,6 +416,7 @@ give credence to the claim that the policy shift in arms delivery to conflict zo
 necessary. Disagreement on this is forestalled by presenting it as without alternative, 
 through the dialogically contractive denial “konnte es keine andere Antwort geben” 
 (‘there could be no other response’). 
+
 The Putin’s war discourse reoccurs here. Scholz’s stated aim is to distinguish the
 will of the Russian people, assumed to align with the Western free-world viewpoint, 
 from that of its president, thus isolating him. On a more hidden level, it also attempts to 
@@ -461,8 +431,7 @@ Seite der Geschichte” (‘on the right side of history’), an expression that
 the personal war experience discourse and Germany’s past on the wrong side of history.
 The shift in arms delivery policy is thus cast as morally justified and historically 
 necessary, contrasted as it is to the evil of “Putins Aggression” (‘Putin’s aggression’). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-3.4 Second course of action
+
 The second of Scholz’s course of action is “to divert Putin from his path of war”.
 Here, Scholz lists the sanctions against Russia and, using the contractive strategy of 
 counter, concedes that Putin will not change course overnight, but argues that an effect 
@@ -474,17 +443,17 @@ as well as the judgement that it is a “Konflikt zwischen Putin und der freien 
 (‘conflict between Putin and the free world’), which establishes a morally compelling 
 “with us or against us” situation similar to the one constructed by George W. Bush after 
 9/11. 
+
 Scholz connects the differentiation between Putin and the Russian people 
 through an appreciation of the discourse of German reconciliation, at the level of distal 
 already-spoken, and manifest in example 4. The connection of these two discourses 
 gives the personal attack on Putin moral justification, implying a historic duty to lead 
 Russia into the free world. 
-(4) Die Differenzierung ist mir wichtig; denn die Aussöhnung zwischen Deutschen und 
-Russen nach dem Zweiten Weltkrieg ist und bleibt ein wichtiges Kapitel unserer 
-gemeinsamen Geschichte. 
+
 [‘This differentiation is important to me, because reconciliation between Germans and 
 Russians after the Second World War is and remains an important chapter of our shared 
 history.’]
+
 Finally, I identify a latent regime change in Russia discourse, which is at the 
 level of the proximal not-yet-spoken. It can be identified in the judgements that in many
 Russian cities, people have protested against “Putin’s war”, showing “großen Mut und 
@@ -494,15 +463,13 @@ Ukraine ablehnen’” (‘who are boldly defying Putin’s regime and opposing 
 against Ukraine’). Given the preference for dialogic contraction in Scholz’s speech, 
 there is a notable concentration of dialogically expansive strategies applied to this 
 discourse (“we should not forget” the protests, “Ich bin ganz sicher: Freiheit, Toleranz 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 und Menschenrechte werden sich auch in Russland durchsetzen”, ‘I am quite sure that 
 freedom, tolerance and human rights will prevail in Russia, too’). That language, while 
 entertaining possibilities of protests, freedom and human rights, does open the way for 
 arguments that the Russian people agree with Putin and that freedom, tolerance and 
 human rights do not currently prevail in Russia in general, which is a strong and 
 unfounded claim and one that the West used in the past to justify wars against countries.
- 
-3.5 Third course of action
+
 In the third section, Scholz identifies a major challenge in preventing Putin’s war
 from spilling over into other countries in Europe. There is a discourse of NATO 
 alliance, at the level of the proximal already-spoken, manifest through a reference to 
@@ -516,17 +483,15 @@ actions the German army has carried out, appreciatively called “wichtige” (�
 signals. Soldiers are thanked for their “important” services, accompanied by a 
 contractive pronouncement “sicher auch in Ihrem Namen” (‘surely also in your name’),
 aligning the audience with his position. 
+
 To introduce the fourth course of action, Scholz addresses the audience again 
 specifically and again connects the Germany as military power discourse to the 
 watershed discourse, now latent, through the utterance in example (5). As such, he 
 specifically labels the newly announced military policy as necessary and “standard”. 
-(5) Meine Damen und Herren, angesichts der Zeitenwende, die Putins Aggression 
-bedeutet, lautet unser Maßstab: Was für die Sicherung des Friedens in Europa gebraucht
-wird, das wird getan.
+
 [‘In view of the watershed that Putin’s aggression entails, our standard is this: what is 
 needed to secure peace in Europe will be done.’]
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-3.6 Fourth course of action
+
 This is the longest section in the speech. Here, Scholz connects the previously 
 introduced watershed and Putin’s war discourses to claim that Putin “will ein russisches
 Imperium errichten” (‘wants to build a Russian empire’). This claim is supported by a 
@@ -539,6 +504,7 @@ is the one Scholz has drawn. The validity of his conclusion is further alleged b
 dialogically contractive endorsement “Das sehen wir heute in der Ukraine” (‘We can 
 see that today in Ukraine’) and when he makes the judgement “schreckt er nicht zurück 
 vor militärischer Gewalt” (‘has no qualms about using military force’). 
+
 Based on this conclusion, Scholz constructs a discourse of threat to national 
 security, which is proximal not-yet-spoken and latent. The war in Ukraine, stripped of 
 all its prehistory, is presented as an act of aggression to start building an empire that 
@@ -556,9 +522,9 @@ Germany as military power discourse, latently present in the assertion that a fu
 army is “ja wohl erreichbar für ein Land unserer Größe und unserer Bedeutung in 
 Europa” (‘quite certainly something that a country of our size and our significance 
 within Europe should be able to achieve’). 
+
 Finally, there is a latent discourse of inner-EU discipline, at the level of the 
 proximal not-yet-spoken, observable in the judgement that preserving the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 “Geschlossenheit” (‘unity’, the official translation has the more military term “united 
 front”) is an opportunity, and in the dialogically contractive pronouncement of a 
 demand that unity means that member states not simply ask what they can extract in 
@@ -566,7 +532,7 @@ Brussels for their own country, but ask what the best decision for “our” Uni
 discourse is connected to the watershed discourse (“die Zeitenwende […] trifft ganz 
 Europa”, ‘the watershed affects all of Europe’), suggesting that the new reality German 
 politicians are discursively constructing is envisaged for all of Europe. 
-3.7 Fifth course of action
+
 The fifth and last point Scholz makes is that “Putin’s war” represents a “Zäsur” 
 (‘caesura’) for German foreign policy, which again invokes the watershed discourse. 
 Compared to the previous courses of action, he is less clear on what future foreign 
@@ -582,21 +548,19 @@ never been interested in dialogue (example 6). This assertion heaps all the blam
 responsibility on Putin and shows that Scholz has no faith at all in the effectiveness of 
 dialogue. The envisaged caesura for German foreign policy, thus, seems to entail, as 
 was stated above, a lasting conflict with Russia. 
-(6) Für echten Dialog braucht es die Bereitschaft dazu auf beiden Seiten. Daran mangelt
-es aufseiten Putins ganz offensichtlich, und das nicht erst in den letzten Tagen und 
-Wochen.
+
 [‘True dialogue requires a willingness to engage—on both sides. That is lacking on 
 Putin’s side, quite clearly—and not just in recent days and weeks.’]
+
 Scholz’s comments on foreign policy can be read as a turn away from Merkel’s 
 pragmatic policy, which was characterised by “strong commitment to the Minsk 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 negotiations, as well as to the so-called Normandy Format, and Chancellor Merkel’s 
 frequent meetings with Russian President Vladimir Putin” (RÁCZ, 2022, p.3) to 
 maintain dialogue with Russia. The new coalition government is expected to take a 
 tougher course in line with US expectations, considering Merkel’s policy “naive” and 
 akin to the “appeasement” politics in 1938 (RIPSMAN & LEVY, 2008; LATHAM, 
 2021). 
-3.8 Final part
+
 In the final part, there is a discourse of German unity, latent and at the level of 
 the distal already-spoken, which is connected to the discourse of threat to national 
 security, present in “das große Glück, das unser Land seit über dreißig Jahren genießt”
@@ -610,20 +574,21 @@ strength of NATO, to forge even closer relations with our friends, our partners 
 those who share our convictions worldwide’). This again excludes discourses critical 
 with NATO and naturalises the discourse that a strong NATO is essential for German 
 national security. 
+
 Finally, there is a latent discourse of free democracy, invoked by the 
 appreciation “wir wissen um die Stärke freier Demokratien”, which unites “us”. This 
 discourse is connected to the Putin’s war discourse by labelling the attack on Ukraine an
 attack on the peaceful order in Europe and the world and another mention of “Putin’s 
 war”. The final sentence, the announcement that “wir werden es verteidigen” (‘we will 
 defend it’), is another invocation of the Germany as military power discourse. 
+
 In this section, I have analysed the speech thematically, identifying a range of 
 manifest and latent discourses. I have used a range of appraisal strategies to show how 
 Scholz expands or contracts dialogue around them through engagement and how he 
 connects these discourses to position himself and justify his future policies. In the 
 following section, I will provide an overview and an interpretation of the interplay of 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 the discourses from a dialogic perspective on centripetal and centrifugal discourses. 
-4 Discussion: The interplay of competing discourses
+
 The major centripetal discourses are the watershed and Putin’s war discourses, 
 which are centred through their sheer frequency of occurrence and through the recourses
 of engagement used around them. The watershed discourse constructs a new reality that 
@@ -632,6 +597,7 @@ speaking three days after its beginning. This invasion is constructed as an act 
 aggression not seen in Europe since World War 2 and at the hands of an isolated and 
 ruthless oppressor that wants to wipe Ukraine off the map and build a Russian empire, a
 view that I have summarily labelled the Putin’s war discourse. 
+
 Combining these discourses, as I have shown, Scholz asserts that there is no 
 alternative to a paradigm shift in military spending to become a military power adequate
 to the country’s importance in Europe, which in his plans translates into a budget that 
@@ -643,6 +609,7 @@ to protect German freedom and democracy in the future, a legitimisation by stoki
 of a hypothetical future (REYES, 2011). Due to the powerful position Germany holds 
 within the EU, Scholz announces this threat not just for Germany, but expects all of 
 Europe to follow his paradigm shift. 
+
 That shift is constructed as a necessity, not a choice, to protect the existence of 
 Germany from Russian aggression, “today and in the future”. Despite envisaging a 
 lasting conflict with Russia and a paradigm shift also in diplomatic position, the 
@@ -652,7 +619,6 @@ that it is Putin’s mere challenge of the NATO world order that in Scholz’s v
 ushered in a new era, also evident in a latent regime change discourse. Scholz’s analysis
 of Putin’s perspective is supported by the sole argument that Russia has invaded 
 Ukraine, and no further arguments seem necessary as Scholz speaks from a perspective 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
 of NATO hegemony (see Section 3). Scholz takes the invasion of Ukraine, stripped of 
 all its context and pre-history, as legitimation to engage in astonishing claims on Putin’s
 motives and ambitions, unbacked by any serious political or historical analysis. 
@@ -660,6 +626,7 @@ Potential voices arguing that Putin sought dialogue for decades are brushed away
 through denial (see example 6). Instead, through methods of neutralisation (BAXTER, 
 2011, p.171; DEETZ, 1992), the conflict is elevated into a conflict of good vs evil, of 
 the free world against oppression. 
+
 The historically documented Russian position (see Section 4) is here represented
 by the indivisible security discourse, which is centrifugal. As I argue above, its 
 marginalisation supports the Putin’s war discourse by making it seem as if the concept 
@@ -670,6 +637,7 @@ discourses of indivisable security and those demanding diplomacy. Where he does
 engage with alternative voices, those represent a tougher stance than his own, for 
 instance those demanding a rupture of dialogue with Russia and those arguing that 
 freedom, tolerance and human rights do not generally exist there. 
+
 To conclude, this article has demonstrated the strengths of Bakhtinian dialogism 
 applied to discourse analysis, specifically through an operationalisation of the concept 
 of centripetal-centrifugal struggle. It shows how powerful, centred discourses are 
@@ -677,186 +645,3 @@ mobilised in a political speech to exclude marginalised discourses justify a pre
 unthinkable paradigm shift in foreign policies and military spending. The method is 
 especially useful for global analyses where particular discourses and ideologies, mainly 
 of Western origin, are taken for granted.
-REFERENCES
-BACEVICH, A. J. The “End of History”... Again? In: Responsible Statecraft. New 
-York, 7 Mar. 2022. Available at: https://responsiblestatecraft.org/2022/03/07/the-end-
-of-history-again/. Access on: 25 Mar. 2022.
-BAKHTIN, M. Discourse in the Novel. In: HOLQUIST, M. (ed.) The dialogic 
-imagination. Translated by Caryl Emerson and Michael Holquist. Austin, TX: 
-University of Texas Press, 1981. pp.259−244. 
-BARNICKEL, C. 2020. Vorstellungen legitimen Regierens: Legitimationspolitik in der 
-Großen Regierungserklärung der 19. Wahlperiode im Vergleich. Zeitschrift für 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-Vergleichende Politikwissenschaft, Heidelberg, v.14, pp.199–223, 2020. Available at: 
-https://doi.org/10.1007/s12286-020-00458-1.
-BAXTER, L. A. Voicing Relationships: A Dialogic Perspective. London: SAGE, 2011. 
-BRZEZINSKI, Z. Ukraine’s Critical Role in the Post-Soviet Space. Harvard Ukrainian 
-studies Cambridge, MA, v. 20, pp.3–8, 1996.
-BUSCH, A.; KAUPERT, M. Die Regierungserklärungen deutscher Bundeskanzler von 
-1949 bis 2018 im Spiegel automatisierter Textanalyse. Zeitschrift für 
-Politikwissenschaft, Heidelberg, v. 28, pp.359–370, 2018. Available at: 
-https://doi.org/
- 
- 10.1007/s41358-018-0140-5
- 
- .
-COOK, J. Russia-Ukraine War: A Different Invasion, the West’s Same “Madman” 
-Script. In: Antiwar.com. 3 Mar. 2022. Available at: 
-https://original.antiwar.com/cook/2022/03/02/russia-ukraine-war-a-different-invasion-
-the-wests-same-madman-script/. Access on: 25 Mar. 2022.
-DALGAARD-NIELSEN, A. The Test of Strategic Culture: Germany, Pacifism and Pre-
-Emptive Strikes. Security Dialogue, Oslo, v. 36, n. 3, p.339–359, 2005. Available at: 
-https://doi.org/
- 
- 10.1177/0967010605057020
- 
- .
-DAVIS, H. G. Introduction. In: DAVIS, H. G.; TAYLOR, T. J. (eds.) Redefining 
-Linguistics. London: Routledge, 1990. pp.1−17.
-DEETZ, S. A. Democracy in an Age of Corporate Colonization: Developments in 
-Communication and the Politics of Everyday Life. Albany, NY: State University of 
-New York Press, 1992.
-FOUCAULT, M. Discipline and Punish: The Birth of the Prison. New York: Vintage, 
-1979. 
-GARDNER, H. The Russian Annexation of Crimea: Regional and Global 
-Ramifications. European Politics and Society, London, v. 17, n. 4, pp.490–505, 2016. 
-Available at: https://doi.org/
- 
- 10.1080/23745118.2016.1154190
- 
- .
-GEE, J. P. An Introduction to Discourse Analysis: Theory and Method. 3rd edn. London:
-Routledge, 2011.
-GRAY, C. International Law and the Use of Force. 4th edn. Oxford: Oxford University 
-Press, 2018.
-GREENWALD, G. War Propaganda about Ukraine Becoming More Militaristic, 
-Authoritarian, and Reckless. 27 Feb. 2022. Available at: 
-https://greenwald.substack.com/p/war-propaganda-about-ukraine-becoming. Access on:
-25 Mar. 2022.
-HOLQUIST, M. Dialogism: Bakhtin and his world. 2nd edn. London: Routledge, 2002.
-ISHCHENKO, V. Far Right Participation in the Ukrainian Maidan Protests: An Attempt
-of Systematic Estimation. European Politics and Society, London, v. 17, n. 4, pp.453–
-472, 2016. Available at: https://doi.org/
- 
- 10.1080/23745118.2016.1154646
- 
- .
-JOHNSTONE, C. International Law Is a Meaningless Concept When It Only Applies to
-US Enemies. 17 Mar. 2022. Available at: 
-https://caitlinjohnstone.com/2022/03/17/international-law-is-a-meaningless-concept-
-when-it-only-applies-to-us-enemies/. Access on: 25 Mar. 2022.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-JOHNSTONE, D. For Washington, War Never Ends. In: Consortium News. Arlington, 
-VA, 16 Mar. 2022. Available at: https://consortiumnews.com/2022/03/16/diana-
-johnstone-for-washington-war-never-ends/. Access on: 25 Mar. 2022.
-KENNAN, G. F. 1997. A Fateful Error. In: New York Times. New York, NY, 5 Feb. 
-1997. Available at: https://www.nytimes.com/1997/02/05/opinion/a-fateful-error.html. 
-Access on: 25 Mar. 2022.
-KORTE, K.-R. Die Regierungserklärung als Führungsinstrument der Bundeskanzler. 
-Zeitschrift für Parlamentsfragen, Halle, v. 33, n. 3, pp.452–462, 2002. Available at: 
-http://www.jstor.org/stable/24233720.
-LATHAM, A. This Is Not 1938 – so Stop Talking about Appeasement. In: The Hill. 
-Washington, DC, 16 Dec. 2021. Available at: https://thehill.com/opinion/national-
-security/585998-learning-the-real-lessons-of-neville-chamberlains-appeasement. Access
-on: 25 Mar. 2022.
-MANNHEIM, K. Ideology and Utopia: An Introduction to the Sociology of 
-Knowledge. London: Routledge & Kegan Paul, 1936.
-MARTIN, J. R.; WHITE P. R. R. The Language of Evaluation: Appraisal in English. 
-Basingstoke: Palgrave Macmillan, 2005.
-MEYER, B.; VON BREDOW, W.; EVERS, F. 40 Jahre Schlussakte von Helsinki, 25 
-Jahre Pariser Charta: Rückblick und Ausblick auf die OSZE. Sicherheit und Frieden 
-(S+F) / Security and Peace, Baden-Baden, v. 33, n. 2, pp.106–111, 2015. Available at: 
-https://doi.org/10.5771/0175-274x-2015-2-106.
-MORSON, G. S.; EMERSON, C. Mikhail Bakhtin: Creation of a Prosaics. Stanford: 
-Stanford University Press, 1990.
-PENNYCOOK, A. Critical Applied Linguistics: A Critical Reintroduction. 2nd edn. 
-Abingdon: Routledge, 2021.
-PETRO, N. (ed.) Ukraine in Crisis. London: Routledge, 2017.
-POCH-DE-FELIU, R. La Gran Transición: Rusia, 1985–2002. Barcelona: Crítica, 
-2003.
-POCH-DE-FELIU, R. Haciendo Memoria: De una Guerra Fría a Otra, de la Mano de la 
-OTAN. In: Ctxt. Contexto y acción. Madrid, 16 Feb. 2022. Available at: 
-https://ctxt.es/es/20220201/Firmas/38771/rusia-rafael-poch-gorbachov-otan-osce-
-europa-carta-de-paris.htm. Access on: 25 Mar. 2022.
-PÖRKSEN, U. Was ist eine gute Regierungserklärung? Grundriss einer politischen 
-Poetik. Göttingen: Wallstein, 2003.
-RÁCZ, A. Germany’s Shifting Policy towards Russia: The Sudden End of Ostpolitik. 
-In: Finnish Institute of International Affairs. Helsinki, 17 Mar. 2022. Available at: 
-https://www.fiia.fi/wp-content/uploads/2022/03/bp335_germanys-shifting-policy-
-towards-russia_the-sudden-end-of-ostpolitik_andras-racz.pdf. Access on: 25 Mar. 2022.
-RATHBUN, B. C. The Myth of German Pacifism. German Politics and Society, 
-Oxford, v. 24, n. 2, pp.68–81, 2006. Available at: 
-https://doi.org/
- 
- 10.3167/104503006780681885
- 
- .
-REYES, A. Strategies of Legitimisation in Political Discourse: From Words to Actions. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-Discourse & Society, London, v. 22, n. 6, pp.781–807, 2011. Available at: 
-https://doi.org/10.1177/0957926511419927.
-RIPSMAN, N. M.; LEVY J. S. Wishful Thinking or Buying Time? The Logic of British
-Appeasement in the 1930s. International Security, Cambridge, MA, v. 33, n. 2, pp.148–
-181, 2008. Available at: http://www.jstor.org/stable/40207135.
-SAKWA, R. Frontline Ukraine: Crisis in the Borderlands. London: I.B. Tauris, 2016.
-SAROTTE, M. E. America, Russia, and the Making of Post-Cold War Stalemate. New 
-Haven (CT): Yale University Press, 2021.
-SAVRANSKAYA, S.; BLANTON T. S. The Last Superpower Summits: Gorbachev, 
-Reagan, and Bush – Conversations that Ended the Cold War. Budapest: Central 
-European University Press, 2016.
-SAVRANSKAYA, S.; BLANTON T. S. NATO Expansion: What Gorbachev Heard. In:
-National Security Archive. 12 Dec. 2017. Available at: 
-https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-
-what-gorbachev-heard-western-leaders-early. Access on: 25 Mar. 2022.
-SCHOLZ, O. Regierungserklärung von Bundeskanzler Olaf Scholz am 27. Februar 
-2022. In: Bundesregierung. 27 Feb. 2022. Available at: 
-https://www.bundesregierung.de/breg-de/aktuelles/regierungserklaerung-von-
-bundeskanzler-olaf-scholz-am-27-februar-2022-200835
- 
- 6  . Access on: 25 Mar. 2022.
-STÜWE, K. Die Rede des Kanzlers: Regierungserklärungen von Adenauer bis 
-Schröder. Wiesbaden: VS Verlag für Sozialwissenschaften, 2005. Available at: 
-https://doi.org/
- 
- 10.1007/978-3-322-80688-8
- 
- .
-TODOROV, T. Mikhail Bahktin: The Dialogical Principle. Translated by Wlad 
-Godzich. Minneapolis: The University of Minnesota Press, 1984.
-VOLOSHINOV, V. N. Marxism and the Philosophy of Language. Translated by 
-Ladislav Mateika & Irwin R. Titunik. Cambridge, MA: Harvard University Press, 1973 
-[1929].
-VON DER LEYEN, U. Statement by President von der Leyen on Further Measures to 
-Respond to the Russian Invasion of Ukraine. In: Official Website of the European 
-Union. Brussels, 27 Feb. 2022. Available at: 
-https://ec.europa.eu/commission/presscorner/detail/en/statement_22_1441. Access on: 
-25 Mar. 2022.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3852
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

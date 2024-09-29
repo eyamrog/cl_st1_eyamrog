@@ -1,49 +1,3 @@
-Publication status: Not informed by the submitting author
-Modified Salter Pelvic Osteotomy for DDH treatment which
-may improve both anterior and posterior femoral head
-coverage.
-Vasyl Suvorov, Viktor Filipchuk
-https://doi.org/10.1590/SciELOPreprints.3407
-Submitted on: 2021-12-24
-Posted on: 2022-01-06 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-Type of article - original article. 
-Tipo de artigo - artigo original. 
-Full title: Modified Salter pelvic osteotomy for DDH treatment which may improve both 
-anterior and posterior femoral head coverage.  
-Título completo: Osteotomia pélvica de Salter modificada para tratamento de DDQ que 
-pode melhorar a cobertura da cabeça femoral anterior e posterior. 
-Running title: Modified Salter Pelvic Osteotomy for DDH treatment. 
-Título corrente: Osteotomia Pélvica de Salter modificada para tratamento de DDQ. 
-Authors, their affiliation, academic degree, ORCID:  
-Suvorov Vasyl, Ph.D.-student - Department of Joint Diseases in Children and Adolescents, 
-SI «The Institute of Traumatology and Orthopedics by NAMS of Ukraine», Kyiv, Ukraine 
-(ORCID  - https://orcid.org/0000-0002-0862-7997);  
-Filipchuk Viktor, MD - Department of Joint Diseases in Children and Adolescents, SI «The 
-Institute of Traumatology and Orthopedics by NAMS of Ukraine», Kyiv, Ukraine (ORCID  - 
-https://orcid.org/0000-0002-9727-9532). 
-Place where the work was performed - SI «The Institute of Traumatology and 
-Orthopedics by NAMS of Ukraine» 
-Corresponding author – Suvorov Vasyl; address  - Ukraine, Kyiv, Bondarska st. 3/102, 
-04073; phone number - +38(066)3937213; e-mail – vasil_suvorov@ukr.net. 
-Acknowledgment of financial support, grants, individuals who contributed to the 
-preparation of the manuscript but who do not fulfill the authorship criteria: none. 
-Institutional ethics board committee approval (protocol №4 dated 10.12.2021) was 
-obtained for publishing the results of this investigation. 
-Submission statement: this article has not been submitted simultaneously elsewhere 
-Publication statement: this article has not been published previously. 
- 
-Conflict of Interest: there is no conflict of interest according to the article topic at this 
-moment.   
- 
-Keywords: Developemental Dysplasia of the Hip, Pelvic osteotomy, Osteotomy, Results, 
-Modification. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-ABSTRACT 
 Objective: Three pelvic osteotomies (Salter, Dega, Pemberton) are widely used in walking 
 patients under 7 years old for DDH treatment. We’ve proposed a modified Salter Pelvic 
 Osteotomy (SPO), which has the advantages of the abovementioned osteotomies. 
@@ -56,33 +10,7 @@ results at follow-up were I / II McKay grade in 18 patients (94.7%); radiologica
 I / II Severin class in 18 patients (94.7%). Conclusion: Modified SPO allows to improve the 
 FH coverage in any direction; results after modified SPO are excellent and good in the vast 
 majority of patients. 
-Level of Evidence IV, Case Series 
-RESUMO 
-Objetivo: Três osteotomias pélvicas (Salter, Dega, Pemberton) são amplamente utilizadas 
-em pacientes que andam com menos de 7 anos para o tratamento de DDQ. Propusemos 
-uma Osteotomia Pélvica de Salter (SPO) modificada, que tem as vantagens das 
-osteotomias acima mencionadas. Métodos: Os resultados de curto e médio prazo foram 
-avaliados em 19 pacientes após a aplicação de SPO modificada. Os pacientes foram 
-examinados antes e após a cirurgia, aos 6 meses de pós-operatório e no seguimento. 
-Resultados: O índice acetabular (IA) antes da cirurgia era de 39,5 ± 7 °, após a cirurgia - 
-24,4 ± 5,5 °, aos 6 meses - 20,4 ± 5 ° (9-28), no seguimento - 14,5 ± 4 °; Correção AI - 14,9 
-± 5,5 °. Lateral angulo centro-borda no acompanhamento - 22,7 ± 4,7 °. Os resultados 
-clínicos no acompanhamento foram grau I / II de McKay em 18 pacientes (94,7%); os 
-resultados radiológicos foram classe I / II de Severin em 18 pacientes (94,7%). Conclusão: 
-O SPO modificado permite melhorar a cobertura de FH em qualquer direção; os resultados 
-após SPO modificado são excelentes e bons na grande maioria dos pacientes. 
-Nível de evidência IV, série de casos 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-Introduction: 
+
 Developmental Dysplasia of the Hip (DDH) is one of the most common pathologies of 
 the hip joint in children 1. The age of DDH detection is critical - non-surgical treatment is 
 effective only in case of early diagnosis (in non-walking patients) 2. In case of DDH late 
@@ -90,6 +18,7 @@ detection (in walking patients) or after the failure of non-surgical treatment (
 residual acetabular dysplasia or femoral head redislocation), surgical treatment is indicated 
 3. There are different types of surgeries for DDH management, but the best results were 
 observed after pelvic osteotomies application 4.  
+
 Three different pelvic osteotomies (Salter, Dega, Pemberton) are commonly used in 
 patients with DDH younger than 7 years old 5. Each of these osteotomies has certain 
 advantages and disadvantages. Thus, Salter osteotomy is easier to perform, but it is 
@@ -102,6 +31,7 @@ achieve higher correction degree, but using it it is possible to improve only th
 FH coverage; another disadvantage after this surgery is a possible triradiate cartilage injury 
 6, 8, 9
 . 
+
 Today it is well-known that DHH presents itself not purely as an anterolateral 
 acetabular deficiency; three types of acetabular deformities were found 10. Thus, there is a 
 need for a pelvic osteotomy that would be able to improve FH coverage in all directions. 
@@ -109,22 +39,27 @@ Other prerequisites for pelvic osteotomy are: to ensure a sufficient level of ac
 deformity correction; to be easy to perform regardless of the patient's age; have no risk of 
 triradiate cartilage injury. In our hospital, we use a modified Salter Pelvic Osteotomy (SPO) 
 that meets the abovementioned requirements. 
+
 The purposes of this article were:  
+
 1) to describe our modification of SPO 
+
 2) to show short and middle-term results after this technique 
-Methods: 
+
 Institutional ethics board committee approval (protocol №4 dated 10.12.2021) was 
 obtained for publishing the results of this investigation. 
+
 In our institution modified SPO is used from 2015. It is applied in patients older than 2 
 years old with acetabular dysplasia (acetabular index(AI) values ≥ 30°); the upper age limit 
 for this technique was 6 years old.  
+
 The differences of our SPO modification from the classically described one 11 are the 
 following: 1) a curved line of the osteotomy going horizontally up to the terminal line, then it 
 turns downwards (towards the top of the greater sciatic notch) – Figure 1, A/D; 2) more 
 proximal start point of the osteotomy line – Figure 1, B/E; 3) chisel’s blade outer side is 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
 turned at 45 ° upward laterally (according to the principle of Dega pelvic osteotomy) – 
 Figure 1, C/F. The abovementioned features of our modification are shown in Figure 1.  
+
 This modified SPO allows to improve the FH coverage in all directions (due to the 
 curved osteotomy line - see Figure 2) and achieve a higher degree of AI correction (due to 
 the turned chisel blade position and, consequently, larger bony contact between iliac bone 
@@ -133,11 +68,14 @@ technically easy to perform regardless of the patient's age (since it’s itself
 bone osteotomy and doesn’t depend on iliac bone thickness); also, the risk of triradiate 
 cartilage injury is absent (the osteotomy line is far from it). An example of a modified SPO 
 application is shown in Figure 3. 
+
 To evaluate the results after modified SPO, we’ve selected 19 patients who 
 underwent this surgery for the period 2015-2020.  
+
 Among these patients 18 were girls (94.7%) and 1 was a boy (5.3%); the left hip joint 
 was affected in 12 cases (63.2%), the right - in 7 cases (36.8%); the mean patient’s age 
 was 3.6 ± 1.5 years (2-6); the mean follow-up period was 2.7 ± 1.6 years (1-5).  
+
 During the pelvic osteotomy, we’ve improved the FH coverage in that direction where 
 it was a deficiency according to X-rays. The deficit of anterior coverage was estimated 
 according to the anterior center-edge angle (CEA) values on the false profile view (in 
@@ -147,6 +85,7 @@ comparing the anterior and posterior acetabular walls contours on anterior-poste
 acetabular wall deficit - as an analog to posterior wall sign in adults). In the case of both 
 anterior and posterior acetabular deficiency, we've improved the FH coverage in a more 
 defective direction. Lateral FH coverage was routinely improved in all patients.  
+
 Additionally to modified SPO in all cases, we’ve performed femoral varus derotational 
 osteotomy (FVDO) to decrease femoral anteversion and valgus deformity. Femoral head 
 open reduction was added in case of impossible concentric closed reduction of the FH; 
@@ -154,6 +93,7 @@ femoral shortening was mandatorily performed in these patients. A combination of
 reduction, pelvic and femoral osteotomies is known as One-Stage Surgery  (OSS) 3. A 
 combination of modified SPO and FVDO was performed in 8 patients (42.1%), OSS was 
 performed in 11 patients (57.9%).  
+
 Patients were examined clinically and radiologically before, immediately after 
 surgery, at 6 months postoperatively, at follow-up. Before the surgery, we had determined 
 DDH Tonnis grade and AI values. The day after surgery, we’ve measured AI values and the 
@@ -163,17 +103,22 @@ determined AI values, Wiberg lateral CEA values; femoral head AVN sequels were
 assessed according to Bucholz and Ogden 12. Long-term radiological results were 
 evaluated according to Severin classification 3, long-term clinical results were evaluated 
 according to McKay's criteria 13. 
+
 For statistics calculations we’ve used JASP Team (2020). JASP 
 (Version 0.11.1.0)[Computer software].  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-Results: 
+
 According to DDH Tonnis classification, the II grade was in 6 patients (31.5%), III 
 grade - in 1 patient (5.3%), IV grade - in 12 patients (63.2%).  
+
 The AI values before the surgery were 39.5 ± 7 ° (30-53). 
+
 The next day after surgery AI values were 24.4 ± 5.5 ° (15-33).  
+
 The amount of AI correction was 14.9 ± 5.5 ° (8-28). 
+
 At 6 months AI values were 20.4 ± 5 ° (9-28). Signs of femoral head AVN were 
 present in 8 patients (42.1%).  
+
 At follow-up AI values were 14.5 ± 4 ° (6-23); lateral CEA values were 22.7 ± 4.7 ° 
 (15-29). Femoral head AVN sequels type I according to Bucholz and Ogden were present in 
 5 patients (26.3%), type II in 0 patients, type III in 1 patient (5.3%), type IV in 2 patients 
@@ -182,12 +127,14 @@ patients (63.2%), grade II in 6 patients (31.5%), grade III in 1 patient (5.3%),
 patients (0%). Radiological results according to Severin criteria were the following: class I in 
 14 patients (73.7%), class II in 4 patients (21%), class III in 1 patient (5.3%), class IV-VI in 0 
 patients. 
+
 Patients’ preoperative characteristics, postoperative clinical and radiological results 
 are presented in Table 1. 
+
 The long-term result after the modified SPO application is presented in Figure 4. 
 Comparison of results after our SPO modification with other authors’ results after 
 standard SPO (or their modifications) is presented in Table 2.  
-Discussion: 
+
 Non-surgical management of DDH is effective in case of early diagnosis 2, but in 
 neglected cases or after non-surgical treatment failure, surgery is mandatory 3. Pelvic 
 osteotomies are proved to be the most effective surgical option for DDH treatment 4. Each 
@@ -198,580 +145,33 @@ the ideal pelvic osteotomy should improve FH coverage in all directions and shou
 known drawbacks. In this paper, we have described our modification of Salter pelvic 
 osteotomy, which meets all the above requirements. Also, the short-term and mid-term 
 results after the modified SPO application were described. 
+
 Our modification of SPO differs from the classically described one in that it has a 
 curved line of osteotomy, a more proximal start point of osteotomy and an upward-directed 
 lateral edge of the chisel blade. 
+
 Short-term and mid-term clinical and radiological results after modified SPO 
 application (follow-up period from 1 to 5 years) were good and excellent in 94.7% of 
 patients; there were no unsatisfactory results. Results after our modification are similar to 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
 other authors’ results after the application of standard SPO or their modifications 1-3, 13-20. 
 However, we believe that it is necessary to individually assess the direction of femoral head 
 deficiency and to consider this during preoperative planning. 
+
 Shortcomings of this work are: short follow-up period, absence of control group, 
 patients’ age is limited to 2-6 years old, no results were described after isolated SPO 
 modification (each patient in this study had has additional procedures). 
-Conclusion:  
+
 Modified Salter Pelvic Osteotomy make it possible to improve femoral head coverage 
 in any direction in walking patients with DDH under 7 years old; it is technically easy to 
 perform modified SPO independently on the patient’s age; this technique provides good 
 Acetabular Index correction; results after modified SPO are excellent and good in the vast 
 majority of patients. 
+
 Acknowledgements to the people who have contributed intellectually or technically 
 to the study, but whose contribution does not justify authorship - none.  
-Identification of the authors: Suvorov Vasyl - https://orcid.org/0000-0002-0862-
-7997); Filipchuk Viktor - https://orcid.org/0000-0002-9727-9532. 
-Author contribution statement: 
+
 Each author individually and significantly contributes to the development of this 
 article. Suvorov V: substantial contribution to the concept or design of the work, materials 
 acquisition,  result’s analysis, writing of this work. Filipchuk V: substantial contribution to the 
 interpretation of study data, critical review of work’s intellectual content, final approval of the 
 version of the manuscript to be published 
-Level of evidence - level 4 (therapeutic study). 
-References:  
-1. Esmaeilnejad-Ganji SM, Esmaeilnejad-Ganji SMR, Zamani M, Alitaleshi HA. Newly 
-Modified Salter Osteotomy Technique for Treatment of Developmental Dysplasia of 
-Hip That Is Associated with Decrease in Pressure on Femoral Head and Triradiate 
-Cartilage. BioMed Research International. 2019: 1–9. 
-2. Gurger M, Demir S, Yilmaz M, Once G. Salter osteotomy without open reduction in 
-the Tönnis type II developmental hip dysplasia: A retrospective clinical study. J 
-Orthop Surg (Hong Kong). 2019; 27(1): 2309499019835572.  
-3. Bhuyan BK. Outcome of one-stage treatment of developmental dysplasia of hip in 
-older children. Indian journal of orthopaedics. 2012; 46(5): 548-55.  
-4. Kothari A, Grammatopoulos G, Hopewell S, Theologis T. How does bony surgery 
-affect results of anterior open reduction in walking-age children with developmental 
-hip dysplasia? Clin Orthop Relat Res. 2016; 474(5): 1199-208. 
-5. Chunho C, Ting-Ming W, Ken NK. Pelvic Osteotomies for Developmental Dysplasia 
-of the Hip. Submitted: April 21st 2016Reviewed: January 18th 2017. Published: April 
-12th 2017. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-6. Wang CW, Wu KW, Wang TM, Huang SC, Kuo KN. Comparison of acetabular 
-anterior coverage after Salter osteotomy and Pemberton acetabuloplasty: a long-
-term followup. Clin Orthop Relat Res. 2014; 472(3):1001-9.  
-7. El-Sayed M, Ahmed T, Fathy S, Zyton H. The effect of Dega acetabuloplasty and 
-Salter innominate osteotomy on acetabular remodeling monitored by the acetabular 
-index in walking DDH patients between 2 and 6 years of age: short- to middle-term 
-follow-up. J Child Orthop. 2012; 6(6): 471-7.  
-8. Pemberton PA. Pericapsular osteotomy of the ilium for treatment of congenital 
-subluxation and dislocation of the hip. J Bone Joint Surg Am. 1965 Jan; 47(): 65-86. 
-9. Plaster RL, Schoenecker PL, Capelli AM. Premature closure of the triradiate 
-cartilage: a potential complication of pericapsular acetabuloplasty. J Pediatr Orthop. 
-1991; 11(5): 676-8. 
-10. Nepple JJ, Wells J, Ross JR, Bedi A, Schoenecker PL, Clohisy JC. Three Patterns of 
-Acetabular Deficiency Are Common in Young Adult Patients With Acetabular 
-Dysplasia. Clin Orthop Relat Res. 2017; 475(4): 1037-1044.  
-11. Hamdy R, Saran N. Pediatric Pelvic and Proximal Femoral Osteotomies: Cham, 
-Switzerland. Springer; 2018. Chapter 3, The Salter Innominate Osteotomy; p. 29-
-36.  
-12. Roposch A, Wedge JH, Riedl G. Reliability of Bucholz and Ogden classification for 
-osteonecrosis secondary to developmental dysplasia of the hip. Clin Orthop Relat 
-Res. 2012; 470(12): 3499-505. 
-13. Ahmed E, Mohamed AH, Wael H. Surgical treatment of the late - presenting 
-developmental dislocation of the hip after walking age. Acta Ortop Bras. 2013; 21(5): 
-276-80.  
-14. da Rocha VL, Marques GL, da Silva LJ, di Macedo Bernardes TA, de Moraes FB. 
-Clinical and radiographic medium-term evaluation on patients with developmental 
-dysplasia of the hip, who were submitted to open reduction, capsuloplasty and Salter 
-osteotomy. Rev Bras Ortop. 2014; 49(1): 51-5.   
-15. Chen Q, Deng Y, Fang B., Outcome of one-stage surgical treatment of 
-developmental dysplasia of the hip in children from 1.5 to 6 years old. A retrospective 
-study. Acta Orthop Belg. 2015; 81(3): 375-83. 
-16. Xie X, Tang X, Jiang X, Peng M, Liu L. Application of absorbable pins for 
-reconstructing pelvic stability in Salter innominate.Zhongguo Xiu Fu Chong Jian Wai 
-Ke Za Zhi. 2013; 27(4): 428-31F 
-17. Kandil AE, Saeed A, El-Barbary H, Hegazi M, El-Sobky M. Salter versus Dega 
-osteotomy after open reduction of developmental dysplasia of the hip in young 
-children. Egypt Orthop J. 2013; 48(1): 80–87. 
-18. Bayhan IA, Beng K, Yildirim T, Akpinar E, Ozcan C, Yagmurlu F. Comparison of 
-Salter osteotomy and Tonnis lateral acetabuloplasty with simultaneous open 
-reduction for the treatment of developmental dysplasia of the hip: midterm results. J 
-Pediatr Orthop B. 2016; 25(6): 493-498. 
-19. Morin C, Bisogno J, Kulkarni S, Morel G. Treatment of late-presenting developmental 
-dislocation of the hip by progressive orthopaedic reduction and innominate 
-osteotomy. Our results with more than 30 years of follow up. J Child Orthop. 2011; 
-5(4): 251-60.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-20. da Rocha VL, Thomé AL, da Silva Castro DL, de Oliveira LZ, de Moraes FB. 
-CLINICAL AND RADIOLOGICAL EVALUATION ON DEVELOPMENTAL HIP 
-DYSPLASIA AFTER SALTER AND OMBRÉDANNE PROCEDURE. Rev Bras Ortop. 
-2015; 46(6): 650-5.  
-Table 1. Patients’ preoperative charasteristics, postoperative clinical and radiological 
-results (f-up - follow-up; bef - before; aft - after; diff - difference; 6m - 6 months). 
-Severin 
-1 
-1 
-2 
-1 
-1 
-1 
-3 
-1 
-1 
-2 
-1 
-1 
-1 
-1 
-1 
-1 
-2 
-1 
-2 
-McKay 
-1 
-1 
-2 
-1 
-1 
-1 
-3 
-1 
-1 
-2 
-2 
-2 
-1 
-1 
-1 
-1 
-2 
-1 
-2 
-AVN 
-1 
- 
-1 
- 
-4 
-4 
- 
-1 
- 
-1 
- 
- 
-3 
- 
- 
-1 
- 
- 
- 
-CEA 
-28 
-27 
-23 
-29 
-26 
-23 
-15 
-22 
-26 
-19 
-20 
-16 
-27 
-26 
-27 
-24 
-15 
-24 
-15 
-f-up 
-6 
-12 
-16 
-11 
-12 
-13 
-20 
-9 
-18 
-18 
-16 
-14 
-11 
-14 
-14 
-16 
-23 
-17 
-15 
-6m 
-20 
-16 
-20 
-15 
-23 
-26 
-25 
-9 
-23 
-23 
-22 
-21 
-25 
-12 
-16 
-22 
-28 
-24 
-18 
-diff 
-10 
-12 
-18 
-14 
-17 
-11 
-22 
-28 
-9 
-15 
-15 
-8 
-14 
-16 
-11 
-13 
-9 
-26 
-16 
-aft 
-22 
-22 
-25 
-15 
-26 
-26 
-31 
-15 
-27 
-33 
-27 
-23 
-28 
-15 
-21 
-30 
-31 
-26 
-20 
-bef 
-32 
-34 
-43 
-30 
-43 
-37 
-53 
-43 
-36 
-48 
-42 
-31 
-42 
-31 
-32 
-43 
-42 
-52 
-36 
-АІ 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Tonnis 
-2 
-2 
-4 
-2 
-4 
-4 
-4 
-4 
-4 
-4 
-4 
-4 
-4 
-2 
-2 
-3 
-4 
-4 
-2 
-f-up 
-5 
-2 
-1 
-2 
-3 
-3 
-1 
-2 
-2 
-1 
-1 
-1 
-5 
-4 
-5 
-3 
-4 
-5 
-1 
-surgery 
-SPO+FVDO 
-SPO+FVDO 
-OSS 
-SPO+FVDO 
-OSS 
-OSS 
-OSS 
-OSS 
-OSS 
-OSS 
-OSS 
-SPO+FVDO 
-OSS 
-SPO+FVDO 
-SPO+FVDO 
-SPO+FVDO 
-OSS 
-OSS 
-SPO+FVDO 
-age 
-3 
-6 
-3 
-4 
-6 
-6 
-2 
-4 
-6 
-4 
-3 
-2 
-4 
-2 
-2 
-3 
-2 
-3 
-3 
-side 
-L 
-L 
-L 
-L 
-L 
-R 
-L 
-L 
-L 
-R 
-R 
-R 
-L 
-L 
-R 
-L 
-R 
-R 
-L 
-sex 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-F 
-M 
-F 
-F 
-F 
-№ 
-1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10 
-11 
-12 
-13 
-14 
-15 
-16 
-17 
-18 
-19 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-Table 2. Comparison of results after modified  SPO with other authors’ results. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Author (reference) 
-Results 
- 
-Radiological 
-Clinical 
-Esmaeilnejad-
-Ganji, S. M. 1 
-Severin І\ІІ - 96.7%; AI  - 11.24; CEA - 39.1 
-Mac-kay І\ІІ - 94.5% 
-Gurger, M. 2 
-Severin І\ІІ – 100%; AI -18.0;  CEA -39.0 
-Mac-kay І\ІІ – 100% 
-Bhuyan BK 3 
-Severin І\ІІ - 83.4%; AI - 21°;   CEA - 23.5° 
-Mac-kay І\ІІ - 90%  
-Ahmed, E. 13 
-Severin І\ІІ – 76.8%; AI - 19°;  CEA - 26°  
-Mac-kay І\ІІ – 80.8% 
-Da Rocha, V. L. 14 
-Severin І\ІІ - 69.2%, AI – 18.5° 
-Dutoit ( excellent +good) 
-– 92.3% 
-Chen Q 15 
-Severin І\ІІ - 83.3%; AI - 21±2°;  CEA - 23.5° 
-Mac-kay І\ІІ – 90% 
-Xie X 16 
-Severin І\ІІ - 97.6%  
-Mac-kay І\ІІ - 98.3%   
-Ahmed K 17 
-Severin І\ІІ - 90%  
-Mac-kay І\ІІ - 89.5%  
-Bayhan, I. A. 18 
-Severin І\ІІ – 92%; AI - 12 ± 8°;  CEA - 30 ± 9° 
-Mac-kay І\ІІ - 92%  
-Morin, C. 19 
-Severin І\ІІ – 96.3%; AI -12 ± 8°;  CEA - 29° 
-Harris hip score - 94.5 
-Da Rocha, V. L. 20 
-Severin І\ІІ – 88.9%;  CEA - 20.7± 5.02° 
-Dutoit (excellent+good) – 
-83.3% 
-Our modification 
-Severin І\ІІ – 94.7%; AI – 14.5 ± 4°;  CEA –22.7±4.7° 
-Mac-kay І\ІІ – 94.7% 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-Figure 1.  
-  
-Figure 2. 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-Figure 3.   
-  
-Figure 4.
-  
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
- 
-Legends to figures:  
-Figure 1. The differences of our SPO modification from the classically described one. 
-In the upper raw (A-C) our modification is shown, in the lower raw (D-F) the classically 
-described SPO is shown.  
-Figure 2. FH coverage improvement in anterior (A), posterior (B) and lateral (C) 
-directions during modified SPO according to applied forces (white arrows). 
-Figure 3.  An example of modified SPO application in 3 years old female patient. A – 
-before the surgery, B – after Single Stage Surgery. White arrow points to the upper iliac 
-fragment’s sharp angle which is due to curved osteotomy (this is a radiological feature of 
-our modification that is absent in classically described SPO). 
-Figure 4. X-rays of 3 years old female patient. A – before the surgery, B – after the 
-Single Stage Surgery (white arrow points to the upper iliac fragment’s sharp angle), C – 4 
-years postoperatively. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3407
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

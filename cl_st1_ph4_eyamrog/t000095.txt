@@ -1,70 +1,3 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/1980-549720210056
-High discrepancies in the mortality of hospitalized patients with
-COVID-19 in the two most economically important states in
-Brazil
-Vitor Barreto Paravidino, Rosely Sichieri, Danilo Cosme Klein Gomes, Gulnar Azevedo e Silva
-https://doi.org/10.1590/1980-549720210056
-Submitted on: 2021-09-24
-Posted on: 2021-09-24 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-https://doi.org/ 10.1590/1980-549720210056 
-REV BRAS EPIDEMIOL 2021; 24: E 210056 
-ARTIGO ESPECIAL 
- 
-High discrepancies in the mortality of hospitalized patients with COVID-19 in the 
-two most economically important states in Brazil 
-Alta discrepância na mortalidade de pacientes hospitalizados por COVID-19 nos dois 
-estados mais importantes economicamente do Brasil 
-Running head: COVID-19 mortality in hospitalized patients in Rio and São Paulo 
- 
-Vitor Barreto Paravidino   
- 
-(https://orcid.org/0000-0002-4972-1269) 
-Department of Epidemiology, Institute of Social Medicine, Universidade do Estado do 
-Rio de Janeiro, Rio de Janeiro, Brazil 
-Department of Physical Education and Sports, Naval Academy – Brazilian Navy, Rio 
-de Janeiro, Rio de Janeiro, Brazil  
-Rosely Sichieri  
- 
- 
- 
-(https://orcid.org/0000-0001-5286-5354) 
-Department of Epidemiology, Institute of Social Medicine, Universidade do Estado do 
-Rio de Janeiro, Rio de Janeiro, Brazil 
-Danilo Cosme Klein Gomes  
- 
-(https://orcid.org/0000-0002-7272-7175) 
-Department of Epidemiology, Institute of Social Medicine, Universidade do Estado do 
-Rio de Janeiro, Rio de Janeiro, Brazil 
-Gulnar Azevedo e Silva  
- 
- 
-(https://orcid.org/0000-0001-8734-2799) 
-Department of Epidemiology, Institute of Social Medicine, Universidade do Estado do 
-Rio de Janeiro, Rio de Janeiro, Brazil 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Corresponding author: Vitor Barreto Paravidino. Rua São Francisco Xavier 524 – 
-Maracanã, Bloco E, 7º andar – UERJ. Rio de Janeiro – RJ – 20550-013, 
-vparavidino@gmail.com 
- 
-Conflict of interests: The authors declare that no competing interests exist 
- 
-Financial support: none 
- 
-Authors’ contributions: RS participated in the conception of the study and initial writing 
-of the manuscript. VBP analyzed the data. RS, VBP, DCKG, and GAS wrote the 
-manuscript. All authors contributed to the interpretation of the data, revision, and the 
-final approval of the manuscript. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Abstract 
 Objective: To compare the proportion of deaths among hospitalized cases of COVID-
 19 in São Paulo and Rio de Janeiro, stratified by private and public services. Methods: 
 Hospitalization data for Severe Acute Respiratory Syndrome (SARS) was obtained by 
@@ -80,84 +13,51 @@ ratio of dying by Covid-19, comparing the state of Rio de Janeiro with São Paul
 worse. The lethality among hospitalized patients with COVID-19 in Rio de Janeiro is at 
 least twice compared to São Paulo, both at the states and capitals. The public or private 
 services showed important differences, with odds ratios of 2.74 and 3.46, respectively. 
+
 Conclusion: It appears that the worst governance in the health sector in Rio the Janeiro, 
 more than lack of resources, explains the excess mortality of hospitalized Covid-19 
 patients in Rio de Janeiro. 
-Keywords: Covid-19, Hospital mortality, Delivery of Health Care, Brazil  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Resumo 
-Objetivo: Comparar a proporção de óbitos entre os casos de COVID-19 hospitalizados 
-em São Paulo e Rio de Janeiro, estratificados por serviços públicos e privados. 
-Métodos: Os dados de hospitalização por Síndrome Respiratória Aguda Grave (SRAG) 
-foram obtidos pelo banco de dados SIVEP-Gripe. Todos os adultos hospitalizados com 
-diagnóstico de COVID-19 ou SRAG não-especificado, entre janeiro e dezembro de 
-2020, foram incluídos na análise. Modelos de regressão logística foram usados para 
-avaliar o risco de morte entre Rio de Janeiro e São Paulo, ajustados para idade, sexo e 
-comorbidades. Resultados: Foram analisados 388.657 registros hospitalares do Rio de 
-Janeiro e São Paulo (91.532 e 297.125, respectivamente). Os dados faltantes no banco 
-são frequentes e maior no Rio de Janeiro (estado e capital). Ajustando para fatores de 
-confusão, a razão de chance de morrer por Covid-19, comparando o estado do Rio de 
-Janeiro com São Paulo, foi de 2,51 nos hospitais privados e 2,29 nos públicos. Para as 
-capitais, o cenário é pior. A letalidade entre pacientes internados com COVID-19 no 
-Rio de Janeiro é pelo menos o dobro em relação a São Paulo, tanto para os estados 
-quanto para as capitais. Os serviços públicos ou privados apresentaram diferenças 
-importantes, com razão de chance de 2,74 e 3,46, respetivamente. Conclusão: Parece 
-que a pior governança do setor da saúde no Rio de Janeiro, mais do que falta de 
-recursos, explica o excesso de mortalidade de pacientes internados com Covid-19 no 
-Rio de Janeiro. 
- 
-Palavras-chave: Covid-19, Mortalidade hospitalar, Atenção à saúde, Brasil 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Introduction 
+
 At the end of June 2021, more than 504,000 deaths of COVID-19 have been 
 reported in Brazil and the number is increasing at a fast rate. At this point, the state of 
 Rio de Janeiro has the second-highest COVID-19 mortality rate (329 per 100,000 
 inhabitants) in Brazil1. Rio de Janeiro is the second-largest economy in the country, 
 second only to São Paulo, which makes the high mortality rates observed in the state, in 
 comparison to other states, inexplicable.   
+
 Although the proportion of the elderly population is higher in Rio de Janeiro 
 compared to São Paulo (18,9% and 13,3%, respectively), after age-standardization, the 
 rates indicate that other factors besides age may influence the disparities in the risk of 
 death (195 per 100,000 inhabitants in Rio de Janeiro versus 125 per 100,000 in the 
 capital of São Paulo)2. 
+
 The overall number of reported cases of COVID-19 by June 2021 in the state of 
 São Paulo is five times the number notified by the state of Rio de Janeiro, whereas the 
 respective population is 2.6 times greater (about 44 million compared to 17 million 
 inhabitants). Therefore, comparing the two states and their capitals in relation to the 
 characteristics and evolution of hospitalized patients and deaths by COVID-19 may 
 clarify the high mortality rates observed in the state of Rio de Janeiro. 
+
 This study aims to compare the proportion of deaths among hospitalized cases of 
 COVID-19 in São Paulo e Rio de Janeiro states and capitals, stratified by private and 
 public services. 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Methods 
+
 Hospitalization data for Severe Acute Respiratory Syndrome (SARS) was 
 obtained by the SIVEP-Gripe Database, available and freely accessible at 
 https://dados.gov.br/dataset/bd-srag-2020, and no approval by the ethics committee is 
 required. To classify the service as public or private, we used the CNES Database, 
 available at  http://tabnet.fiocruz.br/dash/menu_dash.htm. 
+
 All hospitalized adults (age ≥ 18 years) who were diagnosed as COVID-19 or 
 unspecified SARS, between 01 January 2020 and 31 December 2020 were included in 
 the analysis. Cases of SARS for other causes (influenza, another respiratory virus, and 
 another etiologic agent) as well as Down Syndrome, pregnant or postpartum women, 
 were excluded. 
+
 Age, sex, race, schooling, and comorbidities history data (obesity, diabetes 
 mellitus, cardiovascular disease, neurologic disease, and kidney disease) were also 
 collected. 
- 
-Data analysis 
+
 For descriptive analysis, absolute and percentage values for patient’s 
 characteristics were presented. The risk of death between Rio de Janeiro and São Paulo 
 was estimated using logistic regression models adjusted for age, sex, and comorbidities. 
@@ -166,11 +66,7 @@ comorbidities was assumed as a lack of morbidity. Two sensitivity analyses were
 performed. One to evaluate possible differences in the rate of the notification process, 
 by removing November and December data from analysis. The other one evaluated the 
 impact of outcome missing data, assuming all missing as a cure. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Results 
+
 The number of registers from Rio de Janeiro and São Paulo included in the 
 analyses was 388,657 (91,532 and 297,125, respectively). The SIVEP-GRIPE 
 Surveillance System has many variables beyond the diagnostic. However, except for 
@@ -182,43 +78,42 @@ capital of Rio de Janeiro. Race information was always worst in the private comp
 public services. For schooling, there was almost 80% of missingness for all 
 comparisons, except for the public and private services in the interior of São Paulo, 
 which, despite being high, it is around 50% (Table 1).  
+
 The classification of the type of service (public or private) has also unidentified 
 ones with a greater percentage in Rio (capital and interior) compared to São Paulo, with 
 values around 22% in Rio and 14% in São Paulo, for both private and public services. 
 Missingness for all variables is greater in Rio compared to São Paulo.  
+
 The crude death rate (Table 2) of hospitalized patients with COVID-19 was 
 greater in the state of Rio de Janeiro, compared to São Paulo for all age-group and in 
 both private and public hospitals. From table 2, the crude risk of mortality in the age 
 group 18 to 40 years, comparing Rio with São Paulo, was 2.9 in the private hospitals 
 and 2.1 in the public ones. These values for the age group 90 years or more were 1.6 
 and 1.4, respectively. 
+
 For all ages, the overall adjusted odds ratio is shown in table 3. The same 
 pattern observed in the crude rates is observed for age-sex adjusted analysis. Models, 
 further adjusted for all comorbidities reported, had an odds ratio of 2.51, comparing the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
 state of Rio de Janeiro with São Paulo in the private hospitals, and 2.29 in the public 
 ones. For the capitals, the scenario is worse, with Rio de Janeiro presenting the triple of 
 the risk of São Paulo, and the public or private services showing important differences, 
 with odds ratios of 2.74 and 3.46, respectively. In both Rio de Janeiro and São Paulo, 
 mortality rates in public hospitals are approximately twice as high as in the private 
 sector (Table 4). 
+
 Sensitivity analyses (Table 5) excluding the two last months of notification, to 
 account for the slowness of data management in Rio de Janeiro, and another one 
 considering all missing cases for the variable evolution as non-cases, what is expected 
 to be a more conservative analysis, shown in both scenarios, the same pattern of great 
 disparities in mortality in Rio. 
+
 One possible explanation for the Rio/São Paulo disparity in mortality would be 
 differences in available beds for Covid. Concerning hospital beds (per 100 000 
 population), São Paulo shows a better scenario compared to Rio de Janeiro (27.8 and 
 23.3, respectively)3. However, in the period evaluated, the lag in time between 
 diagnostic and hospitalization was similar for Rio and São Paulo, around 5 days (5.8 
 and 5.9, respectively).  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Discussion  
+
 Our findings of greater lethality for Covid-19 among hospitalized patients in Rio 
 de Janeiro compared to São Paulo, both at the capital and interior of the states, is in line 
 with findings of mortality for 100,000 inhabitants of the Epidemiological Monitor of the 
@@ -228,13 +123,16 @@ Covid-19 in Rio de Janeiro was 56% higher if compared to São Paulo2. In this st
 authors showed that the SIVEP-Gripe is a reliable source of mortality by Covid-19 and 
 that the specific mortality coefficients by all age groups are higher in Rio de Janeiro in 
 contrast to those from São Paulo. 
+
 In our analysis, removing the last two months of 2020 and including in the 
 denominator all missing information for case definition, allowed us to explore whether 
 the quality of data could explain the discrepancy in mortality between the two cities, but 
 the discrepancy remained high, despite these procedures. 
+
 Having twice the chance of die of COVID-19 by being hospitalized in Rio de 
 Janeiro compared to São Paulo is unacceptable since Rio is the second economy in the 
 country4 and has almost many UTI beds in public hospitals.  
+
 São Paulo has more hospital beds per inhabitant compared to Rio and greater 
 primary health care coverage in 2020 (62.9% and 58.9%, respectively)5, but these 
 differences are not that great to explain the discrepancy in hospitalized patients with 
@@ -243,12 +141,11 @@ Paulo is an ongoing process. In July 2019, the Regional Labor Court of the 1st R
 in Rio de Janeiro determined the seizure of R$ 38 million of accounts to the 
 municipality of Rio de Janeiro to pay compensation to 1,500 health agents dismissed by 
 the Institute of Basic and Advanced Health Care (Iabas, acronym in Portuguese, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
 Instituto de Atenção Básica e Avançada à Saúde)6. This same institution was involved 
 in the disastrous administration of the field hospitals during the pandemic and, as is well 
 known, corruption in the health department of Rio de Janeiro culminated in the arrest of 
 the state health secretary. 
+
 São Paulo occupies the second position in monthly household income per capita 
 and Rio de Janeiro the fourth position, with a monthly income of R$ 1,814 and R$ 
 1,723, respectively. The proportion of the population over 16 years of age employed in 
@@ -263,6 +160,7 @@ vulnerability has been shown to affect COVID-19 mortality. In Belo Horizonte, a
 metropolitan city also in the Southeast of Brazil, the overall mortality per 100,000 older 
 adults (60+ years) was 292, increasing from 179 to 354 and 476, in low, intermediate, 
 and high vulnerability areas, respectively 9. 
+
 These various aspects show that there is not much plausible explanation for the 
 differences in mortality from Covid-19 comparing Rio de Janeiro and São Paulo, and 
 the COVID-19 crisis revigorated an old principle of Public Health, which says that 
@@ -270,8 +168,6 @@ political power to implement measures is one of the cornerstones of success. Sã
 – Rio de Janeiro discrepancy can in part be explained by the Brazilian intense political 
 conflicts. The national government is negationist, never planned a pandemic response, 
 never articulated municipalities, states, and federal government to face and to prepare in 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
 advance for the pandemic. Both municipality and state-level government in Rio de 
 Janeiro, until the beginning of 2021, were in line with the federal government and 
 followed, in many ways, the lack of preparedness to deal with the pandemic. The 
@@ -280,10 +176,12 @@ observed excess mortality. In contrast, the São Paulo municipality together wit
 state-level government planned the actions to expedite the opening of hospital beds and 
 hospital care, although preventive measures have fallen short of what is necessary for 
 both Rio de Janeiro and São Paulo. 
+
 The conflicts in the management of the pandemic between the national 
 government and state and local level governments were dependent on their political 
 affiliations, which partially may explain the death discrepancies by Covid-19 in the two 
 most developed states.  
+
 On the other hand, the greater risk of dying of COVID-19 in public hospitals 
 compared to private ones indicates the need for better-equipped public services. 
 According to Paim 10,  chronic underfunding of Brazil's Unified Health System (SUS) is 
@@ -293,28 +191,31 @@ Government created the Emergency Social Fund, which promoted, in 2016, the remov
 of 30% of the Social Security Budget for other expenses. Also, the Constitutional 
 Amendment Nº 95 implemented in 2016, established a spending ceiling for the Federal 
 Government and froze public resources for health for 20 years 11 12. 
+
 Although initiatives were taken to improve financing (Provisional Contribution 
 on Financial Transactions, EC29/2000 and the Health +10 Movement), the percentage 
 of gross domestic product (GDP) allocated for SUS, remained below that of private 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
 spending. In 2017, Brazil spent 9.2% of GDP on health, with 3.9% (42%) public 
 spending and 5.4% (58%) private spending 11.  
+
 Thus, SUS has difficulties in maintaining its service network and remunerating 
 its workers, limiting the needed expansion of the public infrastructure. Paim concludes 
 “a passive boycott prevails due to public underfunding, and an active boycott gains 
 momentum when the state rewards, recognizes and privileges the private sector through 
 subsidies, deregulation, and sub-regulation” 10. 
+
 In addition to the SUS underfunding, the Covid-19 epidemic increased the costs 
 of health services. The expenditure associated with the average length of stay in hospital 
 for COVID-19 treatment had the highest mean total amount spent in the South region of 
 Brazil compared to the other ones, but in Rio de Janeiro the cost was almost half of the 
 South region mean and Rio de Janeiro had also higher lethality rate 13. 
+
 The Covid-19 epidemic found Brazilian public institutions in difficulty due to 
 the fiscal austerity measures and the strong restriction. SUS lost almost 22.5 billion 
 reais between 2018 and 2020 14, and the transfer of specific federal financial resources 
 to states and municipalities was not well managed in Rio de Janeiro, as already pointed 
 out. 
+
 Therefore, reduction of discrepancies in the public/private findings requires 
 resources for improvements in governance, hiring and better training of health teams, as 
 well as purchasing equipment and adapting services. Public/private discrepancies may 
@@ -323,539 +224,7 @@ fully accounted for in the analysis by the morbidities included. It is well know
 greater prevalence of less healthy lifestyle habits in these patients of lower 
 socioeconomic level. As an example, food consumption data in Brazil are worse in the 
 lowest incomes 15. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
+
 In conclusion, it appears that the worst governance in the health sector in Rio the 
 Janeiro, more than lack of resources, explains the excess mortality of hospitalized 
 Covid-19 patients in Rio de Janeiro. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Referências 
-1- Coronavírus Brasil. Painel Coronavírus [Internet]. 2021 [acessado em 07 julho 2021]. 
-Disponível em: Disponível em: https://covid.saude.gov.br. 
-2- Azevedo e Silva G, Jardim BC, Lotufo PA. Mortalidade por COVID-19 padronizada 
-por idade nas capitais das diferentes regiões do Brasil. Cad. Saúde Pública 2021; 
-37(6):e00039221. https://doi.org/10.1590/0102-311X00039221. 
-3- GOVE. Plataforma para decisão para eficiência de governos. Relação de Leitos por 
-mil habitantes – Recorte regional [internet]. 2021 [acessado em 07 julho 2021]. 
-Disponível em: https://www.gove.digital/wp-content/uploads/2020/03/Leitos.pdf. 
-4- IBGE – Instituto Brasileiro de Geografia e Estatística. Produto Interno Bruto – PIB 
-[internet]. 
-2021 
-[acessado 
-em 
-07 
-julho 
-2021]. 
-Disponível 
-em: 
-https://www.ibge.gov.br/explica/pib.php. 
-5- Brasil. Ministério da Saúde. Secretaria de Atenção Primária à Saúde. Departamento 
-de Saúde da Família. Unidades Geográficas: BRASIL [Internet]. [acessado 15 julho 
-2021]. 
-Disponível 
-em: 
-https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relHistoricoCoberturaA
-B.xhtml. 
-6- CONJUR. Demissão em massa. TRT-1 bloqueia R$ 38 milhões do Rio para pagar 
-indenização a agentes de saúde. Disponível em: https://www.conjur.com.br/2019-jul-
-18/trt-bloqueia-38-milhoes-rio-pagar-agentes-saude. 
-7- IBGE - Instituto Brasileiro de Geografia e Estatística. IBGE CIDADES, 2020 
-[internet]. 
-2020 
-[acessado 
-em 
-16 
-julho 
-2021]. 
-Disponível 
-em: 
-https://cidades.ibge.gov.br/brasil/sp/panorama. 
-8- Brasil. Ministério da Cidadania. Secretaria de Avaliação e Gestão da Informação. 
-Relatórios de Informações Sociais [internet]. [acessado em 16 julho 2021]. Disponível 
-em:   
-https://aplicacoes.mds.gov.br/sagi/RIv3/geral/index.php?relatorio=153&file=entrada. 
-9- Passos VMA, Brant LCC, Pinheiro PC, Correa PRL, Machado IE, Santos MR, et al. 
-Higher mortality during the COVID-19 pandemic in socially vulnerable areas in Belo 
-Horizonte: implications for vaccine prioritization. Rev Bras Epidemiol. 2021; 30: 24. 
-e210025. http:// doi: 10.1590/1980-549720210025. 
-10- Paim JS. Thirty years of the Unified Health System (SUS). Cien Saude Colet. 2018; 
-23(6):1723-1728. http:// doi: 10.1590/1413-81232018236.09172018. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-11- ABRASCO – Associação Brasileira de Saúde Coletiva. Fortalecer o SUS, em 
-defesa da democracia e da vida. 2020. Disponivel em: <https:// www. 
-https://www.abrasco.org.br/site/wp-content/uploads/2020/10/Abrasco_Fortalecer-o-
-SUS.pdf. 
-12- Souza LEPF, Paim JS, Teixeira CF, Bahia L, Guimarães R, Almeida-Filho N, et al. 
-The current challenges of the fight for a universal right to health in Brazil. Cien Saude 
-Colet. 2019; 5;24(8):2783-2792. http:// doi: 10.1590/1413-81232018248.34462018. 
-13- Santos HLPCD, Maciel FBM, Santos Junior GM, Martins PC, Prado NMBL. Public 
-expenditure on hospitalizations for COVID-19 treatment in 2020, in Brazil. Rev Saude 
-Publica. 2021; 13;55:52. http:// doi: 10.11606/s1518-8787.2021055003666. 
-14- Menezes APR, Moretti B, Reis AAC. O futuro do SUS: impactos das reformas 
-neoliberais na saúde pública – austeridade versus universalidade. Saude debate. 2020; 
-43(spe5):58-70. http://doi.org/10.1590/0103-11042019s505. 
-15- Instituto Brasileiro de Geografia e Estatística. Análise da segurança alimentar no 
-Brasil. Pesquisa de orçamentos familiares 2017-2018. Rio de Janeiro [internet]. 2020. 
-Disponível em https://biblioteca.ibge.gov.br/visualizacao/livros/liv101749.pdf. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Table 1. Characteristics of individuals notified with COVID-19 or unspecified SARS in Rio de Janeiro and São Paulo states from 01 
-January 2020 to 31 December 2020. 
- 
-Rio de janeiro (n = 91532) 
-São Paulo (n = 297125) 
-Capitala (n = 49798) 
-Other citiesb (n = 41734 ) 
-Capitalc (n = 120159) 
-Other citiesd (n = 176966) 
-Private 
-(n= 19481) 
-Public 
-(n= 19187) 
-Private 
-(n= 11084) 
-Public 
-(n= 21423) 
-Private 
-(n= 38860) 
-Public 
-(n= 63685) 
-Private 
-(n= 37182) 
-Public 
-(n= 114378) 
-Age(y) 
- 
- 
- 
- 
- 
- 
- 
- 
-18-40 
-1776(9.12) 
-1877(9.78) 
-1603(14.46) 
-2221(10.37) 
-7863(20.23) 
-8184(12.85) 
-5942(15.98) 
-13568(11.86) 
-41-60 
-5356(27.49) 
-5318(27.72) 
-3825(34.51) 
-6468(30.19) 
-13340(34.33) 
-20349(31.95) 
-13165(35.41) 
-35068(30.66) 
-+60 
-12349(63.39) 
-11992(62.50) 5656(51.03) 12734(59.44) 
-17657(45.44) 
-35152(55.19) 
-18075(48.62) 
-65742(57.48) 
-Sex 
- 
- 
- 
- 
- 
- 
- 
- 
-Male 
-10788(55.38) 
-10281(53.58) 5916(53.37) 11719(54.70) 
-20888(53.75) 
-35266(55.38) 
-20749(55.80) 
-63245(55.29) 
-Female 
-8693 (44.62) 
-8906(46.42) 
-5167(46.62) 
-9699(45.27) 
-17972 (46.25) 28.419(44.62) 16425(44.17) 
-51123(44.70) 
-Missing 
-0.00 
-0.00 
-1(0.01) 
-5(0.02) 
-0.00 
-0.00 
-8(0.02) 
-10(0.01) 
-Race 
- 
- 
- 
- 
- 
- 
- 
- 
-White 
-5407(27.76) 
-4383(22.84) 
-4097(36.96) 
-7533(35.16) 
-15350(39.50) 
-27677(43.46) 
-23328(62.74) 
-69879(61.09) 
-Black 
-772(3.96) 
-1499(7.81) 
-507(4.57) 
-2039(9.52) 
-910(2.34) 
-4433(6.96) 
-1320(3.55) 
-6208(5.43) 
-LSB* 
-2609(13.39) 
-8270(43.10) 
-2126(19.18) 
-5928(27.67) 
-4069(10.47) 
-16921(26.57) 
-4455(11.98) 
-21978(19.22) 
-Others 
-121(0.62) 
-89(0.47) 
-65(0.59) 
-144(0.67) 
-775(2.00) 
-958(1.51) 
-471(1.27) 
-1039(0.90) 
-Missing   10572(54.27) 
-4946(25.78) 
-4289(38.70) 
-5779(26.98) 
-17756(45.69) 
-13696(21.51) 
-7608(20.46) 
-15274(13.35) 
-Missing data for the variable type of service (private/public): a 11130 (22.4%); b 9227 (22.1%); c 17614 (14.7%); d 25406 (14.4%).LSB = Light-skinned black  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Table 2. Crude hospital COVID-19 mortality in Rio de Janeiro and São Paulo states by private and public services, according to age groups. 
-Age groups 
-(years) 
-Rio de Janeiro 
-São Paulo 
-Private 
-Public 
-Private 
-Public 
-n 
-% 
-n 
-% 
-n 
-% 
-n 
-% 
-18 – 40 
-228 
-9.35 
-764 
-22.72 
-423 
-3.23 
-2187 
-10.69 
-41 – 60 
-1171 
-17.70 
-3439 
-34.92 
-1969 
-7.81 
-9972 
-19.06 
-61 – 80 
-3597 
-42.93 
-8569 
-54.58 
-5229 
-23.80 
-25382 
-36.55 
-80 – 90 
-2266 
-59.51 
-2989 
-68.10 
-3403 
-39.18 
-9940 
-47.94 
-+ 90 
-993 
-70.88 
-870 
-74.23 
-1504 
-44.96 
-3123 
-54.09 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Table 3. Adjusted odds ratio for COVID-19 mortality, comparing the states and capitals of Rio de Janeiro and São Paulo, by type of 
-service. 
-State 
- 
- 
-Private 
-Public 
-OR 
-CI 95% 
-OR 
-CI 95% 
-OR 
-CI 95% 
-Model 1 
- 
- 
- 
- 
- 
- 
-  São Paulo 
-1.00 
--- 
-1.00 
--- 
-1.00 
--- 
-  Rio de Janeiro 
-2.28 
-2.24 – 2.32 
-2.47 
-2.39 – 2.56 
-2.21 
-2.16 – 2.26 
-Model 2 
- 
- 
- 
- 
- 
- 
-  São Paulo 
-1.00 
--- 
-1.00 
--- 
-1.00 
--- 
-  Rio de Janeiro 
-2.35 
-2.31 – 2.39 
-2.51 
-2.42 – 2.61 
-2.29 
-2.23 – 2.35 
-Capital 
- 
- 
-Private 
-Public 
-OR 
-CI 95% 
-OR 
-CI 95% 
-OR 
-CI 95% 
-Model 1 
- 
- 
- 
- 
- 
- 
-  São Paulo 
-1.00 
--- 
-1.00 
--- 
-1.00 
--- 
-  Rio de Janeiro 
-2.93 
-2.86 – 3.01 
-3.39 
-3.23 – 3.56 
-2.66 
-2.57 – 2.76 
-Model 2 
- 
- 
- 
- 
- 
- 
-  São Paulo 
-1.00 
--- 
-1.00 
--- 
-1.00 
--- 
-  Rio de Janeiro 
-3.01 
-2.94 – 3.09 
-3.46 
-3.29 – 3.63 
-2.74 
-2.64 – 2.84 
-Model 1 adjusted for age and sex  
-Model 2 adjusted for age, sex, obesity, diabetes, cardiovascular disease, neurologic disease, kidney disease 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Table 4. Adjusted odds ratio for COVID-19 mortality in Rio de Janeiro and São Paulo, comparing public and private services. 
-Type of 
-service 
-State 
-Capital 
-Rio de Janeiro 
-São Paulo 
-Rio de Janeiro 
-São Paulo 
-OR 
-CI 95% 
-OR 
-CI 95% 
-OR 
-CI 95% 
-OR 
-CI 95% 
-  Private 
-1.00 
- 
-1.00 
- 
-1.00 
- 
-1.00 
- 
-  Public 
-1.84 
-1.77 – 1.91 
-1.95 
-1.91 – 2.00 
-1.90 
-2.20 – 2.40 
-2.37 
-2.28 – 2.45 
-Model adjusted for age, sex, obesity, diabetes, cardiovascular disease, neurologic disease, kidney disease 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-Table 5. Adjusted odds ratio for COVID-19 mortality, comparing the capitals of Rio de Janeiro and São Paulo capital, according to the type 
-of service. 
-Model 1 
- 
- 
-Private 
-Public 
-OR 
-CI 95% 
-OR 
-CI 95% 
-OR 
-CI 95% 
-  São Paulo 
-1.00 
- 
-1.00 
- 
-1.00 
- 
-  Rio de Janeiro 
-2.96 
-2.87 – 3.04 
-3.21 
-3.04 – 3.39 
-2.80 
-2.68 – 2.92 
-Model 2 
- 
- 
-Private 
-Public 
-OR 
-CI 95% 
-OR 
-CI 95% 
-OR 
-CI 95% 
-  São Paulo 
-1.00 
- 
-1.00 
- 
-1.00 
- 
-  Rio de Janeiro 
-2.12 
-2.07 – 2.17 
-2.19 
-2.09 – 2.29 
-2.17 
-2.10 – 2.25 
-Model 1 adjusted for age, sex, obesity, diabetes, cardiovascular disease, neurologic disease, kidney disease and excluding the notification of the last 2 
-months (November and December) of 2020.  
-Model 2 adjusted for age, sex, obesity, diabetes, cardiovascular disease, neurologic disease, kidney disease and considering the missing data for the 
-outcome (evolution) as a cure. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210056
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

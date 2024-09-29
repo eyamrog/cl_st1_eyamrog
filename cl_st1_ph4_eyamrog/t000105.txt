@@ -1,131 +1,36 @@
-Status: Preprint has not been submitted for publication
-COVID-Inconfidentes - SARS-CoV-2 seroprevalence in two
-Brazilian urban areas during the pandemic first wave: study
-protocol and initial results
-Adriana Lucia Meireles, Luciano Garcia Lourenção, Luiz Antônio Alves de Menezes Junior,
-Hillary Nascimento Coletro, Irene Carolina Sousa Justiniano, Samara Silva de Moura, Amanda
-Popolino Diniz, Thaís da Silva Sabião, Ana Maria Sampaio Rocha, Aline Priscila Batista, Nara
-Nunes Lage, Bárbara dos Santos Simões, Carolina Ali Santos, Raquel de Deus Mendonça,
-Amanda Cristina de Souza Andrade, Keila Furbino Barbosa, Cássio Zumerle Masioli, Júlia
-Cristina Cardoso Carraro, Mariana Carvalho de Menezes, Renata Cristina Rezende Macedo
-Nascimento, Leonardo Roever, Waleska Teixeira  Caiaffa, George Luiz Lins Machado-Coelho
-https://doi.org/10.1590/SciELOPreprints.2720
-Submitted on: 2021-07-28
-Posted on: 2021-07-29 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-1 
- 
-COVID-Inconfidentes - SARS-CoV-2 seroprevalence in two Brazilian urban areas during 
-the pandemic first wave: study protocol and initial results 
-Adriana Lúcia Meireles1,2,* 
-https://orcid.org/0000-0002-1447-953X 
-Luciano Garcia Lourenção1,2 
-https://orcid.org/0000-0002-1240-4702 
-Luiz Antônio Alves de Menezes Júnior1,2 
-https://orcid.org/0000-0002-4497-5358 
-Hillary Nascimento Coletro1,2 
-https://orcid.org/0000-0002-9142-6079 
-Irene Carolina Sousa Justiniano1,2 
-https://orcid.org/0000-0002-1635-3367 
-Samara Silva de Moura1,2 
-https://orcid.org/0000-0003-2485-5137 
-Amanda Popolino Diniz1,2 
-https://orcid.org/0000-0002-3300-0440 
-Thaís da Silva Sabião1,2 
-https://orcid.org/0000-0002-9309-1110 
-Ana Maria Sampaio Rocha1,2 
-https://orcid.org/0000-0003-0665-6548 
-Aline Priscila Batista1,2 
-https://orcid.org/0000-0001-8305-1011 
-Nara Nunes Lage1,2 
-https://orcid.org/0000-0003-0243-9378 
-Bárbara dos Santos Simões1,2 
-https://orcid.org/0000-0002-0432-8885 
-Carolina Ali Santos1,2 
-https://orcid.org/0000-0001-7237-5299 
-Raquel de Deus Mendonça1,2 
-https://orcid.org/0000-0001-7599-8715 
-Amanda Cristina de Souza Andrade3 
-https://orcid.org/0000-0002-3366-4423 
-Keila Furbino Barbosa1 
-https://orcid.org/0000-0001-9546-8893 
-Cássio Zumerle Masioli1 
-https://orcid.org/0000-0003-4871-0645 
-Júlia Cristina Cardoso Carraro1,2 
-https://orcid.org/0000-0003-0027-2690 
-Mariana Carvalho de Menezes1,2 
-https://orcid.org/0000-0002-3069-7959 
-Renata Cristina Rezende Macedo Nascimento1,2 
-https://orcid.org/0000-0001-7756-2157 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-2 
- 
-Leonardo Roever5 
-https://orcid.org/0000-0002-7517-5548 
-Waleska Teixeira Caiaffa4 
-https://orcid.org/0000-0001-5043-4980 
-George Luiz Lins Machado-Coelho1,2,* 
-https://orcid.org/0000-0002-9806-9721 
- 
-1Epidemiology Laboratory, Medical School, Federal University of Ouro Preto. Ouro Preto, 
-Minas Gerais, Brazil.  
-2Post-graduate Program in Health and Nutrition, Nutrition School, Federal University of Ouro 
-Preto. Ouro Preto, Minas Gerais, Brazil. 
-3Institute of Collective Health, Federal University of Mato Grosso. Cuiabá, Mato Grosso, Brazil 
-4Federal Universityof Minas Gerais. Belo Horizonte, Minas Gerais, Brazil. 
-5Federal University of Uberlândia, Uberlândia, Minas Gerais, Brazil. 
-*These authors jointly supervised this work: Adriana Lúcia Meireles, George Luiz Lins 
-Machado-Coelho. 
- 
- 
-* Corresponding author: 
-George Luiz Lins Machado-Coelho 
-Federal University of Ouro Preto, Medical School 
-Laboratório de Epidemiologia, Escola de Medicina. Universidade Federal de Ouro Preto, 
-Campus Universitário Morro do Cruzeiro. Bauxita. Ouro Preto, Minas Gerais, Brazil. Postal 
-Code: 35400-000. 
-Phone: +55 (31) 3559-1001 
-E-mail: gmcoelho@ufop.edu.br  
- 
- 
-ABSTRACT 
 Background: A population study is an important tool that can be used to understand the actual 
 epidemiological scenario of the Covid-19 in different territories, identify its magnitude, 
 understand its transmission dynamics, and its demographic, geographical, and social 
 distribution.  
+
 Objective: The aim of this study was to determine the prevalence and dynamics of SARS-CoV-
 2 infection in the population of two Brazilian cities during the pandemic first wave and 
 subsequent socioeconomic and health effects.  
+
 Materials & methods: This paper described the methodological procedures adopted and the 
 prevalence of the SARS-CoV-2 infection in the population. A household survey was conducted 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-3 
- 
 between October and December 2020, in two historic cities of Brazil's mining region. Anti-
 SARS-CoV-2 antibody was detected using the Wondfo® rapid test. The face-to-face interview 
 consisted of administration of a questionnaire containing registration data, sociodemographic 
 and economic variables, living habits, general health condition, mental health, sleep habits, and 
 eating and nutrition.  
+
 Results: We evaluated 1,762 residents, of which 764 (43.4%) were in Mariana and 998 (56.6%) 
 in Ouro Preto. For both cities, 51.9% of the interviewees were female, with a predominance of 
 the age range 35 to 59 years old (47.2%). The prevalence of the SARS-CoV-2 infection was 
 5.5% in all cities, 6.2% in Ouro Preto, and 4.7% in Mariana. The prevalence was similar 
 between cities (P>0.05). 
+
 Conclusion: The study was effective in verifying the seroprevalence of infection by the virus 
 and its findings will enable further analyses of the health conditions of the population related 
 to social isolation and the risk of infection with SARS-CoV-2. 
-Keywords: Coronavirus Infections; Pandemics; Health Surveys; Epidemiology; COVID-19 
-Serological Testing. 
- 
-INTRODUCTION 
+
 The rapid spread of the SARS-CoV-2 virus, the infectious agent causing COVID-19, led 
 the declaration by the World Health Organization on January 30, 2020 that the disease was a 
 global public health emergency. Worldwide, the speed of spread and the risk of collapse of 
 health services have posed ongoing challenges for governments, including the new waves of 
 the disease [1-3]. 
+
 In Brazil, the federal government's neglect and mismanagement in articulation of actions 
 to pandemic control has led many municipalities to make important epidemiological 
 surveillance decisions, in isolation, to avoid the spread of the virus in their territories. In this 
@@ -133,17 +38,16 @@ context, the difficulties inherent in the diagnosis and notification process, sc
 resources in the health services and epidemiological surveillance sectors, and lack of diagnostic 
 tests have made it extremely difficult to understand the actual situation with respect to the 
 frequency of both the disease and the infection [4-7]. 
+
 Other difficulties related specifically to the disease include: the greater probability that 
 only people with severe symptoms seek health care services and undergo diagnostic tests, the 
 high percentage of infected people with mild symptoms or who are asymptomatic, and the 
 social determination of the disease itself [5-7]. These factors can interfere with the dynamics of 
 transmission, giving rise to underreporting, and the masking of the actual COVID-19 data. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-4 
- 
+
 Therefore, it is extremely relevant to assess the viral circulation situation at the local level, 
 especially in smaller cities, where resources are even more scarce.  
+
 Thus, a population study is an important tool that can be used to understand the actual 
 epidemiological scenario of the disease in different territories, identify its magnitude, 
 understand its transmission dynamics, and its demographic, geographical, and social 
@@ -158,6 +62,7 @@ the
 risk 
 of 
 disease. 
+
 Therefore, 
 immunochromatographic tests for antibody detection represent an important tool for 
 epidemiological surveillance services enabling the identification and interruption of the virus 
@@ -168,152 +73,102 @@ dynamics of SARS-CoV-2 infection in the population of two medium-sized Brazilian
 the Inconfidentes region, and the subsequent socioeconomic and health effects, was conducted. 
 This paper describes the methodological procedures adopted and estimated the prevalence of 
 SARS-CoV-2 infection in the population studied. 
- 
-METHODS 
-Study design 
+
 In this population-based serological study, a household survey was conducted in two 
 historic cities of Brazil's mining region, between October and December 2020, during the 
 pandemic first wave. The survey was carried out in three stages, with intervals of 21 days, in 
 which different census sectors were evaluated in each stage.  
+
 The study design followed the recommendations of the seroepidemiological investigation 
 protocol for SARS-CoV-2 infection of the World Health Organization [11]. All the procedures 
 adopted by this study, followed the Declaration of Helsinki and the Brazilian guidelines and 
 standards for research involving humans. 
- 
-Study location 
+
 Mariana and Ouro Preto are two neighboring, medium-sized cities located in the Serra do 
 Espinhaço, a central-southern region of the Brazilian state of Minas Gerais (Figure 1), known 
 as the Iron Quadrangle. This metallurgical area is considered to be the largest national producer 
 of iron ore. Since these cities have historical, sociodemographic, and geographical 
 characteristics that are different from other Brazilian municipalities, and further, since surveys 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-5 
- 
 conducted in other regions of Brazil may not reflect the real prevalence of infection in the 
 resident population, it is important to understand the dynamics of the epidemic locally. 
+
 Mariana was founded in 1696 and is considered to be the first village of Minas Gerais. It 
 has a Human Development Index (HDI) of 0.742. The main economic activity is iron ore 
 extraction, a strong generator of jobs, and public revenue [12,13]. 
+
 Ouro Preto was founded in 1711 and in 1720, it was chosen as the capital of the new 
 provincia of Minas Gerais [14]. It has a HDI of 0.741. The main economic activities of the 
 municipality revolve around the mining and metallurgical industries, tourism, and services, 
 especially those related to the Federal Institution of Higher Education which is based in the 
 city. These generate high population mobility due to the flow of workers and students [12]. 
- 
- 
-Figure 1 - Geographic location of the municipalities in the study. 
- 
-Study population and sample 
+
 Residents in permanent households in the urban areas of the cities of Ouro Preto and 
 Mariana, aged 18 years or older, were considered eligible for this study. According to data from 
 the 2010 demographic census, there were 44,569 and 33,902 inhabitants, distributed in 17,753 
 and 14,078 households, in Ouro Preto and Mariana, respectively [12]. The protocols adopted 
 and described below were identical for both the municipalities. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-6 
- 
-Sample size calculation 
+
 The sample size calculation was based on the population estimate for each city, taking 
 into consideration a confidence level of 95%, a design effect equal to 1.5, and the parameters 
 presented in Table 1, which also shows the sample distribution by stage of survey. Considering 
 the losses resulting from refusals, absence of residents selected for the study, and the existence 
 of closed households during the visit, a percentage of 20% of recomposition was added to the 
 sample size in each city. 
- 
-Table 1- Sample size calculation for the stages of the survey in the municipalities of Mariana 
-and Ouro Preto, COVID-Inconfidentes. 
-Stage of the 
-Survey 
-% estimated 
-infection 
-Precision 
-Sample 
-Ouro Preto 
-Sample 
-Mariana 
-Sample 
-Total 
-1 
-3% 
-3.0% 
-186 
-186 
-372 
-2 
-5% 
-3.5% 
-223 
-223 
-446 
-3 
-10% 
-4.0% 
-323 
-323 
-646 
- 
+
 A three-stage conglomerate sampling design was adopted: census sector (selected for 
 stages 1, 2, and 3 of survey, randomly and without replacement), households (selected from a 
 systematic sampling process), and residents (one resident selected randomly, using the 
 “Sorteador de Nomes®” applicative) [15]. 
- 
-Training the data collection team 
+
 The data collection team was composed of researchers, interviewers, and phlebotomists. 
 The interviewers were recruited from the academic environment, with those interested being 
 students who were enrolled regularly in undergraduate or graduate courses. The candidates 
 underwent interviews in which their availability and interest were evaluated. After the selection, 
 the students received a digital document, a video that explained the research objectives. 
+
 The interviewers were subdivided into teams coordinated by the six researchers. Each 
 team received online training conducted by the coordinators/researchers, in which the project 
 objectives and data collection methodology were addressed, and the interview questionnaire 
 was disseminated. Subsequently, face-to-face training sessions for interviewers were conducted 
 at the Medical School of the Federal University of Ouro Preto, on the use of the digital 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-7 
- 
 questionnaire (Appendix 1) and how to approach the interviewees, ethical aspects, and 
 biosafety during data collection. 
+
 During the face-to-face training, the research team and medical infectologist responsible 
 for the team's biosafety were present. The health monitoring of the interviewers was conducted 
 through periodic evaluation, prior to the beginning of each stage of the survey, using health 
 questionnaires associated with the results of serological testing (immunochromatography 
 reaction). 
+
 The phlebotomists also received digital documents and videos explaining the 
 importance of their work and the research methodology. In a second session, these professionals 
 were trained, in person, by a nurse who addressed the venipuncture technique for blood 
 collection and biosafety measures. 
+
 The videos that explained the theme of the project were also disseminated to community 
 health agents who were responsible for guiding the coordinators in the census sectors of the 
 areas of greatest social vulnerability, which were randomly selected in the first stage of the 
 survey in both cities. All the videos were created in a language accessible to the target audience 
 and addressed the role of each professional in the data collection team. 
- 
-Data Collection 
+
 The data collection process included listing and approaching households, recruiting 
 participants, the collection of venous blood, and interviews. The activities were carried out 
 during weekends (Friday, Saturday, and Sunday), aiming to enhance the participation of 
 residents who worked during the week and increasing the representativeness of this population 
 group. 
+
 In the week prior to the collection, the research team carried out the enrollment of 
 households in pre-selected census sectors and developed plans to raise awareness in the 
 population through the distribution of folders and posters in public places as well as the 
 dissemination of the survey via local radio stations, social media (Instagram and Facebook), the 
 University TV, WhatsApp groups, and religious celebrations. 
+
 An informative folder was attached in the door to randomly selected household, 
 indicating that that household had been selected for the collection which would take place 
 during the weekend. Taking into consideration the possibility of loss (refusal or closed 
 household), an informative folder was attached to the neighbors on the left and right of the 
 selected household (Appendix 2). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-8 
- 
+
 On the data collection days, the entire field team met at a support spot, where they 
 donned personal protection equipment, received general instructions and were informed about 
 the census sectors would be visited that day. The teams then moved to the census sectors where 
@@ -323,6 +178,7 @@ resident selected or in the case of a refusal, the team would approach the neigh
 and, in the case of failure there, the household to the left of the one selected. If the refusal 
 persisted, or if there were no residents in the house, the team moved on to the next house 
 selected. There was no return to closed homes. 
+
 After the presentation of the research process and the participant's acceptance, they were 
 asked to sign the informed consent form and the phlebotomist collected the venous blood with 
 a venipuncture in the antecubital fossa region, the participant seated, and the arm supported on 
@@ -330,74 +186,78 @@ an appropriate support. For the blood collection, a 7.5 mL S-Monovette® (Sarste
 tube was used to obtain the serum which was used for the COVID-19 rapid test and the other 
 biochemical analyses. A 2.7 mL S-Monovette® (Sarstedt) collection tube containing sodium 
 fluoride/EDTA was used to obtain whole blood for the molecular biology analyses. 
+
 At the end of the blood collection process, the interviewer commenced the face-to-face 
 interview, which lasted between 30 to 45 minutes, varying according to the perception and 
 dexterity of the interviewee in answering the questions. Data collection was conducted using 
 the DataGoal® application that was installed on the tablets to capture the geographic 
 coordinates (latitude and longitude) of the interviewee's home. 
+
 All the recommendations of the national protocols to fight the new coronavirus were 
 adopted, with an emphasis on hand washing, the use of personal protection equipment (apron, 
 cap, disposable surgical mask, and goggles), changing every shift, approaching the research 
 participants preferably in the peridomestic area and, when this was not possible, in a large, 
 ventilated room [16]. 
+
 The interviewers kept a minimum distance of 1.5 m from the interviewees, and physical 
 contact was restricted to only the moment of biological material collection.  
- 
-Instruments and Data Collection 
+
 The face-to-face interview consisted of the administration of a questionnaire, in electronic 
 format, that contained registration data, sociodemographic and economic variables, life habits, 
 general health condition, mental health, sleep habits, and food and nutrition (Appendix 1), as 
 follows: 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-9 
- 
+
 Registration data: sex, individual taxpayer registry (CPF) number, filiation, date of birth, 
 telephone number, and symptoms in the last 15 days. 
+
 Sociodemographic and economic variables: race/color, marital status, filiation, 
 education, occupation, and family income prior to and during the pandemic. 
+
 Lifestyle: routine activities and behaviors, sun exposure, lifestyle, participation in 
 religious celebrations prior to and during the pandemic 
+
 - Health conditions: Self-perception of health, presence of physical pain, use of 
 medications/supplements, weight, height, and perception of COVID-19. 
+
 - Mental health: Assessment of anxiety and depression symptoms using the General 
 Anxiety Disorder-7 (GAD-7) [17] and the Patient Health Questionnaire-9 (PHQ-9) [18] scales. 
+
 - Sleep habits: Sleep quality was measured using the Pittsburgh Sleep Quality Index 
 (PSQI) scale [19]. 
+
 - Food and nutrition: Daily frequency of food consumption, perceived food prices, 
 comfort food consumption, food accessibility, and availability of food at home, adapted from 
 the research on Surveillance of Chronic Diseases by Telephone Inquiry - VIGITEL, from the 
 Ministry of Health [20]. 
+
 The questions about personal information were aimed at obtaining information for the 
 registration and reporting of serological test results to the Ministry of Health, through the 
 electronic system of epidemiological surveillance for notifications to the Unique Health System 
 (e-SUS VE), to assist in the monitoring and analysis of the epidemiological situation of 
 COVID-19 in the municipalities. The other questions assessed the living conditions of the 
 population, allowing us to perform a situational analysis of the determinants of health. 
+
 Data collection was performed using offline devices and, at the end of the day, in a place 
 with a stable internet connection, the devices were synchronized and the information that was 
 collected, was sent to the storage cloud of the software used (DataGoal®). The devices were 
 then loaded for use on the next collection day. 
- 
-Laboratory Analysis - immunochromatography test for antibody detection 
+
 At the end of each shift (morning and afternoon), the blood samples were checked, packed 
 in a thermal box, and transported to the Epidemiology Laboratory of the Medical School of the 
 Federal University of Ouro Preto for processing and storage by the technical team. In the 
 laboratory, the serum tubes were centrifuged at 2500 rpm for 15 min, and a yield of 
 approximately 3 mL of serum per sample was obtained. Then, the serum was aliquoted in 
 different polypropylene tubes and portioned as follows: one tube with a 50 μL aliquot for testing 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-10 
- 
 COVID-19 and the rest in aliquots of approximately 500 μL to 1000 μL for use in the other 
 biochemical analyses. These were stored in a freezer at -80ºC until required. The EDTA tube 
 was stored in a -20 °C freezer for the subsequent extraction of the genetic material. 
+
 Serological screening for anti-SARS-CoV-2 antibodies was performed by trained 
 professionals using immunochromatographic reaction-based tests. The diagnostic One Step 
 COVID-2019 Test (Guangzhou Wondfo Biotech®, China) was used to determine IgM/IgG 
 antibodies in whole blood, serum, or human plasma, qualitatively, without distinguishing the 
 immunoglobulin type [21]. 
+
 In this study, according to the manufacturer's instructions, 10 μL of serum and three drops 
 of the buffer solution were added to the reaction well in the test device. The sample was 
 absorbed by capillary action and mixed with the SARS-CoV-2 antigen-dye conjugate, which 
@@ -406,42 +266,41 @@ in the sample was at or above the cut-off range (minimum detection limit of the 
 that were bound to the antigen-dye conjugate, were captured by the human anti-IgG antibody 
 and the anti-μ-chain antibody complex and immobilized in the test region of the device, 
 producing a colored test band, indicating a positive result. 
+
 When the level of the SARS-CoV-2 antibody in the sample was zero or below the cut-
 off, there was no visible colored band formed in the test region of the device, indicating a 
 negative result. As a control for the procedure, a colored line appeared in the control region, 
 indicating that the test was working correctly. The minimum waiting time for the reading was 
 15 min, while the maximum time that was allowed was 20 min. 
+
 According to the manufacturer’s validation data, the sensitivity of the One Step COVID-
 2019 Test (Wondfo®) was 86.43% (95% CI: 82.58%–89.58%) and the specificity was 99.57% 
 (95% CI: 97.92%–99.92%). It is important to note that the negative results did not exclude a 
 SARS-CoV-2 infection, and the positive results cannot be used as absolute evidence of the 
 presence of SARS-CoV-2. These results only indicate a previous exposure to the infectious 
 agent [19]. 
- 
-Issuing and Delivery of Reports 
+
 After the serological testing for anti-SARS-CoV-2 antibodies, a report was issued and 
 sent to each study participant. The reports served as information for the participants and teams 
 of the COVID-19 Confrontation Committees in the municipalities. 
+
 The reports were issued by professionals from the laboratory team, using Microsoft 
 Excel® spreadsheets, which contained information provided by the participant (full name, date 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-11 
- 
 of birth, and contact phone number) and the results of the serological test (reactive or non-
 reactive). In addition, the reports contained information regarding the interpretation of the tests 
 and the precautions to be taken, as well as the contacts of the Health Surveillance Departments 
 of each city, so that the study participants could ask questions and receive guidance on the 
 procedures to be adopted, especially those whose results were positive. 
+
 The reports were issued within seven days after collection of the data, in a pdf file, via 
 WhatsApp messaging application. Participants who did not use the application, received the 
 results by telephone and, for those who did not have a telephone, the report was delivered to 
 the home. 
+
 Finally, the Microsoft Excel® spreadsheets with the participants' data and test results 
 were forwarded to the Mariana and Ouro Preto Health Secretariats for case monitoring and 
 management. 
- 
-Database consolidation and consistency and sample weight 
+
 At the end of the collection period, the database was consolidated by merging the three 
 stages of the survey conducted in the two cities. A consistency analysis was then carried out to 
 verify the consistency of the data, the presence of typing errors, or the absence of data. The 
@@ -452,8 +311,7 @@ census. An adjustment was applied to compensate for the loss of interviews due t
 and the weight of the household and the selected resident was calibrated, so that the population 
 totals by sex and age group (18 to 29 years, 30 to 49 years, 50 to 59 years, and 60 years and 
 older) were consistent with the 2019 population projections (DATASUS) [22]. 
- 
-Data Analysis 
+
 The relative frequencies of the sociodemographic variables were estimated for each 
 stage of the survey (1, 2, and 3) and for all cities. The prevalence rate of seropositivity for 
 SARS-Cov-2 and the confidence intervals (95% CI) were estimated for each stage of the survey, 
@@ -462,252 +320,36 @@ the sociodemographic variables and the prevalence of seropositivity for SARS-Cov
 each stage of the survey. The weighting factors were incorporated into the analyses using the 
 svy command of the Stata® software, version 12.0. A significance level of 95% (P≤0.05) was 
 adopted. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-12 
- 
-Role of the funding source 
+
 The funder of the study had no role in study design, data collection, data analysis, data 
 interpretation, or writing of the report. The corresponding author had full access to all the data 
 in the study and had final responsibility for the decision to submit for publication. 
- 
-Ethics 
+
 The project was approved by the Research Ethics Committee (Certificate of Ethics Submission 
 Nº. 32815620.0.1001.5149). All the procedures adopted by this study, followed the Declaration 
 of Helsinki and the Brazilian guidelines and standards for research involving humans. 
- 
-RESULTS 
+
 We approached 5,252 households, of which 2,523 (48.0%) were in the city of Mariana 
 and 2,713 (52.0%) in the city of Ouro Preto. Of the total, 1,912 (36.4%) households were closed; 
 in 1,079 (20.5%), the residents refused; in 267 (5.1%), the selected residents were absent; and 
 in 1,762 (33.5%) the residents agreed to participate in the study, of which 764 (43.4%) were in 
 Mariana and 998 (56.6%) in Ouro Preto, as described in Table 2.  
- 
-Table 2 - Number of households approached, households closed, number of refusals, absent 
-sorted dweller and number of households collected. 
- 
-Total 
-households 
-approached 
-Households 
-Closed 
-Refusals 
-Absent 
-Sorted 
-Dweller 
-Households 
-Collected 
-Mariana 
- 
-1º Stage 
-16 a 18/10 
-523 (100.0%) 
-183 (35.0%) 
-112 (21.4%) 
-47 (9.0%) 
-181 (34.6%) 
-2º Stage 
-06 a 08/11 
-988 (100.0%) 
-377 (38.2%) 
-204 (20.6%) 
-109 (11.0%) 
-298 (30.2%) 
-3º Stage 
-27 a 29/11 
-1012 (100.0%) 
-407 (40.2%) 
-244 (24.1%) 
-76 (7.5%) 
-285 (28.2%) 
-Ouro Preto 
- 
-1º Stage 
-30/10 a 01/11 
-885 (100.0%) 
-310 (35.0%) 
-181 (20.5%) 
-107 (12.1%) 
-287 (32.4%) 
-2º Stage 
-20 a 22/11 
-993 (100.0%) 
-369 (37.2%) 
-172 (17.3%) 
-98 (9.9%) 
-354 (35.6%) 
-3º Stage 
-11 a 13/12 
-851 (100.0%) 
-266 (31.3%) 
-166 (19.5%) 
-62 (7.3) 
-357 (41.9%) 
-Total 
-5252 (100.0%) 
-1912 (36.4%) 
-1079 (20.5%) 
-267 (5.1%) 
-1762 (33.5%) 
- 
+
 For both cities, 51.9% of the interviewees were female, with a predominance of the age 
 range 35 to 59 years old (47.2%), 51.5% were married, 67.9% black or mulatto,71.5% with 
 more than nine years of schooling and 61.2% with a family income higher than two minimum 
 wages. No significant differences were observed in the distribution of the sociodemographic 
 variables between each stage of the survey (Table 3). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-13 
- 
-Table 3 Sociodemographic characteristics of participants in the Covid-Inconfidentes 
-Epidemiological Survey.  
-Variables 
-Total 
-(n=1762) 
-1º Stage 
-(n= 469) 
-2º Stage 
-(n= 662) 
-3º Stage 
-(n= 631) 
-p-
-value* 
-Age Group 
- 
- 
- 
- 
- 
-18 - 34 years 
-34.0 (30.5 – 37.6) 
-36.4 (29.3 – 44.1) 
-34.7 (30.3 – 39.2) 
-30.9 (25.4 – 36.9) 
-0.748 
-35-59 years 
-47.2 (43.1 – 51.4) 
-44.8 (37.8 – 52.1) 
-46.5 (41.8 – 51.4) 
-50.3 (41.8 – 58.9) 
-≥ 60 years 
-18.8 (16.0 – 21.9) 
-18.8 (13.9 – 25.4) 
-18.8 (14.7 – 23.8) 
-18.8 (14.4 – 24.2) 
-Marital status 
- 
- 
- 
- 
- 
-Single 
-36.1 (32.9 – 39.5) 
-32.0 (25.8 – 38.9) 
-37.0 (30.9 – 43.5) 
-39.3 (35.2 – 43.7) 
-0.214 
-Married 
-51.5 (47.4 – 55.5) 
-53.5 (44.9 – 62.0) 
-49.2 (42.7 – 55.8) 
-51.7 (46.2 – 57.0) 
-Othersa 
-12.4 (10.1 – 15.1) 
-14.5 (9.9 – 20.6) 
-13.8 (10.2 – 18.7) 
-9.0 (6.8 – 11.8) 
-Cor 
- 
- 
- 
- 
- 
-White 
-26.1(22.1 – 30.7) 
-25.9 (19.2 – 33.9) 
-25.9 (18.3 – 35.1) 
-26.8 (20.7 – 33.8) 
-0.888 
-Black 
-21.5 (17.7 – 25.8) 
-19.3 (13.3 – 27.6) 
-22.1 (15.2 – 31.0) 
-23.0 (18.0 – 28.9) 
-Brown 
-46.4 (37.3 – 50.1) 
-47.9 (38.7 – 57.3)  47.5 (39.2 – 56.0) 
-43.6 (37.3 – 50.1) 
-Others 
-6.0 (4.8 – 9.0) 
-6.9 (4.3 – 10.8) 
-4.5 (2.8 – 7.1) 
-6.6 (4.8 – 9.0) 
-Scholarity 
- 
- 
- 
- 
- 
-Notliterate 
-1.7 (0.8 – 3.5) 
-2.1 (0.6 – 6.8) 
-2.1 (0.6 – 6.9) 
-0.9 (.3 – 2.6) 
-0.523 
-Upto 9 years 
-26.8 (23.2 – 30.6) 
-30.5 (24.2 – 37.6) 
-24.2 (19.7 – 29.3) 
-25.6 (18.8 – 33.8) 
-> 9 years 
-71.5 (67.5 – 75.2) 
-67.4 (59.9 – 74.0) 
-73.7 (68.0 – 78.7) 
-73.5 (65.2 – 80.4) 
-Family Income 
- 
- 
- 
- 
- 
-≤ 2 MW 
-38.9 (34.1 – 43.8) 
-43.5 (33.5 – 54.1) 
-38.8 (33.3 – 44.7) 
-34.0 (26.4 – 42.6) 
-0.265 
-> 2 a ≤ 4 MW 
-34.0 (30.4 – 37.8) 
-27.3 (20.1 – 35.9) 
-36.7 (32.8 – 40.7) 
-38.2 (32.6 – 44.2) 
-> 4 MW 
-27.2 (22.6 – 32.2) 
-29.2 (20.5 – 39.6) 
-24.5 (18.8 – 31.2) 
-27.8 (20.0 – 37.1) 
-% and 95% CI in parentheses (all such values). *chi-square test. aseparated/divorced or widowed. MW: minimum 
-wage. Minimum wage value: BRL 1,045.00 ≈ USD 194.25 (1 USD = 5.3797 BRL). 
- 
+
 Figure 2 shows the distribution of the census sectors of the urban areas included in each 
 stage of the survey according to data from the IBGE, taking into consideration, the 
 proportionality of the number of households and the average income and ensuring the 
 representativeness of the different socioeconomic levels in the final sample and in each stage 
 of the survey. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-14 
- 
- 
-Figure 2 - Distribution of the census sectors included in the survey, in the urban areas of the 
-study cities. 
- 
+
 The global prevalence of the SARS-CoV-2 infection was 5.5%, being 6.2% in Ouro Preto, 
 and 4.7% in Mariana.  
- 
-DISCUSSION 
+
 The rapid spread of SARS-CoV-2 and the severity of Covid-19 present important 
 diagnostic challenges and require the adoption of techniques capable of ruling out a possible 
 infection, confirming a recent infection, identifying previous infections, and assessing the 
@@ -719,10 +361,6 @@ recommended by the World Health Organization [23,24]. However, the use of these 
 population studies is relevant, because it allows the identification of a previous exposure to 
 infection and the knowledge of the distribution and characteristics of the population that had 
 contact with the virus, indicating geographical areas with higher viral circulation [8,9]. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-15 
- 
 Immunochromatographic tests for antibody detection allow for frequent testing because they 
 are inexpensive and easy to perform, making them useful in limiting the spread of the disease. 
 However, these tests should not replace reference diagnostic tests, such as RT-PCR [8-10,25]. 
@@ -733,6 +371,7 @@ week, 70% in the second week, and over 90% in the third week. The authors also h
 the low percentage of false-positive results (2%) observed with these tests [8]. Moreover, it is 
 noteworthy that immunochromatographic serology tests perform better when performed with 
 serum or plasma samples, especially in relation to diagnostic sensitivity [26]. 
+
 In this sense, we believe that the timing of the collection after exposure is a factor that 
 can interfere with the detection of positive cases during serological population studies. This 
 may explain the differences in seroprevalence observed between the cities of Mariana and Ouro 
@@ -744,22 +383,21 @@ hand, these results are close to those observed in states in the northeastern re
 during a national household survey conducted between May 14 and June 7, 2020, which 
 demonstrated a high heterogeneity in the prevalence of anti-SARS-CoV-2 antibodies in 
 different regions of Brazil [28]. 
+
 According to the literature, several factors can explain the differences found in SARS-
 CoV-2 infection rates between regions and distinct population groups, such as disparities in the 
 stage of infections, low testing, and late detection of cases; divergence in the adoption of control 
 strategies, such as restrictions on the movement of people, local sociodemographic and 
 socioeconomic characteristics, and environmental and meteorological factors, such as humidity 
 and air pollution [4,29]. 
+
 The limitations of our study include the restriction of the sample to two medium-sized 
 Brazilian cities, which represent only 12.2% of the Brazilian municipalities. Residents in rural 
 areas of the municipalities were excluded from the study. Although the refusal rate was within 
 expectations, the response rate of 33.5% was lower than that observed in national surveys 
 conducted in Brazil (53-54%) and Spain (60%) [28,30]. In 41.5% of households it was not 
 possible to collect information from residents because they were absent. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-16 
- 
+
 Other studies linked to this project will be developed to further analyze the health 
 conditions of the population studied, related to social isolation and the risk of contamination by 
 SARS-CoV-2, as well as the socioeconomic impacts resulting from them. Therefore, in addition 
@@ -767,11 +405,11 @@ to estimating the prevalence of the SARS-CoV-2 infection in the population, the 
 this study makes it possible to understand the dynamics and profiles of illnesses in the 
 population and their possible determinants, contributing to the improvement of health care, both 
 in the Unified Health System and in the private network.  
+
 The results will help deepen the knowledge about social inequalities in the study cities, 
 favoring the implementation of public policies that minimize inequalities and their impacts on 
 health, food, and quality of life of the population. 
- 
-CONCLUSION 
+
 Despite the inherent limitations in the diagnostic efficacy of the rapid serological test for 
 the detection of antibodies against SARS-CoV-2, its use proved to be effective in verifying the 
 seroprevalence of viral infections in the cities evaluated, allowing researchers to assess the 
@@ -780,1889 +418,17 @@ providing a basis for public managers to make effective decisions, in a socio-he
 epidemiological context, to reduce the number of cases and deaths. Furthermore, the findings 
 of this study play an important role in providing information with regard the socio-economic 
 and health impacts on the population, resulting from social distancing. 
+
 New surveys are needed to understand the pandemic situation in these new phases, 
 including, if possible, rapid antigen tests, which were not yet available in the first wave of the 
 disease. In addition, genotyping is needed to identify circulating viral strains and behavior in 
 the community. 
- 
-Author contributions 
-ALM and GLLMC conceived the study and obtained funding for the study. LGL, LAAMJ, 
-HNC, ICSJ, SSM, APD, TSS, AMSR, APB, NNL, BSS, CAS, KFB and CZM supported or 
-conducted data collection. LAAMJ and ICSJ conducted the statistical analyses with support 
-from ACSA. LGL wrote the first version of the manuscript. RDM, JCCC, MCM, RCRMN, LR 
-and WTC reviewed the work substantively. All authors have approved the submitted version. 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-17 
- 
-Acknowledgments 
+
 The authors thank the Municipal Health Secretariats of Ouro Preto and Mariana, the 
 undergraduate students who participated voluntarily as interviewers, and the auxiliary nurses 
 and nursing technicians who performed the venous collections. The study was also supported 
 by the Federal University of Ouro Preto (UFOP), especially the transportation sector.  
- 
-Funding 
+
 The study was funded by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior 
 (CAPES) [Process No. 88887.504994/2020-00] and also included post-graduate scholarships, 
 doctoral and post-doctoral level. 
- 
-Declaration of interests 
-We declare no competing interests. 
- 
-REFERENCES 
-1. Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive number of COVID-19 is 
-higher compared to SARS coronavirus. J Travel Med 2020;27(2):taaa021. 
-2. World Health Organization. Statement on the second meeting of the International Health 
-Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-
-nCoV). 2020. [online] Available at: https://www.who.int/news/item/30-01-2020-statement-on-
-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-
-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov) [Accessed 25 March 2021]. 
-3. Bontempi, E. The europe second wave of COVID-19 infection and the Italy “strange” 
-situation. Environ. Res 2021;193:110476. 
-4. Guimarães-Ximenes-Neto FR, Carneiro-Flor SM, Carvalho-da-Silva RC, Alves-Dorneles J, 
-Ferreira-Serafim T, Dourado-Júnior FW, et al. Descriptive study of the initial cases of Covid-
-19 in a city in the interior of Ceará, Brazil. Arch Med (Manizales) 2021;21(2):536-547. 
-5. Hallal PC. SOS Brazil: science under attack. Lancet 2020;397(10272):373-374. 
-6. Qiu J. Covert coronavirus infections could be seeding new outbreaks. Nature. 20 March 2020. 
-[online] Available at: https://doi.org/10.1038/d41586-020-00822-x [Accessed 25 March 2021]. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-18 
- 
-7. Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et al. Substantial undocumented infection 
-facilitates the rapid dissemination of novel coronavirus (SARS-CoV2). Science 
-2020;368(6490):489-493. 
-8. Deeks JJ, Dinnes J, Takwoingi Y, Davenport C, Spijker R, Taylor-Phillips S, et al. Antibody 
-tests for identification of current and past infection with SARS‐CoV‐2. Cochrane Database Syst 
-Rev 2020;6(6):CD013652. 
-9. Mina MJ, Parker R, Larremore DB. Rethinking Covid-19 Test Sensitivity - A Strategy for 
-Containment. N Engl J Med 2020;383:e120. 
-10. Ministry of Health, Brazil. Nota Técnica nº 5/2020-SAPS/MS. 2020. [online] Available at: 
-https://egestorab.saude.gov.br/image/?file=20200416_N_NotaTecnican5_7232065694668476
-750.pdf [Accessed 25 March 2021]. 
-11. World Health Organization. Population-based age-stratified seroepidemiological 
-investigation protocol for COVID-19 virus infection. 2020. [online] Available at:  
-https://apps.who.int/iris/handle/10665/331656 [Accessed 25 March 2021]. 
-12. Brazilian Institute of Geography and Statistics (IBGE). Atlas do Censo Demográfico 2010. 
-2010. 
-[online] 
-Available 
-at: 
-https://biblioteca.ibge.gov.br/index.php/biblioteca-
-catalogo?view=detalhes&id=264529 [Accessed 25 March 2021]. 
-13. United Nations Development Program (UNDP). Human Development Atlas in the Brazilian 
-Metropolitan 
-Regions. 
-2014. 
-[online] 
-Available 
-at:  
-https://onedrive.live.com/?authkey=%21AN8fxURJgcBvLmc&cid=124653557C0404EC&id
-=124653557C0404EC%2122994&parId=124653557C0404EC%2122848&o=OneUp 
-[Accessed 25 March 2021]. 
-14. Brazilian Institute of Geography and Statistics (IBGE). Ouro Preto - Histórias & Fotos. 
-2017. 
-[online] 
-Available 
-at: 
-https://cidades.ibge.gov.br/brasil/mg/ouro-preto/historico 
-[Accessed 25 March 2021]. 
-15. Aramburu R. Sorteador de Nomes. Google Play Store. 2018. [online] Available at: 
-https://play.google.com/store/apps/details?id=botecodigital.info.sorteadordenomes&hl=pt_BR
-&gl=US [Accessed 25 March 2021]. 
-16. National Health Surveillance Agency, Brazil. Nota Técnica GVIMS/GGTES/ANVISA nº 
-04/2020. 
-2020. 
-[online] 
-Available 
-at: 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-19 
- 
-https://www20.anvisa.gov.br/segurancadopaciente/index.php/alertas/item/nota-tecnica-n-04-
-2020-gvims-ggtes-anvisa-atualizada [Accessed 25 March 2021]. 
-17. Moreno AL, Sousa DA, Souza AMFLP, Manfro GG, Salum GA, Koller SH, et al. Factor 
-structure, reliability, and item parameters of the Brazilian-Portuguese version of the GAD-7 
-questionnaire. Temas psicol 2016;24(1):367-376. 
-18. Santos IS, Tavares BF, Munhoz TN, Almeida LSP, Silva NTB, Tams BD, et al. Sensitivity 
-and specificity of the Patient Health Questionnaire-9 (PHQ-9) among adults from the general 
-population. Cad. Saúde Pública 2013;29(8):1533-1543. 
-19. Bertolazi AN, Fagondes SC, Hoff LS, Dartora EG, Miozzo IC, Barba ME, et al. Validation 
-of the Brazilian Portuguese version of the Pittsburgh Sleep Quality Index. Sleep Med 
-2011;12(1):70-75. 
-20. Ministry of Health, Brazil. Vigitel Brasil 2019: vigilância de fatores de risco e proteção para 
-doenças 
-crônicas 
-por 
-inquérito 
-telefônico. 
-2020. 
-[online] 
-Available 
-at: 
-http://bvsms.saude.gov.br/bvs/publicacoes/vigitel_brasil_2019_vigilancia_fatores_risco.pdf 
-[Accessed 25 March 2021]. 
-21. Celer. One Step Covid-2019 Test (Imunocromatografia). 2020. [online] Available at: 
-https://celer.ind.br/wp-content/uploads/2020/04/Instrucao-de-Uso-One-Step-COVID-2019-
-Test_Rev02_informativo.pdf [Accessed 25 March 2021]. 
-22. Ministry of Health, Brazil. Informações de Saúde (TABNET), Demográficas e 
-Socioeconômicas, População residente, Censo 2010. 2011. [online] Available at: 
-http://www2.datasus.gov.br/DATASUS/index.php?area=0206&id=6942 [Accessed 25 March 
-2021]. 
-23. Ying L, Yue-ping L, Bo D, Feifei R, Yue W, Jinya D, et al. Diagnostic Indexes of a Rapid 
-IgG/IgM Combined Antibody Test for SARS-CoV-2 [preprint]. medRxiv preprint. 2020. 
-[online] Available at: https://doi.org/10.1101/2020.03.26.20044883 [Accessed 25 March 
-2021]. 
-24. World Health Organization. Advice on the use of point-of-care immunodiagnostic tests for 
-COVID-19. 
-2020. 
-[online] 
-Available 
-at: 
-https://www.who.int/news-
-room/commentaries/detail/advice-on-the-use-of-point-of-care-immunodiagnostic-tests-for-
-covid-19 [Accessed 25 March 2021]. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-20 
- 
-25. Centers for Disease Control and Prevention. Frequently Asked Questions about Coronavirus 
-(COVID-19) 
-for 
-Laboratories. 
-2021. 
-[online] 
-Available 
-at: 
-https://www.cdc.gov/coronavirus/2019-
-ncov/lab/faqs.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2
-019-ncov%2Flab%2Flab-testing-faqs.html [Accessed 25 March 2021]. 
-26. Santos VA, Rafael MM, Sabino EC, Duarte AJS. Sensitivity of the Wondfo One Step 
-COVID-19 test on using serum samples. Clinics 2020;75:e2013. 
-27. Silveira MF, Barros AJD, Horta BL, Pellanda LC, Victora GD, Dellagostin AO, et al. 
-Population-based surveys of antibodies against SARS-CoV-2 in Southern Brazil. Nat Med 
-2020;26:1196-1199. 
-28. Hallal PC, Hartwig FP, Horta BL, Silveira MF, Struchiner CJ, Vidaletti LP, et al. SARS-
-CoV-2 antibody prevalence in Brazil: results from two successive nationwide serological 
-household surveys. Lancet Glob Health 2020;8:e1390-98. 
-29. Copat C, Cristaldi A, Fiore M, Grasso A, Zuccarello P, Signorelli SS, et al. The role of air 
-pollution (PM and NO2) in COVID-19 spread and lethality: a systematic review. Environ. Res 
-2020;191:110129. 
-30. Ministerio de Ciencia e Innovacion and Ministerio de Salud. Spain. Estudio ENE-
-COVID19: primera ronda. Estudio nacional de seroepidemiologia de la infección por SARS-
-CoV-2 en Españha. Informe preliminar 13 mayo de 2020. 2020. [online] Available at: 
-https://www.mscbs.gob.es/ciudadanos/ene-covid/docs/estudio_ene-
-covid19_primera_ronda_informe_preliminar.pdf [Accessed 25 March 2021]. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-1 
-COVID-Inconfidentes: COVID-19 Epidemiological Vigilance in the Inconfidentes 
-region 
- 
-DATA COLLECTION INSTRUMENT 
- 
-1) REGISTRATION DATA AND SYMPTOMATOLOGY 
-  
-1.1) ID number:  ________________ 
- 
-1.2) Household status: 
-( ) Household previously selected (MAP) 
-( ) Next Neighbor (first)  
-( ) Second Neighbor 
-( ) Household from a new draw 
- 
-1.3) Municipality of residence and notification:  
-(    ) Mariana  
- 
-(    ) Ouro Preto 
- 
-1.4) Are you foreign?  
-(    ) No 
- 
- 
-(    ) Yes. Country of origin:  ____________________________ 
- 
-1.5) Are you a health professional?  
-(    ) No 
- 
-  
-(    ) Yes 
- 
-1.6) What is your individual taxpayer registry (CPF)? _ _ _. _ _ _. _ _ _ - _ _ 
- 
- 
-1.7) Full name:  ______________________________________________________________ 
- 
-1.8) Mother's full name: ______________________________________________________ 
- 
-1.9) Date of birth: ___/___/ ______ 
- 
-1.10) Address:  ________________________________________________________ 
- 
-1.11) Telephone Contact: (    ) _ _ _ _ _ - _ _ _ _ 
- 
- 
- 
-1.12) What is your gender? 
-(    ) Female 
- 
- 
-(    ) Male (Skip to 1.13) 
- 
-If female: 
-1.12.1) Are you pregnant?  
-( ) No  
-  
-( ) Yes  
- 
-( ) 77- Not applicable 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-2 
-1.13) In the past 15 days, have you had FEVER, MEASURED BY THERMOMETER? 
-(    ) No (Skip to 1.14)  
-  
-(    ) Yes 
- 
-If so: 
-1.13.1) How many days ago did start? A:  ______________ 
-1.13.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.14) In the past 15 days, have you had FEVER SENSATIONS? 
-(    ) No (Skip to 1.15)  
-  
-(    ) Yes 
- 
-If so: 
-1.14.1) How many days ago did start? A:  ______________ 
-1.14.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.15) In the last 15 days, did you have a SORE THROAT? 
-(    ) No (Skip to 1.16)  
-  
-(    ) Yes 
- 
-If so: 
-1.15.1) How many days ago did start? A:  ______________ 
-1.15.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.16) In the past 15 days, have you had COUGH? 
-(    ) No (Skip to 1.17)  
-  
-(    ) Yes 
- 
-If so: 
-1.16.1) How many days ago did  start? A:  ______________ 
-1.16.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.17) In the last 15 days, did you fell DIFFICULTY TO BREATH ? 
-(    ) No (Skip to 1.18)  
-  
-(    ) Yes 
- 
-If so: 
-1.17.1) How many days ago did you start? A:  ______________ 
-1.17.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.18) In the past 15 days, have you had ARRHYTHMIA? 
-(    ) No (Skip to 1.19)  
-  
-(    ) Yes 
- 
-If so: 
-1.18.1) How many days ago did you start? A:  ______________ 
-1.18.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.19) In the past 15 days, have you had DIARRHEA? 
-(    ) No (Skip to 1.20)  
-  
-(    ) Yes 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-3 
-If so: 
-1.19.1) How many days ago did start? A:  ______________ 
-1.19.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.20) In the last 15 days, did you have VÔMIT? 
-(    ) No (Skip to 1.21)  
-  
-(    ) Yes 
- 
-If so: 
-1.20.1) How many days ago did start? A:   
-1.20.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.21) In the last 15 days, did you SMELLED LESS? 
-(    ) No (Skip to 1.22)  
-  
-(    ) Yes 
- 
-If so: 
-1.21.1) How many days ago did  start? A:   
-1.21.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.22) In the last 15 days, did you TASTED LESS? 
-(    ) No (Skip to 1.23)  
-  
-(    ) Yes 
- 
-If so: 
-1.22.1) How many days ago did  start? A:   
-1.22.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.23) In the past 15 days, have you felt UNUSUALLY TIRED? 
-(    ) No (Skip to 1.24)  
- 
-  
-(    ) Yes 
- 
-If so: 
-1.23.1) How many days ago did you start? A:   
-1.23.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-1.24) In the last 15 days,did you notice SPOTS ON YOUR SKIN? 
-(    ) No (Skip to 1.25)  
-  
-(    ) Yes 
- 
-If so: 
-1.24.1) How many days ago did start? A:   
-1.24.2) How many days did it last? A: ______________/ ( ) I still have this symptom 
- 
-2) SOCIO-DEMOGRAPHIC AND ECONOMIC DATA 
- 
-2.1) In relation to skin color, how do you consider yourself? (Interviewer, read the options) 
-( ) White 
- 
- 
- 
-( ) Brown 
- 
-( ) Black  
- 
- 
-( ) Indigenous  
- 
-( ) Yellow  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-4 
-( ) Other 
- 
- 
- 
- 
-( ) Don't know / Did not answer 
- 
-2.2) What is your marital status? (Interviewer, read out options) 
-( ) Single 
- 
- 
-( ) Married/Stable Union 
- 
- 
-( ) Widower 
- 
- 
-( ) Divorced/separated 
- 
-2.3) Do you have children?  
-( ) No   
-( ) Yes. How many? _________ 
- 
-2.4) Until what level did you study? (Interviewer, do not read the options, mark the option according 
-to the report) 
-( ) Never attended school 
-( ) Adult literacy 
-( ) The first or elementary school I or primary school (1st to 4th grade) incomplete 
-( ) The first or elementary school I or primary school (1st to 4th grade) complete 
-( ) Elementary school II or junior high or high school (5th to 8th or 9th grade) incomplete 
-( ) Elementary school II or junior high or high school (5th to 8th or 9th grade) complete 
-( ) High school or secondary school or technical or technical or normal or scientific or supplementary 
-school (1st to 3rd year) incomplete 
-( ) Secondary school or high school or technical or technical or normal or scientific or supplementary 
-school (1st to 3rd year) complete 
-( ) Third-degree or higher incomplete 
-( ) Third-degree or higher complete  
-( ) Specialization or Post-graduation Latu-Sensu 
-( ) Stricto Sensu Post-Graduation (Master and/or Doctorate) 
-( ) Don't know / Did not answer 
- 
-2.5) Who do you currently live with? 
-( ) Family 
-( ) Alone 
-( ) Shared housing (friends/work) 
-( ) Student Republic 
- 
-2.6) How many rooms are there in your household, including the bathroom and kitchen? (Do not 
-consider as  room: corridors, open balconies, garage and other rooms for non-residential purposes)  
-A:   
-( ) Don't know / Did not answer 
- 
-2.7) How many rooms in your household are dormitories?  
-A:   
-( ) Don't know / Did not answer 
- 
-2.8) How many people live in this household?  
-A:   
-( ) Don't know / Did not answer  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-5 
-2.9) BEFORE THE PANDEMIC (until March 2020), what was your monthly family income? 
-Consider the gross monthly income adding up all the members of your family. (Interviewer, do not 
-read the options, mark the option according to the report) 
-( ) Less than 1 minimum wage (less than USD 194.25) 
-( ) From 1 to 2 minimum wages (USD 194.25 – USD 388.31) 
-( ) From 2 to 3 minimum wages (USD 388.49 - USD 582.56) 
-( ) From 3 to 4 minimum wages (USD 582.74 - USD 776.80) 
-( ) From 4 to 5 minimum wages (USD 776.99 - USD 971.05) 
-( ) From 5 to 10 minimum wages (USD 971.24 - USD 1,942.30) 
-( ) From 10 to 15 minimum wages (USD 1,942.48 - USD 2,913.54) 
-( ) More than 15 minimum wages (more than USD 2,913.73) 
-( ) Don't know / Did not answer 
- 
-2.10) AFTER THE PANDEMIC start (March 2020), was there a CHANGE in the monthly family 
-income? (Interviewer, read the options) 
-( ) No, no change (Skip to 2.11) 
-( ) Yes, it did. The impact was small 
-( ) Yes, it did. The impact was great 
-( ) Yes, increased 
-( ) Don't know / Did not answer 
- 
-If so: 
-2.10.1) What is your CURRENT monthly family income? Consider the monthly gross income adding 
-up all the members of your family. (Interviewer, do not read the options, mark the option according 
-to the report) 
-( ) Less than 1 minimum wage (less than USD 194.25) 
-( ) From 1 to 2 minimum wages (USD 194.25 – USD 388.31) 
-( ) From 2 to 3 minimum wages (USD 388.49 - USD 582.56) 
-( ) From 3 to 4 minimum wages (USD 582.74 - USD 776.80) 
-( ) From 4 to 5 minimum wages (USD 776.99 - USD 971.05) 
-( ) From 5 to 10 minimum wages (USD 971.24 - USD 1,942.30) 
-( ) From 10 to 15 minimum wages (USD 1,942.48 - USD 2,913.54) 
-( ) More than 15 minimum wages (more than USD 2,913.73) 
-( ) Don't know / Did not answer 
- 
-2.11) Do you are CURRENTLY working? 
-( ) No (Skip to 3.1) 
- 
- 
-( ) Yes  
- 
-( ) Don't know / Did not answer 
- 
-If you work: 
-2.11.1) What is your current main job or activity?  
-A:   
- 
-2.11.2) After the start of the pandemic (March/2020) your regime/contract of work, has changed? 
-(Interviewer, read the options) 
-( ) No  
-( ) Did not work before the pandemic 
-( ) Yes, there was a reduction in the workload WITHOUT loss of pay 
- 
-( ) Yes, there was a reduction in the workload WITH loss of pay 
-( ) Yes, there was the cancellation of the contract/dismissal 
-( ) Don't know / Did not answer 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-6 
- 
-2.11.3) Currently, how is your work routine regarding location? (Interviewer, readout options) 
-( ) All work activities are being performed at my home. 
-( ) Part of the activities are performed in the traditional work environment, and some days at home 
-and others at the workplace. 
-( ) All work activities are being performed in my work environment. 
-( ) Don't know / Did not answer 
- 
-2.11.4) Do you work in shifts? 
-( ) No (Skip to 3.1)  
- 
- 
-( ) Yes  
- 
-( ) Don't know / Did not answer 
- 
-If so: 
-2.11.4.1) If yes, what kind of shift have you worked? 
-( ) Night 
-( ) Alternating shift 
-( ) 12/36h shift 
-( ) 24h/48h shift 
-( ) OtheA:  __________________ 
-( ) Don't know / Did not answer 
- 
-2.11.4.2) How long have you been working in shifts?  
-A: (years__________) ________(months) 
-( ) Don't know / Did not answer 
- 
-3) LIFESTYLE HABITS 
- 
-3.1) Are you currently in social distancing? (Social isolation is the reduction in interaction and 
-contact between people in a community to reduce the speed of transmission of the virus; different 
-from social isolation, which is a measure that aims to separate sick people from non-sick people, to 
-prevent the spread of the virus)  
-( ) No (Skip to 3.2) 
- 
- 
-( ) Yes, totally 
-( ) Yes, partially 
-( ) Don't know / Did not answer 
- 
-If so: 
-3.1.1) How long have you been in social distancing?  
-A: ______months______ days 
- 
-3.2) How  is yourroutine? (Interviewer, read the options. You can mark more than one option) 
-[ ] I go out every day for work, study or other regular activity 
-[ ] I go out to exercise 
-[ ] I go to the gym to do some physical activity 
-[ ] Go to restaurants and/or bars 
-[ ] I participate in celebrations and/or gatherings (such as barbecues, birthday parties) 
-[ ] I visit close family and friends 
-[ ] I go out only for essential needs like buying food/ medicine 
-[ ] I stay at home all the time 
-[ ] Don't know / Did not answer 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-7 
-3.3) Most of the time, do you have the behaviors described below? (Interviewer, read the options. 
-You can mark more than one option) 
-[ ] Wear masks when going out 
-[ ] Use masks to receive people or products that are delivered to my home 
-[ ] Avoid touch eyes, nose, and mouth after contact with surfaces or people outside the home 
-[ ] Maintain a distance of at least 1.5 meters from other people when you are away from home 
-[ ] Change clothes when you get home 
-[ ] Take off your shoes when you get home 
-[ ] Wash your hands with soap and water or apply alcohol  whenever you get home or receive some 
-product 
-[ ] Sanitize with soap and water, alcohol, or sanitizers (bleach, etc.) all products purchased outside 
-the home 
-[ ] Avoid crowds of people, such as parties, meetings, or bars/restaurants 
-[ ] None of the alternatives 
-[ ] Don't know / Did not answer 
- 
-3.4) CURRENTLY, from Monday to Sunday do you expose yourself to the sun at any time during 
-the day?  
-( ) No (Skip to 3.5) 
- 
-( ) Yes 
- 
-If so: 
-3.4.1) From Monday to Sunday, how many times a week are you exposed to the sun BEFORE 10:00 
-AM? 
-( ) I am not exposed (Skip to 3.4.3) 
-( ) 1 time 
-( ) 2 times 
-( ) 3 times 
-( ) 4 times 
-( ) 5 times 
-( ) 6 times 
-( ) 7 times 
-( ) Don't know / Did not answer (Skip to 3.4.3) 
- 
-3.4.2) How long are you exposed to the sun BEFORE 10:00? 
-A: (hours__________) ________(minutes) 
- 
-3.4.3) From Monday to Sunday, how many times a week are you exposed to the sun BETWEEN 
-10:00 AM and 3:00 PM? 
-( ) I am not exposed (Skip to 3.4.5) 
-( ) 1 time 
-( ) 2 times 
-( ) 3 times 
-( ) 4 times 
-( ) 5 times 
-( ) 6 times 
-( ) 7 times 
-( ) Don't know / Did not answer (Skip to 3.4.5) 
- 
-3.4.4) How long are you exposed to the sun between 10:00 and 15:00? 
-A: (hours__________) ________(minutes) 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-8 
-3.4.5) From Monday to Sunday, how many times a week are you exposed to the sun AFTER 3:00 
-PM? 
-( ) I am not exposed (Skip to 3.4.7) 
-( ) 1 time 
-( ) 2 times 
-( ) 3 times 
-( ) 4 times 
-( ) 5 times 
-( ) 6 times 
-( ) 7 times 
-( ) Don't know / Did not answer (Skip to 3.4.7) 
- 
-3.4.6) How long are you exposed to the sun AFTER 3:00 PM? 
-A: (hours__________) ________(minutes) 
- 
-3.4.7) Do you use any kind of protection when exposed to the sun? (Interviewer, read the options; 
-you can mark more than one option) 
-[ ] No   
-[ ] Yes, hat/bonnet 
-[ ] Yes, covers                                     
-[ ] Yes, long-sleeved clothes 
-[ ] Yes, sunscreen 
- 
- 
-[ ] Yes, I use umbrellas or umbrella/sun 
- 
-3.5) BEFORE THE PANDEMIC (March/2020) did you expose yourself to the sun at any time during 
-the day? (Interviewer, read the options) 
-( ) No 
-( ) Yes, I exposed myself to the sun the same  frequency and time as this days 
-( ) Yes, but sun exposure was GREATER 
-( ) Yes, but sun exposure was LESS 
-( ) Don't know / Did not answer  
- 
-3.6) During the first few months of the pandemic (March to July/2020), there was a change in your 
-sun exposure? (Interviewer, readout options) 
-( ) No 
-( ) Yes, I INCREASED my sun exposure 
-( ) Yes, it DIMINED my exposure to the sun 
-( ) Yes, I INTERRUPT my sun exposure  
-( ) Don't know / Did not answer 
- 
-3.7) Do you CURRENTLY practice some kind of physical exercise (walking, running, weight 
-training, functional training, pilates, crossfit, yoga, etc)?  
-( ) No (Skip to 3.8) 
- 
- 
-( ) Yes  
- 
-( ) Don't know / Did not answer (Skip to 3.8) 
- 
-If so:  
-3.7.1) What physical exercise/sport do you currently practice? How many days a week do you usually 
-practice this physical exercise or sport? And on the day that you practice this exercise or sport, how 
-long does this activity last? (Interviewer, do not read the options, mark the option according to the 
-report. You can mark more than one option) 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-9 
-[ ] Walking  
-Frequency (days in the week) and time (minutes) A:   
-[ ] Race 
-Frequency (days in the week) and time (minutes) A:   
-[ ] Cycling 
-Frequency (days in the week) and time (minutes) A:   
-[ ] Bodybuilding 
-Frequency (days in the week) and time (minutes) A:   
-Aerobics (spinning, step, jump)  
-Frequency (days in the week) and time (minutes) A:   
-[ ] Stretching 
-Frequency (days in the week) and time (minutes) A:   
-[ ] Yoga 
-Frequency (days in the week) and time (minutes) A:   
-[ ] Pilates 
-Frequency (days in the week) and time (minutes) A:   
-[ ] Water aerobics 
-Frequency (days in the week) and time (minutes) A:   
-[ ] Swimming 
-Frequency (days in the week) and time (minutes) A:   
-[ ] Fights and martial arts (jiu-jitsu, karate, judo, capoeira)  
-Frequency (days in the week) and time (minutes) A:   
-[ ] Team sports (soccer, basketball, volleyball, tennis)  
-Frequency (days in the week) and time (minutes) A:   
-[    ] Dance (ballet, ballroom, axé, forró).  
-Frequency (days in the week) and time (minutes) A:   
-[    ] Other A:   
-Frequency (days in the week) and time (minutes) A:   
- 
-3.8) BEFORE the PANDEMIC (March/2020) did you practice physical exercise? (Interviewer, read 
-the options) 
-( ) No 
-( ) Yes, practiced as this days, considering the frequency and duration of the exercise 
-( ) Yes, but my practice of physical exercise was GREATER 
-( ) Yes, but my practice of physical exercise was LOWER 
-( ) Don't know / Did not answer  
- 
-3.9) DURING THE FIRST MONTHS OF PANDEMIC (March to July/2020), did you change  your 
-exercise practice? (Interviewer, readout options; you may mark more than one option) 
-[ ] No  
-[ ] Yes, I INTERRUPT the practice of physical exercise 
-[ ] Yes, IDECREASE the practice of physical exercise  
-[ ] Yes, I STARTED practicing some physical exercise 
-[ ] Yes, I CHANGED the TYPE of exercise 
-[ ] Yes, I CHANGED only the PLACE of exercise 
-[ ] Yes, I INCREASED the practice of physical exercise 
-[ ] Don't know / Did not answer 
- 
-3.10) CURRENTLY, from Monday through Friday, how much time (in hours) do you currently stay 
-seated (include time used for cell phone, TV, computer, tablet, books, car, public transportation)?  
-A:  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-10 
-3.11) BEFORE PANDEMIA (March/2020), from Monday to Friday, how much time (in hours) per 
-day did you stayed seated (include time used for cell phone, TV, computer, tablet, books, car, public 
-transportation)?  
-A:  
- 
-3.12) DURING THE FIRST MONTHS OF THE PANDEMIC (March to July/2020), from Monday 
-to Friday, how much time (in hours) per day did you stayed seated (include time used for cell phone, 
-TV, computer, tablet, books, car, public transportation)?  
-A:  
- 
-3.13) Do you smoke or have you ever smoked cigarettes or any other tobacco product? (Interviewer, 
-read the options) 
-( ) No, never smoked (Skip to 3.14) 
-( ) Yes, I have smoked but quit more than six months ago (Skip to 3.14)  
-( ) Yes, I have smoked but quit less than six months ago (Skip to 3.14)  
-( ) Yes, I smoke since before the pandemic 
-( ) Yes, I started smoking after the beginning of the pandemic 
- 
-If so: 
-3.13.1) CURRENTLY how many cigarettes on average do you smoke a day?  
-A:   
- 
-3.13.2) BEFORE THE PANDEMIC (March/2020),  your cigarette consumption was different? 
-( ) No (Skip to 3.14)  
-( ) Yes  
- 
- 
-If so: 
-3.13.2.1) BEFORE THE PANDEMIC how many cigarettes on average did you smoke per day?  
-A:   
- 
-3.14) CURRENTLY, how often do you usually consume some alcoholic beverage? 
-( ) I do not use alcoholic beverages (Skip to 3.15) 
- 
-( ) From 1 to 2 times a month  
- 
-( ) From 3 to 4 times a month 
- 
-( ) From 1 to 2 times a week 
- 
-( ) 3 to 4 times a week 
- 
-( ) From 5 to 6 times a week 
- 
-( ) Every day of the week  
- 
-If so: 
-3.14.1) (MALE) In the last 30 days, have you consumed 5 or more doses of an alcoholic beverage on 
-a single occasion? Consider a dose of alcoholic beverage as equivalent to a can of beer or a glass of 
-wine, or a dose of cachaça, whiskey, or any other distilled alcoholic beverage. 
-(FEMALE) In the past 30 days, have you had 4 or more drinks at one time? Consider a dose of alcohol 
-as equivalent to a can of beer or a glass of wine, or a dose of cachaça, whiskey, or any other distilled 
-alcoholic beverage. 
-( ) No  
- 
-( ) Yes  
- 
-( ) Don't know / Did not answer 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-11 
-3.15) BEFORE THE PANDEMIC (March/2020), your alcohol consumption was different? 
-( ) No (Skip to 3.16)  
-( ) Yes 
- 
-If so: 
-3.15.1) BEFORE THE PANDEMIC (March/2020), how often did you consume some alcoholic 
-beverage? 
-( ) Did not use alcoholic beverages 
-( ) From 1 to 2 times a month  
- 
-( ) From 3 to 4 times a month 
- 
-( ) From 1 to 2 times a week 
- 
-( ) 3 to 4 times a week 
- 
-( ) From 5 to 6 times a week 
- 
-( ) Every day of the week  
- 
-3.16) Do you have any beliefs/religions? 
-( ) No (Skip to 4.1) 
-( ) Yes 
- 
-If so: 
-3.16.1) BEFORE THE PANDEMIC (March/2020), how often did you go to temples, churches, 
-religious services/celebrations? 
-( ) More than once a week 
-( ) Once a week 
-( ) Two to three times a month 
-( ) A few times a year 
-( ) Once a year or less 
-( ) Never 
-( ) Don't know / Did not answer 
- 
-3.16.2) And CURRENTLY, how often are you attending religious services/celebrations in person or 
-online? 
-( ) More than once a week 
-( ) Once a week 
-( ) Two to three times a month 
-( ) A few times a year 
-( ) Once a year or less 
-( ) Never 
-( ) Don't know / Did not answer 
- 
-4) HEALTH CONDITION 
- 
-4.1) Would you classify your health condition as: (Interviewer, read the options) 
-( ) Very good  
- 
-( ) Good 
- 
- 
-( ) Regular  
-( ) Poor 
- 
- 
- 
-( ) Very bad 
-( ) Don't know / Did not answer 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-12 
-4.2) Compared to the same month last year, would you rate your health condition as: (Interviewer, 
-read the options) 
-( ) Much better than now  
- 
-( ) A little better than now  
- 
-( ) The same as now 
-( ) A little worse than now  
- 
-( ) Much worse than now 
- 
- 
-( ) Don't know / Did not answer 
- 
-4.3) CURRENTLY, do you feel any physical pain (pain in the body) most of the days? 
-( ) No (Skip to 4.4)  
-  
-( ) Yes  
-( ) Don't know / Did not answer 
- 
-If so: 
-4.3.1) How long have you felt physical pain (pain in the body) most of the days? (Interviewer, read 
-the options) 
-( ) Less than 3 months  
-( ) Between 3 and 6 months  
-( ) More than 6 months 
-( ) Don't know / Did not answer 
- 
-4.4) Has any doctor or other health professional ever told you that you have (Interviewer, readout 
-options): 
-[    ] Hypertension or high blood pressure? 
-[    ] Diabetes or blood sugar? 
-[    ] Asthma or bronchitis? 
-[    ] Chronic lung disease? 
-[    ] Cancer (any type)? 
-[    ] Chronic kidney disease? 
-[    ] Any heart disease? 
-[    ] Depression? 
-[    ] Anxiety disorder? 
-[    ] Sleep apnea? 
-[    ] Hypo or hyperthyroidism? 
-[    ] Other:  _________________________________ 
-[    ] None of the above 
- 
-4.5) In the last 30 days, have you used any medication?  
-( ) No (Skip to 4.6) 
- 
- 
-( ) Yes. How many?  __________________ 
- 
-If yes, answer questions 4.5.1 to 4.5.5.1 for all the drugs you use: 
-4.5.1) name of the drug?  
-A:  __________________ 
- 
-4.5.2) What is the indication (what do you use the medicine for)? 
-A:  __________________ 
- 
-4.5.3) Who or where was it prescribed/recommended?  
-( ) Doctor's appointment 
-( ) Another health professional 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-13 
-( ) Radio/TV/newspapers/internet 
-( ) Indication of relatives/friends/neighbors 
-( ) Other A: __________ 
- 
-4.5.4) How long have you been using this medication? 
-( ) Use as needed (Skip to 4.6) 
-( ) Less than 30 days 
-( ) From 1-3 months 
-( ) From 3-12 months 
-( ) More than 1 year 
- 
-4.5.5) Have you stopped taking this medication in the last 7 days? 
-( ) No (Skip to 4.6)     
-( ) Yes       
-( ) Not applicable 
- 
- 
- 
-4.5.5.1) If yes, what was the reason? 
-( ) Forgot to take 
-( ) Had adverse (side) effect  
-( ) For lack of money to buy 
-( ) Decided to discontinue use 
-( ) Other reason A: __________ 
-( ) Not applicable 
- 
-4.6) In the last 3 MONTHS have you used any vitamin or mineral supplements? 
-( ) No (Skip to 4.7)  
-( ) Yes 
- 
-If so: 
-4.6.1) If yes, did they contain any of the vitamins below? (Interviewer, read out options; you may 
-check more than one option) 
-[ ] Folate or folic acid or vitamin B9 
-[ ] Vitamin B6 or Pyridoxine 
-[ ] Vitamin B12 or cobalamin 
-[ ] Vitamin D or cholecalciferol or codfish oil supplementation 
-[ ] Multivitamin. Which one?  _________________ 
-[ ] OtheA:  ______________________________ 
-[ ] Don't know / Did not answer 
-[ ] Does not apply 
- 
-4.7) Do you believe you are infected withCOVID-19 at this moment? 
-( ) No   
- 
-( ) Yes   
- 
-( ) Don't know / Did not answer 
- 
-4.8) Do you believe you have ever had COVID-19? 
-( ) No   
- 
-( ) Yes   
- 
-( ) Don't know / Did not answer 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-14 
-4.9) Have you sought medical attention at any time for suspected you had COVID-19? 
-( ) No   
- 
-( ) Yes   
- 
-( ) Don't know / Did not answer 
- 
-4.10) Have you ever been tested for COVID-19? 
-( ) No (Skip to 4.11)  
- 
-( ) Yes   
- 
-( ) Don't know / Did not answer 
- 
-If so: 
-4.10.1) What is the result of the test? 
-( ) Negative   
- 
-( ) Positive  
- 
-( ) Don't know / Did not answer 
- 
-4.10.2) What type of test was performed? (Interviewer, readout options)  
-[ ] Blood test ("taken from the vein")  
- 
-[ ] Blood test ("taken from the tip of the finger")  
-Swab (cotton swab) in the nose or mouth  
-( ) Don't know / Did not answer 
- 
-4.11) Have you ever had contact with someone who is or has been infected by COVID-19? 
-(Interviewer, read the options) 
-( ) No   
- 
- 
- 
- 
- 
- 
- 
-( ) Don't know 
-( ) Probably yes, but not confirmed with a test  
- 
-( ) Yes, confirmed with a test 
- 
-4.12) In your household, are any residents considered to be in risk for COVID-19? People over 60 
-years old or with cardiovascular disease, diabetes, respiratory disease, neurological or renal disease, 
-immunosuppression, obesity, asthma, pregnant women or women who have had children less than 42 
-days ago (who are pregnant). 
-( ) No   
-( ) Yes   
-( ) Don't know / Did not answer 
- 
-4.13) What is your current weight? (In case you don't know your exact weight, fill in an approximate 
-value) 
-A: (Kg_____________)  
- 
- 
-( ) Don't know / Did not answer 
- 
-4.14) What was your weight before the pandemic (March/2020)? (If you do not know your exact 
-weight, fill in an approximate value)  
-A: (Kg_____________)  
- 
- 
-( ) Don't know / Did not answer 
- 
-4.15) How tall you are? (In case you don't know your exact height, fill in an approximate value)  
-A: ()   
- 
-( ) Don't know / Did not answer 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-15 
-5) MENTAL HEALTH 
- 
-Now let's talk about how you have felt during the last two weeks.The options of answers are: Not at 
-all; Several days; More than half of the days; Almost every day. 
- 
-During the LAST TWO WEEKS, how often were 
-you bothered by any of the following problems? 
-No time Several 
-days 
-More than 
-half of the 
-days 
-Almost 
-every day 
-5.1) 
-You felt nervous, anxious, or very tense 
-(Readout options) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.2) 
-Was not able to prevent or control your 
-worries 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.3) 
-It was very concerned about several 
-things 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.4) 
-Had difficulty to relax 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.5) 
-You have become so agitated that it was 
-difficult to remain seated 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.6) 
-Easily upset or irritated 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.7) 
-felt afraid as if something horrible was 
-going to happen 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.8) 
-had little interest or pleasure in doing 
-things 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.9) 
-Felt "down", depressed or without 
-perspective 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.10) 
-Difficulty getting to sleep, or staying 
-asleep, or sleeping more than usual? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.11) 
-Felt tired or low on energy 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.12) 
-Lack of appetite or overeating? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.13) 
-Felt bad about yourself or think that you 
-are a failure or that you have let your 
-family or yourself down 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.14) 
-Difficulty concentrating on things, like 
-reading the newspaper or watching TV 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-5.15) 
-Slow to move or speak, or were  so 
-agitated that you were pacing back and 
-forth 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-16 
-5.16) 
-Thought about getting hurt in some way 
-or that you would be better off dead? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
- 
-INTERVIEWER, IF YOU HAVE SIGNED ONCE OR MORE ANY OF THE ABOVE 
-PROBLEMS, please ask:  
- 
-5.17) How difficult it was for you to do your job, take care of things at home, or socialize with other 
-people? (Interviewer, read out options) 
-( ) No difficulties 
- 
-  
-( ) Little difficulty 
- 
- 
-( ) Very difficult 
-( ) Extreme difficulty  
- 
-( ) Don't know / Did not answer  
-( ) Not applicable 
- 
- 
-6) SLEEPING HABITS 
- 
-PSQI Index 
- 
-6.1) During the LAST MONTH, what time did you usually go to bed at night? 
-A: h: min  
-( ) Don't know / Did not answer 
- 
-6.2) During the LAST MONTH, how long (in minutes) did you usually take to go to sleep at night? 
-A: _______min  
-( ) Don't know / Did not answer 
- 
-6.3) During the LAST MONTH, what time did you usually get up in the morning?  
-A: h: min  
-( ) 99- Don't know / Did not answer 
- 
-6.4) During the LAST MONTH, how many hours of sleep did you get each night? This may be 
-different from the number of hours you stayed in bed:  
-A: h  
-( ) Don't know / Did not answer 
- 
-Now let's talk about your sleep in the LAST MONTH, the answer choices are: Not once in the last 
-month; Less than once a week; 1 or 2 times a week; 3 or more times a week 
- 
- 
-During the LAST MONTH, how often have 
-you been bothered by any of the problems 
-below:  
-Not once 
-in the last 
-month 
-Less than 
-once a 
-week 
-1 or 2 
-times a 
-week 
-3 or more 
-times a 
-week 
-6.5) 
-Could not fall asleep within 30 minutes 
-(Interviewer, readout options) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.6) 
-Woke up in the middle of the night or early 
-in the morning 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.7) 
-Had to get up to go to the bathroom 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-17 
-6.8) 
-He couldn't breathe comfortably 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.9) 
-Coughed or snored heavily 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.10) Felt very cold 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.11)  Felt very hot 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.12) Had bad dreams 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.13) He had pain 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-6.14) Others:  _________________________ 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
- 
-6.15) During the LAST MONTH, how often did you take medicine (prescribed or "on your own") to 
-help you sleep? (Interviewer, readout options) 
-( ) Not at all in the last month  
- 
- 
-( ) Less than once a week 
-( ) 1 or 2 times a week  
- 
- 
-( ) 3 or more times a week 
-( ) Don't know / Did not answer 
- 
-6.16) During the past month, how often have you had difficulty staying awake while driving, eating, 
-or participating in social activity (party, gathering with friends, work, study)? (Interviewer, readout 
-options) 
-( ) Not at all in the last month  
- 
- 
-( ) Less than once a week 
-( ) 1 or 2 times a week  
- 
- 
-( ) 3 or more times a week 
-( ) Don't know / Did not answer 
- 
-6.17) During the LAST MONTH, how difficult was it for you to maintain enthusiasm for doing things 
-(your usual activities)? (Interviewer, read out options) 
-( ) No difficulties  
- 
- 
- 
-( ) A mild problem 
-( ) A reasonable problem  
- 
- 
- 
-( ) A big problem 
-( ) Don't know / Did not answer 
- 
-6.18) During the LAST MONTH, how would you rate the quality of your sleep in general? 
-(Interviewer, read out options) 
-( ) Very good  
-( ) Good 
- 
-( ) Poor 
- 
-( ) Very bad 
- 
-( ) Don't know / Did not answer 
- 
-7) FOOD AND NUTRITION 
- 
-Now let's talk about your diet in the LAST THREE MONTHS. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-18 
- 
-In the LAST THREE MONTHS, how 
-many days a week do you usually eat?  Never 
-1 to 2 
-days a 
-week 
-3 to 4 
-days a 
-week 
-5 to 6 
-days a 
-week 
-Every day 
-(including 
-Saturday and 
-Sunday) 
-7.1) 
-Beans (or soybeans, peas, lentils, 
-chickpeas)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.2) 
-Oilseeds (nuts, peanuts, walnuts, 
-almonds, macadamia nuts, among 
-others)?  
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.3) 
-Vegetables (lettuce, tomato, carrot, 
-chayote, eggplant, zucchini - do not 
-consider potato, cassava, or yam)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.4) 
-Dark green vegetables (spinach, kale, 
-watercress, arugula)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.5) 
-Red meat (beef and pork)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.6) 
-Chicken? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.7) 
-Fish (sardines, tuna, salmon)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.8) 
-Eggs? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.9) 
-Fruit? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.10) Soda or artificial juice (powder, carton, 
-or bottle)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.11) Chocolate drinks or flavored yogurt? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.12) Milk, cheese, or other dairy products? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.13) Industrialized (packaged) cookies? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.14) Packaged snacks (Cheetos, Ruffles, or 
-any other brand)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.15) Noodles or instant soups? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.16) Hamburgers, sausages, sausage, , 
-salami, ham, turkey breasts? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.17) Frozen products (pizza, ready meals, 
-nuggets, French fries)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.18) Canned food (corn, olives, vegetable)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.19)  hamburger bread, hot dog bread, or 
-other sweet bread? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-19 
-7.20) Bread, simple cakes, and pasta? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.21) Candy and sweets (candy, gum, candy, 
-ice cream, jelly, chocolate, etc.)? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.22) Do you exchange your lunch meal for 
-sandwiches, snacks, pizza, or other 
-snacks? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-7.23) Do you exchange you dinner meal for 
-sandwiches, snacks, pizza, or other 
-snacks? 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
-(  ) 
- 
-7.24) Did you notice, in general, any change in the price of food during the pandemic? (Interviewer, 
-read the options) 
-( ) No (Skip to 7.25)  
- 
- 
- 
- 
-( ) Yes, prices have increased  
- 
-( ) Yes, prices have decreased (Skip to 7.25)   
- 
-( ) Don't know / Did not answer 
- 
-If so: 
-7.24.1) If you have observed a price increase, for which foods? (You can mark more than one option) 
-[ ] Fruit, vegetables     
-[ ] Meat     
-[ ] Rice, beans     
-[ ] Oilseeds (nuts, peanuts, walnuts, almonds, macadamia nuts, among others)     
-[ ] Milk, cheese, and yogurt     
-Frozen products (pizza, ready meals, nuggets, French fries)     
-[ ] Sweets and candies     
-Other industrialized/ ultra-processed foods (soft drinks, packaged snacks, canned food, etc.) 
- 
-7.25) What foods have you consumed that give you pleasure, comfort, and well-being sensation? 
-(Interviewer, do not read the options. You can mark more than one option) 
-[ ] Potato chips 
-[ ] Ice cream 
-[ ] Cookies/Cakes 
-[ ] Chocolates/sweets 
-[ ] Pasta/pizza 
-[ ] Greens, vegetables/salad 
-[ ] Soup 
-[ ] Breads (French bread, sweet bread, cheese bread, bread with cream) 
-[ ] Meat or barbecue 
-[ ] Hamburger/sandwich 
-[ ] I have not consumed 
-[ ] OtheA:  ______________________________________________________________ 
-( ) Not applicable 
- 
-7.26) Compared to BEFORE THE PANDEMIC, have you modified your consumption of foods that 
-give you pleasure, comfort, and well-being sensation? 
-( ) Yes, increased 
- 
- 
- 
- 
- 
-( ) Yes, it decreases 
- 
-( ) No, I did not change consumption  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-20 
-( ) Don't know / Did not answer 
- 
-Now I will ask questions about your diet now and before the pandemic (March/2020): 
- 
-7.27) CURRENTLY, what is the main way you purchase food items? (Interviewer, read out options) 
-( ) In person 
-( ) Delivery (delivery service) via phone/whatsapp 
-( ) Delivery (Delivery service) via application/website 
-( ) Does not buy 
-( ) OtheA:  ____________________ 
- 
-7.28) BEFORE the PANDEMIC (March/2020), what was the main way you purchased food items? 
-(Interviewer, read out options) 
-( ) In person 
-( ) Delivery (delivery service) via phone/whatsapp 
-( ) Delivery (Delivery service) via application/website 
-( ) Does not buy 
-( ) OtheA:  ____________________ 
- 
-7.29) CURRENTLY, what are the top three places where you get most of your food? (IntervieweA: 
-Do not readout options. You can mark up to THREE options) 
-[ ] Supermarkets and hypermarkets 
-[ ] Fruit and vegetable store 
-[ ] Butchery and fishmonger 
-[ ] Local or neighborhood markets (including a grocery store, mini-market, and warehouse)           
-[ ] Fairs  
-[ ] Home garden 
-[ ] Direct from the farmer 
-[ ] Convenience store or gas station 
-[ ] Street vendor and informal sales (including a trailer, food truck, etc.) 
-10- Bakery  
-[ ] Snack bar (includes tea houses, juice houses, ice cream parlors, pastry shops, and the like) 
-[ ] Bars and restaurants  
-[ ] Donation 
-[ ] Other:  _______________ 
-( ) Don't know / Did not answer 
- 
-7.30) BEFORE THE PANDEMIC (March/2020), what were the three main places where you got 
-most of your food? (IntervieweA: Do not readout options. You can mark up to THREE options) 
-[ ] Supermarkets and hypermarkets 
-[ ] Fruit and vegetable store 
- 
-[ ] Butchery and fishmonger 
-[ ] Local or neighborhood markets (including a grocery store, mini-market, and warehouse)           
-[ ] Fairs  
-[ ] Home garden 
-[ ] Direct from the farmer 
-[ ] Convenience store or gas station 
-[ ] Street vendor and informal sales (including a trailer, food truck, etc.) 
- 
-10- Bakery  
-[ ] Snack bar (includes tea houses, juice houses, ice cream parlors, pastry shops, and the like) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-21 
-[ ] Bars and restaurants  
-[ ] Donation 
-[ ] OtheA:  _______________ 
-( ) Don't know / Did not answer 
- 
-7.31) CURRENTLY, how often do you have meals outside your home? Consider any food prepared 
-and consumed away from home. 
-( ) I do not have this habit 
-( ) From 1 to 2 times a month  
- 
-( ) From 3 to 4 times a month  
-( ) From 1 to 2 times a week  
-( ) 3 to 4 times a week  
-( ) From 5 to 6 times a week 
-( ) Every day of the week  
-( ) Don't know / Did not answer 
- 
-7.32) BEFORE THE PANDEMIC (March/2020), how often did you have meals outside your home? 
-Consider any food prepared and consumed away from home. 
-( ) I do not have this habit 
-( ) From 1 to 2 times a month  
- 
-( ) From 3 to 4 times a month  
-( ) From 1 to 2 times a week  
-( ) 3 to 4 times a week  
-( ) From 5 to 6 times a week 
-( ) Every day of the week  
-( ) Don't know / Did not answer 
- 
-7.33) CURRENTLY, how often do you have meals at home that have been prepared elsewhere? 
-(Such as delivery or picked up at the restaurant/location to be consumed at home)? 
-( ) I do not have this habit 
-( ) From 1 to 2 times a month  
- 
-( ) From 3 to 4 times a month  
-( ) From 1 to 2 times a week  
-( ) 3 to 4 times a week  
-( ) From 5 to 6 times a week 
-( ) Every day of the week  
-( ) Don't know / Did not answer 
- 
-7.34) BEFORE THE PANDEMIC (March/2020), how often did you have meals at home that were 
-prepared elsewhere? (Such as delivery or picked up at the restaurant/location to be consumed at 
-home)? 
-( ) I do not have this habit 
-( ) From 1 to 2 times a month  
- 
-( ) From 3 to 4 times a month  
-( ) From 1 to 2 times a week  
-( ) 3 to 4 times a week  
-( ) From 5 to 6 times a week 
-( ) Every day of the week  
-( ) Don't know / Did not answer 
- 
- 
-7.35) CURRENTLY, considering the meals that were prepared outside your home (restaurants or 
-delivery), what is the MAIN group of foods that you consume? (IntervieweA: readout options) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-22 
-( ) Food and meals in natural or minimally processed, such as fruits, vegetables, legumes, rice, beans, 
-meat, and others 
-( ) Ultra-processed foods, such as salty snacks, pizza, sandwiches, nuggets, potato chips 
-( ) Sweets and candies, such as desserts, candies, chocolates, ice cream, and others 
-( ) Don't know / Did not answer 
- 
-Food Safety Scale - EBIA 
- 
-Now, I will ask you some questions about your household's access to food. In all of the questions, 
-you must answer for the LAST 3 MONTHS. Some questions are similar to each other, but you 
-must answer them all 
- 
-7.36)  In the last 3 months, were you worried that the food in your home would end before you could 
-buy more food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.37) In the last 3 months, did the food end before you had money to buy more?  
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.38) In the last 3 months, did you run out of money and you could not have a healthy and varied 
-diet? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.39) In the last 3 months, did the residents in your home eat only some food  in your meals, because 
-there was not enough money to buy food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.40) In the last three months, has any resident 18 years of age or older skip meals because there was 
-not money to buy food?  
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.41) In the last three months, did any resident 18 years of age or older ever eat less than you thought 
-you should have because there was not enough money to buy food?  
- 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.42) In the last three months, has any resident 18 years of age or older ever  hungry but did not eat 
-because there was not money to buy more food?  
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-23 
-7.43) In the last three months, has any resident 18 years of age or older ever go without eating for a 
-whole day or have just 1 meal in a whole day because there wasn’t enough money to buy food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.44) Are there any residents under 18 years old? 
-( ) No (Finish the questionnaire)  
-( ) Yes                                              
- 
-If so: 
-7.44.1) In the last three months, has any resident under the age of 18 could not have a healthy and 
-varied diet  because there was not enouth money to buy food?  
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.44.2) In the last three months, has any resident under the age of 18  eat less than what you thought 
-you should because there wasn’t enough money to buy food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.44.3) In the lastt three months, have you  ever reduce the size of meals because there wasn’t enough 
-money to buy food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.44.4) In the last three months, have any residents under the age of 18  ever have to skip a meal 
-because there wasn’t enough money to buy food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.44.5) In the last three months, have any residents under the age of 18 ever hungry but you just 
-couldn’t buy more food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-7.44.6) In the last three months, have any residents under the age of 18 ever go without eating for a 
-whole day or have just 1 meal in a whole day because there wasn’t enough money to buy food? 
-( ) No                                              
-( ) Yes                                              
-( ) Don't know / Did not answer 
- 
-Thank you!!! 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-SURVEILLANCE OF
-OFCOVID-19 IN THE
-INCONFIDENTES REGION
-Your household was randomly selected to
-participate in a health survey conducted by the
-Universidade Federal de Ouro Preto (UFOP) and
-the City Halls of Ouro Preto and Mariana
-HOW WILL I PARTICIPATE?
-One adult, over the age of 18, will be selected to
-participate in the survey, free of charge. The selected
-adult will answer a questionnaire that assesses lifestyle
-and health status, and will be tested for COVID-19
-WHEN CAN I PARTICIPATE?
-The UFOP team will stop by your house on Friday or
-Saturday or Sunday. So it is very important that you
-are at home and welcome us
-You will be able to
-identify us by our
-badge, and we will be
-wearing all PPE to
-ensure everyone's
-safety!
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-SURVEILLANC
- OF COVID-19 
-THE
-INCONFIDENT
-REGION
-Ouro Preto and Mariana City Halls
-How does the research
-happen?
-The
-research
-""Surveillance
-of
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2720
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

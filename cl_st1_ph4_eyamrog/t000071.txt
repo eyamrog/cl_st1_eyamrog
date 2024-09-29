@@ -1,29 +1,3 @@
-Publication status: Preprint has been submitted for publication in journal
-What Those Responsible for Open Infrastructure in Scholarly
-Communication Can Do about Possibly Predatory Practices 
-Saurabh Khanna, John Willinsky
-https://doi.org/10.1590/SciELOPreprints.3474
-Submitted on: 2022-01-09
-Posted on: 2022-03-14 (version 4)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-1 
-This chapter has been invited to appear in Ismaeil Fazel and Pejman Habibie, Eds. Predatory Practices in Scholarly 
-Communication and Publishing: Causes, Forms, Implications, and Solutions. Routledge. 
- 
- 
- 
-What Those Responsible for Open Infrastructure in Scholarly Communication Can Do about 
-Possibly Predatory Practices  
- 
-Saurabh Khanna, Stanford University, https://orcid.org/0000-0002-9346-4896  
-John Willinsky, Stanford University, https://orcid.org/0000-0001-6192-8687 
- 
- 
-Introduction 
- 
 We come to this book on “predatory practices in scholarly communication” as members of a 
 project that develops journal publishing platforms and conducts research on open science. In this 
 chapter, we work with a set of 521 journals using that platform that also occupy a place on one or both 
@@ -44,14 +18,7 @@ expanded array of research is produced and circulated, those given to deception 
 tradition of trust. Without access to a journal’s editorial processes, Beall and Cabells rely on proxies 
 for “probable threats” to scholarly integrity, such as unprofessional websites, incomplete mastheads, 
 exaggerated claims, and email spamming.  
- 
-1 Note that author payments of APCs are not the problem, as such fees are common for open access publishing 
-among all the major publishers, especially in the sciences, going back to PubMed Central’s introduction of the 
-APC in 2000. Shen and Björk (2015) found that journals on Beall’s list had an average APC of $178. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-2 
+
 Predatory proxies, however, prove to be problematic. They frequently turn out to apply to well-
 established journals, including top-tier titles (Olivarez et al., 2018).2 They are used by some in 
 equating predatory with open access publishing more broadly, reflecting Beall’s own outspoken 
@@ -79,20 +46,6 @@ concerns about how to facilitate a more open science through open access, open i
 related initiatives, which is where this chapter comes into the picture.  
 Our three-phase study represents a response to the question of what scholarly publishing 
 platform developers and researchers can do to address the combined problem of fake journals and 
- 
-2 See Teixeira da Silva et al. (2022) on how Beall’s criteria are “insufficiently specific, excessively broad, 
-arbitrary with no scientific validation, or incorrect identifiers of predatory behavior,” along with an effort to 
-improve them. 
-3 Recently, on this theme of fraudulence not being confined to questionable publishers, at least two Springer 
-Nature journals were found to have published hundreds of “nonsense articles,” while “Taylor & Francis retracted 
-a special issue because the guest editor had been ‘impersonated by a fraudulent entity’” (Bartlett, 2021). 
-4 Of the 7,000+ papers in Google Scholar on predatory journals, over a thousand refer to it as a “threat” (as 
-does our paper) along these lines: “Predatory journals are a global threat to science (Harvey      & Weinstein 
-2017; Grudniewicz et al., 2019; Strong 2019)” (Oviedo-García, 2021).   
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-3 
 “predatory” mislabeling, both of which are undermining scholarly publishing. The study works with 521 
 journals that are both listed as “predatory” (by Beall and/or Cabells) and employ Open Journal 
 Systems (OJS), a free open source editorial management and publishing platform. While Beall’s list 
@@ -101,6 +54,7 @@ at our request, Stanford University subscribed in 2021 ($3,500). OJS is develope
 Knowledge Project (PKP) at Simon Fraser University and Stanford University. As members of PKP 
 and in the service of full disclosure, we acknowledge two conflicts of interest, as well as a sense of 
 responsibility, that underlie our research into these journals.  
+
 First of all, our findings bear directly on the reputation of PKP’s software and those who 
 employ it for their journals, as well as on the reason for this open source software project, which is to 
 support open access to research as a human right and provide a means of improving this body of 
@@ -112,6 +66,7 @@ source software definition (Wheeler, n.d.).5 Yet rather than taking the typical 
 approach to software’s users, we are prepared to intervene out of a responsibility to assess and affect 
 where OJS fits into the “predatory” picture. Our goal is to better understand the role that open source 
 software and open infrastructure platform developers can play in addressing this issue.  
+
 Our intervention is two-fold: (a) We provide OJS-using publications identified as predatory with 
 ways of addressing the seeming reasons for the label with the goal of improving their scholarly 
 publishing quality; and (b) we are about to add verification technologies and communication strategies 
@@ -122,15 +77,7 @@ first instance, may equip bad actors with a better means of bluffing more author
 place this risk against writing off a substantial body of legitimate research and against new efforts to 
 raise the technical bar for practicing deception in scholarly communication. Still, readers are advised 
 to read this chapter with these conflicts of interest and sense of responsibility in mind. 
- 
-Open Journal Systems 
- 
-5 Note that author payments of APCs are not the problem, as levying such fees is a common way for publishers 
-to offer open access, especially in the sciences, beginning in 2000 with PubMed Central’s open access journals.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-4 
+
 First released in 2002, the use of OJS has grown to 25,671 active journals in 2020, publishing 
 in 155 countries, with 81.7 percent originating in the Global South, led by journals in Indonesia, Brazil, 
 and the USA, and with research published in 56 languages, led by English, Indonesian, and 
@@ -144,27 +91,7 @@ fees nor authors APCs (Alperin et al., 2017; Becerril et al., 2021; Edgar & Will
 largely indexed by Google Scholar and in more limited ways by the Directory of Open Access 
 Journals, the journals utilizing OJS represent an emerging force in research that includes a mix of 
 century-old journals, new and inexperienced publishers, and a few outright crooks.7  
- 
-Figure 1.  
-Journals Use OJS to Publish at Least Five Articles Annually Since 2002.   
- 
-6 A journal using OJS is identified as “active” for a given calendar year if it publishes five or more articles, a 
-standard used by the DOAJ. 
-7 The fraudulent use of OJS is most apparent with the duplication or hi-jacking of authentic journals, completely 
-copied right down to its editors’ names, which then accepts submissions intended for the original (Jalalian & 
-Dadkhah, 2015). The one U.S. criminal conviction for predatory publishing, which resulted in OMICS 
-International publishing group ordered “to pay $50.1 million in damages for deceiving thousands of authors who 
-published in its journals and attended its conferences,” did not involve OJS (Brainard, 2019).  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-5 
- 
-Note. 
-Journals using OJS can upload back issues, which will date the first appearance of the journal in this bar graph 
-ahead of their OJS deployment. 
- 
-Findings 
+
 This study took place in three phases from 2018 to 2021. The initial phase involved reaching 
 out to a small sample of publishers and journals using OJS that appear on Beall’s list and in Cabells 
 Predatory Reports to see if they would be receptive to suggestions on improving their journals’ quality. 
@@ -174,15 +101,10 @@ phases. It proposes ways for the scholarly publishing industry to both verify an
 public a journal’s adherence to scholarly standards, as the long-standing lack of transparency makes 
 predatory practices possible while leading to the uncertainty surrounding, and likely misuse of, the 
 “predatory” label.  
- 
-Phase One: Sample Study of Journal Elements  
+
 In this initial phase, conducted from July to December of 2018, we worked through Beall’s 
 2017 list until we had identified 50 publishers and 51 standalone journals using OJS. We then emailed 
 the publishers and editors and publishers, noting their appearance on Beall’s list and offering to 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-6 
 provide guidance on their journal websites. Of those contacted, 14 publishers (representing 113 
 journals) and two of the standalone journals responded with interest. We then reviewed example 
 journals for each publisher. We were guided, in part, by Beall’s Criteria for Determining Predatory 
@@ -194,6 +116,7 @@ within a month of our emails, while COES&RJ (Center of Excellence for Scientific
 Journalism) responded that it was acting on our advice.8 Three of the fourteen publishers stated that 
 they had unsuccessfully petitioned Beall to take them off the list, while a fourth convinced Beall to 
 note their inclusion in the Directory of Open Access Journals (DOAJ).  
+
 In our analysis of the 14 publishers and two standalone journals, we discovered that seven of 
 the publishers (or 14 percent of the publishers randomly chosen at the outset) did not charge authors 
 for publication, which basically disqualifies them from the Beall and Cabells characterization of  
@@ -202,6 +125,7 @@ nor author charges. In addition, we checked the entire set for compliance with w
 eight key criteria from among Beall’s set (2015), to which we added DOAJ and Google Scholar listings 
 (Table 1). For those that charged authors, only one publisher (Fundamental Journals) did not comply 
 with seven or more of the 10 scholarly standards.  
+
 On the peer-review question, we asked the 14 publishers who responded to our original 
 inquiry, if they would allow us limited use of password access to their peer review process (based on 
 our knowledge of OJS). Five publishers granted us access to a journal (Table 1). In spot-checking an 
@@ -210,330 +134,10 @@ sets of reviews, while the fifth was missing reviews for three articles out of 2
 per article on average, although 24 percent of the reviews contained only a recommendation to 
 publish without comment, suggesting that there is much work to be done on improving peer review 
 quality. In sum, of the original randomly selected 50 publishers using OJS on Beall’s list, 14.0 percent 
-(7 publishers) are not even contenders for this classification; another 12.0 percent, who qualify, are 
- 
-8 The publisher Scholar Science Journals, for example: (a) added names and addresses of editors; (b) publish 
-an annual reviewers list; (c) switched to continuous publication cycle; (d) sent special letters to users to 
-encourage use of ORCiD; (e) included copyright info and applied for DOAJ approval; and (f) added publisher's 
-name and address in footer. In addition to doing (a)-(e), Khalsa Publisher also (g) identified each of its journal’s 
-editors-in-chief; and (h) added a note on the responsibility of reviewers to authors in its section on peer review. 
-The publisher COES&RJ indicated that it was increasing efforts to obtain reviewers and implement technical 
-fixes. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-7 
-Table 1.  
-The Compliance with Beall’s Criteria of Publishers and Journals Participating in Phase One (2018). 
- 
-Journals 
-APC 
-ISSN 
-Address 
-listed 
-Editor  
-named 
-Editor/ 
-journal 
-Board/ 
-journal 
-Review 
-policy 
-DOI 
-applied 
-Proper 
-metrics  
-Google 
-Scholar 
-DOAJ 
-Total 
-/10 
-PUBLISHER 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-AABL (Australian) 
-2 
-Nonea 
-! 
-! 
-! 
-! 
-! 
-! 
-" 
-! 
-! 
-" 
-8 
-ASD Publisher 
-12 
-$100 
-!b 
-! 
-! 
-! 
-! 
-! 
-" 
-! 
-! 
-" 
-8 
-Atlas Publications 
-9 
-None 
-! 
-! 
-! 
-! 
-! 
-!c 
-! 
-! 
-! 
-!b 
-10 
-CESER 
-11 
-None 
-! 
-! 
-! 
-! 
-! 
-! 
-" 
-! 
-! 
-N/Ad 
-8/9 
-COES&RJe 
-1 
-$170 
-! 
-" 
-! 
-" 
-! 
-!c 
-! 
-! 
-! 
-" 
-7 
-EconJournals 
-3 
-$300 
-! 
-! 
-! 
-! 
-! 
-! 
-" 
-! 
-! 
-! 
-9 
-Engineering Pub. House 
-9 
-$80 
-! 
-! 
-! 
-" 
-! 
-! 
-" 
-" 
-! 
-! 
-8 
-Fundamental Journals 
-3 
-$300 
-! 
-" 
-" 
-" 
-! 
-" 
-" 
-! 
-" 
-" 
-3 
-GRDS Publishing 
-4 
-None 
-! 
-! 
-" 
-" 
-! 
-! 
-! 
-! 
-! 
-" 
-7 
-ID Design Press 
-11 
-? 
-! 
-! 
-! 
-" 
-! 
-!c 
-! 
-! 
-! 
-" 
-8 
-Khalsa Publications 
-12 
-$100 
-! 
-! 
-! 
-! 
-! 
-!c 
-! 
-! 
-! 
-! 
-10 
-Scholar Science Journals 
-9 
-$50 
-! 
-! 
-! 
-! 
-! 
-! 
-! 
-! 
-" 
-!b 
-9 
-Speak Foundation 
-4 
-None 
-! 
-! 
-! 
-" 
-! 
-! 
-" 
-! 
-! 
-N/A 
-7/9 
-TathQeef Sci. Publishing 
-22 
-None 
-! 
-" 
-! 
-! 
-! 
-! 
-! 
-! 
-! 
-" 
-8 
-STANDALONE      
-JOURNALS 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-ATScience 
-1 
-None 
-! 
-! 
-! 
-! 
-! 
-! 
-! 
-! 
-! 
-" 
-9 
-Journal of Human Sciences 
-1 
-$35 
-! 
-" 
-! 
-! 
-! 
-!c 
-! 
-! 
-! 
-" 
-8 
-Total or Average 
-115 
-$142 
-16 
-12 
-14 
-9 
-16 
-15 
-9 
-15 
-14 
-6 
-7.8f 
- 
-Note. 
-a No Article Processing Charge (APC) thought to motivate predatory publishing. 
-b Not all the publisher’s journals possess this element or quality. 
-c Journal’s peer review checked for 12 articles on average. 
- 
- 
-d Not open access and thus not qualified for indexing in DOAJ. 
-f COES&RJ: Center of Excellence for Scientific & Research Journalism. 
- 
-f Average for the nine publishers and journals that levy an APC.
-  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-8 
 largely compliant with Beall’s basic criteria, with five of the seven providing direct evidence of peer 
 review. 
- While Beall did not specify the reasons that individual publishers or journals were added to his 
+
+While Beall did not specify the reasons that individual publishers or journals were added to his 
 list, Cabells Predatory Reports (2021) identifies the “violations” for each title, ranking them from 
 “severe” to “minor.” Cabells’ “60+ behavioral indicators” for journals are described as indicative of 
 “misconduct,” “fraudulent operations,” and “probable threats” (Cabells, n.d.). For the journals using 
@@ -548,80 +152,8 @@ common violation, for example, we recommended that the publisher sign up their j
 Preservation Network, available to all journals using OJS and post this as their preservation policy. As 
 the emailing of the publishers was only completed at the point at which we submitted this chapter for 
 publication, we are not in a position to report on its success in helping the publishers.    
- 
-Table 2. Top ten Cabells Predatory Reports "violations" by journal (N=237) with our advice to the publishers. 
- 
- 
-Ran
-k 
-Cabells violation with its (assigned severity) 
-Journals 
-Our 
-advice 
- 
-1 
-No policies for digital preservation. (Moderate) 
-107 (45.1%) 
-(d) 
- 
-2 
-The publisher displays prominent statements that promise rapid publication and/or unusually quick peer 
-review (less than 4 weeks). (Moderate) 
-82 (34.6%) 
-(a) 
- 
-3 
-The journal’s website does not have a clearly stated peer review policy. (Moderate) 
-74 (31.2%) 
-(a) 
- 
-4 
-Poor grammar and/or spelling on the journal or publisher’s website. (Minor) 
-68 (28.7%) 
-(c) 
- 
-5 
-The website does not identify a physical address for the publisher or gives a fake address. (Minor) 
-52 (21.9%) 
-(a) 
- 
-6 
-Dead links on the journal or publisher’s website. (Minor) 
-51 (21.5%) 
-(a) 
- 
-7 
-Authors are published several times in the same journal and/or issue. (Moderate) 
-49 (20.7%) 
-(b) 
- 
-8 
-Little geographical diversity of board members and the journal claims to be International. (Moderate) 
-35 (14.8%) 
-(a) 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-9 
- 
-9 
-No articles are published or the archives are missing issues and/or articles. (Severe) 
-32 (13.5%) 
-(b) 
- 
-10 
-The publisher or its journals are not listed in standard periodical directories or are not widely catalogued in 
-library databases. (Minor) 
-29 (12.2%) 
-(b) 
-Key to our advice to the publishers  
-(a) Take steps to correct. 
-(b) Not a violation of academic standards in our judgment. 
-(c) Place text in Google Docs, which will suggest corrections.  
-(d) 
-Your publishing platform OJS can use (and list) the PKP Preservation Network as a digital preservation policy. 
- 
-     Cabells method of identifying “violations” for each title listed is a step up from Beall’s 
+
+Cabells method of identifying “violations” for each title listed is a step up from Beall’s 
 method of simply adding publishers and journals to its list. Yet there remains a reliance on relatively 
 weak proxies for what may or may not reflect a lack of experience and professional support. As well, 
 the trade-off for this gain in detail is that the journals’ identities, as well as their “violations,” are 
@@ -634,23 +166,19 @@ addressing the “violations” attributed to their publications and for seeking
 that there may yet be a reason for this company to reconsider its contributions to scholarly publishing. 
 This approach might also lead to an increased accuracy of their predatory reports by excluding false 
 positives. 
+
 Nonetheless, our experiment of reaching out to publishers and journals has had limited 
 success. What we found adds to the literature on predatory list overreach. However, a response rate 
 of 28.0 percent among publishers and 3.9 percent among standalone journals, with only two 
 publishers acting on our suggestions, suggests that while this may be the right thing to do, it is not an 
 effective strategy for rectifying this issue, which calls for increasing certainties around identifying 
 fraudulent journals.  
- 
-Phase Two: Journals Using OJS in Beall’s List and Cabells Predatory Reports 
+
 In this phase, we set out to determine the extent to which journals using OJS are identified as 
 “predatory” in Beall’s and Cabells’ lists. In the first instance, we compared the PKP list of journals 
 using OJS with Beall’s final list of predatory publishers and journals, which he suspended in 2017 
 after several publishers and organizations fought back against such listings (Silver, 2017). To 
 establish how many journals Beall’s list ultimately represented in 2018, we counted the journals in a 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-10 
 sample of 231 publishers (19.9 percent of the 1,163 publishers) without regard to the use of OJS 
 (Table 2). The average we found of 24.3 journals per publisher suggested that Beall’s list represents 
 30,968 journals as “predatory,” including the 1,395 standalone journals. We also found that 61.7 
@@ -658,69 +186,14 @@ percent of these journals had not yet published an article, while 6.3 percent di
 proportion that rose to 32 percent by 2021.9  Of journals using OJS, 366 titles are associated with 
 Beall’s list, amounting to 1.2 percent of the journal total for Beall’s List and 1.4 percent of the 25,671 
 active journals known to be using OJS (Table 3).10 
- 
-Table      3. 
-Journals Listed by a Sample of Publishers (n=231) from Beall’s Publisher List (N=1,163).  
- 
-Journal status 
-Journals 
-Percent 
-With published articles 
-1,800 
-32.1% 
-Without articles  
-3,462 
-61.7% 
-Without a website 
-353 
-6.3% 
-Journals listed by publishers 
-5,615 
-100% 
-Average journals/publisher 
-24.3 
- 
- 
- 
-Table      4.  
-Journals Using OJS on Beall’s List (2017) and in Cabells Predatory Reports (2021).  
- 
- 
-Beall's List 
-Cabells PR 
-Total journals 
-30,968 
-7,490 
-Using OJS 
-366a 
-237b 
-Of the predatory total 
-1.2% 
-3.2% 
-Of the OJS total 
-1.4% 
-1.0% 
- 
- 
-Note. 
-a Journals using OJS (N=25,671) that share URLs with publishers and journals on Beall’s List. 
- 
-9 A publisher or journal was considered to possess a website if we received a successful HTTP 200 OK 
-response on pinging its URL with a wait time of 30 seconds.   
-10 Despite the deficiencies to Beall’s projected total, noted above, its seeming size lends great weight to the 
-predatory-journal issue and is used for that reason in this study.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-11 
-b Journals using OJS (n=22,802) with an ISSN matching those on journals in Cabells Predatory Reports. 
- 
+
 For its part, Cabells International was generous enough to undertake a comparison of PKP’s 
 list of journals with those in Predatory Reports by matching the journal’s ISSNs (International 
 Standard Serial Number) across the two lists. Limiting the match to journals with ISSNs reduced 
 Cabells’ list to 7,490 titles (out of 15,470) and the PKP’s to 22,802 (out of 25,671). Within this set, 237 
 journals appeared on both lists, representing 3.2 percent of Cabells list (with ISSNs), and 1.0 percent 
 of the journals using OJS (with ISSNs).  
+
 We examined the overlap among journals using OJS that appear on both the Beall’s and 
 Cabell’s lists (Table 4). We found that 82 journals (0.3 percent of the OJS total) appear on both lists, 
 led by journals published in India and the United States.11 Taken together, a total of 521 journals 
@@ -728,91 +201,7 @@ using OJS appear on one or both predatory lists, amounting to 2.0 percent of the
 using OJS. Between the two lists for those journals using OJS, Cabells appears to have a somewhat 
 greater focus on the Global South, while the country differences between the two lists are likely the 
 result of publishers’ journal sets. 
- 
-Table 5. 
-Top Ten Countries by Journals Using OJS on One or Both of Beall’s List and Cabells Predatory Reports 
-Alone. 
- 
-Beall's list alone (n=284) 
-Both lists (n=82) 
-Cabells' list alone (n=155) 
-Indonesia 
-47 (16.6%) 
-India 
-27 (32.9%) 
-Singapore 
-62 (40.0%) 
-United States 
-47 (16.6%) 
-United States 
-26 (31.7%) 
-India 
-60 (38.7%) 
-India 
-35 (12.3%) 
-Australia 
-7 (8.5%) 
-Bangladesh 
-5 (3.2%) 
-Pakistan 
-22 (7.8%) 
-Indonesia 
-6 (7.3%) 
-Turkey 
-4 (2.6%) 
-Canada 
-20 (7.0%) 
-Bangladesh 
-5 (6.1%) 
-Ukraine 
-4 (2.6%) 
-Romania 
-19 (6.7%) 
-Turkey 
-3 (3.7%) 
-United States 
-4 (2.6%) 
-Kenya 
-16 (5.6%) 
-Jordan 
-2 (2.4%) 
-Australia 
-3 (1.9%) 
-Malaysia 
-12 (4.2%) 
-China 
-1 (1.2%) 
-Belgium 
-3 (1.9%) 
- 
-11 The 82 journals using OJS that appear on both lists represents an overlap of 15.7 percent compared to the 
-31.8 percent overlap between the two lists that Xiotian Chen (2019) found for journals generally (based on a 
-modest sample), while Chen’s finding that 28.5 percent of publisher and journal websites on Beall’s list no 
-longer exist is comparable to our finding of 32.1 percent. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-12 
-Singapore 
-11 (3.9%) 
-Iran 
-1 (1.2%) 
-United Arab Emirates 
-2 (1.3%) 
-United Arab Emirates 
-11 (3.9%) 
-Italy 
-1 (1.2%) 
-Canada 
-1 (0.7%) 
-Total 
-240 (84.5%) 
- 
-79 (96.4%) 
- 
-148 (95.5%) 
- 
- 
+
 We take little comfort from the proportion of journals using OJS on these two lists. An open 
 source publishing platform that is free to download and documents setting up and operating journals 
 might have been expected to be more widely used by fake journals. It may be that OJS’ design, 
@@ -825,13 +214,13 @@ recent list maintained by Cabells Predatory Reports (3.2 percent) than in Beall�
 as Cabells appears to be providing greater coverage of journals in the Global South than Beall. This 
 increase may reflect OJS’ growth rate, which only adds to our responsibilities as platform developers 
 to address this issue.      
+
 Also troubling is the scale of the uncertainty and innuendo to Beall’s list and Cabells Predatory 
 Reports. Yet rather than blame Beall and Cabells International, it may be time to redirect the scholarly 
 publishing technologies that have made this global knowledge exchange possible. New systems are 
 needed that can verify and demonstrate to the public the extent to which these journals adhere to 
 scholarly standards, which bring us to the third phase of this study. 
- 
-Phase Three: A Journal Integrity Plan for OJS 
+
 To support the public value of open access and the global expansion of scholarly publishing, 
 PKP is developing new tools for assessing and communicating scholarly trustworthiness. This will 
 involve journals turning to third-party trade organizations to verify and register who is doing what in 
@@ -841,76 +230,10 @@ standards, before considering more granular and specialized standards around, fo
 trials (Table 5). These systems will depend on the exchange of information between journals and 
 these organizations, with an openness to a level of scrutiny not possible today, whether in seeing the 
 background of a journal’s reviewers or how many reviews a paper is typically subject to. While 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-13 
 involving automated connections and controls, the outcomes will be subject to human review and 
 challenge. Through open source licensing of the connecting technologies, such developments will 
 also be made available to commercial and other platforms.  
- 
-Table      6.  
-Scholarly Publishing Standards for Which Third-Party Verification Systems Are to Be Developed for Journal 
-Publishing Platforms.  
- 
-Standard 
-Level 
-Trade org.a 
-Metrics 
-Additional information 
-Research status 
-Article 
-Crossref, 
-Publons, 
-Retraction 
-Watch 
-Versions, 
-downloads 
-Whether the research is (a) peer-reviewed research, 
-moderated preprint; final draft; or working paper; (b) the latest 
-or an earlier version; (c) a research article, letter, editorial, 
-opinion piece, systematic review, etc.; (d) corrected, withdrawn 
-or retracted; and (e) open access or paywalled.  
-Editorial 
-oversight 
-Journal 
-ORCiD 
-Percent of editorial 
-team displaying 
-ORCiDs 
-ORCiD is a trusted source of academic identities and profiles 
-icons, which provides editors, board members, and reviewers 
-of the journal with an iD that links to their profiles.  
-Peer review 
-Journal  
-ORCiD, 
-Publons 
-Reviewers, period,  
-and rounds 
-Availability of open reviews, and article types subject to peer 
-review.  
-Data deposit  
-Article 
-Dryad, 
-Dataverse, 
-Figshare 
-Data set size; 
-presence of tools 
-Data availability policies and statements for journals, as well as 
-existence of a dataset for replicability and other analytical tools 
-(e.g., Jupyter Notebooks) for articles.  
-Sponsorship 
-Article 
-Crossref  
-No. of funders; 
-average funded  
-Utilizes Crossref Funder Registry, and author conflict-of-
-interest declarations.  
- 
- 
-Note. 
-a Trusted trade organizations to be used as a check on journal adherence to scholarly standards.  
- 
+
 For example, when editors, editorial board members, reviewers, and authors initially register 
 with a journal’s publishing platform, they will be required to log into ORCiD (Fig. 2). To be listed as the 
 editor of a journal would involve a further log in with ORCiD in which this new position would be added 
@@ -920,17 +243,7 @@ have been authenticated and that appeals can be made to ORCiD if anything seems 
 systems may be susceptible to circumvention, as no technology is foolproof, of course, but the effort 
 required to do so without detection will have been greatly increased and in ways that can be further 
 improved in the face of violations.  
- 
-Figure 2.  
-A Hypothetical Example of Two-Way Third-Party Authentication for the Editorial Oversight Standard Using 
-PLOS ONE. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-14 
- 
- 
+
 Then there is the question of how the results of this and other verification systems, whether for 
 peer reviews, indexing, and other elements, will be communicated to readers and authors. Here we 
 have begun to develop a “Publication Facts” label, based on the common FDA Nutrition Facts label 
@@ -942,22 +255,7 @@ will be linked to individual studies, will provide metrics on their compliance w
 detailed explanations of each standard and metric. Such labelling is intended to inform and educate 
 the public and the professions on research standards, while providing a basis for readers to briefly 
 consider or explore in more detail the trustworthiness of research publications. 
- 
- 
-12 See Biology Now with Physiology for an example of a high school textbook that grapples with journal 
-scholarly standards and research quality (Houtman et al., 2018).  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-15 
-Figure 3.  
-The Publication Facts Label to Convey Verification Results to Readers and Authors.  
- 
- 
-Note. “Discipline average,” would draw data from multiple uses of this project within a discipline. A Preprint Facts label 
-would be similar, except that “Editor ORCiD iD” would be “Moderator ORCiD iD” and “Peer Review” would be “Moderation,” 
-with a measure of whether the moderator approves the initial posting and subsequent versions. 
- 
+
 Although the lack of transparency and clarity in the degree to which journals adhere to 
 scholarly standards applies to the larger world of scholarly publishing, these verification and 
 communication systems will also, of course, help reduce the number of journals mislabeled as 
@@ -967,12 +265,7 @@ habit of checking the label before using research, while reading such labels cou
 what high school and college students would learn about science. Such an industry standard for 
 scholarly publishing seems to go hand in hand with universal open access and public support for 
 research.  
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-16 
-Conclusion 
+
 No one doubts that unscrupulous website operators are present in scholarly publishing, much as they 
 are in other fields. Without denying this reality, this study joins others in demonstrating how the lack of 
 transparency at important points in the scholarly publishing process can lead to an over-application of 
@@ -982,6 +275,7 @@ effort. Nowhere is this more apparent than the industry’s current response wit
 Submit.” While it is aimed at assisting authors considering where best to submit their work, it cannot 
 help but foster a broader distrust of the research literature beyond familiar and recognized 
 publications.  
+
 What this study adds to the considerable literature on predatory journals is both evidence and 
 reason for addressing the underlying issues of transparency. By developing verification systems for 
 publishing platforms involving trusted trade organizations, the bar is raised for both those operating 
@@ -993,6 +287,7 @@ trustworthiness of research publications, given their growing open access to res
 standards for verification and authentication, especially as they are attuned to communicating to the 
 public, as well as professionals, the publishing practices that distinguish scholarly publishing, will raise 
 the bar for both legitimate and deceptive journals. 
+
 If we can provide a publicly accessible, trustworthy basis for having greater confidence in a 
 journal’s legitimacy, then services such as Cabells might be willing to shift their efforts from 
 assembling lists of potential offenders to more directly protecting the public interest by working with 
@@ -1000,141 +295,12 @@ those journals in need of corrections and other improvements, while still seekin
 acts of deception and fraudulence. What Jeffrey Beall and Cabells International have exposed, above 
 all, is the need for means of verifying and communicating journal adherence to scholarly standards in 
 an age of open access and global participation in research.  
- 
-Acknowledgements 
+
 Gary Schwartz is to be thanked for undertaking the data collection in phase one of this study; as are 
 Juan Pablo Alperin, Jon Ball, Jonas Raoni, and Alec Smecher for the OJS beacon data set and 
 Miroslav Suzara for the Cabells analysis used in phase two; Juan Pablo Alperin (also for editing), 
 Lauren Maggio, and Laura Moorhead for contributions to phase three; Kyla Chasalow for thoughtful 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-17 
 comments throughout; Doug Dworkin for the graphic design of Fig. 2 and Fig. 3; Kathy Kerns, Shani 
 Braier Marcovitz, Matt Marostica, Sarah Forsetting, Jennifer Uchiyama and Greta deGroat for 
 obtaining Stanford University Libraries access to Cabells Predatory Reports; and Simon Linacre of 
 Cabells International for assistance in identifying journals using OJS in Cabells Predatory Reports. 
- 
- 
-References 
- 
-Alperin, J. A., Stranack, K., and Hanson, E. W. (2017). What is being published with OJS? and by 
-whom? PKP Scholarly Publishing Conference, Montreal. 
-https://speakerdeck.com/jalperin/what-is-being-published-with-ojs-and-by-whom  
-Bartlett, J. (2021, September 28). The mysterious case of the nonsense papers. Chronicle of Higher 
-Education. 
-Beall, J. (2015, January 1) Criteria for determining predatory open-access publishers, 3rd edition. 
-Unpublished document. https://beallslist.net/wp-content/uploads/2019/12/criteria-2015.pdf.  
-Beall, J. (2013). The open-access movement is not really about open access. tripleC: 
-Communication, Capitalism & Critique, 11(2), 589-597. 
-Beall’s list of predatory journals and publishers (n.d.). Retrieved December 25, 2021, from 
-https://bealllist.weebly.com/.  
-Becerril, A., Bjørnshauge, L., Bosman, J. Frantsvåg, J.E., Kramer, B., Langlais, P.-C., Mounier, P. 
-Proudman, V. Redhead, C., & Torny, D. (2021). The OA diamond journals study. 
-https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf  
-     Brainard, J. (2019, April 3). U.S. judge rules deceptive publisher should pay $50 million in 
-damages. Science. https://www.science.org/content/article/us-judge-rules-deceptive-publisher-
-should-pay-501-million-damages 
-Bohannon, J. (2013, October 4). Who's afraid of peer review? Science Magazine 342(6154), 60-65.  
-Cabells Predatory Reports (n.d.). Cabells International. Retrieved December 25, 2021, from 
-https://www2.cabells.com/predatory  
-Chen, X. (2019). Beall’s list and Cabell’s blacklist: A comparison of two lists of predatory OA journals. 
-Serials Review, 45(4), 219-226. 
-Cobey, K. D., Grudniewicz, A., Lalu, M. M., Rice, D. B., Raffoul, H., & Moher, D. (2019). Knowledge 
-and motivations of researchers publishing in presumed predatory journals: A survey. BMJ 
-Open, 9(3), e026516. https://bmjopen.bmj.com/content/9/3/e026516   
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-18 
-Csiszar, A. (2020). The Scientific Journal: Authorship and the Politics of Knowledge in the Nineteenth 
-Century. University of Chicago Press. 
-Demir, S. B. (2018). Predatory journals: Who publishes in them and why? Journal of 
-Informetrics, 12(4), 1296-1311. 
-Edgar, B. D., & Willinsky, J. (2010). A survey of scholarly journals using Open Journal Systems. 
-Scholarly and Research Communication, 1(2). https://src-
-online.ca/index.php/src/article/view/24  
-Grudniewicz A., Moher D., Cobey K. D., Bryson, G. L., Cukier, S., Allen, K., Arden, C., Balcom, L., 
-Barros, T., Berger, M., Buitrago Ciro, J., Cugusi, L., Donaldson, M. R., Matthias, E., Graham, I. 
-D., Hodgkinson, M., Khan, K. M., Mabizela, M., Manca, A., Milzow, K., Mouton, J., Muchenje, 
-M., Olijhoek, T., Ommaya, A., Patwardhan, B., Poff, D., Proulx, L., Rodger, M., Severin, A., 
-Strinzel, M., Sylos-Labini, M., Tamblyn, R., van Niekerk, M., Wicherts, J.M., & Lalu, G. M. 
-(2019,December 11). Predatory journals: No definition, no defence. Nature, 576: 210–2. 
-Nature, https://www.nature.com/articles/d41586-019-03759-y 
-Harvey H. B., & Weinstein D. F. (2017). Predatory publishing: An emerging threat to the medical 
-literature. Academic Medicine, 92, 150–1. 
-Houtman, A., Scudellari, M., & Malone, C. (2018). Biology now with physiology, Norton. 
-Jalalian, M., & Dadkhah, M. (2015). The full story of 90 hijacked journals from August 2011 to June 
-2015. Geographica Pannonica, 19(2), 73-87. 
-http://www.dgt.uns.ac.rs/pannonica/papers/volume19_2_6.pdf.  
-Khanna, S., Raoni, J., Smecher, A., Alperin, J., & Ball, J. (2021). Details of publications using 
-software by the Public Knowledge Project. ScholCommLab’s Dataverse. 
-doi:10.7910/DVN/OCZNVY  
-Krawczyk, F., & Kulczycki, E. (2021). How is open access accused of being predatory? The impact of 
-Beall's lists of predatory journals on academic publishing. Journal of Academic 
-Librarianship, 47(2), 102271. 
-Open Source Initiative ( 2007). Open source definition. https://opensource.org/osd.html   
-Olivarez, J. D., Bales, S., & Sare, L. (2018). Format aside: Applying Beall’s criteria to assess the 
-predatory nature of both OA and non-OA library and information science journals. College and 
-Research Libraries, 79(1). https://crl.acrl.org/index.php/crl/article/view/16614/18461  
-Oviedo-García, M. Á. (2021). Journal citation reports and the definition of a predatory journal: 
-The case of the Multidisciplinary Digital Publishing Institute (MDPI). Research Evaluation, 
-30(3), 405-419. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
- 
- 
-19 
-Pyne, D. (2017). The rewards of predatory publications at a small business school. Journal of 
-Scholarly Publishing, 48(3), 137-160. 
-Shen, C., & Björk, B. C. (2015). “Predatory” open access: A longitudinal study of article volumes and 
-market characteristics. BMC Medicine, 13(1), 1-15. 
-https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0469-2  
-Silver, A. (2017, January 18). Controversial website that lists “predatory” publishers shuts down, 
-Nature. https://www.nature.com/articles/nature.2017.21328   
-STM Report: STM Global Brief 2021 – Economics and market size (2021). International Association 
-of Scientific, Technical and Medical Publishers. Retrieved December 25, 2021, from 
-https://www.stm-
-assoc.org/2021_10_19_STM_Global_Brief_2021_Economics_and_Market_Size.pdf   
-Strong G. (2019) Understanding quality in research: Avoiding predatory journals. Journal of 
-Human Lactation, 35: 661–4. 
-Teixeira da Silva, J. A., Moradzadeh, M., Adjei, K. O. K., Owusu-Ansah, C. M., Balehegn, M., 
-Faúndez, E. I., Janodia, M. D., Al-Khatib, A. (2022). An integrated paradigm shift to deal with 
-“predatory publishing.” Journal of Academic Librarianship, 48(1). 
-https://doi.org/10.1016/j.acalib.2021.102481  
-Think. Check. Submit. (n.d.). Retrieved December 25, 2021, from https://thinkchecksubmit.org/  
-Vainio, N. & Vadén, T. (2007). Free software philosophy and open source. In Kirk St. Amant and 
-Brian Still (Eds.), Handbook of research on open source software: Technological, economic, 
-and social perspectives. Information Science Reference. 
-Wheeler, D. (n. d.). Open Source Software / Free Software (OSS/FS or FLOSS) references. 
-Unpublished paper. Retrieved December 25, 2021, from 
-https://dwheeler.com/oss_fs_refs.html 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.3474
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)
