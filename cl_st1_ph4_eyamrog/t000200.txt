@@ -1,45 +1,3 @@
-Publication status: Preprint has been submitted for publication in journal
-Temporal analysis of leptospirosis incidence according to
-rainfall levels
-João Ghizzo Filho, Nazaré Otília Nazário, Paulo Fontoura Freitas, Gustavo de Araujo Pinto,
-Rodrigo Dias Nunes, Aline Daiane Schlindwein
-https://doi.org/10.1590/SciELOPreprints.748
-Submitted on: 2020-06-10
-Posted on: 2020-06-11 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-1 
- 
-Temporal analysis of leptospirosis incidence according to 
-rainfall levels 
- 
-João Ghizzo Filho1,2 0000-0003-2287-9653 
-Nazaré Otília Nazário1,2 0000-0001-5201-1391 
-Paulo Fontoura Freitas1 0000-0001-7214-7237 
-Gustavo de Araujo Pinto1 0000-0002-7428-2026 
-Rodrigo Dias Nunes1,2 0000-0002-2261-8253 
-Aline Daiane Schlindwein2 0000-0003-0996-6242 
- 
-1Medical School, Universidade do Sul de Santa Catarina – Palhoça (SC), Brazil. 
-2Graduate Program in Health Sciences, Universidade do Sul de Santa Catarina – 
-Palhoça (SC), Brazil. 
- 
-Corresponding author: João Ghizzo Filho – Rua Frei Caneca, 180, ap. 301 – 
-Agronômica 
-– 
-CEP: 
-88025-000 
-– 
-Florianópolis 
-(SC), 
-Brazil 
-– 
-E-mail: 
-aquilesjoao.joao@gmail.com  
- 
-ABSTRACT 
 The aim of this study was to analyze the temporal trend of leptospirosis incidence 
 according to rainfall levels in Santa Catarina State between 2005 and 2015. This is an 
 ecological time-series study involving data on leptospirosis incidence and rainfall 
@@ -54,19 +12,11 @@ Grande Florianópolis and Northeast) were responsible for 71.8% of the cases,
 particularly in the Northeast region (38.5%). The five regions with the highest rates 
 presented greater risk of leptospirosis (RR > 1), ranging from 10.9 to 19.9 more new 
 cases of the disease. The average rainfall volume for Santa Catarina State was 158.69 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-2 
- 
 mm, ranging from 136.44 mm in Laguna to 186.81 mm in the Northeast. The five 
 regions contributed with 32.8% of the rainfall index accumulated in the period. In 
 conclusion, leptospirosis occurred all around Santa Catarina State, differing its temporal 
 trend according to the Health Regions. 
-Keywords: leptospirosis; zoonoses; incidence. 
- 
-INTRODUCTION 
- 
+
 Leptospirosis is a widespread and prevalent seasonal zoonotic disease caused by 
 pathogenic spirochetes of the genus Leptospira. The incidence of the disease, according to 
 the World Health Organization, is higher in countries with tropical climate1. It is among 
@@ -79,31 +29,31 @@ cuts or abraded skin, mucous membranes, or conjunctiva. It is recognized as an
 occupational illness (rice farmers, abattoir and sewer workers, pet traders, veterinarians, 
 laboratory and military personnel) both in developed and developing countries, common in 
 urban areas, and is often associated with a lack of local basic sanitary conditions4-6. 
+
 In Brazil, leptospirosis is an endemic disease, becoming epidemic in rainy periods or 
 major climatic events (flooding), affecting particularly low-income populations living in 
 rodent-infested, flood-prone slums, which occur mainly in capital cities and metropolitan 
 areas. The magnitude of the risk depends on the local prevalence of leptospirosis and the 
 degree and frequency of exposure4-8. 
+
 The leptospirosis incidence is seasonal, usually with a peak in the summer and fall in 
 temperate climate countries, and during the rainy seasons in tropical areas9. It is considered 
 an emerging infectious disease, since its burden is expected to worsen, in both developed 
 and developing countries, as global climate changes cause more extreme weather events, 
 such as floods, promoting leptospirosis outbreaks9,10. 
+
 Leptospirosis can be related to the process of disordered occupation, with 
 construction of houses in floodplain areas and lack of basic infrastructure. The 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-3 
- 
 transformation of the environment, with the clear degradation of space, may take the place 
 to an unhealthy scenario, risk area for various ailments, including leptospirosis4,7,11. 
+
 There were 20,810 confirmed cases in Brazil from 2010 to 2014, representing an 
 annual average of 4,160 cases. The largest number of cases was observed in the Southeast 
 (7,457) and South (6,030) Brazilian regions, and the states with the highest percentage of 
 confirmed cases were São Paulo (20.9%), Santa Catarina (10.7%), Rio Grande do Sul 
 (10.6%), and Acre (10.5%). In the same period, the country recorded an average incidence 
 of 2.1/100,000 inhabitants of cases of leptospirosis4,5. 
+
 Therefore, conducting studies of temporal trend is appropriate in order to analyze the 
 association of leptospirosis with the rainfall indexes in Santa Catarina State and its Health 
 Regions, considering that there are few studies about leptospirosis and its relationship with 
@@ -111,15 +61,15 @@ the rainfall levels, and the potential contribution of epidemiological surveilla
 assessment and management. Such studies increase the ability to respond to natural 
 disasters in Santa Catarina and contribute to measures for the prevention and control of 
 leptospirosis to be more effective. 
+
 The aim of this study was to analyze the leptospirosis occurrence in accordance with 
 the rainfall and the disease temporal evolution in Santa Catarina State and in the State’s 
 Health Regions, according to seasonality, in the period from 2005 to 2015. 
- 
-METHODS 
- 
+
 An ecological study of time-series analysis was carried out, based on data from 
 health authorities’ notifications of patients with leptospirosis in Santa Catarina, in the 
 period from 2005 to 2015.  
+
 Santa Catarina’s territory is characterized by a humid subtropical climate with either 
 hot or mild summers. Hot summers occur on the coastal lowlands and in parts of the lower 
 altitude plateau, in the far west and in the Uruguay river valley. In these areas, the average 
@@ -128,45 +78,46 @@ in the rest of the plateau, with an average annual temperature of around 15ºC, 
 pronounced differences between winter and summer temperatures, and rains that resemble 
 those in the regions initially mentioned, parts of which in the form of frosts and snow12-14. 
 Thus, there is a variation in the monthly rainfall in Santa Catarina, the highest values 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-4 
- 
 occurring in the north coastal region, between the months of October and March. The 
 lowest rain precipitation is seen on the south coast. 
+
 The new managerial and administrative organization of the Health Policy of Santa 
 Catarina was structured in 16 Health Regions, according to Resolution No. 348 of August 
 30th, 2012, as depicted on a representative map (Figure 1), with the following 
 composition14:  
+
 1. Far West;  
+
 2. West;  
+
 3. Xanxerê;  
+
 4. Alto Vale do Itajaí;  
+
 5. Foz do Rio Itajaí;  
+
 6. Médio Vale do Itajaí;  
+
 7. Grande Florianópolis;  
+
 8. Midwest;  
+
 9. Alto Vale do Rio do Peixe;  
+
 10. Alto Uruguai Catarinense;  
+
 11. Northeast; 
+
 12. Planalto Norte;  
+
 13. Serra Catarinense;  
+
 14. Santa Catarina Far South;  
+
 15. Carbonífera;  
+
 16. Laguna.  
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-5 
- 
- 
-Figure 1. Representative map of the 16 Health Regions of Santa Catarina.  
-Source: Pandolfo et al.14.  
- 
- 
+
 The information collected consists of data on leptospirosis and rainfall rates for Santa 
 Catarina State, from 2005 to 2015. The sample, based on a series of 11 years, ensures data 
 representativeness. The information survey on confirmed cases of leptospirosis was 
@@ -181,13 +132,9 @@ Santa Catarina — EPAGRI/CIRAM). Recorded daily precipitation data were obtaine
 from 155 rainfall stations, distributed throughout Santa Catarina, from 2005 to 2015. From 
 these data, the average monthly precipitation by municipality, by Health Regions, and for 
 Santa Catarina were calculated. Data regarding the current population of Santa Catarina 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-6 
- 
 and the respective Health Regions were obtained from the Brazilian Institute of Geography 
 and Statistics (Instituto Brasileiro de Geografia e Estatística — IBGE) website. 
+
 The outcome variable is represented by the number of monthly cases of leptospirosis. 
 The monthly rates of incidence as a whole were calculated in the period for each group of 
 months. Adjustment for potential variations in the age structure and gender, upon 
@@ -197,6 +144,7 @@ its monthly average and the rate of the disease in the period studied are displa
 chosen to present the non-standardized rates, whenever a significant correlation (r > 0.90) 
 was found when comparing the raw and standardized rates, thus retaining the original 
 value of the rates, understood as more representative and interpretable. 
+
 The distribution of cases of leptospirosis and the rainfall indexes were first obtained 
 in accordance with each one of the Health Regions. For each of the 16 regions, the 
 following data are presented: the number of leptospirosis cases, the average rates of the 
@@ -206,12 +154,14 @@ in the incidence of diagnosis, upon comparing the 16 regions, ratios of monthly
 leptospirosis rates were calculated, taking as a reference the month with the lowest rate in 
 the period (Serrana). The probability of leptospirosis occurrence when comparing each of 
 the regions with that of reference is represented by the relative risk (RR).  
+
 Exploratory analysis of monthly trends over the period detected the existence of a 
 pattern with two distinct seasonal periods, the first (from April to September) with low 
 rainfall levels and the second (from October to March) with higher rainfall levels. Thus, 
 the investigation of temporal associations between exposure (rain) and outcome 
 (leptospirosis) in the present analysis, in addition to the monthly evolution in the period as 
 a whole, focused on the existence of two distinct seasonal periods.  
+
 Linear regression analysis of the association between leptospirosis cases and 
 variations in rainfall levels was carried out for the period and the population as a whole, 
 according to the Health Region. In the investigation of the temporal evolution in the 
@@ -219,15 +169,11 @@ monthly occurrence of leptospirosis, the monthly incidence rates of the disease 
 the dependent variable, i.e., the outcome (y); and, the months in the studied period, the 
 independent variable (x). Thus, in the proposed model, monthly variations in leptospirosis 
 cases are supplied by the angular coefficient (beta), from the adjustment of linear 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-7 
- 
 regression, having the months in the calendar year as dependent variable. The trend 
 analysis applied the method of Prais-Winsten generalized linear regression, according to 
 Gaynor and Kirkpatrick15, in which the regression parameters are corrected for first-order 
 autocorrelation.  
+
 For each Region, in addition to leptospirosis rates, the magnitude of the associations 
 among months of occurrence and leptospirosis rate are presented, represented by the 
 coefficient of correlation (r) and the proportion of variation in disease occurrence, which 
@@ -237,32 +183,26 @@ Variation (MPV), which adjusts the points of temporal series through the logarit
 transformation of the values of Y, with additional benefits by reducing the heterogeneity of 
 variance of residues from regression, obtained by the formula: MPV = [-1+10b1]*100%. 
 The trends of increase, decrease or stability, and their p-value are presented.  
+
 Finally, associations were graphically explored among the variations in the rates of 
 leptospirosis according to the seasonal period, stratifying according to the eight regions 
 that showed the highest and lowest rates of leptospirosis and the lowest and highest ratios 
 of cases by rainfall, in search for a potential cumulative influence of rain on the incidence 
 of the disease. 
+
 This study was based on the ethical principles of Resolution 466/12 of the National 
 Health Council, having been approved by the Research Ethics Committee under CAAE 
 No. 60174117.0.0000.5369. 
-RESULTS 
- 
+
 In the period from 2005 to 2015, there were 5,274 cases of leptospirosis in Santa 
 Catarina, with an annual average of 479 cases, ranging from 341 cases in 2013 to 982 cases 
 in 2008.  
+
 The average monthly variation of cases stratified according to seasonal periods can 
 be identified in Figure 2. An average increase was detected in leptospirosis cases from 
 October to March, followed by a decline, from April on, initiating a period of decline until 
 the beginning of August. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-8 
- 
- 
-Figure 2. Average monthly variation of leptospirosis according to the seasonal period. 
-Santa Catarina, Brazil, 2005–2015. 
- 
+
 Table 1 shows the seasonal variation of cases and rainfall indexes in Santa Catarina 
 (2005–2015), according to the 16 Health Regions. An average number of 329 cases of 
 leptospirosis by Health Region in the period showed minimal variability of 24 cases (Serra 
@@ -281,167 +221,17 @@ compared to the region with the lowest rate in the period (Serra Catarinense). T
 rainfall rate for Santa Catarina was 158.69 mm, with extremes of 136.44 mm in the region 
 of Laguna to 186.81 mm in the Northeast region. The five regions, described above, with 
 the highest rates of leptospirosis, contributed with 32.8% of the rainfall accumulated in the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-9 
- 
 period, two of which, Far West and Northeast, presented both the highest leptospirosis and  
 average rainfall rates.  
- 
-Table 1. Seasonal distribution of leptospirosis and rainfall indexes according to Health 
-Regions. Santa Catarina, Brazil, 2005–2015. 
- 
-Health Regions 
-Cases of leptospirosis 
-Rainfall indexes 
-n (%) 
-Mean rate 
-RR 
-Mean (mm) 
-% 
-C/PI 
-(1) Far West  
-300 (5.7) 
-11.18 
-15.97 
-179.55 
-7.07 
-1.67 
-(2) West 
-200 (3.8) 
-5.15 
-7.36 
-165.71 
-6.53 
-1.21 
-(3) Xanxerê  
-28 (0.5) 
-1.23 
-1.76 
-166.32 
-6.55 
-0.17 
-(4) Alto Vale do Itajaí  
-156 (3.0) 
-4.83 
-6.90 
-142.16 
-5.60 
-1.10 
-(5) Foz do Rio Itajaí  
-510 (9.7) 
-7.65 
-10.93 
-160.75 
-6.33 
-3.17 
-(6) Médio Vale do Itajaí  
-819 (15.5) 
-10.23 
-14.61 
-150.45 
-5.93 
-5.44 
-(7) Grande Florianópolis 
-1,001 (19.0) 
-8.24 
-11.77 
-154.84 
-6.10 
-6.46 
-(8) Midwest  
-5 (0.9) 
-2.32 
-3.31 
-171.00 
-6.73 
-0.29 
-(9) Alto Vale  
-42 (0.8) 
-1.28 
-1.83 
-149.67 
-5.87 
-0.28 
-(10) Alto Uruguai  
-123 (2.3) 
-7.43 
-10.61 
-176.64 
-6.99 
-0.70 
-(11) Northeast  
-1,458 (27.6) 
-13.99 
-19.99 
-186.81 
-7.36 
-7.80 
-(12) Planalto Norte  
-77 (1.5) 
-1.81 
-2.86 
-141.16 
-5.56 
-0.55 
-(13) Serra Catarinense  
-24 (0.5) 
-0.70 
-1.00 
-150.81 
-5.94 
-0.16 
-(14) Extremo Sul  
-44 (0.8) 
-2.03 
-2.90 
-151.64 
-5.97 
-0.29 
-(15) Carbonífera  
-141 (2.7) 
-3.01 
-4.30 
-155.09 
-6.11 
-0.91 
-(16) Laguna  
-301 (5.7) 
-7.48 
-10.69 
-136.44 
-5.37 
-2.21 
-State of Santa Catarina 5,274 (100.00) 
-5.54 
-7.91 
-158.69 
-100 
-2.02 
-Mean rate: number of cases of leptospirosis/100,000 inhabitants (population in 2010); 
-RR: relative risk; C/PI: cases of leptospirosis/pluviometric index. 
- 
+
 The average number of cases of leptospirosis by rainfall rate for Santa Catarina was 
 2.02 cases per mm of rain. This number varied from 0.16 cases/PI in Serra Catarinense to 
 7.8 cases/PI in the Northeast region. Of the five regions previously described as possessing 
 the highest rates of leptospirosis, four of them (Foz do Rio Itajaí, Médio Vale do Itajaí, 
 Grande Florianópolis, and the Northeast region) presented the highest numbers of cases 
 generated per unit of PI, representing 71.8% of the total cases of leptospirosis generated 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-10 
- 
 throughout Santa Catarina, in the period of study.  
-Figure 3 presents differences when comparing the four Health Regions with the 
-highest and the lowest rainfall levels.  
- 
-.
- 
-Figure 3. Cases of leptospirosis according to the rainfall indexes (lower and higher) in 
-the Health Regions. Santa Catarina, Brazil, 2005–2015. 
- 
+
 The results of the linear regression for Santa Catarina, stratified by Health Regions 
 and seasons, are presented in Table 2. At this stage of the analysis, an investigation on the 
 temporal trend in the incidence of leptospirosis was conducted, based on the months for 
@@ -452,265 +242,19 @@ period, as well as to seasonal periods observed individually, both those with hi
 lower rainfall rates. Still, based on the MPV, Santa Catarina presented temporal trend of 
 monthly increase in the rates of leptospirosis, in the period of higher rainfall rates; and a 
 decrease in the period with lower ones. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-11 
- 
-Table 2. Linear regression for temporal trend of leptospirosis according to seasonal periods and Health Regions of Santa Catarina (2005–2015). 
-Index: number of cases of leptospirosis / 100,000 inhabitants (population in 2010); R: correlation coefficient; R2: determination coefficient; 
-MPV: monthly percentage variation. 
- 
- 
-Health Region 
-Seasonal periods 
- 
-October – March 
-April – September 
-Total 
-Inde
-x 
-R 
-R2 
-MPV 
-Trend 
-p-value Index 
-r 
-R2 
-MPV 
-Trend 
-p-value Index p-value 
-Northeast 
-19.82 0.87 
-0.75 
-33.6 
-Increasing 
-0.024 
-8.16 
--0.79 0.63 
--14.0 
-Stability 
-0.060 
-13.99 
-0.007 
-Médio Vale do Itajaí  15.87 0.29 
-0.09 
-50.3 
-Stability 
-0.574 
-4.60 
-0.16 
-0.03 
-18.8 
-Stability 
-0.764 
-10.23 
-0.002 
-Far West 
-14.46 0.88 
-0.77 
-37.7 
-Increasing 
-0.022 
-7.91 
--0.78 0.61 
-3.4 
-Stability 
-0.068 
-11.18 
-0.042 
-Foz do Rio Itajaí  
-11.91 -0.07 0.04 102.5 
-Stability 
-0.901 
-3.39 
-0.36 
-0.13 
-34.9 
-Stability 
-0.485 
-7.65 
-0.236 
-Grande Florianópolis  10.89 0.90 
-0.80 
-27.0 
-Increasing 
-0.017 
-5.58 
--0.72 0.52 
--4.4 
-Stability 
-0.101 
-8.24 
-0.003 
-Laguna 
-9.64 0.91 
-0.82 
-25.1 
-Increasing 
-0.013 
-5.31 
-0.24 
-0.06 
-9.3 
-Stability 
-0.644 
-7.48 
-0.002 
-Alto Uruguai 
-8.41 - 0.84 0.71 
-32.1 
-Increasing 
-0.035 
-6.4 
--0.79 0.63 
--19.4 
-Decreasing 
-0.057 
-7.43 
-0.516 
-West 
-5.83 - 0.78 0.61 
-27.9 
-Stability 
-0.187 
-4.5 
-- 0.69 0.48 - 15.24 
-Stability 
-0.125 
-5.15 
-0.373 
-Alto Vale Itajaí 
-5.64 - 0.06 0.01 
-9.4 
-Stability 
-0.261 
-4.08 
-0.69 
-0.48 
-43.5 
-Stability 
-0.127 
-4.83 
-0.316 
-Carbonífera 
-3.93 - 0.88 0.78 
-62.1 
-Stability 
-0.071 
-2.1 
-0.43 
-0.19 
-41.1 
-Stability 
-0.388 
-3.01 
-0.006 
-Midwest 
-3.15 0.87 
-0.75 
-74.5 
-Increasing 
-0.025 
-1.48 
--0.62 0.39 
--73.6 
-Stability 
-0.187 
-2.32 
-0.148 
-Far South  
-2.58 0.46 
-0.21 
-22.3 
-Stability 
-0.362 
-1.47 
-0.12 
-0.01 
-68.3 
-Stability 
-0.981 
-2.03 
-0.122 
-Planalto Norte  
-2.07 0.47 
-0.22 
-91.5 
-Stability 
-0.351 
-1.55 
--0.45 0.20 
-100.3 
-Stability 
-0.373 
-1.81 
-0.495 
-Alto Vale  
-1.94 0.45 
-0.20 
-73.2 
-Stability 
-0.380 
-0.61 
--0.79 0.63 
--37.5 
-Decreasing 
-0.059 
-1.28 
-0.097 
-Xanxerê  
-1.76 0.62 
-0.39 
-20.5 
-Stability 
-0.188 
-0.71 
--0.52 0.27 
-0.0 
-Stability 
-0.286 
-1.23 
-0.056 
-Serra Catarinense  
-0.93 0.85 
-0.72 
-59.3 
-Increasing 
-0.032 
-0.46 
--0.18 0.03 
--36.7 
-Stability 
-0.738 
-0.70 
-0.051 
-State of Santa Catarina 9.74 0.83 
-0.69 25.09 Increasing 
-0.040 
-4.32 
-0.60 
-0.36 
--3.05 
-Stability 
-0.212 
-5.43 
-0.020 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-12 
- 
+
 Results of the linear regression showed a positive correlation among rates of 
 leptospirosis and rainfall in the period with the greatest rainfall volume (r = 0.83), in the 
 same way, the coefficient of determination (R2) for the same period was 69% in the 
 variability of disease rates . 
+
 Still, at the same time, the MPV points to an average monthly increase of 
 approximately 25% in the number of cases of leptospirosis. In the period from April to 
 September, it was possible to observer a positive correlation (r = 0.60), an explanatory 
 power for the rates of leptospirosis as a consequence of Santa Catarina’s rainfall volumes 
 (R2 = 0.36), and an average drop (MPV) of 3.05% in the interpretation of the monthly 
 trend. 
+
 Results of the linear regression stratified by Health Region showed a trend of 
 increasing rates of disease associated with the volume of rainfall for the period with higher 
 rainfall indexes (October to March) for all regions, regardless of the magnitude of the 
@@ -720,29 +264,25 @@ Correlations among rates of leptospirosis and rainfall volume (r > 0.80) accompa
 their explanatory powers (R2) were found in this period in the Northeast, the Far West, 
 Grande Florianópolis, Laguna, Alto Uruguai, Carbonífera, Midwest, and Serra Catarinense 
 regions.  
+
 Upon observing the eight Health Regions with the highest rates of leptospirosis and 
 the greatest ratios of cases by precipitation index, the average rate of leptospirosis ranged 
 from 12.1 cases per 100,000 inhabitants (higher rainfall levels) to 5.73 cases/100,000 
 inhabitants (lower rainfall levels), a drop of 52.7%. On the other hand, for the eight Health 
 Regions with the lowest rates and lowest rainfall indexes, this variation was 2.75 to 1.56 
 cases/100,000 inhabitants (a decrease of 43.3%).  
+
 In turn, among the eight Health Regions with the highest rates, MPV dropped from 
 42.1 to 1.7% (96% decrease), when comparing the periods of higher rates and rainfall 
 (October to March) to the period of lower rates and rainfall (April to September). For the 
 eight regions with less high rates and rainfall, MPV dropped from 51.6% in the period 
 from October to March, to 13.2%, in the period from April to September (a decrease of 
 74.4%). 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-13 
- 
-DISCUSSION 
- 
+
 The present study, upon investigating the seasonal leptospirosis variability, 
 confirmed the assertion that correlates rainier periods to the increase in the number of cases 
 of the disease. 
+
 The investigation of the association between leptospirosis rates and the regional 
 dimension, although heterogeneous, identified a relationship between the incidence of the 
 disease and the rainfall variation. The current study highlights that the distribution of cases 
@@ -754,45 +294,48 @@ of the disease in flood areas, given that the countries located in the tropics w
 for 73% of estimated cases of leptospirosis in the world. Pelissari et al.11, in a systematic 
 review, identified seven studies conducted in Brazil, which associated the occurrence of 
 leptospirosis with rain and/or flooding.  
+
 The study by Coelho and Massad17, held in São Paulo, showed a correlation between 
 the climatic parameters and leptospirosis incidence. Oliveira et al.18 and Pereira et al.19 
 identified that the disease incidence was related to rainfall. It is worth mentioning that 
 these studies have also identified the disease occurring in different seasons and pointed to 
 the need for an active search in other periods, detecting thus, other factors associated with 
 the disease, regardless of the rain. 
+
 The current research stratified by Health Regions, upon taking into account the 
 heterogeneity in the distribution of rainfall in Santa Catarina, brings important information 
 under the focus of the geography of leptospirosis in the state. The Northeast, the Far West, 
 Médio Vale do Itajaí, Grande Florianópolis, and Foz do Rio Itajaí accounted for more than 
 three-quarters of the cases. The Northeast region alone was responsible for almost 30%. 
+
 A variation of rainfall rates per month in Santa Catarina has been reported by Coan et 
 al.13, being that the highest values occurred in the north coast, between the months of 
 October and March, and the lowest ones in the south coast, in the months from April to 
 September, with greater precipitation in the vale do Rio Itajaí and in the west of the State. 
 These data corroborate the findings of the present study, which identified in these regions 
 and in the same periods the occurrence of higher rates of incidence of leptospirosis. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-14 
- 
+
 A study conducted in Portugal by Mottola20, in the Autonomous Region of the 
 Azores, in particular on the islands of São Miguel and Terceira, found that the incidence 
 rate is ten times higher when compared to the mainland. This situation was justified by the 
 conditions of moisture and average temperatures of subtropical climate in the region of the 
 islands, thereby promoting the spread of leptospirosis, with a greater number of cases 
 registered from September to January.  
+
 In Brazil, Paula21, upon describing the occurrence of leptospirosis and its spatial 
 distribution, identified that, generally speaking, the highest incidence of the disease took 
 place from October to March, with some regions registering distinct rainfall rates, with 
 rainy seasons in the fall, such as the Northeastern coast.  
+
 In the same way, Guimarães et al.7, Oliveira et al.18, and Dutra et al.22 identified the 
 occurrence of leptospirosis in different periods of the year, with peak incidence of the 
 disease associated with the precipitation index and, above all, obeying the regional 
 characteristics.  
+
 Lastly, the rainfall levels and the registration of cases were markedly associated with 
 the period of greater rainfall by Health Regions, including the months from October to 
 March.   
+
 The highest rates were found for the Northeast and the Far West regions, and the 
 lowest for Serra Catarinense and Xanxerê. Results of the linear regression according to the 
 Health Region and seasonal period, for the period with higher rainfall levels, show a 
@@ -804,20 +347,17 @@ leptospirosis cases in shorter periods. These results contrast with quite differ
 irregular occurrences, upon observing the results for the seasonal period with the lowest 
 rainfall levels, with lower rates of disease and with a large number of regions showing 
 negative monthly percentage variations.   
+
 The stratification of the results, in accordance with the eight regions and the highest 
 rates of leptospirosis and the highest cases-rainfall ratio, pointed out not only to the 
 influence of rainfall levels in the rates of leptospirosis, represented by the two seasonal 
 periods, in the occurrence of new cases of the disease. It is also observed, importantly, the 
 cumulative effect of rainfall on the incidence of the disease. This situation is illustrated 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-15 
- 
 when comparing the ratio of new cases by rainfall, linearly following the growth rates for 
 the eight regions with higher rainfall and leptospirosis rates (r = 0.91; p = 0.013), in 
 contrast to the same ratio among the eight regions, with less high rainfall and lower rates of 
 leptospirosis, where this relationship was not observed (r = 0.24; p = 0.644).  
+
 Several studies7,22-24 which present the temporal trend of leptospirosis and rainfall 
 rates confirm results of the present research. Results from Guimarães et al.7, in addition to 
 corroborating the association between rainfall and disease, emphasize that the relative risk 
@@ -828,6 +368,7 @@ incidences in two different periods. These results are in line with the present 
 showing a RR of more than three times (RR > 3.0; p < 0.01) in the incidence of 
 leptospirosis, when comparing the period from December to March with the month of 
 August. 
+
 In the same way, Dutra et al.22, in Minas Gerais State, Brazil, upon investigating the 
 occurrence of the disease over the months, from 1998 to 2012, observed that leptospirosis 
 rates showed an increasing trend in the rainy months. On the other hand, Pereira et al.19, 
@@ -839,21 +380,19 @@ pursuit of the disease is more active during rainy periods. Finally, Buzzar23, u
 analyzing the epidemiological profile of leptospirosis in São Paulo (2007–2011), also 
 found that the disease focused in all 28 groups of epidemiological surveillance, throughout 
 the year and with clear seasonality, according to the findings of the present study.  
+
 It is emphasized that the control of leptospirosis is based on interventions on one or 
 more links known to the epidemiological chain, with potential ability to interrupt it. Based 
 on the analyzes performed in this study for Santa Catarina, it can be said that the 
 preventive measures and the fight against leptospirosis should be established at the 
 municipal level. This approach may provide the details necessary for the identification of 
 critical areas and their population who are at greater risk of contracting the disease.  
+
 It is noteworthy, however, that the morbidity data related to leptospirosis may be 
 underestimated in this analysis, due to the fact that this is a disease that can be confused 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-16 
- 
 with other febrile conditions. In addition, most of the notifications are from hospital 
 records, consequently of those cases that exhibit more severe forms of the illness.  
+
 It should be noted that a potentiating factor in the spread of leptospirosis is to be 
 present in heavy seasonal rains that cause floods, even when the rains are of lesser volume, 
 once that the waterproofing of the soil interferes in the absorption of water and favors the 
@@ -861,200 +400,9 @@ flooding increase. It is also believed that in periods with more rains and, cons
 more floods, the leptospirosis dissemination is larger, both for the population and for 
 health professionals, and, of course, the demand for health services is faster, with earlier 
 and more appropriate diagnosis and treatment.  
+
 In conclusion, leptospirosis focused in all the 16 Health Regions. Four regions 
 caught our attention (Northeast, Grande Florianópolis, Médio Vale do Itajaí, Foz do Rio 
 Itajaí), responsible in its entirety for 71.8% of the cases in Santa Catarina. The Northeast, 
 Grande Florianópolis, Médio Vale do Itajaí, Foz do Rio Itajaí and Far West regions 
 presented higher risks of leptospirosis incidence. 
- 
-CONFLICT OF INTERESTS 
-There is no conflict of interests. 
-FUNDING 
-None. 
-AUTHORS’ CONTRIBUTION 
-João Ghizzo Filho was responsible for the conception of the study design and data collection. 
-Nazaré Otília Nazário contributed with the writing of the manuscript and its revision. Paulo 
-Fontoura Freitas carried out data analysis and interpretation. Gustavo de Araujo Pinto and 
-Rodrigo Dias Nunes approved the final version of the manuscript to be published. Aline 
-Daiane Schlindwein was responsible for the final revision of the manuscript. 
- 
- 
- 
-REFERENCES 
- 
-1. Organización Mundial de la Salud, Organización Panamericana de la Salud y 
-Sociedad Internacional de Leptospira. Leptospirosis humana: guía para el diagnóstico, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-17 
- 
-vigilancia y control [Internet]. 2008 [cited on Jul., 2017]. Available at: 
-http://www.med.monash.edu.au/microbiology/staff/adler/guia-esp.pdf 
- 
-2. Diament D, Lomar AV, Brito T. Leptospiroses. In: Veronesi R, Fogaccia R, editores. 
-Tratado de infectologia. 5ª ed. São Paulo: Atheneu; 2015. p. 1519-35. 
-  
-3. Damasco PV, Menezes VM, Friedrich AW. Leptospirose. In: Tavares W, Marinho 
-LAC, editores. Rotinas de diagnóstico e tratamento das doenças infecciosas e 
-parasitárias. 4ª ed. São Paulo: Atheneu; 2015. p. 753-60.  
- 
-4. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de 
-Vigilância das Doenças Transmissíveis. Leptospirose: diagnóstico e manejo clínico. 
-Brasília: Ministério da Saúde; 2014. 
- 
-5. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Coordenação Geral 
-de Desenvolvimento da Epidemiologia em Serviços. Guia de Vigilância em Saúde 
-[Internet]. Brasília: Ministério da Saúde; 2017 [cited on Jul., 2017]. 705 p. Available at: 
-portalarquivos.saude.gov.br/images/pdf/2017/outubro/06/Volume-Unico-2017.pdf 
- 
-6. 
-Levett 
-PN. 
-Leptospirosis. 
-Clin 
-Microbiol 
-Rev. 
-2001;14(2):296-326. 
-https://doi.org/10.1128/cmr.14.2.296-326.2001 
- 
-7. Guimarães RM, Cruz OG, Parreira VG, Mazoto ML, Vieira JD, Asmus CIRF. 
-Análise temporal da relação entre leptospirose e ocorrência de inundações por chuvas 
-no município do Rio de Janeiro, Brasil, 2007-2012. Ciên Saúde Coletiva. 
-2014;19(9):3683-92. https://doi.org/10.1590/1413-81232014199.06432014 
- 
-8. Vasconcelos CH, Fonseca FR, Lise MLZ, Arsky MLNS. Fatores ambientais e 
-socioeconômicos relacionados à distribuição de casos de leptospirose no Estado de 
-Pernambuco, Brasil, 2001-2009. Cad Saúde Coletiva. 2012;20(1):49-56. 
- 
-9. Lehmann JS, Matthias MA, Vinetz JM, Fouts DE. Leptospiral Pathogenomics. 
-Pathogens [Internet]. 2014 [cited on Jun 30, 2016];3(2):280-308. Available at: 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-18 
- 
-https://dx.doi.org/10.3390%2Fpathogens3020280  
- 
-10. Picardeau M. Diagnosis and epidemiology of leptospirosis. Med Mal Infect. 
-2013;43(1):1-9. https://doi.org/10.1016/j.medmal.2012.11.005 
- 
-11. Pelissari DM, Elkhoury ANSM, Arsky MLNS, Nunes ML. Revisão sistemática dos 
-fatores associados à leptospirose no Brasil, 2000-2009. Epidemiol Serv Saúde. 
-2011;20(4):565-74. https://doi.org/10.5123/S1679-49742011000400016 
- 
-12. Instituto Brasileiro de Geografia e Estatística. Estados: Santa Catarina [Internet]. 
-Instituto Brasileiro de Geografia e Estatística [cited on Aug 6, 2016]. Available at: 
-https://cidades.ibge.gov.br/brasil/sc 
- 
-13. Coan BDP, Back ÁJ, Bonetti AV. Precipitação mensal e anual provável no Estado 
-de 
-Santa 
-Catarina. 
-Rev 
-Br 
-Climatol. 
-2015;15:122-42. 
-http://dx.doi.org/10.5380/abclima.v15i0.38348 
- 
-14. Pandolfo C, Braga HJ, Massignan AM, Silva Júnior VP, Thomé VMR, Vieira VF. 
-Atlas climatológico do Estado de Santa Catarina [Internet]. Florianópolis: Epagri; 2002 
-[cited 
-on 
-Jul., 
-2017]. 
-CD-ROM. 
-Disponível 
-em: 
-http://www.ciram.epagri.sc.gov.br/ciram_arquivos/arquivos/atlasClimatologico/atlasCli
-matologico.pdf 
-       
-15. Gaynor PE, Kirkpatrick RC. Introduction to time series modeling and forecasting in 
-business and economics. New York: McGraw-Hill; 1994. 
- 
-16. Costa F, Hagan JE, Calcagno J, Kane M, Torgerson P, Martinez-Silveira MS, et al. 
-Global morbidity and mortality of leptospirosis: a systematic review. PLoS Negl Trop 
-Dis. 2015;9(9):e0003898. https://doi.org/10.1371/journal.pntd.0003898 
- 
-17. Coelho MZS, Massad E. The impact of climate on Leptospirosis in São Paulo, 
-Brazil. Int J Biometeorology. 2012;56(5):233-41. https://doi.org/10.1007/s00484-011-
-0419-4 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
- 
- 
-19 
- 
- 
-18. Oliveira TVS, Marinho DP, Costa Neto C, Kligerman DC. Variáveis climáticas, 
-condições de vida e saúde da população: a leptospirose no município do Rio de Janeiro 
-de 
-1996 
-a 
-2009. 
-Ciên 
-Saúde 
-Coletiva. 
-2012;17(6):1569-76. 
-https://doi.org/10.1590/S1413-81232012000600020 
- 
-19. Pereira CAR, Barata MML, Costa Neto C, Monteiro GTR. Leptospirosis’s trend and 
-seasonality in Brazil: statistical analysis of notified cases between 2008 and 2012. Rev 
-Saúde e Pesquisa. 2014;7(3):395-402. 
- 
-20. Mottola C, Alho AM, Rafael T, Gonçalves T, Seixas R. Leptospirose em Portugal: 
-Situação actual e importância das medidas de controlo no contexto da Saúde Pública. 
-REDVET. 
-2015 
-[cite 
-don 
-Jul 
-9, 
-2017];16(2):1-16. 
-Available 
-at: 
-http://www.redalyc.org/articulo.oa?id=63641398004 
- 
-21. Paula ED, Leptospirose Humana: uma análise climato-geográfica de sua 
-manifestação no Brasil, Paraná e Curitiba. In: XII Simpósio Brasileiro de 
-Sensoriamento Remoto [annals]. Goiânia; 2005. 
- 
-22. Dutra FRLS, Valadão RC, Confalonieri UE, Müller GV, Quadro MFL. The 
-influence of rainfall variability in default distribution of cases leptospirosis in general 
-Minas Gerais, the period 1998 – 2012. Hygeia. 2015;11(20):106-26. 
- 
-23. Buzzar MR. Perfil epidemiológico da leptospirose no estado de São Paulo no 
-período de 2007 a 2011. In: Conferência Internacional em Epidemiologia [annals]. São 
-Paulo; 2012. 
- 
-24. Oliveira HH, Rodrigues MAM, Santos IS, Francischetti CN. Perfil epidemiológico e 
-socioeconômico da ocorrência de casos de leptospirose em municípios da Baixada 
-Fluminense, Rio de Janeiro, Brasil. Enciclopédia Biosfera. 2016;13(23):1479-91. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.748
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

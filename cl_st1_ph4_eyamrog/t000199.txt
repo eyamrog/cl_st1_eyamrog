@@ -1,29 +1,17 @@
-Specific management of total laryngectomy patients during the COVID-19 
-pandemic in the Brazilian reality 
- 
-Ana Maria Bezerra de Araújo (https://orcid.org/ 0000-0002-6037-5766)1 
-José Márcio Carvalho da Silva (https://orcid.org/ 0000-0002-4225-1073)2 
-Leandro Pernambuco (http://orcid.org/0000-0001-6246-9769)3 
- 
-(1) Speech-Language Pathologist, Recife, PE, Brasil. 
-(2) Faculdade da Escada (FAESC), Escada, PE, Brasil. 
-(3) Department of Speech, Language and Hearing Sciences, Universidade 
-Federal da Paraíba (UFPB), João Pessoa, PB, Brasil. 
- 
 Since the first quarter of 2020, the world has been facing the Coronavirus 
 disease-19 (COVID-19) pandemic, which is caused by the new SARS-Cov-2 
 coronavirus.1 Despite the multiple procedures to prevent and control the spread 
 of the disease that have been adopted for the general population, there are 
 some groups that are more susceptible to the risk of contagion and that require 
 specific care, such as total laryngectomy patients.2        
- 
+
 This population is mostly composed by immunosuppressed elderly 
 individuals with multiple comorbidities, in which a permanent tracheostomy 
 allows the flow of unfiltered and humidified airflow directly into the lower 
 airways, thus increasing the incidence of tracheobronchial infections3 and, as a 
 result, exposing them to the contagious nature of SARS-Cov-2 through 
 respiratory droplets and aerosolization.2 
- 
+
 A Heat and Moisture Exchange (HME) device is an option to mitigate the 
 vulnerability of total laryngectomized patients to COVID-19. This device consists 
 of a foam sponge impregnated with calcium chloride4 placed over an airtight 
@@ -32,13 +20,14 @@ also filter, heat and humidify the air, thus reducing the need to use external
 humidifiers and vaporizers and optimizing lung performance.6,7  In addition, as 
 the HME reduces of cough, sputum production and expectoration, it minimizes 
 the risk of viral transmission by aerosolizing tracheal secretions.2,5,8 
- 
+
 There are HME devices with specific bacterial and/or viral filters8 that 
 have pores smaller than 0.6 microns and are able to retain some pathogens 
 (bacteria and viruses), acting as a biological barrier against pulmonary 
 infections9. This is especially important in the context of the COVID-19 
 pandemic, as the SARS-Cov-2 particles have an estimated size of 0.12 
 microns.10 
+
 Although the effectiveness of heat and moisture exchangers in 
 preventing COVID-19 has not yet been specifically tested, it is assumed that a 
 HME device made of electrostatic filtering material, which has a higher 
@@ -50,6 +39,7 @@ to most of total laryngectomized patients in the Brazilian context of
 socioeconomic inequality. In addition, the lack of a national health care policy 
 for total laryngectomized patients makes access to pulmonary protection 
 supplies difficult at a time of pandemic. 
+
 Some legal provisions support this population, such as the SAS/MS 
 Ordinance No. 400, of 11/16/2019 12, which establishes national guidelines for 
 the care of people with ostomy; Law No. 13,146, of 6/11/201513, which institutes 
@@ -66,6 +56,7 @@ the difficulties in obtaining the supplies through administrative means, some
 users turn to the courts to ensure their supply. In 2019, for example, a user in 
 Rio de Janeiro filed a demand against the state government and had his 
 request granted, according to the magistrate's favorable understanding.15 
+
 The COVID-19 pandemic has highlighted both the need for specific 
 management with total laryngectomy patients and the failure of public 
 authorities to provide the necessary support to these users. The most 
@@ -77,69 +68,3 @@ HME with specific bacterial and/or viral filters.8 When access to HME is not
 viable, total laryngectomy patients should be instructed to strictly follow the 
 other conducts. At the same time, this moment should also be used to give 
 visibility to the needs and vulnerabilities of this group. 
- 
-Author contribution 
-All authors contributed with the concept, writing and critical review. 
- 
-References 
-1 WHO: World Health Organization. Coronavirus disease (COVID-19) outbreak 
-situation [Internet]. Geneva: WHO; 2019 [cited 2020 Apr 20]. Available from: 
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019 
-2 Parrinello G, Missale F, Sampieri C, Carobbio ALC, Peretti G. Safe 
-management of laryngectomized patients during the COVID-19 pandemic. Oral 
-Oncol. 2020; 24; 107:104742. doi: 10.1016/j.oraloncology.2020.104742. Epub 
-ahead of print. 
-3 Mérol JC, Charpiot A, Langagne T, Hémar P, Ackerstaff AH, Hilgers FJ. 
-Randomized controlled trial on postoperative pulmonary humidification after 
-total laryngectomy: external humidifier versus heat and moisture exchanger.  
-Laryngoscope. 2012; 122(2):275-81. 
-4 Hilgers FJ, Aaronson NK, Ackerstaff AH, Schouwenburg PF, Van Zandwikj N. 
-The influence of a heat and moisture exchanger (HME) on the respiratory 
-symptoms after total laryngectomy. Clin Otolaryngol Allied Sci. 1991;16(2):152-
-156. 
-5 Araujo AMB, Santos ECB, Pernambuco LA. Breathing and voice self-
-assessments after the use of a heat and moisture exchange in total 
-laryngectomyzed patients. Audiol Commun Res. 2017; 22: e1820. 
-6 Scheenstra RJ, Muller SH, Vincent A, Ackerstaff AH, Jacobi I, Hilgers FJ. 
-Short-term endotracheal climate changes and clinical effects of a heat and 
-moisture exchanger with an integrated electrostatic virus and bacterial filter 
-developed for laryngectomized individuals. Acta Otolaryngol. 2010; 130(6):739-
-746. 
-7 Brook I, Bogaardt H, Van As-Brooks C. Long-term use of heat and moisture 
-exchangers among laryngectomees: medical, social, and psychological 
-patterns. Ann Otol Rhinol Laryngol. 2013; 122(6):358-363. 
-8 Hennessy M, Bann DV, Patel VA, Saadi R, Krempl GA, Deschler DG, et al. 
-Commentary on the management of total laryngectomy patients during the 
-COVID-19 pandemic. Head Neck. 2020; 42(6):1137-1143.  
-9 Van den Brekel MW, Retèl VP. Incidence of severe tracheobronchitis and 
-pneumonia in laryngectomized patients: a retrospective clinical study and a 
-European-wide survey among head and neck surgeons. Eur Arch 
-Otorhinolaryngol. 2014; 271(12):3297-3303. 
-10 Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus 
-from Patients with Pneumonia in China, 2019. N Engl J Med. 2020; 382(8):727-
-733. 
-11 Kligerman MP, Vukkadala N, Tsang RKY, Sunwoo JB, Holsinger FC, Chan 
-JYK, et al. Managing head and neck cancer patients with tracheostomy or 
-laryngectomy during the COVID-19 pandemic. Head Neck. 2020; 42(6):1209-
-1213. 
-12 Secretaria de Atenção à Saúde (Brasil). Portaria nº 400, de 16 de novembro 
-de 2009. Estabelece Diretrizes Nacionais para a Atenção à Saúde das Pessoas 
-Ostomizadas no âmbito do Sistema Único de Saúde – SUS [portaria na 
-internet]. Diário Oficial da União 18 nov 2009 [acesso em 26 mai 2020]. 
-Disponível em: 
-https://bvsms.saude.gov.br/bvs/saudelegis/sas/2009/prt0400_16_11_2009.html 
-13 Secretaria-Geral. Subchefia para Assuntos Jurídicos. Lei nº 13.146, de 6 de 
-novembro de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com 
-Deficiência (Estatuto da Pessoa com Deficiência). Diário Oficial da União 7 jul 
-2015 [acesso em 26 mai 2020]. Disponível em:  
-http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm 
-14 Governo de Santa Catarina. Secretaria de Estado da Saúde. Comissão 
-Intergestores Bipartite. Deliberação 202/CIB/2019, de 26 de setembro de 2019. 
-Aprova as Diretrizes para Atenção à Saúde das Pessoas Laringectomizadas 
-e/ou Traqueostomizadas do Estado de Santa Catarina; Aprova os formulários 
-padronizados pelo Serviço Estadual; Estabelece os fluxos e competências de 
-cada ponto da Rede para o referido Serviço. [acesso em 26 mai 2020]. 
-Disponível em:  http://www.saude.sc.gov.br/index.php/documentos/legislacao-
-principal/deliberacoes-cib/deliberacoes-2019-cib/16046-deliberacao-202-cib-26-
-09-2019/file 
- 

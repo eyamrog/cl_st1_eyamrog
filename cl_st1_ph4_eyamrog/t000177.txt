@@ -1,152 +1,92 @@
-Vol.63: e20200335, 2020 
-http://dx.doi.org/10.1590/1678-4324-2020200335 
-ISSN 1678-4324 Online Edition 
- 
- 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
-Article - Human and Animal Health 
-Best Practices on HVAC Design to Minimize the Risk 
-of COVID-19 Infection within Indoor Environments 
-Alexandre Fernandes Santos1. 
-https://orcid.org/0000-0001-5306-6968 
-Pedro Dinis Gaspar1,2. 
-https://orcid.org/0000-0003-1691-1709 
- 
-Aseel Hamandosh3 
-https://orcid.org/0000-0002-2658-8039 
-Eliandro Barbosa de Aguiar4 
-https://orcid.org/0000-0001-9994-7736 
- 
-Antonio Carlos Guerra Filho5 
-https://orcid.org/0000-0003-3631-1348 
- 
-Heraldo José Lopes de Souza6 
-https://orcid.org/0000-0002-8471-7804 
- 
-1 Department of Electromechanical Engineering, University of Beira Interior, Department of Electromechanical 
-Engineering, University of Beira Interior, 6201-001; Covilhã, Portugal.  
-2 C-MAST—Centre for Mechanical and Aerospace Science and Technologies, 6201-001 Covilhã, Portugal. 
-3 Universidade Católica do Paraná; Odontologia; Curitiba – Paraná. Brazil. 
-4 Faculdade Estácio. Engenheiro eletricista. Curitiba Paraná. Brazil. 
-5 Universidade Federal de Uberlândia. Engenheiro Mecânico. Minas Gerais. Brasil. 
-6 Faculdade Profissional. Pós Graduado em Engenharia da Climatização. Curitiba Paraná. Brazil. 
- 
-*Correspondence: projetos.etp@gmail.com. (A.F.S.) Tel +55 3332-7025, Curitiba Paraná Brazil; dinis@ubi.pt; Tel 
-+351275-329-759 (ext. 3759) (P.D.G.), Covilhã, Portugal; heraldosouza1@gmail.com. (H.J.L.d.S.); Tel 55 
-41999748928; Curitiba, Paraná, Brazil;. eliandro.de.aguiar@hotmail.com (E.B.d.A); Tel 55 41995114393; Curitiba, 
-Paraná, Brazil; maseel18@yahoo.com, (A.H), Tel 55 41995008821, Curitiba, Paraná, Brazil; acguerrafilho@gmail.com, 
-(A.C.G.F), Tel 55 34 996687414, Uberlândia , Minas gerais, Brazil.  
- 
- 
-Abstract: The spread of Coronavirus is causing in the society all around the world a considerable degree of 
+The spread of Coronavirus is causing in the society all around the world a considerable degree of 
 fear, worry and concern and particularly among healthcare workers that are at increased risk for infection. 
 This paper gathers the strategy/guidelines to reduce the contamination in Intensive care unit (ICU) and in all 
 the hospital environment. The ASHRAE and REHVA guidelines applied the UV-C Lamps, Pressure control 
 filtration, Restroom actions and Humidity control to reduce the coronavirus disease (Covid-19) in ICU. The 
-HIGHLIGHTS 
- 
- 
-Proper air conditioning design is important for air quality. 
- 
-HVAC solutions exist to reduce Sars-CoV-2 contamination. 
- 
-Best practices on HVAC design to minimize the risk of COVID-19 infection are described. 
- 
-Rethinking air conditioning designs with an emphasis on holistic comfort for humans. 
-2 
-A.F.S., P.D.G.; et al. 
- 
- 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
 role of infection control in the design of hospitals is increasing every day. This paper highlights the role of 
 heating, ventilating and air-conditioning minimizing the risk of infection from airborne transmission within the 
 built environment through the application of best practices. 
-Keywords: Covid 19; Pandemic; Contamination; Strategies; Guidelines; Best practices. 
- 
-INTRODUCTION 
+
 Coronavirus disease (COVID-19) was initially identified in an outbreak of viral pneumonia in Wuhan, 
 Republic of China, in December 2019. The epidemiology of COVID-19 has recently become clearer as 
 incident cases continue to rise and researchers refine estimates of the severity, transmissibility, and 
 populations affected. The spread of Coronavirus is causing in the society all around the world a considerable 
 degree of fear, worry and concern, with around one hundred thousand people being infected worldwide daily 
 [1, 2]. 
+
 Health workers are at the front line of the COVID-19 outbreak response and as such they are exposed 
 to hazards that put them at risk of infection. Hazards include pathogen exposure, long working hours, 
 psychological distress, fatigue, occupational burnout, stigma, and physical and psychological violence [3]. 
+
 Protecting health care workers and preparedness of Intensive care units (ICUs) to face an epidemic 
 cluster should be the main priority. The role of healthcare workers in the transmission of pathogens from 
 patient-to-patient is well documented, however, increasing evidence reports the contaminated environment 
 as highly significant in pathogen transmission; in particular, high-touch surfaces are recognized as a possible 
 reservoir of infectious agents. Thus, healthcare workers are at increased risk for infection [4, 5, 6]. 
+
 Epidemics have the potential to severely strain intensive care resources and may require an increase in 
 intensive care capability. Few intensivists have direct experience of rapidly expanding intensive care services 
 in response to an epidemic. Early preparations should include fit testing of negative pressure respirators, 
 training of reserve staff, sourcing of material for physical modifications to the ICU, among other [7]. 
+
 Brazil has 50 thousand ICU beds enabled in January, with only 22 thousand of them available through 
 Health Unit System (SUS). The others are from hospitals that provide care only through payment or 
 agreements. According to the Globo journal, a total of 199,768 professionals were identified as suspected 
 cases of the disease and needed to be dismissed [8]. 
+
 In a state of Brazil (Pernambuco), 1/3 of infected people with coronavirus arehealthcare workers. The 
 Health Secretariat of Pernambuco points out that 377 health professionals tested positive for COVID-19. The 
 number represents one in three cases of the disease registered across the state. The high number is the 
 result of being the first state in the country to test all symptomatic health professionals [9]. 
+
 The use of face masks has become ubiquitous in the world. The Disposable N95 respirators and medical 
 masks are both worn by for healthcare workers self-protection. However, these masks have different intended 
 uses. N95 respirators are designed to prevent the wearer from inhaling small airborne particles. Thus, they 
 must meet filtration requirements, and fit tightly to the wearer’s face, limiting facial seal leakage. Medical 
 masks are intended to prevent microorganism transmission from the wearer to the patient. Medical masks fit 
 the face loosely and do not reliably prevent inhalation of small airborne particles [10]. 
+
 The coronavirus found in a hospital air duct has led scientists to believe the disease could be spread 
 through air-conditioning units, making it more contagious than initially thought. Evidence of COVID-19 has 
 been found in air conditioning vents in some hospitals, raising the question regarding filtration systems for 
 many buildings [7, 11]. 
+
 Pathogen dissemination through the air occurs through droplets and aerosols typically generated by 
 coughing, sneezing, shouting, breathing, toilet flushing, and some medical procedures. Ventilation systems 
 cannot interrupt the rapid settling of large droplets and they can influence the transmission of droplet nuclei 
 infectious aerosols. Directional airflow can create clean-to-dirty flow patterns and move infectious aerosols 
 to be exhausted [12, 13]. 
+
 This paper gathers the strategy/guidelines to reduce the contamination in Intensive care unit (ICU) and 
 in all the hospital environment. 
- 
- 
-Best practices on HVAC design to minimize the risk of COVID-19 infection within indoor environments 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
-MATERIALS AND METHODS 
+
 The transmission routes of the infectious agent must be assessed. In relation to COVID-19, the 
 standard assumption is that the following two transmission routes are dominant: via large droplets 
 (droplets/particles emitted when sneezing or coughing or talking) and via surface (fomite) contact (hand-
 hand, hand-surface etc.). A third transmission route that is gaining more attention from the scientific 
 community is the fecal-oral route [14]. Table 1 includes the relation between aerosol droplets size and 
 exposure time. The droplets can be: 
+
 Large droplets (> 10 microns): Airborne transmission through large droplets that are released and fall 
 to surfaces no further than 1-2 meters from the infected person. Droplets are formed from coughing and 
 sneezing. 
+
 Small particles (< 5 microns): These may stay airborne for hours and can be transported long distances. 
 They are generated through coughing, sneezing or talking. Small particles (droplet nuclei or residue) form 
 from droplets that evaporate and desiccate. The coronavirus particle is 0.80-0.16 micrometer and remains 
 active in common indoor air conditions for up to three hours and two to three days on room surfaces. These 
 small particles can stay airborne and travel long distances by airflows in the room or via air ducts of ventilation 
 systems. 
-Table 1. Aerosol droplets size vs exposure time. 
-Aerosol droplets 
-Exposure Time 
-First destiny 
-≤ 5 microns 
-around 10800 seconds 
-Air 
-≥ 10 microns 
-around 6 seconds 
-Surfaces  
+
 In hospitals, air conditioning can play a role beyond the promotion of comfort. In many cases, proper 
 air conditioning is a factor in patient therapy. Patients in well-controlled environments generally show more 
 rapid physical improvement than those in poorly controlled environments [15]. 
+
 The healthcare services should have permanent quality and safety strategies/guidelines. For example, 
 the planning strategies are fundamental to carry out urgent operations during the pandemic, allowing the 
 minimum required people in the surgical room, thus preventing the risk of contamination of other individuals 
 [16]. 
+
 With the aim of protecting health-care workers, critically ill patients with suspected or confirmed COVID-
 19 infection should ideally be admitted to an airborne infection isolation room that is at negative pressure, as 
 shown in Figure 1. The American Society of Heating, Refrigerating and Air-Conditioning Engineers 
@@ -156,52 +96,35 @@ contagious patients and reduce exposure when patients discharge contaminants dur
 it is recognized that changing the outdoor air amount might impact building pressure balance and also create 
 humidity issues. As stated before, the small size of a coronavirus particleallow it to stay airborne and travel 
 long distances carried by airflows in the rooms or in the extract air ducts of ventilation systems [17]. 
+
 Figure 1 shows several approaches to change the pressure or filtration system in the ICU room 
 available in the Standard 170 “COVID-19 Guidance” for Hospital Isolation Rooms [18] that advises on HVAC 
 systems, configurations, and modifications to handle a potential surge in COVID-19 patients. 
+
 First and second options showed in Figure 1 a) and Figure 1 b) respectively, the duct discharges to 
 the exterior. Option 1 complies with CDC (Centers for Disease Control and Prevention of the United States 
 of America), ASHRAE and FGI (Facility Guidelines Institute). If the room is equipped with High Efficiency 
 Particulate Arrestance (HEPA) units (Option 2), discharging can also be made to the exterior. 
+
 Third option shown in Figure 1 cb) shows in room fan (NON- HEPA) discharging directly to exterior or 
 use existing TLT room exhaust. 
-4 
-A.F.S., P.D.G.; et al. 
- 
- 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
+
 Fourth option shown in Figure 1 c) shows in room HEPA discharging to return. Systems must be 
 balanced to prevent down stream effects. 
+
 Fifth option shown in Figure 1 d) presents a placed HEPA filtered negative air machine in vestibule, 
 the duct through vestibule to corridor and keep door to vestibule closed but door to patient room open.  
+
 Sixth option shown in Figure 1 e) shows a HEPA unit recirculating air in room after scrubbing. Not 
 negative, supply should be covered to prevent high pressure. 
+
 All these options consider that returns should be covered (except Option 1) and a distance of 8 meters 
 from final discharge point to opening into building. 
- 
- 
- 
- 
-a) Option 1 and Option 2. 
-b) Option 3. 
-c) Option 4. 
- 
- 
-d) Option 5. 
-e) Option 6. 
-Figure 1 - Approaches to change the pressure or filtration system in the ICU room (adapted from [18]). 
- 
+
 Decontamination Unit: Compact decontamination units as shown in Figure 2 can be installed in the 
 room or outside, capturing the air and exhausting it to the outside. Exhaustion must be considered in places 
 with risk of contamination; such as rooms for patients with infectious diseases. 
- 
- 
-Best practices on HVAC design to minimize the risk of COVID-19 infection within indoor environments 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
-Figure 2 - Best simple suggestion, using portable HEPA equipment - Compact decontamination unit. 
- 
+
 Research has demonstrated that appropriate air filtration limits the pass-through of virus particles, 
 which frequently hitch a ride on larger particles, into downstream areas. Properly installed higher efficiency 
 filters can remove particles of a relevant size depending on their installed capture efficiency. The National Air 
@@ -209,45 +132,40 @@ Filtration Association (NAFA) described some benefit that can be reasonably infe
 (e.g., their removal rate is appropriate for the room), maintained, and operated portable (HEPA) filters [19]. 
 A study conducted by the National Air Duct Cleaners Association (NADCA) recommended that an HVAC 
 system should be inspected at a minimum, twice a year [20]. 
+
 Elias et al [21] showed that in hospitals that contain HEPA filtration,  localized filtering in high-traffic 
 spaces may further decrease the number of viral particles. A low-cost air purifier containing a HEPA filter can 
 cost aorund $100 and renovate the air in a 15m2 room 5 times per hour and could be deployed widely in 
 hospital environments. It may be worth taking any measures possible to increase airflow speed in existing 
 HVAC systems, and to avoid recirculating air between rooms. 
+
 The Federation of European Heating, Ventilation and Air Conditioning Associations (REHVA), has 
 provided interim guidance on the operation and use of building services in areas with a coronavirus disease 
 (COVID-19) outbreak. The guidance aims to prevent the spread of coronavirus through HVAC or plumbing 
 systems [22]. 
+
 According to ASHRAE, REHVA and NAFA, some strategies and guidelines that can applied to reduce 
 the contamination in the ICU and in the hospitals are shown in Figure 3 and described in detail: 
- 
-Figure 3 - Guidelines applied the UV-C Lamps, Pressure control filtration, Restroom actions and Humidity control to 
-reduce the coronavirus disease (COVID-19) in ICU and hospitals environment, according to ASHRAE and REHVA 
-[17]. 
- 
-FIRST STRATEGY (Room-air cleaners can be useful with UltraViolet Germicidal (UV-C) lamps). 
+
 Special ultraviolet (UV) cleaning equipment for supply-air or room-air treatment is effective at killing 
 bacteria and viruses, but the guidance document states this equipment is only suitable for healthcare 
 facilities. 
+
 NAFA recommends a properly designed and maintained UV system, often combined with filtration, 
 humidity control, and airflow management, to reduce infections from other viruses. The UV-C light is absorbed 
 by Ribonucleic acid (RNA) and Deoxyribonucleic acid (DNA) in cells and microbes inducing changes 
 (apoptosis) in the DNA/RNA structures that result in their inability to replicate. Many microbes are susceptible 
-6 
-A.F.S., P.D.G.; et al. 
- 
- 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
 to inactivation using UV-C light, including bacteria, viruses, fungi, and spores. The amount of inactivation is 
 directly proportional to the UV-C dose, which is received, and this in turn is the result of its intensity and 
 exposure time [23, 24]. 
+
 UV-C radiation has a short wavelength and high energy, compared to other UV radiation, which enables 
 it to function the best in a direct line and at a short distance. Due to the high energy of the UV-C radiation, it 
 is bound to the inverse square law where the propagation of light intensity decreases exponentially with 
 increasing distance from the light source. Studies developed by Escombe et al. [24] and Casanova et al. [25] 
 provided that there is a sufficient circulation inside the room to mix the air, upper-room UV fixtures have 
 shown to be an effective asset for use in infection control in high-risk clinical settings. 
+
 According to Ryan et al. [26], lamps with germicidal ultraviolet irradiation (eUVGI) decreased the 
 proliferation of microbes in HVAC systems. The study was carried out in neonatal intensive care units, and 
 in the ventilation systems of air conditioning units. The result obtained through the research showed that the 
@@ -255,6 +173,7 @@ patients suffered a drop in microbial colonization in the trachea and also had a
 antibiotics. The proliferation of multiple bacteria, fungi and microphones were included among the HVAC 
 systems, ICU environment and patients, thus allowing to generate more tests of the results obtained by the 
 application of UV radiation. 
+
 In addition to UVC, there are other methods that can be used for that objective, such as the use of 
 Ozone (O3) and the Advanced Oxidation processes. The first, stands out for its high oxidative capacity (2.07 
 mV), making it an excellent sanitizer capable of inactivating several pathogenic microorganisms [27, 28, 29]. 
@@ -268,32 +187,25 @@ of Hydrogen Peroxides (H2O2), hydroxides, superoxide ions and ozone ions in low 
 Thus, these chemical by-products interact with the microorganisms present in the air and on the surface, 
 inactivating them and purifying the environment [34]. Therefore, both processes are efficient in fighting 
 pathogens. 
+
 Hospital administrators, governments, and policy makers must work with ICU practitioners to prepare 
 for a substantial increase in critical care room capacity. 
- 
-SECOND STRATEGY (Use more window-driven natural ventilation). 
+
 Use more window-driven natural ventilation in buildings without mechanical ventilation. The use of 
 openable windows is recommended, even if this causes thermal discomfort. Even in buildings with 
 mechanical ventilation, open windows can be used to boost ventilation. 
+
 Open windows in toilets with passive stack or mechanical exhaust systems may cause contaminated 
 airflow from the toilet to other rooms. So, in these circumstances, it is recommended that toilet windows 
 remain shut. If there is no adequate exhaust ventilation from toilets, and window airflow cannot be avoided, 
 keep windows open in other spaces to achieve cross flows through buildings. 
- 
-THIRD STRATEGY (Increase air supply and exhaust ventilation - restroom actions). 
+
 REHVA showed that flushing toilets creates plumes containing droplets, as well as droplet residue 
 when toilets are flushed with open lids. SARS-CoV-2 viruses have been detected in stool samples (reported 
 in recent scientific papers and by the Chinese authorities). Exhaust ventilation systems of toilets should 
-Best practices on HVAC design to minimize the risk of COVID-19 infection within indoor environments 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
 always be kept continuously. Make sure that under pressure is created, especially to avoid the fecal-oral 
 transmission; as shown in Figure. 
- 
-Figure 4 - Exposure mechanisms of SARS-CoV-2 droplets (dark green colour). Light green colour: airborne 
-mechanism that is known from SARS-CoV-1 and other flu. Currently there is no evidence specifically for SARS-CoV-
-2. 
- 
+
 Transmission of some viruses in buildings can be limited by changing air temperature and humidity 
 levels. In isolation rooms, the vents are located at the bottom, and airflow is tightly controlled, so air is 
 prevented from "spilling over" into other spaces. It has been found that when it comes to air-conditioned 
@@ -320,82 +232,71 @@ not be sufficient to eliminate contamination. In addition, toilets during flushi
 source, therefore, REHVA states that 2 meters away and wearing masks is not enough to protect from 
 infection of Corona Virus SARS-CoV-2. That actions, such as increasing ventilation, is useful to remove 
 additional particles [14].  
-8 
-A.F.S., P.D.G.; et al. 
- 
- 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
- 
-FOURTH STRATEGY (Humidification). 
+
 COVID-19 is resistant to environmental changes and is susceptible only to a very high relative humidity 
 (RH), above 80%, and a temperature above 30°C, which is not acceptable in terms of thermal comfort. 
+
 Humidification is suggested in winter (up to a level of 30%) because nasal systems and mucous 
 membranes are more susceptible to infections at very low relative humidity (RH) of 10-20%. However, from 
 March, climatic conditions start to have a RH higher than 30% in all European climates, without humidification. 
+
 Figure 5 shows that a dry room air (20ºC, 20% RH) and in humid room of 80% RH, most coronaviruses 
 stay viable for 2 days (blue line; blue star). In room with air of 50% RH, less than 1% of viruses are viable 
 after 2 days (red star) [25]. 
+
 Low temperature increases the persistence of viable viruses on inanimate surfaces (in the study 
 stainless steel, black line), high temperatures decrease the persistence of coronaviruses (yellow line). 
+
 At all temperatures (4ºC, 20ºC, 40ºC), the inactivation rate is fastest in intermediate humidity of 50% 
 RH. 
- 
-Figure 5 - Effects of air temperature and relative humidity on viability of coronavirus on surfaces [25]. 
- 
+
 Taylor et al [35] correlated mid-range humidity levels with improved mammalian immunity against 
 respiratory infections. Mousavi et al [36] reported that RH values between 40% and 60% are most 
 unfavorable climatic conditions for microorganisms’ survival. A proper selection, operation, and maintenance 
 of humidification equipment is required when water vapor is introducted in the indoor environment to achieve 
 the mid-range humidity levels associated with decreased infections. Using the SARS study as a basis, the 
 relationship between relative humidity and virus activation is understandable [35, 36]. 
+
 Casanova et al. [25] studied the effects of air temperature and humidity on two surrogates of SARS-
 CoV, namely transmissible gastroenteritis virus (TGEV) and mouse hepatitis virus (MHV). These viruses 
-Best practices on HVAC design to minimize the risk of COVID-19 infection within indoor environments 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
 could serve as conservative substitutes of SARS-CoV and other coronaviruses for modeling exposure, risk 
 of transmission and control measures for human pathogenic viruses in health care surfaces . 
- 
-RESULTS AND DISCUSSION  
+
 According to REHVA [14] and ASHRAE guidelines, a schematic shown in Figure 6 was developed to 
 show how aerosols behave and possible solutions to fight it. 
- 
- 
-Figure 6 - Contagion sources vs strategies to prevent contagion. 
- 
+
 The ICU community must be prepared for the challenges associated with this pandemic. Streamlining 
 of workflows for rapid diagnosis and isolation, clinical management, and infection prevention will matter not 
 only to patients with COVID-19, but also to health-care workers and other patients who are at risk from 
 nosocomial transmission [38]. 
+
 The role of healthcare workers (HCW) in the transmission of pathogens from patient-to-patient is well 
 documented. However, increasing evidence reports the contaminated environment as highly significant in 
 pathogen transmission. A number of factors, including temperature, humidity and severity could influence the 
 concentration of viral particles in an aerosol sample [38]. 
+
 The Food and Drug Administration of the United States of America (FDA) defines a N95 respirator 
 mask as a respiratory protective device designed to achieve a very close facial fit and very efficient filtration 
 of airborne particles. In addition to blocking splashes, sprays and large droplets, the respirator is also 
 designed to prevent the wearer from breathing in very small particles that may be in the air. While the ultimate 
 effectiveness of these respirator masks is debated, respirator masks are believed to be the best currently 
 available method of protecting against inhalation of highly infectious airborne particles.  
+
 Poorly ventilated buildings affect air quality and can contribute to the spread of the disease, as 
 microorganisms, can be transmitted by air-conditioning systems. In health facilities where there is a high 
 concentration of infectious patients, evidence shows that poorly ventilated buildings have higher risks of 
 infectious disease transmission for patients, workers, and visitors. Li et al [38] demonstrated the association 
 between ventilation and air movements in buildings, and the transmission/spread of infectious diseases. 
-10 
-A.F.S., P.D.G.; et al. 
- 
- 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
+
 Although there is insufficient data to specify and quantify the minimum ventilation requirements particularly 
 in hospitals and isolation rooms in relation to spread of infectious diseases via the airborne route, that study 
 supports the use of negatively pressurized isolation rooms in hospitals for patients with these diseases. 
+
 We all have a role to play to control the spread of this disease. HVAC is part of it and even more 
 significant are social distancing, hygiene and the influence we can have on personal behavior. Ryan et al. 
 [26] showed that the eUVGI decreased HVAC microbial colonization and it was associated with reduced 
 neonatal intensive care unit (NICU) environment and tracheal microbial colonization [20, 26]. 
+
 ASHRAE 55 defines the standards of comfort parameters, the PMV (Predicted Mean Vote) index takes 
 into account the relative humidity, although at a small extend. Thus, the statement that rises from this 
 spreading of viruses, is that air conditioning should no longer be thought for comfort of human, but for comfort 
@@ -403,224 +304,30 @@ for the human, that is, the relative humidity must have a weight as important as
 Rethinking a higher air speed even in buildings whose objective is only human comfort, mainly with the return 
 of the air down, can help to change the trajectory of the virus and inject the same in return grids with UV-C 
 lamps [39]. 
+
 Even Datacenter rooms are already accepting adiabatic systems much of the time, achieving energy 
 savings by the use of indexes like EUED (Energy Usage Effectiveness Design) and TWI (Total Water Impact), 
 where the slightly higher humidity (45%-65%) can facilitate the use of an adiabatic system, in addition to 
 allowing higher temperatures for the entry of chilled water into air conditioners, generating better compression 
 ratios and energy savings [40-41]. 
+
 Furthermore, future designs should reconsider the best way to triage and complete initial assessment 
 of patients that present symptoms related to airborne viruses to minimize exposure to areas with other patient 
 types if possible. In planning for the future, architects, designers, building operators, and health care 
 administrators should aspire for hospital designs that can accommodate periods of enhanced social 
 distancing and minimize connections and flow between common areas, while also affording flexibility for 
 efficient use of space during normal operating conditions. 
- 
-CONCLUSION  
+
 The role of infection control in the design of hospitals is increasing every day. HVAC systems play an 
 increasingly important role to minimize the risk of infection from airborne transmission within the built 
 environment. 
+
 Four strategies were set to change the concept of contaminant air conditioning (due to small droplets 
 passing through the coil, and with the high-speed pressure ventilation being distributed to the occupants) to 
 the concept of an important tool for the inactivation of viruses in the room. 
+
 These strategies (see Figure 4): 1) UVC lamps, 2) Pressure control and air renewal/filtration, 3) 
 Restroom actions, 4) Humidity Control to prevent contagion were evaluated in terms of the contagion sources. 
+
 In addition, a holistic view of the human comfort was suggested, requiring rethink the PMV index, as 
 humidity has smaller impact on human comfort than on health issue. 
-REFERENCES 
-1. 
-Cowling BJ, Aiello AE. Public health measures to slow community spread of Coronavirus disease 2019. J Infect 
-Dis. 2020;221(11):1749‐1751. doi:10.1093/infdis/jiaa123. 
-2. 
-Tan Z, Phoon PHY, Zeng LA, et al. Response and operating room preparation for the COVID-19 outbreak: A 
-perspective from the National Heart Centre in Singapore. J Cardiothorac Vasc Anesth. 2020;S1053-
-0770(20)30300-1. doi:10.1053/j.jvca.2020.03.050. 
-Best practices on HVAC design to minimize the risk of COVID-19 infection within indoor environments 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
-3. 
-Phua J, Weng L, Ling L, et al. Intensive care management of coronavirus disease 2019 (COVID-19): challenges 
-and recommendations [published correction appears in Lancet Respir Med. 2020 May;8(5):e42]. Lancet Respir 
-Med. 2020;8(5):506‐517. doi:10.1016/S2213-2600(20)30161-2. 
-4. 
-Poutanen SM, Low DE, Henry B, et al. Identification of severe acute respiratory syndrome in Canada. N Engl J 
-Med. 2003;348(20):1995‐2005. doi:10.1056/NEJMoa030634. 
-5. 
-Rello J, Tejada S, Userovici C, Arvaniti K, Pugin J, Waterer G. Coronavirus Disease 2019 (COVID-19): A critical 
-care 
-perspective 
-beyond 
-China. 
-Anaesth 
-Crit 
-Care 
-Pain 
-Med. 
-2020;39(2):167‐169. 
-doi:10.1016/j.accpm.2020.03.001. 
-6. 
-Gomersall CD, Tai DY, Loo S, et al. Expanding ICU facilities in an epidemic: recommendations based on 
-experience from the SARS epidemic in Hong Kong and Singapore. Intensive Care Med. 2006;32(7):1004‐1013. 
-doi:10.1007/s00134-006-0134-5. 
-7. 
-Lee N, Hui D, Wu A, et al. A major outbreak of severe acute respiratory syndrome in Hong Kong. N Engl J Med. 
-2003;348(20):1986‐1994. doi:10.1056/NEJMoa030685. 
-8. 
-PEBMED. Brasil tem 2 leitos de UTI para cada 10 mil/habitantes. Available at: https://pebmed.com.br/brasil-tem-
-2-leitos-de-UTI-para-cada-10-mil-habitantes/ [Accessed: 2020 May 29th]. 
-9. 
-Noticias.UOL. Um a cada 3 infectados com corona vírus em pé e profissional de saúde. Available at: 
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/04/14/um-em-cada-3-infectados-com-oronavirus-
-em-pe-e-profissional-de-saude.htm [Accessed: 2020 May 29th]. 
-10. Radonovich LJ Jr, Simberkoff MS, Bessesen MT, et al. N95 respirators vs Medical masks for preventing influenza 
-among 
-health 
-care 
-personnel: 
-a 
-randomized 
-clinical 
-trial. 
-JAMA. 
-2019;322(9):824‐833. 
-doi:10.1001/jama.2019.11645. 
-11. Public Health Agency of Canada. SARS among Ontario health care workers. SARS Epidemiologic Summaries, 
-2003. Available at: http:// www.hc-sc.gc.ca/pphb-dgspsp/sars-sras/pef-dep/sarses20030426_e.html. [Accessed: 
-2020 May 29th]. 
-12. World Health Organization. Hospital infection control guidance for severe acute respiratory syndrome (SARS). 
-Available at: https://www.who.int/ihr/lyon/surveillance/infectioncontrol/en/  [Accessed: 2020 May 29th]. 
-13. Qian H, Zheng X. Ventilation control for airborne transmission of human exhaled bio-aerosols in buildings. J Thorac 
-Dis. 2018;10(Suppl 19):S2295‐S2304. doi:10.21037/jtd.2018.01.24. 
-14. REHVA. REHVA COVID-19 guidance document. Federation of European Heating, Ventilation and Air Conditioning 
-Associations 
-(REHVA) 
-. 
-Available 
-at: 
-https://www.rehva.eu/fileadmin/user_upload/REHVA_COVID19_guidance_document_ver2_20200403_1.pdf. 
-[Accessed: 2020 May 29th]. 
-15. Ramaswamy, M, Al-Jahwari, F. Al-Rajhi, S. IAQ in Hospitals - Better Health through Indoor Air Quality Awareness. 
-Proceedings of the 10th International Conference Enhanced Building Operations, Kuwait, October 26-28, 2010. 
-16. Correia MITD, Ramos RF, Bahten LCV. The surgeons and the COVID-19 pandemic. Os cirurgiões e a pandemia 
-do COVID-19. Rev Col Bras Cir. 2020;47:e20202536. Published 2020 Mar 30. doi:10.1590/0100-6991e-20202536. 
-17. Schoen, LJ. Guidance for building operations during the COVID-19 pandemic. ASHRAE. Journal May 2020. 
-Available 
-at: 
-https://www.ashrae.org/file%20library/technical%20resources/ashrae%20journal/2020journaldocuments/72-
-74_ieq_schoen.pdf. [Accessed: 2020 May 29th]. 
-18. ASHRAE. Standard 170 'COVID-19 Guidance' for Hospital Isolation Rooms. . American Society of Heating, 
-Refrigerating and Air-Conditioning Engineers (ASHRAE). 2020. [Accessed: 2020 May 29th]. 
-19. NAFA. COVID-19 (Corona Virus) and Air Filtration Frequently Asked Questions (FAQs). National Air Filtration 
-Association (NAFA). Available at: https://www.nafahq.org/covid-19-corona-virus-and-air-filtration-frequently-asked-
-questions-
-faqs/#What%20filter%20should%20I%20use%20to%20protect%20those%20in%20my%20building%20from%20
-COVID-19. [Accessed: 2020 May 29th]. 
-20. Akins, M. Coronavirus and other contaminants: how indoor air quality can affect your health. Air Conditioning 
-Contractors of America Association (ACCA). Available at: https://www.acca.org/news/guest-blog/coronavirus-
-other-contaminants-indoor-air. [Accessed: 2020 May 29th]. 
-21. Elias B, Bar-Yam Y. Could air filtration reduce COVID-19 severity and spread?, New England Complex Systems 
-Institute (March 9, 2020). 
-22. M. Lindblad, et al., Ultraviolet-C decontamination of a hospital room: Amount of UV light needed. Burns 2019. 
-https://doi.org/10.1016/j.burns.2019.10.004. 
-23. Casini B, Tuvo B, Cristina ML, et al. Evaluation of an Ultraviolet C (UVC) Light-Emitting Device for Disinfection of 
-High Touch Surfaces in Hospital Critical Areas. Int J Environ Res Public Health. 2019;16(19):3572. Published 2019 
-Sep 24. doi:10.3390/ijerph16193572. 
-12 
-A.F.S., P.D.G.; et al. 
- 
- 
- 
-Brazilian Archives of Biology and Technology. Vol.63: e20200335, 2020 www.scielo.br/babt 
-24. Escombe AR, Moore DA, Gilman RH, et al. Upper-room ultraviolet light and negative air ionization to prevent 
-tuberculosis transmission. PLoS Med. 2009;6(3):e43. doi:10.1371/journal.pmed.1000043. 
-25. Casanova LM, Jeon S, Rutala WA, Weber DJ, Sobsey MD. Effects of air temperature and relative humidity on 
-coronavirus survival on surfaces. Appl Environ Microbiol. 2010;76(9):2712‐2717. doi:10.1128/AEM.02291-09. 
-26. Ryan RM, Wilding GE, Wynn RJ, Welliver RC, Holm BA, Leach CL. Effect of enhanced ultraviolet germicidal 
-irradiation in the heating ventilation and air conditioning system on ventilator-associated pneumonia in a neonatal 
-intensive care unit. J Perinatol. 2011;31(9):607‐614. doi:10.1038/jp.2011.16. 
-27. Oliveira, AF, Mendes, HJ. Aplicações clínicas do ozônio na odontologia. Revista Saúde.Com, p. 129-131, 2009. 
-[in Portuguese] 
-28. Souza, SMO. Estudo da interferência de substratos orgânicos na ação do ozônio sobre microrganismos 
-deteriorantes, 
-benéficos 
-e 
-patogênicos. 
-Available 
-at: 
-https://repositorio.unb.br/bitstream/10482/23292/1/2016_StefaniaMarciadeOliveiraSouza.pdf. 
-[in 
-Portuguese] 
-[Accessed: 2020 May 29th]. 
-29. Medicalnewstoday. 
-What 
-is 
-ozone 
-therapy? 
-Benefits 
-and 
-risks. 
-Available 
-at: 
-https://www.medicalnewstoday.com/articles/320759. [Accessed: 2020 May 29th]. 
-30. WHO. Who challenges world to improve air quality. World Health Organization (WHO). Available at: 
-https://www.who.int/mediacentre/news/releases/2006/pr52/en/. [Accessed: 2020 May 29th]. 
-31. Diário 
-Oficial 
-da 
-União. 
-Resolução, 
-nº 
-491, 
-19 
-de 
-novembro 
-de 
-2018. 
-Available 
-at: 
-http://www.siam.mg.gov.br/sla/download.pdf?idNorma=51160. [Accessed: 2020 May 29th] 
-32. ABRAVA. Tecnologias para descontaminação e combate à infecção em ambientes hospitalares. Revista ABRAVA 
-+ 
-Climatização 
-& 
-Refrigeração, 
-2020; 
-71:23. 
-Available 
-at: 
-https://abrava.com.br/wp-
-content/uploads/2020/03/revista_abrava_climatiza%C3%A7%C3%A3o_refrigera%C3%A7%C3%A3o_fevereiro_
-2020_edi%C3%A7%C3%A3o_71.pdf. [Accessed: 2020 May 29th] 
-33. Guardian Air QR +. Available at: https://www.rgf.com/products/air/guardian-air-qr/#undefined. [Accessed: 2020 
-May 29th] 
-34. RGF. Advanced oxidation test results 2000-2019. RFG. Available at: https://www.rgf.com/test-results/. [Accessed: 
-2020 May 29th] 
-35. Taylor, S., and M. Tasi. 2018. Low indoor-air humidity in an assisted living facility is correlated with increased 
-patient illness and cognitive decline. Proceedings of Indoor Air 2018 744:1–8. 
-36. Mousavi, E, Lautz, R, Betz, F, Grosskopf. K. Academic Research to Support Facility Guidelines Institute & 
-ANSI/ASHRAE/ASHE Standard 170. ASHRAE Research Project CO-RP3. Atlanta: ASHRAE, 2019. 
-37. Weinstein RA. Epidemiology and control of nosocomial infections in adult intensive care units. Am J Med. 
-1991;91(3B):179S‐184S. doi:10.1016/0002-9343(91)90366-6. 
-38. Li Y, Leung GM, Tang JW, et al. Role of ventilation in airborne transmission of infectious agents in the built 
-environment - a multidisciplinary systematic review. Indoor Air. 2007;17(1):2‐18. doi:10.1111/j.1600-
-0668.2006.00445.x 
-39. ASHRAE. American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc. 1791 Tullie Circle NE, 
-Atlanta, GA 30329. www.ashrae.org. 
-40. Santos, AF, de Souza, HJL, Gaspar, PD. 2019. Evaluation of the heat and energy performance of a datacenter for 
-a new efficiency index: Energy Usage Effectiveness Design - EUED. Brazilian Archives of Biology and Technology, 
-62 (DOI: 10.1590/1678-4324-smart-2019190021). 
-41. Santos, AF, Gaspar, PD, Souza, HJL. 2020. New index for sustainability - TWI (Total Water Impact). Energies, 13, 
-1590; doi:10.3390/en13071590. 
- 
- 
-© 2020 by the authors. Submitted for possible open access publication under the terms and 
-conditions 
-of 
-the 
-Creative 
-Commons 
-Attribution 
-(CC 
-BY 
-NC) 
-license 
-(https://creativecommons.org/licenses/by-nc/4.0/). 

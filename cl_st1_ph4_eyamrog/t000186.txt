@@ -1,105 +1,17 @@
-1 
- 
-Safety analysis of sacubitril/valsartan in patients with heart failure in 
-Vitória, Espírito Santo 
- 
-Safety analysis of sacubitril/valsartan in HFrEF 
-Authors: 
-# 
-First 
-name 
-Middle 
-name 
-Last 
-name 
-Affiliation 
-ORCID 
-E-mail address 
-1 
-Roberto 
-Ramos 
-Barbosa 
-1, 2 
-0000-0002-
-6359-2678 
-roberto.cardio@gmail.com 
-2 
-Natassia 
-S. S. 
-Campos 
-Gomes 
-1 
-0000-0002-
-5270-5884 
-natassiasscg@gmail.com 
-3 
-Layane Bonfante  
-Batista 
-1 
-0000-0001-
-9879-7756 
-bblayane@gmail.com 
-4 
-Pietro 
-Dall’Orto 
-Lima 
-2 
-0000-0002-
-2692-9753 
-pietrolima@gmail.com 
-5 
-Renato 
-Giestas 
-Serpa 
-1,2 
-0000-0001-
-7219-405X 
-jrserpa@terra.com.br 
-6 
-Osmar 
-Araujo 
-Calil 
-1,2 
-0000-0002-
-0795-7740 
-osmarcalil@uol.com.br 
-7 
-Luiz 
-Fernando 
-Machado 
-Barbosa 
-1, 2 
-0000-0002-
-1092-8190 
-uip@terra.com.br 
- 
-1. Escola de Medicina da Santa Casa de Misericórdia de Vitória, Departamento de 
-Cardiologia. Vitória, ES – Brasil. 
-2. Hospital da Santa Casa de Misericórdia de Vitória, Serviço de Cardiologia. Vitória, 
-ES – Brasil. 
- 
-Corresponding author: Roberto Ramos Barbosa 
-E-mail: roberto.cardio@gmail.com / roberto.barbosa@emescam.br  
-Address: Av. Nossa Sra. da Penha, 2190, Bela Vista, 29027-502. Vitória, ES – 
-Brasil 
-Tel: +55 27 3334-3500 
- 
-Keywords: Heart Failure. Therapeutics. Acute Renal Failure. Hypotension. Hyperkalemia. 
-2 
- 
-ABSTRACT 
- 
 Background: Sacubitril/valsartan has proven its efficacy to reduce cardiovascular mortality, 
 all-cause mortality and sudden death in heart failure with reduced ejection fraction (HFrEF). 
 Thus, it becomes important to evaluate the safety profile of the medication in clinical practice.  
+
 Objectives: This study aimed to assess safety outcomes on the use of sacubitril/valsartan in 
 patients with HFrEF attended in a Brazilian specialized service. 
+
 Methods: Prospective observational study that included patients with HFrEF from a 
 specialized ambulatory service, in functional class II-IV, initiated on sacubitril/valsartan as 
 per clinical indication, with a four-month follow-up. Primary outcomes were the occurrence 
 of symptomatic arterial hypotension, hyperkalemia and reduction of renal function. Serum 
 potassium values, blood pressure and creatinine clearance were analyzed at inclusion and at 
 the end of follow-up. A 5% significance level was considered for comparisons. 
+
 Results: Twenty-six patients were analyzed, 57.7% male, mean age 57.8 ± 10 years, average 
 left ventricle ejection fraction 29.9 ± 7.7%. Symptomatic hypotension occurred in 53.8%, 
 hyperkalemia in 19.2% and reduction of renal function in 6.7%. There was significant 
@@ -107,6 +19,7 @@ difference from initial to final systolic (122 ± 24mmHg versus 109 ± 15mmHg; p
 diastolic (76 ± 18mmHg versus 66 ± 12mmHg; p=0.022) blood pressure, but no difference in 
 serum potassium (4.8 ± 0.4mEq/L versus 5.0 ± 0.3mEq/L; p=0.07) and creatinine clearance 
 (65 ± 23mL/min/1.73m² versus 66 ± 29mL/min/1.73m²; p=0.89).  
+
 Conclusions: 
 Symptomatic 
 hypotension 
@@ -118,10 +31,7 @@ side-effect
 of 
 sacubitril/valsartan. Reduction of blood pressure was observed at the end of follow-up, but no 
 reduction of renal function or significant increase of serum potassium. 
- 
-3 
- 
-INTRODUCTION 
+
 Heart failure with reduced ejection fraction (HFrEF) is a chronic disease with high morbidity 
 and mortality, affecting over 26 milllion individuals around the globe.1 From diagnosis, 
 clinical evolution is insidious despite medical treatment, causing death in at least in fourth of 
@@ -130,6 +40,7 @@ worse, with urgent need to implement the best therapies available to reduce adve
 outcomes. The BREATHE registry (Brazilian Registry of Heart Failure - Clinical aspects, 
 care quality and hospitalization outcomes) highlighted the real-world national mortality of 
 12.6%, four times higher than in countries such as the United States.3,4 
+
 Important therapeutic milestones with prognostic impact in HFrEF arised throughout the 
 years and decades. In the late 1980’s and early 1990’s, angiotensin–converting-enzyme 
 inhibitors (ACEI) proved their efficacy in HFrEF by reducing mortality in more than 30%.5,6 
@@ -140,25 +51,20 @@ defining the pharmacological triad that sustains the treatment of the disease un
 After that, only in 2014 the PARADIGM-HF study (Prospective comparison of ARNI with 
 ACEI to Determine Impact on Global Mortality and morbidity in Heart Failure trial) revealed 
 sacubitril-valsartan as a new treatment option with significant survival benefit.10 
+
 National and international guidelines recommend to prescribe sacubitril/valsartan to patients 
 with symptomatic HFrEF despite optimal medical treatment.11-13 However, possible side-
 effects, such as arterial hypotension, hyperkalemia and acute renal dysfunction can inhibit its 
 use in some populations. Local and regional analysis are desirable in HFrEF and contribute to 
 the knowledge concerning medical therapy in HFrEF. Thus, the aim of this study was to 
-4 
- 
 assess tolerability and safety outcomes of sacubitril/valsartan in patients with HFrEF who 
 were refractory to optimized medical treatment.  
- 
-METHODS 
-Study Design 
-Observational prospective study. 
-Population 
+
 We analyzed patients with HFrEF from an ambulatory specialized service that belongs to 
 Brazilian public health system, included from April to August 2018, with clinical follow-up 
 of at least four months. One-hundred and five patients were initially identified in regular 
 appointments in the specialized ambulatory service. 
-Inclusion Criteria 
+
 Patients 18 years of age or older, with previous diagnosis of HFrEF – left ventricle ejection 
 fraction (LVEF) lower than 40% by Simpson method on echocardiogram performed in the 
 last two years. Patients were in New York Heart Association (NYHA) functional class II to 
@@ -170,13 +76,11 @@ BID, with up-titration to 49/51mg and 97/103mg BID in two to four weeks if toler
 Whenever it was not possible to increase doses, medical staff kept the dose in use. In case of 
 serious adverse events, such as sever hyperkalemia (>6.0mEq/L), acute renal failure or 
 symptomatic hypotension attributed to sacubitril/valsartan, the medication was discontinued 
-5 
- 
 and resumed upon clinical resolution of  the complication. Patients with symptomatic 
 hypotension could be managed individually, with attempts to reduce symptoms by simple 
 recommendations such as reducing diuretics or other anti-hypertensive drugs, mantaining the 
 HFeRF medications whenever possible. 
-Exclusion Criteria 
+
 Patients were excluded if creatine clearance was lower than 30mL/min/1.73m² by 
 Modification of Diet in Renal Disease Study (MDRD) formula, hyperkalemia (serum 
 potassium higher than 5.5 mEq/L), systolic blood pressure lower than 100mmHg or medical 
@@ -184,7 +88,7 @@ history of allergy or angioedema after using valsartan. We also excluded patient
 interrupted the medication with no medical orientation and no clinical reason for 
 discontinuation, and patients that discontinued medical follow-up in the institution for any 
 reason.  
-Data Collection and Variables 
+
 Data from medical evaluations and complementary exams were obtained from medical 
 registries at admission and after the four-month folllow-up. Data collected included age, 
 gender, comorbidities (hypertension, diabetes mellitus, dyslipidemia, atrial fibrillation and 
@@ -196,14 +100,13 @@ questioned about the occurrence of symptomatic hypotension. Blood pressure was m
 at least twice in every medical appointment, in both arms, with digital equipment (Omron®), 
 after five to ten minutes rest, in sitting position, with the back of the body leaned on the chair, 
 legs uncrossed and feet flat on the floor. 
-6 
- 
+
 Routine evaluations were done weekly during the first month of medication usage, and every 
 15 or 30 days after one month, depending on individual clinical conditions. Laboratory 
 assessment was done every 30 days, according to institutional protocol, or within shorter 
 intervals if complications occurred. Patients who did not return for appointments were 
 contacted by telephone for rescheduling and data collection. 
-Outcomes 
+
 Clinical events considered as safety outcomes of the study were: symptomatic arterial 
 hypotension (systolic blood pressure lower than 90mmHg accompanied by at least one of the 
 following symptoms: syncope, pre-syncope, temporary visual blurring or dizziness with no 
@@ -216,28 +119,25 @@ outcomes of LVEF and NYHA functional class at admission and end of follow-up wer
 analyzed as exploratory data, with no statistical power to detect differences in such 
 comparisons. Clinical hard endpoints were also computed – death and hospitalization due to 
 decompensated HFeRF. 
-Sample Size Calculation 
+
 For sample size effect, considering an alfa error of 5% and confidence level of 95%, with an 
 estimation of outcomes occurrence of 30% in sample throughout follow-up, we estimated a 
 sample size of 24 patients, with 80% power. Due to prediction of loss of follow-up in up to 
 15%, we calculated a sample size of 30 patients to be included in the study. 
-Ethical Aspects 
-7 
- 
+
 The study was approved by the institutional Research Ethics Comittee under the number 
 2.618.469 and developed under ethical principles of the Helsinki declaration, complying with 
 resolution 466/2012. All patients included in the study received the medication from the 
 institution at no charge. Sacubitril/valsartan was prescribed as per institutional protocol, with 
 no specific interventions from the research team. All patients read, comprehended and signed 
 the free informed consent for participation in the study. 
-Statistical Analysis 
+
 Categorical variables were described as absolute numbers and percentages, and continuous 
 variables were described as mean and standard-deviation when they presented normal 
 distribution. Comparative analysis were made on Statistical Package for the Social Sciences 
 (SPSS) software version 23.0, using the Chi-Square test, the Fisher test and the paired t-
 student test, adopting a significance level of 5%. 
- 
-RESULTS 
+
 Amongst HFrEF oupatients in ambulatory follow-up throuhout the inclusion period, 31 
 patients met inclusion criteria and were prescribed sacubitril/valsartan in place of an ACEI or 
 an ARB. Five patients were excluded and 26 (83.9%) completed the four-month follow-up, 
@@ -249,8 +149,6 @@ presented hyperkalemia throughout clinical follow-up. No patients had serum pota
 dosage above 6.0 mEq/L. Two patients (6.7%) presented reduction of creatinine clearance 
 greater than 25% from baseline, and no patients had reduction of creatinine clearance below 
 30mL/min/1.73m². No patients needed definitive discontinuation of medication due to blood 
-8 
- 
 pressure, hyperkalemia or acute renal dysfunction. Temporary discontinuation due to 
 symptomatic hypotension was necessary in 11 patients (78.6% of those who presented 
 symptomatic hypotension) and due to hyperkalemia in five patients (100% of those who 
@@ -261,23 +159,22 @@ who needed to interrupt sacubitril/valsartan by medical indication, the average 
 days in use of maximum dose was 78.8 days in those who presented symptomatic 
 hypotension versus 77.4 days in those who did not (p=0.48), and 73.0 days in those who 
 presented hyperkalemia versus 78.9 days in those who did not (p=0.65). 
+
 Mean LVEF on admission and end of follow-up was respectively 29.9 ± 7.7% and 34.0 ± 
 7.8% (p=0.04). Mean NYHA functional class at both moments was 2.1 ± 0.5 and 1.1 ± 0.3 
 (p=0.01). Twenty-two patients (84.6%) improved functional class, and 21 (80.8%) were on 
 functional class I at the end of follow-up. No patients presented worsening NYHA functional 
 class. One death (3.8%) and one hospitalization due to decompensated HFrEF (3.8%) 
 occurred throughout follow-up. 
- 
-DISCUSSION 
+
 As a recently-approved medication that is still being incorporated in therapeutic arsenal of 
 HFrEF in Brazil, there is paucity of real-world safety studies for sacubitril/valsartan in 
 Brazilian population. In our sample, composed of refractory HFrEF patients on optimal 
 medical therapy, the occurrence of symptomatic hypotension was high, although with good 
 clinical control through simple medical end behavioral management in most cases. We also 
-9 
- 
 observed, in lower extent, hyperkalemia and reduction of renal function, both with no 
 significant clinical repercussion. 
+
 Sacubitril/valsartan promotes important vasodilation, once it inhibits degradation of 
 natriuretic peptides, leading to increased natriuresis, diuresis and systemic vasodilation.14 In 
 PARADIGM-HF, group sacubitril/valsartan had significant reduction of blood pressure after 
@@ -295,14 +192,13 @@ reduce possible serious adverse events during follow-up. Methods of questioning 
 interviewing might have influenced theses results, since a number of HFrEF patients often  
 tolerate hypotension with no relevant symptoms. When questioned, these might have 
 confirmed symptoms, increasing the report of this outcome. 
+
 The occurrence of hyperkalemia and plasmatic elevation of nitrogenous compounds is 
 common during natural history of HFrEF, especially during decompensating episodes.16,17  In 
 the PIONEER-HF study, the incidence of hyperkalemia in hospitalized patients was 11.6% in 
 those who initiated sacubitril/valsartan versus 9.3% in those who received enalapril (relative 
 risk 1.25; 95% confidence interval 0.84-1.84).18 Even in outpatients, mainly in those with 
 associated chronic kidney disease, the risk of hyperkalemia is higher.12 Advanced age, male 
-10 
- 
 gender, baseline hyperkalemia, diabetes and blockage of renin-angiotensin-aldosterone 
 system (RAAS) are predisposing factors for hyperkalemia.19 The last one is an integrant part 
 of optimal medical therapy, once the use of mineralocorticoid receptor antagonists reduces the 
@@ -315,6 +211,7 @@ potassium and creatinine is necessary.11  Interruption criteria include serum po
 higher than 6.0mEq/L or serum creatinine higher than 3.5mg/dl. For potassium dosages 
 between 5.6 and 6.0mEq/L, or creatinine between 2.5 and 3.5mEq/L, dose reduction and 
 frequent laboratory monitoring are recommended.12 
+
 RAAS blockage can initially cause hemodynamic renal alterations, although not promoting 
 severe worsening of glomerular filtration.22 Yet, strict observation is necessary, since multiple 
 mechanisms of reducing glomerular filtration may exist in the association between cardiac 
@@ -325,11 +222,10 @@ safety of sacubitril/valsartan, the drug does not seem to impact renal function 
 despite the high frequency of symptomatic hypotension. Equally important to note, patients 
 with creatinine clearance <30mL/min/1.73m² were excluded, thus the safety profile of the 
 medication in this population remains unknown. 
+
 Recent therapeutic innovations have been described for HFrEF with improving survival, 
 which was not seen for years in clinical trials.10,25-27 Sacubitril/valsartan represents a new 
 pharmacological option in HFrEF, capable of reducing mortality in 16%, cardiovascular 
-11 
- 
 mortality in 20%, and hospitalizations due to HFrEF in 21%.10 With clinically relevant net 
 benefit and favourable safety profile as shown in real-world studies, sacubitril/valsartan must 
 be included in the frontline therapeutic arsenal of HFrEF. Tolerability issues seem to lay 
@@ -339,6 +235,7 @@ behavioral education. However, it is important to address local and regional ind
 since ethnical and body constitution differences can interfere on pharmacological tolerance. 
 Thus, focus on therapeutic adherence and administration of mortality-reducing drugs may can 
 play its role to prolong life and improve quality of life in patients with HFrEF. 
+
 Although relevant in our population, our study has limitations, especially those related to the 
 small sample size. Despite demonstrating significant clinical benefit related to LVEF and 
 NYHA functional class on follow-up, this study did not have sufficient power for this efficacy 
@@ -347,345 +244,14 @@ teaching institution, with major initiatives to promote higher therapeutic adher
 continuous education, family meetings and frequent medical appointments. Then, these 
 results must be regarded carefully, since most national public institutions lack these resources 
 and protocols and might have higher rates of drug interruption. 
- 
-CONCLUSIONS  
+
 Sacubitril/valsartan demonstrated to be safe in Brazilian clinical practice, in a high-risk and 
 refractory group of patients with HFrEF treated in a specialized ambulatory service. 
 Symptomatic aterial hypotension was mentioned at some moment of follow-up by more than 
 half of included patients. Nevertheless, definitive drug interruption was not necessary in any 
 cases. Hyperkalemia and worsening of renal function were less frequent adverse outcomes. 
-12 
- 
+
 Knowing adverse effects of medications used for HFrEF is a major concern for 
 multidisciplinary teams to provide timely actions and aggressive, yet safe, treatments. Finally, 
 enabling the use of survival-improving medications such as sacubitril/valsartan is one of the 
 primary challenges in clinical management of patients with HFrEF. 
- 
-DATA AVAILABILITY STATEMENT 
-Data can be provided by corresponding author Roberto Ramos Barbosa on reasonable request. 
- 
-CONFLICTS OF INTEREST 
-The authors declare that there is no conflict of interest regarding the publication of 
-this article. 
- 
-ACKOWLEDGEMENTS 
-None to be declared. 
- 
-FUNDING SOURCE 
-None. 
- 
-REFERENCES 
-1. Savarese G, Lund LH. Global public health burden of heart failure. Card Fail Rev. 
-2017;3(1):7-11.  
-13 
- 
-2. Ho KK, Pinsky JL, Kannel WB, Levy D. The epidemiology of heart failure: The 
-Framingham Study. J Am Coll Cardiol. 1993;22(4A):6A-13A. 
-3. Albuquerque DC, Neto JD, Bacal F, Rohde LE, Bernardez-Pereira S, Berwanger O et al; 
-Investigadores Estudo BREATHE. I Brazilian Registry of Heart Failure - Clinical aspects, 
-care quality and hospitalization outcomes. Arq Bras Cardiol. 2015;104(6):433-42. 
-4. Kintoye E, Briasoulis A, Egbe A, Dunlay SM, Kushwaha S, Levine D, et al. National 
-trends in admission and in-­‐‑hospital mortality of patients with heart failure in the United 
-States (2001–2014). J Am Heart Assoc. 2017. 6(12): e00695. 
-5. CONSENSUS Trial Study Group. Effects of enalapril on mortality in severe congestive 
-heart failure: results of the Cooperative North Scandinavian Enalapril Survival Study 
-(CONSENSUS). N Engl J Med. 1987. 4;316(23):1429-35. 
-6. SOLVD Investigators. Effect of enalapril on mortality and the development of heart failure 
-in asymptomatic patients with reduced left ventricular ejection fractions. N Engl J Med 
-1992;327:685–691. 
-7. Pitt B, Zannad F, Remme WJ, Cody R, Castaigne A, Perez A, et al. The effect of 
-spironolactone on morbidity and mortality in patients with severe heart failure. 
-Randomized Aldactone Evaluation Study Investigators. N Engl J Med. 1999;341(10):709-
-17. 
-8. Merit-HF Study Group. Effect of metoprolol CR/XL in chronic heart failure: Metoprolol 
-CR/XL Randomised Intervention Trial in Congestive Heart Failure (MERIT-HF). Lancet 
-1999.12;353(9169):2001-7. 
-9. Eichhorn EJ, Bristow MR. The Carvedilol Prospective Randomized Cumulative Survival 
-(COPERNICUS) trial. Curr Control Trials Cardiovasc Med 2001;2:20 –3. 
-14 
- 
-10.  McMurray JJV, Packer M, Desai AS, Gong J, Lefkowitz MP, Rizkala AR et al. 
-Angiotensin-neprilysin inhibition versus enalapril in heart Failure. N Engl J Med. 2014 
-Sept 11; 371 (11): 993-1004. 
-11. Rohde LEP, Montera MW, Bocchi EA, Clausell NO, Albuquerque DC, et al. Diretriz 
-brasileira de insuficiência cardíaca crônica e aguda. Arq Bras Cardiol. 2018; 111(3):436-
-539. 
-12. Ponikowski P, Voors AA, Anker SD, Bueno H, Cleland JGF, Coats AJS, et al. 2016 ESC 
-guidelines for the diagnosis and treatment of acute and chronic heart failure: the task 
-force for the diagnosis and treatment of acute and chronic heart failure of the European 
-Society of Cardiology (ESC) Developed with the special contribution of the Heart Failure 
-Association (HFA) of the ESC. Eur Heart J. 2016, 20;37(27):2129–200. 
-13. Yancy CW, Jessup M, Bozkurt B, Butler J, Casey DE, Colvin MM, et al. 2017 
-ACC/AHA/HFSA focused update of the 2013 ACCF/AHA guideline for the management 
-of heart failure: a report of the American College of Cardiology/American Heart 
-Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of 
-America. J Am Col Cardiol, 2017;70(6):776-803. 
-14. Fu S, Ping P, Wang F, Luo L. Synthesis, secretion, function, metabolism and application 
-of natriuretic peptides in heart failure. J Biol Eng. 2018. 12 (2). 2-21. 
-15. Moulis F, Rousseau V, Chebane L, Gouverneur A, Gaboriau L, Faillie JL et al. Serious 
-adverse drug reactions with sacubitril/valsartan Entresto®: a French pharmacovigilance 
-survey. Eur J Clin Pharmacol. 2018; 74(7): 983-984. 
-16. Testani JM, Chen J, McCauley B, Kimmel SE, Shannon RP. Potential effects of agressive 
-decongestion during the treatment of decompensated heart failure on renal function and 
-survival. Circulation. 2010;122(3):265-72. 
-15 
- 
-17. Santarelli S, Russo V, Lalle I, Berardinis B, Navarin S, Magrini L, et al. Usefullness of 
-combining admission brain natriuretic peptide (BNP) plus hospital discharge bioelectrical 
-impedance vector analysis (BIVA) in predicting 90 days cardiovascular mortality in 
-patients with acute heart failure. Intern Emerg Med. 2017;12(4):445-51. Erratum in: 
-Intern Emerg Med. 2017;12 (4):559. 
-18. Velazquez EJ, Morrow DA, DeVore AD, Duffy CI, Ambrosy AP, McCague K, et al. 
-Angiotensin–neprilysin inhibition in acute decompensated heart failure. N Engl J Med 
-2019;380:539-48. 
-19. Desai AS, Swedberg K, McMurray JJ, Granger CB, Yusuf S, Young JB et al. Incidence 
-and predictors of hyperkalemia in patients with heart failure: an analysis of the CHARM 
-Program. J Am Coll Cardiol. 2007. 13; 50(20):1959-66. 
-20. Pitt B, Zannad F, Remme J, Cody R, Castaigne A, Perez A, et al. The effect of 
-spironolactone in morbidity and mortality in patients with severe heart failure. 
-Randomized 
-Aldactone 
-Evaluation 
-Study 
-Investigators. 
-N 
-Engl 
-J 
-Med. 
-1999;341(10):709-17.  
-21. Zannad F, McMurray JJV, Krum H, van Veldhuisen DJ, Swedberg K, Shi H, Vincent J, et 
-al. Eplerenone in patients with systolic heart failure and mild symptoms. N Engl J Med 
-2011;364:11-21. 
-22. Al-Naher A, Wright D, Devonald MAJ, Pirmohamed M. Renal function monitoring in 
-heart failure - what is the optimal frequency? A narrative review. Br J Clin Pharmacol. 
-2018;84(1):5–17. 
-23. Metra M, Davison B, Bettari L, Sun H, Edwards C, Lazzarini V, et al. Is worsening renal 
-function an ominous prognostic sign in patients with acute heart failure. Circ Heart Fail. 
-2012;5(1):54-62. 
-16 
- 
-24. Damman K, Testani JM. The kidney in heart failure: an update. Eur Heart J. 
-2015;36(23):1437–1444.  
-25. McMurray JJV, Solomon SD, Inzucchi SE, Køber L, Kosiborod MN, Martinez FA, et al. 
-Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction. N Engl J Med 
-2019; 381:1995-2008. 
-26. Han J, Trumble DR. Cardiac assist devices: early concepts, current technologies, and 
-future innovations. Bioengineering (Basel). 2019;6(1):18.  
-27. Han JJ, Acker MA, Atluri P. Left ventricular assist devices. Synergistic model between 
-technology and medicine. Circulation. 2018;138:2841–2851. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-17 
- 
-FIGURE CAPTION 
- 
- 
-Figure 1. Fluxogram of inclusion and exclusion in the study. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-105 outpatients attended in a Heart 
-Failure especialized center 
-31 patients met the 
-inclusion criteria 
-26 patients continued follow-
-up (126  ± 19 days)  
-5 patients excluded: 
--  3 due to loss of 
-follow-up 
--  1 due to individual 
-will 
--  1 due to 
-unintentional 
-interruption of 
-medication 
-18 
- 
-TABLES 
- 
- 
-Table 1. Baseline clinical characteristics of patients with heart failure with reduced ejection 
-fraction that initiated sacubitril/valsartan. 
- 
-Total (n=26) 
-GENDER, n (%) 
- 
-Male 
-Female 
-15 (57.7) 
-11 (42.3) 
- 
-AGE**, median ± SD* 
- 
-57.8 ± 10 
- 
- 
-ETIOLOGY, n (%) 
- 
-Ischemic 
-8 (30.8) 
-Idiopathic 
-8 (30.8) 
-Alcoholic 
-7 (26.9) 
-Chemotherapy 
-1 (3.8) 
-Others 
-2 (7.7) 
- 
-COMORBIDITIES, n (%) 
- 
-Hypertension 
-18 (69.2) 
-Dyslipidemia 
-17 (65.9) 
-Diabetes mellitus 
-13 (50.0) 
-Atrial fibrillation 
-7 (26.9) 
-Pulmonary artery hypertension 
-5 (19.2) 
- 
- 
-Previous ACEI†/ARB‡, n (%) 
-ACEI 
-26 (100.0) 
-13 (50.0) 
-ARB 
-13 (50.0) 
- 
- 
-MEDICATIONS*, n (%) 
- 
-Beta-blocker 
-26 (100.0) 
-     Carvedilol 
-23 (88.5) 
- Metoprolol succinate 
-3 (11.5) 
-Spironolactone 
-23 (88.5) 
-Diuretics 
-15 (57.7) 
-     Furosemide 
-7 (26.9) 
-     Thiazides 
-8 (30.8) 
-Anticoagulants 
-9 (34.6) 
-     Warfarin 
-5 (19.2) 
-     Dabigatran 
-4 (15.4) 
-* Standard-deviation; † Angiotensin-converting-enzyme inhibitor; ‡ Angiotensin II receptor blocker. 
- 
- 
-19 
- 
-Table 2. Safety outcomes of patients with heart failure with reduced ejection fraction that 
-initiated sacubitril/valsartan.  
-Variables 
-Mean ± standard-deviation 
-p-value 
-Systolic blood pressure (mmHg) 
- 
- 
-Initial 
-Final 
-122 ± 24 
-109 ± 15 
-p = 0.024 
-Diastolic blood pressure (mmHg) 
- 
- 
-Initial 
-Final 
-76 ± 18 
-66 ± 12 
-p = 0.022 
-Serum potassium (mg/dl) 
- 
- 
-Initial 
-Final 
-4.8 ± 0.4 
-5.0 ± 0.3 
-p = 0.07 
-Creatinine clearance (ml/min/1.73m²) 
- 
- 
- 
- 
-Initial 
-Final 
-65 ± 23 
-66 ± 29 
-p = 0.89 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-20 
- 
-KNOWLEDGE GAINED 
-Sacubitril/valsartan demonstrated a favourable safety profile in heart failure outpatients in 
-Vitória, Espírito Santo. This single-center study showed a major occurrence of symptomatic 
-hypotension (53.8%), although with an intensive questioning method. Nevertheless, serious 
-adverse outcomes such as hyperkalemia and reduction of renal function were rare. This new 
-knowledge in this specific population is important to allow wide use of prognostic-improving 
-therapies in heart failure. 
- 
- 
-AUTHORS CONTRIBUTIONS 
-Conception and design of the research: Barbosa RR, Gomes NSSC, Batista LB, Lima PD, 
-Serpa RG, Calil OA, Barbosa LFM. Acquisition of data: Barbosa RR, Gomes NSSC, Batista 
-LB, Lima PD, Serpa RG, Calil OA, Barbosa LFM. Analysis and interpretation of the data: 
-Barbosa RR, Gomes NSSC, Batista LB, Lima PD, Barbosa LFM. Statistical analysis: Barbosa 
-RR. Obtaining financing: None. Writing of the manuscript: Barbosa RR, Gomes NSSC, 
-Batista LB. Critical revision of the manuscript for intellectual content: Barbosa RR, Barbosa 
-LFM. 

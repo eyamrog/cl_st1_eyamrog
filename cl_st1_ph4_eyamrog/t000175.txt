@@ -1,129 +1,94 @@
-Potential targets for the hepatitis C virus-mediated autoimmune thyroiditis 
- 
-1 Luís Jesuíno de Oliveira Andrade - https://orcid.org/0000-0002-7714-0330 
-2 Gabriela Correia Matos de Oliveira - https://orcid.org/0000-0002-8042-0261 
- 
-1 Departamento de Saúde – Universidade Estadual de Santa Cruz - Ilhéus – Bahia, 
-Brazil. 
-2 Faculdade de Medicina – UniFTC – Salvador - Bahia, Brazil. 
- 
-Author contributions 
-Conception and design: Luis Jesuino de Oliveira Andrade 
-Analysis and interpretation: Luis Jesuino de Oliveira Andrade, Gabriela Correia 
-Matos de Oliveira. 
-Data collection: Luis Jesuino de Oliveira Andrade, Gabriela Correia Matos de Oliveira. 
-Writing the article: Luis Jesuino de Oliveira Andrade, Gabriela Correia Matos de 
-Oliveira. 
-Critical revision of the article: Luis Jesuino de Oliveira Andrade, Gabriela Correia 
-Matos de Oliveira. 
-Final approval of the article: Luis Jesuino de Oliveira Andrade, Gabriela Correia 
-Matos de Oliveira. 
-Overall responsibility: Luis Jesuino de Oliveira Andrade 
- 
-Corresponding Author: 
-Luís Jesuíno de Oliveira Andrade 
-UESC - Departamento de Saúde Campus Soane Nazaré de Andrade, Rod. Jorge Amado, 
-Km 16 - Salobrinho, Ilhéus - BA, 45662-900e-mail: luis_jesuino@yahoo.com.br. 
- 
-Disclosure of potential conflicts of interest: None of the authors have any potential 
-conflicts of interest to disclose. 
- 
- 
- 
- 
- 
-ABSTRACT 
 Introduction: The mechanisms by which hepatitis C virus (HCV) infection induces 
 autoimmune thyroiditis (AIT) have been studied, and it was suggested that 
 inflammatory cytokines during HCV infection would change the thyroperoxidase (TPO) 
 signaling cascade and thyroglobulin (Tg) determining autoimmune thyroid disease. 
+
+
 Objective: To show the signaling pathway, of TPO and Tg, and their potential targets 
-mediated HCV in individuals with hepatitis C. Methods: The mapping of the signaling 
+mediated HCV in individuals with hepatitis C. 
+
+Methods: The mapping of the signaling 
 pathway was based on a review study approach and performed using the automatic 
 annotation server of the Kyoto and Genome Encyclopedia (KEGG). PathVisio is free 
 software for analysis and design of open source routes, and was used for the graphic 
-representation of the signaling pathway. Results: The contigs were extracted from the 
+representation of the signaling pathway. 
+
+Results: The contigs were extracted from the 
 KEGG database and their mapped transcription represents the signaling pathway of the 
 main biomolecules that triggers the AIT. The action of HCV or its treatment can trigger 
 AIT that is characterized by the presence of autoantibodies against TPO and Tg. In AIT, 
 autoreactive CD4 + T lymphocytes recruit B cells and CD8 + T cells in the thyroid. The 
 progression of the disease leads to the death of thyroid cells and hypothyroidism. 
+
 Conclusion: HCV or its treatment activates several signaling pathways with thyroid 
 cells damage resulting in AIT and secondary hypothyroidism to cellular apoptosis. 
-Key words: Autoimmune thyroiditis; hepatitis C virus; signaling pathway. 
- 
-INTRODUCTION 
+
 Signaling pathway, also called signal transduction cascades, is defined how the 
 aggregation of molecules in a cell that regulates one or several functions of protection 
 against damage to cell. 
+
 The thyroid hormone has a signaling pathway complex with multiple 
 interactions being highly regulated due to tissue-specific thyroid cell expression, beyond 
 cross-talk with other signaling pathways.1 Thyroid peroxidase (TPO) is an enzyme and 
 along with thyroglobulin (Tg) are involved in the thyroid hormone synthesis. 
+
 The autoimmune thyroiditis (AIT) is characterized by lymphocytic infiltrates 
 with progressive destruction of thyroid follicles and production of antithyroglobulin and 
 antithyroperoxidase antibodies (TPO-Ab).2  
+
 The hepatitis C virus (HCV) infection is associated to endocrine-metabolic 
 disorders including AIT. Studies have shown that the therapy for HCV induces thyroid 
 diseases, and female sex, positive TPO-Ab and elevated serum of thyroid-stimulating 
 hormone (TSH) concentration are important risk factors for AIT development.3 It has 
 been suggested that the elevation of interleukins in inflammation caused by HCV would 
 alter the signaling cascade of TPO and Tg determining autoimmune thyroid disease.4 
+
 In this study, we show the signaling pathway of TPO and Tg, and their potential 
 targets for the HCV-mediated AIT based on a review of the literature. 
- 
-METHOD 
- 
+
 For search signaling pathways we use the Kyoto Encyclopedia for Genes and 
 Genomes (KEGG) pathway as reference. The KEGG is a database where they found 
 maps of biological interactions with cellular processes and pathways related to signal 
 transduction, the understanding of functions of a cell from molecular-level information.5 
- 
+
 PathVisio (version 3.2.4) is free software for biological pathways and design of 
 open source routes, and was used for the graphic representation of the signaling 
 pathway because it is a tool that enables displaying and editing of biological signaling 
 pathways.6 
- 
+
 A concise map of the signaling pathway of TPO and Tg, and their potential 
 targets for the hepatitis C virus-mediated autoimmune thyroiditis was developed based 
 on a set of confidence criteria is also available at www.genome.jp/kegg-
 bin/show_pathway?hsa05320.  
- 
+
 The connections were elaborated among all the molecules found in the literature 
 evaluated. When the molecules recognized in the literature didn't have their interactions 
 identified, the KEGG database was used to search for unidentified connections. 
- 
+
 For the design of signaling pathway started with a schematic overview of all 
 pathway maps where each pathway of HCV and of the AIT. Following an overview, 
 started in a specific pathway and the drawing may then be extended step by step with 
 additional linked pathways. 
- 
-RESULT 
- 
+
 The HCV is an etiological factor of autoimmune thyroiditis because it may 
 infect thyroid follicular cells, which presents CD8+ T-cells responses to HCV antigens 
 expressed on a cell membrane, induced by a major histocompatibility complex (MHC) 
 class II antigens DR expression, or non-specific secretion of interleukin production. 
 Presumably, the HCV would alter immune regulatory signaling pathways allowing AIT 
 to emerge (Figure 1). 
- 
-Figure 1.  Potential targets for the hepatitis C virus-mediated autoimmune thyroiditis - 
-Signaling pathway. Source: Research result 
- 
-DISCUSSION 
- 
+
 It has been hypothesized that individuals with genetic susceptibility for AIT 
 exposed to HCV infection may develop thyroiditis. The HCV is both hepatic- and 
 lymphotropic virus which triggers hepatic and extra hepatic manifestations including 
 numerous autoimmune/lymphoproliferative and/or neoplastic disorders (7). We show the 
 signaling pathway of TPO and Tg, and their potential targets for the HCV-mediated 
 AIT. 
- 
+
 Breakdown of immune tolerance due to chronic HCV infection occur due to a 
 lack or deficiency of subpopulation of regulatory T-cells with suppressive function, and 
 the cytotoxic T-cells antigen-4 (CTLA-4) plays a crucial role taking to maintain self-
 tolerance leading to initiation of a primary autoimmune response.8 
- 
+
 The HCV infection can cause thyroid cell damage in genetically susceptible 
 individuals by an immune response, with a nonspecific production of TNF-a secondary, 
 thereby increasing the MHC class expression on a cell membrane, making these cells 
@@ -131,7 +96,7 @@ seems like antigen presenting cells (APC) increasing antibodies production again
 and Tg.9 Thus, in the initial stage, agglutination of MHC class II positive APC in the 
 thyroid, that present thyroid-specific autoantigens to T-cells with clonal expansion and 
 full development of autoreactive T and B lymphocytes.10 
- 
+
 The antigens produced by the HCV through an interaction of membrane T-cells 
 receptors (TCR) are recognized by the T-cells that are activated resulting in greater 
 expression of the CTLA-4 molecule that shares homology with CD28, in this way it acts 
@@ -141,17 +106,18 @@ early T-cell activation by blocking the interaction of CD80/CD86 with the co-
 stimulatory receptor CD28, and the increased expression of co-stimulatory molecules 
 CD80/86 arising from transport of MHC molecules to the cell surface has been 
 established during an immune response.11,12 
- 
+
 The T-cells CD4+ execute important functions in the pathogenesis of AIT. After 
 the identification of autoantigens by the lymphocytes, an exaggerated increase will 
 occur in the production of autoreactive CD4+ T-cells because they are excessively 
 stimulated, as well as immunoglobulin G (IgG) autoantibodies, and CD8+ cytotoxic T- 
 cells.13 
- 
+
 Recently showed that HCV envelope protein E2 induces strong inflammatory 
 responses in thyroid cells, producing interleukin (IL)-8, IL-6, and tumor necrosis factor-
 α (TNF-α). Besides that, the E2 protein induces production of other proteins as HSP60, 
 HSP70p12A, and HSP10, in the primary thyrocytes.14 
+
 The Th1 cells stimulate autoimmune inflammatory reactions stimulating APC, 
 and secrete IL-2, IFN-γ, and TNF-α, whereas Th2-cells enhance the production of 
 autoantibodies and secrete IL-4, IL-5, IL-6, IL-10. The TCR affinity will determine 
@@ -160,13 +126,13 @@ thyroid cells by the induction of anti-apoptotic and pro-apoptotic proteins is r
 by Th1-cells or Th2-cells. The initial process of apoptosis of thyroid cells in AIT is TH1 
 cells-mediated by mechanisms involvement cytokine-regulated apoptotic pathways, and 
 involvement of death receptors cell.15 
- 
+
 The B-cells can internalize an antigen linking to the B-cell receptors (BCR) 
 incorporating it into the MHC II molecule. Low antigen concentrations make the B cells 
 to function as superior APC, and capture antigen with antigen-specific BCR, 
 concentrating the immune response in a specific antigen, while macrophages and 
 dendritic cells perform pinocytosis of antigen.16 
- 
+
 The AIT has as a histological feature accumulation of immune cells in the 
 thyroid gland, leading to disease progression, since central tolerance causes self-reactive 
 T cells to accumulate in the thyroid by altering the site of immunoregulation with 
@@ -174,96 +140,19 @@ secretion of lymphokines or cytolysis.17 The thyroid disorders due HCV infection
 increases the CXCL10 expression of thyroid cells, with a grouping of Th1 lymphocytes 
 into the gland, unleashing the onset of AIT in individuals with risk factors as well as in 
 predisposed individuals.18 
- 
+
 The Fas (CD95, TNF receptor superfamily member 6) is membrane receptor that 
 belongs to the TNF-α family of death receptors that intermeddles T-cells responses, and 
 T-cell‐mediated cytotoxicity happens due to mechanisms Fas‐dependent cytotoxicity 
 and perforin/GZMB. The Fas/Fas ligand interaction among thyrocytes favors for the 
 pathogenesis of autoimmune thyroiditis with apoptotic cell death.19  
- 
+
 The complement activation of antibody-dependent-cell-cytotoxicity carry 
 antibodies to target cells including those against TPO and Tg mediated by IgG, but 
 other unknown antibody-antigen complexes may also contribute to thyroid cell 
 destruction.20 
- 
-CONCLUSION 
- 
+
 Thus, the data indicate that HCV infection acts in the breakdown of immune 
 tolerance unleashing thyroid cell damage through of an auto-antigen released against 
 TPO and Tg, with activation of several signaling pathways resulting in AIT and 
 secondary hypothyroidism to cellular apoptosis. 
- 
-REFERENCES 
-1. Brent GA. Mechanisms of thyroid hormone action. J Clin Invest. 
-2012;122(9):3035-43.  
- 
-2. Andrade LJ, Atta AM, Atta ML, Mangabeira CN, Paraná R. Thyroid disorders 
-in patients with chronic hepatitis C using interferon-alpha and ribavirin therapy. 
-Braz J Infect Dis. 2011;15(4):377-81.  
- 
-3. Obołończyk Ł, Siekierska-Hellmann M, Wiśniewski P, et al. Epidemiology, risk 
-factors and prognosis of Interferon alpha induced thyroid disorders. A 
-Prospective Clinical Study. Postepy Hig Med Dosw (Online). 2017;71(0):842-
-849.  
- 
-4. Blackard JT, Kong L, Huber AK, Tomer Y. Hepatitis C virus infection of a 
-thyroid cell line: implications for pathogenesis of hepatitis C virus and 
-thyroiditis. Thyroid. 2013;23(7):863-70.  
-5. Ogata H, Goto S, Sato K, Fujibuchi W, Bono H, Kanehisa M. KEGG: Kyoto 
-Encyclopedia of Genes and Genomes. Nucleic Acids Res. 1999;27(1):29-34.  
- 
-6. Kutmon M, van Iersel MP, Bohler A, et al. PathVisio 3: an extendable pathway 
-analysis toolbox. PLoS Comput Biol. 2015;11(2):e1004085. 
- 
-7. Ferri C, Colaci M, Fallahi P, Ferrari SM, Antonelli A, Giuggioli D. Thyroid 
-Involvement in Hepatitis C Virus-Infected Patients with/without Mixed 
-Cryoglobulinemia. Front Endocrinol (Lausanne). 2017;8:159.  
- 
-8. Vasu C, Gorla SR, Prabhakar BS, Holterman MJ. Targeted engagement of 
-CTLA-4 prevents autoimmune thyroiditis. Int Immunol. 2003;15(5):641-54. 
- 
-9. Tomoyose T, Komiya I, Takara M, et al. Cytotoxic T-lymphocyte antigen-4 
-gene polymorphisms and human T-cell lymphotrophic virus-1 infection: their 
-associations with Hashimoto's thyroiditis in Japanese patients. Thyroid. 
-2002;12(8):673-7.  
- 
-10. Many MC, Maniratunga S, Varis I, Dardenne M, Drexhage HA, Denef JF. Two-
-step development of Hashimoto-like thyroiditis in genetically autoimmune prone 
-non-obese diabetic mice: effects of iodine-induced cell necrosis. J Endocrinol. 
-1995;147(2):311-20.  
- 
-11. Marguerie C, Lunardi C, So A. PCR-based analysis of the TCR repertoire in 
-human autoimmune diseases. Immunol Today. 1992;13(9):336-8.  
- 
-12. Salomon B, Bluestone JA. Complexities of CD28/B7: CTLA-4 costimulatory 
-pathways in autoimmunity and transplantation. Annu Rev Immunol. 
-2001;19:225-52.  
- 
-13. Pyzik A, Grywalska E, Matyjaszek-Matuszek B, Roliński J. Immune disorders 
-in Hashimoto's thyroiditis: what do we know so far? J Immunol Res. 
-2015;2015:979167.  
- 
-14. Hammerstad SS, Stefan M, Blackard J, et al. Hepatitis C Virus E2 Protein 
-Induces Upregulation of IL-8 Pathways and Production of Heat Shock Proteins 
-in Human Thyroid Cells. J Clin Endocrinol Metab. 2017;102(2):689-697.  
- 
-15. Tomer Y. Genetic dissection of familial autoimmune thyroid diseases using 
-whole genome screening. Autoimmun Rev. 2002;1(4):198-204.  
- 
-16. Harvey BP, Gee RJ, Haberman AM, Shlomchik MJ, Mamula MJ. Antigen 
-presentation and transfer between B cells and macrophages. Eur J Immunol. 
-2007;37(7):1739-51. 
- 
-17. Armengol MP, Sabater L, Fernández M, et al. Influx of recent thymic emigrants 
-into autoimmune thyroid disease glands in humans. Clin Exp Immunol. 
-2008;153(3):338-50. 
- 
-18. Ferrari SM, Fallahi P, Antonelli A, Benvenga S. Environmental Issues in 
-Thyroid Diseases. Front Endocrinol (Lausanne). 2017;8:50.  
- 
-19. Yamada A, Arakaki R, Saito M, Kudo Y, Ishimaru N. Dual Role of Fas/FasL-
-Mediated Signal in Peripheral Immune Tolerance. Front Immunol. 2017;8:403. 
- 
-20. Hidaka Y, Amino N, Iwatani Y, et al. Increase in peripheral natural killer cell 
-activity in patients with autoimmune thyroid disease. Autoimmunity. 
-1992;11(4):239-46. 

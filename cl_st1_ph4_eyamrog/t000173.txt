@@ -1,44 +1,3 @@
- 
- 
-Anxiety-related psychological impacts in the COVID-19 pandemic on 
-cardiovascular diseases and diabetes 
- 
-Lucas Emmanuel Pedro de Paiva Teixeira1*, Renato Leonardo de Freitas2,3,4,  
-Alberto Abad5, Juliana Almeida da Silva2,6, Mayra Antonelli-Ponti7, Sandra Bastos8, 
-Cláudia Helena Cerqueira Mármora9, Luis Antonio Monteiro Campos10, Scheila 
-Paiva11, José Aparecido Da Silva12 
- 
-1 Institute of Motricity Sciences, Federal University of Alfenas (UNIFAL-MG), Alfenas, Minas Gerais, 
-Brazil. 
-2 Behavioural Neurosciences Institute (INeC), Av. do Café, 2450, Monte Alegre, Ribeirão Preto, 14050-220, 
-São Paulo, Brazil. 
-3 Biomedical Sciences Institute, Federal University of Alfenas (UNIFAL), Minas Gerais, Brazil. 
-4 Laboratory of Neurosciences of Pain & Emotions and Multi-User Centre of Neuroelectrophysiology, 
-Department of Surgery and Anatomy, Ribeirão Preto Medical School of the University of São Paulo, Av. 
-Bandeirantes, 3900, Ribeirão Preto, São Paulo, Brazil. 
-5 Psychology Graduate Program, Federal University of Juiz de Fora (UFJF), Juiz de Fora, MG, Brazil.  
-6 Laboratory of Neuroanatomy and Neuropsychobiology, Department of Pharmacology, Ribeirão Preto 
-Medical School of the University of São Paulo (FMRP-USP), Ribeirão Preto, 14049-900, São Paulo, Brazil. 
-7 Laboratory of Studies and Research in Social Economy, University of São Paulo at Ribeirão Preto, SP, 
-Brazil. 
-8 Otorhinolaryngology Institute (ISBO), São Paulo, SP. Brazil 
-9 Department of the Old, Adult and Maternal-infant, School of Physical Therapy, Graduate Program in 
-Psychology, Federal University of Juiz de Fora (UFJF), Juiz de Fora, Minas Gerais, Brazil. 
-10 Master's Program in Psychology, Catholic University of Petrópolis, Petrópolis, Brazil. Department of 
-Psychology, Pontifical Catholic University of Rio de Janeiro, Rio de Janeiro, Brazil. 
-11 Psychology Graduate Program, Federal University of Juiz de Fora (UFJF), Juiz de Fora, MG, Brazil. 
-Department Speech Therapy of Federal University of Sergipe (UFS), Lagarto, SE, Brazil. 
-12 Laboratory of Psychophysics, Perception, Psychometrics, and Pain. University of São Paulo at Ribeirão 
-Preto, SP, Brazil. 
-  
-*Corresponding author: Prof Dr Lucas Emmanuel P. P. Teixeira. Institute of Motricity 
-Sciences, Federal University of Alfenas. Av. Jovino Fernandes Sales, 2600 - Santa Clara - 
-Alfenas - MG. E-mail: lucas.teixeira@unifal-mg.edu.br 
- 
- 
- 
-Abstract 
- 
 Patients and the general public are under insurmountable psychological pressure 
 which may lead to various psychological problems, such as anxiety, fear, depression, and 
 insomnia, causing, consequently, the impaired quality of life. Psychological crisis 
@@ -47,7 +6,9 @@ and disease control. A novel Severe Acute Respiratory Syndrome Coronavirus-2 (SA
 CoV-2), a pathogen of the new coronavirus disease (COVID-19), has affected several 
 sector activities, including people's health. To enhance infection control methods, 
 appropriate interventions, and public health policies,  the present study aims to assess the 
-fear and peri-traumatic stress during the Covid-19 in Brazil. Method: A cross-sectional 
+fear and peri-traumatic stress during the Covid-19 in Brazil. 
+
+Method: A cross-sectional 
 survey has been conducted from April 12th to 18th using the Peri-Traumatic Distress Scale 
 (CPDI) and the Fear Scale (FCV-19S) aiming to measure the peri-traumatic stress and fear 
 as psychological reactions during the COVID-19 pandemic. For that purpose, an online 
@@ -56,25 +17,24 @@ as a collecting information tool. After the data analysis, the individuals were 
 4 groups: Group 1 (1232) population without chronic health conditions; group 2 (298) 
 patients with previous psychological suffering, group 3 (229) patients with cardiovascular 
 diseases, group 4 (71) patients with diabetes. For analysis, G1 and were considered control 
-for comparison with groups 2, 3 and 4. Results: All the groups showed the CPDI and FCV-
+for comparison with groups 2, 3 and 4. 
+
+Results: All the groups showed the CPDI and FCV-
 19S increased in comparison with the G1 group. Concerning CPDI, the G 3 was increased 
 when compared to G1, G2 and G4. The G3 had the FCV-19S higher in comparison with 
 G1, G2 and G4. The Wilcoxon-Mann-Whitney test showed a statistical difference between 
 the control group in comparison with 2 and 3 groups (Mann-Whitney p< 0.05). 
+
 Conclusion: The COVID-19 pandemic had a significant impact on the Brazilian 
 population, with patients with heart disease and hypertension presenting the highest 
 numbers of stress and fear, with numbers comparable and even higher than those who 
 reported previous psychological distress. 
-Keywords: Mental Health; Anxiety Reactions; Fear; Peri-Traumatic Stress; Covid-19; 
-Pandemic. 
- 
- 
-Introduction 
- 
+
 The COVID-19 pandemic of the new coronavirus (SARS-CoV-2) has presented 
 itself as one of the greatest health challenges on a global scale this century. By mid-April, a 
 few months after the outbreak in China in late 2019, there had been more than 2 million 
 cases and 120,000 deaths worldwide from COVID-19.  
+
 No one can predict how things will evolve in the coming months, or when a return 
 to some semblance of ‘normal’ activity might resume (Danese et al. 2020), this can lead the 
 population to experience stress, fear, anguish for a long time. 
@@ -82,11 +42,13 @@ Previous research has revealed a profound and wide range of psychosocial impacts
 people at the individual, community, and international levels during outbreaks of infection. 
 On an individual level, people are likely to experience fear of falling sick or dying 
 themselves, feelings of helplessness, and stigma (Wang et al. 2020). 
+
 Pre-existing comorbidities such as hypertension, diabetes, and cardiovascular 
 disease are associated with  greater severity and higher fatality rate of covid-19. 
 Furthermore, COVID-19 contributes to cardiovascular complications, including acute 
 myocardial injury as a result of acute coronary syndrome, myocarditis, stress-
 cardiomyopathy, arrhythmias, cardiogenic shock, and cardiac arrest (Kang et al, 2020). 
+
 In a systematic review that included six studies with a total of 1527 patients, Li et 
 al, 2020, evaluated the proportions of hypertension, cardio-cerebrovascular disease and 
 diabetes in patients with COVID-19. The incidences of hypertension, cardio-
@@ -95,18 +57,19 @@ in ICU / severe cases than in non-ICU / severe patients. At least 8.0% of patien
 COVID-19 suffered an acute cardiac injury. The incidence of acute cardiac injury was 
 about 13 times higher in ICU / severe patients compared to non-ICU / severe patients 
 (Yang, et al, 2020). 
+
 Studies show that individuals with severe illness or multiple comorbidities present 
 higher levels of psychological symptoms in the face of this COVID-19 pandemic situation. 
 In a study that assessed the impact of the COVID-19 pandemic in Spain, Santamaria et al, 
 2020, showed that individuals who reported chronic diseases had higher average levels of 
 stress, anxiety and depression compared to those who did not report such diseases.  
- 
- 
+
 Taking into consideration that hypertensive and diabetic patients are part of the 
 group at risk for the severity of coronavirus infection and that research shows that people 
 with chronic diseases have high levels of psychic suffering caused by COVID-19, it is 
 necessary to evaluate the impact of the pandemic in patients with chronic diseases, 
 especially cardiovascular and diabetes. 
+
 In short, in a pandemic of proportions never seen before in Brazil as the one we are 
 now facing, it is important to investigate the psychological impact of the pandemic on real 
 populations so that health authorities can develop strategies to reduce psychological 
@@ -114,8 +77,7 @@ symptoms in a targeted manner to the most vulnerable population. Thus, this stud
 measured stress levels and fear in a sample of adults from all regions of Brazil during the 
 pandemic by COVID-19, making it possible with the data collected to analyze the 
 psychological needs of those facing the pandemic and the possible predictive factors. 
- 
-Methods 
+
 A cross-sectional survey has been conducted from April 12th to 18th using the Peri-
 Traumatic Distress Scale (CPDI) and the Fear Scale (FCV-19S) aiming to measure peri-
 traumatic stress and fear as psychological reactions during the Covid-19 pandemics. For 
@@ -125,16 +87,16 @@ individuals were separated into 4 groups: Group 1 (1232) population without chro
 conditions, group 2 (298) patients with previous psychological suffering, group 3 (229) 
 patients with cardiovascular diseases, group 4 (71) patients with diabetes. For analysis, G1  
 were considered control for comparison with groups 2,  3 and 4. 
+
 Participants first answered a socio-demographic survey that included specific 
 questions about chronic disease prevalence and social isolation levels during the COVID-
 19 pandemic. Then, we assessed distress by the Peri-Traumatic Distress Index (CPDI), 
 designed as a self-report questionnaire that measures depression, anxiety, avoidance, 
 compulsive behaviour, specific phobias, cognitive change, physical symptoms, and loss of 
 social functioning. The twenty-four questions were presented in a Likert format in five 
- 
- 
 categories of responses (never, occasionally, sometimes, often, most of the time). CPDI 
 content has been validated by Qiu et al, 2020.  
+
 We measured fear with the COVID-19 Fear scale (FCV-19S) presented in a Likert 
 format in five categories of responses (strongly disagree, disagree, neither agree nor 
 disagree, agree, strongly agree). It consists of a seven-item unidimensional scale with 
@@ -142,6 +104,7 @@ robust psychometric properties reliable and valid in assessing and relieving fea
 COVID-19 among individuals (Ahorsu et al, 2020). Both scales, FCV-19S and CPDI were 
 authorized by the authors to be used in the research and were translated and adapted to the 
 Brazilian Portuguese language.  
+
 Concerning the statistical analyses, the data are presented as median, 25th to 75th 
 percentiles. First, the reliability of the two scales was evaluated using the Cronbach's Alpha 
 calculation, Bartlett's sphericity test and the Kaiser-Meyer-Olkin adequacy factor (KMO). 
@@ -149,182 +112,26 @@ Then, the Shapiro-Wilk normality test was performed to check the normal distribu
 all data. Data regarding the Fear scale and Peri-traumatic distress were subjected to a one-
 way repeated-measures analysis of variance (split-plot ANOVA), followed, when 
 appropriate, by Tukey’s post hoc test.  
- 
- 
-Results 
+
 First, it was showed the proportion of the interviewees who have health problems, 
 who were in Social isolation, and who have physical disabilities and proportion who 
 practice some sport activity and proportion by age group, as shown in table 1. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Table 1 - Descriptive table of the interviewees' health data 
-Variable 
-Classes 
-Proportion (%) 
-Proportion Confidence 
-Interval (IC) – 95% 
-With health problem 
-No 
-65,40 
-63,17 – 67,57 
-Yes 
-34,60 
-32,43 – 36,83 
-TOTAL 
-100,00 
-– 
-Social isolation 
-No  
-12,96 
-11,48 – 14,60 
-Yes 
-87,04 
-85,40 – 88,52 
-TOTAL 
-100,00 
-– 
-Physical disability 
-No 
-98,43 
-97,72 – 98,93 
-Yes  
-1,57 
-1,07 – 2,28 
-TOTAL 
-100,00 
-–  
-Practices sports activity 
-No 
-52,01 
-49,70 – 54,31 
-Yes 
-47,99 
-45,69 – 50,30 
-TOTAL 
-100,00 
-– 
-Age group 
-Less than 25 
-21,20 
-19,37 – 23,16 
-26 a 50 years 
-63,07 
-60,81 – 65,27 
-51 or more 
-15,73 
-14,11 – 17,49 
-TOTAL 
-100,00 
-– 
- 
+
 Table 2 present the means, confidence intervals, weighted means and the Cronbach  
 Alpha estimate for each of the factors of the respective CPDI scales and the Fear scale. The 
 CPDI scale composed of 4 factors is represented there, as well as the Fear scale, which is 
 unidimensional, in which we use the mean Fear Score for the exposed calculations.  
 Regarding the Cronbach Alfa, the total factors of the CPDI scale and the Fear scale 
 obtained the greatest internal consistencies, being 0.90 and 0.88 respectively. 
- 
-Table 2 - Cronbach's Alpha: Means and Confidence Interval by factor of the IEPC Scale 
-Class 
-Minimum 
-Maximum 
-Median 
-Simple 
-Average 
-Weighted 
-average 
-Confidence 
-Interval 
-(95%)  
-Standard 
-deviation 
-Cronbach's 
-alpha 
-CPDI Fator 1 
-0,00 
-4,00 
-2,00 
-1,99 
-1,99 
-1,95 – 2,03 
-1,0 
-0,74 
-CPDI Fator 2 
-0,00 
-3,57 
-1,14 
-1,16 
-1,17 
-1,14 – 1,20 
-0,61 
-0,63 
-CPDI Fator 3 
-0,00 
-4,00 
-1,86 
-1,90 
-1,87 
-1,85 – 1,94 
-0,92 
-0,83 
-CPDI Fator 4 
-0,00 
-4,00 
-0,60 
-0,83 
-0,83 
-0,79 – 0,87 
-0,85 
-0,77 
-Total CPDI 
-4,00 
-93,00 
-38,00 
-39,57 
-39,57 
-38,83 – 40,31 
-16,24 
-0,90 
-Fear Score 
-7,00 
-35,00 
-17,00 
-18,08 
-1,99 
-17,78 – 18,39 
-6,69 
-0,88 
- 
- 
- 
+
 Bartlett's sphericity test shows that the variables observed by the questionnaire are 
 correlated in the population, table 3. 
- 
-Table 3 - Bartlett's test - CPDI and Fear Scales. 
-Class 
-Estimate 
-Degrees of freedom 
-p-value 
-CPDI Scale 
-2135,7 
-23 
-0,00 
-Fear Scale 
-466,42 
-6 
-0,00 
- 
+
 Finally the Kaiser-Meyer-Olkin (KMO) sample size suitability factor shows that the 
 sample size is sufficiently adequate to test the variables for which they are intended by 
 Factor Analysis, with all CPDI values being ≥ 0.82 except question 21 (0.57) and all FEAR 
 Scale values being ≥ 0.84. 
+
 The CPDI scores of the comparison between the study groups, the Wilcoxon-Mann-
 Whitney test showed that people with psychological problems or who reported 
 psychological suffering and heart disease and/or hypertension had the highest scores in the 
@@ -334,170 +141,14 @@ other groups, with higher scores even than those with psychological problems or 
 reported psychological suffering. Also, diabetic patients had similar values to those who did 
 not report health problems (Mann-Whitney U = 42672; p< 0.05). These data are shown in 
 table 4. 
- 
-Table  4 - CPDI Score – Comparison between groups 
-Variable 
-Class 
-Media 
-Media Confidence 
-Interval (IC) – 95% 
-Minimum 
-Value 
-1st 
-quartile 
-Median 
-3rd 
-quartile 
-Maximum 
-Value 
-p-valor  
-CPDI Score 
-Diabetics 
-37,93 
-34,05 – 41,80 
-10,00 
-25,00 
-35,00 
-47,00 
-91,00 
-0,88 
-No health problems 
-37,33 
-36,49 – 38,18 
-4,00 
-25,00 
-36,00 
-48,00 
-85,00 
- 
-CPDI Score 
-Hypertensive/Cardiac Diseases 
-58,89 
-51,10 – 66,68 
-19,00 
-50,00 
-61,00 
-70,50 
-93,00 
-0,00 
-No health problems 
-37,33 
-36,49  –38,18 
-4,00 
-25,00 
-36,00 
-48,00 
-85,00 
- 
-CPDI Score 
-With psychological distress 
-51,62 
-49,87 – 53,44 
-11,00 
-41,75 
-54,00 
-62,00 
-93,00 
-0,00 
-No psychological distress 
-37,28 
-36,52 –38,05 
-4,00 
-25,00 
-36,00 
-47,00 
-92,00 
- 
- 
- 
- 
+
 In Table 5, is referring to the FEAR scale scores. The G3 had the FCV-19S higher 
 in comparison with G1, G2 and G4. The Wilcoxon-Mann-Whitney test showed that the 
 comparison between the study groups shows behaviour similar to the data in Table 2 
 referring to the CPDI scale (Mann-Whitney p< 0.05), except in comparisons between 
 diabetics and no health problems, where there is a tendency to have a greater impact on 
 diabetic patients Mann-Whitney U = 47572; p< 0.05). 
- 
-Table 5  – Fear Score – Comparison between groups 
-Variable 
-Class 
-Media 
-Media 
-Confidence 
-Interval (IC) 
-– 95% 
-Minimum 
-Value 
-1st 
-quartile 
-Median 
-3rd 
-quartile 
-Maximum 
-Value 
-p-valor  
-Fear Score 
-Diabetics 
-18,90 
-17,19 – 20,61 
-7,00 
-13,00 
-18,00 
-23,75 
-35,00 
-0,07 
-No health problems 
-17,28 
-16,92 – 17,64 
-7,00 
-12,00 
-16,00 
-22,00 
-35,00 
- 
-Fear Score 
-Hypertensive/Cardiac 
-Diseases 
-23,78 
-20,86 – 26,69 
-7,00 
-19,00 
-25,00 
-29,50 
-34,00 
-0,00 
-No health problems 
-17,28 
-16,92 – 17,64 
-7,00 
-12,00 
-16,00 
-22,00 
-35,00 
- 
-Fear Score 
-With psychological 
-distress 
-20,84 
-20,06 – 21,62 
-7,00 
-15,00 
-21,00 
-26,00 
-35,00 
-0,00 
-No psychological 
-distress 
-17,56 
-17,23 – 17,89 
-7,00 
-13,00 
-17,00 
-22,00 
-35,00 
- 
- 
-Discussion 
+
 Psychiatric disorders and impairment of the psychological reactions have been 
 related to cardiovascular diseases, especially hypertension, which is also observed in 
 diabetic patients. Moreover, in a pandemic situation, little is known about the impacts of an 
@@ -507,56 +158,62 @@ diseases are more impacted by COVID-19 in comparison with healthy people, then t
 of contracting the severe form of Sars-CoV-2 (Wang el al, 2020; Liu et al, 2020), and the 
 psychological consequences of the pandemic by COVID-19 (Santamaria et al, 2020), but 
 specific data on patients with cardiovascular diseases and diabetes are scarce. 
- 
- 
+
 Population exposure to trauma, such as witnessing and caring for severely ill 
 people, perceived life-threatening, mortality and bereavement, deaths of health 
 professionals, may impair the population's mental health, increasing the risks of developing 
 psychic suffering and progression to psychopathology, among them post-traumatic stress 
 disorder (PSTD) (Neria et al, 2011; Shultz et al., 2015).  
+
 People react to stressful psychological factors such as fear, indifference, fatalism, 
 anxiety, depression and the like very differently from each other (Taylor, 2019). Besides, 
 hypertension, diabetes and cardiovascular diseases have been identified as possible risk 
 factors for more severe in patients with Sars-CoV-2 (Martinez-Ferran et al, 2020), this may 
 lead this part of the population to present higher levels of psychological symptoms since 
 COVID-19 tends to present more severely in individuals with multiple comorbidities. 
+
 Wang and collaborators (2020), evaluated 1210 volunteers through the Depression, 
 Anxiety and Stress Scale (DASS-21). In total, 53.8% of the interviewees classified the 
 psychological impact of the outbreak as moderate or severe; 16.5% reported moderate to 
 severe depressive symptoms; 28.8% reported moderate to severe anxiety symptoms, and 
 8.1% reported moderate to severe stress levels. 
+
 Furthermore, to deal with and eliminate the stigma associated with the epidemic, it 
 is necessary to create strategies to deal with the psychological stress of the post-pandemic 
 period (Wang et al, 2020), especially people with chronic diseases. 
+
 In our study we found a high level of psychological suffering in patients with 
 cardiovascular and diabetic diseases, which can be explained in part by the high levels of 
 psychological suffering found in hypertensive and diabetic patients even at non-pandemic 
 times, however, there is evidence of a greater impact of the pandemic by COVID-19 on the 
 mental health of this part of the population.  
- 
+
 In a study of 52,095 hypertensive patients from 19 countries, Stein et al, 2014 
 describe that depression, anxiety and eating disorders were significantly associated with the 
 subsequent diagnosis of hypertension.  
- 
- 
+
 Li et al, 2015 in a meta-analysis of 10,194 hypertensive patients in 27 studies using 
 self-evaluation scales of depression found a high prevalence of depression (29.8%), similar 
 numbers to those found by Gebre et al, 2020 in a study of 310 hypertensive patients 
 (24.7%).  
+
 Diabetic patients, on the other hand, present similar levels of psychological 
 suffering, ranging from 17 to 28.8% in different studies and countries (Alajmani et al, 
 2019, Park et al, 2015). In our study, people with diabetes had high levels of stress and fear, 
 but with no statistical difference to volunteers without diabetes, however, both have high 
 levels of stress and fear in the face of the pandemic by COVID-19. 
+
 Studies show that individuals with severe illness or multiple comorbidities present 
 higher levels of psychological symptoms in a crisis. In a study that assessed the impact of 
 the COVID-19 pandemic in Spain, Santamaria et al, 2020, showed that individuals who 
 reported chronic diseases had higher average levels of stress, anxiety and depression 
 compared to participants who did not report such diseases. 
+
 Yang et al, 2020, in a study that evaluated 1099 patients with COVID-19, of which 
 173 had the severe form of the disease having as risk factors comorbidities, being arterial 
 hypertension (23.7%), diabetes mellitus (16.2%), coronary diseases (5.8%) and 
 cerebrovascular disease (2.3%).  
+
 In fact, in our study, individuals with cardiovascular diseases, including 
 hypertension, had significantly higher levels of peri-traumatic fear and stress than 
 individuals who do not have chronic diseases. The scores assessed by the Fear scale (FCV-
@@ -565,143 +222,10 @@ peri-traumatic stress by the Peri-Traumatic Distress Index (CPDI) with a score o
 indicating a severe score. This shows that this population should receive special attention 
 from public health agencies with the implementation of policies aimed at mental health 
 monitoring during the pandemic and post-pandemic periods.  
+
 In conclusion,  it was evidenced  that two main factors lead hypertensive and 
 diabetic patients to have such high levels of psychic suffering during the pandemic by 
- 
- 
 COVID-19, first that this population already suffers from higher levels of depression and 
 other psychic problems, according to the knowledge and constant disclosure that these 
 people belong to the group at risk for development of severe form and evolution to death by 
 COVID-19.  
- 
-Acknowledgements: We acknowledge the participants in this study. 
- 
- Conflict of Interest: The authors declare that there are no conflicts of interest with this 
-work. 
- 
- Authors' contribution: L.E.P.P. Teixeira, A. Abad, Juliana A. da Silva and R.L. de Freitas 
-elaborated, analysed, and wrote sed the manuscript; José A. da Silva participated in the 
-created, elaborated the project and revised the manuscript; S. Paiva, S. Bastos, C.H.C. 
-Mármora, L.A.M. Campos and M. Antonelli-Ponti, revised the manuscript. 
- 
- 
-Authors' ORCID information 
- 
-L.E.P.P. Teixeira, https://orcid.org/0000-0003-1799-5326 
-R.L. de Freitas: https://orcid.org/0000-0003-1799-5326 
-A. Abad: https://orcid.org/0000-0002-7748-6008 
- 
-Juliana A. da Silva: https://orcid.org/0000-0002-7188-5120 
-M. Antonelli-Ponti: https://orcid.org/0000-0003-4931-2788  
-S. Bastos: https://orcid.org/0000-0002-0027-5173 
-C.H.C. Mármora: https://orcid.org/0000-0003-0457-3992 
-L.A.M. Campos: https://orcid.org/0000-0002-2707-5593 
-S. Paiva: https://orcid.org/0000-0002-5426-7873 
-José A. da Silva: https://orcid.org/0000-0002-1852-369X 
- 
- 
- 
-References 
-Danese, S., Sands, B., Ng, S.C. et al. The day after COVID-19 in IBD: how to go back to 
-‘normal’. Nat Rev Gastroenterol Hepatol (2020). https://doi.org/10.1038/s41575-020-0322-
-8. 
-Wang, C.; Pan, R.; Wan, X.; Tan, Y.; Xu, L.; Ho, C.S.; Ho, R.C. Immediate Psychological 
-Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease 
-(COVID-19) Epidemic among the General Population in China. Int. J. Environ. Res. Public 
-Health 2020, 17, 1729 
-Santamaria M. D., Ozamiz-Etxebarria N., Gorrochategui M. P., Mondragon N. I. Stress, 
-anxiety, and depression levels in the initial stage of the COVID-19 outbreak in a population 
-sample in the northern Spain. Cad. Saúde Pública vol.36 no.4. Rio de Janeiro  2020 
- Epub Apr 30, 2020. 
-Kang Y, Chen T, Mui D, et al. Cardiovascular manifestations and treatment considerations 
-in covid-19 [published online ahead of print, 2020 Apr 30]. Heart. 2020;heartjnl-2020-
-317056. doi:10.1136/heartjnl-2020-317056 
-Li B, Yang J, Zhao F, et al. Prevalence and impact of cardiovascular metabolic diseases on 
-COVID-19 in China. Clin Res Cardiol. 2020;109(5):531-538. doi:10.1007/s00392-020-
-01626-9 
-Wang X, Fang X, Cai Z, et al. Comorbid Chronic Diseases and Acute Organ Injuries Are 
-Strongly Correlated with Disease Severity and Mortality among COVID-19 Patients: A 
-Systemic Review and Meta-Analysis. Research (Wash D C). 2020;2020:2402961. 
-Published 2020 Apr 19. doi:10.34133/2020/2402961 
-Liu H, Chen S, Liu M, Nie H, Lu H. Comorbid Chronic Diseases are Strongly Correlated 
-with Disease Severity among COVID-19 Patients: A Systematic Review and Meta-
-Analysis. Aging 
-Dis. 
-2020;11(3):668-678. 
-Published 
-2020 
-May 
-9. 
-doi:10.14336/AD.2020.0502 
- 
- 
-Shultz JM, Baingana F, Neria Y. The 2014 Ebola Outbreak and Mental Health: Current 
-Status 
-and 
-Recommended 
-Response.JAMA. 2015;313(6):567-568. 
-doi:10.1001/jama.2014.17934 
-Neria Y, Sullivan GM. Understanding the Mental Health Effects of Indirect Exposure to 
-Mass 
-Trauma 
-Through 
-the 
-Media. JAMA. 2011;306(12):1374–1375. 
-doi:10.1001/jama.2011.1358 
-Taylor,S. (2019). The Psychology of Pandemics: Preparing for the Next Global Outbreak of 
-Infectious Disease. Cambridge Scholars Publishing: UK. 
-Martinez-Ferran M, de la Guía-Galipienso F, Sanchis-Gomar F, Pareja-Galeano H. 
-Metabolic Impacts of Confinement during the COVID-19 Pandemic Due to Modified Diet 
-and Physical Activity Habits. Nutrients. 2020;12(6):E1549. Published 2020 May 26. 
-doi:10.3390/nu12061549 
-Wang, C.; Pan, R.; Wan, X.; Tan, Y.; Xu, L.; Ho, C.S.; Ho, R.C. Immediate Psychological 
-Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease 
-(COVID-19) Epidemic among the General Population in China. Int. J. Environ. Res. Public 
-Health 2020, 17, 1729 
-Stein DJ, Aguilar-Gaxiola S, Alonso J, et al. Associations between mental disorders and 
-subsequent 
-onset 
-of 
-hypertension. Gen 
-Hosp 
-Psychiatry. 
-2014;36(2):142-149. 
-doi:10.1016/j.genhosppsych.2013.11.002 
-Li Z, Li Y, Chen L, Chen P, Hu Y. Prevalence of Depression in Patients With 
-Hypertension: A Systematic Review and Meta-Analysis [published correction appears in 
-Medicine 
-(Baltimore). 
-2018 
-Jun;97(22):e11059). 
-Medicine 
-(Baltimore).  
-2015;94(31):e1317. doi:10.1097/MD.0000000000001317 
-Gebre BB, Deribe B, Abeto M. Magnitude and Associated Factors of Depression Among 
-Hypertensive Patients Attending Treatment Follow Up in Chronic OPD at Hawassa 
-University Comprehensive Specialized Hospital, Hawassa, Southern Ethiopia. Integr Blood 
-Press Control. 2020;13:31-39. Published 2020 Mar 23. doi:10.2147/IBPC.S240015 
- 
- 
-Park CY, Kim SY, Gil JW, Park MH, Park JH, Kim Y. Depression among Korean Adults 
-with Type 2 Diabetes Mellitus: Ansan-Community-Based Epidemiological Study. Osong 
-Public Health Res Perspect. 2015;6(4):224-232. doi:10.1016/j.phrp.2015.05.004 
-Alajmani DSA, Alkaabi AM, Alhosani MW, et al. Prevalence of Undiagnosed Depression 
-in Patients With Type 2 Diabetes. Front Endocrinol (Lausanne). 2019;10:259. Published 
-2019 May 3. doi:10.3389/fendo.2019.00259 
-Santamaria M. D., Ozamiz-Etxebarria N., Gorrochategui M. P., Mondragon N. I. Stress, 
-anxiety, and depression levels in the initial stage of the COVID-19 outbreak in a population 
-sample 
-in 
-the 
-northern 
-Spain. 
-Cad. 
-Saúde 
-Pública vol.36 no.4. Rio 
-de 
-Janeiro  2020  Epub Apr 30, 2020 
-Yang X, Yu Y, Xu J. Clinical course and outcomes of critically ill patients with SARS-
-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational 
-study. Lancet Respir Med. 2020 doi: 10.1016/S2213-2600(20)30079-5. published online 
-Feb 24 
- 

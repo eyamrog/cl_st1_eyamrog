@@ -1,62 +1,15 @@
-10.1590/0004-282X20200056  
-View and Review 
- 
-Management of central nervous system demyelinating 
-diseases 
-during 
-the 
-coronavirus 
-disease 
-2019 
-pandemic: a practical approach 
-Manejo de doenças desmielinizantes do sistema nervoso 
-central na pandemia de doença do coronavírus 2019: uma 
-abordagem prática 
- 
-Samira Luisa APÓSTOLOS-PEREIRA1 0000-0003-0560-6901 
-Guilherme Diogo SILVA1 0000-0001-9764-3763 
-Caio César Diniz DISSEROL1 0000-0001-7568-0897 
-Lucas Bueno FEO1 0000-0002-4679-9765 
-Aline de Moura Brasil MATOS1 0000-0002-1854-2575 
-Vinicius Andreoli SCHOEPS1 0000-0001-8875-0567 
-Ana Beatriz Ayroza Galvão Ribeiro GOMES1 0000-0003-1657-6891 
-Mateus BOAVENTURA1 0000-0002-5914-8099 
-Maria Fernanda MENDES1,2 0000-0003-3983-6019 
-Dagoberto CALLEGARO1 0000-0003-0077-173X 
- 
-1Universidade de São Paulo, Hospital das Clínicas, School of Medicine, 
-Department of Neurology, São Paulo SP, Brazil. 
-2Santa Casa de São Paulo, School of Medical Sciences, Department of 
-Neurology, São Paulo SP, Brazil. 
- 
-Correspondence: 
-Samira 
-Luisa 
-Pereira 
-Apóstolos; 
-E-mail: 
-samira.apostolos.neuro@gmail.com 
-Conflict of interests: The authors Samira Luisa Apóstolos Pereira, Maria 
-Fernanda Mendes, and Dagoberto Callegaro have participated in the production 
-of presentations and material for Biogen, Merck, Novartis, and Sanofi-Genzyme. 
-Authors' contributions: SLPA and MFM: Substantial contributions to the study 
-design and development, writing of the article, and critical revision. 
-GDS, CCDD, LBF, AMBM, VAS, ABAGRG, and MB: Substantial contributions to 
-the study design and development. 
-DC: Substantial contributions to the approval of the final version. 
-Received on April 28, 2020; Received in its final form on May 23, 2020; Accepted 
-on May 31, 2020. 
- 
- 
-ABSTRACT 
 Background: The novel coronavirus disease 2019 (COVID-19) pandemic poses 
 a potential threat to patients with autoimmune disorders, including multiple 
 sclerosis (MS) and neuromyelitis optica spectrum disorder (NMOSD). Such 
 patients are usually treated with immunomodulatory or immunosuppressive 
 agents, which may tamper with the organism’s normal response to infections. 
 Currently, no consensus has been reached on how to manage MS and NMOSD 
-patients during the pandemic. Objective: To discuss strategies to manage those 
-patients. Methods: We focus on how to 1) reduce COVID-19 infection risk, such 
+patients during the pandemic. 
+
+Objective: To discuss strategies to manage those 
+patients. 
+
+Methods: We focus on how to 1) reduce COVID-19 infection risk, such 
 as social distancing, telemedicine, and wider interval between laboratory 
 testing/imaging; 2) manage relapses, such as avoiding treatment of mild relapse 
 and using oral steroids; 3) manage disease-modifying therapies, such as 
@@ -66,48 +19,12 @@ when safe; 4) individualize the chosen MS induction-therapy (anti-CD20
 monoclonal antibodies, alemtuzumab, and cladribine); 5) manage NMOSD 
 preventive therapies, including initial therapy selection and current treatment 
 maintenance; 6) manage MS/NMOSD patients infected with COVID-19. 
+
 Conclusions: In the future, real-world case series of MS/NMOSD patients infected 
 with COVID-19 will help us define the best management strategies. For the time 
 being, we rely on expert experience and guidance.  
-Keywords: Multiple Sclerosis; Neuromyelitis Optica Spectrum Disorders; 
-Coronavirus; Immunosuppressive Agents; Drug Side Effects. 
- 
-RESUMO 
-Introdução: A mais recente pandemia causada pelo coronavírus SARS-CoV-2 
-(COVID-19, do inglês coronavirus disease 2019) representa uma ameaça 
-potencial para pacientes com doenças autoimunes, incluindo esclerose múltipla 
-(EM) e transtorno do espectro de neuromielite óptica (NMOSD, do inglês 
-neuromyelitis optica spectrum disorders). Esses pacientes são geralmente 
-tratados com medicamentos imunomoduladores ou imunossupressores que 
-podem alterar a resposta normal do organismo a infecções. Até o momento, não 
-há consenso sobre como o manejo dos pacientes com EM e NMOSD deve ser 
-realizado durante a pandemia. Objetivo: Discutir estratégias para manejar esses 
-pacientes. Métodos: Focamos em como 1) reduzir o risco de infecção por 
-COVID-19, como distanciamento social, telemedicina e exames laboratoriais e 
-de imagem em intervalos mais amplos; 2) manejo de surtos, incluindo evitar 
-tratamento de surto leve e uso de corticoide oral; 3) gerenciar terapias 
-modificadoras de doença, como a preferência por medicamentos associados a 
-menor risco de infecção (interferons, glatirâmer, teriflunomida e natalizumabe) e 
-infusão em intervalo estendido de natalizumabe, quando seguro; 4) individualizar 
-a escolha da terapia de indução para EM (anticorpos monoclonais anti-CD20, 
-alentuzumabe e cladribina); 5) manejar terapias preventivas de NMOSD, 
-incluindo seleção inicial de terapia e manutenção do tratamento atual; 6) manejar 
-pacientes com EM/NMOSD que foram infectados por COVID-19. Conclusão: No 
-futuro, séries de casos de pacientes com MS/NMOSD infectados com COVID-
-19 nos ajudará a definir as melhores estratégias de manejo. Por enquanto, 
-contamos com a experiência e orientação especializadas.  
-Palavras-chave: Esclerose Múltipla; Neuromielite Óptica; Coronavírus; 
-Imunossupressor; Efeitos Colaterais e Reações Adversas Relacionados a 
-Medicamentos. 
- 
- 
- 
- 
- 
- 
-INTRODUCTION 
- 
- The coronavirus disease 2019 (COVID-19) pandemic is the latest threat to global 
+
+The coronavirus disease 2019 (COVID-19) pandemic is the latest threat to global 
 health. It is a fast-spreading respiratory infection caused by a novel coronavirus 
 identified in December 2019. As it can evolve to severe acute respiratory 
 syndrome (SARS) and has a high transmission rate (on average, each infected 
@@ -115,8 +32,8 @@ person spreads the virus to another two people), it poses a challenge to public
 health and clinical practice. The pandemic is not expected to end for at least 18 
 months1. During this time, management of chronic autoimmune diseases will be 
 a challenge. 
-  
- The coronavirus family shows a potential neurotropism that may induce 
+
+The coronavirus family shows a potential neurotropism that may induce 
 neurological disorders, such as inflammatory polyneuropathy, encephalopathy, 
 ischemic stroke, and demyelinating diseases. Neurotropism can occur via trans-
 lamina cribrosa with SARS-CoV-2 penetrating the central nervous system (CNS) 
@@ -129,7 +46,7 @@ barrier disruption may work as an entry door for infected leukocytes into the CN
 This scenario might lead to direct viral damage to the parenchyma, as observed 
 with other viruses, or trigger clinical events associated with CNS autoimmune 
 disorders.  
-  
+
 Multiple sclerosis (MS) is a chronic, demyelinating, autoimmune disease 
 of the CNS4. It is the most common demyelinating disease and the main cause 
 of neurological disability in young adults following trauma5. Neuromyelitis optica 
@@ -143,6 +60,7 @@ myelin oligodendrocyte glycoprotein antibodies (MOG IgG), post-infectious
 inflammation, and other conditions caused by unidentified antibodies8,9. NMOSD 
 represents approximately 20% of all demyelinating diseases of the CNS in Latin 
 America9.  
+
 MS and NMOSD require continuous preventive treatment to avert 
 disability and improve quality of life. There is no cure for MS or NMOSD, but the 
 long-term prognosis for patients with both diseases improved considerably over 
@@ -154,6 +72,7 @@ the organism’s normal response to infections. The follow-up of patients with
 demyelinating disorders is complex and involves regular appointments for clinical 
 assessment, routine CNS imaging, and laboratory monitoring, which can be 
 perilous during a pandemic. 
+
 Currently, no consensus has been reached on how to manage MS and 
 NMOSD patients during the pandemic. The Brazilian Committee for Treatment 
 and Research in Multiple Sclerosis (BCTRIMS), the Latin American Committee 
@@ -164,9 +83,7 @@ will discuss management strategies for patients with demyelinating disorders tha
 have been adopted at two large MS/NMOSD care centers in the city of São Paulo, 
 Brazil, during this period. We offer a practical approach aimed at mitigating 
 COVID-19 infection risk whilst maintaining clinical stability and safety. 
- 
-How to monitor clinical status? 
- 
+
 As social distancing becomes the recommendation to avoid COVID-19 
 infection, new ways must be sought to achieve optimal management of patients 
 with chronic autoimmune disorders while still maintaining efficient disease 
@@ -174,6 +91,7 @@ prevention. Recently, telemedicine has been adopted as a clinical management
 tool, which now has legal support in our country (Law no. 13,989 of April 15, 
 2020). Remote care has become a safe way of monitoring patients during the 
 pandemic.  
+
 The literature regarding telemedicine and MS has been recently reviewed, 
 highlighting benefits in several aspects involved in MS care (e.g., cost-
 effectiveness and satisfaction of patients and providers)12. This tool is supported 
@@ -184,6 +102,7 @@ assessing MS patients. If necessary, more complex evaluations, such as the
 fundoscopic examination, can also be used with proper technological support14. 
 However, this method is not without its drawbacks, particularly concerning 
 compliance to treatment during extended periods and technological barriers.  
+
 During the current COVID-19 pandemic, phone and/or e-mail contact have 
 been established with most patients at both Hospital das Clínicas da Faculdade 
 de Medicina da Universidade de São Paulo and Faculdade de Ciências Médicas 
@@ -191,46 +110,7 @@ da Santa Casa de São Paulo. This contact has allowed direct interaction between
 patient and caregiver in order to reschedule future appointments, check the 
 results of laboratory tests and imaging, address patient’s complaints, perform 
 drug monitoring/management, and provide information concerning the pandemic. 
-Table 1 shows recommendations for telemedicine consultations for MS/NMOSD 
-patients during the COVID-19 pandemic. 
- 
-Table 1. Telemedicine approach for multiple sclerosis/neuromyelitis optica 
-spectrum disorder patient care during the COVID-19 pandemic. 
- 
-Strategies for MS/NMOSD care 
-Teleorientation 
-Education about the COVID-19 pandemic: patients should be 
-instructed – via e-mail, telephone, or video-call – to: 1) follow 
-social distancing, 2) be rigorous about hand hygiene and mask 
-use, 3) go to an emergency room in the presence of red flags for 
-severe SARS-CoV-2 infection (dyspnea, fever), 4) if necessary, 
-ask for a medical report explaining the need for home-office 
-work and influenza vaccination.  
-Telemonitoring 
-Laboratory testing: blood count and immunoglobulin levels can 
-be checked through e-mail. We suggest explaining to patients 
-that more flexible monitoring may be more appropriate to reduce 
-infection 
-risk.  
-Magnetic resonance imaging: we recommend annual CNS 
-imaging (MRI) to be checked via telemedicine, e-mail, or online.  
-Teleconsultation Outpatient consultation: routine appointments should be 
-rescheduled or performed using telemedicine. When prescribing 
-a DMD, we should discuss drug access strategies (e.g., family 
-member goes to the drugstore instead of the patient).  
-Emergency consultation: relapse evaluation should start by 
-excluding active infections. COVID-19 should be ruled out. 
-Neurological examination and prescription of high-dose oral 
-steroids can be performed using telemedicine to prevent 
-hospitalization.  
-MS/NMOSD: multiple sclerosis/neuromyelitis optica spectrum disorder. 
-  
- 
-How to deal with relapses of demyelinating disease? 
- 
-Multiple sclerosis 
- 
-  
+
 Relapse is a demyelinating event of the CNS lasting at least 24 h, in the 
 absence of fever or infection4. Thus, infection should be excluded when faced 
 with a worsening of neurological symptoms of MS. During the pandemic, ruling 
@@ -242,7 +122,8 @@ symptoms, hyposmia/anosmia, and hypogeusia). If present, we recommend
 performing chest computed tomography, SARS-CoV-2 RT-PCR, and/or 
 immunological assays. The sensitivity of the latter may be limited in MS patients 
 with impaired humoral responses associated with certain DMDs. 
- After ruling out active infection, the next management step is to classify 
+
+After ruling out active infection, the next management step is to classify 
 relapse severity. For most relapses, consensus treatment consists of 1000 mg 
 intravenous infusion of methylprednisolone for 3–5 days. However, at least for 
 optic neuritis (ON), this treatment has proven to speed neurological recovery with 
@@ -254,7 +135,7 @@ the
 use 
 of 
 steroids. 
-  
+
 While intravenous steroids are the mainstay treatment approach for MS 
 relapses, studies have shown that relapse treatment with oral steroids can be 
 similarly effective17,18. As oral corticosteroids can be administered without 
@@ -266,10 +147,7 @@ use of intravenous methylprednisolone (1000 mg) for five days, preferably in a
 day hospital regimen. In the case of contraindications to high-dose steroids, 
 intravenous immunoglobulin (total dose of 2 g/kg administered for 2–5 days) is 
 reasonable19. 
- 
-Neuromyelitis optica spectrum disorder 
- 
- 
+
 We believe more caution is required when dealing with NMOSD relapses. 
 These relapses are often more severe, steroid-refractory, and lead to greater 
 disability than usually observed in MS20. We suggest that NMOSD patients with 
@@ -288,26 +166,20 @@ important warning sign. About 80% of APS patients improve with steroids
 need plasmapheresis. We advise early treatment of APS attacks, as it may not 
 only reduce clinical severity but also prevent accompanying disabling ON or 
 transverse myelitis (TM) attacks8,22.  
- 
-Other demyelinating diseases 
- 
- 
+
 Some acute demyelinating events do not fulfill the MS or NMOSD 
 diagnostic criteria. They include: acute disseminated encephalomyelitis (ADEM), 
 idiopathic isolated ON, and idiopathic isolated TM. We suggest treating these 
 events with intravenous steroids, immunoglobulin, and plasma exchange, as 
 performed outside the pandemic context. These conditions do not usually require 
 long-term immunotherapy9. 
+
 MOG IgG-associated optic neuritis, encephalitis, and myelitis (MONEM) 
 may present with monophasic or recurrent course8. MOG IgG disease relapses 
 usually show a favorable response to steroids. In this specific situation, 
 recurrence is associated with long-term seropositivity for MOG IgG, and 
 immunosuppressive therapy should be discussed individually23. 
- 
-When to start or stop disease-modifying drugs? 
- 
-Multiple sclerosis 
- 
+
 The best initial treatment strategy for MS (induction × escalation therapy) 
 is still under debate. Induction therapy is the use of high-efficacy treatments, 
 which leads to faster control of disease activity24. Contrarily, traditional escalation 
@@ -317,14 +189,14 @@ activity. A recent observational study suggests that the first strategy may lead
 lower long-term disability25, which greatly favors this approach. However, these 
 data still need to be replicated in experimental trials (as in the ongoing TREAT-
 MS and DELIVER-MS trials).  
-  
+
 Escalation therapy may be considered for most MS patients, since more 
 than 80% of them do not have aggressive MS25. Some DMDs used in this 
 approach are not associated with increased risk of infection, such as beta-
 interferons, glatiramer acetate, and teriflunomide26. Dimethyl fumarate 
 association with increased infection risk was controversial27. Therefore, they 
 should be preferred for these patients during the pandemic. 
-  
+
 Nevertheless, around 10%25 of MS patients present with highly active 
 disease, and these drugs may not be adequate for them as initial therapy. 
 Additionally, the role of each specific DMD in risk and severity of SARS-CoV-2 
@@ -346,6 +218,7 @@ pharmacovigilance
 series, ocrelizumab was not associated with the more severe course of COVID-
 1929. Therefore, ocrelizumab may be a treatment option for patients with 
 aggressive MS30. 
+
 We do not recommend stopping DMDs for patients already under 
 treatment. Stopping fingolimod and natalizumab is associated with rebound31,32. 
 Rebound 
@@ -359,7 +232,7 @@ and
 further 
 immunosuppression (i.e., intravenous methylprednisolone), exposing patients to 
 a higher risk of severe COVID-19 infection. 
-  
+
 Currently, there is no specific advice regarding treatment for pregnant 
 women, children, or older patients (>60 years of age) with MS during the COVID-
 19 pandemic. As geriatric and pregnant patients present an increased risk of 
@@ -367,33 +240,29 @@ severe SARS-CoV-2 infection, and a recent meta-analysis has shown that older
 patients may not have an optimal response to MS treatment33, we suggest 
 individual risk-assessment when prescribing DMDs for pregnant and geriatric 
 patients. 
-Neuromyelitis optica spectrum disorder 
- 
-  
+
 When untreated, approximately 50% of NMOSD patients will become 
 wheelchair-bound and blind, and a third of them will die within 5 years of their first 
 attack6. Hence, we strongly recommend not interrupting immunosuppressive 
 preventive treatment in NMOSD cases. The two most common first-line treatment 
 drugs in NMOSD are azathioprine and rituximab. We suggest rituximab as the 
 preferred initial therapy during the pandemic because:  
- 
+
+- 
 Both drugs have similar risks of infection34.  
- 
+
+- 
 Rituximab is more effective than azathioprine in reducing relapses32.  
- 
+
+- 
 Rituximab requires less laboratory monitoring.  
+
 In patients with persistent MOG IgG positivity and NMOSD clinical 
 phenotype, we propose the same management strategy, using rituximab as first-
 line treatment, at least during the COVID-19 pandemic context23. However, we 
 emphasize that MONEM patients may not experience the same efficacy profile 
 as AQP4-positive patients35.  
- 
-Strategies in prescribing and monitoring disease-
-modifying drugs 
- 
-Multiple sclerosis 
- 
- 
+
 Most MS DMDs require regular clinical, laboratory, and magnetic 
 resonance imaging (MRI) monitoring to assess disease activity and drug-related 
 side effects. Lymphopenia, as seen with the use of fingolimod, dimethyl fumarate, 
@@ -406,7 +275,7 @@ incidence
 of 
 infectious 
 diseases36.  
- 
+
 Regarding fingolimod, upper and lower respiratory tract infections are 
 known for being more common in patients using this DMD. In the pivotal trial37, 
 lymphopenia was frequent, and lymphocyte counts were measured monthly in 
@@ -419,7 +288,7 @@ testing should be restricted to the minimum necessary to mitigate coronavirus
 infection. We suggest one complete blood count (CBC) three months after 
 introducing the treatment and every six months thereafter, aiming to keep 
 lymphocytes above 200 cells.  
-  
+
 Teriflunomide is also associated with lymphopenia. Nonetheless, in a 
 pooled analysis of TEMSO, TOWER, TOPIC, and TENERE, low-grade (Grade 1 
 or Grade 2) lymphopenia was infrequent, and no high-grade (Grade 3 or Grade 
@@ -427,7 +296,7 @@ or Grade 2) lymphopenia was infrequent, and no high-grade (Grade 3 or Grade
 teriflunomide were similar in populations with and without low-grade 
 lymphopenia39. We recommend performing one CBC three months after 
 introducing the treatment and every six months thereafter.  
-  
+
 Dimethyl fumarate-related persistent lymphopenia (lower than 500 
 lymphocytes for more than 6 months) has been associated with progressive 
 multifocal leukoencephalopathy (PML). As the original trials used an 800 
@@ -436,7 +305,7 @@ concerned with the risk of severe respiratory infections in addition to PML, we
 have adopted this cut-off point for reevaluating the DMD choice40. We suggest 
 the same monitoring interval and telemedicine follow-up, as adopted for 
 fingolimod and teriflunomide. 
-  
+
 Natalizumab is associated with increased infection risk when compared 
 to beta-interferons and glatiramer acetate. However, it has a lower infection risk 
 than other high-efficacy therapies, such as fingolimod and anti-CD20 monoclonal 
@@ -452,7 +321,7 @@ pandemic setting, as it allows less exposure to viral contamination. Our current
 protocol involves a 6-week interval dosing for patients previously treated with the 
 standard interval protocol and, in some cases, an 8-week interval dosing for 
 patients previously treated with a 6-week interval.  
-  
+
 Anti-CD20 monoclonal antibodies (ocrelizumab and off-label use of 
 rituximab) are frequently used for the treatment of MS. Anti-CD20 monoclonal 
 antibodies have previously been linked to an increased risk of severe viral 
@@ -468,7 +337,7 @@ dosage and reinfusion intervals of B-cell depleting therapies46. Nonetheless, in
 recent series, ocrelizumab was not associated with severe COVID-1929,47. Thus, 
 this treatment option seems reasonable for aggressive MS patients30 with positive 
 JCV.  
-  
+
 Cladribine is an immunosuppressive agent used as induction therapy in 
 MS patients. It has a preferential lymphocyte depletion that reaches its nadir one 
 month after the last administered dose and is further intensified after the second 
@@ -477,15 +346,18 @@ are expected, with relative stabilization in a year. We highlight that the degre
 lymphopenia does not seem to be related to MS relapses. However, more 
 pronounced levels (i.e., <500 lymphocytes/mm3) have led to a two-fold increase 
 in the incidence of Herpes-Zoster in the pivotal trial.  
+
 Alemtuzumab is an anti-CD52 monoclonal antibody induction therapy. A 
 cycle of this drug results in >90% depletion of both CD4 and CD8 in the first 
 month, with gradual recovery to 70% of the baseline after a year, just before the 
 second cycle49.  
+
 Therefore, cladribine and alemtuzumab significantly compromise 
 immune defenses against infection. Some studies have shown that omitting a 
 second dose of alemtuzumab may still lead to significant disease control50. 
 Nevertheless, more data are necessary before we can affirm this omission will 
 not compromise the long-term efficacy of the therapy.  
+
 We acknowledge that highly active MS patients may need a more 
 aggressive approach, even when facing a higher infection risk in a pandemic. 
 Patients who are older at symptom onset25 (>35 years), have any pyramidal sign, 
@@ -494,7 +366,7 @@ and present greater disability (Expanded Disability Status Scale (EDSS) score
 aggressive disease. Those patients represent around 10% of MS patients and 
 deserve a very individualized and shared approach. Induction therapy may be 
 plausible in this setting25. 
- 
+
 Hematopoietic stem cell transplantation (HSCT) is an induction 
 treatment for MS. It aims to stop MS damage by cell depletion and then 
 repopulate the immune system. This treatment has a long sustained effect on the 
@@ -503,80 +375,14 @@ the period of isolation during the COVID-19 outbreak. Patients who are eligible
 for HSCT should consult their neurologists and consider postponing the 
 procedure. Table 2 summarizes considerations regarding DMD use for MS during 
 the COVID-19 pandemic. 
-  
+
 In addition, we recommend annual CNS imaging (MRI) to be checked via 
 telemedicine for almost all stable MS patients. Natalizumab-treated patients with 
 double or triple PML risk (combination of 2–3 of the following: previous 
 immunosuppression, JCV index >0.9, or >24 infusions) are the exception to this 
 recommendation. These patients require MRI monitoring for asymptomatic PML 
 screening every 3–6 months. 
- 
-Table 2. Multiple sclerosis disease-modifying drugs and severe COVID-19 risk: 
-recommendations on therapy initiation and maintenance. 
-Interferons 
-Glatiramer 
-Teriflunomi
-de 
-(Low risk) 
-Safe choice for therapy initiation. 
-Safe maintenance of therapy. 
-Dimethyl 
-Association with increased infection risk is controversial; drug 
-fumarate 
-(Low 
-to 
-moderate 
-risk) 
-initiation should be discussed on a case-to-case basis 
-We suggest maintenance of therapy. 
- 
-Fingolimod 
-(Moderate 
-risk) 
- 
-Careful individualized approach should be considered when starting 
-this drug during the pandemic. 
-We 
-suggest 
-maintenance 
-of 
-therapy. 
-Lymphopenia should be monitored in a more flexible interval 
-(at 3 months of introduction and every 6 months thereafter) via 
-telemedicine. 
-Natalizuma
-b 
-(Low Risk) 
-Safe choice for therapy initiation in highly active disease. 
-We recommend the maintenance of natalizumab and suggest 
-extended-interval dosing to reduce the risk of patient exposure to 
-COVID-19.  
-Asymptomatic PML screening should not be interrupted in high-risk 
-patients, even during the pandemic. 
-Ocrelizuma
-b 
-Rituximab 
-(Moderate 
-risk) 
-Careful individualized approach should be considered when starting 
-this drug during the pandemic. 
-We recommend the maintenance of anti-CD20 therapy. CD19 
-monitoring can be considered as an aid to prolong infusion interval. 
-Immunoglobulin levels should be checked and replaced if needed. 
-May be an option in aggressive MS. 
-Cladribine 
-Alemtuzum
-ab 
-(High risk) 
-Careful individualized approach should be considered when starting 
-this drug during the pandemic. 
-It is not clear if postponing the second cycle may compromise 
-treatment efficacy 
- 
- 
- 
-Neuromyelitis optica spectrum disorder 
- 
+
 Rituximab is frequently used for the treatment of NMOSD. Rituximab leads to an 
 increased risk of severe viral infections by several mechanisms, as described 
 above. Immunoglobulin monitoring and replacement, as appropriate, may be a 
@@ -587,12 +393,12 @@ NMOSD relapses occurred at CD19+ B-cell counts below 0.01 × 109/L but above
 the therapeutic threshold for CD27+ memory B-cells. As CD27 markers are not 
 available in clinical practice and, as in NMOSD relapses, can be fatal, we suggest 
 continuing rituximab dosing at regular 6 months intervals51.  
-   
+
 Chronic steroid use is a common bridge therapy for NMOSD until 
 immunosuppressants start to be effective. Infection risk is a dose-dependent side 
 effect of steroid use52. Hence, we recommend steroid tapering, when safe. We 
 have been using telemedicine as an aid for taper schedule patient guidance.  
-  
+
 Azathioprine is an NMOSD treatment commonly used in Brazil. 
 Azathioprine adverse-event data from other autoimmune diseases suggest 
 myelosuppression is more common in the first year of therapy (mean time of 8 
@@ -600,7 +406,7 @@ months)53,54. Therefore, we recommend considering a longer hematological
 monitoring interval for patients with stable azathioprine use (>1 year) to reduce 
 coronavirus exposure risk. We propose routine laboratory testing every 6 months 
 during the pandemic for these patients. 
- 
+
 Mycophenolate mofetil has proven to be effective in preventing NMOSD 
 relapses55. Its mechanism of action causes immunosuppression through 
 cytostatic effects on T and B cells. Data regarding its adverse effects are mainly 
@@ -608,6 +414,7 @@ from transplant recipients and systemic lupus erythematosus (SLE) patient trials
 Cytopenia and increased risk of bacterial and viral infections are observed among 
 these patients56,57. We recommend weekly CBC and liver enzyme monitoring 
 during the first 4–6 weeks of treatment and every 3 months thereafter. 
+
 Methotrexate is an immunosuppressive agent occasionally used in 
 NMOSD. At a low-dose (e.g., 7.5 to 25 mg), myelosuppression is infrequent, and 
 most patients are not prone to opportunistic infections (unless under concomitant 
@@ -620,36 +427,7 @@ events in the last six months. For patients under methotrexate <6 months or with
 a prior history of adverse events, we recommend more frequent monitoring (e.g., 
 2–3-month interval)61. Table 3 summarizes considerations regarding DMD use 
 for NMOSD during the COVID-19 pandemic.  
- 
-Table 3. Neuromyelitis optica spectrum disorder disease-modifying drugs and 
-severe COVID-19 risk: recommendations on therapy initiation and maintenance. 
-Rituximab 
-(Moderate risk) 
-Best choice for therapy initiation. 
-Maintain 
-anti-CD20 
-therapy 
-every 
-6 
-months. 
-Immunoglobulin levels should be checked and replaced if 
-needed. 
-Azathioprine 
-Mycophenolate 
-Methotrexate 
-(Moderate risk) 
-Alternative choice for therapy initiation.  
-Laboratory testing should be performed in a more flexible 
-interval in stable patients (every 6 months for patients with 
-disease and laboratory stability for at least one year) and 
-checked via telemedicine. 
- 
-  
-How to mitigate coronavirus disease 2019 infection risk in 
-multiple sclerosis/neuromyelitis optica spectrum disorder 
-patients 
- 
-  
+
 Most of the general population are expected to be infected by COVID-19 
 in the next months. Most people will be asymptomatic or develop mild disease. 
 In Brazil, the Ministry of Health considers the following group as high risk for 
@@ -663,7 +441,7 @@ diseases,
 diabetes, 
 under 
 immunosuppression, and pregnant women. 
-  
+
 MS/NMOSD patients are included in the special population with higher risk 
 of severe infection, according to the Brazilian government. Nevertheless, 
 currently, there is no clear evidence that MS/NMOSD infected patients present a 
@@ -680,7 +458,7 @@ hypertension,
 diabetes, 
 cerebrovascular and cardiac diseases), and their mean age was 66.8 (54–82) 
 years47.  
-  
+
 In addition to social distancing, we believe certain measures may lead to 
 infection prophylaxis. Vaccination should be administered to mitigate infection 
 risk in immunosuppressed/immunomodulated patients whenever possible. 
@@ -691,7 +469,7 @@ virus/bacterial vaccines64,65,66. We underline that vaccine effectiveness may be
 compromised in patients under certain disease-modifying therapies (DMTs), such 
 as fingolimod, anti-CD20 monoclonal antibodies, natalizumab, alemtuzumab, and 
 cladribine.  
-  
+
 During the current pandemic, patients with demyelinating diseases should 
 be vaccinated against influenza, as this respiratory virus can coinfect patients 
 and lead to severe clinical symptoms. As response to the pneumococcal vaccine 
@@ -701,11 +479,7 @@ antibodies67,68, we recommend all patients receive pneumococcal vaccination 2–
 by PPSV23 boost), with an interval of at least 8 weeks between the two 
 vaccinations64,65. In patients receiving anti-CD20 therapies, vaccination must 
 start at least 2–3 weeks before treatment or 5–7 months after the last infusion68. 
- 
-How to manage multiple sclerosis/neuromyelitis optica 
-spectrum disorder patients infected with coronavirus disease 
-2019  
- 
+
 Patients with severe COVID-19 are susceptible to developing neurological 
 complications, 
 including 
@@ -722,7 +496,7 @@ demyelination. Furthermore, anecdotal cases of CNS demyelinating events after
 SARS-CoV-2 infection have been described69,70. Whether SARS-CoV-2 is 
 associated with post-infectious inflammatory demyelinating events is still under 
 debate71. 
-  
+
 Immunosuppressive therapies are being studied as cytokine storm 
 inhibitors for the adjunctive treatment of severe cases of COVID-19 infection 
 (e.g., fingolimod – clinical trial ClinicalTrials.gov, Identifier: NCT04280588). 
@@ -744,11 +518,13 @@ should be individualized according to the aforementioned drug-safety profiles,
 patient’s age, and other comorbidities. At this time, any drug that may interfere 
 with immune response cannot be considered completely safe in a symptomatic 
 patient. 
+
 Accordingly, MS/NMOSD patients infected with SARS-CoV-2 should be 
 treated following updated COVID-19 guidelines. In fact, current management of 
 COVID-19 is supportive. Since potential treatment benefits of antivirals are not 
 evidence-based (e.g., chloroquine derivatives or remdesivir) and data regarding 
 interactions with DMDs are lacking, we do not recommend their use. 
+
 If the patient stops taking a DMD during COVID-19 infection, its 
 reintroduction should be carefully planned according to MS/NMOSD activity, 
 patient's age, and previously used drugs. Moreover, COVID-19 infection severity 
@@ -762,10 +538,7 @@ natalizumab or fingolimod use). Hence, we recommend reintroducing DMDs 4 to
 8 weeks after SARS-CoV-2 infection and encourage neurologists to consult with 
 infectious disease specialists aiming to confirm viral clearance for prompt 
 immunosuppression. 
-  
- 
-CONCLUSION 
- 
+
 The current COVID-19 pandemic is challenging the way we traditionally treat and 
 monitor patients with CNS demyelinating diseases. At this moment, there is no 
 evidence that infected MS or NMOSD patients present a higher risk of developing 
@@ -773,543 +546,39 @@ severe COVID-19. Nonetheless, caution and vigilance are necessary, as these
 patients are frequently immunosuppressed. In addition, their management 
 requires adaptation during the pandemic in order to prevent SARS-CoV-2 
 infection whilst maintaining treatment safety and efficacy. 
+
 Suggested strategies for MS and NMOSD management during the 
 pandemic are:  
- 
+
+- 
 Social distancing and using telemedicine.  
- 
+
+- 
 Avoiding treatment of mild relapse and using equivalent doses of 
 oral steroids to treat MS relapses.  
- 
+
+- 
 Preference for drugs associated with lower infection risk 
 (interferons, glatiramer, teriflunomide, and natalizumab) and 
 extended-interval dosing of natalizumab, when safe.  
- 
+
+- 
 Postponing MS induction-treatment.  
- 
+
+- 
 Maintaining NMOSD preventive treatment.  
- 
+
+- 
 Wider interval between laboratory testing/imaging and using 
 telemedicine to check results, when reasonable. 
+
 In the future, case series of MS/NMOSD patients infected with COVID-19 
 will help us define the best management strategies. For the time being, we rely 
 on expert experience and counsel. Following the example of other centers73, we 
 share our current strategies for patient care during the pandemic, hoping they will 
 aid clinicians in our country.  
- 
-ACKNOWLEDGEMENT 
- 
- We would like to thank Prof. Dr. Gavin Giovannoni, a worldwide-known expert in 
+
+We would like to thank Prof. Dr. Gavin Giovannoni, a worldwide-known expert in 
 MS, for kindly allowing us to adapt a table present on his website “MS Selfie” for 
 Table 1 (available from: https://sites.google.com/giovannoni.net/clinicspeak-
 dmt/home). 
- 
-REFERENCES  
-1.  
-World Health Organization. Emergencies preparedness, response. 
-Pneumonia of unknown cause in China. WHO. 2020. Available from: 
-<https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-
-china/en/>. 
-2.  
-Hoffmann M, Kleine-Weber H, Schroeder S, Krüger N, Herrler T, Erichsen 
-S, et al. SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked 
-by a clinically proven protease inhibitor. Cell. 2020 Apr;181(2):271-80.e8. 
-https://doi.org/10.1016/j.cell.2020.02.052 
-3.  
-Xia H, Lazartigues E. Angiotensin-converting enzyme 2 in the brain: 
-Properties and future directions. J Neurochem. 2008 Dec;107(6):1482-94. 
-https://doi.org/10.1111/j.1471-4159.2008.05723.x 
-4.  
-Thompson AJ, Banwell BL, Barkhof F, Carroll WM, Coetzee T, Comi G, et 
-al. Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria. Lancet 
-Neurol. 2018 Feb;17(2):162-73. https://doi.org/10.1016/S1474-4422(17)30470-2 
-5.  
-Kennedy PM. Impact of delayed diagnosis and treatment in clinically 
-isolated syndrome and multiple sclerosis. J Neurosci Nurs. 2013 Dec;45(6 Suppl. 
-1):S3-13. https://doi.org/10.1097/JNN.0000000000000021 
-6.  
-Wingerchuk DM, Banwell B, Bennett JL, Cabre P, Carroll W, Chitnis T, et 
-al. International consensus diagnostic criteria for neuromyelitis optica spectrum 
-disorders. 
-Neurology. 
-2015 
-Jul;85(2):177-89. 
-https://doi.org/10.1212/WNL.0000000000001729 
-7.  
-Lennon PVA, Wingerchuk DM, Kryzer TJ, Pittock SJ, Lucchinetti CF, 
-Fujihara K, et al. A serum autoantibody marker of neuromyelitis optica: Distinction 
-from 
-multiple 
-sclerosis. 
-Lancet. 
-2004 
-Dec;364(9451):2106-12. 
-https://doi.org/10.1016/S0140-6736(04)17551-X 
-8.  
-dos Passos GR, Oliveira LM, da Costa BK, Apostolos-Pereira SL, 
-Callegaro D, Fujihara K, et al. MOG-IgG-associated optic neuritis, encephalitis, 
-and myelitis: lessons learned from neuromyelitis optica spectrum disorder. Front 
-Neurol. 2018 Apr;9:217. https://doi.org/10.3389/fneur.2018.00217 
-9.  
-Papais-Alvarenga RM, Vasconcelos CCF, Carra A, Castillo ISd, Florentin 
-S, Diaz de Bedoya FH, et al. Central nervous system idiopathic inflammatory 
-demyelinating disorders in South Americans: a descriptive, multicenter, cross-
-sectional 
-study. 
-PLoS 
-One. 
-2015 
-Jul;10(7):1-20. 
-https://doi.org/10.1371/journal.pone.0127757 
-10.  
-Carrá A, J S, Macías-Islas M. COVID-19 en pacientes con esclerosis 
-múltiple. Recomendaciones Latinoameticanas & Sharing Initiative. Lat Am Comm 
-Treat Res Mult Sclerosis-Lact. 2020;(1):1-22.  http://www.lactrimsweb.org/wp-
-content/uploads/2020/04/RECOMENDAÇÕES-GERAIS-DA-AMÉRICA-LATINA-
-PARA-PACIENTES-E-CUIDADORES-002.pdf Acessed 11/05/2020 
-11.  
-Pitombeira M, Paternò R, Braga N, Passos G, Callegaro D, Lana-Peixoto 
-M, et al. 2º Comunicado BCTRIMS: Epidemia do Coronavírus (COVID-19). 2020. 
-Available 
-from: 
-<https://www.bctrims.org.br/wp-content/uploads/2020/03/2o-
-Comunicado-BCTRIMS-Epidemia-do-Coronav%C3%ADrus-COVID-19-
-INFORMA%C3%87%C3%95ES-AOS-PACIENTES.pdf>. 
-12.  
-Yeroushalmi S, Maloni H, Costello K, Wallin MT. Telemedicine and 
-multiple sclerosis: a comprehensive literature review. J Telemed Telecare. 2019 
-May;1357633X19840097. https://doi.org/10.1177/1357633X19840097 
-13.  
-Enquanto EE, Batalha DA, Ao DEC, Da C. ATO ADMINISTRATIVO ( AA 
-) São Paulo , 17 de abril de 2020 . Ref . AA Número 03 / 2020 Assunto : 
-Teleneuroexame. 2020;(11). https://www.abneuro.org.br/post/ato-administrativo-
-aa-teleneuroexame. Acessed 11/05/2020 
-14.  
-Milea D, Najjar RP, Jiang Z, Ting D, Vasseneix C, Xu X, et al. Artificial 
-intelligence to detect papilledema from ocular fundus photographs. N Engl J Med. 
-2020 Apr;382:1687-95. https://doi.org/10.1056/NEJMoa1917130 
-15.  
-Zanin L, Saraceno G, Panciani PP, Renisi G, Signorini L, Migliorati K, et 
-al. SARS-CoV-2 can induce brain and spine demyelinating lesions. Acta 
-Neurochir 
-(Wien). 
-2020 
-May:1-4. 
-[Epub 
-ahead 
-of 
-print]. 
-https://doi.org/10.1007/s00701-020-04374-x  
-16.  
-Beck RW, Cleary PA, Anderson MMJ, Keltner JL, Shults WT, Kaufman DI, 
-et al. A randomized, controlled trial of corticosteroids in the treatment of acute 
-optic 
-neuritis. 
-N 
-Engl 
-J 
-Med. 
-1992 
-Feb;326(9):581-8. 
-https://doi.org/10.1056/NEJM199202273260901 
-17.  
-Lattanzi S, Cagnetti C, Danni M, Provinciali L, Silvestrini M. Oral and 
-intravenous steroids for multiple sclerosis relapse: a systematic review and meta-
-analysis. J Neurol. 2017 May;264(8):1697-704. https://doi.org/10.1007/s00415-
-017-8505-0 
-18.  
-Le Page E, Veillard D, Laplaud DA, Hamonic S, Wardi R, Lebrun C, et al. 
-Oral versus intravenous high-dose methylprednisolone for treatment of relapses 
-in patients with multiple sclerosis (COPOUSEP): A randomised, controlled, 
-double-blind, 
-non-inferiority 
-trial. 
-Lancet. 
-2015 
-Sep;386(9997):974-81. 
-https://doi.org/10.1016/S0140-6736(15)61137-0 
-19.  
-Elovaara I, Kuusisto H, Wu X, Rinta S, Dastidar P, Reipert B. Intravenous 
-immunoglobulins are a therapeutic option in the treatment of multiple sclerosis 
-relapse. 
-Clin 
-Neuropharmacol. 
-2011 
-Mar;34(2):84-9. 
-https://doi.org/10.1097/wnf.0b013e31820a17f3 
-20.  
-Abboud H, Petrak A, Mealy M, Sasidharan S, Siddique L, Levy M. 
-Treatment of acute relapses in neuromyelitis optica: steroids alone versus 
-steroids 
-plus 
-plasma 
-exchange. 
-Mult 
-Scler. 
-2016 
-Apr;22(2):85-192. 
-https://doi.org/10.1177/1352458515581438 
-21.  
-Elsone L, Panicker J, Mutch K, Boggild M, Appleton R, Jacob A. Role of 
-intravenous immunoglobulin in the treatment of acute relapses of neuromyelitis 
-optica: experience in 10 patients. Mult Scler. 2014 Aug;20(4):501-4. 
-https://doi.org/10.1177/1352458513495938 
-22.  
-Shosha E, Dubey D, Palace J, Nakashima I, Jacob A, Fujihara K, et al. 
-Area postrema syndrome: Frequency, criteria, and severity in AQP4-IgG-positive 
-NMOSD. 
-Neurology. 
-2018 
-Oct;91(17):E1642-51. 
-https://doi.org/10.1212/WNL.0000000000006392 
-23.  
-Oliveira LM, Apóstolos-Pereira SL, Pitombeira MS, Bruel Torretta PH, 
-Callegaro D, Sato DK. Persistent MOG-IgG positivity is a predictor of recurrence 
-in MOG-IgG-associated optic neuritis, encephalitis and myelitis. Mult Scler. 2019 
-Dec;25(14):1907-14. https://doi.org/10.1177/1352458518811597 
-24.  
-Harding K, Williams O, Willis M, Hrastelj J, Rimmer A, Joseph F, et al. 
-Clinical outcomes of escalation vs early intensive disease-modifying therapy in 
-patients with multiple sclerosis. JAMA Neurol. 2019 Feb;76(5):536-41. 
-https://doi.org/10.1001/jamaneurol.2018.4905 
-25.  
-Malpas CB, Ali Manouchehrinia A, Sharmin S, Roos I, Horakova D, 
-Havrdova EK, et al. Early clinical markers of aggressive multiple sclerosis. 
-medRxiv. 2019 Jan;19002063. https://doi.org/10.1101/19002063 
-26.  
-Wijnands JMA, Zhu F, Kingwell E, Fisk JD, Evans C, Marrie RA, et al. 
-Disease-modifying drugs for multiple sclerosis and infection risk: a cohort study. 
-J 
-Neurol 
-Neurosurg 
-Psychiatry. 
-2018;89(10):1050-6. 
-https://doi.org/10.1136/jnnp-2017-317493 
-27.  
-Epstein DJ, Dunn J, Deresinski S. Infectious complications of multiple 
-sclerosis therapies: Implications for screening, prophylaxis, and management. 
-Open Forum Infect Dis. 2018 Jul;5(8):1-8. https://doi.org/10.1093/ofid/ofy174 
-28.  
-The coronavirus and MS – global advice _ MS International Federation. 
-https://www.msif.org/news/2020/02/10/the-coronavirus-and-ms-what-you-need-
-to-know/. Acessed 11/05/2020 
-29.  
-Hughes R, Pedotti R, Koendgen H. COVID-19 in persons with multiple 
-sclerosis treated with ocrelizumab – a pharmacovigilance case series. Mult Scler 
-Relat Disord. 2020 May;42:102192. https://doi.org/10.1016/j.msard.2020.102192 
-30.  
-Giovannoni 
-G. 
-Anti-CD20 
-immunosuppressive 
-disease-modifying 
-therapies 
-and 
-COVID-19. 
-Mult 
-Scler 
-Relat 
-Disord. 
-2020;41:102135. 
-https://doi.org/10.1016/j.msard.2020.102135 
-31.  
-Hatcher SE, Waubant E, Nourbakhsh B, Crabtree-Hartman E, Graves JS. 
-Rebound syndrome in patients with multiple sclerosis after cessation of 
-fingolimod 
-treatment. 
-JAMA 
-Neurol. 
-2016 
-Jul;73(7):790-4. 
-https://doi.org/10.1001/jamaneurol.2016.0826 
-32.  
-Sorensen PS, Koch-Henriksen N, Petersen T, Ravnborg M, Oturai A, 
-Sellebjerg F. Recurrence or rebound of clinical relapses after discontinuation of 
-natalizumab therapy in highly active MS patients. J Neurol. 2014 
-Apr;261(6):1170-7. https://doi.org/10.1007/s00415-014-7325-8 
-33.  
-Weideman AM, Tapia-Maltos MA, Johnson K, Greenwood M, Bielekova 
-B. Meta-analysis of the age-dependent efficacy of multiple sclerosis treatments. 
-Front Neurol. 2017 Nov;8:577. https://doi.org/10.3389/fneur.2017.00577 
-34.  
-Guillevin L, Pagnoux C, Karras A, Khouatra C, Aumaître O, Cohen P, et 
-al. Rituximab versus azathioprine for maintenance in ANCA-associated 
-vasculitis. 
-N 
-Engl 
-J 
-Med. 
-2014 
-Nov;371(19):1771-80. 
-https://doi.org/10.1056/NEJMoa1404231 
-35.  
-Durozard P, Rico A, Boutiere C, Maarouf A, Lacroix R, Cointe S, et al. 
-Comparison of the response to rituximab between myelin oligodendrocyte 
-glycoprotein 
-and 
-aquaporin-4 
-antibody 
-diseases. 
-Ann 
-Neurol. 
-2020 
-Feb;87(2):256-66. https://doi.org/10.1002/ana.25648 
-36.  
-Warny M, Helby J, Nordestgaard BG, Birgens H, Bojesen SE. 
-Lymphopenia and risk of infection and infection-related death in 98,344 
-individuals from a prospective Danish population-based study. PLoS Med. 2018 
-Nov;15(11):1-22. https://doi.org/10.1371/journal.pmed.1002685 
-37.  
-Kappos L, Radue E-W, O’Connor P, Polman C, Hohlfeld R, Calabresi P, 
-et al. A placebo-controlled trial of oral fingolimod in relapsing multiple sclerosis. 
-N 
-Engl 
-J 
-Med. 
-2010 
-Feb;362(5):387-401. 
-https://doi.org/10.1056/NEJMoa0909494 
-38.  
-Francis G, Kappos L, O’Connor P, Collins W, Tang D, Mercier F, et al. 
-Temporal profile of lymphocyte counts and relationship with infections with 
-fingolimod 
-therapy. 
-Mult 
-Scler. 
-2014 
-Apr;20(4):471-80. 
-https://doi.org/10.1177/1352458513500551 
-39.  
-Comi G, Miller AE, Benamor M, Truffinet P, Poole EM, Freedman MS. 
-Characterizing lymphocyte counts and infection rates with long-term 
-teriflunomide treatment: pooled analysis of clinical trials. Mult Scler. 2019 
-Jun:1352458519851981. https://doi.org/10.1177/1352458519851981 
-40.  
-Bomprezzi R. Dimethyl fumarate in the treatment of relapsing-remitting 
-multiple sclerosis: An overview. Ther Adv Neurol Disord. 2015 Jan;8(1):20-30. 
-https://doi.org/10.1177/1756285614564152 
-41.  
-Luna G, Alping P, Burman J, Fink K, Fogdell-Hahn A, Gunnarsson M, et 
-al. Infection risks among patients with multiple sclerosis treated with fingolimod, 
-natalizumab, rituximab, and injectable therapies. JAMA Neurol. 2020 
-Oct;77(2):184-91. https://doi.org/10.1001/jamaneurol.2019.3365 
-42.  
-Foley J, Carrillo-Infante C, Smith J, Evans K, Ho P-R, Lee L, et al. The 5-
-year Tysabri global observational program in safety (TYGRIS) study confirms the 
-long-term safety profile of natalizumab treatment in multiple sclerosis. Mult Scler 
-Relat Disord. 2020 Apr;39:101863. https://doi.org/10.1016/j.msard.2019.101863 
-43.  
-Zhovtis Ryerson L, Frohman TC, Foley J, Kister I, Weinstock-Guttman B, 
-Tornatore C, et al. Extended interval dosing of natalizumab in multiple sclerosis. 
-J 
-Neurol 
-Neurosurg 
-Psychiatry. 
-2016 
-Aug;87(8):885-9. 
-https://doi.org/10.1136/jnnp-2015-312940 
-44.  
-Zhovtis Ryerson L, Foley J, Chang I, Kister I, Cutter G, Metzger RR, et al. 
-Risk of natalizumab-associated PML in patients with MS is reduced with extended 
-interval 
-dosing. 
-Neurology. 
-2019 
-Oct;93(15):e1452-62. 
-https://doi.org/10.1212/WNL.0000000000008243 
-45.  
-Barmettler S, Ong MS, Farmer JR, Choi H, Walter J. Association of 
-immunoglobulin levels, infectious risk, and mortality with rituximab and 
-hypogammaglobulinemia. 
-JAMA 
-Netw 
-Open. 
-2018 
-Nov;1(7):e184169. 
-https://doi.org/10.1001/jamanetworkopen.2018.4169 
-46.  
-Ellrichmann G, Bolz J, Peschke M, Duscha A, Hellwig K, Lee D-H, et al. 
-Peripheral CD19 + B-cell counts and infusion intervals as a surrogate for long-
-term B-cell depleting therapy in multiple sclerosis and neuromyelitis 
-optica/neuromyelitis optica spectrum disorders. J Neurol. 2019 Jan;266(1):57-67. 
-https://doi.org/10.1007/s00415-018-9092-4 
-47.  
-Sormani MP, Study I. An Italian programme for COVID-19 infection in 
-multiple 
-sclerosis. 
-Lancet 
-Neurol. 
-2020 
-Jun;19(6):481-2. 
-https://doi.org/10.1016/S1474-4422(20)30147-2 
-48.  
-Giovannoni G, Comi G, Cook S, Rammohan K, Rieckmann P, Sørensen 
-PS, et al. A placebo-controlled trial of oral cladribine for relapsing multiple 
-sclerosis. 
-N 
-Engl 
-J 
-Med. 
-2010 
-Feb;362(5):416-26. 
-https://doi.org/10.1056/NEJMoa0902533 
-49.  
-Baker D, Herrod SS, Alvarez-Gonzalez C, Zalewski L, Albor C, Schmierer 
-K. Both cladribine and alemtuzumab may effect MS via B-cell depletion. Neurol 
-Neuroimmunol 
-NeuroInflamm. 
-2017 
-Jul;4(4). 
-https://doi.org/10.1212/NXI.0000000000000360 
-50.  
-Kocsik AS, Klein DE, Liedke M, Kaunzner UW, Nealon NM, Gauthier SA, 
-et al. Induction of disease remission with one cycle of alemtuzumab in relapsing–
-remitting MS. J Neurol. 2018 Apr;265(5):1226-9. https://doi.org/10.1007/s00415-
-018-8845-4 
-51.  
-Kim SH, Huh SY, Lee SJ, Joung AR, Kim HJ. A 5-year follow-up of 
-rituximab treatment in patients with neuromyelitis optica spectrum disorder. 
-JAMA 
-Neurol. 
-2013 
-Sep;70(9):1110-7. 
-https://doi.org/10.1001/jamaneurol.2013.3071 
-52.  
-Youssef J, Novosad SA, Winthrop KL. Infection risk and safety of 
-corticosteroid use. Rheum Dis Clin North Am. 2016 Feb;42(1):157-76. 
-https://doi.org/10.1016/j.rdc.2015.08.004 
-53.  
-Singh G, Fries JF, Spitz P, Williams CA. Toxic effects of azathioprine in 
-rheumatoid arthritis. A national post-marketing perspective. Arthritis Rheum. 
-1989 Jul;32(7):837-43.  
-54.  
-Pollak R, Nishikawa RA, Mozes MF, Jonasson O. Azathioprine-induced 
-leukopenia — clinical significance in renal transplantation. J Surg Res. 1980 
-Sep;29(3):258-64. https://doi.org/10.1016/0022-4804(80)90169-9 
-55.  
-Mealy MA, Wingerchuk DM, Palace J, Greenberg BM, Levy M. 
-Comparison of relapse and treatment failure rates among patients with 
-neuromyelitis optica: multicenter study of treatment efficacy. JAMA Neurol. 2014 
-Mar;71(3):324-30. https://doi.org/10.1001/jamaneurol.2013.5699 
-56.  
-Subedi A, Magder LS, Petri M. Effect of mycophenolate mofetil on the 
-white blood cell count and the frequency of infection in systemic lupus 
-erythematosus. 
-Rheumatol 
-Int. 
-2015 
-Oct;35(10):1687-92. 
-https://doi.org/10.1007/s00296-015-3265-6 
-57.  
-Nogueras F, Espinosa MD, Mansilla A, Torres JT, Cabrera MA, Martín-
-Vivaldi R. Mycophenolate mofetil-induced neutropenia in liver transplantation. 
-Transplant 
-Proc. 
-2005 
-Apr;37(3):1509-11. 
-https://doi.org/10.1016/j.transproceed.2005.02.038 
-58.  
-Cronstein BN. Molecular therapeutics: Methotrexate and its mechanism of 
-action. 
-Arthritis 
-Rheum. 
-1996 
-Dec;39(12):1951-60. 
-https://doi.org/10.1002/art.1780391203 
-59.  
-Berkowitz RS, Goldstein DP, Bernstein MR. Ten years’ experience with 
-methotrexate and folinic acid as primary therapy for gestational trophoblastic 
-disease. Gynecol Oncol. 1986 Jan;23(1):111-8. https://doi.org/10.1016/0090-
-8258(86)90123-X 
-60.  
-Gutierrez-Ureña S, Molina JF, García CO, Cuéllar ML, Espinoza LR. 
-Pancytopenia secondary to methotrexate therapy in rheumatoid arthritis. Arthritis 
-Rheum. 1996 Feb;39(2):272-6. https://doi.org/10.1002/art.1780390214 
-61.  
-Saag KG, Gim GT, Patkar NM, Anuntiyo J, Finney C, Curtis JR, et al. 
-American College of Rheumatology 2008 recommendations for the use of 
-nonbiologic and biologic disease-modifying antirheumatic drugs in rheumatoid 
-arthritis. 
-Arthrit 
-Care 
-Res. 
-2008 
-Jun;59(6):762-84. 
-https://doi.org/10.1002/art.23721 
-62.  
-Neurologia 
-AB 
-de. 
-REDONE 
-- 
-PROJETO 
-COVID19. 
-https://www.abneuro.org.br/redone-projeto-covid-19.. Acessed 11/05/2020 
-63.  
-Farez MF, Correale J, Armstrong MJ, Rae-Grant A, Gloss D, Donley D, et 
-al. Practice guideline update summary: Vaccine-preventable infections and 
-immunization in multiple sclerosis: Report of the Guideline Development, 
-Dissemination, and Implementation Subcommittee of the American Academy of 
-Neurology. 
-Neurology. 
-2019 
-Sep;93(13):584-94. 
-https://doi.org/10.1212/WNL.0000000000008157 
-64.  
-Child 
-R, 
-Schedule 
-AI. 
-2020 
-4. 
-2020. 
-https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html 
-Acessed 
-11/05/2020 
-65.  
-SBIm. CALENDÁRIO DE VACINAÇÃO PACIENTES ESPECIAIS. 
-https://sbim.org.br/images/calendarios/calend-sbim-pacientes-especiais.pdf 
-Acessed 
-11/05/2020 
-66.  
-Vacinas DAS. CALENDÁRIO DE VACINAÇÃO SBIm ADULTO. 
-2021:2021. https://sbim.org.br/images/calendarios/calend-sbim-adulto.pdf. Acessed 
-11/05/2020 
-67.  
-Lopez A, Mariette X, Bachelez H, Belotd A, Bonnottee B, Hachulla E, et 
-al. Vaccination recommendations for the adult immunosuppressed patient: A 
-systematic review and comprehensive field synopsis. J Autoimmun. 2017 
-Jun;80:10-27. https://doi.org/10.1016/j.jaut.2017.03.011 
-68.  
-Rákóczi E, Szekanecz Z. Pneumococcal vaccination in autoimmune 
-rheumatic 
-diseases. 
-RMD 
-Open. 
-2017;3(2):e000484. 
-https://doi.org/10.1136/rmdopen-2017-000484 
-69.  
-Mao L, Wang M, Chen S, He Q, Chang J, Hong C, et al. Neurological 
-manifestations of hospitalized patients with COVID-19 in Wuhan, China: a 
-retrospective case series study. medRxiv. 2020 Feb;2020.02.22.20026500. 
-https://doi.org/10.1101/2020.02.22.20026500 
-70.  
-Zhao K, Huang J, Dai D, Feng Y, Liu L, Nie S. Acute myelitis after SARS-
-CoV-2 infection: a case report. medRxiv. 2020 Jan:2020.03.16.20035105. 
-https://doi.org/10.1101/2020.03.16.20035105 
-71.  
-Munhoz RP, Pedroso JL, Nascimento FA, Almeida SM, Barsottini OGP, 
-Cardoso FEC, et al. Neurological complications in patients with SARS-CoV-2 
-infection: a systematic review. Arq Neuro-Psiquiatr. 2020 May Jun;78(5): 290-
-300. http://dx.doi.org/10.1590/0004-282x20200051 
-72.  
-Liu Y, Yan L-M, Wan L, Xiang T-X, Le A, Liu J-M, et al. Viral dynamics in 
-mild and severe cases of COVID-19. Lancet Infect Dis. 2020 May;20(6):656-7. 
-https://doi.org/10.1016/S1473-3099(20)30232-2 
-73.  
-Brownlee W, Bourdette D, Broadley S, Killestein J, Ciccarelli O. Treating 
-multiple sclerosis and neuromyelitis optica spectrum disorder during the COVID-
-19 pandemic. Neurology. 2020 Jun;92(22):10.1212/WNL.0000000000009507. 
-https://doi.org/10.1212/wnl.0000000000009507 
- 
- 

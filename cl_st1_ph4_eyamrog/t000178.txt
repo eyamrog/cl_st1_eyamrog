@@ -1,83 +1,3 @@
-Status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.15381/rpb.v28i1.17867
-Data mining of DNA sequences submitted by Peruvian
-institutions to public genetic databases
-Pedro Romero, Camila Castillo-Vilcahuaman
-https://doi.org/10.1590/SciELOPreprints.957
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees are described in the manuscript, when
-applicable.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-The submitting author declares that all authors responsible for preparing the manuscript agree with this
-deposit.
-The submitting author declares that all authors' contributions are included on the manuscript.
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
-under a Creative Commons CC-BY license.
-The deposited manuscript is in PDF format.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-Submitted on (YYYY-MM-DD): 2020-07-13
-Posted on (YYYY-MM-DD): 2021-03-31
-Powered by TCPDF (www.tcpdf.org)
-Title 
-Data mining of DNA sequences submitted by Peruvian institutions to public genetic 
-databases 
- 
-Título 
-Minería de datos de secuencias de DNA enviadas a bases de datos genéticas públicas por 
-instituciones peruanas 
- 
-Authors / Nombre y apellido del autor o los autores 
-1. Pedro Eduardo Romero* 
-2. Camila Castillo-Vilcahuaman,   
-*Autor de correspondencia / Corresponding author 
- 
-ORCID ID 
-Pedro Eduardo Romero*, ORCID: 0000-0001-9947-3868 
-Camila Castillo-Vilcahuaman, ORCID: 0000-0003-2770-1416 
- 
-Email of each author / Correo electrónico de cada autor 
-Pedro E. Romero, pedro.romero@upch.pe 
-Camila Castillo-Vilcahuaman, camila.castillo.v@upch.pe  
- 
-Institutional affiliation / Afiliación institucional 
-1,2. Facultad de Ciencias y Filosofía. Universidad Peruana Cayetano Heredia. Av. Honorio 
-Delgado 430 15102 Lima, Perú. * 
-*Dirección postal actual del autor de correspondencia similar a la dirección de afiliación 
-institucional / Postal address of the corresponding author similar to the affilliation address. 
- 
-Keywords / Palabras clave 
-Genetic diversity, public databases, biodiversity, Peru, data mining 
-Diversidad genética, bases de datos públicas, biodiversidad, Perú, minería de datos 
- 
-Contribution of each author / Información sobre la contribución  
-PER participated in the conceptualization, data analysis, writing and review of the 
-manuscript.  CC-V participated in data analysis and writing of the manuscript 
-PER participó en la concepción, análisis de datos, escritura y revisión del manuscrito 
-CC-V participó en el análisis de los datos y la escritura del manuscrito. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-Conflict of interest disclosure / Conflicto de intereses 
-Los autores declaran que no tienen conflicto de intereses 
-The authors declare no conflict of interests 
- 
-Fuente de financiamiento / Funding 
-Este trabajo fue financiado por el Fondo Nacional de Desarrollo Científico, Tecnológico y de 
-Innovación Tecnológica (Fondecyt - Perú) en el marco del “Proyecto de Mejoramiento y 
-Ampliación de los Servicios del Sistema Nacional de Ciencia, Tecnología e Innovación 
-Tecnológica” [Número de contrato 34-2019]. 
- 
-Abstract 
 Peru is one of the most biodiverse countries in the world. Genetic diversity is an important 
 component of biodiversity, and it is crucial for current efforts to protect and sustainably 
 manage several organisms and habitats. As far as we know, there is only one work 
@@ -99,18 +19,7 @@ since the last report, the genetic diversity reflected in these databases remain
 with the diversity in the country. More efforts must be made to know obtain genetic 
 information from more underestimated taxonomic groups and to promote more genetic 
 research in regional Peruvian institutions. 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-TITLE 
-Data mining of DNA sequences submitted by Peruvian institutions to public genetic 
-databases 
-  
-Introduction 
+
 Peru is one of the most biodiverse countries in the world. Current estimates of species 
 richness showed the occurrence of numerous species, such as plants (20 533), vertebrates 
 (5 738), and arthropods (30 547) (MINAM, 2019). There are no current records of the extant 
@@ -120,7 +29,7 @@ knowledge, and, recently, information about genetic diversity (Norena et al. 201
 information is essential not only for conservation and taxonomic studies but also for 
 bioprospecting novel compounds (Sekurova et al 2019) or for breeding programs assisted by 
 genetic markers (Assefa et al. 2019, Mrode 2019). 
- 
+
 Bioinformatics, the discipline that uses computational approaches to answer biological 
 questions, has become essential to analyze genetic and genomic information (Baxevanis 
 and Ouellette 2005). Especially, to study large and complex DNA datasets obtained via next-
@@ -131,20 +40,18 @@ Information from the US National Institute of Health, currently possess 216,531,
 sequences, being one of the largest source worldwide. Other databases such as the 
 Barcode of Life Data System (https://www.boldsystems.org), 2,869,168 sequences, are 
 more specific, providing information from specific eukaryotic genes. 
- 
+
 The representativeness of Latin American data in genome projects and public databases 
 has been discussed since the beginning of the genomic era (Ramírez et al. 2002). The 
 information stored in databases has become essential to study the genetic diversity of 
 indigenous peoples (Harris et al. 2018), human diseases (Norris et al. 2018), and regional 
 biotechnological and agro-industrial challenges (Sasson & Malpica 2018, Wang et al. 2017).  
- 
+
 The most recent assessment of the Peruvian genetic data in public databases was done by 
 Norena et al. (2018). The authors estimated 645 753 sequences in the NCBI Nucleotide 
 database associated with the term “Peru”, from which 6 522 (1.01%) were published by 
 national institutions. We updated the amount of sequencing data of the Peruvian biodiversity 
 submitted by national institutions to four main public genetic databases: NCBI BioProject, a 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
 database that comprises multiple collections of biological data related to a single genomic 
 sequencing initiative. NCBI Nucleotide that comprises GenBank and related databases. The 
 exclusively bacterial database Pathosystems Resource Integration Center (PATRIC) which 
@@ -154,8 +61,7 @@ barcode database, focused in single markers, namely, the cytochrome oxidase I (C
 for animals, internal transcribed spacers (ITS) for fungi, and the ribulose-bisphosphate 
 carboxylase (rbcL) and maturase K (matK) for plants. The same databases were used by 
 Norena et al. (2018). 
- 
-Methods 
+
 Nucleotide data was retrieved using Entrez Direct (Kans 2013). In April 2020, we 
 downloaded all the records from the Nucleotide database containing the query "Peru" using 
 the following command, <esearch -db nucleotide -query "Peru" | efetch -format gb > 
@@ -167,7 +73,7 @@ institutions in the database. Through awk scripts, we counted how many times the
 "Peru" appeared in the variable journal, how many times a certain institution uploaded 
 sequences to this database, and how many organisms have been sequenced. We also 
 analyzed which organisms were the most sequenced by each institution in Peru. 
- 
+
 BioProject data was also retrieved using Entrez Direct and the command 
 <esearch -db BioProject -query "Peru" | efetch -format xml | xtract -pattern 
 DocumentSummary -element Project \ -block Organism -element OrganismName 
@@ -182,9 +88,7 @@ was used to count sequenced organisms per institution. All code and scripts are 
 this GitHub repository: https://github.com/reymonera/mining_peru_sequence_DB. Finally, we 
 searched in the Scopus reference database (https://www.scopus.com) for records with the 
 term “genetic diversity” produced by at least one Peruvian institution. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-Results 
+
 Our results are summarized in Figure 1 and Table 1. In addition, complete information of the 
 records from each database described here can be found in the Supplementary Information 
 associated with this publication (Romero & Castillo, 2020). We found 817 694 records 
@@ -212,7 +116,7 @@ institutions (Suppl. Inf. 5). Most of the sequences were produced by the Centro 
 Ornitología y Biodiversidad (CORBIDI), UNMSM (mainly, from the Museo de Historia 
 Natural), UNALM (mainly, from the Herbarium), the Instituto del Mar del Perú (IMARPE), and 
 the Servicio Nacional de Sanidad Agraria del Perú (SENASA). 
- 
+
 Records from the Nucleotide, BioProject and PATRIC databases are biased to pathogens 
 probably reflecting the research field of groups that frequently submit DNA data and the 
 direction of research funding. In the Nucleotide database, most records belong to 
@@ -221,8 +125,6 @@ Bacillus thuringiensis, Escherichia coli, Shewanella sp., Aeromonas veronii, Hom
 HIV, and Mycobacterium tuberculosis (Figure 2). 70.60% of the records belonged to 
 Bacteria. 24.38%, to Eukaryota and 3.07%, to Viruses (Suppl. Inf. 2). In addition, we found 
 no records of Archaea submitted by Peruvian institutions. Within Eukaryota, most of the 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
 records belonged to clades Fungi and Viridiplantae and Phyla Chordata, Arthropoda, and 
 Mollusca (Suppl. Inf. 2). In BioProject, Salmonella enterica subsp. enterica serovar Infantis is 
 the most frequent record (Suppl. Inf. 3). PATRIC’s most frequent records are pathogenic 
@@ -230,15 +132,14 @@ bacteria, namely, Mycobacterium tuberculosis, Yersinia pestis, Shigella sonnei, 
 Staphylococcus aureus (Suppl. Inf. 4). BOLD presents different results because it is a 
 Eukaryotic database. BOLD’s most frequent taxa are, in descending order, Chordata (Aves 
 and Actinopterygii), Angiospermae, and Arthropoda (Insecta, and Arachnida) (Suppl. Inf. 5). 
- 
+
 We found 266 articles published from authors affiliated to at least one Peruvian institution 
 (Figure 3, Suppl. Inf. 6). Results were similar to the previous ones: UPCH, UNMSM, 
 UNALM, and INS appeared in most of the results. Research groups collaborated mainly with 
 institutions from the United States, Brazil, United Kingdom, Colombia, and France. Main 
 subject areas in these investigations are Agricultural and Biological Sciences, (Bio)Medicine 
 and Environmental Sciences (Suppl. Inf. 7). 
- 
-Discussion 
+
 It has been two years since Norena et al. (2018) reported the first results of Latin American 
 genetic data stored in public databases. These authors kindly shared their scripts and 
 information with us to reproduce and compare results. In our view, open science and data 
@@ -256,16 +157,14 @@ PATRIC, Norena et al. found 0.28% records submitted by Peruvian institutions whi
 found 3.62% records (107 out of 2959). Finally, in BOLD, we reported 3 754 records while 
 Norena et al. found 3 438. In the latter case, the increase was smaller than in the other 
 databases. 
- 
+
 It is not a surprise that the same institutions are actively submitting data to different 
 databases because they host strong research groups related to emerging and infectious 
 diseases, biodiversity, and biotechnology. However, most of them are based in Lima, Peru’s 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
 capital. We believe that, to increase diversity and representativeness, funding efforts should 
 be directed to more regional research groups and other highly diverse taxa, for instance, 
 non-pathogenic bacteria, archaea, non-vertebrates and non-flowering plants.  
- 
+
 We are aware of the limitations of our searches. We limited the search to the four databases 
 mentioned above for consistency and reproducibility. We also limited the search to 
 nucleotide sequences. Further information of protein sequences and structures can be found 
@@ -280,13 +179,13 @@ comes from the same institution, for instance, in BioProject, we found records f
 different  names such as “Peruvian National Institute of Health”, “Instituto Nacional de Salud 
 - Peru” , “Instituto Nacional de Salud” (Suppl. Inf. 3). Thus, we believe that each institution 
 must develop an homogenous protocol for data submission. 
- 
+
 Sequencing projects will definitely rise in the next months and years. It would not be a 
 surprise, for instance, to see a rise of SARS-CoV2 genomes submitted by Peruvian 
 institutions. In order to effectively track this information and keep it updated we encourage 
 Peruvian institutions to create a unified online platform to frequently survey and organize 
 sequencing data.  
- 
+
 We agree with several members of the scientific community that in order to improve the 
 quality of science: transparency, reproducibility, efficiency, and benefits to society, there is a 
 need for open data (Molloy, 2013). Public databases play a big role in open science and 
@@ -299,189 +198,10 @@ issues from several topics such as agriculture, public health and biodiversity c
 Finally, efforts should be also focused on a country-wide capacity building initiative to train a 
 new generation of Peruvian bioinformaticians that will be essential in future challenges to our 
 biodiversity. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-ACKNOWLEDGMENTS 
+
 We thank Marco Cristancho (Universidad de Los Andes) and Andrea Gonzalez (Centro de 
 Bioinformática y Biología Computacional de Colombia – BIOS) for kindly sharing the raw 
 data and scripts from Norena et al. (2018). PER thanks to Cath Brooksbank and Piraveen 
 Gopalasingam, both from EMBL, and members of the CABANA initiative for their effort to 
 strengthen bioinformatics capacities in Latin America. CCV thanks Pablo Tsukayama 
 (UPCH) for providing access to computing facilities. 
- 
-REFERENCES 
-Assefa T., A. Assibi Mahama, A.V. Brown, et al. 2019. A review of breeding objectives, 
-genomic resources, and marker-assisted methods in common bean (Phaseolus vulgaris L.). 
-Molecular Breeding 39(2). doi:10.1007/s11032-018-0920-0 
- 
-Baxevanis, A.D. & B.F.F. Ouellette. 2005. Bioinformatics: A practical guide to the analysis of 
-genes and proteins. 3rd edn. Wiley-Interscience. 540pp. 
- 
-Berman H.M., J. Westbrook, Z. Feng, et al. 2000. The Protein Data Bank. Nucleic Acids 
-Res. 28(1):235-42. doi:10.1093/nar/28.1.235 
- 
-Clark K., I. Karsch-Mizrachi, D.J. Lipman, et al. 2016. GenBank. Nucleic Acids Res 
-44(D1):D67-72. doi:10.1093/nar/gkv1276 
- 
-Harris D.N., W. Song, A.C. Shetty, et al. 2018. Evolutionary genomic dynamics of Peruvians 
-before, during, and after the Inca Empire. Proc Natl Acad Sci USA 115(28):E6526-E35. 
-doi:10.1073/pnas.1720798115 
- 
-Kans J. (online) Entrez Direct: E-utilities on the UNIX Command Line. In: Entrez 
-Programming Utilities Help. Acceso 23/04/2020. 
- 
-MINAM [Ministerio del Ambiente, Perú]. 2019. Sexto Informe Nacional sobre Diversidad 
-Biológica. 27 pp. 
- 
-Molloy J.C. 2011. The Open Knowledge Foundation: open data means better science. PLoS 
-Biol. 9(12):e1001195. doi:10.1371/journal.pbio.1001195 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-Mrode R.A. 2019. Genetic and genomic dairy cattle evaluations in developing countries. In J. 
-van der Werf, & J. Pryce (Eds.), Advances in Breeding of Dairy Cattle Burleigh Dodds 
-Science Publishing. 
- 
-Norena P.A., A. Gonzalez Munoz, J. Mosquera-Rendon, et al. 2018. Colombia, an unknown 
-genetic diversity in the era of Big Data. BMC Genomics 19(Suppl 8):859. 
-doi:10.1186/s12864-018-5194-8 
- 
-Norris E.T., L. Wang, A.B. Conley, et al. 2018. Genetic ancestry, admixture and health 
-determinants in Latin America. BMC Genomics 19(Suppl 8):861. doi:10.1186/s12864-018-
-5195-7 
- 
-Ramírez J.L., A. González A, J.M. Cantú, et al. 2002. Latin American genome initiative, the 
-creation of a network and web based resource to aid and nurture genome biology in 
-developing countries. Electronic Journal of Biotechnology 5(3):3-4. 
- 
-Ratnasingham S. & P.D. Hebert. 2007. bold: The Barcode of Life Data System 
-(http://www.barcodinglife.org). Mol Ecol Notes 7(3):355-64. doi:10.1111/j.1471-
-8286.2007.01678.x 
- 
-Romero, P.E. & C. Castillo. 2020. Supplementary information from the Comment: “Data 
-mining of DNA sequences submitted by Peruvian institutions to public genetic databases”. 
-doi: 10.6084/m9.figshare.c.4990550 
- 
-Sasson A. & C. Malpica. 2018. Bioeconomy in Latin America. N Biotechnol 40(Pt A):40-5. 
-doi:10.1016/j.nbt.2017.07.007 
- 
-Sekurova O.N., O. Schneider & S.B. Zotchev. 2019. Novel bioactive natural products from 
-bacteria via bioprospecting, genome mining and metabolic engineering. Microb Biotechnol 
-12(5):828-44. doi:10.1111/1751-7915.13398 
- 
-Wang W., X.H. Cao, M. Miclaus, et al. 2017. The Promise of Agriculture Genomics. Int J 
-Genomics 2017:9743749. doi:10.1155/2017/9743749 
- 
-Wattam A.R., J.J. Davis, R. Assaf, et al. 2017. Improvements to PATRIC, the all-bacterial 
-Bioinformatics Database and Analysis Resource Center. Nucleic Acids Res 
-2017;45(D1):D535-D42. doi:10.1093/nar/gkw1017 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-TABLES 
-Table 1. Number of records associated to the term “Peru” and submitted by Peruvian 
-institutions in four genetic public databases.  
- 
-  
-This study 
-Norena et al. (2018) 
-  
-Total data 
-associated to 
-the term "Peru" 
-Records 
-submitted by 
-Peruvian 
-institutions 
-% 
-Total data 
-associated to 
-the term "Peru" 
-Records 
-submitted by 
-Peruvian 
-institutions 
-% 
-Nucleotide 
-817 694 
-14 488 
-1.77 
-645 753 
-~6 500 
-1.01 
-BioProject 
-193 
-58 
-30.05 
-94 
-15 
-15.95 
-PATRIC 
-2 959 
-107 
-3.62 
-1 738 
-5 
-0.28 
-BOLD 
-- 
-3 754 
-- 
-- 
-3 438 
-- 
- 
- 
-FIGURES 
-Figure 1. Peruvian institutions that submitted most of the records to four public genetic 
-databases; BioProject, BOLD, Nucleotide and PATRIC. For Nucleotide, we show institutions 
-that submitted more than 100 records in this database. 
-  
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-Figure 2. Most abundant records of organisms submitted by Peruvian institutions to the 
-Nucleotide database. The figure shows organisms with more than 200 records. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)
-Figure 3. Peruvian institutions that appeared frequently in scientific articles about genetic 
-diversity. The literature and affiliation search were done in Scopus. 
- 
- 
- 
- 
- 
-Contribution of each author / Información sobre la contribución  
-PER participated in the conceptualization, data analysis, writing and review of the 
-manuscript.  CC-V participated in data analysis and writing of the manuscript 
-PER participó en la concepción, análisis de datos, escritura y revisión del manuscrito 
-CC-V participó en el análisis de los datos y la escritura del manuscrito. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.957
-Powered by TCPDF (www.tcpdf.org)

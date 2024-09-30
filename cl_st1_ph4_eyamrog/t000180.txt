@@ -1,75 +1,9 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/1980-549720200087
-Differences in the prevalence of risk factors for severe
-COVID-19 across São Paulo city regions
-Beatriz  Thomé, Leandro F. M. Rezende, Mariana Cabral  Schveitzer, Camila Nascimento 
-Monteiro, Moisés  Goldbaum
-https://doi.org/10.1590/1980-549720200087
-Submitted on: 2020-07-08
-Posted on: 2020-07-08 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
-DOI: 10.1590/1980-549720200087 
-e200087 
-Comunicação Breve 
- 
-Differences in the prevalence of risk factors for severe COVID-19 across São Paulo 
-city regions  
-Diferenças de prevalência de fatores de risco para COVID-19 grave nas regiões da 
-cidade de São Paulo 
-Short title: Differential risk factor prevalence for severe COVID-19 in São Paulo 
-Título resumido: Prevalência de fatores de risco para COVID-19 grave em São Paulo 
- 
-Beatriz Thomé1, Leandro F. M. Rezende1, Mariana Cabral Schveitzer1, Camila 
-Nascimento Monteiro2, Moises Goldbaum3 
- 
-1Universidade Federal de São Paulo, Escola Paulista de Medicina, Departamento de 
-Medicina Preventiva 
-2Hospital Israelita Albert Einstein 
-3 Faculdade de Medicina da Universidade de São Paulo 
- 
-Corresponding author: Beatriz Thomé; biathome@gmail.com, https://orcid.org/0000-
-0002-3941-3756; Universidade Federal de São Paulo, Escola Paulista de Medicina, 
-Departamento de Medicina Preventiva. Rua Botucatu, 740 - São Paulo, São Paulo, 
-Brazil. +55 11 55754848 VoIP 2197 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
-Leandro F.M. Rezende; leandro.rezende@unifesp.br; https://orcid.org/0000-0002-7469-
-1399; Universidade Federal de São Paulo, Escola Paulista de Medicina, Departamento 
-de Medicina Preventiva. São Paulo, São Paulo, Brazil. 
- 
-Mariana Cabral Schveitzer; mariana.cabral@unifesp.br; https://orcid.org/0000-0001-
-9833-2932; Universidade Federal de São Paulo, Escola Paulista de Medicina, 
-Departamento de Medicina Preventiva. São Paulo, São Paulo, Brazil. 
- 
-Camila 
-Nascimento 
-Monteiro; 
-c.nascimentomonteiro@gmail.com; 
-https://orcid.org/0000-0002-0121-0398; Hospital Israelita Albert Einstein, São Paulo, 
-São Paulo, Brazil. 
- 
-Moisés 
-Goldbaum; 
-mgoldbau@usp.br; 
-https://orcid.org/0000-0002-8049-7824; 
-Faculdade de Medicina da Universidade de São Paulo, São Paulo, São Paulo, Brazil. 
- 
-The authors declare no conflict of interest. There was no funding attached to this 
-project. 
- 
-Author contribution: 
-Study design: BT, LR. Data analysis: BT, LR, MCS, CN, MG. ISA conceptualization 
-and analysis: MG, CN. Manuscript write up and review: BT, LR, MCS, CN, MG. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
-Introduction      
 São Paulo city stands as the epicenter of the outbreak sparked by SARS-Cov-2 in Latin 
 America. On July 2nd there were 134,984 confirmed COVID-19 cases and 7,370 deaths, 
 roughly 10% of confirmed cases and deaths in Brazil1. São Paulo city is composed of 5 
 regions (North, East, South, Midwest and Southeast), each with unique socioeconomic 
 and epidemiological characteristics. 
+
 São Paulo health systems are currently being challenged in the attempt to control 
 transmission of SARS-CoV-2 while providing adequate care in particular to a subset of 
 infected patients with severe disease. In Brazil it has been observed that among deaths 
@@ -79,17 +13,16 @@ were cardiovascular disease and diabetes2. As part of response planning it becom
 utmost importance to identify segments of the population who may be at risk for severe 
 COVID-19 and describe their sociodemographic characteristics and how they are 
 geographically distributed.  
+
 The scientific community has been calling attention to the disproportionate impact of 
 the pandemic among the population subgroups of lower socioeconomic status3. In this 
 study we estimated the prevalence of risk factors for severe COVID-19 living in São 
 Paulo city by sociodemographic characteristics based on routinely collected public 
 health data. 
- 
-Methods 
+
 We retrieved data from the most recent household-based survey conducted in São 
 Paulo, ISA Capital 2015, which collected information from a representative sample of 
 non-institutionalized residents. ISA-Capital 2015 collected respondents’ self-reported 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
 health conditions, weight and height, smoking habit, among other information. The 
 survey was based on probabilistic sample. Two-stage sampling was done within census 
 tracts (primary sampling unit) and households (second stage). A total of 4,043 
@@ -105,6 +38,7 @@ detail
 in: 
 https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/epidemiologia_e_informacao/
 isacapitalsp/. 
+
 In our analysis we included risk factors for severe disease described in the literature and 
 other reliable public health resources4 which were available in ISA-Capital survey. 
 From the total of people interviewed we included data from 3,223 adults (≥18 years) for 
@@ -117,263 +51,33 @@ respondents). We estimated the prevalence of one or more risk factors for severe
 COVID-19 by sex, age, education, income, race/ethnicity and São Paulo city region.  
 All statistical analyses considered ISA complex multistage sampling design and were 
 carried out using Stata 15.0 software (StataCorp, TX, USA). 
- 
-Results 
+
 Participants included in our study were 47% were men, 66% had at least secondary 
 education, 51% were white, and 54% lived on less than a minimal wage per capita.  
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
+
 Prevalence of single risk factors for severe COVID-19 among older adults ≥65 years 
 were as high as 58% (hypertension), while for younger adults (<65 years) obesity was 
 the most prevalent risk factor (21%). In general, risk factors were more prevalent among 
 older adults with two exceptions: obesity and smoking were more prevalent in younger 
 adults (data not shown). 
+
 The prevalence of one or more risk factors for severe COVID-19 was 56.4% (4.7 
 million) in the city of São Paulo (Table 1). The proportion was higher in adults <65 
 years old (51%) vs. in the older adults (80%). Among less educated adults, that is, those 
 who had no formal education reported, 86% had at least 1 risk factor for severe 
 COVID-19, as compared to 49% among those with university education initiated. 
 Distribution of risk factors was similar according to income or race (Figure 1). 
+
 Southeast (59.8%), North (58.7%) and South (56%) had higher prevalence of one or 
 more risk factors, while in the Midwest it was relatively lower (53.8%) (Table 1), 
 despite the high proportion of adults ≥65 years (data not shown). 
- 
- 
-Figure1. Distribution of risk factors for severe COVID-19 by sociodemographic characteristics. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
-Table 1.  Prevalence and 95% confidence intervals (CI) of one or more risk factors for severe 
-COVID-19 by region of São Paulo city, ISA-Capital 2015. 
- 
-Characteristics 
-Regions of São Paulo city 
- 
-North 
-Mid-west 
-Southeast 
-South 
-East 
-Total 
-(n=624) 
-(n=499) 
-(n=690) 
-(n=746) 
-(n=664) 
-(n=3223) 
-Risk factors for Severe COVID-
-19 
- 
- 
- 
- 
- 
- 
-Cardiovascular disease 
-8.0 
-9.1 
-11.9 
-5.6 
-8.0 
-8.6 
-(6.2, 10.3) 
-(5.8, 13.9) 
-(8.9, 15.7) 
-(4.1, 7.6) 
-(6.5, 9.9) 
-(7.5, 9.9) 
-Diabetes 
-7.1 
-6.6 
-7.3 
-8.2 
-7.8 
-7.5 
-(5.2, 9.8) 
-(4.6, 9.4) 
-(5.9, 9.0) 
-(6.4, 10.6) 
-(6.0, 10.0) 
-(6.6, 8.4) 
-Chronic respiratory disease 
-2.9 
-2.5 
-2.4 
-2.5 
-3.9 
-2.8 
-(1.6, 5.3) 
-(1.4, 4.3) 
-(1.4, 4.3) 
-(1.5, 4.1) 
-(2.7, 5.4) 
-(2.2, 3.5) 
-Hypertension 
-23.1 
-22.8 
-24.8 
-19.7 
-21.9 
-22.5 
-(19.1, 27.7) 
-(17.5, 29.1) 
-(21.7, 28.3) 
-(16.3, 23.7) 
-(18.4, 25.8) 
-(20.7, 24.4) 
-Cancer (currently) 
-1.8 
-0.4 
-1.1 
-0.2 
-0.3 
-0.8 
-(0.8, 3.9) 
-(0.1, 1.4) 
-(0.5, 2.3) 
-(0.1, 0.6) 
-(0.1, 1.1) 
-(0.5, 1.2) 
-Stroke 
-1.0 
-1.9 
-1.4 
-1.1 
-1.3 
-1.3 
-(0.6, 1.9) 
-(0.9, 3.9) 
-(0.7, 2.8) 
-(0.6, 2.0) 
-(0.6, 2.7) 
-(1.0, 1.8) 
-Obesity (BMI ≥30 kg/m2) 
-23.0 
-17.5 
-23.1 
-19.7 
-18.8 
-20.7 
-(19.6, 26.8) 
-(13.9, 21.9) 
-(19.3, 27.5) 
-(17.0, 22.8) 
-(15.9, 22.3) 
-(19.2, 22.4) 
-Smoking 
-18.3 
-16.7 
-17.8 
-20.4 
-14.8 
-17.8 
-(15.7, 21.2) 
-(13.2, 20.8) 
-(14.2, 22.2) 
-(17.3, 23.9) 
-(12.2, 17.8) 
-(16.3, 19.4) 
-Moderate to severe asthma 
-2.4 
-1.4 
-2.4 
-3.2 
-2.2 
-2.4 
-(1.5, 3.8) 
-(0.8, 2.7) 
-(1.5, 3.8) 
-(2.1, 4.9) 
-(1.3, 3.7) 
-(1.9, 3.0) 
-Number of risk factors for 
-severe COVID-19a 
- 
- 
- 
- 
- 
- 
-None 
-41.3 
-46.2 
-40.2 
-44.0 
-48.2 
-43.6 
-(37.2, 45.6) 
-(39.7, 52.9) 
-(35.6, 45.1) 
-(40.0, 48.2) 
-(45.0, 51.4) 
-(41.6, 45.7) 
-1 
-33.0 
-28.2 
-31.0 
-33.1 
-29.1 
-31.1 
-(29.2, 37.1) 
-(23.3, 33.6) 
-(27.2, 35.1) 
-(29.8, 36.5) 
-(26.0, 32.3) 
-(29.3, 32.9) 
-2 
-15.8 
-13.3 
-15.1 
-15.0 
-13.4 
-14.6 
-(12.9, 19.1) 
-(10.3, 17.2) 
-(12.0, 18.8) 
-(12.5, 17.9) 
-(11.0, 16.2) 
-(13.3, 16.1) 
-3+ 
-9.9 
-12.3 
-13.7 
-7.9 
-9.4 
-10.6 
-(7.4, 13.0) 
-(8.8, 16.9) 
-(11.0, 16.8) 
-(6.1, 10.1) 
-(7.3, 11.9) 
-(9.4, 12.0) 
-Adult population living in São 
-Paulo cityb  
-1.787.806 
-1.253.318 
-2.180.543 
-2.120.010 
-1.894.605 
-8.411.089 
-Number of adults with risk 
-factors for severe COVID-19c 
-1.049.442 
-674.285 
-1.303.965 
-1.187.206 
-981.405 
-4.743.854 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
-aCriteria: age ≥65 years or diagnosis of cardiovascular disease, diabetes, chronic respiratory disease, hypertension, 
-cancer (currently), stroke, obesity (body mass index - BMI ≥30 kg/m2), current smoking, moderate to severe asthma 
-(limit moderate/severe daily activities). 
-bAdult population (≥18 years) living in São Paulo city in 2020. 
-cAdult population (≥18 years) presenting with one or more risk factors for severe COVID-19 (age ≥65 years, 
-cardiovascular disease, diabetes, chronic respiratory disease, hypertension, cancer (currently), stroke, obesity (BMI 
-≥30 kg/m2), smoking, moderate to severe asthma, in São Paulo city, 2020. 
- 
-Discussion       
+
 We found that more than half of the population, and hence a large number of adults, 
 presented with at least one risk factor for severe COVID-19 in the city of São Paulo, 
 including under the age of 65 years. A similar estimate for worldwide risk for severe 
 disease pointed out to a fifth of the population, but is likely to be underestimated, since 
 the calculation did not include obesity, a highly prevalent risk factor globally5.  
+
 We also described how the prevalence of risk factors is unequally distributed across São 
 Paulo city: in the North and Southeast these risk factors were more prevalent, which 
 may partially explain the higher deaths rates, alongside with inequalities in resources for 
@@ -383,77 +87,14 @@ severe disease. Data analysis of the first weeks of the pandemic in the city of 
 pointed out to a concentration of COVID-19 cases in the Midwest and Southeast 
 regions, while COVID-19 deaths concentrate in the North, Southeast and East regions6. 
 probably also reflecting disparities in accessing the necessary health services.  
+
 As part of an effective COVID-19 response it is important to describe the distribution of 
 risk factors for severe disease in the population in order to identify vulnerabilities and 
 tailor prevention and care strategies. 
+
 The present study has limitations. Risk factors were self-reported and therefore prone to 
 misclassification bias. In addition, ISA-Capital dates from 2015, and other risk factors 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
 (known and unknown) were not captured. Nevertheless, our findings contribute to a 
 better understanding of the greater impact of COVID-19 in lower-resource settings and 
 population subgroups. Response strategies will need to be tailored to address such 
 vulnerabilities.   
- 
-References 
-1. Fundação SEADE. https://www.seade.gov.br/ . Accessed June 21, 2020. 
-2. Ministério 
-da 
-Saúde 
-- 
-Boletim 
-Epidemiológico 
-Especial. 
-https://www.saude.gov.br/images/pdf/2020/May/29/2020-05-25---BEE17---
-Boletim-do-COE.pdf. Accessed June 21, 2020. 
-3. Chiriboga D, Garay J, Buss P, Madrigal RS, Rispel LC. Health inequity during 
-the COVID-19 pandemic: a cry for ethical global leadership. Lancet. 
-2020;395(10238):1690-1691. doi:10.1016/S0140-6736(20)31145-4 
-4. CDC. People Who Are at Increased Risk for Severe Illness. 
-https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-
-increased-
-risk.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus
-%2F2019-ncov%2Fneed-extra-precautions%2Fpeople-at-higher-risk.html. 
-Accessed June 29, 2020. 
-5. Clark A, Jit M, Warren-Gash C, Guthrie B, Wang HHX, Mercer SW, et al. 
-Global, regional, and national estimates of the population at increased risk of 
-severe COVID-19 due to underlying health conditions in 2020: a modelling 
-study. Lancet Glob Health. 2020 Jun 15:S2214-109X(20)30264-3. doi: 
-10.1016/S2214-109X(20)30264-3. Epub ahead of print. PMID: 32553130; 
-PMCID: PMC7295519. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
-6. Boletins - Secretaria Municipal da Saúde - Prefeitura da Cidade de São Paulo. 
-https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/vigilancia_em_saude/
-doencas_e_agravos/coronavirus/index.php?p=295572. Accessed June 21, 2020. 
- 
-Recebido em 25/06/2020 
-Revisado em 07/07/2020 
-Aprovado em 08/07/202
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720200087
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The deposited manuscript is in PDF format.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
-down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
-place.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-Powered by TCPDF (www.tcpdf.org)

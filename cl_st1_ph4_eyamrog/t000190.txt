@@ -1,78 +1,49 @@
-COVID-19: UNCOVERING INDIVIDUALITY 
-Carolina Muruci-Cruz1*, Maria Goreti Rosa-Freitas2*, Luiz Eduardo Dale3, Luis Eduardo da 
-Cruz4, Jorge Kalil5 
-1 Médica, Independente, Rio de Janeiro, Brasil, c.murucicruz@gmail.com Orcid 
-0000-0002-5983-4013 
-2 FIOCRUZ & Geniac- Ciência, Rua Alves Guimarães 1317, 05410-002, São Paulo, Brasil 
-maria.freitas@geniac-academy.com Orcid 0000-0002-9512-6567 
-3 Clinica Dale, Rua Lauro Müller, 116 - Botafogo, Rio de Janeiro - RJ, 22290-160, Brasil, 
-dale@clinicadale.com.br Orcid 0000-0002-6857-0283 
-4 Luis Eduardo da Cruz, Consultant, Axis Biotec Brazil, R Eng Habib Gebara, 77 - Rio de 
-Janeiro, RJ, Brasil ec@axisbiotec.com.br Orcid 0000-0002-4734-8886 
-5 Prof. Titular de Imunologia Clínica e Alergia, Faculdade de Saúde Pública, Universidade 
-de São Paulo, Professor  and Head of Clinical Immunology and Allergy. Faculdade de 
-Medicina da Universidade de São Paulo, Av Enéas de Carvalho Aguiar 44, Bloco 2, 9o. 
-Andar. 05403, São Paulo, Brasil jkalil@usp.br  Orcid 0000-0001-8415-4274 
-* CMC and MGRF equally contributed to this paper by writing up, analyses and editing; 
-LED and JK participated in discussions and editing; LEC originated the paper’s idea and 
-worked on writing, analyses and editing. 
-Corresponding author: Maria Goreti Rosa-Freitas, email maria.freitas@geniac-
-academy.com & mariafreitas@hotmail.com Tel +5521999479229 
-Page  of 
-1
-17
-ABSTRACT 
 SARS-Cov-2 is a virus easily transmitted by air and fomites causing  acute severe 
 respiratory syndrome. Severity in some cases requires hospitalization and complex 
 expensive intensive care treatments. Its rampant contagious led to a a fearful pandemic 
 affecting the whole world with millions of infected humans and almost half a million 
 deaths in a few months in the beginning of 2020 (until June 17, 2020). SARS-Cov2 is likely 
 to have been spilled over from natural sylvatic cycles in bats from China. 
+
 Our purpose is to comment on the human individual immune inflammatory responses to 
 the infection of SARS-Cov2 and the reflections of these individual immunoinflammatory 
 profiles on patterns of the severity of the disease, time for therapeutical intervention, 
 pathogenesis, candidate drugs and indicative comparative drug prices for covid-19. 
+
 Efficient treatment  for covid-19 may require: 1) early disease detection, 2) a combination 
 of drugs being used for 3) targeting the virus replication cycle and 4) specific/ 
 individualized drug treatment for given immunoinflammatory human profile responses in 
 a 5) timely manner. 
+
 Specific serum immuno-markers of covid-19 affected individuals at onset, in the follow-up, 
 and in the resolution of the immunoinflammatory storm during the course of the disease 
 may lead to individualized therapeutics with better outcomes.  
+
 Covid-19 is unlikely to be the last emergent human disease with fast pandemic potencial. 
 To gather knowledge on the human host profiles and immunoinflamatory responses is an 
 opportunity that could pave the way to faster, more efficient strategies to tackle upcoming 
 diseases. 
-KEYWORDS: Immunoinflammation, covid-19, immunoprofiles 
-Page  of 
-2
-17
-INTRODUCTION 
+
 We are all different. We are 7 billion of humans with differently arranged DNA 
 material. Upon an incredible variety contained in 3 billion DNA base pairs,  the way we 
 live, work, eat, exercise and even, our mental health add variation to our epigenetics. 
+
 Even though this is an established fact, when we talk about pathogen invasion and 
 emerging diseases we tend to disregard our immense human genetics and epigenetic 
 variation. In fact, these variations lead to different host immune responses to pathogen 
 infection and to the way human populations and cohorts are impacted. 
+
 In the beginning of the 1960’s John Murray Last, an Australian doctor, while working as a 
 postgraduate in the London Hospital, UK, observed what he called ‘subclinical diseases’ 
 and created the strong metaphorical image of ‘disease as iceberg’ observing that only a 
 fraction of patients show symptoms in a given exposed population (Last 1963 ) (Figure 1). 
-1
 Last observed these subclinical undetected forms either for acute or chronic diseases such 
 as urinary infections, tuberculosis and for diabetes and rheumatoid arthritis, among 
 others, stating that the ‘Disease known to the general practitioner represents only the tip of 
 the iceberg’.  In the tip visible part of the iceberg, a few individuals present medium to 
 severe symptoms while for some individuals, in fact the majority of the affected 
 population, mild or no symptoms prevail. 
-Page  of 
-3
-17
-Figure 1. The iceberg. Covid-19 infections in a given exposed population. Some 
-individuals, in fact the majority of the population, present mild symptoms or 
-are asymptomatic. Very few have medium to severe symptoms. Source: The 
-Authors, after Last, 1963. 
+
 For covid-19, caused by the number 2 coronavirus - SARS-CoV2, the number of severe 
 cases seem to follow the iceberg model of disease (Fig. 1) (Table I). Even though testing 
 and notifications are believed to confirm only a fraction of the coronavirus infections 
@@ -84,285 +55,50 @@ care units and being statistically registered. Testing studies in 120 cities in 
 corresponding to 32.7% of the total Brazilian population, or 68.6 million individuals have 
 shown average percentages of 3% of infected individuals sometimes completely 
 assymptomatic (EPICOVID19 -Universidade de Pelotas, data of 11 June 2020 ). These 
-2
 numbers are highly variable showing different realities for different Brazilian cities. In 
 some capitals tests showed IgM positive for covid-19 raging from 0.5% in most cities of the 
-Page  of 
-4
-17
 Southern Brazilian States to 25% in Boa Vista, Roraima in the Northern Region 
 (EPICOVID19 -Universidade de Pelotas, data of 11 June 2020). 
-Table I. Percentages of confirmed cases and deaths per country by covid-19 in 
-descending order of % deaths. Data of 15 June 2020.  
-Country
-confirmed 
-cases
- % confirmed 
-cases who 
-have died
-deaths
-deaths 
-per 
-million 
-people
-cases per 
-million 
-people
-Population
-% of confirmed 
-cases in the total 
-population
-% of deaths in the 
-total population
-Belgium
-60100
-16.07
-9661
-845
-5185.7
-11589623
-0.52
-0.0834
-UK
-297342
-14.05
-41783
-631
-4493.0
-67886011
-0.44
-0.0615
-Spain
-243928
-11.12
-27136
-585
-5262.0
-46754778
-0.52
-0.0580
-Italy
-236989
-14.49
-34345
-579
-3992.0
-60461826
-0.39
-0.0568
-France
-194153
-15.15
-29410
-453
-2988.0
-65273511
-0.30
-0.0451
-USA
-2094058
-5.53
-115732
-357
-6454.0
-331002651
-0.63
-0.0350
-Canada
-100404
-8.18
-8218
-224
-2741.0
-37742154
-0.27
-0.0218
-Brazil
-867624
-4.99
-43332
-207
-4146.0
-212559417
-0.41
-0.0204
-Peru
-229736
-2.91
-6688
-208
-7142.0
-32971854
-0.70
-0.0203
-Chile
-174293
-1.91
-3323
-184
-9654.0
-19116201
-0.91
-0.0174
-Mexico
-146837
-11.67
-17141
-133
-1138.9
-128932753
-0.11
-0.0133
-Iran
-187427
-4.71
-8837
-109
-2309.0
-83992949
-0.22
-0.0105
-Germany
-187518
-4.69
-8801
-107
-2238.1
-83783942
-0.22
-0.0105
-Turkey
-178239
-2.70
-4807
-57.0
-2113.4
-84339067
-0.21
-0.0057
-Russia
-528267
-1.31
-6938
-47.5
-3669.0
-145934462
-0.36
-0.0048
-Saudi 
-Arabia
-127541
-0.76
-972
-27.9
-3872.0
-34813871
-0.37
-0.0028
-South 
-Africa
-70038
-2.11
-1480
-25.0
-1180.9
-59308690
-0.12
-0.0025
-Pakistan
-144478
-1.89
-2729
-12.4
-654.1
-22089234
-0
-0.07
-0.0012
-Banglades
-h
-87520
-1.34
-1171
-7.1
-531.4
-16468938
-3
-0.05
-0.0007
-India
-320922
-2.87
-9195
-6.7
-232.6
-1380004385
-0.02
-0.0007
-China
-84335
-5.50
-4638
-3.2
-58.6
-1439323776
-0.01
-0.0003
-Page  of 
-5
-17
-Sources: https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-
-datapack/; https://coronavirus.jhu.edu/map.html; https://www.worldometers.info/world-
-population/population-by-country/ accessed 15 June 2020. 
+
 These numbers look small. Nonetheless, they are still of concern and challenge even for the 
 most prepared health systems, since covid-19 is a fast spreading contagious acute 
 respiratory syndrome which requires complex treatment involving intensive care units, 
 ventilators and other special equipment, high use of disposable consumables and highly 
 skilled personnel, all ready at once. Some patients require intensive care for weeks and 
 approximately 1 to 16% of those symptomatic individuals will not recover (Table I). 
+
 Individual immune responses. When we look retrospectively to a new emerging 
 pathogen such as the severe acute respiratory syndrome by SARS-CoV2, individual 
 exacerbated immunoinflamatory responses in attempt to overcome the pathogen invasion 
 seem to be linked to the symptomatic full blown covid-19 disease . These responses are not 
-3
 only likely to vary on individual fashion but also during covid-19 time progression and are 
 linked to disease outcomes.   
+
 Comorbidities and risk groups alone can not by itself explain covid-19 clinic presentation 
 segmentation in a given population, from mild to severe. Although the elderly, 
 hypertensive, diabetic, obese, immunosupressed and chronically ill are majorly at risk, as 
 for any infection, some healthy individuals in the population seem to be more susceptible 
 to develop covid-19 severe cases.  These severe covid-19 cases are usually linked with 
 clinics presentation of a ‘cytokine storm’. 
-Page  of 
-6
-17
+
 Out of control. Unregulated immune-inflammation is a central pathological process in 
 several infectious diseases such as haemorrhagic dengue (Sierra et al 2010 ) and severe 
-4
 malaria (Penha-Gonçalves 2019 ). 
-5
+
 The term ‘cytokine storm’ was first used in 1993 on a paper on graft-versus-host disease 
 (Ferrara et al 1993 ). Cytokine storm phenomenon was applied for the avian H5N1 
-6
 influenza virus, cytomegalovirus, Epstein-Barr virus-associated hemophagocytic 
 lymphohistiocytosis, group A streptococcus, variola virus and for the previous severe acute 
 respiratory syndrome coronavirus (SARS-CoV) (reviewed in Tisoncik et al 2012). Cytokine 
 storm was revived for covid-19 since its striking immune-inflammatories cellular and 
 molecular processes seem to be strongly linked with death outcomes (Fig. 2). 
-Figure 2. The covid-19 storm. The x axis is time in days and the y axis is the 
-amount of immuno-inflamatory response by the host, normal in yellow and 
-abnormal in light gray. Red arrows represent possible times for drug 
-intervention: a) early (possibly using antivirals), b) symptomatic (probably 
-using anti-inflammatory drugs) and c) storm (probably using MAbs and 
-corticoids). Source: The Authors. 
-Page  of 
-7
-17
+
 Immunoinflammatory profiles. We would expect that genetics, immune and 
 inflammatory profiles of each infected individual play a role in the outcome for covid-19 
 but we have just started gathering knowledge to have the tools to separate these 
 individuals  in groups and take this knowledge to the clinics. These profiles are not static in 
 time and ought to be dependent on the genetics and epigenetics of the individuals. 
+
 We therefore would like to suggest at least three major human immunoprofile groups for 
 covid-19 which can be applied to other cytokine storm prone-diseases: 1) individuals who 
 will probably not develop a cytokine storm, 2) those who potentially will make a storm and 
@@ -373,19 +109,16 @@ iii) immunoinflamatory factors such as tumor necrosis factor (TNF-a), interferon
 IL-4 and IL-5 (Sierra et al 2010, Tay et al 2020). Better laboratory indicators of factors 
 present in the blood serum will most likely help to better outcome predictions using fast 
 practical approaches. 
+
 If we could know more about the specific immune and inflammatory responses of each 
 individual we would be in a better position to understand risk groups. Genetic and 
 epigenetic factors are not only important for infectious pathogens such as bacteria and 
 viruses but also for several degenerative conditions, from endometriosis (Bellelis et al 
 2019 , Garcia-Goméz et al 2020 ) to senility (Hu et al 2019 ). 
-7
-8
-9
+
 Hence, the categorization of human immunoinflammatory profiles would also allow for 
 better therapeutics. 
-Page  of 
-8
-17
+
 Possible suitable times for drug intervention in covid-19 are represented by red arrows in 
 Figure 2: a) early (probably using antivirals), b) symptomatic (probably using anti-
 inflammatory drugs) and c) storm (probably using MAbs and corticoids) (Fig.2). 
@@ -398,6 +131,7 @@ tens to hundreds of millions of dollars to be available to the society. Often, t
 disease, even if it exists, cannot be applied until it is authorized, registered and regulated. 
 For a deadly highly contagious disease as covid-19, the repositioning of drugs is the 
 emergency strategy indicated in the integrated management of the pandemic. 
+
 The first drugs that come to mind are antivirals, because covid-19 is caused by a virus. 
 Directly linked cell destruction and tissue damage is likely to be linked to the virus 
 pathogenesis mechanisms. However, we must ask ourselves if the human host response is 
@@ -405,331 +139,30 @@ the cause for the major burden to the infected organism in covid-19. Due to the 
 repositioning of drugs have been proposed as a viable way to tackle covid-19. All these 
 drugs are already on the market and safely used to treat other diseases. Some anti-
 inflammatory drugs have also been used to experimentally treat covid-19.  
+
 Knowledge of inflammation pathways and triggers provide opportunities for therapeutic 
 targets.  
+
 Tackle inflammation as well as viral infection would better manage homeostasis in the 
 moderate to high immunoinflammatory profile group likely to present a heavier illness. 
-Page  of 
-9
-17
+
 Among the many pathological mechanisms studied and reviewed to date in covid-19 are: 1) 
 direct attack of the viral particle on the lung tissue with cell destruction at the exit after 
 replication (Tang & Kang 2020 ); 2) dissociation of the hemoglobin structure producing 
-10
 iron and porphyrin (Wenzhong & Hualan 2020 ); 3) uncontrolled/ exacerbated 
-11
 inflammatory responses (Fig.3) which may cause a series of blood related pathologies such 
 as ischemia, tissue destruction of organs like heart, brain, kidneys and lungs (Dhama et al 
 2020 ). 
-12
+
 Among the drugs tested against covid-19 are: antiviral drugs (favipiravir, remdesivir, 
 lopinavir, ritonavir, ribavirin, oseltamivir), aminoquinolonas (cloroquina 
- and 
+and 
 hidroxicloroquina), monoclonal antibodies (sarilumab, tocilizumab, anti-cytokynes such as 
 anti-IL-6), immune-plasma (plasma from recovered patients), plasma with inflammation 
 regulatory factors (PlasmaCord ®), antibiotics (azytromycin), anti-helminthic  
 (nitazoxanide),  corticosteroids, immunomodulators (interferon) and other classes  of 
 drugs (camostat) (Table II, prices are given comparatively per 100 mg whenever possible). 
-Page 
- of 
-10
-17
-Table II. Covid-19 repositioning candidate drugs, drug target and usages, 
-country of production and source of Active Pharmaceutical Ingredient-API 
-and price in USD per 100mg for comparison. Source: The Authors. 
-Drug
-Target
-Used for
-Produce
-d in
-Active 
-pharm
-aceutic
-al 
-ingredi
-ent- 
-API-
-produc
-ed in
-Price 
-100 
-mg in 
-USD
-chloroquine 
-phosphate
-Blocking viral entry by 
-inhibiting host receptor 
-glycosylation, proteolytic 
-processing, and endosomal 
-acidification. Additional: 
-immunomodulatory effects 
-by inhibition of cytokine 
-production, 
-autophagy and lysosomal 
-host cell activity
-Malaria, 
-immunomod
-ulator in 
-autoimmune 
-rheumatologi
-cal diseases
-Brazil, 
-India 
-India
-66
-hydroxy-
-chloroquine 
-sulphate
-Same as chloroquine
-Same as 
-chloroquine
-Brasil, 
-India 
-India
-120
-Lopinavir/ 
-ritonavir
-Protease 3CL
-India
-96 e 
-180
-Umifenovir 
-(Arbidol)
-Protein S/ ACE2, 
-membrane fusion inhibitor
-influenza 
-virus
-Russia, 
-China
-Russia, 
-China
-317
-Remdesivir
-RNA polymerase inhibitor 
-India, 
-USA
-USA
-8500
-Oseltamivir 
-neuraminidase inhibitor
-influenza A 
-and B.
-India, 
-USA
-India, 
-USA
-60
-Ribavirin
-antiviral
-HCV, HIVl, 
-and RSV.
-USA, 
-India
-Italy, 
-USA, 
-India, 
-China, 
-Japan, 
-Korea
-60
-favipiravir
-Antiviral RNA polymerase 
-inhibitor
-Influenza
-Russia
-China, 
-India
-150
-Sarilumab
-Monoclonal antibody-Mab  
-target: anti interleucin-6 
-(IL-6)
-rheumatoid 
-arthritis
-France, 
-USA
-German
-y
-Undete
-rmined
-Tocilizumab
-MAb (Anti-Human IL6R, 
-Humanized Antibody)
-rheumatoid 
-arthritis
-Switzerlan
-d, USA
-China
-28000 
-(1mg = 
-280)
-Immune 
-Plasma
-Viral particles, viral spicules
-Brazil 
-Undete
-rmined
-Page 
- of 
-11
-17
-Note: Major players for APIs are: China, India, Germany, Italy, Spain, Israel, USA 
-(Pharmacompass 2020 ,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-). 
-13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
-plasma with 
-inflammation 
-regulatory 
-factors 
-(Plasma 
-Chord R)
-Unknown
-Inflammatory 
-diseases
-Custom, 
-probabl
-y 
-mainly 
-local 
-product
-ion
-Undete
-rmined
-Azythromycin
-Azithromycin is a macrolide 
-antibiotic useful for the 
-treatment of a number of 
-bacterial infections.
-Brazil, 
-Chile, 
-Portugal, 
-Italy and 
-many 
-other 
-countries
-Spain, 
-Portuga
-l, India
-96
-Nitazoxanide
-antiprotozoal agent and 
-canine antiviral - possible 
-interference with the 
-pyruvate:ferredoxin 
-oxidoreductase enzyme 
-dependent electron transfer 
-reaction. 
-virus - electively blocking 
-the maturation of the viral 
-hemagglutinin at a stage 
-preceding resistance to 
-endoglycosidase H 
-digestion.
-Human 
-antiprotozoal 
-agent, anti-
-parasitic drug 
-and canine 
-influenza 
-virus, 
-cryptosporidi
-osis in AIDS. 
-s
-China, 
-India, 
-Spain
-India,U
-SA, 
-Belgium
-, 
-Argenti
-na, 
-288
-Corticosteroi
-ds (as 
-prednisolone)
-down-regulation of 
-immune-active molecules,  
-reductio, of postischemic 
-oxidative stress, perfusion 
-pressure, and transudate 
-formation.
-Immunodisea
-ses, 
-exacerbated 
-inflammation
-, allergies
-Brazil, 
-Germany, 
-USA and 
-many 
-other 
-countries
-USA, 
-France, 
-Italy, 
-China
-10
-Interferon (as 
-human, 
-recombinant 
-alpha and beta)
-antiviral, antitumor and 
-immunomodulatory activity
-Viral, tumors 
-and 
-immunodisea
-ses
-USA, 
-Israel, 
-Germany, 
-Cuba, 
-China and 
-may other 
-countries
-China, 
-Israel
-170 por 
-100 
-microgr
-amas
-Camostat 
-mesylate
-trypsin-like protease 
-inhibitor inhibits generation 
-of TGF-beta by suppressing 
-plasmin activity and 
-reduces the activity of TGF-
-beta, which blocks in vitro 
-activation of HSCs [1].
-Immunodisea
-ses
-Japan
-Japan, 
-India
-140
-Page 
- of 
-12
-17
+
 Vaccines. Currently there are more than 135 clinical trials on SARS-CoV-2. Vaccines 
 demand a long way from lab to society with usually 4 phases: preclinical (with non-human 
 animal testing) and phases I (safety), II (expanded), III (efficacy) to approval (WHO 
@@ -744,9 +177,10 @@ tuberculosis vaccine (WHO 2020, New York Times 2020). Even using fast, combined
 approaches in an unforeseen fashion, a vaccine for covid-19 will be ready to market only at 
 the end of 2020/ yearly 2021. Billions of doses will have to be manufactured, shipped and 
 available to cover the whole world. 
-Concluding Thoughts 
+
 SARS-CoV-2 is highly contagious, being easily transmitted by air and fomites and some 
 cases’ severity require hospitalization and complex expensive intensive care treatments.  
+
 Some individuals in the population seem to be more susceptible to covid-19 and risk 
 groups such as the elderly, hypertensive, diabetic, obese and with other comorbidities have 
 been majorly affected by covid-19.  It might  also be that the genetic, immune and 
@@ -756,30 +190,25 @@ more about the specific immune and inflammatory response of each individual we w
 be in a better position to talk about risk groups, since these genetic and epigenetic factors 
 are not only important for viruses, but for several degenerative conditions, from 
 endometriosis to senility. 
-Page 
- of 
-13
-17
+
 Unregulated inflammation is a central pathological process in several infectious and non-
 infectious diseases. Knowledge of inflammation pathways provides opportunities for 
 therapeutic targets. 
+
 Efficient treatment  for covid-19 may require: 1) early detection 2) a combination of drugs 
 being used for 3) targeting the virus replication cycle, for 4) specific/ individualized 
 treatment for specific immunoinflamatory human profiles/ responses in a 5) timely 
 manner. 
+
 Specific immuno-markers of covid-19 present in human serum at onset, in the follow-up, 
 and in the resolution of the immunoinflammatory storm may lead us to individualized 
 therapeutics with better outcomes.  
+
 Pathogens transmission cycles in nature between non-human hosts, vectors and pathogens 
 often leave these cycles in a phenomenon called spillover, or 'spill out of the cycle', 
 reaching the human host. Several of the recently observed emerging and reemerging 
 diseases such as Zika or yellow fever, have so happened. 
-Figure 3. Simplified representation of SARS-CoV-2 spilling over its natural 
-cycle among bats to reach humans. Source: The Authors.  
-Page 
- of 
-14
-17
+
 Serious acute respiratory syndromes have recently occurred caused by two other 
 coronaviruses spilled over from sylvatic cycles (Fig.3). The first coronavirus was the SARS-
 CoV with 8096 infected people and 774 deaths in various countries in Asia, Africa, Europe 
@@ -787,123 +216,13 @@ and America during 2002-2003. The second coronavirus was MERS-CoV (Middle East
 respiratory syndrome coronavirus) an outbreak in 2012 circumscribed to Southeast Asia 
 and the Middle East. MERS-COV was registered in 26 countries, with 1621 confirmed cases 
 and 584 deaths globally   (World Health Organization-WHO, December 7, 2015) where it 
-35
 could probably have again secluded to sylvatic cycles having camels as reservoirs . 
-36
+
 Besides new emerging diseases, in recent years we have experienced pandemics of 
 reemerging old diseases such as dengue, yellow fever, Zika, chikungunya and even measles 
 for which a vaccine is available.  
+
 Covid-19 is unlikely to be the last rampant emergent human disease. To gather knowledge 
 on the human host profiles and immunoinflamatory responses to infectious diseases  is an 
 opportunity-to-learn that could lead to faster, more efficient ways to tackle ever 
 challenging human emerging diseases. 
-Page 
- of 
-15
-17
-REFERENCES
- J.M.Last 1963. The Iceberg "Completing The Clinical Picture" In General Practice. The Lancet 282 (7297): 
-1
-28-31. https://doi.org/10.1016/S0140-6736(63)92546-7
- EPICOVID-19- University of Pelotas. 2020 http://epidemio-ufpel.org.br/uploads/downloads/
-2
-19c528cc30e4e5a90d9f71e56f8808ec.pdf 11 June 2020.
- Tay MZ, Poh CM, Rénia L, MacAry PA, Ng LFP. 2020. The trinity of COVID-19: immunity, inflammation and 
-3
-intervention [published online ahead of print, 2020 Apr 28]. Nat Rev Immunol. 2020;1-12. doi:10.1038/
-s41577-020-0311-8
- Beatriz Sierra, Ana B. Perez, Katrin Vogt, Gissel Garcia, Kathrin Schmolke, Eglys Aguirre, Mayling Alvarez, 
-4
-Florian Kern, Gustavo Kourí, Hans-Dieter Volk, Maria G. Guzman. 2010. Secondary heterologous dengue 
-infection risk: Disequilibrium between immune regulation and inflammation? Cellular Immunology, 262, 
-Issue 2: 134-140. https://doi.org/10.1016/j.cellimm.2010.02.005.
- Penha-Gonçalves C. Genetics of Malaria Inflammatory Responses: A Pathogenesis Perspective. Front 
-5
-Immunol. 2019;10:1771. Published 2019 Jul 30. doi:10.3389/fimmu.2019.01771
- Ferrara JL, Abhyankar S, Gilliland DG. 1993. Cytokine storm of graft-versus-host disease: a critical effector 
-6
-role for interleukin-1. Transplant Proc. 1993 Feb; 25(1 Pt 2):1216-7.
- Bellelis P, Frediani Barbeiro D, Gueuvoghlanian-Silva BY, Kalil J, Abrão MS, Podgaec S. Interleukin-15 and 
-7
-Interleukin-7 are the Major Cytokines to Maintain Endometriosis. Gynecol Obstet Invest. 
-2019;84(5):435-444. doi:10.1159/000496607
- García-Gómez E, Vázquez-Martínez ER, Reyes-Mayoral C, Cruz-Orozco OP, Camacho-Arroyo I, Cerbón M. 
-8
-Regulation of Inflammation Pathways and Inflammasome by Sex Steroid Hormones in Endometriosis. Front 
-Endocrinol (Lausanne). 2020;10:935. Published 2020 Jan 29. doi:10.3389/fendo.2019.00935
- Hu MY, Lin YY, Zhang BJ, Lu DL, Lu ZQ, Cai W. Update of inflammasome activation in microglia/
-9
-macrophage in aging and aging-related disease. CNS Neurosci Ther. 2019;25(12):1299-1307. doi:10.1111/
-cns.13262
- Tang D, Comish P, Kang R. The hallmarks of COVID-19 disease. PLoS Pathog. 2020;16(5):e1008536. 
-10
-Published 2020 May 22. doi:10.1371/journal.ppat.1008536
- Wenzhong, liu; Hualan, Li (2020): COVID-19: Attacks the 1-Beta Chain of Hemoglobin and Captures the 
-11
-Porphyrin to Inhibit Human Heme Metabolism. ChemRxiv. Preprint. 
- Dhama K, Patel SK, Pathak M, et al. An update on SARS-CoV-2/COVID-19 with particular reference to its 
-12
-clinical pathology, pathogenesis, immunopathology and mitigation strategies [published online ahead of 
-print, 2020 May 30]. Travel Med Infect Dis. 2020;101755. doi:10.1016/j.tmaid.2020.101755
- https://www.pharmacompass.com/manufacturers-suppliers-exporters/oseltamivir
-13
- dir.indiamart.com
-14
- https://www.medchemexpress.com/Chloroquine-diphosphate.html
-15
- https://www.medchemexpress.com/Hydroxychloroquine_sulfate.html; www.veritasbio.com.br; 
-16
-www.uniscience.com.br 
- https://www.medchemexpress.com/lopinavir.html; https://www.medchemexpress.com/Ritonavir.html
-17
-Page 
- of 
-16
-17
- rupharma.com; russiabusinesstoday.com; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5923478/; 
-18
-https://www.medchemexpress.com/Arbidol-hydrochloride.html; https://www.medchemexpress.com/
-Arbidol-hydrochloride.html
- https://www.medchemexpress.com/Remdesivir.html
-19
- https://www.medchemexpress.com/Oseltamivir-phosphate.html
-20
- https://www.medchemexpress.com/ribavirin.html
-21
- https://www.medchemexpress.com/T_705.html
-22
- https://clinicaltrials.gov/ct2/show/NCT04327388
-23
- https://www.medchemexpress.com/tocilizumab.html
-24
- https://www.medchemexpress.com/Azithromycin.html
-25
- https://www.medchemexpress.com/nitazoxanide.html
-26
- https://www.medchemexpress.com/Hydrocortisone.html
-27
- https://www.medchemexpress.com/recombinant-proteins/recombinant-human-interferon-gamma.html
-28
- https://www.medchemexpress.com/Camostat-mesylate.html
-29
- https://lgmpharma.com/product/remdesivir-cas-1809249-37-3/
-30
- http://www.antimicrobe.org/drugpopup/Azithromycin%20-%20Brand%20names.htm
-31
- https://pharmaoffer.com/api-excipient-supplier/nitazoxanide
-32
- https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines
-33
- https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html
-34
- Al-Osail and Al-Wazzah, The history and epidemiology of Middle East respiratory syndrome corona virus 
-35
-Multidisciplinary Respiratory Medicine (2017) 12:20
- Sikkema RS, Farag EABA, Islam M, et al. Global status of Middle East respiratory syndrome coronavirus in 
-36
-dromedary camels: a systematic review [published correction appears in Epidemiol Infect. 2019 
-Jan;147:e198]. Epidemiol Infect. 2019;147:e84. doi:10.1017/S095026881800345X
-Page 
- of 
-17
-17

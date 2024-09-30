@@ -1,40 +1,11 @@
-COVID-19-related challenges in dental education: experiences 
-from Australia, Brazil, and the USA 
- 
-Karen Glazer Peres1,2, Peter Reher3, Ricardo Dias de Castro 4, Alexandre Rezende Vieira5 
-1National Dental Research Institute Singapore, National Dental Centre Singapore, Singapore. 
-Phone: +61 0439919326. karen.g.d.a.peres@ndcs.com.sg 
-2 Oral Health ACP, Health Services and Systems Research Programme Duke-NUS Medical 
-School, Singapore. Phone: +61 439919326. karen.g.d.a.peres@ndcs.com.sg 
-3 School of Dentistry and Oral Health, Griffith University, Gold Coast, Australia. Phone: +61 
-7 5678 0726. E-mail: peter.reher@griffith.edu.au 
-4 Department of Clinical and Social Dentistry, Federal University of Paraiba, João Pessoa, 
-Paraiba, Brazil. Phone: +55 083 3216-7742. E-mail: rcastro@ccs.ufpb.br 
-5 Department of Oral Biology, University of Pittsburgh School of Dental Medicine, 
-Pittsburgh, Pennsylvania, USA. Phone: +1 412 383-8972. E-mail: alexandre_vieira@pitt.edu 
- 
-Karen G Peres: http://orcid.org/0000-0002-1730-2123 
-Peter Reher: http://orcid.org/0000-0002-4444-125X 
-Ricardo Dias de Castro: http://orcid.org/0000-0001-7986-7376 
-Alexandre Rezende Vieira: http://orcid.org/0000-0003-3392-6881 
- 
- 
- 
-Correspondence to: 
-A/Professor Karen Peres 
-National Dental Research Institute Singapore  
-National Dental Centre Singapore, Oral Health ACP 
-Health Services and Systems Research Programme 
-Duke-NUS Medical School 
-5 Second Hospital Ave, Singapore 168938 
-E-mail: karen.g.d.a.peres@ndcs.com.sg 
- 
- 
-Abstract 
 Aim: To describe the management of dental education in three dental schools during the 
-COVID-19 crisis. Methods: Adopted strategies in the Federal University of Paraíba (UFPB), 
+COVID-19 crisis. 
+
+Methods: Adopted strategies in the Federal University of Paraíba (UFPB), 
 Brazil, University of Pittsburgh (UP), USA, and Griffith University (GU), Australia were 
-detailed. Results: In the UFPB, all on-site teaching was suspended, and resources for 
+detailed. 
+
+Results: In the UFPB, all on-site teaching was suspended, and resources for 
 distance learning set up as a supplementary semester to be available as face to face classes 
 later. A protocol for clinical care followed safety measures recommended by Brazilian 
 official health institutions. The adequacy of the physical structure, human resources, and 
@@ -47,11 +18,10 @@ all clinical and pre-clinical activities were cancelled, and theoretical activit
 maintained online for all students. Several clinically based scenarios where created and 
 delivered in the format of online problem-based learning. The reception area was redesigned, 
 ensuring social distancing. Safety measures follow the Australia Dental Association. 
+
 Conclusions: Dealing with dental education depends on the stage of the epidemic and the 
 characteristics of each country. 
- 
- 
-Introduction 
+
 Coronaviruses (CoV) are a specific type of group virus which include ribonucleic acid 
 (RNA) in its genetic material [1]. Their primary targets are epithelial cells of the respiratory 
 and gastrointestinal tracts, which facilitates the transmission of the viral load through 
@@ -62,12 +32,14 @@ the World Health Organisation declared a public health emergency of internationa
 and a global pandemic later was announced, in March 2020 [4]. As of 4 June 2020, COVID-
 19 had affected 213 countries and territories around the world, translated in more than 6 
 million cases and almost 400 thousand deaths worldwide [5].  
+
 Nations have taken different measures to slow down the spread of the virus that causes 
 COVID-19. Lockdown, shelter in place, stay at home orders, travel ban, and social 
 distancing, for instance, were measures that dramatically impacted the globe both socially 
 and economically. The physical distancing of one metre or more, wearing face masks for both 
 health-care workers and the general public as well as eye protection are mechanisms already 
 supported by findings from a recent systematic review and meta-analysis [6].  
+
 One of the sectors hardest disrupted by the COVID -19 pandemic crisis was the area of health 
 education. Dental education was affected significantly. Given the high degree of uncertainty 
 about the natural history of the disease, and the need to protect the health of students, staff 
@@ -79,6 +51,7 @@ environment, and clinical dental procedures were discussed and implemented. Nume
 critical difficulties and challenges have arisen as a result of the measures adopted that will 
 have lasting effects. Facing an unprecedented time in the dental education system worldwide, 
 this is an excellent opportunity to share new experiences, learn and develop. 
+
 This study aimed to describe and compare how three dental schools from different countries 
 have managed experiences in dental education during the COVID-19 crisis. Australia, Brazil, 
 and the USA have the pandemic spread at different times and magnitudes. As of this writing 
@@ -86,11 +59,7 @@ in early June 2020, USA and Brazil ranked first and second in the number of conf
 worldwide, respectively [5]. In Australia, the number of new cases rapidly increased and 
 peaked in March 2020. Since mid-April, there has been a sustained and relatively low number 
 of new cases reported daily, with less than 20 new cases per day since 22 April [7]. 
- 
- 
-Methods 
-Settings 
-Brazil - Federal University of Paraíba, School of Dentistry 
+
 Brazil is an upper-middle-income South American country, the fifth largest and the most 
 populous nation globally, with a population of over 212 million [8]. It is the ninth economy in 
 the world with 79th HDI position worldwide [9]. The number of Brazilian high education 
@@ -100,7 +69,7 @@ education level. There are 542 dental schools in Brazil, of which 58 are public 
 tuition fees [11]. The Federal University of Paraíba (UFPB), in Joao Pessoa, Northeast Brazil 
 (Figure 1), offers undergraduate and postgraduate degrees in the dental field and has 
 approximately 400 students. 
-The USA – the University of Pittsburgh, School of Dental Medicine 
+
 Ranked as the global largest economy, the USA is located in central North America with a 
 population of over 300 million inhabitants [12]. The HDI index of 0.924 ranks the 13th global 
 position [9]. When compared to most higher education systems around the world, the U.S. 
@@ -112,7 +81,7 @@ university or college before applying to any of the 66 existing dental school. T
 of Pittsburgh is one of four educational institutions where training in dentistry is offered in 
 the Pennsylvania North-eastern state (Figure 1). There are nearly 400 dental students 
 enrolled. 
-Australia – Griffith University, School of Dentistry and Oral Health 
+
 Australia is the largest country in Oceania and the sixth-largest in the world, with a relatively 
 small population of nearly 26 million [14]. The country is highly developed with the world`s 
 14th largest economy, raking the third position according to the Human Develop Index (HDI) 
@@ -125,11 +94,7 @@ The School has undergraduate degrees in Dentistry and Dental Technology, as well
 graduate training programs in several disciplines, and research degrees such as MPhil and 
 PhD. The School has approximately 600 dental students, with 20% being international 
 students. 
- 
- 
-Results 
-Strategies in dental education during the COVID-19 pandemic 
-The Federal University of Paraíba, School of Dentistry  
+
 After the WHO declared the COVID-19 pandemic, the Federal University of Paraíba 
 suspended all on-site teaching, research, and service activities. For the return to teaching 
 activities, the use of information and communications technology (ICTs) resources for 
@@ -142,6 +107,7 @@ quizzes, essays, and video production. When returning to face-to-face activities
 that some students do not have a satisfactory socioeconomic condition that supports the use 
 of ICTs, the online curricular components offered must be made available again in the face to 
 face classrooms.  
+
 Immediately after suspension of face-to-face activities, a biosafety committee was formed, 
 made up of academics and students of the dental school, to present a proposal to return to 
 post-pandemic activities, including clinical care. A protocol for clinical care was elaborated 
@@ -150,7 +116,7 @@ well as scientific articles [16,17]. In general, the of personal protective equi
 as masks N95 or PPF2, safety glasses, disposable caps and shoe covers, waterproof surgical 
 apron, face shield, and procedure gloves were recommended, besides specificities detailed in 
 table 1.  
-The University of Pittsburgh, School of Dental Medicine 
+
 The response to the pandemic came slow, but when it happened, colleges and universities in 
 the United States suspended classes for a week. Learning activities were shifted to virtual 
 teaching in the followed week, using a combination of lecture recordings and live sections 
@@ -163,6 +129,7 @@ and patient care supplies. Urgent dental cases were discussed via teledentistry 
 until national guidelines were available from the Centers for Disease Control and Prevention 
 [18]. These cases were seen within weeks when protocols for urgent care were nationally 
 released (Table 1). 
+
 The forced period of isolation had an evident impact on dental students at the University of 
 Pittsburgh. U.S. dental students are typically older than the corresponding students from 
 Brazil. On average, they are four years older than Brazilian students, which cause a 
@@ -171,7 +138,7 @@ Pittsburgh costs US$300,000 and, consequently, changes in how the learning was d
 to finish the semester due to COVID-19, created more anxiety. Online teaching was delivered 
 with the offering of some additional contacts for guidance and emotional support. Besides 
 teaching, other experiences such as research and service were profoundly affected as well. 
-Griffith University, School of Dentistry and Oral Health 
+
 When the pandemic started, Australia was one of the first countries to introduce strong 
 regulations related to social distancing, travel restrictions, testing and tracking of infected 
 patients. As such, the universities started to be closed from mid-March, cancelling all clinical 
@@ -181,6 +148,7 @@ academics, and platforms such as Microsoft Teams® and BlackBoard Collaborate UL
 became the main Learn &Teaching tools used at Griffith University. Several clinically based 
 scenarios were created and delivered in the format of online problem-based learning (PBL) 
 discussions. All exams in Semester 1 where delivered online.  
+
 Throughout the pandemic, there was a strong collaboration between the main Dentistry 
 regulatory bodies such as the Australian Dental Association (ADA), the Dental Board of 
 Australia (DBA) and the Australian Council of Dental Schools (ACODS). A staged level of 
@@ -193,16 +161,13 @@ and academics only, without students. From late-April, the government approved a
 to ADA level 2, and finally, at the end of May, it went down to level 1. Although these rules 
 apply to all dentists in the country, the Dental schools have just recently initiated their “return 
 to clinic” strategy, and most are starting at level 2 restrictions [20]. 
- 
- 
-Discussion 
-Back to “normal” – how and when? 
+
 At the point of writing this paper (mid-June 2020), countries were facing different epidemic 
 realities of the COVID-19 crisis. Brazil was close to the peak of its epidemic curve, the US 
 was lowering the curve, and Australia had flattened it, reaching a level of the almost 
 complete elimination of new cases. It is therefore interesting to compare how each country is 
 planning and executing their return to “normal” clinical teaching in Dentistry.   
-Brazil - Federal University of Paraiba, School of Dentistry 
+
 The return to face-to-face activities, including pre-clinical and clinical teaching, is preceded 
 by an extensive discussion and elaboration of protocols for the establishment of a new 
 routine. The Brazilian Dental Education Association (ABENO) promotes a national debate. It 
@@ -214,7 +179,7 @@ resources, and acquisition of materials for the personal protection of teachers,
 oral health technicians. The preparation of a strategic plan for the return to activities is 
 expected, considering epidemiological indicators and occupancy rate of hospital beds for 
 treatment of COVID 19. 
-The University of Pittsburgh, School of Dental Medicine 
+
 After the end of the spring term (which runs from January through April), the summer term 
 (April-July) continued to offer classes online, and preparations were made for offering 
 clinical experiences to the students who are in the treatment care phase of their training. The 
@@ -224,7 +189,7 @@ authorization from the state regarding restabilising clinical activities. The ph
 the dental clinics and pre-clinical laboratories were changed to minimize risks of COVID-19 
 allowing for students to be at a safe distance from others while working. The plan is for 
 resuming these activities within a month. 
-Australia – Griffith University, School of Dentistry and Oral Health 
+
 Discussions regarding how we should return to our pre-clinical and clinical activities started 
 in April. From that point, it was already clear that regardless as to when we would return, key 
 aspects would have to be observed, such as social distancing, review of infection control 
@@ -240,7 +205,7 @@ fit all students, overall, there was still an inevitable reduction of the number
 per student, as we did not have enough physical space to double all sessions. This change in 
 the timetable affected the entire school and required changes to the Prosthetics Lab as well as 
 the Simulation Lab, ensuring we all followed this new timetable.  
- 
+
 We are probably one of the first dental schools in the world to have started to have 
 clinical activities with students. This was a staged approach, with Professional Dentists 
 beginning on 25 May, PG students on 1 June, and UG students on 8 June. The reception area 
@@ -255,9 +220,7 @@ moving to level 1 from 15 June, following the same staged approach [19]. We are 
 report that so far, the clinical operation is working well, patients are pleased to be back and 
 appreciative of the extra precautions implemented, and staff and students feel safe and 
 engaged to be back on campus. 
- 
- 
-Final Considerations 
+
 Numerous and critical difficulties have arisen as a result of the pandemic for individuals, 
 communities and institutions that will have long-lasting effects. Our students face disruption 
 to their education and career; our professional colleagues will be challenged rebuilding their 
@@ -269,195 +232,3 @@ learn from each other. We should take this scenario as an excellent opportunity 
 review our clinical practices, our biosafety, and be forever stimulated to try new ways to 
 teach to the next generation of dentists. The future of dental education needs to incorporate 
 the role of new pandemics within their accreditation requirements. 
- 
- 
-Contributor’s Statements: 
-Karen Glazer Peres conceptualized the study, drafted the initial manuscript, and approved the 
-final manuscript as submitted. 
-Peter Reher contributed to the methods and discussion sections, critically review the 
-manuscript, and approved the final manuscript as submitted. 
-Ricardo Dias Castro contributed to the methods and discussion sections, critically review the 
-manuscript, and approved the final manuscript as submitted. 
-Alexandre Rezende Vieira contributed to the introduction and discussion section, critically 
-review the manuscript, and approved the final manuscript as submitted. 
-All authors approved the final version of the manuscript and agree to be accountable for all 
-aspects of the work. 
- 
- 
-References 
-1- Woo PC, Huang Y, Lau SK, Yuen KY. Coronavirus genomics and bioinformatics 
-analysis. Viruses 2010/; 2(8):1804–20. doi: 10.3390/v2081803 
-2- Decaro N. Gammacoronavirus. In: Tidona CA, Darai G. The Springer Index of 
-Viruses. Springer.; 2011, pp. 403-13. 
-3- World Health Organization. Novel coronavirus –China. Geneva, Switzerland: World 
-Health Organization. Available from: https://www.who.int/csr/ don/12-january-2020-
-novel-coronavirus-china/en/. [Accessed on June 12, 2020]. 
-4- World Health Organization (WHO). Coronavirus disease (COVID-19) Pandemic. 
-Geneva: WHO; 2019. Available from: 
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019. [Accessed on 
-June 12, 2020].  
-5- Johns Hopkins University & Medicine. 2020 Coronavirus Resource Center. Available 
-from: https://coronavirus.jhu.edu/map.html. [Accessed on June 3, 2020].  
-6- Chu DK, Akl EA, Duda S, Solo K, Yaacoub S, Schünemann HJ. COVID-19 
-Systematic Urgent Review Group Effort (SURGE) study authors. Physical 
-Distancing, Face Masks, and Eye Protection to Prevent Person-To-Person 
-Transmission of SARS-CoV-2 and COVID-19: A Systematic Review and Meta-
-Analysis. 2020; S0140-6736(20)31142-9. doi: 10.1016/S0140-6736(20)31142-9 
-7- Australian Government, Department of Health. Available from: 
-https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-
-alert/coronavirus-covid-19-current-situation-and-case-numbers. [Accessed on June 3, 
-2002]. 
-8- World Bank. Available from: https://data.worldbank.org/country/brazil. [accessed on 
-June 5, 2020]. 
-9- Human Develop Report. Available from: http://hdr.undp.org/en/content/human-
-development-index-hdi. [Accessed on June 5, 2020].  
-10- Brasil. Ministério da Educação. 2020. Cadastro Nacional de Cursos e Instituições de 
-Educação Superior. Available from: http://emec.mec.gov.br/ [Accessed on June 7, 
-2020]. 
-11- Instituto Brasileiro de Geografia e Estatística (IBGE). Pesquisa Nacional por Amostra 
-de Domicílios Contínua. Educação 2018. 2019. Available from: 
-https://biblioteca.ibge.gov.br/visualizacao/livros/liv101657_informativo.pdf. 
-[Accessed on June 7, 2020]. 
-12- USA census. Population Clock. U.S. and World Population Clock. Available form: 
-https://www.census.gov/popclock/ [Accessed on May 24, 2020]. 
-13- USA Funding, education. Available from: https://www.pewtrusts.org/en/research-
-and-analysis/issue-briefs/2015/06/federal-and-state-funding-of-higher-education. 
-[Accessed on June 9, 2020]. 
-14- Australian Bureau Statistics. Available from: 
-https://www.abs.gov.au/AUSSTATS/abs@.nsf/mf/3101.0. [Accessed on June 5, 
-2010]. 
-15- Brasil. Ministério da Saúde. 2020. Painel coronavirus. Available from: 
-https://covid.saude.gov.br. [Accessed on June 7, 2020].  
-16- Peng X, Xu X, Li Y, Cheng L, Zhou X, Ren B. Transmission routes of 2019-nCoV 
-and controls in dental practice. Int J Oral Sci 2020; 12, 9. doi: 10.1038/s41368-020-
-0075-9. 
-17- Lo Giudice R. The severe acute respiratory syndrome coronavirus-2 (SARS CoV-2) 
-in dentistry. Management of biological risk in dental practice. Int J Environ Res 
-Public Health 2020; 28:17(9):3067. doi: 10.3390/ijerph17093067.  
-18- Centers for Disease Control. Available from: https://www.cdc.gov/coronavirus/2019-
-ncov/hcp/framework-non-COVID-care.html. [Accessed on June 11, 2020]. 
-19- Australia Dental Association. Available on 
-https://success.ada.org/~/media/CPS/Files/Open%20Files/ADA_COVID19_Dental_E
-mergency_DDS.pdf?_ga=2.253879752.110187285.1584496315-
-1622146531.1565271894. [Accessed on June 11, 2020]. 
-20- Australia Dental Association. Service Restrictions in COVID-19. Available on 
-https://www.ada.org.au/Campaign/COVID-19/Managing-COVID-19/Practice-
-Resources/Dental-restriction-Levels/ADA-dental-restriction-levels-in-COVID-19-
-Publishe.aspx. [Accessed on June 9 2020]. 
- 
-Tables and Figures 
-Figure 1: Location of dental schools-related to the study 
-Table 1: Restricted services and recommendations followed during the COVID-19 pandemic 
- 
- 
- 
- 
- 
-Table 1: Restricted services and recommendations followed during the COVID-19 pandemic. 
-Australia1 
-Brazil2 
-USA3 
-ADA Restrictions Covid-19 
-Services that can be performed:  
-Recommendations 
-Framework for provision health care 
-Level 1-All dental treatments using standard precautions for 
-people who do not meet epidemiological or clinical risk 
-factors for COVID-19 infection transmission. 
-• Cleaning the surfaces of environment for clinical 
-care with 1% sodium hypochlorite or 70% alcohol. 
-• Minimum distance of 2 meters between each dental 
-chair, with the presence of mechanical barriers 
-between them. Pre-consultation with patients from 
-telephone contact to collect information on possible 
-signs and symptoms caused by COVID 19 in a 
-period of up to 14 days before appointment. Patients 
-will be seen at previously established times and will 
-be evaluated for body temperature.  
-• Definition of procedures for dressing and removing 
-PPE in environments suitable for these purposes. To 
-prevent cross-contaminations, dental care must be 
-provided in the proportion of one teacher for each 
-pair of students, who will treat only one patient per 
-day shift, thus enabling the disinfections of the 
-clinical environment between appointments. This 
-new routine must involve expanding the number of 
-classes for each curricular component.  During the 
-dental treatment, in general, the following should be 
-considered: 1) use of high-power suction systems to 
-reduce the spread of aerosols to the environment; 2) 
-preferential drying of the tooth / cavity mouthpiece 
-with gauze or cotton, avoiding the use of the air jet 
-of the triple syringe; 3) prioritization of chemical-
-mechanical surgical techniques, when possible; 4) 
-preferential use, when possible, of absorbable suture 
-Highly likely potential for patient harm: Dental 
-emergencies. Patient care should be provided without 
-delay under any level of community transmission 
-(CT). Large scale CT: consider shift care to facilities 
-less affected by COVID-19. Minimal to moderate CT: 
-consider if the facility can provide patient care rather 
-than transferring them to facilities less affected by 
-COVID-19. No to minimal CT: resuming regular 
-practice. 
- 
-Unlikely potential for patient harm: routine primary 
-or specialty care. Large scale CT: if care cannot be 
-delivered remotely, consider deferring until CT 
-decreases. Utilize telehealth if appropriate. Minimal 
-to moderate CT: if care cannot be delivered remotely, 
-work towards expanding in person care as needed 
-with priority for at risk populations and those whose 
-care, if continually deferred, would 
-more likely result in patient harm. Utilize telehealth if 
-appropriate. No to minimal CT: Resume regular care 
-practices while continuing to utilize 
-telehealth if appropriate. 
-Level 2-Provision of dental treatments that are unlikely to 
-generate aerosols or where aerosols generated have the 
-presence of minimal saliva/blood due to the use of rubber 
-dam. This includes: examinations, simple non-invasive 
-fillings without use of high-speed handpieces, restorative 
-procedures using high speed handpieces only provided with 
-the use of rubber dam, non-surgical extractions, hand 
-scaling (no use of ultrasonic scalers), medical management 
-of soft tissue presentations (such as ulcers), TMD 
-dysfunction management, denture procedures, preventative 
-procedures such as the application of topical remineralising 
-agents e.g. fluoride, orthodontic treatment. 
-Level 3-Only dental treatments that do not generate 
-aerosols, or where treatments generating aerosols is limited 
-to: management of patients with acute dental pain e.g. 
-endodontic treatment under rubber dam, or extraction, 
-management of significantly damaged upper front teeth 
-(e.g. due to trauma, with restorative treatment provided 
-under rubber dam, soft tissue pathology e.g. ulcers, 
-management of complex medically compromised patients 
-with dental concerns which may compromise their systemic 
-disease, management of those at a higher risk of rapid 
-progression of dental disease due to socioeconomic or 
-cultural factors, management of patients referred by a 
-medical practitioner for medically necessary dental care 
-Level 4-Only the following dental treatments are to be 
-managed: swelling of the face, neck or mouth, dental 
-trauma causing change in the position of teeth, soft tissue 
-damage and/or significant pain, significant bleeding, 
-difficulty opening the jaw and/or swallowing, referral from 
-a specialist medical practitioner for assessment or 
-management of a patient receiving urgent medical care for 
-medically necessary dental care, dental pain causing loss of 
-sleep, ulcers persisting for 3 + weeks 
-threads; 5) use of extraoral radiographs, such as 
-panoramic radiography or computer tomography, 
-avoiding stimulation of salivation and coughing 
-when taking intraoral radiography; 6) structural 
-adequacy of the physical environment for clinical 
-care. 
-Level 5-No routine dental treatment provided. All patients 
-with acute dental concerns to be directed to emergency care 
-centres. 
-1 Australia Dental Association. Dental Service Restrictions in COVID-19. Australian Dental Association, 25 March 2020. Available from: https://www.ada.org.au/Campaign/COVID-
-19/Managing-COVID-19/Practice-Resources/Dental-restriction-Levels/ADA-dental-restriction-levels-in-COVID-19-Publishe.aspx Available on June 8, 2020] 
-2 Dental School of Federal University of Paraíba. Protocol of Biosafety of Dental School in Coping with COVID 19. 2020.   
-3 Centers for Disease Control. Available from: https://www.cdc.gov/coronavirus/2019-ncov/hcp/framework-non-COVID-care.html. [Accessed on June, 11 2020]. 
- 
