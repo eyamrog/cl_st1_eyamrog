@@ -1,139 +1,24 @@
-Status: Preprint has not been submitted for publication
-BIOSAFETY KNOWLEDGE, ACTIONS AND MEASURES OF
-BRAZILIAN DENTISTS DURING THE COVID-19 PANDEMIC
-Hannah Gil de Farias Morais, Maria Helena Rodrigues Galvão, Weslay Rodrigues da Silva, Joyce
-Magalhães de Barros, André Azevedo do Santos, Nara Régia da Silva Domingos, Cláudia Helena
-Soares de Morais Freitas
-DOI: 10.1590/SciELOPreprints.1210
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees are described in the manuscript, when
-applicable.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server.
-The submitting author declares that all authors responsible for preparing the manuscript agree with this
-deposit.
-The authors declare that in the event that this manuscript has previously been submitted to a journal and
-being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
-server.
-The submitting author declares that all authors' contributions are included on the manuscript.
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
-under a Creative Commons CC-BY license.
-The deposited manuscript is in PDF format.
-If the manuscript is being reviewed and published by a journal, the authors declare that they have received
-authorization from the journal to make this deposit.
-Submitted on (YYYY-MM-DD): 2020-09-12
-Posted on (YYYY-MM-DD): 2020-09-18
-Powered by TCPDF (www.tcpdf.org)
-BIOSAFETY KNOWLEDGE, ACTIONS AND MEASURES OF BRAZILIAN 
-DENTISTS DURING THE COVID-19 PANDEMIC 
- 
-CONHECIMENTOS, ATITUDES E PRÁTICAS DE BIOSSEGURANÇA POR 
-CIRURGIÕES-DENTISTAS BRASILEIROS DURANTE A PANDEMIA DA COVID-
-19 
- 
-Short Title: COVID-19 and biosafety by Brazilian dentists 
- 
-Hannah Gil de Farias Morais¹ 
-hannah_gil@hotmail.com 
-http://orcid.org/0000-0003-3488-3465 
- 
-Maria Helena Rodrigues Galvão¹* 
-mhrgalvao@gmail.com 
-http://orcid.org/0000-0003-1344-2863 
- 
-Weslay Rodrigues da Silva¹  
-weslayrodriguesilva@gmail.com 
-http://orcid.org/0000-0002-0430-4656 
- 
-Joyce Magalhães de Barros¹  
-joycemagalhaesb@hotmail.com 
-http://orcid.org/0000-0001-5654-3766 
- 
-André Azevedo dos Santos¹  
-andreazevedojs@gmail.com 
-http://orcid.org/0000-0002-8456-8394 
- 
-Nara Régia da Silva Domingos¹  
-nararegiad@hotmail.com 
-http://orcid.org/0000-0002-3637-4886 
- 
-Cláudia Helena Soares de Morais Freitas² 
-chsmfreitas@hotmail.com 
-http://orcid.org/0000-0003-0265-5396 
- 
-1- Universidade Federal do Rio Grande do Norte – UFRN, Department of Dentistry, Natal, 
-RN, Brazil. 
-2- Universidade Federal da Paraíba – UFPB, Departament of Clinic and Social Dentistry, João 
-Pessoa, PB, Brazil.  
- 
-* Corresponding Author: 
-Maria Helena Rodrigues Galvão 
-Universidade Federal do Rio Grande do Norte - Central Campus - Department of Dentistry 
-Av. Sen. Salgado Filho, 1787 - Lagoa Nova, Natal - RN, 59056-000 
-E-mail: mhrgalvao@gmail.com 
- 
-Conflicts of Interest: The authors report that there is no conflict of interest. 
- 
-Financing Source: None. 
- 
-Authors' contributions: Hannah Gil de Farias Morais and Maria Helena Rodrigues Galvão 
-worked on the conception, analysis and interpretation of data and writing of the article. Weslay 
-Rodrigues da Silva, Joyce Magalhães de Barros, André Azevedo dos Santos and Nara Régia da 
-Silva Domingos worked on the analysis and writing of the article. Cláudia Helena Soares de 
-Morais Freitas worked on the critical review and approval of the final version to be published. 
- 
- 
- 
-ABSTRACT 
- 
 Objective: To identify the level of knowledge, attitudes and practices related to biosafety 
-measures, prevention and control by DCs during the pandemic. Methods: An online 
+measures, prevention and control by DCs during the pandemic. 
+
+Methods: An online 
 questionnaire consisting of 42 questions was disseminated to the CDs operating in Brazil 
 through social networks and also to the 27 Regional Councils of Dentistry in the country via e-
-mail. The collection period was from June 26 to July 2, 2020. Results: 751 CDs answered the 
+mail. The collection period was from June 26 to July 2, 2020. 
+
+Results: 751 CDs answered the 
 questionnaire, of these, 54.9% undertook training in preventing and controlling the spread of 
 the virus and the scientific article was the main means of information (44.5%). Regarding 
 biosafety in dental care, 95.9% reported having knowledge of ANVISA's rules on the subject, 
 however, regarding attitudes and practices, there was a failure to comply with the 
 recommendations. Link between professional performance and training or not, were factors 
-associated with greater knowledge and correct biosafety attitudes and practices. Conclusion: 
+associated with greater knowledge and correct biosafety attitudes and practices. 
+
+Conclusion: 
 Although the Brazilian CDs have good levels of knowledge about biosafety measures for the 
 prevention of COVID-19, they still fail to comply with basic attitudes and recommended 
 practices. 
- 
-Keywords: COVID-19; Coronavirus; Dentistry; Biosafety. 
- 
- 
-RESUMO 
- 
-Objetivo: Identificar o nível de conhecimento, atitudes e práticas relacionadas às medidas de 
-biossegurança, prevenção e controle por parte dos CDs durante a pandemia. Métodos: Um 
-questionário online composto por 42 perguntas foi divulgado aos CDs atuantes no Brasil pelas 
-redes sociais e também aos 27 Conselhos Regionais de Odontologia do país via e-mail. O 
-período de coleta foi do dia 26 de junho a 2 de julho de 2020. Resultados: 751 CDs 
-responderam ao questionário, destes, 54,9% realizaram capacitação para prevenção e controle 
-de disseminação do vírus e artigo científico foi o principal meio de informação (44,5%).  Com 
-relação à biossegurança nos atendimentos odontológicos, 95,9% relataram ter conhecimento 
-das normas da ANVISA sobre o assunto, porém, com relação às atitudes e práticas, observou-
-se descumprimento das recomendações. Vínculo de atuação profissional e realização ou não de 
-capacitação foram fatores associados a maior conhecimento e a atitudes e práticas corretas de 
-biossegurança. Conclusão: Os CDs brasileiros embora apresentem bons níveis de 
-conhecimento acerca das medidas de biossegurança para prevenção da COVID-19 ainda 
-descumprem atitudes e práticas básicas recomendadas.  
- 
-Palavras-chave: COVID-19; Coronavírus; Odontologia; Biossegurança. 
- 
- 
- 
-INTRODUCTION 
+
 In December 2019, a new coronavirus outbreak emerged in Wuhan, in the Hubei 
 Province, China, and rapidly reached another 24 countries. On January 30, 2020, the virus was 
 named by the World Health Organization (WHO) as SARS-coV-2 (Severe Acute Respiratory 
@@ -143,6 +28,7 @@ the epidemic as a Public Health Emergency of International Concern and, on 11 Ma
 the SARS-coV-2 was officially declared a pandemic1,3. The first case of the disease in Brazil 
 was reported on February 26, 2020, and its community transmission was declared on March 20, 
 20204. 
+
 The new coronavirus can cause serious respiratory disease, especially in high-risk 
 individuals, such as the elderly and people with chronic diseases including diabetes and 
 cardiovascular and respiratory diseases1,3,5. Despite the similarities to previous strains of the 
@@ -151,19 +37,23 @@ rate is considered low, ranging between 3.7% in the world and 3.3% in Brazil. Th
 mortality rate of the disease is around 9.6 cases per 100,000 inhabitants and in Brazil it reaches 
 48.6 per 100,000 inhabitants, being currently the 2nd country in number of confirmed cases 
 (3,057,470) and deaths (101,752)6.7. 
+
 The main mode of COVID-19 transmission is the direct contact with infected droplets 
 from coughing or sneezing, in addition to the direct contact with the oral, nasal, and eye mucosa 
 of infected people1,5. Due to the closeness to patients’ face and high exposure to saliva, blood, 
 and other body fluids during clinical procedures, dentists are at high risk of infection, and 
 dentistry is the top work category for occupational risk in the pandemic. 
+
 As healthcare workers are vital in the control of the pandemic while being the people 
 most at risk of infection, measures to reduce infection rate and spread among them are essential, 
 first with the identification of risk factors and then by taking appropriate action8. 
+
 At the beginning of the pandemic, the Federal Council of Dentistry (CFO) advised the 
 Ministry of Health (MS) to interrupt the delivery of elective care in the public health system in 
 the country. The guidelines for private dental offices was for dental health staff to apply the 
 highest rigor in biosafety protocols and in the cleaning and disinfection of instruments, 
 equipment and surfaces, as well as other recommendations to reduce infection risk. 
+
 On March 31, the CFO, the National Health Surveillance Agency (ANVISA), the 
 Brazilian Association of Dentistry (ABO), and the Brazilian Association of Intensive Care 
 Medicine (AMIB) released a joint guideline (GVIMS/GGTES/ANVISA Nº 04/2020 Technical 
@@ -171,6 +61,7 @@ Note) of prevention and control measures for clinical procedures of suspected or
 infected COVID-19 patients in clinics and hospitals. The document also classifies emergency 
 and urgent dental procedures and provides oral hygiene protocols for Intensive Care Unit 
 (ICUs) patients10. 
+
 Although dentists have a high risk of infection by the new coronavirus and can become 
 silent spreaders, the spread of the disease can be controlled by following rigorous biosafety 
 guidelines11,12. Having appropriate knowledge of a disease can influence the behavior of 
@@ -178,14 +69,12 @@ healthcare workers, while incorrect actions directly increase the risk of infect
 the aim of this study was to assess the level of biosafety knowledge of dentists, and actions and 
 measures adopted for prevention and control of the new coronavirus pandemic and their impact 
 on daily practice. 
- 
- 
- 
-METHODS 
+
 This was a cross-sectional survey and thus an ethics approval was not needed, as, 
 according to the resolution 510/2016 of the National Health Council, the survey collects the 
 opinion of participants on a subject in a specific point in time using specific methodology and 
 participants are anonymous13. 
+
 An 
 online 
 questionnaire 
@@ -196,17 +85,20 @@ Forms
 (https://forms.gle/jg4VHtUFzGysgJ1UA) was used for data collection. The questionnaire was 
 verified by two dentists and a sanitarian, to ensure the correct interpretation of items. Data 
 collection occurred from June 26 to July 2, 2020. 
+
 A sample size calculation was done to determine a sample representative of the 
 population of registered dentists in the country using the formula n = [EDFF*Np(1-p)]/ 
 [(d2/Z21-α/2*(N-1)+p*(1-p)], considering a 50% prevalence of the outcome, a confidence 
 interval of 99%, an absolute error of 5%, and the size of the population in June 2020 of 337,997 
 dentists.14 To the calculated sample size of 663 individuals was added 13% to account for 
 potential losses, totaling 750 dentists15. 
+
 The link to the online search was distributed to dentists through social networks 
 (WhatsApp, Facebook, Instagram, and Telegram) and sent to the 27 Regional Councils of 
 Dentistry (CROs) asking to send the link to respective registered dentists. Four CROs, two from 
 the Northeast region, one from the North, and one from the Midwest responded to our request. 
 Recipients were informed of their anonymity and that participation was voluntary.   
+
 The questionnaire consisted of 42 items divided into 3 sections. The 1st section included 
 8 items about respondents’ characteristics, such as region of the country, years since graduation, 
 highest level of education/degree, and employment status. Section 2 consisted of 11 items about 
@@ -219,10 +111,7 @@ variables. In addition, a knowledge score and actions and measures score were ca
 adding the scores of answered questions. The mean score between groups was compared with 
 the Kruskall-Wallis Test, with a significance level of 5%. For data analysis, the Stata software 
 version 14.0 was used. 
- 
- 
- 
-RESULTS 
+
 A total of 751 dentists answered the questionnaire, most of them female (70.8%), aged 
 between 25 and 34 years (58.6%), with less than 5 years since graduation (57.8%), and from 
 the Northeast region (79.9%). The majority of respondents had a DDS degree as the highest 
@@ -231,12 +120,14 @@ income between 2,500 and 5,000 reals (49.5%). Most dentists reported attending a
 course on prevention and control measures against the new coronavirus (54.9%), and most did 
 so voluntarily (58.7%). The main source of information on ways to prevent the spread of the 
 new coronavirus was scientific articles (Table 1). 
+
 Almost all (95.9%) dentists reported being aware of ANVISA's biosafety measures for 
 dental practice. However, 14.5% of respondents considered providing alcohol gel and 
 demanding the use of a mask in the waiting room exaggerated measures, 17.6% did not know 
 the correct way to remove personal protection equipment, and 43.9% believed that symptomatic 
 patients should not receive any type of dental treatment. In addition, 71.0% felt qualified to 
 provide educational and preventive activities on the new coronavirus (Table 2). 
+
 Some respondents did not follow the biosafety actions and measures for dental practice 
 recommended by health authorities. More than half of the respondents reported not using rubber 
 dam isolation in procedures with high speed motors, 41.4% did not ask patients to do a 
@@ -246,12 +137,14 @@ work with an assistant, 34.4% did not follow the recommended procedure for saliv
 rays when possible. In addition, 19.0% provided dental treatment other than emergency 
 treatment during the pandemic, and 61.3% provided preventive educational activities on the 
 new coronavirus (Table 3). 
+
 The biosafety knowledge of dentists had a mean score of 9.41 (± SD = 1.28), with the 
 minimum of 5 and maximum of 11 correct answers, and 50% of the sample had scores ≥10 
 (median = 10.0). A significant difference was found for type of employment and taking a 
 training course on prevention and control measures. Dentists with other employment status and 
 public servants had better scores than the other groups (p = 0.004). In addition, dentists that 
 received training had higher scores (p <0.001) (Table 4). 
+
 The mean score for biosafety measures for prevention and control of the spread of the 
 new coronavirus was 15.22 (±SD = 3.31), with a minimum of 4, maximum of 20, and median 
 of 15.0. Significant differences were found among all groups evaluated. Highest scores were 
@@ -261,26 +154,26 @@ category (median = 16 and 17.0, respectively; p <0.001), those who had postdocto
 as the highest educational level (median = 18.5; p <0.001), a monthly income above R$ 
 5,000.00 (median = 17.0; p <0.001), and those who received training on the COVID prevention 
 and control measures (median = 16.0; p <0.001) (Table 5). 
- 
- 
- 
-DISCUSSION 
+
 According to the collected data, most Brazilian dentists pursued up-to-date information 
 on national biosafety standards for the new coronavirus, taking training sessions and referring 
 to scientific articles as source of information. These actions reflect the worldwide alarming and 
 unprecedented situation that has taken place with the COVID pandemic and the fear of infection 
 during provision of dental care16,17, motivating the pursuit for preventive guidelines. 
+
 According to Ghai et al. (2020)18, knowledge about preventive measures on the new 
 coronavirus can play an important role in helping dentists to adopt appropriate actions in their 
 practice. However, while the availability of information about the pandemic is welcome, care 
 must be taken with the reliability and authenticity of the source, to minimize the conveying of 
 incorrect content19. Thus, workers should rely on official guidelines11. 
+
 Despite the high interest about the COVID-19 pandemic information, essential steps to 
 reduce the overall risk of contracting or transmitting the infection is neglected by many dentists, 
 such as the use of rubber dam isolation, adequate saliva aspiration, and use of hydrogen 
 peroxide-based mouthwash prior to treatment. Such practices aim to minimize the production 
 of infected spills and aerosols, decreasing the risk of infection10,20, and therefore, should be 
 meticulously followed. 
+
 In addition, a large proportion of respondents believed that symptomatic patients should 
 not receive any type of treatment, which is not the recommendations of the official bodies 
 establishing that any emergency case must be treated within the recommended care. A study 
@@ -289,6 +182,7 @@ infections with the start of the COVID-19 pandemic21, indicating that the select
 postponement of care by dentists must be done with caution even in symptomatic respiratory 
 patients to avoid the worsening of the dental condition, imposing subsequent risks for the 
 patient. 
+
 This study also addressed the educational role of the dentist for the COVID prevention. 
 Although most participants reported feeling confident of their ability to inform the population, 
 61.3% were not providing specific information. This may reflect insecurity in their role as a 
@@ -296,6 +190,7 @@ health promoting agent in the dental office, which should not be restricted to c
 De Stefani et al. (2020)22 highlight that all healthcare workers can help provide accurate 
 information and stress the importance of social distancing and other measures to reduce the 
 spread of the virus. 
+
 Dentists of the public network and those who reported taking a training course were 
 more knowledgeable about biosafety in dental care. In addition, higher scores of biosafety 
 actions and measures were associated with male dentists, those aged 45 and over, with more 
@@ -308,943 +203,28 @@ beginning of the pandemic and the interruption of elective treatments9,23. This 
 time available for training courses and allowed more time for each patient and in between 
 appointments, in addition to having a fixed salary, factors that allow the adjustment to the 
 recommended biosafety measures. 
+
 For private dentists, the interruption of elective treatments represents a critical financial 
 loss24. Ethical and moral reflections are thus raised and concerns surpass clinical biosafety and 
 social indifference. Government regulations must be sustainable in the long term with the aim 
 of protecting private dentists, ensuring that their activities can be performed with dignity and 
 safely while avoiding economic crises. 
+
 Considering the high risk of infection from COVID-19 and other respiratory diseases 
 during dental care, biosafety measures are essential for the provision of a safe dental 
 treatment1,26. In addition, as a future perspective, strategies and actions must be developed to 
 ensure biosafety in the work environment and the quality of life of staff and patients. 
+
 Due to the pandemic, data collection methods have to be adapted. One effective method 
 is the online survey, which, like any other research method, has advantages and limitations, but 
 can still produce valid results. For this study, measures have been taken to reduce the effect 
 selection bias, such as sending the questionnaire to all Regional Councils of Dentistry of Brazil. 
 However, due to a low response rate from dentists in the South and Central West regions, the 
 generalizability of the results is limited, and the results must be viewed critically. 
+
 The results of this study revealed that Brazilian dentists present good levels of 
 knowledge about biosafety measures for COVID-19, however, many did not follow basic 
 actions and recommended measures. In addition, the employment status and taking a course on 
 the subject were factors associated with both greater knowledge and correct application of 
 biosafety measures. Further studies with larger sample sizes are necessary for more accurate 
 results. 
- 
- 
- 
-REFERENCES 
- 
-1. Peng X, Xu X, Li Y, Cheng L, Zhou X, Ren B. Transmission routes of 2019-nCoV and 
-controls in dental practice. Int J Oral Sci. 2020;12(1):9. https://doi.org/10.1038/s41368-
-020-0075-9 
-2. Li ZY, Meng LY. Prevention and control of new coronavirus infection in oral diagnosis and 
-treatment. Chin J Stomatol. 2020;55(4):217-22. https://doi.org/10.3760/cma.j.issn.1002-
-0098.2020.0001 
-3. Mahase E. China coronavirus: WHO declares international emergency as death toll exceeds 
-200. BMJ. 2020; 368:m408. In Press 2020. https://doi.org/10.1136/bmj.m408 
-4. Brasil. Ministério da Saúde, [homepage on the internet]. Portaria 454. 20 marc. 2020 [acesso 
-em 04 jun. 2020]. Disponível em: https://www.saude.gov.br/boletins-epidemiologicos. 
-5. Hao X, Liang Z, Jiaxin D, Jiakuan P, Hongxia D, Xin Z, Taiwen L, Qianming C. High 
-expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa. Int J Oral 
-Sci. 2020;12(1):8. https://doi.org/10.1038/s41368-020-0074-x 
-6. World Health Organization [Internet]. Genebra: Who Coronavirus Disease (Covid-19) 
-Dashboard.  [acessado em 11 ago. 2020]. Disponível em:  https://covid19.who.int/ 
-7. covid.saude.gov.br [Internet]. Brasil: painel coronavírus. [acesso em 11 ago. 2020]. 
-Disponível em: https://covid.saude.gov.br/ 
-8. Zhou, M, Tang, F, Wang, Y, Nie, H, Zhang, L, You, G, Zhang, M. Knowledge, attitude and 
-practice regarding COVID-19 among health care workers in Henan, China. J Hosp Infect. 
-2020;105(2):183-187. https://doi.org/10.1016/j.jhin.2020.04.012 
-9. Conselho Federal de Odontologia. Ofício nº 477/2020/CFO. Dispõe sobre o atendimento 
-odontológico durante a pandemia Covid-19. 2020 mar. 16 [acessado em 2020 jun 20]. 
-Disponível em: http://website.cfo.org.br/wp-content/uploads/2020/03/oficio-ministro-da-
-saude-coronavirus-1.pdf 
-10. Agência Nacional de Vigilância Sanitária. Nota Técnica Gvims/Ggtes/Anvisa Nº 04/2020 - 
-Orientações para Serviços de Saúde: Medidas de prevenção e controle que devem ser 
-adotadas durante a assistência aos casos suspeitos ou confirmados de infecção pelo novo 
-Coronavírus (Sars-Cov-2). Atualizada em 2020 mai. 08 [acessado em 2020 jun 20]. 
-Disponível 
-em: 
-http://portal.anvisa.gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-
-2020+GVIMS-GGTESANVISA/ab598660-3de4-4f14-8e6f-b9341c196b28 
-11. Duruk G, Gümüşboğa ZS, Çolak C. Investigation of Turkish dentists’ clinical attitudes and 
-behaviors towards the COVID-19 pandemic: a survey study. Braz. Oral Res. 2020;34:e054. 
-http://dx.doi.org/10.1590/1807-3107bor-2020.vol34.0054  
-12. Kamate SK, Sharma S, Thakar S, Srivastava D, Sengupta K, Hadi AJ, et al. Assessing 
-Knowledge, Attitudes and Practices of dental practitioners regarding the COVID-19 
-pandemic: A multinational study. Dent Med Probl. 2020;57(1):11–17. 
-https://doi.org/10.17219/dmp/119743  
-13. Brasil. Conselho Nacional de Saúde. Resolução nº 510, de 07 de abril de 2016. Dispõe sobre 
-as normas aplicáveis em pesquisas Humanas e Sociais cujos procedimentos metodológicos 
-envolvam a utilização de dados diretamente obtidos com os participantes ou de informações 
-identificáveis ou que possam acarretar riscos maiores do que os existentes na vida cotidiana, 
-na forma definida nesta resolução. [Internet]. Diário Oficial [da] República Federativa do 
-Brasil. 2016 mai. 24 [acessado em 2020 jun 16]. Disponível em: http:// 
-http://conselho.saude.gov.br/resolucoes/2016/Reso510.pdf 
-14. Conselho Federal de Odontologia [Internet]. Brasil: Quantidade Geral de profissionais e 
-Entidades 
-Ativas. 
- [acessado 
-em 
-21 
-jun. 
-2020]. 
- 
-Disponível 
-em: 
-http://website.cfo.org.br/estatisticas/quantidade-geral-de-entidades-e-profissionais-ativos/ 
-15. Dean AG, Sullivan KM, Soe MM. OpenEpi: Open Source Epidemiologic Statistics for 
-Public Health, Versão. www.OpenEpi.com. atualizado 2013/04/06 [acessado em 06 jun. 
-2020].  
-16. Consolo U, Bellini P, Bencivenni D, Iani C, Checchi V. Epidemiological Aspects and 
-Psychological Reactions to COVID-19 of Dental Practitioners in the Northern Italy Districts 
-of Modena and Reggio Emilia. Int. J. Environ. Res. Public Health. 2020;17:3459. 
-https://doi.org/10.3390/ijerph17103459 
-17. Shacham M, Hamama-Raz Y, Kolerman R, Mijiritsky O, Ben-Ezra M, Mijiritsky E. 
-COVID-19 Factors and Psychological Factors Associated with Elevated Psychological 
-Distress among Dentists and Dental Hygienists in Israel. Int. J. Environ. Res. Public 
-Health. 2020;17:2900. https://doi.org/10.3390/ijerph17082900 
-18. Ghai, S. Are dental schools adequately preparing dental students to face outbreaks of 
-infectious diseases such as COVID-19? J Dent Educ. 2020;1–3. 
-https://doi.org/10.1002/jdd.12174 
-19. Ahmed N, Shakoor M, Vohra F, Abduljabbar T, Mariam Q, Rehman MA. Knowledge, 
-Awareness and Practice of Health care Professionals amid SARS-CoV-2, Corona Virus 
-Disease Outbreak. Pak J Med Sci. 2020;36. https://doi.org/10.12669/pjms.36.COVID19-
-S4.2704 
-20. American Dental Association [Internet]. Chicago: CDC Guidance for Dental Setiings 
-Echoes ADA Guidance. [acessado em 20 jun. 2020]. Disponível em: 
-https://www.ada.org/en/press-room/news-releases/2020-archives/may/cdc-guidance-for-
-dental-settings-echoes-ada-
-guidance?utm_source=cpsorg&amp;utm_medium=cpsalertbar&amp;utm_content=ada-
-cdcstatement&amp;utm_campaign=covid19  
-21. Guo H, Zhou Y, Liu X, Tan J. The impact of the COVID-19 epidemic on the use of 
-emergency dental services. J. Dent. Sci. 2020. https://doi.org/10.1016/j.jds.2020.02.002 
-22. De Stefani A, Bruno G, Mutinelli S, Gracco A. COVID-19 Outbreak Perception in Italian 
-Dentists. Int. J. Environ. Res. Public Health. 2020;17:3867. 
-https://doi.org/10.3390/ijerph17113867 
-23. Brasil. Ministério da Saúde. Nota Técnica nº 9/2020-CGSB/DESF/SAPS/MS. Dispõe 
-sobre Covid-19 e Atendimento Odontológico no SUS. Mar 2020 [acessado em 2020 jun. 
-20]. Disponível em: 
-http://www.crosp.org.br/uploads/arquivo/295c9c14409db20cb63c862bb07ce0e4.pdf 
-24. Spagnuolo G, De Vito D, Rengo S, Tatullo M. COVID-19 outbreak: an overview on 
-dentistry. 
-Int 
-J 
-Environ 
-Res 
-Public 
-Health. 
-2020 
-Mar;17(6):E2094. 
-https://doi.org/10.3390/ijerph17062094 
-25. Pereira LJ, Pereira CV, Murata RM, Pardi V, Pereira-Dourado SM. Biological and social 
-aspects of Coronavirus Disease 2019 (COVID-19) related to oral health. Braz. Oral Res. 
-2020;34:e041. http://dx.doi.org/10.1590/1807-3107bor-2020.vol34.0041  
-26. Van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, 
-et al. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. N 
-Engl J Med. 2020;NEJMc2004973. https://doi.org/10.1056/NEJMc2004973 
- 
- 
- 
-TABLES 
-Table 1: Characterization of dentist respondents by absolute and relative frequency. Brazil, 
-2020. 
-Variables 
- 
-n 
-% 
-Gender 
- 
- 
- 
-Female 
- 
-532 
-70.8 
-Male 
- 
-219 
-29.2 
-Age 
- 
- 
- 
-Under 25  
- 
-92 
-12.3 
-25 to 34 years 
- 
-440 
-58.6 
-35 to 44 years 
- 
-121 
-16.1 
-45 years or more 
- 
-98 
-13.0 
-Years since graduation 
- 
- 
- 
-Less than 5 years 
- 
-434 
-57.8 
-Between 5 and 10 years  
- 
-130 
-17.3 
-Greater than 10 years 
- 
-187 
-24.9 
-Region of the country in which it operates 
- 
- 
- 
-Midwest 
- 
-8 
-1.1 
-Northeast 
- 
-600 
-79.9 
-North 
- 
-41 
-5.5 
-Southeast 
- 
-91 
-12.1 
-South 
- 
-11 
-1.5 
-Highest Education Level 
- 
- 
- 
-Graduation 
- 
-288 
-38.3 
-Specialization/Residence 
- 
-283 
-37.7 
-Master's degree 
- 
-135 
-18.0 
-Doctor’s degree 
- 
-33 
-4.4 
-Post-doctoral 
- 
-12 
-1.6 
-Employment Bond 
- 
- 
- 
-Public Server 
- 
-195 
-26.0 
-Private Company Employee 
- 
-191 
-25.4 
-Private Clinic Owner 
- 
-137 
-18.2 
-Two or more different employments 
- 
-158 
-21.0 
-Other 
- 
-70 
-9.3 
-Monthly Income 
- 
- 
- 
-Less than R$ 2,500 
- 
-178 
-23.7 
-Between R$ 2,500 and R$ 5,000 
- 
-372 
-49.5 
-Above R$ 5,000 
- 
-201 
-26.8 
-Attended a training course on prevention and control measures against 
-the new coronavirus 
- 
- 
- 
-Yes 
- 
-412 
-54.9 
-No 
- 
-339 
-45.1 
-Reason of sought to accomplish the training course 
- 
- 
- 
-Own will 
- 
-291 
-58.7 
-Institutional requirement 
- 
-88 
-17.7 
-Other 
- 
-117 
-23.6 
-The most used medium to search informations regarding prevent and 
-spread the new coronavirus 
- 
- 
- 
-Scientific articles 
- 
-334 
-44.5 
-Online courses 
- 
-152 
-20.2 
-Social networks 
- 
-128 
-17.0 
-TV 
- 
-68 
-9.1 
-Other 
- 
-69 
-9.2 
- 
- 
-Table 2: Variables related to the knowledge of dental surgeons regarding biosafety in dental 
-care during the COVID-19 pandemic. Brazil, 2020. 
-Variables 
-n 
-% 
-I have knowledge about the ANVISA guidelines biosecurity measures  
- 
- 
-I agree 
-720 
-95.9 
-I disagree 
-31 
-4.1 
-Before dental care, it is recommended to ask if patients have any signs and / or symptoms 
-of respiratory infection 
- 
- 
-I agree 
-747 
-99.5 
-I disagree 
-4 
-0.5 
-I believe that providing alcohol gel and demanding the use of mask in the waiting room 
-are examples of exaggerated behavior in preventing the spread of the new coronavirus 
- 
- 
-I agree 
-109 
-14.5 
-I disagree 
-642 
-85.5 
-It is recommended to perform any type of dental care during the pandemic of the new 
-coronavirus 
- 
- 
-I agree 
-57 
-7.6 
-I disagree 
-694 
-92.4 
-Patients with suspected symptoms for the new coronavirus infection should not receive 
-any type of dental care 
- 
- 
-I agree 
-330 
-43.9 
-I disagree 
-421 
-56.1 
-I am aware of the correct sequence for removing personal protective equipment 
- 
- 
-I agree 
-621 
-82.7 
-I disagree 
-130 
-17.3 
-I consider the need to wash hands before touching the patient, before performing a clean / 
-aseptic procedure, after risk of exposure to body fluids, after touching the patient and 
-after contact with surfaces close to the patient, an exaggeration 
- 
- 
-I agree 
-132 
-17.6 
-I disagree 
-619 
-82.4 
-In the case of visible dirt on goggles / face shield, washing with soap and water should be 
-preferred to alcohol gel 
- 
- 
-I agree 
-694 
-92.4 
-I disagree 
-57 
-7.6 
-It is an exaggeration to consider every patient as possible infected with the new 
-coronavirus 
- 
- 
-I agree 
-59 
-7.9 
-I disagree 
-692 
-92.1 
-I feel qualified to promote preventive educational activities on the new coronavirus 
- 
- 
-I agree 
-533 
-71.0 
-I disagree 
-218 
-29.0 
-Currently, social isolation is the main form of prevention and control of the spread of the 
-new Coronavirus 
- 
- 
-I agree 
-682 
-90.8 
-I disagree 
-69 
-9.2 
- 
- 
-Table 3: Variables related to dentists' attitudes and practices regarding biosafety in dental 
-care during the COVID-19 pandemic. Brazil, 2020. 
-Variables 
-n 
-% 
-The scheduling of my patients is done in a sufficiently spaced way to minimize possible contacts between 
-patients in the waiting room 
- 
- 
-I agree 
-721 
-96.0 
-I disagree 
-30 
-4.0 
-I advise the patient not to bring a companion to the consultation, except in cases where assistance is needed 
-(such as pediatric patients, people with special needs, elderly patients, etc.) 
- 
- 
-I agree 
-736 
-98.0 
-I disagree 
-15 
-2.0 
-I adjusted the chairs in the waiting room at least 1 meter apart 
- 
- 
-I agree 
-685 
-91.2 
-I disagree 
-66 
-8.8 
-I provide magazines and other reading materials, toys and other objects in the waiting room to help ease my 
-patients' anxiety, even under current circumstances 
- 
- 
-I agree 
-108 
-14.4 
-I disagree 
-643 
-85.6 
-I reinforce the need to clean and disinfect objects and surfaces properly, especially at the dental office and 
-those most touched by patients 
- 
- 
-I agree 
-745 
-99.2 
-I disagree 
-6 
-0.8 
-During the pandemic, I am only providing urgent and emergency dental care 
- 
- 
-I agree 
-608 
-81.0 
-I disagree 
-143 
-19.0 
-I perform proper hand washing before and after contact with all patients 
- 
- 
-I agree 
-735 
-97.9 
-I disagree 
-16 
-2.1 
-I use props such as rings, bracelets, cords, earrings and watches during clinical care 
- 
- 
-I agree 
-59 
-7.9 
-I disagree 
-692 
-92.1 
-During clinical care, I prioritize work with 4 hands, with help of an auxiliary professional 
- 
- 
-I agree 
-447 
-59.5 
-I disagree 
-304 
-40.5 
-I use continuous aspiration of residual saliva with a high-power suction system (vacuum pump) 
- 
- 
-I agree 
-493 
-65.6 
-I disagree 
-258 
-34.4 
-I use 1.0% to 1.5% hydrogen peroxide as pre-procedure mouthwash for all patients 
- 
- 
-I agree 
-440 
-58.6 
-I disagree 
-311 
-41.4 
-I use rubber dam isolation in procedures that need high-rotation motors 
- 
- 
-I agree 
-353 
-47.0 
-I disagree 
-398 
-53.0 
-I try to guarantee the quality and renewal of the air of the dental office keeping the windows open or using air 
-conditioning with exhaust 
- 
- 
-I agree 
-579 
-77.1 
-I disagree 
-172 
-22.9 
-Whenever possible, I avoid aerosol-generating procedures, preferring dentine excavators and periodontal 
-curettes, chemical-mechanical techniques and not using the triple syringe in its mist form 
- 
- 
-I agree 
-662 
-88.1 
-I disagree 
-89 
-11.9 
-Where I work, there are visual informational alerts about to prevent covid-19 (such as posters and boards) 
- 
- 
-I agree 
-540 
-71.9 
-I disagree 
-211 
-28.1 
-Whenever possible, I use resorbable suture thread 
- 
- 
-I agree 
-401 
-53.4 
-I disagree 
-350 
-46.6 
-Whenever possible, I use extra-oral radiographs, such as panoramic x-rays or cone-beam computed 
-tomography, instead of intraoral x-rays 
- 
- 
-I agree 
-419 
-55.8 
-I disagree 
-332 
-44.2 
-I make sure that the entire oral health team uses complete personal protective equipment in the clinical setting  
- 
- 
-I agree 
-715 
-95.2 
-I disagree 
-36 
-4.8 
-I have been carrying out preventive educational activities on the new coronavirus 
- 
- 
-I agree 
-460 
-61.3 
-I disagree 
-291 
-38.7 
- 
- 
-Table 4: Comparison of knowledge score averages about biosafety in dental care during the 
-COVID-19 pandemic. Brazil, 2020. 
-Variables 
-Knowledge Score 
-P value 
-Median 
-Average 
-DP 
-Gender 
- 
- 
- 
- 
-Female 
-10 
-      9.43 
-      1.26 
-0.587 
-Male 
-10 
-      9.35 
-1.34 
-Age 
- 
- 
- 
- 
-Under 25  
-9 
-      9.43 
-1.08 
-0.210 
-25 to 34 years 
-10 
-9.46 
-1.29 
-35 to 44 years 
-10 
-9.38 
-1.37 
-45 years or more 
-9 
-9.17 
-1.30 
-Years since graduation 
- 
- 
- 
- 
-Less than 5 years 
-10 
-9.45 
-1.25 
-0.135 
-Between 5 and 10 years  
-10 
-9.49 
-1.33 
-Greater than 10 years 
- 9 
-9.26 
-1.29 
-Employment Bond 
- 
- 
- 
- 
-Public Server 
-10 
-9.61 
-1.11 
-0.004* 
-Private Company Employee 
-9 
-9.19 
-1.45 
-Private Clinic Owner 
-9 
-9.19 
-1.29 
-Two or more different employments 
-10 
-9.50 
-1.31 
-Other 
-10 
-9.66 
-1.14 
-Highest Education Level 
- 
- 
- 
- 
-Graduation 
-10 
-9.45 
-1.28 
-0,299 
-Specialization/Residence 
-9 
-9.28 
-1.37 
-Master's degree 
-10 
-9.49 
-1.12 
-Doctor’s degree 
-10 
-9.61 
-1.12 
-Post-doctoral 
-10 
-9.83 
-1.19 
-Monthly Income 
- 
- 
- 
- 
-Less than R$ 2,500 
-9 
-9.35 
-1.21 
-0.447 
-Between R$ 2,500 and R$ 5,000 
-10 
-9.40 
-1.31 
-Above R$ 5,000 
-10 
-9.47 
-1.28 
-Attended a training course on prevention and control 
-measures against the new coronavirus 
- 
- 
- 
- 
-Yes 
-9 
-9.12 
-1.33 
-<0.001* 
-No 
-10 
-9.64 
-1.19 
-* Statistically significant at the 5% significance level. 
- 
- 
-Table 5: Comparison of averages of the biosafety attitudes and practices score in dental care 
-during the COVID-19 pandemic. Brazil. 2020. 
- 
-*Statistically significant at the 5% significance level. 
- 
- 
- 
- 
- 
-Variables 
-Score attitudes and practices 
-P value 
-Median 
-Average 
-DP 
-Gender 
- 
- 
- 
- 
-Female 
-15 
-15.07 
-3.40 
-0.040* 
-Male 
-16 
-15.58 
-3.07 
-Age 
- 
- 
- 
- 
-Under 25  
-15 
-14.93 
-3.13 
-<0.001* 
-25 to 34 years 
-15 
-14.55 
-3.26 
-35 to 44 years 
-17 
-16.52 
-3.05 
-45 years or more 
-18 
-16.87 
-3.00 
-Years since graduation 
- 
- 
- 
- 
-Less than 5 years 
-15 
-14.71 
-3.22 
-<0.001* 
-Between 5 and 10 years  
-15.5 
-14.94 
-3.37 
-Greater than 10 years 
-17 
-16.59 
-3.11 
-Employment Bond 
- 
- 
- 
- 
-Public Server 
-16 
-16.03 
-2.92 
-<0.001* 
-Private Company Employee 
-15 
-15.07 
-3.47 
-Private Clinic Owner 
-14 
-14.10 
-3.58 
-Two or more different employments 
-15 
-15.34 
-2.90 
-Other 
-17 
-15.99 
-3.33 
-Highest Education Level 
- 
- 
- 
- 
-Graduation 
-15 
-14.73 
-3.26 
-<0.001* 
-Specialization/Residence 
-15 
-15.05 
-3.24 
-Master's degree 
-17 
-16.07 
-3.25 
-Doctor’s degree 
-18 
-16.45 
-3.80 
-Post-doctoral 
-18.5 
-17.75 
-1.60 
-Monthly Income 
- 
- 
- 
- 
-Less than R$ 2,500 
-15 
-14.82 
-3.45 
-<0.001* 
-Between R$ 2,500 and R$ 5,000 
-15 
-14.97 
-3.21 
-Above R$ 5,000 
-17 
-16.02 
-3.26 
-Attended a training course on prevention and 
-control measures against the new coronavirus 
- 
- 
- 
- 
-Yes 
-14 
-14.37 
-3.55 
-<0.001* 
-No 
-16 
-15.91 
-2.93 

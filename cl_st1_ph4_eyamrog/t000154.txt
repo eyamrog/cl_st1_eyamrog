@@ -1,51 +1,3 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/2318-0889202133e200072
-Attitudes to open peer review among stakeholders of a
-scholarly-led journal in Brazil
-Leonardo Ferreira  Fontenelle, Thiago Dias Sarti
-https://doi.org/10.1590/SciELOPreprints.1236
-Submitted on: 2020-09-21
-Posted on: 2020-09-21 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
-– 1 – 
-Attitudes to open peer review among stakeholders of a 
-scholarly-led journal in Brazil 
-Atitudes perante a revisão por pares aberta entre as partes interessadas 
-em uma revista acadêmica no Brasil 
-Running title: Attitudes to open peer review 
-Authors: 
-Leonardo Ferreira Fontenelle, <leonardof@leonardof.med.br>, medical doctor, 
-specialist in family and community medicine, master of science (public health), doctor of 
-science (epidemiology), professor. Universidade Vila Velha, Medical School. Vila Velha, 
-Espírito 
-Santo, 
-Brazil. 
-+55 
-27 
-3421-2186. 
-Lattes 
-http://lattes.cnpq.br/9234772336296638 (up to date), ORCID https://orcid.org/0000-
-0003-4064-433X.  
-Contribution: Conceptualization; Data Curation; Formal analysis; Investigation; 
-Methodology; Project administration; Software; Visualization; Writing – original draft. 
-Thiago Dias Sarti, <tdsarti@gmail.com>, medical doctor, specialist in family and 
-community medicine, master of science (public health), doctor of science (public health), 
-professor. Universidade Federal do Espírito Santo, Center of Health Sciences, 
-Department of Social Medicine. Vitória, Espírito Santo, Brazil. +55 27 3335-7225. Lattes 
-http://lattes.cnpq.br/7489127535403969 (up to date), ORCID https://orcid.org/0000-
-0002-1545-6276.  
-Contribution: Conceptualization; Methodology; Writing – review & editing. 
-Correspondence to: Leonardo Ferreira Fontenelle. Universidade Vila Velha, 
-Coordenação de Medicina. Rua São João, 48, Divino Espírito Santo II, Vila Velha, ES, 
-CEP 29101-420, Brazil. 
-Conflict of interests: The authors are RBMFC editors. 
-External funding: none. 
-Acknowledgement: none 
- 
-– 2 – 
-Abstract 
 Scholarly journals should consider the attitudes of their communities before adopting any 
 of the seven traits of open peer review. Unfortunately, surveys from the Global North 
 might not generalize to the Global South, where double-blind peer review is 
@@ -63,35 +15,7 @@ future research should examine the effects of transitioning from double-blind to
 identities, especially on gender bias. Meanwhile, scholarly journals with double-blind 
 review might prefer to begin by adopting other traits of open review or to make open 
 identities optional at first. 
-Keywords: scholarly communication; academic communities; peer review; scholarly 
-journals; self publishing; medical science 
- 
-– 3 – 
-Resumo 
-Periódicos científicos deveriam considerar as atitudes de suas comunidades antes de 
-adotar qualquer um dos sete traços da revisão por pares aberta. Infelizmente, inquéritos 
-do Norte Global podem não generalizar para o Sul Global, onde a revisão por pares 
-duplo-cega é comum mesmo entre periódicos das ciências naturais e medicina. Este 
-artigo relata os achados de um inquérito sobre as atitudes perante a revisão por pares 
-aberta em quatro grupos de partes interessadas em um periódico médico no Brasil: 
-membros da associação, e leitores, autores e revisores do periódico. Em comparação a 
-um inquérito prévio recrutando principalmente pesquisadores em ciências naturais da 
-Europa, este inquérito encontrou suporte semelhante à revisão por pares em geral e à 
-maioria de seus traços. Uma importante exceção foram as identidades abertas, um traço 
-que foi considerado prejudicial pela maioria dos participantes, neste inquérito ainda mais 
-do que no prévio. É digno de nota que as identidades abertas não tenham sido tão 
-rejeitadas assim quando os participantes expressaram se concordavam ou não com 
-assertivas sobre as consequências específicas desse traço. Uma vez que os preprints 
-são crescentemente populares, mas incompatíveis com a revisão duplo-cega, 
-pesquisas futuras deveriam examinar os efeitos de uma transição da revisão duplo-cega 
-para identidades abertas, especialmente sobre o viés de gênero. Enquanto isso, 
-periódicos científicos com revisão duplo-cega podem preferir adotar outros traços de 
-revisão aberta, ou tornar as identidades abertas inicialmente opcionais. 
-Descritores: comunicação científica; comunidades científicas; revisão pelos pares; 
-periódicos científicos; autopublicação; medicina 
- 
-– 4 – 
-Introduction 
+
 Peer review became a core feature of journal publishing in the second half of the 20th 
 century, amidst other significant transformations of scholarly communication (Baldwin, 
 2018; Tennant et al., 2017; Zuckerman; Merton, 1971). In this now-called traditional form 
@@ -101,6 +25,7 @@ public. Peer review is usually double-blind, that is, authors’ and reviewers�
 concealed from each other. Single-blind peer review, where reviewers know the authors’ 
 identities, is usual for journals from the Global North on natural sciences and medicine 
 (Pontille; Torny, 2014). 
+
 While peer review is usually trusted and considered beneficial (Jubb, 2016; Mulligan et 
 al., 2013), direct evidence on its benefits is scarce (Jefferson et al., 2007; Smith, 2006; 
 2010), and traditional peer review has received strong criticism and calls for reform over 
@@ -110,6 +35,7 @@ inconsistent, biased, prone to abuse, wasteful, resistant to innovative research
 missing most errors. His former journal was one of the first to reform peer review 
 (Schroter et al., 2020) and, since then, the movement grew into a “peer review revolution” 
 (Tennant et al., 2017). 
+
 “Open peer review” is an umbrella term for peer review innovations in the spirit of open 
 science (Ross-Hellauer, 2017; Tennant et al., 2017; Wolfram et al., 2020). Ross-Hellauer 
 (2017) found 122 definitions of open peer review, consisting of various combinations of 
@@ -126,8 +52,6 @@ platforms (“decoupled review”) was defined as when “review is facilitated 
 organizational entity than the venue of publication.” Open identities and open reports are 
 included in most definitions of open peer review and are thus considered “core traits” 
 (Ross-Hellauer, 2017). Refer to Ross-Hellauer (2017) for an analysis of which trait 
- 
-– 5 – 
 responds to which shortcoming of traditional peer review and fit into which school of open 
 science, and to Ross-Hellauer (2017), Tennant et al. (2017), and Bruce et al. (2016) for 
 reviews of the evidence base for different traits of open peer review. In the Global North, 
@@ -135,6 +59,7 @@ reviews of the evidence base for different traits of open peer review. In the Gl
 review adoption (Tennant et al., 2017; Wolfram et al., 2020). In the Global South, the 
 SciELO Network is probably one of the main organizations driving the adoption of open 
 peer review. 
+
 Implementing open peer review is not straightforward, though. Different traits of open 
 peer review serve different editorial goals, and their acceptability may vary from one 
 scholarly community to the other (Ross-Hellauer; Görögh, 2019). For example, 
@@ -144,36 +69,41 @@ identities (Wolfram et al., 2020), suggesting the benefit might be less obvious 
 communities adopting double-blind peer review; and open participation seems more 
 popular in the social sciences and humanities than in the natural sciences, technology 
 and medicine (Ross-Hellauer, 2017). 
+
 One proposed strategy if for editors to survey their communities’ attitudes to open peer 
 review (Ross-Hellauer; Görögh, 2019). Previous surveys found open identities to be the 
 trait scholars though less likely to improve peer review (Ross-Hellauer et al., 2017) and 
 double-blind peer review to be preferred over single-blind or open identities (Mulligan et 
 al., 2013; Bernal; Román-Molina, 2018). To the best of our knowledge, no survey about 
 open peer review has targeted a scholarly community in the Global South yet. 
+
 This study reports an online survey on attitudes to open peer review among stakeholders 
 of a non-profit scholar-led medical journal in Brazil: Revista Brasileira de Medicina de 
 Família e Comunidade (RBMFC; ISSN 2179-7994). 
-Methods 
+
 This electronic survey was administered through the Web from April 6 to May 10, 2020, 
 using formr 0.18.3 (Arslan; Tata, 2018), an open-source survey framework (Arslan et al., 
 2019). The full formr “run” (questionnaires and their interconnections) used in this survey 
 is openly available at the Open Science Framework (Fontenelle; Sarti, 2020a). The 
 participants belonged to four groups of RBMFC stakeholders: 
+
 • 
 SBMFC members were physicians (that is, not medical students) with a currently 
 non-expired membership in Sociedade Brasileira de Medicina de Família e 
 Comunidade (SBMFC), the learned society sponsoring and publishing the journal; 
- 
-– 6 – 
+
 • 
 Readers were anyone having read one or more of articles from RBMFC within 
 the last twelve months; 
+
 • 
 Authors were anyone having published an article in RBMFC within the last five 
 years; 
+
 • 
 Reviewers were anyone having peer-reviewed a submission for RBMFC within 
 the last five years. 
+
 The survey was approved by the Research Ethics Committee of Universidade Vila Velha 
 (CAAE nº 28912719.0.0000.5064, report nº 3.846.811). Participants had to provide 
 informed consent before proceeding to the questionnaire items. The information 
@@ -189,6 +119,7 @@ survey was completely voluntary, that is, it was not a requirement for people to
 interacting with RBMFC or SBMFC in any way, and no direct incentives were offered to 
 prospective study participants. Because of the strict anonymity of the survey, there was 
 no way to prevent people from participating multiple times. 
+
 Participants were invited through four different advertisements. SBMFC mailed an 
 invitation to its eligible members on April 7 and again on May 8, 2020; RBMFC mailed 
 an announcement about the survey to its registered users (readers, authors, reviewers 
@@ -202,14 +133,14 @@ Because we anticipated there would be some overlap between the stakeholder group
 all advertisements linked to the same landing page. This landing page did not require a 
 username and/or password, but was accessible only for those who knew its URL (uniform 
 resource locator, the network “address”). 
- 
-– 7 – 
+
 The questionnaire was adapted from Ross-Hellauer et al. (2017) to the study context 
 and translated to Portuguese and Spanish by the authors of this survey. Because the 
 questionnaire defines its key terms (traditional peer review and each trait of open peer 
 review) and had already been pilot tested and administered by Ross-Hellauer et al. 
 (2017), we opted for pilot testing only the questionnaire translation and functionality, by 
 reading and filling it in ourselves as well as asking a few colleagues to do so. 
+
 In total, the questionnaire had five pages. After a landing page for language selection 
 (Portuguese, Spanish, English) and another page for informed consent, two main pages 
 comprised 45 items, and a fifth and last page thanked participants and provided the URL 
@@ -229,6 +160,7 @@ group) had to be filled before proceeding to the next page, and participants wer
 allowed to revise their answers before submitting them. The questionnaire items were 
 not randomized in any way, and the only adaptive aspect of the survey was the language 
 selection. 
+
 The survey results were described for each stakeholder group using absolute and 
 relative frequencies. Attitudes to open peer review, as well as satisfaction with the current 
 system and attitudes to open access and open data, were described by the combined 
@@ -240,8 +172,6 @@ rstan, version 2.21.2, for the R environment for statistical computing, version 
 model allowed for the possibility that the attitudes of authors and/or reviewers varied the 
 differently than attitudes of other participants. The estimates and their 95% uncertainty 
 intervals (UI) were calculated with only weakly informative prior distributions, which are 
- 
-– 8 – 
 fully described in the analytic code (Fontenelle, 2020a) and were preregistered 
 (Fontenelle; Sarti, 2020b). Answers “don’t know” were considered missing data and 
 excluded from the estimation for the corresponding items. Participants not completing 
@@ -255,7 +185,7 @@ atypical timestamps. The analysis plan included in the preregistration (Fontenel
 2020b) and the final analytical code (Fontenelle, 2020a) are available alongside the open 
 data (Fontenelle; Sarti, 2020c). There was no substantial deviation from the analysis 
 plan, other than correcting a misnamed variable. 
-Results 
+
 The survey’s landing page was reached by 402 people, of which 191 (48%) consented 
 to participate, 151 (38%) completed the first of two main pages, and 134 (33%) 
 completed the whole questionnaire. The survey starting times were evenly distributed 
@@ -265,6 +195,7 @@ The 151 participants completing the first main page comprised 86 (5%) of 1774 el
 SBMFC members, 82 readers (out of approximately 200 thousand annual visits), 42 
 authors (out of 290 articles with 992 unique authors), and 50 (22%) of 226 eligible 
 reviewers. 
+
 Table 1 describes the 151 survey participants completing the first main page of the 
 questionnaire. Most of them were 35–44 years old (38%) and male (55%); most 
 participants were from Brazil (97%) and, in general, their most advanced degree was 
@@ -275,14 +206,12 @@ open reports (81%), or open participation (90%) as authors or reviewers, even th
 60 (39%) reported having experience both as authors and reviewers with open peer 
 review in general. Two-thirds of the survey participants were satisfied with peer review 
 in RBMFC. 
-— Table 1 around here — 
- 
-– 9 – 
+
 Half the study participants agreed the current system of scholarly communications 
 worked well (Table 2). Most of them agreed it should be common scholarly practice to 
 make research publications and data available under open access, but only little more 
 than half agreed open peer review should be a common scholarly routine. 
-— Table 2 around here — 
+
 One core trait, open identities, received the least support among all traits, with few 
 participants believing it would improve peer review (Table 3), even if almost half the 
 participants agreed open identities would improve the quality of reviewer report, and 
@@ -290,14 +219,14 @@ reviewers and authors should have the option of revealing their own identities (
 While many participants worried open identities would inhibit reviewers from agreeing to 
 review, fewer thought it would inhibit authors from submitting. Furthermore, few 
 participants agreed open identities were fairer than traditional peer review. 
-— Table 3 around here — 
+
 The other core trait, open reports, was the one with support more closely matching 
 agreement with open peer review in general, both in terms of stakeholders believing it 
 would improve peer review (Table 3) and in terms of them agreeing it would provide 
 useful information to readers and improve the quality of the reviewer reports (Table 4). 
 On the other hand, a similar proportion of participants worried open reports would inhibit 
 reviewers from making strong criticism, or from agreeing to review. 
-— Table 4 around here — 
+
 Open interaction was the trait receiving more support, with most participants believing it 
 would improving peer review (Table 3) and agreeing it would result in better publications 
 (Table 4). While almost as many participants believed open final-version commenting 
@@ -306,13 +235,12 @@ in blog articles, online journal clubs, and social media (Table 4). Support for 
 participation, open pre-review manuscripts, and open platforms was also somewhat 
 lesser than for open peer review in general, but not as small as support for open identities 
 (Table 3, Table 4). 
+
 Support for open peer review varied with the stakeholder group participants belonged to. 
 Readers and SBMFC members seem to be more supportive (than authors and reviewers) 
 of open peer review in general (Table 2) and trait by trait (Table 3), as well as when 
 considering more specific statements (Table 4). 
- 
-– 10 – 
-Discussion 
+
 We reported an online survey with each of four stakeholder groups of RBMFC, a scholar-
 led journal from Brazil, on their attitudes towards open peer review. While few eligible 
 stakeholders participated in the survey, the neutral language of the advertisements 
@@ -327,6 +255,7 @@ disclosed through the uncertainty intervals), the survey closely reproduced the 
 of Ross-Hellauer et al. (2017), so that confidence in this survey’s findings increases to 
 the extent that they are similar to theirs, and differences between the surveys hint at the 
 possibility of contextual effects. 
+
 This survey’s participants were markedly less experienced with open peer review than 
 those in Ross-Hellauer et al. (2017), besides being somewhat younger. Furthermore, this 
 survey’s participants were from a small medical specialty in a middle-income country in 
@@ -335,10 +264,12 @@ review, where participants in Ross-Hellauer et al. (2017) were generally from th
 sciences in Europe, and many of them are arguably more used to single-blind peer 
 review. This survey had probably fewer to no participants from the publishing industry, 
 but we did not capture this information to avoid breaking anonymity. 
+
 With this differences in mind, it is encouraging that both groups had similarly positive 
 attitudes to the current system of scholarly communication, open access, open data, and 
 open peer review in general. While attitudes to most individual traits of open peer review 
 were also similar, open identities deserve further scrutiny. 
+
 RBMFC stakeholders were even less supportive of open identities than participants in 
 Ross-Hellauer et al. (2017), and this was the least supported trait in that survey, even 
 though it is considered one of the core traits of open peer review (Ross-Hellauer, 2017). 
@@ -347,12 +278,11 @@ worse or much worse; see Supplemental Table 2 in (Fontenelle, 2020b). Interestin
 when confronted with statements about the consequences of open identities, participants 
 in both surveys were much less dismissive. RBMFC stakeholders (including reviewers!) 
 agreed less than participants in Ross-Hellauer et al. (2017) that opening reviewers’ 
- 
-– 11 – 
 identities would inhibit them from accepting an invitation, and only a third of RBMFC 
 stakeholders agreed opening authors’ identities would inhibit them from submitting. The 
 last statement was not part of the other survey’s questionnaire, possibly because authors’ 
 identities are already open in single-blind peer review. 
+
 RBMFC authors and reviewers were much more likely to disagree than to agree with 
 open identities being fairer to authors (see Supplemental Table 2 in Fontenelle (2020b)), 
 whereas participants of Ross-Hellauer (2017) were as likely to agree as to disagree. The 
@@ -366,6 +296,7 @@ blinding reviewers to authors’ identities cannot avoid bias when the blinding 
 it avoid bias against the manuscripts’ contents, such as the conclusions or the theoretical 
 approach (Pontille; Torny, 2014; Tennant et al., 2017). Perhaps more importantly, there 
 is no evidence on the effect of open identities on bias in peer review. 
+
 In line with Ross-Hellauer et al. (2017), most RBMFC readers, authors, and reviewers 
 did not agree manuscripts should be made freely available before peer review, and most 
 authors and reviewers did not believe preprints would improve peer review. Such lack of 
@@ -375,6 +306,7 @@ Information), and because RBMFC did not receive a single protest when the journa
 started to explicitly accept manuscripts already available as preprints, in December 2018. 
 One explanation might be that authors have no intention of depositing their own 
 manuscripts in preprint servers, but do not object to other authors doing so. 
+
 Unfortunately, double-blind review is essentially incompatible with preprints, especially 
 journal-led preprints, when scholarly journals routinely deposit their pre-review 
 manuscripts in preprint servers such as SciELO Preprints or EmeRI. The incompatibility 
@@ -384,769 +316,30 @@ open peer review are not so incompatible with double-blind review: open reports 
 not be signed, open interaction can be anonymized by editorial platforms such as OJS 
 3, nothing stops decoupled peer review from being double-blind, and open commenting 
 on the final version complements rather than substitutes traditional peer review. 
- 
-– 12 – 
-Conclusion 
+
 Stakeholders of RBMFC, a medical specialty journal in Brazil, were generally as 
 supportive to open peer review as participants of a large-scale survey with an over-
 representation of researchers from the Global North and the natural sciences. This 
 suggests the results of the previous survey are generalizable to other settings and 
 encourages replication in the arts, humanities, and social sciences, which were 
 underrepresented in the previous survey and not included in the present one. 
+
 To the best of our knowledge, this is the first survey to actively recruit and separately 
 describe the attitudes of a journal’s readers or members of a journal’s learned society. 
 Both stakeholder groups were found to be even more supportive of open peer review 
 than the journal’s authors and reviewers, providing some assurance for editors from 
 society journals to experiment with open peer review. Stakeholders of scholarly journals 
 published by university departments might be more uniform in their attitudes. 
+
 Always a paragon of open science, SciELO Brazil requires its journals to implement 
 some form of “open peer review”: consisting of open identities, open reports, or crediting 
 associate editors. Based on this survey and the discussed literature, journal editors 
 should be extremely cautious of open identities, as most researchers believe it would 
 make more harm than good. If open identities are to be adopted, scholarly journals 
 should consider making them optional at first, and monitor the adherence. 
+
 The increasing popularity of preprints might render double-blind review unfeasible, and 
 open identities unavoidable. Unfortunately, no experimental study to this date has 
 examined the effects of transitioning from double-blind to open identities. Scholarly 
 journals currently using double-blind peer review should ideally participate in randomized 
 trials to examine the effects of such a transition on the quality and bias of peer review. 
-Acknowledgements 
-See title page. 
-References 
-Arslan, R. C.; Walther, M. P.; Tata, C. S. formr: A study framework allowing for automated feedback 
-generation and complex longitudinal experience-sampling studies using R. Behavior Research 
-Methods, v. 52, p. 376–387, 2020. Doi: https://doi.org/10.3758/s13428-019-01236-y. 
-Arslan, R. C.; Tata, C. chain simple forms / surveys into longer runs using the power of R to 
-generate pretty feedback and complex designs https://formr.org (Version v0.17.16). Zenodo. 2018. 
-Disponível em: https://zenodo.org/record/1345615#.X2fnDmhKjIU. Acesso em: 20 set. 2020. 
- 
-– 13 – 
-Baldwin, M. Scientific autonomy, public accountability, and the rise of “peer review” in the Cold 
-War United States. Isis, v. 109, n. 3, p. 538–558, 2018. Doi: https://doi.org/10.1086/700070.  
-Bernal, I.; Román-Molina, J. Informe de la encuesta sobre evaluación por pares y el módulo 
-“Open 
-Peer 
-Review” 
-de 
-DIGITAL.CSIC. 
-Disponível 
-em: 
-https://digital.csic.es/bitstream/10261/167425/3/encuesta_DC_peer_review_oprm_2012.pdf. 
-Acesso em: 20 set. 2020. 
-Bruce, R. et al. Impact of interventions to improve the quality of peer review of biomedical journals: 
-a systematic review and meta-analysis. BMC Medicine, v. 14, n. 1, p. 85, 2016. Doi: 
-https://doi.org/10.1186/s12916-016-0631-5.  
-Bürkner, P. brms: An R package for bayesian multilevel models using Stan. Journal of Statistical 
-Software, v. 80, n. 1, p. 1–28, 2017. Doi: https://doi.org/10.18637/jss.v080.i01.  
-Bürkner, P. Advanced bayesian multilevel modeling with the R Package brms. The R Journal, v. 
-10, n. 1, p. 395–411, 2018. 
-Csiszar, A. Peer review: Troubled from the start. Nature News, v. 532, n. 7599, p. 306, 2016. Doi: 
-https://doi.org/10.1038/532306a.  
-Fontenelle, L. F. et al. Postgraduate education among family and community physicians in Brazil: 
-the Trajetórias MFC project. Family Medicine and Community Health, v. 8, n. 3, p. e000321, 2020. 
-Doi: https://doi.org/10.1136/fmch-2020-000321.  
-Fontenelle, L. F. Analytic code for “Attitudes to open peer review among RBMFC stakeholders”. 
-[S.l.]: Open Science Framework, 2020a. 
-Fontenelle, L. F. Data analysis for “Attitudes to open peer review among RBMFC stakeholders”. 
-[S.l.]: Open Science Framework, 2020b. Disponível em: https://osf.io/5ntep/. Acesso em: 28 ago. 
-2020. 
-Fontenelle, L. F.; Sarti, T. D. Questionnaire for “Attitudes to open peer review among RBMFC 
-stakeholders”. [S.l.]: Open Science Framework, 2020a. Disponível em: <https://osf.io/78gw2/>. 
-Acesso em: 26 ago. 2020. 
-Fontenelle, L. F.; Sarti, T. D. Attitudes to open peer review among RBMFC stakeholders. [S.l.]: 
-Open Science Framework, 2020b. Disponível em: <https://osf.io/mvc98/>. Acesso em: 10 ago. 
-2020. 
-Fontenelle, L. F.; Sarti, T. D. Data for “Attitudes to open peer review among RBMFC stakeholders”. 
-[S.l.]: Open Science Framework, 2020c. Disponível em: <https://osf.io/gh73a/>. Acesso em: 28 
-ago. 2020. 
-Jefferson, T. et al. Editorial peer review for improving the quality of reports of biomedical studies. 
-The Cochrane Database of Systematic Reviews, n. 2, p. MR000016, 2007. Doi: 
-https://doi.org/10.1002/14651858.MR000016.pub3.  
-Jubb, M. Peer review: The current landscape and future trends. Learned Publishing, v. 29, n. 1, 
-p. 13–21, 2016. Doi: https://doi.org/10.1002/leap.1008.  
-Mulligan, A.; Hall, L.; Raphael, E. Peer review in a changing world: An international study 
-measuring the attitudes of researchers. Journal of the American Society for Information Science 
-and Technology, v. 64, n. 1, p. 132–161, 2013. Doi: https://doi.org/10.1002/asi.22798.  
- 
-– 14 – 
-Pontille, D.; Torny, D. The blind shall see! The question of anonymity in journal peer review. Ada: 
-A 
-Journal 
-of 
-Gender, 
-New 
-Media, 
-and 
-Technology, 
-v. 
-4, 
-2014. 
-Doi: 
-https://doi.org/10.7264/N3542KVW.  
-Ross-Hellauer, T. What is open peer review? A systematic review. F1000Research, v. 6, p. 588, 
-2017. Doi: https://doi.org/10.12688/f1000research.11369.2.  
-Ross-Hellauer, T.; Deppe, A.; Schmidt, B. Survey on open peer review: Attitudes and experience 
-amongst editors, authors and reviewers. Plos One, v. 12, n. 12, p. e0189311, 2017. Doi: 
-https://doi.org/10.1371/journal.pone.0189311.  
-Ross-Hellauer, T.; Görögh, E. Guidelines for open peer review implementation. Research Integrity 
-and Peer Review, v. 4, n. 1, p. 4, 2019. Doi: https://doi.org/10.1186/s41073-019-0063-9.  
-Ross-Hellauer, T.; Schmidt, B.; Deppe, A. OpenAIRE Open Peer Review Survey 2016 [Data set]. 
-Zenodo. Disponível em: https://zenodo.org/record/439531#.XJAUIChKiM8. Acesso em: 20 set. 
-2020. 
-Schroter, S.; Loder, E.; Godlee, F. Research on peer review and biomedical publication. British 
-Medical Journal, v. 368, p. m661, 2020. Doi: https://doi.org/10.1136/bmj.m661.  
-Smith, R. Peer review: a flawed process at the heart of science and journals. Journal of the Royal 
-Society of Medicine, v. 99, n. 4, p. 178–182, 2006. Doi: https://doi.org/10.1258/jrsm.99.4.178.  
-Smith, R. Classical peer review: an empty gun. Breast Cancer Research, v. 12, n. 4, p. S13, 2010. 
-Doi: https://doi.org/10.1186/bcr2742.  
-Tennant, J. P. et al. A multi-disciplinary perspective on emergent and future innovations in peer 
-review. F1000Research, v. 6, p. 1151, 2017. Doi: https://doi.org/10.12688/f1000research.12037.3.  
-Wolfram, D. et al. Open peer review: promoting transparency in open science. Scientometrics, 
-2020. Doi: https://doi.org/10.1007/s11192-020-03488-4.  
-Zuckerman, H.; Merton, R. K. Patterns of evaluation in science: Institutionalization, structure and 
-functions of 
-the referee 
-system. 
-Minerva, 
-v. 9, 
-n. 
-1, 
-p. 
-66–100, 1971. Doi: 
-https://doi.org/10.1007/BF01553188.  
- 
- 
-– 15 – 
-Tables 
-Table 1 – Characteristics of the RBMFC stakeholders participating in the survey. 
-Brazil, 2020 
-Characteristic 
-SBMFC  
-members 
-Readers 
-Authors 
-Reviewers 
-Total 
-Age 
- 
- 
- 
- 
- 
- 
-Under 24 
-1 (1%) 
-4 (5%) 
-- 
-- 
-5 (3%) 
- 
-25-34 
-24 (28%) 
-25 (30%) 
-6 (14%) 
-7 (14%) 
-43 (28%) 
- 
-35-44 
-36 (42%) 
-31 (38%) 
-20 (48%) 
-21 (42%) 
-58 (38%) 
- 
-45-54 
-12 (14%) 
-8 (10%) 
-8 (19%) 
-10 (20%) 
-21 (14%) 
- 
-55-64 
-11 (13%) 
-11 (13%) 
-8 (19%) 
-11 (22%) 
-20 (13%) 
- 
-Over 65 
-2 (2%) 
-3 (4%) 
-- 
-1 (2%) 
-4 (3%) 
-Gender 
- 
- 
- 
- 
- 
- 
-Female 
-36 (42%) 
-32 (39%) 
-19 (45%) 
-23 (46%) 
-68 (45%) 
- 
-Male 
-50 (58%) 
-50 (61%) 
-23 (55%) 
-27 (54%) 
-83 (55%) 
- 
-Non-binary 
-- 
-- 
-- 
-- 
-- 
-Geographic region 
- 
- 
- 
- 
- 
- 
-North 
-2 (2%) 
-4 (5%) 
-2 (5%) 
-1 (2%) 
-8 (5%) 
- 
-Northeast 
-8 (9%) 
-10 (12%) 
-3 (7%) 
-6 (12%) 
-17 (11%) 
- 
-Southeast 
-40 (47%) 
-36 (44%) 
-17 (40%) 
-23 (46%) 
-67 (44%) 
- 
-South 
-25 (29%) 
-25 (30%) 
-19 (45%) 
-15 (30%) 
-42 (28%) 
- 
-Central-West 
-9 (10%) 
-5 (6%) 
-- 
-2 (4%) 
-12 (8%) 
- 
-Outside Brazil 
-2 (2%) 
-2 (2%) 
-1 (2%) 
-3 (6%) 
-5 (3%) 
-Schooling 
- 
- 
- 
- 
- 
- 
-High school 
-- 
-3 (4%) 
-- 
-- 
-3 (2%) 
- 
-Undergraduate or medical school 
-40 (47%) 
-33 (40%) 
-5 (12%) 
-5 (10%) 
-60 (40%) 
- 
-Master's 
-33 (38%) 
-24 (29%) 
-17 (40%) 
-20 (40%) 
-48 (32%) 
- 
-PhD 
-13 (15%) 
-22 (27%) 
-20 (48%) 
-25 (50%) 
-40 (26%) 
-Involvement with RBMFC 
- 
- 
- 
- 
- 
- 
-SBMFC members 
-86 (100%) 
-47 (57%) 
-22 (52%) 
-26 (52%) 
-86 (57%) 
- 
-Readers 
-47 (55%) 
-82 (100%) 
-26 (62%) 
-29 (58%) 
-82 (54%) 
- 
-Authors 
-22 (26%) 
-26 (32%) 
-42 (100%) 
-21 (42%) 
-42 (28%) 
- 
-Reviewers 
-26 (30%) 
-29 (35%) 
-21 (50%) 
-50 (100%) 
-50 (33%) 
-Overall satisfaction with peer review in RBMFC 
- 
- 
- 
- 
- 
- 
-Very dissatisfied 
-5 (7%) 
-4 (7%) 
-4 (10%) 
-3 (6%) 
-11 (9%) 
- 
-Dissatisfied 
-3 (4%) 
-3 (5%) 
-- 
-- 
-3 (2%) 
- 
-Neither satisfied nor dissatisfied 
-16 (23%) 
-15 (25%) 
-8 (21%) 
-7 (15%) 
-28 (23%) 
- 
-Satisfied 
-35 (50%) 
-29 (48%) 
-19 (49%) 
-24 (51%) 
-59 (49%) 
- 
-Very satisfied 
-11 (16%) 
-10 (16%) 
-8 (21%) 
-13 (28%) 
-19 (16%) 
- 
-– 16 – 
-Characteristic 
-SBMFC  
-members 
-Readers 
-Authors 
-Reviewers 
-Total 
-Experience with open peer review 
- 
- 
- 
- 
- 
- 
-Neither 
-43 (50%) 
-32 (39%) 
-8 (19%) 
-6 (12%) 
-60 (40%) 
- 
-Author 
-13 (15%) 
-12 (15%) 
-5 (12%) 
-- 
-22 (15%) 
- 
-Reviewer 
-3 (3%) 
-4 (5%) 
-2 (5%) 
-8 (16%) 
-10 (7%) 
- 
-Both 
-27 (31%) 
-34 (41%) 
-27 (64%) 
-36 (72%) 
-59 (39%) 
-Experience with open identities 
- 
- 
- 
- 
- 
- 
-Neither 
-67 (88%) 
-62 (85%) 
-31 (82%) 
-34 (76%) 
-111 (83%) 
- 
-Author 
-6 (8%) 
-5 (7%) 
-5 (13%) 
-3 (7%) 
-9 (7%) 
- 
-Reviewer 
-- 
-1 (1%) 
-- 
-4 (9%) 
-5 (4%) 
- 
-Both 
-3 (4%) 
-5 (7%) 
-2 (5%) 
-4 (9%) 
-9 (7%) 
-Experience with open reports 
- 
- 
- 
- 
- 
- 
-Neither 
-66 (87%) 
-61 (84%) 
-29 (76%) 
-36 (80%) 
-108 (81%) 
- 
-Author 
-8 (11%) 
-9 (12%) 
-8 (21%) 
-1 (2%) 
-14 (10%) 
- 
-Reviewer 
-- 
-- 
-- 
-5 (11%) 
-5 (4%) 
- 
-Both 
-2 (3%) 
-3 (4%) 
-1 (3%) 
-3 (7%) 
-7 (5%) 
-Experience with open participation 
- 
- 
- 
- 
- 
- 
-Neither 
-69 (91%) 
-67 (92%) 
-35 (92%) 
-41 (91%) 
-121 (90%) 
- 
-Author 
-5 (7%) 
-4 (5%) 
-2 (5%) 
-- 
-6 (4%) 
- 
-Reviewer 
-1 (1%) 
-- 
-- 
-2 (4%) 
-3 (2%) 
- 
-Both 
-1 (1%) 
-2 (3%) 
-1 (3%) 
-2 (4%) 
-4 (3%) 
-RBMFC, Revista Brasileira de Medicina de Família e Comunidade. SBMFC, Sociedade Brasileira de Medicina de Família e 
-Comunidade. 
- 
- 
-– 17 – 
-Table 2 – Agreement with statements about aspects of open science among RBMFC 
-stakeholders. Brazil, 2020 
-Statement 
-SBMFC members 
-Readers 
-Authors 
-Reviewers 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-The overall current system of 
-scholarly communications 
-works well 
-43 52% 51% (39–63) 37 48% 45% (28–57) 23 56% 54% (40–73) 30 60% 54% (40–71) 
-Making research publications 
-open access should be 
-common scholarly practice 
-74 86% 85% (73–92) 75 91% 92% (84–97) 36 86% 79% (63–90) 42 84% 84% (71–93) 
-Making research data open 
-access should be common 
-scholarly practice 
-70 81% 82% (71–89) 71 87% 86% (77–93) 35 85% 75% (58–86) 40 82% 79% (67–91) 
-Open peer review should be 
-common scholarly practice 
-52 64% 62% (50–74) 51 66% 63% (51–76) 21 55% 50% (25–63) 26 55% 55% (39–69) 
-RBMFC, Revista Brasileira de Medicina de Família e Comunidade. SBMFC, Sociedade Brasileira de Medicina de Família e 
-Comunidade.  UI, uncertainty interval. 
- 
- 
-– 18 – 
-Table 3 – RBMFC stakeholders believing open peer review traits would improve peer 
-review in the journal. Brazil, 2020 
-Open peer review trait 
-SBMFC members 
-Readers 
-Authors 
-Reviewers 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-Open identity 
-14 18% 23% (13–35) 10 13% 
-10% (5–19) 
-3 
-8% 
-7% (2–18) 
-4 
-9% 
-9% (3–20) 
-Open reports 
-36 50% 58% (44–73) 30 42% 46% (32–61) 
-8 24% 29% (11–50) 15 35% 40% (23–58) 
-Open participation 
-45 59% 61% (46–75) 36 49% 44% (29–57) 16 43% 30% (12–52) 21 48% 46% (29–63) 
-Open Interaction 
-56 69% 70% (57–82) 52 68% 70% (57–83) 22 56% 45% (21–66) 28 61% 62% (45–78) 
-Open pre-review manuscripts 35 46% 43% (30–58) 32 44% 39% (26–54) 10 27% 28% (12–45) 14 32% 30% (14–46) 
-Open final-version 
-commenting 
-53 67% 64% (53–76) 47 63% 61% (47–72) 25 68% 58% (42–70) 23 51% 58% (43–69) 
-Open platforms 
-31 48% 57% (42–71) 29 45% 45% (31–61) 
-7 26% 
-17% (5–42) 10 30% 34% (16–53) 
-The model-based estimates refer to each group if their participants did not also participate in other groups.  RBMFC, Revista Brasileira 
-de Medicina de Família e Comunidade. SBMFC, Sociedade Brasileira de Medicina de Família e Comunidade.  UI, uncertainty interval. 
- 
- 
-– 19 – 
-Table 4 – Agreement with statements about open peer review among RBMFC 
-stakeholders. Brazil, 2020 
-Statement 
-SBMFC members 
-Readers 
-Authors 
-Reviewers 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-Making reviewer identities 
-open will make reviewers 
-less likely to make strong 
-criticisms 
-38 53% 52% (41–63) 37 52% 52% (41–65) 21 57% 52% (38–67) 22 52% 50% (34–61) 
-Making reviewer identities 
-open will increase the quality 
-of reviews 
-30 42% 45% (32–60) 24 34% 34% (20–48) 10 28% 
-23% (8–42) 14 33% 40% (25–61) 
-Reviewers should be allowed 
-to choose whether or not to 
-make their identities open 
-41 59% 56% (40–71) 40 58% 65% (50–80) 21 58% 53% (30–70) 31 72% 71% (54–87) 
-Authors should be allowed to 
-choose whether or not to 
-make their identities open 
-31 44% 39% (25–54) 33 48% 49% (34–66) 17 47% 46% (27–63) 26 59% 60% (44–80) 
-Making reviewer identities 
-open is fairer to authors 
-22 31% 35% (22–51) 18 26% 24% (13–39) 
-6 17% 
-11% (3–31) 
-6 15% 
-20% (9–36) 
-Potential reviewers are less 
-likely to agree to review for 
-journals that make reviewer 
-identities open 
-28 43% 43% (28–57) 29 48% 47% (30–64) 21 62% 60% (42–84) 14 38% 47% (29–64) 
-Potential authors are less 
-likely to submit to journals 
-that make reviewer identities 
-open 
-11 16% 
-18% (9–31) 13 20% 20% (11–34) 15 42% 59% (31–82) 
-9 22% 30% (15–49) 
-Potential authors are less 
-likely to submit to journals 
-that make author identities 
-open 
-14 21% 29% (18–41) 18 29% 31% (19–44) 12 34% 36% (24–54) 12 31% 36% (24–52) 
-Published review reports 
-provide useful information for 
-the reader 
-44 63% 66% (53–79) 40 59% 62% (47–75) 16 46% 49% (22–64) 20 50% 56% (39–70) 
-Publishing review reports will 
-make reviewers less likely to 
-make strong criticisms 
-25 36% 38% (26–49) 27 40% 39% (27–52) 14 40% 41% (27–53) 18 44% 42% (31–55) 
-Publishing review reports will 
-increase the quality of 
-reviews 
-43 61% 62% (48–76) 34 49% 50% (33–64) 15 43% 46% (23–60) 23 53% 53% (39–69) 
-Potential reviewers are less 
-likely to agree to review for 
-journals that publish review 
-reports 
-25 38% 42% (30–53) 26 42% 42% (30–55) 17 50% 44% (32–59) 14 36% 43% (29–56) 
-Potential authors are less 
-likely to submit to journals 
-that publish review reports 
-17 25% 31% (20–43) 21 33% 33% (21–47) 15 47% 45% (29–75) 12 32% 36% (21–52) 
- 
-– 20 – 
-Statement 
-SBMFC members 
-Readers 
-Authors 
-Reviewers 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-n 
-% 
-Estimate 
-(95% UI) 
-Everybody with sufficient 
-knowledge should be able to 
-participate in the review 
-process, regardless of their 
-formal qualifications or area 
-of work 
-29 41% 38% (26–53) 30 43% 44% (29–61) 
-9 25% 
-22% (8–43) 14 33% 37% (23–54) 
-Close circles of reviewers 
-and editors hold back 
-innovative research 
-41 57% 53% (40–67) 44 62% 57% (43–73) 16 44% 46% (23–58) 20 44% 47% (29–59) 
-Reviewers are more likely to 
-review if they are invited 
-53 80% 77% (64–87) 52 76% 77% (63–87) 31 84% 79% (64–91) 37 84% 83% (71–94) 
-Increased interaction 
-between authors & reviewers 
-will result in better 
-publications 
-54 74% 69% (56–79) 54 75% 74% (63–86) 28 78% 67% (42–80) 33 77% 73% (60–86) 
-Manuscripts should be made 
-openly accessible before 
-peer review begins 
-30 43% 45% (30–61) 24 35% 29% (17–44) 
-8 24% 
-20% (7–40) 13 33% 29% (14–47) 
-Blog articles, online journal 
-clubs and social media 
-commentary on final-version 
-publications are part of peer 
-review 
-26 39% 34% (21–51) 24 35% 27% (16–42) 11 30% 
-24% (9–41) 10 24% 26% (12–41) 
-The model-based estimates refer to each group if their participants did not also participate in other groups. RBMFC, Revista Brasileira 
-de Medicina de Família e Comunidade. SBMFC, Sociedade Brasileira de Medicina de Família e Comunidade.  UI, uncertainty interval. 
- 

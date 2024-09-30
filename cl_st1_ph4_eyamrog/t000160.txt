@@ -1,721 +1,331 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1016/j.jped.2021.05.004
-The Conception, Validation, and Reliability of the Questionnaire
-for Screen Time of Adolescents (QueST)
-Margarethe Knebel, Bruno Costa, Priscila dos Santos, Ana Caroline de Sousa, Kelly Silva
-https://doi.org/10.1590/SciELOPreprints.1184
-Submitted on: 2020-09-05
-Posted on: 2020-09-10 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
-The Conception, Validation, and Reliability of the Questionnaire for Screen Time of 
-1 
-Adolescents (QueST) 
-2 
-Margarethe Thaisi Garro Knebel, M.Sc.a* (ORCID: 0000-0002-9905-9250) 
-3 
-Bruno Gonçalves Galdino da Costa, M.Sc.a (ORCID: 0000-0002-5132-1512)  
-4 
-Priscila Cristina dos Santos, M.Sc.a (ORCID: 0000-0002-0166-1201)  
-5 
-Ana Caroline Ferreira Campos de Sousa, B.Sc.a  (ORCID: 0000-0003-1327-5735)  
-6 
-Kelly Samara Silva, Ph.D.a (ORCID: 0000-0002-7356-1680)  
-7 
-Affiliation: aResearch Centre in Physical Activity and Health, School of Sports, Federal 
-8 
-University of Santa Catarina, Florianopolis, Santa Catarina, Brazil. 
-9 
-*Corresponding author: Margarethe Thaisi Garro Knebel 
-10 
-Research Centre in Physical Activity and Health. Campus Reitor João David Ferreira Lima, s/n 
-11 
-- Trindade, Florianópolis – Santa Catarina, Brazil. Postal Code: 88040-900 
-12 
-Contact: Phone number: +55 31 993734936  e-mail: margk429@hotmail.com  
-13 
- 
-14 
-  
-15 
- 
-16 
- 
-17 
- 
-18 
- 
-19 
- 
-20 
- 
-The Conception, Validation, and Reliability of the Questionnaire for Screen Time of 
-21 
-Adolescents (QueST) 
-22 
- 
-23 
-Abstract 
-24 
 Purpose: This study analyzed the content validity and reliability of the Questionnaire for 
-25 
 Screen Time of Adolescents (QueST). Methods: QueST measures screen time across five 
-26 
 constructs: studying, working/internship-related activities, watching videos, playing video 
-27 
 games, and using social media/chat applications. The content validity, including a pretest, was 
-28 
 carried out by experts and adolescents. For reliability analysis, QueST was applied and 
-29 
 reapplied after one week in a sample of 104 adolescents (16.3 ± 1.02 years; 66.3% girls). 
-30 
 Results: The Content Validity Index for Scales indicated 94% and 98% of overall clarity and 
-31 
 representativeness, respectively. The QueST was considered comprehensible and clear by 
-32 
 adolescents. The intraclass correlation coefficients ranged from 0.41 (95% CI 0.24, 0.56) for 
-33 
 videos to 0.76 (95% CI 0.66, 0.83) for social media/chat applications on a weekday, and from 
-34 
 0.24 (95% CI 0.04; 0.41) for videos to 0.67 (95% CI 0.54; 0.77) for social media/chat 
-35 
 applications on weekends. Conclusions: The QueST has demonstrated satisfactory content 
-36 
 validity; however, measuring the time watching videos during free-living is a challenge for 
-37 
 researchers. In general, the QueST is recommended to measure different screen time constructs. 
-38 
- 
-39 
-Keywords: Adolescent Behavior; Self Report; Sedentary Behavior; Validation Study; 
-40 
-Reproducibility of Results 
-41 
- 
-42 
- 
-43 
- 
-Introduction  
-44 
+
 Screen time behaviors is a term to describe behaviors that imply interaction with 
-45 
 electronic devices (e.g., watching television; using smartphones) and may be performed 
-46 
 recreationally, professionally, and in educational settings (Tremblay et al., 2017). Screen time, 
-47 
 frequently in the form of television viewing, computer using, or video game playing, has been 
-48 
 related to unhealthy outcomes among children and adolescents (Biddle et al., 2017; Biswas et 
-49 
 al., 2015; Carson et al., 2016; de Rezende et al., 2014; Tremblay et al., 2011). Behaviors like 
-50 
 watching movies and videos were usually limited to television devices, and playing videogames 
-51 
 required specific consoles until recently; however, with the advancement of technology, these 
-52 
 activities are viewable on several gadgets, including computers, tablets, and smartphones. 
-53 
 These innovations caused changes in screen time behaviors such as the decrease in television 
-54 
 use and increased computer use among adolescents (Bucksch et al., 2016; Silva et al., 2014). 
-55 
 As the diversity of activities done on electronic screens is continually evolving, the impact of 
-56 
 these activities on health also changes. For example, the World Health Organization 
-57 
 incorporated video game addiction into the International Classification of Diseases-11, 
-58 
 describing that addiction to electronic games negatively affects the individuals’ health (World 
-59 
 Health Organization, 2018). Another example is the excessive social media usage, which is 
-60 
 relatively novel, and has been associated with depressive symptoms (da Costa et al., 2020), 
-61 
 socialization problems (Arundell et al., 2019; Devine & Lloyd, 2012; Ihm, 2018), poor body 
-62 
 image (de Vries et al., 2016), and poor academic performance (Kuss & Griffiths, 2011). 
-63 
+
 The diversity of activities that can be performed on each electronic device (e.g., it is 
-64 
 possible to play, watch videos, and access social media on computers and smartphones) brings 
-65 
 new challenges to the measurement of screen time. Two reviews of questionnaires for 
-66 
 measuring sedentary behavior demonstrated that most instruments include a single question, 
-67 
 often measuring the time watching television, playing video games, and/or using computers 
-68 
- 
 (Hidding et al., 2017; Prince et al., 2017). However, as the relationship of each of these activities 
-69 
 with health outcomes may differ (Biddle et al., 2017; Carson et al., 2016; da Costa et al., 2020; 
-70 
 Ihm, 2018; Weaver et al., 2010), it is still imperative to identify the different activities in order 
-71 
 to broaden the understanding of the etiology of health problems in pediatric populations. Thus, 
-72 
 this study aims to propose a questionnaire to measure different constructs of screen time among 
-73 
 adolescents and evaluate its content validity and reliability. 
-74 
-Methods 
- 
-75 
-Study Design 
-76 
+
 The Questionnaire for Screen Time of Adolescents (QueST) was designed for 
-77 
 assessing habitual volumes of screen time in different constructs for the adolescent population. 
-78 
 After the initial development of the QueST, it went through three steps of psychometric 
-79 
 evaluation, with each step being conducted with a different sample, as follows: i) for the content 
-80 
 validity, 16 experts in the research field of screen time among adolescents were included; ii) 
-81 
 for pretesting the questionnaire, 14 adolescents from a Federal Institute of Technological 
-82 
 Education of Santa Catarina state were recruited; iii) lastly, for reliability, a sample of 104 high 
-83 
 school students from the Aplicação school, Santa Catarina state, was analyzed. These three 
-84 
 steps were conducted in 2019. All adolescents and their parents/legal guardians approved the 
-85 
 study protocols and provided written consent forms. This study was approved by the ethics 
-86 
 committee for research with human participants of the Federal University of Santa Catarina, 
-87 
 Brazil (protocol number: 3.168.745).   
-88 
-The Questionnaire for Screen Time of Adolescents 
-89 
+
 The QueST aims to measure screen time during weekdays and weekends across 
-90 
 different constructs. The initial construction of the instrument followed standardized 
-91 
 recommendations (Hidding et al., 2017) and begun after a non-systematic consultation of recent 
-92 
- 
 reviews of questionnaires for measuring sedentary behavior (Hidding et al., 2017; Prince et al., 
-93 
 2017). The development procedures of the QueST can be described as follows: i) identification 
-94 
 of the constructs; ii) determination of the administration format of the questionnaire; iii) choice 
-95 
 of the number, format, order, and text of the items and response options; iv) review of the 
-96 
 questionnaire and optimization of its organization and readability (de Vet et al., 2011; Tsang et 
-97 
 al., 2017). 
-98 
+
 Five screen time constructs were defined based on questions used in research related 
-99 
 to sedentary behavior (Cerin et al., 2014; Guimarães et al., 2013; Hidding et al., 2017; Prince 
-100 
 et al., 2017; Treuth et al., 2003), as follows: (i) activities related to study or homework; (ii) 
-101 
 activities related to work (including internships and non-profit activities); (iii) watching videos, 
-102 
 such as series, movies, news, and sports; (iv) playing video games; and (v) use of social media 
-103 
 and chat applications. The choice to measure the use of chat applications and social media 
-104 
 within a single construct was made as platforms and applications generally offer both services 
-105 
 (e.g., it is possible to send direct messages to other users on Facebook, Instagram, and Twitter). 
-106 
 The work-related construct was included as some internships and jobs require screen time 
-107 
 activities. For each construct, the time in hours and minutes can be reported during weekdays 
-108 
 and weekend days. 
-109 
+
 The QueST was initially written in Brazilian Portuguese and designed to be self-
-110 
 administered by adolescents using a smartphone, tablet, or computer with access to the internet. 
-111 
 The instrument was hosted at SurveyMonkey® platform. Each of the described constructs 
-112 
 represented an item in the questionnaire. All items were described with the following 
-113 
 instructions: “Insert zero if you do not engage in these kinds of activity” and followed by an 
-114 
 answering example (e.g., “Example: I watch series for 1 and a half hours per day [insert 1 in 
-115 
 the field of hours and 30 in the field of minutes]”). QueST items are shown in Table 1. 
-116 
- 
-<Table 1 here> 
-117 
-Content Validity 
-118 
-Panel of Experts 
-119 
+
 For the content validation, a team of experts was selected among those who had 
-120 
 ongoing research projects, monographic productions, and articles published in scientific 
-121 
 journals about screen time behaviors or studies with psychometrics and validation of 
-122 
 questionnaires. All experts had a doctoral title and were either professors or researchers in 
-123 
 universities or research institutes. The experts were contacted by e-mail, where they received 
-124 
 an invitation letter introducing the QueST and explaining the rationale for its development, it 
-125 
 included a background text including key concepts and an explanation for its application and 
-126 
 use in research. 
-127 
+
 The experts evaluated the QueST in two steps: (i) an individual evaluation of each of 
-128 
 the items, and (ii) a global evaluation of the QueST (Polit & Beck, 2006). The experts rated the 
-129 
 content validity of the questionnaire independently, evaluating each item regarding clarity and 
-130 
 representativeness (Rubio et al., 2003). The clarity evaluation aimed to rate the writing of the 
-131 
 questions considering the comprehension of the construct being measured (Grant & Davis, 
-132 
 1997). Whereas, the representativeness evaluation aimed to verify if the items reflected screen 
-133 
 time, its constructs and concepts (Grant & Davis, 1997). The experts analyzed each item and 
-134 
 the response scale, then they answered about clarity through a 4-point Likert scale (4 = highly 
-135 
 clear; 3 = quite clear; 2 = somewhat clear; 1 = not clear), as well as, they answered about the 
-136 
 representativeness of the constructs being measured using a similar scale (4 = the item is 
-137 
 representative; 3 = the item needs minor revisions to be representative; 2 = the item needs major 
-138 
 revisions to be representative; 1 = the item is not representative) (Rubio et al., 2003). When 
-139 
 considering the ratings on clarity and representativeness, the Content Validity Index for each 
-140 
- 
 question was computed (Polit & Beck, 2006). Besides, general comments on the questions 
-141 
 could be added by the experts.  
-142 
+
 For the global evaluation of the QueST, experts answered about the clarity and 
-143 
 expressiveness of the title (yes/no); all the items representing adolescents’ screen time 
-144 
 (yes/partially/no); suitability of the metric (yes/partially/no); suitability of the unit of measure 
-145 
 and response scale (yes/partially/no); adequacy of the sequence of items (yes/partially/no); the 
-146 
 use of the bold tags on the questions to emphasize primary information on the online 
-147 
 questionnaire (yes/partially/no). The experts were able to provide comments on each item and 
-148 
 suggest the addition and deletion of items.  
-149 
-Instrument review by the adolescents 
-150 
+
 This step was conducted to test if the target population understands the questions and 
-151 
 response scales proposed (Borsa et al., 2012), as well as, ambiguity and misinterpretation of the 
-152 
 items, and possible difficulties (Presser et al., 2004). Based on that, a convenience sample of 
-153 
 14 high school students of a Federal Institute of Technological Education from Santa Catarina 
-154 
 state participated in the reviewing of the QueST. This step involved an online questionnaire, 
-155 
 which comprised the QueST and additional questions about (i) the clarity of each item (highly 
-156 
 clear/quite clear/somewhat clear/not clear); (ii) unfamiliar words in each of the items (no/yes, 
-157 
 which one?); (iii) if students did understand how to answer the QueST (I did/I did not 
-158 
 understand); (iv) if students had any difficulty in answering the QueST (no/yes, which one?); 
-159 
 and (v) if other activities involving the usage of electronic screens were lacking on the 
-160 
 questionnaire (no/yes, which one?). This procedure was performed in a classroom, during 
-161 
 school hours, and students accessed the electronic link of the questionnaire using their 
-162 
 smartphones. 
-163 
- 
-164 
- 
-Reliability  
-165 
+
 To test the reliability of the QueST, all high school students from the Aplicação school 
-166 
 were recruited, and those who agreed to participate were asked to answer the QueST twice with 
-167 
 a seven days interval between applications (de Souza et al., 2017). This procedure was 
-168 
 performed in a classroom, during school hours, and students accessed the electronic link of the 
-169 
 questionnaire using their smartphones. The measurement conditions were similar for both test 
-170 
 and retest (administrators, environment, instructions). 
-171 
-Analysis 
-172 
-Content Validity Analysis  
-173 
+
 The five items of the QueST were evaluated on clarity and representativeness using 
-174 
 the Content Validity Index for Items (I-CVI) (Polit & Beck, 2006). The I-CVI were calculated 
-175 
 by summing the ratings of either “3” or “4” in each item, divided by the total number of experts. 
-176 
 Also, the Content Validity Index for Scales (S-CVI) was obtained by the arithmetic mean of 
-177 
 the I-CVIs (Polit & Beck, 2006), separately calculated for clarity and representativeness. The 
-178 
 authors MTGK, BGGC, and PCS analyzed the qualitative comments provided by the experts, 
-179 
 and suggestions were accepted/rejected with the consensus of these three authors after revision 
-180 
 and discussions. This step was blinded to secure the identity of the experts and mitigate bias.  
-181 
+
 The information regarding the review of the QueST by the students was descriptively 
-182 
 presented by proportions. Any ratings "somewhat clear" or "not clear" on the wording of any 
-183 
 item, as well as any student who answered that had not understood how to answer the QueST 
-184 
 was adopted as the criterion of reformulating the item or the entire instrument, entailing a 
-185 
 second evaluation by the students. Furthermore, the authors MTGK, BGGC, and PCS, by 
-186 
 consensus, would replace possible unfamiliar words with simpler ones. Also, possible 
-187 
- 
 suggestions for other activities made with screen media devices would be evaluated to compose 
-188 
 the questionnaire. The difficulties in answering the QueST were described.   
-189 
-Reliability Analysis  
-190 
+
 Only students who answered both measures (test and retest) were included in the 
-191 
 reliability analysis. Students with missing data were excluded. Also, implausible answers were 
-192 
 excluded by adopting >14 daily hours as a cutoff value. For stability, differences between the 
-193 
 test and retest were analyzed using Students t-tests. As some variables were skewed, additional 
-194 
 non-parametric tests (Sign-Rank tests) were conducted to confirm the findings. The stability of 
-195 
 the constructs was discerned through intraclass correlation coefficients (ICC). Also, the Bland-
-196 
 Altman dispersion analyses were used for examining the differences and limits of agreement 
-197 
 (in minutes) between test and retest measurements. 
-198 
-Results 
-199 
-Content Validity  
-200 
+
 Of the 24 invited experts, 16 (66.7%) submitted their answers. Eight experts did not 
-201 
 answer the questionnaire, but they did not comment on the reason. Table 2 shows the I-CVI and 
-202 
 S-CVI values for clarity and representativeness of the QueST. Regarding clarity, the smallest 
-203 
 I-CVI was observed in Item 1 (studying): 0.88 (or 88% of agreement among the experts). Items 
-204 
 2, 4, and 5 obtained I-CVI = 0.94; and Item 3 (watching videos) demonstrated 100% agreement 
-205 
 among the experts. The calculated S-CVI indicated 94% of overall clarity of the QueST. 
-206 
 Concerning representativeness, four out of the five items were considered as 100% 
-207 
 representative (playing video games: item 4 I-CVI = 0.88), and the S-CVI indicated 
-208 
 representativeness of 98%.     
-209 
-<Table 2 here> 
-210 
- 
+
 Based on the review of the experts, the title of the questionnaire was modified; some 
-211 
 terms in the items were replaced or added (example: to watch “sports” was added in the third 
-212 
 item); the response scale was simplified, where the experts proposed a shorter scale with breaks 
-213 
 of 10 minutes (0, 10, 20 minutes…), instead of a longer minute-by-minute scale. Experts also 
-214 
 contributed to reordering the items to reduce mental effort. There was no addition or exclusion 
-215 
 of items.      
-216 
+
 Fourteen students (18.2±1.0 years old, 42.9% female) participated in the first review 
-217 
 of the QueST. All students considered the wording of the questions to be highly or quite clear 
-218 
 (Item 1: 71.4% highly clear, and 28.6% quite clear; Item 2: 78.6% highly clear, and 21.4% quite 
-219 
 clear; Item 3: 85.7% highly clear, and 14.3% quite clear; Item 4: 84.6% highly clear, and 15.4% 
-220 
 quite clear; Item 5: 84.6% highly clear, and 15.4% quite clear). There were no "somewhat clear" 
-221 
 or "not clear" ratings. No student reported issues regarding the vocabulary, and 100% of them 
-222 
 understood how to answer the QueST. Eleven students (78.6%) did not express any difficulty 
-223 
 in answering the QueST; however, the other three students commented that they had difficulty 
-224 
 in precisely reporting their habitual screen time. Based on the review of the students, no 
-225 
 modifications to the QueST were necessary. 
-226 
-Reliability  
-227 
+
 From 203 eligible students, 104 students agreed to participate, provided written 
-228 
 informed consent forms, and answered the QueST in both test and retest (16.3±1.02 years old; 
-229 
 66.3% girls). The mean time of social media usage on a weekday was higher at test, whereas 
-230 
 studying on weekend days was higher at retest. However, time watching videos on weekend 
-231 
 days was higher at test compared to retest (Table 3). 
-232 
-< Table 3 here> 
-233 
- 
+
 All ICC values were statistically significant (Table 4). The highest ICC was observed 
-234 
 for the use of social media on weekdays (ICC= 0.76, 95% CI 0.66; 0.83), whereas the lowest 
-235 
 ICC was observed in the construct of watching videos on weekends (ICC= 0.24, 95% CI 0.04; 
-236 
 0.41). 
-237 
-< Table 4 here> 
-238 
+
 The Bland-Altman analyzes for the QueST constructs are presented in Table 5. Mean 
-239 
 differences ranged from -4.6 (Upper limit: 149.6; Lower limit: -158.7) minutes for working on 
-240 
 weekdays to 40.6 (Upper limit: 400.0; Lower limit: -318.9) minutes for watching videos on 
-241 
 weekend days.  
-242 
-< Table 5 here> 
-243 
-Discussion 
-244 
+
 The QueST proved to be adequate to evaluate different screen time constructs with 
-245 
 satisfactory content validity. However, the stability of the items varied considerably across the 
-246 
 constructs and the days analyzed (weekday versus weekend). The content validity was 
-247 
 considered appropriate based on the level of agreement among experts for clarity and 
-248 
 representativeness of the items and the instrument. According to the acceptability criteria of the 
-249 
 items that incorporate the standard error of the proportion of agreement, the lowest I-CVI 
-250 
 admitted is 0.78 in a panel of experts with 6 or more individuals (Lynn, 1986; Polit & Beck, 
-251 
 2006). Also, the instrument as a whole has acceptable content validity when the S-CVI is ≥0,90 
-252 
 (Waltz et al., 2005). In addition, the comments/suggestions given by experts were 
-253 
 complementary to the validation process. This step contributed to some textual modifications 
-254 
 and minor additions in the instrument, which was not robust enough to require another 
-255 
 submission to the panel of experts. Overall, the QueST can be used to assess screen time in 
-256 
 adolescent populations. 
-257 
- 
+
 The review of the instrument according to the target population and experts is strongly 
-258 
 recommended (Hidding et al., 2017; Mokkink et al., 2010). However, this process was not 
-259 
 reported by more than 80% of studies examining the measurement properties of sedentary 
-260 
 behavior instruments (Hidding et al., 2017). Regarding the initial review by adolescents, the 
-261 
 QueST was considered comprehensible and clear. However, three students reported difficulty 
-262 
 in accurately reporting the usual screen time in each of the items. This problem is common in 
-263 
 obtaining accurate memories in questionnaires to measure behaviors with children and 
-264 
 adolescents (Kohl et al., 2000). The screen time may be variable and unstable over time and are 
-265 
 dependent on several factors (Cabanas-Sánchez et al., 2018), which may contribute to poor 
-266 
 estimation of habitual behaviors. To improve this estimation, the response scale was updated, 
-267 
 making it less arduous for adolescents to understand the items and report their behavior. 
-268 
+
 The stability of the items ranged from poor to excellent (Rosner, 2005) and the sample 
-269 
 size of this procedure was considered adequate (Terwee et al., 2007). The item for watching 
-270 
 videos (series, movies, soap operas, news, sports, programs, others), both on weekdays and 
-271 
 weekends, showed the lowest ICCs compared to the other items. This may be explained by the 
-272 
 fact that this behavior is not stable throughout the time between the repetitions of the 
-273 
 measurements as some factors can influence screen behavior even in a short time frame (Hardy 
-274 
 et al., 2007). For example, the launch of a new season in a popular series, or the occurrence of 
-275 
 acclaimed sporting events (e.g., Olympic games, international league finals) can considerably 
-276 
 increase the electronic screen usage within a few days and inflate only one measure, either test 
-277 
 or retest. Thus, the answers in the test and retest may be accurately reported by adolescents, but 
-278 
 it is still verified as poor stability of the measurements because a particular behavior does not 
-279 
 present “typical” or “normal day” patterns (Hardy et al., 2007). Further studies are needed to 
-280 
 understand the dynamics of video watching among adolescents in periods longer and shorter 
-281 
- 
 than 1-week in order to investigate the length of the most appropriate test-retest interval to 
-282 
 obtain population parameters. 
-283 
+
 The item for playing video games presented fair and good reliability on week and 
-284 
 weekend days, respectively, demonstrating considerable accuracy and stability of the responses 
-285 
 to this behavior. The ICCs obtained were similar to those of the Health Behavior in School-
-286 
 aged Children study (2008), which showed ICC= 0.54 (95% CI 0.38; 0.67) on weekdays and 
-287 
 0.69 (95% CI 0.57; 0.78) on weekends for the gaming item (Liu et al., 2010).   
-288 
+
 Similarly, the item about social media/chatting applications demonstrated 
-289 
 good/excellent reliability on both weekdays and weekend days. Stable, but high volumes 
-290 
 characterized this behavior; however, this is expected as they are predominantly realized on 
-291 
 smartphones over long periods of the day (de Vries et al., 2016; Devine & Lloyd, 2012; Ihm, 
-292 
 2018), possibly while multitasking (e.g., watching a movie on the television while chatting on 
-293 
 the smartphone). It was also observed that the amount of time spent on social media and chat 
-294 
 applications in the test measurement was statistically higher than the observed in the retest on 
-295 
 weekdays. It is not possible to establish a single explanation for this difference; however, school 
-296 
 responsibilities and parental controlling are examples of factors that may influence these 
-297 
 activities, and consequently, impact test-retest measures over a short period.  
-298 
+
 The item related to screen time for studying on weekdays showed fair/good stability 
-299 
 and was higher compared to the ICC obtained on the weekends. Possibly, the time spent on 
-300 
 studies over the weekend is more variable or flexible and determined by school demands, such 
-301 
 as the proximity to exams at school compared to the time spent studying on weekdays, when 
-302 
 the adolescents already have established a stable routine of school tasks. 
-303 
+
 Also, low volumes of screen time for working on weekdays and weekends were 
-304 
 reported, and these questions demonstrated fair stability. Previously, a survey conducted in the 
-305 
- 
 state of Santa Catarina, Brazil, assessing lifestyle indicators of high school students (15-19 
-306 
 years old) reported that 50.5% of the adolescents had a job in 2011 (Silva et al., 2013). In 
-307 
 general, screen time items related to study and work constructs are not common in sedentary 
-308 
 behavior research among adolescents, as these constructs are not discretionary, and few studies 
-309 
 include questions accessing this information (Hidding et al., 2017; Prince et al., 2017). 
-310 
+
 The present findings suggested that adolescents’ screen time behaviors were less stable 
-311 
 on weekend days compared to weekdays. This result may be more related to the natural 
-312 
 variability of these behaviors, especially on weekends, than to the reduced reliability of the 
-313 
 items. Adolescents’ screen time behaviors on weekends can be influenced by opportunities to 
-314 
 practice physical activities (Hardy et al., 2007), weather conditions, and events that promote 
-315 
 the use of electronic devices (e.g., the release of series or games; exams at school). Also, on 
-316 
 weekends, more spontaneous and fewer routine behaviors are expected, when adolescents may 
-317 
 have more free time to use electronic devices as they please. 
-318 
+
 A “typical day” was used as the reference time frame in the items of the QueST to 
-319 
 exclude atypical events on the measurements, such as decisive exams at school, because it could 
-320 
 directly influence the item for studying, for example. However, possible atypical occurrences 
-321 
 could not be controlled in this study. Besides, some adolescents’ screen time behaviors, such 
-322 
 as watching videos, may vary highly within and between individuals, which also impairs the 
-323 
 accuracy of respondents. Nevertheless, some bias may be unavoidable when behaviors are self-
-324 
 reported among this population (Kohl et al., 2000). 
-325 
+
 Among the strengths of this study, we highlight the use of a wide range of screen time 
-326 
 constructs which represent a large amount of sedentary time of adolescents; the use of 
-327 
 standardized and recommended methods for the development and validation of questionnaires, 
-328 
 which is not documented for the majority of available sedentary behavior instruments (Hidding 
-329 
- 
 et al., 2017); the content validity focused on assessing the representativeness and clarity of the 
-330 
 items using qualitative and quantitative methods. Besides that, this study sought to include the 
-331 
 complete QueST content validation process, which encompassed two complementary steps: the 
-332 
 review of the questionnaire by the target population and its evaluation by the field experts; 
-333 
 finally, the methodological procedures of this study were adopted according to the Consensus-
-334 
 Based Standards for the Selection of Health Measurement Instruments (COSMIN) (Mokkink 
-335 
 et al., 2010) (see Supplementary Material: Application of the COSMIN checklist on the 
-336 
 QueST). 
-337 
+
 This study had as limitations the small sample size obtained by convenience sampling 
-338 
 in the initial test (n=14); the criterion validity was absent due to the lack of a gold standard 
-339 
 measure used in the free-living conditions that could be adopted as a reference for the 5-screen 
-340 
 time constructs present in QueST. This step remains a challenge for research with this purpose, 
-341 
 considering that these screen time behaviors can be performed on different devices (e.g., 
-342 
 television, computer, tablet, smartphone); and the QueST was developed to cover the activities 
-343 
 that adolescents perform using any electronic screen device in five previously established 
-344 
 constructs, however, not all activities fit into a construct of the questionnaire, such as reading 
-345 
 eBooks for leisure. 
-346 
+
 The 
 final 
 electronic 
@@ -726,1302 +336,22 @@ QueST
 is 
 available 
 at 
-347 
 pt.surveymonkey.com/r/QLQTQHG 
 (Brazilian 
 Portuguese) 
 and 
-348 
 pt.surveymonkey.com/r/Q7QXYL2 (English). 
-349 
-Conclusions 
-350 
+
 The QueST presented satisfactory content validity determined by the panel of 16 
-351 
 experts and adequate evaluation by the adolescents. The wide variability in reliability that was 
-352 
 observed among the five items of the instrument highlights the natural fluctuation of the 
-353 
- 
 adolescent behavior in certain screen time constructs. In general, QueST can be considered an 
-354 
 appropriate tool to measure adolescents' screen time in the five constructs presented. 
-355 
- 
-356 
-Acknowledgments: Authors gratefully acknowledge the Federal Institution of Education, 
-357 
+
+Authors gratefully acknowledge the Federal Institution of Education, 
 Science and Technology of Santa Catarina, and the Federal University of Santa Catarina. We 
-358 
 also thank all the members of the expert group, including Filipe da Costa, Rômulo Fernandes, 
-359 
 Evelyn Ribeiro, Adriano Hino, Grégore Mielke, Marcelo Romanzini, Leandro Rezende, 
-360 
 Adriano Borgatto, Jeffer Sasaki, Paulo Guerra, Cassiano Rech, Leandro Garcia, Diego 
-361 
 Christofaro, Valter Barbosa Filho, Anelise Gaya, and Andreia Pelegrini, for their contribution 
-362 
 to this research instrument. 
-363 
-Authors’ contributions: Margarethe Knebel: conceptualization, methodology, formal 
-364 
-analysis, investigation, writing - original draft. Bruno Costa: conceptualization, methodology, 
-365 
-formal analysis, investigation, writing - original draft. Priscila dos Santos: conceptualization, 
-366 
-investigation, writing - original draft. Ana Caroline de Sousa: conceptualization, 
-367 
-investigation, writing - original draft. Kelly Silva: conceptualization, writing - review & 
-368 
-editing, supervision, project administration. All authors have read and approved the final 
-369 
-version of the manuscript.  
-370 
-Declarations of interest: The authors declare that there is no conflict of interest. 
-371 
-Funding: This work was supported by the National Council for Scientific and Technological 
-372 
-Development, Brazil [Grant: MCTIC/CNPq 2018, Process: 406258/2018-0]. Besides, MTGK, 
-373 
-BGGC, PCS, and ACFCS received scholarships from the Coordination for the Improvement of 
-374 
-Higher Education Personnel (CAPES), Brazil [Finance Code 001]. The funders had no role in 
-375 
-the design, conduction, data collection, analysis, and interpretation of the results, nor the 
-376 
-preparation, writing, review, or approval of the manuscript. 
-377 
- 
-References 
-378 
-Arundell, L., Salmon, J., Veitch, J., & Timperio, A. (2019). The Relationship between 
-379 
-Objectively Measured and Self-Reported Sedentary Behaviours and Social 
-380 
-Connectedness among Adolescents. International Journal of Environmental Research 
-381 
-and Public Health, 16(2), 277. https://doi.org/10.3390/ijerph16020277 
-382 
-Biddle, S. J. H., García Bengoechea, E., & Wiesner, G. (2017). Sedentary behaviour and 
-383 
-adiposity in youth: a systematic review of reviews and analysis of causality. 
-384 
-International Journal of Behavioral Nutrition and Physical Activity, 14(1), 43. 
-385 
-https://doi.org/10.1186/s12966-017-0497-8 
-386 
-Biswas, A., Oh, P. I., Faulkner, G. E., Bajaj, R. R., Silver, M. A., Mitchell, M. S., & Alter, D. 
-387 
-A. (2015). Sedentary Time and Its Association With Risk for Disease Incidence, 
-388 
-Mortality, and Hospitalization in Adults. Annals of Internal Medicine, 162(2), 123. 
-389 
-https://doi.org/10.7326/M14-1651 
-390 
-Borsa, J. C., Damásio, B. F., & Bandeira, D. R. (2012). Cross-cultural adaptation and 
-391 
-validation of psychological instruments: Some considerations. Paidéia (Ribeirão Preto), 
-392 
-22(53). https://doi.org/10.1590/1982-43272253201314 
-393 
-Bucksch, J., Sigmundova, D., Hamrik, Z., Troped, P. J., Melkevik, O., Ahluwalia, N., 
-394 
-Borraccino, A., Tynjälä, J., Kalman, M., & Inchley, J. (2016). International Trends in 
-395 
-Adolescent Screen-Time Behaviors From 2002 to 2010. Journal of Adolescent Health, 
-396 
-58(4), 417–425. https://doi.org/10.1016/j.jadohealth.2015.11.014 
-397 
-Cabanas-Sánchez, V., Martínez-Gómez, D., Esteban-Cornejo, I., Castro-Piñero, J., Conde-
-398 
-Caveda, J., & Veiga, Ó. L. (2018). Reliability and validity of the Youth Leisure-time 
-399 
-Sedentary Behavior Questionnaire (YLSBQ). Journal of Science and Medicine in Sport, 
-400 
-21(1), 69–74. https://doi.org/10.1016/j.jsams.2017.10.031 
-401 
- 
-Carson, V., Hunter, S., Kuzik, N., Gray, C. E., Poitras, V. J., Chaput, J.-P., Saunders, T. J., 
-402 
-Katzmarzyk, P. T., Okely, A. D., Connor Gorber, S., Kho, M. E., Sampson, M., Lee, H., 
-403 
-& Tremblay, M. S. (2016). Systematic review of sedentary behaviour and health 
-404 
-indicators in school-aged children and youth: an update. Applied Physiology, Nutrition, 
-405 
-and Metabolism, 41(6 (Suppl. 3)), S240–S265. https://doi.org/10.1139/apnm-2015-0630 
-406 
-Cerin, E., Sit, C. H., Huang, Y.-J., Barnett, A., Macfarlane, D. J., & Wong, S. S. (2014). 
-407 
-Repeatability of self-report measures of physical activity, sedentary and travel behaviour 
-408 
-in Hong Kong adolescents for the iHealt(H) and IPEN – Adolescent studies. BMC 
-409 
-Pediatrics, 14(1), 142. https://doi.org/10.1186/1471-2431-14-142 
-410 
-da Costa, B. G. G., Chaput, J.-P., Lopes, M. V. V., Malheiros, L. E. A., & Silva, K. S. (2020). 
-411 
-Movement behaviors and their association with depressive symptoms among Brazilian 
-412 
-adolescents: A cross-sectional study. Journal of Sport and Health Science, In Press. 
-413 
-https://doi.org/10.1016/j.jshs.2020.08.003 
-414 
-de Rezende, L. F. M., Lopes, M. R., Rey-Loṕez, J. P., Matsudo, V. K. R., & Luiz, O. D. C. 
-415 
-(2014). Sedentary behavior and health outcomes: An overview of systematic reviews. 
-416 
-PLoS ONE, 9(8), e105620. https://doi.org/10.1371/journal.pone.0105620 
-417 
-de Souza, A. C., Alexandre, N. M. C., & Guirardello, E. de B. (2017). Psychometric 
-418 
-properties in instruments: evaluation of reliability and validity. Epidemiologia e Serviços 
-419 
-de Saúde, 26(3), 649–659. https://doi.org/10.5123/S1679-49742017000300022 
-420 
-de Vet, H. C. W., Terwee, C. B., Mokkink, L. B., & Knol, D. L. (2011). Measurement in 
-421 
-Medicine. Cambridge University Press. https://doi.org/10.1017/CBO9780511996214 
-422 
-de Vries, D. A., Peter, J., de Graaf, H., & Nikken, P. (2016). Adolescents’ Social Network 
-423 
-Site Use, Peer Appearance-Related Feedback, and Body Dissatisfaction: Testing a 
-424 
-Mediation Model. Journal of Youth and Adolescence, 45(1), 211–224. 
-425 
- 
-https://doi.org/10.1007/s10964-015-0266-4 
-426 
-Devine, P., & Lloyd, K. (2012). Internet Use and Psychological Well-being among 10-year-
-427 
-old and 11-year-old Children. Child Care in Practice, 18(1), 5–22. 
-428 
-https://doi.org/10.1080/13575279.2011.621888 
-429 
-Grant, J. S., & Davis, L. L. (1997). Selection and Use of Content Experts for Instrument 
-430 
-Development. Research in Nursing & Health, 20, 269–274. 
-431 
-Guimarães, R. de F., da Silva, M. P., Legnani, E., Mazzardo, O., & de Campos, W. (2013). 
-432 
-Reproducibility of adolescent sedentary activity questionnaire (ASAQ) in Brazilian 
-433 
-adolescents. Brazilian Journal of Kinanthropometry and Human Performance, 15(3). 
-434 
-https://doi.org/10.5007/1980-0037.2013v15n3p276 
-435 
-Hardy, L. L., Booth, M. L., & Okely, A. D. (2007). The reliability of the Adolescent 
-436 
-Sedentary Activity Questionnaire (ASAQ). Preventive Medicine, 45(1), 71–74. 
-437 
-https://doi.org/10.1016/j.ypmed.2007.03.014 
-438 
-Hidding, L. M., Altenburg, T. M., Mokkink, L. B., Terwee, C. B., & Chinapaw, M. J. M. 
-439 
-(2017). Systematic Review of Childhood Sedentary Behavior Questionnaires: What do 
-440 
-We Know and What is Next? Sports Medicine, 47(4), 677–699. 
-441 
-https://doi.org/10.1007/s40279-016-0610-1 
-442 
-Ihm, J. (2018). Social implications of children’s smartphone addiction: The role of support 
-443 
-networks and social engagement. Journal of Behavioral Addictions, 7(2), 473–481. 
-444 
-https://doi.org/10.1556/2006.7.2018.48 
-445 
-Kohl, H. W., Fulton, J. E., & Caspersen, C. J. (2000). Assessment of Physical Activity among 
-446 
-Children and Adolescents: A Review and Synthesis. Preventive Medicine, 31(2), S54–
-447 
-S76. https://doi.org/10.1006/pmed.1999.0542 
-448 
- 
-Kuss, D. J., & Griffiths, M. D. (2011). Online Social Networking and Addiction—A Review 
-449 
-of the Psychological Literature. International Journal of Environmental Research and 
-450 
-Public Health, 8(9), 3528–3552. https://doi.org/10.3390/ijerph8093528 
-451 
-Liu, Y., Wang, M., Tynjälä, J., Lv, Y., Villberg, J., Zhang, Z., & Kannas, L. (2010). Test-
-452 
-retest reliability of selected items of health behaviour in school-aged children (HBSC) 
-453 
-survey questionnaire in Beijing, China. BMC Medical Research Methodology, 10(73). 
-454 
-https://doi.org/10.1186/1471-2288-10-73 
-455 
-Lynn, M. R. (1986). Determination and quantification of content validity. Nursing Research, 
-456 
-35(6), 382–385. 
-457 
-Mokkink, L. B., Terwee, C. B., Patrick, D. L., Alonso, J., Stratford, P. W., Knol, D. L., 
-458 
-Bouter, L. M., & de Vet, H. C. W. (2010). The COSMIN checklist for assessing the 
-459 
-methodological quality of studies on measurement properties of health status 
-460 
-measurement instruments: an international Delphi study. Quality of Life Research, 19(4), 
-461 
-539–549. https://doi.org/10.1007/s11136-010-9606-8 
-462 
-Polit, D. F., & Beck, C. T. (2006). The Content Validity Index : Are You Sure You Know 
-463 
-What ’ s Being Reported ? Critique and Recommendations. Research in Nursing & 
-464 
-Health, 29, 489–497. https://doi.org/10.1002/nur 
-465 
-Presser, S., Couper, M. P., Lessler, J. T., Martin, E., Martin, J., Rothgeb, J. M., & Singer, E. 
-466 
-(2004). Methods for Testing and Evaluating Survey Questions. Public Opinion 
-467 
-Quarterly, 68(1), 109–130. https://doi.org/10.1093/poq/nfh008 
-468 
-Prince, S. A., LeBlanc, A. G., Colley, R. C., & Saunders, T. J. (2017). Measurement of 
-469 
-sedentary behaviour in population health surveys: a review and recommendations. PeerJ, 
-470 
-5, e4130. https://doi.org/10.7717/peerj.4130 
-471 
- 
-Rosner, B. (2005). Fundamentals of Biostatistics (6th ed.). Duxbury Press. 
-472 
-Rubio, D. M., Berg-Weger, M., Tebb, S. S., Lee, E. S., & Rauch, S. (2003). Objectifying 
-473 
-content validity: Conducting a content validity study in social work research. Social 
-474 
-Work Research, 27(2). 
-475 
-Silva, K. S. da, Lopes, A. D. S., Hoefelmann, L. P., Cabral, L. G. de A., De Bem, M. F. L., 
-476 
-Barros, M. V. G. de, & Nahas, M. V. (2013). Health risk behaviors (COMPAC Project) 
-477 
-in youth of the Santa Catarina State, Brazil: ethics and methodological aspects. Brazilian 
-478 
-Journal of Kinanthropometry and Human Performance, 15(1). 
-479 
-https://doi.org/10.5007/1980-0037.2013v15n1p1 
-480 
-Silva, K. S., da Silva Lopes, A., Dumith, S. C., Garcia, L. M. T., Bezerra, J., & Nahas, M. V. 
-481 
-(2014). Changes in television viewing and computers/videogames use among high 
-482 
-school students in Southern Brazil between 2001 and 2011. International Journal of 
-483 
-Public Health, 59(1), 77–86. https://doi.org/10.1007/s00038-013-0464-3 
-484 
-Terwee, C. B., Bot, S. D. M., de Boer, M. R., van der Windt, D. A. W. M., Knol, D. L., 
-485 
-Dekker, J., Bouter, L. M., & de Vet, H. C. W. (2007). Quality criteria were proposed for 
-486 
-measurement properties of health status questionnaires. Journal of Clinical 
-487 
-Epidemiology, 60(1), 34–42. https://doi.org/10.1016/j.jclinepi.2006.03.012 
-488 
-Tremblay, M. S., Aubert, S., Barnes, J. D., Saunders, T. J., Carson, V., Latimer-Cheung, A. 
-489 
-E., Chastin, S. F. M., Altenburg, T. M., Chinapaw, M. J. M., Aminian, S., Arundell, L., 
-490 
-Hinkley, T., Hnatiuk, J., Atkin, A. J., Belanger, K., Chaput, J. P., Gunnell, K., Larouche, 
-491 
-R., Manyanga, T., … Wondergem, R. (2017). Sedentary Behavior Research Network 
-492 
-(SBRN) - Terminology Consensus Project process and outcome. International Journal of 
-493 
-Behavioral Nutrition and Physical Activity, 14(75). https://doi.org/10.1186/s12966-017-
-494 
-0525-8 
-495 
- 
-Tremblay, M. S., LeBlanc, A. G., Kho, M. E., Saunders, T. J., Larouche, R., Colley, R. C., 
-496 
-Goldfield, G., & Gorber, S. (2011). Systematic review of sedentary behaviour and health 
-497 
-indicators in school-aged children and youth. International Journal of Behavioral 
-498 
-Nutrition and Physical Activity, 8(1), 98. https://doi.org/10.1186/1479-5868-8-98 
-499 
-Treuth, M. S., Sherwood, N. E., Butte, N. F., McClanahan, B., Obarzanek, E., Zhou, A., 
-500 
-Ayers, C., Adolph, A., Jordan, J., Jacobs, D. R., & Rochon, J. (2003). Validity and 
-501 
-reliability of activity measures in African-American Girls for GEMS. Medicine and 
-502 
-Science in Sports and Exercise, 35(3), 532–539. 
-503 
-https://doi.org/10.1249/01.MSS.0000053702.03884.3F 
-504 
-Tsang, S., Royse, C. F., & Terkawi, A. S. (2017). Guidelines for developing, translating, and 
-505 
-validating a questionnaire in perioperative and pain medicine. Saudi Journal of 
-506 
-Anaesthesia, 11(Suppl 1), S80–S89. https://doi.org/10.4103/sja.SJA_203_17 
-507 
-Waltz, C., Strickland, O. L., & Lenz, E. (2005). Measurement in nursing and health research 
-508 
-(3a). Springer Publishing Company. 
-509 
-Weaver, E., Gradisar, M., Dohnt, H., Lovato, N., & Douglas, P. (2010). The Effect of 
-510 
-Presleep Video-Game Playing on Adolescent Sleep. Journal of Clinical Sleep Medicine, 
-511 
-6(2), 184–189. 
-512 
-World Health Organization. (2018). ICD-11 for Mortality and Morbidity Statistics. 
-513 
-International Classification of Diseases. https://icd.who.int/browse11/l-
-514 
-m/en#/http://id.who.int/icd/entity/1448597234 
-515 
- 
-516 
- 
-517 
- 
-518 
- 
-Table 1. Questionnaire for Screen Time of Adolescents (QueST) (Brazil, 2019). 
-Questions 
-Statement: On a typical day, how much time do you spend... 
-1. Studying 
-...studying, watching video classes, reading, doing research, or school work on a 
-computer, television, tablet, smartphone, or other electronic devices? 
- 
- 
-2. Performing 
-work/internship-related 
-activities 
-...doing job or internship related work on a computer, television, tablet, smartphone, 
-or other electronic devices? 
-3. Watching videos 
-...watching TV shows, movies, soap operas, news, sports, programs, or other videos 
-on a computer, television, tablet, smartphone, or other electronic devices? 
-4. Playing video games ...playing video games on a games console, computer, television, tablet, smartphone, 
-or other electronic devices? 
-5. Using social media/ 
-chat applications 
-...using social media like Facebook, Instagram, Twitter, Snapchat, or chat 
-applications like WhatsApp, Telegram, Messenger on a computer, television, tablet, 
-smartphone, or other electronic devices? 
-Answers for each question 
-On a weekday: Field for hours (0-23); field for minutes (0-50). 
-On a weekend day: Field for hours (0-23); field for minutes (0-50). 
- 
- 
- 
-Table 2. Evaluation and rating of the QueST items by 16 experts for content validation. (Brazil, 2019).    
- 
-  
-Clarity 
-  
-Representativeness 
-  
-  
-  
-Items 
-  
-  
-  
-  
-  
-  
-Items 
-  
-  
-  
-Expert 
-1 
-2 
-3 
-4 
-5 
-Clarity 
-Proportion 
-  
-1 
-2 
-3 
-4 
-5 
-Representativeness 
-Proportion  
-1 
-x 
-○ 
-○ 
-○ 
-x 
-0.60 
-  
-○ 
-○ 
-○ 
-x 
-○ 
-0.80 
-2 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-3 
-x 
-x 
-○ 
-x 
-○ 
-0.40 
-  
-○ 
-○ 
-○ 
-x 
-○ 
-0.80 
-4 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-5 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-6 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-7 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-8 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-9 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-10 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-11 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-12 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-13 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-14 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-15 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-16 
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-  
-○ 
-○ 
-○ 
-○ 
-○ 
-1.00 
-I-CVI 0.88 0.94 1.00 0.94 0.94 
-S-CVI 0.94   1.00 1.00 1.00 
-0.88 1.00 
-S-CVI 0.98 
-I-CVI = Content Validity Index for Items.  S-CVI = Content Validity Index for Scales. 
-○ = Questions rated 3 or 4 on the 4-point Likert scale. 
-x = Questions rated 1 or 2 on the 4-point Likert scale.  
- 
- 
-Table 3. Descriptive characteristics of the test and retest sample (Brazil, 2019). 
-    
-  
-Test 
-  
-Retest 
-Student's t test 
-Sign-rank test 
-    
-n 
-Mean/Proportion 
-SD 
-  Mean/Proportion 
-SD 
-p-value 
-p-value 
-Sex (%) 
-104 
-  
-  
-  
-  
-  
-  
-  
-  Boys 
-  
-33.7 
-  
-  
-  
-  
-  
-  
-  Girls 
-  
-66.3 
-  
-  
-  
-  
-  
-  
-Age (years) 
-104 
-16.3 
-1.02 
-  
-  
-  
-  
-  
-Mother education (%) 104 
-  
-  
-  
-  
-  
-  
-  
-  <8 years 
-  
-4.8 
-  
-  
-  
-  
-  
-  
-  8-11 years 
-  
-35.6 
-  
-  
-  
-  
-  
-  
-  ≥ 12 years 
-  
-59.6 
-  
-  
-  
-  
-  
-  
-ST constructs (min) 
-  
-  
-  
-  
-  
-  
-  
-  
-Weekdays 
-  
-  
-  
-  
-  
-  
-  
-  
-  Studying 
-101 
-148.5 
-147.0   
-161.10 
-163.73 
-0.21 
-0.07 
-  Working 
-103 
-29.90 
-76.27   
-34.47 
-82.56 
-0.56 
-0.91 
-  Watching videos 
-101 
-132.18 
-108.11   
-116.14 
-107.08 
-0.17 
-0.15 
-  Video gaming 
-102 
-72.94 
-130.93   
-63.53 
-100.30 
-0.35 
-0.54 
-  Using social media 
-96 
-221.67 
-170.87   
-194.17 
-148.24 
-0.02* 
-0.03* 
-Weekend days 
-  
-  
-  
-  
-  
-  
-  
-  
-  Studying 
-103 
-142.43 
-136.33   
-174.76 
-160.46 
-0.04* 
-0.04* 
-  Working 
-103 
-42.42 
-109.95   
-49.70 
-125.38 
-0.56 
-0.66 
-  Watching videos 
-101 
-253.86 
-163.75   
-213.26 
-135.33 
-0.03* 
-0.02* 
-  Video gaming 
-101 
-125.34 
-176.27   
-120.10 
-173.91 
-0.73 
-0.38 
-  Using social media 
-88 
-263.30 
-156.93   
-241.82 
-143.99 
-0.10 
-0.12 
-* indicates p < 0.05. SD standard deviation. ST screen time. 
-    
-  
-  
-  
-    
-  
-  
-  
- 
- 
-Table 4. Intraclass correlation coefficients and 95% confidence interval of each construct between the applications. (Brazil, 2019). 
-  
-  
-Weekdays 
-  
-  
-Study (n=101) 
-Work (n=103) 
-Videos (n=101) 
-Video games 
-(n=102) 
-Social Media 
-(n=96) 
-Weekdays 
-Study 
-0.59 (0.45; 0.70)* 
-  
-  
-  
-  
-Work 
-  
-0.51 (0.36; 0.64)* 
-  
-  
-  
-Videos 
-  
-  
-0.41 (0.24; 0.56)* 
-  
-  
-Video games 
- 
-  
-  
-0.62 (0.48; 0.72)* 
-  
-Social Media 
- 
-  
-  
-  
-0.76 (0.66; 0.83)* 
-  
-  
-Weekend days 
-  
-  
-Study (n=103) 
-Work (n=103) 
-Videos (n=101) 
-Video games 
-(n=101) 
-Social Media 
-(n=88) 
-Weekend 
-days 
-Study 
-0.41 (0.24; 0.56)* 
-  
-  
-  
-  
-Work 
-  
-0.43 (0.26; 0.58)* 
-  
-  
-  
-Videos 
-  
-  
-0.24 (0.04; 0.41)* 
-  
-  
-Video games 
- 
-  
-  
-0.62 (0.49; 0.72)* 
-  
-Social Media 
- 
-  
-  
-  
-0.67 (0.54; 0.77)* 
-* indicates p < 0.05 
-  
-  
-  
- 
- 
-Table 5. Mean difference and limits of agreement of the Bland-Altman 
-analyses (Brazil, 2019). 
-   ST constructs 
-  
-n 
-Mean 
-Difference 
-Upper Limit of 
-Agreement 
-Lower limit 
-of Agreement 
-Weekdays 
-  
-  
-  
-  
-  
-  Studying 
-  101 
--18.1 
-263.9 
--300.2 
-  Working 
-  103 
--4.6 
-149.6 
--158.7 
-  Watching videos 
-101 
-16.0 
-244.2 
--212.1 
-  Video gaming 
-  102 
-9.4 
-209.9 
--191.1 
-  Using social media 
-96 
-27.5 
-241.7 
--186.7 
-Weekend days 
-  
-  
-  
-  
-  
-  Studying 
-  103 
--32.3 
-281.2 
--345.8 
-  Working 
-  103 
-7.3 
-239.2 
--253.8 
-  Watching videos 
-101 
-40.6 
-400.0 
--318.9 
-  Video gaming 
-  101 
-5.2 
-305.1 
--294.6 
-  Using social media 
-88 
-21.5 
-358.9 
--215.9 
-   ST screen time. 
-    
-  
-  
-  
-    
-    
-  
-  
-  
- 
- 
-Supplementary Material 
-The Conception, Validation, and Reliability of the Questionnaire for Screen Time of 
-Adolescents (QueST) 
- 
-Application of the Consensus-Based Standards for the Selection of Health Measurement 
-Instruments (COSMIN) checklist on the Questionnaire for Screen Time of Adolescents 
- 
-STEP 1: Evaluated measurement properties in the article: 
-A. Internal consistency 
-✓ 
-B. Reliability  
-C. Measurement error  
-✓ 
-D. Content validity (including face validity)  
-E. Construct validity/structural validity  
-F. hypotheses-testing 
-G. Cross-cultural validity  
-H. Criterion validity  
-I. Responsiveness 
-J. Interpretability  
- 
-STEP 2: Are Item Response Theory methods used in the article? 
-✓ No. 
- 
- 
- 
- 
- 
- 
-STEP 3: Complete the corresponding boxes marked in step 1. 
-Box B. Reliability: relative measures (including test-retest reliability, inter-rater 
-reliability and intra-rater reliability) 
-Design requirements 
-Yes No 
-NA 
-? 
-1. Was the percentage of missing items given? 
-x 
- 
- 
- 
-2. Was there a description of how missing items were handled? 
-x 
- 
- 
- 
-3. Was the sample size included in the analysis adequate? 
-x 
- 
- 
- 
-4. Were at least two measurements available? 
-x 
- 
- 
- 
-5. Were the administrations independent? 
-x 
- 
- 
- 
-6. Was the time interval stated? 
-x 
- 
- 
- 
-7. Were patients stable in the interim period on the construct to 
-be measured? 
- 
- 
-x 
- 
-8. Was the time interval appropriate? 
-x 
- 
- 
- 
-9. Were the test conditions similar for both measurements? e.g. 
-type of administration, environment, instructions 
-x 
- 
- 
- 
-10. Were there any important flaws in the design or methods of 
-the study? 
- 
-x 
- 
- 
-Statistical methods 
-11. for continuous scores: Was an intraclass correlation 
-coefficient (ICC) calculated? 
-x 
- 
- 
- 
-12. for dichotomous/nominal/ordinal scores: Was kappa 
-calculated? 
- 
- 
-x 
- 
-13. for ordinal scores: Was a weighted kappa calculated? 
- 
- 
-x 
- 
-14. for ordinal scores: Was the weighting scheme described? e.g. 
-linear, quadratic 
- 
- 
-x 
- 
- 
-Box D. Content validity (including face validity) 
- 
- 
- 
-General requirements 
-Yes No 
-? 
-1. Was there an assessment of whether all items refer to relevant 
-aspects of the construct to be measured? 
-x 
- 
- 
-2. Was there an assessment of whether all items are relevant for 
-the study population? (e.g. age, gender, disease characteristics, 
-country, setting) 
-x 
- 
- 
-3. Was there an assessment of whether all items are relevant for 
-the purpose of the measurement instrument? (discriminative, 
-evaluative, and/or predictive) 
-x 
- 
- 
-4. Was there an assessment of whether all items together 
-comprehensively reflect the construct to be measured? 
-x 
- 
- 
-5. Were there any important flaws in the design or methods of 
-the study? 
- 
-x 
- 
- 
- 
- 
- 
-STEP 4: Complete the Generalisability box for each property marked in Step 1. 
-B. Reliability: Box Generalisability box 
- 
- 
- 
- 
-Was the sample in which the Health‐Related Patient‐Reported 
-Outcomes (HR‐PROs) instrument was evaluated adequately 
-described? In terms of: 
-Yes No NA 
-? 
-1. median or mean age (with standard deviation or range)? 
-x 
- 
- 
- 
-2. distribution of sex? 
-x 
- 
- 
- 
-3. important disease characteristics (e.g. severity, status, 
-duration) and description of treatment?   
- 
- 
-x 
- 
-4. setting(s) in which the study was conducted? e.g. general 
-population, primary care or hospital/rehabilitation care   
-x 
- 
- 
- 
-5. countries in which the study was conducted?   
-x 
- 
- 
- 
-6. language in which the HR-PROs instrument was evaluated?   
-x 
- 
- 
- 
-7. Was the method used to select patients adequately 
-described? e.g. convenience, consecutive, or random   
-x 
- 
- 
- 
-8. Was the percentage of missing responses (response rate) 
-acceptable?   
-x 
- 
- 
- 
- 
-D. Content validity: Box Generalisability box 
- 
- 
- 
- 
-Was the sample in which the Health‐Related Patient‐Reported 
-Outcomes instrument was evaluated adequately described? In 
-terms of: 
-Yes No NA 
-? 
-1. median or mean age (with standard deviation or range)? 
-x 
- 
- 
- 
-2. distribution of sex? 
-x 
- 
- 
- 
-3. important disease characteristics (e.g. severity, status, 
-duration) and description of treatment?   
- 
- 
-x 
- 
-4. setting(s) in which the study was conducted? e.g. general 
-population, primary care or hospital/rehabilitation care   
-x 
- 
- 
- 
-5. countries in which the study was conducted?   
-x 
- 
- 
- 
-6. language in which the HR-PROs instrument was evaluated?   
-x 
- 
- 
- 
-7. Was the method used to select patients adequately 
-described? e.g. convenience, consecutive, or random   
-x 
- 
- 
- 
-8. Was the percentage of missing responses (response rate) 
-acceptable?   
-x 
- 
- 
- 
- 
