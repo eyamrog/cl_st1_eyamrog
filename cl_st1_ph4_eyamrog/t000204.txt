@@ -1,50 +1,3 @@
-1 
- 
-Review 
- 
-Role of education after the COVID-19 pandemic fear: a multidisciplinary and 
-scientific perspective 
- 
-Mônica Naves Barcelos1,2, Priscila Medeiros3,4, Carla Benedita da Silva Tostes5,  
-Juliana Almeida da Silva3, Josie Resende Torres da Silva2, Jorge Gelvane Tostes5,  
-Norberto Cysne Coimbra3,, José Aparecido da Silva6,7, Marcelo Lourenço da Silva2,  
-Renato Leonardo de Freitas1,4* 
- 
-1Biomedical Sciences Institute, Federal University of Alfenas (UNIFAL), Alfenas, MG, Brazil. 
-2Institute of Motricity Sciences, Federal University of Alfenas, Alfenas, MG, Brazil 
-3Laboratory of Neuroanatomy and Neuropsychobiology, Department of Pharmacology, Ribeirão Preto 
-Medical School of the University of São Paulo (FMRP-USP), Ribeirão Preto, São Paulo, Brazil. 
-4Laboratory of Neurosciences of Pain & Emotions and Multi-User Centre of Neuroelectrophysiology, 
-Department of Surgery and Anatomy, Ribeirão Preto Medical School of the University of São Paulo, 
-Ribeirão Preto, São Paulo, Brazil. 
-5Itajubá Medicine School, Itajubá, MG, Brazil. 
-6Laboratory of Psychophysics, Perception, Psychometrics, and Pain, Department of Psychology, Ribeirão 
-Preto School of Philosophy, Scienes and Literature of  the University of São Paulo, Ribeirão Preto, SP, 
-Brazil. 
-7Department of Psychology, Federal University of Juiz de Fora (UFJF), MG, Brazil. 
- 
-*Corresponding author: Prof. Dr. Renato Leonardo de Freitas: Biomedical Sciences 
-Institute, Federal University of Alfenas (UNIFAL), Alfenas, MG, Brazil and Laboratory 
-of 
-Neurosciences 
-of 
-Pain 
-& 
-Emotions 
-and 
-Multi-User 
-Centre 
-of 
-Neuroelectrophysiology, Department of Surgery and Anatomy, Ribeirão Preto Medical 
-School of the University of São Paulo, Av. Bandeirantes, 3900, Ribeirão Preto, São 
-Paulo, Brazil.  
-E-mail: defreitas.rl@gmail.com 
- 
- 
-Running title: Science-based education and mental health after COVID-19 pandemic. 
-2 
- 
-Abstract 
 In response to the outbreak of the novel Severe Acute Respiratory Syndrome 
 Coronavirus-2 (SARS-CoV-2), pathogen of the new coronavirus disease (COVID-19), 
 several sectors and social activities have been affected, including education. At first, it 
@@ -68,51 +21,40 @@ educators and students experiencing the pandemic threatening do not manifest
 psychological distress and secondary consequences. Therefore, education can be 
 considered a central space in decision-making in the face of SARS-CoV-2 pandemic. In 
 this sense, the urgency of a multidisciplinary strategies development is highlighted, 
-3 
- 
 connecting the synergy between neurosciences and education after the COVID-19 
 pandemic. 
- 
-Keywords: COVID-19, pandemic fear, anxiety, neurociences, education. 
- 
-1. 
-Introduction 
+
 At the end of 2019, precisely in mid December in Wuhan, China, cases of 
 pneumonia with unknown cause began to appear. After performing evaluations of 
 patients with the disease, a new type 2 of Coronavirus (SARS-CoV-2), RNA enveloped 
 virus, was discovered that cause respiratory, hepatic, enteric and neurological new 
 coronavirus disease (COVID-19) (1).  
+
 After contamination in China, the virus has spread rapidly around the world to 
 the point of being considered a pandemic by the World Health Organisation (WHO) (2). 
 The SARS-CoV-2 has a viral evolution with high pathogenicity and high 
 transmissibility (1). Outbreaks like this promote possibilities of transformations within 
 several places and social activities (3).  
- 
-2. 
-The pandemic and its consequences on education 
+
 The unusual situation caused by the SARS-CoV-2 pandemic affects and exposes 
 educators and learners to weaknesses and potentialities to raise the need for criteria that 
 provides support to face up the new conditions. The cognitive development criterion is 
 the result of different stimuli and synaptic activation into the hipoccampus and cerebral 
 cortex, crucial aspects for teaching-learning. However, research indicates that several 
 types of coronavirus can invade the central nervous system (CNS) (4).  
-4 
- 
+
 In other terms, we might consider the possible occurrence of viral transmission 
 in the encephalon, reached after intranasally viral infection, through  synaptic contacts 
 in the sensorial systemand neurotropism (5). As taken along this way, coronavirus can 
 attack the teaching-learning process by weakening educators and learners who can 
 experience a range of negative emotions, affecting mood and bahavioural skills when 
 dealing with the information about the COVID-19.  
- 
-3 
-Fear and anxiety as risk factors for triggering psychiatric disorders during 
-the COVID 19 pandemic  
- 
+
 The need for social isolation caused by the COVID-19 pandemic, combined 
 with global uncertainty related to SARS-CoV-2, has generated a lot of tension and 
 suffering. Although the world has already experienced other similar events, nothing was 
 reported until now in proportions and speed of spread like the current pandemic (6). 
+
 In the face of so many changes and uncertainties, natural reactions arise, such as 
 unconditioned and conditioned fear and chronic anxiety itself, which, to a certain extent, 
 provide care and prevention, but which can reach unbearable or even dysfunctional or 
@@ -121,20 +63,21 @@ mental health (7). Isolation has been a strategy adopted aiming to mitigate the 
 the virus and was readly adopted at other critical times. However, it is also known that 
 the longer we are isolated, the greater the risks of suffering from psychiatric illnesses 
 (8). 
+
 It is still necessary to consider the fact that during pandemics, attention is 
 focused on the pathogen and its inherent biological risk, measures to be taken for 
 prevention, containment action and medical protocols for the treatmentof the disease. 
-5 
- 
 As a result, psychological and psychiatric implications secondary to the pandemic 
 phenomenon, at the individual and collective levels, tend to be underestimated and 
 neglected (9, 10). 
+
 Reynolds et al. (11) reported that during social isolation a constellation of 
 psychopathological symptoms may appear, such as depressed mood, irritability, anxiety, 
 fear, anger, insomnia, among others, remaining long-term consequences for mental 
 health. Hawryluck et al. (12) reported that even three years after a period of isolation, 
 there was still a greater risk for alcohol abuse, symptoms of post-traumatic stress 
 disorder and depression.  
+
 The most significant areas of activation during social anxiet disorder are the 
 following: bilateral amygdaloid complex, the left medial temporal lobe encompassing 
 the entorhinal cortex, the left medial aspect of the inferior temporal lobe encompassing 
@@ -145,13 +88,13 @@ connected to the limbic system the main encephalic system related to the organis
 emotions in human beings and in other mammals. Additionally, the right brain 
 hemisphere specific thinning was found in the frontal, temporal, parietal and insular 
 cortices of individuals with social anxiety disorder (14). 
+
 Shigemura et al. (15) reported that patients infected with COVID-19 (or 
 suspected of being infected) may experience intense emotional and behavioural 
 reactions, such as fear, boredom, loneliness, anxiety, insomnia or anger, symptomns 
 already reported in conditions of epidemics occurring in the past (BROOKS et al., 
 2020). 
-6 
- 
+
 In a pandemic, fear increases the levels of anxiety and stress in healthy 
 individuals and intensifies the symptoms of those with pre-existing psychiatric disorders 
 (15). However, little is known about individuals affected by their reactions based on 
@@ -160,25 +103,27 @@ of depression, post-traumatic stress, anxiety and insomnia have occurred among h
 professionals (16, 17) and their patients infected by COVID-19 (18), but the extent to 
 which these psychological conditions are attributable to coronavirus anxiety has not 
 been determined. 
+
 Corroborating these concerns, in a recent study using 775 adults citizens living 
 in the United States of America, individuals functionally impaired by the fear and 
 anxiety of the coronavirus exhibited greater hopelessness, suicidal ideation, spiritual 
 crisis and problems with alcohol/drug abuse than those who were anxious, but they did 
 not have dysfunctional anxiety because of COVID-19 (19). 
+
 In previous research on the hurricane and flood, as well as other infectious 
 disease epidemics, adverse psychological reactions covering anxiety, acute stress, 
 addictive behaviours and symptoms of post-traumatic stress disorder, along with 
 increased suicide and depression stood out in the population during and after these 
 threatening events (20). Thus, it is believed that they will certainly occur in the current 
 COVID-19 pandemic. 
+
 Another important point, based on the observation of previous events, is that 
 during pandemics, the number of people whose mental health is affected tends to be 
 greater than the number of people affected by the infection itself. Previous tragedies 
 have shown that the implications for mental health can last longer and have a higher 
 prevalence than the epidemic or pandemic itself and that the psychosocial and economic 
 impacts (15). 
-7 
- 
+
 It is believed that fear can be the centre of many of these conditions because it is 
 one of the most basic and primordial human emotions. Fear is a primitive emotion that 
 is considered conservative in the animal kingdom (21). In the pandemic, there are still 
@@ -187,6 +132,7 @@ and the ability to predict a better future. The fear of infection, of being cont
 the environment or contact with people evokes more and more distrust, avoidance and 
 withdrawal, thus reducing our social interactions and restricting opportunities for 
 contact and social support, which are very important for adaptive behaviour (22). 
+
 Fear is composed of several variables and determinants and the study of 
 neurobiological structures involved in its genesis is complex. One of the particularities 
 associated with stress, fear and anxiety is the generalisation phenomenon that can have 
@@ -195,21 +141,22 @@ characteristics of mental disease such as post-traumatic stress disorder (23). I
 understanding, the maladaptive generalisation of fear occurs when an abnormal 
 stimulus-response gradient emerges to produce defensive behaviours in environments or 
 clues that are not explicitly associated with threat or danger (24). 
+
 Concerning the possibility of exposure to triggering stimuli, it is estimated that 
 up to 50 to 60% of the North American population may be exposed to at least one 
 traumatic event in life (25) and although most individuals recover from the traumatic 
 experience, about 10 to 30% develop post-traumatic stress disorder and, although 
 pharmacological and psychotherapeutic treatment is often effective, 20 to 30% of 
 patients with this condition do not respond to conventional therapies (26). 
+
 So, at the current juncture, if a large number of people tend to experience 
 clinically significant fear and anxiety during an outbreak of infectious disease (27) 
 (TAYLOR, 2019) and if there is a massive exposure of the whole society to potentially 
-8 
- 
 traumatic events, as in the case of COVID-19 pandemic, there is a risk that many people 
 will develop anxiety disorders such as post-traumatic stress disorder. Thus, it is crucial 
 that health professionals understand the psychological risks of those with this specific 
 condition (28). 
+
 But if, on the one hand, as described by Dong and Bouey (29), fear and anxiety 
 are common psychological responses during disasters and other similar situations, the 
 entire population is more vulnerable to the development of mental disease in these 
@@ -217,6 +164,7 @@ critical events, especially the anxiety disorders. These mental disorders are cl
 according to the 5th edition of the Diagnostic and Statistical Manual of mental disorders 
 (DSM-5), into a generalised anxiety disorder, panic disorder, agoraphobia, separation 
 anxiety disorder, social anxiety disorder, specific phobias and selective mutism (30). 
+
 Corroborating concerns about the onset of these mental disorders, Batelaan et al. 
 (31) noted that there is evidence that anxiety disorders increase the incidence of 
 cardiovascular diseases by 52% and that the severity of anxiety symptoms would be 
@@ -226,24 +174,25 @@ responses, mediated by neuroendocrine and neuronal defensive activity, involving
 autonomic nervous system and activation of the Hypothalamus-Pituitary-Adrenal axis 
 (HHA) and the release of cortisol. The functional abnormalities of this axis alter the 
 response to stressful events, contributing to the developmentof anxiety disorders (33). 
+
 In acute anxiety, the activation of the HHA axis is adaptive. On the contrary, in 
 chronic anxiety, this mechanism fails, the HHA axis remains activated and impairs 
 coping mechanisms, in addition to inducing low tolerance to chronic stress (34). 
 Chronic stress, on the other hand, has consequences for cognitive and emotional 
 processing and is associated with changes in brain plasticity, can affect the immune 
-9 
- 
 system, increase the risk for developmental diseases, impairment of negative feedback 
 from the HHA axis, decrease in neurotrophic factors, among others (34). Thus, the 
 literature already has robust evidence of a role played by stress in the development of 
 psychiatric disorders in both laboratory animal (35) and in human experimental models 
 (36), in addition to contributing to the appearance or worsening of clinical conditions. 
+
 In extreme cases, these mental health problems can lead to suicidal behaviour. It 
 is well established that about 90% of global suicides are due to mental disorders such as 
 depression (37). Based on these findings and experience in previous pandemics, such as 
 Severe Acute Respiratory Syndrome Coronavirus-1 (SARS-CoV-1) in 2003 when the 
 suicide rate among the elderly increased in Hong Kong during and after the pandemic 
 (38, 39), the present issue is relevant and must be considered with due seriousness. 
+
 Although until now the effects of COVID-19 on mental health have not been 
 studied systematically, it is expected to produce significant effects due to public 
 reactions already observed (40). Observing this reaction and in previous experiences, 
@@ -257,8 +206,7 @@ document with recommendations aimed at mental health and psychosocial well-being
 by placing psychiatrists and psychologists to assist other health professionals, patients 
 and the general public to understand the possible effect of COVID-19 and help their 
 patients, families and the general public. 
-10 
- 
+
 Supporting the same line of reasoning of the need to implement efforts to care 
 for the mental health of the population in the pandemic, Gao et al., (2020) presented the 
 result of a survey conducted in China, where they concluded that there is a high 
@@ -268,6 +216,7 @@ They highlighted the need to combat the spread of false news and the importance 
 circulating reliable information. Besides, they demonstrated that the implementation of 
 measures such as mental health services through different channels is extremely 
 important. 
+
 In conclusion, it is important to highlight the panorama of uncertainty, insecurity 
 and isolation experienced by humanity as a catalyst for emotions and different feelings 
 such as fear, anxiety and sadness. This whole scenario is favorable to the emergence of 
@@ -276,23 +225,20 @@ exacerbation of the condition in people who already have it. Against this backgr
 there is a need for a more careful examination of authorities and health professionals in 
 addition to the symptoms caused by COVID-19, especially concerning the mental 
 health of the population 
- 
-4 
-Psychological effects caused by the pandemic on educators and learners 
+
 In developing autonomy to conduct studies in times of COVID-19, one should 
 consider that, in the encephalon, there are three levels of attention behaviour formation: 
 the alert state; focus and concentration. The alert state is the initial condition for 
 concentration in the teaching-learning process, as well as the adequacy and adaptation 
 of educators and learners to the new physical and social context. Furthermore, the 
 teaching-learning process must be permeated by motivation. Motivation is reflected in 
-11 
- 
 attention and memory. With the maintenance of the alert state, one reaches the focus 
 and consequently, the concentration (42, 43).  
 During and after the COVID-19 pandemic, the relationship between educators 
 and learners must be carefully established before neural processes of coding and 
 plasticity, which result in the formation of positive and negative memories, from short 
 to long term (44).  
+
 The multidisciplinary study of cognitive and socio-affective processes in 
 teaching-learning can benefit from the concept of function modularity, i.e. the notion 
 that motivation, attention and memory comprise a set of skills and abilities mediated by 
@@ -301,10 +247,7 @@ cooperatively, for the development of autonomy and conduction of studies during 
 after the COVID-19 pandemic threat. In this follow-up, attention should also be paid to 
 somatisation regarding the manifestation of physical symptoms resulted from 
 psychological effects.   
- 
-5. 
-Pharmacological management on the Attention Deficit Hyperactivity 
-Disorder (ADHD): relation in COVID-19 pandemic 
+
 Attention Deficit Hyperactivity Disorder (ADHD) is a neurobiological condition 
 of genetic and environmental influences, which can set in early development (period 
 inside the womb). It is characterised by a behaviour that goes to the extreme of 
@@ -313,37 +256,32 @@ more advanced stages of the child development. That disorder can affect the pers
 during adulthood (45). ADHD affects 5.3% of children and adolescents and 2.5% of 
 adults, worldwide (46). The occurrence of that disorder increases the death rate, school 
 difficulties and drug abuse, in addition to worsening job placement (45). 
-12 
- 
+
 In the case of the COVID-19 outbreak, schools in China are closed and students 
 are restricted to staying at home. Primary and secondary schools in China open official 
 online educational sites to allocate students to continue education (47). Most parents of 
 these children are required to have educational responsibility, in addition to dealing with 
 all of children's emotional and behavioural problems 24 hours a day, 7 days a week. 
+
 The most effective current treatment for adults and children with ADHD is 
 stimulating medications. Inattention and hyperactivity symptoms respond more to 
 medications, but a person with the disorder often has several other associated problems 
 that require interventions, such as psychoeducation, psychotherapy (48). 
+
 Zhang and colleagues (49) investigated conditions related to the mental health of 
 children with ADHD during the COVID-19 outbreak. During the outbreak of COVID-
 19, ADHD symptoms in children were significantly worse compared to normal. These 
 findings alerted the importance of focusing on special vulnerable groups during the 
 outbreak. Attention is needed to identify an appropriate approach for children with 
 ADHD in terms of disaster risk reduction activities. 
- 
-6. 
-School environment interventions based on complementary and integrative 
-practices 
- 
+
 The resumption of activities must be not only based on the fulfilment of the 
 school curriculum but also support for psychological and social care. Psychological 
 problems, when left untreated, can affect family/children's relationships, academic 
 performance, and social functioning (50). Furthermore, childhood mental health 
 problems often continue into adulthood and lead to decreased productivity, increased 
 substance abuse, and substantial economic burden to the individual and society (51, 52). 
-13 
- 
- 
+
 Conventional medical treatments are based on pharmaceutical drugs and 
 psychological therapy (53). However, the use of alternative and complementary 
 therapies (manipulative/body techniques and practices based on attention, music 
@@ -355,7 +293,7 @@ chi, qigong, and meditation) may be a beneficial adjunct to the treatment of men
 health problems, particularly mood and anxiety disorders improving quality of life (58). 
 Mindfulness, the “intentional, accepting, and non-judgmental focus of one’s attention 
 on the emotions, thoughts, and sensations occurring in the present moment” (59).  
- 
+
 Practices like yoga- and mindfulness-based procedures can positively impact the 
 body in many ways, to increase alertness and positive feelings, and decrease negative 
 feelings of aggressiveness, depression and anxiety (60, 61). A study showed the effect 
@@ -363,6 +301,7 @@ of mindfulness and yoga on quality of life for elementary school students and te
 indicate that both benefit on intervention. The students who received the intervention 
 demonstrated significantly greater improvement in the psychosocial and emotional 
 quality of life compared with their peers who received standard care (62).  
+
 There is evidence that one of the mechanisms through which yoga improves 
 mood in major depressive disorder  is by increasing the activity of the GABA system 
 (63). Yoga practioners have increased functions on Superior Parietal Lobule and 
@@ -370,44 +309,37 @@ Supramarginal Gyrus of the cerebral cortex (64). Long-term Ashtanga Yoga practic
 decreased regional glucose metabolism in the medial temporal cortex, striatum, and 
 brainstem (65). In brainstem is situated the main output of the encephalic aversion 
 system, the periaqueductal grey matter (PAG), whose activation elicts unconditioned 
-14 
- 
 fear and panic attack-like behaviour (66). Meditation and Yoga also was associated with 
 a significantly lower right amygdala volume (67). Both PAG and amygdaloid complex 
 neurons are also spontaneously activated in a threatening situation (68). 
- 
+
 Another non-pharmacological intervention is the music therapy has always 
 played crucial roles in the regulation of emotions and facilitating human well-being, 
 resulting in elevated stress threshold and enhanced immunity, for improving quality of 
 life and reducing anxiety (56, 69, 70). There is evidence that music procudes analgesia 
 and depresses abnormal brain neural activity (71). 
- 
+
 Thus, considering the real benefits of integrative and complementary therapies, 
 the absence of side effects and the possibility of being applied in the school 
 environment, it is interesting to show that its use can be an additional tool in improving 
 post-pandemic education. 
- 
-7. 
-Discussion  
- 
-7.1 
-Neurosciences and education in times of pandemic 
+
 The neurosciences applied to education aims to justify that the criterion of 
 affective development influences the criterion of cognitive development, such as 
 attention and memory. Therefore, there has been an important process of evidence on 
 the importance of skill and capacity building mainly in the last decades, as well as the 
 formulation and implementation of scientific actions to educational activity (72). 
+
 This perspective faced to the COVID-19 pandemic and after its passage supports 
 educators and learners in issues regarding mental health. In brief logical reasoning, the 
 engagement of brain areas involved with emotions, such as the limbic system, 
 associated with the possibility of viral transmission between neurons, damages the 
-15 
- 
 release process of important neurotransmitters such as glutamate and acetylcholine 
 (excitatory), GABA and dopamine (inhibitors), in addition to serotonin (excitatory and 
 inhibitory) and glial cells (which respond to environmental stimuli). Thus, it is assumed 
 that SARS-CoV-2 may affect brain networks (or circuits) making them less effective, 
 reflecting in afferent and efferent projections fundamental to the learning path (73).  
+
 In this sense, pedagogical practices can be conducted and supported by the 
 application of scientific knowledge, as to be a source of further progress. In this regard, 
 the opening of discussion spaces beyond content and discipline sets the triad between 
@@ -417,9 +349,7 @@ conservation of this triangle during and after the COVID-19 pandemic, goes again
 multidisciplinary perspective, based on the fact that positive or negative stimuli weaken 
 or enhance the associative neuroplasticity, which involves connectivity, regulation and 
 neural modulation (74).  
- 
-7.2. 
-Role of Neuroeducation during the pandemic 
+
 The triad of informational, cognitive and socio-affective support during the 
 COVID-19 pandemic awakens to the importance of scientific education (75). 
 Information about the outbreak can generate problems, difficulties, disorders, and 
@@ -428,11 +358,7 @@ changes in the behaviour of educators and learners. Thus, to be meaningful, the
 relationship between educators and learners must mutually produce appropriate 
 responses adapted to sensory and emotional stimuli to maintain the appropriate alert 
 state for the content transmitted during the pandemic (76). 
- 
-16 
- 
-7.3. 
-Role of post-pandemic neuroeducation 
+
 Faced with a complex reality where confinement is the main prophylactic means 
 to prevent the virus spreading (2, 77), educators and learners develop new behaviours of 
 adaptation and appropriateness, where physiological transformations are produced in 
@@ -440,6 +366,7 @@ response to the outbreak. From fear to courage (and vice-versa), the process of
 resistance or "struggle" to confront the COVID-19, demands cognitive-affective 
 attention to contain the exponential increase of fears and insecurities that generate 
 psychic suffering.  
+
 In times of COVID-19, besides the preservation of life, one of the challenges is, 
 therefore, the behavioural reorganisation, that is, habits that, in the educational context, 
 must contemplate a scientific perspective, seeking to transform the consequences of the 
@@ -450,22 +377,19 @@ Moreover, through the adverse conditions that are being exposed, the development
 prevalence of abilities and skills demand the need to build autonomy for the conduct of 
 studies, based on the fact that teaching-learning is a dialectical process in which, for 
 example, memory losses can be confused with attention losses, and vice-versa (78).   
+
 In the context of modern rationality, the COVID-19 pandemic is also a time to 
 think about the relationship between scientific knowledge and common sense. Thus, 
 neurosciences can develop a new path along the teaching-learning process, so that 
 educators and learners who go through the pandemic do not manifest psychic suffering 
 and secondary consequences, such as anxiety and depression (79).  
+
 A virus like SARS-CoV-2 cannot benefit from weaknesses, but be seen by 
 potentialities, as a gateway to a new world, whose human evolution overcomes the 
-17 
- 
 resilient way of feeling, remembering and making decisions. In other words, it is 
 necessary to carry out an education that enables educators and learners to understand 
 reality through science. 
- 
- 
-8. 
-Conclusion 
+
 Because SARS-CoV-2 is not yet fully known, emotions such as fear and anxiety 
 are usually conceived. Therefore, during this critical scenario within society, the 
 validation of knowledge is fundamental for the creation of better methodologies, 
@@ -474,318 +398,3 @@ educators and learners, with ethical and humanitarian commitment, must permeate
 values of scientific thought. Education is, therefore, a central space in decision making 
 while facing COVID-19. In this regard, we emphasise the need for a multidisciplinary 
 development, involving the synergy between neurosciences and education. 
- 
-Conflict of Interest: The authors declare that there are no conflicts of interest with this 
-work. 
- 
-Authors' contribution: M.N. Barcelos participated in the elaboration, grounds and 
-writing of the manuscript; P. Medeiros participated in the creation, elaboration and 
-revision of the manuscript; C.B. Tostes participated in the writing of the manuscript; 
-Juliana A. da Silva participated in the revision of the manuscript; N. C. Coimbra revised 
-and edited the manuscript; J.A. da Silva participated in the revision of the manuscript; 
-M. L. Silva revised and edited the manuscript; J. R. T. Silva revised and edited the 
-manuscript and R.L. de Freitas coordinated, created, wrote and revised the manuscript. 
- 
-18 
- 
- 
-References 
-1. 
-Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients 
-with Pneumonia in China, 2019. N Engl J Med. 2020;382(8):727-33. 
-2. 
-Eurosurveillance Editorial T. Note from the editors: World Health Organization declares 
-novel coronavirus (2019-nCoV) sixth public health emergency of international concern. Euro 
-Surveill. 2020;25(5):200131e. 
-3. 
-Hirschfeld K. Microbial insurgency: Theorizing global health in the Anthropocene. The 
-Anthropocene Review. 2019;7(1):3-18. 
-4. 
-De Felice FG, Tovar-Moll F, Moll J, Munoz DP, Ferreira ST. Severe Acute Respiratory 
-Syndrome Coronavirus 2 (SARS-CoV-2) and the Central Nervous System. Trends in 
-neurosciences. 2020;43(6):355-7. 
-5. 
-Li Y-C, Bai W-Z, Hashikawa T. The neuroinvasive potential of SARS-CoV2 may play a role 
-in the respiratory failure of COVID-19 patients. Journal of Medical Virology. 2020;92(6):552-5. 
-6. 
-Chiyomaru K, Takemoto K. Global COVID-19 transmission rate is influenced by 
-precipitation seasonality and the speed of climate temperature warming. medRxiv. 
-2020:2020.04.10.20060459. 
-7. 
-Afonso P. The Impact of the COVID-19 Pandemic on Mental Health. 2020. 
-2020;33(5):2. 
-8. 
-Wu D, Yang T, Rockett IR, Yu L, Peng S, Jiang S. Uncertainty stress, social capital, and 
-suicidal ideation among Chinese medical students: Findings from a 22-university survey. 
-Journal of health psychology. 2018:1359105318805820. 
-9. 
-Tucci V, Moukaddam N, Meadows J, Shah S, Galwankar SC, Kapur GB. The Forgotten 
-Plague: Psychiatric Manifestations of Ebola, Zika, and Emerging Infectious Diseases. Journal of 
-global infectious diseases. 2017;9(4):151-6. 
-10. 
-Morens DM, Fauci AS. Emerging Infectious Diseases: Threats to Human Health and 
-Global Stability. PLOS Pathogens. 2013;9(7):e1003467. 
-11. 
-Reynolds DL, Garay JR, Deamond SL, Moran MK, Gold W, Styra R. Understanding, 
-compliance and psychological impact of the SARS quarantine experience. Epidemiol Infect. 
-2008;136(7):997-1007. 
-12. 
-Hawryluck L, Gold WL, Robinson S, Pogorski S, Galea S, Styra R. SARS control and 
-psychological effects of quarantine, Toronto, Canada. Emerg Infect Dis. 2004;10(7):1206-12. 
-19 
- 
-13. 
-Hattingh CJ, Ipser J, Tromp SA, Syal S, Lochner C, Brooks SJ, et al. Functional magnetic 
-resonance imaging during emotion recognition in social anxiety disorder: an activation 
-likelihood meta-analysis. Frontiers in human neuroscience. 2012;6:347. 
-14. 
-Syal S, Hattingh CJ, Fouché JP, Spottiswoode B, Carey PD, Lochner C, et al. Grey matter 
-abnormalities in social anxiety disorder: a pilot study. Metabolic brain disease. 2012;27(3):299-
-309. 
-15. 
-Shigemura J, Ursano RJ, Morganstein JC, Kurosawa M, Benedek DM. Public responses 
-to the novel 2019 coronavirus (2019-nCoV) in Japan: Mental health consequences and target 
-populations. Psychiatry and Clinical Neurosciences. 2020;74(4):281-2. 
-16. 
-Lai J, Ma S, Wang Y, Cai Z, Hu J, Wei N, et al. Factors Associated With Mental Health 
-Outcomes Among Health Care Workers Exposed to Coronavirus Disease 2019. JAMA Network 
-Open. 2020;3(3):e203976-e. 
-17. 
-Xiang Y-T, Yang Y, Li W, Zhang L, Qinge Z, Cheung T, et al. Timely mental health care for 
-the 2019 novel coronavirus outbreak is urgently needed. The Lancet Psychiatry. 2020;7. 
-18. 
-Li B, Yang J, Zhao F, Zhi L, Wang X, Liu L, et al. Prevalence and impact of cardiovascular 
-metabolic diseases on COVID-19 in China. Clin Res Cardiol. 2020;109(5):531-8. 
-19. 
-Lee S. Coronavirus Anxiety Scale: A brief mental health screener for COVID-19 related 
-anxiety. Death Studies. 2020;44:1-9. 
-20. 
-Norris F. Psychosocial Consequences of Natural Disasters in Developing Countries: 
-What Does Past Research Tell Us About the Potential Effects of the 2004 Tsunami? 2006. 
-21. 
-Adolphs R. The biology of fear. Current biology : CB. 2013;23(2):R79-R93. 
-22. 
-Bonanno GA. Meaning making, adversity, and regulatory flexibility. Memory. 
-2013;21(1):150-6. 
-23. 
-Dunsmoor JE, Paz R. Fear Generalization and Anxiety: Behavioral and Neural 
-Mechanisms. Biological psychiatry. 2015;78(5):336-43. 
-24. 
-Asok A, Kandel ER, Rayman JB. The Neurobiology of Fear Generalization. Frontiers in 
-Behavioral Neuroscience. 2019;12(329). 
-25. 
-Merikangas KR, He JP, Burstein M, Swanson SA, Avenevoli S, Cui L, et al. Lifetime 
-prevalence of mental disorders in U.S. adolescents: results from the National Comorbidity 
-Survey Replication--Adolescent Supplement (NCS-A). Journal of the American Academy of Child 
-and Adolescent Psychiatry. 2010;49(10):980-9. 
-26. 
-Reznikov R, Bambico FR, Diwan M, Raymond RJ, Nashed MG, Nobrega JN, et al. 
-Prefrontal Cortex Deep Brain Stimulation Improves Fear and Anxiety-Like Behavior and 
-20 
- 
-Reduces Basolateral Amygdala Activity in a Preclinical Model of Posttraumatic Stress Disorder. 
-Neuropsychopharmacology. 2018;43(5):1099-106. 
-27. 
-Taylor S. The Psychology of Pandemics: Preparing for the Next Global Outbreak of 
-Infectious Disease: Cambridge Scholars Publishing; Edição: Unabridged edition; 2019. 178 p. 
-28. 
-Asmundson G, Taylor S. How health anxiety influences responses to viral outbreaks like 
-COVID-19: What all decision-makers, health authorities, and health care professionals need to 
-know. Journal of Anxiety Disorders. 2020;71:102211. 
-29. 
-Dong L, Bouey J. Public Mental Health Crisis during COVID-19 Pandemic, China. Emerg 
-Infect Dis. 2020;26(7). 
-30. 
-Association AP. Highlights of Changes From DSM-IV to DSM-5.  Diagnostic and 
-Statistical Manual of Mental Disorders. DSM Library: American Psychiatric Association; 2013. 
-31. 
-Batelaan NM, Seldenrijk A, Bot M, van Balkom AJ, Penninx BW. Anxiety and new onset 
-of cardiovascular disease: critical review and meta-analysis. The British journal of psychiatry : 
-the journal of mental science. 2016;208(3):223-31. 
-32. 
-McKnight PE, Monfort SS, Kashdan TB, Blalock DV, Calton JM. Anxiety symptoms and 
-functional impairment: A systematic review of the correlation between the two measures. 
-Clinical psychology review. 2016;45:115-30. 
-33. 
-Faravelli C, Lo Sauro C, Godini L, Lelli L, Benni L, Pietrini F, et al. Childhood stressful 
-events, HPA axis and anxiety disorders. World journal of psychiatry. 2012;2(1):13-25. 
-34. 
-Prenderville J, Kennedy P, Dinan T, Cryan J. Adding fuel to the fire: The impact of stress 
-on the ageing brain. Trends in neurosciences. 2015;38:13-25. 
-35. 
-Brydges NM, Whalley HC, Jansen MA, Merrifield GD, Wood ER, Lawrie SM, et al. 
-Imaging conditioned fear circuitry using awake rodent fMRI. PloS one. 2013;8(1):e54197-e. 
-36. 
-Nolte T, Guiney J, Fonagy P, Mayes LC, Luyten P. Interpersonal stress regulation and 
-the development of anxiety disorders: an attachment-based developmental framework. 
-Frontiers in behavioral neuroscience. 2011;5:55-. 
-37. 
-Mamun MA, Griffiths MD. A rare case of Bangladeshi student suicide by gunshot due 
-to unusual multiple causalities. Asian journal of psychiatry. 2020;49:101951. 
-38. 
-Cheung YTD, Chau P, Yip P. A revisit on older adult suicides and Severe Acute 
-Respiratory Syndrome (SARS) epidemic in Hong Kong. International journal of geriatric 
-psychiatry. 2008;23:1231-8. 
-39. 
-Chan S, Chiu F, Lam C, Leung P, Conwell Y. Elderly suicide and the 2003 SARS epidemic 
-in Hong Kong. International journal of geriatric psychiatry. 2006;21:113-8. 
-21 
- 
-40. 
-Li W, Yang Y, Liu ZH, Zhao YJ, Zhang Q, Zhang L, et al. Progression of Mental Health 
-Services during the COVID-19 Outbreak in China. International journal of biological sciences. 
-2020;16(10):1732-8. 
-41. 
-Lu D, Jennifer B. Public Mental Health Crisis during COVID-19 Pandemic, China. 
-Emerging Infectious Disease journal. 2020;26(7). 
-42. 
-Geng F, Redcay E, Riggins T. The influence of age and performance on hippocampal 
-function and the encoding of contextual information in early childhood. NeuroImage. 
-2019;195. 
-43. 
-James L. McGaugh FB-R, Roberto A. Prado-Alcalá. Plasticity in the Central Nervous 
-System: Learning and Memory. 1 ed: Routledge; 2019. 216 p. 
-44. 
-Cross ZR, Santamaria A, Kohler MJ. Attention and Emotion-Enhanced Memory: A 
-Systematic Review and Meta-Analysis of Behavioural and Neuroimaging Evidence. bioRxiv. 
-2018:273920. 
-45. 
-Pediatrics AAo. Clinical practice guideline: diagnosis and evaluation of the child with 
-attention-deficit/hyperactivity disorder. American Academy of Pediatrics. Pediatrics. 
-2000;105(5):1158-70. 
-46. 
-Wang LJ, Lee SY, Yuan SS, Yang CJ, Yang KC, Huang TS, et al. Prevalence rates of youths 
-diagnosed with and medicated for ADHD in a nationwide survey in Taiwan from 2000 to 2011. 
-Epidemiology and psychiatric sciences. 2017;26(6):624-34. 
-47. 
-Chen P, Mao L, Nassis GP, Harmer P, Ainsworth BE, Li F. Returning Chinese school-aged 
-children and adolescents to physical activity in the wake of COVID-19: Actions and precautions. 
-J Sport Health Sci. 2020:S2095-546(20)30049-1. 
-48. 
-Kolar D, Keller A, Golfinopoulos M, Cumyn L, Syer C, Hechtman L. Treatment of adults 
-with attention-deficit/hyperactivity disorder. Neuropsychiatric disease and treatment. 
-2008;4(2):389-403. 
-49. 
-Zhang J, Shuai L, Yu H, Wang Z, Qiu M, Lu L, et al. Acute stress, behavioural symptoms 
-and mood states among school-age children with attention-deficit/hyperactive disorder during 
-the COVID-19 outbreak. Asian journal of psychiatry. 2020;51:102077. 
-50. 
-Kessler RC, Foster CL, Saunders WB, Stang PE. Social consequences of psychiatric 
-disorders, I: Educational attainment. The American journal of psychiatry. 1995;152(7):1026-32. 
-51. 
-Reeves WC, Strine TW, Pratt LA, Thompson W, Ahluwalia I, Dhingra SS, et al. Mental 
-illness surveillance among adults in the United States. MMWR supplements. 2011;60(3):1-29. 
-22 
- 
-52. 
-Smit F, Cuijpers P, Oostenbrink J, Batelaan N, de Graaf R, Beekman A. Costs of nine 
-common mental disorders: implications for curative and preventive psychiatry. The journal of 
-mental health policy and economics. 2006;9(4):193-200. 
-53. 
-Bennett S, Shafran R, Coughtrey A, Walker S, Heyman I. Psychological interventions for 
-mental health disorders in children with chronic physical illness: a systematic review. Archives 
-of disease in childhood. 2015;100(4):308-16. 
-54. 
-Edwards E, Mischoulon D, Rapaport M, Stussman B, Weber W. Building an evidence 
-base in complementary and integrative healthcare for child and adolescent psychiatry. Child 
-and adolescent psychiatric clinics of North America. 2013;22(3):509-29, vii. 
-55. 
-Park C. Mind-body CAM interventions: current status and considerations for 
-integration into clinical health psychology. Journal of clinical psychology. 2013;69(1):45-63. 
-56. 
-Chang C, Tsai G, Hsieh CJ. Psychological, immunological and physiological effects of a 
-Laughing Qigong Program (LQP) on adolescents. Complementary therapies in medicine. 
-2013;21(6):660-8. 
-57. 
-Uebel-von Sandersleben H, Albrecht B, Rothenberger A, Fillmer-Heise A, Roessner V, 
-Sergeant J, et al. Revisiting the co-existence of Attention-Deficit/Hyperactivity Disorder and 
-Chronic Tic Disorder in childhood—The case of colour discrimination, sustained attention and 
-interference control. PloS one. 2017;12(6):e0178866. 
-58. 
-Hagen I, Nayar US. Yoga for Children and Young People's Mental Health and Well-
-Being: Research Review and Reflections on the Mental Health Potentials of Yoga. Frontiers in 
-psychiatry. 2014;5:35. 
-59. 
-Zgierska A, Rabago D, Chawla N, Kushner K, Koehler R, Marlatt A. Mindfulness 
-meditation for substance use disorders: a systematic review. Substance abuse. 2009;30(4):266-
-94. 
-60. 
-Miller JJ, Fletcher K, Kabat-Zinn J. Three-year follow-up and clinical implications of a 
-mindfulness meditation-based stress reduction intervention in the treatment of anxiety 
-disorders. General hospital psychiatry. 1995;17(3):192-200. 
-61. 
-de Bruin EI, Formsma AR, Frijstein G, Bögels SM. Mindful2Work: Effects of Combined 
-Physical Exercise, Yoga, and Mindfulness Meditations for Stress Relieve in Employees. A Proof 
-of Concept Study. Mindfulness. 2017;8(1):204-17. 
-62. 
-Bazzano AN, Anderson CE, Hylton C, Gustat J. Effect of mindfulness and yoga on quality 
-of life for elementary school students and teachers: results of a randomized controlled school-
-based study. Psychology research and behavior management. 2018;11:81-9. 
-23 
- 
-63. 
-Streeter CC, Gerbarg PL, Brown RP, Scott TM, Nielsen GH, Owen L, et al. Thalamic 
-Gamma Aminobutyric Acid Level Changes in Major Depressive Disorder After a 12-Week 
-Iyengar Yoga and Coherent Breathing Intervention. Journal of alternative and complementary 
-medicine (New York, NY). 2020;26(3):190-7. 
-64. 
-Wadden KP, Snow NJ, Sande P, Slawson S, Waller T, Boyd LA. Yoga Practitioners 
-Uniquely Activate the Superior Parietal Lobule and Supramarginal Gyrus During Emotion 
-Regulation. Frontiers in integrative neuroscience. 2018;12:60. 
-65. 
-van Aalst J, Ceccarini J, Schramm G, Van Weehaeghe D, Rezaei A, Demyttenaere K, et 
-al. Long-term Ashtanga yoga practice decreases medial temporal and brainstem glucose 
-metabolism in relation to years of experience. EJNMMI Research. 2020;10. 
-66. 
-Coimbra NC, De Oliveira R, Freitas RL, Ribeiro SJ, Borelli KG, Pacagnella RC, et al. 
-Neuroanatomical approaches of the tectum-reticular pathways and immunohistochemical 
-evidence for serotonin-positive perikarya on neuronal substrates of the superior colliculus and 
-periaqueductal gray matter involved in the elaboration of the defensive behavior and fear-
-induced analgesia. Experimental neurology. 2006;197(1):93-112. 
-67. 
-Gotink RA, Vernooij MW, Ikram MA, Niessen WJ, Krestin GP, Hofman A, et al. 
-Meditation and yoga practice are associated with smaller right amygdala volume: the 
-Rotterdam study. Brain Imaging Behav. 2018;12(6):1631-9. 
-68. 
-Paschoalin-Maurin T, dos Anjos-Garcia T, Falconi-Sobrinho LL, de Freitas RL, Coimbra 
-JPC, Laure CJ, et al. The Rodent-versus-wild Snake Paradigm as a Model for Studying Anxiety- 
-and Panic-like Behaviors: Face, Construct and Predictive Validities. Neuroscience. 
-2018;369:336-49. 
-69. 
-Abrams A. Music, cancer, and immunity. Clinical journal of oncology nursing. 
-2001;5(5):222-4. 
-70. 
-Hatem T, Lira P, Mattos S. The therapeutic effects of music in children following cardiac 
-surgery. Jornal de pediatria. 2006;82:186-92. 
-71. 
-Metcalf CS, Huntsman M, Garcia G, Kochanski AK, Chikinda M, Watanabe E, et al. 
-Music-Enhanced Analgesia and Antiseizure Activities in Animal Models of Pain and Epilepsy: 
-Toward Preclinical Studies Supporting Development of Digital Therapeutics and Their 
-Combinations With Pharmaceutical Drugs. Frontiers in neurology. 2019;10:277. 
-72. 
-Thomas MSC, Ansari D, Knowland VCP. Annual Research Review: Educational 
-neuroscience: progress and prospects. Journal of child psychology and psychiatry, and allied 
-disciplines. 2019;60(4):477-92. 
-73. 
-Purves D. Brains: how they seem to work: Ft Press; 2010. 
-24 
- 
-74. 
-de Sousa LB, de Oliveira Sá IS, de Oliveira ARSM, de Carvalho MdG, de Souza Teixeira 
-MM. Neuroeducation: An Approach to Brain Plasticity in Learning. Amadeus International 
-Multidisciplinary Journal. 2019;4(7):86-104. 
-75. 
-Carey S. Cognitive science and science education. American psychologist. 
-1986;41(10):1123. 
-76. 
-de Tienda Palop L. The Role of the Emotions in Moral Neuroeducation.  Moral 
-Neuroeducation for a Democratic and Pluralistic Society: Springer; 2019. p. 61-75. 
-77. 
-Belasco AGS, Fonseca CDd. Coronavirus 2020. Revista Brasileira de Enfermagem. 
-2020;73(2). 
-78. 
-Davis JL. Brain Structure, Learning, and Memory: Routledge; 2019. 
-79. 
-DE FREITAS RLN-B, Mônica; MEDEIROS, Priscila de. Neurociência das emoções, da 
-aprendizagem e do comportamento autolesivo.: FMIT; 2019. 
- 

@@ -1,98 +1,22 @@
- 
-1 de 20 
-Narrative review 
- 
-Evidence from Cochrane systematic reviews for the 
-dissemination control of the COVID-19 infection 
- 
-Ronald Luiz Gomes FlumignanI, Luis Carlos Uta NakanoII, Patricia Irene Ferreira PascoalIII, Brena 
-Costa dos SantosIV, Rebeca Mangabeira CorreiaV, Beatriz Périco SilveiraVI, Fabio Akio TakihiVII, 
-Carolina Dutra Queiroz FlumignanVIII, Jorge Eduardo de AmorimIX, Álvaro Nagib AtallahX 
-Division of Vascular and Endovascular Surgery and the Division of Emergency Medicine and 
-Evidence-Based Medicine, Escola Paulista de Medicina, Universidade Federal de São Paulo, Brazil. 
-IVascular surgeon, adjunct professor of the Division of Vascular and Endovascular Surgery, 
-Department of Surgery, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-
-UNIFESP), São Paulo (SP), Brazil.  
-orcid.org/0000-0001-6440-8011 
-flumignan@unifesp.br 
-IIVascular surgeon, adjunct professor of the Division of Vascular and Endovascular Surgery, 
-Department of Surgery, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-
-UNIFESP), São Paulo (SP), Brazil.  
-orcid.org/0000-0002-7996-3269 
-luiscnakano@uol.com.br 
-IIIVascular surgeon, volunteer researcher in the Division of Vascular and Endovascular Surgery, 
-Department of Surgery, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-
-UNIFESP), São Paulo (SP), Brazil.  
-orcid.org/0000-0002-9872-4749 
-drapatriciapascoal@hotmail.com 
-IV Vascular surgery resident doctor, Division of Vascular and Endovascular Surgery, Department of 
-Surgery, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-UNIFESP), São 
-Paulo (SP), Brazil. 
-orcid.org/0000-0002-3422-8324   
-brenacsantos@hotmail.com 
-Vascular surgery resident doctor, Division of Vascular and Endovascular Surgery, Department of 
-Surgery, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-UNIFESP), São 
-Paulo (SP), Brazil. 
-orcid.org/0000-0002-5107-4216  
- 
-2 de 20 
-rebecamangabeira@hotmail.com 
-VIUndergraduate medical student at Escola Paulista de Medicina, Universidade Federal de São 
-Paulo (EPM-UNIFESP), São Paulo (SP), Brazil.  
-orcid.org/0000-0003-2516-1524 
-beatriz.pericoepm@gmail.com 
-VIIUndergraduate medical student at Escola Paulista de Medicina, Universidade Federal de São 
-Paulo (EPM-UNIFESP), São Paulo (SP), Brazil.  
-orcid.org/0000-0002-1252-6339 
-akiogun@gmail.com 
-VIIIVascular surgeon, volunteer researcher in the Division of Vascular and Endovascular Surgery, 
-Department of Surgery, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-
-UNIFESP), São Paulo (SP), Brazil.  
-orcid.org/0000-0001-9943-3583  
-carolina.flumignan@gmail.com 
-IXVascular surgeon, adjunct professor of the Division of Vascular and Endovascular Surgery, 
-Department of Surgery, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-
-UNIFESP), São Paulo (SP), Brazil. 
- orcid.org/0000-0001-7149-1597  
-jorgeamorim@terra.com.br 
-IXPhysician, full professor of the Division of Emergency Medicine and Evidence-Based Medicine, 
-Department of Medicine, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM-
-UNIFESP), São Paulo (SP), Brazil. Founder and Director of the Cochrane Brazil Centre. 
-orcid.org/0000-0003-0890-594X 
-alvaro.atallah@gmail.com 
-Flumignan, RLG: responsible for the conceptualization, data data curation, investigation, 
-supervision and writing of the original draft; Nakano, LCU: responsible for data curation and 
-formal data analysis; Pascoal, PIF: responsible for data curation, formal data analysis and final 
-writing; Santos, BC: responsible for formal data analysis and final writing; Correia, RM: 
-responsible for formal data analysis and final writing; Silveira, BP; responsible for formal data 
-analysis and final writing; Takihi, FA: responsible for formal data analysis and final writing; 
-Flumignan, CDQ: responsible for formal data analysis and final writing; Amorim, JE: responsible 
-for formal data analysis and final writing; Atallah, AN: responsible for formal data analysis, 
-methodology development and final writing. 
-Contact author: 
- 
-3 de 20 
-Luis Carlos Uta Nakano 
-Division of Vascular and Endovascular Surgery, Department of Surgery, UNIFESP-EPM 
-754, Rua Borges Lagoa - São Paulo (SP) - 04038-002 
-+55 (11) 5576-4848, voip 1804 - e-mail: luiscnakano@uol.com.br 
-Funding sources: none. Conflict of interest: none. 
- 
- 
- 
-4 de 20 
-ABSTRACT 
 Introduction: The COVID-19 infection has high transmissibility and several measures have been 
-adopted for dissemination control. Objective: To identify and summarize the evidence from the 
+adopted for dissemination control. 
+
+Objective: To identify and summarize the evidence from the 
 Cochrane systematic reviews (SR) on measures to control the dissemination of the COVID-19 
 infection. Study design: This review of Cochrane SR has carried out in the Division of Vascular and 
 Endovascular Surgery and in the Division of Emergency Medicine and Evidence-Based Medicine 
-of the Universidade Federal de São Paulo, Brazil. Methods: A comprehensive search in the 
+of the Universidade Federal de São Paulo, Brazil. 
+
+Methods: A comprehensive search in the 
 Cochrane Database of Systematic Reviews retrieved all Cochrane SR directly related to control 
 measures for the COVID-19 dissemination. The main characteristics and results of all included SR 
-were summarized and discussed. Results: Three Cochrane SRs were included in the qualitative 
+were summarized and discussed. 
+
+Results: Three Cochrane SRs were included in the qualitative 
 synthesis and they evaluated populational and individual measures to control the dissemination of 
-COVID-19. Conclusion: Low-certainty evidence show that quarantine of people exposed to those 
+COVID-19. 
+
+Conclusion: Low-certainty evidence show that quarantine of people exposed to those 
 confirmed or suspected COVID-19 cases prevented 44% - 81% of incident cases and 31% - 63% of 
 deaths compared to no measures and as sooner the quarantine measures are implemented, greater 
 costs are saved. High-confidence evidence showed that clear communication about infection control 
@@ -100,13 +24,7 @@ and prevention guidelines was vital to its implementation. Low-certainty evidenc
 people with a long gown had less contamination than those with a coverall, and the coverall was 
 more difficult to doff. Other SRs are desirable for controlling the dissemination of the COVID-19 
 infection. 
- 
-KEY WORDS: Coronavirus infections, coronavirus, review, evidence-based practice, pandemics 
- 
- 
- 
-5 de 20 
-INTRODUCTION 
+
 The disease reached by Coronavirus 2019 (COVID-19) is a respiratory tract infection caused by a 
 new coronavirus, which was first identified in Wuhan, China, in December 2019. While many 
 people with COVID-19 develop only moderate symptoms or infection without complications, 
@@ -117,79 +35,71 @@ contaminated surfaces. Although the incubation time varies from 5 to 6 days in t
 this time can reach up to 14 days. The infection period is not precise, varying from 24 hours to 48 
 hours before the manifestation of the symptoms, with a high amount of viruses detected in the upper 
 respiratory tract in the onset of the disease.1 
+
 When a new respiratory infection becomes widespread, such as the COVID-19 pandemic, health 
 professionals must adhere to protocols in order to avoid contamination and infection. The strategies 
 of these protocols include the use of personal protective equipment (PPE) such as masks, face 
 protection, gloves, gowns; isolation of patients with a respiratory infection and strict cleaning 
 routine. As, in practice, these strategies can be challenging to adhere to, the health care authorities 
 and facilitators need to support health professionals to implement them.2 
+
 In epidemics and pandemics with highly infectious diseases such as severe acute respiratory 
 syndrome (SARS), Ebola and COVID-19, health professionals are the group with the highest risk of 
 infection due to contact with body fluids of contaminated patients.3 
+
 The World Health Organization (WHO) recommends quarantine (isolated and associated with other 
 public health measures) as a measure to control the spread of infection. Both quarantine and social 
 isolation are epidemiological interventions to mitigate infectious disease and reduce the potential 
 for transmission. However, the effects of these and other measures to control the pandemic still 
 generate discussions.4 
+
 Different countries use interventions for the infection dissemination control, both individual and 
 collective, such as the use of PPE, social isolation and compulsory quarantine, but the impact of 
 such measures still requires studies that bring robust evidence. 
- 
-OBJECTIVE 
+
 This study aimed to identify and summarize the pieces of evidence from the Cochrane systematic 
 reviews (SR) regarding measures to control the COVID-19 infection dissemination in an overview. 
- 
-METHODS 
-Design and setting 
+
 This review of the Cochrane SR has carried out in the Division of Vascular and Endovascular 
 Surgery and the Division of Emergency Medicine and Evidence-Based Medicine of the 
 Universidade Federal de São Paulo, Brazil. 
- 
-6 de 20 
- 
-Inclusion criteria 
-Types of study 
+
 Full Cochrane SRs published in the Cochrane Database of Systematic Reviews (CDSR) were 
 included, with no restrictions on the date of publication. Withdrawn or outdated versions of SR and 
 protocols for SR were considered not relevant. 
-Types of participants 
+
 All participants at risk of contagion, with suspected clinical status or confirmed COVID-19 
 infection, male and female, of all ages, with no restrictions as to the severity of the condition or 
 place of treatment (outpatient or hospital) were considered relevant. 
-Types of interventions 
+
 We considered the SRs that evaluated any intervention to control the spread or reduce contagion of 
 COVID-19 infection compared to standard care or another intervention, in at least one arm of the 
 study. 
-Types of outcomes 
+
 Any epidemiological, clinical or laboratory results relevant to the patient were considered, as 
 assessed by the authors of the included SR. 
-Revision search 
+
 We performed a sensitive systematic search on the CDSR, via Wiley, on 26 April 2020. We used 
 the following MeSH terms ‘Coronavirus Infections’ and ‘Coronavirus’, all related variants, in 
 addition to free terms in ‘titles, abstracts and keywords’. The detailed electronic search strategy is 
 shown in Table 1. 
-Revision selection 
+
 Two researchers (RLGF and LCUN) independently assessed the titles and abstracts to analyse 
 whether the SR met the inclusion criteria using the Rayyan software (rayyan.qcri.org/welcome).5 
 Any disagreement was resolved with the consultation of other authors (PIFP and CDQF) or by 
 discussion. The SR were selected and summarized by two authors (RLGF, PIFP). 
-Results presentation 
+
 The search results and the SRs included were presented as a qualitative synthesis (descriptive 
 approach). 
- 
-RESULTS 
-Search Results 
- 
-7 de 20 
+
 Our search strategy retrieved 19 references and, after screening the titles and abstracts, six SRs were 
 pre-selected. After evaluating the full texts, three reviews met the inclusion criteria and were 
 included in the qualitative summary.2-4 
-Comments included 
+
 The most recent versions of all included SRs were published in April 2020 in the CDSR. Details 
 regarding the review design, the characteristics of the interventions, comparisons, results and the 
 certainty or confidence of evidence are presented in Table 2.2-4 
-1. Quarantine alone or in combination with other public health measures to control COVID‐
-19: a rapid review 4 
+
 A rapid review was carried out to support WHO quarantine-related measures since the COVID-19 
 pandemic was declared in March 2020. Nussbaumer-Streit et al. performed a SR with abbreviated 
 methods (rapid review) in order to evaluate two key questions (KQ): 1) the effects of quarantine 
@@ -197,7 +107,7 @@ methods (rapid review) in order to evaluate two key questions (KQ): 1) the effec
 with confirmed cases of COVID -19 and 2) the effects of quarantine on individuals who have 
 travelled from countries with a declared pandemic or who live in regions with high transmission of 
 the disease. 
-Main results 
+
 The SR authors included 29 studies: 10 modelling studies at COVID-19, four observational studies 
 and 15 modelling studies at SARS and the Middle East respiratory syndrome (MERS) (Table 2). 
 Due to the different measurement and analysis methods among the results of interest, it was not 
@@ -205,6 +115,7 @@ possible to carry out a meta-analysis, and the SR authors summarized the data in
 synthesis. Following the Grading of Recommendations, Assessment, Development and Evaluations 
 (GRADE) approach, the level of evidence varied from low to very low due to the type of evidence 
 found for this SR. 6 
+
 Modelling studies reported a benefit from simulated quarantine measures, for instance, quarantining 
 people exposed to confirmed or suspected cases prevented 44% to 81% of incident cases and 31% 
 to 63% of deaths compared to no measures and based in different settings (incident cases: four 
@@ -219,9 +130,7 @@ significant effect in reducing new cases, transmissions and deaths than in indiv
 (cases incidents: four modelling studies at COVID-19; subsequent transmission: two modelling 
 studies at COVID-19; mortality: two modelling studies at COVID-19; low-certainty evidence). The 
 studies on SARS and MERS were consistent with the results of studies on COVID-19. 
-Adverse effects 
- 
-8 de 20 
+
 This SR focused on transmission, reducing mortality and the use of quarantine resources because 
 WHO selected these as outcomes of interest. The SR authors did not include the psychological 
 impact of quarantine on individuals. There may be other adverse economic and health effects 
@@ -233,7 +142,7 @@ modelling studies that report the use of resources to specific critical assessme
 assessments and did not attempt to conclude the relative costs or quarantine efficiency alone or in 
 combination with other measures compared to these isolated public health interventions or 
 measures. 
-Review conclusions 
+
 This SR showed that quarantine is essential in reducing incidence and mortality during the COVID-
 19 pandemic, but the evidence is limited to modelling studies that make assumptions of parameters 
 based on current knowledge. The early implementation of the quarantine and the combination of the 
@@ -241,10 +150,7 @@ quarantine with other public health measures proved to be essential to ensure ef
 Decision-makers should continuously monitor the outbreak situation and the impact of the measures 
 implemented. Testing representative samples in different contexts can help to assess the true 
 prevalence of infection and reduce the uncertainty of modelling assumptions. 
- 
-2. Barriers and facilitators to healthcare workers’ adherence with infection prevention and 
-control (IPC) guidelines for respiratory infectious diseases: a rapid qualitative evidence 
-synthesis 2 
+
 It is a rapid review for the evidence synthesis on the factors that influence health professionals to 
 follow infection control and prevention (ICP) protocols for respiratory diseases. These strategies 
 include the use of PPE such as masks, face shields, gloves and an apron; isolation of patients with 
@@ -252,7 +158,7 @@ infectious respiratory disease; and stricter cleaning routine. The review author
 MEDLINE database via OVID and included all types of primary studies, with no limits on date or 
 language of publication. The review authors used the GRADE-CERQual approach (Trust in 
 Evidence from Qualitative Research Reviews) to assess confidence in each result. 
-Main results 
+
 The SR authors found 36 relevant studies and 20 studies were included in the qualitative analysis of 
 this review. There was no meta-analysis, and the results were reported narratively (Table 2). Ten of 
 the included studies were from Asia, four from Africa, four from Central America and North 
@@ -260,26 +166,30 @@ America and two from Australia. The studies demonstrated the vision and experien
 doctors and other health professionals who deal with SARS, Influenza A (H1N1), MERS, 
 tuberculosis (TB) or seasonal influenza. Most participating health professionals work in hospitals 
 and primary care communities. 
+
 The following factors (barriers or facilitators) are based on results assessed as moderate to high 
 confidence. 
- 
-9 de 20 
+
 Health professionals felt insecure about how to follow local guidelines when they were long and 
 ambiguous or did not reflect national or international guidelines. They felt overwhelmed because 
 local guidelines were continually changing. They also described how ICP strategies led to increased 
 workloads and fatigue, for example, because they had to wear PPE and do additional cleaning. 
 Health professionals described how the level of support they felt they received from their 
 management team influenced their responses to ICP guidelines. 
+
 Clear communication about ICP guidelines was considered vital. Health professionals pointed out 
 the lack of training on the infection itself and on how to use PPE and also considered it to be a 
 problem when training was not mandatory. 
+
 Sufficient space to isolate patients was also considered essential. The lack of isolation rooms, 
 antechambers and showers was a problem. Other critical practical measures described by health 
 professionals include minimizing overcrowding, rapid screening of infected patients, restricting 
 visitors and easy access to handwashing facilities. 
+
 The lack of PPE and inadequate quality equipment was a serious concern for health workers and 
 managers. They also pointed out the need to adjust the volume of supplies as outbreaks of infection 
 continued. 
+
 Health professionals believed that they followed ICP guidelines more carefully when they 
 understood their value. Some health professionals felt motivated to follow the guidelines because 
 they were afraid of infecting themselves or their families or because they felt responsible for their 
@@ -287,34 +197,32 @@ patients. Some health professionals found it difficult to use masks and other eq
 made patients feel isolated, scared or stigmatized. Health professionals also found masks and other 
 equipment uncomfortable to use. The culture of the workplace can also influence whether health 
 professionals follow ICP guidelines or not. 
+
 In many of the conclusions, health professionals pointed out the importance of including all 
 employees, including cleaning, doorkeepers, kitchen and other support staff when implementing 
 ICP guidelines. 
-Adverse effects 
+
 Some factors may constitute barriers to infection control and prevention strategies, such as the lack 
 of alignment of national and international protocols, leading to the insecurity of health professionals 
 in following them. Another critical factor is the lack of personal protective equipment or the 
 availability of inferior material, causing discomfort among professionals. In some situations, 
 although health professionals have access to regulations, it can be challenging to adhere to the 
 protocols, especially when working in critical conditions. 
-Review conclusions 
+
 The review authors point out several factors that influenced the ability and willingness of health 
 professionals to follow ICP guidelines when managing respiratory diseases. Those factors include 
 factors linked to the guideline itself and how it is communicated, support from managers, the 
 culture of the workplace, training, physical space, access and confidence in personal protective 
 equipment and the desire to provide excellent patient care. The review also highlights the 
- 
-10 de 20 
 importance of including all staff at the facility, including the support team, when implementing the 
 ICP guidelines. 
-3. Personal protective equipment for preventing highly infectious diseases due to exposure to 
-contaminated body fluids in healthcare staff 3 
+
 In situations of the outbreak of epidemics or pandemics, there is an increased risk of infection for 
 healthcare professionals due to greater exposure to body fluids from infected patients and PPE can 
 reduce this exposure. This study is a systematic review to assess which type of full-body PPE and 
 which method of dressing and undressing has the lowest risk of contamination and infection for 
 health professionals, in addition to training methods that can increase adherence to protocols. 
-Main results 
+
 The SR authors included 24 studies with 2,278 participants in this SR, 14 of these studies were 
 randomized controlled trials (RCT), one quasi-RCT and nine had a non-randomized design. From 
 those 24 included studies, eight compared types of PPE, six studies evaluated adapted PPE, eight 
@@ -322,9 +230,11 @@ compared dressing and undressing processes, and three studies evaluated types of
 studies used simulated exposure with fluorescent markers or harmless microbes. In simulation 
 studies, the average contamination rates were 25% for the intervention and 67% for the control 
 groups. 
+
 The certainty of the evidence for all results is very low, except when mentioned otherwise, because 
 it is based on one or two studies, because it used indirect evidence in the simulation studies and 
 because of the risk of bias in the included studies (Table 2). 
+
 The use of an energized respirator and air purifier with coveralls can protect against the risk of 
 contamination better than an N95 mask and gown (relative risk (RR) 0.27, 95% confidence interval 
 (CI) 0.17 to 0.43), but it was more difficult to wear (non-conformity: RR 7.5, 95% CI 1.81 to 31.1). 
@@ -335,33 +245,36 @@ overalls, and the overalls were more difficult to wear (evidence of low certaint
 number of stains on the trunk (MD 1.60, 95% CI -0.15 to 3.35) compared to water-repellent 
 material, but can have greater user satisfaction (MD -0.46, 95% CI -0.84 to -0.08, scale from 1 to 
 5). 
+
 The following modifications to the design of the PPE can lead to less contamination compared to 
 the standard PPE: the combination of sealed gown and gloves (RR 0.27, 95% CI 0.09 to 0.78), a 
 more suitable dress around the neck, wrists and hands (RR 0.08, 95% CI 0.01 to 0.55), better 
 coverage of the dress-wrist interface (RR 0.45, 95% CI 0.26 to 0.78, evidence of low certainty), 
 additional guides to grab to facilitate the use of masks (RR 0.33, 95% CI 0.14 0.80) or gloves (RR 
 0.22, 95% CI 0.15 to 0.31). 
+
 The use of the Centers for Disease Control and Prevention (CDC) recommendations can lead to less 
 contamination compared to no guidance (small spots: MD -5.44, 95% CI -7.43 to -3.45). One-step 
 removal of gloves and gown can lead to less bacterial contamination (RR 0.20, 95% CI 0.05 to 
 0.77), but not less fluorescent contamination (RR 0.98, 95% CI 0.75 to 1.28) than separate removal. 
- 
-11 de 20 
+
 The use of double gloves can lead to less viral or bacterial contamination compared to simple 
 gloves (RR 0.34, 95% CI 0.17 to 0.66), but not less fluorescent contamination (RR 0.98, CI 95 % 
 0.75 to 1.28). Additional spoken instruction can lead to fewer errors in execution (MD -0.9, 95% CI 
 -1.4 to -0.4) and fewer points of contamination (MD -5, 95% CI -8.08 to - 1.92). 
+
 The use of additional computer simulation can lead to fewer errors in the process (MD -1.2, 95% CI 
 -1.6 to -0.7). A video lecture on PPE placement can lead to better skill scores (MD 30.70, 95% CI 
 20.14 to 41.26) than a traditional lecture. Face-to-face instructions can reduce non-compliance with 
 guidelines compared to just providing folders or videos (odds ratio (OR) 0.45, 95% CI 0.21 to 
 0.98). 
-Adverse effects 
+
 The use of various elements of PPE creates discomfort in its use, which can increase the risk of 
 contamination of the health professional at the time of undressing. 
+
 The use of an energized respirator and air purifier with overalls was more challenging to wear (non-
 compliance: RR 7.5, 95% CI 1.81 to 31.1). 
-Review conclusions 
+
 This SR found low to very low-certainty evidence that covering more parts of the body leads to 
 better protection, but it is generally more difficult to wear or make and generates less user comfort 
 and, therefore, may even lead to more contamination. More breathable types of PPE can lead to 
@@ -371,23 +284,23 @@ procedures, following the CDC guidelines, removing the glove and gown in one ste
 gloves, verbal instructions during execution and the disinfection of gloves can reduce contamination 
 and increase compliance. Face-to-face training in the use of PPE can reduce errors more than 
 training based on printed material such as folders. 
+
 The SR authors conclude that we still need training RCTs with long-term follow-up, simulation 
 studies with more participants to find out which PPE combinations and which procedure better 
 protects. There is an urgent need for a consensus on the simulation of exposure and evaluation of 
 the result. They also concluded that we need more evidence from real life. Therefore, the use of 
 PPE by health professionals exposed to highly infectious diseases must be registered, and the health 
 professional must be followed prospectively regarding the risk of infection. 
- 
-DISCUSSION 
+
 The COVID-19 pandemic is right now the most significant global health threat, and its 
 dissemination has been rapid, with at least 146 countries affected.7 
+
 One of the WHO guidelines for disease control is quarantine, which means the separation between 
 healthy people who can be infected by the virus and have the potential to spread the disease. 
 Another similar recommendation is isolation (similar to quarantine, but it includes people with 
 symptoms of COVID-19) and social distance (when healthy people keep physical distance from 
 other people) .1 
- 
-12 de 20 
+
 In massive pandemics with a highly infectious disease such as COVID-19, there is higher 
 contamination among health professionals, who may develop earlier infectious conditions, due to 
 more significant contact with infected people. Therefore, it is urgent to determine strategies and 
@@ -397,492 +310,42 @@ coveralls as a routine in the care of these infected patients and following the 
 and undressing, there will be more significant mitigation in cases of contamination. Often, these 
 strategies become difficult to follow in practice, so there is a need for more significant support for 
 these professionals for them to be implemented. 
+
 Several measures were taken in the face of this pandemic, such as the combination of case isolation, 
 domestic quarantine and social distance between risk groups (the elderly, individuals with 
 comorbidities) which is the most effective combined policy for reducing the epidemic curve. 
+
 Through these Cochrane SRs, it is possible to identify the effects of the strategies used to clarify 
 health professionals regarding the use of PPE and the valuation of its use. When following the care 
 protocols to avoid contamination, there is greater security for this professional. Also, it is possible 
 to determine the effects of quarantine (isolated and when associated with other public health 
 measures) to reduce incidence and mortality during the COVID-19 pandemic and that its early 
 implementation is essential for the effectiveness of this action. 
+
 The success of those approaches is not only due to the effectiveness of their implementation, but 
 mainly due to the natural and biological history of the pathogen in question, its transmissibility and 
 the feasibility of the intervention in the context of the country's public health.8 
+
 The number of Cochrane systematic reviews that directly address the COVID-19 pandemic is still 
 limited, but efforts are being made to rapidly produce high-quality syntheses of evidence that are of 
 interest for decision-makers in health and health policy.9 
- 
-CONCLUSION 
+
 After a systematic search, three Cochrane SRs were included and contributed with evidence on 
 population measures (such as quarantine and isolation) and individual measures (such as the use of 
 PPE, type of PPE, etc.) to control the spread and manage infection by COVID-19. 
+
 Low-certainty evidence shows that quarantine of people exposed to confirmed or suspected cases 
 prevented 44% - 81% of incident cases and 31% - 63% of deaths compared to no measure, and 
 earlier the quarantine measures are implemented, higher are the savings of costs. 
+
 Evidence of high confidence showed that clear communication about ICP guidelines was 
 considered vital to its implementation. Also, evidence of moderate confidence showed that health 
 professionals felt insecure about how to follow local guidelines when they were long and 
 ambiguous or did not reflect national or international guidelines and that sufficient space to isolate 
 patients was also seen as essential for the implementation of the guidelines. 
+
 Low-certainty evidence showed that people with long aprons had less contamination than those 
 with coveralls, and the coveralls were more challenging to wear. Besides, better coverage of the 
- 
-13 de 20 
 dress-cuff interface can lead to less contamination compared to standard PPE, also with evidence of 
 low certainty. It is uncertain regarding the best use of PPE for the control of the COVID-19 
 dissemination because the related evidence was of very low certainty. 
-REFERENCES 
-1. 
-WHO. Clinical care for severe acute respiratory infection: toolkit. COVID-19 adaptation. 
-Geneva: World Health Organization; 2020  (WHO/2019-nCoV/SARI_toolkit/2020.1). Available in: 
-https://apps.who.int/iris/handle/10665/331736. Accessed in 2020 (19 may). 
- 
-2. 
-Houghton C, Meskell P, Delaney H, et al. Barriers and facilitators to healthcare workers’ 
-adherence with infection prevention and control (IPC) guidelines for respiratory infectious diseases: 
-a rapid qualitative evidence synthesis. Cochrane Database Syst Rev. 2020;(4):CD013582. PMID: 
-32315451; doi: 10.1002/14651858.CD013582.  
-3. 
-Verbeek J, Rajamaki B, Ijaz S, et al. Personal protective equipment for preventing highly 
-infectious diseases due to exposure to contaminated body fluids in healthcare staff. Cochrane 
-Database Syst Rev. 2020;(4): CD011621. PMID: 32293717; doi: 
-10.1002/14651858.CD011621.pub4.  
-4.  
-Nussbaumer‐Streit B, Mayr V, Dobrescu A, et al. Quarantine alone or in combination with 
-other public health measures to control COVID‐19: a rapid review. Cochrane Database Syst Rev. 
-2020;(4):CD013574. PMID: 32267544; doi: 10.1002/14651858.CD013574. 
-5.  
-Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan—a web and mobile app 
-for systematic reviews. Syst Rev. 2016;5(1):210. PMID: 27919275; doi: 10.1186/s13643-016-0384-
-4.  
-6.  
-GRADE working group. From evidence to recommendations – transparent and sensible. 
-Available in:  https://www.gradeworkinggroup.org/. Accessed in em 2020 (19 may). 
-7.  
-Ferguson N, Laydon D, Nedjati Gilani G, et al. Report 9: Impact of non-pharmaceutical 
-interventions (NPIs) to reduce COVID19 mortality and healthcare demand. Imperial College 
-COVID-19 Response Team. 2020. doi: 10.25561/77482. 
-8.  
-Peak CM, Childs LM, Grad YH, Buckee CO. Comparing nonpharmaceutical interventions 
-for containing emerging epidemics. Proc Natl Acad Sci U S A. 2017 11;114(15):4023-8. PMID: 
-28351976; doi: 10.1073/pnas.1616438114. 
-9.  
-Cochrane. Cochrane COVID Rapid Reviews [Internet]. 2020 [cited 2020 May 15]. 
-Available in:  https://covidrapidreviews.cochrane.org/. Accessed in 2020 (19 may). 
- 
- 
- 
-14 de 20 
-Table 1. Electronic search strategy and results in the Cochrane Database of Systematic Reviews 
-Line 
-Searched Terms 
-Number of 
-Results 
-#1 
-MeSH descriptor: [Coronavirus Infections] explode all trees 
-38 
-#2 
-MeSH descriptor: [Coronavirus] explode all trees 
-11 
-#3 
-(severe acute respiratory syndrome coronavirus 2) or 
-(Wuhan coronavirus) or (Wuhan seafood market pneumonia 
-virus) or (COVID19 virus) or (COVID-19 virus) or 
-(coronavirus disease 2019 virus) or (SARS-CoV-2) or 
-(SARS2) or (2019 novel coronavirus) 
-68 
-#4 
-COVID-19 or (2019 novel coronavirus infection) or 
-(COVID-19 pandemic) or (coronavirus disease-19) or 
-(COVID19) or (2019 novel coronavirus disease) or 
-(coronavirus disease 2019) 
-69 
-#5 
-Coronavirus* or Deltacoronavirus* or Deltacoronavirus* or 
-(Munia coronavirus* HKU13) or (Coronavirus* HKU15) or 
-(Coronavirus* Rabbit) or (Bulbul coronavirus* HKU11) or 
-(Thrush coronavirus* HKU12) 
-154 
-#6 
-#1 or #2 or #3 or #4 or #5 
-172 
-#7 
-Filter: Cochrane Reviews 
-19 
- 
- 
-15 de 20 
-Table 2. Details of review design, characteristics of interventions, comparisons, participants, main results and certainty of evidence, assessed by 
-GRADE 
-Reference / Review 
-design 
- 
-Types of primary 
-studies analysed in the 
-review 
-Interventions 
-Comparisons 
-Participants 
-Main Results 
-GRADE 
-Nussbaumer-Streit et al.4 
-/ rapid review 
- 
-• Cohort 
-• Case-control 
-• Time series 
-• Interrupted time series 
-• Case series 
-• Mathematical 
-modelling studies 
-Different types and 
-quarantine locations for 
-individuals. They included 
-studies combining 
-isolation and quarantine. 
-• No quarantine. 
-• Different types and 
-quarantine locations. 
-• Public health measures 
-without quarantine to 
-reduce the spread of the 
-virus (isolation, social 
-distance, personal 
-protective equipment, 
-hand hygiene, others). 
-• (KQ1) contacts of a 
-confirmed or suspected 
-case of COVID-19 
-(SARS or MERS) or 
-individuals living in areas 
-with high rates of 
-transmission; 
-• (KQ2) individuals 
-returning from countries 
-with a declared outbreak 
-of COVID-19 (SARS or 
-MERS), defined by 
-WHO as an ‘occurrence 
-of cases of disease above 
-normal expectations’. 
-● Quarantine of 
-people exposed to 
-confirmed or 
-suspected cases 
-prevented 44% - 81% 
-of incident cases and 
-31% - 63% of deaths 
-compared to no 
-measure (incident 
-cases: four modelling 
-studies at COVID-19, 
-SARS; mortality: two 
-modelling studies at 
-COVID-19, SARS). 
-• Low 
-certainty 
-● The earlier the 
-quarantine measures 
-are implemented, the 
-greater the cost 
-savings (two 
-modelling studies on 
-SARS). 
-• Low 
-certainty 
-● The effect of 
-• Low 
- 
-16 de 20 
-quarantining travellers 
-from a country with a 
-reported outbreak was 
-small in reducing the 
-incidence of illness 
-and deaths (two 
-modelling studies on 
-SARS). 
-certainty 
- 
-● When the models 
-combined quarantine 
-with other prevention 
-and control measures, 
-including school 
-closures, travel 
-restrictions and social 
-distance, modelling 
-studies demonstrated a 
-greater effect in 
-reducing new cases, 
-transmissions and 
-deaths than individual 
-measures alone (cases 
-incidents: four 
-modelling studies at 
-COVID-19; subsequent 
-transmission: two 
-modelling studies at 
-COVID-19; mortality: 
-two modelling studies 
-at COVID-19). 
-• Low 
-certainty 
- 
-Houghton et al.2 / rapid 
-review (synthesis of 
-• Early recognition and 
-source control (screening, 
-Control group is not 
-evident from the nature 
-Most of the included 
-studies involved nurses 
-● Health professionals 
-felt insecure about 
-● Moderate 
-confidence 
- 
-17 de 20 
-evidence) 
- 
- 
-• Mixed method designs 
-(qualitative aspect) 
-breathing 
-hygiene). 
-• Administrative controls 
-(isolation, spatial 
-separation, cohort of 
-patients). 
-• Environmental and 
-engineering controls 
-(cleaning and disinfection, 
-ventilation). 
-• PPE (dressing and 
-undressing), aprons, 
-gloves, masks, glasses). 
-• Hand hygiene. 
-of the review. 
-(14 studies) or doctors (9 
-studies). Other types of 
-health professionals 
-included in the studies 
-were occupational 
-therapists, respiratory 
-therapists and physical 
-therapists; auxiliary 
-personnel responsible for 
-patient care, such as 
-porters and domestic 
-workers; laboratory 
-technicians; infection 
-control professionals; and 
-managers. 
-how to follow local 
-guidelines when they 
-were long and 
-ambiguous or did not 
-reflect national or 
-international 
-guidelines. 
-● Clear 
-communication about 
-ICP guidelines was 
-considered vital for its 
-implementation. 
-● High 
-confidence 
-● Sufficient space to 
-isolate patients was 
-also considered 
-essential for the 
-implementation of the 
-guidelines. 
-● Moderate 
-confidence 
-● The lack of PPE and 
-poor quality equipment 
-was a serious concern 
-for health workers and 
-managers. 
-● Moderate 
-confidence 
-● Health professionals 
-believed that they 
-followed ICP 
-guidelines more 
-closely when they saw 
-their value. 
-● Moderate 
-confidence 
-● Health professionals 
-• Low 
- 
-18 de 20 
-pointed out the 
-importance of 
-including all 
-employees (cleaning, 
-doormen, kitchen and 
-other support staff) 
-when implementing 
-ICP guidelines. 
-confidence 
-Verbeek et al.3 / 
-traditional systematic 
-review 
- 
-• RCT 
-• Non-randomized 
-controlled trial 
-• Cohort 
-• Case-control 
-• Prospective and 
-retrospective controlled 
-field studies 
-• Different types of full 
-body protection (PPE), 
-different compositions or 
-amounts of PPE (body 
-protection, such as aprons, 
-overalls; eye and face 
-protection in glasses, 
-goggles, face mask visors 
-or masks or hoods that 
-cover the entire head; hand 
-protection: gloves; and 
-foot protection: boots). 
-• Different parts of PPE or 
-different procedures or 
-protocols for placing and 
-producing PPE. 
-• Effectiveness of training 
-to increase compliance 
-with existing guidelines on 
-the selection or use of 
-PPE, including, but not 
-limited to: education 
-(courses); practical 
-training; information only 
-Comparisons were 
-grouped according to 
-similarity. Studies 
-without a comparator 
-group were not included. 
-• For simulation studies, 
-any type of participant 
-(volunteer or health 
-professional) using PPE 
-designed for Ebola virus 
-disease or highly 
-infectious diseases 
-comparable with serious 
-consequences was 
-included. 
-• For field studies, only 
-studies carried out with 
-health professionals or 
-auxiliaries exposed to 
-patients' body fluids in 
-the form of splashes, 
-droplets or aerosols 
-contaminated with 
-particles of highly 
-infectious diseases that 
-have serious health 
-consequences, such as 
-Ebola virus, SARS or 
-COVID-19. 
-● Using a respirator 
-and energized air 
-purifier with overalls 
-can protect against the 
-risk of contamination 
-better than an N95 
-mask and gown (RR 
-0.27, 95% CI 0.17 to 
-0.43), but it was more 
-difficult dressing 
-(non-conformity: RR 
-7.5, 95% CI 1.81 to 
-31.1). 
-● Very low 
-certainty 
-● In an RCT (59 
-participants), people 
-with a long gown had 
-less contamination 
-than those with a 
-coverall, and the 
-coverall was more 
-difficult to wear 
-• Low 
-certainty 
-● The following 
-modifications to the 
-● Very low 
-certainty 
- 
-19 de 20 
-(such as posters, guidance 
-leaflets, etc.); audit and 
-feedback, or monetary or 
-organizational incentives. 
-• Studies carried out with 
-the laboratory team were 
-excluded because the 
-preventive measures in 
-the laboratories are more 
-detailed and easier to 
-comply with. 
- 
-PPE design can lead to 
-less contamination 
-compared to standard 
-PPE: combination of 
-sealed gown and glove 
-(RR 0.27, 95% CI 0.09 
-to 0.78), a more suitable 
-dress around neck, 
-wrists and hands (RR 
-0.08, 95% CI 0.01 to 
-0.55), additional guides 
-to grip to facilitate the 
-use of masks (RR 0.33, 
-95% CI 0.14 0.80) or 
-gloves (RR 0.22, 95% 
-CI 0.15 to 0.31). 
-● better coverage of 
-the dress-cuff 
-interface can lead to 
-less contamination 
-compared to standard 
-PPE (RR 0.45, 95% 
-CI 0.26 to 0.78) 
-• Low 
-certainty 
-● Using the CDC 
-recommendations can 
-lead to less 
-contamination 
-compared to no 
-guidance (small spots: 
-MD -5.44, 95% CI -
-7.43 to -3.45). 
-● Very low 
-certainty 
- 
-20 de 20 
-● The use of additional 
-computer simulation 
-can lead to fewer errors 
-in the process (MD -1.2, 
-95% CI -1.6 to -0.7). 
-● Very low 
-certainty 
-GRADE: Grading of Recommendations, Assessment, Development and Evaluation; RCT = randomized clinical trials; PPE = personal protective 
-equipment; KQ1 = key question 1; KQ2 = key question 2; SARS = severe acute respiratory syndrome; MERS = Middle East respiratory syndrome; 
-WHO = World Health Organization; IPC = infection control and prevention; RR = relative risk; CI = confidence interval; CDC = Centers for Disease 
-Control and Prevention; MD = mean difference. 
- 
