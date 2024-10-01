@@ -1,11 +1,13 @@
-Rev Col Bras Cir 47:e20202576
-DOI: 10.1590/0100-6991e-20202576
-The trauma and acute care surgeon in the COVID-19 pandemic era
-O cirurgião de trauma e emergência na era da pandemia de COVID-19
-	
-INTRODUCTION
-T
-he World Health Organization recognized in March 
+The World Health Organization recognized in March 2020 the existence of a pandemic for the new coronavirus that appeared in China, 
+in late 2019, and whose disease was named COVID-19. In this context, the SBAIT (Brazilian Society of Integrated Care for Traumatized 
+Patients) conducted a survey with 219 trauma and emergency surgeons regarding the availability of personal protective equipment (PPE) 
+and the role of the surgeon in this pandemic by means of an electronic survey. It was observed that surgeons have been acting under 
+inadequate conditions, with a lack of basic supplies as well as more specific equipment such as N95 masks and facial shields for the care of 
+potential victims who may be contaminated. The latter increases the risk of contamination of professionals, resulting in potential losses in 
+the working teams. Immediate measures must be taken to guarantee access to safety equipment throughout the country, since all trauma 
+victims and/or patients with emergency surgical conditions must be treated as potential carriers of COVID-19.
+
+The World Health Organization recognized in March 
 2020 the existence of a pandemic for the new 
 coronavirus that appeared in China in late 2019, and 
 whose disease was named COVID-19. It presents an 
@@ -22,6 +24,7 @@ protective equipment (PPE) for the professionals who care
 for these patients, further increasing the contamination 
 of the health personnel, contributing to the collapse of 
 the entire system.
+
 Also, it should be highlighted that other serious 
 problems such as trauma and other surgical emergencies 
 continue to arrive at the emergency departments in 
@@ -29,6 +32,7 @@ Brazil. In these scenarios, surgeons are taking care of
 these patients who arrive, in parallel with the admission 
 of patients with COVID-19, and with difficulties in 
 protecting themselves with appropriate PPE.
+
 The lack of equipment as well as the overload 
 of exposure to COVID-19, mean that health professionals 
 are considered a highly vulnerable population. Several 
@@ -44,33 +48,11 @@ and at least 22 deaths2,3. Protective guidelines are more
 essential than ever for emergency professionals and 
 surgeons when considering the risks of contamination 
 from invasive procedures. 
+
 In this context, SBAIT conducted a survey with 
 trauma and acute care surgeons regarding the availability 
 of PPE and the role of the surgeon in this pandemic.
-1 - Hospital Moriah e IAMSPE, Cirurgia de Urgência e Trauma e Pós Graduação - São Paulo - SP - Brasil 2 - Faculdade de Ciências Médicas da Santa 
-Casa de Misericórdia de São Paulo, Cirurgia do Trauma - São Paulo - SP - Brasil 3 - Instituto Dr. José Frota e Universidade UNIFOR, Serviço de Cirurgia 
-do Trauma e Departamento de Cirurgia - Fortaleza - CE - Brasil 4 - University of Miami - Ryder Trauma Center, Acute Care & Trauma Surgery - Miami 
-- FL - Estados Unidos 5 - Grupo Surgical, Cirurgia de Urgência e Trauma - Campinas - SP - Brasil
-Original article
-A B S T R A C T
-A B S T R A C T
-The World Health Organization recognized in March 2020 the existence of a pandemic for the new coronavirus that appeared in China, 
-in late 2019, and whose disease was named COVID-19. In this context, the SBAIT (Brazilian Society of Integrated Care for Traumatized 
-Patients) conducted a survey with 219 trauma and emergency surgeons regarding the availability of personal protective equipment (PPE) 
-and the role of the surgeon in this pandemic by means of an electronic survey. It was observed that surgeons have been acting under 
-inadequate conditions, with a lack of basic supplies as well as more specific equipment such as N95 masks and facial shields for the care of 
-potential victims who may be contaminated. The latter increases the risk of contamination of professionals, resulting in potential losses in 
-the working teams. Immediate measures must be taken to guarantee access to safety equipment throughout the country, since all trauma 
-victims and/or patients with emergency surgical conditions must be treated as potential carriers of COVID-19.
-Keywords: Pandemics. Coronavirus. Personal Protective Equipment . Coronavirus Infections.
-Marcelo Augusto Fontenelle Ribeiro Junior, TCBC-SP1     ; Tercio de-Campos, TCBC-SP2; Daniel Souza Lima, ACBC-CE3; Antonio 
-C Marttos-Jr4; Bruno M Pereira,TCBC-SP5
-Ribeiro Junior 
-The trauma and acute care surgeon in the COVID-19 pandemic era
-2
-Rev Col Bras Cir 47:e20202576
-	
-METHODS
+
 This is a prospective questionnaire using the 
 SurveyMonkey tool (http://www.surveymonkey.com)4 and 
 distributed electronically (list of emails and WhatsApp 
@@ -86,11 +68,11 @@ considering both, patients with and without the diagnosis
 of COVID-19, and who have potentially surgical diseases. 
 The data obtained were automatically transferred to an 
 Excel file, to be analyzed.
+
 Participation in the questionnaire was voluntary 
 and spontaneous, and all responses were anonymous. This 
 type of survey does not require ethics committee approval.
-	
-RESULTS
+
 Of the 1,500 forms sent, 219 responses 
 were obtained (14.6%). The majority of the surgeons 
 come from the South and Southeast regions of Brazil 
@@ -98,6 +80,7 @@ come from the South and Southeast regions of Brazil
 the emergency room and/or trauma bay, with only a 
 small portion reporting having had contact with known 
 COVID-19 positive patients.
+
 When assessing the type of institution where 
 the professionals work, it was observed that most of them 
 had professional activities in municipal public hospitals 
@@ -105,37 +88,28 @@ had professional activities in municipal public hospitals
 organizations (OSS) (17.3%), and it was also noted that 
 more than 50% of the surgeons also work in private 
 hospitals (Figure 2).
+
 Regarding the personal safety of surgeons, 
 in the current COVID-19 pandemic, it can be seen that 
 15.5% of them answered that they consider themselves 
 safe to work, while 49.7% consider themselves partially 
 safe and 32.4% do not consider themselves safe to 
 provide care for potentially infected patients (Figure 3).
+
 Regarding personal protective equipment (PPE), 
 it was highlighted that none of the items mentioned as 
-Figure 1. Main surgeons’ workplaces.
-Figure 2. Type of hospital where surgeons work.
-Figure 3. Perception of safety during care for trauma victims during the 
-pandemic.
 those considered ideal for the care of trauma victims 
 reached 100% availability among the 219 respondants. 
 Even basic materials such as gloves (93.6%), surgical mask 
 (89%) surgical caps (86.3%), which in theory should be 
 available in 100% of the services were not available in 
 some locations (Figure 4).
+
 When asked about what type of safety 
 equipment the surgeon used while in the hospital, 115 
 (52.5%) reported using a conventional surgical mask, 
 with 30% reported not using any type of personal 
 protective device. As for the types of protection used 
-Ribeiro Junior
-The trauma and acute care surgeon in the COVID-19 pandemic era
-3
-Rev Col Bras Cir 47:e20202576
-and approaches without changes. However, 51.6% of 
-them have performed thoracic CT scan always and/or in 
-selected cases and 7.7% have opted for non-operative 
-treatment whenever possible (Figure 7).
 to care for patients without suspected COVID-19, it 
 was observed that 43.8% of surgeons use conventional 
 surgical masks even in non-suspected cases, and 36.5% 
@@ -144,14 +118,7 @@ When asked about the use of PPE for surgical procedures
 in patients without suspected virus infection, the answers 
 were practically the same as those obtained for the care 
 of victims without clinical suspicion.
-Figure 4. Materials available for the care of trauma victims (the surgeon 
-should check all available items).
-Figure 6. Current indications for laparoscopic procedures during the 
-pandemic.
-Figure 7. Current indications upon surgical cases (traumatic or not) 
-among trauma and acute care surgeons.
-Figure 5. Types of personal safety equipment used against patients who 
-are not suspected of COVID-19.
+
 With regards to laparoscopic surgery and 
 the potential risk of spreading the virus through 
 pneumoperitoneum, it was observed that the majority of 
@@ -160,9 +127,11 @@ the present time, 23.7% have refrained from performing
 such procedures only in suspected and/or confirmed 
 cases and 16.4% of surgeons have maintained the usual 
 indications (Figure 6).
+
 Regarding indications and surgical management 
 of an emergency case (traumatic or not), it was observed 
-that 81 surgeons (36.9%) maintain their usual indications 
+that 81 surgeons (36.9%) maintain their usual indications and approaches without changes. However, 51.6% of them have performed thoracic CT scan and/or in selected cases and 7.7% have opted for non-operative treatment whenever possible (Figure 7).
+
 Considering that obtaining a definitive airway is 
 part of the day-to-day tasks of this group of professionals, 
 we evaluated the type of material available to perform 
@@ -171,6 +140,7 @@ oral-tracheal intubation, and the majority of surgeons
 (42%) available. Unfortunately, only a small number of 
 professionals’ report having the video laryngoscope for 
 intubation available (Figure 8).
+
 As for the PPE available for these surgeons to 
 perform an operative procedure, it was observed that 
 less than half of them had protective equipment as 
@@ -178,16 +148,12 @@ recommended by Anvisa (National Health Surveillance
 Agency) (46.5%). Seventy-nine surgeons (36.1%) report 
 having less than recommended and 14.6% did not know 
 about such recommendations.
+
 It this study 63% of surgeons reported having 
 difficulties in obtaining PPE in their hospitals. Finally, 
 53.4% (116) of surgeons did not know any health 
 professional who has been infected by the virus.
-Ribeiro Junior 
-The trauma and acute care surgeon in the COVID-19 pandemic era
-4
-Rev Col Bras Cir 47:e20202576
-	
-DISCUSSION
+
 It is well known that injuries resulting from 
 trauma represent the main cause of death in the 
 population under 45 years of age worldwide5. It is 
@@ -195,6 +161,7 @@ estimated that about 6 million people die each year as a
 result of such injuries. This number corresponds to about 
 10% of deaths in the world, killing more than malaria, 
 tuberculosis and HIV combined6,7. 
+
 As of April 15, 2020, according to the 
 Coronavirus 
 Resource 
@@ -206,6 +173,7 @@ University, more than 2 million people worldwide and
 more than 30,000 people in Brazil, have been infected 
 with COVID-19, causing the death of more than 140,000 
 people around the world8. 
+
 In Brazil today, the vast majority of trauma 
 victims are admitted to public hospitals and OSS, where 
 approximately 62% of surgeons who responded to the 
@@ -217,6 +185,7 @@ are suffering from the lack of materials and equipment,
 placing healthcare professionals at risk. Of the 826 
 institutions consulted by AMB, 95% were experiencing 
 supply problems9.
+
 The scarcity of equipment reported to AMB was 
 related to the availability of N95 masks (87%), followed 
 by goggles or face shields (70%) and fluid resistant gowns 
@@ -224,6 +193,7 @@ by goggles or face shields (70%) and fluid resistant gowns
 of the respondants reported lack of gloves and 35% of 
 alcohol-based hand sanitizers. Such data corroborate the 
 findings of the present study as shown in Figure 4.
+
 Assistance to trauma victims follows well-
 established protocols such as Advanced Trauma Life 
 Support©(ATLS), which assumes that professionals who 
@@ -237,6 +207,7 @@ these rules correctly, placing professionals at increased
 risk of being exposed to personal contamination by body 
 fluids, secretions and more recently to aerosol from the 
 airways of potentially contaminated patients.
+
 ANVISA recently published a technical note that 
 determines that health care professionals who perform 
 procedures less than 1 meter away from suspected or 
@@ -245,6 +216,7 @@ the following guidelines: hand hygiene, goggles and/
 or face shields, surgical masks, which must be replaced 
 by N95/PFF2 mask when performing aerosol-generating 
 procedures, gloves and fluid resistant gowns11,12.
+
 Unfortunately, 
 the 
 present 
@@ -256,6 +228,7 @@ recommendations, clearly demonstrating that educational
 actions by medical societies and health authorities, must 
 be optimized in order to make all health care professionals 
 aware of their guidelines and recommendations.
+
 In a recent electronic publication, Machado Jr 
 recommends for all trauma centers that surgeons have 
 ample access to PPE as well as institutional policies for 
@@ -266,19 +239,15 @@ protective equipment combined with adequate surgical
 technique and correct surgical planning represent the 
 best way to reduce contamination rates among health 
 professionals14.
+
 Finally when the surgeons were asked about 
 the indications for laparoscopic access for emergency 
 surgeries, there was a tendency to avoid or even not use 
 them, in agreement with the current recommendations 
 of several medical societies due to the risk of 
-Figure 8. Materials available for orotracheal intubation by trauma and 
-acute care surgeons.
-Ribeiro Junior
-The trauma and acute care surgeon in the COVID-19 pandemic era
-5
-Rev Col Bras Cir 47:e20202576
 contamination of the team by aerosol emission from 
 pneumoperitoneum15,16.
+
 The lack of protective equipment has been 
 affecting surgeons around the world. In the present 
 study, we can say that more than 80% of surgeons report 
@@ -289,6 +258,7 @@ of protective equipment in their hospitals. More than half
 of the surveyed surgeons claimed to have had problems 
 to have PPE supplies in their hospitals throughout the last 
 30 days17.
+
 Unfortunately, we can expect casualties to 
 increase among the workforce in hospitals, due to both 
 the contamination of surgeons working in the front lines as 
@@ -299,6 +269,7 @@ among 1257 health professionals who worked in Wuhan
 during the peak of the pandemic and identified high rates 
 of depression (50.4%), anxiety (44.6%), insomnia (34%) 
 and stress (71.5%) among respondents18.
+
 The current pandemic was unexpected and 
 unimaginable for many until 3 months ago. Nonetheless, 
 it has exposed several weaknesses in the healthcare 
@@ -306,12 +277,14 @@ systems around the world, which were not prepared for
 such an event. Alerts by scientific19 and non-scientific20 
 communities have been made in the last decade, but to 
 no avail.
+
 The concern about the loss of contaminated 
 health professionals who will be temporarily out of action 
 and some who will not survive is a huge burden for the 
 society and health systems. The protection of these 
 professionals must be a priority at this time, as well as 
 making information available to everyone.
+
 This study has limitations, which, despite being 
 national in scope, did not reach all states and medical 
 services equally. In addition, the proportion of responses 
@@ -322,11 +295,13 @@ assessment of the situation in the country, and for
 recommendations to be proposed in a timely manner. 
 Importantly, this is the first survey conducted in Brazil 
 with this focus during the current pandemic.
+
 SBAIT published recommendations for surgeons 
 in its media channels last month, but it is believed that 
 communication should still be expanded. In times of 
 greatest crisis, the communication process becomes 
 essential for us to protect more lives21.
+
 In conclusion, the trauma and acute care 
 surgeons are in a situation of fragility and risk during the 
 current pandemic, attending traumatized and critical ill 
@@ -335,160 +310,3 @@ themselves to contamination. The dissemination of
 information that can protect surgeons is key in this 
 moment of crisis throughout the health system in Brazil 
 and the world.
-A Organização Mundial de Saúde reconheceu a partir de março de 2020 a existência de uma pandemia do novo coronavírus que surgiu 
-na China no final de 2019, e cuja doença foi denominada COVID-19. Neste contexto, a SBAIT (Sociedade Brasileira de Atendimento Inte-
-grado ao Traumatizado) realizou pesquisa com 219 cirurgiões de Trauma e de Urgências e Emergências a respeito de disponibilidade de 
-equipamentos de proteção individual (EPI) e do papel do cirurgião nesta pandemia, por meio de formulário eletrônico. Observou-se que 
-os cirurgiões vêm atuando em condições inadequadas, com falta de insumos básicos assim como equipamentos mais específicos, como 
-máscaras N95 e protetores faciais, para a atenção de potenciais vítimas que estejam contaminadas. Isso eleva o risco de contaminação 
-dos profissionais e causa decorrentes baixas na força de trabalho. Medidas imediatas devem ser adotadas para garantir o acesso aos 
-equipamentos de segurança em todo país uma vez que, todos os pacientes vítimas de trauma e/ou portadores de doenças cirúrgicas de 
-urgência devem ser tratados como potenciais portadores do COVID-19.
-Palavras chave: Pandemia. Coronavírus. Equipamento de Proteção Individual. Infecções por Coronavirus.
-R E S U M O
-R E S U M O
- 	
-REFERENCES
-1.	
-Minder R, Peltier E. Virus knocks thousands of 
-health workers out of action in Europe [Internet]. 
-The New York Times. 2020 Mar 24; [citado 2020 
-Apr 13]. Disponível em: https://www.nytimes.
-com/2020/03/24/world/europe/coronavirus-europe-
-covid-19.html 
-Ribeiro Junior 
-The trauma and acute care surgeon in the COVID-19 pandemic era
-6
-Rev Col Bras Cir 47:e20202576
-2.	
-OMS alerta sobre contaminação de profissionais 
-de saúde por Covid-19. 2020. (publicação na web) 
-(acesso em 2020 Mar 19). Disponível em: https://
-news.un.org/pt/story/2020/02/1704211. 
-3.	
-COVID-19: 
-protecting 
-health-care 
-workers. 
-Lancet [Internet]. 2020 Mar [cited 2020 Mar 
-20];395(10228):922. Available from: https://www.
-thelancet.com/journals/lancet/article/PIIS0140-
-6736(20)30644-9/fulltext. 
-4.	
-Survey Monkey [Internet]. Disponível em: https://
-pt.surveymonkey.com/r/N7GJ7TW
-5.	
-Institute of Medicine (US) Committee on Injury 
-Prevention and Control; Bonnie RJ, Fulco CE, 
-Liverman CT , editors. Reducing the burden of injury: 
-advancing prevention and treatment. Washington 
-(DC): National Academy Press; 1999.
-6.	
-World Health Organization [Internet]. World Health 
-Statistics 2011. Geneva: WHO, 2011 [cited 2020 
-Apr 14]. Available from: http://www.who.int/
-whosis/whostat/2011/en/indext.html 
-7.	
-Sakran JV, Greer SE, Werlin E, McCunn M. Care of 
-the injured worldwide: trauma still the neglected 
-disease of modern society. Scand J Trauma 
-Resusc Emerg Med. 2012;20:64. https://doi.
-org/10.1186/1757-7241-20-64
-8.	
-Johns Hopkins University. Coronavirus Resource 
-Center [Internet]. New cases of COVID-19 in World 
-Countries [cited 2020 Apr 14]. Available from: 
-https://coronavirus.jhu.edu/data/new-cases 
-9.	
-Associação Médica Brasileira [Internet]. Faltam EPI´s 
-em todo o país [citado 2020 Abr 14]. Disponível em: 
-https://amb.org.br/epi/ 
-10.	 ATLS® Advanced Trauma Life Support®. Student 
-Course Manual. Initial assessment and management. 
-10th ed. Chicago: American College of Surgeons; 
-2018. 
-11.	 ANVISA 
-Agência 
-Nacional 
-de 
-Vigilância 
-Sanitária. Nota técnica GVIMS/GGTES/ANVISA 
-No 04/2020 – Orientações para serviços de 
-saúde: medidas de prevenção e controle que 
-devem ser adotadas durante a assistência aos 
-casos suspeitos ou confirmados de infecção 
-pelo novo coronavírus (SARS-CoV-2) [Internet].
-Brasília (DF): ANVISA; 2020 [atualizado 2020 Mar 
-31; citado 2020 Apr 14]. Disponível em: http://
-portal.anvisa.gov.br/documents/33852/271858/
-Nota+T%C3%A9cnica+n+04-2020+GVIMS-
-GGTES-ANVISA/ab598660-3de4-4f14-8e6f-
-b9341c196b28. 
-12.	 World Health Organization. WHO Guidelines on 
-hand hygiene in health care. First global patient safety 
-challenge clean care is safer care [Internet]. Geneva: 
-World Health Organization; 2009 [cited 2020 
-Apr 13]. Available from: https://apps.who.int/iris/
-bitstream/handle/10665/44102/9789241597906_
-eng.pdf?sequence=1 
-13.	 Machado Jr HV. Trauma. Recomendações das 
-Sociedades Médicas. In: Colégio Brasileiro de 
-Cirurgiões. Cirurgia e o COVID-19: recomendações 
-das sociedades médicas [Internet]. 2020 [citado 
-2020 Apr 14]. Disponível em: https://cbc.org.br/wp-
-content/uploads/2020/04/Trauma.pdf
-14.	 Lima DS, Leite Filho JAD, Gurgel MVSA, Aguiar 
-Neto AF, da Costa EFM, Maia Filho FXF, et al. 
-Recomendações para cirurgia de emergência 
-durante a pandemia de COVID-19. J Health Biol Sci. 
-2020;8(1):1-3. 
-15.	 Zheng MH, Boni L, Fingerhut A. Minimally invasive 
-surgery and the novel coronavirus outbreak: lessons 
-learned in China and Italy. Ann Surg. 2020; March 
-26. doi: 10.1097/SLA.0000000000003924 
-16.	 Ramos 
-RF, 
-Benevenuto 
-DS. 
-Laparoscopia. 
-Recomendações do Colégio Brasileiro de Cirurgiões 
-para cirurgia Videolaparoscópica em pacientes com 
-suspeita de infecção por COVID-19. In: Colégio 
-Brasileiro de Cirurgiões. Cirurgia e o COVID-19: 
-recomendações das sociedades médicas [Internet]. 
-2020 [citado 2020 Apr 14]. Disponível em: 
-https://cbc.org.br/wp-content/uploads/2020/04/
-Laparoscopia.pdf. 
-17.	 Rimmer A. Covid-19: Third of surgeons do not 
-have adequate PPE, Royal College Warns. BMJ. 
-2020;369:m1492. doi: 10.1136/bmj.m1492 
-18.	 Lai J, Ma S, Wang Y, Cai Z, Hu J, Wei N, et al. Factors 
-associated with mental health outcomes among 
-health care workers exposed to coronavirus disease 
-2019. JAMA Netw Open. 2020;3(3):e203976. 
-doi:10.1001/jamanetworkopen.2020.3976
-19.	 Fan Y, Zhao K, Shi Z, Zhou P. Bat Coronaviruses 
-in China. Viruses. 2019;11(3):210. doi:10.3390/
-Ribeiro Junior
-The trauma and acute care surgeon in the COVID-19 pandemic era
-7
-Rev Col Bras Cir 47:e20202576
-v11030210.
-20.	 Rogers P. Coronavirus: Bill Gates predicted pandemic 
-in 2015. Microsoft co-founder warned a virus like 
-1918 Spanish flu would spread “very quickly” 
-[Internet]. The Mercury News. 2020 Mar 25; Health. 
-News [cited 2020 Apr 14]. Available from: https://
-www.mercurynews.com/2020/03/25/coronavirus-
-bill-gates-predicted-pandemic-in-2015/.
-21.	 SBAIT [Internet]. Recomendações SBAIT COVID-19 
-para profissionais de saúde [citado 2020 Abr 14]. 
-Disponível em:  http://blog.sbait.org.br/2020/03/25/
-recomendacoes-sbait-covid-19/.
-Received in: 16/04/2020
-Accepted for publication: 17/04/2020
-Conflict of interest: no.
-Funding source: none.
-Mailing address :
-Marcelo Augusto Fontenelle Ribeiro Junior
-E-mail: drmribeiro@gmail.com

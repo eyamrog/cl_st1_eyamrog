@@ -1,26 +1,4 @@
-Critical Review of 
-Literature
-Infection Control
-Roberta Rayra 
-	 MARTINS-CHAVES(a) 
-
-Carolina Cavaliéri GOMES(b) 
-
-Ricardo Santiago GOMEZ(a) 
-	
-(a)	Universidade Federal de Minas Gerais – 
-UFMG, School of Dentistry, Department of 
-Oral Surgery and Pathology, Belo Horizonte, 
-MG, Brazil.
-	
-(b)	Universidade Federal de Minas Gerais 
-– UFMG, Biological Sciences Institute, 
-Department of Pathology, Belo Horizonte, 
-MG, Brazil.
-Immunocompromised patients and 
-coronavirus disease 2019: a review and 
-recommendations for dental health care
-Abstract: In less than four months, an unprecedented pandemic 
+In less than four months, an unprecedented pandemic 
 changed the world scenario, closing institutions and commerce, 
 paralyzing 
 sports 
@@ -51,35 +29,20 @@ recommendations should be the same for all subjects. Changes in the
 current guidelines have been proposed to SARS-CoV-2 infection control 
 in order to provide the best and safe dental practice. However, they still 
 need to be validated by future studies. 
-Keywords: Coronavirus Infections; COVID-19; Immunosuppression; 
-Dental Care; Dentistry.
-Introduction
+
 On 12 December 2019, a patient was hospitalized with severe pneumonia 
 of unknown etiology, in Wuhan, Hubei province, China. Clusters of similar 
 cases were spreading within the province, and, in early January 2020, the 
 unidentified pneumonia was discovered to be caused by a novel viral 
 subtype of the Coronaviridae family, designated as severe acute respiratory 
 syndrome coronavirus 2 (SARS-CoV-2).1,2,3 By the end of January 2020, WHO 
-Declaration of Interests: The authors 
-certify that they have no commercial or 
-associative interest that represents a conflict 
-of interest in connection with the manuscript.
-Corresponding Author:
-Ricardo Santiago Gomez
-E-mail: rsgomez@ufmg.br
-https://doi.org/10.1590/1807-3107bor-2020.vol34.0048
-Submitted: May 4, 2020
-Accepted for publication: May 5, 2020
-Last revision: May 6, 2020
-1
-Braz. Oral Res. 2020;34:e048
-Immunocompromised patients and coronavirus disease 2019: a review and recommendations for dental health care
 declared SARS-CoV-2 infection as a Public Health 
 Emergency of International Concern and a few days 
 after, officially named the disease as “coronavirus 
 disease 2019” (COVID-19). The pandemic state was 
 declared on the 12th of March 2020, and, since then, 
 the outbreak exponentially advanced worldwide.
+
 Although mild respiratory tract infection 
 characterizes most COVID-19 cases with cold 
 symptoms, it is a serious global situation.4 Severe 
@@ -97,6 +60,7 @@ a strong correlation between the host immune status
 and COVID-19 prognosis is highlighted.7 Therefore, 
 immunosupressed patients were added within higher 
 risk group for severe illness from COVID-19.
+
 The current pandemic is a unique and 
 unprecedented situation that represents the biggest 
 public health challenge on the 21st century. Several 
@@ -112,9 +76,7 @@ literature and to discuss immunological COVID-
 19 related issues.  We also make suggestions for 
 immunocompromised patients’ support in this new 
 emergent context of clinical dental practice.
-Discussion
-Coronaviruses, virology and SARS-CoV-2 
-pathophysiology
+
 Coronaviruses (CoVs) are a family of enveloped, 
 nonsegmented positive-sense single-strand RNA 
 viruses that have an expansive coding capacity 
@@ -137,6 +99,7 @@ and until December 2019 2,499 cases and 858 deaths
 were reported in 27 countries.11 The current pandemic 
 has started in China, however, the European and 
 American continents are the most severely affected. 
+
 Just like SARS and MERS, SARS-CoV-2 is a member 
 of the β-CoV family.3 This  pathogen was included 
 within SARSr-CoV species because it shares 87% of 
@@ -149,6 +112,7 @@ RaTG13 is the closest relative of SARS-CoV-2 and
 they form a distinct lineage from others SARS-CoVs, 
 which supports the evidence that COVID-19 emerged 
 from bats.1,2 
+
 SARS-CoV-2 has the same physical structure as 
 other CoVs. Its genomic RNA and phosphorylated 
 nucleocapsid protein (N) are buried inside a 
@@ -162,11 +126,9 @@ all previously described CoVs, and it exhibits several
 molecular alterations in the N-terminal domain 
 and the receptor-binding motif compared with the 
 sequence of SARS-CoV.2 
+
 Human angiotensin-converting enzyme 2 (ACE2) 
 is a type I membrane protein that provides a direct 
-2
-Braz. Oral Res. 2020;34:e048
-Martins-Chaves RR, Gomes CC, Gomez RS
 binding site for the S proteins, being essential for 
 viruses to enter cells.2 SARS-CoV-2 binds to ACE2 with 
 approximately 10 to 20-fold higher affinity than SARS-
@@ -181,6 +143,7 @@ viral genome into the cytosol.17 A dimeric ACE2 can
 accommodate two S protein trimmers, simultaneously, 
 which may facilitate the invagination of the cell 
 membrane and endocytosis of the viral particle.17 
+
 Because of the increased expression of ACE2, 
 some organs such as the salivary glands, lung, heart, 
 esophagus, kidney, bladder, and ileum have a higher 
@@ -194,6 +157,7 @@ nervous system,20,21 which explain some neurological
 manifestations presented by COVID-19 patients.21 
 Therefore, testis and brain were added within the 
 group of SARS-CoV-2 infection vulnerable organs. 
+
 Inflammation is the hallmark of SARS-CoV-2 
 infection. Severely ill patients had higher plasma 
 levels of IL-2R, IL-6, IL-10, IL-17 and TNF-α than less 
@@ -204,6 +168,7 @@ causes of the exuberant inflammation is unknown
 so far, and different possible mechanisms were 
 postulated based on the previous knowledge about 
 SARS-CoV infection.24 
+
 After contagion via respiratory droplets, direct 
 contact and/or fecal-oral route, the viruses enter 
 human cells mainly through the ACE2-binding 
@@ -232,8 +197,7 @@ persistent viral replication, inflammation, and
 increased fatality risk.24 However, the role of the 
 immunological suppressed status on COVID-19 
 severity remains controversial so far.
-COVID-19 and immunocompromised 
-patients 
+
 As discussed above, the biological response to 
 SARS-CoV-2 infection requires the activation of the 
 innate and acquired immunity.15 In a postmortem 
@@ -249,6 +213,7 @@ driver for organ damage, the anti-inflammatory
 effects of immunosuppression may be protective, 
 mitigating the “cytokine storm” related to COVID-
 19 poor outcomes.27
+
 Some studies have reported an overall asymptomatic 
 or mild COVID-19 course in immunocompromised 
 patients, such as children under anticancer therapy,28 
@@ -258,9 +223,7 @@ patients.31 In these reports, the few severely affected
 individuals recovered and low fatality rates were 
 registered. Also, immunosuppression was not found 
 to be a risk factor either for SARS nor MERS.32 
-3
-Braz. Oral Res. 2020;34:e048
-Immunocompromised patients and coronavirus disease 2019: a review and recommendations for dental health care
+
 On the other hand, in a case-control study, 
 immunocompromised children were predisposed 
 to infection of the lower respiratory tract from 
@@ -273,6 +236,7 @@ death.7 Moreover, the recovery of a liver transplant
 recipient severely affected by COVID-19 has been 
 only achieved after the temporary withdrawal of 
 immunosuppression and normalization of immunity.35 
+
 These contradictory observations show that 
 the knowledge about the relationship between 
 COVID-19 and host immunological status is limited. 
@@ -285,10 +249,7 @@ high-risk group for severe illness progression.  These
 individuals should be carefully follower-up until 
 large case-control cohorts, which provide more solid 
 results, are published.
-Changes and challenges in dental 
-practice: general recommendations for 
-immunocompromised patient management 
-and dental health care team safety
+
 Almost all dental care procedures generate aerosols, 
 which represent the most important clinical concern 
 within the pandemic situation. The viral aerosol 
@@ -306,6 +267,7 @@ a source of infected aerosol spread, oral mucosa is
 highly susceptible to SARS-CoV-2 infection. These 
 facts place dental practitioners and patients in one of 
 the most vulnerable positions in COVID-19 context.9 
+
 The immunocompromised status is directly 
 linked to a wide range of oral pathologic conditions. 
 Transplant receivers are at high risk of having oral 
@@ -317,6 +279,7 @@ and patients under anticancer therapy.42 Those under
 head and neck cancer radiotherapy are broadly 
 susceptible to severe oral health issues, including 
 mucositis, dental radiation cavities, among others.42 
+
 There are two main concerns regarding patients 
 that suffer from autoimmune and inflammatory 
 conditions such as inflammatory bowel diseases, 
@@ -328,6 +291,7 @@ immunity and predispose to worse course of COVID-19.43
 Additionally, a potential exacerbation of the autoimmune-
 related oral lesions may occur if the patients are advised 
 to discontinue such therapy during the pandemic.44 
+
 Several guidelines have been proposed to SARS-
 CoV-2 infection control to provide safe dental 
 practice.8,9,10,45 To date, during the pandemic outbreak, 
@@ -335,6 +299,7 @@ an initial tele screening has to be made to assess the
 presence of COVID-19 symptoms and evaluate the 
 previous exposure to risky situations such as recent 
 travel and human-to-human contact history.45 
+
 During the outbreak, elective procedures should 
 be avoided for at least two weeks if the individual 
 has symptoms or known exposure history and 
@@ -352,14 +317,12 @@ panoramic radiography or intraoral radiography with
 adequate personal protective equipment (PPE) use by 
 dentists and radiography staff.46 Elective and urgent 
 procedures should be avoided in immunocompromised 
-4
-Braz. Oral Res. 2020;34:e048
-Martins-Chaves RR, Gomes CC, Gomez RS
 patients, even if they are asymptomatic. In the case of 
 emergency, care must be done in an airborne isolated 
 room, following the recommendations for clinical 
 procedures described below.
- For immunocompetent patients with no 
+
+For immunocompetent patients with no 
 symptoms or exposure history,  the dental treatment 
 can be performed under specific conditions.45 An 
 extensive hand hygiene protocol employing 60% to 
@@ -378,6 +341,7 @@ and after dental care, with 70% isopropyl alcohol or
 0.1% sodium hypochlorite.10 The garbage must be 
 discharged into double-layer yellow color medical 
 waste package bags with “gooseneck” ligation.9 
+
 It is worth noting that the current guidelines are 
 useful along with the acute phase of pandemic, and 
 some changes are needed for daily dental practice 
@@ -393,6 +357,7 @@ must be adopted. Elective care should not be performed
 in SARS-CoV-2 positive individuals. These patients 
 should be managed following the acute pandemic 
 phase guidelines.45,46
+
 Patients with no symptoms or known exposure 
 history could be taken care on collective clinical 
 places. However, since asymptomatic or mild 
@@ -407,7 +372,7 @@ and disposable shoe covers must be available for
 the auxiliary staff and patients. The protective 
 measures regarding dental procedures must still 
 be followed.8,9,10,45,46
-Conclusion
+
 Elderly, males, hypertensive, patients with 
 diabetes, and individuals with chronic respiratory 
 and cardiovascular diseases, constitute the most 
@@ -421,6 +386,7 @@ elucidate the mechanisms by which SARS-CoV-2
 induces exacerbated inflammatory responses. These 
 studies will help define the real risk of complications 
 and death under immunosuppressive conditions. 
+
 The efforts made worldwide to minimize the 
 risk of COVID-19 spreading during dental care 
 procedures provided clear and usable guides for best 
@@ -433,108 +399,3 @@ individuals with an immunocompromised health
 state, and elective procedures, after the end of the 
 pandemic, should follow specific cross-infection 
 control recommendations.
-1.	Wu F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, et al. A new coronavirus associated with human respiratory disease in China. Nature. 
-2020 Mar;579(7798):265-9. https://doi.org/10.1038/s41586-020-2008-3
-References
-5
-Braz. Oral Res. 2020;34:e048
-Immunocompromised patients and coronavirus disease 2019: a review and recommendations for dental health care
-2.	Zhou P, Yang X Lou, Wang XG, Hu B, Zhang L, Zhang W, et al. A pneumonia outbreak associated with a new coronavirus of probable 
-bat origin. Nature. 2020 Mar;579(7798):270-3. https://doi.org/10.1038/s41586-020-2012-7
-3.	Gorbalenya AE, Baker SC, Baric RS, Groot RJ De, Gulyaeva AA, Haagmans BL, et al. The species and its viruses: a statement of the 
-Coronavirus Study Group. 2020 Mar;1-15. https://doi.org/10.1101/2020.02.07.937862
-4.	Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A novel coronavirus from patients with pneumonia in China, 2019. N Engl J Med. 
-2020 Feb;382(8):727-33. https://doi.org/10.1056/NEJMoa2001017
-5.	Yang J, Zheng Y, Gou X, Pu K, Chen Z, Guo Q, et al. Prevalence of comorbidities in the novel Wuhan coronavirus (COVID-19) infection: 
-a systematic review and meta-analysis. Int J Infect Dis. 2020 Mar;12(94):91-5. https://doi.org/10.1016/j.ijid.2020.03.017
-6.	Garg S, Kim L, Whitaker M, O’Halloran A, Cummings C, Holstein R, et al. Hospitalization rates and characteristics of patients 
-hospitalized with laboratory-confirmed coronavirus disease 2019 — COVID-NET, 14 States, March 1-30, 2020. MMWR Morb Mortal 
-Wkly Rep. 2020 Apr;69(15):458-64. https://doi.org/10.15585/mmwr.mm6915e3
-7.	Li X, Xu S, Yu M, Wang K, Tao Y, Zhou Y, et al. Risk factors for severity and mortality in adult COVID-19 in patients in Wuhan. J Allergy 
-Clin Immunol. 2020 Apr. https://doi.org/10.1016/j.jaci.2020.04.006
-8.	Meng L, Hua F, Bian Z. Coronavirus disease 2019 (COVID-19): emerging and future challenges for dental and oral medicine. J Dent Res. 
-2020 May; 99(5):481-87. https://doi.org/10.1177/0022034520914246
-9.	Peng X, Xu X, Li Y, Cheng L, Zhou X, Ren B. Transmission routes of 2019-nCoV and controls in dental practice. Int J Oral Sci. 2020 
-Mar;12(1):1-6. https://doi.org/10.1038/s41368-020-0075-9
-10.	Izzetti R, Nisi M, Gabriele M, Graziani F. COVID-19 transmission in dental practice: brief review of preventive measures in Italy. J Dent 
-Res. 2020 Apr. https://doi.org/10.1177/0022034520920580
-11.	Morty RE, Ziebuhr J. The pathophysiology of COVID-19 and SARS-CoV-2 infection. Am J Physiol Lung Cell Mol Physiol. 2020 Apr. 
-https://doi.org/10.1152/ajplung.00136.2020
-12.	Tyrrell DA, Bynoe ML. Cultivation of viruses from a high proportion of patients with colds. Lancet. 1966 Jan;1(7428):76-7. 
-https://doi.org/10.1016/S0140-6736(66)92364-6
-13.	Zhong NS, Zheng BJ, Li YM, Poon LLM, Xie ZH, Chan KH, et al. Epidemiology and cause of severe acute respiratory 
-syndrome (SARS) in Guangdong, People’s Republic of China, in February, 2003. Lancet. 2003 Oct;362(9393):1353-8. 
-https://doi.org/10.1016/S0140-6736(03)14630-2
-14.	Groot RJ, Baker SC, Baric RS, Brown CS, Drosten C, Enjuanes L, et al. Middle East Respiratory Syndrome Coronavirus (MERS-CoV): 
-Announcement of the Coronavirus Study Group. J Virol. 2013 Jul;87(14):7790-2. https://doi.org/10.1128/jvi.01244-13
-15.	Li G, Fan Y, Lai Y, Han T, Li Z, Zhou P, et al. Coronavirus infections and immune responses. J Med Virol. 2020 Apr;92(4):424-32. 
-https://doi.org/10.1002/jmv.25685
-16.	Wrapp D, Wang N, Corbett KS, Goldsmith JA, Hsieh CL, Abiona O, et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion 
-conformation. Science. 2020 Mar;367(6483):1260-3. https://doi.org/10.1126/science.aax0902
-17.	Yan R, Zhang Y, Li Y, Xia L, Zhou Q. Structure of dimeric full-length human ACE2 in complex with B0AT1. BioRxiv. 2020 Feb. 
-https://doi.org/10.1101/2020.02.17.951848
-18.	Zou X, Chen K, Zou J, Han P, Hao J, Han Z. Single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk 
-of different human organs vulnerable to 2019-nCoV infection. Front Med. 2020 Mar. https://doi.org/10.1007/s11684-020-0754-0
-19.	Zhao Y, Zhao Z, Wang Y, Zhou Y, Ma Y, Zuo W. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-
-nCov. BioRxiv. 2020 Jan. https://doi.org/10.1101/2020.01.26.919985
-20.	Wang Z, Xu X. scRNA-seq profiling of human testes reveals the presence of the ACE2 Receptor, a target for SARS-CoV-2 infection 
-in spermatogonia, leydig and Sertoli cells. Cells. 2020 Apr;9(4):920. https://doi.org/10.3390/cells9040920
-21.	Wu Y, Xu X, Chen Z, Duan J, Hashimoto K, Yang L, et al. Nervous system involvement after infection with COVID-19 and other 
-coronaviruses. Brain Behav Immun. 2020 Mar; (20)30357-3. https://doi.org/10.1016/j.bbi.2020.03.031
-22.	Wu D, Yang XO. TH17 responses in cytokine storm of COVID-19: an emerging target of JAK2 inhibitor Fedratinib. J Microbiol Immunol 
-Infect. 2020 Mar:17-9. https://doi.org/10.1016/j.jmii.2020.03.005
-23.	Meng H, Xiong R, He R, Lin W, Hao B, Zhang L, et al. CT imaging and clinical course of asymptomatic cases with COVID-19 pneumonia 
-at admission in Wuhan, China. J Infect. 2020 Apr. https://doi.org/10.1016/j.jinf.2020.04.004
-24.	Fu Y, Cheng Y, Wu Y. Understanding SARS-CoV-2-mediated inflammatory responses: from mechanisms to potential therapeutic tools. 
-Virol Sin. 2020 Mar. https://doi.org/10.1007/s12250-020-00207-4
-25.	Yang M. Cell pyroptosis, a potential pathogenic mechanism of 2019-nCoV infection. SSRN Electron J. 2020 Jan. 
-https://doi.org/10.2139/ssrn.3527420
-26.	Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, et al. Pathological findings of COVID-19 associated with acute respiratory distress 
-syndrome. Lancet Respir Med. 2020 Apr;8(4):420-2. https://doi.org/10.1016/S2213-2600(20)30076-X
-27.	Antonio R, Silvia M. Immunosuppression drug-related and clinical manifestation of Coronavirus disease 2019: a therapeutical hypothesis. 
-Am J Transplant. 2020 Apr. https://doi.org/10.1111/ajt.15905
-6
-Braz. Oral Res. 2020;34:e048
-Martins-Chaves RR, Gomes CC, Gomez RS
-28.	Hrusak O, Kalina T, Wolf J, Balduzzi A, Provenzi M, Rizzari C, et al. Flash survey on severe acute respiratory syndrome coronavirus-2 
-infections in paediatric patients on anticancer treatment. Eur J Cancer. 2020 Apr;132:11-6. https://doi.org/10.1016/j.ejca.2020.03.021
-29.	Han Y, Jiang M, Xia D, He L, Lv X, Liao X, et al. COVID-19 in a patient with long-term use of glucocorticoids: a study of a familial cluster. 
-Clin Immunol. 2020 Apr. https://doi.org/10.1016/j.clim.2020.108413
-30.	Bussalino E, De Maria A, Russo R, Paoletti E. Immunosuppressive therapy maintenance in a kidney transplant recipient SARS-CoV-2 
-pneumonia: a case report. Am J Transplant. 2020 Apr. https://doi.org/10.1111/ajt.15920
-31.	Blanco JL, Ambrosioni J, Garcia F, Martínez E, Soriano A, Mallolas J, et al. COVID-19 in patients with HIV: clinical case series. Lancet 
-HIV. 2020 Apr. https://doi.org/10.1016/S2352-3018(20)30111-9
-32.	D’Antiga L. Coronaviruses and immunosuppressed patients: the facts during the third epidemic. Liver Transplant. 2020 Mar. 
-https://doi.org/10.1002/lt.25756
-33.	Ogimi C, Englund JA, Bradford MC, Qin X, Boeckh M, Waghmare A. Characteristics and outcomes of coronavirus infection 
-in children: The role of viral factors and an immunocompromised state. J Pediatric Infect Dis Soc. 2019 Mar;8(1):21-8. 
-https://doi.org/10.1093/jpids/pix093
-34.	Liang W, Guan W, Chen R, Wang W, Li J, Xu K., et al. Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China. Lancet 
-Oncol. 2020 Mar;21(3):335-7. https://doi.org/10.1016/S1470-2045(20)30096-6
-35.	Bin L, Yangzhong W, Yuanyuan Z, Huibo S, Fanjun Z, Zhishui C. Successful treatment of severe COVID-19 pneumonia in a liver 
-transplant recipient. Am J Transplant. 2020 Apr. https://doi.org/10.1111/ajt.15901
-36.	Guo ZD, Wang ZY, Zhang SF, Li X, Li L, Li C, et al. Aerosol and surface distribution of severe acute respiratory syndrome coronavirus 2 in 
-hospital wards, Wuhan, China, 2020. Emerg Infect Dis. 2020 Jul. https://doi.org/10.3201/eid2607.200885
-37.	Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, et al. Aerosol and surface stability of SARS-CoV-2 as 
-compared with SARS-CoV-1. N Engl J Med. 2020 Apr;382(16):1564-7. https://doi.org/10.1056/NEJMc2004973
-38.	Xu J, Li Y, Gan F, Du Y, Yao Y. Salivary glands: potential reservoirs for COVID-19 asymptomatic infection. J Dent Res. 2020 Apr 
-9:22034520918518. https://doi.org/10.1177/0022034520918518
-39.	Xu H, Zhong L, Deng J, Peng J, Dan H, Zeng X, et al. High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral 
-mucosa. Int J Oral Sci. 2020 Feb;12(1):1-5. https://doi.org/10.1038/s41368-020-0074-x
-40.	Rojas G, Bravo L, Cordero K, Sepúlveda L, Elgueta L, Díaz JC, et al. Integrity of the Oral Tissues in Patients with Solid-Organ Transplants. 
-J Transplant. 2012 Jan. https://doi.org/10.1155/2012/603769
-41.	Bodhade AS, Ganvir SM, Hazarey VK. Oral manifestations of HIV infection and their correlation with CD4 count. J Oral Sci. 2011 
-Jun;53(2):203-11. https://doi.org/10.2334/josnusd.53.203
-42.	Sroussi HY, Epstein JB, Bensadoun RJ, Saunders DP, Lalla RV, Migliorati CA, et al. Common oral complications of head and neck 
-cancer radiation therapy: mucositis, infections, saliva change, fibrosis, sensory dysfunctions, dental caries, periodontal disease, and 
-osteoradionecrosis. Cancer Med. 2017 Dec;6(12):2918-31. https://doi.org/10.1002/cam4.1221
-43.	Kasperkiewicz M, Schmidt E, Fairley JA, Joly P, Payne AS, Yale ML, et al. Expert recommendations for the management of autoimmune 
-bullous diseases during the COVID-19 pandemic. J Eur Acad Dermatology Venereol. 2020 Apr 25. https://doi.org/10.1111/jdv.16525
-44.	Dziedzic A, Wojtyczka R. The impact of coronavirus infectious disease 19 (COVID-19) on oral health. Oral Dis. 2020 Apr 18. 
-https://doi.org/10.1111/odi.13359
-45.	Ather A, Patel B, Ruparel NB, Diogenes A, Hargreaves KM. Coronavirus Disease 19 (COVID-19): Implications for Clinical Dental Care. J 
-Endod. 2020 May;46(5):584-95. https://doi.org/10.1016/j.joen.2020.03.008
-46.	Dave M, Coulthard P, Patel N, Seoudi N, Horner K. Letter to the Editor: Use of Dental Radiography in the COVID-19 Pandemic. J Dent 
-Res. 2020 Apr. https://doi.org/10.1177/0022034520923323
-7
-Braz. Oral Res. 2020;34:e048

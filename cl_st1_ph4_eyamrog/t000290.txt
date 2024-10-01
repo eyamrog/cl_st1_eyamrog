@@ -1,60 +1,3 @@
-Status: Preprint has been published in a journal as an article
-Increasing structuration rate of 3D printable concretes: the
-effect of viscosity enhancing admixtures
-J. A.  Hasse, A. P.  Rubin, L. C.  Quintanilha, W. L.  Repette
-DOI: 10.1590/SciELOPreprints.273
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees are described in the manuscript, when
-applicable.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server.
-The submitting author declares that all authors responsible for preparing the manuscript agree with this
-deposit.
-The authors declare that in the event that this manuscript has previously been submitted to a journal and
-being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
-server.
-The submitting author declares that all authors' contributions are included on the manuscript.
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
-under a Creative Commons CC-BY license.
-The deposited manuscript is in PDF format.
-If the manuscript is being reviewed and published by a journal, the authors declare that they have received
-authorization from the journal to make this deposit.
-Submitted on (YYYY-MM-DD): 2020-04-30
-Posted on (YYYY-MM-DD): 2020-08-26
-Powered by TCPDF (www.tcpdf.org)
-IBRACON Structural and Materials Journal - Instituto Brasileiro do Concreto 
-1 
- Original Article 
-aFederal University of Santa Catarina, Department of Civil Engineering, Florianópolis-SC, Brazil.  
-Increasing structuration rate of 3D printable 
-concretes: the effect of viscosity enhancing 
-admixtures 
-Elevação da taxa de estruturação de concretos para 
-impressão 3D: o efeito de aditivos modificadores de 
-viscosidade 
-HASSE, J. A. a 
-jessicaahasse@gmail.com 
-https://orcid.org/0000-0002-0885-2342 
-RUBIN, A. P. a 
-arianeprubin@hotmail.com 
-https://orcid.org/0000-0001-5636-5023 
-QUINTANILHA, L. C. a 
-lucasquintanilha7@gmail.com 
-https://orcid.org/0000-0002-1692-3710 
-REPETTE, W. L. a 
-wellington.repette@gmail.com 
-https://orcid.org/0000-0003-0697-2794 
- 
-Abstract 
- 
 In the last decades, 3D printing has emerged as a promising new paradigm for manufacturing. Even in 
 the civil construction industry, it has gained attention from companies and researchers around the world. 
 Despite of that, the properties of materials applied in the additive manufacturing process are still 
@@ -68,60 +11,33 @@ increasing the cohesion and buildability of concretes for 3D-printing. The resul
 varies with the type and amount of the admixture adopted and bentonite clay, as a mineral powder 
 material, performed best in comparison to other polymeric VEAs, presenting structuration rates of up to 
 62% higher than the reference mixture. 
-Keywords: 3D printing, additive manufacturing, extrudable concrete, viscosity-enhancing admixtures, bentonite  clay. 
-Resumo 
- 
-Nas últimas décadas, a impressão 3D emergiu como um novo e promissor paradigma de fabricação.  
-Mesmo na indústria da construção civil, ela tem ganhado atenção de empresas e pesquisadores de todo 
-o mundo.  Apesar disso, as propriedades dos materiais aplicados no processo de manufatura aditiva ainda 
-são pouco estudadas.  Um dos desafios está na necessidade de conciliar alta capacidade portante, 
-poupando a necessidade de quaisquer medidas restritivas, com a capacidade de manter a fluidez por 
-tempo suficiente, a fim de evitar juntas frias entre as camadas.  Nesse sentido, os aditivos Modificadores 
-de viscosidade (VMAs) podem ser uma solução, pois são capazes de promover floculação, ganho de 
-viscosidade e aumento da tensão de escoamento, reduzindo o tempo de deposição entre as camadas, o 
- 
-2 
- 
- 
-que pode diminuir a formação de juntas frias.  Esta pesquisa avaliou parâmetros reológicos de quatro 
-VMAs diferentes e descobriu que eles apresentam potencial para aumentar a coesão e a construtibilidade 
-de concretos para impressão 3D.  Os resultados mostraram que esse efeito varia com o tipo e a quantidade 
-de aditivo adotado. Particularmente, a argila bentonita, como aditivo mineral em pó, apresentou melhor 
-desempenho em comparação com os VMAs poliméricos, porduzindo taxas de estruturação até 62% 
-superiores à mistura de referência. 
-Palavras-chave: impressão 3D, manufatura aditiva, concretos extrudáveis, aditivos modificadores de viscosidade, 
-argila bentonita. 
- 
-1 
-Introduction 
+
 The additive manufacturing technology, or simply 3D printing, dates back to the 1980s and it 
 was initially developed in the scope of prototyping [1]. In the last two decades, however, there 
 has been a growing interest around the additive fabrication processing of large-scale components 
 for civil construction. The technique can be used to optimize time, reduce costs, flexibilize 
 projects, reduce waste generation, and fabricate structures without formwork and falsework [2, 
 3, 4, 5]. 
+
 However, in the additive manufacturing process with concrete, the challenge of stacking layers 
 tightly attached to one another still persists. If the layers overlaps occur too quickly, they won’t 
 have sufficient strength to avoid deformations caused by their own weight. On the other hand, 
 if optimal waiting time between depositions is exceeded, there will be loss of interlayer adhesion 
 and formation of cold joints, which compromises the final mechanical performance of the 
 structure [3, 6]. 
+
 The stability of the printed structure depends on two distinct factors: (a) the vertical stress acting 
 on the prior deposited layers and (b) the material’s yield strength. Both are time dependent, being 
 the former related to the construction rate, i.e. the speed at which each new layer is deposited 
 after the previous layer, while the latter relates to the structuring at rest of the concrete [3, 6]. 
-1.1 
-Extrudable Concretes 
+
 In recent years, 3D printing systems have been successfully applied to the construction of 
 structural elements and architectural components, adopting a variety of cementitious 
 compositions. However, there is still no domain or consensus in the technical-scientific 
 community regarding the preparation of cementitious mixtures suitable for additive 
- 
-3 
- 
- 
 manufacturing [1, 4, 7]. Among the main objects of study in this matter are the topics related to 
 the properties at the fresh state of the material, mainly extrudability and buildability. 
+
 Extrudability refers to the ability of the material to continuously flow through the tubes and 
 nozzles in the print head, and it is measured based on the distance by which the concrete can be 
 printed without blocking the nozzle, free from cracks and separations. Buildability refers to the 
@@ -132,35 +48,32 @@ admixtures capable of adjusting the mixture’s desired workability. Note that t
 be sufficiently fluid for extrusion purposes, but sufficiently firm for mechanical stability of the 
 structure. For this reason, the influence of several admixtures on such material is the subject of 
 lots of recent studies [4, 8]. 
-1.2 
-Structuration Rate 
+
 The resting time between the casting of two successive layers is directly related to the 
 development of the microstructure of the cementitious material. This process depends basically 
 on: (a) a reversible physical phenomenon, due to the flocculation processes of the colloidal 
 particles, and (b) an irreversible chemical phenomenon, due to the hydration processes in the 
 cement paste [9, 10, 11], promoting an increase on the materials yield strength, but also 
 diminishing its workability throughout the resting time [12, 13, 14, 15].  
+
 In this context, the yield strength can be defined as the ability of the cementitious material to 
 withstand the stresses, resulting from the attractive interparticular forces between cement and 
 the other particles that constitute the mixture. Therefore, to ensure the stability of the printed 
 structure, fresh concrete yield strength, over resting time, must increase and be greater than the 
 imposed stresses [9].  
+
 The materials yield strength evolution over resting time, during the flocculation period of 
 cementitious matrices, follows a linear regimen, previously denominated as structuration rate 
 (Athix) and may be estimated be estimated by the following equation from [13]:   
 Athix = (τ0(t) - τ00 )/ t 
- 
-4 
- 
- 
 Where: Athix is the structuration rate (Pa/s); τ0(t) is the yield strength after some time (Pa); τ00 
 is the initial yield strength (Pa); and t is the elapsed time (s). 
-1.3 
-Viscosity Enhancing Admixtures 
+
 One way to control the rheological behavior of cementitious matrices is by the use of viscosity 
 enhancing admixtures (VEAs), which are generally applied to concretes in order to reduce the 
 risk of segregation and exudation [16, 17, 18]. Since their action increases the viscosity and yield 
 strength of the mixtures, their use may be extended to printable concretes [7]. 
+
 There are many types of VEAs, which can be mineral compounds in the form of extremely fine 
 powders (such as silica fumes and nanoclays), natural polymers (xanthan gum and agar) and 
 synthetic or semi-synthetic polymers (polyacrylates, polyvinyls, ether derivatives) [16, 17]. 
@@ -169,30 +82,30 @@ extent of viscosity increase will depend on the type and concentration of the ad
 adsorption capacity by the cement particles, anionicity and molecular weight [19], as well as the 
 shear rate applied to the concrete. The modes of action of the main polymeric VEAs, according 
 to [17], are: 
--  Adsorption: Long-chain polymer molecules adhere to water molecules, fixating it in part and 
+
+- Adsorption: Long-chain polymer molecules adhere to water molecules, fixating it in part and 
 expanding so that the viscosity of the liquid medium in the mixture is increased. 
+
 - Association: Polymer molecules develop attractive forces with each other so that, when 
 connected, they block the free passage of water from the mixture. This promotes gel formation 
 with consequent increase in viscosity. 
+
 - Intertwining: At higher concentrations, polymeric molecules can intertwine and entangle, 
 increasing the viscosity of the assembly in which they fit. This effect can disappear at sufficiently 
 high shear rates by aligning the polymer chains in the flow direction, generating a behavior 
 known as pseudoplasticity. 
+
 Since these admixtures have a potential increase in the yield strength of concrete, their insertion 
 may be able to improve the structuring rate of mixtures intended for 3D printing. However, 
 because of the variability of types and modes of operation, especially with regard to polymeric 
 VEAs, it is important to evaluate the various commercially available products. 
- 
-5 
- 
- 
-1.4 
-Bentonites 
+
 Mineral compounds in the form of fine powders are among the most used viscosity enhancing 
 admixtures for concrete. Among them, but not so disseminated, nanoclays and, particularly, 
 bentonite clays arouse special interest because of their unique properties, such as the capacity of 
 producing thixotropic gels, expanding up to 20 times its original volume when put in contact to 
 water [20, 21]. 
+
 Due to the high concentration of adsorbed cations over the clay particle surface, when the 
 particles are dispersed in a liquid, the diffusion phenomenon happens so to equalize the 
 concentration all over the fluid. However, the ease to which this should happen depends on the 
@@ -206,23 +119,19 @@ replacements that occur internally with the cations on the crystal lattice. On t
 the borders of the particles a pH dependent surface is formed, resulted from the protonation 
 and deprotonation of the OH- groups, varying from positive to negative as the solution pH is 
 altered [24, 25]. 
+
 Figure 1 shows the behavior of the clays when dispersed in a fluid. When submitted to a forced 
 flow, particles tend to orientate according to the flow. When the flow is discontinued, particles 
 are rearranged by the attraction of the negatively charged faces to the positively charged 
 extremities, forming a tridimensional structure inside the fluid [26]. 
- 
-Figure 1 
-Bentonite clays behavior: charged particle, under forced flow and at rest [26] 
- 
-6 
- 
- 
+
 The unique thixotropic gels formation in these materials is then produced by this combination 
 of effects, where the electro-viscous effect under low ionic forces, caused by the well-developed 
 diffuse double layer, is later kept by the particle immobilization on the tridimensional formed 
 net. Besides that, particles that have opposite charged to the clay-minerals, i.e. the oxides from 
 the iron and aluminum hydroxides, also favor the thixotropic tendency of the solutions through 
 the formation of connection points between them [21, 25]. 
+
 When interacting, bentonite clays and cement may alter the mixes properties by three different 
 reasons: the significant increase in the pH solution (around 12 ~ 13 caused by the cement), 
 would promote the thixotropic gels formation from the alteration of the charges on the 
@@ -232,12 +141,11 @@ between the particle’s layers, compressing the double diffuse layer for the hi
 that will result in higher flocculation, and a somewhat meaningful presence of K+ ions. All of 
 these effects would promote the retention of water, significantly increasing the viscosity of the 
 mixture [27].  
-2 Materials and experimental program 
+
 In this context, the present work analyzes the effect of different viscosity enhancing admixtures 
 in extrudable concretes and their influence in the materials’ yield strength over time, in order to 
 favor its structuration rate (Athix), required to improve buildability of printable mixtures. 
-2.1 
-Materials and Mixture Proportions 
+
 For this research, nine different mixtures were produced as stated in Table 1: one reference 
 mixture (without any VEA content), and eight other mixtures with four different types of VEA 
 in two amounts (three polymeric commercial VEAs and one type of bentonite clay).  All of them 
@@ -245,311 +153,65 @@ were made with Portland cement with pozzolanic addition, classified as CP-IV, ac
 ABNT NBR 5736/1991 [28]. Table 2 presents the chemical composition of the adopted powder 
 materials. The granulometric composition measured with a Microtrac S3500 laser granulometer 
 of the dry materials is shown in Figure 2. 
- 
-7 
- 
- 
-Table 1 
-Mixes proportioning 
-Mix 
-Portland 
-cement 
-(Kg/m³) 
-Fine 
-sand 
-(Kg/m³) 
-Water 
-(Kg/m³) 
-Silica 
-fume 
-(Kg/m³) 
-HRWR 
- (%*) 
-VEA1 
-(%*) 
-VEA2 
-(%*) 
-VEA3 
-(%*) 
-Bent 
-(%*) 
-REF 
-706 
-1178 
-290 
-79 
-1,5 
-- 
-- 
-- 
-- 
-VEA1 0.6 
-706 
-1178 
-290 
-79 
-1,5 
-0,6 
-- 
-- 
-- 
-VEA1 1.2 
-706 
-1178 
-290 
-79 
-1,5 
-1,2 
-- 
-- 
-- 
-VEA2 0.6 
-706 
-1178 
-290 
-79 
-1,5 
-- 
-0,6 
-- 
-- 
-VEA2 1.2 
-706 
-1178 
-290 
-79 
-1,5 
-- 
-1,2 
-- 
-- 
-VEA3 0.6 
-706 
-1178 
-290 
-79 
-1,5 
-- 
-- 
-0,6 
-- 
-VEA3 1.2 
-706 
-1178 
-290 
-79 
-1,5 
-- 
-- 
-1,2 
-- 
-BENT  0.3 
-706 
-1178 
-290 
-79 
-1,5 
-- 
-- 
-- 
-0,3 
-BENT  0.6 
-706 
-1178 
-290 
-79 
-1,5 
-- 
-- 
-- 
-0,6 
-*to the cement weight 
- 
- 
- 
- 
- 
- 
-Figure 2
- 
-Gradation of the powder materials 
-Table 2 
-Chemical composition of the powder materials 
-Determination 
-Cement (%) 
-Silica Fume (%) 
-Bentonite (%) 
-SO3 
-3,18  
-0,80  
-- 
-Al2O3 
-4,3  
-< 0,04  
-18,77 
-SiO2 
-18,96  
-84,87 
-61,22 
-Fe2O3 
-2,95  
-2,17 
-4,94 
-MgO 
-3,26  
-1,98 
-3,69 
-CaO 
-60,76  
-1,24 
-0,71 
-K2O  
-- 
-2,49  
-0,50 
-Na2O  
-- 
-1,18 
-1,41 
-TiO2  
-- 
-0,36  
-- 
-Mn2O  
-- 
-1,98  
-- 
-P2O5  
-- 
-<0,01  
-- 
-Insoluble residue 
-0,72  
-- 
-- 
-Heat loss 
-3,45  
-4,00 
-5,9 
-Free CaO 
-0,75  
-- 
-- 
-Alkali equiv. 
-0,68  
-- 
-- 
-0
-20
-40
-60
-80
-100
-0
-100
-200
-300
-400
-500
-Accumulated passant (%)
-Sieve (µm)
-Cement
-Sand
- 
-8 
- 
- 
+
 All mixtures were made using a polycarboxylate based high range water reducer admixture 
 (HRWR). Also, besides bentonite clay, three commercial viscosity enhancing admixtures 
 (denominated VEA1, VEA2 and VEA3) were investigated. Table 3 shows their main 
 characteristics. 
-Table 3 
-Physical chemical characteristics for the admixtures 
-Characteristic 
-HRWR 
-VEA1  
-VEA2  
-VEA3  
-Specific weight (g/cm³) 
-1,05 - 1,10  
-1,00 
-1,02 
-1,01 
-pH 
-3 - 6 
-6 
-6 
-8 
-Aspect 
-Liquid 
-Liquid 
-Gel 
-Liquid 
-Solid content (%) 
-- 
-9,53 
-10,00 
-9,60 
- 
+
 In order to obtain a reference mix that would meet the extrudability requirements, a few different 
 batches were tested according to the method proposed by [29], in which concrete filaments with 
 1 to 2cm width are extruded for a minimum of 30cm length. The material should keep its 
 cohesion and shape to be considered extrudable, as shown in Figure 3a. Figure 3b shows the 
 printing process of one sample. 
-Figure 3 
-a) Extrudability test b) Printed layers 
- 
- 
+
 The established mixing procedure was the same for all mixes: dry materials were manually mixed 
 prior to mechanical mixing was started and, thereafter, on the course of the first minute of 
 mixing, they were gradually added to the mixing water, where the HRWR was already diluted. 
 After that, the materials were mixed for 5 more minutes, put at rest for 1min for the addition of 
 the viscosity promoters, when the case, and proceeded to mix for 2 final minutes. The mixture 
 velocity was fixed in 25rpm, in a Tedemix ML-03 mixer, equipped with a Ø80mm cowls disc. 
- 
-9 
- 
- 
+
 After the sample preparation, mixes were submitted to rheological tests, in order to evaluate the 
 effect of the viscosity enhancing admixtures on the materials’ yield strength over time, as well as 
 to the materials’ structuration rate. 
-2.2 
-Rheological and Complementary Tests Procedures 
+
 Yield strength measurements were taken for all mixes at 10, 45 and 90min after the addition of 
 the cement to the water. For the rheological measurements, a Thermo Scientific HAAKE MARS 
 III rheometer with Vane geometry was used. 
+
 The rotor was immersed into the mixes right after the mixture procedure was ended and kept at 
 rest until the defined measurement times were reached. A new batch was made for each 
 measurement that was taken. The tests were carried out maintaining a constant shear rate with 
 angular velocity of 0,25rpm. Results were obtained from the medium value of a pair of data, at 
 each established resting time, and plotted as a function of the yield strength over time. 
+
 After the rheological tests, the consistency index was measured according to ABNT NBR 
 13276/2016 [30], at the same resting times established for the rheological measurements (10, 45 
 and 90min), in order to evaluate the materials’ fluidity loss over time. The test was carried out 
 placing the material into the test recipient, and then left at rest until the established times were 
 reached for testing. 
+
 The reaction kinetics of the mixtures were measured by isothermal calorimeter model TAM AIR 
 (TA Instruments) of eight channels with controlled temperature of 23ºC for 60 hours. Also, 
 measurements for the fresh state specific weight, as well as the 28 days compressive strength, 
 according to ABNT NBR 13278/2005 [31] and ABNT NBR 7215/1997 [32], respectively, were 
 made. 
-3 Results and discussions 
-3.1 
-Yield Strength 
+
 Figure 4 shows the yield strength obtained for all of the mixtures with 10, 45 and 90 minutes of 
 rest. The increasing values over time observed is the result mostly of the flocculation processes 
 that come from the interaction of colloidal particles inside the mixes, which can be also inferred 
 from the calorimetry tests (see section 3.3), and also from the calcium silicate hydrates on the 
 contact points between the cement particles that usually occur on cementitious materials [9, 14].  
- 
-10 
- 
- 
+
 Regarding the mixtures with the polymeric VEAs, it can be said that: 
+
 1) VEA 1 and VEA2 were not able to increase, comparing to the reference mixture, the 
 yield strength in any of the measured resting times.  
+
 2) For the mixture with VEA3, there was no significant variation from the reference 
 mixture after up to 45 minutes, with a slightly increase at the 90 minutes measure.  
+
 This behavior may seem to go in opposition to what was expected, since the addition of the 
 viscosity enhancing admixtures should increase the mixtures’ viscosity and its yield strength. 
 However, the mechanism in which each of this admixtures work can be affected both by the 
@@ -560,6 +222,7 @@ w/c ratio than the reference mixture, which can lead to viscosity reduction and 
 decrease. This means that the three-dimensional polymeric structure expected to be formed due 
 to the presence of such VEAs was not enough to produce an increase in the yield strength under 
 this particular shear rate and in face of the w/c difference. 
+
 It should be noted, nevertheless, that this does not mean that polymeric VEAs are always not 
 suited for increasing the yield strength of printable concretes, because different applications 
 subject the material to different shear rates. Besides, the water content of the polymeric solution 
@@ -567,6 +230,7 @@ can be subtracted from the mixture, if it is shown that to be the case. Regards 
 composition, there are many different commercially available polymeric VEAs, with different 
 acting mechanisms – as discussed early on in this paper (see section 1.3) – which means that 
 some of them may be better suited for some specific applications than others. 
+
 In contraposition to the mixes using the VEAs, the mixes that used bentonite on its composition, 
 for both the lower (0.3%) and the higher (0.6%) percentages, showed an increase to the yield 
 strength when compared to the reference mixture, for all measured resting times. The registered 
@@ -575,18 +239,11 @@ fact that the incorporation of bentonite clay elevates the solid/liquid rate of 
 alone can improve its viscosity and yield strength. But this behavior is not only due to the fact 
 that the bentonite clay is a very fine material with high surface area, but also tend to form a 
 thixotropic gel when dispersed in a liquid phase, which alters the rheological response of the 
- 
-11 
- 
- 
 mixture, as noted by previous works [33]. The results obtained here confirmed that the three-
 dimensional network was indeed formed by the bentonite presence, even with the dispersion 
 happening on a cement-based matrix. This is of great value concerning 3D printing with 
 concrete, because of the great gain in buildability. 
-Figure 4 
-Yield strength evolution over time 
-3.2 
-Structuration Rate 
+
 Table 4 shows the structuration rate values (Athix) of the investigated mixes. It is clear that the 
 presence of VEA1 and VEA2 did not benefit the Athix value, lowering its measure of up to 
 32,6% of the original value (REF). On the other hand, the mixes with VEA 3 and bentonite clay 
@@ -598,10 +255,6 @@ were slightly lower than the ones found here, firstly because said study wasn’
 printability purposes, and secondly because the presence of the aggregates should improve the 
 robustness of the material, resulting in higher yield strength. The increase on the structuration 
 rates is an important asset for 3D printing applications because there is not only a need for high 
- 
-12 
- 
- 
 yield strength, but for a rapid increase to such values after the layer casting. The speed in which 
 the structuration of the mixture under rest increases must be as higher as it is possible to print 
 the next layers (to avoid cold joints), what varies with the available printer. That’s why there is 
@@ -613,64 +266,7 @@ to compensate the extremely higher yield strength in the mixes containing clays,
 the same properties for printability purposes. However, according to [12], all produced mixes 
 could be considered highly thixotropic. The BENT 0.6% mix produced the highest result for 
 such a behavior, while VEA 1.2%, the lowest. 
-Table 4 
-Structuration rate, mass density and entrained air of the mixes 
-Property 
-REF 
-VEA1 
-0.6 
-VEA1 
-1.2 
-VEA2 
-0.6 
-VEA2 
-1.2 
-VEA3 
-0.6 
-VEA3 
-1.2 
-BENT 
-0.3 
-BENT 
-0.6 
-Athix 
-(Pa/s) 
-0.841 
-0.644 
-0.694 
-0.605 
-0.567 
-1.066 
-0.982 
-0.723 
-1.356 
- 
-Mass 
-density 
-(kg/m³) 
-2040.4 
-1917.2 
-1899.6 
-2047.3 
-2038.3 
-2036.1 
-2022.4 
-2044.5 
-2065.1 
-Entraine
-d air (%) 
-8.88 
-14.38 
-15.17 
-8.57 
-8.97 
-9.07 
-9.68 
-8.70 
-7.78 
- 
-3.3 
-Isothermal Calorimetry 
+
 Figure 5 shows the heat flow released by the mixtures over time. It is possible to conclude that 
 the induction periods (measured by the slope of the curves during the acceleration period) and 
 the maximum heat release peaks have reached similar behaviors for all mixtures. It is evident 
@@ -679,15 +275,7 @@ alterations on the heat flow for the first hour, that is, they did not accelerat
 hydration process of the mixtures in that period, meaning that potential modifications on the 
 structuration rates, measured through the rheometry tests, were not due by an alteration on the 
 cement hydration process.   
- 
-13 
- 
- 
- 
-Figure 5 
-Heat flow over time 
-3.4 
-Consistency index 
+
 Figure 6 shows that all mixes presented a decrease on the consistency index over time (10min, 
 45min and 90min resting times), as it was expected, being it a result of (a) the particle 
 rearrangement; (b) the viscosity modifiers effect, or (c) as a result of the hydration products of 
@@ -704,14 +292,7 @@ percentages between the same materials, it was not observed significant changes 
 mixes. This result show that the incorporation of the different VEAs made the mixtures less 
 susceptible to deformation over time, which is very useful to additive manufacturing 
 applications. 
- 
-14 
- 
- 
-Figure 6 
-Consistency index 
-3.5 
-Mass Density and Entrained Air 
+
 The mass density and the entrained air values were measured for the fresh state of mixes. Table 
 4 shows these results. As it may be noted, most values were found to be similar to the REF mix, 
 in exception of mixes VEA1 on both levels, which have shown a significant decrease in the mass 
@@ -725,14 +306,9 @@ example [39]. In this case, the air entrainment would justify the lower performa
 mixes when compared to the REF for the yield strength, structuration rate and even compressive 
 strength obtained. For 3D printing, the incorporation of some air can be a good asset regards to 
 the flowability of the mixture, but it is important that it does not negatively affect its mechanical 
- 
-15 
- 
- 
 performance. In this particular case, mixtures with higher amounts of entrained air (VEA1 0.6 
 and VEA1 1.2) performed among the worse results in the yield strength evaluation. 
-3.6 
-Compressive Strength 
+
 Figure 7 shows the compressive strength results on 28 days test. The results were statistically 
 analyzed using variation analysis test (ANOVA), and the Fisher variation test. All mixes, except 
 mixes VEA1, reached statistically the same value as the REF mix, which was 37.7MPa. Mix 
@@ -741,24 +317,18 @@ be due to the higher air incorporation. The compressive strength of a concrete m
 printing varies with its application, therefore there isn’t a specific range of compressive strength 
 that should be aimed for. In this particular work, the aim was to see if the incorporation of VEAs 
 would harm mechanical performance, which was not the case for the majority of the mixtures. 
-Figure 7 
-Compressive strength of all mixtures at age of 28 days 
- 
-3.7 
-Overall Discussion 
+
 For this study, viscosity-enhancing admixtures were used in order to benefit the structuration 
 rate of the materials and to improve buildability by increasing the yield strength of the mixes. 
 The consistency index test indicates that the modifiers did perform their job of promoting an 
 increase in the cohesion of the mixture. However, the magnitude to which bentonite produced 
- 
-16 
- 
- 
 such effects, in both trials, was shown to be more expressive than that produced by polymeric 
 VEAs. 
+
 It is important to state that the results make it evident that there is no direct numerical correlation 
 between the consistency index and rheometry results, since the same range of consistency values 
 may encompass distinct flow voltages. 
+
 The increased cohesion and yield strength, mainly presented by BENT mixtures, could be 
 justified as an acceleration of the formation of cement hydration products. However, the 
 calorimetry test proves that all the measurements performed occurred during the mixes dormant 
@@ -766,6 +336,7 @@ period, implying that the main effect was due to the physical flocculation pheno
 internal arrangement of particles, regardless of the modifier used. When Bentonite clays were 
 incorporated to the mixtures, the thixotropic effect can also be pointed as responsible for the 
 structuration response. 
+
 Regarding the amounts of tested VEAs, the higher availability of the product in the mixture did 
 not increase the cohesion and gain of the yield strength, except for the bentonites, where the 
 higher content resulted in improved buildability. This could be due to (a) saturation of the VEAs 
@@ -773,169 +344,42 @@ into the mixture, (b) the adsorption difference with the cement particles, (c) i
 molecular weight, (e) to an increase in the water/cement ratio (since the liquid admixtures were 
 added without withdrawing the equivalent water amount of the mixture) and (f) due to an 
 increase of the entrained air into the mixture (as it was the case with VEA1 0.6 an VEA1 1.2). 
+
 Furthermore, the presence of viscosity modifiers did not change the compressive strength values 
 of the mixtures, except for mixtures VEA1. In this case, the higher content of incorporated air, 
 confirmed by the fresh mass density test, justifies both the reduction in the compressive strength 
 and also the lower performance of the product when compared to VEA2 and VEA3 in every 
 other test. 
+
 The values of yield strength and structuration rate were higher for bentonite mixtures than those 
 obtained by the other mixtures analyzed. The calorimetry test also proves that the improvement 
 in the stiffness of the cementitious matrix by the presence of clay is not due to the increase of 
 the formation of cement hydration products. Therefore, the structuration phenomenon is 
 attributed to the internal arrangement, and especially to the formation of thixotropic gel, the 
- 
-17 
- 
- 
 formation of a three-dimensional network, free water retention and ionic attraction of the 
 particles’ effects caused by this type of material. 
+
 The results point to the technical feasibility of the use of viscosity modifiers in favor of the load 
 bearing capacity of concrete suitable for 3D-printing, due to the increased cohesion. It should 
 be noted, however, that not all types of VEAs would be capable of delivering the same effect, 
 while bentonites would be the best of the options, showing a better behavior than any other 
 modifier. 
-4 Conclusions 
+
 The study set to investigate the effect of three commercial viscosity enhancing admixtures and 
 bentonite clay over the structuration rate of 3D printable concretes allows to conclude that:  
+
 - VEAs show potential for increasing the cohesion and buildability of concretes for 3D-printing; 
+
 - It was not possible to determine a direct relationship between the structuration rate, cohesion 
 of the mixture and its buildability; 
+
 - With due control in the content, the presence of bentonite clay in concrete for 3D printing 
 does not influence negatively the values of compressive strength; 
+
 - The use of bentonite clays in concrete mixes for 3D printing proved to be very effective in 
 promoting cohesion and increasing buildability, being a field of research with imminent 
 potential. 
-5 Acknowledgements 
+
 The authors would like to thank CNPq for its financial support provided through Project No. 
 310925/2016-9, CAPES for supporting the researchers with scholarships and FAPESC for 
 its partnership throughout this work. 
- 
-6 References 
-[1] Wu, P., Wang, J., Wang, X., ‘A critical review of the use of 3-D printing in the construction 
-industry’, Automation in Construction 68, (2016) 21-31. 
-[2] Malaeb, Z., Hachem, H., Tourbah, A., Maalouf, T., Zarwi, N. E., Hamzeh, F., ‘3D concrete 
-printing: Machine and mix design’, International Journal of Civil Engineering. 6 (6), (2015) 
-14-22. 
-[3] Wangler, T., Lloret, E., Reiter, L., Hack, N., Gramazio, F., Kohler, M., Bernhard, M., 
-Dillenburger, B., Buchili, J., Roussel, N., Flatt, R., ‘Digital Concrete: Opportunities and 
-Challenges’, RILEM Technical Letters, 1st Edn, (2016) 67 - 75. 
- 
-18 
- 
- 
-[4] Ma, G., Wang, L., ‘A critical review of preparation design and workability measurement of 
-concrete material for largescale 3D printing’, Frontiers of Structural and Civil Engineering, 
-(2017) 1 - 19. 
-[5] Buchli, J., et al. "Digital in situ fabrication-Challenges and opportunities for robotic in situ 
-fabrication in architecture, construction, and beyond." Cement and Concrete Research 
-(2018). 
-[6] Roussel, N. "Rheological requirements for printable concretes." Cement and Concrete 
-Research (2018). 
-[7] Marchon, D., et al. "Hydration and rheology control of concrete for digital fabrication: 
-Potential admixtures and cement chemistry." Cement and Concrete Research (2018) 
-[8] Perrot, A., Rangerard, D., Pierre, A., ‘Structural built-up of cement-based materials used for 
-3D printing extrusion techniques’, Materials and Structures 49 (2016) 1213 - 1220. 
-[9] Roussel, N., Ovarlez, G., Garrault, S., Brumaud, C., ‘The origins of thixotropy of fresh 
-cement pastes’ Cement and Concrete Research 42 (2012) 148–157. 
-[10] Yahia, A., Mantellato, S., Flatt, R. J., ‘Concrete rheology: a basis for understanding chemical 
-admixtures’, in: Aïtcin, P. C., Flatt, R. J. (Orgs.) Science and technology of concrete 
-admixtures. Woodhead Publishing Series in Civil and Structural Engineering 59 (2015) 97-
-127. 
-[11] Reiter, L., et al. "The role of early age structural build-up in digital fabrication with concrete." 
-Cement and Concrete Research (2018). 
-[12] Roussel N., Cussigh F., ‘Distinct-layer casting of SCC: The mechanical consequences of 
-thixotropy’, Cement and Concrete Research 38 (2008) 624 - 632. 
-[13] Roussel, N., ‘A thixotropy model for fresh fluid concretes: Theory, validation and 
-applications’, Cement and Concrete Research 36, (2006) 1797–1806. 
-[14] Aïtcin, P. C., ‘The importance of the water-cement and water-binder ratios’, in: Aïtcin, P. 
-C., Flatt, R. J. (Orgs.) Science and technology of concrete admixtures. Woodhead Publishing 
-Series in Civil and Structural Engineering 59 (2015) 03-14. 
-[15] Gauffinet, S. G., ‘The rheology of cement during setting’, in: Roussel, N. (Org.) 
-Understanding the rheology of concrete. Elsevier (2012). 
-[16] EFNARC - Experts for Specialized Construction and Concrete Systems, ‘Guidelines for 
-Viscosity Modifying Admixtures for Concrete’. EFCA - European Federation of Concrete 
-Admixture Association (2006).   
-[17] Khayat, K. H., ‘Viscosity-Enhancing Admixtures for Cement-Based Materials — An 
-Overview’, Cement and Concrete Composites 20 (1998) 171 - 188. 
-[18] Leemann, A., Winefeld, F., ‘The effect of viscosity modifying agents on mortar and 
-concrete’, Cement and Concrete Composites 29 (2007) 341 - 349.  
-[19]  H. Bessaies-Bey, Polymères et propriétés rhéologiques d'une pâte de ciment: une approche 
-physique générique, Paris Est, http://www.theses.fr/2015PEST1042, (2015) , Accessed 
-date: 6 October 2017. 
-[20] Grim, Ralph E. Applied Clay Mineralogy. New York: Mcgraw-hill Book Company, Inc., 
-1962. 
-[21] Santos, P. S.; Tecnologia de Argilas Aplicada às Argilas Brasileiras, Vol. 1 e 2, Editora Edgard 
-Blucher Ltda., 1975. 
-[22] Van Olphen, H. Clay Colloid Chemistry: for clay technologists, geologists, and soil scientists. 
-2. ed. Malabar, FL: Krieger Publishing Company, 1991. 
-[23] Mitchell, J. K.; Soga, K. Fundamentals of Soil Behavior. 3. ed. Hoboken, NJ: John Wiley & 
-Sons, Inc., 2005. 
- 
-19 
- 
- 
-[24] Galindo-Rosales, F; Rubio-Hernandez, F. Structural breakdown and build-up in bentonite 
-dispersions. Applied Clay Science, [s.l.], v. 33, n. 2, p.109-115, 2006. Elsevier BV. 
-http://dx.doi.org/10.1016/j.clay.2006.03.011. 
-[25] Wu, M.; Adachi, Y. Effects of electrolyte concentration and pH on the sedimentation rate 
-of coagulated suspension of sodium montmorillonite. Colloids and Surfaces A: 
-Physicochemical and Engineering Aspects, [s.l.], v. 506, p.686-693, 2016. Elsevier BV. 
-http://dx.doi.org/10.1016/j.colsurfa.2016.07.027. 
-[26] Zhang, Y. et al. Fresh properties of a novel 3D printing concrete ink. Construction and 
-Building 
-Materials, 
-[s.l.], 
-v. 
-174, 
-p.263-271, 
-jun. 
-2018. 
-Elsevier 
-BV. 
-http://dx.doi.org/10.1016/j.conbuildmat.2018.04.115. 
-[27] Plee, D. et al. Microstructure, Permeability and Rheology of Bentonite-Cement Slurries. 
-Cement and Concrete Research, v. 20, n. 1, p.45-61, 1990. 
-[28] ABNT: Associação Brasileira de Normas Técnicas. NBR 5736: Cimento Portland 
-Pozolânico. 1991. 
-[29] Le, T. T. et al. Mix design and fresh properties for high-performance printing concrete. 
-Materials and Structures, [s.l.], v. 45, n. 8, p.1221-1232, 19 jan. 2012. Springer Nature. 
-http://dx.doi.org/10.1617/s11527-012-9828-z. 
-[30] ABNT: Associação Brasileira de Normas Técnicas. NBR 13276: Argamassa para 
-assentamento e revestimento de paredes e tetos - Preparo da mistura e determinação do 
-índice de consistência. Rio de Janeiro, 2005. 
-[31] ABNT: Associação Brasileira de Normas Técnicas. NBR 13278: Argamassa para 
-assentamento e revestimento de paredes e tetos - Determinação da densidade de massa e do 
-teor de ar incorporado. Rio de Janeiro, 2005. 
-[32] ABNT: Associação Brasileira de Normas Técnicas. NBR 7215: Cimento Portland: 
-determinação da resistência à compressão. ABNT, 1996. 
-[33] Abu-Jdayi, B. Rheology of sodium and calcium bentonite-water dispersions: Effect of 
-electrolytes and aging time. International Journal of Mineral Processing. [s.l.], v. 98, n. 3-4, p.208-
-213, mar. 2011. Elsevier BV. http://dx.doi.org/10.1016/j.minpro.2011.01.001. 
-[34] Thiedeitz, M.; Kränkel, T.; Gehlen, C. Thixotropy-Dependent Form Filling Ability of 
-Cement Paste. In: Rheology and Processing of Construction Materials. Springer, Cham, 
-2019. p. 273-280. 
- 
-[35] Rahul, A. V. et al. 3D printable concrete: Mixture design and test methods. Cement and 
-Concrete 
-Composites, 
-[s.l.], 
-v. 
-97, 
-p.13-23, 
-mar. 
-2019. 
-Elsevier 
-BV. 
-http://dx.doi.org/10.1016/j.cemconcomp.2018.12.014. 
-[36] Li, Z.; Wang, L.; Ma, G. Method for the enhancement of buildability and bending resistance 
-of three-dimensional-printable tailing mortar. In: 3D Concrete Printing Technology. 
-Butterworth-Heinemann, 2019. p. 161-180. 
-[37] Rubio, M.; Sonebi, M.; Amziane, S. Fresh and rheological properties of 3d printing bio-
-cement-based materials. Second International Conference on Bio-based Building Materials. 
-2017. 
-[38] Lachemi, M., Hossain, K. M. A., Lambros, V., Nkinamubanzi, P. C., & Bouzoubaâ, N. 
-(2004). Self-consolidating concrete incorporating new viscosity modifying admixtures. Cement 
-and Concrete Research, v. 34, n. 6, p. 917-926, 2004. 
-[39] Łaźniwska-Piekarczyk, B. The type of air-entraining and viscosity modifying admixtures and 
-porosity and frost durability of high performance self-compacting concrete. Construction and 
-Building Materials, v. 40, p. 659-671, 2013. 

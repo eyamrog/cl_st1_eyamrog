@@ -1,25 +1,18 @@
-Management Pediatric COVID-19
-COVID-19 Diagnostic and Management Protocol for
-Pediatric Patients
-Ana Paula de Carvalho Panzeri Carlotti0000-0000-0000-0000 ,I Werther Brunow de Carvalho0000-0000-0000-0000 ,II,* Cı´ntia Johnston0000-0000-0000-0000 ,II
-Isadora Souza Rodriguez,II Artur Figueiredo Delgado0000-0000-0000-0000 II
-I Departamento de Pediatria, Hospital das Clinicas, Faculdade de Medicina de Ribeirao Preto, Universidade de Sao Paulo, Ribeirao Preto, SP, BR. II Instituto
-da Crianca e do Adolescente (Icr), Hospital das Clinicas HCFMUSP, Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo, SP, BR.
-Carlotti APCP, Carvalho WB, Johnston C, Rodriguez IS, Delgado AF. COVID-19 Diagnostic and Management Protocol for Pediatric Patients. Clinics. 2020;75:e1894
-*Corresponding author. E-mail: werther.brunow@hc.fm.usp.br
 This review aims to verify the main epidemiologic, clinical, laboratory-related, and therapeutic aspects of
 coronavirus disease 2019 (COVID-19) in critically ill pediatric patients.
+
 An extensive review of the medical literature on COVID-19 was performed, mainly focusing on the critical care
 of pediatric patients, considering expert opinions and recent reports related to this new disease. Experts from
 a large Brazilian public university analyzed all recently published material to produce a report aiming to
 standardize the care of critically ill children and adolescents.
+
 The report emphasizes on the clinical presentations of the disease and ventilatory support in pediatric
 patients with COVID-19. It establishes a ﬂowchart to guide health practitioners on triaging critical cases.
+
 COVID-19 is essentially an unknown clinical condition for the majority of pediatric intensive care profes-
 sionals. Guidelines developed by experts can help all practitioners standardize their attitudes and improve the
 treatment of COVID-19.
-KEYWORDS: COVID-19; Pediatric Critical Care Medicine; Infection; Ventilatory Support; Diagnostic Criteria.
-’ INTRODUCTION
+
 Coronavirus disease 2019 (COVID-19) is a viral respiratory
 illness caused by severe acute respiratory syndrome corona-
 virus 2 (SARS-CoV-2), a single-stranded RNA virus that most
@@ -34,10 +27,11 @@ incubation period, estimated to be between 1 and 14 days
 (mean, 5 days), can also occur; 95% of patients develop
 symptoms up to 12.5 days after exposure. This gave rise to the
 established quarantine period of 14 days after exposure (1,2).
-Clinical presentation
+
 The clinical spectrum of COVID-19 ranges from being
 asymptomatic to being in severe acute respiratory distress
 (Figure 1) (3).
+
 According to a case series of 2143 pediatric patients (3)
 registered in the China Center for Disease Control and
 Prevention (CDC) database, 731 cases were confirmed using
@@ -50,6 +44,7 @@ tical symptoms (10.6% o1 year old vs. 3% X16 years old);
 there were 13 critical cases, and in seven (53.8%) of them
 the patient was less than 1 year old. Only one death was
 reported, that is, of a 14-year-old boy.
+
 According to another series of 171 pediatric cases (4)
 (1 day to 15 years old; median, 6.7 years) admitted to a hospital
 in Wuhan, China, all patients tested positive for COVID-19,
@@ -64,24 +59,14 @@ was 10 months old; the patient’s condition deteriorated,
 leading to multiple organ dysfunction and death.
 Various cutaneous rashes have been recently observed in
 some pediatric cases with variable clinical presentations (5,6).
-Laboratory ﬁndings
+
 The white blood cell count can be normal or reduced.
 A series of 171 pediatric cases of COVID-19 reported leukopenia
 in 26.3% of patients; only 3.5% developed lymphocytopenia.
 C-reactive protein levels can be normal or elevated. Severe or
-DOI: 10.6061/clinics/2020/e1894
-Copyright & 2020 CLINICS – This is an Open Access article distributed under the
-terms of the Creative Commons License (http://creativecommons.org/licenses/by/
-4.0/) which permits unrestricted use, distribution, and reproduction in any
-medium or format, provided the original work is properly cited.
-No potential conﬂict of interest was reported.
-Received for publication on March 30, 2020. Accepted for publica-
-tion on March 31, 2020
-1
-REVIEW ARTICLE
 critical cases may be accompanied by an elevation in hepatic
 and muscular enzyme levels and high D-dimer levels (2,4).
-Imaging ﬁndings
+
 During the initial phase of illness, chest radiography
 findings can show signs of pneumonia, such as small
 irregular lung opacities and interstitial alterations, usually
@@ -101,7 +86,7 @@ electrical impedance tomography can be used to monitor the
 distribution of regional ventilation in patients with ARDS
 and to identify refractory hypoxemia that requires alveolar
 recruitment maneuvers.
-Detection of etiological agent
+
 The detection of SARS-CoV-2 nucleic acid using real-time
 reverse transcriptase-polymerase chain reaction (RT-PCR) is
 the reference standard for COVID-19 diagnosis. The virus
@@ -109,6 +94,7 @@ can be detected in upper airway or inferior airway secretions
 (nasopharynx swab or tracheal aspirates [if intubated],
 sputum, and bronchoalveolar lavage), blood, urine, and
 stool (1,8).
+
 In a case series of 10 pediatric patients from Shanghai (9),
 viral RNA was detected in the nasopharynx of all patients
 from 4 to 48h after the beginning of symptoms up to 6 to
@@ -121,13 +107,13 @@ should be performed only for patients in a severe or critical
 condition, those in sentinel units, and health care profes-
 sionals with symptoms typical of COVID-19. The test should
 not be performed in asymptomatic individuals.
-Diagnostic criteria
+
 A diagnosis is made considering clinical findings, epide-
 miology, and laboratory testing to confirm SARS-CoV-2
 infection (2). Figure 2 shows the flowchart for patients with
 flu-like symptoms as proposed by the São Paulo State Health
 Secretary (10,11).
-Differential diagnosis
+
 Other viral respiratory illnesses.
 Respiratory syncytial
 virus, influenza, parainfluenza, adenovirus, and metapneu-
@@ -135,14 +121,11 @@ movirus are frequent causes of lower airway infection in
 children and have similar clinical presentation to COVID-19.
 The diagnosis can be made by identifying the etiological agent
 in respiratory secretions using polymerase chain reaction.
+
 Bacterial pneumonia.
 The main clinical manifestations
 of bacterial pneumonia are high fever and toxemic state.
-Figure 1 - Clinical Presentation of COVID-19.
-2
-Management Pediatric COVID-19
-Carlotti APCP etal
-CLINICS 2020;75:e1894
+
 Frequently,
 there
 is leukocytosis with
@@ -152,12 +135,13 @@ increased numbers of younger cells. Blood and aspirate
 tracheal cultures are very important. Bronchoalveolar lavage
 (BAL) in intubated patients can be very useful in making a
 diagnosis.
+
 Atypical pneumonia.
 Mycoplasma pneumoniae and Chla-
 mydia pneumoniae are important causative agents of commu-
 nity-acquired pneumonia in children, and serologic tests can
 be used to confirm the diagnosis (2).
-Therapeutic management
+
 The four main principles for adequate therapeutic manage-
 ment are early identification, early isolation, early diagnosis,
 and early treatment. When dealing with a case of suspected
@@ -174,11 +158,6 @@ benefits thus far (1,2,12). A Chinese study (13) of more than
 effective in treating COVID-19-associated pneumonia, inhi-
 biting exacerbation of pneumonia, reducing radiographic
 alterations, promoting virus elimination, and decreasing the
-Figure 2 - Flu-like syndrome ﬂowchart.
-3
-CLINICS 2020;75:e1894
-Management Pediatric COVID-19
-Carlotti APCP etal
 period of time of the disease. Another French study (14)
 enrolled 20 patients with COVID-19 and showed that
 treatment with hydroxychloroquine was associated with
@@ -190,6 +169,7 @@ hydroxychloroquine/chloroquine (5–10 mg/kg/day of basic
 chloroquine for 10 days) and azithromycin (10 mg/kg on
 the first day, followed by 5 mg/kg/day for 4 days with
 a maximum dose of 30 mg/kg or 1,500 mg) (14-16).
+
 Severe cases with respiratory distress and/or hypoxia (SaO2
 o94%) (Severe Acute Respiratory Syndrome) should be
 admitted to the hospital. Indications for ICU admission are:
@@ -200,7 +180,8 @@ with hypoxemic acute respiratory distress and bilateral
 pulmonary infiltrates that are not explained by cardiac
 dysfunction or fluid overload. The main treatment princi-
 ples of ARDS are as follows (17-20):
- Early tracheal intubation – rapid sequence intubation is the
+
+- Early tracheal intubation – rapid sequence intubation is the
 best practice in this situation. Preoxygenation should be per-
 formed using a flexible nasal cannula (up to flows of 4 L/min)
 or a reservoir mask with a lower flux to maintain an SaO2
@@ -211,10 +192,12 @@ kg) or ketamine (1–2 mg/kg, if there is no contraindication
 such as pulmonary hypertension) and neuromuscular block-
 ing with rocuronium (0.6–1.2 mg/kg), preferably. Video
 laryngoscopy should be utilized if available.
- Non-invasive ventilation (NIV) should be avoided because
+
+- Non-invasive ventilation (NIV) should be avoided because
 of the high risk of aerosol dispersion and contamination
 among health practitioners.
- Protective mechanical ventilation using a pressure con-
+
+- Protective mechanical ventilation using a pressure con-
 trolled or volume cycled, with a low tidal volume (around
 6 mL/kg) and plateau pressure p30 cmH2O. The positive
 end-expiratory pressure (PEEP) should be titrated such
@@ -225,11 +208,14 @@ with PEEP at 5–6 cmH2O and increase progressively to
 a driving pressure (plateau pressure – PEEP) o15 cmH2O
 and tolerate hypercapnia with pH 47.2 (permissive hyper-
 capnia), except for patients with pulmonary hypertension.
- Prone positioning, especially if PaO2/FiO2 o150 mmHg.
+
+- Prone positioning, especially if PaO2/FiO2 o150 mmHg.
 The patient should be maintained in this position at least
 18 hours per day with oximetry and capnography monitoring.
- Closed tracheal aspiration systems should be used.
- Treatment with nitric oxide and/or sildenafil (0.5–2 mg/
+
+- Closed tracheal aspiration systems should be used.
+
+- Treatment with nitric oxide and/or sildenafil (0.5–2 mg/
 kg/dose each 4–6 hours with a maximum of 20 mg/dose
 each 8 hours) for patients with persistent hypoxemia. Veno-
 venous extracorporeal membrane oxygenation (ECMO) can
@@ -237,11 +223,13 @@ be used in patients with PaO2/FiO2 o70–80 mmHg in
 whom conventional treatment (protective mechanical ven-
 tilation, prone positioning, nitric oxide/sildenafil) was not
 successful, according to its availability in the hospital.
- Conservative fluid therapy, including volume restriction in
+
+- Conservative fluid therapy, including volume restriction in
 patients with hemodynamic stability, starting with 50% of
 the normal recommendation based on the Holliday-Segar
 rule, and adjustments according to the fluid balance and
 hemodynamic clinical conditions.
+
 Patients with wheezing and lower airway obstruction
 should be treated with the aim of reducing respiratory
 droplet dispersion inside the environment. Aerosol bronch-
@@ -260,6 +248,7 @@ barotrauma. Pressure-controlled ventilation is preferred in
 synchronized intermittent mandatory ventilation with sup-
 port pressure, low breathing rate, inspiration/expiration
 time rate of 1:3–1:4 and PEEP=5 cmH2O.
+
 Antibiotics should be used only in patients with secondary
 bacterial infections on the basis of the culture and antibiogram
 results. Corticosteroids can suppress lung inflammation but
@@ -281,89 +270,10 @@ indicator of a poor prognosis (1,2,7). Microthrombosis and
 associated ischemic events are very common (e.g., strokes),
 mainly in adolescents and adults. D-dimer levels should be
 monitored frequently.
+
 Appropriate medical transport for the patient (and their
 parent/caregiver) to the hospital should be provided by
 medical transport teams. Community pediatricians should
 advise parents to wait for this service and to not seek secon-
 dary care themselves, for example, by going to the hospital
 via car or public transport (22).
-’ AUTHOR CONTRIBUTIONS
-Carlotti APCP, Carvalho WB, Johnston C, Rodriguez IS and Delgado AF
-were responsible for the study conceptualization, supervision and manu-
-script original drafting, editing and review.
-’ REFERENCES
-1. He F, Deng Y, Li W. Coronavirus disease 2019: What we know? J Med
-Virol. 2020. https://doi.org/10.1002/jmv.25766
-2. Chen ZM, Fu JF, Shu Q, Chen YH, Hua CZ, Li FB, et al. Diagnosis and
-treatment recommendations for pediatric respiratory infection caused by
-the 2019 novel coronavirus. World J Pediatr. 2020. https://doi.org/
-10.1007/s12519-020-00345-5
-3. Dong Y, Mo X, Hu Y, Qi X, Jiang F, Jiang Z, et al. Epidemiological Char-
-acteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China.
-Pediatrics. 2020. pii: e20200702. https://doi.org/10.1542/peds.2020-0702
-4. Lu X, Zhang L, Du H, Zhang J, Li YY, Qu J, et al. SARS-CoV-2 Infection in
-Children. N Engl J Med. 2020. https://doi.org/10.1056/NEJMc2005073
-5. Recalcati S. Cutaneous manifestations in COVID-19: a first perspective.
-J Eur Acad Dermatol Venereol. 2020. https://doi.org/10.1111/jdv.16387
-4
-Management Pediatric COVID-19
-Carlotti APCP etal
-CLINICS 2020;75:e1894
-6. Joob B, Wiwanitkit V. COVID-19 can present with a rash and be mistaken
-for Dengue. J Am Acad Dermatol. 2020. pii: S0190-9622(20)30454-0.
-https://doi.org/10.1016/j.jaad.2020.03.036
-7. Soldati G, Smargiassi A, Inchingolo R, Buonsenso D, Perrone T, Briganti
-DF, et al. Is there a role for lung ultrasound during the COVID-19 pan-
-demic? J Ultrasound Med. 2020. https://doi.org/10.1002/jum.15284
-8. Bouadma L, Lescure FX, Lucet JC, Yazdanpanah Y, Timsit JF. Severe
-SARS-CoV-2 infections: practical considerations and management strat-
-egy for intensivists. Intensive Care Med. 2020;46(4):579-82. https://doi.
-org/10.1007/s00134-020-05967-x
-9. Cai J, Xu J, Lin D, Yang Z, Xu L, Qu Z, et al. A Case Series of children
-with 2019 novel coronavirus infection: clinical and epidemiological
-features. Clin Infect Dis. 2020. pii: ciaa198. https://doi.org/10.1093/cid/
-ciaa198
-10. Resoluc¸ão SS-28, 17-03-2020. Diário Oficial do Estado de São Paulo,
-130 (54), pages 24-25.
-11. Protocolo de Tratamento do Novo Coronavírus (2019-nCoV), Ministério
-da Saúde, Brasil, 2020.
-12. Cao B, Wang Y, Wen D, Liu W, Wang J, Fan G, et al. A Trial of Lopinavir–
-Ritonavir in Adults Hospitalized with Severe Covid-19. N Engl J Med.
-2020. https://doi.org/10.1056/NEJMoa2001282
-13. Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown
-apparent efficacy in treatment of COVID-19 associated pneumonia in
-clinical studies. Biosci Trends. 2020;14(1):72-3. https://doi.org/10.5582/
-bst.2020.01047
-14. Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Mailhe M, et al.
-Hydroxychloroquine and azithromycin as a treatment of COVID-19:
-results of an open-label non-randomized clinical trial. Int J Antimicrob
-Agents. 2020:105949. https://doi.org/10.1016/j.ijantimicag.2020.105949
-15. Cortegiani A, Ingoglia G, Ippolito M, Giarratano A, Einav S. A systematic
-review on the efficacy and safety of chloroquine for the treatment of
-COVID-19. J Crit Care. 2020. pii: S0883-9441(20)30390-7. https://doi.org/
-10.1016/j.jcrc.2020.03.005
-16. Smith ER, Klein-Schwartz W. Are 1–2 dangerous? Chloroquine and
-hydroxychloroquine exposure in toddlers. J Emerg Med. 2005;28(4):
-437-43. https://doi.org/10.1016/j.jemermed.2004.12.011
-17. Wang H, Wang S, Yu K. COVID-19 infection epidemic: the medical
-management strategies in Heilongjiang Province, China. Crit Care.
-2020;24(1):107. https://doi.org/10.1186/s13054-020-2832-8
-18. Murthy S, Gomersall CD, Fowler RA. Care for Critically Ill Patients With
-COVID-19. JAMA. 2020. https://doi.org/10.1001/jama.2020.3633
-19. Ferguson ND, Guérin C. Adjunct and rescue therapies for refractory
-hypoxemia: prone position, inhaled nitric oxide, high frequency oscilla-
-tion, extra corporeal life support. Intensive Care Med. 2018;44(9):1528-31.
-https://doi.org/10.1007/s00134-017-5040-5
-20. Associac¸ão de Medicina Intensiva Brasileira. Manuseio do paciente com
-infecc¸ão pelo Coronavírus COVID-19, pneumonia e insuficiência respir-
-atória. Pelo Comitê de Ventilac¸ão Mecânica da AMIB. 2020.
-21. Liu W, Zhang Q, Chen J, Xiang R, Song H, Shu S, et al. Detection of Covid-
-19 in Children in Early January 2020 in Wuhan, China. N Engl J Med.
-2020. https://doi.org/10.1056/NEJMc2003717
-22. European Centre for Disease Prevention and Control (2020, March 4)
-Situation update worldwide, March 4th 2020. Available from: https://
-www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
-5
-CLINICS 2020;75:e1894
-Management Pediatric COVID-19
-Carlotti APCP etal

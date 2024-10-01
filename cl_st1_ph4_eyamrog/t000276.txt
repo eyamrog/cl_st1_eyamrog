@@ -1,9 +1,3 @@
-1 of 3
-Editorial
-Rev. Bras. Geriatr. Gerontol. 2020;23(2):e200092
-http://dx.doi.org/10.1590/1981-22562020023.200092
-Older adults living under social distancing: possibilities for tackling 
-Covid-19
 Since the beginning of the year, the world has been gripped by news emerging from China, after a local 
 doctor announced an increase in the number of cases of an atypical respiratory syndrome caused by a new 
 virus, before being forced into silence, then dying from the very same respiratory syndrome. It is vital that 
@@ -12,39 +6,44 @@ handled. This was a different type of flu, which quickly evolved into severe pne
 had been reported in the city of Wuhan, Hubei province, China since the end of 2019, and soon affected an 
 alarming proportion of the population of that province and then the country as a whole. Soon, the outbreak 
 became an epidemic across the entire region, based on the high number of reported cases and deaths.
+
 Since the outbreak of the epidemic in China, many countries have made their public health emergency 
 centers operational. Brazil has been no different, despite some skepticism on the part of both administrators 
 and the population. The etiologic agent of the “new flu” was quickly identified (SARS-COV2), and the 
 disease it causes became known as Covid-19. From then on, Covid-19 spread rapidly across every continent, 
 and in early March, the World Health Organization decreed that we were living through a pandemic1.
+
 In Brazil, the Ministry of Health declared a Public Health Emergency of National Importance (or ESPIN) 
 on February 3, 2020, before sanctioning law No. 13,979 dated 2/6/20202, which provides measures to deal 
 with emergencies of national and international significance, resulting from Covid-19. In the following 
 month, Brazil declared a situation of community transmission throughout the country, through Ordinance 
 No. 454 dated 3/20/20203 and, with it, the implementation of more consistent quarantine, isolation and 
 social distancing measures.
+
 Despite these actions, the number of cases and deaths in Brazil has been growing and the “stay at home” 
 instructions continued to be reinforced, with attention mainly focusing on the older population and those 
 with chronic diseases.
+
 Data from the latest bulletin from the Ministry of Health, dated April 4, 2020, revealed 10,278 cases and 
 431 deaths, with more than 80% of fatalities caused by the new coronavirus involving older people, and almost 
 the same number having at least one risk factor constantly related to covid-19, with an emphasis on heart 
 disease and diabetes4. This suggests that more comprehensive measures are needed to protect this population.
+
 The ABRASCO Aging Working Group document5 highlights the grave concerns over the various 
 vulnerabilities that older adults are subject to and the countless failings in care related to these citizens, 
 suggesting an age-related genocide (of those aged 60 years and over) if immediate measures are not taken.
-2 of 3
-Editorial
-Rev. Bras. Geriatr. Gerontol. 2020;23(2):e200092
+
 Measures of prevention and protection must be effectively advocated to reduce the various forms of 
 contagion everywhere older adults find themselves, whether in the context of their homes, cared for by 
 caregivers and family members, through social isolation, or for residents of long-term care facilities (LTCFs), 
 contributing to a reduction in the mortality rate of those aged 60 or over.
+
 In light of this worrying situation, a group of researchers linked to the Universidade Federal do Rio 
 Grande do Norte (Rio Grande do Norte Federal University - UFRN), working on the theme of aging and 
 primary health care, has proposed a series of recommendations on how Primary Health Care can contribute 
 to the implementation of the strategy for the protection of older adults living in their own homes and in the 
 surveillance and monitoring of LTCFs (Long Term Care Facilities for Older Adults) in the region.
+
 The establishment of viable health care actions in primary care in Brazil reinforces the importance and 
 effectiveness of the Brazilian National Health Service (or SUS), the Family Health Strategy (or ESF) and 
 the National Social Care System (or SUAS) from an articulated and integrated perspective, with dimensions 
@@ -53,51 +52,23 @@ greater vulnerability, such as residents of long-term care facilities, those liv
 low-incomes, homeless people, refugees and nomads, as well as through the implementation of emergency 
 public policies, aimed at reducing hospitalizations, the need for intensive care treatment and, above all, 
 avoiding deaths, as has been occurring both around the world and in Brazil6.
+
 It is essential, therefore, that sectoral and intersectoral actions adopt an integrated approach, involving 
 all the relevant sectors and incorporating the scientific guidelines that underpin the work of health teams 
 across the country, and extend throughout local territories where competencies and skills that incorporate 
 new and varied technologies in their practices are applied.
+
 Based on this perspective, the group proposes a tool for monitoring essential home care for the health 
 of older adults, in the context of covid-19, to be applied to families, health teams from Primary Health Care 
 (PHC) and managers operating in both health and intersectoral actions.
+
 The tool will allow the mapping of strengths and weaknesses in the management of elderly care and can 
 guide PHC actions, providing essential monitoring for avoiding hospitalizations and deaths6 and, based on 
 the assumption of a greater than ever need for the comprehensive and efficient coverage of this vulnerable 
 group, can be implemented through training to monitor the protection of older adults, applied by caregivers 
 in cases where Family Health Strategy coverage is scarce or non-existent.
+
 Therefore, the concerns of the group must be disseminated among all parties who debate issues related 
 to the older population that receives treatment through primary health care, allowing them to provide 
 guaranteed care for this population during the pandemic caused by the new coronavirus, and contributing 
 to a new approach to the care model for this age group in Brazil.
-Working Group for the Protection of the Person:
-Kenio Costa de Lima, RBGG Associate Editor, Full Professor of the 
-Universidade Federal do Rio Grande do Norte (UFRN), Director, UFRN Instituto do Envelhecer (Institute of Aging).
-Vilani Medeiros de Araújo Nunes, Associate Professor in the Department of Public Health of the 
-Universidade Federal do Rio Grande do Norte (UFRN), PhD in Health Sciences (UFRN).
- Nadja de Sá Pinto Dantas Rocha, PhD in Health Sciences (UFRN), collaborating professor in the UFRN Department of Public Health, UFRN collaborator.
- Paulo de Medeiros Rocha, Full Professor in the UFRN Department of Public Health.
- Ion de Andrade, Epidemiologist physician in the State Public Health Department (RN), PhD in Health Sciences.
- Severina Alice da Costa Uchoa, Full Professor in the UFRN Department of Public Health, PhD in Public Health.
-Lyane Ramalho Cortez, Professor in the UFRN Department of Public Health, PhD in Public Health.
-3 of 3
-Editorial
-Rev. Bras. Geriatr. Gerontol. 2020;23(2):e200092
-REFERENCES
-1.	 World Health Organization. Coronavirus disease (COVID-2019) situation reports [Internet]. Geneva: WHO; mar. 
-2020 [acesso em 03 abr. 2020].  Disponível em: https://www.who.int/dg/speeches/detail/who-director-general-s-
-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020.
-2.	 Brasil. Lei nº 13.979, de 06 de Fevereiro de 2020. Dispõe sobre as medidas para enfrentamento da emergência de 
-saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019. Diário Oficial 
-da União. 07 fev. 2020.
-3.	 Brasil. Portaria nº 454, de 20 de março de 2020. Declara, em todo o território nacional, o estado de transmissão 
-comunitária do coronavirus (Covid-19). Diário Oficial da União. 20 mar. 2020.
-4.	 Brasil. Ministério da Saúde. O que é o Coronavírus? (COVID-19) [Internet]. Brasília, DF: MS; 2020 [acesso em 03 
-abr. 2020]. Disponível em: https://coronavirus.saude.gov.br/
-5.	 Dias BC. Pandemia da Covid-19 e um Brasil de desigualdades: populações vulneráveis e o risco de um genocídio 
-relacionado à idade [Internet]. Rio de Janeiro: ABRASCO; 2020 [acesso 03 abr. 2020]. Disponível em: https://
-www.abrasco.org.br/site/gtenvelhecimentoesaudecoletiva/2020/03/31/pandemia-do-covid-19-e-um-brasil-de-
-desigualdades-populacoes-vulneraveis-e-o-risco-de-um-genocidio-relacionado-a-idade/
-6.	 Andrade I, Rocha ND, Nunes VA, Uchoa AS, Rocha PM, Lima KC, et al. Proteção domiciliar dos idosos sob 
-distanciamento social no contexto da COVID 19. Jornal GGN [Internet]. 02 de abril de 2020 [acesso em 02 abr. 
-2020]; A Grande Crise. Disponível em https://jornalggn.com.br/a-grande-crise/protecao-domiciliar-dos-idosos-sob-
-distanciamento-social-no-contexto-da-covid-19/

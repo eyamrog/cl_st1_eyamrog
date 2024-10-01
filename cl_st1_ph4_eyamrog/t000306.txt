@@ -1,4 +1,3 @@
-Editorial
 Since December 2019, an epidemic caused by the severe acute respiratory syndrome 
 coronavirus 2 (SARS-CoV-2) occurred unexpectedly in Wuhan, Hubei province, China 
 and quickly spread from Wuhan to other areas of China and other countries. The World 
@@ -7,6 +6,7 @@ combination of the words Corona, Viruses and Disease, with an indication of the 
 2019, the year of its appearance. The General Directorate of Health of Portugal states 
 that the transmission of COVID-19 can occur through respiratory droplets, direct contact 
 with respiratory secretions, infected feces or contaminated surfaces and by air, through aerosol generators(1).
+
 There are relatively few reported cases of COVID-19 infection in children, compared to the total number 
 of cases in the general population. In February 2020, 2.4% of the 75,465 cases in China (confirmed and 
 suspected) occurred in children, as well as in Italy with 1.2%(2) and 5% in the United States of America(3). Data 
@@ -20,36 +20,7 @@ response in children is superior and the protein that binds to the angiotensin-c
 in younger people, which makes such binding difficult. Thus, children's ability to trigger an acute inflammatory 
 response to SARS-CoV-2 is weak, which can also contribute to a better outcome. Such particularities, however, 
 do not eliminate the possibility of serious cases and even death, especially in children with comorbidities(4).
-1	 Escola Superior de Saúde da Cruz Vermelha Portuguesa, Lisboa, Portugal.
-The new coronavirus and the risk to children's health
-José Manuel da Silva Vilelas1
- https://orcid.org/0000-0002-9433-9018
-Rev. Latino-Am. Enfermagem
-2020;28:e3320
-DOI: 10.1590/1518-8345.0000.3320
-www.eerp.usp.br/rlae
-Como citar este artículo
-Vilelas JMS. The new coronavirus and the risk to children's health. Rev. Latino-Am. Enfermagem. 2020;28:e3320. 
-[Access ___ __ ____];  Available in: ___________________ . DOI: http://dx.doi.org/10.1590/1518-8345.0000.3320.
-año
-día
-mes
-URL
-www.eerp.usp.br/rlae
-2
-Rev. Latino-Am. Enfermagem 2020;28:e3320.
-Copyright © 2020 Revista Latino-Americana de Enfermagem
-This is an Open Access article distributed under the terms of the 
-Creative Commons (CC BY).
-This license lets others distribute, remix, tweak, and build upon 
-your work, even commercially, as long as they credit you for the 
-original creation. This is the most accommodating of licenses 
-offered. Recommended for maximum dissemination and use of 
-licensed materials.
-Corresponding author:
-José Manuel da Silva Vilelas
-E-mail: jvilelas@esscvp.eu 
- https://orcid.org/0000-0002-9433-9018
+
 Regarding mother-fetus intrauterine vertical transmission, there is still no scientific evidence to demonstrate 
 its existence. COVID-19 was also not detected in breast milk(5). However, the main concern is whether an infected 
 mother can transmit the virus through respiratory droplets. Thus, breastfeeding during maternal COVID-19 infection 
@@ -57,6 +28,7 @@ is not contraindicated by the Centers for Disease Control and Prevention and the
 Gynaecologists, but precautions must be taken to prevent the spread of the virus to the newborn, including washing 
 your hands before touching it and wearing a face mask. In the case of breast milk extraction, the recommendations 
 for cleaning the breast pumps after each use must be strictly observed(6).
+
 Although the immediate risk of COVID-19 in children is low, it is important to monitor the situation and its 
 evolution. At this stage, the concern about COVID-19 can make children and their families anxious. Several countries 
 have implemented social confinement and distancing, which means maintaining a safe distance (approximately 
@@ -64,25 +36,8 @@ one meter) from others and avoiding meeting spaces with more than five people. I
 parents are often the best and closest resource for their children to seek help. Games and play can be strategies 
 for distraction and communication with children. Toys should be cleaned and disinfected with soap and water, a 
 disinfectant or sodium hypochlorite solution (10 ml/1 liter of water). This virus is inactivated after five minutes(7).
+
 The current outbreak of COVID-19 remains serious worldwide and has been designated as a Public Health 
 emergency and an international concern of the World Health Organization. It is highly contagious and, although the 
 number of reported sick children is small at the moment, they are also vulnerable to infection. The importance of 
 raising awareness and strengthening infection control measures can never be overemphasized.
-References
-1.	Direção Geral de Saúde (PT). Norma nº 007/2020 de 29 março 2020. Prevenção e Controlo de Infeção por 
-SARS-CoV-2 (COVID-19): Equipamentos de Proteção Individual (EPI). [Internet]. 2020 [Acesso 7 abr 2020]. p. 
-1-24. Disponível em: https://www.dgs.pt/directrizes-da-dgs/normas-e-circulares-normativas/norma-n-0072020-
-de-29032020-pdf.aspx
-2.	Livingston E, Bucher K. Coronavirus Disease 2019 (COVID-19) in Italy. JAMA. 2020 March 17. doi:10.1001/
-jama.2020.4344. 
-3.	Centers for Disease Control and Preverntion (US). Severe outcomes among patients with Coronavirus Disease 2019 
-(COVID-19). MMWR Morb Mortal Wkly Rep. 2020 March 26; 69(12):343–6. doi.org/10.15585/mmwr.mm6912e2.
-4.	Hon KL, Leung CW, Cheng WT, Chan PK, Chu WC, Kwan YW, et al. Clinical presentations and outcome of severe 
-acute respiratory syndrome in children. Lancet. 2003;361(9370): 1701-3. doi: 10.1016/s0140-6736(03)13364-8.
-5.	Wei M, Yuan J, Liu Y, Tao Fu, Xue Yu, Zhi-Jiang Z. Novel Coronavirus infection in hospitalized infants under 1 year 
-of age in China. JAMA. 2020;323(13):1313-4. doi:10.1001/jama.2020.2131
-6.	Royal College of Obstetricians and Gynaecologists (UK). Coronavirus (COVID-19) Infection in Pregnancy. 
-Information for healthcare professionals. [Internet]. 2020 [cited 2020 April 7]. p. 1-50. Available from: https://www.
-rcog.org.uk/globalassets/documents/guidelines/2020-04-03-coronavirus-covid-19-infection-in-pregnancy.pdf
-7.	Cao Q, Chen YC, Chen CL, Chiu CH. SARS-CoV-2 infection in children: Transmission dynamics and clinical 
-characteristics. J Formos Med Assoc. 2020;119(3):670-3. doi: doi.org/10.1016/j.jfma.2020.02.009.

@@ -1,32 +1,10 @@
- 
- 
-Social Distancing and Coordination 
- 
- 
- 
-Dr. Esra SİPAHİ1 
-dresrasipahi@gmail.com 
-                Ministry of Education, Privacy Office, https://0000-0002-6495-4378 
-Business Administration/TURKEY 
- 
-Dr. Erkin ARTANTAŞ2 
-drerkinartantas@gmail.com 
-Ministry of Health, orcid number: https://orcid.org/0000-0003-1628-9518 
-Business Administration/TURKEY 
- 
- 
- 
-Abstract 
- 
 The social distance critical to alleviate the spread of COVID-19 is quite insufficient. In order to 
 contribute to the literature, "(1) When a rare virus such as COVID-19 appears, when the total 
 level of social distance has natural inertia; (2) Open national public statements are essential to 
 reduce this inertia and adjust the public's behavior to a new, optimal social distance level. (3) 
 When individuals are not adequately informed about optimal social distance levels over time, 
 national communication is more effective than local communication. 
-Keywords:  COVID-19, Social Distancing, Coordination 
- 
-INTRODUCTION 
+
 We focused on a model of social removal, motivated by the COVID-19 outbreak, where people value 
 both joining the right social distance and complying with other people's social norms. When citizens 
 consider these two issues and are unsure of each other's beliefs about the right social distance, 
@@ -39,39 +17,38 @@ banning gaming games if other citizens are not doing the same. These concerns cr
 of citizens ensure that their common knowledge of past social distance behaviors follows the social 
 norms by coordinating the social distance. This inertia is problematic because society will be better off 
 coordinating a new, higher social distance. 
- 
+
 How can the state improve this situation? Our recommendation 4 shows that public statements about 
 the new optimal level of social departure from leading leaders reduce inertia by generating new 
 common information that allows people to coordinate their actions around new, more appropriate 
 norms. 
- 
+
 Should such statements be made public or more specifically? Proposition 5 shows that when optimal 
-1 
- 
 social distance levels have a high correlation over time and individuals are poorly informed, national 
 communication is better than local communication, so that previous social distance norms are 
 overweight. 
- 
+
 This result reflects that the information transmitted publicly creates new common information. 
- 
+
 Allcott et al. (2020) examines the perception of risk in the United States and the interaction between 
 such externalities. The importance of citizens who sacrificed the interests of Dube and Baicker (2020) 
 for greater well-being and Christensen et al. (2020) Examining the Ebola crisis in Sierra Leon 
 highlights the importance of trust in local leaders and institutions. 
- 
+
 In contrast, our analysis highlights the role of social norms and strategic uncertainty as a source of 
 counter-productive inertia in collective social distance. 
-  Government results are also very different. While information alone cannot solve the problem of 
+
+Government results are also very different. While information alone cannot solve the problem of 
 standard externalities, clear and consistent public information can significantly increase social distance 
 by reducing strategic uncertainty and enabling citizens to coordinate on new norms. 
 National networks produce more widespread information, enabling citizens to better coordinate on the 
 new social withdrawal norms. 
- 
+
 What sorts of decisions might our norms-based model represent in the context of the COVID-19 
 crisis? The key features of the model are that: (1) people are uncertain about the right level of social 
 distancing and are uncertain about what others believe, (2) the right level of social distancing exhibits 
 serial correlation, and (3) there is a desire for conformity with social norms. 
- 
+
 An important application of our model concerns social gatherings. The advent of COVID-19 
 made it undesirable, from a social welfare perspective, for people to partici- pate in events such 
 as St. Patrick’s Day celebrations, spring break trips and parties, or sporting events. However, 
@@ -79,28 +56,23 @@ people were uncertain about the threat that COVID-19 posed. Crucially, to the ex
 believed others might think that the threat was modest and therefore continue to gather, they too had 
 incentives to behave this way. The result was undesirable inertia—people continued past practices in 
 ways that harmed social welfare. 
- 
+
 Similar arguments hold for social practices such as hand shaking, kissing, and other forms of 
 physical social greetings. It is awkward to refuse to shake an offered hand—as a recent presidential 
 press briefing illustrated—creating a force for social conformity of the sort we model. The 
 uncertainty about others’ views on COVID-19 created unfortunate inertia in physical social 
 greetings. 
- 
+
 Our model also applies to some professional settings. If employees believe that continu- ing to come to 
 the office signals commitment or ambition, then this creates social pressure for employees to continue 
 coming to work if their managers or supervisors are. In the face of such pressure, the model suggests, 
 there will be inertia that keeps people coming into the office at inefficiently high levels, especially 
 during the early days of a viral outbreak1 
- 
+
 Finally, the model also helps understand inertia in social distancing and its policy implications, 
 not only at the initial outset of a contagious virus, but at any point where 
-1In this setting, there could also be congestion externalities that we leave unmodeled—as fewer people start 
-going into the office, the risk of being infected in the office goes down 
-2 
- 
-                                                 
 there is a sharp change in the appropriate level of social distancing. 
- 
+
 We utilize a standard “beauty contest” model in which individuals aim to take actions that match 
 an uncertain state of the world (the right action) while remaining close to the average action in 
 the population. Subsequent literature explored the welfare consequences of this insight and its 
@@ -109,7 +81,7 @@ framework has been applied to study a wide range of topics from monetary policy 
 leadership in party conferences (Dewan and Myatt 2007), organizations (Bolton et al. 2013), and 
 judiciaries (Shadmehr et al. 2019). Our paper provides an application in disease control and public 
 health policy. 
- 
+
 Our paper is also related to the game theoretic literature on social norms. We adopt Acemoglu and 
 Jackson’s (2017) definition of social norms as “the distribution of anticipated payoff-relevant 
 behavior” (p. 246). Our model has a unique equilibrium, and social norms in our setting refer to the 
@@ -119,253 +91,41 @@ desire to conform to social norms as a desire to do what is expected of them, as
 people’s behavior. The challenge of a global pandemic is that it creates uncertainty about what 
 people expect of one another and how people will behave, leading people to lean on past, 
 inappropriate, norms of behavior. 
- 
+
 In contrast to these papers, agents in our setting are uncertain about the right action and about one 
 anothers’ information in a changing world. While Acemoglu and Jackson (2015, 2017) focus on 
 patterns of cooperation and compliance, our focus is on inertia and over- reactions to public 
 information in a  world  where optimal aggregate  behavior evolves  over time  and  on  the  resulting  
 policy  implications.
-3 
- 
-3 
-− 
-Model 
- 
- 
-We apply the canonical framework and results discussed in Angeletos and Lian’s (2016) 
-comprehensive review of the literature.2   There is a continuum of citizens indexed by i ∈ 
- 
-[0, 1], interacting over time, indexed by t = 0, 1, . . .. In each period t, each citizen must take an 
-action ait ∈ R, which captures the degree of social distancing. A higher action 
-corresponds to a higher level of social distancing. Absent concerns for conformity, the right action for 
-each citizen is θt. But, in each period, each citizen cares about targeting this right action and 
-about conforming to the average action that others take in that period, 
-At = [ ait di. This generates a complementarity: if a citizen believes that others will do 
-little social distancing, this raises that citizen’s incentive also to do less social distancing. 
-This captures, among other things, social pressure and the cost of deviating from the norms of behavior 
-in the society. In particular, a citizen’s payoff in period t is: 
-−(1 − α)(ait − θt)2 − α(ait − At)2, 
-(1) 
-where α ∈ (0, 1) is the citizens’ relative weight on conformity. 
-The right action, θt, follows a random walk:  θt  = θt−1 + ut, where ut  ∼ iidN (0, σu). Citizens 
-do not observe θt, but each citizen observes a signal of the right action: xit = θt +Eit, 
-where Eit  ∼ iidN (0, σE).   Throughout, we assume that the noise and fundamentals are 
-independent from each other in the standard manner. 
- 
-Citizen i observes xit in period t, and θt−1 becomes public in period t. 
- 
-Citizens discount 
-future payoffs by δ, and each citizen maximizes the expected sum of discounted period 
-payoffs. 
- 
-1 
-Analysis 
- 
- 
-We will think of the normative goal as each individual choosing the right level of aggregate social 
-distancing, ait  = θt, so that the aggregate level of social distancing is also right, 
-At = [ aitdi = θt. This would be the objective of a policy maker who aggregates individual 
-payoffs, but puts no weight on social conformity (i.e., sets α = 0).4  In light of this, we say 
- 
-that any reduction in the expected quadratic distance between individual actions and the right 
-action, E[[ (ait − θt)2di], is a normative improvement. 
- 
-Our first result concerns the optimal level of social distancing under this normative crite- rion. 
-Because the right action is uncertain, the normatively optimal individual actions—i.e., 
- 
-2This literature builds on the seminal work of Morris and Shin (2002). 
-3Even if θt 
-1 is not observed in the current period, citizens will infer it in equilibrium if 
-they observe 
-4 
- 
-u 
-it 
-t| it 
-t−1 
-it 
-− 
-t−1 
-σ2 +σ2 
-σ2 
-t 
-2 
-the last period’s aggregate behavior At−1. 
-4For our normative standard to coincide with the utilitarian social welfare, one can add a term α [ 
-(ajt − 
-At)2dj to citizen payoffs in equation (1), so that citizens want the divergence of their own 
-behavior from 
-the average behavior to be close to the average divergence in the population. 
-the actions that minimize E[[ (ait − θt)2di]—involve citizens choosing their best estimate 
-of the right action, a  = E[θ x , θ 
-] = βx  + (1 
-β)θ 
-, where β = 
-σ2 . 
-u 
- 
-Proposition 1 (Normative Benchmark) If citizens did not care about conformity (α = 
-2 
-0), the aggregate action would be: At = θt + βut, where β = 
-σu      . 
-u+σ  
- 
+
 We now analyze how citizens actually behave, given their concern for taking the right action and for 
 social conformity. Because there is a continuum of citizens, a citizen’s action does not affect the 
 aggregate outcome, either in the current or in future periods. Thus, the only link between periods is 
 information. From equation (1), citizen i chooses the following degree of social distancing: 
- 
-ait = (1 − α)Eit[θt] + α Eit[At], 
-(2) 
-where Eit[·] is the expectation of i in period t given his information. 
-Define E¯  h recursively as follows. 
- 
-E¯  0[X] = X, E¯  1[X] = E¯  [E¯  0[X]] = [ Ei[X]di, E¯  h[X] = 
-E¯  [E¯  h−1[X]] = [ Ei[E¯  h−1[X]]di. That 
-is, 
-E¯  1[X] is the average expectation of the random 
-variable X in the population; 
-E¯  2[X] is the average expectation in the population about 
-the average expectation in the population, and so on. Proposition 2 shows that the ag- gregate 
-social distancing in the population depends on all such higher order expectations in the population. 
-The proof comes from iterating on equation (2). (All proofs are in the appendix.) 
- 
- 
-Proposition 2 (Higher Order Beliefs in Aggregate Action) The aggregate action in each 
-period depends on all average higher order beliefs in the population about the right action, with 
-lower weights on higher orders: 
- 
-∞ 
-At = 
-'\"
-(1 − α) αh−1 E¯  h[θt] 
-(3) 
-h=1 
- 
-Observe that 
- 
- 
-Eit[θt] = Eit[ut] + θt−1   ⇒ 
-5 
- 
- 
- 
- 
-E¯  t [θt] = E¯  t [ut] + θt−1. 
-(4) 
-h 
-h 
- 
- 
-Now, using properties of Normal distribution and Proposition 2 yields: 
- 
- 
-Proposition 3 (Aggregate Actions Exhibit Excess Inertia) Conformity generates inertia. In 
-particular, 
- 
-(1−α)β 
-σ2 
-6 
- 
-u 
-2 
-• 
- 
-At = θt−1 + φut, where 0 < φ < β < 1, φ =1−αβ  , and β = σ2 2 . 
-u+σ  
-• 
-φ is decreasing in α, with limα→0 φ(α) = β and limα→1 φ(α) = 0. 
- 
+
 Citizens have common knowledge that, on average, the right 
 action today is the right action yesterday (i.e., θt  ∼ N (θt−1, σu)) and hence over-weight this 
 fact.  As a result, today’s aggregate action is biased in the direction of yesterday’s right 
 action. As a consequence, following a large positive shock, like COVID-19, to the right amount 
 of social distancing, the aggregate action will be lower than the right action.5 
- 
+
 Now, suppose in each period t, in addition to the their private signals xit, citizens also receive a 
 public signal pt = θt + ηt, with ηt ∼ iidN (0, ση ). Such a public signal might be 
 the result of information conveyed by the government. Proposition 2 and equation (4) still hold 
 because they do not depend on the details of available information. However, the presence of 
 public signals changes the degree of inertia in aggregate social distancing. 
- 
- 
-Proposition 4 (Public Announcements) 
- 
- 
-1. 
-Public signals reduce inertia. Averaging over the public signal noise, the expected 
-aggregate social distancing is: E[At|θt−1, ut] = θt−1 + φput, where φp > φ. 
- 
-2. 
-The amount of inertia is decreasing in the clarity of the public signal. That is, φp is 
-monotone decreasing in ση , limση →∞ φp(ση ) = φ, and limση →0 φp(ση ) = 1. 
- 
-3. 
-Improving  the  clarity  of  the  public  signal  causes  a  normative  improvement  (i.e., 
-E[[ (ait − θt)2di] is increasing in ση ) if: (i) α ≤ 1/2 or (ii) ση is sufficiently small. 
- 
+
 Proposition 4 shows that, following a shock, an informed leader can send a public signal that helps set 
 public expectations about the aggregate right action, thereby reducing inertia in social distancing 
 driven by the desire to conform. The clearer that message (i.e., the lower ση ), the more this will 
 reduce inertia. 
- 
-Such public messages are a normative improvement if people don’t put too much weight on conformity 
-(α ≤ 1/2) or the public signal is sufficiently informative (ση   small).  Why 
-these conditions? Because citizens value conformity, they put excessive weight on all pub- lic signals 
-relative to a Bayesian individual who only cares about choosing an action that reflects the best 
-estimate of θt (this was the same logic that drove inertia in the first place). Because this distortion is 
-smaller when α is smaller, new public information about the optimal social distancing is always 
-beneficial when citizens put relatively less weight on 
-conformity (α ≤ 1/2). In the other extreme, when citizens almost only care about confor- mity (α ≈ 
-1), they put almost no weight on their private signals. Now, although citizens 
-over-weight new public information (pt), this over-reaction to the new public information helps 
- 
-it 
-counter-act their over-reaction to past experience (that θt ∼ (θt−1, σu)), and the over- all effect is 
-again beneficial. In between, when α ∈ (1/2, 1), these effects compete and the 
- 
-5The over-weighting of public information is a key insight of Morris and Shin (2002) who 
-showed that public announcements can be damaging to welfare, particularly, in financial settings. 
- 
-overall effect of raising the precision of new public information may be negative unless it is 
-sufficiently informative (ση small) to offset the over-reaction.6 
- 
-For social distancing in the presence of a dangerous infectious disease, we believe the relevant 
-parameter space is α ≤ 1/2. It is unlikely that people care so much about confor- 
-mity that over-reaction to new public information trumps its value. Hence, for cases like COVID-
-19, Proposition 4 suggests that clear and consistent public messages from a leader are socially 
-beneficial. 
- 
+
 Given the overreaction by citizens to public messages described above, one may wonder whether there is 
 a better way for the government to deliver information. Would it be better for citizens to receive the 
 same level of information, but privately rather than publicly? For instance, perhaps employers or 
 local governments could provide private information to citizens, rather than them all observing the 
 same public information in a presidential speech or press conference. 
- 
-To consider this possibility, contrast the public signal case with a setting where, instead 
-of receiving private and public signals xit ∼ N (θt, σ2) and pt ∼ N (θt, σ2), citizens receive 
-E 
-η 
-a single private signal xi 
-θ 
-it with the same amount of information about the right action t 
-as the public and private signals combined.  In particular, let xi 
-= θt + Ei  , with Ei    ∼ 
-it 
-it 
-it 
-2   2 
-N (0, σ2 =  σ ση  ). 
-E 
-σ2 2 
-  +ση 
-Proposition 5  The setting with the combination of private and public signals (xit, pt) is 
-a normative improvement over the setting with more precise private signals xi 
-when σu  is 
- 
-sufficiently small or σE  is sufficiently large. 
- 
- 
+
 When citizens believe the past is highly informative about the present (σu small) or that they are 
 privately poorly-informed (σE large), citizens put too much weight on their past experience. In 
 such circumstances, it is better for the government to communicate publicly rather than privately. 
@@ -373,7 +133,7 @@ Citizens over-react to the government’s public messages. But that will help to
 over-reaction to their past experience. By contrast, when citizens believe the past is relatively 
 uninformative (σu large) or that they are privately well-informed (σE small), the government 
 should communicate privately. 
- 
+
 In the context of social distancing in the wake of a new and rare infectious disease, individuals’ 
 information is typically very noisy (σE is large) and the appropriate level of social distancing is 
 very sticky (σu is low, the disease is a very unusual shock). As such, for social distancing in the 
@@ -381,582 +141,3 @@ wake of COVID-19, clear and consistent public statements by a national leader ar
 than statements by local governments or employers, not because the national government is more 
 informed, but because clear national statements generate over-reaction that is beneficial to correct the 
 inertia created by the over-weighting of past habits and social norms. 
- 
-6Equation (16) in the proof of Proposition 4 shows the necessary and sufficient conditions for 
-when reducing ση is a normative improvement. 
- 
-3 
-References 
- 
-Acemoglu, Daron, and Matthew O. Jackson. 2015. “History, Expectations, and Leadership in the 
-Evolution of Social Norms.” Review of Economic Studies 82: 1-34. 
- 
-Acemoglu, Daron, and Matthew O. Jackson. 2017. “Social Norms and the Enforcement of Laws.” 
-Journal of the European Economic Association 12: 245-95. 
- 
-Acemoglu, Daron, and Alexander Wolitzky. 2014. “Cycles of Conflict: An Economic Model.” 
-American Economic Review 104: 1350-67. 
- 
-Allcott, Hunt, Levi Boxell, Jacob Conway, Matthew Gentzkow, Michael Thaler, and David Yang. 
-2020. “Polarization and Public Health: Partisan Differences in Social Distancing during the 
-Coronavirus Pandemic.”  Mimeo. 
- 
-Angeletos, George-Marios, and Alessandro Pavan. 2007. “Efficient Use of Information and Social 
-Value of Information.” Econometrica 75: 1103-42. 
- 
-Angeletos, George-Marios, and Chen Lian. 2016. “Incomplete Information in Macroeco- nomics: 
-Accommodating Frictions in Coordination.”  Handbook of Macroeconomics, Vol. 2 : 1065-1240. 
- 
-Bolton, Patrick, Markus K. Brunnermeier, and Laura Veldkamp. 2013. “Leadership, Co- ordination 
-and Corporate Culture.” Review of Economic Studies 80: 512-37. 
- 
-Christensen, Darin, Oeindrila Dube, Johannes Haushofer, Bilal Siddiqi, and Maarten Voors. 2020. 
- 
-t 
-σ 
-E¯  h 
-E¯  h 
-“‘Building Resilient Health Systems: Experimental Evidence from Sierra Leone and the 2014 Ebola 
-Outbreak.” Mimeo. 
- 
-Dewan, Torun, and David P. Myatt. 2007. “Leading the Party: Coordination, Direction, and 
-Communication.” American Political Science Review 101: 827-45. 
- 
-Dube, Oeindrila, and Katherine Baicker. 2020. “How You Can Protect Your Community, Not Just 
-Your Own Health.” New York Times, March 26, 2020. 
- 
-Lorenzoni, Guido. 2010. “Optimal Monetary Policy with Uncertain Fundamentals and Dispersed 
-Information. Review of Economic Studies 77: 305-38. 
- 
-Morris, Stephen, and Hyun Song Shin.  2002.  “The Social Value of Public Information.” 
-American Economic Review 92: 1521-34. 
- 
-Morris, Stephen, and Hyun Song Shin. 2007. “Optimal Communication.” Journal of the European 
-Economic Association 5: 594-602. 
- 
-Shadmehr, Mehdi, Charles Cameron, and Sepehr Shahshahani. 2019. “Coordination and Innovation 
-in Judiciaries: Correct Law vs. Consistent Law.” Mimeo. 
- 
-4 
-Appendix:  Proofs 
- 
- 
-Proof of Proposition 2: From equation (2), 
-r 
-At = 
-r 
-aitdi = 
- 
-((1 − α)Eit[θt] + α Eit[At])di = (1 − α)E¯  t[θt] + α E¯  t[At]. 
- 
-Iterating yields: 
- 
- 
-At = (1 − α)E¯  t[θt] + (1 − α)α E¯  2[θt] + α2E¯  2[At]. 
-t 
-t 
- 
-Repeated iteration yields the result. 
-D 
-Proof of Proposition 3: We calculate E¯  h[θt], and use Proposition 2.  Note that xit  = 
-θt + Eit = θt−1 + ut + Eit. Thus, letting β = 
-2 
-u 
-σ2 2 
-Iterating yields: 
-u+σ  
-Eit[ut] = β(xit − θt−1) = β(ut + Eit) 
-⇒ 
-E¯  t[ut] = βut. 
-t [ut] = βh ut. 
-(5) 
-Substituting from equation (5) into equation (4) yields: 
-t [θt] = βh ut + θt−1. 
-(6) 
-Now, substituting from equation (6) into equation (3) in Proposition 2 yields: 
- 
- 
-∞ 
-At = 
-'\"
-(1 − α) αh−1 (βh ut + θt 
-h=1 
- 
- 
- 
-−1) = θ 
- 
- 
- 
-t−1 + 
- 
-σ 
- 
-β(1 −α) 1 − αβ 
- 
-ut. 
-(7) 
- 
- 
-In equation (7), let φ = (1−α)β , and observe that lim 
-1−αβ
- 
-→ 
- 
-0 β = 
-lim 
- 
-σu
-→∞ 
- 
-β = 1. 
-D 
-Proof of Proposition 4: Part 1. With the public signal pt, Eit[ut] = E[ut|xit, pt]. Thus, 
- 
-σ2   2 
-2   2 
-uση (xit − θt−1) + σuσE (pt − θt−1) 
-Eit[ut] =  
-σ2   2 
-2   2 
-2   2 
-uση + σuσE + σE ση 
- 
-σ2   2 
-2   2 
-= 
-uση (ut + Eit) + σuσE (pt − θt−1) . 
-(8) 
-σ2   2 2   2 
-2   2 
- 
- 
-Thus, 
- 
- 
- 
-σ2   2 
-uση + σuσE + σE ση 
- 
- 
-2   2 
-E¯  t[ut] = uση ut + σuσE (pt − θt−1) = Au ut + Ap (pt − θt−1), 
-(9) 
-σ2   2 
-2   2 
-2   2 
- 
- 
-where 
-uση + σuσE + σE ση 
-σ2   2 
-uση 
-σ2   2 
- 
-Au = σ2   2 
- 
-2   2 
-2   
-2 
- 
-and  Ap = 
-uσE  
-, 
-(10) 
-uση + σuσE + σE ση 
-σ2 σ2 + σ2 σ2 + σ2σ2 
- 
-with 
-u   η 
-u   E 
-E   η 
-lim Ap = 0,
- 
-li
-m 
-Au = β,  lim Ap = 1, and  lim Au = 0. 
-(11) 
-ση →∞ ση →∞ 
-ση →0 ση →0 
- 
- 
-E¯  h 
-u 
-− 
-E¯  h 
-u 
-− 
-t−1 
-1 − 
- 
-u 
-u 
-Iterating on equation (9) yields 
- 
-t [ut] = (Au)h 
-ut + (1 + · · · + Ah−1)Ap(pt − θt  1). 
-(12) 
- 
-Substituting from equation (12) into equation (4) yields: 
- 
-t [θt] = (Au)h 
-ut + (1 + · · · + Ah−1)Ap(pt − θt   1) + θ 
-1 − Ah 
-=  (Au)h ut + 
-u Ap(pt − θt 
-1 − Au 
-−1) + 
-θt 
-−1. 
-(13) 
- 
-Now, substituting from equation (13) into equation (3) in Proposition 2 yields: 
- 
- 
-At 
-= 
-∞ 
-'\"
-(1 − α) αh−1 
-h=1 
-( 
-(Au)h ut + 
-h 
-u Ap(pt − θt 
-1 − Au 
-\ 
-−1) + θt−1 
-(1 −α)Au    Ap     (    1  
-     Au      \ 
-(p 
-θ 
-) 
-=  θt−1 + 
-1 − αAu ut + (1 − α) 1 − A 
-1 − α − 1 − αAu 
-t − t−1 
- 
-=  θt−1 + 
-(1 −α)Au 
-1 − αAu 
- 
-u +    Ap  
- 
-t 
-1 − αA 
-(pt − θt−1) 
- 
-=  θt−1 + 
-(1 −α)Auut + Ap(pt −θt−1) 
-1 − αAu 
- 
-. 
-(14) 
- 
-ait = (1 − α)Eit[θt] + α Eit[At] 
- 
-= (1 − α)Eit[θt−1 + ut] + α Eit 
- 
-η 
-− 
-u 
-u 
-u 
-Note that, using (11), if ση  → ∞, equation (14) simplifies to equation (7). 
-For given θt−1  and ut, aggregate action At  takes different values for different values of the public signal 
-pt, depending on the idiosyncratic error term ηt  in the public signal. The 
- 
-average public signal, for given θt−1 and ut, is E[pt|ut] = θt−1 + ut. Then, averaging over 
-the public signal noise, equation (14) becomes: 
- 
-E[At|ut, θt−1] = θt−1 + φput, where φp = 
-(1 −α)Au + Ap . 
-1 − αAu 
- 
-Part 2. From (11), limση →0 φp = 1 and limση →∞ φp = φ. Comparing with φ in Proposi- tion 3 yields: 
-(1 −α)Au + Ap 
-(1 −α)β 
- 
-σ4σ2 
-E    u 
-φp − φ  = 
-1 − αA 
-= 
-> 0. 
-1 − αβ 
-(σ2 + (1 − α)σ2 )(σ2σ2 + σ2(σ2 + (1 − α)σ2 )) 
-u 
- 
-That is, φ < φp. Moreover, 
-E 
-u 
-E    u 
-η E 
-u 
- 
-4   2 
-dφp 
-dσ2 
-σE σu 
-= − σ2σ2 + σ2(σ2 + (1 − α)σ2 ))2 
- 
-< 0. 
-η 
-E    u 
-η E 
-u 
- 
-Thus, reducing the noise in the public signal (less σ2) raises φp. 
- 
-Part 3. From (2), 
- 
- 
- 
-θt−1 + (1 −α)Auut + Ap(pt −θt−1) l 
-1 − αAu 
- 
-(from (14)) 
-=  θt−1 + (1 − α)Eit[ut] + α 
-(1 −α)Au 
-1 − αAu 
- 
-Eit [ut] + 
-α 
-Ap(pt −θt−1) 
-1 − αAu 
-  1 −α    
-(p − θ    ) 
-Ap t t−1 
-=  θt−1 + 1 − αA 
-  1 − α 
-Eit [ut] + 
-α 
-1 − αAu 
-Ap 
-=  θt−1 + 1 − αA 
-(Au(ut + Eit) + Ap(pt − θt−1)) + α 1 − αA (pt − θt−1)  (from (8) and (10)) 
-α)A 
-A 
- (1 − α)Au 
- (1 −  
- 
-  
- 
- 
-u 
-=  θt−1 + 
- 
-Thus, 
-1 − αAu ut + 
-u 
-1 − αAu 
-Eit 
-+ 
-p 
-1 − αAu 
-(p
-t 
-− θt−1). 
- 
-ait − θt 
-= (1 −α)Au 
-1 − αAu 
- 
-ut 
-+ 
-(1 −α)Au 
-1 − αAu 
- 
-E   +    Ap   
-it 
-1 − αA 
-(pt − θt−1) − ut 
- 
- 
- 
- 
-Thus, 
-= 
-(Ap + Au −1)ut + Ap ηt + (1 −α)Au Eit 
-1 − αAu 
- 
- 
-(Ap + Au − 1)2u2 + A2 η2 + (1 − α)2A2 
-(substituting pt − θt−1 = ut + ηt). 
- 
- 
- 
-E2 
- 
-(ait − θt)2 
-= 
- 
-η 
-i
- 
-t p tit(1 − αAu)2 
-+ 
-2(Ap + Au −1)utAp ηt + 2(Ap + Au −1)ut(1 −α)Au Eit + 2Ap ηt(1 −α)Au Eit . 
-(1 − αAu)2 
- 
- 
-Thus, 
-r 
- 
- 
-(Ap + Au − 1)2u2 + A2 η2 + (1 − α)2A2 
- 
- 
-σ2 + 2(Ap + Au − 1)Ap utηt 
-(ait − θt)2di  = 
- 
-Thus, 
-t 
-p
- 
-t 
-u 
-E 
-. 
-(1 − αAu)2 
-r 
-(Ap + Au − 1)2σ2 + A2 σ2 + (1 − α)2A2 σ2 
-E[ 
-(ait − θt)2di]  
-= 
-u 
-p
- 
-η 
-u 
-E , 
-(15) 
-(1 − αAu)2  
- 
-2   2   2 
-where we recognize that if α = 0, equation (15) simplified to 
-σuση 
-σ  
-, which is the 
-σ2   2 2   2 2   2 
-uση +σuσ +σ ση 
-2 
-variance of θt|θt−1, pt, xit. Differentiating with respect to ση yields: 
-dE[[ (ait − θt)2di] 
-σ4σ4 (σ2σ2 + σ2σ2 + (1 − α)(1 − 2α)σ2 σ2) 
-E    u 
-E    u 
-E    η 
-u    η 
- 
-dσ2 
-= 
-. 
-(16) 
-(σ2σ2 + σ2σ2 + (1 − α)σ2σ2 )3 
-η 
-E    u 
-η   E 
-η   u 
-Thus, if σ2 + (1 − α)(1 − 2α)σ2 
-≥ 0 (in particular, if α ≤ 1/2), the above derivative is 
-E 
-u 
-σ2 
-2 
-strictly positive. If, instead, 
-E  + (1 − α)(1 − 2α)σu  < 0, the above derivative is strictly 
-positive if and only if σ2 is sufficiently small. 
-D 
-Proof of Proposition 5: To obtain E[[ (ait −θt)2di] with only xi  , first let ση  → ∞ in (15), 
-2   2 
-and then substitute σ2 with σ2 
-=  σ 
-ση 
-. Using (11), and recognizing that lim 
-A σ2 = 
-E 
-E  σ2  
-2 
-ση →∞ 
-p  η 
-0, the first step yields: 
-  +ση 
- 
-it) 
-i
- 
-. 
-− 
-(β − 1)2σ2 + (1 − α)2β2 σ2 
-σ2σ2 (σ2 + (1 − α)2σ2 ) 
-lim
- 
-u 
-E   = 
-E    u E 
-u   . 
-ση →∞ (1 − αβ)2 
-(σ2 + (1 − α)σ2 )2 
-Substituting σ2 with σ2 
-E 
-u 
-yields: 
-E 
-E  σ2    2 
-2 
-2   2 
-E σu(σE  + (1 − α) σu) . 
-(17) 
-(σ2 + (1 − α)σ2 )2 
-E 
-u 
-Now, subtracting (15) from (17) yields: 
-r 
-∆ = E[ 
-(ait − θt)2di](x  
-r 
-— E[ 
-(ait — θt)2di
-] 
-(xit,pt) 
-α2σ4   4   4 
-= 
-η σE 
-σu 
-(σ4 
-2  
-2 
-2 
-2 
-2 4 
-(σ2σ2 + (1 − α)(σ2 + σ2)σ2 )2(σ2σ2 + σ2(σ2 + (1 − α)σ2 ))2 
-E (ση + σu) − (1 − α) (ση + σE )σu). 
-η   E
- 
-η 
-E 
-u 
-E    u 
-η E 
-u 
-As expected, limα→0 ∆ = 0, because only the amount information matter; and limα→1 ∆ > 0, because then 
-citizens put a lot of weight of the pre-existing public information from the previous period, which need to be 
-countered by new public information about θt. Moreover, for any α > 0, the setting with both public and 
-private signals (xit, pt) is a normative improvement over the setting with only private signals (xi ) if and 
-only if ∆ > 0, i.e., if 
-and only if 
-( σ2 \2 
-σ2 + σ2 
-E 
-> (1 
-α)2 η 
-E 
-σ2 
-σ2 
-2 
-u 
-η + σu 
-The result follows from inspection of this inequality. 
-D 
- 

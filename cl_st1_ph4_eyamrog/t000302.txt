@@ -1,59 +1,3 @@
-Status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1017/ice.2020.209
-Emergency science: epistemological insights on the response to
-COVID-19 pandemics
-Carlos Magno Fortaleza
-https://doi.org/10.1590/SciELOPreprints.162
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees are described in the manuscript, when
-applicable.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server.
-The submitting author declares that all authors responsible for preparing the manuscript agree with this
-deposit.
-The authors declare that in the event that this manuscript has previously been submitted to a journal and
-being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
-server.
-The submitting author declares that all authors' contributions are included on the manuscript.
-The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
-under a Creative Commons CC-BY license.
-The deposited manuscript is in PDF format.
-If the manuscript is being reviewed and published by a journal, the authors declare that they have received
-authorization from the journal to make this deposit.
-Submitted on (YYYY-MM-DD): 2020-04-23
-Posted on (YYYY-MM-DD): 2021-01-04
-Powered by TCPDF (www.tcpdf.org)
-Title Page 
-Article type: Comment 
- 
-Title: Emergency science: epistemological insights on the response to 
-COVID-19 pandemics. 
-Short title: Epistemology and response to COVID-19 
-Author: Carlos Magno Castelo Branco Fortaleza, MD, PhD 
-ORCID: 0000-0003-4120-1258 
-Author affiliation: Department of Infectious Diseases, Botucatu School of 
-Medicine, São Paulo State University (UNESP). City of Botucatu, São Paulo 
-Sate, Brazil. 
-Author address: 
-Department of Infectious Diseases 
-Avenida Prof. Mário Rubens Guimarães Montenegro, s/n 
-UNESP - Campus de Botucatu CEP/ZIP code 18618687 
-City of Botucatu, São Paulo State, Brazil 
-Phone: +55 14 3880 1284 
-Email: carlos.fortaleza@unesp.nr 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.162
-Powered by TCPDF (www.tcpdf.org)
-Abstract 
 The response to the current COVID-19 pandemics require reflections on the 
 validity of scientific knowledge. While non-pharmacological measures for disease 
 control are providing a worldwide natural experiment, it is highly advised to submit 
@@ -62,8 +6,7 @@ also consider the loosening of methodological criticism in time when diffusion o
 results is urgently required. Though criticism is perhaps most precious principle 
 of scientific thinking and practice, scientists must find a way into relative 
 consensus that can be translated into public health policies. 
- 
-Text 
+
 In the year 2,000, South Africa President Thado Mbeki was the spokesman of an 
 organized movement of AIDS denialism, which still echoes in many countries, 
 such as Russia.1 When facing pandemics, scientific denialism may adopt several 
@@ -77,8 +20,7 @@ public health must be discussed. In the following paragraphs, we submit the
 scientific basis of the response to the pandemic to critical scrutinity based on 
 ideas from renowed philosophers of science. Additionally, we will discuss the 
 policy of disseminating knowledge in times of global emergency. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.162
-Powered by TCPDF (www.tcpdf.org)
+
 “Unlike (…) doctors, the scientist need not choose problems because they 
 urgently need solution”, stated Thomas Kuhn (1922-1996) is his masterpiece The 
 Structure of Scientific Revolutions.3 Kuhn was too young to have experienced 
@@ -92,6 +34,7 @@ cannot be solved by discussion or experiment. Well, we must ask if the germ
 theory is one of those Kuhnian paradigms. If we put on Kuhn’s glasses, then all 
 the science raised in the pandemic response has a historical, but not 
 epistemological, justification. 
+
 Karl Popper (1902-1994) dedicated all his life to explore what the called “the two 
 fundamental problems in the theory of knowledge”, which are: (i) the problem of 
 induction, as described by David Hume (1711-1776), which states that no matter 
@@ -104,20 +47,20 @@ proposed that scientists should be creative in imagining theories, then rigorous
 testing them both rationally and empirically. Any theory will survive as the fittest 
 while it resists empirically-based refutations. Coherently, science is defined for its 
 possibility of empiric falsification. How does this apply to scientist fighting COVID-
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.162
-Powered by TCPDF (www.tcpdf.org)
 19? From a Popperian perspective, public response would be strengthened by a 
 network of mutually critical researchers. While theoretical discussion and criticism 
 cannot be paralyzing or go on too slow while we count the dead people, the 
 scientific community may be prepared to endorse changes in public policies 
 whenever a theory is refuted and studies point to novel, more adequate 
 strategies. 
+
 Of greater concern is Paul Feyrabend’s (1924-1994) “anything goes” statement 
 in his famous book “Against Method”6, or his criticism on modern medicine 
 achievements in his latter works.7 In a similar direction, New York University 
 Philosopher Peter Unger’s (born 1942) skeptical argument that “nothing can ever 
 be really known” is in the best hypothesis useless, in the worst scenario highly 
 dangerous if spread all over public opinion.8 
+
 Finally, an interesting way out of the epistemological puzzle is provided by Imre 
 Lakatos’s (1922-1974) insights on “Programs of Scientific Investigation”.9 
 Lakatos attempted to reconcile Popper’s and Kuhn’s ideas, and had a productive 
@@ -129,10 +72,9 @@ stands for a demarcation criterion for science. We must therefore assume that
 virological-epidemiological programs are progressive, and should not only be 
 heard by government officials, but must be given more expression in scientific 
 journals. 
+
 This brings us to the final discussion. Peer-review has provided the basis for 
 continuous Popperian-Lakatosian criticism, and at least in theory it provides a 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.162
-Powered by TCPDF (www.tcpdf.org)
 scientific quality badge to information. Both peer review and editing processes 
 take time, which we do not have in the current pandemics. Hundred of studies 
 are either published in pre-print repositories or submitted to fast-track peer-
@@ -140,6 +82,7 @@ review.10 This obviously means loosening of the critical parameters, a choice of
 speed over rigor. That is totally in accordance with Lakato’s predicted privileges 
 for progressive programs. However, this requires a permanent critical attitude 
 from the readers, and a constant state of alert in the scientific community. 
+
 In conclusion, the response to COVID-19 does not require consensus. Criticism 
 is perhaps the most precious principle of scientific thinking and practice. By 
 submitting the role of science in responding to COVID-19 to the scrutiny of 
@@ -151,40 +94,3 @@ already sufficiently frightened population. Furthermore, even if we argue that
 there is no such thing as value-neutral science,11 we need to move our research 
 away from political and corporate interests. Thus, in an era of extremism, science 
 can rise as the pillar of democracy and as a movement to protect life. 
-References 
-1. Kalichman SC. Pence, Putin, Mbeki and Their HIV/AIDS-Related Crimes 
-Against Humanity: Call for Social Justice and Behavioral Science 
-Advocacy. AIDS Behav 2017;21:963–967.  doi:10.1007/s10461-017-
-1695-8 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.162
-Powered by TCPDF (www.tcpdf.org)
-2. Editorial. 
-COVID-19: 
-learning 
-from 
-experience. 
-Lancet. 
-DOI:https://doi.org/10.1016/S0140-6736(20)30686-3, issued March 28th, 
-2020. 
-3. Kuhn TS. The Structure of Scientific Revolutions. Chicago: University of 
-Chicago Press, 1962. 
-4. Susser M, Susser E. Choosing a future for epidemiology: I. Eras and 
-paradigms.  Am J Public Health. Am J Public Health 1996; 86:668–673. 
-doi:10.2105/ajph.86.5.66 
-5. Popper K. The Two Fundamental Problems in the Theory of Knowledge. 
-London: Routledge, 2009. 
-6. Feyerabend P. Against method. London: New Left Books, 1975. 
-7. Feyerabend P. Three dialogues on knowledge. Oxford: Basil Blackwell, 
-1991. 
-8. Unger P. Ignorance: A Case for Scepticism. Oxford: Oxford University 
-Press, 1975. 
-9. Lakatos I. The Methodology of Scientific Research Programmes: Volume 
-1: Philosophical Papers. Cambridge: Cambridge University Press, 1980. 
-10. Flier JS. Covid-19 is reshaping the world of bioscience publishing. 
-Statnews. https://www.statnews.com/2020/03/23/bioscience-publishing-
-reshaped-covid-19/, 2020. 
-11. Lekka-Kowalik A. Why science cannot be value-free: understanding the 
-rationality and responsibility of science. Sci Eng Ethics 2010:16, 33–41. 
-doi:10.1007/s11948-009-9128-3 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.162
-Powered by TCPDF (www.tcpdf.org)

@@ -1,34 +1,10 @@
-1 
- 
-Symptoms of Anxiety and depression during the outbreak of COVID-19 in 
-Paraguay. 
-Carlos Miguel Rios-González1,2, José Miguel Palacios2 
-1 National University of Caaguazú, Faculty of Medical Sciences, Cnel. Oviedo, 
-Paraguay. 
-2 Ministry of Public Health and Social Welfare, National Institute of Health, Asunción, 
-Paraguay 
- 
-Self-financed by the authors. 
- 
-The authors declare no conflicts of interest. 
- 
-Correspondence: 
-Carlos Miguel Rios-González  
-carlosmigue_rios@live.com 
- 
- 
- 
- 
- 
-2 
- 
-Introduction: 
 Outbreaks of new virus infections among people are always a public health problem 
 (Bonilla-Aldana et al., 2020). The risk of these outbreaks depends on the 
 characteristics of the virus, including whether it spreads from person to person and 
 how well it spreads, the severity of the resulting disease, and the medical or other 
 measures available to control the impact of the virus (for example, vaccines or 
 treatment medications)(Millán-Oñate et al., 2020). 
+
 For the COVID-19, has been expanding quickly to each region of the world, causing 
 many complications and deaths, estimated that 59,884 have died from this disease 
 (Mapa del coronavirus (COVID-19), s. f.), which is required to apply strict measures 
@@ -37,21 +13,24 @@ those who suffer, since it includes separation, loss of freedom, uncertainty and
 boredom. There are even reports of suicide attempts and secondary suicide. This is 
 why before considering these measures, these complications should be considered 
 and weighed against the benefit(Shander et al., 2020). 
+
 Some studies have compared the psychological effects of people in quarantine against 
 controls. The most common symptoms are those related to stress and trauma, 
 particularly acute stress disorder. Quarantined personnel also have a greater 
 propensity to report exhaustion, detachment, anxiety, impaired performance, and 
 resistance to work. Post-traumatic stress disorder (PTSD) and depression may 
 develop in the long term(Druss, 2020). 
+
 For all the above research question arises as to determine the symptoms of anxiety 
 and depression during the isolation period the outbreak of COVID-19 in Paraguay. 
-Material and methods 
+
 Cross-sectional study during the 17 to 20 March 2020 were surveyed every citizen 
 resident in Paraguay, of both sexes, over 18 years of age, who agreed to participate 
 in the study, confirming entry into the study link. 
 The distribution of the surveys was carried out through groups of "WhatsApp" and 
 social networks "Twitter" and "Facebook". All participants were first explained the 
 purpose of the study and uses the results. 
+
 To measure anxiety and depressive symptoms, the Goldberg Anxiety and Depression 
 Scale (EADG) was used; each subscale has 9 dichotomous response items (Yes / No) 
 and are structured in 4 initial screening items, to determine whether or not there is a 
@@ -59,119 +38,23 @@ probable mental disorder, and a second group of 5 items that are formulated if O
 positive answers to screening questions (2 or more for anxiety and more than 1 for 
 depression), but the full scale is usually applied in the research, and was used in this 
 study in this way. 
+
 An independent score is given for each scale, with one point for each affirmative 
 answer. Goldberg et al. (1988) have proposed as cut-off points ≥ 4 for the anxiety 
 scale, and ≥ 2 for the depression scale(Koloski et al., 2008). 
 The data provided by the questionnaire was initially saved in a Microsoft Office Excel 
 2013 © spreadsheet and exported to the STATA 14.0 ® statistical package for 
 analysis. The results are expressed in tables of proportions. 
+
 The data obtained from the questionnaire were treated with confidentiality, equality 
 and fairness, respecting the Helsinki principles. Those who wanted to know their 
 situation had the option to put their email to receive relevant guidance. 
-Results 
+
 1180 subjects participated in the study, of which 34.24% (404) were between 20 and 
 29 years old, 51.53 % (608) were female, 39.07 % (461) were married, 35.51 % (419) 
-3 
- 
 were university students and 63.73 % (752) were from the inside of the country (Table 
 1). 
-Table 1. Distribution of the participants in the online survey according to 
-demographic characteristics. 
- 
-N 
-% 
-Age group 
- 
- 
-18 – 19 
-92 
-7.80 
-20 – 29 
-404 
-34.24 
-30 – 39 
-117 
-15 
-40 – 49 
-226 
-19.15 
-+ 50 
-281 
-23.81 
-Gender 
- 
- 
- 
-Male 
-572 
-48.47 
-Female 
-608 
-51.53 
-Marital status 
- 
- 
-Married 
-461 
-39.07 
-Never married 
-408 
-34.58 
-Others 
-311 
-26.36 
-Studies 
- 
- 
-None 
-178 
-15.08 
-Primary 
-261 
-22.12 
-High school 
-322 
-27.29 
-University 
-419 
-35.51 
-Place of residence 
- 
- 
-Asuncion + metropolitan 
-area 
-428 
-36.27 
-Inside the country 
-752 
-63.73 
- 
-49.66% (586) presented anxiety symptoms and 47.20% (557) depressive symptoms 
-(Table 2). 
-Table 2 . Distribution of the participants in the online survey according to the 
-presence of anxious and depressive symptoms. 
- 
-N 
-% 
-Anxiety 
- 
- 
-Yes 
-586 
-49.66 
-No 
-594 
-50.34 
-Depression 
- 
- 
-Yes 
-557 
-47.20 
-No 
-623 
-52.80 
- 
+
 When comparing anxiety symptoms with demographic characteristics, it is obtained: 
 55.31% (125) of the people in the age group between 40 - 49 years of age had anxious 
 symptoms, 50% (304) of women, 49.30% (282), 51.41 % (237) of those married, 
@@ -180,128 +63,12 @@ interior of the country, and 46.73% (200) of those from Asunción + Metropolitan
 Regarding depressive symptoms and demographic characteristics, it is obtained: 
 48.89% (83) of people in the age group of 30 - 39 years had depressive symptoms, 
 49.48% (283) of men, 45.07% (274) of women, 56.13% (229) of the never married, 
-4 
- 
 57.28 (240) of the university students and 52.80% ( 226 ) of the residents in Asunción 
 + Metropolitan Area (Table 3). 
-Table 3. Distribution of the participants in the online survey according to 
-demographic characteristics and anxious and depressive symptoms. 
- 
-Anxiety 
-Depression 
-Age-group 
-Yes (%) 
-No (%) 
-Yes (%) 
-No (%) 
-18 – 19 
-43 (46.74) 
-49 (53.26) 
-44 (47.83) 
-48 (52.17) 
-20 – 29 
-201 (49.75) 
-203 (50.25) 
-186 (46.04) 
-218 (53.96) 
-30 – 39 
-95 (53.67) 
-82 (46.33) 
-83 (46.89) 
-94 (53.11) 
-40 – 49 
-125 (55.31) 
-101 (44.69) 
-109 (48.23) 
-117 (51.77) 
-+ 50 
-122 (43.42) 
-159 (56.58) 
-135 (48.04) 
-146 (51.96) 
-Gender 
- 
- 
- 
- 
-Male 
-282 (49.30) 
-290 (50.70) 
-283 (49.48) 
-289 (50.52) 
-Female 
-304 (50) 
-304 (50) 
-274 (45.07) 
-334 (54.93) 
-Marital status 
- 
- 
- 
- 
-Married 
-237 (51.41) 
-224 (48.59) 
-231 (50.11) 
-230 (49.89) 
-Never married 
-208 (50.98) 
-200 (49.09) 
-179 (43.87) 
-229 (56.13) 
-Others 
-141 (45.34) 
-170 (54.66) 
-147 (47.27) 
-164 (52.73) 
-Studies 
- 
- 
- 
- 
-None 
-79 (44.38) 
-99 (55.62) 
-85 (47.75) 
-93 (52.25) 
-Primary 
-132 (50.57) 
-129 (49.43) 
-129 (49.43) 
-132 (50.57) 
-High school 
-165 (51.24) 
-157 (48.76) 
-164 (50.93) 
-158 (49.07) 
-University 
-210 (50.12) 
-209 (49.88) 
-179 (42.72) 
-240 (57.28) 
-Place 
-of 
-residence 
- 
- 
- 
- 
-Asuncion 
-+ 
-metropolitan area  
-200 (46.73) 
-228 (53.27) 
-202 (47.20) 
-226 (52.80) 
-Inside the country 
-386 (51.33) 
-366 (48.67) 
-355 (47.21) 
-397 (52.79) 
- 
-Discussion 
+
 Psychosocial disorders (depression and anxiety) increasingly affect the health of the 
 general population. 
+
 The study draws attention for demonstrating an inverse relationship with the literature 
 and previous studies that show a higher frequency of cases of depression in people 
 of the female sex and those over 50 years of age(Belló et al., 2005; Gómez-Restrepo 
@@ -310,6 +77,7 @@ of prevalence studies where the prevalence usually occurs in Women and in ages
 between 40 and 50 years(Balanza Galindo et al., 2009; El trastorno de ansiedad 
 generalizada, s. f.; Epidemiología del Trastorno de Ansiedad Generalizada. | 
 Psiquiatria.com, s. f.). 
+
 The same thing happens if you look at the “Civil Status” of the population, since in the 
 literature it is possible to find the same criteria together with that of “Marital 
 Satisfaction”, as protective factors, in the face of the development of symptoms related 
@@ -318,8 +86,7 @@ weight of anxiety in married people, which is repeated in terms of the depressio
 can also be transferred to the concept of general health for both pathologies(Posada-
 Villa et al., 2006; Simó-Noguera et al., 2015; Valdez Medina, José Bastidas-González, 
 R, 2017). 
-5 
- 
+
 Although the general population exceeds school age (the first interval of the minimum 
 age still belongs to the pre-university school age), it is interesting to know a study that 
 found a relationship between family dynamics and manifestations of depression. Being 
@@ -333,8 +100,10 @@ students and pay for their studies with work). In this sense, it is possible to 
 all these sets of analysis criteria, the characteristics positively related to Anxious and 
 Depressive symptoms (more with Anxiety), but just as positive with anxiety, although 
 to a lesser degree. 
+
 The presence of symptoms associated with depression is quite evident in all age 
 ranges, always being closer to 50% and never below 40%. 
+
 In adolescents, this type of symptomatology is linked to conflicts in interpersonal 
 relationships with peers and adults, being the process of seeking health or help more 
 oriented towards other adolescents, rather than professionals in the area of mental 
@@ -343,12 +112,14 @@ problematic situation, in the sense that the rules of social isolation per se li
 interaction with “peers” and, on the other hand, assistance or seeking professional 
 help within of a health device, it is prioritized for cases related to the Pandemic, there 
 are no clear protocols for mental health protection. 
+
 Being a female, belonging to the rank of "Older Adult" and being ill reveals 
 relationships with depression, as well as having limitations to carry out 
 activities(Gorete Reis et al., 2009). These Characteristics are broadly reflected in the 
 greater anxious and depressive symptoms on the part of women with these age 
 characteristics. The fact of confinement and lack of interaction could become a "risk 
 factor" for maintaining their health. 
+
 One of the main comorbidities of Depression and to a lesser extent for Anxious 
 disorders, are related to a complex network of factors associated with suicide 
 attempts. No factor studied has proved to be more important or "crucial”, by itself, for 
@@ -358,6 +129,7 @@ predominant place (Minayo et al., 2016). An increase in the number of suicide
 attempts, such as completed suicides, could occur, if the necessary attention and 
 containment are not given in the general population, with an emphasis on the 
 populations mentioned in published research articles. 
+
 As social interaction activities based on telephone calls via mobile phone have an 
 inverse correlation with the degree of risk of social isolation(Martínez Rebollar & 
 Campos Francisco, 2015). Therefore, one of the most interesting approaches in the 
@@ -369,8 +141,7 @@ different platforms of social interaction, both voice and video. For this, the u
 networks fulfills and will continue to fulfill a contentious role that can broaden its action, 
 as a factor of protection and prevention of morbid states related to Depression and 
 Anxiety. 
-6 
- 
+
 The main factors associated with the perception of poor health and poor quality of life 
 are the presence of anxiety and depression disorders, social isolation and lack of 
 exercise, dependence on basic and instrumental activities (such as care 
@@ -385,6 +156,7 @@ unemployment rate in Paraguay corresponds to the urban population at 7.2 and the
 rural population at 4.5(Indicadores Básicos de Salud, s. f.). However, the study data 
 show a lower rate of both pathologies in the urban area, but in the rural area, the 
 relationship is reversed. 
+
 The depression-anxiety comorbidity is a risk factor for the development of suicidal 
 behavior more important than these conditions separately or other diagnoses. This 
 association confers greater risk than other factors related to conformation and family 
@@ -395,7 +167,7 @@ mental health area, therefore, the detection and treatment protocols in this are
 developed, as supplements to those currently used for the purpose of "containment", 
 they will be extremely useful. In Paraguay there is a “Death by Suicide” rate of 9.3 in 
 Men and 3.2 in women, the prevalence of both pathologies being practically the same. 
- 
+
 Among the limitations of the study, the method of data collection can be mentioned 
 mainly, since it was not possible to access a good sample size, and people who did 
 not have an internet connection could not complete the survey either. 
@@ -406,102 +178,3 @@ the interior of the country. It is necessary to apply psychological containment
 measures in quarantine periods, since it is a time when most people find themselves 
 in a situation of vulnerability and many stressors that lead to states of anxiety and 
 depression. 
- 
-Bibliography 
-Azpiazu Garrido, M., Cruz Jentoft, A., Villagrasa Ferrer, J. R., Abanades Herranz, J. 
-C., García Marín, N., & Alvear Valero de Bernabé, F. (2002). Factores 
-asociados a mal estado de salud percibido o a mala calidad de vida en 
-personas mayores de 65 años. Revista Española de Salud Pública, 76(6), 
-683-699. 
-Baca García, E., & Aroca, F. (2014). Factores de riesgo de la conducta suicida 
-asociados a trastornos depresivos y ansiedad. Salud mental, 37(5), 373-380. 
-7 
- 
-Balanza Galindo, S., Morales Moreno, I., & Guerrero Muñoz, J. (2009). Prevalencia 
-de Ansiedad y Depresión en una Población de Estudiantes Universitarios: 
-Factores Académicos y Sociofamiliares Asociados. Clínica y Salud, 20(2), 
-177-187. 
-Belló, M., Puentes-Rosas, E., Medina-Mora, M. E., & Lozano, R. (2005). Prevalencia 
-y diagnóstico de depresión en población adulta en México. Salud Pública de 
-México, 47(1), S4-S11. 
-Bonilla-Aldana, D. K., Villamil-Gómez, W. E., Rabaan, A. A., & Rodriguez-Morales, 
-A. J. (2020). Una nueva zoonosis viral de preocupación global: Iatreia, 33(2), 
-107-110. 
-Cuero, C. (2020). La Pandemia del COVID-19 [The COVID-19 Pandemic]. Revista 
-Médica de Panamá - ISSN 2412-642X, 40(1), Article 1. 
-https://doi.org/10.37980/im.journal.rmdp.2020872 
-Druss, B. G. (2020). Addressing the COVID-19 Pandemic in Populations With 
-Serious Mental Illness. JAMA Psychiatry. 
-https://doi.org/10.1001/jamapsychiatry.2020.0894 
-El trastorno de ansiedad generalizada. (s. f.). Recuperado 14 de abril de 2020, de 
-http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-
-17422013000400009 
-Epidemiología del Trastorno de Ansiedad Generalizada. | Psiquiatria.com. (s. f.). 
-Recuperado 14 de abril de 2020, de 
-https://psiquiatria.com/ansiedad/epidemiologia-del-trastorno-de-ansiedad-
-generalizada/ 
-Garcia Mantilla, J. S., Vasquez Rojas, R. A., Garcia Mantilla, J. S., & Vasquez Rojas, 
-R. A. (2018). The Visible and Less Visible in the Suffering of a Conversion 
-8 
- 
-Disorder in Children and Adolescents. A Qualitative Study of Illness 
-Explanatory Models Presented to Caregivers of Children and Adolescents 
-with Conversion Disorder. Revista Colombiana de Psiquiatría, 47(3), 155-164. 
-https://doi.org/10.1016/j.rcp.2017.02.003 
-Gómez-Restrepo, C., Bohórquez, A., Pinto Masis, D., Gil Laverde, J. F. A., Rondón 
-Sepúlveda, M., & Díaz-Granados, N. (2004). Prevalencia de depresión y 
-factores asociados con ella en la población colombiana. Rev Panam Salud 
-Publica;16(6),Dic. 2004. https://iris.paho.org/handle/10665.2/8150 
-Gorete Reis, M., Gonçalves Silva, C. M., & Longino Fernandes, T. (2009). Depresión 
-(humor deprimido) en los mayores residentes en la comunidad. Gerokomos, 
-20(3), 123-126. 
-Hinostroza-Gastelú. (s. f.). Pub_2011.pdf. Recuperado 14 de abril de 2020, de 
-https://pdfkul.com/pub2011pdf_59fe97db1723dd0ef17a7aea.html 
-Indicadores Básicos de Salud. (s. f.). Dirección General de Información Estratégica 
-en Salud. Recuperado 14 de abril de 2020, de 
-http://portal.mspbs.gov.py/digies/publicaciones/indicadores/ 
-Juanes, R. G. (s. f.). EFICACIA Y COSTE-EFECTIVIDAD DE LA INVESTIGACIÓN 
-ESTILO DE VIDA SALUDABLE APLICADA POR MEDIO DE TICS PARA EL 
-TRATAMIENTO DE LA DEPRESIÓN EN ATENCIÓN PRIMARIA: UN 
-ESTUDIO CONTROLADO. 
-Koloski, N. A., Smith, N., Pachana, N. A., & Dobson, A. (2008). Performance of the 
-Goldberg Anxiety and Depression Scale in older women. Age and Ageing, 
-37(4), 464-467. https://doi.org/10.1093/ageing/afn091 
-Mapa del coronavirus (COVID-19). (s. f.). Recuperado 4 de abril de 2020, de 
-https://google.com/covid19-map 
-9 
- 
-Martínez Rebollar, A., & Campos Francisco, W. (2015). Correlación entre 
-Actividades de Interacción Social Registradas con Nuevas Tecnologías y el 
-grado de Aislamiento Social en los Adultos Mayores. Revista mexicana de 
-ingeniería biomédica, 36(3), 181-191. https://doi.org/10.17488/RMIB.36.3.4 
-Millán-Oñate, J., Rodriguez-Morales, A. J., Camacho-Moreno, G., Mendoza-
-Ramírez, H., Rodríguez-Sabogal, I. A., & Álvarez-Moreno, C. (2020). A new 
-emerging zoonotic virus of concern: The 2019 novel Coronavirus (COVID-19). 
-Infectio, 24(3), Article 3. https://doi.org/10.22354/in.v24i3.848 
-Minayo, M. C. de S., Teixeira, S. M. de O., & Martins, J. C. de O. (2016). Tédio 
-enquanto circunstância potencializadora de tentativas de suicídio na velhice. 
-Estudos de Psicologia (Natal), 21(1), 36-45. https://doi.org/10.5935/1678-
-4669.20160005 
-Posada-Villa, J., Buitrago-Bonilla, J., Medina-Barreto, Y., & Rodríguez-Ospina, M. 
-(2006). Trastornos de ansiedad según distribución por edad, género, 
-variaciones por regiones, edad de aparición, uso de servicios, estado civil y 
-funcionamiento/discapacidad según el Estudio Nacional de Salud Mental-
-Colombia. NOVA, 4(6), Article 6. https://doi.org/10.22490/24629448.358 
-Shander, A., Goobie, S. M., Warne, M. A., Aapro, M., Bisbe, E., Perez-Calatayud, A. 
-A., Callum, J., Cushing, M. M., Dyer, W. B., Erhard, J., Faraoni, D., Farmer, 
-S., Fedorova, T., Frank, S. M., Froessler, B., Gombotz, H., Gross, I., Guinn, 
-N. R., Haas, T., … International Foundation of Patient Blood Management 
-(IFPBM) and Society for the Advancement of Blood Management (SABM) 
-Work Group. (2020). The Essential Role of Patient Blood Management in a 
-Pandemic: A Call for Action. Anesthesia and Analgesia. 
-https://doi.org/10.1213/ANE.0000000000004844 
-10 
- 
-Simó-Noguera, C., Hernández-Monleón, A., & Muñoz-Rodríguez, D. (2015). El 
-efecto del estado civil y de la convivencia en pareja en la salud. 52. 
-Valdez Medina, José Bastidas-González, R. (2017). MARITAL SATISFACTION AND 
-MARITAL STATUS AS A PROTECTIVE FACTOR OF DEPRESSION AND 
-ANXIETY. REVISTA ARGENTINA DE CLINICA PSICOLOGICA. 
-https://doi.org/10.24205/03276716.2017.1008 
- 

@@ -1,21 +1,3 @@
-Review Article
-The Heart and COVID-19: What Cardiologists Need to Know
-Isabela Bispo Santos da Silva Costa,1,2  Cristina Salvadori Bittar,1,2
- Stephanie Itala Rizk,1,2Antônio Everaldo 
-de Araújo Filho,1Karen Alcântara Queiroz Santos,1 Theuran Inahja Vicente Machado,1 Fernanda Thereza de 
-Almeida Andrade,1  Thalita Barbosa González,1 Andrea Nataly Galarza Arévalo,1 Juliano Pinheiro de Almeida,1 
-Fernando Bacal,2 Gláucia Maria Moraes de Oliveira,3  Marcus Vinícius Guimarães de Lacerda,4 Silvio Henrique 
-Barberato,5,6  Antonio Carlos Palandri Chagas,2,7 Carlos Eduardo Rochitte,2,8  José Antonio Franchini Ramires,2 
-Roberto Kalil Filho,2 Ludhmila Abrahão Hajjar1,2
-Universidade de São Paulo - Instituto do Câncer do Estado de São Paulo,1 São Paulo, SP - Brazil 
-Universidade de São Paulo Instituto do Coração,2 São Paulo, SP - Brazil 
-Universidade Federal do Rio de Janeiro – Cardiologia,3 Rio de Janeiro, RJ - Brazil 
-Fundação de Medicina Tropical Doutor Heitor Vieira Dourado,4 Manaus, AM - Brazil 
-CardioEco Centro de Diagnóstico Cardiovascular,5 Curitiba, PR - Brazil 
-Quanta Diagnóstico – Ecocardiografia,6 Curitiba, PR - Brazil 
-Faculdade de Medicina da Fundação do ABC,7 Santo André, SP - Brazil 
-Hospital do Coração,8 São Paulo, SP – Brazil
-Abstract
 In face of the pandemic of the novel coronavirus disease 
 2019 (COVID-19), the management of patients with 
 cardiovascular risk factors and/or disease is challenging. 
@@ -26,12 +8,13 @@ inflammatory and thrombotic responses to the infection.
 The proper care of patients with COVID-19 requires 
 special attention to the cardiovascular system aimed at 
 better outcomes.
-Introduction
+
 Currently the world faces the pandemic of the novel 
 coronavirus disease 2019 (COVID-19), which emerged in 
 December 2019 in the city of Wuhan, province of Hubei, in 
 China.1,2 The initial cases were described as pneumonia that 
 rapidly progressed to acute respiratory distress syndrome (ARDS).
+
 This novel virus, named severe acute respiratory syndrome 
 coronavirus 2 (SARS-CoV-2), is the seventh coronavirus 
 identified so far and differs from the other coronaviruses that 
@@ -50,6 +33,7 @@ that, on average, each individual infected can transmit the
 disease to three others.5 A study recently published in Science 
 has stated, by use of a mathematical model, that 85% of the 
 COVID-19 transmissions occur from asymptomatic individuals.6
+
 Because of its fast dissemination, COVID-19 was declared 
 a pandemic by the World Health Organization (WHO) on 
 March 11, 2020.4 At the current time, COVID-19 affects more 
@@ -62,6 +46,7 @@ Initial Brazilian data have shown 90% of the deaths occurring
 among individuals aged over 60 years and 84% of the patients 
 with at least one comorbidity, 51% with cardiovascular disease 
 (CVD) and 37.7% with diabetes.7
+
 The analysis of 44,672 confirmed cases of COVID-19 in 
 Wuhan has evidenced an overall case-fatality rate of 2.3%; 
 however, among those with preexisting comorbidities, the case-
@@ -70,28 +55,14 @@ fatality rate was higher: 10.5% for CVD, 7.3% for diabetes and
 due to COVID-19, such as myocardial injury (20% of the cases), 
 arrhythmias (16%), myocarditis (10%), heart failure (HF) and 
 shock (up to 5% of the cases), have been reported.9-11
+
 This review was aimed at aiding healthcare professionals 
 (clinicians, emergencists, cardiologists and intensivists) 
 involved in the care of patients with COVID-19, proposing an 
-Keywords
-Coronavirus; COVID-19; Cardiovascular Diseases/
-complications; Heart/physiopathology; Pandemics; Respiratory 
-Distress Syndrome, Adult; Risk Factors; Patient Care.
-Mailing Adddress: Ludhmila Abrahão Hajjar •
-Universidade de São Paulo Instituto do Câncer do Estado de São Paulo –  
-Av. Dr. Arnaldo, 251. CEP 01246-000, São Paulo, SP – Brazil
-E-mail: ludhmila@usp.br
-Manuscript received April 03, 2020, revised manuscript April 03, 2020, 
-accepted April 03, 2020
-DOI: https://doi.org/10.36660/abc.20200279
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
 algorithm of cardiovascular assessment for the early detection 
 of complications, in addition to recommending protocols to 
 treat cardiovascular complications in those patients.
-Complications of COVID-19 on the cardiovascular system 
+
 Recent data of the COVID-19 pandemic have shown that 
 the virus can affect the cardiovascular system with several 
 manifestations, such as myocardial injury, HF, Takotsubo 
@@ -109,6 +80,7 @@ damage to the cardiovascular system and lungs, with elevation
 in the levels of d-dimer, procalcitonin, C-reactive protein, 
 ferritin, troponin and NT-proBNP, culminating in cardiovascular 
 complications and death. 
+
 The systemic inflammatory response to SARS-CoV-2 is 
 accompanied by higher concentrations of cytokines related to 
 injury to the cardiovascular system.15 The increase in troponin 
@@ -126,6 +98,7 @@ proBNP levels, markers of myocardial dysfunction. Patients with
 myocardial injury showed higher NT-proBNP levels, with positive 
 linear correlation.10,11 This finding reinforces that those with 
 myocardial injury are prone to cardiac function impairment.10
+
 A meta-analysis with four studies, including 341 COVID-19 
 patients, has reported significantly higher troponin I levels in 
 patients with severe disease as compared to those with non-
@@ -139,17 +112,6 @@ percentile upper reference limit, is a frequent complication
 (19.7%) in those patients, being associated with increased 
 mortality and ARDS.11 On multivariate analysis, myocardial 
 injury and ARDS were independent predictors of mortality (HR 
-Figure 1 -  Coronavirus and the heart. Patients with risk factors and/or cardiovascular disease are prone to develop severe forms of COVID-19 and its complications. 
-Pulmonary impairment manifests initially as an influenza syndrome (cough and fever), progressing to pneumonia (dyspnea, hypoxemia, tachypnea) and, in some 
-cases, to ARDS. Host response to the virus leads to systemic inflammation findings, with elevation of markers of inflammation (CRP, procalcitonin, d-dimer, 
-IL-6, ferritin, LDH) and of myocardial injury / cardiac dysfunction (troponin/NT-proBNP), which predisposes to acute heart failure, myocarditis, thrombosis and 
-arrhythmias. Cardiovascular complications hinder the host response to the virus, leading to shock, failure of multiple organs and death. 
-CAD: coronary artery disease; LDH: lactate dehydrogenase; LVEF: left ventricular ejection fraction; CRP: C-reactive protein; IL-6: interleukin-6; ARDS: acute respiratory 
-distress syndrome. 
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
 4.26 and 7.89, respectively).11 In a recent study, Guo et al. have 
 reported elevated troponin levels in 27.8% of 187 patients with 
 COVID-19. Among patients without CVD and with normal 
@@ -162,6 +124,7 @@ between high troponin levels and increased C-reactive protein
 and NT-proBNP levels. Patients with increased troponin levels 
 had a higher incidence of ventricular arrhythmias and higher 
 need for mechanical ventilation.10
+
 Cardiovascular complications, such as HF, myocarditis, 
 acute myocardial infarction, shock and arrhythmias, are also 
 frequent in patients with myocardial injury. In a cohort with 
@@ -175,6 +138,7 @@ COVID-19 can rapidly develop important cardiovascular
 impairment, shock and failure of multiple organs. In two 
 Chinese cohorts of hospitalized patients with COVID-19, up 
 to 20% developed the severe form of disease with shock.9,12 
+
 Myocarditis can be related to acute HF in patients with 
 COVID-19. Cases of COVID-19-related myocarditis have 
 been described, with fulminant myocarditis, rapid progression 
@@ -186,8 +150,7 @@ dysfunction in COVID-19 patients might be attributed to that
 syndrome, which is a frequent complication in individuals with 
 exacerbated systemic inflammatory response, in whom the stress 
 and severity of the viral infection trigger the TS.20
-Interaction of SARS-CoV-2 with angiotensin-converting 
-enzyme-2
+
 Some studies have suggested that the damage to the 
 cardiovascular system secondary to SARS-CoV-2 can be 
 linked to the angiotensin-converting enzyme-2 (ACE2),13,15 
@@ -199,18 +162,12 @@ against the development of respiratory failure and its
 progression.  SARS-CoV-2 has four main structural proteins:  
 spike (S), nucleocapsid (N), membrane (M), and envelope 
 (E) proteins. The coronavirus spike protein binds to the 
-Figure 2 - The SARS-CoV-2, via its surface spike protein, binds to the human ACE2 receptor after spike protein activation by TMPRSS2.  SARS-CoV: severe acute 
-respiratory syndrome coronavirus; SARS-COV-2: severe acute respiratory syndrome coronavirus 2; COVID-19: coronavirus disease 2019; ACE2: angiotensin-converting 
-enzyme-2; TMPRSS2: transmembrane protease serine-2.
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
 ACE2 receptor and the virus enters the host cell (Figure 2), 
 where ACE2 inactivation occurs, favoring pulmonary 
 damage. Because of the high ACE2 concentrations in the 
 heart, potentially severe damage to the cardiovascular 
 system can occur.13,21 
+
 Patients with preexisting CVD apparently have increased 
 serum levels of ACE2, which might contribute to the more 
 severe manifestations in that population.22-24 Similarly, 
@@ -225,6 +182,7 @@ age of a large part of the patients assessed, which is an
 important confounder, because advanced age increases 
 the susceptibility to infection and is the major factor of 
 poor prognosis.25 
+
 It is worth noting that, despite substantial structural 
 homology between ACE2 and ACE, their enzyme active 
 sites are distinct, and, as a result, ACE inhibitors in clinical 
@@ -236,6 +194,7 @@ has been suggested to account for the cardiac injury by
 the coronavirus, and the administration of recombinant 
 ACE2 would normalize angiotensin II levels. Studies with 
 recombinant ACE2 and losartan are being conducted.25  
+
 The current recommendation is that ACEI and ARB 
 should be continued in patients on regular use of those 
 drugs, because of the clear benefit of blood pressure control 
@@ -244,8 +203,7 @@ randomized studies.27,28 In the severe forms of COVID-19,
 hemodynamic stability and renal function should be 
 assessed individually before deciding on the continuation 
 or withdrawal of the drugs. 
-Cardiovascular disease as a risk for the severe form of 
-COVID-19
+
 Patients with cardiovascular risk factors (advanced 
 age, hypertension and diabetes), as well as those with 
 CVD (coronary artery disease, cardiomyopathies and 
@@ -255,6 +213,7 @@ classified as a risk group. Approximately 80% of the patients
 with the severe form of COVID-19 have a comorbidity.29 
 Table 1 summarizes the major studies that characterize the 
 clinical comorbidities of patients with COVID-19.9-12,17,29-32 
+
 A recent meta-analysis including eight studies from 
 China, with 46,248 infected individuals, has shown that the 
 most prevalent comorbidities were hypertension (17 ± 7%), 
@@ -270,6 +229,7 @@ disease. In those studies, the median age has ranged from
 42 to 64 years,11,30 being higher in severely ill patients (64 
 vs 51.5).29 In addition, patients admitted to ICU and those 
 with hypoxemia were older.9,30
+
 Cardiovascular complications were also frequent among 
 patients from the risk group. Those with CVD had troponin 
 elevation and higher rates of shock and arrhythmias.10-12 
@@ -278,6 +238,7 @@ observed that those with myocardial injury had a high
 prevalence of hypertension (63%vs 28%), diabetes (30.8% 
 vs 8.9%), coronary artery disease (32.7% vs 3%) and HF 
 (15.4% vs 0%), and were older (median age, 71.4 years).10 
+
 In a cohort of 191 patients, Zhou et al. have assessed the 
 characteristics of the deceased ones as compared to those of 
 the discharged ones. In that cohort, the deceased patients 
@@ -290,6 +251,7 @@ increasing age as follows: 1.3% in patients aged 50-59 years;
 Population studies have reported an overall mortality rate 
 of 6% in patients with hypertension, 7.3% in patients with 
 diabetes and 10.5% in patients with CVD.33 
+
 Patients with cancer have a higher risk for COVID-19 
 because of their impaired defense and their sequelae 
 from the antineoplastic treatment. In China, among the 
@@ -302,7 +264,7 @@ cancer (39% vs 8%).35 Of the patients with cancer submitted
 to recent chemotherapy or surgery, 75% developed severe 
 disease as compared to 43% of those with no recent 
 treatment.35 
-Algorithm of cardiovascular assessment
+
 Although not formally, cardiovascular assessment of 
 patients with suspected or confirmed SARS-CoV-2 infection 
 is recommended in the following situations: a) preexisting 
@@ -315,23 +277,22 @@ are prone to experience myocardial injury after SARS-CoV-2
 infection, in addition to being at a higher risk of death.10 
 Cardiologists should be part of the team caring for critical 
 patients, aiding in clinical discussions and treatment. 
+
 The initial cardiovascular assessment should comprise 
 clinical history, physical examination, troponin levels, and 
 electrocardiogram (ECG). Troponin levels above the 99th-
 percentile upper reference limit and acute alterations on ECG 
 support the identification of patients at higher cardiovascular 
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
 risk and might contribute to the decision making on hospital 
 admission and case management. Figure 3 shows the 
 flowchart for cardiovascular assessment in COVID-19 cases.
+
 The ECG can identify malignant cardiac arrhythmias, 
 defined as sustained ventricular tachycardia inducing 
 hemodynamic instability or ventricular fibrillation. Alterations 
 in repolarization suggesting acute ischemia have been 
 reported, mainly in patients with myocarditis.14,18 
+
 The ECG plays an important role in the QTc interval 
 monitoring of patients on hydroxychloroquine (HCQ) and 
 azithromycin. Both drugs have been linked to QT interval 
@@ -340,161 +301,6 @@ presence of fluid and electrolyte imbalance in patients with
 COVID-19 require QTc interval monitoring. In-patients should 
 undergo an ECG 2-3 hours after the second dose of HCQ 
 and daily thereafter. If QTc increases by >60ms or absolute 
-Table 1 - Summary of the clinical characteristics of the major studies on COVID-19
-Author
-N 
-Type
-Age 
-(years)
-Comorbidities
-Major findings
-Huang et al. 
-202017
-41
-Prospective
-49 
-(41-58)
-- DM: 8 (20%)
-- AH: 6 (15%)
-- CVD: 6 (15%)
-- COPD: 1 (2%)
-- Cancer: 1 (2%)
-- 13 (32%) ICU admissions 
-- 5 (12%) MI, and 4 (31%) to the ICU  
-- 3 (7%) shock and 12 (29%) ARDS 
-- Mortality: 6 (15%) 
-Wang et al. 
-202030
-69
-Retrospective
-42
-(35-62)
-- AH: 9 (13%)
-- CVD: 8 (12%)
-- DM: 7 (10%)
-- COPD: 4 (6%)
-- Cancer: 4 (6%)
-- Hospitalizations: 44 (65.7%) 
-- Mortality: 5 (7.5%)
-- Patients with DM, AH and CVD more often had hypoxemia (SatO2 < 
-90%)
-- MI not assessed
-Chen et al. 
-202031
-99 
-Retrospective
-55
-(21-82)
-- CVD: 40 (40%)
-- DM: 12 (12%)
-- Cancer: 1 (1%)
-- 57 (58%) hospitalizations, 17 (17%) ARDS, 4 (4%) shock 
-- Mortality: 11 (11%)
-- Of the deceased, 63% were > 60 years and 33% had AH 
-Wang et al. 
-20209
-138
-Retrospective
-56
-(42-68)
-- AH: 43 (31.2%)
-- CVD: 20 (14.5%)
-- DM: 14 (10.1%)
-- Cancer: 10 (7.2%)
-- Stroke: 7 (5.1%)
-- 36 (26%) ICU admissions, high prevalence of risk factors
-- 12 (8.7%) shock, 23 (16.7%) arrhythmias, 27 (19.6%) ARDS, and 10 
-(7.2%) MI
-- Mortality: 6 (4.3%)
-Zhang et al. 
-202029
-140
-Retrospective
-57
-(20–83)
-- AH: 42 (30%)
-- DM: 17 (12.1%)
-- CAD: 7 (5%)
-- Arrhythmias: 5 (3.6%) 
-- Comparing severe x non-severe groups: 
-median age 64 vs 51.5, p < 0.001 
-comorbidities 79.3% vs 53.7%, p = 0.002 
-d-dimer 0.4 vs 0.2, p<0.001
-Guo et al. 
-202010
-187
-Retrospective
-58.5
-(±14.7)
-- AH: 61 (32.6%)
-- CAD: 21 (11.2%)
-- HF: 8 (4.3%)
-- DM: 28 (15%)
-- COPD: 4 (2.1%)
-- Cancer: 13 (7%)
-- 52 (27.8%) MI
-- Comparing normal tropo x high tropo: 
-AH: 27% vs 63.5%, p 0.001 
-CAD: 3% vs 32.7%, p <0.001 
-HF: 0% vs 15.4%, p <0.001
-- 43 deaths, 31 (59.6%) in the MI group
-- Mortality: 13.3% CVD without MI, and 69.4% CVD with MI
-Zhou et al 
-202012
-191
-Retrospective
-56
-(46-67)
-- AH: 58 (30%)
-- DM: 36 (19%)
-- CAD: 15 (8%)
-- COPD: 6 (3%)
-- Cancer: 2(1%)
-- MI: 24/145 (17%), greater in patients who died (22.2 [5.6-83.1] vs 3.0 
-[1.1-5.5], p <0.001)
-- HF 44 (23%), shock 38 (20%), ARDS 59 (31%) 
-- 54 (28%) deaths, 67% with comorbidities  
-Shi et al. 
-202011
-416
-Prospective
-64
-(21-95)
-- AH: 127 (30.5%)
-- DM: 60 (14.4%)
-- CAD: 44 (10.6%)
-- Stroke: 22 (5.3%)
-- HF: 17 (4.1%)
-- Cancer: 9 (2.2%)
-- 82 (19.7%) MI
-- High prevalence of AH, DM, CAD and HF in patients with MI
-- MI was related to higher mortality: 
- (42 of 82 [51.2%] vs 15 of 334 [4.5%]; p < .001)
-- MI was associated with ARDS:
- (48 of 82 [58.5%] vs 49 of 334 [14.7%]; p < .001)
-Guan et al. 
-202032
-1099
-Retrospective
-47
-(35-58) 
-- COPD: 12 (1.1%)
-- DM: 81 (7.4%)
-- AH: 165 (15%)
-- CAD: 27 (2.5%)
-- Stroke: 15 (1.4%)
-- Câncer: 10 (0.9%)
-- Severely-ill patients: AH 41 (23.7%)
-- High CK-MB 90/657 (13.7%)
-- 12 (1.1%) shock, 37 (3.4%) ARDS, 1029 (93.6%) hospitalizations, 55 
-(5%) ICU admissions
-- Mortality: 15 (1.4%)
-DM, diabetes mellitus; AH, arterial hypertension; CVD, cardiovascular disease; COPD, chronic obstructive pulmonary disease; CAD, coronary artery disease;  
-HF, heart failure; MI, myocardial injury; tropo, troponin; ARDS, acute respiratory distress syndrome; ICU, intensive care unit.
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
 QTc >500ms (or >530-550ms if QRS >120ms), azithromycin 
 should be discontinued or the HCQ dose, reduced, and ECG 
 performed daily. If the ECG changes remain, the risk/benefit 
@@ -504,6 +310,7 @@ QT interval prolongation, baseline ECG should be acquired
 2-3 hours after initiating HCQ and on day 3 of therapy. If QTc 
 increases by >30-60ms or absolute QTc >500ms (or >530-
 550ms if QRS >120ms), consider discontinuing therapy.36 
+
 Transthoracic echocardiogram should be the initial choice 
 for assessing cardiac function in those patients, and ideally 
 performed at the emergency department by use of the point-
@@ -522,6 +329,7 @@ is an indication for invasive hemodynamic monitoring and will
 guide the treatment with inotropic and/or circulatory support. 
 In critical cases, dynamic echocardiogram should be acquired 
 daily and at every hemodynamic change.
+
 Magnetic resonance imaging should be considered in 
 stable patients and can support the differential diagnosis 
 of ventricular dysfunction etiology, which might be related 
@@ -530,7 +338,7 @@ diagnosis of myocarditis follows the classic criteria already
 validated for other viral etiologies, in which myocardial 
 edema and non-ischemic myocardial late enhancement can 
 be observed.37-39
-Management of the patient with COVID-19 
+
 Initial approach and intensive support. The mean time 
 of symptom onset is 4-5 days, and 97.5% of contaminated 
 individuals will have symptoms in up to 11.5 days from 
@@ -544,15 +352,7 @@ form of COVID-19, with signs of shock and respiratory failure.1,40
 Most of asymptomatic or olygosymptomatic clinically stable 
 patients require no hospitalization, which is mandatory for those 
 with severe symptoms and unfavorable evolution. 
-Figure 3 - Flowchart for cardiac assessment of patients with suspected COVID-19. *Advanced age, coronary artery disease, cerebrovascular disease, 
-arterial hypertension, diabetes mellitus, cardiomyopathy or arrhythmia. COVID-19: Coronavirus disease 2019; CVD: cardiovascular disease; ECG +: 
-supraventricular or ventricular tachycardia, new repolarization changes suggestive of acute ischemia; ECG -: electrocardiogram without acute changes; 
-ECHO: echocardiogram; mod: moderate; Tropo +: troponin levels above the 99th-percentile upper reference limit; Tropo -: troponin levels below the 99th-
-percentile; ICU: intensive care unit.
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
+
 The initial assessment of patients with COVID-19 should 
 include: ECG, arterial blood gas analysis with lactate level, 
 d-dimer, complete blood count, kidney and liver function tests, 
@@ -567,6 +367,7 @@ opacifications and subpleural and peripheral consolidations.41
 Those with indication for hospitalization should undergo 
 echocardiography in the emergency department or within 
 the first hours from hospital admission.
+
 The clinical course of COVID-19 is variable and potentially 
 severe, because 3.4% of the patients progress to ARDS,32 a 
 proportion that increases in the cohorts of those hospitalized 
@@ -581,6 +382,7 @@ of inspired oxygen (FiO2), acquired in a positive-end expiratory
 pressure (PEEP) or continuous positive airway pressure (CPAP) 
 ≥ 5 cm H2O. The ARDS is considered severe when PaO2/
 FiO2 is <100.42 
+
 Mechanical ventilation is recommended in the presence 
 of hypoxemia despite oxygen supply. Protective mechanical 
 ventilation strategies should be used, with tidal volume of 6 
@@ -590,6 +392,7 @@ compliance despite severe hypoxemia.  For patients with
 ARDS and PaO2/FiO2 ≤ 150, prone position should be 
 considered, and, in case of significant patient-ventilator 
 dyssynchrony, neuromuscular block can be performed.43
+
 Hemodynamic monitoring should be cogitated in all ICU 
 patients with signs of shock. Minimally invasive hemodynamic 
 monitoring and continuous cardiac output monitoring should 
@@ -603,6 +406,7 @@ optimization.44 If cardiac dysfunction occurs, dobutamine
 should be added.44 Norepinephrine should be immediately 
 initiated, even in a peripheral access, preventing prolonged 
 hypotension, which yields high mortality.
+
 Extracorporeal membrane oxygenation (ECMO) might be 
 necessary for patients with acute respiratory failure refractory 
 to initial measures.45,46 At first, venovenous ECMO is indicated 
@@ -611,6 +415,7 @@ significant cardiovascular impairment in patients with severe
 ventricular dysfunction and/or cardiogenic shock, venoarterial 
 ECMO might be considered.48 ECMO should be initiated 
 before the installation of failure of multiple organs.49 
+
 Specific treatment. At the present time, the treatment of 
 critically ill patients is based on supportive measures for organic 
 dysfunctions. Since the beginning of the pandemic, an effective 
@@ -625,6 +430,7 @@ clinical trials.50 A recent randomized and controlled study
 has shown that the lopinavir/ritonavir combination, used in 
 the management of HIV infection, is ineffective against the 
 SARS-CoV-2 infection.50
+
 Chloroquine diphosphate and HCQ sulfate are well-known 
 useful drugs to treat malaria and autoimmune diseases, such 
 as rheumatoid arthritis and systemic lupus erythematosus. In 
@@ -646,6 +452,7 @@ that country. A small study has reported that HCQ, regardless
 of combination with azithromycin, reduced the SARS-CoV-2 
 RNA detection on respiratory tract swab samples, but that 
 study has not assessed clinical outcomes.51-53
+
 The major side effects of CQ and HCQ are gastrointestinal 
 intolerance (nauseas and vomit) and, in the long-term use, 
 retinopathy, maculopathy and cardiomyopathy. Other 
@@ -665,15 +472,12 @@ quickly approve CQ and HCQ for the treatment of COVID-19.
 However, the FDA currently recommends the compassionate 
 drug use until scientific evidence on the efficacy of CQ, HCQ 
 and azithromycin for the treatment of COVID-19 is available.
+
 On March 23, 2020, two studies conducted in Brazil were 
 approved by the Brazilian Committee on Ethics in Research 
 (CONEP): a) a phase IIb study to assess the efficacy and safety 
 of CQ diphosphate in the treatment of patients hospitalized 
 with SARS-CoV-2: a double-blind, randomized, clinical 
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
 trial – a multicenter study with 440 patients proposed by the 
 Teaching and Research Board of Fiocruz Amazonas – that has 
 included 50 patients so far; and b) an assessment of the safety 
@@ -681,6 +485,7 @@ and clinical efficacy of HCQ in association with azithromycin
 for patients with SARS-CoV-2 pneumonia – a multicenter study 
 with 400 patients proposed by the Brazilian Israeli Beneficent 
 Society Albert Einstein – waiting to start recruiting. 
+
 Since March 25, 2020, the Brazilian Ministry of Health has 
 adopted that drug as an adjuvant for the treatment exclusively 
 of the severe forms of COVID-19, while also maintaining the 
@@ -694,6 +499,7 @@ showed the superior efficacy of HCQ for mild pneumonia in
 confirmed in a study with higher sample power and stricter 
 methodology. Other drugs being analyzed are glucocorticoids, 
 immunoglobulins, interferon, and tocilizumab.
+
 Cardiopulmonary resuscitation. When patients with 
 COVID-19 have a cardiorespiratory arrest, special care should 
 be taken, with special attention to airway management, 
@@ -703,10 +509,12 @@ All healthcare professionals in contact with patients with
 COVID-19 should follow the local and national orientations 
 for infection control and use of personal protective equipment, 
 which should be readily available.58,59
+
 SARS-CoV-2 infected patients at risk for acute deterioration 
 or cardiac arrest should be identified early, as should those 
 for whom a ‘do not attempt cardiopulmonary resuscitation’ 
 applies, and that should be based on local guidelines.58 
+
 Hypoxia is the most probable cause of cardiorespiratory 
 arrest among patients with COVID-19; however, all causes 
 should be taken into account (hypoglycemia, acidosis, 
@@ -720,6 +528,7 @@ higher risk of infection.60,61 Aerosol-generating procedures,
 such as non-invasive ventilation, high-flow nasal cannula 
 therapy, and bag-valve-mask or bag-tracheal-tube ventilation, 
 pose a particularly high risk.62 
+
 Bag-valve-mask or bag-tracheal-tube ventilation should 
 be avoided, because of its elevated risk of aerosolization and 
 contamination of the team; moreover, that type of ventilation 
@@ -734,6 +543,7 @@ devices should be used, such as laryngeal tube or mask, to
 enable closed-circuit mechanical ventilation until definite 
 access to airway is obtained, by either tracheal intubation 
 or cricothyroidostomy.57 
+
 In case of cardiorespiratory arrest of patients on 
 mechanical ventilation, to prevent aerosol contamination from 
 cardiopulmonary resuscitation maneuvers and ventilation, 
@@ -741,7 +551,7 @@ the patient should remain connected to the mechanical
 ventilator in a closed-circuit system, maintaining FiO2 at 
 100%, asynchronous mode, and respiratory rate of 10-12 
 bpm (Figure 4).56
-Thrombosis prevention and management
+
 The literature provides suggestive evidence that the 
 exacerbated systemic inflammatory response present in 
 COVID-19 causes endothelial dysfunction and increased 
@@ -758,6 +568,7 @@ should be analyzed individually, because a large part should
 be managed conservatively, considering that 7% of the patients 
 with COVID-19 and acute coronary syndrome might have 
 type II myocardial infarction or myocarditis.64
+
 The approach to acute coronary syndrome in patients with 
 COVID-19 should consider the availability of local resources, 
 such as structured catheterization laboratories, coronary care 
@@ -769,6 +580,7 @@ especially where primary angioplasty can be performed,
 respecting all the safety rules for protection of healthcare 
 professionals and hospital environment (personal protective 
 equipment, negative pressure room, proper cleaning).64 
+
 The treatment of cardiovascular complications should 
 be based on the ideal and careful use of the therapies 
 recommended in the guidelines. Therapy with ACEI, ARB, 
@@ -776,6 +588,7 @@ beta-blockers, antiplatelet agents and statins should abide
 by the recommendations in the guidelines, respecting the 
 contraindications related to hemodynamic stability and 
 presence of other organic dysfunctions.21 
+
 Patients with COVID-19 are at a higher risk of venous 
 thromboembolism, because of their prolonged physical 
 inactivity and their abnormal coagulation parameters.4 The use 
@@ -789,11 +602,7 @@ clinical criteria, in situations such as maintenance of high
 d-dimer levels and refractory hypoxemia, or in the presence 
 of echocardiographic signs of pulmonary hypertension and 
 right ventricular dysfunction.
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
- Telemedicine and cardiology
+
 Because of the exponential viral spread, social distancing has 
 been determined as a key-factor to reduce the speed of spread 
 by reducing person-to-person contact. The use of information 
@@ -801,6 +610,7 @@ technology, thus, is mandatory as an emergency response to
 environmental issues or biological risks. Telehealth enables remote 
 triage, supports the diagnosis of diseases, and ensures access to 
 routine care during an infectious disease outbreak.65 
+
 In 2019, the Brazilian Medical Board published a decree 
 defining telemedicine as the technology-mediated practice of 
 medicine aimed at health care, education, research, prevention 
@@ -816,42 +626,44 @@ primary and specialized health care.66 In cardiology, telemedicine
 can be useful to control risk factors, such as blood pressure and 
 diabetes mellitus, to improve the lipid profile, to reduce weight, 
 and to increase the success rate of smoking cessation programs.66
+
 At the current stage of pandemic control, telemedicine 
 became a useful tool, especially for patients at high risk, reducing 
 the exposure to SARS-CoV-2 and helping control comorbidities. 
 On March 19, 2020, the Brazilian Medical Board, in accordance 
-Figure 4 - Cardiopulmonary resuscitation of patients with COVID-19. CRA: cardiorespiratory arrest; COVID-19: Coronavirus disease 2019; PPE: personal protective 
-equipment; ACLS: Advanced Cardiovascular Life Support; FiO2: fraction of inspired oxygen; RR: respiratory rate.
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
 with the Brazilian Ministry of Health, recognized the possibility 
 and ethical character of telemedicine regarding teleguidance, 
 teleconsultation, and telemonitoring.67
+
 General recommendations
+
 • Intensify the care and preventive measures against the novel 
 coronavirus infection in the population with CVD.
+
 • Patients with CVD should be managed according to 
 current guidelines, ensuring the best treatment available for 
 chronic illnesses. 
+
 • It is essential that patients with CVD maintain strict adherence 
 to proper diet, regular sleep and physical activity, avoiding tobacco 
 and alcohol consumption.
+
 • It is important to update vaccines. This includes the 
 pneumococcal vaccine, because of the increased risk of bacterial 
 infection secondary to SARS-CoV-2, and the influenza vaccine, 
 indicated for patients with CVD.  
+
 • Outpatient appointments as well as elective tests and 
 procedures should be postponed if clinical discretion determines 
 they are not essential and if not performing them neither increases 
 the risk of events nor hinders the clinical management of an 
 underlying CVD. Telemedicine should be used to help patient’s 
 follow-up. 
+
 • The number of healthcare professionals taking part in ward 
 rounds for patients should be reduced, and online discussion 
 should be implemented.
-Conclusions
+
 COVID-19 is potentially severe and has a high spread rate. 
 Current data available are mainly derived from retrospective 
 studies and should be cautiously interpreted. However, current 
@@ -859,268 +671,3 @@ evidence already shows the need to pay special attention to
 patients at risk and the importance of the proper management 
 of cardiovascular complications, with rapid identification and 
 implementation of adequate treatment.
-Author contributions 
-Conception and design of the research: Costa IBSS, Bacal 
-F, Oliveira GMM, Lacerda MVG, Barberato SH, Chagas ACP, 
-Rochitte CE, Ramires JAF,Kalil Filho R, Hajjar LA; Acquisition 
-of data and Writing of the manuscript: Costa IBSS, Bittar CS, 
-Rizk SI, Everaldo Filho A, Queiroz KA, Machado TIV, Andrade 
-FTA, Arévalo ANG, González TB, Almeida JP; Analysis and 
-interpretation of the data: Costa IBSS, Bittar CS, Rizk SI, Everaldo 
-Filho A, Queiroz KA, Machado TIV, Andrade FTA, Lopes MACQ, 
-Arévalo ANG, González TB, Almeida JP; Critical revision of the 
-manuscript for intellectual content: Costa IBSS, Lopes MACQ, 
-Bacal F, Oliveira GMM, Lacerda MVG, Barberato SH, Chagas 
-ACP, Rochitte CE, Ramires JAF,Kalil Filho R, Hajjar LA.
-Potential Conflict of Interest 
-No potential conflict of interest relevant to this article was 
-reported. Sources of Funding 
-There were no external funding sources for this study. 
-Study Association This study is not associated with any thesis 
-or dissertation work.
-Ethics approval and consent to participate 
-This article does not contain any studies with human 
-participants or animals performed by any of the authors.
-1.	
-Clerkin KJ, Fried JA, Raikhelkar J, Sayer G, Griffin JM, Masoumi A, et al. 
-Coronavirus disease 2019 (COVID-19) and cardiovascular disease. Circulation. 
-2020 Mar 21. [Epub ahead of print].
-2.	
-Ganatra S HS, Hammond SP, Nohria A. The novel coronavirus disease 
-(COVID-19) threat for patients with cardiovascular disease and cancer. JACC 
-CardioOncology. 2020 Mar. [Epub ahead of print].
-3.	
-Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the asymptomatic 
-proportion of coronavirus disease 2019 (COVID-19) cases on board the 
-Diamond Princess cruise ship, Yokohama, Japan, 2020. Euro Surveill. 
-2020;25(10):2000180.
-4.	
-Driggin E, Madhavan MV, Bikdeli B, Chuich T, Laracy J, Bondi-Zoccai G, et al. 
-Cardiovascular considerations for patients, health care workers, and health 
-systems during the coronavirus disease 2019 (COVID-19) pandemic. J Am Coll 
-Cardiol. 2020 Mar 18;pii: S0735-1097(20)34637-4.
-5.	
-Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early transmission dynamics 
-in Wuhan, China, of novel coronavirus-infected pneumonia. N Engl J Med. 
-2020;382(13):1199-207.
-6.	
-Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et al. Substantial undocumented 
-infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2). 
-Science. 2020 Mar 16;pii:eabb3221. [Epub ahead of print].
-7.	
-Brasil.Ministério da Saúde. Secretaria de Vigilância em Saúde. Boletim 
-Epidemiológico 7 – COE Coronavírus – 06 de abril de 2020. Brasília (DF);2020.
- 8.	 Wu Z, McGoogan JM. Characteristics of and important lessons from the 
-coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report 
-of 72314 cases from the Chinese Center for Disease Control and Prevention. 
-JAMA. 2020 Feb 24. [Epub ahead of print].
-9.	
-Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical characteristics of 138 
-hospitalized patients with 2019 novel coronavirus-infected pneumonia in 
-Wuhan, China. JAMA. 2020 Feb 7. [Epub ahead of print].
-10.	 Guo T, Fan Y, Chen M, Wu X, Zhang L, He T, et al. Cardiovascular implications 
-of fatal outcomes of patients with coronavirus disease 2019 (COVID-19). JAMA 
-Cardiol. 2020 Mar 27. [Epub ahead of print].
-11.	 Shi S, Qin M, Shen B, Cai Y, Liu T, Yang F, et al. Association of cardiac injury with 
-mortality in hospitalized patients with COVID-19 in Wuhan, China. JAMA 
-Cardiol. 2020 Mar 25. [Epub ahead of print].
-12.	 Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for 
-mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective 
-cohort study. Lancet. 2020;395(10229):1054-62.
-13.	 Xiong TY, Redwood S, Prendergast B, Chen M. Coronaviruses and the 
-cardiovascular system: acute and long-term implications. Eur Heart J. 2020 Mar 
-18;pii:ehaa231. [Epub ahead of print].
-14.	 Hu H, Ma F, Wei X, Fang Y. Coronavirus fulminant myocarditis saved 
-with glucocorticoid and human immunoglobulin. Eur Heart J. 2020 Mar 
-16;pii:ehaa190. [Epub ahead of print].
-References
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
-15.	 Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular 
-system. Nat Rev Cardiol. 2020 Mar 5. [Epub ahead of print].
-16.	 Lippi G, Lavie CJ, Sanchis-Gomar F. Cardiac troponin I in patients with 
-coronavirus disease 2019 (COVID-19): evidence from a meta-analysis. 
-Prog Cardiovasc Dis. 2020 Mar 10;pii:S0033-0620(20)30055-4. [Epub 
-ahead of print].
-17.	 Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of 
-patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 
-2020;395(10223):497-506.
-18.	 Chen C, Zhou Y, Wang DW. SARS-CoV-2: a potential novel etiology of 
-fulminant myocarditis. Herz. 2020 Mar 5. [Epub ahead of print].
-19.	 Inciardi RM, Lupi L, Zaccone G, Italia L, Raffo M, Tomasoni D, et al. Cardiac 
-involvement in a patient with coronavirus disease 2019 (COVID-19). JAMA 
-Cardiol. 2020 Mar 27. [Epub ahead of print].
-20.	 da Silva Costa IBS, Figueiredo CS, Fonseca SMR, Bittar CS, de Carvalho Silva 
-CMD, Rizk SI, et al. Takotsubo syndrome: an overview of pathophysiology, 
-diagnosis and treatment with emphasis on cancer patients. Heart Fail Rev. 
-2019;24(6):833-46.
-21.	 Madjid M, Safavi-Naeini P, Solomon SD, Vardeny O. Potential effects of 
-coronaviruses on the cardiovascular system: a review. JAMA Cardiol. 2020 
-Mar 27. [Epub ahead of print].
-22.	 Xu X, Chen P, Wang J, Feng J, Zhou H, Li X, et al. Evolution of the 
-novel coronavirus from the ongoing Wuhan outbreak and modeling 
-of its spike protein for risk of human transmission. Sci China Life Sci. 
-2020;63(3):457-60.
-23.	 Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, et al. A pneumonia 
-outbreak associated with a new coronavirus of probable bat origin. Nature. 
-2020;579(7798):270-3.
-24.	 Liu Z, Xiao X, Wei X, Li J, Yang J, Tan H, et al. Composition and divergence 
-of coronavirus spike proteins and host ACE2 receptors predict potential 
-intermediate hosts of SARS-CoV-2. J Med Virol. 2020 Feb 26. [Epub 
-ahead of print].
-25.	 Vaduganathan M, Vardeny O, Michel T, McMurray JJV, Pfeffer MA, 
-Solomon SD. Renin-Angiotensin-Aldosterone System inhibitors in patients 
-with Covid-19. N Engl J Med. 2020 Mar 30. [Epub ahead of print].
-26.	 Rice GI, Thomas DA, Grant PJ, Turner AJ, Hooper NM. Evaluation of 
-angiotensin-converting enzyme (ACE), its homologue ACE2 and neprilysin 
-in angiotensin peptide metabolism. Biochem J. 2004;383(Pt 1):45-51.
-27.	 Sociedade Brasileira de Cardiologia. SBC Informa. Infecção pelo 
-Coronavírus 2019 (COVID-19); 2020. [Citado 18 mar. 2020]. Disponível 
-em: http://www.cardiol.br/sbcinforma/2020/20200315-comunicado-
-coronavirus.html.
-28.	 American College of Cardiology. ACC Clinical Bulletin COVID-19 Clinical 
-Guidance For the Cardiovascular Care Team; 2020.
-29.	 Zhang JJ, Dong X, Cao YY, Yuan YD, Yang YB, Yan YQ, et al. Clinical 
-characteristics of 140 patients infected with SARS-CoV-2 in Wuhan, China. 
-Allergy. 2020 Feb 19. [Epub ahead of print].
-30.	 Wang Z, Yang B, Li Q, Wen L, Zhang R. Clinical features of 69 cases with 
-coronavirus disease 2019 in Wuhan, China. Clin Infect Dis. 2020 Mar 
-16;pii:ciaa272. [Epub ahead of print].
-31.	 Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and 
-clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia 
-in Wuhan, China: a descriptive study. Lancet. 2020;395(10223):507-13.
-32.	 Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, et al. Clinical 
-characteristics of coronavirus disease 2019 in China. N Engl J Med. 2020 
-Feb 28. [Epub ahead of print].
-33.	 Chinese Center for Disease Control and Prevention. The epidemiological 
-characteristics of an outbreak of 2019 novel coronavirus diseases 
-(COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi. 
-2020;41(2):145-51.
-34.	 Feng RM, Zong YN, Cao SM, Xu RH. Current cancer situation in China: good 
-or bad news from the 2018 Global Cancer Statistics? Cancer Commun (Lond). 
-2019;39(1):22.
-35.	 Liang W, Guan W, Chen R, Wang W, Li J, Xu K, et al. Cancer patients in 
-SARS-CoV-2 infection: a nationwide analysis in China. Lancet Oncol. 
-2020;21(3):335-7.
-36.	 American College of Cardiology. Cardiology Magazine. Ventricular arrhythmia 
-risk due to hydroxychloroquine-azithromycin treatment for COVID-19; 
-2020. [Cited in 2020 Mar 20]  Available from: https://www.acc.org/latest-in-
-cardiology/articles/2020/03/27/14/00/ventricular-arrhythmia-risk-due-to-
-hydroxychloroquine-azithromycin-treatment-for-covid-19) 
-37.	 Yang F, Wang J, Li W, Xu Y, Wan K, Zeng R, et al. The prognostic value of late 
-gadolinium enhancement in myocarditis and clinically suspected myocarditis: 
-systematic review and meta-analysis. Eur Radiol. 2020 Feb 10. [Epub ahead 
-of print].
-38.	 Aquaro GD, Perfetti M, Camastra G, Monti L, Dellegrottaglie S, Moro C, 
-et al. Cardiac MR with late gadolinium enhancement in acute myocarditis 
-with preserved systolic function: ITAMY study. J Am Coll Cardiol. 
-2017;70(16):1977-87.
-39.	 Inciardi RM, Lupi L, Zaccone G, Italia L, Raffo M, Tomasoni D, et al. Cardiac 
-involvement in a patient with coronavirus disease (COVID-19). JAMA Cardiol. 
-2020 Mar 27. [Epub ahead of print].
-40.	 Zhang H, Penninger JM, Li Y, Zhong N, Slutsky AS. Angiotensin-converting 
-enzyme 2 (ACE2) as a SARS-CoV-2 receptor: molecular mechanisms and 
-potential therapeutic target. Intensive Care Med. 2020;46(4):586-90.
-41.	 Hosseiny M, Kooraki S, Gholamrezanezhad A, Reddy S, Myers L. Radiology 
-perspective of coronavirus disease 2019 (COVID-19): lessons from severe 
-acute respiratory syndrome and middle east respiratory syndrome. AJR Am J 
-Roentgenol. 2020 Feb 28:1-5. [Epub ahead of print].
-42.	 ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, 
-Ferguson ND, Caldwell E, et al. Acute respiratory distress syndrome: the Berlin 
-definition. JAMA. 2012;307(23):2526-33.
-43.	 Gage A, Higgins A, Lee R, Panhwar MS, Kalra A. Reacquainting cardiology with 
-mechanical ventilation in response to the COVID-19 pandemic. JACC Case 
-Rep. 2020 Mar 23. [Epub ahead of print].
-44.	 McIntyre WF, Um KJ, Alhazzani W, Lengyel AP, Hajjar L, Gordon AC, et al. 
-Association of vasopressin plus catecholamine vasopressors vs catecholamines 
-alone with atrial fibrillation in patients with distributive shock: a systematic 
-review and meta-analysis. JAMA. 2018;319(18):1889-900.
-45.	 Munshi L, Walkey A, Goligher E, Pham T, Uleryk EM, Fan E. Venovenous 
-extracorporeal membrane oxygenation for acute respiratory distress 
-syndrome: a systematic review and meta-analysis. Lancet Respir Med. 
-2019;7(2):163-72.
-46.	 Brodie D, Bacchetta M. Extracorporeal membrane oxygenation for ARDS in 
-adults. N Engl J Med. 2011;365(20):1905-14.
-47.	 Brodie D, Slutsky AS, Combes A. Extracorporeal life support for adults with 
-respiratory failure and related indications: a review. JAMA. 2019;322(6):557-
-68.
-48.	 Pozzi M, Banfi C, Grinberg D, Koffel C, Bendjelid K, Robin J, et al. Veno-
-arterial extracorporeal membrane oxygenation for cardiogenic shock due to 
-myocarditis in adult patients. J Thorac Dis. 2016;8(7):E495-502.
-49.	 Fan E, Del Sorbo L, Goligher EC, Hodgson CL, Munshi L, Walkey AJ, et al. 
-An Official American Thoracic Society/European Society of Intensive Care 
-Medicine/Society of Critical Care Medicine Clinical Practice Guideline: 
-mechanical ventilation in adult patients with acute respiratory distress 
-syndrome. Am J Respir Crit Care Med. 2017;195(9):1253-63.
-50.	 Rubin EJ, Baden LR, Morrissey S. Audio interview: new research on possible 
-treatments for Covid-19. N Engl J Med. 2020;382(12):e30.
-51.	 Colson P, Rolain JM, Lagier JC, Brouqui P, Raoult D. Chloroquine and 
-hydroxychloroquine as available weapons to fight COVID-19. Int J Antimicrob 
-Agents. 2020:105932.
-Review Article
-Costa et al.
-The heart and COVID-19
-Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0
-This is an open-access article distributed under the terms of the Creative Commons Attribution License
-52.	 Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Mailhe M, et al. 
-Hydroxychloroquine and azithromycin as a treatment of COVID-19: results 
-of an open-label non-randomized clinical trial. Int J Antimicrob Agents. 2020 
-Mar 20:105949. [Epub ahead of print].
-53.	 Guastalegname M, Vallone A. Could chloroquine /hydroxychloroquine be 
-harmful in Coronavirus Disease 2019 (COVID-19) treatment? Clin Infect Dis. 
-2020 Mar 24;pii: ciaa321. [Epub ahead of print].
-54.	 Cortegiani A, Ingoglia G, Ippolito M, Giarratano A, Einav S. A systematic review 
-on the efficacy and safety of chloroquine for the treatment of COVID-19. J Crit 
-Care. 2020 Mar 10;pii:S0883-9441(20)30390-7. [Epub ahead of print].
-55.	 Chen Z, Hu J, Zhang Z, Jiang S, Han S, Yan D, et al. Efficacy of hydroxychloroquine 
-in patients with COVID-19: results of a randomized clinical trial. medRxiv [Cited 
-in 2020 Mar 18].Available from:: https://www.medrxiv.org/content/10.1101/2
-020.03.22.20040758v3. 
-56.	 Guimaraes HP, Timerman S, Correa T, Rodrigues RR, Freitas AP, Rea Neto 
-A, Hajjar LA, Bacal F, Queiroga M; Sociedade Brasileira de Cardiologia 
-(SBC), Associação Brasileira de Emergência (ABRAMEDE), Associação de 
-Medicina Intensiva Brasileira (AMIB). Recomendações para Ressuscitação 
-Cardiopulmonar (RCP) de pacientes com diagnóstico ou suspeita de COVID-19. 
-Associação Brasileira de Medicina de Emergência (ABRAMEDE), Associação 
-de Medicina Intensiva Brasileira (AMIB), Sociedade Brasileira de Cardiologia 
-(SBC); 2020.[Citado em 30 março 2020 ].  Disponível em: portal.cardiol.br/
-post/recomendacoes-psrs-ressuscitacao-cardiopulmonar-de-pacientes-c0m-
-diagnostico-ou-suspeita-de-Covid-19
-57.	 Bernoche C, Timerman S, Polastri TF, Giannetti NS, Siqueira AWS, Piscopo A, 
-et al. Atualização da Diretriz de Ressuscitação Cardiopulmonar e Cuidados 
-Cardiovasculares de Emergência da Sociedade Brasileira de Cardiologia - 2019. 
-Arq Bras Cardiol. 2019;113(3):449-663.
-58.	 Resuscitation Council UK. Guidance for the resuscitation of COVID-19 patients 
-in hospital settings [Internet]. London; 2020 [Cited in 2020 Mar 18] Available 
-from: http://resusorguk.
-59.	 Cheung JC, Ho LT, Cheng JV, Cham EYK, Lam KN. Staff safety during 
-emergency airway management for COVID-19 in Hong Kong. Lancet Respir 
-Med. 2020;8(4):e19.
-60.	 Chang, Xu H, Rebaza A, Sharma L, Dela Cruz CS. Protecting health-care 
-workers from subclinical coronavirus infection. Lancet Respir Med. 
-2020;8(3):e13.
-61.	 Wax RS, Christian MD. Practical recommendations for critical care and 
-anesthesiology teams caring for novel coronavirus (2019-nCoV) patients. 
-Can J Anaesth. 2020 Feb 12. [Epub ahead of print].
-62.	 Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol generating 
-procedures and risk of transmission of acute respiratory infections to 
-healthcare workers: a systematic review. PLoS One. 2012;7(4):e35797.
-63.	 Libby P, Simon DI. Inflammation and thrombosis: the clot thickens. 
-Circulation. 2001;103(13):1718-20.
-64.	 Welt FGP, Shah PB, Aronow HD, Bortnick AE, Henry TD, Sherwood MW, 
-et al. Catheterization laboratory considerations during the coronavirus 
-(COVID-19) pandemic: from ACC’s Interventional Council and SCAI. 
-J Am Coll Cardiol. 2020 Mar 16;pii:S0735-1097(20)34566-6. [Epub 
-ahead of print].
-65.	 Smith AC, Thomas E, Snoswell CL, Haydon H, Mehrotra A, Clemensen J, et 
-al. Telehealth for global emergencies: implications for coronavirus disease 
-2019 (COVID-19). J Telemed Telecare. 2020 Mar 20:1357633X20916567. 
-[Epub ahead of print].
-66.	 Lopes MACQ, Oliveira GMM, Ribeiro ALP, Pinto FJ, Rey HCV, Zimerman 
-LI, et al. Guideline of the Brazilian Society of Cardiology on Telemedicine in 
-Cardiology - 2019. Arq Bras Cardiol. 2019;113(5):1006-56.
-67.	 Conselho Federal de Medicina. Ofício CFM Nº 1756/2020 – COJUR, 
-de 19 de março de 2020. [Citado em 30 de março de 2020]. Disponível 
-em: portal.cfm.org.br/images/PDF/2020_oficio_telemedicina.pdf

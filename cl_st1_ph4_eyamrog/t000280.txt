@@ -1,8 +1,3 @@
-Monitoring the number of COVID-19 cases and deaths in Brazil at municipal and
-federative units level
-Wesley Cota
-∗
-Departamento de F´ısica, Universidade Federal de Vi¸cosa, 36570-900 Vi¸cosa, Minas Gerais, Brazil
 We present a dataset containing the reported number of COVID-19 cases and deaths at municipal
 and federative units level in Brazil. Data is aggregated daily from oﬃcial sources with the most
 updated numbers, providing a reliable, free and simple resource for researchers, health authorities
@@ -10,6 +5,7 @@ and general public. Interactive pages in English and Portuguese are available, c
 graphs and tables with all the data.
 Data about recovered, suspected and tests made are also
 available for most federative units.
+
 An outbreak of the coronavirus disease 2019 (COVID-
 19) was identiﬁed in Wuhan,
 China,
@@ -35,6 +31,7 @@ of COVID-19 in Brazil by using oﬃcial data from each
 federative unit reports.
 These reports contain data at
 municipal level for both the number of cases and deaths.
+
 The
 page
 [https://covid19br.wcota.me/en]
@@ -63,6 +60,7 @@ conﬁrm the case numbers with the oﬃcial sources cited
 by the data streams. Data is also available for the number
 of recovered, suspects and tests made in each federative
 unit, when available.
+
 In Fig. 1 we present the comparison between the num-
 ber of reported cases by Minist´erio da Sa´ude and the
 ones aggregated in this dataset. Oﬃcial data from the
@@ -79,9 +77,11 @@ In
 addition, we also provide georeferenced data at munici-
 pal level, allowing the visualization of the cases in a map
 such as the one presented in Fig. 3.
+
 We believe our dataset can help eﬀorts for modeling,
 tracking and controlling the current outbreak situation
 in Brazil, and we plan to continue updating this dataset.
+
 We thank Carlos Achy (@coronavirusbra1), ´Alvaro
 Justen and all volunteers of Brasil.IO project for data
 contribution.
@@ -91,10 +91,10 @@ Calpena Rodrigues, Lucas Bil´o and Silvio C. Ferreira for
 useful discussions. This study was ﬁnanced in part by
 the Coordena¸c˜ao de Aperfei¸coamento de Pessoal de N´ıvel
 Superior – Brasil (Capes) – Finance Code 001.
-A.
-Aggregation method and sources
+
 This dataset aggregates data from at least three main
 sources:
+
 1. Minist´erio da Sa´ude (MS) [https://covid.
 saude.gov.br/]:
 Oﬃcial page of the Brazilian
@@ -102,509 +102,16 @@ Ministry of Health that updates the number of
 cases per federative unit once a day. Only the num-
 ber of cases and deaths for each federative unit are
 used.
+
 2. Brasil.IO
 (IO)
 [https://brasil.io/dataset/
 covid19/caso/]: Data compiled daily from the of-
 ﬁcial epidemiological bulletins of each federative
-2
-Feb 25 Feb 26 Feb 27 Feb 28 Feb 29 Mar 01 Mar 02 Mar 03 Mar 04 Mar 05 Mar 06 Mar 07 Mar 08 Mar 09 Mar 10 Mar 11 Mar 12
-.
-0
-50
-.
-1
-1
-1
-2
-2
-2
-2
-2
-3
-7
-14
-19
-25
-25
-34
-53
-89
-0
-1
-1
-1
-2
-2
-2
-2
-3
-7
-13
-19
-25
-25
-34
-52
-77
-1
-1
-1
-2
-2
-2
-2
-2
-3
-7
-14
-19
-25
-25
-34
-53
-89
-0
-1
-1
-1
-2
-2
-2
-2
-3
-7
-13
-19
-25
-25
-34
-52
-77
-Mar 13 Mar 14 Mar 15 Mar 16 Mar 17 Mar 18 Mar 19 Mar 20 Mar 21 Mar 22 Mar 23 Mar 24 Mar 25 Mar 26 Mar 27 Mar 28 Mar 29 Mar 30
-.
-0
-2000
-4000
-.
-106
-142
-225
-279
-333
-514
-639
-972
-1197
-1594
-1952
-2255
-2566
-2990
-3476
-3955
-4313
-4663
-98
-121
-200
-234
-291
-428
-621
-904
-1128
-1546
-1891
-2201
-2433
-2915
-3417
-3903
-4256
-4579
-106
-142
-225
-279
-333
-514
-639
-972
-1197
-1594
-1952
-2255
-2566
-2990
-3476
-3955
-4313
-4663
-98
-121
-200
-234
-291
-428
-621
-904
-1128
-1546
-1891
-2201
-2433
-2915
-3417
-3903
-4256
-4579
-Mar 31 Apr 01 Apr 02 Apr 03 Apr 04 Apr 05 Apr 06 Apr 07 Apr 08 Apr 09 Apr 10 Apr 11 Apr 12 Apr 13 Apr 14 Apr 15 Apr 16 Apr 17
-.
-0
-20000
-.
-5824
-6931
-8100
-9212
-10378
-11424
-12262
-14083
-16258
-18195
-19937
-20992
-22456
-23868
-25777
-29017
-31101
-34397
-5717
-6836
-7910
-9056
-10278
-11130
-12056
-13717
-15927
-17857
-19638
-20727
-22169
-23430
-25262
-28320
-30425
-33682
-5824
-6931
-8100
-9212
-10378
-11424
-12262
-14083
-16258
-18195
-19937
-20992
-22456
-23868
-25777
-29017
-31101
-34397
-5717
-6836
-7910
-9056
-10278
-11130
-12056
-13717
-15927
-17857
-19638
-20727
-22169
-23430
-25262
-28320
-30425
-33682
-Apr 18 Apr 19 Apr 20 Apr 21 Apr 22 Apr 23 Apr 24 Apr 25 Apr 26 Apr 27 Apr 28 Apr 29 Apr 30 May 01 May 02 May 03 May 04 May 05
-.
-0
-50000
-100000
-.
-37175
-39197
-40937
-43679
-46423
-50298
-54209
-59507
-63222
-67367
-73600
-79799
-87126
-92665
-97580
-102023
-109005
-116257
-36599
-38654
-40581
-43079
-45757
-49492
-52995
-58509
-61888
-66501
-71886
-78162
-85380
-91589
-96559
-101147
-107780
-114715
-37175
-39197
-40937
-43679
-46423
-50298
-54209
-59507
-63222
-67367
-73600
-79799
-87126
-92665
-97580
-102023
-109005
-116257
-36599
-38654
-40581
-43079
-45757
-49492
-52995
-58509
-61888
-66501
-71886
-78162
-85380
-91589
-96559
-101147
-107780
-114715
-Reported date
-Number of confirmed cases
-Ministério da Saúde
-Our dataset
-FIG. 1. Comparison between the number of cases reported oﬃcially by Minist´erio da Sa´ude and the ones aggregated in our
-dataset for each day.
-0
-250
-500
-750
-Acre
-(AC)
-0
-500
-1000
-1500
-Alagoas
-(AL)
-0
-2500
-5000
-7500
-Amazonas
-(AM)
-0
-1000
-2000
-Amapá
-(AP)
-0
-2000
-4000
-Bahia
-(BA)
-0
-5000
-10000
-Ceará
-(CE)
-0
-1000
-Distrito Federal
-(DF)
-0
-1000
-2000
-3000
-Espírito Santo
-(ES)
-0
-500
-Goiás
-(GO)
-0
-2000
-4000
-Maranhão
-(MA)
-0
-1000
-2000
-Minas Gerais
-(MG)
-0
-100
-200
-Mato Grosso
-do Sul
-(MS)
-0
-200
-Mato Grosso
-(MT)
-0
-2000
-4000
-Pará
-(PA)
-0
-500
-1000
-1500
-Paraíba
-(PB)
-0
-5000
-Pernambuco
-(PE)
-0
-500
-Piauí
-(PI)
-0
-500
-1000
-1500
-Paraná
-(PR)
-0
-5000
-10000
-Rio de Janeiro
-(RJ)
-0
-500
-1000
-1500
-Rio Grande
-do Norte
-(RN)
-0
-250
-500
-750
-Rondônia
-(RO)
-Mar 03
-Mar 24
-Apr 14
-May 05
-.
-0
-250
-500
-750
-.
-Roraima
-(RR)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-1000
-2000
-Rio Grande
-do Sul
-(RS)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-1000
-2000
-Santa Catarina
-(SC)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-250
-500
-750
-Sergipe
-(SE)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-10000
-20000
-30000
-São Paulo
-(SP)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-100
-200
-300
-Tocantins
-(TO)
-Reported date
-Number of confirmed cases
-Ministério da
-Saúde
-Our dataset
-FIG. 2. Temporal evolution of the total number of conﬁrmed cases for each Brazilian federative unit (Federal District + 26
-states) for the oﬃcial data by Minist´erio da Sa´ude and our dataset.
-3
-FIG. 3. Spatial distribution of the conﬁrmed cases for each
-municipality in Brazil accumulated until April 28, 2020. Cir-
-cles increase proportionally with the number of cases.
 unit. This data is available at municipal level, con-
 taining the number of cases and deaths for each
 municipality.
+
 3. @coronavirusbra1
 (TW)
 [https://twitter.
@@ -627,6 +134,7 @@ The data comes from a Google Sheet
 [https://docs.google.com/spreadsheets/d/
 1MWQE3s4ef6dxJosyqvsFaV4fDyElxnBUB6gMGvs3rEc/
 edit?usp=sharing].
+
 We denote the set of the number of cases (deaths)
 for
 each
@@ -653,8 +161,7 @@ sources have not yet reported those cases. For the num-
 ber of recovered and suspected cases, and of tests made,
 we use the TW dataset historical data, that is available
 for most of the federative units.
-B.
-Description of the data
+
 The full dataset is available in CSV format at a GitHub
 repository [https://github.com/wcota/covid19br]. It
 is freely available by the Creative Commons Attribution
@@ -666,8 +173,7 @@ and Portuguese [https://covid19br.wcota.me/]. The
 stituto Brasileiro de Pesquisas Estat´ısticas (IBGE) [4] is
 used to compute the number of cases and deaths per
 100 000 inhabitants.
-1.
-Temporal evolution at municipal level
+
 This
 data
 is
@@ -682,46 +188,53 @@ the
 temporal evolution for the number of cases and deaths
 for each municipality with at least one reported case in
 Brazil. The following columns are available:
+
 • date: reported date, in YYYY-MM-DD format,
+
 • country:
 country of the data, which is always
 “Brazil”,
+
 • state: short name of the federative unit (UF), or
 “TOTAL” when referring to the whole country,
+
 • city: full name of the municipality in City/UF
 format. It can be “CASO SEM LOCALIZAC¸ ˜AO
 DEFINIDA/UF”2, referring to those cases in the
 federative unit that does not have its municipality
 deﬁned,
+
 • ibgeID: unique ID for the municipality provided
 by the Instituto Brasileiro de Pesquisas Estat´ısticas
 (IBGE) [4],
+
 • newDeaths:
 diﬀerence between the number of
 deaths of the corresponding date and the previous
 one,
+
 • deaths:
 accumulated number of deaths in that
 date,
+
 • newCases: diﬀerence between the number of cases
 of the corresponding date and the previous one,
+
 • totalCases: accumulated number of cases in that
 date,
+
 • deaths_per_100k_inhabitants:
 number
 of
 deaths per 100 000 inhabitants for that location,
+
 • totalCases_per_100k_inhabitants:
 number of
 cases per 100 000 inhabitants for that location,
-2 Translation: case without a deﬁned location.
-It also includes
-cases of people living outside that federative unit.
-4
+
 • deaths_by_totalCases: ratio between the num-
 ber of deaths and cases.
-2.
-Temporal evolution at federative unit level
+
 This
 data
 is
@@ -739,51 +252,67 @@ recovered for each federative unit with at least one
 reported case in Brazil.
 The following columns are
 available:
+
 • date: reported date, in YYYY-MM-DD format,
+
 • country:
 country of the data, which is always
 “Brazil”,
+
 • state: short name of the federative unit (UF), or
 “TOTAL” when referring to the whole country,
+
 • city: in this ﬁle, it is always “TOTAL”,
+
 • newDeaths:
 diﬀerence between the number of
 deaths of the corresponding date and the previous
 one,
+
 • deaths:
 accumulated number of deaths in that
 date,
+
 • newCases: diﬀerence between the number of cases
 of the corresponding date and the previous one,
+
 • totalCases: accumulated number of cases in that
 date,
+
 • deathsMS: accumulated number of deaths in that
 date reported by the MS source,
+
 • totalCasesMS: accumulated number of cases in
 that date reported by the MS source,
+
 • deaths_per_100k_inhabitants:
 number
 of
 deaths per 100 000 inhabitants for that location,
+
 • totalCases_per_100k_inhabitants:
 number of
 cases per 100 000 inhabitants for that location,
+
 • deaths_by_totalCases: ratio between the num-
 ber of deaths and cases,
+
 • recovered:
 number of recovered individuals re-
 ported by the TW historical data. It is empty if
 no data is available,
+
 • suspects: number of suspect cases reported by the
 TW historical data. It is empty if no data is avail-
 able,
+
 • tests: number of tests made reported by the TW
 historical data. It is empty if no data is available,
+
 • tests_per_100k_inhabitants:
 number of tests
 per 100 000 inhabitants for that location.
-3.
-Accumulated number of cases at municipal level
+
 This
 data
 is
@@ -796,9 +325,7 @@ tion corresponding to the most recent date reported in
 the ﬁle cases-brazil-cities-time.csv. The columns
 are the same as in cases-brazil-cities-time.csv,
 except by date.
-4.
-Accumulated number of cases at federative unit
-level
+
 This
 data
 is
@@ -814,727 +341,40 @@ the same as in cases-brazil-state.csv, except by
 date. It also has an extra column notConfirmedByMS
 that computes the diﬀerence between totalCases and
 totalCasesMS.
-5.
-Geolocated auxiliary ﬁle
+
 This data is available in the ﬁle cases-gps.csv. It
 is an auxiliary ﬁle that provides the number of cases or
 deaths for each municipality, with GPS information ob-
 tained from the Nominatim API by OpenStreetMap. The
 columns are the following:
+
 • type: it can be “0” (case without municipality in-
 formation) and “1” (case with municipality infor-
 mation). The deaths are indicated by prepending
 the letter “D” to it,
+
 • name: name of the municipality, or “CASO SEM
 LOCALIZAC¸ ˜AO DEFINIDA/UF” when the mu-
 nicipality is not known.
+
 • lat: latitude information,
+
 • lon: longitude information,
+
 • total: total number of cases (or deaths) for that
 location,
+
 • total_per_100k_inhabitants: the total number
 per 100 000 inhabitants.
+
 An example of this data is shown in Fig. 3.
-6.
-Sources ﬁle
+
 This data is available in the ﬁle sources.csv. It con-
 tains the date of access (date) and URL (URL) for each
 reference used to compile the dataset.
-C.
-Extra plots: deaths, recovered and suspects
+
 The comparison between the reported number of
 deaths by MS and the ones in our dataset is shown in
 Fig. C.1. The number of deaths, recovered and suspects
 for each federative unit are shown in Figs. C.2, C.3 and
 C.4, respectively.
-5
-Mar 13 Mar 14 Mar 15 Mar 16 Mar 17 Mar 18 Mar 19 Mar 20 Mar 21 Mar 22 Mar 23 Mar 24 Mar 25 Mar 26 Mar 27 Mar 28 Mar 29 Mar 30
-.
-0
-50
-100
-150
-.
-0
-0
-0
-0
-1
-4
-7
-11
-18
-25
-34
-47
-59
-77
-93
-115
-137
-166
-0
-0
-0
-0
-1
-4
-6
-11
-18
-25
-34
-46
-57
-77
-92
-114
-136
-159
-0
-0
-0
-0
-1
-4
-7
-11
-18
-25
-34
-47
-59
-77
-93
-115
-137
-166
-0
-0
-0
-0
-1
-4
-6
-11
-18
-25
-34
-46
-57
-77
-92
-114
-136
-159
-Mar 31 Apr 01 Apr 02 Apr 03 Apr 04 Apr 05 Apr 06 Apr 07 Apr 08 Apr 09 Apr 10 Apr 11 Apr 12 Apr 13 Apr 14 Apr 15 Apr 16 Apr 17
-.
-0
-500
-1000
-1500
-2000
-.
-202
-244
-304
-365
-444
-497
-570
-691
-826
-959
-1073
-1141
-1237
-1356
-1557
-1760
-1962
-2173
-201
-240
-299
-359
-432
-486
-553
-667
-800
-941
-1056
-1124
-1223
-1328
-1532
-1736
-1924
-2141
-202
-244
-304
-365
-444
-497
-570
-691
-826
-959
-1073
-1141
-1237
-1356
-1557
-1760
-1962
-2173
-201
-240
-299
-359
-432
-486
-553
-667
-800
-941
-1056
-1124
-1223
-1328
-1532
-1736
-1924
-2141
-Apr 18 Apr 19 Apr 20 Apr 21 Apr 22 Apr 23 Apr 24 Apr 25 Apr 26 Apr 27 Apr 28 Apr 29 Apr 30 May 01 May 02 May 03 May 04 May 05
-.
-0
-2000
-4000
-6000
-.
-2375
-2491
-2598
-2772
-2941
-3349
-3722
-4074
-4301
-4606
-5094
-5537
-5980
-6439
-6810
-7077
-7381
-7966
-2347
-2462
-2575
-2741
-2906
-3313
-3670
-4016
-4205
-4543
-5017
-5466
-5901
-6329
-6750
-7025
-7321
-7921
-2375
-2491
-2598
-2772
-2941
-3349
-3722
-4074
-4301
-4606
-5094
-5537
-5980
-6439
-6810
-7077
-7381
-7966
-2347
-2462
-2575
-2741
-2906
-3313
-3670
-4016
-4205
-4543
-5017
-5466
-5901
-6329
-6750
-7025
-7321
-7921
-Reported date
-Number of deaths
-Ministério da Saúde
-Our dataset
-FIG. C.1. Comparison between the number of deaths reported oﬃcially by Minist´erio da Sa´ude and the ones aggregated in
-our dataset for each day.
-0
-10
-20
-30
-Acre
-(AC)
-0
-25
-50
-75
-Alagoas
-(AL)
-0
-200
-400
-600
-Amazonas
-(AM)
-0
-20
-40
-Amapá
-(AP)
-0
-50
-100
-150
-Bahia
-(BA)
-0
-250
-500
-750
-Ceará
-(CE)
-0
-10
-20
-30
-Distrito Federal
-(DF)
-0
-50
-100
-Espírito Santo
-(ES)
-0
-20
-Goiás
-(GO)
-0
-100
-200
-300
-Maranhão
-(MA)
-0
-50
-Minas Gerais
-(MG)
-0
-5
-10
-Mato Grosso
-do Sul
-(MS)
-0
-5
-10
-Mato Grosso
-(MT)
-0
-200
-Pará
-(PA)
-0
-50
-Paraíba
-(PB)
-0
-250
-500
-750
-Pernambuco
-(PE)
-0
-10
-20
-30
-Piauí
-(PI)
-0
-50
-100
-Paraná
-(PR)
-0
-500
-1000
-Rio de Janeiro
-(RJ)
-0
-20
-40
-60
-Rio Grande
-do Norte
-(RN)
-0
-10
-20
-30
-Rondônia
-(RO)
-Mar 03
-Mar 24
-Apr 14
-May 05
-.
-0
-5
-10
-.
-Roraima
-(RR)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-25
-50
-75
-Rio Grande
-do Sul
-(RS)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-20
-40
-60
-Santa Catarina
-(SC)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-10
-20
-Sergipe
-(SE)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-1000
-2000
-São Paulo
-(SP)
-Mar 03
-Mar 24
-Apr 14
-May 05
-0
-2
-4
-6
-Tocantins
-(TO)
-Reported date
-Number of deaths
-Ministério da
-Saúde
-Our dataset
-FIG. C.2. Temporal evolution of the total number of conﬁrmed deaths for each Brazilian federative unit (Federal District +
-26 states) for the oﬃcial data by Minist´erio da Sa´ude and our dataset.
-6
-0
-100
-200
-AC
-0
-200
-AL
-0
-1000
-2000
-AM
-0
-200
-400
-AP
-0
-250
-500
-750
-BA
-100
-150
-CE
-0
-500
-1000
-DF
-0
-500
-1000
-ES
-GO
-0
-500
-1000
-MA
-MG
-0
-50
-100
-150
-MS
-100
-200
-MT
-1000
-2000
-PA
-0
-100
-200
-300
-PB
-0
-500
-1000
-PE
-0
-50
-100
-150
-PI
-0
-500
-1000
-PR
-0
-2000
-4000
-6000
-RJ
-0
-200
-400
-RN
-50
-100
-150
-RO
-Mar 31
-Apr 14
-Apr 28
-.
-0
-100
-.
-RR
-Mar 31
-Apr 14
-Apr 28
-0
-500
-1000
-RS
-Mar 31
-Apr 14
-Apr 28
-SC
-Mar 31
-Apr 14
-Apr 28
-20
-40
-60
-80
-SE
-Mar 31
-Apr 14
-Apr 28
-0
-500
-1000
-1500
-SP
-Mar 31
-Apr 14
-Apr 28
-20
-30
-40
-TO
-Reported date
-Number of recovered
-Recovered
-FIG. C.3. Temporal evolution of the total number of recovered cases for each Brazilian federative unit (Federal District + 26
-states) for the oﬃcial data by Minist´erio da Sa´ude and our dataset. There is no data available for GO, MG and SC, while for
-SP it was not recently updated.
-250
-500
-750
-AC
-500
-1000
-AL
-500
-1000
-1500
-AM
-1000
-2000
-AP
-0
-1000
-2000
-3000
-BA
-10000
-20000
-CE
-80
-100
-120
-140
-DF
-1000
-1500
-ES
-2500
-5000
-7500
-10000
-GO
-0
-5000
-MA
-25000
-50000
-75000
-MG
-20
-40
-60
-MS
-100
-200
-300
-MT
-200
-400
-600
-PA
-500
-1000
-PB
-1150
-1200
-1250
-PE
-100
-200
-300
-PI
-0
-1000
-2000
-3000
-PR
-4400
-4600
-RJ
-2000
-4000
-RN
-0
-100
-200
-300
-RO
-Mar 31
-Apr 14
-Apr 28
-.
-0
-50
-100
-150
-.
-RR
-Mar 31
-Apr 14
-Apr 28
-200
-300
-400
-RS
-Mar 31
-Apr 14
-Apr 28
-200
-400
-600
-SC
-Mar 31
-Apr 14
-Apr 28
-SE
-Mar 31
-Apr 14
-Apr 28
-25000
-50000
-75000
-SP
-Mar 31
-Apr 14
-Apr 28
-TO
-Reported date
-Number of suspected cases
-Suspected
-FIG. C.4. Temporal evolution of the total number of suspect cases for each Brazilian federative unit (Federal District + 26
-states) for the oﬃcial data by Minist´erio da Sa´ude and our dataset. There is no data available for SE and TO.
-7
-[1] WHO, “Novel coronavirus – China,” (2020), [Online; ac-
-cessed 29-April-2020].
-[2] WHO, “Coronavirus disease 2019 (COVID-19): Situation
-Report – 99,” (2020), [Online; accessed 29-April-2020].
-[3] Brazil, “Brasil conﬁrma primeiro caso do novo coronav´ırus
-(Brazil conﬁrms the ﬁrst case of the novel coronavirus),”
-(2020), [Online; accessed 29-April-2020].
-[4] Instituto Brasileiro de Geograﬁa e Estat´ıstica (IBGE),
-“Estimativas da popula¸c˜ao residente para os munic´ıpios
-e para as unidades da federa¸c˜ao brasileiros com data de
-referˆencia em 1o de julho de 2019,” (2019).

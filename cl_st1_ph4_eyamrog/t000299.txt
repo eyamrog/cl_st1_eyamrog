@@ -1,96 +1,30 @@
-Status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/pboci.2020.070
-The Novel Coronavirus: An Alert for Pacifiers’ Disinfection
-Vívian Gonçalves Carvalho  Souza, Danielle Fernandes Lopes, Fernanda Campos Machado,
-Rodrigo Luiz Fabri, Ana Carolina Morais Apolônio
-https://doi.org/10.1590/pboci.2020.070
-Submitted on: 2020-04-24
-Posted on: 2020-04-24 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
-Pesquisa Brasileira em Odontopediatria e Clínica Integrada 2020; 20:e0071 
-https://doi.org/10.1590/pboci.2020.070 
- 
-ISSN 1519-0501 / eISSN 1983-4632 
- 
-     Association of Support to Oral Health Research - APESB 
-1 
- SYSTEMATIC REVIEW 
- 
- 
-The Novel Coronavirus: An Alert for Pacifiers’ Disinfection 
- 
- 
- 
- 
-Vívian Gonçalves Carvalho Souza1 , Danielle Fernandes Lopes1 , Fernanda Campos Machado1 , 
-Rodrigo Luiz Fabri2 , Ana Carolina Morais Apolônio1,2  
- 
- 
- 
- 
-1School of Dentistry, Federal University of Juiz de Fora, Juiz de Fora, MG, Brazil. 
-2Department of Parasitology, Microbiology and Immunology, Institute of Biological Sciences, Federal University of Juiz 
-de Fora, Juiz de Fora, MG, Brazil. 
-  
- 
- 
- 
-Author to whom correspondence should be addressed: Ana Carolina Morais Apolônio, Department of Parasitology, 
-Microbiology and Immunology, Institute of Biological Sciences, Federal University of Juiz de Fora, Juiz de Fora, MG, 
-Brazil. 36036-900. Phone: +55 32 21023213. E-mail: carolina.apolonio@ufjf.edu.br. 
- 
- 
- 
-Academic Editors: Alessandro Leite Cavalcanti and Wilton Wilney Nascimento Padilha 
- 
- 
-Received: 11 April 2020 / Accepted: 15 April 2020 / Published: 16 April 2020 
- 
- 
-How to cite this article: Souza VGC, Lopes DF, Machado FC, Fabri RL, Apolônio ACM. The novel coronavirus: an alert 
-for 
-pacifiers’ 
-disinfection. 
-Pesqui 
-Bras 
-Odontopediatria 
-Clín 
-Integr. 
-2020; 
-20:e0071. 
-https://doi.org/10.1590/pboci.2020.070 
- 
- 
-Abstract 
-Objective: To evaluate the best strategy for pacifier disinfection methods. Material and Methods: The 
+Objective: To evaluate the best strategy for pacifier disinfection methods. 
+
+Material and Methods: The 
 literature search was conducted on MEDLINE/PubMed, Scielo, Lilacs, Web of Science, and Scopus 
 databases to find all relevant articles published over the past 20 years, based on PRISMA guidelines. Two 
 reviewers extracted data independently by using a standardized form. The following factors were recorded: 
 country of study, type of study, pacifier material, sample number, microorganisms analyzed, 
-decontamination methods used, method accessibility and results found. Results: A total of 121 articles were 
+decontamination methods used, method accessibility and results found. 
+
+Results: A total of 121 articles were 
 obtained from all databases. The selected documents underwent a final screening, resulting in 8 articles. 
 The method of disinfection analyzed by the literature were: 3.5% neutral detergent, apple cider vinegar 70% 
 spray, boiling water during 15 minutes, sodium hypochlorite 2.5, hydrogen peroxide 70% spray, 
-chlorhexidine 0.12%, Brushtox®, sterile water and microwave. Conclusion: Because of the broad methods 
+chlorhexidine 0.12%, Brushtox®, sterile water and microwave. 
+
+Conclusion: Because of the broad methods 
 for pacifier disinfection and different levels of accessibility to disinfectant agents, the pacifier consensus for 
 decontamination remains unclear. Although the disinfection methods are diverse, the methods suggested to 
 its disinfection were identified and described in this article. 
- 
-Keywords: Pacifiers; Sucking Behavior; Environmental Microbiology; Decontamination.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-2 
-Introduction 
+
 Pacifier use is increasingly widespread in different modern cultures [1], being one of the most 
 common non-nutritive sucking habits of children. They are used for various purposes, including the fact that 
 they soothe the child, favoring sleep and providing their physiological and psychological needs [2]. Regarding 
 the potential benefits and risks of its use, there are controversial data [3], because, in addition to the benefits, 
 the association with microorganisms must be considered, as it is a vehicle of contamination and transmission 
 [3,4]. 
+
 Nowadays the humanity is facing a new challenge: to live with the new coronavirus SARS-CoV-2. 
 Although the children are usually asymptomatic for COVID-19, to the younger ones should be given high 
 attention since the number of cases on this group are significantly high due to they do not wear masks and 
@@ -100,25 +34,24 @@ and oral microbiota, which leads to the development of microbial biofilms on the
 falls are frequent, which exposes them to a wide range of microorganisms, and it is often returned to the mouth 
 without prior cleaning and disinfection [4]. Pacifier use has also been associated with other diseases and 
 pathologies in children, such as fungal infections [7] and intestinal parasitosis [4]. 
+
 Considering this potential for contamination and transmission of microorganisms, especially the 
 SARS-CoV-2, proper disinfection of pacifiers is essential [4,8,9], as it is not always performed correctly in 
 everyday life and it is only washed in running water and dried [10]. There are limited studies worldwide on 
 these disinfection methods and their effectiveness in reducing contamination. The goal should not be to 
 discourage use, but to ensure that the pacifiers are disinfected [11], to promote oral health and to prevent oral 
 infections in children [9]. 
+
 Given these needs, the aim of this study was to conduct a review on pacifier disinfection methods 
 determining whether there is a literature consensus on it and whether there is a method that meets all expected 
 results, by identifying all the methods suggested to its disinfection.  
- 
-Material and Methods 
-Study Design 
+
 This review was conducted and reported according to the Preferred Reporting Items for Systematic 
 Reviews and Meta-Analyses (PRISMA) guidelines [12]. The first phase of this systematic review involved the 
 development of a question to guide the study: "Is there a consensus on pacifier decontamination?" This 
 protocol was completed and submitted at the Prospective International Registry of Systematic Reviews 
 (PROSPERO), before starting the literature search with ID number 152011. 
- 
-Search Strategy 
+
 As search strategies, we conducted a survey in the databases of MEDLINE/PubMed, Scientific 
 Electronic Library (SciELO), Latin American and Caribbean Health Sciences (LILACS), Web of Science and 
 Scopus, that have published scientific studies from recent studies 20 (twenty) years. The Medical Subject 
@@ -126,34 +59,26 @@ Headings (MeSH) descriptors used were "pacifier", "disinfection", "biofilm" and 
 perform the search, the term "pacifier" was associated with the others, by using the Boolean operator "AND". 
 So, the equations were structured as follows: (pacifier and disinfection); (pacifier and biofilm); (pacifier and 
 microbiology). 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-3 
-Inclusion and Exclusion Criteria 
+
 Were considered eligible studies related to pacifier disinfection, and published from January/1999 to 
 October/2019. No language restrictions were applied. Inclusion criteria were: studies that analyzed different 
 types of pacifier disinfection independently from the method used, with at least a comparative group. Exclusion 
 criteria were: (1) addressed a topic other than that of interest in this paper; (2) studies that only observed 
 pacifier contamination and /or biofilm formation; and (3) were repeated studies. 
- 
-Study Selection 
+
 Articles were selected in two phases. The two reviewers (VS and DL) independently examined 
 separately the titles and abstracts of all references in order to eliminate obviously irrelevant studies in phase 1.  
 In case of difference, a consensus was decided by the supervisor (FM). In phase 2, the full texts were 
 independently reviewed separately and selected accordingly. A second reviewer (DL) performed the same 
 process. Disagreements were also resolved by the supervisor (FM). 
- 
-Data Extraction and Analysis 
+
 Two reviewers (VS and DL) extracted data independently by using a standardized form. The 
 following factors were recorded when the information contained in the reviewed articles was available: country 
 of study, type of study, pacifier material, sample number (n), microorganisms analyzed, decontamination 
 methods used, method accessibility and results found. In case of difference, a consensus was decided by the 
 supervisor (FM). Owing to the studies heterogeneity, no meta-analysis could be achieved, but study 
 characteristics and results were qualitatively analyzed. 
- 
-Study Quality Assessment 
+
 The methodological quality of the studies was independently evaluated by the two reviewers (VS and 
 DL). Differences were resolved with the supervisor (FM). 
 The risk of bias was assessed according to: randomization of the selected pacifiers, use of a disinfection 
@@ -162,9 +87,7 @@ disinfection method and statistical analysis. If the study had the item, it rece
 information, it received "no". For one to two "no", the study was considered as “low risk of bias”; for three or 
 four was considered as "average risk of bias"; for five to six yes, the study was considered "high risk of bias". 
 Disagreements between the reviewers in relation to quality assessment were resolved by supervisor (FM). 
- 
-Results 
-Search Results 
+
 The association of the descriptor “pacifier” was performed with the other terms and, initially, 121 
 articles were obtained from all databases. After excluding duplicate studies, 56 were selected for reading, as 
 they had at least one of the defined keywords in their title or abstract. The respective documents were 
@@ -173,302 +96,58 @@ the relevance of the results, which resulted in 11 studies obtained. The selecte
 screening through the complete reading in order to verify if they met the inclusion and exclusion criteria, 
 resulting in 8 articles. Figure 1 shows a flowchart describing the process of identification, selection, eligibility 
 of studies and inclusion. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-4 
- 
-Figure 1. Flow diagram showing the retrieval process of studies included in the review. 
- 
-Study Features 
+
 Among the 8 studies, seven were in vitro experimental [3,8,9,11,13-15] and a transverse one [10]. 
 Selected studies were conducted in Brazil (5) [3,8,10,13,15], South Africa (2) [9,11] and India (1) [14]. 
 Sample sizes ranged from 10-50 [8,13,15], 51-100 [3,9,14] and 101-160 [10,11]. 
- 
-Results of DisinfectionTechniques 
+
 All selected studies analyzed some method of pacifier disinfection. 
-v 3.5% Neutral Detergent: Submitted on a mechanical agitator for 1 minute. Effective control of C. albicans 
+
+- 3.5% Neutral Detergent: Submitted on a mechanical agitator for 1 minute. Effective control of C. albicans 
 was obtained, reducing contamination by 100% [8]. 
-v Apple cider vinegar 70% spray: It has been applied twice to all sample surfaces. A statistically significant 
+
+- Apple cider vinegar 70% spray: It has been applied twice to all sample surfaces. A statistically significant 
 reduction of viable cells was observed in S. aureus, S. pyogenes, S. mutans and E. coli biofilms [13]. All 
 pacifiers contaminated with C. parapsilosis and treated with apple cider vinegar remained contaminated 
 [11]. 
-v Boiling water during 15 minutes: Effective control of C. albicans was obtained, reducing contamination by 
+
+- Boiling water during 15 minutes: Effective control of C. albicans was obtained, reducing contamination by 
 100% [8], as also demonstrated by other authors, whose findings revealed that five minutes of boiling 
 water was sufficient to observe disinfection in a pacifier contaminated with S. mutans and C. albicans [15]. 
 Other authors concluded that it is highly recommended to disinfect pacifiers in boiling water for 15 
 minutes in order to eliminate cariogenic microorganisms from pacifiers [10]. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-5 
-v Sodium hypochlorite 2.5%: Immersion in 10 mL of sodium hypochlorite for 5 minutes. Effective control of 
+
+- Sodium hypochlorite 2.5%: Immersion in 10 mL of sodium hypochlorite for 5 minutes. Effective control of 
 C. albicans was obtained, reducing contamination by 100% [8]. 
-v Hydrogen peroxide 70% spray: It has been applied twice to all sample surfaces. It was able to reduce 
+
+- Hydrogen peroxide 70% spray: It has been applied twice to all sample surfaces. It was able to reduce 
 viable Enterobacteria ceae cells from the microcosm biofilm [13]. 
-v Chlorhexidine 0.12%: Effective in removing S. epidermidis and C. parapsilosis [11], C. albicans [9] and S. 
+
+- Chlorhexidine 0.12%: Effective in removing S. epidermidis and C. parapsilosis [11], C. albicans [9] and S. 
 mutans [3,9,14]. According to previous authors, it is highly recommended to disinfect pacifiers by 
 spraying an antimicrobial agent such as chlorhexidine 0.12% [10]. 
-v Brushtox®: In an earlier study, it was effective in removing S. epidermidis and C. parapsilosis [11], 
+
+- Brushtox®: In an earlier study, it was effective in removing S. epidermidis and C. parapsilosis [11], 
 contradicting the results obtained by other researchers [10]. 
-v Sterile water: It has been shown that vigorous cleaning with plain water alone is not sufficient to 
+
+- Sterile water: It has been shown that vigorous cleaning with plain water alone is not sufficient to 
 eliminate pacifier contamination [11]. The sample treated with sterile water remained contaminated [11] 
 as demonstrated by other authors [3,9,10,14]. 
-v Microwave: Microwave energy was sufficient to observe disinfection in a pacifier contaminated with C. 
+
+- Microwave: Microwave energy was sufficient to observe disinfection in a pacifier contaminated with C. 
 albicans [9,15] and S. mutans [3,9,14,15]. The relevant data from the articles were displayed in Table 1. 
- 
-Quality Assessment 
+
 Among the seven studies included, five had a low risk of bias [3,8,9,11,13] and two had a medium risk 
 [10,15] (Figure 2). Three studies did not use sterile water as a control material, all of which used more than 
 one disinfection method in the tests. Only one study showed no bias under analysis [8]. 
- 
- 
-Figure 2. Risk of bias summary: authors’ assessment of each risk of bias item. 
- 
-Discussion 
+
 Pacifiers, widely used by children, are constantly in contact with saliva and mouth microorganisms4. 
 They can be considered a vehicle for contamination and microbial transmission3, especially the SARS-CoV-2, 
 which requires their correct hygiene [4,8,9]. Moreover, children are very special susceptible group for 
 COVID-19 due to the immaturity of their immune systems [16] and close family contacts been susceptible to 
 cross-infection [17]. Since the SARS-CoV-2 can be transmitted by aerosols and close contact, attention in 
 pacifier disinfection must be reinforced during the pandemic times. 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-6 
-Table 1. Data from manuscripts. 
-Author 
-(Year) 
-Country 
-Type of 
-Study 
-Pacifier 
-N  
-Microorganisms 
-Decontamination Type 
-Microbiological 
-Analysis 
-Conclusion 
-Lopes et al. 
-(2019) [8] 
-Brazil 
-In Vitro 
-Silicon 
-24 
-C. Albicans 
-Sterile water 
-Neutral 
-detergent 
-Boiling 
-water 
-Sodium 
-hypochlorit
-e 2.5% 
-Viable Count 
-Running water (1st step) can be 
-considered only if others are not 
-possible. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Pedroso et 
-al. (2018) 
-[13] 
-Brazil 
-In Vitro 
-Silicon 
-24 
-S. mutans, S. 
-pyogenes, S. aureus 
-and E. coli 
-Apple Cider 
-Vinegar (70%) 
-Hydrogen 
-Peroxide 
-(70%) 
-- 
-- 
-Viable Count 
-70% hydrogen peroxide has been 
-shown to be a good alternative to 
-chlorhexidine digluconate. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Molaudzi 
-and Molepo 
-(2017) [11] 
-South 
-Africa 
-In Vitro 
-Silicon 
-160 
-S. epidermidis and  
-C. parapsilosis. 
-Chlorhexidine 
-0.12% (GUM 
-Paraoex) 
-Brushtox® Apple Cider 
-Vinegar (5%) 
-Sterile 
-water 
-Viable Count 
-Brushtox® and chlorhexidine were 
-efficient for the elimination of C. 
-parapsilosis. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Nelson-Filho 
-et al. (2015) 
-[10] 
-Brazil 
-Cross-
-Sectional / 
-In Vitro 
-Latex 
-112 
-S. mutans 
-Chlorhexidine 
-0.12% 
-(Periogard) 
-Brushtox® Sterile water 
-Boiling 
-water 
-SEM 
-Boiling water for 15 minutes or 
-0.12% chlorhexidine showed the 
-best result. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Molepo and 
-Molaudzi 
-(2015) [9] 
-South 
-Africa 
-In Vitro 
-Silicon 
-72 
-C. Albicans and S. 
-mutans 
-Chlorhexidine 
-0.12% (GUM 
-Paroex) 
-Microwave 
-750W 
-Sterile water 
- - 
-Viable Count 
-Microwave better at eliminating C. 
-albicans / Microwave and 0.12% 
-Chlorhexidine equally at eliminating 
-S. mutans. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Nelson-Filho 
-et al. (2011) 
-[3] 
-Brazil 
-In Vitro 
-Silicon 
-60 
-S. mutans 
-Chlorhexidine 
-0.12% 
-(Periogard) 
-Microwave Sterile water 
- - 
-SEM 
-Chlorhexidine spray (0.12%) and 7 
-min microwave irradiation were 
-effective. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Silva et al. 
-(2008) [15] 
-Brazil 
-In Vitro 
-Latex / 
-Silicon 
-40 
-C. Albicans and S. 
-mutans 
-Boiling water 
-Microwave 
- - 
- - 
-SEM 
-Five minutes of boiling water or 
-microwave energy was sufficient to 
-observe disinfection. 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-7 
+
 A variety of disinfection methods that could be used to the pacifier decontamination are available such 
 as antimicrobial solutions (chemicals: chlorhexidine, triclosan, cetylpyridinium chloride, listerine and several 
 dentifrices; natural agents: garlic and tea tree oil extracts) and radiation (microwave, ultraviolet rays) like it 
@@ -476,6 +155,7 @@ has been used to toothbrushes disinfection [18]. However, different authors rela
 some of them. So, this systematic review was conducted to determine whether there is a literature consensus on 
 it and whether there is a method that meets all expected results, by identifying all the methods suggested to its 
 disinfection. 
+
 Pacifier nozzles may be made of latex or silicone. Currently, silicone nozzles are the preferred ones are 
 the silicone ones, because since they have lower allergenic potential, due to the lower roughness and microbial 
 adhesion [6,7]. Although the latex surface was more irregular than the silicone surface, becoming a potential 
@@ -483,6 +163,7 @@ biofilm reservoir and, consequently, a niche of infection [6], the silicone paci
 microorganism adhesion and may be a considerable source of infection [4,7]. However, it is proved that after 
 disinfection procedures, the latex pacifiers showed much more pores and roughness on the surface than those 
 without heat treatment [15]. 
+
 From a social point of view, disinfection methods should be effective, simple, inexpensive [3], non-
 toxic and especially easily implemented [13]. Despite these diverse and distinct categories that a disinfection 
 method should present, there are limited studies worldwide committed to finding the ideal method [11]. Our 
@@ -495,6 +176,7 @@ included here, produced in another region and previously published. Taking advan
 important to reinforce the relevance of conducting systematic reviews to critically evaluate the content of 
 published articles, to verify the pertinence and synthesis of the findings, as already claimed by other authors 
 [19]. 
+
 Regular application of cleaning and disinfection procedures is a common strategy used to control the 
 installation of pathogenic microorganisms. Despite only few studies retrieved, this systematic review revealed 
 that there is a wide variety of disinfectant agents used for the pacifier disinfection, which have benefits 
@@ -502,6 +184,7 @@ advantages and disadvantages. Many of the procedures described in the articles w
 protocols, since there are different protocols used for general decontamination of products and utensils for 
 human use [20]. From the analyzed articles, nine strategies of microbial control were identified, being used 
 solutions and products with thermal, chemical, mechanical and chemomechanical actions. 
+
 Although many studies have described various decontamination protocols/agents, only a few 
 microorganisms have been tested. The fungi and the bacteria analyzed were always from the same genus, 
 Candida and Streptococcus, respectively; both are microorganisms commonly found in the oral microbiota. On 
@@ -510,11 +193,7 @@ different: three studies used Scanning Electron Microscopy – SEM [3,10,15] and
 method [8,9,11,13]. SEM analysis is a suitable tool not only for observing in detail the substrate morphology, 
 but also for monitoring bacterial adhesion and biofilm formation on a biotic surface [21]. Viable count method 
 is a sensible method for analysis of live microorganisms [22], which has been used for decades. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-8 
+
 Taking all of this into account, considering the variability of the analysis, it is necessary to evaluate 
 the disinfection method that stands out in the regarding the advantages and that can be easily reproduced by 
 the population. Considering these characteristics, the use of antimicrobial sprays in the daily routines 
@@ -524,45 +203,48 @@ that it is quick and easy to apply and provides a clean, fresh portion of the so
 the dipping process, the solution becomes quickly contaminated and needs frequent replacement [23]. 
 Moreover, the efficiency of disinfection depends of the agent used. There is no consensus for the better agent 
 for the spray uses. 
+
 Another strategy for pacifier decontamination widely used by children’s parents is the vigorous 
 cleaning method using only sterile water. However, it has been shown to be insufficient to eliminate total 
 contamination of a pacifier [8,10] nor contamination by planktonic cells [3,9,11], which confirms that only 
 water is not effective in eliminating contamination by bacteria and fungi [4,7]. These results indicate that 
 water can be used as a control in vitro tests in order to evaluate the effectiveness of different disinfection 
 protocols (physical and chemical) prior to in vivo evaluations [3]. 
+
 Otherwise, when using boiled water, some authors obtained total disinfection of the pacifier surfaces 
 under analysis, boiling within 15 minutes [8,10] and 5 minutes [15]. It corroborated the results obtained in a 
 systematic review and meta-analysis, whose authors confirmed that the use of boiled drinking water 
 contributes to the inactivation of pathogens, regardless of organism groups [24]. 
+
 It is suggested as an option to washing the pacifiers daily with running water and neutral detergent, 
 with vigorous mechanical action for at least 5 minutes [8]. Positive results were also found by previous 
 authors when using the product, following this protocol [25]. Alternatively, the object can be rested in a 
 container with 2.5% sodium hypochlorite for 5 minutes, as this agent was effective in total disinfection of 
 pacifiers [8], as well as in toothbrushes [26]. 
+
 Antimicrobial substances presenting low-cost, low-toxicity, and ease to apply, that are commonly 
 found at home or readily available on the market, should be considered [27]. Hydrogen peroxide spray 70% 
 and apple cider vinegar spray were able to eliminate viable cells from bacterial biofilm [13,27]. 
+
 Brushtox® is a solution of activated ethanol (40% v/v) and a biocide (parabens) consider an effective 
 disinfectant for toothbrush bacteria and fungi decontamination [23]. Regarding pacifier decontamination, its 
 efficiency is controversial, with positive [11] and negative results already described [10]. Therefore, it is 
 necessary to evaluate its cost, accessibility, and disadvantages that may limit the widespread use by the 
 population [27]. 
+
 The chlorhexidine solution (0.12%) is proposed to be used in various ways [28] and purposes, 
 including toothbrushes disinfection [29]. It also has been shown to be effective in eliminating pacifier 
 microorganisms [3,9-11]. However, its use is controversial, mainly especially due to the cost when compared 
 to other disinfection solutions. These disadvantages may limit their widespread use, especially in low-income 
 populations [8,25]. 
+
 In addition, there is the issue of chlorhexidine-related microbial resistance, which is still controversial 
 [28]. If some studies have not shown the emergence of resistant microorganisms [30], others have reported 
 that some strains may have the potential to develop tolerance following prolonged exposure to chlorhexidine 
 [31]. However, it is noteworthy that, for pacifier disinfection, the adverse effects of chlorhexidine are reduced, 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-9 
 since the application is performed outside the mouth and without direct mucosal exposure [10]. Therefore, it is 
 necessary to analyze the cost-benefit of using this antimicrobial agent. 
+
 Another protocol for pacifier disinfection was microwave. It is an optional and easy procedure and can 
 be used to eliminate or reduce the presence of pathogenic microorganisms on the pacifier surface [15]. It has 
 also been shown to be effective in disinfecting other dental materials, such as orthodontic instruments [32]. 
@@ -570,154 +252,13 @@ The microwave at power level 7 (corresponding to 70% of total power) for 7 minut
 disinfection [3,8], considering S. mutans and C. albicans contamination for 7 minutes. The microwave, at full 
 power for 5 minutes, also obtained effective pacifier disinfection [15]. However, it must be evaluated with 
 caution due to the different parameters (power levels and the models) of the microwave models. 
+
 Considering the quality assessment of studies included, the results suggest a good quality overall, 
 since no one showed a high risk of bias. However, the control group must be better evaluated in future works, 
 once three studies did not use sterile water. Nevertheless, for our analyses of pacifiers’ disinfection mode, they 
 were all appropriated once they tested different types of methods. 
- 
-Conclusion 
+
 Nowadays, there is no consensus on pacifier disinfection due to the diversity of protocols proposed 
 using different agents and strategies. Different methods present distinct advantages and disadvantages. So, it is 
 important to evaluate the method to be used depending on the frequency of pacifier use, the place where it was 
 dropped and family's accessibility to disinfectant agents. 
- 
-Authors’ Contributions 
-VGCS 
- 0000-0002-4371-8894 Investigation and Formal Analysis. 
-DFL 
- 0000-0002-6737-9284 Investigation and Formal Analysis. 
-FCM 
- 0000-0002-7138-2670 Validation and Writing – Review and Editing. 
-RLF 
- 0000-0002-0167-2277 Validation and Writing – Review and Editing. 
-ACMA 
- 0000-0001-9049-7660 Conceptualization, Methodology, Formal Analysis, Writing – Original Draft 
-Preparation and Writing – Review and Editing. 
-All authors declare that they contributed to critical review of intellectual content and approval of the final version to be 
-published. 
- 
-Financial Support 
-Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG), Conselho Nacional de Desenvolvimento 
-Científico e Tecnológico (CNPq), Federal University of Juiz de Fora (UFJF), and Coordenação de Aperfeiçoamento de 
-Pessoal de Nível Superior (CAPES). 
- 
-Conflict of Interest 
-The authors declare no conflicts of interest. 
- 
-Acknowledgments 
-The authors are grateful to LABINT-UFJF by English revision. 
- 
-References 
-[1] Wennergren G, Nordstrand K, Alm B, Mollborg P, Ohman A, Berlin A, et al. Updated Swedish advice on reducing 
-the risk of sudden infant death syndrome. Acta Paediatr 2015; 104(5):444-8. https://doi.org/10.1111/apa.12966 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-10 
-[2] Vozza I, Capasso F, Marrese E, Polimeni A, Ottolenghi L. Infant and child oral health risk status correlated to 
-behavioral habits of parents or caregivers: a survey in central Italy. J Int Soc Prev Community Dent 2017; 7(2):95-9. 
-https://doi.org/10.4103/jispcd.JISPCD_470_16 
-[3] Nelson-Filho P, da Silva LA, da Silva RA, da Silva LL, Ferreira PD, Ito IY. Efficacy of microwaves and chlorhexidine 
-on the disinfection of pacifiers and toothbrushes: an in vitro study. Pediatr Dent 2011; 33(10):10-3. 
-[4] Comina E, Marion K, Renaud FN, Dore J, Bergeron E, Freney J. Pacifiers: a microbial reservoir. Nurs Health Sci 
-2006; 8(4):216-23. https://doi.org/10.1111/j.1442-2018.2006.00282.x 
-[5] Wei M, Yuan J, Liu Y, Fu T, Yu X, Zhang ZJ. Novel coronavirus infection in hospitalized infants under 1 year of age 
-in China. JAMA 2020; 2020. https://doi.org/10.1001/jama.2020.2131 
-[6] da Silveira LC, Charone S, Maia LC, Soares RM, Portela MB. Biofilm formation by Candida species on silicone 
-surfaces and latex pacifier nipples: an in vitro study. J Clin Pediatr Dent 2009; 33(3):235-40. 
-https://doi.org/10.17796/jcpd.33.3.7572960tn46837k4 
-[7] Mattos-Graner RO, de Moraes AB, Rontani RM, Birman EG. Relation of oral yeast infection in Brazilian infants and 
-use of a pacifier. ASDC J Dent Child 2001; 68(1):33-6. 
-[8] Lopes DF, Fernandes RT, Medeiros YL, Apolônio ACM. Disinfection of pacifier focusing on Candida albicans. Clin 
-Pediatr 2019; 58(14):1540-3. https://doi.org/10.1177/0009922819875541 
-[9] Molepo J, Molaudzi M. Contamination and disinfection of silicone pacifiers: an in vitro study. SADJ 2015; 70(8):351-
-3. 
-[10] Nelson-Filho P, Louvain MC, Macari S, Lucisano MP, Silva RAB, Queiroz AM, et al. Microbial contamination and 
-disinfection methods of pacifiers. J Appl Oral Sci 2015; 23(5):523-8. https://doi.org/10.1590/1678-775720150244 
-[11] Molaudzi M, Molepo J. In vitro efficacy of different solutions in the disinfection of silicone pacifiers. SADJ 2017; 
-72(4):158-61. 
-[12] Moher D1, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, et al. Preferred reporting items for systematic 
-review and meta-analysis protocols (PRISMA-P) 2015 statement. Syst Rev 2015; 4:1. 
-https://doi.org/10.1186/2046-4053-4-1 
-[13] Pedroso JF, Sangalli J, Brighenti FL, Tanaka MH, Koga-Ito CY. Control of bacterial biofilms formed on pacifiers by 
-antimicrobial solutions in spray. Int J Paediatr Dent; 28(6):578-86. https://doi.org/10.1111/ipd.12413 
-[14] Chamele J, Bhat C, Saraf T, Jadhav A, Beg A, Jagtap C, et al. Efficacy of microwaves and chlorhexidine for 
-disinfection of pacifiers and toothbrushes: an in vitro study. J Contemp Dent Pract 2012; 13(5):690-4. 
-https://doi.org/10.5005/jp-journals-10024-1210 
-[15] Silva RC, Spolidorio DMP, Zuanon ACC, Godoi RHM. Pacifier disinfection procedure: superficial morphological 
-aspects and microorganisms colonization. RSBO 2008; 5:30-3. 
-[16] Jiatong S, Langin L, Wenjun L. COVID‐19 epidemic: disease characteristics in children. J Med Virol 2020; 1-8. 
-https://doi.org/10.1002/jmv.25807 
-[17] Fang F, Luo XP. Facing the pandemic of 2019 novel coronavirus infections: the pediatric perspectives. Zhonghua Er 
-Ke Za Zhi 2020; 58(0):E001. https://doi.org/10.3760/cma.j.issn.0578-1310.2020.0001 
-[18] Agrawal SK, Dahal S, Bhumika TV, Nair NS. Evaluating sanitization of toothbrushes using various decontamination 
-methods: a meta-analysis. J Nepal Health Res Counc 2019; 16(41):364-71. 
-[19] Gough D, Oliver S, Thomas J. An introduction to systematic reviews. 2nd. ed. London: SAGE Publications; 2017. 
-352pp. 
-[20] Jahid IK, Ha SD. A review of microbial biofilms of produce: future challenge to food safety. Food Sci Biotechnol 2012; 
-21:299-316. https://doi.org/10.1007/s10068-012-0041-1 
-[21] Gomes LC, Mergulhão FJ. SEM analysis of surface impact on biofilm antibiotic treatment. Scanning 2017; 
-2017:2960194. https://doi.org/10.1155/2017/2960194 
-[22] Dalgaard P, Ross T, Kamperman L, Neumeyer K, McMeekin TA. Estimation of bacterial growth rates from 
-turbidimetric and viable count data. Int J Food Microbiol 1994; 23(3-4):391-404. 
-https://doi.org/10.1016/0168-1605(94)90165-1 
-[23] Neal PR, Rippin JW. The efficacy of a toothbrush disinfectant spray - an in vitro study. J Dent 2003; 31(2):153-7. 
-https://doi.org/10.1016/s0300-5712(02)00081-7 
-[24] Cohen A, Colford JM. Effects of boiling drinking water on diarrhea and pathogen-specific infections in low- and 
-middle-income countries: a systematic review and meta-analysis. Am J Trop Med Hyg 2017; 97(5):1362-77. 
-https://doi.org/10.4269/ajtmh.17-0190 
-[25] Yarahmadi M, Yunesian M, Pourmand M, Shahsavani A, Mubedi I, Nomanpour B, et al. Evaluating the efficiency of 
-lettuce disinfection according to the official protocol in Iran. Iran J Public Health 2012; 41(3):95-103. 
-[26] Chaves RAC, Ribeiro DML, Zaia JE, Alves EJ, Souza MGM, Martins CHG, et al. Evaluation of antibacterial 
-solutions in the decontamination of toothbrushes collected from preschool students. Rev Odontol UNESP 2007; 
-36(1):29-33. 
-[27] Komiyama EY, Back-Brito GN, Balducci I, Koga-Ito CY. Evaluation of alternative methods for the disinfection of 
-toothbrushes. Braz Oral Res 2010; 24(1):28-33. https://doi.org/10.1590/s1806-83242010000100005 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
- Pesqui. Bras. Odontopediatria Clín. Integr. 2020; 20:e0071 
- 
-11 
-[28] Bouadma L, Karpanen T, Elliott T. Chlorhexidine use in adult patients on ICU. Intensive Care Med 2018; 
-44(12):2232-4. https://doi.org/10.1007/s00134-018-5137-5 
-[29] Tomar P, Hongal S, Saxena V, Jain M, Rana K, Ganavadiya R. Evaluating sanitization of toothbrushes using ultra 
-violet rays and 0.2% chlorhexidine solution: a comparative clinical study. J Basic Clin Pharma 2014; 6(1):12-8. 
-https://doi.org/10.4103/0976-0105.145769 
-[30] Sreenivasan P, Gaffar A. Antiplaque biocides and bacterial resistance: a review. J Clin Periodontol 2002; 29(11):965-
-74. https://doi.org/10.1034/j.1600-051X.2002.291101.x 
-[31] Kulik EM, Waltimo T, Weiger R, Schweizer I, Lenkeit K, Filipuzzi-Jenny E, et al. Development of resistance of 
-mutans streptococci and Porphyromonas gingivalis to chlorhexidine digluconate and amine fluoride/stannous 
-fluoride-containing mouthrinses, in vitro. Clin Oral Investig 2015; 19(6):1547-53. 
-https://doi.org/10.1007/s00784-014-1379-y 
-[32] Yezdani A, Mahalakshmi K, Padmavathy K. Orthodontic instrument sterilization with microwave irradiation. J 
-Pharm Bioall Sci 2015; 7(Suppl 1): S111–S115. https://doi.org/10.4103/0975-7406.155847 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/pboci.2020.070
-Powered by TCPDF (www.tcpdf.org)
-This preprint was submitted under the following conditions: 
-The authors declare that they are aware that they are solely responsible for the content of the preprint and
-that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
-preservation and dissemination.
-The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
-the research were obtained and are described in the manuscript, when applicable.
-The authors declare that the preparation of the manuscript followed the ethical norms of scientific
-communication.
-The submitting author declares that the contributions of all authors and conflict of interest statement are
-included explicitly and in specific sections of the manuscript.
-The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
-license.
-The deposited manuscript is in PDF format.
-The authors declare that the data, applications, and other content underlying the manuscript are
-referenced.
-The authors declare that the manuscript was not deposited and/or previously made available on another
-preprint server or published by a journal.
-If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
-authors declare that they have received authorization from the journal to make this deposit.
-The submitting author declares that all authors of the manuscript agree with the submission to SciELO
-Preprints.
-The authors declare that the research that originated the manuscript followed good ethical practices and
-that the necessary approvals from research ethics committees, when applicable, are described in the
-manuscript.
-The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
-withdrawn upon retraction.
-Powered by TCPDF (www.tcpdf.org)

@@ -1,33 +1,15 @@
- 
-1 
- 
-Knowledge, attitudes and practices towards COVID-19 in Paraguayans during 
-outbreaks: a quick online survey. 
-Carlos Miguel Rios-González1 
-1 Faculty of Medical Sciences, National University of Caaguazú, Cnel. Oviedo, 
-Paraguay. 
-Correspondence: 
- 
-Carlos Miguel Rios-González 
-carlosmigue_rios@live.com 
- 
- 
- 
- 
- 
-2 
- 
-Abstract:  
 Background: Until March 22, 2020, 22 cases are registered in Paraguay, of which there 
 are two cases with epidemiological links to be determined. The country's authorities have 
 applied necessary sanitary measures to prevent massive spread. It is imperative to know 
 the knowledge, attitudes and practices of the population about COVID-19, for decision 
 making. 
+
 Methods: A cross-sectional study was carried out from March 20, 2020, the week 
 immediately after the closure of Paraguay. The survey was online using a Google Forms 
 (c) form distributed through "WhatsApp" groups. Paraguayan nationals, over 18 years of 
 age, who were explained the objectives and purpose of the study, who agreed to 
 participate in the study, were asked to complete the questionnaire by clicking on the link. 
+
 Results: A total of 3141 participants completed the survey questionnaire. The mean age 
 was 29.55 years (SD: 10.7), 2139 (68.10%) were women, and 2073 (66) were Interior. 
 The mean COVID-19 knowledge score was 7.45 (SD: 1.51), suggesting an overall 62% 
@@ -35,16 +17,12 @@ The mean COVID-19 knowledge score was 7.45 (SD: 1.51), suggesting an overall 62%
 that COVID-19 will finally be successfully controlled (66.28%), the vast majority of the 
 participants had not visited any crowded place (88.35%) and wore masks when going out 
 (74.31%) in recent days 
+
 Conclusion: The knowledge about COVID-19 in the Paraguayan population during the 
 outbreak was acceptable, attitudes have been mostly favorable and the practices are 
 mostly adequate, however, it is necessary to implement massive education campaigns, to 
 increase the proportion of knowledge about COVID-19, to stop its spread. 
-Keywords: Coronavirus Infections; COVID-19; Health Knowledge, Attitudes, Practice; 
-Paraguay. 
-Introduction 
- 
-3 
- 
+
 Since December 2019, a number of unexplained cases of pneumonia have been reported 
 in Wuhan, China, prompting the Chinese government and researchers to take swift steps 
 to control the epidemic and carry out etiological investigations(1). On January 12, 2020, 
@@ -56,37 +34,41 @@ disease 2019 (COVID-19). On the same day, the coronavirus study group of the
 International Committee on Virus Taxonomy named 2019 - nCoV as coronavirus 2 of 
 severe acute respiratory syndrome (SARS-CoV-2). On February 23, 2020, there were 
 77,041 confirmed cases of SARS-CoV-2 infection in China(3). 
+
 In the Region of the Americas, a total of 663 cases of COVID-19 have been reported from 
 12 countries and four (4) French overseas territories/regions. In addition, the United 
 States reported that 49 individuals tested positive for COVID-19 among returnees from 
 Wuhan, China (1) and the Diamond Princess cruise ship (4)(5). 
+
 To date, 23 deaths from COVID-19 have been reported in the United States of America(6) 
 and Argentina (1). Death in Argentina was reported as an imported case: a 64-year-old 
 Buenos Aires city resident with multiple underlying conditions and a recent trip to 
 Europe. The 22 deaths in the United States come from the states of California, Florida 
 and Washington; the majority of deaths in Washington State were associated with a long-
 term care facility(7). 
+
 Until March 22, 2020, 22 cases are registered in Paraguay, of which there are two cases 
 with epidemiological links to be determined. The country's authorities have applied 
 necessary sanitary measures to prevent massive spread(8). 
- 
-4 
- 
+
 To guarantee the final success, people’s adherence to these control measures are essential, 
 which is largely affected by their knowledge, attitudes, and practices (KAP) towards 
 COVID-19 in accordance with KAP theory(9–11). Based on all the above, it was 
 proposed to carry out this study to know the knowledge, attitudes and practices of 
 Paraguayans in the period of the COVID-19 outbreak. 
-Methods 
+
 A cross-sectional study was carried out from March 20, 2020, the week immediately after 
 the closure of Paraguay. The survey was online using a Google Forms (c) form distributed 
 through "WhatsApp" groups. 
+
 Paraguayan nationals, over 18 years of age, who were explained the objectives and 
 purpose of the study, who agreed to participate in the study, were asked to complete the 
 questionnaire by clicking on the link. 
+
 Participants had to answer a yes or no question to confirm their willingness to participate 
 voluntarily. After confirmation of the question, the participant was instructed to complete 
 the self-completed questionnaire. 
+
 The Bao-Liang et al(12). Instrument was used as a model (Translated into Spanish). This 
 questionnaire consisted of two parts: demography and KAP. Demographic variables 
 included age, sex, marital status, education, occupation, and current place of residence. 
@@ -96,15 +78,15 @@ questions were answered true / false with an additional "I don't know" option. A
 answer was assigned 1 point and an incorrect / unknown answer was assigned 0 points. 
 The total knowledge score ranged from 0 to 12, with a higher score denoting better 
 knowledge of COVID-19. 
- 
-5 
- 
+
 Attitudes toward COVID-19 were measured by 2 questions about COVID-19's final 
 control agreement and confidence in winning the battle against COVID-19. The 
 evaluation of the respondents' practices consisted of 2 behaviors: going to a crowded 
 place and wearing a mask when going out in the last days. 
+
 A pilot study was carried out with 10 subjects, with which a Cronbach's Alpha of 0.8 was 
 obtained(13). 
+
 The frequencies of correct knowledge responses and various attitudes and practices were 
 described. Knowledge scores and attitudes and practices of different people according to 
 demographic characteristics were compared with independent samples t test, one-way 
@@ -113,804 +95,46 @@ regression analysis using all demographic variables as independent variables and
 knowledge score as the outcome variable was performed to identify factors associated 
 with knowledge. Similarly, binary logistic regression analysis was used to identify factors 
 associated with attitudes and practices. 
+
 Data analyzes were performed with STATA version 15.0. The level of statistical 
 significance was established at p <0.05. 
-Results 
+
 A total of 3141 participants completed the survey questionnaire. The mean age was 
 29.55 years (SD: 10.7), 2139 (68.10%) were women, and 2073 (66) were Interior. Other 
 demographic characteristics are shown in Table 1. 
+
 The mean COVID-19 knowledge score was 7.45 (SD: 1.51), suggesting an overall 62% 
 (7.45/12*100) correct rate on this knowledge test. Knowledge scores significantly 
 differed across genders, age-groups, categories of marital status, education levels, and 
 residence places (P<0.001) (Table 1). 
- 
-6 
- 
-Table 1- Demographic characteristics of participants and knowledge score of 
-COVID-19 by demographic variables 
-Characteristic  
-Number 
-of 
-participants 
-(%) 
-Knowledge 
-score (mean 
-±  standard 
-deviation 
-t/f 
-P 
-Gender 
-Male 
-1002 (31.90) 
-7.30 ± 1.72 
- 
- 
- 
-Female 
-2139 (68.10) 
-7.53 ± 1.40 
-3.82 
-<0.001 
-Age-group 
-(years) 
-18 – 29 
-1901 (60.52) 
-7.51 ± 1.32 
- 
- 
- 
-30 – 49 
-1054 (33.56) 
-7.37 ± 1.77 
- 
- 
- 
-≥ 50 
-186 (5.92) 
-7.38 ± 1.72 
-3.37 
-<0.001 
-Marital status 
-Never-
-married 
-2118 (67.43) 
-7.53 ± 1.32 
- 
- 
- 
-Married 
-714 (22.73) 
-7.40 ± 1.75 
- 
- 
- 
-Other* 
-309 (9.84) 
-7.07 ± 1.98 
-12.77 
-<0.001 
-Education 
-None 
-21 (0.67) 
-4.00 ± 4.89 
- 
- 
- 
-Primary 
-45 (1.43) 
-4.53 ±  3.19 
- 
- 
- 
-Secondary 
-387 (12.32) 
-7.31 ±  1.92 
- 
- 
- 
-University 
-2688 (85.58) 
-7.55 ±  1.24 
-107.13 
-<0.001 
-Occupation 
-Students 
-1268 (40.37) 
-7.49 ± 1.39 
- 
- 
- 
-Civil servant 
-1501 (47.79) 
-7.52 ± 1.55 
- 
- 
- 
-Independents  201 (6.40) 
-7.31 ± 1.26 
- 
- 
- 
-Unemployed 
-171 (5.44) 
-6.78 ± 2.10 
-13.07 
-<0.001 
- 
-7 
- 
-Place 
-of 
-current 
-residence 
-Asuncion 
-(Capital) 
-474 (15.09) 
-7.08 ± 2.28 
- 
- 
- 
-Metropolitan 
-area  
-594 (18.91) 
-7.46 ± 1.28 
- 
- 
- 
-Interior  
-2073 (66) 
-7.54 ± 1.33 
-18.10 
-<0.001 
-*“Others” included re-married, co-habiting, separated, divorced, and widowed. 
- 
+
 Multiple linear regression analysis showed that male gender (vs. female, β: -0.283, P: 
 0.000), marital status of married (vs. other, β: -0.370, P: 0.000), Education of secondary 
 (vs. University, β: 3.346, P: 0.000), and Place of current residence in Asuncion (vs. 
 Interior, β: 0.347, P:0.000) (Table 2). 
-Table 2. Results of multiple linear regression on factors associated with poor 
-COVID-19 knowledge 
-Characteristic 
-Coefficient 
-Standard 
-error 
-t 
-P 
-Gender (male vs. 
-female 
--0.283 
-0.055 
-5.07 
-0.000 
-Age-group (18 -
-29 vs. 30 -49) 
--0.101 
-0.754 
--1.34 
-0.180 
-Age-group (30 -
-49 vs. ≥ 50) 
-0.632 
-0.128 
-0.49 
-0.623 
-Marital 
-status 
-(never-married vs. 
-married) 
--0.586 
-0.076 
--0.77 
-0.443 
- 
-8 
- 
-Marital 
-status 
-(married 
-vs. 
-Other) 
--0.370 
-0.925 
--4.00 
-0.000 
-Education 
-(Primary 
-vs. 
-secondary)  
-0.711 
-0.379 
-1.88 
-0.061 
-Education 
-(secondary 
-vs. 
-University) 
-3.346 
-0.321 
-10.42 
-0.000 
-Education 
-(Primary 
-vs. 
-University) 
-3.489 
-0.313 
-11.13 
-0.000 
-Occupation 
-(Students vs. Civil 
-servant) 
-0.130 
-0.702 
-1.86 
-0.063 
-Occupation 
-(Students 
-vs. 
-Independents) 
--0.089 
-0.116 
--0.77 
-0.444 
-Place of current 
-residence 
-(Asuncion 
-vs. 
-Metropolitan 
-area) 
-0.243 
-0.886 
-2.74 
-0.006 
-Place of current 
-residence 
-0.347 
-0.743 
-4.68 
-0.000 
- 
-9 
- 
-(Asuncion 
-vs. 
-Interior) 
- 
- 
- 
- 
+
 The majority of the respondents agreed that COVID-19 will finally be successfully 
 controlled (66.28%). Rates of reporting “disagree” and “I don't know” were 6.78% and 
 26.93%, respectively. Statistically significant differences were found between attitudes 
 and gender, age-group, marital status, education, occupation, place of current residence 
 and COVID-19 knowledge score (Table 3). 
- 
-Table 3. Attitudes towards COVID-19 by demographic variables 
-Characteristic 
-Attitudes, n (%) or mean (standard deviation) 
-Final success in controlling  
-Confidence 
-of 
-winning 
- 
- 
-Agree 
-Disagree 
-Don´t 
-know 
-Yes 
-No 
-Gender 
-Male 
-687 
-(68.56) 
-102 
-(10.18) 
-213 
-(21.26) 
-843 
-(84.13) 
-159 (15.87) 
- 
-Female 
-1395 
-(65.22) 
-111 
-(5.19) 
-633 
-(29.59)* 
-1887 
-(88.22) 
-252 
-(11.78)* 
-Age-group 
-(years) 
-18 – 29 
-1248 
-(65.65) 
-140 
-(7.36) 
-513 
-(26.99) 
-1625 
-(85.48) 
-276 (14.52) 
- 
-10 
- 
- 
-30 – 49 
-678 
-(64.33) 
-70 (6.64) 
-306 
-(29.03) 
-922 
-(87.48) 
-132 (12.52) 
- 
-≥ 50 
-156 
-(83.87) 
-3 (1.61) 
-27 
-(14.52)* 
-183 
-(98.39) 
-3 (1.61)* 
-Marital 
-status 
-Never-
-married 
-1374 
-(64.87) 
-147 
-(6.94) 
-597 
-(28.19) 
-1821 
-(85.98) 
-297 (14.02) 
- 
-Married 
-495 
-(69.33) 
-36 (5.04 
-183 
-(25.63) 
-642 
-(89.92) 
-72 (10.08) 
- 
-Other 
-213 
-(68.93) 
-30 (9.71) 
-66 
-(21.36)** 
-267 
-(86.41) 
-42 (13.59)* 
-Education 
-None 
-6 
-(28.57) 
-0 (0) 
-15 
-(71.43) 
-18 
-(85.71) 
-3 (14.29) 
- 
-Primary 
-24 
-(53.33) 
-3 (6.67) 
-18 (40) 
-33 
-(73.33) 
-12 (26.67) 
- 
-Secondary 
-291 
-(75.19) 
-15 (3.88) 
-81 
-(20.93) 
-342 
-(88.37) 
-45 (11.63) 
- 
-University 
-1761 
-(65.51) 
-195 
-(7.25) 
-732 
-(27.23)* 
-2337 
-(86.94) 
-351(13.06)* 
-Occupation 
-Students 
-824 
-(64.98) 
-94 (7.41) 
-350 
-(27.60) 
-1091 
-(86.04) 
-177 (13.96) 
- 
-Civil servant 
-991 
-(66.02) 
-98 (6.53) 
-412 
-(27.45) 
-1300 
-(86.61) 
-201 (13.39) 
- 
-Independents  141 
-(70.15) 
-15 (7.46) 
-45 
-(22.39) 
-186 
-(92.54) 
-15 (7.46) 
- 
-11 
- 
- 
-Unemployed 
-126 
-(73.68) 
-6 (3.51) 
-39 
-(22.81)* 
-153 
-(89.47) 
-18 (10.53)* 
-Place 
-of 
-current 
-residence 
-Asuncion 
-(Capital) 
-261 
-(55.06) 
-48 
-(10.13) 
-165 
-(34.81) 
-375 
-(79.11) 
-99 (20.89) 
- 
-Metropolitan 
-area  
-357 
-(60.10) 
-54 (9.09) 
-183 
-(30.81) 
-507 
-(85.35) 
-87 (14.65) 
- 
-Interior  
-1464 
-(70.62) 
-111 
-(5.35) 
-498 
-(24.02)* 
-1848 
-(89.15) 
-225 
-(10.85)* 
-COVID-19 
-knowledge 
-score 
- 
-7.62 
-(1.15) 
-7.40 
-(1.38) 
-7.06 
-(2.12)** 
-7.51 
-(1.37) 
-7.10 (2.18)* 
-*P:0.000   **P:0.001 
- 
+
 Multiple logistic regression analysis found that male gender (vs. female OR: 1.50 P: 
 0.000), and COVID-19 knowledge score (OR: 0.78, P: 0.000). Female gender (vs. male 
 OR: 1.3, P: 0.000), age-groups of 18-29 (vs. 30 -49, OR: 1.55, P: 0.000) and COVID-19 
 knowledge score (OR: 1.18, P: 0.000) (Table 4) 
-Table 4. Results of multiple binary logistic regression analysis on factors 
-significantly associated with attitudes towards COVID-19 
-Characteristic 
-OR (95% CI) 
-P 
-disagree with final success (vs. 
-agree) 
- 
- 
-Gender (male vs. female) 
-1.50 (0.40 -    0.63) 
-0.000 
-Age-group (18 -29 vs. 30 -49) 
-0.78 (0.62 -     0.98) 
-0.000 
- 
-12 
- 
-COVID-19 knowledge score 
-0.78 (0.74 -    0.83) 
-0.000 
-no confidence of winning 
- 
- 
-Gender (male vs. female) 
-1.31 (1.05 – 1.63) 
-0.000 
-Age-group (18 -29 vs. 30 - 49) 
-1.55 (1.25 -1.92) 
-0.000 
-COVID-19 knowledge score 
-1.18 (1.10 -1.26) 
-0.000 
- 
+
 The vast majority of the participants had not visited any crowded place (88.35%) and 
 wore masks when going out (74.31%) in recent days. Statistically significant differences 
 were found between practices and gender, age-group, marital status, education, 
 occupation, place of current residence and COVID-19 knowledge score (Table 3). 
-Table 5. Practices towards COVID-19 by demographic variables 
- 
- 
-Practices, n (%) or mean (standard deviation) 
-Characteristics  
-Going to crowded place 
-Wearing a mask 
- 
- 
-Yes 
-No 
-Yes 
-No 
-Gender 
-Male 
-168 (16.77) 
-834 (83.23) 
-255 
-(25.45) 
-747 
-(74.55) 
- 
-Female 
-198 (9.26) 
-1941 
-(90.74)* 
-552 
-(25.81) 
-1587 
-(74.19) 
-* 
-Age-group 
-(years) 
-18 – 29 
-240 (12.62) 
-1661 
-(87.38)  
-498 
-(26.20) 
-1403 
-(73.80)  
- 
-30 – 49 
-108 (10.25) 
-946 (89.75) 
-294 
-(27.89) 
-760 
-(72.11) 
- 
-13 
- 
- 
-≥ 50 
-18 (9.68) 
-168 (90.32) 
-* 
-15 (8.06) 171 
-(91.94) 
-* 
-Marital status 
-Never-
-married 
-234 (11.05) 
-1884 
-(88.95) 
-549 
-(25.92) 
-1569 
-(74.08) 
- 
-Married 
-81 (11.34) 
-633 (88.66) 
-186 
-(26.05) 
-528 
-(73.95) 
- 
-Other 
-51 (16.50) 
-258 (83.50) 
-** 
-72 
-(23.30) 
-237 
-(76.70) 
-** 
-Education 
-None 
-9 (42.86) 
-12 (57.14) 
-9 (42.86) 12 
-(57.14) 
- 
-Primary 
-18 (40) 
-27 (60) 
-15 
-(33.33) 
-30 
-(66.67) 
- 
-Secondary 
-39 (10.08) 
-348 (89.92) 
-90 
-(23.26) 
-297 
-(76.74) 
- 
-University 
-300 (11.16) 
-2388 
-(88.84) * 
-693 
-(25.78) 
-1995 
-(74.22) 
-** 
-Occupation 
-Students 
-141 (11.12) 
-1127 
-(88.88) 
-319 
-(25.16) 
-949 
-(74.84) 
- 
-Civil servant 
-183 (12.19) 
-1318 
-(87.81) 
-383 
-(25.52) 
-1118 
-(74.48) 
- 
-Independents  18 (8.96) 
-183 (91.04) 
-57 
-(28.36) 
-144 
-(71.64) 
- 
-14 
- 
- 
-Unemployed 
-24 (14.04) 
-147 (85.96) 
-* 
-48 
-(28.07) 
-123 
-(71.93) 
-* 
-Place of current 
-residence 
-Asuncion 
-(Capital) 
-93 (19.62) 
-381 (80.38) 
-117 
-(24.68) 
-357 
-(75.32) 
- 
-Metropolitan 
-area  
-75 (12.63) 
-519 (87.37) 
-123 
-(20.71) 
-471 
-(79.29) 
- 
-Interior  
-198 (9.55) 
-1875 
-(90.45) 
-567 
-(27.35) * 
-15069 
-(72.65) 
-* 
-COVID-19 
-knowledge 
-score 
- 
-6.83 (2.68) 
-7.54 (1.26) 
-7.64 
-(1.71) ** 
-7.39 
-(1.43) 
-* 
-*P:0.000   **P:0.001 
- 
+
 Multiple logistic regression analysis found that male gender (vs. female OR: 0.53, P: 
 0.000), age-group 18-20 (vs. 30 -49, OR: 0.68, P: 0.000), and COVID-19 knowledge 
 (OR:0.81, P:0.000) were significantly associated with going to any crowded place. Male 
 gender (vs. female, OR: 1.01, P: 0.000), and COVID-19 knowledge (OR: 1.13, P:0.000), 
 were significantly associated with not wearing a mask outside (Table 6). 
-Table 6. Results of multiple binary logistic regression analysis on factors 
-significantly associated with practices towards COVID-19 
-Characteristic 
-OR (95% CI) 
-P 
-Going to a crowded place 
- 
- 
-Gender (male vs. female) 
-0.53 (0.42 – 0.67) 
-0.000 
- 
-15 
- 
-Age-group (18-29 vs. 30 - 49) 
-0.68 (0.55 -0.85) 
-0.001 
-Marital status (never-married vs. 
-married) 
-1.34) (1.12 – 1.60) 
-0.001 
-COVID-19 knowledge score 
-0.81 (0.76 -0.87) 
-0.000 
-Not wearing a mask 
- 
- 
-Gender (male vs. female) 
-1.01 (0.85 -1.21) 
-0.000 
-Age-group (18-29 vs. 30 - 49) 
-0.80 (0.68 – 0.93) 
-0.000 
-COVID-19 knowledge score 
-1.13 (1.06 – 1.20) 
-0.000 
- 
-Discussion. 
+
 An investigation of Knowledge, Attitudes and Practices can use qualitative as well as 
 quantitative techniques. The idea is to achieve a thorough knowledge of the target 
 audience, so the best thing would be to start with a focus group, to explore the topic and 
@@ -918,17 +142,16 @@ then based on that information put together a survey, select a sample and conduc
 research(14), due to the current circumstances of the this is difficult in the country and 
 due to the urgency of the case, this first quick survey was carried out through an online 
 survey, constituting the first survey on KAP in COVID-19 in Paraguay. 
+
 This study was based on the study by Bao-Liang Zhong et al(12), where they have studied 
 the Knowledge, attitudes and practices towards COVID-19 among Chinese residents 
 during the period of rapidly increasing outbreak of COVID-19, the Spanish translation of 
 the instrument, validated through a pilot study of 10 subjects, after which the mass 
 dissemination to the WhatsApp groups was carried out. No other study similar to this one 
 was found. 
+
 The study participants were mostly young adults, university students and residents of the 
 interior of the country (Concepción, San Pedro, Cordillera, Guaira, Caaguazú, Itapúa, 
- 
-16 
- 
 Alto Paraná, Presidente Hayes, and Boquerón), only a small proportion of Asunción and 
 Metropolitan Area, where the first cases of COVID-19 in the country have been reported. 
 The global knowledge was 62%, although it is acceptable, it is still considered low, since 
@@ -940,6 +163,7 @@ knowledge score on COVID-19 and gender, the age group, the marital status, educa
 occupation and place of residence. The results found in this study are lower than those 
 found by Bao-Liang Zhong et al(12), being a higher average than what was found in this 
 study, however, the statistical associations are similar. 
+
 The vast majority of attitudes were favorable when it came to successfully controlling 
 COVID-19 and winning the battle, however, it is striking that a proportion of subjects do 
 not know if the virus was successfully controlled, and Another interesting proportion that 
@@ -948,14 +172,13 @@ false information distributed by social networks, due to the fear and anxiety th
 these cases, which can be mitigated by a culture of proper use of information. Males have 
 a greater chance of having a good attitude, and those with higher scores on knowledge 
 about COVID-19. 
+
 Regarding the practices, most of the practices are adequate. Most of them reported not 
 having gone to places of mass attendance. The risk found between “going to a crowded 
 place” and demographic variables was low, while the risk found between going “without 
 wearing a mask” was 1.01 times more in men than in women, the results are similar to 
 that found by Bao-Liang Zhong et al(12). 
- 
-17 
- 
+
 The strength of this study lies in its large sample recruited during a critical period, the 
 initial stage of the COVID-19 outbreak, although this sample was composed mainly of 
 people with good academic training who the ones who most easily used social networks 
@@ -968,101 +191,10 @@ a lower level of academic training and older age, who are the ones at greatest r
 The limitations of the study focus mainly on the sample, which was not selected through 
 sampling, in turn the collection method, where the respondents had to have access to the 
 Internet and Smartphone or computers to complete the survey. 
+
 As a conclusion, it is possible to indicate that the knowledge about COVID-19 in the 
 Paraguayan population during the outbreak was acceptable, attitudes have been mostly 
 favorable and the practices are mostly adequate, however, it is necessary to implement 
 massive education campaigns, to increase the proportion of knowledge about COVID-19, 
 to stop its spread. With the help of the population and the health authorities, it is possible 
 to stop and decrease COVID-19 cases throughout the Paraguayan territory. 
-References 
-1.  
-Sun P, Lu X, Xu C, Sun W, Pan B. Understanding of COVID-19 based on current 
-evidence. J Med Virol [Internet]. 2020 Feb 25 [cited 2020 Mar 10];jmv.25722. 
-Available from: http://www.ncbi.nlm.nih.gov/pubmed/32096567 
-2.  
-OPS/OMS | Enfermedad por el Coronavirus (COVID-19) [Internet]. [cited 2020 
-Mar 
-10]. 
-Available 
-from: 
-https://www.paho.org/hq/index.php?option=com_content&view=article&id=156
- 
-18 
- 
-96:coronavirus-disease-covid-19&Itemid=4206&lang=es 
-3.  
-Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global 
-health concern. Lancet [Internet]. 2020 Jan [cited 2020 Feb 10]; Available from: 
-https://linkinghub.elsevier.com/retrieve/pii/S0140673620301859 
-4.  
-Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, et al. First 
-Case of 2019 Novel Coronavirus in the United States. N Engl J Med [Internet]. 
-2020 Jan 31 [cited 2020 Feb 11];NEJMoa2001191. Available from: 
-http://www.nejm.org/doi/10.1056/NEJMoa2001191 
-5.  
-Rodriguez-Morales AJ, Gallego V, Escalera-Antezana JP, Mendez CA, Zambrano 
-LI, Franco-Paredes C, et al. COVID-19 in Latin America: The implications of the 
-first confirmed case in Brazil. Travel Med Infect Dis [Internet]. 2020 Feb 29 [cited 
-2020 
-Mar 
-22];101613. 
-Available 
-from: 
-http://www.ncbi.nlm.nih.gov/pubmed/32126292 
-6.  
-2019 Novel Coronavirus (2019-nCoV) | CDC [Internet]. [cited 2020 Feb 10]. 
-Available from: https://www.cdc.gov/coronavirus/2019-ncov/index.html 
-7.  
-Velavan TP, Meyer CG. The COVID-19 epidemic. Vol. 25, Tropical Medicine and 
-International Health. Blackwell Publishing Ltd; 2020. p. 278–80.  
-8.  
-COVID-19 - Informacion sobre el Corona Virus [Internet]. [cited 2020 Mar 22]. 
-Available from: https://www.mspbs.gov.py/covid-19.php 
-9.  
-Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G, Wallrauch C, et al. 
-Transmission of 2019-nCoV Infection from an Asymptomatic Contact in 
-Germany. N Engl J Med [Internet]. 2020 Jan 30 [cited 2020 Feb 
-11];NEJMc2001468. 
-Available 
-from: 
-http://www.nejm.org/doi/10.1056/NEJMc2001468 
-10.  
-Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical 
- 
-19 
- 
-characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: 
-a descriptive study. Lancet (London, England) [Internet]. 2020 Jan 30 [cited 2020 
-Feb 11];0(0). Available from: http://www.ncbi.nlm.nih.gov/pubmed/32007143 
-11.  
-Yin Y, Wunderink RG. MERS, SARS and other coronaviruses as causes of 
-pneumonia. Vol. 23, Respirology. Blackwell Publishing; 2018. p. 130–7.  
-12.  
-Zhong B-L, Luo W, Li H-M, Zhang Q-Q, Liu X-G, Li W-T, et al. Knowledge, 
-attitudes, and practices towards COVID-19 among Chinese residents during the 
-rapid rise period of the COVID-19 outbreak: a quick online cross-sectional survey. 
-Int J Biol Sci [Internet]. 2020 [cited 2020 Mar 22];16(10):1745–52. Available 
-from: http://www.ijbs.com/v16p1745.htm 
-13.  
-Taber KS. The Use of Cronbach’s Alpha When Developing and Reporting 
-Research Instruments in Science Education. Res Sci Educ. 2018 Dec 
-1;48(6):1273–96.  
-14.  
-The KAP Survey Model (Knowledge, Attitudes, and Practices) | SPRING 
-[Internet]. [cited 2020 Mar 22]. Available from: https://www.spring-
-nutrition.org/publications/tool-summaries/kap-survey-model-knowledge-
-attitudes-and-practices 
-15.  
-Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic 
-and international spread of the 2019-nCoV outbreak originating in Wuhan, China: 
-a modelling study. Lancet (London, England) [Internet]. 2020 Jan 31 [cited 2020 
-Feb 10]; Available from: http://www.ncbi.nlm.nih.gov/pubmed/32014114 
-16.  
-Dong XC, Li JM, Bai JY, Liu ZQ, Zhou PH, Gao L, et al. [Epidemiological 
-characteristics of confirmed COVID-19 cases in Tianjin]. Zhonghua Liu Xing 
-Bing Xue Za Zhi [Internet]. 2020 Mar 13 [cited 2020 Mar 22];41(5):638–42. 
-Available from: http://www.ncbi.nlm.nih.gov/pubmed/32164400 
- 
-20 
- 
- 

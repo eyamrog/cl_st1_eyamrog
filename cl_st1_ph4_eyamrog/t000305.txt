@@ -1,58 +1,46 @@
-BCG vaccination and its possible effects on the acceleration of incidence and mortality 
-by the new coronavirus: first step. 
- 
-Carlos Eduardo Duarte1,*, Raquel Almeida Lopes Neves1, Fernanda Cappi Santos Duarte1, 
-Guilherme Gaeski Passuello1 
- 
- 
-1. Hospital Beneficência Portuguesa – Centro Avançado de Ritmologia e Eletrofisiologia – 
-São Paulo/SP - Brazil 
- 
-*Corresponding author: carlosduarte@ritmologiacare.com.br 
- 
-Duarte CE: https://orcid.org/0000-0001-6671-0820   
-Neves RAL: https://orcid.org/0000-0003-2619-0036 
-Duarte FCS: https://orcid.org/0000-0002-7592-0640 
-Passuello GG: https://orcid.org/0000-0002-5547-3484 
- 
-ABSTRACT 
- 
 Introduction: BCG vaccine (bacillus Calmette–Guérin) has been developed against 
 tuberculosis and proven to be used for other purposes by activating and/or training innate 
 immunity. The protective effect against the new coronavirus should be investigated and 
-tested while a specific vaccine is not available. Objective: To compare the acceleration rates 
+tested while a specific vaccine is not available. 
+
+Objective: To compare the acceleration rates 
 of incidence and lethality of COVID-19 according to the vaccination program for BCG of the 
-main countries affected by the pandemic. Methods: Part one of three of the data survey from 
+main countries affected by the pandemic. 
+
+Methods: Part one of three of the data survey from 
 official sources on the number of cases and number of deaths by COVID-19 between 
 December 31, 2019 and April 11, 2020, being calculated the incidence, mortality and 
 lethality acceleration rates, and compared among predefined groups according to their BCG 
-vaccination programs. Results: Countries without a vaccination program in place or that 
+vaccination programs. 
+
+Results: Countries without a vaccination program in place or that 
 never had one for BCG had incidence and mortality acceleration rates of 21.36 and 53.21 
 times higher (p < 0.001), respectively, than the same rates in countries with a universal 
 vaccination program. In addition, patients with an expanded vaccination program had a 43% 
 lower mortality rate (p < 0.001) compared to countries with a vaccination program at birth 
-only. Conclusion: There is a correlation between the coverage of BCG vaccination programs 
+only. 
+
+Conclusion: There is a correlation between the coverage of BCG vaccination programs 
 and the acceleration in the number of new cases and deaths in countries, showing a possible 
 protective factor in places with existing BCG vaccination programs. 
- 
-Keywords: COVID-19, Coronavirus, BCG Vaccine, Incidence, Lethality. 
- 
- 
- 
-INTRODUCTION 
+
 A series of pneumonia cases of unknown etiology appeared in the city of Wuhan, in 
 Hubei province, China, in December 2019, where the new coronavirus was identified and 
 named as 2019-nCoV. Since this is a new strain of the virus, and we lost the opportunity to 
 isolate the first cases, direct combat became very difficult. The first epidemiological 
 information was that the elderly with systemic atrial hypertension and diabetes mellitus 
 would be the main risk groups1. 
+
 Descriptions of severe cases in young people, adolescents, and adults without 
 comorbidities2 question the hypothesis that fragility is paramount for a tough outcome. 
+
 The pandemic progress has been made from East to West, and the different mortality 
 and lethality rates in border regions need to be clarified3. 
+
 Numerous hypotheses are made daily and range from the geographical position, 
 climate, altitude, age pyramid, and the population's capacity to adhere to public policy 
 measures such as social distancing and/or quarantine4. 
+
 The coronavirus infection reaches humans through mucous membranes. It is intuitive 
 that the host's response, whether related to form or intensity, brings out its clinical expression 
 and after the passage through the mucosa, a mechanical barrier, the so-called innate immunity 
@@ -60,22 +48,22 @@ composed by macrophages, lymphocytes (CD4+) and natural killers, must be able to
 eliminate the virus and/or present antigens to antibody-producing cells, humoral immunity, so 
 that infection is banned and permanent protection is created5. The loss of this battle or an 
 exacerbated reaction of the immune system itself can lead to death. 
+
 A treatment that improves the innate immune response will increase the efficiency of 
 the immune system as soon as the virus enters the bloodstream. To this end, understanding 
 the quality of the individual or collective innate response is of paramount importance. In 
 order to achieve this, the authors have correlated the epidemiological moment of the 
 pandemic in different countries with their BCG (bacillus Calmette–Guérin) vaccination 
 status, which mainly acts by activating or training innate immunity6. 
- 
-HYPOTHESIS 
+
 Countries with expanded and continuous BCG vaccination status will have less 
 impact on COVID-19 incidence and lethality rates compared to countries that have 
 abandoned or never had vaccination programs. 
- 
-METHODOLOGY 
+
 COVID-19 primarily surveyed the number of cases and the number of deaths between 
 December 31, 2019, and April 11, 2020. The same data should be compared on May 11 and 
 June 11. 
+
 The data source is official and published by John Hopkins Hospital3. Countries were 
 chosen in descending order from the number of cases published on April 11, 2020, and 
 divided into two categories: In the first, countries with no tuberculosis vaccination programs 
@@ -83,133 +71,52 @@ or with low vaccination coverage7. In the second, the countries with the highest
 coverage either by vaccine applied at birth or two or more life stages. The categories were 
 divided into seven subgroups, which are composed of the countries mentioned above, 
 followed by the reasons for grouping them (Table 1): 
- Group 1: United States, Spain, Italy, Germany, France, Iran, United Kingdom, 
+
+- Group 1: United States, Spain, Italy, Germany, France, Iran, United Kingdom, 
 Belgium, Switzerland and the Netherlands = Countries that have vaccination 
 programs only for specific groups such as the United States or have abandoned their 
 programs; 
- Group 2: China, Brazil, Portugal, South Korea, Russia, Israel, Ireland, Chile, Japan, 
+
+- Group 2: China, Brazil, Portugal, South Korea, Russia, Israel, Ireland, Chile, Japan, 
 Mexico, Hungary, Turkey, Austria, Poland, and India = Countries that have 
 vaccination programs in place or have high vaccination coverage above 90% such as 
 Austria.  
-o Group 2a: The same countries in Group 2, excluding India and China, due to 
+
+- Group 2a: The same countries in Group 2, excluding India and China, due to 
 population size. 
- Group 3: Hungary, Chile, Russia and Portugal = Countries that conduct an extended 
+
+- Group 3: Hungary, Chile, Russia and Portugal = Countries that conduct an extended 
 vaccination scheme and in two moments of life7,8; 
- Group 4: China, Brazil, South Korea, Israel, Ireland, Japan, Mexico, Turkey, Austria, 
+
+- Group 4: China, Brazil, South Korea, Israel, Ireland, Japan, Mexico, Turkey, Austria, 
 Poland and India = Countries with a vaccination scheme at birth only; 
- Group 5: the United States and Mexico, Spain and Portugal and the United Kingdom 
+
+- Group 5: the United States and Mexico, Spain and Portugal and the United Kingdom 
 and Ireland = Countries chosen due to their territorial proximity and different 
 vaccination situations, which were subdivided into two groups as follows: 
-o Group 5.1: United States, Spain, and the United Kingdom. 
-o Group 5.2: Mexico, Portugal, and Ireland. 
- 
+
+- Group 5.1: United States, Spain, and the United Kingdom. 
+
+- Group 5.2: Mexico, Portugal, and Ireland. 
+
 For the profile description of each group, the following measures are presented: 
-incidence, mortality, and lethality rates. Such measures are calculated as follows9: 
- 
-               
-  
-                                                   
-                                                                                    
- 
-                 
-                                         
-                                                          
- 
-                                                  
-                                 
- 
+incidence, mortality, and lethality rates. Such measures are calculated as follows9: <> 
+
 For each rate, the confidence interval was calculated using the confidence interval 
 method for proportions10. 
+
 To compare the groups of interest, the ratio of incidences, obtained by the division 
 between the incidence rates of the groups that are being compared, are presented. The reasons 
 for mortality and lethality are also presented. 
+
 To test the null hypothesis that the rates are equal between groups of interest, the Z 
 test was used for comparison of proportions10. The analyses were performed using R software 
 version 3.6.311, and a significance level of 5% was considered. 
- 
-RESULTS 
+
 Table 1 presents descriptive incidence, mortality, and lethality rates for each interest 
 group. Incidence and mortality values are presented based on 100,000 inhabitants and 
 lethality values based on 100 cases.  
- 
-Table 1. Descriptive table of the groups concerning the incidence, mortality, and lethality 
-rates on April 11, 2020.  
-Group Population 
-Cases 
-Deaths Incidence  
-(CI 95%) 
-Mortality (CI 
-95%) 
-Lethality 
-(CI 95%) 
-1 
-771,322,365 
-1,163,501 89,362 150.845 
-(150.571;151.119) 
-11.586 
-(11.51;11.662) 
-7.68 
-(7.632;7.729) 
-2 
-3,582,014,174 252,993 
-7,799 
-7.063 
-(7.035;7.09) 
-0.218 
-(0.213;0.223) 
-3.083 
-(3.016;3.151) 
-2a 
-843,964,174 
-162,390 
-4,207 
-19.241 
-(19.148;19.335) 
-0.498 
-(0.484;0.514) 
-2.591 
-(2.514;2.669) 
-3 
-185,962,987 
-36,867 
-691 
-19.825 
-(19.623;20.029) 
-0.372 
-(0.345;0.401) 
-1.874 
-(1.739;2.019) 
-4 
-3,396,051,187 216,126 
-7,108 
-6.364 
-(6.337;6.391) 
-0.209 
-(0.204;0.214) 
-3.289 
-(3.214;3.365) 
-5.1 
-441,473,267 
-683,556 
-43,816 154.835 
-(154.469;155.203) 
-9.925 
-(9.832;10.018) 
-6.41 
-(6.352;6.468) 
-5.2 
-141,725,718 
-27,405 
-955 
-19.337 
-(19.109;19.567) 
-0.674 
-(0.632;0.718) 
-3.485 
-(3.272;3.71) 
-CI: Confidence interval. 
-*Incidence and mortality calculated based on 100,000 inhabitants. 
-**Lethality calculated based on 100 cases. 
+
 The countries of group 5.1 (the USA, Spain, and the UK) were selected for 
 comparison with their peers (Mexico, Portugal, and Ireland) and presented higher incidence 
 and mortality rates among the groups studied, with 154.835 cases per 100,000 inhabitants and 
@@ -217,78 +124,32 @@ and mortality rates among the groups studied, with 154.835 cases per 100,000 inh
 that incidence, mortality, and lethality are higher in group 5.1 than in group 5.2. presenting an 
 incidence of 8.01 times higher, mortality 14.73 times higher, and lethality 1.84 times higher 
 than group 6.2 (p < 0.001) (Table 2). 
- 
-Table 2. Comparative table with incidence, mortality and lethality ratios, and respective p-
-values for comparisons of proportion.  
- 
-Incidence 
-ratio 
-p-
-value 
-Mortality ratio p-
-value 
-Lethality 
-ratio 
-p-value 
-Group 1 vs group 
-2 
-21.36 
-< 0.001 53.21 
-< 0.001 2.49 
-< 0.001 
-Group 1 vs group 
-2a 
-7.84 
-< 0.001 23.24 
-< 0.001 2.96 
-< 0.001 
-Group 1 vs group 
-3 
-7.61 
-< 0.001 31.18 
-< 0.001 4.10 
-< 0.001 
-Group 1 vs group 
-4 
-23.70 
-< 0.001 55.35 
-< 0.001 2.34 
-< 0.001 
-Group 3 vs group 
-4  
-3.12 
-< 0.001 1.78 
-< 0.001 0.57 
-< 0.001 
-Group 
-5.1 
-vs 
-group 5.2 
-8.01 
-< 0.001 14.73 
-< 0.001 1.84 
-< 0.001 
- 
+
 Regarding mortality, groups 1 and 5.1 have the highest values, 11.586 and 9.925 
 deaths per 100,000 inhabitants, respectively. Group 4 is the one that presents the lowest 
 mortality, 0.209 deaths per 100,000 inhabitants, and here the fact that China is included may 
 reflect this result due to its large number of inhabitants, but group 3 (countries with an 
 expanded vaccine scheme) is the one with the lowest lethality rate, with 1.87 deaths per 100 
 cases (p < 0.001). 
+
 Table 2 presents the incidence, mortality, and lethality ratios for the pairs of groups to 
 be compared, as well as the p-value resulting from the hypothesis test for comparisons of two 
 proportions. 
+
 Comparing group 1 with group 2, the ratio estimates indicate that the incidence rate in 
 group 1 is 21.36 times higher than the same rate in group 2. Also, group 1 has a mortality rate 
 of 53.21 times higher and a lethality rate 2.49 times higher than group 2. This behavior is 
 likely to be related to the populations of China and India, and the ratio will be reduced to 7.84 
 in the incidence ratio and 23.24 in the mortality ratio when excluded for calculation purposes; 
 however, the maintenance of the lethality ratio occurs independently of the groups. 
+
 Another interesting data is given when comparing groups 3 and 4. Group 3 presents 
 an incidence rate 3.12 times higher and mortality coefficient 43% lower (p < 0.001) and may 
 reflect the higher diagnostic capacity of the country but with less severity. 
+
 When comparing groups 1 with 2a and 1 with 3, it was found that the incidence ratio 
 is around eight and the mortality ratio 23.24 and 31.18 times, respectively. 
+
 The calculations for a better understanding of the speed variations of the incidence 
 and lethality curves in the different countries were made considering the initial acceleration 
 (IA), in cases/d²/100,000 inhab., extracted from the date of case 1 until case 100 and the final 
@@ -299,49 +160,7 @@ This calculation generates a nondimensional value, where countries with values >
 phase of increasing the speed of cases and values < 1 are the ones that the speed of mortality 
 per 100,000 inhabitants decreased. Only four countries: Japan, Israel, Chile, and Hungary 
 (Fig. 4) had values < 1; the United States had the highest ratio with an index of 354. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 1.  Initial acceleration of diagnosis of the cases 0–100 in different countries with two 
-categories of vaccination coverage. 
- 00,0020,0040,0060,0080,010,0120,0140,016IndiaUnited StatesChinaRussiaJapanGermanyFranceUnited KingdomBrazilMexicoSouth KoreaSpainItalyBelgiumTurkiaIranPoloniaIsraelChileHungaryAustriaPortugalNetherlandsIrelandSwitzerland
-Initial acceleration (0–100) P/d²/100,000 inhab. 
-Figure 2. Diagnostic acceleration of > 101 cases in different countries with two categories of 
-vaccine coverage. 
- 
- 00,050,10,150,20,25ChinaIndiaMexicoRussiaPoloniaHungaryChileNetherlandsTurkiaIsraelBelgiumSwitzerlandIreland
-Final acceleration >100 P/d²/100,000 inhab. 
-Figure 3. Initial acceleration of deaths from 0–100 in different countries with two categories 
-of vaccination coverage. 
- 
-       
-  00,0010,0020,0030,0040,0050,0060,0070,008ChinaJapanIndiaUnited StatesSouth KoreaMexicoRussiaBrazilFrancePoloniaGermanyIranTurkiaChileUnited KingdomIsraelItalyHungarySpainNetherlandsAustriaIrelandSwitzerlandBelgiumPortugal
-Acceleration of the mortality rate 
-Death/D2/100,000 inhab. 
- 
-Figure 4. Initial and final acceleration ratios (0 – 100 cases) and (100 – current cases).-100-50050100150200250300350400RevisãoTurkiaPoloniaHungaryChilePortugalIrelandMexicoNetherlandsAustriaBrazilSwitzerlandIsraelIranBelgiumRussiaSpainItalyIndiaUnited KingdomGermanyFranceUnited StatesSouth KoreaJapanChina
- 
- 
-DISCUSSION 
+
 During the preparation of this article, a paper was published in which the authors 
 made a cut of the analysis on March 21 and found similar correlations of the importance of 
 BCG vaccination with the incidence and lethality of COVID-1912. However, although the 
@@ -349,12 +168,14 @@ source of the data was similar, the initial acceleration rates for the number of
 number of deaths (0–100) and subsequent accelerations (from 101 to April 11) were used in 
 the present work. Further studies will be done by the authors of this work on the accelerations 
 from April 11 to May 11 and finished with accelerations from May 11 to June 11. 
+
 Analyzing Fig. 4, the fact that BCG vaccination promotes a protective effect on the 
 incidence and lethality of COVID-19 in several countries was identified as a major criticism: 
 most countries in group 2 are temporarily behind in the course of the pandemic. To minimize 
 the selection bias, a time equalization of all countries was individually performed in this 
 study from the start date of the pandemic, which will not be necessary for future analyses, 
 since the evolution of the pandemic itself will clarify this issue (Fig. 5). 
+
 The acceleration in the number of deaths in the D30 of the countries in group 1 
 remained four times higher than in group 2 and 2a. It is expected that the fact that this work 
 has been based on the acceleration of the indexes will remain with statistical significance in 
@@ -362,13 +183,7 @@ future analyses on May 21 and June 21. The importance of this future analysis is
 the protective hypothesis of the BCG vaccination program primarily in unvaccinated and 
 high-risk populations for the development of the severe form of COVID-19. At the same 
 time, there is no specific vaccine against the new coronavirus. 
- 
- 
- 
- 
-Figure 5. Acceleration of deaths on the 30th day.  
- 
-CONCLUSION 
+
 The lower numbers of cases and deaths by COVID-19 in countries that have a 
 vaccination program in place is instigating and biologically plausible. So far, with the 
 numbers of the pandemic in progress, a correlation between the coverage of such programs 
@@ -376,61 +191,3 @@ and the number of cases and deaths in the countries studied has been found. The 
 collection and analysis will be essential to establish or refute this concept. Controlled studies 
 with easy-to-use methodologies should be quickly encouraged and, until a specific vaccine is 
 developed, this may be our primary weapon. 
- 
- 00,0050,010,0150,020,025BelgiumNetherlandsItalySwitzerlandUnited KingdomFranceGermanyIranUnited StatesSpainPortugalIrelandAustriaTurkiaIsraelHungaryBrazilChilePoloniaSouth KoreaChinaRussia
- 
- 
-REFERENCES 
-1. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected 
-with 2019 novel coronavirus in Wuhan, China. Lancet. 2020;395(10223):497-506. 
-https://doi.org/10.1016/S0140-6736(20)30183-5 
-2. Sinha IP, Harwood R, Semple MG, Hawcutt DB, Thursfield R, Narayan O, et al. COVID-
-19 infection in children. Lancet Respir Med. 2020. https://doi.org/10.1016/S2213-
-2600(20)30152-1 
-3. COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at 
-Johns 
-Hopkins 
-University 
-(JHU). 
-[cited 
-2020 
-Apr 
-18]. 
-Available 
-at: 
-https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd402994234
-67b48e9ecf6 
-4. Coronavirus disease 2019 (COVID-19) pandemic: increased transmission in the EU/EEA 
-and the UK – seventh update. Stockholm: ECDC; 2020. [cited 2020 Apr 18]. Available at: 
-ecdc.europa.eu/sites/default/files/documents/RRA-seventh-update-Outbreak-of-coronavirus-
-disease-COVID-19.pdf 
-5. Abbas AK, Lichtman AH. Basic immunology: functions and disorders of the immune 
-system. Philadelphia: Saunders; 2011. 
-6. Netea MG, Joosten LAB, Latz E, Mills KHG, Natoli G, Stunnenberg HG, et al. Trained 
-immunity: A program of innate immune memory in health and disease. Science. 
-2016;352(6284):aaf1098. https://doi.org/10.1126/science.aaf1098 
-7. The BCG World Atlas. A database of global BCG vaccination policies and practices. [cited 
-2020 Apr 18]. Available at: http://www.bcgatlas.org/index.php 
- 
- 
-8. Barreto M, Pereira SM, Ferreira AA. Vacina BCG: eficácia e indicações da vacinação e da 
-revacinação. J Pediatr (Rio J). 2006;82(3 Suppl):S45-S54. https://doi.org/10.1590/S0021-
-75572006000400006 
-9. Franco LJ, Passos ADC. Fundamentos de epidemiologia. 2nd ed. Barueri: Manole; 2010. 
-10. Morettin PA, Bussab WO. Estatística básica. 7th ed. Pinheiros: Saraiva; 2009. 
-11. R Core Team (2019) The R Project for Statistical Computing. [cited 2020 Apr 18]. 
-Available at: http://www.r-project.org/index.html 
-12. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation 
-between universal BCG vaccination policy and reduced morbidity and mortality for COVID-
-19: an epidemiological study. MedRxiv: The Preprint Server for Health Sciences). 2020. 
-https://doi.org/10.1101/2020.03.24.20042937 
- 
- 
- 
- 
-Author's contribution: All authors contributed equally in the work. 
-Funding - Own funding 
-Conflict of interest: No conflict of interest. 
-Image consent - Not applicable 
-Ethics committee approval - Not applicable 
- 

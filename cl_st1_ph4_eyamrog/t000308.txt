@@ -1,25 +1,3 @@
-  1/1
-Revista da Sociedade Brasileira de Medicina Tropical
-Journal of the Brazilian Society of Tropical Medicine
-Vol.:53:e20200147: 2020
-doi: 10.1590/0037-8682-0147-2020
-Corresponding author: Dr. Bernardo Carvalho Muniz. 
-e-mail: bernardocmuniz@yahoo.com.br
- 0000-0003-1483-2759
-Received 25 March 2020
-Accepted 14 April 2020
-Images in Infectious Diseases
-FIGURE 1: A – Patient 1, chest CT, pulmonary window, axial (A) and coronal 
-(B) reconstructions showing multifocal areas of ground-glass opacities in 
-both lungs, with small areas of consolidation in the right lower lobe (arrow). 
-C and D (patient 2), chest CT with pulmonary window, showing multifocal 
-areas of ground-glass opacities in both lungs. Note subpleural and peripheral 
-involvement in the lingula (arrow).
-COVID-19 - Computed tomography findings in  
-two patients in Petrópolis, Rio de Janeiro, Brazil
-Bernardo Carvalho Muniz[1], Miguel Angelo Milito[1],[2] and Edson Marchiori[2]
-[1]. Hospital Santa Teresa, Departamento de Radiologia, Central Integrada de Imagens – LUMIC, Petrópolis, RJ, Brasil. 
-[2]. Universidade Federal do Rio de Janeiro, Departamento de Radiologia, Rio de Janeiro, RJ, Brasil.
 A 65-year-old male patient (patient 1) previously healthy, 
 returned from a trip to Egypt with a stopover in New York in March 
 2020. After 5 days, he presented coryza, asthenia, myalgia, dry 
@@ -32,10 +10,12 @@ dyspnea, respiratory rate of 20 breaths per minute and oxygen
 saturation of 90%, normotensive, acyanotic. She was afebrile, 
 eupneic, with 95% oxygen saturation, normotensive, acyanotic. 
 Both patients did not present significant changes in laboratory tests.
+
 Chest radiographs were normal. Chest CT showed bilateral 
 multifocal ground-glass opacities in both patients, some associated 
 with areas of consolidation (Figure 1). There was no pleural 
 effusion or lymph node enlargement.
+
 Patients were considered suspicious for COVID-19, and 
 collection of material to conduct the SARS-CoV-2 research by 
 polymerase chain reaction (PCR), was performed. The patients were 
@@ -44,11 +24,13 @@ confirmed the diagnosis of COVID-19 in both patients. Patient 1
 evolved with respiratory failure, renal failure, and death. Patient 2 
 remained stable, with clinical improvement, still hospitalized, no 
 longer in the intensive care unit.
+
 Radiological examinations are of great importance in the early 
 detection and treatment of COVID-19. Chest radiography is not 
 sensitive for the early detection of the disease and may demonstrate 
 normal findings in the initial stage of infection1,2, and is not 
 recommended as the first-line imaging modality for COVID-19. 
+
 High-resolution chest CT is the most effective radiological 
 examination for the early detection of lung involvement by 
 COVID-19. The largest sample study to date has shown that, 
@@ -57,12 +39,3 @@ pulmonary impairment was correctly diagnosed by CT1, which
 provides valuable information for diagnosis and evaluates the 
 severity of lung disease caused by COVID-19, guiding clinical 
 treatment.
-CONFLICT OF INTEREST
-All authors declare that there is no conflict of interest.
-REFERENCES
-1.	 1. Zu ZY, Jiang MD, Xu PP, Chen W, Ni QQ, Lu GM, et al. Coronavirus 
-Disease 2019 (COVID-19): A Perspective from China. Radiology. 2020. 
-doi: 10.1148/radiol.2020200490.
-2.	 2. Zhou S, Wang Y, Zhu T, Xia L. CT features of coronavirus disease 
-2019 (COVID-19) pneumonia in 62 patients in Wuhan, China. AJR Am 
-J Roentgenol. 2020; Mar 5:1-8. doi: 10.2214/AJR.20.22975.

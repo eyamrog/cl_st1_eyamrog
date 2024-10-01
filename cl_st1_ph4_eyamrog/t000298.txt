@@ -1,33 +1,14 @@
-Title 
-Worldwide differences in COVID19-related mortality 
-Título 
-Diferenças nas taxas de mortalidade por COVID-19 ao redor do mundo 
- 
-Autor 
-Pedro C Hallal 
-Universidade Federal de Pelotas, Brazil 
- 
-Contato 
-Rua Gomes Carneiro 1, Pelotas, Rio Grande do Sul, Brasil, CEP 96010-610,  
-prchallal@gmail.com  
- 
-Orcid 
-https://orcid.org/0000-0003-1470-6461 
- 
- 
- 
- 
-Abstract 
- 
 Background: COVID-19 was declared pandemic on March 11. By April 18, over 
 150,000 people had died around the world. Here we compare mortality statistics due to 
 COVID-19 worldwide, by adjusting for the size of the population and the stage of the 
 pandemic.  
+
 Methods: Data from the European Centre for Disease Control and Prevention, and Our 
 World in Data websites were used. Analyses are based on number of deaths per one 
 million inhabitants. In order to account for the stage of the pandemic, the baseline date 
 was defined as the day in which the 10th death was reported. The analyses included 78 
 countries and territories which reported 10 or more deaths by April 9.  
+
 Results: Mortality statistics varied remarkably worldwide. On day 10, India had 0.06 
 deaths per million, Belgium had 30.46 and San Marino 618.78. On day 20, India had 
 0.27 deaths per million, China had 0.71 and Spain 139.62. On day 30, four Asian 
@@ -36,45 +17,17 @@ highest ones. In Italy and Spain, mortality on day 40 was greater than 250 per m
 whereas in China and South Korea, mortality was below 4 per million.  Mortality on 
 day 10 was moderately correlated with life expectancy (rho 0.53; P<0.001), but not with 
 population density (rho 0.12; P=0.31). 
+
 Conclusions: Asian countries presented much lower mortality figures as compared to 
 European ones. Life expectancy was found to be correlated with mortality.   
-Keywords: COVID-19, epidemiology, mortality 
- 
- 
-Resumo 
- 
-Introdução: A COVID-19 foi declarada uma pandemia em 11 de março. Até o dia 18 
-de abril, há haviam falecido mais de 150.000 pessoas ao redor do mundo. Neste artigo, 
-são comparadas as estatísticas de mortalidade por COVID-19 no mundo, ajustando-se 
-para o tamanho da população e para o estágio da pandemia em cada país.  
-Métodos: Dados dos websites do Centro para o Controle e Prevenção de Doenças da 
-Europa e do Our World in Data foram utilizados. As análises são baseadas no número 
-de mortes por um milhão de habitantes. Para levar em consideração o estágio da 
-pandemia, definiu-se como linha de base a data da décima morte em cada país. As 
-análises incluíram 78 países e territórios com 10 ou mais mortes relatadas até o dia 09 
-de abril.  
-Resultados: As taxas de mortalidade variaram consideravelmente ao redor do mundo.  
-No dia 10, a Índia tinha 0,06 mortes por um milhão, a Bélgica tinha 30,46 e San Marino 
-tinha 618,78. No dia 20, a Índia tinha 0,27 mortes por um milhão, a China 0,71 e a 
-Espanha 139,62. No dia 30, quatro países da Ásia tinham as menores taxas de 
-mortalidade, enquanto oito países europeus tinham as maiores. Na Itália e na Espanha, a 
-mortalidade no dia 40 era maior do que 250 por um milhão, enquanto na China e na 
-Coréia do Sul, era abaixo de 4 por um milhão. A mortalidade no dia 10 correlacionou-se 
-moderadamente com a expectativa de vida (rho 0,53; P<0,001), mas não mostrou 
-correlação com a densidade populacional (rho 0,12; P=0,31). 
-Conclusões: Os países asiáticos apresentaram taxas de mortalidade muito menores do 
-que aquelas observadas nos países europeus. A expectativa de vida correlacionou-se 
-com a mortalidade.  
-Palavras-chave: COVID-19, epidemiologia, mortalidade 
-Introduction 
- 
+
 COVID-19, the disease produced by the SARS-CoV-2 virus, was first reported in China 
 in late 2019. After being declared by the World Health Organization as an international 
 health emergency on January 30, 2020, COVID-19 was declared pandemic on March 11, 
 2020.1 Less than six months after the first case, over 150,000 people died around the 
 world (as of April 18, 2020). In a single day (April 16, 2020), almost 5,000 people lost 
 their lives in the United States due to COVID-19.2    
- 
+
 Official statistics on the number of COVID-19 cases are severely biased.3 First, testing 
 policies vary around the globe, with most countries testing only symptomatic patients, 
 particularly the ones with more severe symptoms. Second, the availability of tests is not 
@@ -86,23 +39,21 @@ times greater than the number of notified cases.4 In Santa Clara, US, the estima
 of cases was 50-85 times greater than the number of registered cases.3 In summary, 
 dealing with the number of confirmed cases is misleading, due to the lack of a proper 
 denominator.5 
- 
+
 Official statistics on deaths represent a much more reliable platform to understand the 
 dynamics of COVID-19. In this article, we compare mortality statistics due to COVID-
 19 worldwide, by adjusting for the size of the population and the stage of the pandemic 
 in each country. We also present the correlation between mortality and (a) life 
 expectancy; (b) population density. By using these methods, we disentangle 
 misinterpretation and fake news from scientific evidence.  
- 
-Methods 
- 
+
 Data used in this analysis are freely available at the European Centre for Disease 
 Control and Prevention, and the Our World in Data websites. All analyses are based on 
 number of deaths per one million inhabitants. In order to take into account the stage of 
 the pandemic, the baseline date for each country was set as the day in which the 10th 
 death was reported in that particular country. Mortality statistics are presented for days 
 10, 20, 30 and 40 since the 10th death.  
- 
+
 We excluded from our analysis the 125 countries and territories that have reported less 
 than 10 deaths by April 18, 2020, as well as those in which the 10th death was reported 
 after April 8, 2020. Excluded countries and territories were: Angola, Anguilla, Antigua 
@@ -124,16 +75,14 @@ Singapore, Saint Maarten, Slovakia, Somalia, South Sudan, Sri Lanka, Sudan,
 Suriname, Syria, Taiwan, Timor Leste, Togo, Trinidad and Tobago, Turks and Caicos, 
 Uganda, United Republic of Tanzania, United States Virgin Islands, Uruguay, 
 Uzbekistan, Venezuela, Vietnam, Yemen, Zambia, Zimbabwe.   
- 
+
 We also obtained freely available statistics from the United Nations on life expectancy, 
 and from the World Bank on population density. Life expectancy data were not 
 available for Puerto Rico and San Marino, and therefore, we obtained them from 
 different sources (Puerto Rico: Statista.com; San Marino: Indexmundi.com). We plotted 
 mortality on day 10 since the 10th death in each country with (a) life expectancy; and (b) 
 population density, as well as calculated Spearman’s correlation coefficients (rho).  
- 
-Results 
- 
+
 Table 1 lists the 78 countries and territories included in the analysis by alphabetical 
 order. The mortality variation was remarkably high: on day 10 since the 10th death, 17 
 countries (21.8%) presented mortality below one per million, and 19 (24.4%) above 10 
@@ -141,14 +90,14 @@ per million. Numbers were extremely high in two small areas: San Marino, with a
 population of 33.8 thousand inhabitants presented a mortality of 618.78 per million. In 
 Andorra, with a population of 77.0 thousand people, mortality on day 10 since the 10th 
 death was 336.50 per million.    
- 
+
 For 48 countries and territories, information on mortality on day 20 since the 10th death 
 was available. Only China, India, Indonesia, Japan and Pakistan had a mortality below 
 one per million inhabitants on day 20. More than half of the countries (54.2%) 
 presented mortality figures on day 20 above 10 per million. The highest values were 
 found in Europe: Luxembourg (110.23 per million), Spain (139.62 per million), 
 Belgium (175.59 per million), and San Marino (942.90 per million). 
- 
+
 Only 17 countries and territories achieved day 30 since the 10th death. Four Asian 
 countries (Japan: 0.67 per million; China:1.55 per million; South Korea: 2.71 per 
 million; and Philippines: 3.06 per million) had the lowest mortality figures. Italy 
@@ -156,33 +105,31 @@ million; and Philippines: 3.06 per million) had the lowest mortality figures. It
 Netherlands (164.75 per million), United Kingdom (166.88 per million), Spain (311.13 
 per million), Belgium (445.48 per million), and San Marino (1,119.69) presented the 
 highest mortality figures on day 30 since the 10th death. 
- 
+
 Although the absolute number of deaths in San Marino on April 18, 2020 (N=39) might 
 appear low, it represents 0.12% of its entire population. Would this catastrophic figure 
 of 0.12% happen in other places, it would represent millions of deaths in populous 
 countries, such as China, India, United States, Indonesia, Pakistan, Brazil, Nigeria, 
 Bangladesh, Mexico and Japan.  
- 
+
 The six countries which achieved day 40 since the 10th death showed remarkable 
 differences in mortality (Figure 1). In both Italy and Spain, mortality was greater than 
 250 per million, whereas in China and South Korea, mortality was below 4 per million. 
 Iran (41.10 per million) and the United States (71.45 per million) presented intermediate 
 values.   
- 
+
 In Figure 2, we compare mortality per million figures on days 10, 20 and 30 for the 16 
 countries with data, except San Marino. Belgium and Spain presented similar curves, 
 but from day 20 to 30, the difference became larger. United Kingdom and Netherlands 
 came next, with the difference that from day 20 to 30, the increase was much larger in 
 the United Kingdom. Curves for the Asian countries were similar, with mortality figures 
 much lower as compared to those observed in European countries or the United States.  
- 
+
 Figure 3 presents ecological data on mortality on day 10 since the 10th death and life 
 expectancy. Spearman’s correlation coefficient was 0.53 (P<0.001). No correlation was 
 found between mortality on day 10 since the 10th death and population density (rho 
 0.12; P=0.31). 
- 
-Discussion 
- 
+
 All analyses presented in this article refer to the number of deaths. Although some 
 degree of underreporting due to insufficient testing is possible, mortality statistics are 
 much more reliable than those on number of cases. Recent serological studies in South 
@@ -196,7 +143,7 @@ infections were undocumented, contributing to the rapid dissemination of the vir
 also important to keep in mind that, until reliable prevalence estimates are not available, 
 case fatality is another statistic that should not be used at this stage, because the 
 denominator (number of cases) is unavailable.  
- 
+
 Two issues that are easily depicted by scientists should be widely disseminated to the 
 public and to politicians, to avoid misinterpretation and misguided policies. First, 
 analyzing the absolute number of deaths is misleading. For example, as of April 18, 
@@ -212,593 +159,18 @@ February 26, whereas it happened on March 10 in Spain. When we adjust for the st
 of the pandemic, figures were higher in Spain than in Italy all the time (10.10 vs. 3.26 
 per million, respectively, on day 10; 58.52 vs. 35.69 per million, respectively, on day 
 20; and 138.62 vs. 135.04 per million, respectively, on day 30).   
- 
+
 On one hand, we found life expectancy to be moderately correlated with mortality. This 
 finding is in accordance with previous studies showing increasing fatality rates with 
 increasing age.2 On the other hand, we found no evidence of an ecological association 
 between mortality and population density, despite the fact that the highest mortality 
 figures on day 10 since the 10th death were observed in two small areas (San Marino 
 and Andorra).   
- 
+
 In conclusion, Asian countries presented much lower mortality figures as compared to 
 European ones. Although life expectancy was correlated with mortality, its correlation 
 with mortality was just moderate, so that there are other factors contributing to these 
 differences. Likely explanations are the implementation and adherence to social 
 distancing measures, testing policies and health system structures.    
- 
-Acknowledgments 
+
 To Aline E Lamas, who helped collect the data, fill the spreadsheets and search for data.  
- 
-References 
-1 
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019 
-2 
-https://ourworldindata.org/coronavirus 
-3 
-Bendavid E, Mulaney B, Sood N, et al. COVID-19 Antibody Seroprevalence in 
-Santa Clara County, California. medRxiv 2020.04.14.20062463; doi: 
-https://doi.org/10.1101/2020.04.14.20062463 
-4 
-Hallal PC, Barros AJ, Horta BL, et al. Population-based survey of COVID-19 in 
-Southern Brazil. [submitted for publication] 
-5 
-Victora CG. What’s the denominator? Lancet 1993; 342(8863): 97-9. 
-6 
-Gudbjartsson DF, Helgason A, Jonsson H, et al. Spread of SARS-CoV-2 in the 
-Icelandic Population. N Engl J Med. 2020 Apr 14. doi: 10.1056/NEJMoa2006100. 
-[Epub ahead of print] 
-7 
-Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, Shaman J. Substantial 
-undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-
-CoV2). Science 2020 Mar 16. pii: eabb3221. doi: 10.1126/science.abb3221. [Epub 
-ahead of print] 
- 
- 
-Table 1. Mortality per one million inhabitants on days 10, 20, 30 and 40 since the 10th 
-death (baseline) in each country.   
-Country 
-Baseline 
-Day 10 
-Day 20 
-Day 30 
-Day 40 
-Afghanistan 
-Apr 8 
-0.77 
- 
- 
- 
-Albania 
-Mar 29 
-7.64 
-9.03 
- 
- 
-Algeria 
-Mar 21 
-0.80 
-5.36 
- 
- 
-Andorra 
-Apr 1 
-336.50 
- 
- 
- 
-Argentina 
-Mar 27 
-1.02 
-2.41 
- 
- 
-Australia 
-Mar 26 
-1.33 
-2.39 
- 
- 
-Austria 
-Mar 23 
-16.21 
-37.42 
- 
- 
-Bangladesh 
-Apr 7 
-0.36 
- 
- 
- 
-Belarus 
-Apr 7 
-4.23 
- 
- 
- 
-Belgium 
-Mar 19 
-30.46 
-175.59 
-445.48 
- 
-Bolivia 
-Apr 4 
-2.40 
- 
- 
- 
-Bosnia and Herzegovina 
-Apr 1 
-11.28 
- 
- 
- 
-Brazil 
-Mar 23 
-1.13 
-5.29 
- 
- 
-Bulgaria 
-Apr 2 
-4.03 
- 
- 
- 
-Burkina Faso 
-Mar 31 
-1.15 
- 
- 
- 
-Canada 
-Mar 20 
-1.62 
-11.53 
- 
- 
-Chile 
-Apr 1 
-3.40 
- 
- 
- 
-China 
-Jan 22 
-0.18 
-0.71 
-1.55 
-2.02 
-Colombia 
-Mar 30 
-1.08 
- 
- 
- 
-Croatia 
-Apr 5 
-7.55 
- 
- 
- 
-Cuba 
-Apr 8 
-2.74 
- 
- 
- 
-Cyprus 
-Apr 4 
-14.08 
- 
- 
- 
-Czech Republic 
-Mar 29 
-8.22 
-16.15 
- 
- 
-Democratic Republic of Congo 
-Apr 2 
-0.22 
- 
- 
- 
-Denmark 
-Mar 22 
-15.54 
-42.64 
- 
- 
-Dominican Republic 
-Mar 26 
-7.10 
-16.87 
- 
- 
-Ecuador 
-Mar 23 
-6.80 
-17.85 
- 
- 
-Egypt 
-Mar 23 
-0.45 
-1.43 
- 
- 
-Estonia 
-Apr 3 
-18.85 
- 
- 
- 
-Finland 
-Mar 30 
-7.22 
- 
- 
- 
-France 
-Mar 8 
-2.68 
-30.56 
-136.52 
-274.54 
-Germany 
-Mar 16 
-2.36 
-16.02 
-38.84 
- 
-Greece 
-Mar 22 
-4.70 
-8.63 
- 
- 
-Honduras 
-Apr 1 
-2.42 
- 
- 
- 
-Hungary 
-Mar 25 
-3.31 
-12.63 
- 
- 
-India 
-Mar 26 
-0.06 
-0.27 
- 
- 
-Indonesia 
-Mar 20 
-0.42 
-0.88 
- 
- 
-Iran 
-Feb 25 
-1.27 
-8.62 
-24.73 
-41.10 
-Iraq 
-Mar 18 
-0.99 
-1.59 
-1.99 
- 
-Ireland 
-Mar 27 
-32.00 
-89.92 
- 
- 
-Israel 
-Mar 28 
-6.59 
-16.41 
- 
- 
-Italy 
-Feb 26 
-3.26 
-35.69 
-135.04 
-262.79 
-Japan 
-Mar 11 
-0.28 
-0.44 
-0.67 
- 
-Lebanon 
-Mar 30 
-2.78 
- 
- 
- 
-Lithuania 
-Apr 6 
-10.65 
- 
- 
- 
-Country 
-Baseline 
-Day 10 
-Day 20 
-Day 30 
-Day 40 
-Luxembourg 
-Mar 28 
-65.5 
-110.23 
- 
- 
-Malaysia 
-Mar 23 
-1.39 
-2.26 
- 
- 
-Mexico 
-Mar 28 
-0.97 
-3.77 
- 
- 
-Moldova 
-Apr 5 
-9.92 
- 
- 
- 
-Morocco 
-Mar 27 
-1.90 
-3.44 
- 
- 
-Netherlands 
-Mar 15 
-16.11 
-86.78 
-164.75 
- 
-North Macedonia 
-Apr 2 
-16.32 
- 
- 
- 
-Norway 
-Mar 25 
-8.12 
-21.03 
- 
- 
-Pakistan 
-Mar 29 
-0.26 
-0.65 
- 
- 
-Panama 
-Mar 28 
-12.75 
-25.26 
- 
- 
-Peru 
-Mar 28 
-2.79 
-8.31 
- 
- 
-Philippines 
-Mar 16 
-0.35 
-1.31 
-3.06 
- 
-Poland 
-Mar 25 
-1.88 
-6.47 
- 
- 
-Portugal 
-Mar 22 
-15.69 
-42.66 
- 
- 
-Puerto Rico 
-Apr 2 
-14.68 
- 
- 
- 
-Romania 
-Mar 25 
-6.91 
-16.53 
- 
- 
-Russia 
-Mar 31 
-0.52 
- 
- 
- 
-San Marino 
-Mar 18 
-618.78 
-942.90 
-1119.69 
- 
-Saudi Arabia 
-Apr 1 
-1.35 
- 
- 
- 
-Serbia 
-Mar 29 
-8.96 
-16.17 
- 
- 
-Slovenia 
-Mar 30 
-19.24 
- 
- 
- 
-South Africa 
-Apr 6 
-0.57 
- 
- 
- 
-South Korea 
-Feb 26 
-0.86 
-1.58 
-2.71 
-3.63 
-Spain 
-Mar 10 
-16.40 
-139.62 
-311.31 
- 
-Sweden 
-Mar 19 
-10.10 
-58.52 
-138.62 
- 
-Switzerland 
-Mar 15 
-9.94 
-55.92 
-99.14 
- 
-Thailand 
-Mar 31 
-0.47 
- 
- 
- 
-Tunisia 
-Apr 2 
-2.37 
- 
- 
- 
-Turkey 
-Mar 22 
-2.54 
-11.93 
- 
- 
-Ukraine 
-Mar 31 
-1.30 
- 
- 
- 
-United Arab Emirates 
-Apr 5 
-2.83 
- 
- 
- 
-United Kingdom 
-Mar 13 
-4.14 
-37.30 
-166.88 
- 
-United States 
-Mar 5 
-0.17 
-2.42 
-21.62 
-71.45 
- 
-  
- 
- 
- 
- 
-Figure 1. Mortality (deaths per one million people) on day 40 since the 10th death. 
- 
- 
-2.02
-3.63
-41.10
-71.45
-262.79
-274.54
-0
-50
-100
-150
-200
-250
-300
-China
-South Korea
-Iran
-United States
-Italy
-Spain
-Deaths / 1 million (day 40 since 10th death)
- 
-Figure 2.  Mortality per million on days 10, 20 and 30 since the 10th death.  
- 
- 
-0
-50
-100
-150
-200
-250
-300
-350
-400
-450
-Day 10
-Day 20
-Day 30
-Deaths / 1 million (days 10, 20 and 30 since 10th death)
-Japan
-China
-Iraq
-South Korea
-Philippines
-United States
-Iran
-Germany
-Switzerland
-Italy
-France
-Sweden
-Netherlands
-United Kingdom
-Spain
-Belgium
- 
-Figure 3. Scatter plot of life expectancy (years) and mortality on day 10 since the 10th 
-death.  

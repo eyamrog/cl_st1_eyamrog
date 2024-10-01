@@ -1,53 +1,9 @@
-Telehealth interventions in the context of the COVID-19 pandemic: Protocol for a 
-scoping review 
-Felipe Sebastião de Assis ReisI 
-Keilla  Martins Milby II 
-Ana Carolina Pereira Nunes Pinto III 
-César Ramos Rocha-Filho IV 
-Aline Pereira da Rocha V 
-Nelson Carvas Junior VI 
-Vinicius Tassoni Civile VII 
-Rodolfo Rodrigo Pereira Santos VIII 
-Gabriel Sodré Ramalho IX 
-Giulia Fernandes Moça Trevisani X 
-Laura Jantsch Ferla XI  
-Maria Eduarda dos Santos Puga XII 
-Alvaro Nagib Atallah XIII Corresponding author 
-Virgínia Fernandes Moça Trevisani XIV  
- 
-I MD, MPS, Technologies and Healthcare. Manager, Medical Practices, Beneficência Portuguesa de São Paulo. https://orcid.org/0000-0002-5728-4863 
-II Nurse, PhD Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP) and Volunteer Researcher, Cochrane Brazil, 
-São Paulo (SP), Brazil.   https://orcid.org/0000-0003-0601-457X 
-III MSc, Physiotherapist, PhD Student., Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP); Professor, Biological and 
-Health Sciences Department, Universidade Federal do Amapá (AP), Brazil and Volunteer Researcher, Cochrane Brazil, São Paulo (SP), Brazil. 
-http://orcid.org/0000-0002-1505-877X  
-IV MSc, Biotechnologist, PhD Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP). https://orcid.org/0000-0002-
-7190-0263 
-V MSc, Pharmacist, PhD Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP) and Volunteer Researcher, 
-Cochrane Brazil, São Paulo (SP), Brazil. http://orcid.org/0000-0002-0863-6500 
-VI Physical Educator. Ibirapuera University.  https://orcid.org/0000-0003-2168-8927  
-VII MSc, Physiotherapist, PhD Student,  Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP); Assistant Professor, 
-Physiotherapy Course, Paulista University and Volunteer Researcher, Cochrane Brazil, São Paulo (SP), Brazil. https://orcid.org/0000-0002-1718-628  
-VIII Statistician. MSc Student, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP). Data Science Manager, Synova Health 
-CRO.  https://orcid.org/0000-0003-1540-7586  
-IX Undergraduate Medical Student, Escola Paulista de Medicina (EPM), Universidade Federal de São Paulo (UNIFESP), São Paulo (SP), 
-Brazil.https://orcid.org/0000-0001-7201-2308 
-X Undergraduate Medical Student at Universidade Santo Amaro, São Paulo (SP), Brazil https://orcid.org/0000-0003-3581-3047 
-XI Undergraduate Medical Student at Universidade Federal de São Paulo (UNIFESP), São Paulo (SP), Brazil https://orcid.org/0000-0002-8162-2068 
-XII Librarian, Evidence-Based Health Program, Universidade Federal de São Paulo (UNIFESP). https://orcid.org/0000-0001-8470-861X 
-XIII XIV MD, MSc, PhD. Nephrologist and Full Professor, Discipline of Emergency and Evidence-Based Medicine, Escola Paulista de Medicina (EPM), 
-Universidade Federal de São Paulo (UNIFESP), and Director, Cochrane Brazil, São Paulo (SP), Brazil. http://orcid.org/0000-0003-0890-594X 
-XIV MD, MSc, PhD Rheumatologist. Discipline of Emergency and Evidence-Based Medicine, Escola Paulista de Medicina (EPM), Universidade Federal 
-de São Paulo (UNIFESP), Universidade de Santo Amaro UNISA  São Paulo (SP), Brazil http://orcid.org/0000-0002-7180-6285 
- 
-Research developed at the  Brazilian Cochrane Center  
- 
-ABSTRACT 
 CONTEXT AND OBJECTIVE: The current health crisis due to COVID-19 is forcing us to 
 profoundly rethink our social organizations and practices in health. While there is no 
 effective treatment for the virus, staying home and social isolation are the control 
 measures recommended by health authorities. The aim of this study is to perform a 
 scoping review in order to summarize the current evidence in telehealth for COVID-19. 
+
 METHODS: This study is a protocol to describe the rationale, hypothesis and planned 
 methods of our scoping review. We will include randomized controlled trials (RCTs), 
 observational cohort studies, case-control studies, cross-sectional studies, qualitative 
@@ -59,10 +15,7 @@ Regional BVS - LILACS, and Scopus. We will include studies performed since Decem
 Ottawa Scale to perform the critical appraisal of included studies. We will assess the 
 certainty of evidence using the Grading of Recommendations Assessment, Development 
 and Evaluation (GRADE). 
-Key-words: COVID-19; Telehealth; Telemedicine, Technologies; COVID-19. 
- 
- 
-INTRODUCTION 
+
 The world is currently under the threats of Coronavirus Disease 2019 (COVID-19) 
 pandemic (1). The rapid spread of the disease has overwhelmed health care systems 
 worldwide. The most important challenge in COVID-19 pandemic seems to be the high 
@@ -71,12 +24,14 @@ health systems. Telemedicine emerges as a viable strategy that can expand access
 bring medical attention to the needy and to people living in remote areas (2). It is an 
 approach that may be useful for screening, diagnosing and monitoring patients with 
 several conditions (3).  
+
 As no treatment has been proven to be effective, social distancing is currently the best 
 defense against COVID-19 (4). Social distancing measures have rapidly changed how 
 physicians assess and interact with patients (5). Many providers have appropriately 
 cancelled non-emergent procedures and converted ambulatory appointments to remote 
 video visits or phone calls (5). Telehealth applications have also been developed, aiming 
 at screening and monitoring people who are suspected of having COVID-19 (6). 
+
 With the global emergency scenario, huge efforts have been made, also in the scientific 
 world. New studies about COVID 19 are being published daily and scientific evidence is 
 constantly being updated. This exponential production, however, has a contradiction: the 
@@ -86,16 +41,11 @@ professionals who are on the front line fighting the pandemic and to health mana
 synthesizing all this information may not be viable and is frequently not adequate. 
 Therefore, we aim to perform a scoping review in order to summarize the current evidence 
 in telehealth for COVID-19. 
- 
- 
- 
-METHODS 
-Design 
+
 This protocol aims to describe the planned methods of our scoping review. It will be 
 reported in accordance with the Extended Preferred Reporting Items for Systematic 
 Reviews and Meta-Analyses Statement for Scoping Reviews (PRISMA-ScR) (7). 
- 
-Eligibility criteria 
+
 We will include randomized controlled trials (RCT), cohort studies, case-control studies, 
 cross-sectional studies, and/or case series that describe telehealth applications for 
 fighting COVID-19 pandemic. We will consider all patients using any category of 
@@ -103,61 +53,33 @@ telehealth applications, without any restriction related to modality of interven
 sex of the participants. Software, online programs, social media pages, video education, 
 mobile applications, or other similar information and communication technology applied 
 or developed to screen, diagnose or monitor COVID-19 patients will be considered. 
+
 Outcome measures 
+
 ● 
 Primary outcomes: Effectiveness of diagnostic and prognostic evaluation, 
 Hospitalization rate  
+
 ● 
 Secondary outcomes: Adherence; Feasibility; Users satisfaction; cost; self‐
 management and self‐efficacy 
- 
-Data sources and searches 
+
 We will search Medline via PubMed, Embase via Elsevier, Cochrane Library - Cochrane 
 Central Register of Controlled Trials (CENTRAL), Portal Regional BVS - LILACS, and 
 Scopus using relevant descriptors and synonyms, adapting the search to the 
 specifications of each database to identify published, ongoing, and unpublished studies. 
 We will include studies performed since November 2019. No language restrictions will be 
 used in the selection. 
+
 We will also search the following COVID-19 specific databases: Epistemonikos COVID-
 19 L·OVE platform; ClinicalTrials.gov; The World Health Organization International 
 Clinical Trials Registry Platform (WHO ICTRP). 
 Additionally, we will apply the technique of snowballing, searching the lists of references 
 of the included studies 
- 
-Search strategy 
+
 We will use the terms related to the problem of interest, the intervention and the filter the 
 date of publication. The search strategy in Medline via Pubmed is shown in Table 1. 
- 
- 
-Table 1. Systematic review Search Strategy 
-Number 
-Combiners 
-Terms 
-1 
- 
- 
- 
-Problem 
-of 
-interest 
- 
- 
- 
- 
-"COVID-19" [Supplementary Concept OR (COVID 19) OR (COVID-19) OR  (2019-nCoV) OR (nCoV) 
-OR (Covid19) OR (SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) 
-OR (2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) OR (COVID-
-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) OR (2019 novel coronavirus 
-infection) OR (2019-nCoV infection) OR (coronavirus disease 2019) OR (2019-nCoV disease) OR 
-(COVID-19 virus disease) OR "severe acute respiratory syndrome coronavirus 2" [Supplementary 
-Concept] OR (Wuhan coronavirus) OR (Wuhan seafood market pneumonia virus) OR (COVID19 virus) 
-OR (COVID-19 virus) OR (coronavirus disease 2019 virus) OR (SARS-CoV-2) OR (SARS2) OR (2019-
-nCoV) OR (2019 novel coronavirus)  
-The search strategy above will be used in Medline via Pubmed and will be adapted to the specifications of 
-each database. 
- 
- 
-Study selection 
+
 Two authors (FSAR and RRPS) will select the studies for inclusion in the review. When 
 duplicated studies are found, only one of them will be considered for inclusion. If reports 
 using the same participants and different outcome measurements or using different time 
@@ -169,10 +91,7 @@ in the review. Disagreements between authors regarding the inclusion of studies 
 solved by the third author (VFMT). We will present the reasons for exclusion of the 
 studies. To optimize the process of screening and selection of studies, Rayyan application 
 (8) will be used.  
- 
- 
- 
-Data extraction  
+
 Two authors (FSAR and RRPS) will independently extract data. Discrepancies or 
 disagreements will be solved by a third author (VFMT). We will use a predefined form to 
 extract data from included studies. The form will include information on: (I) Demographic 
@@ -180,9 +99,7 @@ and clinical characteristics of the patients or participants; (II) Time points u
 assessments; (III) Approach for handling missing data (data imputation/how data 
 imputation was performed, use of intention-to-treat approach); (IV)Outcome measures; 
 (V)Sources of funding; (VI)Possibility of conflict of interests; 
- 
-Assessment of methodological quality in included studies and certainty of the 
-body of evidence 
+
 We will use the Risk of Bias tool as recommended by Cochrane Handbook for Systematic 
 Reviews (9) to perform the critical appraisal of randomized clinical trials; for observational 
 studies, we will use Newcastle-Ottawa Scale (10). The quality of evidence will be 
@@ -192,14 +109,14 @@ findings on the quality of evidence (12). Assessment of risk of bias, and assess
 the certainty of evidence will be performed by two authors (FSAR and KMMM), and all 
 the disagreements in the assessment of the risk of bias or quality of evidence will be 
 solved through discussion or, if required, by consulting with a third author (VFMT). 
- 
-Data Synthesis and Analysis 
+
 When at least two studies are sufficiently homogeneous in terms of design, participants, 
 intervention and outcome measurements, we will assess the possibility of pooling their 
 results into meta-analysis. All possible analyses will be performed following the 
 recommendations of Cochrane Handbook (9). If insufficient information or heterogeneous 
 studies are found, the results of the studies will be summarized only in qualitative 
 synthesis. 
+
 For evaluating prognosis, we will perform analyses according to the recommendations of 
 Cochrane, and the Cochrane Prognosis Methods Group. When the response of interest 
 is provided by continuous variable we will perform the analysis in terms of mean difference 
@@ -210,171 +127,28 @@ with COVID-19 and mortality. All others parameters as standard deviation (for MD
 SMD, for instance) and each number of events (RR or OR, for instance) will be pooled. 
 In all cases we will use the generic inverse variance method with random-effects model. 
 The package to be used is the “meta” (version 4.11-0). 
- 
-Dealing with missing data 
+
 For studies that do not provide a mean and associated standard deviation (SD), we will 
 use information and results reported in the text or tables, doing the correct inference. 
 When the parameters established before are not available, the estimate based on other 
 parameters will be made ensuring the correct information. 
+
 We will contact the principal investigators of the included studies asking for additional 
 data or to clarify issues about the studies. In the absence of a reply from the authors, we 
 will expose the data in a descriptive manner avoiding imputation. 
- 
-Assessment of heterogeneity 
+
 We will employ the Cochran’s Q test to assess the presence of heterogeneity considering 
 a threshold of P value < 0.1 as an indicator of whether heterogeneity is present. In 
 addition, we will assess statistical heterogeneity by examining the Higgins I2 statistic 
 following these thresholds:   < 25%: no (none) heterogeneity; 25% to 49%: low 
 heterogeneity;  50% to 74%: moderate heterogeneity;  ≥ 75%: high heterogeneity. 
- 
- 
-DISCUSSION 
+
 The strategies of social distancing, quarantine and isolation applied to reduce the COVID-
 19 transmissibility are necessary nowadays. In this context, the importance of using 
 telehealth to provide assistance can be an interesting alternative. With the great amount 
 of information and communication technologies being developed, it is important to know 
 their outcomes and gains that can be followed for other health issues. Thus, this scoping 
 review aims to summarize the current evidence in telehealth for COVID-19. 
+
 Potential limitations for this study include the possibility of finding biased studies which 
 can make them unsuitable for providing precise estimates or reliable information. 
- 
- 
-REFERENCE 
-1. Ren LL, Wang YM, Wu ZQ, et al. Identification of a novel coronavirus causing severe 
-pneumonia in human: a descriptive study. Chin Med J (Engl). 2020;10. 
-doi:10.1097/CM9.0000000000000722. 
-2. Portnoy J, Waller M, Elliott T. Telemedicine in the Era of COVID-19 [published online 
-ahead 
-of 
-print, 
-2020 
-Mar 
-24]. 
-J 
-Allergy 
-Clin 
-Immunol 
-Pract. 
-2020;. 
-doi:10.1016/j.jaip.2020.03.008 
-3. Flumignan CDQ, Rocha AP, Pinto ACPN, Milby KMMM, Batista MR, Atallah AN, 
-Saconato, Ho. (2019). What do Cochrane systematic reviews say about telemedicine for 
-healthcare?. Sao Paulo Medical Journal, 137(2), 184-192. Epub July 15, 
-2019.https://doi.org/10.1590/1516-3180.0177240419 
-4. World Health Organization. COVID-19 strategy update. WHO. Published online April 
-14, 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/covid-
-strategyupdate4april2020.pdf?sfvrsn=29da3ba0_19. 
-5. Gadzinski AJ, Andino JJ, Odisho AY, Watts KL, Gore JL, Ellimoottil C. Telemedicine 
-and eConsults for Hospitalized Patients During COVID-19 [published online ahead of 
-print, 
-2020 
-Apr 
-21]. 
-Urology. 
-2020;S0090-4295(20)30419-2. 
-doi:10.1016/j.urology.2020.04.061 
-6. Apple COVID-19. Available from: https://apps.apple.com/us/app/id1504132184 
-Accessed in 2020 (Apr 30). 
-7. Tricco, A.C.; Lillie, E.; Zarin, W.; O’Brien, K.K.; Colquhoun, H.; Levac, D.; Moher, D.; 
-Peters, M.; Horsley, T.; Weeks, L.; et al. PRISMA extension for scoping reviews 
-(PRISMA-ScR): Checklist and explanation. Ann. Intern. Med. 2018, 169, 467–473. 
-8. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan-a web and mobile app 
-for systematic reviews. Syst Rev. 2016;5(1):210. DOI: 10.1186/s13643-016-0384-4. 
-9. Higgins J. Cochrane Handbook for Systematic Reviews of Interventions 2011. 
-10. Wells G, Shea B, O'Connell D, Peterson J, Welch V, Losos M et al. The Newcastle–
-Ottawa Scale (NOS) for assessing the quality of non-randomized studies in meta-
-analysis. https://www.ohri.ca/programs/clinical_epidemiology/oxford.asp 2014. 
-11. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et al. Grading quality 
-of evidence and strength of recommendations. Bmj. 2004;328(7454):1490. DOI: 
-10.1136/bmj.328.7454.1490. 
-12. GDT G. Grade’s software for summary of findings tables, health technology 
-assessment and guidelines 2015 [Available from: https://gradepro.org/. 
- 
- 
-Appendix 1 . Strategies 
- 
-COCHRANE LIBRARY  
-#1 (COVID 19) OR (COVID-19) OR  (2019-nCoV) OR (nCoV) OR (Covid19) OR 
-(SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) OR 
-(2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) 
-OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) 
-OR (2019 novel coronavirus infection) OR (2019-nCoV infection) OR (coronavirus 
-disease 2019) OR (2019-nCoV disease) OR (COVID-19 virus disease) OR "severe 
-acute respiratory syndrome coronavirus 2" [Supplementary Concept] OR (Wuhan 
-coronavirus) OR (Wuhan seafood market pneumonia virus) OR (COVID19 virus) OR 
-(COVID-19 virus) OR (coronavirus disease 2019 virus) OR (SARS-CoV-2) OR 
-(SARS2) OR (2019-nCoV) OR (2019 novel coronavirus)  
- 
- 
-EMBASE  
-#1 'covid 19'/exp OR (COVID 19) OR (COVID-19) OR  (2019-nCoV) OR (nCoV) OR 
-(Covid19) OR (SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 
-coronavirus*) OR (2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel 
-coronavirus disease) OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR 
-(coronavirus disease-19) OR (2019 novel coronavirus infection) OR (2019-nCoV 
-infection) OR (coronavirus disease 2019) OR (2019-nCoV disease) OR (COVID-19 
-virus disease) OR (severe acute respiratory syndrome coronavirus 2) OR (Wuhan 
-coronavirus) OR (Wuhan seafood market pneumonia virus) OR (COVID19 virus) OR 
-(COVID-19 virus) OR (coronavirus disease 2019 virus) OR (SARS-CoV-2) OR 
-(SARS2) OR (2019-nCoV) OR (2019 novel coronavirus)  
- 
- 
-WEB OF SCIENCE 
-#1 (COVID 19) OR (COVID-19) OR  (2019-nCoV) OR (nCoV) OR (Covid19) OR 
-(SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) OR 
-(2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) 
-OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) 
-OR (2019 novel coronavirus infection) OR (2019-nCoV infection) OR (coronavirus 
-disease 2019) OR (2019-nCoV disease) OR (COVID-19 virus disease) OR (severe 
-acute respiratory syndrome coronavirus 2) OR (Wuhan coronavirus) OR (Wuhan 
-seafood market pneumonia virus) OR (COVID19 virus) OR (COVID-19 virus) OR 
-(coronavirus disease 2019 virus) OR (SARS-CoV-2) OR (SARS2) OR (2019-nCoV) OR 
-(2019 novel coronavirus)  
- 
- 
-SCOPUS  
-#1 (COVID 19) OR (COVID-19) OR  (2019-nCoV) OR (nCoV) OR (Covid19) OR 
-(SARS-CoV) OR (SARSCov2 or ncov*) OR (SARSCov2) OR (2019 coronavirus*) OR 
-(2019 corona virus*) OR (Coronavirus (COVID-19)) OR (2019 novel coronavirus disease) 
-OR (COVID-19 pandemic) OR (COVID-19 virus infection) OR (coronavirus disease-19) 
-OR (2019 novel coronavirus infection) OR (2019-nCoV infection) OR (coronavirus 
-disease 2019) OR (2019-nCoV disease) OR (COVID-19 virus disease) OR (severe 
-acute respiratory syndrome coronavirus 2) OR (Wuhan coronavirus) OR (Wuhan 
-seafood market pneumonia virus) OR (COVID19 virus) OR (COVID-19 virus) OR 
-(coronavirus disease 2019 virus) OR (SARS-CoV-2) OR (SARS2) OR (2019-nCoV) OR 
-(2019 novel coronavirus)  
- 
- 
-PORTAL REGIONAL BVS 
-MH:"Infecções por Coronavirus" OR (Infecções por Coronavirus) OR (Infecciones por 
-Coronavirus) OR (Coronavirus Infections) OR (COVID-19) OR (COVID 19) OR 
-(Doença pelo Novo Coronavírus (2019-nCoV)) OR (Doença por Coronavírus 2019-
-nCoV) OR (Doença por Novo Coronavírus (2019-nCoV)) OR (Epidemia de Pneumonia 
-por Coronavirus de Wuhan) OR (Epidemia de Pneumonia por Coronavírus de Wuhan) 
-OR (Epidemia de Pneumonia por Coronavírus de Wuhan de 2019-2020) OR (Epidemia 
-de Pneumonia por Coronavírus em Wuhan) OR (Epidemia de Pneumonia por 
-Coronavírus em Wuhan de 2019-2020) OR (Epidemia de Pneumonia por Novo 
-Coronavírus de 2019-2020) OR (Epidemia pelo Coronavírus de Wuhan) OR (Epidemia 
-pelo Coronavírus em Wuhan) OR (Epidemia pelo Novo Coronavírus (2019-nCoV)) OR 
-(Epidemia pelo Novo Coronavírus 2019) OR (Epidemia por 2019-nCoV) OR (Epidemia 
-por Coronavírus de Wuhan) OR (Epidemia por Coronavírus em Wuhan) OR (Epidemia 
-por Novo Coronavírus (2019-nCoV)) OR (Epidemia por Novo Coronavírus 2019) OR 
-(Febre de Pneumonia por Coronavírus de Wuhan) OR (Infecção pelo Coronavírus 
-2019-nCoV) OR (Infecção pelo Coronavírus de Wuhan) OR (Infecção por Coronavirus 
-2019-nCoV) OR (Infecção por Coronavírus 2019-nCoV) OR (Infecção por Coronavírus 
-de Wuhan) OR (Infecções por Coronavírus) OR (Pneumonia do Mercado de Frutos do 
-Mar de Wuhan) OR (Pneumonia no Mercado de Frutos do Mar de Wuhan) OR 
-(Pneumonia por Coronavírus de Wuhan) OR (Pneumonia por Novo Coronavírus de 
-2019-2020) OR (Surto de Coronavírus de Wuhan) OR (Surto de Pneumonia da China 
-2019-2020) OR (Surto de Pneumonia na China 2019-2020) OR (Surto pelo 
-Coronavírus 2019-nCoV) OR (Surto pelo Coronavírus de Wuhan) OR (Surto pelo 
-Coronavírus de Wuhan de 2019-2020) OR (Surto pelo Novo Coronavírus (2019-nCoV)) 
-OR (Surto pelo Novo Coronavírus 2019) OR (Surto por 2019-nCoV) OR (Surto por 
-Coronavírus 2019-nCoV) OR (Surto por Coronavírus de Wuhan) OR (Surto por 
-Coronavírus de Wuhan de 2019-2020) OR (Surto por Novo Coronavírus (2019-nCoV)) 
-OR (Surto por Novo Coronavírus 2019) OR (Síndrome Respiratória do Oriente Médio) 
-OR (Síndrome Respiratória do Oriente Médio (MERS)) OR (Síndrome Respiratória do 
-Oriente Médio (MERS-CoV)) OR (Síndrome Respiratória do Oriente Médio por 
-Coronavírus)  OR MH:C01.925.782.600.550.200$ 
- 
- 
