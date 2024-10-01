@@ -1,6 +1,3 @@
-496
-EDITORIAL
-IN THIS ISSUE
 In times of great difficult because the Covid-19 infection the urologic research cannot stop.  The 
 July-August number of Int Braz J Urol, the fourth under my supervision, presents original contributions 
 with a lot of interesting papers in different fields: Prostate Cancer, Uretral Stricture, Sexual Function, 
@@ -8,6 +5,7 @@ Male Incontinence, Buried Penis, Vesicoureteral Reflux, Prostate Biopsy, Kidney 
 Carcinoma, Bladder Cancer, BPH, Laparoscopy and Testicular Cancer. The papers came from many di-
 fferent countries such as Brazil, USA, Turkey, China, Korea, Coloumbia, Poland, Germany, Taiwan, India 
 and Italy, and as usual the editor´s comment highlights some of them. 
+
 In the present issue we present three important reviews.  Dr. Barbagli and colleagues from Italy 
 performed in page 511 (1) a nice narrative review about the bulbar urethral stricture treatment.  This 
 study is on the cover in this number.  Dr. Barbagli is one of the most important urethral surgeons in 
@@ -20,36 +18,25 @@ AABP.  Dr. Netto and collegues from Brazil presented in page 523 (3) a nice pape
 with practical orientation on how to evaluate and treat Vesicoureteral reflux in Brazil and addressed im-
 portant recommendations on up to date choice of diagnosis evaluation and therapies. The editor in chief 
 would like to highlight the following works too:
+
 Dr. Porcaro and collegues from USA (4) on page 545 evaluate the association between prostate 
 volume index (PVI), and prostatic chronic inflammation (PCI) as predictors of prostate cancer (PCA). PVI 
 is the ratio between the central transition zone volume (CTZV) and the peripheral zone volume (PZV) and 
 concluded that high PVI and the presence of PCI lowered the mean rate of NPC and is associated with less 
 aggressive tumor biology expressed by low tumor burden. PVI can give prognostic information before 
 planning baseline random biopsies.
-Dr. Demirtas and Collegues (5) from Turkey perfomed on page 557 a interesting study about fu-
-sion prostate biopsy (FPB) and compare the pain levels in TRUS-guided standard 12-core prostate biopsy 
-Vol. 46 (4): 496-498, July - August, 2020
-doi: 10.1590/S1677-5538.IBJU.2020.04.01
-In these difficult times of COVID-19, urologic research 
-cannot stop: COVID-19 pandemic and reconstructive urology 
-highlighted in International Brazilian Journal of Urology
-_______________________________________________
-_______________________________________________
-Luciano A. Favorito 1, 2
-1 Unidade de Pesquisa Urogenital - Universidade do Estado de Rio de Janeiro - Uerj, Rio de Janeiro, RJ, 
-Brasil, 2 Serviço de Urologia, Hospital Federal da Lagoa, Rio de Janeiro, RJ, Brasil
-_______________________________________________________________________________________
-497
-497
-IBJU | EDITORIAL ISSUE
+
+Dr. Demirtas and Collegues (5) from Turkey perfomed on page 557 a interesting study about fusion prostate biopsy (FPB) and compare the pain levels in TRUS-guided standard 12-core prostate biopsy 
 (SPB) and MpMRI-guided FPB. The authors concluded that FPB, with a relatively higher cancer detection 
 rate, leads to the same pain level as SPB although it increases the number of biopsy cores and involves 
 a more complex procedure compared to SPB. 
+
 Dr. Sefik and Collegues (6) from Turkey performed on page 566 an interesting study about the 
 preoperative renal function on survival outcomes in patients who underwent radical cystectomy (RC) 
 with non-continent urinary diversion (UD) and concluded that overall mortality was higher and overall 
 survival was lower in patients with preoperative eGFR <60mL/s. More patients had preoperative hydro-
 nephrosis with eGFR< 60mL/s.
+
 Dr. Sipal and Collegues (7) from Turkey studied on page 575 the reasons of storage symptoms 
 (SS) after transurethral resection of the prostate (TURP) and they studied if was a positive correlation be-
 tween preoperative and postoperative SS in patients with undergoing TURP and starting early solifenacin 
@@ -58,91 +45,28 @@ significant improvement in both storage and voiding symptoms. The predictive val
 S-IPSS on postop SS is significant. These results suggest that 5 mg solifenacin succinate treatment in the 
 early postoperative period may be beneficial for patients with high preoperative SS and may not be bene-
 ficial in others. Small prostatic volume may bode ill for postoperative SS in the patients with de novo SS.
+
 Dr. Liu and Collegues (8) from China shows on page 585 explore the prognostic value of obesity 
 (measured by BMI) on Renal Cell Carcinoma (RCC) in a systemic inflammation state and concluded that 
 in localized RCC patients, obesity was an independent protective factor for cancer specific survival and 
 recurrence free survival in a systemic inflammation state.
+
 Dr. Vidal and Collegues (9) from Colombia studied on page 599 evaluated the role of baseline cli-
 nical variables associated with overall survival (OS) and toxicity of Radium 223 (223Ra) and concluded 
 that 223Ra therapy require an adequate selection of patients to obtain the greatest clinical benefit. Low 
 basal Hb, hight basal alkaline phosphatase ALP and bone marrow involvement were the main factors 
 that decreased overall survival in this study. 223Ra should be considered relatively early in the course 
 of treatment.
+
 Dr. Kretschemer and collegues (10) from Germany shows on page 632 a interesting study about 
 the effect of perioperative complications involving artificial urinary sphincter (AUS) implantation on 
 rates of explantation and continence as well as health-related quality of life (HRQOL) and concluded that 
 postoperative infections adversely affect device survival after AUS implantation and the comparative 
 long-term functional results and HRQOL outcomes are similar between patients with or without perio-
 perative complications.
+
 In this very difficult times of COVID-19 I ask everyone to read the amazing editorial of Dr. Francisco 
 Sampaio (11) our Emeritus Editor.  Dr. Sampaio in his editorial show us important aspects of the Pan-
 demic and in this issue he have one of the most complete reports on the clinical practice of Urology in 
 COVID-19 Pandemic times in the briliant paper by Dr. Carneiro and Collegues on page 501 (12). We hope 
 that readers will enjoy the present number of the International Brazilian Journal of Urology. 
-498
-498
-IBJU | EDITORIAL ISSUE
-Luciano A. Favorito, MD, PhD
-Unidade de Pesquisa Urogenital
-da Universidade do Estado de Rio de Janeiro - UERJ,
-Rio de Janeiro, RJ, Brasil
-E-mail: lufavorito@yahoo.com.br
-ARTICLE INFO 
- Luciano A. Favorito
-http://orcid.org/0000-0003-1562-6068
-Int Braz J Urol. 2020; 46: 496-8
-REFERENCES
-1.	
-Barbagli G, Bandini M, Balò S, Sansalone S, Butnaru D, 
-Lazzeri M. Surgical treatment of bulbar urethral strictures: 
-tips and tricks. Int Braz J Urol. 2020;46:511-8.
-2.	
-Stephen JR, Burks FN. Buried penis repair: tips and tricks. Int 
-Braz J Urol. 2020;46:519-22.
-3.	
-Bastos JM Netto, Rondon AV, Machado MG, Zerati M Filho, 
-Nascimento RLP, Lima SVC, et al. Brazilian consensus on 
-vesicoureteral reflux-recommendations for clinical practice. 
-Int Braz J Urol. 2020;46:523-37.
-4.	
-Porcaro AB, Tafuri A, Sebben M, Novella G, Processali T, 
-Pirozzi M, et al. Elevated prostate volume index and prostatic 
-chronic inflammation reduce the number of positive cores at 
-first prostate biopsy set: results in 945 consecutive patients. 
-Int Braz J Urol. 2020;46:545-56.
-5.	
-Demirtaş A, Sönmez G, Tombul ST, Demirtaş T.Comparison 
-of pain levels in fusion prostate biopsy and standard TRUS-
-Guided biopsy. Int Braz J Urol. 2020;46:557-62.
-6.	
-Sefik E, Celik S, Gunlusoy B, Basmaci I, Bozkurt IH, 
-Degirmenci T. The significance of preoperative estimated glo-
-merular filtration rate on survival outcomes in patients who 
-underwent radical cystectomy and non-continent urinary 
-diversion. Int Braz J Urol. 2020;46:566-74.
-7.	
-Sipal T, Akdere H. The relation between the storage symp-
-toms before and after transurethral resection of the prostate, 
-analysis of the risk factors and the prevention of the symp-
-toms with solifenacin. Int Braz J Urol. 2020;46:575-84.
-8.	
-Liu Z, Wang H, Chen Y, Jin J, Yu W. Obesity: An independent 
-protective factor for localized renal cell carcinoma in a sys-
-temic inflammation state. Int Braz J Urol. 2020;46:585-98.
-9.	
-Vidal M, Delgado A, Martinez C, Correa JJ, Durango IC. 
-Overall survival prediction in metastatic castration-resistant 
-prostate cancer treated with radium-223. Int Braz J Urol. 
-2020;46:599-611.
-10.	 Kretschmer A, Hüsch T, Anding R, Pottek T, Rose A, Struss 
-W, et al. The impact of perioperative complications on 
-favorable outcomes after artificial urinary sphincter implanta-
-tion for post-prostatectomy incontinence. Int Braz J Urol. 
-2020;46:632-9.
-11.	 Sampaio FJB. Reflections on the COVID-19 Pandemic. Int 
-Braz J Urol. 2020;46:499-500.
-12.	 Carneiro A, Wroclawski ML, Nahar B, Soares A, Cardoso 
-AP, Kim NJ, Carvalho FT. Impact of the COVID-19 Pandemic 
-on the Urologist’s clinical practice in Brazil: a management 
-guideline proposal for low- and middle-income countries 
-during the crisis period. Int Braz J Urol. 2020;46:501-10.

@@ -1,19 +1,3 @@
-  1/3
-Revista da Sociedade Brasileira de Medicina Tropical
-Journal of the Brazilian Society of Tropical Medicine
-Vol.:53:e202000270: 2020
-doi: 10.1590/0037-8682-00270-2020
-Corresponding author: Prof. Graciela Arbilla. 
-e-mail: gracielaiq@gmail.com
- 0000-0001-7732-8336
-Received 9 May 2020
-Accepted 19 May 2020
-Letter
-COVID-19: challenges for a new epoch
-Cleyton Martins da Silva[1],[2] and Graciela Arbilla[1]
-[1]. Universidade Federal do Rio de Janeiro, Instituto de Química, Rio de Janeiro, RJ, Brasil. 
-[2]. Universidade Veiga de Almeida, Rio de Janeiro, RJ, Brasil.
-Dear Editor:
 The term “pan-epidemic Anthropocene” was proposed 
 by Lucey et al. to refer to multifocal large infectious disease 
 epidemics related to anthropogenic forces that have impacted and 
@@ -21,6 +5,7 @@ transformed the Earth System1. Smallpox was restricted to the Old
 World for thousands of years but became the first “pan-epidemic 
 Anthropocene” when Europeans brought it to the Americas in the 
 16th century. 
+
 The arrival of Europeans in America was considered as the first 
 globalization event where the two civilizations met on unequal terms 
 after 12,000 years of separation. Smallpox emerged in January 1519 
@@ -33,12 +18,14 @@ million Native American population died of these diseases, which
 suggests approximately 10% of mankind died during 1493–1650. 
 This event initiated the globalization and homogenization of the 
 world’s species and diseases2.
+
 In the 20th century, epidemics and pandemics continued to 
 kill millions of people. The first pandemic of the 21st century 
 was reported as influenza A (H1N1) in 2009-2010 that resulted in 
 100,000-400,000 deaths in the first year; however, for the first time, 
 a vaccine was developed, produced, and distributed worldwide 
 during the first year3. 
+
 Globalization, the exchange of species, materials, energy, and 
 culture, as well as urbanization and the increase in the world’s 
 population and the global flow of people, had a clear, and probably 
@@ -61,6 +48,7 @@ Globalization, urbanization, transportation, increase in economic
 activities, and the flux of people, live species, and manufactured 
 products are clear socioeconomic trends that characterize this new 
 epoch, commonly referred to as “Human Epoch.” 
+
 All these factors, in addition to political destabilization and 
 civil and international wars, led to poverty, increase in maternal 
 and child death, and spread of diseases. Hotez7 reported that these 
@@ -75,11 +63,10 @@ and polio spread in the Middle East and North Africa. During
 2014–2015, the Western African Ebola virus epidemic decimated 
 numerous families and caused a socioeconomic disruption in 
 Guinea, Liberia, and Sierra Leone.
+
 The outbreak of COVID-19 provides strong evidence that 
 urbanization and globalization have changed the way people live 
 in communities, and advances in transport and communications 
-2/3
-Silva CM and Arbilla G - COVID-19: challenges for a new epoch
 have led to a rapid spread of diseases, through both domestic and 
 international transportation modes such as buses, trains, boats, 
 and flights. Increased density of people in residences, public 
@@ -91,6 +78,7 @@ generally have weaker health systems and a limited capacity to
 handle a rapid surge in cases. Poverty contributes to disseminating 
 epidemics and pandemics, while simultaneously helping to 
 perpetuate poverty through their longstanding negative effects.
+
 As no specific drugs or vaccines are available, the mitigation 
 of the exponential spread of COVID-19 relies on community 
 mitigation strategies8. There is a crescent consensus that social 
@@ -100,6 +88,7 @@ of view. It seems clear that the collapse of the health care systems
 and millions of deaths would decimate countries financially, and 
 as a society, thus saving human lives must be the governments’ 
 first priority. 
+
 Although the pandemic is a global phenomenon and the 
 consequence of urbanization, transport, and interchange of people, 
 live species, and manufactured products, its impact is greatly 
@@ -122,6 +111,7 @@ through a crisis; leaders are required to make the right decisions
 based on science and to craft a good narrative to clarify the problems 
 and unite the population to manage the situation. Global problems 
 require global solutions and everybody’s efforts. 
+
 In addition to all the negative impacts, the pandemic has opened 
 new opportunities, displayed examples of solidarity in the local 
 communities, and allowed sharing of resources, information, and 
@@ -130,6 +120,7 @@ better results and knowledge in controlling the spread. The scientific
 communities worldwide have joined hands and many universities 
 have organized groups of researchers and students to help in the 
 pandemic relief efforts in every possible manner. 
+
 The pandemic is a strong reminder that to be prepared for the 
 future, a fundamental change in our mindset, commitments, and 
 values is necessary. It is necessary to create a change in our current 
@@ -147,64 +138,20 @@ Earth’s equilibrium, else, humanity will never be prepared enough
 to confront the devastating challenges of a pandemic. Humans have 
 the opportunity of saving their own lives and the life of all species 
 in the Earth System through advanced technology and science.
+
 Preparedness is crucial to reduce the health, economic, and social 
 impacts of a future epidemic, it is also the only way to avoid the 
 spread of other diseases. Pandemics are not aleatory events but are the 
 consequence of human interactions with the environment and could be 
 avoided or reduced through science and investments in health, education 
 and transportation and improved through better conditions of living.   
+
 This is an opportunity for the global community to take 
 advantage of the spirit of cooperation, embrace diversity and arrive 
 at a necessary common global agreement to manage the future of 
 Earth collectively.
-FINANCIAL SUPPORT
+
 GA and CMS received partial financial support from the Brazilian 
 National Council for Scientific and Technological Development 
 (CNPq) and the National Foundation for the Development of Private 
 Higher Education (FUNADESP), respectively. 
-AUTHORS’ CONTRIBUTION
-All authors contributed towards the conceptualization, drafting, 
-critical review, and finalization of the manuscript.
-CONFLICT OF INTEREST
-The authors declare no potential conflicts of interest with respect 
-to the research, authorship, and/or publication of this manuscript.
-REFERENCES 
-1.	 Lucey DR, Sholts S, Donaldson H, White J, Mitchell SR.  On health 
-education for future physicians in the pan-epidemic “Age of Humans”. 
-Int J Infect Dis. 2017;64:1-3.
-2.	 Lewis SL, Maslin MA.  The human planet. How we created the 
-Anthropocene. 1st ed. New Haven and London: Yale University Press; 
-2018.
-3.	 WHO. World Health Organization, Past Pandemics, 2020 [cited 
-2020 April 30]. Available from: http://www.euro.who.int/en/health-
-topics/communicable-diseases/influenza/pandemic-influenza/past-
-pandemics. 
-4.	 Silva CM, Arbilla G. Anthropocene: the challenges of a new world. 
-Revista Virtual de Química. 2018;10(6):1619-47. 
-5.	 Crutzen P, Stoermer EF. The “Anthropocene”. IGBP Newsletter 2000; 
-41:17-18.
-6.	 Waters CN, Zalasiewicz J, Summerhayes C, Barnosky AD, Poirier C, 
-et al. The Anthropocene Is Functionally and Stratigraphically Distinct 
-From the Holocene. Science. 2016;351(6269):137-47.
-  3/3
-Rev Soc Bras Med Trop | on line | Vol.:53:e202000270, 2020
-7.	 Hotez PJ.  Neglected tropical diseases in the Anthropocene: The 
-cases of zica, ebola, and other infections. PLoS Negl Trop Dis. 
-2016;10(4):30004648.
-8.	 Villela DAM. The value of mitigating epidemic peaks of COVID-19 
-for more effective public health responses. Rev Soc Bras Med Trop. 
-2020;53 https://doi.org/10.1590/0037-8682-0135-2020. 
-9.	 Croda J, Oliveria WK, Frutuoso, RL, Mandetta LH, Baia-da-Silva DC, 
-et al. COVID-19 in Brazil: advantages of a socialized unified health 
-system and preparation to contain cases. Rev Soc Bras Med Trop. 
-2020;53:e20200167 https://doi.org/10.1590/0037-8682-0167-2020.
-10.	 Editorial. COVID-19 in Brazil: “So what?”. The   Lancet. 2020, 395:1461. https://
-www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2931095-3.
-11.	 Raworth K. Doughnut Economics: Seven Ways to Think Like a 21st-
-Century Economist. Oxford: Cornerstone; 2017.
-12.	 The Guardian. Amsterdam to embrace “doughnut” model to mend post-
-coronavirus economy. [cited 2020 May 8]. Available from: https://www.
-theguardian.com/world/2020/apr/08/amsterdam-doughnut-model-mend-
-post-coronavirus-economy.
-OPEN ACCESS
-https://creativecommons.org/licenses/by/4.0/

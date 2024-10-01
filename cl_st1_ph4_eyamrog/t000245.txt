@@ -1,56 +1,4 @@
-Publication status: Preprint has been published in a journal as an article
-DOI of the published article: https://doi.org/10.1590/2236-8906-85/2019
-Additions to the knowledge of Ganodermataceae in brazilian
-Cerrado
-Lucas Leonardo-Silva, Larissa Batista da Silva, Antônio Sérgio Ferreira de Sá, Laiza Rosa
-Rezende Naves, Elida Lucia da Cunha, Solange Xavier-Santos
-https://doi.org/10.1590/2236-8906-85/2019
-Submitted on: 2020-05-26
-Posted on: 2020-05-27 (version 1)
-(YYYY-MM-DD)
-Powered by TCPDF (www.tcpdf.org)
- 
- 
-CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO DE PREPRINT 
- 
- 
- 
-Ao Comitê Editorial de HOEHNEA 
- 
- 
-Declaro, em meu próprio nome e nos dos demais Autores que concordo com a 
-publicação do artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Additions to the 
-knowledge of Ganodermataceae in brazilian Cerrado” de autoria de Leonardo-Silva, L., 
-Silva, L.B., Sá, A.S.F., Naves, L.R.R., Cunha, E.L. & Xavier-Santos, S., no Portal de 
-Preprints do SciELO Brasil (https://preprints.scielo.org/index.php/scielo). 
-Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não 
-está sendo considerado para publicação em outra Revista, quer seja no formato impresso 
-e/ou eletrônico. 
- 
-São Paulo, 20 de maio de 2020. 
- 
- 
- 
- 
-_______________________________________ 
-Assinatura do Autor Responsável pelo Artigo 
- 
- 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)
-http://dx.doi.org/10.1590/2236-8906-85/2019
-Article
-How to cite: Leonardo-Silva, L., Silva, L.B., Sá, A.S.F., Naves, L.R.R., Cunha, E.L. & Xavier-Santos, S. 2020. Additions 
-to the knowledge of Ganodermataceae in brazilian Cerrado. Hoehnea 47: e852019. http://dx.doi.org/10.1590/2236-8906-
-85/2019.
-Additions to the knowledge of Ganodermataceae in brazilian Cerrado
-Lucas Leonardo-Silva1, Larissa Batista da Silva1, Antônio Sérgio Ferreira de Sá1,  
-Laiza Rosa Rezende Naves1, Elida Lucia da Cunha1 & Solange Xavier-Santos1
-Received: 8 August 2019; accepted: 28 November 2019 
-1.	 Universidade Estadual de Goiás, Campus Anápolis de Ciências Exatas e Tecnológicas, Laboratório de Micologia Básica, Aplicada e 
-Divulgação Científica, Rodovia Br 153, Km 99, 75132-903, Anápolis, GO, Brasil
-2.	 Corresponding author: solange.xavier@ueg.br
-ABSTRACT - (Additions to the knowledge of Ganodermataceae in brazilian Cerrado) - As a cosmopolitan family, 
+(Additions to the knowledge of Ganodermataceae in brazilian Cerrado) - As a cosmopolitan family, 
 Ganodermataceae has as distinctive characteristic the presence of double-walled basidiospore: the inner wall thick and 
 ornamented, and the outer wall smooth. Even with the increasing interest in this family, the species are still poorly known 
 in different regions of the brazilian territory, such as in the central Brazil. This study presents new distribution remarks 
@@ -59,19 +7,7 @@ five species which are distributed into three genera, Amauroderma, Foraminispora
 one is a new record for the Cerrado (A. exile), four are new for the State of Goiás A. exile, F. rugosa, G. multiplicatum and 
 G. stipitatum and one for the Distrito Federal (G. stipitatum). Amauroderma aurantiacum is rediscovered in Goiás after 
 88 years. This study contributes to improving the knowledge regarding the geographic distribution of these taxa in Brazil.
-Keywords: Amauroderma, brazilian savanna, Foraminispora, Ganoderma, geographic distribution
-RESUMO - (Adições ao conhecimento de Ganodermataceae no Cerrado brasileiro). Cosmopolita, a família Ganodermataceae 
-tem como característica distintiva a presença de basidiósporos de parede dupla, sendo a interna espessa e ornamentada e 
-a externa lisa. Mesmo com o crescente interesse pela família, as espécies ainda permanecem muito pouco conhecidas em 
-diferentes localidades do território brasileiro, como é o caso do Brasil central. Este trabalho relata novas ocorrências de espécies 
-de Ganodermataceae em diferentes localidades do bioma Cerrado, na região Centro-Oeste. Os espécimes estudados somam 
-23 exemplares de cinco espécies, distribuídas em três gêneros, Amauroderma, Foraminispora e Ganoderma. Dessas, uma 
-é novo registro para o Cerrado (A. exile), quatro são novas para o estado de Goiás A. exile, F. rugosa, G. multiplicatum e G. 
-stipitatum e uma para o Distrito Federal (G. stipitatum). Amauroderma aurantiacum é novamente registrada para o estado de 
-Goiás após 88 anos. Este trabalho contribui para ampliar o conhecimento da distribuição geográfica das espécies no Brasil. 
-Palavras-chave: Amauroderma, distribuição geográfica, Foraminispora, Ganoderma, savana brasileira
-Introduction
-	
+
 Proposed in 1948, the family Ganodermataceae 
 (Donk) Donk has approximately 220 species described, 
 distributed into seven genera (Amauroderma Murrill, 
@@ -91,7 +27,7 @@ Ryvarden 2004, Cannon & Kirk 2007). Thus, these
 characteristics, as well as the hardness of the pileus, 
 are essential for the identification of Ganodermataceae 
 species (Ryvarden 2004, Gugliotta et al. 2011).
-	
+
 Group of crucial importance in maintaining the 
 trophic balance, Ganodermataceae species play a 
 key role in nutrient cycling of ecosystems, causing 
@@ -99,12 +35,9 @@ white rot in woody tissues (Ryvarden 2004). The
 family comprises species of recognized economic 
 and medicinal value, and some sources of bioactive 
 compounds are widely studied for biotechnological 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)
-2	
 purposes (Zjawiony 2004, Tseng et al. 2008, Wang 
 et al. 2016).
-	
+
 Species of this family, except the genus Haddowia, 
 are widely distributed in the tropics with records in 
 several brazilian ecosystems (Gibertoni & Cavalcanti 
@@ -122,8 +55,7 @@ et al. 2015, Costa-Rezende et al. 2016, Bononi
 et al. 2017). The present study presents new species 
 occurrences of the family Ganodermataceae for the 
 brazilian Cerrado and Midwest region.
-Material and methods
-	
+
 The specimens studied were collected in Cerrado 
 areas between 2005 and 2018, usually located 
 in conservation units (UC) in the State of Goiás: 
@@ -144,7 +76,7 @@ and 49º20'19"W); municipality of Cavalcante,
 Kalunga community, Engenho II (13º34'56"S and 
 47º28'16"W) and Distrito Federal: municipality of 
 Brasília (15º46'48"S and 47º55'45"WO) (figure 1). 
-	
+
 The Cerrado is considered the second largest 
 biome in South America and is located in the Central 
 Plateau of Brazil. Its area covers the States of Goiás, 
@@ -154,23 +86,17 @@ Distrito Federal, Rondônia and Paraná. This biome
 is characterized by physiognomies that encompass 
 savanna and grassland forest formations, with a mixed 
 presence of trees, shrubs and undergrowth vegetation, 
-Figure 1. Location of the study area. a. location of Brazil in South 
-America. b. In green, the distribution area of the Cerrado biome 
-in the brazilian territory. c. Detail of the States of Goiás and the 
-Distrito Federal, with the location of the municipalities and the 
-conservation units where the collections were made.
 with a rainy tropical climate with hot summer and dry 
 winter (Ribeiro & Walter 1998, Klink & Machado 
 2005).
-	
+
 The taxonomic identification of the collected 
 specimens was based on macro and micromorphological 
 characters, considering the methodologies adopted by 
 Teixeira (1995) and Ryvarden (2004). The specimens 
 were deposited in the Herbarium of the Universidade 
 Estadual de Goiás (HUEG).
-Results and Discussion
-	
+
 We found 25 specimens, which are distributed 
 into three genera and five species. From those, one 
 is a new record for the Cerrado (Amauroderma 
@@ -183,17 +109,7 @@ multiplicatum (Mont.) Pat. 1889 and G. stipitatum
 Gibertoni & Bernicchia 2008 is recorded again for 
 the State of Goiás (type locality) 88 years after its 
 publication.
-Amauroderma aurantiacum (Torrend) Gibertoni &  
-   Bernicchia, Mycotaxon 104: 322 (2008).
-= Amauroderma macrosporum J.S. Furtado, Revis. 
-    Revision of the genus Amauroderma (Polyporaceae);  
-    Studies based on microstructures of the basidiocarp:  
-   203 (1968).
-Figure 2
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)
-Leonardo-Silva et al.: Ganodermataceae in brazilian Cerrado
-  3
+
 Notes: species representative in terms of sampling 
 and showing resistance to changes in seasonality with 
 sampling in dry and rainy seasons in the studied areas. 
@@ -215,99 +131,7 @@ the presence of ellipsoid basidiospores. Among the
 distinctive characters, the reddish color of basidiome 
 and globose basidiospores, yellowish with dense 
 reticles-shaped ornamentation is highlighted.
-Amauroderma exile (Berk.) Torrend, Brotéria, ser.  
-     bot. 18: 142 (1920). 
-≡ Polyporus exilis Berk., Hooker’s J. Bot. Kew Gard. 
-     Misc. 8: 173 (1856).
-Figure 3 
-Description: see Ryvarden (2004).
-Substrate: leaf litter.
-Distribution: Brazil, Colombia, Honduras and 
-Venezuela (Furtado 1981, Ryvarden 2004). In Brazil 
-there are records for the species in the States of Amapá, 
-Amazonas, Bahia, Mato Grosso, Pará, Pernambuco, 
-Figure 2. Amauroderma aurantiacum. a. Basidiome with an 
-emphasis in the reddish color, long stipe with poroid hymenial 
-surface, scale = 1 cm. b. Pileus and hymenial surface in detail, 
-scale = 1 cm. c. Basidiospores, scale = 5 μm.
-Description: see Gibertoni et al. (2008), Gomes-Silva 
-et al. (2015).
-Substrate: leaf litter.
-Distribution: Brazil and Venezuela (Ryvarden 2004). 
-In Brazil there are records in the States of Goiás, 
-Mato Grosso, Rondônia and São Paulo (Bononi et 
-al. 1981, Gibertoni et al. 2004, 2007, 2008, Gugliotta 
-et al. 2011, Gomes-Silva et al. 2015, Costa-Rezende 
-et al. 2016).
-Material examined: BRAZIL. Goiás: Caldas 
-Novas,  Parque Estadual da Serra de Caldas Novas 
-(PESCAN), 17-III-2007, Xavier-Santos, S. (2117) 
-(HUEG9927); ibid, 23-I-2008, Xavier-Santos, S. 
-(2387) (HUEG9928); ibid, 24-I-2008, Xavier-Santos, 
-S. (2481) (HUEG9929); ibid, 1-V-2008, Xavier-Santos, 
-S. (2579) (HUEG9932); ibid, 24‑I‑2008, Xavier-
-Santos, S. (2418) (HUEG9933); ibid, 17‑XII‑2013, 
-Xavier-Santos, S. (5803) (HUEG10552); ibid, 17-XII-
-2013, Xavier-Santos, S. (6099) (HUEG10555); ibid, 
-1-V-2008, Xavier-Santos, S. (2540) (HUEG9934); 
-Rio Quente: 28-III-2009, Xavier-Santos, S. 
-(3733) (HUEG9930); ibid, 23‑I‑2008, Xavier-
-Santos, S. (2324) (HUEG9931); ibid, 29-III-2009, 
-Xavier-Santos, S. (3707) (HUEG10650); ibid, 
-collected in 28-III-2009, Xavier-Santos, S. (3580) 
-(HUEG10560); ibid, 24‑I‑2008, Xavier-Santos, S. 
-(2484) (HUEG10634); ibid, 28-III-2009, Xavier-
-Santos, S. (3593) (HUEG10597); Cavalcante, Kalunga 
-community, Engenho II:  20-III-2018, Xavier-Santos, 
-S (6353) (HUEG11877); ibid, 20-III-2018, Xavier-
-Santos, S (6354) (HUEG11878).
-Figure 3. Amauroderma exile. a and b. Basidiome with long stipe 
-and hymenial (a) and abhymenial surfaces (b), scale = 1 cm. 
-c. Hymenial surface in detail, scale = 1 mm. d. basidiospores, 
-scale = 5 µm.
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)
-4	
-Figure 4. Foraminispora rugosa. a. Basidiome, scale = 1 cm. b. 
-Hymenial surface in detail, scale = 0.5 mm. c. Basidiospores, 
-scale = 5 µm.
-Material examined: Brazil. Goiás: Goiânia, Bosque Auguste 
-Saint-Hilaire, 20-I-2014, Naves L.R. 93 (HUEG9716).
-Notes: the species is characterized for its central to 
-the lateral stipe, context cream to light brown and 
-5-6 pores per mm. Still, it can be distinguished from 
-the other species of the genus by a slightly tomentous 
-abhymenial surface. It is easily confused with A. 
-schomburgkii (Mont. & Berk.) Torrend, differing 
-because of the lack of blackened pileal surface 
-(Gugliotta et al. 2011, Campos-Santana & Loguercio-
-Leite 2013). This is a new record for the State of Goiás.
-Ganoderma multiplicatum (Mont.) Pat., Bull. Soc.  
-     mycol. Fr. 5 (2,3): 74 (1889).
-≡ Polyporus multiplicatus Mont., Annls Sci. Nat., Bot., 
-     ser. 41: 128 (1854).
-Figure 5
-Description: see Ryvarden (2004).
-Substrate: dead wood.
-Distribution: Angola, Argentina, Brazil, China, 
-Colombia, Egypt, French Guiana, India, Indonesia, 
-Ivory Coast, New Guinea, Seychelles, Sierra Leone, 
-Venezuela, Zaire and Zambia (Steyaert 1980, Gottlieb 
-& Wright 1999, Ryvarden 2000, Baltazar & Gibertoni 
-2009, Gomes-Silva & Gibertoni 2009, Bhosle et al. 
-2010, Gomes-Silva et al. 2011, Bolaños et al. 2016). 
-In Brazil there are records for the species in the States 
-of Alagoas, Amazonas, Mato Grosso do Sul, Pará, Rio 
-de Janeiro, Rondônia, Roraima, Santa Catarina, São 
-Paulo and Sergipe (Steyaert 1980, Capelari & Maziero 
-1988, Loguercio-Leite et al. 2005, Drechsler-Santos 
-et al. 2008, Martins-Júnior et al. 2011, Gomes-Silva 
-et al. 2011, Gugliotta et al. 2011, Quevedo et al. 2012, 
-Torres-Torres et al. 2012, Maia et al. 2015).
-Material examined: BRAZIL. Goiás: Anápolis, 
-Universidade Estadual de Goiás, Reserva Ecológica 
-of the Universidade Estadual de Goiás (REC-UEG), 
-22-V-2009, Xavier-Santos, S. (3772) (HUEG11881).
+
 Notes: the species is characterized by the sessile 
 basidiome, lacquer layer, reddish color, and 6-8 pores 
 per mm. A. multiplicatum is morphologically similar 
@@ -317,73 +141,7 @@ characters, and G. orbiforme has larger basidiospores
 (8.8-10.4 × 6.4 -7.2 μm) and cuticle cells with more 
 developed protuberances (Gugliotta et al. 2011). This 
 is a new record for the State of Goiás.
-Ganoderma stipitatum (Murrill) Murrill, N. Amer. Fl. 
-     (New York) 9 (2): 122 (1908).
-≡ Fomes stipitatus Murrill, Bull. Torrey bot. Club 
-     30(4): 229 (1903).
-Figure 6
-Rio de Janeiro, Rio Grande do Sul, Rondônia and São 
-Paulo (Gomes-Silva et al. 2015, Maia et al. 2015).
-Material examined: BRAZIL. Goiás: Caldas Novas, 
-23-XI-2008, Xavier-Santos, S. (3317) (HUEG9935).
-Notes: the species when fresh, has a typical bright 
-reddish-brown color that characterizes it. According 
-to Gomes-Silva et al. (2015) the species resembles 
-A. elegantissimum Ryvarden & Iturr. differing 
-in the morphology of the basidiospore, since A. 
-elegantissimum has globose, not ornamented 
-basidiospores, with 7-10 μm. This is a new record for 
-the Cerrado and for the State of Goiás.
-Foraminispora rugosa (Berk.) Costa-Rezende,  
-    Drechsler-Santos & Robledo, in Costa-Rezende, 
-     Robledo, Góes-Neto, Reck, Crespo & Drechsler- 
-     Santos, Persoonia 39: 262 (2017).
-≡ Ganoderma sprucei Pat., Bull. Soc. mycol. Fr. 10(2):  
-     75 (1894).
-Figure 4 
-Description: see Decock & Herrera-Figueroa (2006).
-Substrate: dead wood.
-Distribution: Brazil, Belize, Brazil, Colombia, Costa 
-Rica, Cuba, French Guiana, Jamaica, Puerto Rico and 
-Venezuela (Ryvarden 2004, Decock & Herrera-Figueroa 
-2006, Campacci & Gugliotta 2009). In Brazil there are 
-records for the species in the States of Amazonas, Bahia, 
-Mato Grosso, Minas Gerais, Pará, Paraná, Pernambuco, 
-Rio de Janeiro, Rio Grande do Sul, Santa Catarina, São 
-Paulo and Sergipe (Ryvarden 2004, Gibertoni et al. 2004, 
-2007, Gugliotta et al. 2011, Drechsler-Santos et al. 2013, 
-Maia et al. 2015, Costa-Rezende et al. 2016).
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)
-Leonardo-Silva et al.: Ganodermataceae in brazilian Cerrado
-  5
-Figure 5. Ganoderma multiplicatum. a and b. Basidiome, hymenial 
-(a) and abhymenial surfaces (b), scale = 1 cm. c. Hymenial surface 
-in detail, scale = 0.5 mm. d. Basidiospores, scale = 5 µm.
-Figure 6. Ganoderma stipitatum. a and b. Basidiome, hymenial 
-(a) e abhymenial surfaces (b), scale = 1 cm. c. Hymenial surface 
-in detail, scale = 1 mm. d. Basidiospores, scale = 5 µm.
-Description: see Ryvarden (2004).
-Substrate: living trees.
-Distribution: Bolivia, Brazil, Costa Rica, Nicaragua, 
-Peru, Suriname and Venezuela (Ryvarden 2004, Torres-
-Torres et al. 2012). In Brazil there are records in the 
-States of Acre, Alagoas, Amazonas, Bahia, Mato Grosso 
-do Sul, Paraíba, Paraná, Paraíba, Pernambuco, Rio de 
-Janeiro, Rio Grande do Sul and Rondônia (Steyaert 
-1980, Capelari & Maziero 1988, Gibertoni et al. 2004, 
-2007, Gomes-Silva et al. 2011, Martins-Júnior et al. 
-2011, Torres-Torres et al. 2012, Maia et al. 2015).
-Material examined: BRAZIL. Distrito Federal: 
-Brasília, next to the Universidade de Brasília (UNB), 
-1-XII-2010, Xavier-Santos, S. (4699) (HUEG10726). 
-Goiás: Alto Horizonte, 15-I-2005, Faria-Junior, J. 
-E.Q. (31) (HUEG10771); Anápolis: School São 
-Francisco de Assis, 15-II-2018, Xavier-Santos, S. (6348) 
-(HUEG11875); ibid 4-XII-2018, Xavier-Santos, S. 
-(6380) (HUEG11991); Anápolis city, 29-V-2018, Xavier-
-Santos, S. (6355) (HUEG11876); Avenida São Francisco, 
-20-XI-2018, Xavier-Santos, S. (6381) (HUEG11992).
+
 Notes: according to Ryvarden (2004), this species has 
 dark resinous bands in the context as a distinguishing 
 characteristic. It is easily confused with Ganoderma lucidum 
@@ -395,20 +153,7 @@ truncate at apex in G. stipitatum and ellipsoid to obovate
 in G. lucidum (Groposo & Loguercio-Leite 2002, Singh 
 et al. 2014). This is a new record for the Distrito Federal 
 and for the State of Goiás.
-Key to species studied in this work
-1. Basidiomata stipitate, with stipe zoned .................................................................................................... F. rugosa
-1. Stipitate basidiome, with stipe or substipe without zones
-2. Pilear surface glabrous to laccate; basidiospores with truncate apex
-2. Pilear surface glabrous to tomentous; basidiospores with globose to subglobose apex
-3. Pileus circular to dimidiate, long and irregular stipe, with hymenial surface showing 
-pore angular to circular (6-8 per mm) ………………………..………………………….... G. stipitatum 
-3. Pileus flabelliform to applanate, substipitate, with hymenial surface showing pore angular 
-to circular (5-6 per mm) .................................................................................................. G. multiplicatum
-4. Globose basidiospores (5-7.65-7.6 x 5.3-7.4 μm5.3-7.4 μm), with dense reticles-shaped ornamentation 
-.............................................................................................................................................. A. aurantiacum
-4. Globose to subglobose basidiospores (5-7,6 × 5,3-7,4 μm), finely ornamented .................... A. exile 
-Acknowledgments
-	
+
 We thank to Dr. Tatiana Baptista Gibertoni for 
 the identification of some species. To the Fundação 
 de Amparo à Pesquisa do Estado de Goiás (FAPEG), 
@@ -417,215 +162,8 @@ Nível Superior (CAPES), Conselho Nacional de
 Desenvolvimento Científico e Tecnológico (CNPq) 
 for the scholarship awarded to the Lucas Leonardo da 
 Silva (CNPq/AT/INCT - Virtual Herbarium of Flora 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)
-6	
 and Fungi), Antônio Sergio Ferreira de Sá (CNPq/
 IC), Laiza Rosa Rezende Naves (CAPES/Masters) 
 and Elida Lucia da Cunha (FAPEG/Masters). To the 
 reviewers and editors for valuable comments and 
 editorial preparation of the paper.
-Literature cited
-Abrahão, M.C., Gugliotta, A.M. & Bononi, V.L.R. 
-2012. Xylophilous Agaricomycetes (Basidiomycota) of 
-Brazilian Cerrado. Check List 8: 1102-1116.
-Baltazar, J.M. & Gibertoni, T.B. 2009. A checklist of the 
-aphyllophoroid fungi (Basidiomycota) recorded from 
-the Brazilian Atlantic Forest. Mycotaxon 109: 439-442.
-Bhosle, S., Ranadive, K., Bapat, G., Garad, S., 
-Deshpande, G. & Vaidya, J. 2010. Taxonomy and 
-diversity of Ganoderma from the Western parts of 
-Maharashtra (India). Mycosphere 1: 249-262.
-Bolaños, A.C., Bononi, V.L.R., Gugliotta, A.M. & Muñoz, 
-J.E. 2016. New records of Ganoderma multiplicatum 
-(Mont.) Pat. (Polyporales, Basidiomycota) from 
-Colombia and its geographic distribution in South 
-America. Check List 12: 1948.
-Bononi, V.L.R., Oliveira, A.K.M., Gugliotta, A.M. & 
-Quevedo, J.R. 2017. Agaricomycetes (Basidiomycota, 
-Fungi) diversity in a protected area in the Maracaju 
-Mountains, in the Brazilian central region. Hoehnea 
-44: 361-377.
-Bononi, V.L.R., Trufem, S.F.B. & Grandi, R.A.P. 1981. 
-Fungos macroscópicos do Parque Estadual das Fontes 
-de Ipiranga, São Paulo, Brasil, depositados no herbário 
-do Instituto de Botânica. Rickia 9: 37-53.
-Campacci, T.V.S. & Gugliotta, A.M. 2009. A review of 
-Amauroderma in Brazil, with A. oblongisporum newly 
-recorded from the neotropics. Mycotaxon 110: 423-436.
-Campos-Santana, M. & Loguercio-Leite, C. 2013. 
-Species of Amauroderma (Ganodermataceae) in Santa 
-Catarina State, Southern Brazil. Biotemas, 26: 1-5.
-Cannon, P.F. & Kirk, P.M. 2007. Fungal Families of the 
-world. CAB Internacional.
-Capelari, M. & Maziero, R. 1988. Fungos macroscópicos 
-do estado de Rondônia, região dos rios Jaru e Ji-Paraná. 
-Hoehnea 15: 28-36.
-Costa-Rezende, D.H., Gugliotta, A.M., Góes-Neto, A., 
-Reck, M.A., Robledo, G.L. & Drechsler-Santos, 
-E.R. 2016. Amauroderma calcitum sp. nov. and notes 
-on taxonomy and distribution of Amauroderma species 
-(Ganodermataceae). Phytotaxa 244: 101-124.
-Costa-Rezende, D.H., Robledo, G.L., Góes-Neto, A., 
-Reck, M.A., Crespo, E. & Drechsler-Santos, E.R. 
-2017. Morphological reassessment and molecular 
-phylogenetic analyses of Amauroderma s. lat. raised 
-new perspectives in the generic classification of 
-the Ganodermataceae family. Persoonia: Molecular 
-Phylogeny and Evolution of Fungi 39: 254.
-Decock, C. & Herrera-Figueroa, S. 2006. Neotropical 
-Ganodermataceae (Basidiomycota): Amauroderma 
-sprucei and A. dubiopansum. Cryptogamie Mycologie 
-27: 3-10.
-Drechsler-Santos, E.R., Groposo, C. & Loguercio-Leite, 
-C. 2008. Additions to the knowledge of lignocellulolytic 
-Basidiomycetes (Fungi) in forests from Santa Catarina 
-State, Brazil. Mycotaxon 103: 197-200.
-Drechsler-Santos, E.R., Gibertoni, T.B., Góes-Neto, A. 
-& Cavalcanti, M.A.Q. 2009. A re-evalutation of the 
-lignocellulolytic Agaricomycetes from the Brazilian 
-semi-arid region. Mycotaxon 108: 241-244.
-Drechsler-Santos, E.R., Ryvarden, L., Bezerra, 
-J.L., Gibertoni, T.B., Salvador-Montoya, C.A. 
-& Calvacanti, M.A.Q. 2013. New records of 
-Auriculariales, Hymenochaetales and Polyporales 
-(Fungi: Agaricomycetes) for the Caatinga Biome. Check 
-List 9: 800-805.
-Furtado, J.S. 1968. Revisão do Gênero Amauroderma 
-(Polyporaceae). Estudos baseados nas microestruturas 
-do basidiocarpo. Tese de Doutorado, Universidade de 
-São Paulo, São Paulo.
-Furtado, J.S. 1981. Taxonomy of Amauroderma 
-(Basidiomycetes, Polyporaceae). Memoirs of the New 
-York Botanical Garden 34: 1-109.
-Gibertoni, T.B. & Cavalcanti, M.A.Q. 2003. A mycological 
-survey of the Aphyllophorales (Basidiomycotina) of the 
-Atlantic Rain Forest in the State of Pernambuco, Brazil. 
-Mycotaxon 87: 203-211.
-Gibertoni, T.B., Ryvarden, L. & Cavalcanti, M.A.Q. 
-2004. Poroid fungi (Basidiomycota) of the Atlantic 
-Rain Forest in Northeast Brazil. Synopsis Fungorum 
-18: 33-43.
-Gibertoni, T.B., Santos, P.J.P. & Cavalcanti, M.A.Q. 
-2007. Ecological aspects of Aphyllophoralesin the 
-Atlantic rain forest in northeast Brazil. Fungal Diversity 
-25: 49-67.
-Gibertoni, T.B., Bernicchia, A., Ryvarden, L. & Gomes-
-Silva, A.C. 2008. Bresadola’s polypore collection at the 
-Natural History Museum of Trento, Italy 2. Mycotaxon 
-104: 321-323.
-Gibertoni, T.B. & Drechsler-Santos, E.R. 2010. 
-Lignocellulolytic Agaricomycetes from the Brazilian 
-Cerrado biome. Mycotaxon 111: 87-90.
-Gilbertson, R.L. & Ryvarden, L. 1896. North American 
-Polypores. Fungiflora, Oslo.
-Gomes-Silva, A.C. & Gibertoni, T.B. 2009. Revisão do 
-Herbário URM. Novas ocorrências de Aphyllophorales 
-para a Amazônia brasileira. Revista Brasileira de 
-Botânica 32: 587-596.
-Gomes-Silva, A.C., Ryvarden, L. & Gibertoni, T.B. 2011. 
-New records of Ganodermataceae (Basidiomycota) 
-from Brazil. Nova Hedwigia 92: 83-94. 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)
-Leonardo-Silva et al.: Ganodermataceae in brazilian Cerrado
-  7
-Gomes-Silva, A.C., Lima-Júnior, N.C., Malosso, E., 
-Ryvarden, L. & Gibertoni, T.B. 2015. Delimitation of 
-taxa in Amauroderma (Ganodermataceae, Polyporales) 
-based in morphology and molecular phylogeny of 
-Brazilian specimens. Phytotaxa 227: 201-228. 
-Gottlieb, A.M. & Wright, J.E. 1999. Taxonomy of 
-Ganoderma from southern South America: subgenus 
-Elfvingia. Mycological Research, 103:1289-1298.
-Groposo, C. & Loguercio-Leite, C. 2002. Fungos 
-poliporóides xilófilos (Basidiomycetes) da Reserva 
-Biológica Tancredo Neves, Cachoeirinha, Rio Grande 
-do Sul, Brasil. Iheringia, Série Botânica 57: 39-59.
-Gugliotta, A.M., Fonsêca, M.P. & Bononi, V.L.R. 2010. 
-Additions to the knowledge of aphyllophoroid fungi 
-(Basidiomycota) of Atlantic Rain Forest in São Paulo 
-State, Brazil. Mycotaxon 112: 335-338.
-Gugliotta, A.M., Poscolere, G.D. & Campacci, T.V.S. 
-2011. Criptógamos do Parque Estadual das Fontes 
-do Ipiranga, São Paulo, Sp, Brasil. Fungos, 10: 
-Ganodermataceae. Hoehnea 38: 687-695.
-Kirk, P.M., Cannon, P.F., Minter, D.W. & Stalpers, J.A. 
-2008. Ainsworth & Bisby‘s Dictionary of the Fungi. 
-10rd edition, CAB International, United Kingdom.
-Klink, C.A. & Machado, R.B. 2005. A conservação do 
-Cerrado Brasileiro. Megadiversidade. 1: 147-155.
-Loguercio-Leite, C., Groposo, C. & Halmenschlager, 
-M.A. 2005. Species of Ganoderma Karsten in a 
-subtropical area (Santa Catarina State, Southern Brazil).  
-Iheringia Série Botânica 60: 135-139.
-Maia, L.C., Carvalho Júnior, A.A.D., Cavalcanti, 
-L.D.H., Gugliotta, A.D.M., Drechsler-Santos, E.R., 
-Santiago, A.L.D.A., Cáceres, M.E.S., Gibertoni, 
-T.B., Aptroot, A., Giachini, A.J., Soares, A.M.S., 
-Silva, A.C.G., Magnago, A.C., Goto, B.T., Lira, 
-C.R.S., Montoya, C.A.S., Pires-Zottarelli, C.L.A., 
-Silva, D.K.A., Soares, D.J., Rezende, D.H.C., 
-Luz, E.D.M.N., Gumboski, E.L., Wartchow, F., 
-Karstedt, F., Freire, F.M., Coutinho, F.P., Melo, 
-G.S.N., Sotão, H.M.P., Baseia, I.G., Pereira, J., 
-Oliveira, J.J.S., Souza, J.F., Bezerra, J.L., Araujo 
-Neta, L.S., Pfenning, L.H., Gusmão, L.F.P., Neves, 
-M.A., Capelari, M., Jaeger, M.C.W., Pulgarín, M.P., 
-Menolli Junior, N., Medeiros, P.S., Friedrich, R.C.S., 
-Chikowski, R.S., Pires, R.M., Melo, R.F., Silveira, 
-R.M.B., Urrea-Valencia, S., Cortez, V.G. & Silva, V.F.
- 2015. Diversity of Brazilian fungi. Rodriguésia 66: 1033-
-1045.
-Martins-Júnior, A.S., Gibertoni, T.B. & Sótão, H.M.P. 
-2011. Espécies de Ganoderma P. Karst (Ganodermataceae) 
-e Phellinus Quél. (Hymenochaetaceae) na Estação 
-Científica Ferreira Penna, Pará, Brasil. Acta Botanica 
-Brasílica 25: 531-533.
-Quevedo, J.R., Bononi, V.L.R., Oliveira, A.K.M. & 
-Gugliotta, A.M. 2012. Agaricomycetes (Basidiomycota) 
-em um fragmento florestal urbano na cidade de Campo 
-Grande, Mato Grosso do Sul, Brasil. Revista Brasileira 
-de Biociências 10: 430-438.
-Ribeiro, J.F. & Walter, B.M.T. 1998. Fitofisionomias do 
-Bioma Cerrado. In: S.M. Sano & S.P. Almeida (org.). 
-Cerrado: Ambiente e flora. Embrapa Cerrados, Brasília, 
-pp. 87-166.
-Ryvarden, L. 2000. Studies in Neotropical polypores 2: a 
-preliminary key to Neotropical species of Ganoderma 
-with a laccate pileus. Mycologia 92: 180-191.
-Ryvarden, L. 2004. Neotropical polypores: Part 1. 
-Introduction, Ganodermataceae & Hymenochaetaceae. 
-Oslo, Fungiflora.
-Silveira, R.M.B., Reck, M.A., Graf, L.V. & Sá, F.N. 2008. 
-Polypores from a Brazilian pine Forest in Southern 
-Brazil: pileate species. Hoehnea 35: 619-631.
-Singh, R., Dhingra, G.S. & Shri, R. 2014. A comparative 
-study of taxonomy, physicochemical parameters, and 
-chemical constituents of Ganoderma lucidum and G. 
-philippii from Uttarakhand, India. Turkish Journal of 
-Botany 38: 186-196.
-Steyaert, R.L. 1980. Study of some Ganoderma species. 
-Bulletin du Jardin Botanique de L’etat Bruxelles 
-50: 135-186.
-Teixeira, A.R.1995. Método para estudo das hifas do 
-basidiocarpo de fungos poliporáceos. Manual n. 6. 
-Instituto de Botânica, São Paulo.
-Torres-Torres, M.G., Guzman-Davalos, L., Gugliotta, 
-A.M. 2012. Ganoderma in Brazil: known species and 
-new records. Mycotaxon 121: 93-132.
-Tseng, Y.H., Yang, J.H. & Mau, J.L. 2008. Antioxidant 
-properties of polysaccharides from Ganoderma tsugae. 
-Food 18 Chemistry 107: 732-738.
-Wang, Q., Wang, Y.G., Ma, Q.Y., Huang, S.Z., Kong, 
-F.D., Zhou, L.M., Dai, H.F. & Zhao, Y.X. 2016. 
-Chemical constituents from the fruiting bodies of 
-Amauroderma subresinosum. Journal of Asian Natural 
-Products Research 11: 1030-1035.
-Zjawiony, J.K. 2004. Biologically active compounds from 
-Aphyllophorales (polypore) fungi. Journal of natural 
-products 67: 300-310.
-ISSN da publicação online 2236-8906
-This is an open-access article distributed under the terms of the Creative Commons Attribution License 
-SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-85/2019
-Powered by TCPDF (www.tcpdf.org)

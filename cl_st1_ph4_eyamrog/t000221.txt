@@ -1,7 +1,3 @@
-Case Report
-Novel Coronavirus Pneumonia and Cardiomyopathy: A Case Report
-Mustafa Ahmet Huyut1
-Yeni Yuzyil University – Cardiology,1 Istanbul – Turkey
 A clustering of pneumonia was first recorded in Wuhan, 
 Hubei, China in December 2019.1 A coronavirus has been 
 established as the pathogen responsible for the disease, and 
@@ -25,7 +21,7 @@ best of our knowledge, this is the first report in the literature
 demonstrating the association between TTE and CT images 
 in COVID-19, and we found that the worsening in the TTE 
 findings is in line with the progression of CT images.
-Case report
+
 A 59-year-old female had had fever for 4 days, after 
 catching a cold. One day before visiting the hospital, she had 
 fever and cough, but no chest tightness, chest pain, chills, 
@@ -59,6 +55,7 @@ were performed according to the recommendations of the
 American Echocardiography Unit. Simpson’s method was used 
 to calculate LVEF.6 At the admission, LVEF was calculated at 
 65%, with normal TTE findings.
+
 The patient was isolated, and initiated nasal high flow 
 therapy for respiratory insufficiency and treated with the 
 antiviral drug (oseltamivir, 75mg/capsule, 1 capsule each time, 
@@ -89,27 +86,10 @@ may indicate residual organizing pneumonia (Figure 1: E-F).
 Also, LVEF was calculated at 65% and a repeated RT‑PCR was 
 negative and the patient was discharged. No other follow-up 
 CT examinations were performed.
+
 The infection is primarily spread through respiratory 
 droplets. Fever and dry cough are the primary clinical signs 
 of COVID-19 in patients, accompanied by body aches or 
-Mailing Address: Mustafa Ahmet Huyut •
-Yeni Yuzyil University – Cardiology - Merkez Mahallesi, Çukurçeşme Caddesi, 51 
-34245 Gaziosmanpaşa, Istanbul – Turkey
-E-mail: ahuyut@yahoo.com
-Manuscript received March 31, 2020, revised mnauscript April 03, 2020, 
-accepted April 08, 2020
-Keywords
-Cardiovascular Diseases/complications; Coronavirus; 
-COVID-19; Myocarditis; Cardiomyopathies;  Infectious 
-Diseases; Acute Respiratory Syndrome; Pneumonia; 
-Echocardiography/methods; Tomography, X-Ray Computed/
-methods; Hospitalization.
-DOI: https://doi.org/10.36660/abc.20200268
-843
-Case Report
-Huyut
-Covid-19 and cardiomyopathy
-Arq Bras Cardiol. 2020; 114(5):843-845
 exhaustion and most patients were aged between 40 and 
 60 years-old. Also, in some cases headache and hemoptysis 
 and diarrhea may occur. Moreover, severe patients may 
@@ -149,64 +129,9 @@ lymphocytes directly attached to the cardiac myocytes, and
 proinflammatory cytokines in the pathogenesis of acute 
 myocarditis.7-9 The over-release of cytokines in COVID-19 
 is already known.1-2 
+
 We hypothesized that cytokines such as TNF-α, IL-1, 
 IL‑6, IL-8, IL-10, which are known to have cardio-depressant 
-Figure 1 – Axial CT images. (A-B): At admission, CT shows the bilateral presence of mild GGOs in the parenchyma. (C-D): On day 6, a repeated CT was consistent 
-with increasing expansion of the GGOs and progressed consolidations, which are called crazy paving consolidations. (E-F): On day 12, a repeated CT showed that 
-the previous consolidations and GGOs in both lungs were mostly absorbed, leaving fibrous lesions that may indicate residual organizing pneumonia. CT: computer 
-tomography, GGOs: ground-glass opacities.
-844
-Case Report
-Huyut
-Covid-19 and cardiomyopathy
-Arq Bras Cardiol. 2020; 114(5):843-845
-1.	
-Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus 
-from Patients with Pneumonia in China, 2019.   N Engl J Med. 2020 Feb 
-20;382(8):727-33. 
-2.	
-Wu Z, McGoogan JM. Characteristics of and Important Lessons From the 
-Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a 
-Report of 72314 Cases From the Chinese Center for Disease Control and 
-Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648. [Epub 
-ahead of print]
-3.	
-Ai T, Yang Z, Hou H, Zhan C, Chen C, Lv W, et al. Correlation of Chest CT and 
-RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report 
-of 1014 Cases. Radiology. 2020 Feb 26:200642. [Epub ahead of print]
-4.	
-Fang Y, Zhang H, Xie J, Lin M, Ying L, Pang P, et al. Sensitivity of Chest CT for 
-COVID-19: Comparison to RT-PCR. Radiology. 2020 Feb 19:200432. doi: 
-10.1148/radiol.2020200432. [Epub ahead of print]
-5.	
-Pan Y, Guan H, Zhou S, Wang Y, Li Q, Zhu T, et al. Initial CT findings and 
-temporal changes in patients with the novel coronavirus pneumonia 
-(2019‑nCoV): a study of 63 patients in Wuhan, China. Eur Radiol. 2020 Feb 
-13. doi: 10.1007/s00330-020-06731-x. [Epub ahead of print]
-6.	
-Acquatella H, Asch FM, Barbosa MM, Barros M, Bern C, Cavalcante JL, et 
-al. Recommendations for Multimodality Cardiac Imaging in Patients with 
-Chagas Disease: A Report from the American Society of Echocardiography 
-in Collaboration With the InterAmerican Association of Echocardiography 
-(ECOSIAC) and the Cardiovascular Imaging Department of the Brazilian 
-Society of Cardiology (DIC-SBC). J Am Soc Echocardiogr. 2018 Jan;31(1):3-25.
-7.	
-Ukimura A, Satomi H, Ooi Y, Kanzaki Y. Myocarditis Associated with 
-Influenza A H1N1pdm2009. Influenza Res Treat. 2012;2012:351979. 
-8.	
-Mamas MA, Fraser D, Neyses L. Cardiovascular manifestations associated 
-with influenza virus infection. Int j Cardiol. 2008;130(3):304–9.
-9.	
-Miura M, Asaumi Y, Wada Y, Ogata K, Sato T, Sugawara T, et al. A case of 
-influenza subtype A virus-induced fulminant myocarditis: an experience 
-of percutaneous cardio-pulmonary support (PCPS) treatment and 
-immunohistochemical analysis. Tohoku J Exp Med. 2001;195(1):11–9.
-10.	 Bowles NE, Ni J, Kearney DL, Pauschinger M, Schultheiss HP, McCarthy R, et 
-al. Detection of viruses in myocardial tissues by polymerase chain reaction: 
-evidence of adenovirus as a common cause of myocarditis in children and 
-adults. J Am Coll Cardiol. 2003;42(3):466–72.
-References
-This is an open-access article distributed under the terms of the Creative Commons Attribution License
 effects, and endogenous and exogenous catecholamines, 
 which play important role in sepsis, may also trigger 
 the cardio-depressant effect in COVID-19. Also, we 
@@ -227,6 +152,7 @@ Based on the experience of the treatment of SARS and MERS,
 some drugs such as hydroxychloroquine, azithromycin, 
 oseltamivir, lopinavir-ritonavir, remdesivir, and favipiravir 
 might have positive effects on COVID-19  patients.1 
+
 In conclusion, our patient did not experience myocarditis, 
 because there was no troponin-I increase, but we believe she 
 might experience cardiomyopathy due to the over-release 
@@ -235,19 +161,3 @@ were treated with hydroxychloroquine, methylprednisolone,
 azithromycin, and finally with favipiravir. However, the 
 curative effects of these medications have not yet been 
 proven, and still need further researches.
-Author contributions 
-Conception and design of the research, Acquisition of data, 
-Analysis and interpretation of the data, Statistical analysis, 
-Obtaining financing, Writing of the manuscript and Critical 
-revision of the manuscript for intellectual content: Huyut MA
-Potential Conflict of Interest 
-No potential conflict of interest relevant to this article 
-was reported. 
-Sources of Funding 
-There were no external funding sources for this study. 
-Study Association 
-This study is not associated with any thesis or dissertation work.
-Ethics approval and consent to participate 
-This article does not contain any studies with human 
-participants or animals performed by any of the authors.
-845

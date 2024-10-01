@@ -1,42 +1,3 @@
- 
-1 
-Title Page  
- 
-Full Title: Reducing public health costs with infant formulas: oral food challenge 
-and misdiagnosed or outgrown cow’s milk protein allergy  
- 
-Authors: Ana Laura Mendes Becker Andrade  (MD, MSc)1,, Priscila da Silva 
-Pereira (MD)2; Renan Marrichi Mauch (Ph.D)1,3, Maria Angela Bellomo Brandão 
-(MD, Ph.D)2, Marcos Tadeu Nolasco da Silva (MD, Ph.D)1, Adriana Gut Lopes 
-Riccetto (MD, Ph.D)1 
- 
-Affiliations of Authors:  
-1. Pediatric Allergy and Immunology, Center of Investigation in Pediatrics, 
-Department of Pediatrics, School of Medical Sciences, University of Campinas. 
-Campinas/SP, Brazil.  
-2. Pediatric Gastroenterology, Center of Investigation in Pediatrics, Department 
-of Pediatrics, School of Medical Sciences, University of Campinas. 
-Campinas/SP, Brazil.  
-3. Clinical Microbiology Department, Rigshospitalet (Copenhagen University 
-Hospital). Copenhagen, Denmark.  
- 
-Running Title:  Reducing costs in cow’s milk allergy   
- 
-Corresponding author:  
-Renan Marrichi Mauch, Ph.D 
-Center of Investigation in Pediatrics, School of Medical Sciences, University of 
-Campinas 
-Address: Rua Tessália Vieira de Camargo, 126 (FCM 04), Cidade Universitária 
-“Zeferino Vaz”, Barão Geraldo, Campinas, São Paulo, Brasil. CEP: 13083-887  
-E-mail: mauch@unicamp.br  
-Phone: +55 19 35218979 
- 
-Word Count: Abstract:  240 words; Main Text:  2540  words    
-Number of Tables:  6 
- 
- 
-2 
-Abstract  
 Background: Accurate diagnosis and appropriate management of cow’s milk 
 protein allergy (CMPA) are crucial for avoiding unnecessary prescription of 
 infant formulas. Here, we aimed to use the oral food challenge (OFC) for CMPA 
@@ -45,7 +6,9 @@ children with clinical CMPA diagnosis. We also assessed the economic impact
 in public health-care costs of reducing the prescription of infant formulas 
 (provided by the São Paulo State’s public health service, in Brazil, until two 
 years of age) after ruling out CMPA diagnosis in children with negative OFC 
-results. Methods: We reviewed medical records of 76 children [41 males, 
+results. 
+
+Methods: We reviewed medical records of 76 children [41 males, 
 median age = 2.0 years (0.8-5.0)] who underwent OFC from January 2016 to 
 June 2018, 30 of whom were ≤2 years old. Results: Before OFC, 52 (68.4%), 
 20 (26.3%) and five (5.3%) children were diagnosed with non-IgE-mediated, 
@@ -55,24 +18,12 @@ children, thus ruling out CMPA diagnosis. Out of 18 (24%) OFC-positive
 children, most (n=10, 56%) had gastrointestinal symptoms. After ruling out 
 CMPA diagnosis, a mean of 152.3 formula cans (2,161.14 US dollars) were 
 saved per children by the public health service. The total amount saved was 
-64,834.27 US dollars. Conclusions: OFC proved important not only for ruling out 
+64,834.27 US dollars. 
+
+Conclusions: OFC proved important not only for ruling out 
 misdiagnosed CMPA, but also for preventing the indiscriminate use of infant 
 formulas, which, in turn, had positive consequences for public health costs. 
-Keywords: public health costs; infant formulas; oral food challenge; milk 
-allergy; food allergy; natural tolerance.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-3 
- Main Text 
- 
-Introduction  
+
 Cow’s Milk allergy (CMPA) is one of the main food allergies in childhood, 
 with a global prevalence of 2%-3% in the pediatric age group, and 1.8%-7.5% in 
 the first year of life1,2. In Brazil, the incidence and prevalence of CMPA have 
@@ -80,6 +31,7 @@ been estimated at 2.2% and 5.4%, respectively3, and the recent increases in
 incidence and prevalence make CMPA be considered a public health issue4,5. 
 However, the currently reported prevalence rates are likely to be overestimated, 
 as CMPA diagnosis mostly relies on medical history only.  
+
 The variety of clinical manifestations and pathophysiological mechanisms 
 makes it difficult to accurately diagnose CMPA. Regarding clinical and 
 laboratory features, CMPA may be classified as: Non-IgE mediated (with 
@@ -96,6 +48,7 @@ controlled manner6,8,9. Still, OFC is not routinely performed in the CMPA clinic
 setting in Brazil. Health insurance companies usually do not cover this 
 procedure, which is carried out only in specialized clinics, private hospitals and 
 university research centers.  
+
 The Public Health Service of the São Paulo State, in Brazil, provides 
 patients diagnosed with CMPA with infant formulas on a monthly basis until they 
 reach the age of two years10. A medical form stating the clinical diagnosis of 
@@ -104,17 +57,13 @@ is not routinely required. Thus, a considerable number of children is likely to 
 misdiagnosed and prescribed restrictive and unnecessary diets, including the 
 indiscriminate use of expensive infant formulas, which, in turn, can negatively 
 impact public health-care costs. These facts clearly demonstrate the importance 
- 
-4 
 of the accurate diagnosis and appropriate management of CMPA for public 
 health-care costs. The aim of our study was to assess the usefulness and 
 safety of OFC for confirmation of CMPA diagnosis in children and to assess the 
 economic impact in the a public health service, regarding reduction in the 
 prescription of infant formulas, after exclusion of MA diagnosis in children with 
 negative OFC results. 
- 
-Methods 
-Study Design 
+
 This was an observational, descriptive study. We reviewed medical 
 records of 76 children aged 0-12 years who were diagnosed with CMPA based 
 on clinical features. All patients were submitted to open OFC with cow’s milk, at 
@@ -122,7 +71,7 @@ the University of Campinas Teaching Hospital (HC Unicamp), a tertiary-care
 hospital located in the city of Campinas, São Paulo State, Brazil, from January 
 2016 to June 2018. OFC was used both for confirming CMPA diagnosis and for 
 detecting the development of tolerance to cow’s milk.  
-Oral Food Challenge (OFC) 
+
 OFC was conducted according to our institutional protocol. A period of 
 eight weeks of elimination diet was required before the OFC, either for 
 confirming the CMPA diagnosis or for assessing development of natural 
@@ -138,10 +87,7 @@ manifestations, and anaphylaxis, were carefully monitored. One week after the
 OFC, the patients were evaluated for late adverse reactions. In case of any 
 adverse reaction, either immediate or a week after OFC, the test was 
 considered positive for CMPA.  
- 
-Data collection and statistical analysis: 
- 
-5 
+
 Medical records of patients submitted to OFC were assessed for 
 variables of interest, such as sex, age at the onset of the symptoms, feeding at 
 the onset of the symptoms, clinical manifestations of CMPA, mechanism of 
@@ -166,18 +112,13 @@ distribution, or as medians and interquartile ranges, in case of non-normal
 distribution. Normality was assessed by the Shapiro-Wilk test. Analyses were 
 performed using IBM® SPSS® Statistics software version 24 and Microsoft® 
 Excel 365. 
- 
-Ethical approval: 
+
 The study was approved by the Research Ethics Committee of the 
 University of Campinas (Unicamp, #2932486, 10/02/2018). 
- 
-Results  
-Patients´ characteristics 
+
 The characteristics of the 76 evaluated patients are described in Table 1. 
 Most patients were male and started to present clinical symptoms before the 
 age of one year. Upon identification of CMPA symptoms, most infants were fed 
- 
-6 
 with a standard cow’s milk-based formula containing intact milk protein, while 16 
 (21.1%) children were exclusively breastfed and 29 (38.2%) patients were fed 
 with whole milk (or derivates) or with both breast milk and infant formulas. Non-
@@ -188,6 +129,7 @@ performed. Some patients had the extensively hydrolyzed formula replaced with
 the aminoacid-based formula due to symptom persistence. Twelve children 
 used more than one type of infant formula during the elimination diet period. 
 OFC results 
+
 The median age of the children when OFC was performed was 2.0 years 
 [0.8-5.0]. In most cases, OFC was carried out to evaluate the development of 
 tolerance to cow’s milk. OFC results, along with symptoms presented by 
@@ -204,6 +146,7 @@ vomiting, requiring hospital admission. These patients progressed well and
 were discharged within a few days. Most patients had no immediate or late 
 symptoms after OFC, and were considered OFC-negative, thus having the 
 elimination diet suspended.  
+
 Among children who tested negative for OFC, 30 had less than 24 
 months of age, most of whom had clinical diagnosis of non-IgE-mediated 
 CMPA, and aminoacid-based formula was mostly used during their elimination 
@@ -212,9 +155,7 @@ per children by the public health service was 152.3 cans (40 – 226) (Table 4).
 The mean amount saved per child was 2,161.14 US dollars (225.82 – 3,509.78) 
 (Table 5). The total amount of money saved in the study population was 
 64,834.27 US dollars (Table 6).  
- 
-7 
-Discussion  
+
 Although CMPA is very common in childhood, concerns have been risen 
 about overdiagnosis, both in Brazil10 and abroad12,13. Our results give reason for 
 such concerns, since an extense majority of children with clinical diagnosis of 
@@ -226,6 +167,7 @@ money saved by a state public health system by avoiding provision of expensive
 and unnecessarily prescribed infant formulas. Such outcome highlights the 
 importance of a complete diagnostic approach for CMPA and how relying only 
 on clinical criteria can be problematic. 
+
 Notably, most children assessed in the present study were clinically 
 diagnosed with non-IgE-mediated CMPA, which is worrisome, as symptoms in 
 this condition are set more slowly and are not specific of CMPA or other food 
@@ -248,12 +190,11 @@ immaturity of the immune system in children. Atopy cases, in which IgE is
 elevated, may also bias the serological results5. As for children with non-IgE-
 mediated CMPA, OFC proved particularly crucial, as these children can 
 reinclude cow’s milk more easily, and in tolerable amounts, in their diets. Still, 
- 
-8 
 OFC is not commonly performed in public health services in Brazil. Most 
 patients in the present study were referred to HC Unicamp by other public 
 primary or secondary care units. Increasing the access to OFC in secondary 
 care units may help to identify more misdiagnosed children.  
+
 There was a substantial reduction in the costs of infant formula provision 
 by the São Paulo State’s public health service after exclusion of 58 (76.3%) 
 misguided CMPA diagnoses (Tables 4-6), which is impressive, given the low 
@@ -284,12 +225,11 @@ postpartum depression15,23. Altogether, these findings are particularly importan
 when it comes to a country like Brazil, where about 11 million individuals are 
 diagnosed with CMPA, with four million new cases per year3. Given that most of 
 Brazilian individuals are diagnosed with basis on their clinical features, the 
- 
-9 
 amount of money spent by public health services with provision of infant 
 formulas, as well as impacts in health of both mothers and children may have a 
 significant reduction, if measures for more accurate diagnosis of CMPA are 
 implemented nationwide. 
+
 Although the OFC importance is evident here, and in the literature, this 
 test is not devoid of risks7. In our study, reactions (including one case of 
 anaphylaxis) occurred in a considerable number of OFC-positive children, and 
@@ -303,6 +243,7 @@ caused by OFC are not difficult to treat, and OFC is an easy, low-cost and
 feasible method, with proven benefits for CMPA screening, we also think that its 
 risks are acceptable, if the test is carried out by strictly following the appropriate 
 protocol. 
+
 Naturally, our study has limitations. First, the low number of patients seen 
 in a single center is a cause of selection bias. Including a greater population 
 and other centers would allow more reliable statistical analyses. Also, we were 
@@ -312,712 +253,14 @@ OFC application could identify a considerable fraction of patients who were
 misdiagnosed with CMPA, allowing our clinical staff to stop several expensive 
 and unnecessary formula-based diets, which had a direct economic impact for 
 the São Paulo State’s public health service.  
- 
-Conclusion 
- 
+
 We conclude that OFC was crucial for identifying misdiagnosed CMPA 
 cases, especially when it comes to patients with non-IgE-mediated CMPA, for 
 whom milk reintroduction (in tolerable amounts) in the diet is easier. Ruling out 
 CMPA meant a substantial reduction in the prescription of infant formulas, 
 which can bring positive outcomes for growth, nutrition, and development of 
 children, as well as for the quality of life of both children and mothers. We show 
- 
-10 
 that stopping unnecessary formula-based diets can have a positive economic 
 impact for public health systems by causing them to save great amounts of 
 money that are spent on providing these formulas. OFC should be more spread 
 through secondary healthcare units to increase the public access to this test.  
- 
-Conflict of interest 
-On behalf of all authors, the corresponding author states that there is no 
-conflicts of interest to declare.  
- 
-References 
-1.  
-Warren CM, Jhaveri S, Warrier MR, Smith B, Gupta RS. The 
-epidemiology of milk allergy in US children. Ann Allergy, Asthma 
-Immunol. 2013;110(5):370-374. doi:10.1016/j.anai.2013.02.016 
-2.  
-Luyt D, Ball H, Makwana N, et al. BSACI guideline for the diagnosis and 
-management of cow’s milk allergy. Clin Exp Allergy. 2014;44(5):642-672. 
-doi:10.1111/cea.12302 
-3.  
-Vieira MC, Morais MB, Spolidoro JVN, et al. A survey on clinical 
-presentation and nutritional status of infants with suspected cow’ milk 
-allergy. BMC Pediatr. 2010;10(1):25. doi:10.1186/1471-2431-10-25 
-4.  
-Solé D, Silva LR, Cocco RR, et al. Consenso Brasileiro sobre Alergia 
-Alimentar: 2018 - Parte 1 - Etiopatogenia, clínica e diagnóstico. 
-Documento conjunto elaborado pela Sociedade Brasileira de Pediatria e 
-Associação Brasileira de Alergia e Imunologia. Arq Asma, Alerg e Imunol. 
-2018;2(1):7-38. doi:10.5935/2526-5393.20180004 
-5.  
-Solé D, Silva LR, Cocco RR, et al. Consenso Brasileiro sobre Alergia 
-Alimentar: 2018 - Parte 2 - Diagnóstico, tratamento e prevenção. 
-Documento conjunto elaborado pela Sociedade Brasileira de Pediatria e 
-Associação Brasileira de Alergia e Imunologia. Arq Asma, Alerg e Imunol. 
-2018;2(1):39-82. doi:10.5935/2526-5393.20180005 
-6.  
-Burks AW, Tang M, Sicherer S, et al. ICON: Food allergy. J Allergy Clin 
-Immunol. 2012;129(4):906-920. doi:10.1016/j.jaci.2012.02.001 
-7.  
-Bird JA, Leonard S, Groetch M, et al. Conducting an Oral Food 
-Challenge: An Update to the 2009 Adverse Reactions to Foods 
-Committee Work Group Report. J Allergy Clin Immunol Pract. 
- 
-11 
-2020;8(1):75-90.e17. doi:10.1016/j.jaip.2019.09.029 
-8.  
-Mendonça RB, Rodrigues Cocco R, Oselka R, et al. Teste de provocação 
-oral aberto na confirmação de alergia ao leite de vaca mediada por IgE: 
-qual seu valor na prática clínica? Rev Paul Pediatr. 2011;29(3):415-437. 
-9.  
-Ballmer-Weber BK, Beyer K. Food challenges. J Allergy Clin Immunol. 
-2018;141(1):69-71. doi:10.1016/j.jaci.2017.06.038 
-10.  Estado de São Paulo. Secretaria de Saúde. Resolução No. 336, de 27 de 
-Novembro de 2011. Diário Oficial Da União. 223a. Ed 28 de Novembro 
-de 2007.; 20107. 
-11.  Lins MDGM, Horowitz MR, Da Silva GAP, Motta MEFA. Oral food 
-challenge test to confirm the diagnosis of cow’s milk allergy. J Pediatr 
-(Rio J). 2010;86(4):285-289. doi:10.2223/JPED.2011 
-12.  Dambacher WM, De Kort EHM, Blom WM, Houben GF, De Vries E. 
-Double-blind placebo-controlled food challenges in children with alleged 
-cow’s milk allergy: Prevention of unnecessary elimination diets and 
-determination of eliciting doses. Nutr J. 2013;12(1):1-9. doi:10.1186/1475-
-2891-12-22 
-13.  Bird JA, Crain M, Varshney P. Food allergen panel testing often results in 
-misdiagnosis of food allergy. J Pediatr. 2015;166(1):97-100.e1. 
-doi:10.1016/j.jpeds.2014.07.062 
-14.  Venter C, Brown T, Meyer R, et al. Better recognition, diagnosis and 
-management of non-IgE-mediated cow’s milk allergy in infancy: IMAP - 
-An international interpretation of the MAP (Milk Allergy in Primary Care) 
-guideline. Clin Transl Allergy. 2017;7(1):26. doi:10.1186/s13601-017-
-0162-y 
-15.  Van Tulleken C. Overdiagnosis and industry influence: How cow’s milk 
-protein allergy is extending the reach of infant formula manufacturers. 
-BMJ. 2018;363(December):1-5. doi:10.1136/bmj.k5056 
-16.  Elizur A, Cohen M, Goldberg MR, Rajuan N, Katz Y. Mislabelled cow’s 
-milk allergy in infants: a prospective cohort study. Arch Dis Child. 
-2013;98(6):408-412. doi:10.1136/archdischild-2012-302721 
-17.  NIDAID-Sponsored Expert Panel, Boyce JA, Assa’ad A, et al. Guidelines 
-for the diagnosis and management of food allergy in the United States: 
-Report of the NIAID-sponsored expert panel. J Allergy Clin Immunol. 
- 
-12 
-2010;126(6 SUPPL.):S1-S58. doi:10.1016/j.jaci.2010.10.007 
-18.  Fiocchi A, Brozek J, Schünemann H, et al. World allergy organization 
-(WAO) diagnosis and rationale for action against cow’s milk allergy 
-(DRACMPA) guidelines. Pediatr Allergy Immunol. 2010;21(SUPPL. 21):1-
-125. doi:10.1111/j.1399-3038.2010.01068.x 
-19.  Martorell-Aragonés A, Echeverría-Zudaire L, Alonso-Lebrero E, et al. 
-Position document: IgE-mediated cow’s milk allergy. Allergol 
-Immunopathol (Madr). 2015;43(5):507-526. 
-doi:10.1016/j.aller.2015.01.003 
-20.  Couch C, Franxman T, Greenhawt M. The economic effect and outcome 
-of delaying oral food challenges. Ann Allergy, Asthma Immunol. 
-2016;116(5):420-424. doi:10.1016/j.anai.2016.02.016 
-21.  Osborn DA, Sinn JK, Jones LJ. Infant formulas containing hydrolysed 
-protein for prevention of allergic disease. Cochrane database Syst Rev. 
-2018;10(10):CD003664. doi:10.1002/14651858.CD003664.pub6 
-22.  Gordon M, Biagioli E, Sorrenti M, et al. Dietary modifications for infantile 
-colic. Cochrane database Syst Rev. 2018;10:CD011029. 
-doi:10.1002/14651858.CD011029.pub2 
-23.  Sha T, Gao X, Chen C, et al. A prospective study of maternal postnatal 
-depressive symptoms with infant-feeding practices in a Chinese birth 
-cohort. BMC Pregnancy Childbirth. 2019;19(1):388. doi:10.1186/s12884-
-019-2559-1 
-24.  Anagnostou K. Safety of Oral Food Challenges in Early Life. Children. 
-2018;5(6):65. doi:10.3390/children5060065 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-13 
-Authorship 
-1) Ana Laura Mendes Becker Andrade: Substantial contributions to conception 
-and design, acquisition of data, analysis and interpretation of data; involved in 
-drafting the manuscript. 
-2) Priscila da Silva Pereira: Substantial contributions to acquisition of data 
-3) Renan Marrichi Mauch: Involved in drafting and revising the manuscript 
-critically for important intellectual content; gave final approval of the version to 
-be published. 
-3) Maria Angela Bellomo Brandão: Substantial contributions to conception and 
-design and acquisition of data 
-4) Marcos Tadeu Nolasco da Silva:  Substantial contributions to conception and 
-design, analysis and interpretation of data; involved in revising the manuscript 
-critically for important intellectual content; gave final approval of the version to 
-be published.  
-5) Adriana Gut Lopes Riccetto: Substantial contributions to conception and 
-design, analysis and interpretation of data; had been involved in drafting the 
-manuscript and revising it critically for important intellectual content; gave final 
-approval of the version to be published.  
-Table 1. Characteristics of the 76 patients with diagnosis of Cow’s Milk Protein 
-Allergy (CMPA).  
-Characteristic 
-N (%) 
-Sex 
-Male  
-41 (53.9) 
-Clinical symptoms in early diagnosis of CMPA 
-Median age at onset of symptoms; months [range] 
-2.0 [0.8–5.0] 
-Gastrointestinal tract (vomiting, diarrhea, bloody stools) 
-52 (68.4) 
-Anaphylaxis 
-13 (17.1) 
-Urticaria/angioedema 
-7 (9.2) 
- Worsening of atopic dermatitis 
-4 (5.3) 
-Feeding at onset of symptoms of MA 
-Common milk formula (intact protein) 
-31 (40.8) 
-Maternal milk 
-16 (21.1) 
-Whole milk/derivatives 
-15 (19.7) 
-Formula + maternal milk 
-14 (18.4) 
-Mechanism of Allergy (MA) 
-Non-IgE mediated 
-52 (68.4) 
-IgE- mediated 
-20 (26.3) 
-Mixed 
-4 (5.3) 
-Elimination diet, before Oral Food Challenge (OFC) 
-Aminoacid-based formula 
-29 (38.2) 
-Extensively hydrolyzed formula 
-26 (34.2) 
-Soy-based formula 
-18 (23.7) 
-More than one type of Infant Formula 
-12 (15.8) 
-Maternal milk 
-12 (15.8) 
-Non-use of maternal milk, formula or vegetable milk 
-5 (6.6) 
- 
- 
- 
-Table 2. Characteristics of 76 patients with Cow’s Milk Protein Allergy (CMPA), 
-at the time of Oral Food Challenge (OFC). 
-Characteristic 
-N (%) 
-Median age at the time of OFC; years [range] 
-2.0 [0.8–5.0] 
-Aim of OFC 
-Evaluate tolerance 
-62 (81.6) 
- 
-Confirm diagnosis 
-14 (18.4) 
-OFC result 
-Negative 
-58 (76.3) 
-Positive 
-18 (23.7) 
-Symptoms exhibited upon positive OFC (N=18)  
-Gastrointestinal tract 
-10 (55.6) 
-Food Protein Induced Enterocolitis Syndrome 
-(FPIES) 
-2 (11.1) 
-Ocular pruritus/nasal congestion/tongue pruritus 
-3 (16.7) 
-Urticária/angioedema 
- 
-4 (22.2) 
-Anaphylaxis 
-1 (5.5) 
- 
- 
-Table 3. Children aged <24 months who used infant formulas during the elimination 
-diet period and tested negative for Oral Food Challenge (OFC) (n = 30/76). 
-Mechanism of Cow’s Milk Protein Allergy (CMPA) diagnosed before OFC and infant 
-formulas used during the elimination diet.  
-CMPA mechanism diagnosed before OFC 
-N (%) 
-Non-IgE mediated 
-29 (96.7) 
-IgE- mediated 
-1 (3.3) 
-Infant formula used during the elimination diet, before OFC 
-Aminoacid-based formula 
-17 (56.7) 
-Extensively hydrolyzed formula 
-12 (40.0) 
-Soy-based formula 
-1 (3.3) 
- 
- 
-Table 4. Children aged <24 months who used infant formulas during the elimination 
-diet period and tested negative for Oral Food Challenge (OFC) (n = 30/76). Number 
-of cans saved per child, according to patient’s age after negative OFC. 
-P 
-Age at 
-OFC 
-(months) 
-Number of 
-cans saved* 
-Number of 
-cans 
-received until 
-OFC 
-Number of cans 
-saved after 
-negative OFC 
-Infant formula used 
-before OFC 
-1 
-2 
-255 
-29 
-226 
-AA-based 
-2 
-2 
-255 
-29 
-226 
-AA-based 
-3 
-3 
-255 
-44 
-211 
-AA-based 
-4 
-3 
-255 
-44 
-211 
-AA-based 
-5 
-3 
-255 
-44 
-211 
-AA-based 
-6 
-4 
-255 
-60 
-195 
-AA-based 
-7 
-5 
-255 
-76 
-179 
-AA-based 
-8 
-5 
-255 
-76 
-179 
-AA-based 
-9 
-6 
-255 
-92 
-163 
-AA-based 
-10 
-6 
-255 
-92 
-163 
-AA-based 
-11 
-7 
-255 
-105 
-150 
-AA-based 
-12 
-9 
-255 
-131 
-124 
-AA-based 
-13 
-10 
-255 
-141 
-114 
-AA-based 
-14 
-12 
-255 
-159 
-96 
-AA-based 
-15 
-13 
-255 
-167 
-88 
-AA-based 
-16 
-15 
-255 
-183 
-72 
-AA-based 
-17 
-19 
-255 
-215 
-40 
-AA-based 
-18 
-3 
-255 
-44 
-211 
-EHF 
-19 
-4 
-255 
-60 
-195 
-EHF 
-20 
-4 
-255 
-60 
-195 
-EHF 
-21 
-5 
-255 
-76 
-179 
-EHF 
-22 
-5 
-255 
-76 
-179 
-EHF 
-23 
-6 
-255 
-92 
-163 
-EHF 
-24 
-6 
-255 
-92 
-163 
-EHF 
-25 
-8 
-255 
-118 
-137 
-EHF 
-26 
-8 
-255 
-118 
-137 
-EHF 
-27 
-10 
-255 
-141 
-114 
-EHF 
-28 
-11 
-255 
-151 
-104 
-EHF 
-29 
-13 
-255 
-167 
-88 
-EHF 
-30 
-17 
-255 
-199 
-56 
-Soy-based  
- 
- P (patient); OFC (Oral Food Challenge); AA (aminoacid); EHF (Extensively hydrolyzed formula); 
-*Number of cans that would be provided by the Public Health System if CMPA was not ruled out. 
- 
- 
-Table 5. Children aged <24 months who used infant formulas during the elimination 
-diet period and tested negative for Oral Food Challenge (OFC) (n = 30/76). Total 
-amount of money* saved per child according to patient’s age upon negative OFC and 
-number of cans that would be provided by the Public Health system up to 24 months 
-of age. 
-Patien
-t 
-Age at test 
-(months) 
-Nº of cans 
-saved 
-after OFC 
-Infant 
-formula 
-used 
-Price of 
-can  (BRL) 
-Total amount of 
-money saved 
-(BRL) 
-Money saved 
-per month 
-(BRL) 
-1 
-2 
-226 
-AA-based 
-62.12 
-14,039.12 
-638.14 
-2 
-2 
-226 
-AA-based 
-62.12 
-14,039.12 
-638.14 
-3 
-3 
-211 
-AA-based 
-62.12 
-13,107.32 
-624.16 
-4 
-3 
-211 
-AA-based 
-62.12 
-13,107.32 
-624.16 
-5 
-3 
-211 
-AA-based 
-62.12 
-13,107.32 
-624.16 
-6 
-4 
-195 
-AA-based 
-62.12 
-12,113.40 
-605.67 
-7 
-5 
-179 
-AA-based 
-62.12 
-11,119.48 
-585.24 
-8 
-5 
-179 
-AA-based 
-62.12 
-11,119.48 
-585.24 
-9 
-6 
-163 
-AA-based 
-62.12 
-10,125.56 
-562.53 
-10 
-6 
-163 
-AA-based 
-62.12 
-10,125.56 
-562.53 
-11 
-7 
-150 
-AA-based 
-62.12 
-9,318.00 
-548.12 
-12 
-9 
-124 
-AA-based 
-62.12 
-7,702.88 
-513.53 
-13 
-10 
-114 
-AA-based 
-62.12 
-7,081.68 
-505.83 
-14 
-12 
-96 
-AA-based 
-62.12 
-5,963.52 
-496.96 
-15 
-13 
-88 
-AA-based 
-62.12 
-5,466.56 
-496.96 
-16 
-15 
-72 
-AA-based 
-62.12 
-4,472.64 
-496.96 
-17 
-19 
-40 
-AA-based 
-62.12 
-2,484.80 
-496.96 
-18 
-3 
-211 
-EHF 
-50.37 
-10,628.07 
-506.10 
-19 
-4 
-195 
-EHF 
-50.37 
-9,822.15 
-491.11 
-20 
-4 
-195 
-EHF 
-50.37 
-9,822.15 
-491.11 
-21 
-5 
-179 
-EHF 
-50.37 
-9,016.23 
-474.54 
-22 
-5 
-179 
-EHF 
-50.37 
-9,016.23 
-474.54 
-23 
-6 
-163 
-EHF 
-50.37 
-8,210.31 
-456.13 
-24 
-6 
-163 
-EHF 
-50.37 
-8,210.31 
-456.13 
-25 
-8 
-137 
-EHF 
-50.37 
-6,900.69 
-431.29 
-26 
-8 
-137 
-EHF 
-50.37 
-6,900.69 
-431.29 
-27 
-10 
-114 
-EHF 
-50.37 
-5,742.18 
-410.16 
-28 
-11 
-104 
-EHF 
-50.37 
-5,238.48 
-402.96 
-29 
-13 
-88 
-EHF 
-50.37 
-4,432.56 
-402.96 
-30 
-17 
-56 
-EHF 
-16.13 
-903.28 
-129.04 
-BRL (Brazilian Reals); AA (Aminoacid); EHF (Extensively hydrolyzed formula).  
-* Considering the amount subsidized by the high-cost pharmacy of the University of Campinas 
-Teaching Hospital (July 2018) - EHF: R$50.37/can; AA-based formula: R$62.12/Can; Soy-based 
-formula: R$16.13/can.  
- 
-Table 6. Total amount of money* saved per child who used infant formula 
-during the elimination diet, according to patient’s age upon negative Oral 
-Food Challenge (OFC) and number of cans that would be provided by the 
-Public Health system up to 24 months of age (n = 30/76). 
-Analysis 
-Amount in BRL 
-Amount in USD 
-Mean amount saved per child 
-8,644.57 ± 3,394.60 
-2,161.14 ± 848.65 
-Total amount saved per month 
-15,162.63 
-3,790.65 
-Total amount saved per year 
-181,951.54 
-45,487.89 
-Total amount saved  
-259,337.09 
-64,834.27 
-* July 2018; BRL (Brazilian Reals); USD (United States Dollars).  
- 

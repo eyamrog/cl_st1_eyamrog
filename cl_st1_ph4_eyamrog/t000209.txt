@@ -1,9 +1,12 @@
-Rev Col Bras Cir 47:e20202568
-DOI: 10.1590/0100-6991e-20202568
-	
-INTRODUCTION
-O
-ver one million cases of the SARS-CoV-2 virus 
+Over one million cases of the SARS-CoV-2 virus have been confirmed worldwide, with the death toll exceeding 50,000 people. An import-
+ant issue to be addressed concerns the exposure of health professionals to this new virus. The first reports from Wuhan province, China, 
+described infection rates of up to 29% among healthcare professionals before the use of personal protective equipment (PPE) was fully 
+regulated. There are several protocols on the correct use of PPE during aerosol-generating procedures. However, there is no specific guid-
+ance on how to proceed in cases of need for chest tubes in patients with positive COVID-19 active air leak. The objective of this work is to 
+assist surgeons of the most diverse specialties during the chest drainage of a patient with COVID-19 and to avoid a risk of contamination 
+to the professional and the environment.
+
+Over one million cases of the SARS-CoV-2 virus 
 have been confirmed worldwide, the death toll 
 exceeding 50,000 people1. The exposure of health 
 professionals to this new virus is an important issue. The 
@@ -21,6 +24,7 @@ facing a pandemic of a previously unknown disease and
 there are not enough diagnostic tests for mass testing 
 in Brazil, every precaution must be considered when 
 approaching any patient.
+
 The SARS-CoV-2 virus, which causes the 
 COVID-19 disease, has been shown to be viable in 
 aerosol form and is transmitted by droplets4. During the 
@@ -31,6 +35,7 @@ simple pleural effusions, there is concern that there
 may be a high risk of aerosol production in cases of 
 pneumothorax with active air leakage, whether these 
 are primary, secondary, spontaneous or iatrogenic.
+
 Traditional 
 chest 
 drainage 
@@ -43,32 +48,9 @@ the inner liquid to bubble. Given the aerosolization that
 is likely to occur inside the drain collector, it escapes 
 through this outlet and this can be an important way 
 of environment contamination and viral transmission5.
-	
-	
-TECHNICAL REPORT
+
 This proposal aims to serve as a tool and to 
 assist surgeons in the treatment of conditions that require 
-1 - Mario Penna Institute / Luxemburgo Hospital, Thoracic Surgery Service - Belo Horizonte - MG - Brazil 2 - Alberto Cavalcanti Hospital - Foundation
-Minas Gerais State Hospital/FHEMIG - Belo Horizonte - MG - Brazil 3 - Federal University of Minas Gerais, Hospital das Clínicas, Service of Thoracic 
-Surgery - Belo Horizonte - MG - Brazil
-Safety model for chest drainage in pandemic by COVID-19
-Modelo de segurança para realização de drenagem torácica na pandemia pela 
-COVID-19
-Erlon de Avila Carvalho1,2      ; Marina Varela Braga de Oliveira3     .
-Technical note
-A B S T R A C T
-Over one million cases of the SARS-CoV-2 virus have been confirmed worldwide, with the death toll exceeding 50,000 people. An import-
-ant issue to be addressed concerns the exposure of health professionals to this new virus. The first reports from Wuhan province, China, 
-described infection rates of up to 29% among healthcare professionals before the use of personal protective equipment (PPE) was fully 
-regulated. There are several protocols on the correct use of PPE during aerosol-generating procedures. However, there is no specific guid-
-ance on how to proceed in cases of need for chest tubes in patients with positive COVID-19 active air leak. The objective of this work is to 
-assist surgeons of the most diverse specialties during the chest drainage of a patient with COVID-19 and to avoid a risk of contamination 
-to the professional and the environment.
-Keywords: Severe Acute Respiratory Syndrome. Thoracostomy. Thoracic Surgery. Coronavirus.
-2
-Carvalho
-Safety model for chest drainage in pandemic by COVID-19
-Rev Col Bras Cir 47:e20202568
 thoracic drainage during the COVID-19 pandemic. It is 
 based on review of the literature published so far, in the 
 opinion of individuals specialized in the thoracic surgery 
@@ -76,12 +58,14 @@ field, and not necessarily on evidence-based instructions.
 We recognize that management strategies are dynamic 
 and must be determined individually, depending on the 
 equipment and tools available at each institution.
+
 Ideally, one should use closed digital drainage 
 systems regularized in Brazil and marketed by the industry. 
 As this is not the reality of most hospitals, we propose all 
 steps of a safe and viable alternative, aiming to reduce the 
 contamination of the environment and the exposure of 
 the assistant team.
+
 The main mechanism for preventing the spread 
 of particles would be the use of the High Efficiency 
 Particulate Arrestance (HEPA) filter. The HEPA filter was 
@@ -89,6 +73,7 @@ developed in 1940 to hinder the spread of cancerous
 contaminants through the air in the Manhattan Project, 
 responsible for the production of the first atomic bombs 
 in history6.
+
 Made of fiberglass, HEPA filters are designed to 
 retain much smaller particles and impurities than ordinary 
 filters. The diameter of the fibers, the speed of the particles 
@@ -97,6 +82,7 @@ when analyzing the HEPA filters. They work in three ways:
 interception, impact and diffusion. The particles adhere to 
 the fiber after following the air flow and being impacted 
 by the fibers, which causes them to stick to the filter7,8.
+
 Common filters cannot keep viruses and 
 bacteria, while the HEPA is able to capture 99.97% of 
 air impurities. The filtering capacity that justifies this 
@@ -106,27 +92,43 @@ defense against aerosolization. The aerosol particles are
 smaller than five micrometers4, so the HEPA filter would 
 be an important barrier against the dispersion of aerosols 
 in the environment.
+
 Necessary material:
+
 • 3 KITS of personal protective equipment 
 (PPE): hat, N95 mask, 2 pairs of long-sleeved gloves, 
 waterproof apron / cloak, goggles, face shield;
+
 • Chest drain of the desired size and collector;
+
 • Orotracheal tube number 7 or 8;
+
 • HEPA filter;
+
 • Device to close the collector’s communication 
 with the environment if it does not have its own 
 mechanism;
+
 • 1 sterile hemostatic forceps;
+
 • Sterile drapes;
+
 • Lidocaine 1%;
+
 • 10 mL syringe;
+
 • 40x12 and 25x8 mm needles;
+
 • Scalpel blade number 15;
+
 • Small surgery kit;
+
 • Surgical suture Vicryl® 1 and Nylon® 2.0 (or 
 sutures of choice in the service);
+
 • Dressing material: gauze and micropore 
 bandage.
+
 The procedure should be performed using the 
 PPE recommended by the regulations of each service for 
 contact with COVID-19 positive patients and other care 
@@ -136,64 +138,62 @@ such as N95 mask, cap, goggles, and face shield,
 disposable waterproof apron and long-barreled gloves; 
 foot protectors may also be recommended in some 
 services.
+
 • Prior preparing of the drainage system in a 
 sterile manner, with the use of a collection bottle with a 
 5 cm water column (Figure 1);
+
 • Use of the tracheal tube connector in the 
 drain outlet that has a latex tip (Figure 2);
+
 • Occlude the other outlet with a preferred 
 device to ensure a seal, such as 1 mL syringe plunger; 
 some drains already have their own sealing mechanism 
 (Figure 3);
+
 • Connect the HEPA filter to it (Figure 4);
+
 • Measure how many of the drain length in 
 centimeters should m be inserted, and occlude it with a 
 straight hemostat;
+
 • Connect the drain to the system (Figure 5);
+
 • Position the patient in the usual way, in the 
 supine position, headboard at 30º and the ipsilateral arm 
 elevated;
+
 • Perform wide antisepsis with degerming and 
 alcoholic chlorhexidine;
+
 • Place the sterile drapes;
+
 • Carry out the local anesthesia;
+
 • Proceed with incision in the 5th intercostal 
 space in the posterior axillary line;
-3
-Carvalho
-Safety model for chest drainage in pandemic by COVID-19
-Rev Col Bras Cir 47:e20202568
-Figure 1. Common thoracic drain collector with two open air holes.
-Figure 3. Tube connector coupled to the collector and the hole 
-communicating with the closed environment.
-Figure 4. The collector with the HEPA filter connected to the connector 
-of the orotracheal tube which was previously coupled and the other 
-closed hole to avoid aerosols.
-Figure 2. Orotracheal tube to be used as a collector.
-4
-Carvalho
-Safety model for chest drainage in pandemic by COVID-19
-Rev Col Bras Cir 47:e20202568
-Figure 5. Closed draining system which is ready for the procedure, 
-complying with safety recommendations.
+
 • Dissect by planes, until the pleural cavity. 
 If the patient is on mechanical ventilation, interrupt 
 ventilation at that time;
+
 • Insert the occluded drain, and with the 
 intermediate connector attached to the collection 
 bottle, fix it with 1 Vicryl® suture. Perform suture to the 
 skin to obtain hermetic closure of the orifice;
+
 • Unclamp the hemostat;
+
 • Apply a U stich with 2.0 Nylon® suture and 
 cover with the dressing.
-	
-CONCLUSIONS
+
 Aerosolization by chest tube insertion is still 
 an unknown phenomenon, but we should consider 
 avoiding any possible means of contamination. The 
 use of the entire closed circuit, occluded by a clamp 
 and already connected to the collection bottle, is part 
 of the arsenal for the safety of the care team.
+
 We should consider as limiting the work 
 the fact that the HEPA filter intercepts particles as 
 small as 0.3 μm. A droplet is 0.5 µm. However, the 
@@ -206,86 +206,3 @@ to be studied, and the benefits, proven through
 evidence-based medicine. However, given the current 
 pandemic, any method of reducing viral spread should 
 be considered.
-	
-REFERENCES
-1.	
-Johns Hopkins University & Medicine [Internet]. 
-COVID-19 Map [cited 2020 Apr 11]. Available from: 
-https://coronavirus.jhu.edu/map.html. 
-2.	
-Chen W, Huang Y. To protect healthcare workers 
-better, to save more lives. Anesth Analg. 2020. 
-doi:10.1213/ANE.0000000000004834.
-3.	
-Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et 
-al. Substantial undocumented infection facilitates 
-the rapid dissemination of novel coronavirus (SARS-
-CoV2). Science. 2020;pii: eabb3221. doi: 10.1126/
-science.abb3221.
-4.	
-Van Doremalen N, Bushmaker T, Morris DH, 
-Holbrook MG, Gamble A, Williamson BN, et al. 
-Aerosol and surface stability of SARS-CoV-2 as 
-compared with SARS-CoV-1. N Engl J Med. 2020; 
-382(16):1564-7. doi:10.1056/NEJMc2004973
-Mais de um milhão de casos do vírus SARS-CoV-2 foram confirmados em todo o mundo, com o número de mortos ultrapassando 
-50.000 pessoas. Uma questão importante a ser abordada diz respeito à exposição dos profissionais de saúde à esse novo vírus. Os pri-
-meiros relatórios da província de Wuhan, na China, descreveram taxas de infecção de até 29% entre os profissionais de saúde antes que 
-o uso de equipamentos de proteção pessoal (EPI) fosse totalmente regulamentado. Existem vários protocolos sobre o uso correto de EPI 
-durante os procedimentos geradores de aerossóis. No entanto, não há orientação específica sobre como proceder em casos
-de necessidade de drenos torácicos em pacientes com vazamento de ar ativo COVID-19 positivos. O objetivo desse trabalho é auxiliar 
-os cirurgiões das mais diversas especialidades durante a drenagem torácica de um paciente com COVID-19 e evitar um risco de conta-
-minação ao profissional e no ambiente.
-Palavras chave: Síndrome Respiratória Aguda Grave. Toracostomia. Cirurgia Torácica. Coronavirus.
-R E S U M O
-5
-Carvalho
-Safety model for chest drainage in pandemic by COVID-19
-Rev Col Bras Cir 47:e20202568
-5.	
-Bilkhu R, Viviano A, Saftic I, Billè A. COVID-19: 
-Chest Drains With Air Leak - The Silent ‘Super 
-Spreader’ [Internet]? CTSNET; 2020 [cited 2020 Apr 
-11]. Available from: https://www.ctsnet.org/article/
-covid-19-chest-drains-air-leak-%E2%80%93-
-silent-%E2%80%98super-spreader%E2%80%99.
-6.	
-Cohen B. The history of HEPA filters [Internet]. 
-Berktree; 2020 [cited 2020 Apr 13]. Available from: 
-http://www.berktree.com/article-The-History-of-
-HEPA-Filters.html. 
-7.	
-Pearce 
-RJ. 
-Fire 
-protection 
-technology 
-for 
-semiconductor 
-operations. 
-In. 
-Bolmen 
-RA. 
-Semiconductor safety handbook:  safety and health 
-in the semiconductor industry.  Westwood NJ: 
-Noyes Publication; 1998.
-8.	
-ScienceDirect [Internet]. High Efficiency Particulate 
-Air Filter. [cited 2020 Apr 13]. Available from:  
-https://www.sciencedirect.com/topics/engineering/
-high-efficiency-particulate-air-filter. 
-9.	
-Kim JM, Chung YS, Jo HJ, Lee NJ, Kim MS, Woo 
-SH, et al. Identification of coronavirus isolated 
-from a patient in Korea with COVID-19. Osong 
-Public Health Res Perspect. 2020;11(1):3-7. doi: 
-10.24171/j.phrp.2020.11.1.02.
-Received in: 11/04/2020
-Accepted for publication: 14/04/2020
-Conflict of interest: no.
-Funding source: none.
-Mailing address:
-Erlon de Avila Carvalho
-E-mail: erlon.avila@gmail.com/erlon_avila@hotmail.com
-Marina Varela Braga de Oliveira 
-E-mail: marina_varella@hotmail.com

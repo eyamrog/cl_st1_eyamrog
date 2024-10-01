@@ -1,10 +1,3 @@
-Viewpoint
-Cardiovascular Implications in Patients Infected with Covid-19 
-and the Importance of Social Isolation to Reduce Dissemination 
-of the Disease
-Juliana Alves Costa,1  Juliana de Almeida Silveira,1  Sara Cristine Marques dos Santos,1 Patrícia Pereira Nogueira1
-Universidade de Vassouras – Cardiologia,1 Rio de Janeiro, RJ – Brazil
-Abstract
 Respiratory symptoms, especially the development of severe 
 acute respiratory distress syndrome, dominate the discussion 
 and initial concerns of the population and health professionals. 
@@ -26,7 +19,7 @@ becomes a tool that can reduce and flatten the curve of cases
 and thus protect the people at higher risk, decreasing the 
 chances of serious conditions related to the disease, potential 
 deaths and the collapse of the country’s health system.
-Introduction
+
 Coronavirus is a virus belonging to the Coronaviridae 
 family, causing simple flu to diseases that can cause greater 
 risks to the population’s health. The novel coronavirus, which 
@@ -47,6 +40,7 @@ lung injuries due to the aggressive inflammation initiated by
 viral replication. SARS-CoV-2 infection can cause increased 
 secretion of pro-inflammatory interleukins and interferon-
 gamma (IFN-γ) that cause lung damage.5
+
 Brazil, like other countries, is going through the process of 
 demographic transition that has the aging of the population as 
 its main effect. Thus, diseases of the circulatory system appear 
@@ -56,22 +50,24 @@ implications and their worsening by SARS-CoV-2, it is evident
 that prevention and control measures that reduce risks 
 of contamination and infection are important tools in the 
 reduction of severe cases of the disease and potential deaths.
+
 This article relates the current pandemic of COVID-19 with 
 the cardiovascular implications, showing the importance of 
 social isolation as a measure to prevent and control the spread 
 of the disease and preserve the country’s Health System.
-Material and methods
+
 Literature review based on 37 articles, in English, 
 Portuguese and Spanish, available on Scielo and PubMed, 
 referring to the cardiovascular implications in patients infected 
 with Covid-19, the importance of social isolation as a measure 
 of prevention and control of disease spread and preservation 
 of the country’s health system.
-Overview of COVID-19
+
 The COVID-19 pandemic, as well as previous epidemics of 
 other coronaviruses (SARS and MERS) and the 2009 pandemic 
 (H1N1), have serious consequences for the health, economic 
 and social models of the entire world population.
+
 Although demographic transition occurs differently from 
 country to country, in general, is characterized by an increase 
 in the elderly population compared to other age groups, as 
@@ -80,29 +76,14 @@ reduced infant mortality and general mortality, improvements
 in health care for the population, technological development 
 with regard to the diagnosis and treatment of diseases also 
 corroborate the current demographic scenario.6
+
 Concomitantly with the increase in the number of elderly 
 people, there is an epidemiological transition, with an increase 
 in the proportion of circulatory diseases, diabetes mellitus, 
-Mailing Address: Juliana Alves Alves Costa  •
-Universidade de Vassouras - Cardiologia
-Av. Expedicionário Osvaldo de Almeida Ramos, 280. Postal Code 27700-000, 
-Centro, Vassouras, RJ - Brazil
-E-mail: jujuh.ac@hotmail.com
-Manuscript received March 24, 2020, revised manuscript April 15, 2020, 
-accepted April 15, 2020
-Keywords
-Coronavirus; COVID-19; Infecções por Coronavirus/
-prevention and control; Social Isolation; Diseases 
-Dissemination. 
-DOI: https://doi.org/10.36660/abc.20200243
-834
-Viewpoint
-Costa et al.                      
-Cardiovascular Implication of Covid-19
-Arq Bras Cardiol. 2020; 114(5):834-838
 neoplasms, diseases due to external causes and diseases of 
 the respiratory system.7 Studies show that a higher frequency 
 of comorbidities is commonly related to older age. 
+
 The mortality rate of COVID-19 can be nine times higher 
 among people with some chronic disease compared to that of 
 patients without any pre-existing pathology. Data provided by 
@@ -113,6 +94,7 @@ for example, the rate reached 13.2%. Considering all infected
 patients, lethality was 3.8%, but it is worth mentioning that, 
 due to the progress of the pandemic, new statistical data has 
 been added to the studies.
+
 The severe form of the disease was observed in older 
 patients8,9 who had a more significant number of comorbid 
 conditions compared to non-severe patients. These findings 
@@ -122,6 +104,7 @@ immunosuppressed patients may manifest atypical symptoms
 and other forms of presentation, including mild, moderate and 
 severe pneumonia and, in more severe cases, severe acute 
 respiratory syndrome, sepsis, septic shock and death.4
+
 In a case report of 138 patients hospitalized with COVID-19, 
 16.7% of patients developed arrhythmia and 7.2% suffered 
 acute cardiac injury, in addition to other complications related 
@@ -130,12 +113,14 @@ heart failure, myocardial infarction, myocarditis and cardiac
 arrest.10 Moreover, cases of myocardial damage, with increased 
 troponin I, acute cardiac damage, shock and arrhythmia, 
 were found.11,12
+
 In the acute phase of severe viral conditions, not only 
 in COVID-19, but also in other Coronavirus illnesses, the 
 patient may present tachycardia, hypotension, bradycardia, 
 arrhythmias and sudden death. Abnormal findings on 
 electrocardiograms and increased troponin signal myocardial 
 involvement in the form of myocarditis.11,12
+
 Cohort studies published to date show rates of acute 
 heart failure, shock and arrhythmia of 7.2%, 8.7% and 
 16.7%, respectively. Cardiovascular involvement is due to 
@@ -148,6 +133,7 @@ maintained, with their withdrawal/replacement being assessed
 on an individual level and in accordance with the guidelines 
 in force so far. It is worth noting that new recommendations 
 may emerge as new studies in progress come out.13,14
+
 Chronic diseases, such as hypertension, diabetes, diseases 
 of the respiratory system, cardiovascular diseases and their 
 conditions of susceptibility, share some standardized states 
@@ -161,6 +147,7 @@ Moreover, metabolic disorders can lead to depression of the
 immune function, impairing the function of macrophages and 
 lymphocytes,16 which can make individuals more susceptible 
 to complications and aggravations of COVID-19.9
+
 Many of the older patients who become seriously ill have 
 evidence of underlying diseases, such as cardiovascular 
 diseases, liver diseases, kidney diseases or malignant 
@@ -169,6 +156,7 @@ comorbidities. Therefore, the accurate assessment of all
 original comorbidities of individuals with COVID-19 must be 
 rigorously analyzed and considered from an individualized 
 therapeutic perspective. 
+
 Other studies add that the respiratory failure aggravated 
 by SARS-CoV-2 occurs due to massive alveolar damage. This 
 virus is capable of infecting human respiratory epithelial cells 
@@ -179,6 +167,7 @@ of severe lung infections can affect the long-term prognosis of
 individuals with heart diseases, there is no data to confirm that 
 patients recovered from COVID-19 infection will experience 
 long-term effects.20,21
+
 Thus, not only capable of causing pneumonia, COVID-19 
 can also cause damage to other organs, and patients end up 
 dying from multiple organ failure, shock, acute respiratory 
@@ -188,6 +177,7 @@ and prevention should be monitored in the treatment of
 COVID-19.23 In these critical patients, the necessary protective 
 measures include mechanical ventilation, glucocorticoids, 
 antivirals, symptomatic treatments and shock therapy.
+
 Another important factor would be the approach to 
 estimating the transmissibility of a virus by calculating its 
 reproductive number (R0), which represents a measure of 
@@ -198,6 +188,7 @@ this new coronavirus, responsible for COVID-19, would be
 associated with R0 rates of 1.5 to 3.5, with the most recent 
 data suggesting an R0 of 4.08 (i.e., for each case, on average 
 , there would be four new infected individuals).7
+
 As it has a high potential for dissemination1 and, knowing 
 that it is an RNA virus, enveloped and contaminated by 
 respiratory droplets or contact, hygiene measures must be 
@@ -207,23 +198,21 @@ the virus, using 70% alcohol-based hand sanitizer, covering our
 mouth when coughing or sneezing to prevent viral particles 
 from spreading through the environment, avoiding crowds 
 and staying in a well-ventilated area.3,4
+
 According to the literature, the average incubation period 
 for coronavirus is 5 days, with intervals that can be as long 
 as 12 days. Preliminary data for SARS-CoV-2 suggest that 
 transmission may occur even without the appearance of signs 
 and symptoms.4,5
+
 When there are no complications, the symptoms 
 consist of fever, dry cough and tiredness. Runny nose and 
 nasal congestion, sore throat and diarrhea may also occur. 
 Furthermore, most of those infected are asymptomatic (about 
-835
-Viewpoint
-Costa et al. 
-Cardiovascular Implication of Covid-19
-Arq Bras Cardiol. 2020; 114(5):834-838
 80%) and recover without requiring any special treatment, 
 while 1/6 of the patients can progress severely, with breathing 
 issues.24,25
+
 In view of the current situation, it is extremely important 
 for the population to act conscientiously and stay at home, 
 whether symptomatic or not, with the aim of reducing the 
@@ -234,6 +223,7 @@ growth of the disease may break the health system, leading to
 the death of the most fragile ones. Those who need to hang 
 around in public places, due to work or force majeure, should 
 take preventive measures.27
+
 Slowing down the spread of the virus so that the number 
 of cases spreads over time instead of having peaks in the 
 beginning is one of the ways to flatten the epidemic curve 
@@ -243,6 +233,7 @@ Controlled disease transmission reduces pressure on the health
 system and increases the capacity of taking care not only of 
 patients infected with coronavirus, but also those requiring 
 medical care due to other illnesses. 
+
 Staying at home is intended to provide a means of precaution 
 to reduce the risk of transmitting respiratory infections, such 
 as that caused by the coronavirus (COVID-19). These special 
@@ -250,12 +241,14 @@ precautions prevent the contact of respiratory secretions of a
 person who may be infected with the coronavirus from coming 
 into contact with others.19 People who have tested positive for 
 the said virus or are under suspicion should remain at home. 
+
 Ideally, the individual should be alone in a bedroom or in a 
 room that may temporarily serve as a bedroom, with a private 
 bathroom if possible.28,29 The bedroom doors should be closed 
 all the time, but the windows should be open so that the area 
 may stay well ventilated. The patient should only leave this 
 isolated room if necessary.30-32 
+
 Therefore, social isolation and preventive measures are 
 necessary to prevent, mainly, that the elderly get infected 
 and worsen preexisting diseases, complicating their health 
@@ -266,187 +259,18 @@ ventilators and other equipment for those in need, and this is
 not only for COVID-19, but for any other illness that requires 
 the patients to seek health care. The system must be prevented 
 from collapsing.35
-Final considerations
+
 There is consensus among the authors that the group at 
 higher risk for developing the most severe form, which may 
 lead to death, includes the elderly and individuals who have 
 the most prevalent comorbidities, including cardiovascular 
 diseases.36
+
 The crucial thing is not the severity of the disease itself, but 
 the ability to care for all those infected when they need it. The 
 more the transmission curve is flattened over time, the less the 
 burden on the health system and the greater the likelihood 
 that it will meet the epidemic demand — which highlights 
-Figura 1 – Virus spread curve.
-How to delay the peak of the epidemics
-No control 
-measures
-No. of 
-cases
-Control 
-measures* 
-reduce 
-contagion
-Capacity of 
-the health 
-system
-Time duration since the first case
-*Include washing hands, remote work, avoiding crowds, traveling, concerts, conferences, events, attending classes etc.
-With control 
-measures
-836
-Viewpoint
-Costa et al.                      
-Cardiovascular Implication of Covid-19
-Arq Bras Cardiol. 2020; 114(5):834-838
-1.	
-Lana RM, Coelho FC, Gomes MFC, Cruz OG, Bastos LS, Villela DAM, 
-et al. The novel coronavirus (SARS-CoV-2) emergency and the role of 
-timely and effective national health surveillance. Cad  Saúde Pública. 
-2020;36(3):e00019620.
-2.	
- Ministério da Saúde. Brasil confirma primeiro caso da doença. Rio de 
-Janeiro, DF: Ministério da Saúde; 2020. [citado 22 mar. 2020].  Disponível 
-em: <https://www.saude.gov.br/noticias/agencia-saude/46435-brasil-
-confirma-primeiro-caso-de-novo-coronavirus>. 
-3.	
-Diagnósticos da América SA. Coronavírus: o que é, sintomas e como se 
-prevenir da COVID-19. [citado 22 mar. 2020]. Disponível em: <https://
-dasa.com.br/coronavirus>. 
-4.	
-World Health Organization.  Coronavirus disease 2019 (COVID-19) 
-situation report – 52.Geneva: WHO; 2020. [citado 22 mar. 
-2020]. Disponível em: https://www.who.int/docs/default-source/
-coronaviruse/20200312-sitrep-52-covid-19. pdf?sfvrsn=e2bfc9c0_2. 
-5.	
-De Carvalho, Aroldo Prohmann. Novo coronavírus (COVID-19). Brasil, 
-fevereiro de 2020, v.14; Disponível em: < https://www.sbp.com.br/
-fileadmin/user_upload/22340d-DocCientifico_-_Novo_coronavirus.
-pdf>. Acesso em 23 de Março de 2020
-6.	
-Lebrão ML. O envelhecimento no Brasil: aspectos da transição 
-demográfica e epidemiológica. Saúde Coletiva. 2007;4(17):135-40.
-7.	
-Abbott PA, Barbosa SFF. Using information technology and social 
-mobilization to combat disease.. Acta Paul Enferm .2015;28(1):III-V.
-8.	
-Wang T, Du Z, Zhu F, Cao Z, An Y, Gao Y, et al. Comorbidities and multi-organ 
-injuries in the treatment of COVID-19. Lancet. 2020;395(10228):e52.
-9.	
-Badawi A, Ryoo SG. Prevalence of comorbidities in the Middle East 
-respiratory syndrome coronavirus (MERS-CoV): a systematic review and 
-meta-analysis. Int J Infect Dis. 2016 Aug;49:129-33.
-10.	  Agência de Notícias da AIDS (BR). Coronavírus é desafio para saúde 
-pública, mas pouco preocupante em nível individual;  2020; [citado 
-23 mar. 2020]. Disponível em: <https://agenciaaids.com.br/noticia/
-coronavirus-e-desafio-para-saude-publica-mas-pouco-preocupante-em-
-nivel-individual/>.
-11.	  del Rio C, Malani PN. COVID-19—New insights on a rapidly changing 
-epidemic. JAMA. 2020;323(14):1339-40.
-12.	  Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, et al. Risk factors associated with 
-acute respiratory distress syndrome and death in patients with coronavirus 
-disease 2019 pneumonia in Wuhan, China.  JAMA Intern Med. 2020 Mar 
-13.  [Epub ahead of print] 
-13.	  Sociedade Brasileira de Reumatologia. Atualização das recomendações 
-para os profissionais de saúde e pacientes com doenças inflamatórias 
-imunomediadas: reumatológicas, dermatológicas e gastrointestinais, frente 
-à infecção pelo 2019-nCoV (17/03/2020). [citado 23 mar. 2020]. Disponível 
-em: http://www.sbd.org.br/mm/cms/2020/03/22/atualizacao-covid-19.pdf.
-14.	  Yang J, Zheng Y, Gou X, Pu K, Chen Z, Guo Q, et al. Prevalence of 
-comorbidities in the novel Wuhan coronavirus (COVID-19) infection: 
-a systematic review and meta-analysis. Int J Infect Dis. 2020 Mar 
-12;pii:S1201-9712(20)30136-3. [Epub ahead of print]
-15.	  Odegaard JI, Chawla A. Connecting type 1 and type 2 diabetes through 
-innate immunity. Cold Spring Harb Perspect Med. 2012;2(3):a007724.
-16.	  Dooley KE, Chaisson RE. Tuberculosis and diabetes mellitus: convergence 
-of two epidemics.. Lancet Infect Dis. 2009;9(12):737-46.
-17.	  BBC News. Coronavirus disease named Covid-19. [citado 23 mar. 2020]. 
-Disponível em: https://www.bbc.co.uk/news/world-asia-china-51466362. 
-18.	  Jiang S, Xia S, Ying T, Lu L. A novel coronavirus (2019-nCoV) causing 
-pneumonia-associated respiratory syndrome. Cell Mol Immunol. 2020 Feb 
-5. [Epub ahead of print].
-19.	 Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al.Clinical characteristics of 
-138 hospitalized patients with 2019 novel coronavirus-infected pneumonia 
-in Wuhan, China. JAMA. 2020 Feb 7. [Epub ahead of print].
-20.	 Assiri A, McGeer A, Perl TM, Price CS, Al Rabeeah AA, Cummings DA,  et al. 
-Hospital outbreak of Middle East respiratory syndrome coronavirus. N Engl 
-J Med. 2013;369(5):407-16. 
-21.	  Smith SC, Ladenson JH, Mason JW, Jaffe AS. Elevations of cardiac troponin 
-I associated with myocarditis. Experimental and clinical correlates. 
-Circulation. 1997; 95(1):163-8.
-22.	  Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of 
-patients infected with 2019 novel coronavirus in Wuhan, China. Lancet.. 
-2020;395(10223):497-506.
-23.	  Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and 
-clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in 
-Wuhan, China: a descriptive study. Lancet. 2020;395(10223):507-13.
-24.	  Dominguez AN, Martín AV. COVID-19. Punto de vista del cardiólogo. Rev 
-Cubana  Cardiol. 2020;26(1):1-5. 
-25.	  Brasil.Ministério da Saúde. Sobre a doença. Rio de Janeiro, DF:; 2020. 
-[citado 22 mar. 2020]. Disponível em: https://coronavirus.saude.gov.br/
-sobre-a-doenca#transmissao>. 
-26.	 American College of Cardiology. ACC Clinical Bulletin COVID-19 Clinical 
-Guidance For the Cardiovascular Care Team; 2020.
-27.	  Xiong TY, Redwood S, Prendergast B, Chen M. Coronaviruses and the 
-cardiovascular system: acute and long-term implications. Eur Heart J. 2020 
-Mar 18;pii:ehaa231. [Epub ahead of print].
-28.	  Poder Judiciário. Tribunal Regional do Trabalho 11ª Região, Ato 15/2020/
-SGP. Estabelece medidas temporárias de prevenção ao contagio pelo novo 
-coronavirus (COVI-19) Internet. [Citado em 20 Mar 2020] Disponível em: 
-portal.trt11.jus.br
-References
 the importance of social isolation as a measure for preventing 
 and controlling the spread of the disease and preserving the 
 country’s health system.
-Author contributions 
-Conception and design of the research: Costa JA; 
-Acquisition of data and Analysis and interpretation of the data: 
-Costa JA, Silveira JA, Santos SCM; Writing of the manuscript: 
-Costa JA, Silveira JA, Costa JA, Silveira JA, Santos SCM, 
-Nogueira PP; Critical revision of the manuscript for intellectual 
-content: Nogueira PP.
-Potential Conflict of Interest 
-No potential conflict of interest relevant to this article was 
-reported. 
-Sources of Funding 
-There were no external funding sources for this study. 
-Study Association 
-This study is not associated with any thesis or dissertation work.
-Ethics approval and consent to participate 
-This article does not contain any studies with human 
-participants or animals performed by any of the authors.
-837
-Viewpoint
-Costa et al. 
-Cardiovascular Implication of Covid-19
-Arq Bras Cardiol. 2020; 114(5):834-838
-29.	  Glasser JW, Hupert N, McCauley MM, Hatchett R. Modeling and public health 
-emergency responses: lessons from SARS. Epidemics. 2011;3(1):32-7.
-30.	  Zhang JJ, Dong X, Cao YY, Yuan YD, Yang YB, Yan YQ, et al. Clinical characteristics 
-of 140 patients infected with SARS-CoV-2 in Wuhan, China. Allergy. 2020 Feb 
-19. [Epub ahead of print].
-31.	  Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al.  Clinical features of 
-patients infected with 2019 novel coronavirus in Wuhan, China.  Lancet. 
-2020;395(10223):497-506.
-32.	  Kuiken T, Fouchier RAM, Schutten M, Rimmelzwaan GF, van Amerongen G, van 
-Riel D, et al. Newly discovered coronavirus as the primary cause of severe acute 
-respiratory syndrome. Lancet. 2003;362(9380):263–70.
-33.	  Fu Y, Cheng Y, Wu Y. Understanding SARS-CoV-2-mediated inflammatory 
-responses: from mechanisms to potential therapeutic tools. Virol. Sin. 2020 Mar 
-3. [Epub ahead of print].
-34.	  Guimarães HP, Damasceno MC, Braga MA, Schubert DUC, Santana 
-JCB, Freitas APR, et al. Coronavírus e medicina de emergência: 
-recomendações para o atendimento inicial do médico emergencista 
-pela Associação Brasileira de Medicina de Emergência (ABRAMEDE). 
-[citado 23 mar. 2020]. Disponível em: https://www.amib.org.
-br/fileadmin/user_upload/POSICIONAMENTO_ABRAMEDE_-_
-CORONAVIRUS_-_03-__10032020.pdf.
-35.	  Li B, Yang J, Zhao F, Zhi L, Wang X, Liu L, et al. Prevalence and impact 
-of cardiovascular metabolic diseases on COVID-19 in China. Clin Res 
-Cardiol. 2020 Mar 11. [Epub ahead of print].
-36.	  Chinese Center for Disease Control and Prevention. The epidemiological 
-characteristics of an outbreak of 2019 novel coronavirus diseases 
-(COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi. 
-2020:41(2):145-51.
-This is an open-access article distributed under the terms of the Creative Commons Attribution License
-838
