@@ -1,11 +1,3 @@
-V
-Radiol Bras. 2020 Mar/Abr;53(2):V–VI
-0100-3984 © Colégio Brasileiro de Radiologia e Diagnóstico por Imagem
-Information about the new coronavirus disease (COVID-19)
-Claudio Márcio Amaral de Oliveira Lima1
-1. Radiologist for United Health Group Inc. (UHG), Rede D’Or São Luiz and for 
-Rede Casa, Rio de Janeiro, RJ, Brazil. Email: cmaolima@gmail.com.
-https://orcid.org/0000-0002-5684-7249.
 Coronavirus is a zoonotic virus, an RNA virus in the fam-
 ily Coronaviridae of the order Nidovirales(1). It is a family of vi-
 ruses that cause respiratory infections, which were first isolated 
@@ -19,6 +11,7 @@ Middle East respiratory syndrome (MERS); and SARS-CoV-2, a
 new coronavirus described in late 2019 after cases were re-
 ported in China(2), which causes the disease known as corona-
 virus disease 2019 (COVID-19).
+
 The definitive diagnosis of COVID-19 is made by analyzing 
 respiratory samples (collected by aspiration of the airways or 
 sputum induction). Laboratory tests to identify the virus involve 
@@ -33,6 +26,7 @@ should be transferred to a referral hospital for isolation and
 treatment. Individuals with mild symptoms should be followed 
 at the primary health care level and should be advised to self-
 isolate at home(1).
+
 The clinical spectrum of coronavirus infection is quite 
 broad, ranging from a simple cold to severe pneumonia. Clini-
 cally, COVID-19 initially presents as a flu-like syndrome. Indi-
@@ -48,6 +42,7 @@ relatively rare and mild, only approximately 2.4% of all reported
 cases occurring in individuals under 19 years of age, of whom 
 only 2.5% and 0.2% have developed severe or critical illness, 
 respectively(1,3).
+
 According to the Clinical Management Protocol for the New 
 Coronavirus, disseminated by the Brazilian National Ministry of 
 Health in February of this year(1), males and individuals over 50 
@@ -60,6 +55,7 @@ of breath (in 31%), muscle pain (in 11%), mental confusion (in
 chest pain (in 2%), diarrhea (in 2%), and nausea/vomiting (in 
 1%). In another study, involving 41 patients diagnosed with CO-
 VID-19, lymphopenia was reported.
+
 Evaluating data from 1,099 patients with confirmed CO-
 VID-19 in China, Guan et al.(4) observed that the mean age of 
 the patients was 47 years and that 41.9% of the patients were 
@@ -74,6 +70,7 @@ admission and 88.7% during hospitalization) and cough (in
 was present in 83.2% of patients on admission. The mean in-
 cubation period was 4 days. Patients often presented without 
 fever and many had normal X-ray findings.
+
 Based on a study of 55,924 confirmed cases, the World 
 Health Organization-China Joint Mission on Coronavirus Dis-
 ease 2019(3) reported the most common signs and symptoms: 
@@ -83,10 +80,6 @@ tum production (in 33.4%); dyspnea (in 18.6%); sore throat (in
 chills (in 11.4%); nausea or vomiting (in 5%); nasal congestion 
 (in 4.8%); diarrhea (in 3.7%); hemoptysis (in 0.9%); and con-
 junctival congestion (in 0.8%). In most cases, the disease was 
-http://dx.doi.org/10.1590/0100-3984.2020.53.2e1
-EDITORIAL
-Radiol Bras. 2020 Mar/Abr;53(2):V–VI
-VI
 mild and there was complete recovery. Among patients with 
 laboratory-confirmed COVID-19, approximately 80% had mild 
 to moderate disease, which includes cases with and without 
@@ -104,6 +97,7 @@ death reportedly include people over 60 years of age, espe-
 cially those with underlying conditions, such as hypertension, 
 diabetes, cardiovascular disease, chronic respiratory disease, 
 and cancer(1,3).
+
 In patients with COVID-19, the CT findings most commonly 
 reported are ground-glass opacities and areas of consolida-
 tion, sometimes with a rounded morphology and peripheral 
@@ -115,6 +109,7 @@ for the evaluation of patients with suspected COVID-19. Imme-
 diate recognition of the disease is essential to ensure timely 
 treatment. From a public health point of view, rapid isolation of 
 the patient is crucial to containing this communicable disease.
+
 In the Bernheim et al. study(5), the chest CT findings of 121 
 patients infected with COVID-19 in China were characterized in 
 relation to the time from the onset of symptoms to the first CT 
@@ -146,6 +141,7 @@ tively. In terms of disease distribution in the axial plane, periph-
 eral distribution was observed in 8 (22%) of the early-CT group 
 patients, in 21 (64%) of the intermediate-CT group patients, 
 and in 18 (72%) of the late-CT group patients.
+
 The recognition of imaging patterns based on the time 
 since coronavirus infection is critical not only to understand-
 ing the pathophysiology and natural history of the infection but 
@@ -155,23 +151,3 @@ the disease have not been described(6). Future studies will be
 able to evaluate imaging findings in patients with chronic CO-
 VID-19(5), as well as to report the pathological aspects of the 
 infection.
-REFERENCES
-1.  Brasil. Ministério da Saúde. Protocolo de manejo clínico para o novo-coro-
-navírus (2019-nCoV). [cited 2020 Feb 12]. Available from: https://portalar-
-quivos2.saude.gov.br/images/pdf/2020/fevereiro/11/protocolo-manejo-
--coronavirus.pdf. 
-2.  Brasil. Ministério da Saúde. Coronavírus: o que você precisa saber e como 
-prevenir o contágio. [cited 2020 Feb 18]. Available from: https://saude.gov.
-br/saude-de-a-z/coronavírus.
-3.  Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (CO-
-VID-19). [cited 2020 Feb 25]. Available from: https://www.who.int/docs/
-default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-
-report.pdf.
-4.  Guan W, Ni Z, Hu Y, et al. Clinical characteristics of coronavirus disease 
-2019 in China. N Engl J Med. 2020. DOI: 10.1056/NEJMoa2002032.
-5.  Bernheim A, Mei X, Huang M, et al. Chest CT findings in coronavirus dis-
-ease-19 (COVID-19): relationship to duration of infection. Radiology. 2020. 
-DOI: 10.1148/radiol.2020200463.
-6.  Kanne JP, Little BP, Chung JH, et al. Essentials for radiologists on COV-
-ID-19: an update—Radiology Scientific Expert Panel. Radiology. 2020. DOI: 
-10.1148/radiol.2020200527.
