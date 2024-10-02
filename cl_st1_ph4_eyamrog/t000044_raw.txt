@@ -1,0 +1,665 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/0102-469839705t
+Gestures in the teaching and learning process: a systematic
+literature review 
+Savana dos Anjos Freitas, Agostinho Serrano de Andrade Neto
+https://doi.org/10.1590/SciELOPreprints.4045
+Submitted on: 2022-05-04
+Posted on: 2022-05-09 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+GESTURES IN THE TEACHING AND LEARNING PROCESS: A SYSTEMATIC LITERATURE 
+REVIEW 
+ 
+SAVANA DOS ANJOS FREITAS 
+ORCID: https://orcid.org/0000-0002-5122-8027 
+AGOSTINHO SERRANO DE ANDRADE NETO 
+ORCID: https://orcid.org/0000-0002-7868-1526 
+ 
+ABSTRACT: Can the gestures we perform aid the teaching and learning process? The present paper 
+summarizes the state of the art on the subject within the field of education, with a specific eye on 
+gestural communication. Research has been found at virtually all levels of education regarding the use 
+of gestures as a way to assist students in learning a second language, inclusive education, and science 
+and math education. In general, there is solid evidence supporting that gestural communication helps in 
+the evaluation and introduction of a new word in the teaching of a second language; as an additional 
+resource for teachers and students with disabilities and as a tool to contribute to the teaching of 
+concepts considered abstract and complex in the field of science and mathematics teaching. Of interest 
+is the strong evidence that gesture constitutes a hidden yet powerful channel to exchange information, 
+learn, and even as a tool to help reason. 
+ 
+Keywords: gestures, non-verbal communication, teaching, literature review, learning. 
+ 
+GESTOS NO PROCESSO DE ENSINO E APRENDIZAGEM: UMA REVISÃO SISTEMÁTICA DE 
+LITERATURA 
+ 
+RESUMO: Os gestos que realizamos podem auxiliar no processo de ensino e aprendizagem? O 
+presente artigo sintetiza o estado da arte sobre o assunto no campo da educação, com um olhar 
+específico para a comunicação gestual. A pesquisa foi encontrada em praticamente todos os níveis de 
+ensino sobre o uso de gestos como uma forma de ajudar os alunos a aprender uma segunda língua, 
+educação inclusiva e educação de ciências e matemática. Em geral, existem evidências sólidas de que a 
+comunicação gestual auxilia na avaliação e introdução de uma nova palavra no ensino de uma segunda 
+língua; como recurso adicional para professores e alunos com deficiência e como ferramenta para 
+contribuir para o ensino de conceitos considerados abstratos e complexos na área do ensino de ciências 
+e matemática. Interessante é a forte evidência de que o gesto constitui um canal oculto, mas poderoso, 
+para trocar informações, aprender e até mesmo como uma ferramenta para ajudar a raciocinar. 
+ 
+Palavras-chave: gestos, comunicação não-verbal, ensino, revisão de literatura, aprendizagem. 
+ 
+GESTOS EN EL PROCESO DE ENSEÑANZA Y APRENDIZAJE: UNA REVISIÓN DE LITERATURA 
+SISTEMÁTICA 
+ 
+RESÚMEN: ¿Pueden los gestos que realizamos para ayudar en el proceso de enseñanza y aprendizaje? 
+El presente trabajo resume el estado del arte sobre el tema dentro del campo de la educación, con una 
+mirada específica en la comunicación gestual. Se han encontrado investigaciones en prácticamente 
+todos los niveles educativos sobre el uso de gestos como una forma de ayudar a los estudiantes a 
+aprender un segundo idioma, educación inclusiva y educación científica y matemática. En general, existe 
+evidencia sólida que respalda que la comunicación gestual ayuda en la evaluación e introducción de una 
+nueva palabra en la enseñanza de una segunda lengua; como recurso adicional para docentes y 
+estudiantes con discapacidad y como herramienta para contribuir a la enseñanza de conceptos 
+considerados abstractos y complejos en el campo de la enseñanza de las ciencias y las matemáticas. Es 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+2 
+de interés la fuerte evidencia de que el gesto constituye un canal oculto pero poderoso para 
+intercambiar información, aprender e incluso como una herramienta para ayudar a la razón. 
+ 
+Palabras clave: gestos, comunicación no verbal, enseñanza, revisión de literatura, aprendizaje. 
+ 
+INTRODUCTION 
+ 
+When people speak, they naturally gesticulate and gestures often reveal information that 
+cannot easily be found in the speech. Students are no exception. A student's gestures can index 
+moments of conceptual instability and teachers can use them to gain access to a student's thinking. 
+Students can also discover new ideas from the gestures they produce during a class or the gestures they 
+see their teachers produce. Gesture, therefore, has the power not only to reflect a student's 
+understanding of a problem but also to change their understanding (NOVACK; GOLDIN-
+MEADOW, 2015). 
+According to Walkington, Chelule, Woods, and Nathan (2019), gestures play a key role in 
+mathematical reasoning, being an indicator that mathematical understanding is embodied - inherently 
+linked to action, perception, and the physical body. As students collaborate and engage in mathematical 
+discussions, they use discourse practices such as explaining, refuting, and developing each other's 
+reasoning, often mixing speech and gesture when talking. 
+Developing research based on gesture analysis is promising since the use of gestures in 
+education is still under-researched and a relatively new topic (FLOOD et al., 2014). Not only, one can 
+infer how much gestures can help and contribute to the learning process, since it is naturally present in 
+our daily lives, constituting - among other ways - a communication channel between the most capable 
+tutor and the learner, a channel that is not properly discussed by most learning theories. 
+However, what about the role of gestures between a teacher and his student when it comes 
+to teaching and learning? What constitutes an important communication channel for classroom 
+teaching and learning? How can gestures help in teaching? Is there research in education in the field of 
+gesture analysis and teaching? Imbued with these questions, a literature review was conducted bringing 
+the most relevant aspects and research related to education on this topic. Based on these questions, the 
+present literature review seeks to answer the following question, that generally synthetizes our goals: 
+What is the contribution of gestures (non-verbal communication) to the teaching and learning 
+process? 
+The objective of this article is to uncover evidence, both in the Brazilian and international 
+educational published research, of the contribution of gestures to the teaching and learning processes, 
+as well as how this specific field of research is evolving. 
+ 
+METHOD 
+ 
+This research aims to identify, through the literature review, research that brings 
+contributions to how gestures can be a way to assist in the teaching and learning process of students. 
+Therefore, to perform this research, we defined four different stages – or staples – that needed to be 
+made to a satisfactory completion(Figure 1). 
+Figure 1 shows the search procedures used. The first step was, after defining the search 
+problem (discussed above), defining which databases, the search terms (key words) and the search 
+period. After delimiting our research, the second stage of the research consisted of the search itself for 
+research related to our central theme. 
+The databases used were: Eric, Scopus and Google School. In these three databases, the 
+following search terms were used: “gestures” + “learning” and, in both three search platforms, the search 
+period between 2000 and 2019 was selected. 
+The third part was the moment when we selected the articles through exclusion and 
+inclusion criteria, which will be described in Table 1. Finally, the last stage of the research was the full 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+3 
+reading of the articles and the elaboration of this text to find the answers to the central research 
+problem of that article. 
+ 
+ 
+Figure 1 - Research Procedures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Research data. 
+ 
+Just like Pereira et. al. (2019), we chose to perform two phases for the inclusion or 
+exclusion of the selected articles during the literature review. The first phase consisted of reading the 
+titles, abstracts, and keywords contained in the articles. Then, after the criteria we established, we head 
+to the second phase. The second phase started by reading the integral paper selected in the first phase 
+and, after reading them, classifying them according to their proximity and similarities. 
+Below is a table that was created to guide us in the selection of articles (Table 1). These 
+criteria were elaborated by the authors of the present article with a focused look that would contribute 
+to getting us closer to an answer regarding the research problem that guides this literature review. 
+ 
+ 
+Table 1 - Inclusion and exclusion criteria 
+ 
+ 
+INCLUSION CRITERIA 
+EXCLUSION CRITERIA 
+CRITERIA 
+Be written in Portuguese, 
+English, or Spanish 
+Articles not peer-reviewed 
+Contain evidence of the use of 
+gestures in the teaching and 
+learning process in the summary 
+Research that did not bring 
+collaborations on the presence 
+of gestures in the teaching and 
+learning process 
+Preference for research that has 
+been applied in the classroom 
+They did not contain the words 
+“gestures” or “learning” or 
+“teaching” in the keywords 
+Source: Research data. 
+ 
+Therefore, after the selection of the 69 articles according to the established criteria, we 
+opted to separate teaching levels at first, so that it was possible to identify at which stage of the 
+academic trajectory there is a greater presence of research on gestures in the process of teaching and 
+learning. We also made a historical sequence of the articles by publication date, so we could detect if 
+there is an increase or not of publication in gestures, indicating an increase in research interest. The 
+final grouping of the articles found in phase 1 was made after reading the content of each article, and 
+the categories emerged from reading them naturally. 
+• Identify research 
+problem and 
+define datebases 
+and seach period
+Part I
+• Search databases 
+with "gestures" + 
+"learning"
+Part II
+• Select articles by 
+exclusion and 
+inclusion criteria
+Part III
+• Reading the 
+articles and 
+answering the 
+reserch problem
+Part IV
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+4 
+ 
+ 
+ 
+RESULTS AND DISCUSSIONS 
+ 
+The results indicate that production in the field of gesture as a way of teaching or learning 
+has seen an ongoing increase since 2009 (Graph 1). 
+ 
+Graph 1 - Articles published from the year 2002 
+Source: Research data. 
+ 
+Regarding the distribution of papers according to the categories that emerged during the 
+review, most of them (71%) are related to activities applied in classrooms; 21% relate to research that 
+addresses the teaching of a second language through gesture and inclusive education; and finally, 8% 
+with articles that we categorized as theoretical reflection. 
+From the studies done in the classroom, Elementary School and Higher Education are the 
+levels of education that were found to be the most researched, while postgraduate classrooms have very 
+little researches that address the subject of gestures in education (Graph 2). 
+ 
+Graph 2 - Division of research by level of education
+ 
+Kindergarten
+Elementary School
+High school
+College
+Postgraduate studies
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+5 
+Source: Research data. 
+ 
+ 
+After the initial, pre-defined categories of analysis were made (categorized by year, school 
+level, etc) a second categorization was made. To understand the contribution of gestures to the teaching 
+and learning process, we aimed to group the articles found in the literature review into categories that 
+would be meaningful to answering our research question. These categories naturally emerged after 
+reading the articles and considering their similarities and their contributions to the teaching and learning 
+process. 
+The categories are: the construction of knowledge/concepts, analysis of non-verbal 
+communication by students, analysis of non-verbal communication by teachers, analysis of mental 
+images of teachers, teaching for inclusive education, and, finally, the teaching of languages (Figure 2). 
+These categories will allow us to find possibilities and the relevance that gestures can 
+contribute to the teaching process through research already carried out in the classroom and at different 
+levels of education. The first category shows us how the gestures, both of teachers and students, can 
+help students in their knowledge construction, that is, through gestures, students can express 
+themselves and understand differently from the usual concepts that are abstract or not so close to their 
+daily life. The second and third categories help us to see how the analysis of non-verbal 
+communication, the gestures, of students and teachers, is relevant to the teaching and learning process. 
+It is through analysis that it is possible to understand their questions, their understanding, and other 
+situations to improve teaching. 
+The fourth category presents us with two articles that articulate and bring techniques on 
+how gestures can provide an understanding of students' mental images. The students' mental images 
+can be revealed through gesticulation. The gestures helped, according to these articles, to understand 
+what went on in the students' minds when they talked among their colleagues, teachers and tried to 
+explain and justify their answers about concepts pertinent to the discipline of Physics. 
+The penultimate category, inclusive education, addresses research on how gestures were 
+relevant to the teaching of students with inclusion and, in particular, autistic students. The last category 
+includes articles that corroborate the teaching of a second language or the mother tongue itself through 
+gestures. Therefore, for a better understanding of the categories, the following diagram shows the 
+research question, the categories, and the authors that corroborate the different categories. 
+ 
+ 
+ 
+Figure 2 - Category layout 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Research data. 
+ 
+ 
+Construction of knowledge/concepts 
+ 
+Do the gestures help students learn, but not just by directing their visual attention? Based 
+on this conception, Wakefield et al. (2019) used eye-tracking to explore a frequently proposed 
+mechanism - the gesture's ability to direct visual attention. Based on previous studies by Singer and 
+Goldin-Meadow (2005), the authors state how it is possible to teach a new concept through gestures, in 
+which hand movements accompany the speech. The research made it possible to verify that, using eye-
+tracking measures, children who attend a math class with gestures allocate their visual attention 
+differently from children who attend a math class without gestures - they analyze more the problem 
+being explained, look less at the instructor, and were more likely to synchronize their visual attention 
+with the information presented in the instructor's speech. 
+In 2012, Garcia and Infante published an article in which they addressed the impact that 
+gestures can have on the mathematical environment in workshops given in higher education. After the 
+workshops, the researchers realized that there was a correlation between diagramming and gestures 
+(dynamic and static). These two types of gestures were part of the students' constructive thinking, 
+relating them to the problem or the construction of their diagrams. The more challenging the problems, 
+the more students gesticulate. Some issues were influenced by gestures by their colleagues and over 
+time they were adopted and adapted. 
+In the search to understand how gestures can help in teaching in STEM, Stieff, Lira, and 
+Scopelitis (2016), from Chicago (USA), describe two studies that verified the impact on teaching when 
+students used gestures to support their thinking in space in STEM content. In the first study, the 
+effectiveness of watching and reproducing gestures or reading a text was compared. In the second 
+study, the effectiveness of the gesture was compared with an instructional approach that involved the 
+handling of concrete models, but without gestures. The results indicated that gestures can be an 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+7 
+effective strategy to support students' spatial thinking in STEM subjects because, with the use of 
+gestures, students performed significantly better than without gestures. 
+Chue, Lee, and Tan (2015) conducted their research in higher education in the discipline of 
+Chemistry in Singapore. Their research sought, first, to conduct a brief review of the literature on 
+communication and education, to articulate possible contributions of iconic gestures in science 
+education. Then, they analyzed the iconic gestures performed by a university professor when 
+exemplifying abstract concepts, such as size, position, and movement of particles. The researchers 
+suggest that iconic gestures may illuminate aspects of abstract scientific meaning, being a more 
+complete version of meaning than just speech. 
+Therefore, these four studies show how gestures can help in the construction of 
+knowledge. The gestures follow the speech and the more difficult and necessary a deep explanation, the 
+presence of gestures becomes increasingly more important, becoming support for students' thinking 
+and reasoning in the teaching and learning process. 
+ 
+Analysis of non-verbal communication of students 
+ 
+When students share about subjects that were discussed during class with other people, 
+have you noticed that they often end up using gestures to explore and explain their ideas and concepts? 
+According to research by Flood et al. (2014), this would be like a publicly visible space-dynamic means 
+of expression, in which gestures and the body provide productive resources to imagine the 
+submicroscopic, three-dimensional, and dynamic phenomena of chemistry together. 
+Laburú, Silva, and Zômpero (2015) researched high school students about concepts of 
+Electrostatics through experimental activities, intending to understand the scientific concepts of 
+students. When evaluating the students through the experimental activity, it was found that the 
+concepts cannot be “visualized” and their incorrect domain, or the lack of it, can unduly demonstrate 
+conceptual unintelligibility, and the difficulty of the apprentice can be located in these elements and not 
+in the conceptual dimension, as such. Therefore, the gestures contribute, according to these 
+researchers, as an instrument for the teacher to understand what students are learning about scientific 
+knowledge and, besides, it ends up being fundamental for the construction of the thought of that 
+knowledge. 
+In 2015, in the USA, Weinberg, Fukawa-Connelly, and Wiesner (2015) published research 
+that sought to understand how gestures can help in thinking and communicating in the discipline of 
+Mathematics. The research took place at a public university in an introductory abstract algebra 
+discipline. The results indicated that the mathematical meanings - specific and general - are expressed in 
+gestures and highlight the integrated nature of the elements of the semiotic package. 
+Through the analysis of their students from the research presented in this category, it was 
+seen that gestures end up becoming an instrument for teachers to understand their students, their 
+difficulties when expressing themselves through words and that, through gestural analysis, there is a 
+way to capture what goes on in the minds of the students, especially when portraying abstract concepts. 
+ 
+Analysis of teachers’ non-verbal communication 
+ 
+In 2017, Aizawa, Giordan, and Silva published their research with graduate students in their 
+mandatory undergraduate internships. Using the technique of Video-Stimulated Remembrance, the 
+students were filmed when they taught their classes, and, afterward, they analyzed their gestures 
+through the categories of Kendon (2004). The results of this research point out that the undergraduates 
+“developed both a gestural and multimodal perception, that is, they became aware of what was said, of 
+the positioning of the body and hands so that in the future they can modify their actions with the main 
+objective of producing meanings. ” (Aizawa, Giordan, & Silva, 2017). 
+In Brazil, in 2014, Mortimer et al. investigated how two university teachers mobilized 
+different semiotic modes and promoted interaction between them for the construction of meanings in 
+Chemistry class. After the teachers were recorded while teaching their classes, they were analyzed. The 
+analysis showed that each teacher uses and articulates different semiotic modes, such as speech, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+8 
+gestures, drawings on the board, being these means to communicate with students. The research 
+identified that these semiotic modes and, in particular, gestures, contribute to the construction of 
+meanings in the classroom. 
+Both Brazilian researchers were able to find in their research how the gestural analysis of 
+teachers can find new paths for teaching, in addition to assisting teachers during their classes. These 
+researches show how relevant it is for teachers to be aware of their gestures when teaching their classes. 
+Through gestures, they can facilitate students' understanding, as well as pass on distorted or erroneous 
+concepts. 
+ 
+Analysis of mental images of students 
+ 
+Scherr (2008) goes beyond the other researches mentioned so far on gestures in higher 
+education. His research seeks evidence that students' gesticulation can not only fill in gaps in students' 
+verbal expressions but offer valuable information about what is going on in students' minds, that is, to 
+better understand what the student is thinking about Physics at that particular moment. "Physics 
+education is a rich field to further explore these issues, and researchers in physics education can benefit 
+and contribute to ongoing investigations into the importance of gesture in thinking and learning." 
+(Scherr, 2008). 
+Like the research made by Garcia and Infante (2012), Ramos and Serrano (2013) also 
+carried out their investigation through a workshop (extension course) for undergraduates. The 
+researchers interviewed undergraduate chemistry students after carrying out activities using molecular 
+modeling software. Analogous to the considerations of Scherr (2008), the researchers in the interviews 
+tried to find out what was going on in the students' minds when answering the questions, that is, it was 
+possible to identify a link with the gestures and what they imagined at that moment to answer the 
+questions. 
+This category gives us indications that gestures can reveal what is going on in students' 
+minds when explaining to someone about certain content or when explaining their responses. Gestural 
+analysis using techniques, such as Think Aloud, provides an understanding of the articulation between 
+students' gestures and mental images. 
+ 
+ 
+Inclusive education 
+ 
+Marchena et al. (2019) conducted research in which they observed adults and how they 
+used gestures. Twenty-one verbally fluent autistic adults and another twenty-one typically developing 
+controls involved in a controlled conversational task. 
+Autistic adults were more likely to gesture unilaterally than bilaterally, a motor characteristic 
+of the individual gesture associated with symptoms of autism. According to the researchers, co-speech 
+gestures can provide a link between symptoms of non-verbal communication and known differences in 
+motor performance in autism. 
+Özçalışkan, Adamson, Dimitrova, and Baumann (2018) showed in their research that 
+children and parents produce similar types of gestures and gesture-speech combinations. That is, when 
+researching children with autism spectrum disorder (ASD) or Down syndrome (DS), they observed the 
+specific differences in diagnosis concerning children with typical development (TD) in the production 
+of gestures. However, only the children - but not the parents - showed specific variability of the 
+diagnosis in the frequency with which they produced each type of gesture and gesture-speech 
+combination. 
+Gestural understanding remains poorly studied, according to Dimitrova, Özçalışkan, and 
+Adamson (2017), from Sweden, especially with children with autism spectrum and who have difficulty 
+in producing gestures. Following the studies by McNeill (2005), these groups of researchers examined 
+children aged 2 to 4 years old, to understand the types of gestures and the combinations between 
+gesture and speech. The results obtained suggest that children understand deictic gestures and 
+reinforcement gestures - better speech combinations than iconic/conventional gestures and 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+9 
+supplementary combinations - a pattern that remains robust at different ages in children with autism 
+spectrum. 
+The study by Wray et al. (2017) sought to determine whether children with language 
+disorders use gestures to compensate for their language difficulties. From the research, it was possible 
+to detect that the gesture and language form a communication system closely linked, in which the 
+deficits of gestures are seen alongside difficulties with spoken communication. 
+ 
+Language teaching 
+ 
+Do children understand iconic gestures about events as early as iconic gestures about 
+entities? From this question, Glasser et al. (2018) aim to understand whether children understand iconic 
+gestures that characterize events as early as possible and, if so, whether their understanding is 
+influenced by gesture production patterns in their native language. The research found that native 
+patterns of gesture production influenced the understanding of the gestures of children that 
+characterize these events, with a better understanding of gestures that follow specific language patterns 
+compared to those that do not follow these patterns, especially in the way of movement of gestures. 
+Recently, in 2019, Huang, Kim, and Christianson, from the University of Illinois at 
+Urbana-Champaign presented that gestures are useful if they are not to be confused with other words 
+to be learned and if the number of words presented was limited. This research showed that introducing 
+new words in a second language and presenting the word with simultaneous gestures can facilitate the 
+recall of new words by students. The researchers address the theory of double coding, in which it 
+predicts that students can learn better by having the articulation between gestures and new words. 
+In 2017, at the University of Pennsylvania, researchers Matsumoto and Dobs conducted a 
+study in which they investigated the functions of gesture in teaching and learning grammar in the 
+context of classroom interactions in a second language, as did Huang, Kin, and Christianson (2019), but 
+now in higher education. The research consisted of the analysis of the gestures used by the teachers to 
+explain temporal concepts of the English language and the students when they answered. The analysis 
+reached the considerations that teachers and students repeatedly used abstract and metaphorical lithic 
+gestures in the classroom, which can become important resources for instruction and assessment of 
+student learning. 
+Eighty-nine students from the University of International Studies in Xi'an, China, 
+participated in research that aimed to understand whether tuning gestures can improve the learning of 
+prosody (part of the traditional grammar that is dedicated to the characteristics of the emission of the 
+speech sounds, such as accent and intonation). The authors Yuan, González-Fuente, Baills, and Prieto 
+(2019) carried out their research in which they divided students into two identical groups, the first 
+group (control group) received intonation training without the use of tuning gestures. The second 
+group, experimental, received the same training, but with more tuning gestures, representing contours 
+of nuclear intonation. The results of the research provide evidence that the experimental group has 
+improved significantly and that even though individuals who have stronger skills have obtained a better 
+result, those who had weaker musical skills have benefited even more by observing the gestures. 
+Vogt and Kauschke (2017), from Germany, observed how iconic gestures can help 
+developing children to learn new words. According to the researchers, iconic gestures promote richer 
+coding and lead to more efficient word learning in children who are at the beginning of speech 
+development or with language problems. 
+ 
+Consequences of gestures in the teaching and learning process 
+ 
+The main purpose of gestures is to assist communication. But, in addition to being 
+important to communication, gestures also have important consequences for thinking and learning, to 
+understanding language. More than just clarifying or improving the message of a lesson, it can lead 
+students to understand and promote conceptual development, which is the primary focus of this 
+research (Chu & Kita, 2016). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+10 
+In the classroom, when a student swings his arm wildly when the teacher asks a question; 
+or another tries not to make eye contact with the teacher, both are using their bodies to tell the teacher 
+that they want to answer the question. These body movements constitute what is normally called non-
+verbal communication (Goldin-Meadow, 2017). 
+According to Goldin-Meadow (2018), gesture has the potential to boost learning in all 
+children and perhaps reduce inequalities in performance in language and mathematics. Also, it can be a 
+tool that helps teachers understand what is going on in the students' minds, as well as understand how 
+much they learned from the content through their speeches articulated with their gestures. 
+The gesture can be well used in educational environments and, according to Goldin-
+Meadow (2017), it can exist in at least three ways. The first would be for teachers to examine their 
+gestures to ensure that they are not conveying ideas that might mislead students. Teachers can even 
+think about how the ideas they want to teach can be displayed in their hands and then consciously 
+produce these gestures during classes. 
+Students can be encouraged to gesture when they explain a problem. The gestures that 
+students produce will probably demonstrate their understanding of the evolution of the problem, which 
+is not yet evident in their speech. These gestures can then serve as a diagnosis that teachers can use to 
+find out what their students know and what they are ready to learn. 
+Finally, being encouraged to gesture about a problem can help students activate any 
+implicit ideas they have about that problem. This activation, in turn, can make them more open to new 
+instructions (Goldin-Meadow, 2017). Therefore, gestures not only reflect thinking but also have the 
+potential to change thinking in listeners and speakers. The gesture is a tool that students, teachers, and 
+researchers can use to make discoveries about the mind. 
+According to Chu and Kita (2016), there is evidence that the gestures of co-judgment and 
+co-speech share several properties, suggesting that they are generated by a common mechanism. 
+According to the researchers, people produce more co-production gestures when speech production is 
+more difficult than when it is less difficult. They produce more judgmental gestures when a quiet 
+problem-solving task is more difficult than when it is less difficult. 
+Finally, a gesture not only reflects our thoughts but also our role in changing those 
+thoughts. We know gestures that can transmit substantive information so that it is not difficult to 
+imagine that we could learn by seeing the gestures that other people produce. But to be sure, we need 
+to manipulate the gesture and explore the impact of that manipulation on learning (Goldin-Meadow, 
+2017). 
+ 
+ 
+ 
+ 
+CONCLUSION 
+ 
+The evolution of published research on the use of gestures in classrooms clearly shows 
+how this theme is growing over the years, and readily becoming increasingly more fascinating. Since 
+2009, there has been an increase in the publication of articles concerning nonverbal communication in 
+journals, with classroom applications or even more theoretical discussions, allowing readers to wonder 
+the importance of this  - old and at the same time new – communication channel with results reporting 
+as gestures can assist in the teaching of a second language, in the area of inclusive education and 
+specially in the teaching of science and mathematics, which many students find difficult. 
+Gestures in the teaching of a second language can contribute to the way a new word is 
+presented, the way an assessment is performed, and even provide greater articulation between the 
+gestures and the new words. In inclusive education, the use of gestures may provide new avenues for 
+research in this area, perhaps a new resource that contributes and assists teachers and students with 
+disabilities or disorders. And in science and mathematics teaching, gestures emerge as a tool to 
+contribute to the teaching of concepts considered abstract and complex. 
+During the normal speech, when we detail our thinking or try to explain a concept or 
+specially a scientific model to a teacher or classmate, we end up using gestures to express ourselves. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+11 
+Those gestures are acutely important, as it is possible through them to find out student’s mental images 
+and often there is an opportunity to understand gaps in the student's speech. Therefore, we also 
+conclude our literature review assessing the important role that gestures can play in the teaching-
+learning process, bringing new perspectives and paths for education, as well as new resources that aim 
+to contribute to the students' academic formation. 
+Of special notice is that gesture can be viewed as an “external device” that aids humans 
+when reasoning about different subjects, including aiding in visuospatial thinking. Gestures are used to 
+express ideas between subjects (external function) and most likely also internalized as images (internal 
+function), much like how Vygotsky (1986) describes the relation between thought and language, a 
+conclusion that the authors would like to offer with this review. 
+To conclude, returning to the research question of this paper, "What is the contribution of 
+gestures (non-verbal communication) in the teaching and learning process?" we can definitively say that 
+gestures present themselves as a very important factor that contributes to the teaching and learning 
+process, that they can’t be overlooked and its analysis should be integrated into the teacher training 
+curriculum. Therefore, not only the field of research in Education, but also the practice of education 
+both in formal and non-formal spaces, should consider non-verbal communication, and specially 
+gestures – that try to depict a certain thought in the minds of teachers or apprentices – as important 
+and relevant as speech and new research should be done to set the limits and possibilities of addressing 
+this important channel of communication between humans.  
+ 
+REFERENCES 
+ 
+AIZAWA, A., GIORDAN, M.,; SILVA, A. B. A. Lembrança Estimulada por Vídeo como ferramenta 
+de análise dos modos gestuais de licenciandos de Química. In: Anais do XI Encontro Nacional de 
+Pesquisa em Educação em Ciências, Florianópolis, SC. Anais do XI Encontro Nacional de Pesquisa 
+em Educação em Ciências, Florianópolis, SC, 2017. 
+CHUE, S.; LEE, Y.; TAN, K.C.D. Iconic gestures as undervalued representations during science 
+teaching. Cogent Education, v. 2, n. 1, p. 1-12, 2015.  
+CHU, M.; KITA, S. Co-thought and co-speech gestures are generated by the same action generation 
+process. Journal of Experimental Psychology: Learning, Memory, and Cognition, v. 42, n. 2, p. 
+257-270, 2016. 
+DIMITROVA, N.; ÖZÇALIŞKAN, S.; ADAMSON, L. B. Do verbal children with autism 
+comprehend gesture as readily as typically developing children? Journal of autism and 
+developmental disorders, v. 47, n. 10, p. 3267-3280, 2017. 
+FLOOD, V. J. et al. Paying attention to gesture when students talk chemistry: Interactional resources 
+for responsive teaching. Journal of Chemical Education, v. 92, n. 1, p. 11-22, 2014. 
+GARCIA, N.; INFANTE, N. E. Gestures as Facilitators to Proficient Mental Modelers.  North 
+American Chapter of the International Group for the Psychology of Mathematics Education, 
+2012. 
+GLASSER, M.L.; WILLIAMSON, R. A.; ÖZÇALIŞKAN, S. Do Children Understand Iconic Gestures 
+About Events as Early as Iconic Gestures About Entities? Journal of psycholinguistic research, v. 
+47, n. 3, p. 741-754, 2018. 
+GOLDIN-MEADOW, S. Taking a Hands-on Approach to Learning. Policy Insights from the 
+Behavioral and Brain Sciences, v. 5, n. 2, p. 163-170, 2018.   
+GOLDIN‐MEADOW, S. Using our hands to change our minds. Wiley Interdisciplinary Reviews: 
+Cognitive Science, v. 8, n. 1-2, p. 1-6, 2017.  
+HUANG, X.; KIM, N.; CHRISTIANSON, K. Gesture and vocabulary learning in a second 
+language. Language Learning, v. 69, n. 1, p. 177-197, 2019.  
+KENDON, A. Gesture: Visible action as utterance. Cambridge University Press, 2004. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+12 
+LABURÚ, C.E.; SILVA, O.H.M.; ZÔMPERO, A.F. Significados de eletrostática interpretados por 
+meio da gesticulação de estudantes. Ciência & Educação (Bauru), v. 21, n. 4, p. 851-867, 2015. 
+MARCHENA, A. et al. Atypicalities of gesture form and function in autistic adults. Journal of 
+autism and developmental disorders, v. 49, n. 4, p. 1438-1454, 2019.  
+MATSUMOTO, Y.; DOBS, A.M. Pedagogical gestures as interactional resources for teaching and 
+learning tense and aspect in the ESL grammar classroom. Language Learning, v. 67, n. 1, p. 7-42, 
+2017. 
+MCNEILL, D. Gesture and Thought. Chicago: University of Chicago Press, 2005. 
+MORTIMER, E. et al. Interações entre modos semióticos e a construção de significados em aulas de 
+ensino superior. Ensaio Pesquisa em Educação em Ciências (Belo Horizonte), v. 16, n. 3, p. 121-
+146, 2014.  
+NOVACK, M.; GOLDIN-MEADOW, S. Learning from gesture: How our hands change our 
+minds. Educational psychology review, v. 27, n. 3, p. 405-412, 2015.  
+ÖZÇALIŞKAN, S. et al. Do parents model gestures differently when children’s gestures differ? 
+Journal of autism and developmental disorders, v. 48, n. 5, p. 1492-1507, 2018.  
+PEREIRA, N. L. et al. Boas práticas em ambientes virtuais de ensino e de aprendizagem: uma revisão 
+de forma sistemática na literatura. Educação em Revista, v. 35, 2019. 
+RAMOS, A.; SERRANO, A. Como são internalizadas as competências adquiridas quando um aluno 
+utiliza computadores? Um exemplo de mediação cognitiva em rede durante a utilização de software de 
+modelagem molecular. In: Anais do IX Encontro Nacional de Pesquisa em Educação em Ciências, 
+Águas de Lindóia, SP. Anais do IX Encontro Nacional de Pesquisa em Educação em Ciências, 
+Águas de Lindóia, SP, 2013.  
+SCHERR, R. E. Gesture analysis for physics education researchers. Physical Review Special Topics-
+Physics Education Research, v. 4, n. 1, p. 010101-1-010101-9, 2008.  
+SINGER, M. A.; GOLDIN-MEADOW, S. Children learn when their teacher's gestures and speech 
+differ. Psychological Science, v. 16, n. 2, p. 85-89, 2005. 
+STIEFF, M.; LIRA, M. E.; SCOPELITIS, S. A. Gesture supports spatial thinking in STEM. Cognition 
+and Instruction, v. 34, n. 2, p. 80-99, 2016. 
+VYGOTSKY, L. S. Thought and language-Revised edition. Cambridge, MA: Massachusetts 
+Institute of Technology, 1986. 
+VOGT, S.; KAUSCHKE, C. Observing iconic gestures enhances word learning in typically developing 
+children and children with specific language impairment. Journal of child language, v. 44, n. 6, p. 
+1458-1484, 2017.  
+WAKEFIELD, E. M. et al. Breaking down gesture and action in mental rotation: Understanding the 
+components of movement that promote learning. Developmental Psychology, v.55, n. 5, p.981-993, 
+2019. 
+WALKINGTON, C. et al. Collaborative gesture as a case of extended mathematical cognition. The 
+Journal of Mathematical Behavior, v. 55, p. 1-20, 2019.  
+WEINBERG, A.; FUKAWA-CONNELLY, T.; WIESNER, E. Characterizing instructor gestures in a 
+lecture in a proof-based mathematics class. Educational Studies in Mathematics, v. 90, n. 3, p. 233-
+258, 2015. 
+WRAY, C. et al. Gesture production in language impairment: it's quality, not quantity, that 
+matters. Journal of Speech, Language, and Hearing Research, v. 60, n. 4, p. 969-982, 2017. 
+YUAN, C. et al. Observing pitch gestures favours the learning of Spanish intonation by Mandarin 
+speakers. Studies in Second Language Acquisition, v. 41, n. 1, p. 5-3, 2019.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+13 
+ 
+AUTHORS' CONTRIBUTION 
+ 
+Author 1 – Active participation in data collection and analysis, such as writing the article. 
+Author 2 – Data analysis and writing and review of the article. 
+  
+DECLARATION OF CONFLICT OF INTEREST 
+  
+The authors declare that there is no conflict of interest with this article. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4045
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

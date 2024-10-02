@@ -1,0 +1,355 @@
+Status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/1981-86372021002620200142
+CONSIDERATIONS ON ENDODONTIC CARE IN TIMES OF SARS
+CoV-2 PANDEMIC 
+Lorenna Mendes Temóteo Brandt, Liege Helena Freitas Fernandes, Alessandro Leite Cavalcanti
+https://doi.org/10.1590/SciELOPreprints.1086
+Submitted on: 2020-08-10
+Posted on: 2020-08-11 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+CONSIDERATIONS ON ENDODONTIC CARE IN TIMES OF SARS CoV-2 
+PANDEMIC  
+ 
+Endodontic Care in Sars Cov-2 Pandemic 
+ 
+Lorenna Mendes Temóteo Brandt1, Liege Helena Freitas Fernandes2, Alessandro 
+Leite Cavalcanti2. 
+ 
+1 Department of Dentistry, UNIFACISA University Center, R. Manoel Cardoso 
+Palhano, 124-152, 58408-326, Campina Grande, Paraíba, Brazil. 
+2 Department of Dentistry, State University of Paraíba, R. Baraúnas, 351 - 
+Universitário, 58429-500, Campina Grande, Paraíba, Brazil. 
+ 
+Corresponding Author: Alessandro Leite Cavalcanti. R. Baraúnas, 351 - 
+Universitário, 58429-500, Campina Grande – PB. 
+ 
+Email 
+addresses: 
+lorenna_jp@hotmail.com, 
+liege_helena@hotmail.com, 
+alessandrouepb@gmail.com. 
+ 
+LMTB e LHFF wrote the manuscript.  
+ALC conceived the study idea and wrote the manuscript. 
+ 
+Orcid Lorenna Brandt: 0000-0002-4638-5474 
+Orcid Liege Fernandes: 0000-0001-6431-7857 
+Orcid Alessandro Cavalcanti: 0000-0003-3572-3332 
+ 
+We declare that all authors of this manuscript have made substantial contributions to 
+the conception of the paper, the acquisition, analysis and interpretation of data and 
+the writing of the manuscript. All approved the submitted version. 
+ 
+We further declare that there are no conflicts of interest between the authors of this 
+manuscript, with companies that may eventually benefit from the results of the study. 
+ 
+Abstract 
+The severe acute respiratory syndrome of the new coronavirus, SARS CoV-2, which 
+became a pandemic, was first reported in Wuhan, Hubei, China in December 2019. It 
+can cause mild symptoms, but in some cases it can cause serious complications, 
+leading to death. The disease spreads through aerosol droplets and has estimated 
+incubation period between 2 and 14 days (a period in which the patient has high 
+potential to infect other people). Endodontists have high risk of exposure to COVID-
+19 when compared to other health professionals, since most of the work involves the 
+generation of aerosols and care for patients in emergency situations, such as 
+symptomatic irreversible pulpitis, symptomatic apical periodontitis, acute apical 
+abscess and traumatic dental injuries, is imperative. Thus, this critical review 
+addresses considerations about endodontic care in times of pandemic, whose 
+emergencies imply real need for treatment, as well as the care that must be adopted 
+in order to minimize risks for both professionals and patients who seek the resolution 
+of their clinical pain conditions. 
+Indexing terms: COVID-19; coronavirus; dental practice; dentistry; Endodontics. 
+ 
+Introduction 
+The severe acute respiratory syndrome of the new coronavirus - SARS CoV-2 
+(COVID-19), was first reported in Wuhan, Hubei, China, in December 2019 [1] and 
+since then it has become a public health crisis worldwide [2], being declared a 
+pandemic by the World Health Organization (WHO) on March 11, 2020. Although 
+COVID-19 infections in humans generally cause mild symptoms in most cases, in 
+some situations, it may cause serious complications, leading to death [3]. 
+  
+The disease spreads through aerosol droplets [4] and has estimated 
+incubation period of 2 to 14 days [5]. It is known that patients without symptoms or 
+who are during the virus incubation period have the potential to infect other people 
+[5]. 
+  
+Thus, the American Dental Association (ADA) and the Centers for Disease 
+Control and Prevention (CDC) recommend to oral health professionals extreme 
+caution and warn them to limit dental work strictly to situations of dental emergencies 
+[6,7], since aerosol is the source of COVID-19 spread, in addition to other viral 
+infections, which puts dentists and other dental professionals on the first line of the 
+risk exposure scale [8]. 
+  
+The aerosol produced by dental practice instruments can remain in the air and 
+surfaces for several hours [9] and although the operator can be unhurt if well 
+protected during therapeutic practice, the air will remain contaminated, representing 
+a risk to operators after removal of personal protective equipment (PPE) and for the 
+next patient [10]. 
+  
+Thus, patients with non-urgent oral conditions should temporarily avoid 
+attending the dental office [11]. In addition, as the understanding of this new disease 
+is evolving, dental practices should be prepared to identify possible COVID-19 
+infection and refer the patient with suspected, confirmed or history of COVID-19 
+infection to appropriate treatment centers [12]. 
+  
+In this pandemic, it is necessary to reduce face-to-face consultations to 
+decrease the risk of infection, and teleodontology can be an alternative for dentists to 
+investigate the need for treatment and ensure continuity of care [13,14], especially for 
+COVID-19 patients or those suspect to be infected [14]. However, if there is need for 
+treatment, at this epidemic moment, every patient should be considered potentially 
+infected with the virus because the clinical presentations of this disease can be 
+dynamic and therefore there are chances that dentists will treat some patients with 
+asymptomatic COVID-19 infection, and all dental practices need to review their 
+infection control policies, engineering controls and supplies [12]. Therefore, every 
+patient must be considered potentially infected with this virus, and all dental practices 
+need to review their infection control policies, engineering controls and supplies [12]. 
+  
+In view of the above, this critical review aims to present considerations about 
+dental care in time of pandemic, specifically, endodontic care, whose urgencies imply 
+real need for treatment. 
+ 
+Considerations on Dental Care in Endodontics 
+  
+Studies addressing important aspects of COVID-19 regarding clinical severity, 
+extent and types of transmission, as well as the most appropriate treatment, have 
+been carried out worldwide since the beginning of the disease [4] and until now, there 
+is no consensus on dental treatment protocols that must be adopted for COVID-19 
+patients [15]. 
+  
+However, it is imperative that the dentist, especially endodontists, take 
+appropriate measures to keep themselves protected [2,13] and also ensure the 
+maintenance of patients' health in the dental environment, since only protective 
+measures do not guarantee the non-contamination of other patients [13.16]. 
+  
+Endodontists have higher risk of exposure to COVID-19 when compared to 
+other health professionals, since most of the work involves the generation of aerosols 
+and the care of patients with dental pain is imperative. In addition, close and 
+prolonged face-to-face contact between patient and dentist during endodontic 
+treatment creates a high risk for cross-infection [4,17]. 
+  
+Protection guidelines for dental care during the COVID-19 pandemic are being 
+formulated based on grouping patients according to their health condition and 
+considering the risks and benefits of the necessary procedures [18]. Most studies 
+recommend the postponement of elective dental treatment, focusing on emergency 
+care only [12,19], since endodontic infections can cause severe pain and endodontic 
+emergencies are considered an important category of dental emergencies [2]. 
+  
+The possible clinical conditions that constitute endodontic emergencies 
+include symptomatic irreversible pulpitis, symptomatic apical periodontitis, acute 
+apical abscess and traumatic dental injuries [4]. When studying the characteristics of 
+dental emergencies during the COVID-19 epidemic in Wuhan, China, Yu et al. [2] 
+found that only dental emergency cases were referred to the hospital during online 
+health consultations. They concluded that most dental emergencies were of 
+endodontic origin (50.6%), including symptomatic irreversible pulpitis, symptomatic 
+apical periodontitis, acute apical abscess and traumatic dental injuries. Bai et al. [11] 
+observed that the frequency of endodontic emergencies and the proportion of 
+patients with acute pain were significantly higher in 2020 than the same period in 
+2019. 
+  
+Emergency dental care for a positive COVID-19 patient may be necessary 
+and, to date, there is no consensus on dental treatment protocols for an infected 
+patient [15], but the advice is not to provide care in a primary dental environment, 
+since the COVID-19 patient is classified as having a level-three biosafety risk, which 
+means that procedures involving microbes can cause serious and / or potentially 
+lethal diseases through the airways [20]. In these cases, the hospital environment is 
+the most appropriate for providing frequent air renewal, reducing the risks to the 
+health of professionals [15,21]. 
+ 
+Considerations on Suggested Protocols 
+  
+Yang et al. [16] and Ather et al. [12] suggest that three simple assessments 
+should become routine. The first and most important is the patient's history, 
+preferably remotely, which can be performed by phone or video call. With this, it is 
+possible to know if the patient has had contact with other infected people or shows 
+symptoms that may suggest COVID-19 infection, or even if he / she has already had 
+the disease. 
+  
+Then, checking the patient's temperature before entering the dental office and, 
+finally and most importantly, the performance of a quick test in the office environment 
+in order to verify whether the patient is infected or not [12,16], because rapid and 
+accurate detection is essentially to limit the spread of the virus, in addition to 
+reducing the waiting period, allowing immediate intervention for negative cases [4]. 
+  
+In situations where rapid tests are inconclusive or positive, care should be 
+postponed and the patient referred to the doctor or health care provider for additional 
+tests to confirm that the patient has COVID-19 and to ensure that he / she is properly 
+treated and clinically isolated [12,16]. The current standard approach for COVID - 19 
+screening requires real-time reverse transcriptase polymerase chain reaction (rRT-
+PCR) test. However, according to Sharma et al. [4], this approach depends on high-
+cost facilities, well-trained staff and generally demands more time. 
+  
+Studies have shown promising results is testing the diagnosis of coronavirus 
+through saliva, such as the loop mediated isothermal amplification - LAMP [22,23] 
+and microfluidic RT-PCR devices - Lab-on-a-chip tests [1] . 
+  
+According to Yu et al. [2], reducing care time and controlling exposure to the 
+virus are two relevant ways to reduce the risk of contamination during endodontic 
+treatment. The most recent recommendations regarding the use of personal 
+protective equipment (PPE) for dental emergencies include the use of N95 
+disposable masks, goggles, disposable gloves and caps, shoe protection, face 
+shields and use of cloaks [15,19]. However, in the case of endododontic emergency 
+care for positive COVID-19 patients, the recommendation is total protection for face 
+and eyes against aerosols, through the use of full face masks with air purifier, which 
+provide protection five to ten times higher than the N95 mask [15]. 
+  
+With regard to radiological examination, pre-treatment radiographs should be 
+limited to extra-oral techniques only, as intraoral radiography can stimulate vomiting 
+and / or cough reflex [24]. The use of computed tomography is also an alternative 
+that can be considered [2], despite the high cost. 
+  
+Another recommended preoperative approach is to rinse the patient's mouth 
+with hydrogen peroxide and / or povidone-iodine in order to decrease the viral load in 
+saliva [18,19]. The use of 0.12% chlorhexidine dodigluconate, in turn, still lacks more 
+robust scientific evidence [18]. 
+  
+Isolation barriers such as dykes or rubber sheets should be used during 
+clinical care in endodontics, because, although they are not able to limit aerosol 
+diffusion by themselves, they can drastically reduce or even eliminate the presence 
+of salivary components in the aerosol [2, 12]. 
+  
+For cases of vital pulp or pulpitis, pulpotomy or pulp capping can be useful in 
+terms of shortening treatment time [2]. In COVID-19 patients, once initial emergency 
+pulpectomy or pulpotomy has been performed, definitive treatment should be 
+postponed until the patient recovers, which must be at least three days after 
+symptoms disappear [7]. However, it may be prudent to postpone this procedure for 
+at least a month [15], since the time during which the virus can remain active in the 
+patient remains unknown [25]. In addition, the single file systems can be used in 
+endodontic treatment as another alternative to decrease clinical time [26], in addition 
+to avoiding the risk of contamination during resterilization [2]. 
+  
+The post-care period must involve patient care and supervision, as well as 
+environmental disinfection procedures [18]. In addition, waste management must be 
+carried out in a safe manner, and must be conditioned in impermeable bags, made of 
+material resistant to rupture and leakage, and placed in closed containers until 
+collection by specialized services [18]. 
+  
+It is noteworthy that changes in biosafety protocols during the COVID-19 
+pandemic, the increase in PPE values, and the need to purchase new equipment 
+such as thermometers have significantly increased the costs of dental treatments 
+[27]. 
+ 
+Concluding remarks 
+  
+The main recommendations point out that endodontic care should only be 
+performed in cases of patients with clinical pain conditions, and in cases of COVID-
+19 patients, the orientation is not to provide care in a primary dental environment, but 
+in a hospital environment. 
+  
+Currently, the main challenge is the development of a vaccine against SARS 
+CoV-2. Dentists should focus not only on dental treatment and risk reduction, but 
+also be aware of patients' psychological state. Further studies should be carried out 
+using approaches to mitigate aerosol transmission and reduce the risks of COVID-19 
+contamination. 
+ 
+References 
+1. Zhu H, Fohlerova Z, Pekárek J, Basova E, Neužil P. Recent advances in lab-on-a-
+chip technologies for viral diagnosis. Biosens Bioelectron. 2020; 153 (1): 112041. doi: 
+10.1016/j.bios.2020.112041 
+ 
+2. Yu J, Zhang T, Zhao D, Haapasolo M, Shen Y. Characteristics of Endodontic 
+Emergencies during Coronavirus Disease 2019 Outbreak in Wuhan. J Endod. 2020; 
+46 (6):730-735. doi: 10.1016 / j.joen.2020.04.001 
+ 
+3. Lu B, Huang Y, Huang L, et al. Effect of mucosal and systemic immunization with 
+virus-like particles of severe acute respiratory syndrome coronavirus in mice. 
+Immunology 2010;130:254–61 
+  
+4. Sharma S, Kumar V, Chawla A, Logani A. Rapid detection of SARS-CoV-2 in 
+saliva: can an endodontist take the lead in point-of-care COVID-19 testing?. Int 
+Endod J. 2020; 53 (7):1017-1019. doi:10.1111/iej.13317 
+ 
+5. Sohrabi C, Alsafi Z, O’Neill N, Khan M, Kerwan Am, AI-Jabir A, et al. World Health 
+Organization declares global emergency: a review of the 2019 novel coronavirus 
+(COVID-19). Int J Surg. 2020; 76 (1): 71–6. doi: 10.1016/j.ijsu.2020.02.034 
+ 
+6. ADA. American Dental Association. Coronavirus Center for Dentists. 2020. 
+Disponível em: https://ada.org/.  
+ 
+7. CDC. Centers for Disease Control and Prevention. Coronavirus Disease 2019 
+(COVID-19). Guidance for Dental Settings. 2020. Disponível em: 
+https://www.cdc.gov/coronavirus/.  
+ 
+8. Coulthard P. Dentistry and coronavirus (COVID-19) - Moral decision-making. Br 
+Dent J. 2020; 228 (7): 503-505. doi: 10.1038/s41415-020-1482-1.  
+ 
+9. van Doremalen N, Bushmaker T, Morris DH, Holbrook M, Gamble A, Williamson 
+BN, et al. Aerosol and surface stability of SARS-CoV-2 as compared with SARS-
+CoV-1. N Engl J Med. 2020; 382 (16): 1564-1567. doi: 10.1056/NEJMc2004973. 
+ 
+10. Bizzoca ME, Campisi G, Lo Muzio L. Covid-19 Pandemic: What Changes for 
+Dentists and Oral Medicine Experts? A Narrative Review and Novel Approaches to 
+Infection Containment. Int J Environ Res Public Health. 2020; 17 (11): 3793. doi: 
+10.3390/ijerph17113793. 
+ 
+11. Bai J, Xu T, Ai-Ping, Sun W, Huang MW. Impact of COVID-19 on oral emergency 
+services. Int Dent J. 2020; 10.1111/idj.12603. doi: 10.1111/idj.12603. 
+12. Ather A, Patel B, Ruparel NB, Diogenes A, Hargreaves KM. Coronavirus Disease 
+19 (COVID-19): Implications for Clinical Dental Care. J Endod. 2020; 46 (5): 584-595. 
+doi:10.1016/j.joen.2020.03.008. 
+ 
+13. Maret D, Peters O, Vaysse F, Vigarios E. Integration of telemedicine into the 
+public health response to COVID-19 must include dentists. Int Endod J. 2020; 53 (6): 
+880-881. doi: 10.1111/iej.13312. 
+ 
+14. Smith AC, Thomas E, Snoswell CL, Haydon H, Mehrotra A, Clemensen J, et 
+al. Telehealth for global emergencies: implications for coronavirus disease 2019 
+(COVID-19). J Telemed Telecare. 2020; 26 (5): 309-313. doi: 
+10.1177/1357633X20916567. 
+ 
+15. Umer F, Haji Z, Zafar K. Role of respirators in controlling the spread of novel 
+coronavirus (COVID-19) amongst dental healthcare providers: a review. Int Endod 
+J. 2020; 53 (8): 1062-1067. doi: 10.1111/iej.13313. 
+ 
+16. Yang Y, Soh H Y, Cai Z G, Peng X, Zhang Y, Guo C B. Experience of Diagnosing 
+and Managing Patients in Oral Maxillofacial Surgery during the Prevention and 
+Control Period of the New Coronavirus Pneumonia. Chin J Dent Res. 2020; 23 
+(1): 57-62. doi: 10.3290/j.cjdr.a44339. 
+ 
+17. Prati C, Pelliccioni GA, Sambri V, Chersoni S, Gandolfi MG. COVID-19: its impact 
+on dental schools in Italy, clinical problems in endodontic therapy and general 
+considerations. Int Endod J. 2020; 53 (5): 723-725. doi: 10.1111/iej.13291. 
+ 
+18. Amorim LM, Maske TT, Ferreira SH, Santos RB, Feldens CA, Kramer PF. New 
+Post-COVID-19 Biosafety Protocols in Pediatric Dentistry. Pesq Bras Odontop Clín 
+Integr. 2020; 20 (supp1): e0117. https://doi.org/10.1590/pboci.2020.117 
+ 
+19. Meng LY, Hua F, Bian Z. Coronavirus disease 2019 (COVID-19): Emerging and 
+future challenges for dental and oral medicine. J Dent Res. 2020; 99 (1): 481–7. doi: 
+10.1177/0022034520914246.  
+ 
+20. Chosewood L, Wilson D. Biosafety level criteria Biosafety in Microbiological and 
+Biomedical Laboratories. 5th ed. Washington, 2009. 
+ 
+21. Fusco F, Puro V, Baka A, Bannister B, Brodt HR, Brouqui P, et al. Isolation rooms 
+for highly infectious diseases: an inventory of capabilities in European countries. J 
+Hosp Infect. 2009; 73 (1): 15-23. doi: 10.1016/j.jhin.2009.06.009. 
+ 
+22. Lamb LE, Bartolone SN, Ward E, Chancellor MB. Rapid detection of novel 
+coronavirus (COVID-19) by reverse transcription-loop-mediated isothermal 
+amplification. Plos One. 2020;15 (6): e0234682. doi: 10.1371/journal.pone.0234682. 
+ 
+23. Yan C, Cui J, Huang L, Du B, Chen L, Xue G, et al (2020) Rapid and visual 
+detection of 2019 novel coronavirus (SARS-CoV-2) by a reverse transcription loop-
+mediated isothermal amplification assay. Clin Microbiol Infect. 2020; 26 (6): 773-
+779. doi: 10.1016/j.cmi.2020.04.001. 
+ 
+24. Vandenberghe B, Jacobs R, Bosmans H. Modern dental imaging: a review of the 
+current technology and clinical applications in dental practice. Eur Radiol. 2010; 20 
+(11): 2637-2655. doi: 10.1007/s00330-010-1836-1. 
+ 
+25. Samaranayake LP, Peiris M. Severe acute respiratory syndrome and dentistry: a 
+retrospective view. J Am Dent Assoc. 2004;135 (9): 1292-1302. doi: 
+10.14219/jada.archive.2004.0405. 
+ 
+26. Kuzekanani M. Nickel-titanium rotary instruments: development of the single-file 
+systems. J Int Soc Prev Community Dent. 2018; 8 (5): 386-90. doi: 
+10.4103/jispcd.JISPCD_225_18 
+ 
+27. Cavalcanti YW, Silva RO, Ferreira LF, Lucena EHG, Souza AMLB, Cavalcante 
+DFB, et al. Economic Impact of New Biosafety Recommendations forDental Clinical 
+Practice During COVID-19 Pandemic. Pesq Bras Odontop Clín Integ. 2020; 20 
+(supp1): e0133. https://doi.org/10.1590/pboci.2020.143 
+ 
+ 
+ 

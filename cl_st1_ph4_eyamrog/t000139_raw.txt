@@ -1,0 +1,514 @@
+Status: Preprint has not been submitted for publication
+“Incidentalormones” - Macro-hormones
+Luis Jesuino de Oliveira Andrade, Gabriela Correia  Matos de Oliveira
+https://doi.org/10.1590/SciELOPreprints.1734
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+Submitted on (YYYY-MM-DD): 2021-01-18
+Posted on (YYYY-MM-DD): 2021-02-08
+Powered by TCPDF (www.tcpdf.org)
+“Incidentalormones” - Macro-hormones 
+ 
+1 Luís Jesuíno de Oliveira Andrade - https://orcid.org/0000-0002-7714-0330 
+2 Gabriela Correia Matos de Oliveira - https://orcid.org/0000-0002-8042-0261 
+ 
+1 Departamento de Saúde – Universidade Estadual de Santa Cruz - Ilhéus – Bahia, 
+Brazil. 
+2 Faculdade de Medicina – UniFTC – Salvador - Bahia, Brazil. 
+ 
+Author contributions 
+Conception and design: Luis Jesuino de Oliveira Andrade 
+Analysis and interpretation: Luis Jesuino de Oliveira Andrade, Gabriela Correia 
+Matos de Oliveira. 
+Data collection: Luis Jesuino de Oliveira Andrade, Gabriela Correia Matos de Oliveira. 
+Writing the article: Luis Jesuino de Oliveira Andrade, Gabriela Correia Matos de 
+Oliveira. 
+Critical revision of the article: Luis Jesuino de Oliveira Andrade, Gabriela Correia 
+Matos de Oliveira. 
+Final approval of the article: Luis Jesuino de Oliveira Andrade, Gabriela Correia 
+Matos de Oliveira. 
+Overall responsibility: Luis Jesuino de Oliveira Andrade 
+ 
+Corresponding Author: 
+Luís Jesuíno de Oliveira Andrade 
+UESC - Departamento de Saúde Campus Soane Nazaré de Andrade, Rod. Jorge Amado, 
+Km 16 - Salobrinho, Ilhéus - BA, 45662-900 
+e-mail: luis_jesuino@yahoo.com.br. 
+ 
+Disclosure of potential conflicts of interest: 
+None of the authors have any potential conflicts of interest to disclose. 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+Abstract 
+ 
+Introduction: Complexes of monomeric hormone molecules immunoglobulin-
+associated lead to the formation of macro-complexes biologically inactive that are 
+called macro-hormones. Patients’ presenting unexpectedly elevated hormones values 
+indicates the need that the existence of macro-hormones must be researched.  
+Objective: To describe the macro-hormones discovered incidentally in laboratory tests, 
+which we refer to as "incidentalormones". 
+Methods: An integrative review was conducted, and data was gathered from the 
+published articles in medical database. The different forms of macro-hormones are 
+reviewed; the biochemical significance and laboratory assays of macro-hormones are 
+also revised within the ambit of current laboratory medicine. We discussed diagnostic 
+difficulty encountered in patients with "incidentalormones”, as well as methods of 
+macro-hormone detection, immunoglobulin involved, clinical significance and 
+associations with other diseases. 
+Conclusion: The presence of macro-hormones, often guides us to intervention in 
+laboratory trials, and could result in false-positive diagnosis with inadequate therapy. 
+Laboratories should follow a diagnostic algorithm to carefully recognize and examine 
+possible immunoassay interferences. 
+ 
+Key words: Macro-hormones, macro-complexes, inactive hormones, immunoassays. 
+ 
+INTRODUCTION 
+Complexes of monomeric hormone molecules immunoglobulin-associated or 
+non-immunoglobulin bound lead to the formation of macro-complexes biologically 
+inactive that are called macro-hormones (1). Pitfalls of macro-hormones are rare and 
+unexpected in laboratory examinations, and that is why we refer to it as 
+"incidentalormones”. 
+Macro-hormones are hormone variants with decreased bioactivity in relation to 
+their homologous receptors (2). Because of their high molecular weight, macro-
+hormones are not effectively eliminated by the renal pathway, circulating normally and 
+being measurable through the available immunoassays despite being biologically 
+inactive. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+Although immunoassays have high sensitivity and specificity, various 
+interferences related to the existence of autoantibodies, heterophilic antibodies and even 
+antianimal antibodies can occur, leading to unexpected false-positive and false-negative 
+results (3). Therefore, even with the evolution of immunoassays, analytical errors 
+arising from non-specific reactions or cross reactions are still not entirely preventable. 
+Hormone levels that are incompatible with the clinical picture are infrequent; 
+however these findings can lead to evaluations by unnecessary propaedeutic methods, 
+false awareness of illness, and inappropriate treatments. 
+The first report of macro-hormone was made in 1981 by Whittaker et al. when 
+they described a case of hyperprolactinemia with predominance of macroprolactin (4). 
+The term macro-hormone was first used by Jackson et al. in 1985 when he used the term 
+"macroprolactinemia" for a case of very high prolactin levels in a patient with no 
+evidence of pituitary tumor at the imaging examination (5). 
+Problem solving of analytical measuring or the implications of preanalytic 
+aspects are usually the laboratory’s first practice to reply such pitfalls. Laboratories 
+should follow a diagnostic algorithm to carefully recognize and examine possible 
+immunoassay interferences (6). The development of assays less susceptible to 
+antibodies and interfering immunoglobulin are being attempted, however, it has been 
+difficult due to several factors. 
+In this article we report the different forms of "incidentalormones”, their 
+biochemical significance and review the laboratory tests and macro-hormones also in 
+the scope of current laboratory medicine. We discuss the diagnostic difficulty found in 
+patients with "incidentalormones”, as well as the prevalence, immunoglobulin involved, 
+clinical significance and associations with other diseases. 
+ 
+METHODS 
+An integrative review was conducted, and data was gathered from the published 
+articles in various medical databases. The different forms of macro-hormones are 
+reviewed; the biochemical significance and laboratory assays of macro-hormones are 
+also revised within the ambit of current laboratory medicine. We discussed diagnostic 
+difficulty encountered in patients with "incidentalormones”, as well as the frequency, 
+immunoglobulins involved, clinical significance and associations with other diseases. 
+The keywords used produced specific results for documents that used the terms 
+described below. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+ 
+Laboratory Measurement of Macro-hormones 
+ 
+There are several methods of macro-hormone detection, comprising 
+polyethylene glycol (PEG) precipitation, gel filtration chromatography (GFC), 
+electrophoresis, and ultrafiltration (UF). Although they are different approaches, with 
+limitations and specificities for each method, they have the function of isolating the 
+immunoglobulin-bound hormone of the unbound, or monomeric, form. 
+ Polyethylene Glycol precipitation 
+PEG precipitation is the most available and most widely used technique to 
+identify macro-hormones. The technique consists of blend same volumetric quantity of 
+PEG reagent and plasma. After centrifuging the mixture, the residual macro-hormone 
+the quantification of the supernatant is performed, where PEG acts reducing the 
+solubility of the proteins leading to its precipitation (7). PEG is fairly essential for 
+precipitation of immunoglobulin complexes and immunoglobulin, and thus precipitates 
+the macro-hormones that contain IgG preferentially while IgA partially precipitates (8). 
+The chance of incorrectly precipitating Ig-complexed analytes with monomeric analytes 
+aggregate also restricts the overview specificity of the PEG reaction, because the plasma 
+can contain high levels of gamma globulin (9). 
+ Gel Filtration Chromatography 
+GFC is a methodology of separation chromatography utilized to separate 
+molecules of distinct molecular sizes. This technique consists of two phases, a moving 
+phase and a stopped phase due to the relative sizes of the molecules, can be executed 
+with any buffer system that maintains the formation and function of the protein complex 
+(10). Three basic methods are used in the main applications of GFC: desalting or group 
+segmentation, where the evaluated protein and the polluting solutes diverges 
+considerably in molecular size; another method is the application in specification of the 
+molecular size of protein; and an auxiliary protocol to calibrate gel filtration columns 
+for molecular size estimation (11).  
+ Electrophoresis 
+Electrophoresis is a method that separates immunoglobulin-complexes according 
+to size and electric charge, and which requires more intensive optimization and 
+instrumentation because the preparation of the sample to be analyzed and the laboratory 
+conditions may make it difficult to identify the macro-hormone (12). The 
+electrophoresis is an efficient analytical technique and of great interest for macro-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+protein analysis and its use has increased in recent years. The main methods of 
+electrophoresis that separate immunoglobulin complexes from proteins are mainly: gel 
+capillary electrophoresis, micellar electrokinetic capillary chromatography, and the free 
+solution capillary electrophoresis (13). 
+ Ultrafiltration 
+Newly, it has been demonstrated that the UF technique using exclusive filtration 
+membrane can be useful in the detection of macro-hormones. UF physically withdraws 
+immunoglobulin-complexes according to size. Centrifugation is realized employing a 
+filter with usually 100 kDa porosity that makes possible withdrawal of macro-molecules 
+together with the passage of the monomeric hormone. Research has shown that UF can 
+be an option, particularly in laboratories that have equipment’s which use 
+immunoassays that present interference of PEG precipitation (14). 
+ 
+Macro-adrenocorticotropic hormone (macro-ACTH) 
+Adrenocorticotropic hormone (ACTH) is structurally formed by 49 amino acids 
+residues, being a combination of two regions related to corticotropin-like intermediate 
+lobe peptide and to α-MSH (15). The hypothalamus secretes corticotropin-releasing 
+hormone, which stimulates the release of ACTH that is a tropic hormone secretariat by 
+the anterior pituitary, and that, in turn, acts on the adrenal cortex, controlling cortisol 
+and androgen production by feedback (16). 
+ 
+ 
+The ACTH test is often used to diagnose disorders of pituitary and/or adrenal 
+glands, including mainly: Cushing's disease, Cushing's syndrome, Addison disease and 
+hypopituitarism. Thus, the evaluation of plasma ACTH is a very important step for the 
+differential diagnosis of the hypothalamic-hypophysis-adrenal axis dysfunctions. 
+ 
+Electrochemical immunoassays for ACTH dosage are fully automated, with 
+excellent accuracy and a functional sensitivity of 4.8pg/mL, allowing accurate results 
+with wide assay range up to 1000pg/mL, besides presenting low levels of cross-
+reactivity in an extensive list of potentially interfering substances. The ACTH 
+immunoassay measures the biologically active 39 amino acid chain of ACTH.  One 
+biotinylated antibody is prepared to bind only the C-terminal ACTH 34-39 and the other 
+antibody labeled with Horseradish Peroxidase is prepared to bind only the mid-region 
+and N-terminal ACTH 1-24.  The reference values are 7.2-63 pg/mL for a.m. draws, and 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+no reference value has been set for p.m. draws, and these reference values are the same 
+for adults and children (17). 
+Unexpectedly-high ACTH levels are called macro-ACTH, and are due its 
+complex formation with immunoglobulin. The immunoreactive but bioinactive ACTH 
+molecules are resulting of incomplete cleavage of proopiomelanocortin. 
+The macro-ACTH is ACTH levels falsely elevated that occur due to interference 
+of anti-analyte antibodies or immunoglobulin-associated. Thus, plasma pretreatment 
+with PEG precipitation or a heterophilic blocking tube substantially reduces its ACTH 
+values. There are only 23 cases of macro-ACTH described in the literature (18). 
+PEG precipitation of immunoglobulin before to analysis must be utilized to 
+withdraw potentially interfering antibodies. However, state-of-the-art automated 
+analyzers, analysis has become easier and faster. In the PEG precipitation the plasma is 
+mixed with an equal volume of 25% PEG and centrifuged for 5 minutes at 3,000 
+gravity. The supernatant is measured for ACTH using the specific ACTH assay. Percent 
+of expected value is calculated using the following formula: [(ACTH concentration after 
+treatment) × 2/(ACTH concentration before treatment)] (18). Thus, PEG precipitation 
+study to exclude macro-ACTH should be performed when there is disagreement of the 
+laboratory picture is discordant of the clinical picture. 
+ 
+Macro-Follicle-Stimulating Hormone (macro-FSH) 
+ 
+Follicle-Stimulating Hormone (FSH) is a glycoprotein hormone family, secreted 
+from the anterior pituitary gland that regulates reproduction in mammals. FSH is 
+composed of two different subunits, α and β, where the subunit α being common to 
+glycoprotein hormones, the subunit β specific to FSH, whiles the heterodimer provides 
+its biological activity (19). 
+ 
+The exact laboratory evaluation of FSH levels is fundamental for an accurate 
+diagnosis and successful treatment. Therefore, it is critical that any laboratory 
+measurement of FSH contains the specification of the standard to which the measured 
+FSH was compared and the laboratory method utilized for this comparison. 
+ 
+Macro-FSH should be suspected when FSH levels are discordant with the 
+patient's clinical picture. Thus, hypothesis of macro-FSH should be taken into account 
+in the event of unexplainably elevations of plasma FSH levels (20). 
+ 
+Macro-FSH may be due to the autoimmune response with the presence of anti-
+FSH antibodies carrying to the formation of an IgG-FSH immunoreactive complex, or 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+due to the presence of a heterophile antibody or human anti-animal antibody intervening 
+in FSH assay (21). 
+ 
+The serum reference levels of FSH are age-dependent. Currently, the normal 
+limit value of FSH is 20 IU / L for women, below these levels  are associated with poor 
+ovarian reserve and reduced fertility, but it is still possible the presence of some ovarian 
+reserve (22). FSH levels far above the appropriate maximum reference range values 
+may be due to the presence of macro-FSH. 
+ 
+Thus, macro-FSH can lead to misdiagnosis, unnecessary evaluation and 
+inappropriate treatment if not distinguished by the relevant laboratory assays. It is 
+essential that laboratories put in their routines a screening to evaluate samples with high 
+levels of total immunoreactive FSH for macro-FSH diagnosis. 
+ 
+Macro-Luteinizing Hormone (macro-LH) 
+ 
+The luteinizing hormone (LH) is a glycoprotein hormone secreted in the adeno-
+hypophysis, that assist in the maturation of primordial germ cells,  the production of 
+testosterone by the Leydig cells of the testicles and the production of estrogens by the 
+ovaries. In addition, LH contributes to the regulation of the menstrual cycle, playing an 
+important role in ovulation and in the implantation of the fecundated egg in the uterus 
+(23, 24).  
+ 
+The LH assay is underpinned on microparticle enzyme immunoassay 
+technology. LH levels vary according to age, sex, clinical history among other variables. 
+ 
+The presence of macro-LH should be suspected when there is a divergence 
+between the clinical picture and the serum level of LH. Macro-LH, as in other 
+macromolecules, 
+is 
+involved 
+with 
+immunoglobulin-G 
+complex 
+and 
+serum 
+autoantibodies (25). Interference of endogenous antibodies in immunoassays of 
+pituitary glycoprotein hormones such as LH is rare (26). Thus, surprisingly high LH 
+values, associated with concomitant FSH and estradiol values within normal reference 
+ranges, should be submitted to macro-hormone research. There are few cases described 
+for LH. 
+ 
+Macro-Thyroid-Stimulating Hormone (macro-TSH) 
+Thyroid stimulating hormone (TSH) is considered a marker of thyroid function 
+and monitors and directs the treatment of thyroid dysfunctions. TSH is a 28- to 30-kDa 
+glycoprotein secreted in the anterior pituitary gland that leads the thyroid to synthesize 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+its hormones (T3 and T4). Physiologically, TSH stimulates thyroid growth, protects 
+thyrocytes from apoptosis and plays a fundamental role in ontogeny. Moreover, it 
+participates in the capture of iodine and its organification. The production of TSH in the 
+pituitary gland is dependent on the TSH releasing hormone and blocked by the 
+hormones produced in the thyroid through a feedback mechanism (27). 
+TSH presents a variation of its serum levels during the day, having higher levels 
+between midnight and 4 a.m. and lower levels in the late afternoon. Thus, a variation in 
+serum TSH levels of up to 50% within the normal range does not strictly represent a 
+change in the functional state of the gland (28). There has been a great development in 
+the sensitivity and specificity of the assays for the measurement of TSH in recent years, 
+changing from a methodology performed by radioimmunoassay with limited functional 
+sensitivity, to immunometric assays with higher sensitivity and specificity (29). The 
+normal reference values of TSH are related to age, in which the elderly have higher 
+concentrations, which do not indicate thyroid dysfunctions, but a natural occurrence of 
+aging (30). The main factors that change in the serum levels of TSH are: biotin, 
+heterophilic antibodies, anti-thyrotropin autoantibodies, anti-ruthenium antibodies, anti-
+streptavidin, and macro-TSH among others. 
+ 
+Macro-TSH is a macromolecule resulting from the immunoglobulin G and TSH 
+complex, where the serum level of TSH is high and the thyroxin level is normal, 
+simulating a laboratory picture of subclinical hypothyroidism. A recent study showed 
+that 0.79% of individuals with subclinical hypothyroidism had macro-TSH, thus, the 
+distinction between macro-TSH and monomeric TSH in individuals with subclinical 
+hypothyroidism becomes relevant. However, macro-TSH can be observed in individuals 
+with serum levels of TSH within the reference values (31). In gel filtration 
+chromatography the molecular mass of monomeric TSH is 28 kDa while the macro 
+TSH has a molecular mass above 150 kDA (32). The macro-TSH has a low bioactivity 
+and its pathogenesis is not yet fully clarified. 
+ 
+High TSH in routine neonatal screening in a newborn without clinical symptoms 
+may be due to maternal interference, and additional investigations should be carried out, 
+because interfering macro-TSH should be considered in an euthyroid neonate with high 
+serum TSH and normal thyroid hormone levels, thus avoiding unnecessary therapy (33). 
+Thus, macro-TSH should be considered and researched when isolated serum 
+levels of TSH are incompatible with the patient's clinical picture, especially when 
+significant elevations occur. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+ 
+Macroprolactin 
+Prolactin is a 23 kD peptide hormone secreted in the anterior pituitary gland, 
+regulated by the hypothalamus-pituitary-adrenal axis, and physiologically inhibited by 
+dopamine. Prolactin can also be secreted by immune cells, brain, mammary gland, fat 
+tissue, prostate, and ovary. However this extra-pituitary prolactin has different 
+bioactivity and molecular weight (34). The prolactin is fundamental during pregnancy 
+and lactation, because the synthesis and maintenance of milk secretion is its main 
+function. 
+ Biologically there are three isoforms of prolactin: the free monomeric or free 
+little prolactin with a molecular weight of 23 kDa and composed of 199 amino acids and 
+physiologically the most potent, and corresponds to up to 95% of adult serum prolactin; 
+the big prolactin has a molecular weight of 40-60  kDa, a dimer of monomeric form 
+with minimal biological activity; and the big big prolactin or macroprolactin, that is a 
+prolactin-antibody complex with a molecular weight over than 100-150 kDa and 
+represents less than 1% of circulating serum prolactin and also with minimal biological 
+activity (7, 35). 
+  
+Prolactin serum levels are mainly quantified by the automated immunoassay 
+method. Current immunoassays use a two sites immunometric or sandwich base where 
+prolactin can react with a capture antibody, which is frequently paralyzed in a solid 
+phase, and a characteristic antibody which is used for detection. After the capture of 
+analyte-antibody sandwich, and removal of the reagents that unreacted by a washing 
+step, the signal produced is exactly associated with the amount of current prolactin (36). 
+ 
+Hyperprolactinemia with predominance of macro-molecule of prolactin was the 
+first report of macro-hormone described in 1981 by Whittaker et al (4). The term macro-
+hormone was first used by Jackson et al. in 1985 when he used the term 
+"macroprolactinemia" for a case of very high prolactin levels in a patient with no 
+evidence of pituitary tumor at the imaging examination (5). 
+ 
+Macroprolactin is the third most frequent cause of non-physiological 
+hyperprolactinemia after prolactinomas, and drug-induced hyperprolactinemia (37). 
+Screening for prolactin and macroprolactin should not be performed in asymptomatic 
+subjects, in order to avoid "incidentalormones", misdiagnosis, and unnecessary 
+treatment. Therefore, an adequate clinical and laboratory evaluation is fundamental for 
+the most adequate therapy. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+ 
+CONCLUSION 
+Macro-hormones occur mainly in the form of immunoglobulin IgG complexed 
+hormones. The doctor must be attentive between hormone elevations and disagreement 
+of the clinical characteristics presented by the patient. Thus, the presence of macro-
+hormones, often guides us to intervention in laboratory trials, and could result in false-
+positive diagnosis with inadequate therapy. Laboratories should follow a diagnostic 
+algorithm to carefully recognize and examine possible immunoassay interferences. 
+ 
+Conflicts of Interests 
+None. 
+ 
+Funding 
+None. 
+ 
+References 
+1. Tate J, Ward G. Interferences in immunoassay. Clin Biochem Rev. 
+2004;25(2):105–20. 
+2. Cárdenas-Mondragón G, Ulloa-Aguirre A, Isordia-Salas I, Goffin V, Leaños-
+Miranda A. Elevated serum bioactive prolactin concentrations in patients with 
+systemic lupus erythematosus are associated with disease activity as disclosed 
+by homologous receptor bioassays. J Rheumatol. 2007; 34(7):1514-21. 
+3. Bolstad N, Warren DJ, Nustad K. Heterophilic antibody interference in 
+immunometric assays. Best Pract Res Clin Endocrinol Metab. 2013;27(5):647–
+61. 
+4. Whittaker PG, Wilcox T, Lind T. Maintained fertility in a patient with 
+hyperprolactinemia due to big, big prolactin. J Clin Endocrinol Metab. 1981; 
+53(4):863-6. 
+5. Jackson RD, Wortsman J, Malarkey WB. Macroprolactinemia presenting like a 
+pituitary tumor. Am J Med. 1985; 78(2):346-50. 
+6. Loh TP, Kao SL, Halsall DJ, Toh SA, Chan E, Ho SC, et al. Macro-thyrotropin: 
+a case report and review of literature. J Clin Endocrinol Metab. 
+2012;97(6):1823-8. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+7. Saleem M, Martin H, Coates P. Prolactin Biology and Laboratory Measurement: 
+An Update on Physiology and Current Analytical Issues. Clin Biochem Rev. 
+2018;39(1):3-16. 
+8. Fahie-Wilson M, Halsall D. Polyethylene glycol precipitation: proceed with 
+care. Ann Clin Biochem. 2008;45(Pt 3):233-5. 
+9. Ram S, Harris B, Fernando JJ, Gama R, Fahie-Wilson M. False-positive 
+polyethylene glycol precipitation tests for macroprolactin due to increased serum 
+globulins. Ann Clin Biochem. 2008; 45(Pt 3):256-9. 
+10. Ó'Fágáin C, Cummins PM, O'Connor BF. Gel-Filtration Chromatography. 
+Methods Mol Biol. 2017;1485:15-25. 
+11. Hagel L. Gel-filtration chromatography. Curr Protoc Mol Biol. 2001;Chapter 
+10:Unit 10.9. 
+12. Lu S, Kennedy RT. Using Electrophoretic Immunoassay to Monitor Hormone 
+Secretion. Methods Mol Biol. 2017;1547:57-67. 
+13. Robert F, Bouilloux JP, Denoroy L. Capillary electrophoresis: principle and 
+applications. Ann Biol Clin (Paris). 1991;49(3):137-48. 
+14. Landberg E, Wahlberg J, Rydén I, Arvidsson BM, Ekman B. Detection of 
+molecular variants of prolactin in human serum, evaluation of a method based 
+on ultrafiltration. Clin Chim Acta. 2007;376(1-2):220-5. 
+15. Schwyzer, R. ACTH: a short introductory review. Ann N Y Acad Sci. 
+1977;297:3-26. 
+16. Houngbadji MSTS, Niang B, Boiro D, Mbaye A, Seck A, Ndongo AA, et al. 
+[Adrenocorticotropic hormone (ACTH) insensitivity syndrome: about a case]. 
+Pan Afr Med J. 2018;30:244. 
+17. Petersen KE. ACTH in normal children and children with pituitary and adrenal 
+diseases. I. Measurement in plasma by radioimmunoassay--basal values. Acta 
+Paediatr Scand. 1981;70(3):341-5. 
+18. Morita K, Ogawa M, Kimura M, Okawa Y, Oki Y, Edo N, et al. Falsely elevated 
+plasma ACTH levels measured by the Elecsys assay related to heterophilic 
+antibody in a case of secondary adrenocortical insufficiency. Endocr J. 
+2019;66(6):563-569. 
+19. Das N, Kumar TR. Molecular Regulation of Follicle-Stimulating Hormone 
+Synthesis, Secretion and Action. J Mol Endocrinol. 2018;60(3):R131-R155. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+20. Chihara K, Hattori N, Matsuda T, Murasawa S, Daimon M, Shimatsu A. 
+Procedures for the diagnosis of macro-follicle stimulating hormone (FSH) in a 
+patient with high serum FSH concentrations. Clin Chem Lab Med. 
+2020;58(2):e40-e43. 
+21. Ismail AA. A radical approach is needed to eliminate interference from 
+endogenous antibodies in immunoassays. Clin Chem. 2005;51(1):25-6. 
+22. Grisendi V, Spada E, Argento C, Plebani M, Milani S, Seracchioli R, et al. Age-
+specific reference values for serum FSH and estradiol levels throughout the 
+reproductive period. Gynecol Endocrinol. 2014;30(6):451-5. 
+23. Mendis-Handagama SM. Luteinizing hormone on Leydig cell structure and 
+function. Histol Histopathol. 1997;12(3):869-82. 
+24. Filicori M. The role of luteinizing hormone in folliculogenesis and ovulation 
+induction. Fertil Steril. 1999;71(3):405-14. 
+25. Ogura-Ochi K, Itoshima K, Kamada Y, Otsuka F.  Macromolecules detected in 
+highly 
+increased 
+serum 
+luteinizing 
+hormone. 
+J 
+Endocrinol 
+Invest. 
+2020;43(6):865-866. 
+26. Vieira JG, Nishida SK, Faria De Camargo MT, Hauache OM, Monteiro De 
+Barros Maciel R, Guimarães V. "MacroLH": anomalous molecular form that 
+behaves as a complex of luteinizing hormone (LH) and IgG in a patient with 
+unexpectedly high LH values. Clin Chem. 2003;49(12):2104-5. 
+27. Kadoya M, Koyama S, Morimoto A, Miyoshi A, Kakutani M, Hamamoto K, et 
+al. Serum Macro TSH Level is Associated with Sleep Quality in Patients with 
+Cardiovascular Risks - HSCAA Study. Sci Rep. 2017;7:44387. 
+28. Esfandiari NH, Papaleontiou M. Biochemical Testing in Thyroid Disorders. 
+Endocrinol Metab Clin North Am. 2017;46(3):631-648. 
+29. Athey D, Ball M, McNeil CJ. Avidin-biotin based electrochemical immunoassay 
+for thyrotropin. Ann Clin Biochem. 1993;30( Pt 6):570-7. 
+30. Papaleontiou M, Cappola AR. Thyroid-Stimulating Hormone in the Evaluation 
+of Subclinical Hypothyroidism. JAMA. 2016; 316(15):1592-1593. 
+31. Lewis EJ, Lim R, Joseph F, Ewins D, Goenka N, Bowles SA, et al. Recognising 
+macro-TSH: a rare cause of inappropriately high TSH values. Clin Chem Lab 
+Med. 2011;49(Suppl):S421. 
+32. Hattori N, Ishihara T, Shimatsu A. Variability in the detection of macro TSH in 
+different immunoassay systems. Eur J Endocrinol. 2016;174(1):9-15. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)
+33. Rix M, Laurberg P, Porzig C, Kristensen SR. Elevated thyroid-stimulating 
+hormone level in a euthyroid neonate caused by macro thyrotropin-IgG 
+complex. Acta Paediatr. 2011;100(9):e135-7. 
+34. Capozzi A, Scambia G, Pontecorvi A, Lello S. Hyperprolactinemia: 
+pathophysiology 
+and 
+therapeutic 
+approach. 
+Gynecol 
+Endocrinol. 
+2015;31(7):506-10. 
+35. Borba VV, Zandman-Goddard G, Shoenfeld Y. Prolactin and Autoimmunity. 
+Front Immunol. 2018;9:73. 
+36. WHO International Collaborative Study of the Proposed 4th International 
+Standard 
+for 
+Prolactin, 
+Human. 
+[Accessed 
+January 
+11, 
+2021]. 
+http://apps.who.int/iris/bitstream/10665/253053/1/WHO-BS-2016.2292-eng.pdf. 
+37. Vilar L, Vilar CF, Lyra R, Freitas MDC. Pitfalls in the Diagnostic Evaluation of 
+Hyperprolactinemia. Neuroendocrinology. 2019;109(1):7-19. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.1734
+Powered by TCPDF (www.tcpdf.org)

@@ -1,0 +1,2113 @@
+Publication status: Not informed by the submitting author
+Validation of the neurocognitive battery PreAcademica in
+Cuban preschoolers
+Yaser Ramírez Benítez, Regina T Lohndorf, Rodneys Mauricio Jiménez-Morales, Francisca Bernal
+Ruiz, Bárbara Bermudez Monteagudo
+https://doi.org/10.1590/SciELOPreprints.4721
+Submitted on: 2022-09-07
+Posted on: 2022-09-12 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Validation of the neurocognitive battery PreAcadémica in Cuban preschoolers 
+ 
+Autores:  
+1Yaser Ramírez-Benítez,  
+Universidad de Cienfuegos, Cuba.  
+PhD. Candidato, Ciencias de la Educación.  
+https://orcid.org/0000-0001-9694-9744     
+ 
+2Regina T. Lohndorf,  
+Pontificia Universidad Católica de Chile  
+PhD. Ciencias de la Educación. 
+https://orcid.org/0000-0002-1254-4887  
+ 
+3Rodneys Mauricio Jiménez-Morales,  
+Instituto Superior Antonio Ruiz de Montoya, Argentina. 
+PhD. Ciencias Psicológicas  
+http://orcid.org/0000-0002-5408-3898  
+ 
+4Francisca Bernal-Ruiz,  
+Universidad de Valparaíso, Chile.  
+PhD. Ciencias Psicológicas  
+https://orcid.org/0000-0001-6973-2443  
+ 
+4Bárbara Bermúdez-Monteagudo 
+Universidad de Cienfuegos, Cuba.  
+PhD. Ciencias Pedagógicas 
+https://orcid.org/0000-0003-3354-9342  
+ 
+Correspondencia: Prof. Yaser Ramírez-Benítez.  
+Dirección: Calle Cuba, #25, Rodas, Cienfuegos, Cuba, Código postal 57200. 
+Email: yramirezbenitez@gmail.com  
+ 
+Conflicts of interest. No conflicts of interest are declared. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Abstract 
+The purpose of this study was to evaluate the psychometric properties of the PreAcademic 
+Battery, revised version (B-PREA-R) for Cuban preschool children. The battery was 
+administered to 300 children between four and six years of age in Cienfuegos, Cuba. Item 
+analysis showed that, out of 199 items, 61 items were of high quality, 132 items of good 
+quality and 6 items of regulate quality. Cronbach's alpha showed adequate values, α= .85. 
+Factor analysis revealed three factors. Factor 1, "Executive Skills," comprised of the 
+subtests visual selective attention, matrices, story comprehension, graphomotor skills, 
+and quantity counting. Factor 2, "Memory Skills", which groups the visual working 
+memory subtest. Factor 3, "Linguistic Skills", made up of the vocabulary, verbal working 
+memory and repeating syllables subtests. The selection of quartiles for the three age 
+groups (4, 5 and 6 years) allows us to make a judgment about the development of 
+executive, linguistic and memory skills of preschool children. The B-PREA-R is a quick 
+and easy test to apply in the educational context and presents adequate psychometric 
+properties to evaluate the neurocognitive development in the preschool stage, to discover 
+the child's potentialities and weaknesses and to guide his or her preparation to start basic 
+schooling. 
+Keywords: cognitive, evaluation, neurodevelopment, neuropsychology, preschool.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Resumen 
+La presente investigación tuvo como objetivo evaluar las propiedades psicométricas de 
+la Batería PreAcadémica versión revisada (B-PREA-R) para niños preescolares cubanos. 
+La batería fue aplicada a 300 niños entre cuatro y seis años en Cienfuegos, Cuba. El 
+análisis de ítems mostró que, de 199 ítems, 61 ítems tuvieron una alta calidad, 132 ítems 
+con buena calidad y 6 ítems con calidad regular. El alfa de Cronbach mostró adecuados 
+valores, α= .85. El análisis de factores reveló tres factores. Factor 1 “Habilidades 
+Ejecutivas”, conformado por los subtests atención selectiva visual, matrices, comprensión 
+de cuentos, grafomotricidad y contar cantidades. Factor 2, “Habilidades de Memoria”, 
+que agrupa el subtest memoria de trabajo visual. Factor 3, “Habilidades Lingüísticas”, 
+conformado por los subtests vocabulario, memoria de trabajo verbal y repetir sílabas. La 
+selección de los cuartiles para los tres grupos de edades (4, 5 y 6 años) permite emitir un 
+criterio sobre el desarrollo de las habilidades ejecutivas, lingüísticas y de memoria del 
+niño preescolar. La B-PREA-R es una prueba rápida y fácil de aplicar en el contexto 
+educativo y presenta propiedades psicométricas adecuadas para evaluar el desarrollo 
+neurocognitivo en la etapa preescolar, descubrir las potencialidades y debilidades del niño 
+y guiar su preparación para iniciar la escolarización básica. 
+ 
+Palabras claves: cognitivo, evaluación, neurodesarrollo, neuropsicología, preescolares. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Introduction 
+Cognitive development in early childhood creates the foundation for a favorable 
+schooling trajectory in childhood and adolescence, as well as academic and occupational 
+success in adulthood (Doebel, 2020). In many low- and middle-income Latin American 
+countries, more than half of children demonstrate a delay in cognitive proficiency when 
+they enter basic education (Abufhele et al., 2021; Borrescio & Valenzuela, 2021; Vollman 
+& Richland, 2020). These children are not sufficiently prepared to learn and often face 
+additional difficulties in school. Moreover, in recent decades there has been an increase 
+in learning and behavioral disorders associated with alterations in cognitive development 
+during the first years of life (Albes et al., 2021). To reduce this school entry gap, it is 
+necessary to detect difficulties in cognitive development early on in order to be able to 
+intervene in time and not perpetuate the lack of academic, socioeconomic and social 
+mobility opportunities. However, there are currently few culturally validated instruments 
+in Latin America. This study attempts to fill this research gap in the cultural context of 
+Cuba, where adequate cognitive development in early childhood is a major concern of 
+educators and researchers. 
+During the last decades Luria's cultural neuropsychology has gained momentum in the 
+assessment and rehabilitation of preschool children (Solovieva & Quintanar, 2021; 
+Solovieva et al., 2019; Bonilla-Sánchez et al., 2019; Cadavid-Ruiz et al., 2019). Such 
+neuropsychology arises from Vygotsky's sociocultural theory and is based on two 
+principles: (1) child development occurs in a sociocultural context and (2) the systemic 
+structure of mental processes. The first means that the child develops through 
+intersubjective activity during upbringing and teaching in a certain social and cultural 
+context. The second, in turn, means that mental processes cannot be divided into isolated 
+functions (attention, language, memory, etc.), but rather it is an integral system 
+(Solovieva & Quintanar, 2021; Solovieva et al., 2019).   
+The sociocultural approach offers an important theoretical framework for assessing and 
+stimulating the development of preschool children in the educational context, which is 
+complemented by cognitive neuropsychology in the child population, which typically 
+studies the relationships between the brain (maturation of brain structures) and the 
+behaviors of developing children. A review of the literature allows us to observe a 
+tendency of researchers to develop and adapt cognitive tests in preschool children with 
+an integrated approach, in which the expertise of cognitive neuropsychology is brought 
+together with the foundations of the sociocultural approach (Piedra et al., 2021). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+From this perspective, some researchers have advanced this integration (Flores et al., 
+2012; Manga & Ramos, 2006; Matute et al., 2007) and propose three requirements for 
+developing tests in the child population: (1) assess neuropsychological skills as an 
+indicator of the maturation and functioning of certain brain structures in formation, (2) 
+consider the most appropriate procedures for designing the test and its items in a given 
+cultural context (e.g., the go-no go procedure has been widely used to develop attention 
+tests in different cultural contexts), and (3) interpret the results through norms (comparing 
+the subject with a reference group) and/or criteria (comparing the subject with respect to 
+an objective to be achieved).  
+According to these requirements, some authors have developed and validated instruments 
+for preschool children in low- and middle-income Latin American countries (Bornstein 
+et al., 2015). In Argentina, the CHEXI (Childhood Executive Functioning Inventory) was 
+developed (Gutiérrez et al., 2021), in Chile the TENI (Test de Evaluación 
+Neuropsicológica Infantil) (Tenorio et al., 2014), and in Mexico the ENI (Evaluación 
+neuropsicológica infantil) (Matute et al., 2007) and the BANFE (Batería de funciones 
+ejecutivas y lóbulos frontal) (Flores et al., 2012). In Cuba, Ramírez et al. (2013) worked 
+with the Luria Inicial neuropsychological battery to assess the development of preschool 
+children, and although it showed adequate values of validity and reliability, it has 
+limitations to be applied in the educational context: the application is long and complex 
+and educators do not have the time to train and assess children in their classrooms. 
+Considering this limitation, Ramirez et al. (2018) developed the PreAcademic Battery 
+(B-PREA), which assesses cognitive development in children between 4 and 6 years old 
+and helps determine whether a child is ready to start schooling. The application of the 
+B-PREA does not require much time, between 20 and 25 minutes. The battery has two 
+theoretical antecedents: (1) the contributions of Luria's theory in the preschool stage 
+(Solovieva & Quintanar, 2013; Manga & Ramos, 2006) and (2) the foundations of 
+cognitive neuropsychology on the development of tests for preschool children (Tenorio 
+et al., 2014; Portellano, 2000). However, the B-PREA remains a complex test for 
+preschool educators. 
+To overcome these weaknesses, modifications were made to the B-PREA to make the 
+application more attractive, shorter, and easier for educators in the preschool educational 
+context. In particular, the reviewers relied on the methodological requirements of experts 
+in early childhood education in Cuba (Gallo et al., 2018), and the subtests of the B-PREA 
+were reworked according to the needs of the preschool curriculum: to perform the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+comprehensive assessment of the child according to the dimensions of education and 
+development established in the improvement. Similarly, it relied on resolution 238/2014, 
+regulations for the application of the school evaluation system of the Ministry of 
+Education in Cuba, to incorporate the subtests of the B-PREA to the preschool level 
+evaluative system, either by applying them in the partial evaluative cut (four months after 
+the beginning of the school year) or in the final evaluative cut (at the end of the school 
+year).   
+The revised B-PREA (B-PREA-R) for educators is a necessity in the Cuban educational 
+context, and responds to several practical and theoretical reasons: (1) there are few 
+validation studies in Cuba of educational tests for children between three and six years of 
+age, (2) the application of most Cuban tests is complex and long, therefore, they are not 
+suitable for use by educators in the preschool context, (3) the increase of preschool 
+children with developmental limitations in several provinces of Cuba (Ramírez & Bernal, 
+2020; Íñiguez et al. , 2017),  
+Taking into account the modifications made to the B-PREA, and the need to use tests in 
+the educational process, the present research proposes as an objective to examine the 
+validity and reliability of the B-PREA-R (item analysis, internal consistency, factor 
+analysis). 
+Method 
+Participants  
+The study sample included 300 preschoolers between four and six years of age (between 
+46 and 82 months), 100 children between 46 and 58 months (equivalent to pre-
+kindergarten), 100 between 60 and 70 months (equivalent to kindergarten) and 100 
+between 72 and 82 months (equivalent to first grade in Cuba) of both sexes (54% boys 
+and 46% girls), from three educational institutions in the city of Cienfuegos, Cuba. The 
+educational institutions were chosen because they are centers with more than 150 children 
+enrolled and come from different areas of the province.  
+The groups of children were chosen according to the tombola procedure: first, all groups 
+of children were named (institution, number of children, age) and placed in three boxes, 
+which functioned as tombola’s (Grup 1: children 46 and 58 months old; Grup 2: children 
+60 and 70 months old; Grup 3: children between 72 and 82 months old); then two groups 
+were chosen by age in a lottery to obtain the sample with 100 or more children. The 
+Ministry of Education of the province approved the study that responds to the project 
+"Stimulation of neurodevelopment in early childhood" of the University of Cienfuegos, 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Faculty of Education. Inclusion criteria for the participating children: (1) between 46 and 
+82 months of age, (2) typical development for their chronological age, and (3) medium 
+socioeconomic level (families where the father and mother receive a salary between 2100 
+and 4000 Cuban pesos. The parents' consent and the children's agreement to participate 
+in the study were ethical documents to carry out the research. The characterization of the 
+sample is shown in Table 1. 
+Tabla 1  
+Demographic characteristics of the sample (N=300) 
+Characteristics  
+46 - 58 months  
+60- 70 months  
+72-82 months  
+Complete sample 
+n 
+% 
+n 
+% 
+n 
+% 
+n 
+% 
+Gender 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Female 
+47  
+47 
+55  
+55 
+51  
+51 
+153 
+51 
+ Male 
+53 
+53 
+45 
+45 
+49 
+49 
+147 
+49 
+ 
+M 
+SD  
+M 
+SD  
+M 
+SD  
+M 
+SD  
+Age 
+48.00 
+0.29 
+64.00 
+0.31 
+67.00 
+0.26 
+64.00 
+0.32 
+Note. M (mean), SD (standard deviation) 
+ 
+Procedures & Ethics Committee Approval Statement  
+The Ethics Committee of the Faculty of Education of the University of Cienfuegos 
+approved the study in the three selected educational institutions of the Municipality of 
+Cienfuegos as did the Ministry of Education in the province. At the same time, informed 
+consent was obtained from the parents and the settlement of the 300 children.  
+The data were collected in the final evaluation of the educational process, between June 
+and July 2019 in nine groups of children, where each educator conducted the evaluation 
+of her group (nine female educators). For this, the educators were trained at the beginning 
+of the school year between September and October 2018 through methodological 
+workshops, two weekly sessions of 45 minutes each for one month. The educators 
+obtained good grades in the training, learned how to apply the instrument and how to use 
+it in the educational process to direct the education and development of the child. With 
+these results, the educators evaluated the children at the end of the school year and this 
+was done individually in two sessions lasting between 10 and 15 minutes each. The 
+sessions were generally conducted in the morning and the standardized protocol of the B-
+PREA-R was used.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Instrument 
+The Pre-Academic Battery for Educators (B-PREA-R) was used. This test has as its 
+antecedent the Pre-Academic Battery developed in Cuba to assess the cognitive 
+development of children in the preschool stage in a Cuban context (Ramírez et al, 2018). 
+The B-PREA-R has nine subtests grouped into 199 items of different cognitive abilities 
+such as attention, language, working memory, numerical cognitive processing, motor 
+skills and thinking. These subtests allow the evaluation of the child's cognitive 
+development in different activities typical of this stage (drawing, listening to stories, role-
+playing). These activities include the skills and knowledge of each dimension of 
+education and development required by the methodological guidelines for the 
+improvement of early childhood education in Cuba (Gallo, et al., 2018), as shown in Table 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Table 2.  
+Description of the nine subtests of the B-PREA-R (199 items) according to the requirements of the 
+educational curriculum. 
+Dimensions 
+according to the 
+educational 
+curriculum 
+Stage skills according 
+to the educational 
+curriculum 
+Subtests and Instructions 
+Relationship with the 
+environment 
+and 
+Motricity 
+Observing, 
+identifying, 
+comparing and planning. 
+Material and symbolic 
+materialized actions. 
+"Pepe's figures", visual selective attention (20 items). 
+The child is shown 120 figures in a template with 10 
+targets or figure to select. Symbol cancellation test 
+with a five-minute time limit. 
+Relationship with the 
+environment 
+Observing, 
+identifying, 
+classifying and planning. 
+Concrete and symbolic 
+perceptual actions. 
+"The dark balls", visual working memory (8 items). 
+The child is shown randomly drawn circles in a 
+template of 10 circles to remember their spatial 
+location (8 different locations to remember). 
+Relationship with the 
+environment 
+Observing, 
+identifying, 
+classifying and planning. 
+Verbal actions. 
+"The word tree", verbal working memory (30 items). 
+The child has to learn 10 unrelated words in three 
+trials. 
+Relationship with the 
+environment 
+Identify, 
+classify 
+and 
+plan. Concrete, symbolic 
+and 
+verbal 
+perceptual 
+actions. 
+"Let's count", enumerate non-symbolic quantities (10 
+items). The child is shown a figure with several items 
+(between 3 and 12 items) to list them. With that same 
+quantity identified, the child must search for the same 
+quantity in 4 response options (comparison). 
+Relationship with the 
+environment 
+Observe, 
+identify, 
+compare, classify, model, 
+serialize 
+and 
+plan. 
+Symbolic and schematic 
+perceptual actions. 
+"Puzzle" Matrices (15 items). The child must identify 
+the missing part of a matrix in four options. Task 
+similar to the Raven's Progressive Matrices test.    
+Communication 
+Identifying, classifying, 
+and listening. Verbal and 
+symbolic actions. 
+"The parrot repeats", repetition of syllables (20 items). 
+The child must repeat 20 spanish sounds (syllables). 
+Example, pu, pen, yen.    
+Motor and Aesthetic 
+Identify, 
+compare, 
+classify, model and plan. 
+Symbolic 
+perceptual 
+actions.    
+"Let's draw", graphomotor skills (42 items). The child 
+must draw 14 figures. The similarity of the figure 
+drawn, the size and its spatial location are taken into 
+account. 
+ Communication 
+Identify, classify, plan, 
+listen, and appreciate, 
+express. 
+Verbal 
+and 
+symbolic actions. 
+ "Cuentos", oral story comprehension (24 items). The 
+child must answer literal questions of two stories made 
+by the educator. The task has two stories and 12 
+questions, six for each story  
+Communication and 
+Aesthetics  
+Observe, 
+identify 
+and 
+classify. 
+Verbal 
+and 
+symbolic actions. 
+"The Toy Store", vocabulary (30 items). The child has 
+to recognize by name 30 familiar and unfamiliar 
+figures.   
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+ 
+Validity analysis plan of the B-PREA-R  
+Content validity. An item analysis was performed to obtain and analyze the contents of 
+the B-PREA-R. The item analysis was performed considering the values of the 
+discrimination index (item-total correlation) and the item difficulty index. The 
+discrimination index was classified according to the criteria of Ebel & Frisbie (cited in 
+Backhoff et al., 2000): an item with high quality presents values ≥.39, an item with good 
+quality presents values between .30 and .39, an item with fair quality presents values 
+between .20 and .29, and an item with low quality presents values < .20. The difficulty 
+index was classified according to Crocker and Algina (1986) as low difficulty (.80); 
+medium difficulty (between .79 and .50) and high difficulty (<.50).  
+Internal structure validity. An exploratory factor analysis was performed to identify the 
+number and composition of components necessary to summarize the observed scores of 
+the B-PREA-R. To determine this analysis, the theoretical assumptions suggested by 
+Lloret-Segura et al. (2014) were taken into account: normality of the data, Kaiser-Meyer-
+Olkin test (KMO), and the advantages offered by the different extraction and rotation 
+methods.  
+Reliability by Internal Consistency. It was determined through Cronbach's alpha and 
+through item analysis (alpha if the item is removed). 
+Cut-off point. Percentile values (obtaining quartiles) were obtained through the SPPS. 
+20.0 on the nine subtests of the B-PREA-R to identify children with low and high abilities 
+according to their age.  
+ 
+Results  
+Content validity  
+The item-total correlation analysis showed adequate values. Out of 199 items, 61 items 
+showed high quality (30%), 132 items with good quality (66%), 6 items with fair quality 
+(4%) (Table 3). The difficulty index expressed a balance between items that were difficult 
+for children to perform and easier items. Of 199 items, 98 items were considered neither 
+easy nor difficult (49%), 54 items easy to perform (28%), and 47 items difficult to perform 
+for the children (23%) (Table 3). 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Table 3 
+Item analysis including difficulty index and discrimination index* of the 199 items of the 9 sub-tests of the 
+B-PREA-R.  
+ 
+Discrimination Index 
+Difficulty Index 
+High  
+(≥.39) 
+(61 total items) 
+Good  
+(e/.30 - .39) 
+(132 total items) 
+Fair  
+(e/.20 - .29) 
+(6 total items) 
+Easy 
+(≥ .80)  
+ 
+(54 total items) 
+112, 116, 119, 121, 138, 
+144, 152, 163, 169, 173, 
+178, 179, 186 
+21, 22, 23, 24, 25, 32, 54, 59, 
+60, 62, 64, 65, 67, 69, 72, 73, 
+78, 80, 93, 94, 96, 101, 102, 
+107, 108, 113, 114, 120, 122, 
+125, 135, 139, 143, 147, 156, 
+160, 161, 162, 191, 196 
+87  
+Medio  
+(.50 – .79)  
+ 
+(98 total items) 
+66, 68, 70, 71, 74, 76, 
+77, 79, 81, 82, 83, 85, 
+127, 136, 140, 131, 149, 
+151, 159, 164, 166, 168, 
+172, 177, 180, 188, 199, 
+133, 155, 157, 165, 171, 
+182, 190, 193, 194 
+1, 2, 4, 6, 7, 8, 9, 10, 11, 14, 
+26, 29, 36, 37, 38, 42, 43, 44, 
+45, 46, 47, 48, 49, 51, 52, 53, 
+55, 56, 57, 61, 63, 88, 89, 90, 
+91, 92, 99, 103, 105, 106, 
+111, 115, 118, 124, 128, 130, 
+137, 132, 134, 148, 154, 158, 
+174, 183, 184, 192, 195, 197, 
+198 
+ 95, 98, 100  
+  
+Difficult 
+(0 - .49)  
+ 
+(47 total items) 
+3, 16, 126, 141, 142, 
+145, 146, 150, 153, 167, 
+170  
+5, 12, 13, 15, 17, 18, 19, 20, 
+27, 28, 30, 31, 33, 34, 35, 39, 
+40, 41, 50, 58, 75, 84, 86, 97, 
+104, 109, 110, 117, 123, 129, 
+176, 181, 185, 189 
+ 175, 187  
+ 
+Note: Selective attention (1- 20 items), Visual working memory (21 - 28 items), Verbal working memory 
+(29 - 58 items), Non-symbolic quantity counting (59 - 68 items), Matrices (69 - 83 items), Syllable 
+repetition (84 - 103), Graphomotor (104 - 145 items), Story comprehension (146 - 169 items), and 
+Vocabulary (170 - 199). *Classification was according to Ebel & Frisbie (cited in Backhoff et al., 2000), 
+Crocker & Algina (1986). 
+ 
+Validity of internal structure   
+The multivariate normality distribution was analyzed, through the estimation of the 
+skewness and kurtosis indices, the fulfillment of the normality assumption is confirmed 
+when the scores of the indices are within the threshold ± 1.5 (Cuadras, 2016) (Table 4). 
+The KMO test indicated that the data can be subjected to factor analysis (KMO = .81). 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Table 4.  
+Statistical description of the B-PREA-R. 9 subtests with 199 items. 
+ 
+Min  
+Max 
+Media 
+Stand.D 
+Kurtosis 
+Visual selective attention 
+3 
+18 
+8.83 
+3.20 
+1.18 
+Visual working memory 
+2 
+8 
+5.63 
+1.60 
+-1.61 
+Verbal working memory  
+9 
+25 
+16.70 
+3.77 
+-1.78 
+Counting non-symbolic quantities 
+0 
+10 
+7.44 
+2.09 
+1.79 
+Matrices 
+4 
+15 
+9.12 
+2.19 
+-1.23 
+Repeating syllables 
+61 
+80 
+73.90 
+3.91 
+-1.44 
+Graphomotor skills 
+8 
+40 
+23.54 
+8.22 
+-1.15 
+Story comprehension 
+6 
+24 
+13.16 
+4.68 
+-1.94 
+Vocabulary 
+37 
+62 
+51.20 
+5.69 
+-1.49 
+ 
+The study applied factor analysis using the maximum likelihood method with quartimax 
+rotation, however, the method showed three factors with 47.61% of the common variance, 
+which does not meet the assumption of Cuadras (2016), when it indicates that the 
+adequacy of the factor analysis should explain the common variance greater than or equal 
+to 60%.    
+After these results, it was decided to employ the principal component method and with 
+quartimax rotation, which indicated that the nine subtests are grouped into three factors 
+and explain 62.74% of the total variance of the test (See Table 5). Factor 1 "Executive 
+Skills", made up of the sub-tests visual selective attention, matrices, story comprehension, 
+graphomotor skills and counting quantities, explains 34.69% of the variance of B-PREA-
+R. Factor 2, "Memory Skills" groups the visual working memory sub-test, which explains 
+15.30% of the variance. Finally, factor 3, "Linguistic Skills", made up of the vocabulary, 
+verbal working memory and repeating syllables subtests, explains 12.74% of the variance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+ 
+Table 5  
+Results of the factorial analysis of the B-PREA-R 
+Factor 
+% 
+Variance  
+Subtests 
+Factor loadings 
+1 
+2 
+3 
+Executive Skills  
+34.69% 
+Visual selective attention 
+,744 
+-,059 
+,027 
+ 
+ 
+Matrices 
+,737 
+,098 
+,165 
+ 
+ 
+Story Comprehension 
+,722 
+,533 
+,108 
+ 
+ 
+Graphomotor skills 
+,711 
+,516 
+,151 
+ 
+ 
+Counting quantities 
+,705 
+-,107 
+,015 
+Memory Skills  
+15.30% 
+Visual working memory 
+-,295 
+,801 
+,000 
+Linguistic Skills 
+12.74% 
+Vocabulary 
+,142 
+,231 
+,802 
+ 
+ 
+Verbal working memory 
+,381 
+-,295 
+,554 
+ 
+ 
+Repeating syllables 
+,498 
+,142 
+,365 
+ 
+62.74% 
+ 
+ 
+ 
+ 
+Note. N = 300. Extraction method: principal component analysis.  Rotation method: Quartimax with Kaiser 
+normalization. Factor loadings greater than .30 are shown in bold. 
+ 
+Reliability 
+The internal consistency of the final instrument indicated an alpha = .85; while the alpha 
+when the item is removed indicated values between .83 and .86.   
+Cut-off point 
+Quartiles were identified for the nine subtests in the three age groups as shown in Table 
+6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Table 6  
+Cut-off points for the nine subtests of the B-PREA-R for children between 4 and 6 years of age. 
+4 years   
+5 years  
+6 years  
+Subtests 
+P25 
+P50  
+P75 
+P25 
+P50  
+P75 
+P25 
+P50  
+P75 
+1  
+5.00 
+6.00 – 8.00 
+9.00 
+6.00 
+7.00 – 10.00 
+11.00 
+9.00 
+10.00 – 14.00 
+15.00 
+2 
+3.00 
+4.00 - 6.00 
+7.00 
+4.00 
+5.00 - 7.00 
+8.00 
+5.00 
+6.00 – 7.00 
+8.00 
+3 
+14.00 
+15.00 – 18.00 
+19.00 
+13.00 
+14.00 - 19.00 
+20.00 
+15.00 
+16.00 - 19.00 
+20.00 
+4 
+4.00 
+5.00 – 8.00 
+9.00 
+5.00 
+6.00 - 9.00 
+10.00 
+7.00 
+8.00 - 9.00 
+10.00 
+5 
+4.00 
+5.00 – 8.00 
+9.00 
+5.00 
+6.00 - 10.00 
+11.00 
+8.00 
+9.00 - 10.00 
+12.00 
+6 
+10.00 
+11.00 - 20.00 
+21.00 
+17.00 
+18.00 - 20.00 
+21.00 
+18.00 
+19.00 - 20.00 
+21.00 
+7 
+11.00 
+12.00 – 17.00 
+17.00 
+23.00 
+24.00 - 29.00 
+29.00 
+30.00 
+31.00 – 35.00 
+36.00 
+8 
+7.00 
+8.00 – 9.00 
+10.00 
+13.00 
+14.00 - 16.00 
+17.00 
+15.00 
+16.00 - 18.00 
+20.00 
+9 
+8.00 
+9.00 - 23.00 
+24.00 
+19.00 
+20.00 - 27.00 
+28.00 
+19.00 
+20.00 - 27.00 
+28.00 
+Note. Subtest 1. Visual selective attention. Subtest 2. Visual working memory. Subtest 3. Verbal working 
+memory. Subtest 4. Non-symbolic quantity counting. Subtest 5. Matrices. Subtest 6. Repeating syllables. 
+Subtest 7. Graphomotor skills. Subtest 8. Story comprehension. Subtest 9. Vocabulary. 
+ 
+Discussion 
+The present study examined the content validity, internal structure validity, and internal 
+consistency reliability of the B-PREA-R, an instrument that was designed to assess the 
+cognitive development of preschool children in the cultural context of Cuba and to be 
+applied by educators. The content validity of the B-PREA-R improved compared to the 
+previous version (Ramirez, et al., 2018). The B-PREA had 110 items where 28% had low 
+discrimination, while the revised version finally remained with nine subtests, 199 items, 
+193 items with high and good quality, and six with regular quality. In the previous 
+version, it was recommended to improve the performance of the vocabulary, syllable 
+rhymes, matrices and comparing quantities subtests; however, in the B-PREA-R, the 
+matrices subtest was improved with 15 items of good discrimination, the counting 
+quantities subtest with all its items of good quality, the syllable rhyming subtest was 
+eliminated and the syllable repeating subtest was elaborated with 16 items of good quality 
+and four of fair quality, and finally, the vocabulary subtest was improved with 18 items 
+of good quality and two items of fair quality.  
+In addition, in the revised version, the subtest comparing quantities, which was very easy 
+for children (ceiling effect), was eliminated and replaced by the subtest counting 
+quantities that includes two skills related to numerical cognitive processing that are of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+vital importance for the child's preparation for his or her academic path in the first three 
+years of schooling: enumeration and quantity comparison (Canto-López et al., 2019).  
+Internal structure validity remains appropriate in both the previous version of the B-
+PREA, as well as in the revised version. The factor analysis presented three factors in the 
+previous version (Numerical Cognitive Processing Skills, Executive Skills and Linguistic 
+Skills), while the revised version confirmed three factors (Executive Skills, Memory 
+Skills and Linguistic Skills). In factor 1 "Executive Skills" five subtests were grouped 
+(visual selective attention, matrices, story comprehension, graphomotor skills and 
+counting quantities), which contain several skills and actions of the stage, and are 
+congruent with theoretical models of executive functions (Doebel, 2020; Zelazo, 2020).  
+Doebel (2020), taking as a reference the analysis of Miyake et al. (2000), states that in 
+the executive functions three basic cognitive functions are distinguished: inhibitory 
+control, working memory and cognitive flexibility, from which the higher executive 
+functions such as planning and problem solving are derived (Zelazo, 2020). From this 
+classification, the visual selective attention subtest would be the task that could cause the 
+least doubt in this factor; however, the subtests matrices, story comprehension, 
+graphomotor skills and counting quantities have a common element: planning and 
+problem solving, which in turn includes cognitive flexibility and working memory.  
+These elements can be observed when the characteristics of each subtest are specifically 
+analyzed. In the matrices subtest, the child must search, among four alternative solutions, 
+one to complete the abstract figure, thus forcing him to search for the appropriate 
+alternative using higher cognitive skills that also demand executive functions. In this 
+subtest the child has to use higher cognitive skills such as size perception, perception of 
+orientation in space, in one direction and in two directions simultaneously, analyze the 
+figure as a whole and its parts, conceive correlative figures and deduction of relationships 
+(Gizzonio et al., 2021). 
+In story comprehension, a task similar to subtest 3 "story recall" of the Woodcock-Muñoz 
+Battery III, achievement test (Muñoz-Sandoval et al., 2005), the child must listen 
+attentively to the adult's writing to understand the explicit message of the text (what are 
+the characters, what is the relationship between them, what is the story) and finally answer 
+six literal questions in each story. This subtest has a significant relationship with oral 
+language development, and precisely the Woodcock-Muñoz Battery III places "story 
+recall" in the comprehension-knowledge factor, although the solution to the story 
+comprehension subtest requires high levels of focused attention and working memory to 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+maintain, manipulate and transform the relevant information of the story. Likewise, it is 
+important to highlight that this subtest does not have visual support; therefore, it is a 
+requirement for the child to listen attentively to the story and retain the relevant 
+information about the story.  Thus, the latent variables underlying the story 
+comprehension subtest are more executive than linguistic; however, the result could 
+change in future research due to the size of the sample.  
+In the graphomotor subtest, a task similar to subtest 6 "visuoperception" in the Child 
+Neuropsychological Maturity Questionnaire (CUMANIN) (Portellano et al., 2000), the 
+child is required to follow a graphic model that demands the correct grip of the pencil 
+with his or her guiding hand, to make continuous strokes, to follow the line of the stroke 
+correctly, to draw in the required space and to do so with the greatest possible similarity, 
+as well as to have adequate hand-eye-space coordination. Some validation studies have 
+shown that the visoperception subtest is a nonverbal task, and is suitable for assessing the 
+development of executive functions in preschoolers (Parra et al., 2016; Avila, 2012). 
+In the subtest counting non-symbolic quantities, a task similar to the subtest "quantitative 
+concepts", Series A, in the Woodcock-Muñoz Battery III, achievement test (Muñoz-
+Sandoval et al., 2005), the child must identify quantities between 3 and 12 elements in a 
+figure, and then search for that same quantity among four options, employing numerical 
+cognitive processing operations such as enumeration and comparison of quantities. 
+Behind these operations the child must maintain the goal to solve the problem, and in turn 
+must employ various numerical, verbal and visual reasoning strategies (Spiegel et al., 
+2021).   
+On the other hand, the tendency of the battery is to group tasks related to the child's 
+language and memory development. In the case of language development, three subtests 
+were used to assess the child's semantic and phonological skills, such as vocabulary, 
+verbal working memory and syllable repetition. With respect to memory, the battery 
+groups a third factor named working memory skills, where the characteristics of the task 
+make possible the affirmation of the factor among the other subtests of the B-PREA-R.  
+The visual working memory subtest of the B-PREA-R was elaborated with similar 
+characteristics to the "Visual Memory Span" version of the Wechsler Memory Scale 
+Revised, being a task that has behaved as an independent factor in several investigations 
+when performing a confirmatory or exploratory factor analysis (Fernandez et at., 2019; 
+Zapata et al., 2019; Rosas et al., 2022; Marreros-Tananta & Guerrero-Alcedo, 2022).  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+The internal consistency of the B-PREA-R showed appropriate values for a psychometric 
+test with several subtests: alpha = .85 and alpha when the item is removed between .83 
+and .86. The previous version also showed appropriate values (alpha when the item is 
+removed between .78 and .81), although it presented an internal consistency with the test-
+retest method between .82 and .94. Thus, it is recommended that an analysis of internal 
+consistency through the test-retest method be carried out for future research. 
+Although this study is an important contribution to the evaluation of cognitive 
+development in the preschool stage, due to the presentation of nine subtests for the 
+educator to apply in her educational context and to use the cut-off points to issue criteria 
+on the child's progress, a limitation is its sample size with respect to the national 
+population, so that in future research it should be extended to a significant sample in 
+different provinces of the country. Similarly, other statistical measures such as the ROC 
+curve could be applied and the cut-off point obtained could be compared with a 
+population of children with special educational needs or with developmental limitations. 
+It is recommended that future research focus on adjusting or eliminating the B-PREA-R 
+items that showed regular discrimination. Another future task is to develop percentiles or 
+cut-off points in a representative population of the country, with the aim of developing 
+Cuban norms and thus extending the use of the B-PREA-R to both clinical and 
+educational contexts. 
+ 
+Conclusion 
+The B-PREA-R is a quick and easy test to apply in the educational context and presents 
+adequate psychometric properties to evaluate cognitive development in the preschool 
+stage, discover the child's potentialities and weaknesses and guide his cognitive 
+preparation to start basic schooling. The update of the battery improved validity and 
+reliability in terms of item performance (96% of items with high and good quality, while 
+only 4% with fair quality), as well as the quantity and quality of subtests to characterize 
+the child and assess his or her initial preparation for the beginning of the next school 
+stage. The characteristics of the B-PREA-R allow educators to apply it in the educational 
+context, either in the partial or final evaluative cut, therefore, it is an alternative to perform 
+the evaluation of the preschool child according to the requirements of resolution 
+238/2014, regulations for the application of the school evaluation system in Cuba.   
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Reference  
+Abufhele, A., Allel, K., Narea, M., & Waldfogel J. (2021). Maternal education gradients 
+in early life height: A comparative study of eight Latin American countries. 
+Research Square.  https://doi.org/10.21203/rs.3.rs-237177/v1 
+Albes, N., Fontana, A de la M., Lacaze, M.L., & Martínez, M.M. (2021). Antecedentes 
+pre y perinatales prevalentes en niños que consultan por alteraciones del lenguaje. 
+Revista de fonoaudiología, 68, 1, 6- 18.  
+Ávila, A.M. (2012). Adaptación del Cuestionario de Madurez Neuropsicológica Infantil 
+Cumanin de Portellano. Revista Iberoamericana de Psicología: Ciencia y 
+Tecnología, 5, 1, 91-99. https://doi.org/10.33881/2027-1786.rip.5109 
+Bonilla-Sánchez, M. R., Solovieva, Y., Méndez-Balbuena, I., & Díaz-Ramírez, I. (2019). 
+Efectos del juego de roles con elementos simbólicos en el desarrollo 
+neuropsicológico de niños preescolares. Revista de la Facultad de Medicina., 
+67,2, 299-306.  
+Bornstein, M.H., Putnick, D.L., Lansford, J.E., Deater‐Deckard, K., & Bradley, R.H. 
+(2015). A developmental analysis of caregiving modalities across infancy in 38 
+low‐and middle‐income countries. Child Development, 86, 1571–1587. 
+https://doi.org/10.1111/cdev.12402 
+Borrescio, F., & Valenzuela, P. (2021). Does Education Mitigate the Effect of Population 
+Aging on Health Expenditure? A Panel Data Study of Latin American Countries. 
+Journal 
+of 
+Aging 
+and 
+Health, 
+33, 
+7-8, 
+585-595.   
+https://doi.org/10.1177/08982643211002338 
+Cadavid-Ruiz, N., Jiménez-Jiménez, S., Quijano-Martínez, M.C., & Solovieva, Y. 
+(2019). Corrección de las dificultades psicopedagógicas de la lectura en español. 
+Avances 
+en 
+Psicología 
+Latinoamericana, 
+37, 
+2, 
+361-374. 
+https://doi.org/10.12804/revistas.urosario.edu.co/apl/a.6628 
+Canto-López, M.C., Aguilar, M., García-Sedeño, M.A., Navarro, J.I., Aragón, E., 
+Delgado, C., & Mera, C. (2019). Numerical Estimation and Mathematical 
+Learning Methodology in Preschoolers. Psychological Reports, 124, 2, 438-458. 
+https://doi.org/10.1177/0033294119892880 
+Doebel, S. (2020). Rethinking executive function and its development. Perspectives on           
+Psychological 
+Science, 
+15,4, 
+942-956. 
+https://doi.org/10.1177/1745691620904771 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Flores, J., Ostrosky, F., & Lozano, A. (2012). Batería de lóbulos frontales y funciones 
+ejecutivas, BANFE. Manual Moderno. 
+Fernández, MT., Tuset, AM., & Ross, G. (2019). Validez Estructural de la Escala 
+Wechsler de Inteligencia para Niños-IV en Estudiantes Indígenas de México. 
+Revista Iberoamericana de Diagnóstico y Evaluación, 52, 3, 129-142.  
+Gallo, MA., Menéndez, C., Aragones, L., Cáceres, Y., Rojas, MC., Hernández, O… 
+Pupo, N. (2018). Orientaciones metodológicas. Cuarto, Quinto y Sexto año de 
+vida. Primera infancia. Editorial Pueblo y Educación.   
+ Gutiérrez, M., Filippetti, V.A. & Lemos V. (2021). The Childhood Executive 
+Functioning Inventory (CHEXI) Parent and Teacher Form: Factor Structure and 
+Cognitive 
+Correlates 
+in 
+Spanish-speaking 
+Children 
+from 
+Argentina. 
+Developmental 
+Neuropsychology, 
+46, 
+2, 
+136-148 
+https://doi.org/10.1080/87565641.2021.1878175 
+Gizzonio, V., Bazzini, M. C., Marsella, C., Papangelo, P., Rizzolatti, G., & Fabbri‐Destro, 
+M. (2021). Supporting preschoolers’ cognitive development: Short‐and mid‐term 
+effects of fluid reasoning, visuospatial, and motor training. Child Development, 
+2021, 1-16.  https://doi.org/10.1111/cdev.13642 
+Íñiguez, L., Figueroa, E. & Rojas, J. (2017). Atlas de la infancia y la adolescencia en 
+Cuba. Análisis a partir del Censo de Población y Viviendas 2012. Editorial 
+Universidad de la Habana. La Habana, Cuba.  
+Lloret-Segura, S., Ferreres-Traver, A., Hernández-Baeza, A. & Tomás-Marco, I. (2014). 
+El análisis factorial exploratorio de los ítems: una guía práctica, revisada y 
+actualizada. 
+Anales 
+de 
+psicología, 
+30, 
+3, 
+1151-1169. 
+https://dx.doi.org/10.6018/analesps.30.3.199361  
+Manga, D., & Ramos, F. (2006). Luria Inicial: Evaluación neuropsicológica en la edad 
+preescolar. Manual. TEA Ediciones.   
+Marreros-Tananta, J., & Guerrero-Alcedo, J. M. (2022). Propiedades psicométricas del 
+test de evaluación neuropsicológica–Neuropsi en población peruana Psychometric 
+properties of the neuropsychological evaluation test–Neuropsi in peruvian 
+population. Revista Ecuatoriana de Neurología, 31, 1, 40 - 48. 
+Matute, E., Rosselli, M., Ardila, A., & Ostrosky – Solís, F. (2007). Evaluación 
+neuropsicológica infantil – ENI. El Manual Moderno. 
+Miyake, A., Friedman, N., Emerson, M. J., Witzki, A. H., Howerter, A. & Wager, T. D. 
+(2000). The Unity and Diversity of Executive Functions and Their Contributions to 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Complex “Frontal Lobe” Tasks: A Latent Variable Analysis. Cognitive Psychology, 
+41(1), 49-100. https://doi.org/10.1006/cogp.1999.0734. 
+Muñoz-Sandoval, A. F., Woodcock, R. W., McGrew, K. S. & Mather, N. (2005). Batería 
+III Woodcock-Muñoz: Pruebas de aprovechamiento. Itasca, IL: Riverside 
+Publishing.  
+Parra, J.H., Rodríguez, L.C., & Chinome, J.D. (2016). Evaluación de la madurez 
+neuropsicológica infantil en preescolares. Revista Universidad y Salud, 18, 1, 126 
+- 137. 
+Portellano, J.A., Mateos, M.R., Martínez, A.R., Tapia, P.A., & Granados, G.T. (2000). 
+Cuestionario de Madurez Neuropsicológica Infantil. TEA Ediciones. 
+Piedra, E., Pacurucu., A.L & López, C. (2021). Investigaciones en Neuropsicología y 
+Salud Mental (Ed.). Casa Editorial. Universidad del Azuay.  
+Ramírez., Díaz, M., & Álvarez, E.F. (2013). Efecto del bajo peso al nacer sobre el 
+desarrollo cognitivo. Boletín de Pediatría, 53,223, 13-20.    
+Ramírez., Steinberg, L.B., & Bermúdez-Monteagudo, B. (2018). Pre-Académica: Batería 
+Neurocognitiva Preescolar. Revista Chilena de Neuropsicología, 13, 2, 15-21.  
+Ramírez & Bernal, F. (2020). Prevalencia de niños preescolares con alteraciones 
+cognitivas en la provincia de Cienfuegos. Revista Cubana de Pediatría, 92, 3, 1-
+18. 
+Rosas, R., Pizarro, M., Grez, O., Navarro, V., Tapia, D., Arancibia, S., ... & von Freeden, 
+P. (2022). Estandarización Chilena de la Escala Wechsler de Inteligencia para 
+Niños-Quinta Edición. Psykhe, 31, 1, 1-23. 
+Satorra, A., & Bentler, PM. (2010). Ensuring positiveness of the scaled difference chi-
+square 
+test 
+statistic. 
+Psychometrika, 
+75, 
+2, 
+243–248. 
+https://doi 
+org/10.1007/S11336-009-9135-Y 
+Spiegel, J.A., Goodrich, J.M., Morris, B.M., Osborne, C.M., & Lonigan, C.J. (2021). 
+Relations between executive functions and academic outcomes in elementary 
+school children: A meta-analysis. Psychological Bulletin, 147, 4, 329- 351. 
+https://doi.org/10.1037/bul0000322 
+Solovieva, Y., & Quintanar, L. (2021). Evaluación neuropsicológica cualitativa del 
+desarrollo en la edad preescolar. En Piedra, E., Pacurucu, A.L., & López, C. (8-
+23) Investigaciones en Neuropsicología y Salud Mental (Ed.). Casa Editorial. 
+Universidad del Azuay.    
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Solovieva, Y., Quintanar, L., Akhutina, T. & Hazin, I. (2019). Historical-Cultural 
+Neuropsychology: a systemic and integral approach of psychological functions 
+and 
+their 
+cerebral 
+bases. 
+Estudios 
+de 
+Psicología, 
+24, 
+1, 
+65-75. 
+http://dx.doi.org/10.22491/1678-4669.20190008  
+Solovieva, Y., & Quintanar, L. (2013). Evaluación Neuropsicológica Infantil Breve. 
+Benemérita Universidad Autónoma de Puebla.  
+Talizina, N.F. (2018). La teoría de la enseñanza desde la teoría de la actividad. 
+Universidad Estatal de Moscú. 
+Tenorio, M., Arango, P., Aparicio, A., Benavente, C., Thibaut, C., & Rosas, R. (2014). 
+TENI: A comprehensive battery for cognitive assessment based on games and 
+technology. 
+Child 
+Neuropsychology, 
+22, 
+3, 
+276-29. 
+https://doi.org/10.1080/09297049.2014.977241 
+Vollman, E., & Richland, L. (2020). Beyond Wealth and Health: The Social Environment 
+as a Protective Factor for Cognitive Development of Children in Nicaragua. 
+Journal 
+of 
+Cognition 
+and 
+Development, 
+21, 
+2, 
+149-165. 
+https://doi.org/10.1080/15248372.2020.1717493 
+ Zapata, M., Cárdenas, L & Cuartas JM. (2019). INECO Frontal Screening (IFS): una 
+herramienta 
+psicométrica 
+para 
+evaluar 
+la 
+disfunción 
+ejecutiva 
+en 
+policonsumidores. Suma Psicológica, 26, 2, 119-126. 
+Zelazo, P.D. (2020). Executive function and psychopathology: A neurodevelopmental 
+perspective. Annual review of clinical psychology, 16, 431-45. 
+https://doi.org/10.1146/annurev-clinpsy-072319-024242. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Validación de la Batería Neurocognitiva PreAcadémica en preescolares cubanos  
+ 
+Introducción 
+El desarrollo cognitivo en la primera infancia crea las bases para una trayectoria 
+escolar favorable en la niñez y adolescencia, así como el éxito académico y laboral en la 
+adultez (Doebel, 2020). En muchos países latinoamericanos de ingresos bajos y medios, 
+más de la mitad de los niños demuestran un retraso en el dominio cognitivo cuando 
+ingresan a la enseñanza básica (Abufhele et al., 2021; Borrescio & Valenzuela, 2021; 
+Vollman & Richland, 2020). Estos niños no están suficientemente preparados para 
+aprender y suelen enfrentar dificultades adicionales en la escuela. Además, en las últimas 
+décadas se ha registrado un aumento de trastornos de aprendizaje y conducta asociados a 
+alteraciones en el desarrollo cognitivo durante los primeros años de vida (Albes et al., 
+2021). Para reducir esta brecha de ingreso a la escuela es necesario detectar dificultades 
+en el desarrollo cognitivo tempranamente para poder intervenir a tiempo y no perpetuar 
+la falta de oportunidades académicas, socioeconómicas y de movilidad social. Sin 
+embargo, actualmente existen pocos instrumentos culturalmente validados en América 
+Latina. Este estudio trata de llenar este vacío de investigación en el contexto cultural de 
+Cuba, donde el adecuado desarrollo cognitivo en la primera infancia es una preocupación 
+importante de educadores e investigadores. 
+Durante las últimas décadas la neuropsicología cultural de Luria ha ganado 
+impulso en la evaluación y rehabilitación de niños preescolares (Solovieva & Quintanar, 
+2021; Solovieva et al., 2019; Bonilla-Sánchez et al., 2019; Cadavid-Ruiz et al., 2019). 
+Dicha neuropsicología surge de la teoría sociocultural de Vygotsky y se basa en dos 
+principios: (1) el desarrollo infantil ocurre en un contexto sociocultural y (2) la estructura 
+sistémica de los procesos mentales. El primero, significa que el niño se desarrolla a través 
+de la actividad intersubjetiva durante la crianza y enseñanza en un cierto contexto social 
+y cultural. El segundo, por su parte, significa que los procesos mentales no pueden 
+dividirse en funciones aisladas (atención, lenguaje, memoria, etc.), sino más bien es un 
+sistema integral (Solovieva & Quintanar, 2021; Solovieva et al., 2019).   
+El enfoque sociocultural ofrece un marco teórico importante para evaluar y 
+estimular el desarrollo de niños preescolares en el contexto educativo, que se 
+complementa con la neuropsicología cognitiva en la población infantil, que típicamente 
+estudia las relaciones entre el cerebro (maduración de las estructuras cerebrales) y las 
+conductas de los niños en desarrollo. Una revisión de la literatura permite observar una 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+tendencia de los investigadores de elaborar y adaptar pruebas cognitivas en niños 
+preescolares con un enfoque integral, en el cual se reúnen la experiencia de la 
+neuropsicología cognitiva con los fundamentos del enfoque sociocultural (Piedra et al., 
+2021). 
+Desde esta perspectiva, algunos investigadores han avanzado en esta integración 
+(Flores et al., 2012; Manga & Ramos, 2006; Matute et al., 2007) y proponen tres 
+exigencias para elaborar pruebas en la población infantil: (1) evaluar las habilidades 
+neuropsicológicas como indicador de la maduración y funcionamiento de ciertas 
+estructuras cerebral en formación, (2) considerar los procedimientos más adecuados para 
+diseñar la prueba y sus ítems en un contexto cultural determinado (ej. el procedimiento 
+go–no go ha sido muy utilizado para elaborar pruebas de atención en diferentes contextos 
+culturales), y (3) interpretar los resultados a través de normas (comparar al sujeto con un 
+grupo de referencia) y/o criterios (comparar al sujeto con respecto a un objetivo a lograr).  
+Según estas exigencias, algunos autores han elaborado y validado instrumentos 
+para niños preescolares en países latinoamericanos de ingresos bajos y medios (Bornstein 
+et al., 2015). En Argentina, se elaboró el CHEXI (Childhood Executive Functioning 
+Inventory) (Gutiérrez et al., 2021), en Chile el TENI (Test de Evaluación 
+Neuropsicológica Infantil) (Tenorio et al., 2014), y en México la ENI (Evaluación 
+neuropsicológica infantil) (Matute et al., 2007) y la BANFE (Batería de funciones 
+ejecutivas y lóbulos frontales) (Flores et al., 2012). Por su parte, en Cuba, Ramírez et al. 
+(2013) trabajaron con la batería neuropsicológica Luria Inicial para evaluar el desarrollo 
+de niños preescolares, y si bien, mostró valores adecuados de validez y confiabilidad 
+presenta limitaciones para aplicarse en el contexto educativo: la aplicación es larga y 
+compleja y las educadoras no tienen el tiempo para capacitarse y evaluar a los niños en 
+sus aulas.  
+Considerando esta limitación, Ramírez et al. (2018) elaboraron la Batería 
+PreAcadémica (B-PREA), la cual evalúa el desarrollo cognitivo en niños entre 4 y 6 años 
+y ayuda a determinar si un niño está preparado para iniciar la escolarización. La aplicación 
+de la B-PREA no requiere mucho tiempo, entre 20 y 25 minutos. La batería tiene dos 
+antecedentes teóricos: (1) los aportes de la teoría de Luria en la etapa preescolar 
+(Solovieva & Quintanar, 2013; Manga & Ramos, 2006) y (2) los fundamentos de la 
+neuropsicología cognitiva sobre la elaboración de pruebas para niños preescolares 
+(Tenorio et al., 2014; Portellano, 2000). Sin embargo, la B-PREA sigue siendo una prueba 
+compleja para educadoras del nivel preescolar. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Para superar estas debilidades, se realizaron modificaciones en la B-PREA para 
+que la aplicación fuera más atractiva, corta y fácil para las educadoras en el contexto 
+educativo a nivel preescolar. En lo particular, los revisores se apoyaron en las exigencias 
+metodológicas de los expertos de la educación de la primera infancia en Cuba (Gallo et 
+al., 2018), y se reelaboraron los subtests de la B-PREA según las necesidades del currículo 
+preescolar: realizar la evaluación integral del niño según las dimensiones de educación y 
+desarrollo establecidas en el perfeccionamiento. De igual modo, se apoyó en la resolución 
+238/2014, reglamento para la aplicación del sistema de evaluación escolar del Ministerio 
+de Educación en Cuba, para incorporar los subtests de la B-PREA al sistema evaluativo 
+del nivel preescolar, ya sea aplicándolas en la corte evaluativo parcial (cuatro meses 
+después de comenzar el curso escolar) o en el corte evaluativo final (al final del curso 
+escolar).   
+La B-PREA revisada (B-PREA-R) para educadores es una necesidad en el 
+contexto educativo cubano, y responde a varias razones prácticas y teóricas: (1) existen 
+pocos estudios de validación en Cuba de pruebas educativas para niños entre tres y seis 
+años, (2) la aplicación de la mayoría de las pruebas cubanas es compleja y larga, por ende, 
+no son aptas para ser usado por educadoras en el contexto preescolar, (3) el aumento de 
+niños preescolares con limitaciones en su desarrollo en varias provincias de Cuba 
+(Ramírez & Bernal, 2020; Íñiguez et al., 2017),  
+Teniendo en cuenta las modificaciones realizadas en la B-PREA, y la necesidad 
+de emplear pruebas en el proceso educativo, la presente investigación plantea como 
+objetivo examinar la validez y confiabilidad de la B-PREA-R (análisis de ítems, 
+consistencia interna, análisis de factores). 
+ 
+Método 
+Participantes  
+La muestra del estudio incluyó 300 preescolares entre cuatro y seis años (entre 46 
+y 82 meses de edad), 100 niños entre 46 y 58 meses (equivalente al curso prekínder), 100 
+entre 60 y 70 meses (equivalente al curso kínder) y 100 entre 72 y 82 meses (equivalente 
+al curso primero básico en Cuba) de ambos sexos (54% fueron niños y 46% niñas), 
+provenientes de tres institución educativas de la ciudad de Cienfuegos, Cuba. Las 
+instituciones educativas fueron elegidas debido a que son centro con más de 150 niños de 
+matrícula y provienen de diferentes zonas de la provincia.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Los grupos de niños se eligieron según el procedimiento de la tómbola: 
+primeramente, se nombraron todos los grupos de niños (institución, cantidad de niños, 
+edad) y se pusieron en tres cajas, las cuales funcionaron como tómbolas (Caja 1: niños 46 
+y 58 meses de edad; Caja 2: niños 60 y 70 meses de edad; Caja 3: niños entre 72 y 82 
+meses de edad); luego se eligieron dos grupos por edades en un sorteo para obtener la 
+muestra con 100 o más niños. El Ministerio de Educación de la provincia aprobó el 
+estudio que responde al proyecto “Estimulación del neurodesarrollo en la primera 
+infancia” de la Universidad de Cienfuegos, Facultad de Educación. Criterios de inclusión 
+de los niños participantes: (1) tener entre 46 y 82 meses de edad, (2) tener un desarrollo 
+típico para su edad cronológica, y (3) presentar un nivel socioeconómico medio (familias 
+donde el padre y la madre reciban un salario entre 2100 y 4000 pesos cubanos. El 
+consentimiento de los padres y el asentamiento de los niños para participar en el estudio, 
+fueron documentos éticos para realizar la investigación. La caracterización de la muestra 
+se observa en la Tabla 1. 
+Tabla 1  
+Características demográficas de la muestra (N=300) 
+Características 
+46 - 58 meses  
+60- 70 meses 
+72-82 meses 
+Muestra completa 
+n 
+% 
+n 
+% 
+n 
+% 
+n 
+% 
+Género 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Femenino 
+47  
+47 
+55  
+55 
+51  
+51 
+153 
+51 
+ Masculino 
+53 
+53 
+45 
+45 
+49 
+49 
+147 
+49 
+ 
+M 
+DE 
+M 
+DE 
+M 
+DE 
+M 
+DE 
+Edad 
+48.00 
+0.29 
+64.00 
+0.31 
+67.00 
+0.26 
+64.00 
+0.32 
+Nota: M (media), DE (desviación estándar) 
+ 
+Procedimientos y Aprobación del Comité de Ética  
+El Comité de Ética de la Facultad de Educación de la Universidad de Cienfuegos 
+aprobó el estudio en las tres instituciones educativas seleccionadas del Municipio de 
+Cienfuegos al igual que el Ministerio de Educación en la provincia. A su vez, se obtuvo 
+el consentimiento informado de los padres y el asentamiento de los 300 niños.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Los datos fueron recopilados en la evaluación final del proceso educativo, entre 
+junio y julio del 2019 en nueve grupos de niños, donde cada educadora realizó la 
+evaluación de su grupo (nueve educadoras de sexo femenino). Para ello, se capacitó a las 
+educadoras al inicio del curso escolar entre septiembre y octubre del 2018 a través de 
+talleres metodológicos, dos sesiones semanales de 45 minutos cada una por un mes. Las 
+educadoras obtuvieron buenas calificaciones en la capacitación, aprendieron a aplicar el 
+instrumento y a utilizarlo en el proceso educativo para dirigir la educación y desarrollo 
+del niño. Con estos resultados, las educadoras evaluaron a los niños al final del año escolar 
+y se realizó de manera individual en dos sesiones con una duración entre 10 y 15 minutos 
+cada una. Las sesiones fueron realizadas generalmente por la mañana y se empleó el 
+protocolo estandarizado de la B-PREA-R.  
+Instrumento 
+Se utilizó la Batería Pre-Académica para educadores (B-PREA-R). Esta prueba 
+tiene como antecedente la Batería Pre-Académica desarrollada en Cuba para evaluar el 
+desarrollo cognitivo de niños en la etapa preescolar en contexto cubano (Ramírez et al, 
+2018). La B-PREA-R tiene nueve subtests agrupados en 199 ítems de diferentes 
+capacidades cognitivas como atención, lenguaje, memoria de trabajo, procesamiento 
+cognitivo numérico, motricidad y pensamiento. Dichos subtests permiten evaluar el 
+desarrollo cognitivo del niño en diferentes actividades propias de la etapa (el dibujo, 
+escuchar cuentos, juegos de roles). En estas actividades se incluyen las habilidades y 
+conocimientos de cada dimensión de educación y desarrollo que exige las orientaciones 
+metodológicas del perfeccionamiento de la educación de la primera infancia en Cuba 
+(Gallo, et al., 2018), tal y como muestra la tabla 2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Tabla 2.  
+Descripción de los nueve subtests de la B-PREA-R (199 ítems) según exigencias del currículo educativo 
+Dimensiones según 
+el currículo 
+educativo  
+Habilidades de la etapa 
+según el currículo 
+educativo  
+Subtests e Instrucciones 
+Relación con el 
+entorno y 
+Motricidad 
+Observar, identificar, 
+comparar y planificar. 
+Acciones materiales y 
+materializada simbólica.  
+“Las figuras de Pepe”, atención selectiva visual (20 
+ítems). Al niño se le muestra 120 figuras en una 
+plantilla con 10 dianas o figura a seleccionar. Prueba 
+de cancelación de símbolos con cinco minutos de 
+tiempo límite. 
+Relación con el 
+entorno 
+Observar, identificar, 
+clasificar y planificar. 
+Acciones perceptiva 
+concreta y simbólica.    
+“Las pelotas oscuras”, memoria de trabajo visual (8 
+ítems). Al niño se le muestra círculos dibujados 
+aleatoriamente en una plantilla de 10 círculos para 
+recordar su ubicación espacial (8 ubicaciones 
+diferentes a recordar).  
+Relación con el 
+entorno 
+Observar, identificar, 
+clasificar y planificar. 
+Acciones verbales.       
+“El árbol de palabras”, memoria de trabajo verbal (30 
+ítems). El niño tiene que aprenderse 10 palabras sin 
+relación en tres ensayos.  
+Relación con el 
+entorno 
+Identificar, clasificar y 
+planificar. Acciones 
+perceptivas concretas, 
+simbólicas y verbales.   
+“Vamos a contar”, enumerar cantidades no simbólicas 
+(10 ítems). Al niño se le muestra una figura con varios 
+elementos (entre 3 y 12 elementos) para enumerarlos. 
+Con esa misma cantidad identificada, el niño debe 
+buscar la misma cantidad en 4 opciones de respuesta 
+(comparación). 
+Relación con el 
+entorno 
+Observar, identificar, 
+comparar, clasificar, 
+modelar, seriar y 
+planificar. Acciones 
+simbólica y perceptiva 
+esquematizada.     
+“Rompecabezas” Matrices (15 ítems). El niño debe 
+identificar la parte que le falta a una matriz en cuatro 
+opciones. Tarea similar a la prueba matrices 
+progresiva de Raven.    
+Comunicación 
+Identificar, clasificar, 
+escuchar. Acciones 
+verbales y simbólicas.   
+“La cotorra repite”, repetición de sílabas (20 ítems). El 
+niño debe repetir 20 sonidos del idioma español 
+(sílabas). Ejemplo, pu, pen, yen.      
+Motricidad y 
+Estética 
+Identificar, comparar, 
+clasificar, modelar y 
+planificar. Acciones 
+perceptiva simbólica.     
+“Vamos a dibujar”, grafomotricidad (42 ítems). El 
+niño debe dibujar 14 figuras. Se tiene en cuenta la 
+semejanza de la figura a dibujada, el tamaño y su 
+ubicación espacial. 
+Comunicación 
+Identificar, clasificar, 
+planificar, escuchar, 
+apreciar, expresar. 
+Acciones verbales y 
+simbólicas.   
+“Cuentos”, compresión de cuentos orales (24 ítems). 
+El niño debe responder preguntas literales de dos 
+cuentos realizado por el educador. La tarea tiene dos 
+cuentos y 12 preguntas, seis por cada cuento.  
+Comunicación y 
+Estética 
+Observar, identificar y 
+clasificar. Acciones 
+verbales y simbólicas.  
+“La tienda de Juguetes”, vocabulario (30 ítems). El 
+niño tiene que reconocer por su nombre 30 figuras 
+familiares y no familiares.   
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Plan de análisis de validez de la B-PREA-R  
+Validez de contenido. Se realizó un análisis de ítems para obtener y analizar los 
+contenidos de la B-PREA-R. El análisis de ítems se realizó considerando los valores del 
+índice de discriminación (correlación ítem-total) y el índice de dificultad de los ítems. El 
+índice de discriminación se clasificó según los criterios de Ebel & Frisbie (citado en 
+Backhoff et al., 2000): un ítem con alta calidad presenta valores ≥.39, un ítem con buena 
+calidad presenta valores entre .30 y .39, un ítem con regular calidad presenta valores entre 
+.20 y .29, y un ítem con baja calidad presentan valores < .20. El índice de dificultad se 
+clasificó según Crocker y Algina (1986) en dificultad baja (.80); dificultad media (entre 
+.79 y .50) y dificultad alta (<.50).  
+Validez de estructura interna. Se realizó un análisis factorial exploratorio para 
+identificar el número y composición de componentes necesario para resumir las 
+puntuaciones observadas de la B-PREA-R. Para determinar este análisis se tuvo en cuenta 
+los supuestos teóricos que sugieren Lloret-Segura et al. (2014): normalidad de los datos, 
+prueba Kaiser-Meyer-Olkin (KMO) y las ventajas que ofrecen los diferentes métodos de 
+extracción y rotación.  
+Fiabilidad por Consistencia Interna. Se determinó a través del alfa de Cronbach 
+y a través del análisis de ítems (alfa si el ítem es eliminado). 
+Punto de corte. Los valores percentiles (obtención de cuartiles) se obtuvieron a 
+través del SPPS. 20.0 en las nueve subtests del B-PREA-R para identificar los niños con 
+baja y altas habilidades según su edad.  
+ 
+Resultados  
+Validez de contenido  
+El análisis de correlación ítem-total mostró valores adecuados. De 199 ítems, 61 
+ítems mostraron una alta calidad (30%), 132 ítems con buena calidad (66%), 6 ítems con 
+calidad regular (4%) (Tabla 3). El índice de dificultad expresó un equilibrio entre ítems 
+de difíciles de ejecutar por los niños, hasta ítems más fáciles. De 199 ítems, 98 ítems son 
+considerados ni fáciles, ni difíciles (49%), 54 ítems fáciles de ejecutar (28%), y 47 ítems 
+difícil de ejecutar por los niños (23%) (Tabla 3). 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Tabla 3 
+Análisis de ítems incluyendo el índice de dificultad e índice de discriminación* de los 199 ítems de los 9 
+sub- tests de la B-PREA-R  
+ 
+Índice de Discriminación 
+Índice de 
+Dificultad 
+Alta  
+(≥.39) 
+(61 ítem en total) 
+Buena  
+(e/.30 - .39) 
+(132 ítems en total) 
+Regular 
+(e/.20 - .29) 
+(6 ítems en total) 
+Fácil 
+(≥ .80)  
+ 
+(54 ítems en total) 
+112, 116, 119, 121, 
+138, 144, 152, 163, 
+169, 173, 178, 179, 186 
+21, 22, 23, 24, 25, 32, 54, 
+59, 60, 62, 64, 65, 67, 69, 
+72, 73, 78, 80, 93, 94, 96, 
+101, 102, 107, 108, 113, 
+114, 120, 122, 125, 135, 
+139, 143, 147, 156, 160, 
+161, 162, 191, 196 
+87  
+Medio  
+(.50 – .79)  
+ 
+(98 ítems en total) 
+66, 68, 70, 71, 74, 76, 
+77, 79, 81, 82, 83, 85, 
+127, 136, 140, 131, 
+149, 151, 159, 164, 
+166, 168, 172, 177, 
+180, 188, 199, 133, 
+155, 157, 165, 171, 
+182, 190, 193, 194 
+1, 2, 4, 6, 7, 8, 9, 10, 11, 14, 
+26, 29, 36, 37, 38, 42, 43, 
+44, 45, 46, 47, 48, 49, 51, 
+52, 53, 55, 56, 57, 61, 63, 
+88, 89, 90, 91, 92, 99, 103, 
+105, 106, 111, 115, 118, 
+124, 128, 130, 137, 132, 
+134, 148, 154, 158, 174, 
+183, 184, 192, 195, 197, 
+198 
+ 95, 98, 100  
+  
+Difícil 
+(0 - .49)  
+ 
+(47 ítems en total) 
+3, 16, 126, 141, 142, 
+145, 146, 150, 153, 
+167, 170  
+5, 12, 13, 15, 17, 18, 19, 20, 
+27, 28, 30, 31, 33, 34, 35, 
+39, 40, 41, 50, 58, 75, 84, 
+86, 97, 104, 109, 110, 117, 
+123, 129, 176, 181, 185, 
+189 
+ 175, 187  
+ 
+Nota: Atención selectiva (1- 20 ítems), Memoria de trabajo visual (21 – 28 ítems), Memoria de trabajo 
+verbal (29 – 58 ítems), Contar cantidades no simbólica (59 – 68 ítems), Matrices (69 – 83 ítems), Repetir 
+sílabas (84 – 103), Grafomotricidad (104 – 145 ítems), Compresión de cuentos (146 – 169 ítems), y 
+Vocabulario (170 - 199). *La clasificación se realizó según Ebel y Frisbie (citado en Backhoff et al., 2000) 
+y Crocker y Algina (1986). 
+ 
+Validez de estructura interna   
+Se analizó la distribución de normalidad multivariada, a través de la estimación 
+de los índices de la asimetría y curtosis, se confirma el cumplimiento del supuesto de 
+normalidad cuando los puntajes de los índices se encuentran dentro del umbral ± 1,5 
+(Cuadras, 2016) (Tabla 4). La prueba KMO indicó que los datos pueden someterse a un 
+análisis de factores (KMO = .81). 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Tabla 4.  
+Estadística descripción de la B-PREA-R. 9 subtests con 199 ítems. 
+ 
+Mínimo 
+Máximo 
+Media 
+Desv. Stand 
+Curtosis 
+Atención selectiva visual 
+3 
+18 
+8.83 
+3.20 
+1.18 
+Memoria de trabajo visual 
+2 
+8 
+5.63 
+1.60 
+-1.61 
+Memoria de trabajo verbal  
+9 
+25 
+16.70 
+3.77 
+-1.78 
+Contar cantidades no simbólicas 
+0 
+10 
+7.44 
+2.09 
+1.79 
+Matrices 
+4 
+15 
+9.12 
+2.19 
+-1.23 
+Repetir sílabas 
+61 
+80 
+73.90 
+3.91 
+-1.44 
+Grafomotricidad 
+8 
+40 
+23.54 
+8.22 
+-1.15 
+Compresión de cuentos 
+6 
+24 
+13.16 
+4.68 
+-1.94 
+Vocabulario 
+37 
+62 
+51.20 
+5.69 
+-1.49 
+ 
+El estudio aplicó el análisis factorial empleando el método de máxima 
+verosimilitud con rotación quartimax, sin embargo, el método mostró tres factores con un 
+47.61% de la varianza común, lo cual no cumple con el supuesto de Cuadras (2016), 
+cuando indica que la adecuación del análisis de factores debe explicar la varianza común 
+mayor o igual al 60%.    
+Después de estos resultados, se decidió emplear el método componente principal 
+y con rotación quartimax, el cual indicó que los nueve subtests se agrupan en tres factores 
+y explican el 62.74% de la varianza total de la prueba (Ver Tabla 5). El factor 1 
+“Habilidades Ejecutivas”, conformado por los sub-tests atención selectiva visual, 
+matrices, comprensión de cuentos, grafomotricidad y contar cantidades, que explica el 
+34.69% de la varianza de B-PREA-R. El factor 2, “Habilidades de Memoria” agrupa el 
+sub-test memoria de trabajo visual que explica el 15.30% de la varianza. Finalmente, el 
+factor 3, “Habilidades Lingüísticas”, conformado por los sub-tests vocabulario, memoria 
+de trabajo verbal y repetir sílabas, que explica el 12.74% de la varianza.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Tabla 5  
+Resultados del análisis factorial de la B-PREA-R  
+ 
+Factor 
+% de 
+varianza 
+Subtests 
+Cargas factoriales 
+1 
+2 
+3 
+Habilidades Ejecutivas  
+34.69% 
+Atención selectiva visual 
+,744 
+-,059 
+,027 
+ 
+ 
+Matrices 
+,737 
+,098 
+,165 
+ 
+ 
+Comprensión de Cuentos 
+,722 
+,533 
+,108 
+ 
+ 
+Grafomotricidad 
+,711 
+,516 
+,151 
+ 
+ 
+Contar cantidades 
+,705 
+-,107 
+,015 
+Habilidades de Memoria  
+15.30% 
+Memoria de trabajo visual 
+-,295 
+,801 
+,000 
+Habilidades Lingüísticas 
+12.74% 
+Vocabulario 
+,142 
+,231 
+,802 
+ 
+ 
+Memoria de trabajo verbal 
+,381 
+-,295 
+,554 
+ 
+ 
+Repetir sílabas 
+,498 
+,142 
+,365 
+ 
+62.74% 
+ 
+ 
+ 
+ 
+Nota. N = 93.  Método de extracción: análisis de componente principal.  Método de rotación: Quartimax 
+con normalización Kaiser. Cargas factoriales mayores a .30 se muestran en negrita. 
+ 
+Confiabilidad 
+La consistencia interna del instrumento final indicó un alfa = .85; mientras que el 
+alfa cuando se elimina el ítem indicó valores entre .83 y .86.   
+Punto de cortes 
+Se identificaron los cuartiles de los nueve subtests en los tres grupos de edades 
+como se muestra en la tabla 6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Tabla 6  
+Punto de cortes de los nueve subtests del B-PREA-R para niños entre 4 y 6 años. 
+4 años  
+5 años 
+6 años 
+Subtests 
+P25 
+P50  
+P75 
+P25 
+P50  
+P75 
+P25 
+P50  
+P75 
+1  
+5.00 
+6.00 – 8.00 
+9.00 
+6.00 
+7.00 – 10.00 
+11.00 
+9.00 
+10.00 – 14.00 
+15.00 
+2 
+3.00 
+4.00 - 6.00 
+7.00 
+4.00 
+5.00 - 7.00 
+8.00 
+5.00 
+6.00 – 7.00 
+8.00 
+3 
+14.00 
+15.00 – 18.00 
+19.00 
+13.00 
+14.00 - 19.00 
+20.00 
+15.00 
+16.00 - 19.00 
+20.00 
+4 
+4.00 
+5.00 – 8.00 
+9.00 
+5.00 
+6.00 - 9.00 
+10.00 
+7.00 
+8.00 - 9.00 
+10.00 
+5 
+4.00 
+5.00 – 8.00 
+9.00 
+5.00 
+6.00 - 10.00 
+11.00 
+8.00 
+9.00 - 10.00 
+12.00 
+6 
+10.00 
+11.00 - 20.00 
+21.00 
+17.00 
+18.00 - 20.00 
+21.00 
+18.00 
+19.00 - 20.00 
+21.00 
+7 
+11.00 
+12.00 – 17.00 
+17.00 
+23.00 
+24.00 - 29.00 
+29.00 
+30.00 
+31.00 – 35.00 
+36.00 
+8 
+7.00 
+8.00 – 9.00 
+10.00 
+13.00 
+14.00 - 16.00 
+17.00 
+15.00 
+16.00 - 18.00 
+20.00 
+9 
+8.00 
+9.00 - 23.00 
+24.00 
+19.00 
+20.00 - 27.00 
+28.00 
+19.00 
+20.00 - 27.00 
+28.00 
+Nota: Subtest 1. Atención selectiva visual. Subtest 2. Memoria de trabajo visual. Subtest 3. Memoria de 
+trabajo verbal. Subtest 4. Contar cantidades no simbólica. Subtest 5. Matrices. Subtest 6. Repetir sílabas. 
+Subtest 7. Grafomotricidad. Subtest 8. Compresión de cuentos. Subtest 9. Vocabulario.  
+ 
+Discusión 
+El presente estudio examinó la validez de contenido, la validez de estructura 
+interna y la confiabilidad de consistencia interna de la B-PREA-R, instrumento que fue 
+diseñado para evaluar el desarrollo cognitivo de niños preescolares en el contexto cultural 
+de Cuba y ser aplicado por educadores. La validez de contenido de la B-PREA-R mejoró 
+en comparación con la versión anterior (Ramírez, et al., 2018). La B-PREA contaba con 
+110 ítems donde el 28% tenían una discriminación baja, mientras que la versión revisada 
+finalmente quedó con nueve subtests, 199 ítems, 193 ítems con alta y buena calidad, y 
+seis con calidad regular. En la versión anterior, se recomendó mejorar el funcionamiento 
+de los subtests vocabulario, rimas de sílabas, matrices y comparar cantidades, sin 
+embargo, en la B-PREA-R se perfeccionó el subtests de matrices con 15 ítems de buena 
+discriminación, el subtest contar cantidades con todos sus ítems de buena calidad, el sub-
+test rimas de sílabas se eliminó y se elaboró el subtest repetir sílabas con 16 ítems de 
+buena calidad y cuatro de calidad regular, y finalmente, el subtest de vocabulario mejoró 
+con 18 ítems de buena calidad y dos ítems de calidad regular. Además, en la versión 
+revisada se eliminó el subtest comparar cantidades, que resultó muy fácil para los niños 
+(efecto techo), y se reemplazó por el subtest contar cantidades que incluye dos habilidades 
+relacionadas con el procesamiento cognitivo numérico que son de vital importancia para 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+la preparación del niño para su trayectoria académica en los primeros tres años de 
+escolarización: la enumeración y la comparación de cantidades (Canto-López et al., 
+2019).  
+La validez de estructura interna sigue siendo apropiada tanto en la versión anterior 
+de la B-PREA, como en la versión revisada. El análisis factorial presentó tres factores en 
+la versión anterior (Habilidades de Procesamiento Cognitivo Numérico, Habilidades 
+Ejecutivas y Habilidades Lingüísticas), mientras que la versión revisada confirmó tres 
+factores (Habilidades Ejecutivas, Habilidades de Memoria y Habilidades Lingüísticas). 
+En el factor 1 “Habilidades Ejecutivas” se agruparon cinco subtests (atención selectiva 
+visual, matrices, comprensión de cuentos, grafomotricidad y contar cantidades), los 
+cuales contienen varias habilidades y acciones de la etapa, y son congruentes con modelos 
+teóricos de las funciones ejecutivas (Doebel, 2020; Zelazo, 2020).  
+Doebel (2020), tomando como referencia el análisis de Miyake et al. (2000), 
+declara que en las funciones ejecutivas se distinguen tres funciones cognitivas básicas: el 
+control inhibitorio, la memoria de trabajo y la flexibilidad cognitiva, de las cuales se 
+desprenden las funciones ejecutivas superiores como la planificación y la resolución de 
+problemas (Zelazo, 2020). Desde esta clasificación, el subtest atención selectiva visual 
+sería la tarea que menos dudas podría ocasionar en este factor, sin embargo, los subtests 
+matrices, comprensión de cuentos, grafomotricidad y contar cantidades tienen un 
+elemento en común: la planificación y la resolución de problemas, que a su vez incluye 
+la flexibilidad cognitiva y la memoria de trabajo.  
+Estos elementos se pueden observar cuando se analizan de manera específica las 
+características de cada subtests. En el subtest de matrices, el niño debe buscar, entre cuatro 
+alternativas de solución, una para completar la figura abstracta, de este modo lo obliga a 
+buscar la alternativa adecuada empleando habilidades cognitivas superiores que también 
+demandan las funciones ejecutivas. En este subtest el niño tiene que utilizar habilidades 
+cognitivas superiores  como la percepción de tamaños, percepción de orientación en el 
+espacio, en una dirección y en dos direcciones simultáneamente, analizar la figura como 
+un todo y sus partes, concebir figuras correlativas y deducción de relaciones (Gizzonio et 
+al., 2021).  
+En compresión de cuentos, tarea similar al subtest 3 “rememorización de cuentos” 
+de la Batería III Woodcock-Muñoz, prueba de aprovechamiento (Muñoz-Sandoval et al., 
+2005), el niño debe escuchar con atención la redacción del adulto para comprender el 
+mensaje explícito del texto (cuáles son los personajes, qué relación hay entre ellos, cuál 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+es la historia) y finalmente responder seis preguntas literales en cada cuento. Este subtest 
+tiene una significativa relación con el desarrollo del lenguaje oral, y precisamente la 
+Batería III Woodcock-Muñoz ubica a “rememorización de cuentos” en el factor 
+comprensión-conocimiento, aunque la solución del subtest compresión de cuentos exige 
+altos niveles de atención focalizada y de memoria de trabajo para mantener, manipular y 
+transformar la información relevante del cuento. Igualmente, es importante resaltar que 
+dicho subtest no tiene apoyo visual, por lo tanto, es una exigencia para el niño escuchar 
+atentamente el cuento y retener la información relevante sobre la historia.  De este modo, 
+las variables latentes que subyacen en el subtest compresión de cuentos son más 
+ejecutivas que lingüísticas, no obstante, el resultado podría cambiar en próximas 
+investigaciones debido al tamaño de la muestra.  
+En el subtest grafomotricidad, tarea similar al subtest 6 “visopercepción” en el 
+Cuestionario de Madurez Neuropsicológica Infantil (CUMANIN) (Portellano et al., 
+2000), el niño está obligado a seguir un modelo gráfico que le exige el agarre correcto del 
+lápiz con su mano rectora, hacer los trazos de manera continua, seguir la línea del trazo 
+correctamente, dibujar en el espacio exigido y hacerlo con la mayor similitud posible, así 
+como tener una adecuada coordinación mano-ojo-espacio. Algunos estudios de 
+validación han demostrado que el subtest visopercepción es una tarea no verbal, y es 
+adecuada para evaluar el desarrollo de las funciones ejecutivas en los preescolares (Parra 
+et al., 2016; Ávila, 2012). 
+En el subtest contar cantidades no simbólicas, tarea similar al subtest “conceptos 
+cuantitativos”, Serie A, en la Batería III Woodcock-Muñoz, prueba de aprovechamiento 
+(Muñoz-Sandoval et al., 2005), el niño debe identificar cantidades entre 3 y 12 elementos 
+en una figura, y luego buscar esa misma cantidad entre cuatro opciones, empleando 
+operaciones de procesamiento cognitivo numérico como la enumeración y la 
+comparación de cantidades. Detrás de estas operaciones el niño debe mantener el objetivo 
+para solucionar el problema, y a su vez debe emplear varias estrategias numéricas, de 
+razonamiento verbal y visual (Spiegel et al., 2021).   
+Por otra parte, la tendencia de la batería es agrupar tareas relacionadas con el 
+desarrollo del lenguaje y la memoria del niño. En el caso del desarrollo del lenguaje se 
+pudo apreciar tres subtests que permiten valorar las habilidades semánticas y fonológicas 
+del niño, tales como vocabulario, memoria de trabajo verbal y repetir sílabas. Con 
+respecto a la memoria, la batería agrupa un tercer factor nombrado habilidades de la 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+memoria de trabajo, donde las características de la tarea posibilitan la afirmación del 
+factor entre los demás subtests de la B-PREA-R.  
+El subtest de memoria de trabajo visual de la B-PREA-R fue elaborado con 
+similares características a la versión del “Visual Memory Span” de la Escala de Memoria 
+de Wechsler Revisada, siendo una tarea que se ha comportado como un factor 
+independiente en varias investigaciones cuando se realiza un análisis factorial 
+confirmatorio o exploratorio (Fernández et at., 2019; Zapata et al., 2019; Rosas et al., 
+2022; Marreros-Tananta & Guerrero-Alcedo, 2022).  
+La consistencia interna de la B-PREA-R mostró valores apropiados para una 
+prueba psicométrica con varios subtests: alfa = .85 y alfa cuando se elimina el ítem entre 
+.83 y .86. La versión anterior igualmente mostró valores apropiados (alfa cuando el ítem 
+es eliminado entre .78 y .81), aunque presentó una consistencia interna con el método 
+test–retest entre .82 y .94. De este modo, se recomienda para próximas investigaciones 
+realizar un análisis de consistencia interna a través del método test-retest.  
+Si bien, este estudio es un aporte importante a la evaluación del desarrollo 
+cognitivo en la etapa preescolar, por la presentación de nueve subtests para que la 
+educadora lo aplique en su contexto educativo y emplee los puntos de corte para emitir 
+criterios sobre los avances del niño, una limitación es su tamaño muestral con respecto a 
+la población nacional, por lo que en futuras investigaciones debería ampliarse a una 
+muestra significativa en diferentes provincias del país. De igual modo, se podría aplicar 
+otras medidas estadísticas como la curva ROC y comparar el punto de corte obtenido con 
+una población de niños con necesidades educativas especial o con limitaciones en su 
+desarrollo. Se recomienda que futuras investigaciones se enfoquen en ajustar o eliminar 
+los ítems de B-PREA-R que demostraron una discriminación regular. Otra tarea futura 
+consiste en elaborar percentiles o puntos de cortes en una población representativa del 
+país, con el objetivo de desarrollar normas cubanas y así ampliar el uso de la B-PREA-R 
+a contextos tanto clínicos como educativos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+Conclusión 
+La B-PREA-R es una prueba rápida y fácil de aplicar en el contexto educativo y 
+presenta propiedades psicométricas adecuadas para evaluar el desarrollo cognitivo en la 
+etapa preescolar, descubrir las potencialidades y debilidades del niño y guiar su 
+preparación cognitiva para iniciar la escolarización básica. La actualización de la batería 
+mejoró la validez y la confiabilidad en cuanto al funcionamiento de los ítems (96% de los 
+ítems con alta y buena calidad, mientras que solo el 4% con calidad regular), así como la 
+cantidad y calidad de subtests para caracterizar al niño y evaluar su preparación inicial 
+para el comienzo de la próxima etapa escolar. Las características de la B-PREA-R 
+permiten que las educadoras la apliquen en el contexto educativo, ya sea en el corte 
+evaluativo parcial o final, por lo tanto, es una alternativa para realizar la evaluación del 
+niño preescolar según las exigencias de la resolución 238/2014, reglamento para la 
+aplicación del sistema de evaluación escolar en Cuba.   
+ 
+Authors' contribution 
+ Yaser Ramírez-Benítez. Conceptualization, Data curation, Formal Analysis, 
+Funding acquisition, Investigation, Methodology, Resources, Supervision, 
+Validation, Visualization, Writing – original draft, Writing – review & editing  
+ Regina T. Lohndorf. Conceptualization, Formal Analysis, Methodology, 
+Validation, Visualization, Writing – original draft, Writing – review & editing  
+ Rodneys Mauricio Jiménez-Morales. Conceptualization, Supervision, Validation, 
+Methodology, Visualization, Writing – original draft.  
+ Francisca 
+Bernal 
+Ruiz. 
+Conceptualization, 
+Investigation, 
+Validation, 
+Visualization, Writing – original draft.  
+ Bárbara Bermúdez Monteagudo. Conceptualization, Supervision, Validation, 
+Visualization, Writing – original draft.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4721
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

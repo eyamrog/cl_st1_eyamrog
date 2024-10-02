@@ -1,0 +1,857 @@
+Publication status: Not informed by the submitting author
+Polyphenol and flavonoid contents of Parkinsonia aculeata L.,
+extracts: Phytotoxicity in tomato
+Leandris Argentel Martínez, Ofelda Peñuelas-Rubio, Jorge González Aguilera, Jaime Garatuza-
+Payán, Marcos Vinicius Varjão Romão
+https://doi.org/10.1590/SciELOPreprints.4719
+Submitted on: 2022-09-07
+Posted on: 2022-09-09 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Polyphenol and flavonoid contents of Parkinsonia aculeata L., extracts: Phytotoxicity in 
+tomato 
+ 
+Contenido de polifenoles y flavonoides en extractos de Parkinsonia aculeata L.: Fitotoxicidad 
+en tomate 
+Leandris Argentel-Martínez1*, Ofelda Peñuelas-Rubio1, Jorge González Aguilera2; Jaime 
+Garatuza-Payán3, Marcos Vinicius Varjão Romão4  
+ 
+1Departamento de Ingenierías, Tecnológico Nacional de México/Instituto Tecnológico del 
+Valle del Yaqui, Bácum, Mexico. 
+2Editora Pantanal, Nova Xamantina, MT, Brazil. 
+3Departamento de Ciencias del Agua, Instituto Tecnológico de Sonora, Ciudad obregón, 
+Sonora, Mexico. 
+4Instituto Federal  de Educação, Ciência e Tecnologia da Bahia, Euclides da Cunha, Bahia, 
+Brazil. 
+ 
+Autor de correspondencia: Leandris Argentel Martínez: oleinismora@gmail.com 
+ 
+ORCID 
+LAM https://orcid.org/0000-0002-0353-2251 
+OPR https://orcid.org/0000-0002-7782-3246 
+JGA https://orcid.org/0000-0002-7308-0967 
+JGP https://orcid.org/0000-0003-2357-910X 
+MVVR https://orcid.org/0000-0003-2361-7671 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+ABSTRACT 
+1 
+Parkinsonia aculeata L. (palo verde) it is native to semidesert region and seasonally dry 
+2 
+tropical forests. A more detailed study of the biochemical composition of its organs could 
+3 
+offer information for its use for pest and disease biocontrol in species of agricultural and 
+4 
+economic interest. This research aimed to determine the content of polyphenols and 
+5 
+flavonoids in hydroalcoholic extracts obtained from the stems and leaves of P. aculeata and 
+6 
+its phytotoxicity in tomato seedlings applied at the early stages of growth. The extracts were 
+7 
+applied at 15, 25 and 35 days after emergence (DAE). The highest content of polyphenols and 
+8 
+flavonoids was obtained in the leaves, and the polyphenol concentration exceeded that of 
+9 
+flavonoids. The hydroalcoholic extracts, of both stems and leaves, presented level 5 
+10 
+phytotoxicity in tomato plants at 15 DAE. However, from 25 DAE, there was no 
+11 
+phytotoxicity. At 35 DAE, there was only phytotoxicity when the volume of both organs was 
+12 
+5 mL Plant-1. There was a significant interaction between organ and volumes factors. The 
+13 
+study shows that leaf and stem extracts can be used for fusarium wilt biocontrol without 
+14 
+causing phytotoxicity in tomato plants from 25 days, using volumes between 1 and 3 mL 
+15 
+plant-1. 
+16 
+Keywords: antioxidants, biocontrol, biofungicides, palo verde, rotavapor. 
+17 
+ 
+18 
+RESUMEN 
+19 
+Parkinsonia aculeata L. (palo verde) es originaria de región semidesértica y bosques 
+20 
+tropicales estacionalmente secos, aunque se distribuye en varias regiones del mundo. Entre las 
+21 
+principales características de esta especie es el tallo verde, hojas reducidas, legumes 
+22 
+moniliformes, mínima cantidad de plagas y enfermedades que la afectan. Un estudio más 
+23 
+detallado de la composición bioquímica de sus órganos pudiera ofrecer información para su 
+24 
+uso en el biocontrol de plagas y enfermedades en especies agrícolas de interés económico. El 
+25 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+presente estudio tuvo como objetivo determinar los contenidos de polifenoles y flavonoides 
+26 
+en extractos hidroalcohólicos de tallos y hojas de P. aculeata y la fitotoxicidad en plántulas de 
+27 
+tomate, aplicados en estadios iniciales del desarrollo. Los extractos fueron aplicados a los 15, 
+28 
+25 y 35 días posteriores a la emergencia (DPE). El mayor contenido de polifenoles y de 
+29 
+flavonoides se obtuvo en las hojas y la concentración de polifenoles superó a la de los 
+30 
+flavonoides. Los extractos hidroalcohólicos, tanto de tallos como de hojas presentaron 
+31 
+fitotoxicidad de nivel 5 en las plantas de tomate, sin embargo, a partir de los 25 DPE no 
+32 
+existió fitotoxicidad. A los 35 DPE solo existió fitotoxicidad cuando se aplicó el volumen de 
+33 
+5 mL Planta-1 de ambos órganos. Existió interacción significativa entre las fuentes de 
+34 
+variación órganos y volumen. El estudio demuestra que se pueden emplear extractos de hojas 
+35 
+y tallos para el biocontrol de fusariosis sin causar fitotoxicidad en plantas de tomate a partir 
+36 
+de los 25 días, empleando dosis entre 1 y 3 mL planta-1. 
+37 
+Palabras clave: antioxidantes, biocontrol, biofungicidas, palo verde, rotavapor. 
+38 
+ 
+39 
+INTRODUCTION 
+40 
+Phytopathologists and producers, with an organic approach, employ various agrotechnical 
+41 
+alternatives with the aim of reducing the contaminant load from the excessive application of 
+42 
+broad-spectrum fungicides. The use of plant extracts to control pests and diseases is one of 
+43 
+those agrotechnical alternatives (Báez et al. 2021). Among them, extracts of species such as 
+44 
+the governor (Larrea tridentate (DC.) Coville) and oregano (Origanum vulgare L.) have been 
+45 
+used to control phytopathogenic fungi of the genus Fusarium, which produces significant 
+46 
+losses in the yield of crops of economic interest (Figueroa et al. 2019). 
+47 
+Plants sometimes produce a significant amount of primary and secondary metabolites as a 
+48 
+regulatory action on a large number of pests and diseases; for this reason, the possibility of 
+49 
+being used with a focus on environmental protection through integrated management is being 
+50 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+studied (Zoppolo et al. 2008). Some of these metabolites are synthesized as defenses 
+51 
+(repellents) and others intoxicate and directly eliminate microorganisms and pests. For 
+52 
+example, saponins, amygdalins, and norhydroguaiaretic acid are used for the control of fungi 
+53 
+and bacteria (Martínez-Olivo et al. 2020). Protocatechotic acid has a significant effect on the 
+54 
+control of pathogens in general and in particular on preventing basal rot in tomatoes (El-
+55 
+Nagar et al. 2020). Among the metabolites that plants synthesize are polyphenols (PP), which 
+56 
+are obtained from the shikimic acid biosynthetic pathway (Santos-Sánchez et al. 2019). PP 
+57 
+are normally antioxidants whose main function is to prevent damage to foliar organs. The 
+58 
+damage can be due to biological oxidation induced by abiotic stress or caused by insects and 
+59 
+microorganisms (Lee et al. 2020), including bacteria and fungi (Rivera-Solís et al. 2021). 
+60 
+Many species of the semidesert also show characteristics of tolerance to pests and diseases, 
+61 
+subsisting in addition to prevailing adverse conditions such as salinity and drought (Gonzáles 
+62 
+et al. 2021), asis the case for P. aculeata, commonly known as “palo verde or bacaporo” 
+63 
+(Adhikari & White 2014). This species has been studied in various regions of the world 
+64 
+mainly for clinical purposes (Divya et al. 2011; Franco et al. 2022), and phytochemical 
+65 
+studies have been developed to determine the presence of various metabolites that can be used 
+66 
+for the biocontrol of pathogens, such as Fusarium oxysporum (Arvizu-Quintana et al. 2021). 
+67 
+These studies are of great importance in the prevention of environmental contamination after 
+68 
+having been proven that they present minimal or no phytotoxicity in the plants of economic 
+69 
+interest. An important step is to evaluate whether these extracts obtained from model plants, 
+70 
+such as paloverde, affect the physiological, biochemical and/or agronomic performance of the 
+71 
+plants. Another important point is to substitute some chemical pesticides with these products. 
+72 
+The substitution may reduce the amounts of pollutants in agricultural area. Taking these 
+73 
+elements into account, a study was carried out to determine the content of polyphenols and 
+74 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+flavonoids in hydroalcoholic extracts obtained from stems and leaves of P. aculeata and to 
+75 
+evaluate the phytotoxicity in tomato seedlings applied in the initial stages of development. 
+76 
+ 
+77 
+Materials and methods 
+78 
+Location of the experimental area. The research was developed in the Biotechnology 
+79 
+Laboratory of the National Institute of Technology of Mexico, Valle del Yaqui Campus, in 
+80 
+the municipality of Bácum, Sonora, Mexico. Leaf and stem samples of P. aculeata plants 
+81 
+were taken from the semidesert Sonora to obtain hydroalcoholic extracts by percolation 
+82 
+according to the process described by Fecker et al. (2020). The samples were separated at a 
+83 
+rate of 100 g and then remained in 1 L of 76% alcohol during 10 days (Figs. 1a-b, leaves and 
+84 
+stems, respectively). After this period, the alcohol was separated using a rotary evaporator at 
+85 
+30 revolutions per minute and at a temperature of 65°C (BUCHI R215, USA), with an 
+86 
+extraction efficiency of 75%. The extracts were kept at 4°C until they were used (Fig. 1c). 
+87 
+ 
+88 
+FIGURE 1 
+89 
+ 
+90 
+Tomato variety used to evaluate phytotoxicity 
+91 
+As an experimental model, tomato seeds of the Río Grande® variety were used, with 
+92 
+determined growth, cataloged as susceptible to fusarium wilt (Arellano-Aburto et al. 2021). 
+93 
+The seeds were sown in 200-well polyfoam trays under semi-controlled conditions in a 
+94 
+growth chamber. The conditions inside the chamber were adjusted to 10 hours of light, a 
+95 
+temperature of 25°C and a relative humidity of 75%. Peat moss type substrate (PROMIX) 
+96 
+was used for seed germination. At 15 days after emergence (DAE), the seedlings were 
+97 
+selected and subjected to the established treatments. 
+98 
+ 
+99 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+Treatments and experimental design 
+100 
+The treatments consisted of the combination of two sources of variation: A) plant organs, with 
+101 
+two levels (stems and leaves); and B) volumes of extracts applied, with four levels (0, 1, 3 and 
+102 
+5 mL plant-1). The level of zero applications of the extract was taken as the control treatment. 
+103 
+Each treatment of the eight conformed, had a sample size of 30 plants. The application of the 
+104 
+extracts was carried out on the roots and foliar route, in unison, three times after emergence: 
+105 
+at 15, 25 and 35 DAE. This last factor was not included as a source of variation, and the 
+106 
+results were compared separately in the respective statistical analyses. 
+107 
+The treatments were distributed under semi-controlled conditions, following a completely 
+108 
+randomized experimental design with a bifactorial arrangement. In all treatments, the edge 
+109 
+effect and neighboring variants were taken into account for phytotoxicity variable 
+110 
+measurement. These plants were dispensed with to reduce the possible experimental error. 
+111 
+ 
+112 
+Evaluated variables 
+113 
+Polyphenol content was determined by the Folin-Ciocalteu method developed by Anesini et 
+114 
+al. (2008). For the test, a volume of 125 µL of the gallic acid standard solution was prepared, 
+115 
+and 0.5 mL of distilled H2O and 125 µL of Folin-Ciocalteu reagent were added. These 
+116 
+reagents remained in the reaction for 6min, and 1.25 mL of a 7% Na2CO3 solution was added. 
+117 
+Finally, 1 mL of distilled H2O was added and left to stand for 90min at a temperature of 17°C 
+118 
+and 65% relative humidity. 
+119 
+An absorbance reading was performed on the obtained solution in a UV Vis Genesys 10S 
+120 
+spectrophotometer (Thermo Scientific) at a wavelength (λ) of 760 nm. Then, both stem and 
+121 
+leaf extracts were diluted at a 1:5 ratio with 50% methanolic solution, and the total 
+122 
+polyphenol content was determined in the same way as gallic acid standards. Then, by 
+123 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+interpolating the absorbance of the extracts in the gallic acid curve, it was determined, in 
+124 
+triplicate samples, the content of total polyphenols expressed in mg L-1 of extract. 
+125 
+Flavonoid content was determined by the method described by Muñoz et al. (2007). Samples 
+126 
+of 250 μL of the extracts of P. aculeata were dissolved in 1000 μL of deionized water. Then, 
+127 
+75 μL of NaNO2 was added and allowed to react for 5 minutes. Subsequently, 75 μL of 10% 
+128 
+AlCl3 and 500 μL of 1 M NaOH were added. The mixture was centrifuged at 3500 r.p.m. 
+129 
+during 5 minutes. Finally, the absorbance was measured at a wavelength of 510 nm. The final 
+130 
+concentrations of total flavonoids were expressed in mg L-1 of stem and leaves extract 
+131 
+(Herrera et al. 2017). 
+132 
+ 
+133 
+Evaluation of the phytotoxicity of the extracts 
+134 
+The evaluation of the phytotoxicity of hydroalcoholic extracts from leaves and stems of P. 
+135 
+aculeata was carried out in the initial stages of the Rio Grande tomato variety, following the 
+136 
+scale described in Table 1, taking the scale proposed by Esparza-Díaz et al. (2010) as a 
+137 
+reference. 
+138 
+ 
+139 
+TABLE 1 
+140 
+ 
+141 
+Statistical analysis 
+142 
+To compare the concentrations of polyphenols and flavonoids, the theoretical distribution of 
+143 
+student probabilities proposed by Gosset (1917) was used, establishing the differences 
+144 
+between the organs where they were determined. 
+145 
+For the evaluation of phytotoxicity, a double classification analysis of variance was carried 
+146 
+out based on a linear model of fixed effects (Fisher 1937). The number of damaged or dead 
+147 
+plants during each treatment (discrete quantitative variable) was taken as a variable response. 
+148 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+When there were differences between the means of the treatments, the test (Tukey's multiple 
+149 
+comparison)was used for a significance level of 5% (Tukey 1960). The statistical indicators of 
+150 
+coefficient of variation (CV), standard error of the mean of the treatments (ESx) and the 
+151 
+coefficients of determination (R2) were determined, without adjusting for the isolated factors 
+152 
+(organs and volume) and for the interaction between these twofactors. STATISTICA 
+153 
+professional software, version 14.1 for Windows (Stasoft 2014), was used for statistical 
+154 
+processing. 
+155 
+ 
+156 
+RESULTS AND DISCUSSION 
+157 
+Polyphenols and flavonoids Content in the hydroalcoholic extract of stems and leaves. 
+158 
+Polyphenols concentration and total flavonoids showed highly significant differences between 
+159 
+the organs from which the extracts were obtained. The concentration was in both parts, but it 
+160 
+was higher in the leaves (Table 2). The result demonstrates the plant ability to store these 
+161 
+compounds to be protected from pests and diseases. The storage is more in the leaves than in 
+162 
+the stem. Silva et al. (2012) evaluated rot control in lettuce (Lactuca sativa L.). It was verified 
+163 
+that hydroalcoholic extracts of leaves and stems of palo verde at concentrations of 10% were 
+164 
+effective in promoting a low severity of the disease (3.7 and 3.3, respectively). These results 
+165 
+may explain the low abundance of reports showing the presence of pests and diseases in this 
+166 
+species. It was attributed to the synthesis and accumulation of these compounds as main 
+167 
+biocontrol agents. 
+168 
+ 
+169 
+TABLE 2 
+170 
+ 
+171 
+Various investigations on the use of crude plant extracts have revealed their inhibitory 
+172 
+activities on microorganisms. For example, the use of antimicrobial activity of Pinus 
+173 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+wallichiana A.B.Jacks. leaf extracts against Fusarium oxysporum f. sp. cubense. (Foc), 
+174 
+attributed to the significant presence of flavonoids and polyphenols (Ain et al. 2022). These 
+175 
+results affirm that the palo verde extract has important potentialities as a biocontrol agent 
+176 
+because it comes from a plant. This product easily mitigates into the plant (Stefanovic and 
+177 
+Comic 2012), so it would generate little or no phytotoxicity. This characteristic confirms the 
+178 
+importance of this study. 
+179 
+ Many of these extracts contain terpenoids, alkaloids, tannins, saponins, phenylpropanoids, 
+180 
+and flavonoids, which are used to manufacture fungicides and pesticides at high 
+181 
+concentrations (Nxumalo et al. 2021). 
+182 
+In Mexico, various plant species extracts have also been obtained. They have a significant 
+183 
+concentration of flavonoids and polyphenols used as biocontrol agents of insects. A major 
+184 
+control of 48-hour-old larvae with seven concentrations was obtained when the insecticidal 
+185 
+activity of mistletoe dust (Phoradendron densum Torr. ex Trel.) on Spodoptera frugiperda 
+186 
+was evaluated by Hernandez et al. (2018). 
+187 
+In general, flavonoids play an important role in the protection against biological oxidations 
+188 
+induced by biotic and abiotic stresses (Sun et al. 2022). The content of polyphenols in plants 
+189 
+and fruits varies depending on the genotype, species, environmental conditions, degree of 
+190 
+maturity, soil composition, geographic location, and storage conditions (Shen et al. 2022). 
+191 
+Flavonoids are also a frequent object of research due to their diverse functions, such as 
+192 
+nutrient assimilation, protein synthesis, enzymatic activity, photosynthesis, formation of 
+193 
+structural components, and defense against adverse environmental factors such as aggression 
+194 
+of pathogens and insects (Figueirinha et al. 2008; Vélez-Terranova et al. 2014). 
+195 
+ 
+196 
+Phytotoxicity of extracts in tomato seedlings 
+197 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+The application at 15 DAE of treatments T2 to T8 showed highly significant phytotoxicity 
+198 
+(p=0.0017) in the Rio Grande tomato variety, causing damage to 77% of the plants of each 
+199 
+mentioned treatment (value of 5). For this reason, the hydroalcoholic extract application of P. 
+200 
+aculeata at 15 DAE is not recommended (Table 3). In the statistical analysis, at this moment 
+201 
+of application (15 DAE), although there was a significant interaction between the 
+202 
+organ*volume factors (p=0.01796), it was observed that the effect of the applied volume 
+203 
+explained 98% of the total variability obtained (R2(volumes)=0.98). These findings show that 
+204 
+any volume used close to emergence can generate phytotoxicity and that this increases 
+205 
+significantly as the volume of extract applied increases (Table 3). 
+206 
+ 
+207 
+TABLE 3 
+208 
+ 
+209 
+When the treatments were applied at 25 DAE, there were also significant differences between 
+210 
+the organs used to obtain the extracts (p=0.00274), as well as between the volumes 
+211 
+(p=0.0003), with also a significant interaction (p=0.0179). When the extracts were applied 
+212 
+during 25 DAE, a total variability found in phytotoxicity was explained by 64%, and the 
+213 
+average phytotoxicity between treatments was 2. A similar result was found at 35 DAE, 
+214 
+where the source of volume variation contributed 79% to the total variability found in 
+215 
+phytotoxicity, although the average value of phytotoxicity was 1 (Table 3). The results 
+216 
+obtained indicate that high volumes of the extract can cause phytotoxicity in plants. Because 
+217 
+of this these studies must be carried out to recommend its use. This can be useful to producers 
+218 
+to control diseases in seedling without causing damage to the initial morphological and 
+219 
+physiological characteristics of plants. 
+220 
+Multiple extracts have been obtained from semi-desert plants for agronomic purposes, with an 
+221 
+organic and integrated management approach for pest and disease control (Heikal et al. 2021). 
+222 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+The governor species (Larrea tridentata (DC.) Coville) has been used as biocontrol of 
+223 
+fusarium, with reductions in radial growth of 10% (Martínez-Olivo et al. 2020). Neem extract 
+224 
+(Azadirachta indica A.Juss.) has been used to evaluate antifungal activity against tomato 
+225 
+vascular wilt and showed high control efficiency and minimal phytotoxicity in seedlings 
+226 
+(Ayvar-Serna et al. 2021). 
+227 
+For fungal diseases such as fusariosis, the hydroalcoholic extract of Acacia farnesiana was 
+228 
+tested for a decade (Rodríguez et al. 2012) under in vitro culture conditions, with significant 
+229 
+decreases in the mycelial growth of the fungus and minimal phytotoxicity in plants. Rivera-
+230 
+Solis et al. (2021) also tested extracts of Sargassum spp. as inducers of tolerance to Fusarium 
+231 
+oxysporum in tomato seedlings without finding significant phytotoxicity. These results 
+232 
+demonstrate the practical value of plant extracts in controling diseases that affect agricultural 
+233 
+crops and their contribution to caring for the environment by reducing the application of 
+234 
+chemical products. 
+235 
+Plant extracts in pest and disease management are currently recognized as environmentally 
+236 
+safe, less hazardous and cheaper. In their most natural form, many plant species have 
+237 
+insecticidal characteristics (Tavares et al. 2021). Its use constitutes an alternative to mitigate 
+238 
+contaminant loads due to concentrated chemical products that sometimes generate resistance 
+239 
+in organisms. 
+240 
+The production of plant extracts is still important in the discovery of innovative and 
+241 
+environmentally safe antimicrobials to overcome problems with resistance to multiple 
+242 
+pesticides. The use of extracts to minimize or eliminate the damage caused by pests and 
+243 
+diseases can be a contribution to the national and international scientific community. This 
+244 
+could have a great economic and ecological significance. 
+245 
+ 
+246 
+CONCLUSIONS 
+247 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+The hydroalcoholic extracts of Parkinsonia aculeata L. present a higher concentration of 
+248 
+flavonoids and polyphenols in the leaves than in the stems. 
+249 
+The Río Grande tomato variety presents high phytotoxicity (f=5) at 15 DAE. Because of this, 
+250 
+the application of hydroalcoholic extracts of P. aculeata at this time is not recommended.  
+251 
+The safe application of the hydroalcoholic extract of P. aculeata without symptoms of 
+252 
+phytotoxicity appearing, must be carried out from 25 to 35 DAE of the seedlings. 
+253 
+ 
+254 
+Author Contributions: All authors have read and agreed to the published version of the 
+255 
+manuscript. 
+256 
+ 
+257 
+Conflicts of Interest: The authors declare no conflict of interest. 
+258 
+ 
+259 
+REFERENCES 
+260 
+Adhikari A & White JD (2014) Plant water use characteristics of five dominant shrub species 
+261 
+of the Lower Rio Grande Valley, Texas, USA: Implications for shrubland restoration and 
+262 
+conservation. Conservation Physiology 2: 005. DOI: 10.1093/conphys/cou005 
+263 
+Ain QU, Asad S, Ahad K, Safdar MN & Jamal A (2022) Antimicrobial Activity of Pinus 
+264 
+wallachiana Leaf Extracts against Fusarium oxysporum f. sp. cubense and Analysis of Its 
+265 
+Fractions by HPLC. Pathogens 11(3): 347. DOI: 10.3390/pathogens11030347 
+266 
+Anesini C, Ferraro E & Filip R (2008) Total polyphenol content and antioxidant capacity of 
+267 
+commercially available tea (Camellia sinensis) in Argentina. Journal of agricultural and 
+268 
+food chemistry 56: 9225-9. DOI: 10.1021/jf8022782 
+269 
+Arellano-Aburto DA, López-Valenzuela JÁ, Gutierrez-Dorado R, Pineda-Hidalgo KV, Retes-
+270 
+Manjarrez JE & Garzón-Tiznado JÁ (2021) Análisis de resistencia a Candidatus 
+271 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+Liberibacter solanacearum en genotipos de tomate. Revista Fitotecnia Mexicana 44(3): 
+272 
+425-425. DOI: 10.35196/rfm.2021.3.425 
+273 
+Arvizu-Quintana EF, Argentel-Martínez L, Peñuelas-Rubio O, Leyva-Ponce A & García-
+274 
+Urías J (2021) Extractos hidroalcohólicos de Parkinsonia aculeata L., Sp. Pl. para el 
+275 
+biocontrol de Fusarium oxysporum Schlecht. Renewable Energy, Biomass & Sustainability 
+276 
+3(2): 46-52. DOI: 10.56845/rebs.v3i2.52 
+277 
+Ayvar-Serna S, Díaz-Nájera JF, Vargas-Hernández M, Enciso-Maldonado GA, Alvarado-
+278 
+Gómez OG & Ortíz-Martínez AI (2021) Actividad antifúngica de pesticidas biológicos, 
+279 
+botánicos y químicos sobre el agente causal de la marchitez vascular del jitomate. Revista 
+280 
+Fitotecnia Mexicana. 44(4): 617-617. DOI: 10.35196/rfm.2021.4.617 
+281 
+Báez M, Torres EI, Gruszycki AE, Alba DA, Valenzuela GM & Gruszycki MR (2021) 
+282 
+Actividad antioxidante y antiinflamatoria en extractos hidroalcohólicos de Kalanchoe 
+283 
+daigremontiana Raym.-Hamet & H. Perrier. Revista Colombiana de Ciencias Químico-
+284 
+Farmacéuticas 50(1): 86-99. DOI: 10.15446/rcciquifa.v50n1.95450 
+285 
+Divya 
+B, 
+Mruthunjaya 
+K 
+& 
+Manjula 
+SN 
+(2011) 
+Parkinsonia 
+aculeata: 
+a 
+286 
+phytopharmacological 
+review. Asian 
+Journal 
+of 
+Plant 
+Sciences 10(3): 
+175-181. 
+287 
+DOI: 10.3923/ajps.2011.175.181 
+288 
+El-Nagar A, Elzaawely AA, Taha NA & Nehela Y (2020) The antifungal activity of gallic 
+289 
+acid and its derivatives against Alternaria solani, the causal agent of tomato early blight. 
+290 
+Agronomy 10(9): 1402. DOI: 10.3390/agronomy10091402 
+291 
+Esparza-Díaz G, López-Collado J, Villanueva-Jiménez JA, Osorio-Acosta F, Otero-Colina G 
+292 
+& Camacho-Díaz E (2010) Concentración de azadiractina, efectividad insecticida y 
+293 
+fitotoxicidad de cuatro extractos de Azadirachta indica A. Juss. Agrociencia 44(7): 821-
+294 
+833. 
+295 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+Fecker R, Buda V, Alexa E, Avram S, Pavel IZ, Muntean D & Danciu C (2020) 
+296 
+Phytochemical and biological screening of Oenothera biennis L. hydroalcoholic 
+297 
+extract. Biomolecules 10(6): 818. DOI:  10.3390/biom10060818 
+298 
+Figueirinha A, Paranhos A, Pérez A, Santos C & Batista M (2008) Cymbopogon citratus 
+299 
+leaves: Characterization of flavonoids by HPLC–PDA–ESI/MS/MS and an approach to 
+300 
+their potential as a source of bioactive polyphenols. Food Chemistry 110(3): 718-728. DOI: 
+301 
+10.1016/j.foodchem.2008.02.045 
+302 
+Figueroa G, Castro TEA & Castro SHT (2019). Efecto bioplaguicida de extractos vegetales 
+303 
+para el control de Spodoptera frugiperda en el cultivo de maíz (Zea mays). Acta biológica 
+304 
+colombiana 24(1): 58-66. DOI: 10.15446/abc.v24n1.69333 
+305 
+Fisher RA (1937) The Design of Experiments. Edinburgh; London: Oliver and Boyd. 
+306 
+Franco ES, Nascimento E, Vasconcelos DA, Silva PA, Novaes TL, Feitosa MG & Maia MB 
+307 
+(2022) Polar fraction from Parkinsonia aculeata aerial parts extract improves imbalanced 
+308 
+metabolic profile and reduces proinflammatory interleukin levels in white adipose tissue in 
+309 
+obese rats induced by western diet. Journal of Ethnopharmacology 282: 114557. DOI: 
+310 
+10.1016/j.jep.2021.114557 
+311 
+Gonzáles HHS, Peñuelas-Rubio O, Argentel-Martínez L, Ponce A, Andrade MHH, 
+312 
+Hasanuzzaman M, Aguilera JG & Teodoro PE (2021) Salinity effects on water potential 
+313 
+and the normalized difference vegetation index in four species of a saline semiarid 
+314 
+ecosystem. PeerJ 9: e12297. doi: 10.7717/peerj.12297 
+315 
+Gosset E (1917) Another differences calculus based on standard deviation and confidence 
+316 
+interval. Statistical References 26: 66-72. 
+317 
+Heikal G, Saad H & El-Genaidy M (2021) Evaluation efficiency of some insecticides, plant 
+318 
+extracts and plant oils on controlling Myzuspersicae infesting squash plants under plastic 
+319 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+greenhouses. Egyptian Academic Journal of Biological Sciences, F. Toxicology & Pest 
+320 
+Control 13(2): 109-116. DOI:  10.21608/EAJBSF.2021.192756 
+321 
+Hernández J, Guzmán U, Cerna C, Aguirre U, Cepeda S & Julio C (2018). Actividad 
+322 
+insecticida de polvo de Phoradendron densum(Santalaceae) sobre Spodoptera frugiperda 
+323 
+(Lepidoptera: Noctuidae). Memorias Carteles del XLI Congreso Nacional de Control 
+324 
+Biológico. Sociedad Mexicana de Control Biológico, A.C., Puerto Vallarta, Jalisco. 
+325 
+México. 141-142. 
+326 
+Herrera M, Moreno O, Villares A, Gonzalez J & Belmonte B (2017) Estudio de la abundancia 
+327 
+de polifenoles y flavonoides en plantas del Valle del Yaqui, Sonora. Entorno 
+328 
+Académico. 19: 12-17. 
+329 
+Lee J, Nguyen QN, Park JY, Lee S, Hwang GS, Yamabe N & Kang KS (2020) Protective 
+330 
+effect of shikimic acid against cisplatin-induced renal injury: in vitro and in vivo 
+331 
+studies. Plants 9(12): 1681. doi: 10.3390/plants9121681 
+332 
+Martínez-Olivo IE, Reyes-Melo KY & del Rayo Camacho-Corona M (2020) La gobernadora 
+333 
+como fuente potencial de agentes antituberculosos. Revista de Ciencias Farmaceúticas y 
+334 
+Biomedicina 1: 89-89. 
+335 
+Muñoz O, Copaja S, Speisky H, Peña R & Montenegro G (2007). Contenido de flavonoides y 
+336 
+compuestos fenólicos de mieles chilenas e índice antioxidante. Química Nova 30(4): 848-
+337 
+851. DOI: 10.1590/S0100-40422007000400017 
+338 
+Nxumalo KA, Aremu AO & Fawole OA (2021) Potentials of medicinal plant extracts as an 
+339 
+alternative to synthetic chemicals in postharvest protection and preservation of horticultural 
+340 
+crops: a review. Sustainability 13: 5897. DOI: 10.3390/su13115897 
+341 
+Rodríguez PAT, Arrebato MAR, Baños SB, Triana AC & González DR (2012) Actividad 
+342 
+antifúngica de extractos de Acacia farnesiana sobre el crecimiento in vitro de Fusarium 
+343 
+oxysporum f. sp. lycopersici. Revista Científica UDO Agrícola 12(1): 91-96. 
+344 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+Rivera-Solís LL, Rodríguez-Jasso RM, Flores-López ML, Robledo-Olivo A, Sandoval-
+345 
+Rangel A, Sariñana-Aldaco O & González-Morales S (2021) Extractos de Sargassum spp. 
+346 
+como inductores de tolerancia a Fusarium oxysporum en plántulas de tomate. Ecosistemas 
+347 
+y Recursos Agropecuarios 8(1) e2826: doi: 10.19136/era.a8n1.2826 
+348 
+Santos-Sánchez NF, Salas-Coronado R, Hernández-Carlos B &Villanueva-Cañongo C (2019) 
+349 
+Shikimic acid pathway in biosynthesis of phenolic compounds. Plant Physiological Aspects 
+350 
+of Phenolic Compounds 1: 1-15. DOI: 10.5772/intechopen.83815 
+351 
+Shen N, Wang T, Gan Q, Liu S, Wang L & Jin B (2022) Plant flavonoids: Classification, 
+352 
+distribution, biosynthesis, and antioxidant activity. Food Chemistry 132531. DOI: 
+353 
+10.1016/j.foodchem.2022.132531 
+354 
+Silva CL, Souza EB, Felix KCS, Santos AAG, Silva MY & Mariano RLR (2012) Óleos 
+355 
+essenciais e extratos vegetais no controle da podridão mole emalface crespa. Horticultura 
+356 
+Brasileira 30(4): 632-638. DOI:  10.1590/S0102-05362012000400012  
+357 
+StatSoft (2014) STATISTICA 13.3. StatSoft Incorporation Version 13.3 
+358 
+Stefanovic O & Comic L (2012) Synergistic antibacterial interaction between Melissa 
+359 
+officinalis extracts and antibiotic. Journal of Applied Pharmaceutical Science 2(1): 1-5. 
+360 
+Sun J, Sun W, Zhang G, Lv B & Li C (2022) High efficient production of plant flavonoids by 
+361 
+microbial cell factories: Challenges and opportunities. Metabolic Engineering 70: 143-154. 
+362 
+DOI: 10.1016/j.ymben.2022.01.011 
+363 
+Tavares WR, Barreto MDC & Seca AM (2021). Aqueous and ethanolic plant extracts as 
+364 
+bioinsecticides-establishing a bridge between raw scientific data and practical 
+365 
+reality. Plants. 10(5): 920. DOI: 10.3390/plants10050920 
+366 
+Tukey JW (1960) A survey of sampling from contaminated distributions. In: Olkin I (ed). 
+367 
+contribution to probability and statistics: essays in honor to Harold Hotelling. Redwood 
+368 
+City: Stanford University Press. Pp. 448-485 
+369 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+Vélez-Terranova M, Campos-Gaona R & Sánchez-Guerrero H (2014). Uso de metabolitos 
+370 
+secundarios de las plantas para reducir la metanogénesis ruminal. Tropical and Subtropical 
+371 
+Agroecosystems 17(3): 489-499. 
+372 
+Zoppolo R, Faroppa S, Bellenda B & García M (2008) Guía para la producción y consumo 
+373 
+saludable. Montevideo, Uruguay: Unidad de Comunicación y Transferencia de Tecnología 
+374 
+del 
+INIA. 
+Available 
+at 
+375 
+<https://www.paho.org/uru/dmdocuments/alimentos_en_la_huerta.pdf> 
+376 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+Figure 1 - Obtaining extracts from P. aculeata L. Sp.Pl. A) macerated leaves; B) macerated 
+1 
+stems; and C) extracts obtained after rotary evaporation. 
+2 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4719
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

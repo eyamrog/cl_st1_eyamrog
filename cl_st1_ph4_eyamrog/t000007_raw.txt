@@ -1,0 +1,917 @@
+Publication status: Not informed by the submitting author
+Pre-emptive analgesia for primary tooth extractions in children:
+systematic review of literature
+Sunnypriyatham Tirupathi, Lamea Afnan
+https://doi.org/10.1590/SciELOPreprints.4843
+Submitted on: 2022-10-10
+Posted on: 2022-10-18 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Pre-emptive analgesia for primary tooth extractions in children: systematic review of literature. 
+Sunnypriyatham Tirupathi1*, Lamea Afnan2, Dhanashree Dalal, Ankita Khandelwal, Sayali Deolikar, Lakshmi Thribhuvanan 
+Corresponding Author: Sunnypriyatham Tirupathi, dr.priyatham@gmail.com, Assistant Professor, Department of Pediatric and Preventive dentistry, Dr.D.Y.Patil Dental College and Hospital, Dr.D.Y.Patil Vidyapeeth, 
+Pimpri,Pune,Maharasthra,India.https://orcid.org/0000-0002-2593-0090 
+ 
+Lamea Afnan Assistant Professor, Department of Public health  dentistry, Dr.D.Y.Patil Dental College and Hospital, Dr.D.Y.Patil Vidyapeeth, Pimpri,Pune,Maharasthra,India https://orcid.org/0000-0002-8222-079X 
+ 
+ 
+ABSTRACT 
+Introduction: Pain is a subjective phenomenon that can evoke a sense of innate fear and anxiety. So, pain control should be the main stay of any treatment protocol in dentistry 
+especially for children. Even though it is very well managed pre and intra operatively, a situation possibly arises post operatively. Administration of pre-emptive analgesia 
+could be one of the methods used in the management of post operative pain. This systematic review aimed to evaluate the efficacy and safety of pre-emptive analgesia for 
+primary tooth extractions in children.   
+Methods: PubMed, Ovid SP, Cochrane databases were filtered from years 1980 up to July 2020 for potential papers using relevant MeSH terms and pre-specified inclusion 
+and exclusion criteria independently by two reviewers. Studies that compared pre-emptive analgesic administration in comparison with placebo for primary tooth extractions 
+in children were evaluated. The outcome sought for were self-reported post-operative pain (patient perceived pain), total number of rescue analgesics consumed in the post-
+operative follow up period.  
+Results: A total of six studies were included for the final evaluation. Most of the studies report lower self-reported post-operative pain scores(n=3), and lower rescue analgesic 
+consumption(n=3), in pre-emptive group in comparison to placebo.  
+Conclusions: Pre-emptive analgesic administration might have a positive effect on above mentioned parameters during primary tooth extraction in children, but more evidence 
+is needed to justify the same 
+Keywords: analgesics, children, extraction, pain, pre-emptive, primary tooth. 
+Running title: pre-emptive analgesic for primary tooth extractions. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+2 
+ 
+ 
+ 
+Introduction: 
+ Pain, Fear, Anxiety are three dimensions which can negatively affect the behaviour of child in dental practice. Pain can subjectively evoke a sense of innate fear and anxiety, 
+so pain control should be the main stay of any treatment protocol in dentistry especially for children. Pain should be managed pre, intra as well as post-operatively. Even if the 
+dentist achieves excellent pain control pre and intra operatively, after discharge if the situation arises where the child has acute post-operative pain which does not respond well 
+to analgesics, the negative feeling hampers further cooperation of the child in the successive appointments. To prevent the episode of acute post-operative unresponsive pain, 
+methods such as administration of local anaesthesia, pre-emptive administration of analgesics, performing invasive procedures with minimal tissue damage and inflammation, 
+preventive analgesic administration are being evaluated.  
+The concept of pre-emptive administration of analgesics is one of the extensive studied topic among the previously mentioned methods in the field of medicine and dentistry. 
+Pre‐emptive analgesia involves delivery of analgesic agent prior to start of surgical procedure. It is thought that by initiating analgesic interventions before surgical procedure, 
+can mitigate intraoperative and post-operative nociception to the central nervous system and hence provide superior benefits in comparison to the same analgesic if given post-
+operatively. The effect of surgical injury on peripheral and central sensitisation on pain responses is already validated in the studies by Woolf (1). It is hypothesised that 
+peripheral and central sensitisation causes allodynia, hyperalgesia which can be mitigated by pre-emptive analgesia administration.  
+Pre-emptive analgesic administration in children in the field of general pediatric surgery for tonsillectomy and orthopaedic surgeries report conflicting results with a positive 
+results in few, (2, 3) and negative results in others (4-6). In the field of dentistry, few systematic reviews were published which were mostly reported in adults show encouraging 
+results of pre-emptive analgesic administration for procedures such as third molar extractions (7, 8).  
+To the best of our knowledge no systematic review so far has evaluated the efficacy of pre-emptive analgesic administration in dental procedures in children. The aim of the 
+current systematic review is to evaluate the efficacy and safety of pre-emptive administered analgesic for primary tooth extractions in children.  
+Materials and methods:  
+Protocol: This study was registered in Prospero database CRD42020206878, and followed PRISMA guidelines for reporting. The search strategy was performed with [PICO] 
+framework: population, intervention, comparison, and outcome, based on the following question “Efficacy and safety of pre-emptive analgesic agents for primary/deciduous 
+tooth extractions in children”. The Population Intervention Comparison Outcome (PICO) search strategy of the systematic review was: [P] population: children; [I] intervention: 
+pre-emptively administered analgesics; [C] comparison: no administration or preventive analgesic administration of placebo or any other active agent (analgesics administered 
+post-operatively. [O] outcome of interest: post- operative pain, analgesic consumption, adverse effects if any.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+3 
+ 
+An electronic search was performed in three databases-PubMed, Ovid SP, Cochrane. The search was conducted from publication years 1980 to 2020. The last search was 
+performed on 1 July 2020. Articles published in English are only included. The search was based on the pre-specified question using relevant MeSH terms. Broad search was 
+made using combination of MeSH terms (((((pre-emptive) OR (pre-emptive)) OR (preoperative)) OR (pre-operative)) AND (children)) AND (dental) in PubMed. Pre-emptive 
+and children and dental in Ovid SP and Cochrane.  
+Eligibility criteria: Randomized clinical trials appraising pre-emptive analgesia for primary tooth extraction to that of post-operative analgesic administration (preventive 
+analgesia) were included. Non randomized trials, comparative studies, short communications, technical notes, opinions, case reports, narrative reviews, and systematic reviews 
+and articles that are not published in English language were excluded. Studies retrieved after comprehensive MeSH terms search were imported to citation software Zotero 
+(www.zotero.org) from all the databases, and exclusion of duplicates was performed and then a screening of titles and abstracts was carried out. Pertinent articles were then 
+included for a full text review. Data analysis, segregation, and recording was done by two independent authors. The outcomes evaluated were post operative pain or discomfort, 
+side effects etc,.  
+Data synthesis: Qualitative analysis of selected studies was carried out.  
+Risk-of bias (RoB) assessment: The methodological quality assessment of the included articles was conducted independently by two review team members using the Cochrane 
+Collaboration's criteria. Risk of bias was evaluated for all the seven parameters: random sequence generation, allocation concealment, blinding of participants and personnel 
+and outcome assessment, completeness of outcome data, selective reporting of outcomes, and other sources of bias.  
+ 
+ 
+Results: 
+In all the databases, 858 records were found, of which 6 were duplicates. Removing the duplicate articles, 852 records were screened by title and abstract. Full text of the 17 
+potentially relevant papers were evaluated, among them 11 were excluded (9-19). (Reasons for exclusion is presented in Table-1) As a result, six studies were included in this 
+final systematic review (20-25). A flowchart of the search results is presented in figure-1.  
+Characteristics of included studies: The characteristics of the included studies are presented in Table- 2. All the six studies included were published between the years 1995 
+to 2020, all the studies (except the study by O’Donnell et al 1995) followed randomized design. The study by O’Donnell et al 1995 did not follow randomization, as it was 
+multi-centre trial each centre followed specific drug protocol. Risk of Bias: Risk of bias (figure-2) was evaluated according to Cochrane guidelines. Randomization, allocation 
+concealment, blinding of participants, personnel and blinding of outcome evaluation is mentioned in five studies (20-23, 25), and is not clear in the study by O Donnell et al 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+4 
+ 
+2005 (24). Attrition bias and selective reporting bias is not reported in any study. Other bias (unequal distribution of study participants) was reported only in the study by 
+Kharouba et al 2019 (21).  
+ 
+Discussion: 
+Out of the six studies included for the final review, four studies followed double blind design (21-23, 25), study by Santos et al 2020 followed triple blind design (20), blinding 
+was not performed in the study by O Donnell et al 1995 (24). The age of the children reported in included studies was between 2 to 12 years. Present systematic review evaluated 
+the efficacy and safety of pre-emptive analgesic agents for primary/deciduous tooth extractions in children. Most of the included studies (n=5) evaluated primary tooth 
+extractions only (20, 21, 23-25), except the study by Kharouba et al 2017 where it was mentioned that procedures of rehabilitation such as restorations, stainless steel crowns 
+and space maintainer placement was performed. This study was included by assuming that extractions were performed under general anaesthesia before the placement of space 
+maintainers (22). Primary tooth extractions were performed under local anesthesia in the studies by Santos et al 2020, Baygin et al 2011, Primosch et al 1995 (20, 23, 25), under 
+local anesthesia and conscious sedation in the study by Kharouba et al 2018 (21), under general anaesthesia in the study by Kharouba et al 2017, O Donnell et al 2007 (22, 24).  
+Pre-emptive drugs: In all the six included studies paracetamol and ibuprofen were used as pre-emptive analgesic medication (20-25) and were compared to placebo. The study 
+by O Donnell et al 2007, used Diclofenac sodium as pre-emptive analgesic in children and compared it with paracetamol. Route of administration: Oral route in the studies by 
+Santos et al 2020, Kharouba et al 2018, Baygin et al 2011, O Donnell et al 2007 and Primosch et al 1995, Intravenous administration in the study by Kharouba et al 2007, Rectal 
+administration in the study by O Donnell et al 2007. Protocol of pre-emptive analgesic administration: Paracetamol and Ibuprofen orally administered fifteen minutes in the 
+study by Primosch et al 1995, Kharouba et al 2017, thirty minutes before procedure in the studies by O Donell et al 2007 to one hour before the start of surgical procedure in 
+the study by Santos et al 2020. Time of administration was not mentioned in the studies by Kharouba et al 2018 and Baygin et al 2011. Follow- up duration: Follow-up duration 
+was not mentioned in the study by O Donell et al 2007, and it was 7 hours post-operatively in the study by Primosch et al 1995, 24 hours follow up post operatively in the rest 
+of studies (n=4) (20-23).  
+Behaviour of child during, the procedure was evaluated in the studies by Santos et al 2020, Kharouba et al 2018 (20, 21). Venham behaviour rating scale was used to assess the 
+child behaviour during treatment in the study by Santos et al 2020, Taddio behaviour scale was used in the study by Kharouba et al 2018.  
+Post-operative pain: Self-reported post-operative pain was evaluated in five studies(n=5) (20-24). The study by Primosch et al 1995 did not quantify the self-reported pain by 
+the child, only presence or absence of pain was noted (25). Scales used for quantifying self-reported pain by the children were Visual Analog Scale (VAS) in the study by 
+Santos et al 2020(20), Visual Analog Scale Of Faces (VASOF) in the study by Kharouba et al 2017 (22), Wong baker faces pain scale (WB-FPS) in the studies by Kharouba 
+et al 2018 and O Donnell et al 2007 (21, 24), Five point face scale in the study by Baygin et al 2011 (23).  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+5 
+ 
+Out of five studies that evaluated self-reported post operative pain after extraction, three studies reported significantly lower pain scores in the 24 hour post operative period 
+than placebo (22-24). Two studies did not report any significant difference between pre-emptive analgesia group and placebo group (20, 21). Mixed results might be due to 
+differences in the methodology among the studies and also because of the reason that children cannot report pain accurately, and also the condition of primary teeth before 
+extraction, number of primary teeth undergoing extraction also can influence the pain of the child. Multiple regression model for analysis of pain was only performed in the 
+study by Santos et al 2020, whereas other studies did not evaluate the same so the quality of obtained results can vary.  
+Rescue analgesic medication: The mean rescue analgesic consumption was evaluated in four studies (20-22, 25). Majority of the studies reported that mean rescue analgesic 
+consumption was significantly lower in pre-emptive analgesic group than in placebo group (20-22) for 24 hour post operative period. The study by Primosch et al 1995 did not 
+find any significant difference between pre-emptive analgesic group and placebo group for seven hours post-operative period. The reason might be due to the following shorter 
+post-operative follow up period (7 hours post-operatively compared to 24 hour post-operative period in other studies), also there is a flaw in the pre-emptive analgesic 
+administration: the drugs were administered based on age rather than on weight basis, also drugs were administered orally only 15 minutes before the extraction (the objective 
+of pre-emptive administration is to achieve peak plasma levels of the analgesic drug just before the start of surgery, oral administration should be done 30 minutes or one hour 
+before start of extractions). Side effects of pre-emptive analgesic drugs: No major adverse effects were reported in any of the included study, Some of the minor side effects 
+reported were post-operative bleeding which stopped spontaneously, vomiting, headache, swelling, fever (20-23).  
+Limitations of this review: following few are the limitations about this review  
+1. Most of the studies included children with a age range from 2-12 years, children especially younger age group children (< 4 years) cannot sufficiently describe pain unlike 
+adults. so self-reported pain scores are less reliable especially for this age groups.  
+2. State and stage of primary tooth (symptomatic or asymptomatic; mobile or firm, resorbed or partially resorbed or un-resorbed; presence or absence of pus) before extraction, 
+type of primary tooth (primary incisor or primary molar) also can influence pain related behaviour which was not mentioned in the included studies.  
+3. Behaviour/anxiety traits of child and parent, also can influence the pain report of the child. These were also not standardised in the included studies.  
+4. Differences in the alertness also can differ between children who have undergone extractions under general anaesthesia in comparison to children who have undergone 
+extraction under local anaesthesia which can also affect the pain reporting.  
+Directions for future research: Properly designed randomized trails are lacking in this area. Standardising and matching the type of tooth, state and stage of primary tooth to 
+be extracted, standardisation of pre-emptive drugs administration protocol, comparing various routes (Oral with IV), comparison of various drugs that are deemed to be safe in 
+children, age and anxiety matching can be performed for primary tooth extractions and this can be a valuable research for the future. Comparison between pre-emptive and 
+preventive analgesic administration via different routes (oral, IV); (pre-emptive versus preventive, pre-emptive and preventive) in Paediatric population is also a valuable 
+research topic in our opinion.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+6 
+ 
+Conclusions: 
+Based on above discussion, it can be concluded that, pre-emptive analgesic administration might have a positive effect on post-operative pain reduction and can reduce mean 
+rescue analgesic medication taken due to primary tooth extraction in children, but the amount of evidence available to justify the same is very less. More number of properly 
+designed and executed randomized control trials are needed to verify the same. 
+Funding: There is no financial support and sponsorship to declare.  
+Conflicts of interest:  None to declare. 
+Authors Contribution: Sunnypriyatham Tirupathi- Conceptualisation,data anaylasis, writing editing  
+                                        Lamea Afnan- Editing  
+                                        Dhanashree Dalal, Ankita Khandelwal, Sayali Deolikar, Lakshmi Thribhuvanan- Editing  
+ 
+References:  
+1. Woolf CJ. Evidence for a central component of post-injury pain hypersensitivity. Nature. 1983; 15-21;306(5944):686-8.  
+2. Abdel-Ghaffar HS, Abdel-Wahab AH, Roushdy MM, Osman AMM. Uso preventivo de cetamina nebulizada para controle da dor após amigdalectomia em crianças: 
+estudo randômico e controlado [Preemptive nebulized ketamine for pain control after tonsillectomy in children: randomized controlled trial]. Braz J Anesthesiol. 
+2019;69(4):350-7.  
+3. Mahgoobifard M, Mirmesdagh Y, Imani F, Najafi A, Nataj-Majd M. The analgesic efficacy of preoperative oral Ibuprofen and acetaminophen in children undergoing 
+adenotonsillectomy: a randomized clinical trial. Anesth Pain Med. 2014; 28;4(1):e15049.  
+4. Ra YS, Kim CH, Lee GY, Han JI. The analgesic effect of the ultrasound-guided transverse abdominis plane block after laparoscopic cholecystectomy. Korean J 
+Anesthesiol. 2010; 58(4):362-8.  
+5. Kim DH, Kim N, Lee JH, Jo M, Choi YS. Efficacy of preemptive analgesia on acute postoperative pain in children undergoing major orthopedic surgery of the lower 
+extremities. J Pain Res.2018; 11: 2061-70.     
+6. Song IK, Park YH, Lee JH, Kim JT, Choi IH, Kim HS. Randomized controlled trial on preemptive analgesia for acute postoperative pain management in children. 
+Paediatr Anaesth.2016; 26(4): 438-43. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+7 
+ 
+7. Cetira Filho EL, Carvalho FSR, de Barros Silva PG, Barbosa DAF, Alves Pereira KM, Ribeiro TR, et al. Preemptive use of oral nonsteroidal anti-inflammatory drugs 
+for the relief of inflammatory events after surgical removal of lower third molars: A systematic review with meta-analysis of placebo-controlled randomized clinical 
+trials. J Craniomaxillofac Surg.2020; 48(3): 293-307. 
+8. Falci SGM, Lima TC, Martins CC, Santos C, Pinheiro MLP. Preemptive effect of dexamethasone in third-molar surgery: A meta-analysis. Anesth Prog.2017; 64(3): 
+136-43. 
+9. Abou El Fadl R, Gowely M, Helmi M, Obeid M. Effects of pre-emptive analgesia on efficacy of buccal infiltration during pulpotomy of mandibular primary molars: 
+A double-blinded randomized controlled trial. Acta Odontol Scand.2019; 77(7): 552-8. 
+10. Veneva E, Raycheva R, Belcheva A. Efficacy of erbium-doped yttrium aluminium garnet for achieving pre-emptive dental laser analgesia in children: A study protocol 
+for a randomized clinical trial. Medicine (Baltimore).2018; 97(51): e13601. 
+11. Shafie L, Esmaili S, Parirokh M, Pardakhti A, Nakhaee N, Abbott PV, et al. Efficacy of pre- medication with ibuprofen on post-operative pain after pulpotomy in 
+primary molars. Iran Endod J.2018; 13(2): 216-20. 
+12. McCann C. Preoperative analgesia for children and adolescents to reduce pain associated with dental treatment. Evid Based Dent.2017; 18(1): 17-8. 
+13. Keles S, Kocaturk O. The effect of oral dexmedetomidine premedication on preoperative cooperation and emergence delirium in children undergoing dental 
+procedures. Biomed Res Int.2017; 2017: 6742183.  
+14. Ashley PF, Parekh S, Moles DR, Anand P, MacDonald LC. Preoperative analgesics for additional pain relief in children and adolescents having dental treatment. 
+Cochrane Database Syst Rev.2016; 2016(8); Cd008392.  
+15. Peltz ID. Evidence lacking to determine whether preoperative analgesic use reduces post dental treatment pain for children. Evid Based Dent.2012; 13(4): 104. 
+16. Ashley PF, Parekh S, Moles DR, Anand P, Behbehani A. Preoperative analgesics for additional pain relief in children and adolescents having dental treatment. 
+Cochrane Database Syst Rev.2012; CD008392. 
+17. Hosey MT, Asbury AJ, Bowman AW, Millar K, Martin K, Musiello T, et al. The effect of transmucosal 0.2 mg/kg midazolam premedication on dental anxiety, 
+anaesthetic induction andpsychological morbidity in children undergoing general anaesthesia for tooth extraction. Br Dent J.2009; 207(1): E2; discussion 32-3. 
+18. Gazal G, Mackie IC. A comparison of paracetamol, ibuprofen or their combination for pain relief following extractions in children under general anaesthesia: A 
+randomized controlled trial. Int J Paediatr Dent.2007; 17(3): 169-77. 
+19. Marshall WR, Weaver BD, McCutcheon P. A study of the effectiveness of oral midazolam as a dental pre-operative sedative and hypnotic. Spec Care Dentist.1999; 
+19(6): 259-66. 
+20. Santos PS, Massignan C, de Oliveira EV, Miranda Santana C, Bolan M, Cardoso M. Does the pre-emptive administration of paracetamol or ibuprofen reduce trans- 
+and post-operative pain in primary molar extraction? A randomized placebo-controlled clinical trial. Int J Paediatr Dent.2020;30(6):782-790.  
+21. Kharouba J, Ratson T, Somri M, Blumer S. Preemptive analgesia by paracetamol, ibuprofen or placebo in pediatric dental care: A randomized controlled study. J Clin 
+Pediatr Dent.2019; 43(1):51-5. 
+22. Kharouba J, Hawash N, Peretz B, Blumer S, Srour Y, Nassar M, et al. Effect of intravenous paracetamol as pre-emptive compared to preventive analgesia in a pediatric 
+dental setting: A prospective randomized study. Int J Paediatr Dent.2018; 28(1): 83-91. 
+23. Baygin O, Tuzuner T, Isik B, Kusgoz A, Tanriver M. Comparison of pre-emptive ibuprofen, paracetamol, and placebo administration in reducing post-operative pain 
+in primary tooth extraction. Int J Paediatr Dent.2011; 21(4): 306-13. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+8 
+ 
+24. O'Donnell A, Henderson M, Fearne J, O'Donnell D. Management of postoperative pain in children following extractions of primary teeth under general anaesthesia: 
+A comparison of paracetamol, voltarol and no analgesia. Int J Paediatr Dent.2007; 17(2): 110-5. 
+25. Primosch RE, Antony SJ, Courts FJ. The efficacy of preoperative analgesic administration for postoperative pain management of pediatric dental patients. Anesth Pain 
+Control Dent.1993; 2(2): 102-6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE  
+Table-1: Excluded studies with reasons 
+Sl. No. 
+Excluded articles 
+Reasons for exclusion 
+1. 
+Abou EL Fadl et al 2019  
+Pulpotomy was the procedure evaluated  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+9 
+ 
+ 
+ 
+2. 
+Veneva et al 201  
+ 
+Pre-emptive laser analgesia for restorative treatments in 
+children 
+ 
+3. 
+Shafie et al 2018  
+ 
+Pulpectomy was the procedure evaluated 
+ 
+4. 
+Mc Cann 2017  
+ 
+Review article  
+ 
+5. 
+Keles and Kocaturk 2017  
+ 
+Anaesthetic pre-medication hence excluded  
+ 
+6. 
+Ashley et al 2016  
+ 
+Preoperative analgesics for additional pain relief in 
+children and adolescents having dental treatment 
+7. 
+Peltz et al 2012  
+ 
+Review article 
+ 
+8. 
+Ashley et al 2012  
+ 
+Review article 
+ 
+9. 
+Hosey et al 2009  
+ 
+Anaesthetic pre-medication hence excluded  
+ 
+10. 
+Marshall et al 2008  
+ 
+Anaesthetic pre-medication hence excluded  
+ 
+11. 
+Gazal and Mackie 2007  
+ 
+Post operatively administered analgesics  
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+11 
+ 
+Table-2: Characteristics of Included studies. 
+Sl. 
+No
+.  
+Author
+-year  
+ 
+Study 
+design  
+ 
+Sample 
+characte
+ristics  
+ 
+Procedur
+e  
+ 
+Study drug 
+administered/route/d
+ose 
+Comp
+ared 
+drug/r
+oute/d
+ose 
+Follow 
+up 
+duratio
+n  
+Anxiety/ 
+child’s 
+behaviour  
+ 
+Post-operative pain  
+ 
+Rescue 
+medication  
+ 
+Adverse effects  
+ 
+1. 
+Santos 
+et al 
+2020 
+Randomiz
+ed control 
+trial  
+Triple 
+blinded  
+48 
+children( 
+age 5-10 
+years) 
+undergoin
+g primary 
+molar 
+extraction
+s  
+ 
+Primary 
+molar 
+extraction 
+under 
+local 
+anesthesi
+a. 
+Oral pre-emptive 
+paracetamol 1 hour 
+before the procedure. 
+Oral pre-emptive 
+ibuprofen one hour 
+before  
+ 
+Oral 
+pre-
+emptiv
+e saline 
+24 
+hours 
+post 
+operativ
+ely after 
+extracti
+on  
+Venham's 
+Behavior 
+Rating 
+Scale 
+(VBRS) 
+was used  
+to evaluate 
+the child's 
+global 
+behaviour 
+during 
+dental care. 
+The 
+Brazilian 
+version of 
+the Dental 
+Anxiety 
+Scale 
+(DAS) 
+scale was 
+administere
+d to 
+evaluate 
+parental 
+anxiety  
+ 
+100mm Visual 
+Analog Scale (VAS) 
+score was measured.  
+Mean (SD) VAS 
+scores were 16.88 
+(24.07), 9.06 (19.17), 
+and 6.25 (22.39) at 2, 
+6, and 24 hours, 
+respectively, in the 
+placebo group. In the 
+paracetamol group, 
+the mean (SD) VAS 
+scores were 13.06 
+(23.49), 4.81 (7.99), 
+and 1.75 (5.06) at 2,  
+6, and 24 hours. 
+Finally, in the 
+ibuprofen group, the 
+mean 
+VAS scores were 
+6.50 (12.14), 5.88 
+(10.07), and 1.38 
+(3.86)  
+at 2, 6, and 24 hours, 
+respectively. Multiple 
+linear regression for 
+covariates associated 
+with post-operative 
+pain at 2, 6, and 24 
+hours of follow-up 
+showed  
+that pre-emptive 
+analgesia did not 
+have a significant 
+The number of 
+patients who 
+used analgesics 
+at 2 hours of 
+follow-up was 
+significantly 
+higher in the 
+placebo group 
+(37.5%) 
+compared to the 
+paracetamol 
+(18.7%) and 
+ibuprofen (6.2%) 
+group (P = .031).  
+ 
+at 2 hours of follow-up, one 
+patient from paracetamol 
+group and two patients from 
+ibuprofen group were reported 
+by their caregiver to have 
+post- operative bleeding and 
+swelling, respectively. At 24 
+hours, three patients  
+were reported to have swelling 
+(2 from placebo group  
+and 1 from ibuprofen), two 
+patients had post-operative 
+bleeding (1 from paracetamol 
+group e 1 from ibuprofen), one 
+patient from ibuprofen group 
+had fever (38.9°C), another  
+patient from ibuprofen group 
+reported headache, and finally, 
+one patient from paracetamol 
+group presented one episode 
+of vomiting  
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+12 
+ 
+effect 
+on post-operative 
+pain at any time, nor 
+the other variables 
+investigated (P > 
+.05).  
+ 
+2. 
+Kharo 
+uba et  
+al 2018  
+ 
+Randomiz
+ed double 
+blind 
+control 
+trial  
+ 
+105 
+children 
+aged 5- 
+12 years,  
+ 
+Extractio
+n of 
+primary 
+tooth 
+undue 
+local 
+anesthesi
+a and 
+nitrone 
+oxide 
+sedation  
+Thirty minutes prior to 
+their dental treatment 
+local anesthesia  three  
+oral  
+liquid solutions: 15 mg 
+/kg of paracetamol) 
+fruit flavored, orange 
+color; 15 mg/kg 
+ibuprofen  
+ 
+ 
+Placeb
+o  
+24 
+hours 
+post- 
+operativ
+ely  
+ 
+Pain 
+behavior 
+scores were 
+evaluated 
+by dental 
+assistant 
+according 
+to the 
+Taddio 
+scale was 
+recorded  
+before 
+treatment, 
+after local 
+anesthetic 
+and after 
+extraction  
+ 
+Written and verbal 
+instructions for post-
+treatment were 
+provided to parents. 
+They were instructed 
+to record their 
+children’s report of 
+pain intensity at four 
+and 24 hours 
+following the 
+procedure; and to 
+administer pain 
+medication as 
+needed. The 
+children’s self- 
+reported pain-score 
+(Wong– Baker 
+FACES scale) and 
+the need for 
+analgesics at four 
+hours and 24 hours 
+postoperative were 
+elicited from the 
+parents by telephone.  
+No significant 
+difference reported.  
+ 
+Parents reported 
+administering an 
+analgesia within 
+four hours 
+following the 
+procedure to 
+9/43 (20.9%), 
+2/33 (6.1%) and 
+12/29 (41.4%) of 
+the children in 
+the paracetamol, 
+ibuprofen and 
+placebo groups, 
+respectively. The 
+difference 
+between the 
+placebo and 
+between the 
+ibuprofen and 
+paracetamol 
+groups was 
+statistically 
+significant 
+(p=0.004). No 
+statistically 
+significant was 
+found between 
+the paracetamol 
+None reported.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+13 
+ 
+and ibuprofen 
+groups  
+ 
+3. 
+Baygin 
+et al  
+2011  
+ 
+Double 
+blind 
+randomise
+d control 
+trial  
+45 
+children 
+aged 6-12 
+years 
+Primary 
+mandibul
+ar molar 
+tooth 
+extraction 
+under 
+local 
+anesthesi
+a  
+Oral ibuprofen and 
+oral paracetamol 
+Flavou
+red 
+placeb
+o  
+24 
+hours  
+- 
+Five point face scale 
+was used to record 
+pain. unpleasantness 
+or affective 
+dimension of a 
+child’s pain 
+experience.  
+The usage of pre-
+emptive analgesics 
+(ibuprofen, 
+paracetamol) showed 
+significantly lower 
+pain scores compared 
+to placebo (P < 0.05) 
+at 15 min, 1, 2, 3, 4, 
+5,6 h, and 24 h.  
+Additionally, 
+ibuprofen exhibited 
+lower pain scores (P 
+< 0.05) compared to  
+paracetamol at the 
+15-min (P < 0.001) 
+and 
+4-h (P < 0.009) 
+periods.  
+ 
+Not mentioned.  
+ 
+Lip biting (n=2) and post 
+operative bleeding(n=1) were 
+few side effects reported in 
+this study.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+14 
+ 
+4. 
+O 
+Donell  
+et al 
+2007  
+ 
+Multicentr
+e 
+randomise
+d double 
+blind 
+controlled 
+trial. 
+210 
+children 
+aged 3-12 
+years 
+undergoin
+g 
+extraction  
+Primary 
+tooth 
+extraction 
+under 
+general 
+anesthesi
+a 
+Oral paracetamol 30 
+minutes before 
+procedure. 
+Rectal volterol 2 
+minutes before 
+extraction  
+No 
+pre-
+emptiv
+e agent  
+Not 
+mention
+ed  
+Not 
+evaluated  
+The Wong and Baker 
+Pain Scale (WBPS) 
+was used to evaluate 
+self-reported pain by 
+the child.  
+Children receiving 
+pre-emptive rectal 
+volterol or oral 
+paracetamol 
+experienced 
+significantly  
+less pain than no pre-
+emptive analgesia 
+group  
+ 
+Not evaluated  
+Not reported 
+5. 
+Primosc
+h et  
+al 1995  
+ 
+Double 
+blind 
+randomize
+d 
+control 
+trial.  
+ 
+60 
+children 
+aged 2- 10 
+years.  
+ 
+Extractio
+n 
+of 
+primary 
+tooth 
+undue 
+local 
+anesthesi
+a 
+Oral 
+pre-emptive 
+ibuprofen 
+or 
+acetaminophen 
+Placeb
+o 
+flavour
+ed 
+7 
+hour 
+period 
+followin
+g 
+surgery.  
+ 
+Not 
+evaluated  
+ 
+No 
+significant 
+difference 
+between 
+pre-emptive 
+and 
+placebo 
+group 
+in 
+terms 
+of 
+post 
+operative pain in the 
+first seven hours post-
+operatively.  
+Pain present or absent 
+is 
+evaluated 
+but 
+quantification of pain 
+was not done  
+ 
+The 
+prevalence 
+of postoperative 
+analgesic usage 
+according to test 
+solution 
+group 
+was reported as 
+ibuprofen (20%), 
+acetaminophen 
+(15%), 
+and 
+placebo (20%).  
+No 
+significant 
+difference in the 
+amount 
+of 
+analgesics 
+consumption 
+between 
+pre-
+emptive 
+and 
+placebo group in 
+terms in the first 
+None reported.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+seven hours post- 
+operatively  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+16 
+ 
+Figure Legends:  
+Figure-1: Flowchart of selected studies  
+Figure-2: Risk of bias 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+17 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+18 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+19 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4843
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

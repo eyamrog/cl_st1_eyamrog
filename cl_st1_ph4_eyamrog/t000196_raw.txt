@@ -1,0 +1,840 @@
+Brazilian school feeding during the COVID-19 pandemic 
+ 
+Ana Carla Bittencourt Reis * 
+University of Brasilia 
+https://orcid.org/0000-0002-2141-8997 
+ 
+Mara Lúcia Castilho 
+Federal Institute of Brasilia 
+https://orcid.org/0000-0002-8467-447X 
+ 
+Ana Paula Melo Mariano 
+State University of Santa Cruz 
+https://orcid.org/0000-0002-3177-7790 
+ 
+Edilson de Souza Bias 
+University of Brasilia 
+https://orcid.org/0000-0003-0334-0476 
+ 
+ 
+Author contributions:  
+ACBR conceptualized, designed, collected data, provided information and elaborated the study.  
+MLC collected information and data, elaborated the study and reviewed the paper. APMM collected 
+data and provided public health information. ESB collected data and provided description of local 
+scenario. All authors approved the final version of the manuscript. 
+ 
+Abstract 
+School feeding is part of for million students' routine worldwide. Schools' closure during the 
+COVID-19 pandemic brought to the fore the challenge of providing food for children and 
+adolescents by alternative means, through food programs, whether governmental or otherwise. In 
+Brazil, approximately 40.1 [1] million children and adolescents enrolled in basic public education 
+were affected and went without their daily meal during this period. To provide them food, most 
+local governments chose to transfer financial resources to their parents. The challenge of knowing 
+if children are receiving these meals adequately during school closures, which can be lengthy, is 
+the target of this study. The current situation in the 27 Brazilian federated entities regarding the 
+transfer of funds and delivery of meals is presented herein. A monitoring model is proposed for 
+children and adolescents to be followed during the pandemic, in order to guarantee their adequate 
+nutrition. 
+Keywords: School feeding, Monitoring, COVID-19, Food programs, School closure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+1 Introduction 
+The first case of COVID-19 was recorded in December 2019, in the city of Wuhan, China [2]. In 
+Brazil, the first recorded cases were in February 2020 [3], and, among the measures taken to contain 
+the spread of the pandemic, social distancing has been widely adopted as a non-pharmaceutical 
+measure. Other measures taken include the closure of educational institutions at all levels, followed 
+by restaurants, offices, and commerce in general, in addition to others.  
+As of April 2020, school closures during the pandemic, affected approximately 197 countries and 
+1.6 billion children and adolescents [4]. Of this number, there are currently about 352 million that 
+are no longer receiving meals at school, and for many, these are the only meals of the day [4]. There 
+are countries with a significant number of students regularly benefiting from school meals that are 
+being affected by this pandemic, such as: India (approximately 90.4 million), Brazil (40.1 million), 
+United States (30 million), Egypt (11 million), Nigeria (9.8 million), South Africa (9.2 million), 
+Turkey (6.1 million), Colombia (4 million), Peru (2.3 million), Bolivia (2.3 million), Ethiopia (2.5 
+million), and Argentina (1.6 million) [1]. 
+Providing food is one of the functions performed by a school, in addition to others, such as 
+education, socialization, and care for children and adolescents [5]. Maintaining a healthy diet is 
+crucial for preserving the general well-being of a population. A good nutritional status is directly 
+related to proper development and growth in childhood, better immune response, less risk of 
+developing diseases, and is fundamental for recovery, in cases of infection [6,7]. 
+School feeding programs work under the auspices of promoting Food and Nutritional Security 
+(SAN) and it is in this context that the school environment is the fundamental and strategic space 
+for promoting SAN, since it provides meals and also helps in the formation of healthy eating habits. 
+The benefit of school meals is incalculable, because healthy eating is a way of providing child 
+development through adequate nutrition, improving cognitive ability, as well as contributing to 
+reducing school dropout rates. Therefore, in countries with great social difficulties, such as Brazil, 
+Mexico, Ecuador and Ghana, for example, many children rely on schools as their main source of 
+food [8]; and, during this pandemic, the lack of food can impair the development of these children 
+and adolescents and contribute to increased school dropout rates [9].  
+It is worth mentioning that the more precarious a child's food situation is, that is, the more 
+vulnerable the family structure is to supplying basic needs, the greater the importance of school [5] 
+for filling this deficiency. In addition, in situations of social vulnerability, school meals constitute 
+an indirect income for families, and this can contribute to overall family income. [10]. 
+In the article, "Mitigating the effects of the COVID-19 pandemic on food and nutrition of 
+schoolchildren," UNESCO mentions the transfer of money to families affected by the closure of 
+educational institutions, via the card normally used to acquire school supplies. According to this 
+article, the amount of the transfer varies according to the daily number of meals that children usually 
+receive in schools [11]. 
+The Brazilian government passed Law 13,987/20 in order to guarantee the distribution of food to 
+the families of students in public schools (from zero to 17 years old), whose classes were suspended 
+during the new coronavirus pandemic [12] through the National School Feeding Program - PNAE. 
+However, little is known about the effectiveness of the adopted measures.  
+When seeking to know more about this process on the websites of Brazilian state education 
+departments, little information was found on this topic, or on the number of children and 
+ 
+ 
+ 
+ 
+ 3 
+ 
+adolescents benefiting from this measure, which among other reasons, influenced the motivation of 
+this research. 
+In light of the above, and in addition to promoting a discussion about this important and urgent 
+problem, this work aims to: present the types of transfer (food and/or cash rations) carried out by 
+Brazilian state authorities to children and adolescents who are away from school; and propose 
+strategies for monitoring and controlling the use of these transfers by families, in order to mitigate 
+the risks arising from the lack of food for these students during the COVID-19 pandemic. 
+2 The role of school feeding programs 
+As illustrated in Figure 1, schools play at least four roles that reflect their importance in the lives 
+of children, adolescents, family members, and to society as a whole. At the heart of this context, 
+especially when considering cognitive development, education is driven by: socialization, through 
+which children and adolescents can develop their socio-emotional skills; care, that is being a safe 
+place where parents can leave their children to be able to work; and, finally, through food, because 
+in many cases this is the only food meeting the nutritional standards necessary for development and 
+health that children and adolescents manage to obtain. There is a complexity in fulfilling the 
+objectives of each of these school roles during this pandemic, which has further challenged 
+educators, governments, schools, and families.  
+In Brazil, public schools are specifically represented by the model in Figure 1, as they play a 
+fundamental role in the development, training and care of children and adolescents, especially in 
+view of their vulnerability within their social environments, and who in most cases, come from 
+low-income families and difficult social conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Role of the school in the student's life. Adapted from [5]  
+During the pandemic, alternatives to classroom education such as distance teaching and remote 
+monitoring have been implemented to reduce the impacts upon cognitive development as a 
+consequence of material expected to be otherwise taught throughout the school year. The care and 
+ 
+ 
+ 
+ 
+ 4 
+ 
+socialization offered by the school are factors to be discussed, and the impact of the closure of 
+schools upon these factors is very large. However, social distancing makes it difficult to make 
+decisions about measures that address their mitigation. The subject of this study, school food, has 
+been addressed as a relevant issue and it is necessary to assess whether the measures taken for this 
+purpose reflect the urgency to solve this problem.  
+Even before the pandemic, much research was carried out to assess the benefits of school meals 
+upon the lives of students. Previous studies have already shown the positive effects of school 
+feeding programs on the development of verbal fluency in malnourished children [13]. 
+Additionally, Jomaa, McDonnell, and Probart [14] presented a bibliographic survey of articles 
+published over the span of 20 years evaluating school feeding programs and, based on these articles, 
+analyzed the impact of school feeding programs on the lives of children and adolescents. This 
+research revealed a relative positive effect of school meals on student enrollment and dropout rates, 
+when compared to students not covered by these programs.  
+In Latin America, the Food and Agriculture Organization of the United Nations (FAO) encourages 
+countries to develop their school feeding programs. In the United States, there are at least two care 
+programs aimed at vulnerable children, such as the School Nutrition Program, a school nutrition 
+program aimed at offering free meals to children from needy families, and the Farmers Market 
+Nutrition Program (FMNP), a special supplementary nutrition program for women, babies, and 
+children. Another program of great relevance is the World Food Program (WFP), a worldwide 
+initiative that serves about 17.3 million school children with meals and snacks [WFP].  
+Brazil counts on the PNAE (National School Feeding Program), a social program linked to the 
+Education Ministry (implemented in 1955) that seeks to guarantee students enrolled in public 
+schools and philanthropic entities an adequate and healthy meal. Other alternatives to promote 
+nutrition for children and adolescents have been developed as well, such as micronutrient fortified 
+cookies produced in Vietnam that, according to research, have reduced the prevalence of anemia 
+and improved the status of iron intake [15]. 
+ 
+3 School feeding programs during COVID-19 
+Without school feeding programs during the COVID-19 pandemic, thousands of children are 
+subject to starvation. As of April, regarding strategies for the provision of school meals during this 
+pandemic, of the approximately 197 countries with schools closed during this period, 10 of them 
+have implemented programs for the transfer of cash rations to families, 47 are providing take-home 
+food rations, 9 have placed programs on hold, and 16 are adopting mixed strategies [1]. However, 
+the provision of food or other assistance to supply school meals does not guarantee that children 
+are, in fact, being fed. [4]. 
+In addition to Brazil, other countries that have also provided financial assistance to families include: 
+the United States, through the Supplemental Nutritional Assistance Program (SNAP); Peru, with 
+the transfer of cash rations through the Qali Warma National School Food Program; and many 
+others. According to the WFP, at least 10 countries have adopted a strategy of transferring cash 
+rations to family members in order to mitigate this problem. This is a measure that can be effective; 
+however, other difficulties can be faced by families, such as bearing the costs of preparing food, 
+which can be a difficult task under a scenario of high unemployment.  
+• Maintain flexibility and responsiveness to changes in the food supply and in the distribution 
+and provision of nutrition services, while ensuring compliance with COVID-19 protocols.   
+• Use available resources to protect food and nutritional security for school children.   
+ 
+ 
+ 
+ 
+ 5 
+ 
+• Build upon existing welfare structures to cover vulnerable school children.   
+• Ensure that food and nutritional needs of vulnerable children are taken into account when 
+designing any large-scale national response to COVID-19.   
+• Plan for the future reopening of schools, if possible, with specific benchmarks.  
+The expected duration of the pandemic is strongly related to the development of new drugs and a 
+possible vaccine [16]. It is not yet clear how long schools will be closed as a measure to reduce or 
+contain the contamination resulting from COVID-19, or if there will be episodes of intermittent 
+opening and closing. This leads to a discussion of the sustainability and effectiveness of initiatives 
+carried out. With regard to school feeding programs, the measures adopted need to be adapted to 
+these scenarios.  
+For example, school closures in situations similar to the current pandemic were used during the 
+H1N1 outbreak as a non-pharmaceutical containment measure [17], which, according to these 
+authors, contributed to a decrease in the spread of the disease.  However, in Brazil in 2009, only a 
+few states postponed returning to classes by 15 days in the second semester of the academic year 
+[18], with no extended school closures as in 2020.  
+Short-term harm to students’ health as a result of missed meals during the pandemic may include 
+fatigue and a reduced immune response, which makes children and adolescents more vulnerable to 
+contracting infectious agents such as viruses, bacteria, etc., and consequently to developing 
+diseases, which can worsen their condition because of a deficient immune response. In the long 
+term, this harm can affect psychological, physical, and emotional development [19].  
+As mentioned, Federal Law 13,987/20 has the clear objective of guaranteeing the distribution of 
+food to the families of students whose schools are closed. When the Law was enacted, the 
+government of the Federal District opted for the distribution of food allowances to the parents of 
+students from public schools14. However, little has been disclosed about the monitoring of this 
+mitigation measure. Information regarding this initiative in the Federal District of Brazil can be 
+found on the website of the State Bureau for Education of the Federal District (SEEDF) [20] and, 
+as disclosed by this site, during the three phases of funds released, only 69,848 families are 
+benefiting, or 106,435 students. No information was found regarding criteria for the distribution of 
+food allowances or the percentage of families receiving benefits, in relation to the total number of 
+students enrolled in the public school system of the Federal District. Still, even for those who 
+receive government assistance, it is necessary to analyze its effectiveness in relation to the needs of 
+children, in view of the nutritional requirements presented by schools, as these requirements cannot 
+be guaranteed at home. 
+Chart 1 (Appendix 1) presents data on the benefits related to school meals provided by each of the 
+Brazilian states and the Federal District to the families of students during the cessation of classes 
+due to the pandemic, and available on the websites of the 27 State Departments of Education of 
+each federated entity (retrieved between June 6 and June 8, 2020). We sought to identify the 
+number of families and students receiving some type of benefit, the value and type of the benefit 
+transferred, the form of transfer or delivery, and the eligibility criteria for such procedure. 
+It should be noted that most of the information presented in Chart 1 was found in press releases 
+from the State Education Bureaus.  
+Despite the assistance provided to students, whether in the form of prepared meals, meal kits, or 
+financial aid, some issues still need to be addressed, such as: the actual destination of the aid 
+(whether the students will personally benefit from this assistance), the nutritional content and 
+amount of food in the meal kits, and the difficulties that the family can face in receiving the benefit 
+and preparing food. 
+ 
+ 
+ 
+ 
+ 6 
+ 
+4 Proposed model for monitoring, follow-up, and control 
+This work presents a proposed model for monitoring, accompanying, and controlling the financial 
+aid benefits received by children and adolescents during the COVID-19 pandemic.  
+The model was outlined for the situation in Brazil, referencing the public policies adopted by that 
+country and its social conditions. However, it is understood that it can also be used as a basis for 
+other places to intervene in this process, in order to ensure that students receive adequate food 
+during the pandemic.  
+In Brazil, the family health community agent (currently more than 200,000) is very common, whose 
+role is to assist the poorest communities with the objective of promoting health surveillance, 
+primary care and community health [21]. During this pandemic, these agents could monitor families 
+and, regarding children and adolescents, contribute to the monitoring, not only of their health, but 
+also of food intake. This monitoring could employ the use of telemedicine, and involve the 
+following actors: families, schools, government, and health agents (Figure 2). The latter can be 
+replaced by another actor, to be defined by the government, to fulfill this role.  
+ 
+Figure 2. School feeding model during the COVID-19 pandemic. 
+The proposed monitoring needs to follow a checklist with issues to be observed within the family, 
+in order to provide an understanding of the nutritional status of the child or adolescent.  
+At the same time, it’s important to invest in geographic intelligence, aiming to map and monitor 
+the areas of greatest vulnerability; locate all families that are linked to the receipt of benefits from 
+this food program, and perform, through random selection, the verification of the effectiveness of 
+this process, including the use of web applications to monitor and receive information from all those 
+involved who are not receiving the aid. Registrations must follow the active surveillance model. 
+The implementation of this model should provide sufficient data, in a timely manner, to support the 
+government in understanding the effectiveness of the school feeding program during the pandemic, 
+so that adjustments and adaptations can be made in favor of the students' nutritional requirements 
+ 
+ 
+ 
+ 
+ 7 
+ 
+5 Conclusions 
+In times of pandemic, children's nutrition is a crucial aspect to be discussed by society, given that, 
+for many, school is the central point of daily support. Ensuring that food reaches children and is 
+consumed by them is difficult for governments to monitor, since food or the financial aid to 
+purchase it is delivered to families, and the lack of control over the correct distribution and use of 
+this food makes it difficult to know its effectiveness in mitigating this problem.  
+Monitoring strategies need to be effective and family health agents could assist the government, 
+using means similar to telemedicine, based on information provided by competent departments. 
+Therefore, to contribute to the transparency of the use of public resources, it is necessary to develop 
+research on the conditions throughout the Brazilian regions, and also to use of geographic 
+intelligence tools that allow spatial monitoring, linked to active surveillance mechanisms, within 
+the concept of participatory control of public funds, using information collection platforms to: know 
+if the distribution of this benefits to families is effective and if children are receiving the food 
+referred to in the Law and the PNAE; know what food is consumed by children and young people 
+during this period and the number of meals eaten daily by them, with the help of family health 
+agents; subsidize the government with information necessary to outline strategies for monitoring 
+and following the diet of these children and adolescents during the pandemic.  
+In this way, it would be possible to contribute not only to the debates regarding the fulfillment of 
+this role by the school, and aggravated by the pandemic, but also to know the effectiveness of public 
+policies adopted during this period of emergency declared by the federal and state governments.  
+Conflict of Interest 
+The authors declare that the research was conducted in the absence of any commercial or 
+financial relationships that could be construed as a potential conflict of interest. 
+* Correspondence: Dra. Ana Carla Bittencourt Reis, anacarlabr@unb.br 
+ 
+References  
+[1] Global Monitoring of School Meals During COVID-19 School Closures. World Food 
+Programme (WFP). (2020). https://cdn.wfp.org/2020/school-feeding-map/index.html [Accessed 
+June 7, 2020] 
+[2] Imai N, Cori A, Dorigatti I, Baguelin M, Donnelly C. A., Riley S, Ferguson N. M. Report 3: 
+Transmissibility of 2019-nCoV. Imperial College London (2020). Available at: 
+https://fpmag.net/wp-content/uploads/2020/01/Imperial-2019-nCoV-transmissibility.pdf  
+[3] BRASIL. Ministério da Saúde. (2020). https://www.saude.gov.br/noticias/agencia-
+saude/46435-brasil-confirma-primeiro-caso-de-novo-coronavirus [Accessed Mai 14, 2020] 
+[4] Mert Er. World Food Programme Insight. School feeding at home. (2020). 
+https://insight.wfp.org/school-feeding-at-home-95ff24a2c78 [Accessed June 03, 2020].  
+[5] Pesquisadores associados. Observatório PrEpidemia. Relatório Técnico 01. Volta às aulas no 
+Distrito Federal durante a pandemia de Covid-19. (2020) 
+https://www.prepidemia.org/notaserelatorios-tecnicos [Accessed June 10, 2020]. 
+ 
+ 
+ 
+ 
+ 8 
+ 
+[6] Minussi, Bianca Baptisti, et al. “Grupos de risco do COVID-19: a possível relação entre o 
+acometimento de adultos jovens “saudáveis” e a imunidade / COVID-19 risk groups: the possible 
+relationship between the impairment of healthy young adults and immunity". Brazilian Journal of 
+Health Review (2020) 3.2: 3739-3762. https://doi.org/10.34119/bjhrv3n2-200    
+[7] World Health Organization (WHO). Technical Report Series, 394, Healthy Diet. (2015). 
+https://www.who.int/nutrition/publications/nutrientrequirements/healthydiet_factsheet394.pdf  
+[Accessed June 09, 2020]. 
+[8] Lesley, D., Alice, W., Carmen, B., & Donald, B. (2016). Global school feeding sourcebook: 
+lessons from 14 countries. Imperial College Press. Available at: 
+http://www.worldscientific.com/worldscibooks/10.1142/P1070  
+[9] United Nations World Food Programme (WFP). (2020). https://www.wfp.org/ [Accessed May 
+10, 2020]. 
+[10] School feeding in times of COVID-19. What can governments do? (2020). 
+https://centrodeexcelencia.org.br/wp-content/uploads/2020/04/SchoolFeedingCOVID_EN.pdf  
+[Accessed May 10, 2020]. 
+[11] Mitigating the effects of the COVID-19 pandemic on food and nutrition of schoolchildren. 
+(2020). https://www.unicef.org/media/68291/file/Mitigating-the-Effects-of-the-COVID-19-
+Pandemic-on-Food-and-Nutrition-of-school-children.pdf [Accessed May 10, 2020]. 
+[12] BRASIL, Law n° 13.987 de 7 de abril de 2020.  
+http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13987.htm [Accessed June 05, 
+2020] 
+[13] Ann-Marie K. Chandler, Susan P. Walker, Kevin Connolly, Sally M. Grantham-McGregor, 
+School Breakfast Improves Verbal Fluency in Undernourished Jamaican Children, The Journal of 
+Nutrition (1995)125:4, 894–900, https://doi.org/10.1093/jn/125.4.894  
+[14] Lamis H Jomaa, Elaine McDonnell, Claudia Probart, School feeding programs in developing 
+countries: impacts on children's health and educational outcomes, Nutrition Reviews (2011) 69:2, 
+83–98, https://doi.org/10.1111/j.1753-4887.2010.00369.x   
+[15] Hieu, N., Sandalinas, F., De Sesmaisons, A., Laillou, A., Tam, N., Khan, N., . . . Berger, J. 
+Multi-micronutrient-fortified biscuits decreased the prevalence of anaemia and improved iron 
+status, whereas weekly iron supplementation only improved iron status in Vietnamese school 
+children. British Journal of Nutrition (2012) 108:8, 1419-1427. 
+https://doi.org/10.1017/S0007114511006945   
+[16] Food in a time of COVID-19. Nature plants, (2020) 6:5, 429.https://doi.org/10.1038/s41477-
+020-0682-7 
+[17] Wu, Joseph T et al. “School closure and mitigation of pandemic (H1N1) 2009, Hong Kong.” 
+Emerging infectious diseases. (2010) 16:3, 538-41. https://doi.org/10.3201/eid1603.091216  
+[18] Niconielo, B. Gripe suína na escola (2019)  
+https://sites.google.com/site/agestaoeducacional/artigo/h1n1 [Accessed April 30, 2020]. 
+ 
+ 
+ 
+ 
+ 9 
+ 
+[19] Dunn CG, Kenney E, Fleischhacker SE, Bleich SN. Feeding Low-Income Children during 
+the COVID-19 Pandemic. N Engl J Med. (2020) 382:18, e40. 
+https://www.nejm.org/doi/full/10.1056/NEJMp2005638 
+[20] Secretaria de Estado de Educação (2020) http://www.se.df.gov.br/bolsa-alimentacao-2/  
+[Accessed June5, 2020].  
+[21] Ministério da Saúde. O trabalho do agente comunitário de saúde. (2009). Available at: http: // 
+189.28.128.100/dab/docs/publicacoes/geral/manual_acs.pdf.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+Appendix 1: Summary of transfers of financial aid and meals to the families of public school students in Brazil during the Covid-19 pandemic 
+ 
+ 
+ 
+Federate 
+Entity 
+Number of 
+benefited families 
+Number of 
+benefited 
+students  
+Value of benefit 
+per student (R$) 
+Method of benefit transfer or food 
+delivery   
+Eligibility criteria 
+Observations 
+Acre (AC) 
+No information 
+found on website 
+ No information 
+found on website 
+No information 
+found on website 
+No information found on website 
+No information found on 
+website 
+ 
+Alagoas 
+(AL) 
+No information 
+found on website 
+ No information 
+found on website 
+ No information 
+found on website 
+ No information found on website 
+No information found on 
+website 
+ 
+Amapá (AP) 
+No information 
+found on website 
+ 120,000 
+ 50,00 per month 
+ At schools 
+No information found on 
+website 
+ 
+Amazonas 
+(AM) 
+No information 
+found on website 
+ 446,048  
+ No information 
+found on website 
+In rural areas, via delivery and in the 
+Capital, distributed at school 
+No information found on 
+website 
+446,000 meal kits, in total 
+Bahia (BA) 
+No information 
+found on website 
+ No information 
+found on website 
+ No information 
+found on website 
+ No information found on website 
+No information found on 
+website 
+ 
+Ceará (CE) 
+No information 
+found on website 
+No information 
+found on website 
+No information 
+found on website 
+No information found on website 
+No information found on 
+website 
+ 
+Distrito 
+Federal (DF) 
+70,000 
+35,000 
+R$ 3.98 per day.  
+Daycare Food Card 
+valued at R$ 150.00 
+per month 
+ Food card – BRB Bank 
+Registration with the Bolsa 
+Família Social Program. 
+ 
+Espírito 
+Santo (ES) 
+No information 
+found on website 
+ 88,000 
+ R$ 4.22 per day.  
+ 
+basic food basket - 
+At schools 
+ 
+No information found on 
+website 
+ 
+Families registered in CadÚnico 
+(Social Program Database for the 
+distribution of benefits to vulnerable 
+families). 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+Federate 
+Entity 
+Number of 
+benefited families 
+Number of 
+benefited 
+students  
+Value of benefit 
+per student (R$) 
+Method of benefit transfer or food 
+delivery   
+Eligibility criteria 
+Observations 
+Goiás (GO) 
+81,040 
+ 109,035 
+ R$ 150.00 per 
+month 
+Deposit into the Bolsa Família Program 
+Card; Deposit into Renda Cidadã 
+Program Card; Deposit into Cartão 
+Cidadão Program; directly into “checking” 
+or “savings” account 
+No information found on 
+website 
+ 
+Maranhão 
+(MA) 
+No information 
+found on website 
+No information 
+found on website 
+No information 
+found on website 
+No information found on website 
+No information found on 
+website 
+ 
+Mato Grosso 
+(MT) 
+29,522 
+ No information 
+found on website 
+No cash benefit 
+  At schools 
+No information found on 
+website 
+ 
+Mato Grosso 
+do Sul (MS) 
+No information 
+found on website 
+ 210,000 
+ No cash benefit 
+At schools 
+No information found on 
+website 
+ 
+Minas 
+Gerais (MG) 
+265,000 
+ 380,000 
+ R$ 50.00 per 
+month 
+ PagBank app 
+No information found on 
+website 
+ 
+Pará (PA) 
+No information 
+found on website 
+No information 
+found on website 
+ R$ 80.00 per 
+month 
+ Food card  
+No information found on 
+website 
+ 
+Paraíba 
+(PB) 
+No information 
+found on website 
+  248,000 
+ No cash benefit 
+kits made with food for school meals 
+Enrolled students  
+ 
+Paraná (PR) approximately de 
+305,000 families 
+approximately 
+230,000 students 
+with families 
+registered in the 
+Bolsa Família 
+program  
+R$ 50.00 per month 
+voucher 
+students enrolled from 
+families enrolled in the 
+Bolsa Família program 
+Schools have the authority to 
+schedule kit delivery. The 
+distribution of kits is biweekly at the 
+schools in which they are enrolled 
+ 
+ 
+ 
+ 
+ 3 
+ 
+Federate 
+Entity 
+Number of 
+benefited families 
+Number of 
+benefited 
+students  
+Value of benefit 
+per student (R$) 
+Method of benefit transfer or food 
+delivery   
+Eligibility criteria 
+Observations 
+Pernambuco 
+(PE) 
+No information 
+found on website 
+ 322,000 
+ R$ 50.00 per 
+month 
+card 
+families enrolled in the 
+Federal Government's 
+Database (CadÚnico) 
+ 
+Piauí (PI) 
+No information 
+found on website 
+ 59,000 
+R$ 60.00 per month 
+App 
+Families enrolled in the 
+Bolsa Família program, with 
+children enrolled in the state 
+school system, up to the 
+age of 17, are entitled. 
+The application must be submitted 
+by the head of household of the 
+family of each student entitled to the 
+benefit 
+Rio de 
+Janeiro (RJ) 
+140,000 families 
+No information 
+found on website 
+ R$ 100.00 per 
+month 
+ App 
+Students who suffer 
+extreme poverty, are 
+enrolled in the CadÚnico 
+database, and are enrolled 
+in the Bolsa Família 
+program. 
+ 
+Rio Grande 
+do Norte 
+(RN) 
+No information 
+found on website 
+ 215,000 
+ No cash benefits 
+ At schools 
+Enrolled students 
+ 
+The PNAE invested R$ 9.8 million 
+Rio Grande 
+do Sul (RS) 
+No information 
+found on website 
+No information 
+found on website 
+ No cash benefits 
+ 
+ No clear information found on the site 
+No clear information found 
+on the site 
+ 
+ 
+ 
+There will be 185,000 basic food 
+baskets distributed as of April, 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+Federate 
+Entity 
+Number of 
+benefited families 
+Number of 
+benefited 
+students  
+Value of benefit 
+per student (R$) 
+Method of benefit transfer or food 
+delivery   
+Eligibility criteria 
+Observations 
+Rondônia 
+(RO) 
+No information 
+found on website 
+ 
+ 48,775 students 
+enrolled in the state 
+public school 
+system and 
+approximately 
+3,681 students of 
+indigenous 
+communities  
+ R$ 75.00 per 
+month 
+Food card 
+Preference given to those 
+enrolled in the Bolsa Família 
+program and who have a 
+monthly income of less than 
+twice the national minimum 
+wage. 
+Food in the School’s pantries will be 
+designated for students in the form of 
+meal kits 
+ 
+Students from indigenous 
+communities will receive meal kits. 
+ 
+Roraima 
+(RR) 
+No information 
+found on website 
+No information 
+found on website 
+ No cash benefit 
+ 
+No clear information found on the site 
+Enrolled students  
+Preference will be given to the 
+26,676 students enrolled in the state 
+school system that are also a part of 
+the Bolsa Família program. 
+Foodstuffs from school meals 
+acquired before the suspension of 
+classes and that are in the pantries 
+of the DAE (Department of Student 
+Support). 
+Santa 
+Catarina 
+(SC) 
+No information 
+found on website 
+No information 
+found on website 
+No cash benefits 
+ 
+No clear information found on the site 
+Presentation of student ID 
+or by means of a signed 
+document at the time of 
+distribution. 
+Meal kits with family farming 
+products 
+São Paulo 
+(SP) 
+No information 
+found on website 
+ 732,000 
+R$ 55.00 per month 
+(regular value) R$ 
+110.00 per month 
+(students in extreme 
+poverty) 
+ App 
+No clear information found 
+on the site 
+Benefits suspended on 04/15/2020 
+ 
+ 
+ 
+ 
+ 5 
+ 
+Federate 
+Entity 
+Number of 
+benefited families 
+Number of 
+benefited 
+students  
+Value of benefit 
+per student (R$) 
+Method of benefit transfer or food 
+delivery   
+Eligibility criteria 
+Observations 
+Sergipe (SE) 
+No information 
+found on website 
+ No information 
+found on website 
+No cash benefits 
+To be administered by the Management 
+Team of each Teaching Unit of the State 
+School Network. 
+No clear information found 
+on the site 
+Distribution of school lunches, 
+LIMITED TO STOCK in the State 
+Educational Institution. Ordinance 
+Number 1758/2020 / GS / SEDUC 
+OF APRIL 3, 2020 
+Tocantins 
+(TO) 
+No clear 
+information found 
+on the site 
+No clear 
+information found 
+on the site 
+No cash benefits 
+Rural families will be advised to have a 
+parent or guardian waiting for the bus at 
+the location where the child normally 
+embarks daily for school. For students in 
+urban areas, the school must organize a 
+delivery schedule. 
+Enrolled students 
+There are more than 157,000 meal 
+kits to be delivered, one for each 
+student in the state school network. 

@@ -1,0 +1,119 @@
+LETTER TO THE EDITOR
+682
+To the editor,
+We all know that Coronavirus disease 2019 (COVID-19) has been declared a pandemic on 
+March 11th, 2020. Such dramatic scenario deeply impacted on the healthcare systems worldwide.
+If telemedicine allows for the remote provision of healthcare by means of electronic com-
+munication tools in case of medical conditions, surgical indications could be not deferrable (1, 2).
+Major surgical societies have been prompted in publishing position papers and guidelines 
+for best surgical practice. Among these, the European Association of Urology (EAU) Robotic Urol-
+ogy Section (ERUS) recently published its Guidelines on dealing with robotic surgery in the CO-
+VID-19 era (3).
+Such guidelines include behavioral good clinical practice rules aimed to maximize the safety 
+and the protection against COVID-19 for both patients and healthcare professionals involved in the 
+robotic surgical activity. We followed the principles included in the ERUS guidelines either for pure-
+laparoscopic or robot-assisted procedures performed at our Institution since the beginning of the 
+COVID-19 crisis. All patients with indication to surgery received preoperative health screening, with 
+none of them reporting symptoms suggestive for COVID-19. Procedures were performed in a dedi-
+cated operative room. All the necessary protection tools and general recommendations to reduce the 
+transmission of the disease were adequately followed (3). Selection of indications was considered in 
+order to minimize the number of medical personnel involved and the expenditure of medical equip-
+ment. As such, only cystectomies, prostatectomies for high risk disease and renal surgeries for large 
+renal masses were performed. All elective surgeries that could be delayed without any risk for the 
+patient were postponed. Listed laparoscopic surgeries were performed at the lowest intra-abdominal 
+pressure possible (8-10 mmHg), by using an intelligent integrated flow system (AirSeal®, ConMed, 
+Utica, NY), allowing for system-assisted desufflation of the pneumoperitoneum. The minimum num-
+ber of operative room staff members was adopted. No external observers, including residents and/or 
+fellows, were allowed. Standardized surgical techniques were performed by experienced surgeons, in 
+order to reduce the operative time and the risk of complications. 
+At the end of a three-weeks period, the teams involved in the operative room setting (includ-
+ing surgeons, anesthetists, nurses, operative room housekeepers and patients’ porters) were screened 
+with a COVID-19 IgM/IgG rapid test lateral flow immunoassay, nowadays validated for the rapid 
+diagnosis of COVID-19 (4).
+VivaDiagTM COVID-19 IgM/IgG was performed according to the manufacturer’s instruction 
+(5). After 15 minutes about, the result was read. Overall, > 300 tests were performed at our Institu-
+tion. We focused on the 85 professionals who were related with the operative room activities reported 
+herein. None of them resulted positive for either active or previous infection.
+Re: Reflections on the COVID-19 Pandemic
+___
+_______________________________________________
+____________________________________________
+Bertolo Riccardo 1, Chiara Cipriani 1, Matteo Vittori 1, Pierluigi Bove 1, 2
+1 Department of Urology, San Carlo di Nancy Hospital, Rome, Italy; 2 Department of Surgery, Urology 
+Unit, Tor Vergata University of Rome, Rome, Italy
+Vol. 46 (4): 682-683, July - August, 2020
+doi: 10.1590/S1677-5538.IBJU.2020.0306
+IBJU | LETTER TO EDITOR
+683
+ARTICLE INFO 
+ Riccardo Bertolo
+http://orcid.org/0000-0003-0260-4601
+Int Braz J Urol. 2020; 46: 682-3
+_____________________
+Submitted for publication:
+April 15, 2020
+____________________
+Accepted:
+April 16, 2020
+_____________________
+Published as Ahead of Print:
+April 23, 2020
+To date, real-time polymerase chain 
+reaction in respiratory samples is the gold 
+standard method for diagnosing COVID-19 
+(6). Nevertheless, molecular tests are time 
+consuming, requiring specialized operators, 
+thus limiting widespread use in real-life. 
+This is why we adopted VivaDiagTM 
+COVID-19 IgM/IgG test. Although sensitivity 
+has been published to be low (4,5), specificity 
+is around 92%.
+At a price running to 10 euros per 
+person screened, we believe it could repre-
+sent a value-for-money passport for immu-
+nity of health-care professionals.
+ACKNOWLEDGEMENTS
+To the president Ettore Sansavini, who 
+offered the health-care professionals of San Carlo 
+di Nancy Hospital, Rome, to undergo the test.
+CONFLICT OF INTEREST
+None declared.
+REFERENCES
+1.	
+Sampaio FJB. Reflections on the COVID-19 Pandemic. Int 
+Braz J Urol. 2020;46:499-500.
+2.	
+Carneiro A, Wroclawski ML, Nahar B, Soares A, Cardoso 
+AP, Kim NJ, et al. Impact of the COVID-19 Pandemic on 
+the Urologist’s clinical practice in Brazil: a management 
+guideline proposal for low- and middle-income countries 
+during the crisis period. Int Braz J Urol. 2020;46:501-10.
+3.	
+Alex Mottrie. ERUS (EAU Robotic Urology Section) guide-
+lines during COVID-19 emergency. Uroweb - European 
+Association of Urology (EAU) 2020. Available at. <https://
+uroweb.org/wp-content/uploads/ERUS-guidelines-for-
+COVID-def.pdf> (last access on April 3, 2020).
+4.	
+Cassaniti I, Novazzi F, Giardina F, Salinaro F, Sachs M, 
+Perlini S, et al. Performance of VivaDiag COVID-19 IgM/
+IgG Rapid Test is inadequate for diagnosis of COVID-19 
+in acute patients referring to emergency room depart-
+ment. J Med Virol. 2020. [Epub ahead of print] 
+5.	
+Li Z, Yi Y, Luo X, Xiong N, Liu Y, Li S, Sun R, et al. Devel-
+opment and clinical application of a rapid IgM-IgG com-
+bined antibody test for SARS-CoV-2 infection diagnosis. 
+J Med Virol. 2020 [Epub ahead of print]  
+6.	
+Corman VM, Landt O, Kaiser M, Molenkamp R, Mei-
+jer A, Chu DK,  et al. Detection of 2019 novel corona-
+virus (2019-nCoV) by real-time RT-PCR. Euro Surveill. 
+2020;25(3).
+______________________
+Correspondence address:
+Riccardo Bertolo, MD, PhD 
+“San Carlo di Nancy” Hospital – GVM Care & Research
+Via Aurelia 275, 00165 Rome, Italy
+Telephone: +3 906 3997-6504
+E-mail: riccardobertolo@hotmail.it

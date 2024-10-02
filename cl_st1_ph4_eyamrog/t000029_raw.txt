@@ -1,0 +1,366 @@
+Publication status: Not informed by the submitting author
+Strategies for promoting mental health among residents:
+scoping review protocol.
+Rachel Riera, Carolina de Oliveira Cruz Latorraca, Roberta Carreira Moreira Padovez, Ana Luiza
+Cabrera Martimbianco, Cláudia Marquez Simões, Rafael Leite Pacheco
+https://doi.org/10.1590/SciELOPreprints.4473
+Submitted on: 2022-07-19
+Posted on: 2022-07-21 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 1 
+Strategies for promoting mental health among residents: scoping 
+review protocol. 
+Rachel Riera, Carolina de Oliveira Cruz Latorraca, Ana Luiza Cabrera Martimbianco, Roberta 
+de Fátima Carreira Moreira Padovez, Cláudia Marquez Simões, Rafael Leite Pacheco. 
+ 
+ABSTRACT 
+Health professionals are encouraged to attend a residency period of two to seven years after graduating. 
+The typical demands of this in-service training modality have been associated with reduced sleep 
+quality, decreased exercise frequency, and detachment from family and social relationships, leading to 
+an increased diagnosis of anxiety, depression, and burnout syndrome. Therefore, conducting a scoping 
+review to identify strategies aimed at promoting mental health and wellbeing among residents from 
+different health areas is essential to support any forthcoming preventive action. 
+KEYWORDS: Mental Health. Health Residents. Scoping Review. 
+ 
+INTRODUCTION 
+Health professionals are encouraged to attend a residency period of two to seven years after 
+graduating.1,2 Residency programs offer training with a focus on practice, stimulate professional 
+autonomy in services with different degrees of complexity, with a considerable volume of patients, also 
+playing roles in regulatory areas and hospital and service management, conflict mediation, in addition 
+to clinical or surgical activities.3 
+During this period of training, residents are expected to balance learning, patient care, teaching, and 
+management of overcrowded services over journeys of no more than 60 hours per week of work.4 The 
+typical demands of this in-service training modality have been associated with reduced sleep quality, 
+decreased exercise frequency, and detachment from family and social relationships, leading to an 
+increased diagnosis of anxiety, depression, and burnout syndrome.4-6 
+Among the factors associated with stress and impaired well-being in healthcare professionals during 
+residency are long weekly working hours, complex educational demands, high numbers of patients, 
+frequent changes in the work environment, lack of reciprocity in professional relationships, disrupted 
+circadian rhythm, social isolation, frequent exposure to trauma, fear of making mistakes and 
+underperforming, low incomes and lack of time for self-care.7-10  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 2 
+Residents living under this kind of pressure tend to provide less-than-ideal patient care and are more 
+prone to mistakes.11-12They also have high rates of substance abuse, alcohol consumption, and suicidal 
+thoughts13-14, with suicide identified as the second leading cause of death among medical residents.15-16 
+Even when they realize they need help, many residents do not seek mental health services due to 
+restricted schedules, feelings of guilt over the need for service coverage, fear of the stigma of being 
+considered unfit to perform their duties, in addition to long waiting lists for care.17,18 
+Given this context, it is necessary to identify and evaluate strategies that promote the mental health and 
+psychological well-being of healthcare residents in order to prevent the development of mental 
+disorders that affect the residents themselves, their performance and the healthcare services. These 
+strategies also need to consider the characteristics of residency programmes, their influence on residents' 
+mental health and the potential impact of mental health status on the quality and safety of patient care. 
+Therefore, conducting a scoping review to identify strategies aimed at promoting mental health and 
+wellbeing among residents from different health areas is essential to support any forthcoming 
+preventive action. 
+ 
+OBJECTIVES 
+To identify and evaluate strategies for promoting mental health and preventing mental disorders among 
+residents from different health areas. 
+ 
+METHODS 
+Design and setting 
+This scoping review will be developed at Hospital Sírio-Libanês, as part of the project Residências, 
+triennium 2021/2023, conducted within the scope of the Programa de Apoio ao Desenvolvimento 
+Institucional do Sistema Único de Saúde (PROADI-SUS). The review will be conducted following the 
+recommendations from Joanna Briggs Institute Manual for scoping reviews.19 
+This review will be reported following the Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses - extension for scoping reviews (PRISMA-ScR).20 The protocol for this review will be 
+published or will b made available prior to the commencement of the review. 
+ 
+Methods to involve stakeholders 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 3 
+Será realizada consulta das partes interessadas ao longo do desenvolvimento do protocolo desta revisão 
+com o objetivo de aumentar a aplicabilidade de seus resultados e apoiar a comunicação e a tradução 
+desses resultados para utilização. Para isso, serão consultadas as seguintes partes interessadas: 
+consumidores da informação (gestores, residentes, preceptores, coordenadores de programas e outros) 
+e especialistas no tema “saúde mental” e “residência em saúde”. 
+Stakeholder consultation will be carried out throughout the development of this review protocol aiming 
+at increasing the applicability of its results and supporting the communication and translation of these 
+results for practical use. For this purpose, the following stakeholders will be consulted: managers, 
+residents, preceptors, residency program coordinators, and specialists in the topic of "mental health" 
+and "health area residency". 
+The question of interest for this review will be structured using the PCC acronym as follows: 
+• 
+P (population, condition): health area residents 
+• 
+C (concept): strategies for mental health promotion 
+• 
+C (context): any context 
+ 
+Criteria for inclusion of studies according to the components of the PCC acronym. 
+• 
+P (population, condition): residents of any health area, with no diagnosis of mental illness and 
+who are not receiving any general or specialized care for the treatment of mental health 
+conditions. 
+• 
+C (concept): strategies for mental health promotion, including strategies applied at the 
+individual or population level, within the scope of public or supplementary health, at any level 
+of health care assistance. Therapeutic strategies for mental illness will not be considered. 
+• 
+C (context): it will be considered strategies addressed to the work scenario (hospital, 
+ambulatory, laboratory or others), academic, home, social as well virtual environment. 
+Any primary (descriptive or analytical) or secondary study design addressing strategies for mental 
+health promotion will be considered. 
+ 
+Searching for studies 
+A broad and sensitive search will be carried out in the literature through structured strategies, with 
+relevant descriptors and synonyms, in the following databases or repositories: 
+• 
+British Education Index (BEI)  
+• 
+Campbell Collaboration 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 4 
+• 
+Cochrane Library (via Wiley) 
+• 
+Education Research Complete (via EBSCO)  
+• 
+Educational Resources Information Center (via ERIC)  
+• 
+Excerpta Medica dataBASE (EMBASE, via Elsevier) 
+• 
+Biblioteca Virtual em Saúde (BVS) 
+• 
+Medical Literature Analysis and Retrieval System Online (MEDLINE, via PubMed) 
+• 
+Online Education Database (https://www.oecd.org/education/database.htm)  
+• 
+PsycEXTRA (http://www.apa.org/pubs/databases/psycextra/)  
+• 
+PsycINFO 
+• 
+UNESCO Databases of Resources on Education. 
+ 
+Additional unstructured searches will be carried out in the following sources related to health education 
+or health systems: 
+• 
+American Educational Research Association (AERA)  
+• 
+Association for Medical Education in Europe (AMEE) 
+• 
+Best Evidence Medical Education (BEME)   
+• 
+Cochrane Effective Practice and Organization of Care (EPOC) (https://epoc.cochrane.org/). 
+• 
+European Association for Research on Learning and Instruction (EARLI), Institute of 
+Education Sciences (https://eric.ed.gov/).  
+• 
+Joanna Briggs Institute (https://jbi.global/).  
+• 
+ERIC - Education Resources Information Center (https://eric.ed.gov/). 
+ 
+Additional searches will be performed through hand searches on reference lists of relevant studies as 
+well as through contact with experts in the field. No language filter will be applied. The search will be 
+restricted to the period from 2000 onwards, considering the advances and changes in residency 
+programs and diagnostic criteria in mental health. It will be included publications in full, abstracts 
+presented at congresses and events, on-line reports, theses, and dissertations. 
+ 
+Selecting studies  
+The study selection process will be carried out in two phases using the Rayyan platform. 21 The first 
+phase will be based on the titles and abstracts reading of all references retrieved by the search strategies. 
+These references will be categorized as “potentially eligible” or “eliminated”. The second phase will 
+include the full-text reading of the “potentially eligible” references to confirm their eligibility or to 
+exclude them. The reason for each exclusion in the second phase will be presented. The two phases will 
+be conducted independently by two groups of authors and disagreements in decisions to include or 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 5 
+exclude studies will be solved by a third author. The whole selection process will be represented through 
+a PRISMA flowchart. 
+ 
+Extracting data 
+Data from the included studies will be independently extracted by two authors and information 
+discrepancies will be solved through consensus, by consulting a third auhor. The following data will be 
+collected for each included study: author, year of publication, type of publication (article/report, full 
+text/abstract), study design, name and description of the strategy and funding source. The following 
+data will be collected, where available, for each identified strategy: 
+• 
+Category: managing/administrative (such as meaning or flexibility of shifts, planting duration 
+or others), psychological (such as tools for surveillance/screening signs and symptoms of 
+mental conditions, focus and support groups, mindfulness and others), cultural (such as the 
+implementation of cultural activities in the routine of activities, accessibility to exhibitions, 
+concerts and others), sports (such as strategies to promote physical activities or exercises, 
+inclusion of labor gymnastics and other social activities), such as socialization activities within 
+forums in the environment of work, mentoring and others). New categories can be further 
+incorporated to cover all strategies identified along this review. 
+• 
+Strategy recipients: residents, residency program preceptors or coordinators, and resident’s 
+family members. 
+• 
+Environment for strategy implementation: residency/work scenario (hospital, ambulatory, 
+laboratory, or others), academic, home, social or virtual environment. 
+• 
+Strategy approach: individual (personalized or not) or collective (groups of residents). 
+• 
+Strategy duration: continuous or temporary.  
+• 
+Delivery format: face-to-face, virtual/remote, or hybrid. 
+• 
+Strategy status: proposed, implemented and not evaluated, or implemented and evaluated. 
+• 
+Costs predicted by the authors of the studies for the implementation of the strategy. 
+• 
+Barriers and facilitators identified by the authors of the studies for the implementation of the 
+strategy. 
+For those strategies that were implemented and evaluated by the included studies, information will be 
+collected on the results. These strategies will be further classified, at the discretion of the authors of the 
+review, in terms of the possibility of implementation, either immediately or after the adoption of actions, 
+in the national scenario. This classification will be performed considering feasibility, costs, need for 
+regulation, or local policies, regardless of the certainty of the available evidence. 
+Authors of included studies can be contacted in case of additional information need. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 6 
+ 
+Assessing the methodological quality 
+As the objective of this scoping review is to map strategies presented in descriptive studies or to use 
+sections of analytical studies that report strategies, checklists, or tools to assess the methodological 
+quality of studies will not be applied, as recommended by Joanna Briggs Institute for scoping reviews.19 
+ 
+Synthesing and presenting the results    
+Strategies will be classified using the categories determined based on the data described above. 
+Narrative syntheses will be presented using graphs and/or tables. Depending on the availability of 
+information, descriptive statistics will be performed using Microsoft Excel® and/or STATA® software. 
+ 
+Competing interests: none 
+Funding: Programa de Apoio ao Desenvolvimento Institucional do Sistema Único de Saúde (PROADI-
+SUS), Brazilian Ministry of Health. 
+ 
+Authors contribution 
+Conception and design: RR, COCL, RFCMP 
+Content revisor: ALCM, CMS, RLP 
+Final approval: all authors. 
+ 
+Authors contact, ORCID and affiliation 
+Ana Luiza Cabrera Martimbianco  
+Hospital Sírio-Libanês, São Paulo, Brazil. Universidade Metropolitna de Santo (Unimes), Santos, 
+Brazil.  
+analuizacabrera@hotmail.com / https://orcid.org/0000-0002-4361-4526  
+ 
+Carolina de Oliveira Cruz Latorraca   
+Hospital Sírio-Libanês, São Paulo, Brazil.  
+caru.pepm@yahoo.com.br / https://orcid.org/0000-0001-9146-4684  
+ 
+Cláudia Marquez Simões 
+Hospital Sírio-Libanês, São Paulo, Brazil.  
+claudia.simoes@hc.fm.usp.br / https://orcid.org/0000-0002-4306-5168 
+ 
+Rachel Riera   
+Hospital Sírio-Libanês, São Paulo, Brazil. Universidade Federal de São Paulo (Unifesp), São 
+Paulo, Brazil.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 7 
+rachelriera@hotmail.com / https://orcid.org/0000-0002-9522-1871  
+ 
+Rafael Leite Pacheco   
+Hospital Sírio-Libanês, São Paulo, Brazil.  
+rleitepacheco@hotmail.com / https://orcid.org/0000-0001-7487-8471  
+ 
+  
+Roberta de Fátima Carreira Moreira Padovez   
+Hospital Sírio-Libanês, São Paulo, Brazil.  
+roberta.carreira@gmail.com / https://orcid.org/0000-0001-5201-4904  
+  
+ 
+ 
+REFERENCES 
+1. Raj KS. Well-Being in Residency: A Systematic Review. J Grad Med Educ. 2016;8(5):674-
+684. doi: 10.4300/JGME-D-15-00764.1. PMID: 28018531; PMCID: PMC5180521.  
+2. van Vendeloo SN, Prins DJ, Verheyen CCPM, Prins JT, van den Heijkant F, van der Heijden 
+FMMA, et al. The learning environment and resident burnout: a national study. Perspect Med 
+Educ. 2018;7(2):120-125. doi: 10.1007/s40037-018-0405-1. PMID: 29476425; PMCID: 
+PMC5889377. 
+3. Sfez M, James A, Villevieille T, Arzalier-Daret S, Raucoules-Aimé M; Professional Practice 
+Committee of the French Society of Anaesthesia Intensive Care Medicine. Resident well-
+being: The new frontier? Anaesth Crit Care Pain Med. 2020;39(1):1-3. doi: 
+10.1016/j.accpm.2019.12.004. Epub 2019 Dec 19. PMID: 31866309.  
+4. Meeks LM, Ramsey J, Lyons M, Spencer AL, Lee WW. Wellness and Work: Mixed 
+Messages in Residency Training. J Gen Intern Med. 2019;34(7):1352-1355. doi: 
+10.1007/s11606-019-04952-5. PMID: 30924087; PMCID: PMC6614226. 
+5. Mata DA, Ramos MA, Bansal N, Khan R, Guille C, Di Angelantonio E, et al. Prevalence of 
+Depression and Depressive Symptoms Among Resident Physicians: A Systematic Review 
+and Meta-analysis. JAMA. 2015;314(22):2373-83. doi: 10.1001/jama.2015.15845. PMID: 
+26647259; PMCID: PMC4866499. 
+6. Nobleza D, Hagenbaugh J, Blue S, Skahan S, Diemer G. Resident Mental Health Care: a 
+Timely and Necessary Resource. Acad Psychiatry. 2021;45(3):366-370. doi: 10.1007/s40596-
+021-01422-1. Epub 2021 Mar 3. PMID: 33660238. 
+7. Dabrow S, Russell S, Ackley K, Anderson E, Fabri PJ. Combating the stress of residency: one 
+school’s approach. Acad Med. 2006;81(5):436–9. 
+https://doi.org/10.1097/01.ACM.0000222261.47643.d2 
+8. Edmondson EK, Kumar AA, Smith SM. Creating a culture of wellness in residency. Acad 
+Med. 2018;93(7):966–8. https://doi.org/10.1097/ACM.0000000000002250. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 8 
+9. Oriel K, Plane MB, Mundt M. Family medicine residents and the impostor phenomenon. Fam 
+Med. 2004;36(4):248–52. 
+10. Villwock JA, Sobin LB, Koester LA, Harris TM. Impostor syndrome and burnout among 
+American medical students: a pilot study. Int J Med Educ. 2016;7:364–9. 
+https://doi.org/10.5116/ijme.5801.eac4. 
+11. Tempski P, Santos IS, Mayer FB, Enns SC, Perotta B, Paro HBMS, et al. Relationship among 
+medical students resilience, educational environment and quality of life. PLoS One. 
+2015;10(6):e0131535. 
+12. Wolf tM. Stress and Health: enhancing Wellbeing during medical school, Med Educ. 1994; 
+28:817. 
+13. Prenskly M. Digital native, digital immigrants. On the Horizon. MCB university Press. 
+2001;5:16. Disponível m: https://www.marcprensky.com/writing/Prensky%20-
+%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf. Acessado em 19 de 
+julho de 2022. 
+14. Rotenstein LS, Ramos MA, Torre M, Segal JB, Peluso MJ, Guille C, et al. Prevalence of 
+Depression, Depressive symptoms, and suicidal ideation among medical students: A 
+systematic review and meta-analysis. JAMA. 2016;316(21):2214-2236. doi: 
+10.1001/jama.2016.17324. PMID: 27923088; PMCID: PMC5613659. 
+15. American Foundation of Suicide Prevention. Facts about mental health and suicide among 
+physicians. 2019. Disponível em: https://www.datocms-assets.com/12810/1578319045-
+physician-mental-health-suicide-one-pager.pdf. Acessado em 19 de julho de 2022. 
+16. Yaghmour NA, Brigham TP, Richter T, Miller RS, Philibert I, Baldwin DC Jr, et al. Causes of death of 
+residents in acgme-accredited programs 2000 through 2014: implications for the learning environment. 
+Acad Med. 2017;92(7):976-983. doi: 10.1097/ACM.0000000000001736. PMID: 28514230; PMCID: 
+PMC5483979. 
+17. Aaronson AL, Backes K, Agarwal G, Goldstein JL, Anzia J. Mental health during residency 
+training: assessing the barriers to seeking care. Acad Psychiatry. 2018;42(4):469–72. 
+https://doi.org/10.1007/s40596-017-0881-3.  
+18. Nobleza D, Hagenbaugh J, Blue S, Skahan S, Diemer G. Resident Mental Health Care: a 
+Timely and Necessary Resource. Acad Psychiatry. 2021;45(3):366-370. doi: 10.1007/s40596-
+021-01422-1. Epub 2021 Mar 3. PMID: 33660238. 
+19. Peters MDJ, Godfrey C, McInerney P, Munn Z, Tricco AC, Khalil, H. Chapter 11: Scoping 
+Reviews (2020 version). In: Aromataris E, Munn Z (Editors). JBI Manual for Evidence 
+Synthesis, JBI, 2020.  
+20. Tricco AC, Lillie E, Zarin W, O'Brien KK, Colquhoun H, Levac D, et al. PRISMA extension 
+for scoping reviews (PRISMA-ScR): checklist and explanation. Ann Intern Med. 
+2018,169(7):467-473. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+ 9 
+21. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan — a web and mobile app 
+for systematic reviews. Systematic Reviews (2016) 5:210, DOI: 10.1186/s13643-016-0384-4.   
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4473
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

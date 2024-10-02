@@ -1,0 +1,527 @@
+Status: Preprint has not been submitted for publication
+Analysis of the spatial-temporal dynamics of incidence,
+mortality and test rates (rapid and RT-PCR) of COVID-19 in the
+state of Minas Gerais, Brazil
+Milton José da  Silva-Júnior, Kaio Saramago  Mendonça, Caio Augusto de Lima, Priscilla Larissa
+Silva  Pires, Tatiany  Calegari, Stefan Vilges de Oliveira
+DOI: 10.1590/SciELOPreprints.1077
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The authors declare that in the event that this manuscript has previously been submitted to a journal and
+being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
+server.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed and published by a journal, the authors declare that they have received
+authorization from the journal to make this deposit.
+Date submitted: 2020-08-07
+Publication Date: 
+Powered by TCPDF (www.tcpdf.org)
+Analysis of the spatial-temporal dynamics of incidence, mortality and test rates 
+(rapid and RT-PCR) of COVID-19 in the state of Minas Gerais, Brazil 
+ 
+Running title: Spatio-temporal distribution of COVID-19 and its association to 
+epidemiological parameters in Minas Gerais State 
+ 
+ 
+Milton José da Silva Júnior1 
+https://orcid.org/0000-0001-5915-5662 
+Kaio Saramago Mendonça1  
+https://orcid.org/0000-0003-4451-8728 
+Caio Augusto de Lima1 
+https://orcid.org/0000-0002-0130-6998 
+Priscilla Larissa Silva Pires1 
+https://orcid.org/0000-0002-3450-5061 
+Tatiany Calegari1 
+https://orcid.org/0000-0001-7917-043X 
+Stefan Vilges de Oliveira1* 
+https://orcid.org/0000-0002-5493-2765 
+ 
+1 Federal University of Uberlândia, Uberlândia, Minas Gerais, Brazil. 
+*Mailing address: Department of Collective Health, Faculty of Medicine, Federal 
+University of Uberlândia. Avenida Pará, 1720, Campus Umuarama, Block 2U, Room 8, 
+Umuarama, CEP 38405320. Uberlândia, Minas Gerais-Brazil. E-mail: stefan@ufu.br 
+ 
+Authors' Contribution: MJSJ, KSM, CAL, PLSP, TC and SVO participated in all stages 
+of the article, approved the final version of the manuscript, and assume public 
+responsibility for its content. 
+Abstract 
+ 
+Introduction: A novel type of coronavirus, SARS-CoV-2, is responsible for an 
+unprecedented pandemic with profound socioeconomic consequences. Owing to its 
+recent discovery, the virus that emerged in the Chinese city of Wuhan in December 2019 
+still represents a great unknown to researchers. This study aims to establish the spatio-
+temporal associations of the incidence, mortality, and the rate of both rapid and RT-PCR 
+tests in Minas Gerais. Methods: This is a quantitative analysis of secondary data based 
+on a cross-sectional research design. Incidence, mortality, date of the first notification of 
+COVID-19 and number of rapid and RT-PCR tests were obtained from the sources: 
+Laboratory Environment Manager, e-SUS epidemiological surveillance platform and 
+SES-MG. Pearson coefficient for correlation was calculated to establish the level of 
+association between the relevant data. Descriptive statistical procedures were used to 
+provide a comprehensive understanding of the distribution of incidence, mortality and 
+test rates in the territory. Results: Positive correlations were found between the rate of 
+rapid tests and incidence; rate of RT-PCR tests and incidence/mortality. At the municipal 
+level, incidence, mortality, rate of rapid tests and RT-PCR revealed a negative correlation 
+with days elapsed since the First Notified Case. The same effect occurs, at different 
+intensities, at the level of health macro-regions. Discussion: The heterogeneity of the 
+incidence and mortality of COVID-19 in the territory of Minas Gerais, as well as the rate 
+of tests (rapid and RT-PCR) may be caused, in part, due to the different dates of 
+introduction of the virus in the municipalities/macro-regions. It is speculated that this 
+phenomenon occurs due to the dynamics of regional and inter-regional flows of people. 
+ 
+Keywords: Coronavirus Infections. Epidemiology. COVID-19. Immunologic Tests. 
+Pandemics. Reverse Transcriptase Polymerase Chain Reaction. 
+ 
+ 
+Introduction 
+ 
+For 50 years, different types of coronaviruses have been listed as a cause of 
+respiratory infections (1). However, in December 2019, several cases of pneumonia with 
+unknown etiology were documented in the city of Wuhan, China. Afterwards, Chinese 
+authorities isolated and identified a novel type of coronavirus, named SARS-CoV-2, 
+which has a phylogenetic similarity with other beta-coronaviruses, including SARS-CoV, 
+coronavirus of the severe acute respiratory syndrome, and MERS-CoV, responsible for 
+the Middle East respiratory syndrome (2). Recently, COVID-19 was declared a pandemic 
+by the World Health Organization (1-3). 
+The virus is transmitted by inhalation through expelled droplets and aerosols, but 
+also by fomites, through contaminated objects and surfaces that provide contact with an 
+infected carrier with the hands and, later, with the face, eyes and nose (1, 3). In order to 
+contain the rampant spread of the novel coronavirus, countries have adopted measures of 
+social isolation (3). These measures, which include closing international borders, have 
+caused devastating and long-lasting economic consequences around the world (2, 3). 
+Up to August 3, 2020, 17,918,582 cases were confirmed worldwide, and 686,703 
+thousand deaths (4). In most countries, the confirmation of cases increases exponentially, 
+especially during the initial stages of the outbreak (3). Although it is difficult to compare 
+fatal case rates between the countries, as they are at different stages of the outbreak, the 
+variations are probably related to the scope of population tests, age structure, health status 
+of population and health systems of each country (3). In Brazil, the first confirmed case 
+was reported in the state of São Paulo on February 26, 2020 (2). To the current date, August 
+4, 2020, 2,753,925 cases and 94,746 deaths are attributed to COVID-19 in the country (5). 
+Minas Gerais (MG) has a pivotal role at the national level as it is the second largest 
+Brazilian state in population size, estimated at 21 million people, located in a strategic 
+region, close to states with high incidence rates, such as São Paulo and Rio de Janeiro, 
+hence making it highly conducive to the transmittal of COVID-19 (2). 
+According to the Government of the State of Minas Gerais, in its last update of 
+the human infection protocol for SARS-CoV-2 of July 20, both the reverse transcription 
+assays followed by the polymerase chain reaction (RT-PCR) and the immunological 
+techniques, which include rapid tests, can be used as a diagnostic criterion. It is 
+noteworthy that negative results in rapid tests are not able to discard suspicious cases (6). 
+In this sense, the importance of prevention, correct care and treatment of infection, 
+as well as the need of establishing epidemiological correlations between tests and the 
+temporal and geographical behavior of the disease in Minas Gerais is justified by the high 
+rate of viral transmissibility, hospitalization and mortality (1), which undoubtedly 
+overburden the health system and harm the local economy. 
+Thus, the aim of this study was to elaborate a temporal and geographical analysis 
+of the data regarding the number of both rapid and RT-PCR tests performed, the incidence 
+and mortality, in order to better understand the epidemiology of COVID-19 in the state 
+of Minas Gerais and the dynamics of the use of diagnostic tests. The comprehension of 
+these epidemiological phenomena according to the proposed prism can elucidate 
+questions on which regions are most vulnerable and prepare health institutions to deal 
+with the logistics of tests and health equipment, hence improving the management of the 
+COVID-19 pandemic. 
+ 
+Methods  
+ 
+Quantitative assessment of secondary data was performed from a cross-sectional 
+epidemiological research design, and descriptive and inferential statistical methods were 
+used for statistical analysis. The results were obtained through the use of the libraries 
+Matplotlib (version 3.2.1), Pandas (version 1.0.5) and Statistics in the Python™ 
+programming language (version 3.7.7). The programming environment used was Project 
+Jupyter©. 
+The data obtained through the COVID-19 database available on the website of the 
+Minas Gerais State Health Secretariat (SES-MG) (7) are as follows: Incidence and 
+Mortality for COVID-19 per 1000 inhabitants among March 4, 2020 and June 22, 2020; 
+date of the first notification of the disease in regard to the municipalities that reported 
+cases of COVID-19 until the date of July 10, 2020. 
+Through the DATASUS system, by accessing the e-SUS Epidemiological 
+Surveillance platform (e-sus VE), the number of rapid tests per 1000 inhabitants carried 
+out between March 4 and June 22, 2020 was extracted. Similarly, by accessing the 
+Laboratory Environment Manager platform, the number of RT-PCR tests performed 
+between March 4, 2020 and June 21, 2020 was extracted. 
+ 
+Initially, we merged the data according to the Brazilian Institute of Geography 
+and Statistics (IBGE) code for the municipalities and prepared the descriptive statistical 
+analyzes as follows: cities that exhibited more than two standard deviations from the mean 
+in the distribution of rapid tests (>12.58) and RT-PCR tests (>4.84) were excluded due to 
+the noise of these outliers in the general data, thus resulting in the exclusion of 23 cities 
+for rapid tests and 28 for molecular tests. Then, mean, median and quartiles for city 
+distributions according to the type of test were generated. 
+The quartiles for the two distributions obtained were assessed according to the 
+macro-regions that were part of their composition. After, the number of tests, both rapid 
+and molecular, was extracted according to the health macro-region. 
+The inferential analysis consisted of calculating Pearson's coefficients (8) for 
+correlation between the data obtained in the systems previously mentioned. The data used 
+for this analysis refer to the period from March 4 to June 22, 2020. Only cities in which 
+there was at least one notification of the disease until June 22 were considered. Therefore, 
+it was necessary to exclude cities that did not present notifications of COVID-19 until 
+that date, resulting in the exclusion of 215 cities. The variables incidence, mortality, rate 
+of rapid and molecular tests and the date of the first notification were used to establish 
+Pearson's coefficients, both at the municipal level and at the level of the health macro-
+regions. 
+ 
+Results 
+ 
+Until June 22, 2020, 638 cities had reported at least one positive case for COVID-
+19, while 215 cities had not reported any cases of the disease. Among the cities of the 
+first group, 72 days (early May) have passed since the date of the first notification in the 
+state - March 4 - for 319 cities (less than half of the 853 municipalities in Minas Gerais) 
+to register at least one notification of the disease. 
+Notwithstanding that, the most populous municipalities have reported positive 
+cases since at least mid-March 2020 (Figure 1). Remarkably, the two most populous cities 
+in the state totaled 7815 cases of COVID-19 (26.12% of the total cases) until the analyzed 
+date (June 22), and revealed the first notifications of the disease in early March. 
+ 
+ 
+ 
+ 
+ 
+Figure 1: (A) Sum of notified cases in a specific city according to the date of the first 
+notified case (March 4, 2020). (B) Cases notified according to the health macro-region 
+by the date of June 22, 2020. (C) Health macro-regions to which cities belong without 
+cases notified by the date of June 22, 2020. 
+ 
+Cities in which there was no notification of COVID-19 until the date of analysis 
+were less populous and exhibited lower rates of tests, both rapid and molecular (Table 1), 
+in comparison to the cities in the other group. Accordingly, there was a notorious 
+predominance of disease notifications in the health macro-regions Central, Northern 
+Triangle and Southeast. In turn, the macro-regions Northeast, Jequitinhonha and East 
+concentrated more than 40% of the 215 cities without records of the disease until the date 
+of analysis. 
+ 
+Table 1: Comparison between cities with reported cases and cities without reported cases. 
+Mean and standard deviation for the variables population size, rate of rapid tests and rate 
+of molecular tests. *Until June 22, 2020. 
+ 
+ 
+ 
+ 
+Population 
+Size (2019) 
+ABtests 
+performed 
+RT-PCR tests 
+performed 
+ 
+ 
+ 
+Mean 
+SD 
+Mean 
+SD 
+Mean 
+SD 
+Cities with reported cases* 
+(n=638) 
+31175.97 
+115698.24 
+3.51 
+5.29 
+0.94 
+1.1 
+Cities with no reported cases* 
+(n=215) 
+5946.6 
+3789.18 
+1.26 
+2.32 
+0.47 
+0.56 
+ 
+ 
+The cities of the health macro-regions Central, South Central, South and Northern 
+Triangle accounted for 59% of the cities above the third quartile of the RT-PCR test rate 
+(between 1.1 and 2.8). In turn, the analysis of the same quartile for rapid tests (between 
+3.4 and 12.58) showed a more homogeneous representation of other regions. However, 
+the cities in the Central and Northern Triangle regions still represented the majority of 
+cities in this category. In fact, the Central, Central South and Northern Triangle regions 
+revealed the highest test rates (both rapid and molecular). 
+Both rapid and RT-PCR tests performed for the detection of COVID-19 are in 
+accordance with the incidence and mortality rates (Figure 2). The Pearson coefficients for 
+correlation, at the municipal level, were: +0.39, between the rapid tests and the incidence 
+rate; and +0.21 between the RT-PCR tests and the incidence rate. Regarding to the 
+mortality rate, the same coefficients were 0 and +0.12 for rapid and RT-PCR tests, 
+respectively. 
+Despite this, the temporal correlation was even more pronounced (Figure 3). At 
+the municipal level, the analysis of the association between the elapsed time of the First 
+Notified Case in the state of Minas Gerais and rapid tests produced a coefficient of -0.11; 
+between the first notified case and RT-PCR tests, the coefficient was -0.22; between the 
+first notified case and incidence rate, it was -0.25; and between the first notified case and 
+mortality rate, -0.19. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: (A) Distribution of cities according to the tests performed; (left) rapid tests; 
+(right) RT-PCR tests. (B) Composition of the quartiles of the distributions (A) according 
+to the health macro-region; for rapid tests and RT-PCR tests, respectively. (C) 
+Distribution of tests performed according to the health macro-region. 
+ 
+ 
+The same analysis used for the health macro-regions makes the association more 
+evident. In fact, by aggregating cities in large regions, the outlier cities - whose tests per 
+thousand exceed more than two standard deviations from the average and are small-sized 
+- have their effect on the total overall reduced. Pearson's coefficient for correlation 
+between the elapsed time of the first notified case in the state of Minas Gerais and rapid 
+tests was -0.59; between the first notified case and RT-PCR tests, it was -0.25; between 
+the first notified case and incidence rate, -0.70; and between the first notified case and 
+mortality rate, -0.71. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3: [Cities] Association between days elapsed since the first notified case and (A) 
+Rapid tests per 1000 inhabitants; (B) RT-PCR tests per 1000 inhabitants; (C) Mortality 
+per 1000 inhabitants; (D) Incidence per 1000 inhabitants. [Health macro-region] 
+Association between days elapsed from the first notified case and (E) Rapid tests 
+performed by 1000 inhabitants; (F) RT-PCR Tests per 1000 inhabitants; (G) Mortality 
+per 1000 inhabitants; (H) Incidence per 1000 inhabitants. 
+ 
+Discussion 
+ 
+The highest concentrations of COVID-19 cases accumulate in the hierarchically 
+most influential regions of the state of Minas Gerais (9, 10). The health macro-regions 
+Central, Southeast, Northern Triangle, Vale do Aço and South were responsible for just 
+over 73% of all cases of the infectious disease in the state until the date of analysis. All 
+of these five regions contain at least one city of great relevance, being the metropolis or 
+strong regional and sub-regional centers (9), with the exception of Vale do Aço, which is 
+adjacent to the Central region and where it was notified the first case of COVID-19 in the 
+state. 
+Similarly to the incidence rate, the mortality rate follows, to a greater or lesser 
+degree, the same pattern of regional distribution. The present study revealed that the Vale 
+do Aço, Northern Triangle and Southeast regions had the highest mortality rates, while 
+the Central region exhibited the highest absolute number of deaths. Based on the 
+literature, it can be inferred that the causes of this pattern of territorial distribution are due 
+to anthropogenic and environmental factors that can contribute to the spread of the virus 
+(11-13), including climatic factors (14), transport flows (13, 15), economic activity (13, 14) and air 
+pollution (12). 
+Adda J (2016) (13) states that the spread of influenza viruses in the twentieth 
+century is accompanied with human flows, since there was a strong association between 
+the spread of COVID-19 in the territory and different factors, such as economic activity 
+and availability of transport, especially those from long distance. This phenomenon was 
+corroborated by Candido D et al. (2020) (16), in a study that confirmed a greater spread of 
+the disease associated with the increase in distances traveled by air. Due to the similarity 
+in transmission, it is expected that the spread of SARS-CoV-2 virus occurs in the same 
+way. In fact, Jia et al. (2020) (15) demonstrated, for the Chinese territory, the close 
+association related to the flows of people between the territories and the disease incidence 
+rates. Furthermore, the authors established a relationship between gross domestic product 
+(GDP) and the population size, which loses predictive value over time, hence suggesting 
+migration of the virus to economically diverse and less affluent regions. 
+Therefore, the population size, economic activity and transport flow are essential 
+factors to understand the spread of SARS-CoV-2 throughout the territory (12, 17, 18). The 
+mortality rate, in turn, follows a similar pattern of territorial distribution in Brazil (19). 
+The negative correlations observed when analyzing the time elapsed between the 
+first notified case in the municipality and the first notified case in the state may indicate 
+that there is heterogeneity in the date of introduction of the virus in the territory, especially 
+when considering the incidence and mortality rates that tend to be lower the later the first 
+case is reported. Candido et al. (2020) (16) established the spatio-temporal flow of COVID-
+19 in the Brazilian territory and described that the health macro-regions of the Northern 
+Triangle, Central, Central South, South and Southeast are those in which the virus first 
+entered the territory of Minas Gerais. This is in agreement with the findings of studies in 
+Brazil (19) and China (15), which demonstrated that the most affluent regions receive the 
+virus before other regions. 
+The same negative correlation - with different coefficients and of greater intensity 
+- was observed when the geographic level used was the health macro-region. This more 
+pronounced effect seems to indicate that SARS-CoV-2 tends to be concentrated for a 
+longer time in the sub-region where it was first inserted, that is, interregional spread is 
+subsequent to the spread in the locality itself. In fact, in Brazil, the virus seems to spread 
+through the territory in two ways: spatial, when the virus leaves the metropolitan region 
+for the rest of the territory; and hierarchical, located in sub-regions in which cities of 
+regional importance allow the spread of COVID-19 to other locations at a lower 
+hierarchical level (19). 
+Across the state, at the municipal level, there was a positive correlation between 
+the rate of rapid tests and incidence and the rate of RT-PCR tests and incidence. Also, the 
+rates of RT-PCR tests and mortality remained positively correlated and more 
+concentrated in three health macro-regions (Central, Central South and Northern 
+Triangle). Besides that, there was a notable negative correlation between time and test 
+rates, at the municipal and regional level. 
+For Bergman A. et al. (2020) (20), the incidence rate, as a function of time, reflects 
+biological factors, including the microorganism-host interaction, susceptible population 
+size, contagiousness of the infection and the rate of tests. Moreover, the incidence rate 
+reflects the organizational capacity and infrastructure of the health sector of a territory. 
+Therefore, richer regions would have more available testing resources, which was 
+confirmed in this study. 
+Although the findings of the present research, this study has limitations. The 
+methods applied, notably the Pearson coefficient for correlation, without other studies 
+regarding the flow of people or even the flow of disease spread through the state of Minas 
+Gerais are less sensitive tools to point the cause of the explored phenomena. The 
+univariate analysis also limits our comprehension of the role that each variable has in the 
+overall effect. Notwithstanding that, the procedures used, together with the literature, are 
+capable of directing new paths to clarify the nature of the evidenced associations. 
+It is worthwhile noting that the test rate must influence the incidence and mortality 
+rates, as the diagnostic criterion for the disease is based on diagnostic tests. In this context, 
+it is expected that the higher the rate of tests in a given territory, the greater the reported 
+number of incidence and mortality. Thus, territories that are not suitable for testing can 
+suffer from severe underreporting (21). The present methodological design would be more 
+appropriate in a homogeneous situation of the rate of tests, which is not possible. 
+The heterogeneous distribution of COVID-19 across the territory overlaps the 
+areas with the highest affluence in the state. This may indicate that the most 
+interconnected regions are those with a greater increase in incidence and mortality in the 
+first moments of the pandemic, which would cause the testing rate to increase in parallel, 
+with privilege for rapid tests in all regions and RT-PCR tests where there is a higher 
+mortality rate. 
+Undoubtedly, this study reported a phenomenon underlying the spatio-temporal 
+dynamics of the rates of tests, incidence and mortality in Minas Gerais, notably the 
+influence of the hierarchy levels of urban centers and the demographic aspects of the 
+territory. Thus, these findings contribute to a greater understanding of the association 
+between parameters of territorial dynamics and epidemiological parameters of COVID-
+19, which may imply in the preparation of health systems and competent institutional 
+authorities in order to develop potential strategies to combat the life-threatening disease 
+based on prior knowledge of the demographic and hierarchical aspects of the territory. 
+ 
+Financial Support 
+ 
+The study did not receive any financial support since it used data from public health 
+information systems. 
+ 
+Conflict of Interest statement 
+ 
+The authors declare no conflict of interest. 
+ 
+References 
+ 
+1. Bulut C, Kato Y. Epidemiology of COVID-19. Turk J Med Sci [Internet]. 2020 
+[cited 
+1 
+August 
+2020]; 
+50(SI-1):563-570. 
+Available 
+from: 
+https://pubmed.ncbi.nlm.nih.gov/32299206/ 
+2. Xavier J, Giovanetti M, Adelino T, Fonseca V, da Costa A, Ribeiro A et al. The 
+ongoing COVID-19 epidemic in Minas Gerais, Brazil: insights from 
+epidemiological data and SARS-CoV-2 whole genome sequencing. Emerg 
+Microbes Infect [Internet]. 2020 [cited 3 August 2020]; 1-42. Available from: 
+https://pubmed.ncbi.nlm.nih.gov/32726185/ 
+3. Uddin M, Mustafa F, Rizvi T, Loney T, Al Suwaidi H, Al-Marzouqi A et al. 
+SARS-CoV-2/COVID-19: Viral Genomics, Epidemiology, Vaccines, and 
+Therapeutic 
+Interventions. 
+Viruses 
+[Internet]. 
+2020 
+[cited 
+2 
+August 
+2020];12(5):526. Available from: https://pubmed.ncbi.nlm.nih.gov/32397688/ 
+4. Bastos L. OPAS/OMS Brasil - Folha informativa – COVID-19 (doença causada 
+pelo novo coronavírus) | OPAS/OMS [Internet]. Pan American Health 
+Organization / World Health Organization. 2020 [cited 5 August 2020]. Available 
+from:https://www.paho.org/bra/index.php?option=com_content&view=article&i
+d=6101:covid19&Itemid=875 
+5. Cota W. Monitoring the number of COVID-19 cases in Brazil [Internet]. Wesley 
+Cota. Physics and Complex Networks. 2020 [cited 5 August 2020]. Available 
+from: https://covid19br.wcota.me/en/ 
+6. Ministério da Saúde (BR), Secretaria de Vigilância em Saúde. Guia de Vigilância 
+Epidemiológica. Emergência de Saúde Pública de Importância Nacional pela 
+Doença pelo Coronavírus 2019. Brasília: MS; 2020. 1-59 p. Available from: 
+https://coronavirus.ceara.gov.br/wp-
+content/uploads/2020/04/guia_de_vigilancia_2020.pdf.pdf 
+7. Secretaria do Estado de Saúde de Minas Gerais. 2020. Distribuição Dos Casos De 
+COVID-19. [online] Available at: <http://coronavirus.saude.mg.gov.br/painel> 
+[Accessed 10 July 2020] 
+8. Sriram 
+N. 
+Decomposing 
+the 
+Pearson 
+Correlation. 
+SSRN 
+[Internet]. 
+2006; Available from: http://dx.doi.org/10.2139/ssrn.2213946 
+9. Monteiro R. População, centros e fluxos no Estado de Minas Gerais. Confins 
+[Internet]. 2014;(22). Available from: https://doi.org/10.4000/confins.9876 
+10. Regiões de influência das cidades: 2018 / IBGE, Coordenação de Geografia. 1st 
+ed. Rio de Janeiro: IBGE; 2018. 
+11. Akin L, Gözel M. Understanding dynamics of pandemics. Turk J Med Sci 
+[Internet]. 2020 [cited 1 August 2020]; 50(SI-1):515-519. Available from: 
+https://doi.org/10.3906/sag-2004-133 
+12. Copiello S, Grillenzoni C. The spread of 2019-nCoV in China was primarily 
+driven by population density. Comment on “Association between short-term 
+exposure to air pollution and COVID-19 infection: Evidence from China” by Zhu 
+et al. Sci Total Environ [Internet]. 2020 [cited 1 August 2020]; 744:141028. 
+Available from: https://doi.org/10.1016/J.SCITOTENV.2020.141028 
+13. Adda J. Economic Activity and the Spread of Viral Diseases: Evidence from High 
+Frequency Data*. Q J Econ [Internet]. 2016;131(2):891-941. Available from: 
+https://doi.org/10.1093/qje/qjw005 
+14. Sarmadi M, Marufi N, Kazemi Moghaddam V. Association of COVID-19 global 
+distribution and environmental and demographic factors: An updated three-month 
+study. Environ. Res. [Internet]. 2020 [cited 1 August 2020]; 188:109748. 
+Available from: https://doi.org/10.1016/J.ENVRES.2020.109748 
+15. Jia J, Lu X, Yuan Y, Xu G, Jia J, Christakis N. Population flow drives spatio-
+temporal distribution of COVID-19 in China. Nature [Internet]. 2020 [cited 1 
+August 
+2020]; 
+582(7812):389-394. 
+Available 
+from: 
+https://doi.org/10.1038/s41586-020-2284-y 
+16. Candido D, Claro I, de Jesus J, Souza W, Moreira F, Dellicour S et. al. Evolution 
+and epidemic spread of SARS-CoV-2 in Brazil. Science [Internet]. 2020 [cited 31 
+July 2020]: eabd2161. Available from: https://doi.org/10.1126/science.abd2161 
+17. Rocklöv J, Sjödin H. High population densities catalyse the spread of COVID-19. 
+J Travel Med [Internet]. 2020 [cited 1 August 2020];27(3). Available from: 
+https://doi.org/10.1093/jtm/taaa038 
+18. Jahangiri M, Jahangiri M, Najafgholipour M. The sensitivity and specificity 
+analyses of ambient temperature and population size on the transmission rate of 
+the novel coronavirus (COVID-19) in different provinces of Iran. 
+Sci Total Environ [Internet]. 2020 [cited 1 August 2020]; 728:138872. Available 
+from: https://doi.org/10.1016/J.SCITOTENV.2020.138872 
+19. Fortaleza C, Guimarães R, de Almeida G, Pronunciate M, Ferreira C. Taking the 
+inner route: spatial and demographic factors affecting vulnerability to COVID-19 
+among 604 cities from inner São Paulo State, Brazil. Epidemiol Infect [Internet]. 
+2020 [cited 2 August 2020];148. Available from: https://doi.org/10.1017/ 
+S095026882000134X 
+20. Bergman A, Sella Y, Agre P, Casadevall A. Oscillations in U.S. COVID-19 
+Incidence and Mortality Data Reflect Diagnostic and Reporting Factors. 
+mSystems [Internet]. 2020 [cited 3 August 2020];5(4). Available from: 
+https://doi.org/10.1128/mSystems.00544-20 
+21. França E, Ishitani L, Teixeira R, Abreu D, Corrêa P, Marinho F et al. Óbitos por 
+COVID-19 no Brasil: quantos e quais estamos identificando? Rev Bras Epidemiol 
+[Internet]. 
+2020 
+[cited 
+3 
+August 
+2020];23. 
+Available 
+from: 
+https://doi.org/10.1590/1980-549720200053 
+ 
+ 

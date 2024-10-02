@@ -1,0 +1,2915 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/1980-549720210014.supl.1
+Trends in sociodemographic and lifestyle factors associated
+with sedentary behavior among Brazilian adults
+Lucas Akio Iza  Trindade , Flavia Mori  Sarti 
+https://doi.org/10.1590/1980-549720210014.supl.1
+Submitted on: 2020-12-14
+Posted on: 2020-12-14 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+DOI: 10.1590/1980-549720210014.supl.1 
+e210014.supl.1 
+ 
+Artigo Original 
+ 
+Trends in sociodemographic and lifestyle factors associated with sedentary 
+behavior among Brazilian adults 
+Tendências em fatores sociodemográficos e de estilo de vida associados ao 
+comportamento sedentário em adultos brasileiros 
+Running title: Sociodemographic and lifestyle factors of sedentary behavior in 
+Brazilian adults 
+ 
+Lucas 
+Akio 
+Iza 
+Trindade 
+(lucas.akio.trindade@usp.br) 
+(ORCID 
+ID: 
+https://orcid.org/0000-0001-6736-7139) - Escola de Artes, Ciências e Humanidades, 
+Universidade de São Paulo, São Paulo, São Paulo, Brasil. 
+Flavia Mori Sarti (flamori@usp.br) (ORCID ID: https://orcid.org/0000-0003-2834-
+2005) - Escola de Artes, Ciências e Humanidades, Universidade de São Paulo, São 
+Paulo, São Paulo, Brasil. 
+ 
+Corresponding author: Flavia Mori Sarti (E-mail: flamori@usp.br). Escola de Artes, 
+Ciências e Humanidades, Universidade de São Paulo, Av. Arlindo Béttio 1000, São 
+Paulo, 03828-000, São Paulo, Brasil. 
+ 
+Conflict of interests: The authors declare that they have no conflict of interest. 
+ 
+Financial support: The study was conducted with public funding of the National 
+Council for Scientific and Technological Development (CNPq). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+ 
+Identification/approval number from Ethics Committee: VIGITEL project was 
+approved 
+by 
+the 
+National 
+Commission 
+on 
+Research 
+Ethics 
+(CAAE: 
+65610017.1.0000.0008). 
+ 
+Authors’ collaboration: Lucas Akio Iza Trindade contributed with the design of the 
+article, analysis and interpretation of the data, writing and final approval of the article. 
+Flavia Mori Sarti contributed with the design of the article, analysis and interpretation 
+of the data, review and final approval of the article. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+ABSTRACT 
+Objective: To analyze sociodemographic and lifestyle factors associated with screen-
+based sedentary behavior (watching television ≥3 hours/day) among adult individuals in 
+Brazil. Methods: Quantitative analysis of ten editions of the cross-sectional health 
+survey VIGITEL, representative at population level. Individuals from states’ capitals 
+living in households with land-line telephone were randomly selected and interviewed 
+using structured questionnaire by telephone. A multivariate logistic regression model 
+was estimated for identification of factors associated with screen-based sedentary 
+behavior. Results: There was stability in trends referring to prevalence of sedentary 
+behavior from 2008 to 2017. Prevalence of sedentary behavior was higher between 
+individuals with unhealthier lifestyles: consumption of <2 in natura food items 
+(vegetables, fruits and beans) per day (26.73% [95%CI 25.2%;28.31%]) in comparison 
+to ≥2 items per day (23.79% [95%CI 21.92%;25.77%]); consumption of soft drinks ≥5 
+days per week (31.24% [95%CI 29.58%;32.95%]) than <5 days per week (23.82% 
+[95%CI 22.2%;25.52%]); and practice of <150 minutes of physical activity per week 
+(28.2% 
+[95%CI 
+26.17%;30.33%]) 
+than 
+≥150 
+minutes 
+per 
+week 
+(22.54% 
+[21.27%;23.86%]). Regular consumption of in natura food items (OR=0.984), practice 
+of physical activity (OR=0.798) and living in richer municipality (OR=0.826) 
+represented protective factors in relation to screen-based sedentary behavior, whilst 
+regular consumption of soft drinks (OR=1.440), smoking (OR=1.375) and alcohol abuse 
+(OR=1.334) represented risk factors. Conclusion: The adoption of screen-based 
+sedentary behavior among adult individuals in Brazil presented significant association 
+with modifiable behavioral factors in the period 2008-2017. 
+Keywords: Sedentary behavior. Screen time. Lifestyle. Cross-sectional studies. Risk 
+factors. Protective factors. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+ 
+RESUMO 
+Objetivo: Analisar fatores sociodemográficos e de estilo de vida associados ao 
+comportamento sedentário baseado em tempo de tela (assistir televisão ≥3 horas/dia) 
+entre brasileiros adultos. Métodos: Análise quantitativa de dez edições do inquérito de 
+saúde de delineamento transversal VIGITEL, representativo em nível populacional. 
+Indivíduos de capitais estaduais residentes em domicílios com telefone fixo foram 
+selecionados aleatoriamente e entrevistados via questionário estruturado por telefone. 
+Estimou-se modelo de regressão logística multivariada para identificação de fatores 
+associados ao comportamento sedentário. Resultados: Observou-se tendência estável na 
+prevalência de comportamento sedentário entre 2008 e 2017. Verificou-se maior 
+prevalência de comportamento sedentário entre indivíduos com padrões de 
+comportamento menos saudáveis: consumo de <2 itens alimentares in natura (vegetais, 
+frutas e feijões) por dia (26,73% [95%CI 25,2%;28,31%]) em comparação ao consumo 
+de ≥2 itens por dia (23,79% [95%CI 21,92%;25,77%]); consumo de refrigerantes em ≥5 
+dias por semana (31,24% [95%CI 29,58%;32,95%]) em comparação a <5 dias por 
+semana (23,82% [95%CI 22,2%;25,52%]); e prática de atividade física <150 minutos 
+por semana (28,2% [95%CI 26,17%;30,33%]) em comparação a ≥150 minutos por 
+semana (22,54% [21,27%;23,86%]). Consumir alimentos in natura (OR=0.984); 
+praticar atividade física (OR=0.798) e residir em município de maior renda (OR=0.826) 
+representaram fatores de proteção ao comportamento sedentário baseado em tempo de 
+tela, enquanto consumo de refrigerantes (OR=1.440), fumo (OR=1.375) e abuso de 
+álcool (OR=1.334) representaram fatores de risco. Conclusão: A adoção do 
+comportamento sedentário baseado em tela entre indivíduos adultos no Brasil 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+apresentou associação significativa com fatores comportamentais modificáveis no 
+período 2008-2017. 
+Palavras-chave: Comportamento sedentário. Tempo de tela. Estilo de vida. Estudos 
+transversais. Fatores de risco. Fatores de proteção. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+INTRODUCTION 
+Sedentary behaviors represent important risk factors for negative health outcomes; 
+however, it differs substantially from absence of engagement in physical activity1,2. 
+Evidence on associations between sedentary behavior and chronic non-communicable 
+diseases indicates significant association with cardiometabolic3 and cardiovascular4 
+diseases, cancer5, overweight and obesity6, and overall mortality7. 
+The recently published guidelines of the World Health Organization on physical activity 
+and sedentary behavior recommend that adult individuals (18-64 years-old) limit 
+sedentarism, especially by replacing sedentary activities with physical activity at least 
+150 to 300 minutes per week due to substantial benefits to individuals’ health, which 
+contributes to well-being and overall quality of life8,9. 
+Despite the harmful effects of sedentarism on health status, it presents high prevalence 
+in diverse countries worldwide8. A recent study indicated that approximately 65% of 
+adults in the United States devoted two or more hours per day watching television in 
+2015-201610. 
+It is important to emphasize that sedentary behavior and physical activity may be 
+performed in different domains, e.g., during leisure, transportation or labor, and other 
+occupational or educational activities. In general, sedentary behaviors that occur during 
+leisure are considered discretionary, and time spent watching television is usually 
+adopted as proxy variable for optional sedentary behavior in epidemiological studies, 
+especially considering its sensitivity to influences from cultural and socioeconomic 
+contexts11-13. 
+Although there is emerging academic interest in factors associated with sedentary 
+behaviors, most studies focus on high-income countries12,13, and there is lack of 
+population level evidence for low- and middle-income countries, e.g. Brazil, especially 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+considering the simultaneity of health behaviors and health conditions during broad 
+periods. 
+Therefore, the objective of the study was to analyze trends and protective and risk 
+factors associated with adoption of screen-based sedentary behavior (watching 
+television ≥3 hours/day) in adult population (≥18 years-old) living in Brazilian state 
+capitals from 2008 to 2017. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+METHODS 
+Study design 
+The study presents analysis of datasets from the Surveillance of Risk and Protection 
+Factors for Prevention of Chronic Diseases through Telephone Survey (VIGITEL), 
+conducted by the Brazilian Ministry of Health, including ten years of cross-sectional 
+observational individual-level data from representative sample of the adult population 
+living in Brazilian state capitals and Federal District in the period from 2008 to 2017. 
+ 
+Databases 
+The VIGITEL is a telephone health survey conducted annually since 2006 by the 
+Brazilian Ministry of Health to monitor risk and protection factors for chronic diseases 
+in the Brazilian population. The databases include individual-level information for each 
+year of the survey, available at the Brazilian Ministry of Health website. Microdata 
+from surveys conducted from 2008 onwards were selected, considering the 
+consolidation process of the survey during the first two years after implementation. 
+VIGITEL sampling process is based on minimum sample of 1,500 individuals from 
+each of the Brazilian state capitals and Federal District for estimation of frequency of 
+risk and protection factors for chronic diseases in the adult population with 95% 
+confidence and maximum error of three percentage points14. 
+The first stage of sampling refers to random selection of at least 5,000 landlines per 
+municipality from landline registrations of main telephone companies in the country. 
+After initial drawing, lines eligible for survey are selected, i.e., active residential lines. 
+The second stage of sampling consists of drawing one adult per household to participate 
+in the survey14. Considering the survey sample design, individuals interviewed are 
+assigned weights to allow statistical inferences in relation to the population of 26 state 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+capitals and Brazilian Federal District, using rake method14. Data collection was carried 
+out through structured interview with application of closed questionnaire by 
+telephone14. 
+In addition to information from VIGITEL, data referring to Gross Domestic Product 
+(GDP) and population of each municipality, obtained from the Brazilian Institute for 
+Geography and Statistics (IBGE), were included in the dataset to represent certain 
+environmental aspects of the municipality and population economic status and to assess 
+potential effects of economic conjuncture on other variables in the survey period (2008 
+to 2017). 
+ 
+Variables 
+Sedentary behavior (outcome) was based on self-reported daily time watching 
+television, considering sedentary individuals with screen time equal or higher than 3 
+hours per day. 
+Variables of interest in the present study were: (1) self-reported frequency of 
+consumption of in natura food items (vegetables, fruits and beans) per week15; (2) self-
+reported frequency of consumption of soft drinks per week15; (3) sociodemographic 
+characteristics: age, biological sex, educational attainment, ethnicity/skin color, marital 
+status and occupation; (4) health characteristics: self-assessment of health status, self-
+reported diagnosis of diabetes, self-reported diagnosis of hypertension, overweight and 
+obesity; (5) self-reported behavioral characteristics: physical activity, alcohol abuse, and 
+smoking; (6) GDP per capita in the municipality of residence of the individuals, using 
+data obtained from IBGE. 
+ 
+Data processing 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Information of VIGITEL databases ranging from 2008 to 2017 were further organized 
+into a single dataset, after selection of variables compatible along the period of analysis, 
+to allow statistical analysis on trends and factors associated with adoption of screen-
+based sedentary behavior among adult individuals. 
+A set of variables from VIGITEL was converted into binary variables, coded into 0 (no) 
+and 1 (yes) values, according to specific criteria based on evidence of the literature or 
+cutoff points established by national and/or international organizations: screen-based 
+sedentary behavior, and regular consumption of in natura food items and soft drinks. 
+The adoption of screen-based sedentary behavior was based on self-report of daily 
+duration of television watching, considering the cutoff point of three or more hours per 
+day. 
+Regular consumption of in natura food items and soft drinks was based on self-reported 
+frequency per item: none day, 1 to 2 days, 3 to 4 days, 5 to 6 days or all days of the 
+week14. Three variables registering self-reported frequency of in natura food items 
+consumption, i.e., beans, fruits and vegetables (considered markers of healthier food 
+consumption patterns), were converted into number of days per week consuming each 
+item, which were added up and divided by seven days per week to comprise total in 
+natura food items consumed per day. Then, it was categorized using cutoff point of at 
+least two items per day during the week14. 
+Regular consumption of soft drinks (considered marker of unhealthier food 
+consumption patterns) was categorized using cutoff point of consuming five or more 
+days during the week15. 
+Regarding sociodemographic characteristics, age and educational attainment were 
+continuous variables maintained in its original format for the analysis. Biological sex, 
+ethnicity/skin color, marital status and occupation were converted into categorical 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+variables, encompassing the following categories, respectively: female (0) and male (1); 
+white (0) and black, brown and indigenous (1); living with companionship, i.e., married 
+and stable union (0) and living without companionship, i.e., single, divorced and 
+widowed (1); and currently working (1) and not working (0). 
+Amongst health characteristics, self-assessment of health status in five categories (very 
+good, good, fair, poor or very poor) was converted into binary variable considering 
+individuals who declared having poor or very poor health status. Presence of diabetes or 
+hypertension were registered according to self-report of the individual. Occurrence of 
+overweight (BMI ≥ 25 kg/m²)14 and obesity (BMI ≥ 30 kg/m²)14 in the VIGITEL was 
+based on the estimation of the Body Mass Index (BMI), based on self-reported 
+information about weight and height14. 
+Behavioral characteristics were adopted in its original format from VIGITEL: physical 
+activity level (≥ 150 minutes per week), alcohol abuse (≥ 5 doses for men; ≥ 4 doses for 
+women at least on one occasion in the last 30 days), and smoking (current use of 
+tobacco products, regardless the amount)14. 
+Values of GDP per capita were updated by applying the National Consumer Price Index 
+(IPCA-IBGE), using the accumulated price index of the period of each annual survey to 
+the reference period of January 2019. 
+ 
+Model 
+Multivariate logistic regression model was estimated to evaluate association of screen-
+based sedentary behavior with variables of interest selected, resulting in identification of 
+sociodemographic and lifestyle protection and risk factors for adoption of screen-based 
+sedentary behavior (outcome). The model included control variables for municipality, 
+year of survey, and cross-effects of municipality and year of survey, in order to capture 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+potential influence of local policies. Analyses were performed using statistical software 
+Stata® (Stata Corp., College Station, USA), version 14.2 for Windows, applying svyset 
+command for sample design using rake weighting method, considering statistical 
+significance p0.05. 
+ 
+Ethical aspects 
+The VIGITEL survey project was approved by the National Commission on Research 
+Ethics (CAAE: 65610017.1.0000.0008). Informed consent was obtained verbally at the 
+time of telephone contact14. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+RESULTS 
+Participants in VIGITEL survey were usually female individuals, individuals who 
+declared themselves black, brown or indigenous, and individuals who worked. The 
+proportion of young adults (18 to 39 years-old) was higher during the first survey 
+editions; nevertheless, there was an increasing trend in participation of older adults (40 
+to 59 years-old), and elderly individuals (over 60 years-old) (table 1 and table S1). 
+The occurrence of individuals who self-reported certain health conditions increased 
+throughout the period: diabetes (from 6.22% [95%CI 5.44% to 7.09%] in 2008 to 7.63% 
+[95%CI 7.10% to 8.19%] in 2017; p<0.001), obesity (from 13.66% [95%CI 13.18% to 
+14.15%] in 2008 to 18.92% [95%CI 18.08% to 19.79%] in 2017; p<0.001) and 
+overweight (from 44.88% [95%CI 43.64% to 46.14%] in 2008 to 54.00% [95%CI 
+52.58% to 55.41%] in 2017; p<0.001) in the period (table 1 and table S1). 
+Adoption of screen-based sedentary behavior showed stability, presenting minor 
+variations during the period (ranging from 22.53% [95%CI 21.11% to 24.02%] in 2015 
+to 28.58% [95%CI 26.73% to 30.51%] in 2013); however, the differences registered 
+throughout the period were statistically significant (p<0.001) (table 1 and table S1). 
+Among other behavioral characteristics, physical activity ≥150 minutes/week showed 
+increasing tendency during the period (from 43.07% [95%CI 40.77% to 45.40%] in 
+2008 to 53.41% [95%CI 49.57% to 57.21%] in 2017; p<0.001), as well as abusive 
+alcohol consumption (from 17.22% [95%CI 14.75% to 20.01%] in 2008 to 19.06% 
+[95%CI 17.7% to 20.49%] in 2017; p=0.003). On the other hand, there was decreasing 
+trend in frequency of consumption of soft drinks (from 26.41% [95%CI 23.10% to 
+30.01%] in 2008 to 14.62% [95%CI 11.71% to 18.10%] in 2017; p<0.001), and 
+smoking (from 14.77% [12.73% to 17.07%] in 2008 to 10.11% [7.94% to 12.79%] in 
+2017; p<0.001) (table 1 and table S1). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+There were no statistically significant differences among individuals interviewed 
+throughout the period regarding biological sex, occupation, self-assessment of poor 
+health status and self-reported hypertension diagnosis (table 1 and table S1). 
+Results of the logistic model on adoption of screen-based sedentary habit suggest 
+statistically significant association with age, biological sex, ethnicity/skin color, marital 
+status, educational attainment and occupation: older individuals (OR=0.999) and 
+individuals with higher educational attainment (OR=0.991) had lower probability to 
+adopt screen-based sedentary behavior; whilst women (OR=1.086), individuals who 
+declared themselves to be black, brown or indigenous (OR=1.063), individuals living 
+without companionship (OR=1.148), and individuals who were not working 
+(OR=1.889) had higher probability (table 2). 
+There were also statistically relevant associations with overweight (OR=1.111), obesity 
+(OR=1.103), self-reported diagnosis of diabetes (OR=1.117), and hypertension 
+(OR=1.097). In relation to behavioral characteristics, results indicated that regular 
+consumption of in natura foods (OR=0.984) and practice of physical activity 
+(OR=0.798) were protective factors against adoption of sedentary behavior; whilst 
+consumption of soft drinks (OR=1.440), smoking (OR=1.375), and alcohol abuse 
+(OR=1.334) were considered risk factors. Finally, considering economic context, there 
+was lower adherence to sedentary habit among individuals living in municipalities with 
+higher per capita GDP (OR=0.826) (table 2). 
+Self-assessment of poor health status (OR=1.047) did not show statistical significance 
+for screen-based sedentary behavior among adult individuals in the period analyzed. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+DISCUSSION 
+The adoption of screen-based sedentary behavior (watching television ≥3 hours/day) 
+among adult individuals in Brazil presented significant association with health 
+behaviors that may be modifiable through public policies strategies designed for 
+primary health care interventions. 
+Evidence of the study emphasizes the role of sociodemographic, economic and 
+behavioral factors on lifestyle choices that influence health status of the Brazilian 
+population. Mechanisms of reinforcement between screen-based sedentary behavior and 
+other behavior patterns were observed in previous studies. Healthier lifestyle choices, 
+including frequent consumption of in natura foods15 and regular physical activity8, were 
+protective factors against sedentary behavior of watching television ≥3 hours per day. 
+Conversely, unhealthy behavior patterns were usually risk factors for sedentary 
+behavior, including frequent consumption of soft drinks15,16,17, smoking18 and alcohol 
+abuse19. 
+In Brazil, evidence referring to the protective role of regular in natura food 
+consumption and recommended levels of physical activity in relation to adoption of 
+sedentary behavior was also observed in previous study performed among public school 
+teachers in Presidente Prudente municipality, state of Sao Paulo20; in addition, there 
+were also associations between overfeeding and alcohol consumption with time spent 
+watching television20. 
+Results obtained in the study, reinforced by evidence in previous studies, draw attention 
+to the concomitance and the repercussion of harmful habits to individual’s health, 
+indicating the importance of the discussion on the presence of multiple behavioral risk 
+factors in relation its impacts on health outcomes. Adherence to healthy lifestyles, i.e., 
+combination of healthier behaviors, was significantly associated with reduction in 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+premature death in the United States, resulting in increase in life expectancy, 
+particularly healthy life years free from chronic non-communicable diseases (NCD)21,22. 
+Similar evidence has been observed in studies with Brazilian adolescents23 and Polish 
+adults24, particularly regarding eating patterns associated with screen-based sedentary 
+behavior (including watching television). It points out to underlying mechanisms of 
+encouragement for consumption of food items that are considered markers of 
+unhealthier food consumption patterns (e.g., soda, snacks, and sweets) whilst watching 
+television. Furthermore, the habit of watching television has been related to body fat 
+deposits24, increasing risks of overweight, abdominal obesity, higher BMI and waist 
+circumference6,25,26, which were partially observed in the results of the study also. 
+It is important to emphasize that overweight and obesity are important risk factors for 
+NCD27,28, being responsible for substantial health and economic burden in populations, 
+health systems and households worldwide, considering direct costs with treatments and 
+indirect costs for individuals, e.g., productivity losses, family commitment and 
+emotional health impacts29-31. 
+Our results have shown that, besides overweight and obesity, individuals who self-
+reported diabetes and hypertension diagnosis were also more likely to adopt screen-
+based sedentary behavior, association also observed in previous studies3,32. The 
+evidence on the relationship between NCD and sedentary behavior fosters the 
+discussion on the need for engagement of individuals diagnosed with NCD within 
+initiatives for promotion of physical activity. It is especially important regarding 
+perceived barriers to achieve recommended physical activity practice33,34, and adoption 
+of healthier eating patterns35,36, which highlight the social and environmental influences 
+on behavioral change. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+In the context of sociodemographic characteristics, results of the study showed higher 
+tendency of screen-based sedentary behavior among individuals who declared being 
+single, divorced, or widower; i.e., individuals living without companionship, in 
+accordance with previous studies with Canadian and Japanese adults37,38. 
+However, a systematic review has shown certain inconsistencies regarding the influence 
+of family and household factors, including marital status, on adoption of sedentary 
+behavior during leisure12. Therefore, although some evidence point to the adoption of 
+screen-based sedentary behavior among individuals living unaccompanied, additional 
+research is required to identify whether marital status influences sedentary habits like 
+watching television, and its relationship with other sociodemographic factors over time. 
+In any case, evidence call for attention towards the discussions about influences of peers 
+in adoption of healthier lifestyles, encouraging and/or accompanying practice of 
+physical activity during leisure, instead of sedentary recreational activities like watching 
+television37,38. 
+In terms of ethnicity/skin color, it is important to point out that higher trends in screen-
+based sedentary behaviors among individuals declaring themselves black, brown or 
+indigenous may be linked to environmental characteristics that impose barriers to 
+physical activity practice in ethnic minorities, according to evidence from studies in 
+United Kingdom39 and United States40. Thus, it represents an opportunity to discuss 
+design of health policy interventions with an equitable orientation, focusing on specific 
+characteristics of the Brazilian black, brown, or indigenous individuals. 
+Sedentary behavior presents socioeconomic and cultural determinants related to the 
+organization of contemporary society, labor and educational activities, i.e., routines that 
+have been designed to occur generally in sitting position with minor energy expenditure, 
+promoting sedentarism in individuals and populations11. Whilst adherence to physical 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+activity is commonly associated with leisure in high-income countries and work in low-
+income countries, it is possible to observe both situations in middle-income countries 
+like Brazil41. 
+Therefore, the adoption of indicators like watching television three or more hours per 
+day for analysis of sedentary behavior may comprise an important marker of 
+discretionary recreational activity, unlike other forms of screen-based sedentary 
+behavior, e.g., duration of activities using computer, which may be linked to 
+occupational activities. Our results showed that individuals who declared that were not 
+working presented higher tendency to maintain screen-based sedentary behavior during 
+leisure by watching television ≥3 hours per day. 
+However, considering differences observed in time spent in sedentary behaviors in 
+diverse life domains in Brazil, assessed in a study conducted in the city of Pelotas, state 
+of Rio Grande de Sul42, it is important to further investigate sedentary behavior in 
+different life domains in the Brazilian population. 
+The main limitations of the study refer to methodological characteristics of VIGITEL 
+databases, especially referring to data collection based on cross-sectional survey 
+design14, which prevents establishment of causal relationships between screen-based 
+sedentary behavior in relation to sociodemographic and behavioral characteristics of the 
+Brazilian adult population. 
+In addition, changes in the survey questionnaires throughout the period of analysis 
+limited the possibility of including certain characteristics of interest in the study, like 
+presence of hypercholesterolemia, consumption of other food items (milk, meat, and 
+sweets), among others. Therefore, only variables that remained directly comparable 
+during the period analyzed were selected in the study, allowing consistency for 
+estimation of the model proposed. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+VIGITEL includes self-reported characteristics through telephone survey, which may 
+result in underestimation of characteristics that individuals’ believe “wrong” or 
+“socially unacceptable” and overestimation of characteristics perceived “right” or 
+“socially acceptable”, thus reducing accuracy of analysis referring to certain 
+individual’s characteristics and behaviors. Furthermore, the variable for screen-based 
+sedentary habit covers time spent watching television, and it does not include time spent 
+with use of other devices, like computers, tablets and mobile phones, which would 
+potentially increase prevalence of sedentariness in the Brazilian adult population, 
+especially considering the widespread of information and communication technologies 
+throughout the period analyzed. 
+Sample selection in VIGITEL is based on population representativeness of individuals 
+living in Brazilian state capitals and Federal District that have landline telephone, i.e., 
+areas of high urbanization43; thus, there is absence of representativeness of rural 
+population in the study. Previous studies point to need to use alternative weighting 
+strategies in the case of regions with low coverage of household landlines, pointing to 
+potential underestimation biases due to tendency to substitute the use of landlines by 
+mobile phones throughout time44,45. 
+However, it is important to point that an assessment on the sampling and stratification 
+processes adopted within VIGITEL indicated validity and representativeness for 
+research and monitoring risk and protection factors related to the health status of the 
+Brazilian population46. Furthermore, sample size of the survey and its sampling 
+procedures minimize potential biases in responses that potentially under- or 
+overestimate monitoring of trends and risk or protection factors associated with 
+sedentary behavior in the Brazilian adult population. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Finally, increasing trends towards sedentarism, alcohol abuse, overweight and obesity 
+during period analyzed represent a call for action within the context of the Brazilian 
+health system, especially directed to primary health care strategies for health promotion 
+and disease prevention. Considering the lack of cohort data representative at national 
+level in Brazil, results of the study may subsidize the formulation of strategic 
+interventions in public health policies to promote healthy lifestyles among Brazilian 
+adults. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+REFERENCES 
+1. Tremblay MS, Colley RC, Saunders TJ, Healy GN, Owen N. Physiological and 
+health implications of a sedentary lifestyle. Appl Physiol Nutr Metab. 2010; 
+35(6):725-740. https://doi:10.1139/H10-079 
+2. Tremblay MS, Aubert S, Barnes JD, Saunders TJ, Carson V, Latimer-Cheung AE, 
+et al. Sedentary behavior research network (SBRN) - terminology consensus project 
+process and outcome. Int J Behav Nutr Phys Act. 2017; 14(75):1-17. 
+https://doi.org/10.1186/s12966-017-0525-8. 
+3. Lim MS, Park B, Kong IG, Sim S, Kim SY, Kim J, et al. Leisure sedentary time is 
+differentially associated with hypertension, diabetes mellitus, and hyperlipidemia 
+depending 
+on 
+occupation. 
+BMC 
+Public 
+Health. 
+2017; 
+17(278):1-9. 
+https://doi.org/10.1186/s12889-017-4192-0. 
+4. Lavie CJ, Ozemek C, Carbone S, Katzmarzyk PT, Blair SN. Sedentary behavior, 
+exercise and cardiovascular health. Circulation Research. 2019; 124(5):799-815. 
+https://doi.org/10.1161/CIRCRESAHA.118.312669. 
+5. Schimid D, Leitzmann MF. Television viewing and time spent sedentary in relation 
+to cancer risk: a meta-analysis. J Natl Cancer Inst. 2014; 106(7):dju098. 
+https://doi.org/10.1093/jnci/dju098. 
+6. Al-Hanawi MK, Chirwa GC, Pemba LA, Qattan AMN. Does prolonged television 
+viewing affect Body Mass Index? A case of the Kingdom of Saudi Arabia. PloS 
+ONE. 2020; 15(1):e0228321. https://doi.org/10.1371/journal.pone.0228321. 
+7. Patterson R, McNamara E, Tainio M, De Sá TH, Smith AD, Sharp SJ, et al. 
+Sedentary behavior and risk of all-cause, cardiovascular and cancer mortality, and 
+incident type 2 diabetes: a systematic review and dose response meta-analysis. Eur 
+J Epidemiol. 2018; 33(9):811-829. https://doi.org/10.1007/s10654-018-0380-1. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+8. World Health Organization. Guidelines on physical activity and sedentary 
+behaviour. Geneva: World Health Organization; 2020. 
+9. Dempsey PC, Biddle SJH, Buman MP, Chastin S, Ekelund U, Friedenreich CM, et 
+al. New global guidelines on sedentary behaviour and health for adults: broadening 
+the behavioural targets. Int J Behav Nutr Phys Act. 2020; 17(151):1-12. 
+https://doi.org/10.1186/s12966-020-01044-0. 
+10. Yang L, Cao C, Kantor ED, Nguyen LH, Zheng X, Park Y, et al. Trends in 
+sedentary behavior among the US population, 2001-2016. JAMA. 2019; 
+321(16):1587-97. doi:10.1001/jama.2019.3636. 
+11. Bauman AE, Petersen CB, Blond K, Rangul V, Hardy LL. The descriptive 
+epidemiology of sedentary behaviour. In: Leitzmann MF, Jochem C, Schmid D, ed. 
+Sedentary behaviour epidemiology. Cham: Springer International Publishing; 2018. 
+p.73-106. 
+12. O’Donoghue G, Perchoux C, Mensah K, Lakerveld J, Van der Ploeg H, Bernaards 
+C, et al. A systematic review of correlates of sedentary behaviour in adults aged 18-
+65 years: a socio-ecological approach. BMC Public Health. 2016. 16(163):1-25. 
+https://doi.org/10.1186/s12889-016-2841-3. 
+13. Prince SA, Reed JL, McFetridge C, Tremblay MS, Reid RD. Correlates of 
+sedentary behaviour in adults: a systematic review. Obesity Reviews. 2017. 
+18(8):915-935. https://doi.org/10.1111/obr.12529. 
+14. Brasil. Ministério da Saúde. VIGITEL Brasil 2017: vigilância de fatores de risco e 
+proteção para doenças crônicas por inquérito telefônico: estimativas sobre 
+frequência e distribuição sociodemográfica de fatores de risco e proteção para 
+doenças crônicas nas capitais dos 26 estados brasileiros e no Distrito Federal em 
+2017. Brasília: Ministério da Saúde; 2018. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+15. Brasil. Ministério da Saúde. Guia alimentar para a população brasileira. Brasília: 
+Ministério da Saúde; 2014. 
+16. Mulee A, Romaguera D, Pearson-Stuttard J, Viallon V, Stepien M, Freisling H, et 
+al. Association between soft drink consumption and mortality in 10 European 
+countries. 
+Jama 
+Intern 
+Med. 
+2019; 
+179(11):1479-1490. 
+http://jamanetwork.com/article.aspx?doi=10.1001/jamainternmed.2019.2478. 
+17. Garduño-Alanís A, Malyutina S, Pajak A, Stepaniak U, Kunivoa R, Denisova R, et 
+al. Association between soft drink, fruit juice consumption and obesity in Eastern 
+Europe: cross-sectional and longitudinal analysis of the HAPIEE study. J Hum Nutr 
+Diet. 2020; 33(1):66-77. https://doi.org/10.1111/jhn.12696. 
+18. West R. Tobacco smoking: health impact, prevalence, correlates and interventions. 
+Psychol 
+Health. 
+2017; 
+32(8):1018-1036. 
+https://doi.org/10.1080/08870446.2017.1325890. 
+19. Whitman IR, Agarwal V, Nah G, Dukes JW, Vittinghoff E, Dewland TA, et al. 
+Alcohol abuse and cardiac disease. J Am Coll Cardiol. 2017; 69(1):13-24. 
+http://dx.doi.org/10.1016/j.jacc.2016.10.048. 
+20. Delfino LD, Tebar WR, Gil FC, De Souza JM, Romanzini M, Fernandes RA, et al. 
+Association of sedentary behaviour patterns with dietary and lifestyle habits among 
+public school teachers: a cross-sectional study. BMJ Open. 2020; 10(e034322):1-9. 
+http://dx.doi.org/10.1136/bmjopen-2019-034322. 
+21. Li Y, Schoufour J, Wang DD, Dhana K, Pan A, Liu X, et al. Healthy lifestyle and 
+life expectancy free of cancer, cardiovascular disease, and type 2 diabetes: 
+prospective 
+cohort 
+study. 
+ 
+BMJ. 
+2020; 
+368(16669):1-10. 
+https://doi.org/10.1136/bmj.l6669. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+22. Li Y, Pan A, Wang DD, Liu X, Dhana K, Franco OH, et al. The impact of healthy 
+lifestyle factors on life expectancies in the US population. Circulation. 2018; 
+138(4):345-355. https://doi.org/10.1161/CIRCULATIONAHA.117.032047. 
+23. Haddad MR, Sarti FM. Sociodemographic determinants of health behaviors among 
+Brazilian adolescents: trends in physical activity and food consumption, 2009-2015. 
+Appetite. 2020; 104(104454):1-8. https://doi.org/10.1016/j.appet.2019.104454. 
+24. Jezewska-Zychowicz M, Gębski J, Guzek D, Świątkowska M, Stangierska D, 
+Plichta M, et al. The associations between dietary patterns and sedentary behaviors 
+in 
+polish 
+adults 
+(LifeStyle 
+Study). 
+Nutrients. 
+2018; 
+10(1004):1-16. 
+https://doi.org/10.3390/nu10081004. 
+25. Wang Y, Su C, Ouyang Y, Jia X, Zhang B, Wang Z, et al. Secular trends in 
+sedentary behaviors and associations with weight indicators among Chinese 
+reproductive-age women from 2004 to 2015: findings from the China Health and 
+Nutrition 
+Survey. 
+Int 
+J 
+Obes. 
+2020; 
+44(1):2267-2278. 
+https://doi.org/10.1038/s41366-020-00684-3. 
+26. Gupta RD, Haider SS, Hashan MR, Hasan M, Sutradhar I, Sajal IH, et al. 
+Association between the frequency of television watching and overweight and 
+obesity among women of reproductive age in Nepal: analysis of data from the 
+Nepal Demographic and Health Survey 2016. PLoS One. 2020;15(2):e0228862. 
+https://doi.org/10.1371/journal.pone.0228862. 
+27. Nowbar AN, Gitto M, Howard JP, Francis DP, Al-Lamee R. Mortality from 
+ischemic heart disease. Circ Cardiovasc Qual Outcomes. 2019; 12(6):e005375. 
+https://doi.org/10.1161/CIRCOUTCOMES.118.005375. 
+28. World Health Organization. Global status report on noncommunicable diseases 
+2014. Geneva: World Health Organization; 2014. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+29. Lehnert T, Sonntag D, Konnopka A, Riedel-Heller S, König H. Economic costs of 
+overweight and obesity. Best Pract Res Clin Endocrinol Metab. 2013; 27(2):105-
+15. https://doi.org/10.1016/j.beem.2013.01.002. 
+30. Jan S, Laba T, Essue BM, Gheorghe A, Muhunthan J, Engelgau M. et al. Action to 
+address the household economic burden of non-communicable diseases. The 
+Lancet. 
+2018; 
+391(10134):2047-2058. 
+https://doi.org/10.1016/S0140-
+6736(18)30323-4. 
+31. Bertram MY, Sweeny K, Lauer J, Chisholm D, Sheehan P, Rasmussen B. Investing 
+in non-communicable diseases: an estimation of the return on investment for 
+prevention and treatment services. The Lancet. 2018:391(10134):2071-2078. 
+https://doi.org/10.1016/S0140-6736(18)30665-2. 
+32. Gao Y, Xie X, Wang S, Li H, Tang H, Zhang J, et al. Effects of sedentary 
+occupations on type 2 diabetes and hypertension in different ethnic groups in North 
+West 
+China. 
+Diab 
+Vasc 
+Dis 
+Res. 
+2017; 
+14(4):372-5. 
+https://doi.org/10.1177%2F1479164117696050. 
+33. Chang C, Khurana S, Strodel R, Camp A, Magenheimer E, Hawley N. Perceived 
+barriers to physical activity among low-income Latina women at risk for type 2 
+diabetes. 
+Diabetes 
+Educ. 
+2018; 
+44(5):444-453. 
+https://doi.org/10.1177%2F0145721718787782. 
+34. Gee ME, Bienek A, Campbell NRC, Bancej CM, Robitaille C, Kaczorowski J, et 
+al. Prevalence of, and barriers to, preventive lifestyle behaviors in hypertension 
+(from a national survey of Canadians with hypertension). Am J Cardio. 2012; 
+109(4): 570-575. https://doi.org/10.1016/j.amjcard.2011.09.051. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+35. Halali F, Mahdavi R, Mobasseri M, Jafarabadi MA, Avval SK. Perceived barriers 
+to recommended dietary adherence in patients with type 2 diabetes in Iran. Eat 
+Behav. 2016; 21(1):205-210. https://doi.org/10.1016/j.eatbeh.2016.03.001. 
+36. Mahdavi R, Bagheri A, Abadi MAJ, Namazi N. Perceived barriers to following 
+dietary recommendations in hypertensive patients. J Am Coll Nutr. 2017; 
+36(3):193-199. https://doi.org/10.1080/07315724.2014.966176. 
+37. Huffman S, Szafron M. Social correlates of leisure-time sedentary behaviours in 
+Canadian 
+adults. 
+Prev 
+Med 
+Rep. 
+2017; 
+5(1):268-74. 
+https://doi.org/10.1016/j.pmedr.2017.01.007. 
+38. Ishii K, Shibata A, Oka K. Sociodemographic and anthropometric factors 
+associated with screen-based sedentary behavior among Japanese adults: a 
+population-based 
+cross-sectional study. 
+J Epidemiol. 2013; 23(5):382-8. 
+https://doi.org/10.2188/jea.JE20130008. 
+39. Ige-Elegbede J, Pilkington P, Gray S, Powell J. Barriers and facilitators of physical 
+activity among adults and older adults from black and minority ethnic groups in the 
+UK: a systematic review of qualitative studies. Prev Med Rep. 2019:15(100952):1-
+11. https://doi.org/10.1016/j.pmedr.2019.100952. 
+40. Hughey SM, Walsemann KM, Child S, Powers A, Reed JA, Kaczynski AT. Using 
+an environmental justice approach to examine the relationships between park 
+availability and quality indicators, neighborhood disadvantage, and racial/ethnic 
+composition. 
+Landsc 
+Urban 
+Plan. 
+2016; 
+148(1):159-169. 
+https://doi.org/10.1016/j.landurbplan.2015.12.016. 
+41. O’Donoghue G, Kennedy A, Puggina A, Aleksovska K, Buck C, Burns C, et al. 
+Socio-economic determinants of physical activity across the life course: A 
+“DEterminants of DIet and Physical ACtivity” (DEDIPAC) umbrella literature 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+review. 
+PLoS 
+One. 
+2018; 
+13(1):e0190737. 
+https://doi.org/10.1371/journal.pone.0190737. 
+42. Mielke GI, Da Silva ICM, Owen N, Hallal PC. Brazilian adults’ sedentary 
+behaviors by life domain: population-based study. PLoS ONE. 2014; 9(3):e91614. 
+https://doi.org/10.1371/journal.pone.0091614. 
+43. Instituto Brasileiro de Geografia e Estatística. Áreas urbanizadas do Brasil. Rio de 
+Janeiro: IBGE; 2015. 
+44. Bernal, RTI, Malta DC, Claro RM, Monteiro CA. Efeito da inclusão de entrevistas 
+por telefone celular ao VIGITEL. Rev Saude Publica. 2017; 51(Supl):1s-5s. 
+https://doi.org/10.1590/s1518-8787.2017051000171. 
+45. Bernal RTI, Malta DC, De Morais Neto OL, Claro RM, Mendoça BCA, Oliveira 
+ACC, et al. VIGITEL-Aracaju, Sergipe, 2008: efeitos da pós-estratificação na 
+correção de vícios decorrentes da baixa cobertura de domicílios com telefone fixo. 
+Rev 
+Bras 
+Epidemiol. 
+2014; 
+17(1):163-74. 
+https://doi.org/10.1590/1415-
+790X201400010013ENG. 
+46. Bernal RTI, Iser BPM, Malta DC, Claro RM. Surveillance System for Risk and 
+Protective Factors for Chronic Diseases by Telephone Survey (VIGITEL): changes 
+in weighting methodology. Epidemiol Serv Saude. 2017; 26(4):701-712. 
+http://dx.doi.org/10.5123/s1679-49742017000400003. 
+ 
+ 
+Recebido em 23/08/2020 
+Revisado em 03/12/2020 
+Aprovado em 07/12/2020 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Table 1. Sociodemographic and health characteristics and behaviors of participants, according to year of survey. Brazil, 2008-2017. 
+Characteristics 
+Estimated prevalence, weighted 
+P 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+(n = 
+54353) 
+(n = 
+54367) 
+(n = 
+54339) 
+(n = 
+54144) 
+(n = 
+45448) 
+(n = 
+52929) 
+(n = 
+40853) 
+(n = 
+54174) 
+(n = 
+53210) 
+(n = 
+53034) 
+Sociodemographic characteristics 
+Age 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+18-39 years 
+52.85 
+52.04 
+51.87 
+51.29 
+50.82 
+50.26 
+49.76 
+49.43 
+49.16 
+48.73 
+ 
+40-59 years 
+32.68 
+33.19 
+32.92 
+33.31 
+33.58 
+33.63 
+33.97 
+33.69 
+33.76 
+33.70 
+ 
+≥ 60 years 
+14.47 
+14.77 
+15.21 
+15.40 
+15.60 
+16.11 
+16.27 
+16.88 
+17.08 
+17.57 
+ 
+Biological sex 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.199 
+Female 
+53.88 
+53.89 
+53.90 
+53.91 
+53.92 
+53.93 
+53.94 
+53.95 
+53.97 
+53.98 
+ 
+Male 
+46.12 
+46.11 
+46.10 
+46.09 
+46.08 
+46.07 
+46.06 
+46.05 
+46.03 
+46.02 
+ 
+Ethnicity/skin color 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+White 
+39.03 
+39.24 
+39.97 
+43.50 
+40.57 
+41.47 
+39.75 
+40.80 
+43.60 
+42.04 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Black to brown and indigenous 
+60.97 
+60.76 
+60.03 
+56.50 
+59.43 
+58.53 
+60.25 
+59.20 
+56.40 
+57.96 
+ 
+Marital status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+Married/stable union 
+50.19 
+51.29 
+51.61 
+49.31 
+50.96 
+48.84 
+50.31 
+47.66 
+47.79 
+46.33 
+ 
+Single/divorced/widowed 
+49.81 
+48.71 
+48.39 
+50.69 
+49.04 
+51.16 
+49.69 
+52.34 
+52.21 
+53.67 
+ 
+Educational attainment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+0-8 years 
+43.63 
+41.97 
+40.57 
+38.07 
+36.77 
+36.51 
+35.94 
+34.58 
+32.49 
+30.80 
+ 
+9-11 years 
+34.72 
+35.85 
+35.88 
+36.08 
+38.54 
+37.58 
+38.12 
+38.11 
+35.87 
+37.28 
+ 
+≥ 12 years 
+21.65 
+22.18 
+23.54 
+24.50 
+24.69 
+25.91 
+25.95 
+27.30 
+31.64 
+31.92 
+ 
+Occupation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.014 
+Working 
+65.36 
+64.22 
+65.29 
+65.73 
+65.92 
+64.50 
+64.05 
+62.56 
+64.59 
+64.14 
+ 
+Not working 
+34.64 
+35.78 
+34.71 
+34.27 
+34.08 
+35.50 
+35.95 
+37.44 
+35.41 
+35.86 
+ 
+Health characteristics 
+Overweight 
+44.88 
+45.98 
+48.19 
+48.82 
+51.01 
+50.77 
+52.52 
+53.92 
+53.82 
+54.00 
+<0,001 
+Obesity 
+13.66 
+14.34 
+15.07 
+16.04 
+17.39 
+17.53 
+17.92 
+18.95 
+18.93 
+18.92 
+<0,001 
+Diabetes diagnosis 
+6.22 
+6.34 
+6.78 
+6.29 
+7.37 
+6.87 
+8.04 
+7.40 
+8.94 
+7.63 
+<0,001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Hypertension diagnosis 
+25.32 
+25.50 
+24.26 
+24.32 
+24.32 
+24.09 
+24.83 
+24.85 
+25.71 
+24.27 
+0.093 
+Poor health status 
+4.58 
+4.65 
+4.47 
+4.54 
+5.04 
+4.88 
+4.44 
+4.79 
+4.40 
+4.10 
+0.083 
+Health behaviors 
+Screen-based sedentary behavior  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+≥ 3 hours a day in the week 
+24.60 
+24.04 
+27.25 
+25.93 
+26.41 
+28.58 
+25.31 
+22.53 
+25.70 
+24.60 
+ 
+< 3 hours a day in the week 
+75.40 
+75.96 
+72.75 
+74.07 
+73.59 
+71.42 
+74.69 
+77.47 
+74.30 
+75.40 
+ 
+Smoking 
+14.77 
+14.30 
+14.07 
+13.37 
+12.11 
+11.26 
+10.76 
+10.37 
+10.16 
+10.11 
+<0.001 
+Alcohol abuse 
+17.22 
+18.44 
+18.08 
+16.52 
+18.43 
+16.38 
+16.51 
+17.18 
+19.09 
+19.06 
+<0.001 
+In natura foods consumption 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+<2 groups per day 
+59.67 
+60.39 
+60.63 
+58.05 
+57.71 
+55.55 
+55.80 
+55.42 
+58.49 
+59.67 
+ 
+≥2 groups per day 
+40.33 
+39.61 
+39.37 
+41.95 
+42.29 
+44.45 
+44.20 
+44.58 
+41.51 
+40.33 
+ 
+Soft drinks consumption 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+≥5 days a week 
+26.41 
+25.95 
+26.8 
+27.48 
+25.96 
+23.27 
+20.81 
+18.96 
+16.50 
+14.62 
+ 
+<5 days a week 
+73.59 
+74.05 
+73.20 
+72.52 
+74.04 
+76.73 
+79.19 
+81.04 
+83.50 
+85.38 
+ 
+Physical activity practice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+<150 minutes per week 
+56.93 
+56.68 
+56.59 
+54.56 
+52.96 
+52.83 
+50.51 
+48.78 
+46.38 
+46.59 
+ 
+≥150 minutes per week 
+43.07 
+43.32 
+43.41 
+45.44 
+47.04 
+47.17 
+49.49 
+51.22 
+53.62 
+53.41 
+ 
+Data presented in number of individuals, n (%). P-values obtained from Pearson’s chi-square test among years of the survey. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Table 2. Multivariate logistic model coefficients for screen-based sedentary behavior. 
+Brazil, 2008-2017. 
+Watching TV ≥ 3 hours a day 
+OR 
+SE 
+[95%CI] 
+Sig. 
+Age (years) 
+0.999 
+0.001 
+[0.998;1.000] 
+** 
+Sex 
+1.086 
+0.016 
+[1.055;1.119] 
+*** 
+Ethnicity/skin color 
+1.063 
+0.016 
+[1.031;1.096] 
+*** 
+Marital status 
+1.148 
+0.017 
+[1.115;1.181] 
+*** 
+Educational attainment (years) 
+0.991 
+0.002 
+[0.988;0.995] 
+*** 
+Occupation 
+1.889 
+0.030 
+[1.832;1.948] 
+*** 
+Overweight 
+1.111 
+0.018 
+[1.076;1.146] 
+*** 
+Obesity 
+1.103 
+0.022 
+[1.061;1.147] 
+*** 
+Diabetes diagnosis 
+1.117 
+0.028 
+[1.064;1.174] 
+*** 
+Hypertension diagnosis 
+1.097 
+0.019 
+[1.059;1.135] 
+*** 
+Self-assessment of poor health 
+1.047 
+0.034 
+[0.982;1.116] 
+ns 
+In natura foods consumption 
+0.984 
+0.003 
+[0.979;0.990] 
+*** 
+Soft drinks consumption 
+1.440 
+0.026 
+[1.391;1.492] 
+*** 
+Physical activity practice 
+0.798 
+0.012 
+[0.775;0.822] 
+*** 
+Smoking 
+1.375 
+0.032 
+[1.315;1.438] 
+*** 
+Alcohol abuse 
+1.334 
+0.026 
+[1.283;1.386] 
+*** 
+Municipal GDP per capita (log) 
+0.826 
+0.007 
+[0.812;0.840] 
+*** 
+*** p<0.01, ** p<0.05, ns = not significant. OR = odds ratio; SE = robust standard 
+errors; 95%CI = 95% confidence interval; Sig. = significance. Note: Model estimated 
+using sample weights, including control per municipality, survey year, and cross-effect 
+of municipality and year. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+SUPPLEMENTARY MATERIAL 
+Table S1. Confidence intervals (95%CI) of sociodemographic and health characteristics and behaviors of participants, according to year of 
+survey. Brazil, 2008-2017. 
+Characteristics 
+Confidence intervals [95%CI], weighted 
+P 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+Sociodemographic characteristics 
+Age 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+18-39 years 
+[50.36;
+55.32] 
+[49.42;
+54.64] 
+[49.14; 
+54.59] 
+[48.58;
+54.00] 
+[48.34; 
+53.28] 
+[47.86;
+52.67] 
+[47.51; 
+52.00] 
+[46.87;
+52.00] 
+[46.76;
+51.56] 
+[46.39;
+51.07] 
+ 
+40-59 years 
+[31.93;
+33.43] 
+[32.14;
+34.26] 
+[31.99; 
+33.87] 
+[32.25;
+34.39] 
+[32.76; 
+34.42] 
+[32.80;
+34.46] 
+[33.31; 
+34.64] 
+[32.89;
+34.50] 
+[32.95;
+34.58] 
+[32.81;
+34.60] 
+ 
+≥ 60 years 
+[12.78;
+16.36] 
+[13.18;
+16.51] 
+[13.45; 
+17.14] 
+[13.71;
+17.25] 
+[13.98; 
+17.38] 
+[14.47;
+17.90] 
+[14.68; 
+17.99] 
+[15.08;
+18.84] 
+[15.45;
+18.85] 
+[15.86;
+19.43] 
+ 
+Biological sex 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.199 
+Female 
+[53.53;
+[53.54;
+[53.57; [53.58;
+[53.59; [53.61;
+[53.62; [53.63;
+[53.65;
+[53.66;
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+54.23] 
+54.23] 
+54.24] 
+54.24] 
+54.25] 
+54.25] 
+54.26] 
+54.27] 
+54.29] 
+54.30] 
+Male 
+[45.77;
+46.47] 
+[45.77;
+46.46] 
+[45.76; 
+46.43] 
+[45.76;
+46.42] 
+[45.75; 
+46.41] 
+[45.75;
+46.39] 
+[45.74; 
+46.38] 
+[45.73;
+46.37] 
+[45.71;
+46.35] 
+[45.7; 
+46.34] 
+ 
+Ethnicity/skin color 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+White 
+[32.82;
+45.61] 
+[32.9; 
+45.95] 
+[33.54; 
+46.76] 
+[35.57;
+51.77] 
+[33.72; 
+47.82] 
+[34.45;
+48.85] 
+[33.23; 
+46.66] 
+[33.72;
+48.29] 
+[35.97;
+51.55] 
+[34.83;
+49.60] 
+ 
+Black to brown and indigenous 
+[54.39;
+67.18] 
+[54.05;
+67.10] 
+[53.24; 
+66.46] 
+[48.23;
+64.43] 
+[52.18; 
+66.28] 
+[51.15;
+65.55] 
+[53.34; 
+66.77] 
+[51.71;
+66.28] 
+[48.45;
+64.03] 
+[50.40;
+65.17] 
+ 
+Marital status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+Married/stable union 
+[47.58;
+52.81] 
+[49.05;
+53.52] 
+[48.91; 
+54.30] 
+[46.91;
+51.71] 
+[48.72; 
+53.19] 
+[46.90;
+50.79] 
+[47.04; 
+53.57] 
+[44.10;
+51.24] 
+[43.98;
+51.62] 
+[42.75;
+49.94] 
+ 
+Single/divorced/widowed 
+[47.19;
+52.42] 
+[46.48;
+50.95] 
+[45.70; 
+51.09] 
+[48.29;
+53.09] 
+[46.81; 
+51.28] 
+[49.21;
+53.10] 
+[46.43; 
+52.96] 
+[48.76;
+55.90] 
+[48.38;
+56.02] 
+[50.06;
+57.25] 
+ 
+Educational attainment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+0-8 years 
+[41.26;
+[39.66;
+[38.23; 
+[36.12;
+[34.53; [34.01;
+[33.84; [32.26;
+[30.21;
+[28.84;
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+46.03] 
+44.32] 
+42.96] 
+41.34] 
+39.06] 
+39.09] 
+38.09] 
+36.98] 
+34.86] 
+32.83] 
+9-11 years 
+[32.39;
+37.14] 
+[33.10;
+38.69] 
+[33.22; 
+38.64] 
+[33.95;
+39.75] 
+[35.60; 
+41.58] 
+[34.92;
+40.31] 
+[36.12; 
+40.15] 
+[35.63;
+40.66] 
+[33.49;
+38.32] 
+[35.07;
+39.54] 
+ 
+≥ 12 years 
+[20.06;
+23.33] 
+[20.44;
+24.03] 
+[21.49; 
+25.72] 
+[22.86;
+26.22] 
+[23.06; 
+26.40] 
+[24.31;
+27.58] 
+[24.54; 
+27.41] 
+[25.40;
+29.28] 
+[29.84;
+33.49] 
+[29.79;
+34.13] 
+ 
+Occupation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.014 
+Working 
+[64.01;
+66.69] 
+[62.42;
+65.97] 
+[63.03; 
+67.48] 
+[63.08;
+68.29] 
+[63.29; 
+68.45] 
+[62.79;
+66.18] 
+[62.24; 
+65.81] 
+[59.92;
+65.13] 
+[61.25;
+67.8] 
+[62.35;
+65.89] 
+ 
+Not working 
+[33.31;
+35.99] 
+[34.03;
+37.58] 
+[32.52; 
+36.97] 
+[31.71;
+36.92] 
+[31.55; 
+36.71] 
+[33.82;
+37.21] 
+[34.19; 
+37.76] 
+[34.87;
+40.08] 
+[32.20;
+38.75] 
+[34.11;
+37.65] 
+ 
+Health characteristics 
+Overweight 
+[43.64;
+46.14] 
+[44.49;
+47.48] 
+[46.64; 
+49.76] 
+[47.62;
+50.02] 
+[49.85; 
+52.16] 
+[49.65;
+51.89] 
+[51.46; 
+53.58] 
+[52.39;
+55.45] 
+[52.66;
+54.97] 
+[52.58;
+55.41] 
+<0,001 
+Obesity 
+[13.18;
+14.15] 
+[13.32;
+15.42] 
+[14.10; 
+16.09] 
+[15.27;
+16.84] 
+[16.38; 
+18.45] 
+[16.41;
+18.71] 
+[16.97; 
+18.92] 
+[17.42;
+20.58] 
+[18.03;
+19.86] 
+[18.08;
+19.79] 
+<0,001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Diabetes diagnosis 
+[5.44; 
+7.09] 
+[5.59; 
+7.18] 
+[6.02; 
+7.63] 
+[5.88; 
+6.74] 
+[6.37; 
+8.51] 
+[6.10; 
+7.73] 
+[7.17; 
+8.99] 
+[6.90; 
+7.92] 
+[8.14; 
+9.80] 
+[7.10; 
+8.19] 
+<0,001 
+Hypertension diagnosis 
+[23.07;
+27.71] 
+[23.94;
+27.12] 
+[22.52; 
+26.09] 
+[22.22;
+26.56] 
+[22.51; 
+26.24] 
+[22.50;
+25.75] 
+[23.52; 
+26.18] 
+[22.93;
+26.89] 
+[23.68;
+27.84] 
+[22.12;
+26.55] 
+0.093 
+Poor health status 
+[4.28; 
+4.89] 
+[4.24; 
+5.11] 
+[4.04; 
+4.95] 
+[4.00; 
+5.14] 
+[4.58; 
+5.54] 
+[4.58; 
+5.20] 
+[3.92; 
+5.02] 
+[4.38; 
+5.23] 
+[4.16; 
+4.64] 
+[3.85; 
+4.36] 
+0.083 
+Health behaviors 
+Screen-based sedentary behavior  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+≥ 3 hours a day in the week 
+[22.74; 
+26.57] 
+[22.40; 
+25.76] 
+[25.37; 
+29.22] 
+[23.99; 
+27.97] 
+[24.40; 
+28.52] 
+[26.73; 
+30.51] 
+[23.56; 
+27.15] 
+[21.11; 
+24.02] 
+[24.14; 
+27.33] 
+[22.80; 
+26.49] 
+ 
+< 3 hours a day in the week 
+[73.43; 
+77.26] 
+[74.24; 
+77.60] 
+[70.78; 
+74.63] 
+[72.03; 
+76.01] 
+[71.48; 
+75.60] 
+[69.49; 
+73.27] 
+[72.85; 
+76.44] 
+[75.98; 
+78.89] 
+[72.67; 
+75.86] 
+[73.51; 
+77.20] 
+ 
+Smoking 
+[12.73;
+17.07] 
+[12.54;
+16.25] 
+[11.63; 
+16.93] 
+[10.84;
+16.37] 
+[10.15; 
+14.39] 
+[9.22; 
+13.67] 
+[8.94; 
+12.9] 
+[8.42; 
+12.72] 
+[8.41; 
+12.24] 
+[7.94; 
+12.79] 
+<0.001 
+Alcohol abuse 
+[14.75;
+[16.13;
+[16.13; [14.85;
+[16.96; [14.96;
+[14.82; [15.22;
+[17.18;
+[17.7; 
+<0.001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+20.01] 
+21.00] 
+20.22] 
+18.34] 
+20.00] 
+17.92] 
+18.34] 
+19.33] 
+21.16] 
+20.49] 
+In natura foods consumption 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+<2 groups per day 
+[55.93;
+63.30] 
+[56.47;
+64.18] 
+[56.69; 
+64.44] 
+[54.40;
+61.61] 
+[53.98; 
+61.35] 
+[51.84;
+59.19] 
+[52.34; 
+59.21] 
+[51.77;
+59.01] 
+[54.79;
+62.11] 
+[56.04;
+63.19] 
+ 
+≥2 groups per day 
+[36.70;
+44.07] 
+[35.82;
+43.53] 
+[35.56; 
+43.31] 
+[38.39;
+45.60] 
+[38.65; 
+46.02] 
+[40.81;
+48.16] 
+[40.79; 
+47.66] 
+[40.99;
+48.23] 
+[37.89;
+45.21] 
+[36.81;
+43.96] 
+ 
+Soft drinks consumption 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+≥5 days a week 
+[23.10;
+30.01] 
+[23.19;
+28.93] 
+[23.86; 
+29.96] 
+[24.11;
+31.14] 
+[22.72; 
+29.49] 
+[20.70;
+26.06] 
+[18.03; 
+23.89] 
+[15.66;
+22.77] 
+[13.48;
+20.04] 
+[11.71;
+18.10] 
+ 
+<5 days a week 
+[69.99;
+76.90] 
+[71.07;
+76.81] 
+[70.04; 
+76.14] 
+[68.86;
+75.89] 
+[70.51; 
+77.28] 
+[73.94;
+79.30] 
+[76.11; 
+81.97] 
+[77.23;
+84.34] 
+[79.96;
+86.52] 
+[81.90;
+88.29] 
+ 
+Physical activity practice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+<150 minutes per week 
+[54.60;
+59.23] 
+[53.56;
+59.75] 
+[53.34; 
+59.79] 
+[51.76;
+57.33] 
+[49.91; 
+55.98] 
+[50.17;
+55.48] 
+[48.13; 
+52.89] 
+[44.55;
+53.02] 
+[42.91;
+49.88] 
+[42.79;
+50.43] 
+ 
+≥150 minutes per week 
+[40.77;
+[40.25;
+[40.21; [42.67;
+[44.02; 
+[44.52;
+[47.11; [46.98;
+[50.12;
+[49.57;
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+45.40] 
+46.44] 
+46.66] 
+48.24] 
+50.09] 
+49.83] 
+51.87] 
+55.45] 
+57.09] 
+57.21] 
+P-values obtained from Pearson’s chi-square test among years of the survey. 95%CI = 95% confidence interval. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Table S1. Confidence intervals (95%CI) of sociodemographic and health characteristics and behaviors of participants, according to year of 
+survey. Brazil, 2008-2017. 
+Characteristics 
+Confidence intervals [95%CI], weighted 
+P 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+Sociodemographic characteristics 
+Age 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+18-39 years 
+[50.36;
+55.32] 
+[49.42;
+54.64] 
+[49.14; 
+54.59] 
+[48.58;
+54.00] 
+[48.34; 
+53.28] 
+[47.86;
+52.67] 
+[47.51; 
+52.00] 
+[46.87;
+52.00] 
+[46.76;
+51.56] 
+[46.39;
+51.07] 
+ 
+40-59 years 
+[31.93;
+33.43] 
+[32.14;
+34.26] 
+[31.99; 
+33.87] 
+[32.25;
+34.39] 
+[32.76; 
+34.42] 
+[32.80;
+34.46] 
+[33.31; 
+34.64] 
+[32.89;
+34.50] 
+[32.95;
+34.58] 
+[32.81;
+34.60] 
+ 
+≥ 60 years 
+[12.78;
+16.36] 
+[13.18;
+16.51] 
+[13.45; 
+17.14] 
+[13.71;
+17.25] 
+[13.98; 
+17.38] 
+[14.47;
+17.90] 
+[14.68; 
+17.99] 
+[15.08;
+18.84] 
+[15.45;
+18.85] 
+[15.86;
+19.43] 
+ 
+Biological sex 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.199 
+Female 
+[53.53;
+54.23] 
+[53.54;
+54.23] 
+[53.57; 
+54.24] 
+[53.58;
+54.24] 
+[53.59; 
+54.25] 
+[53.61;
+54.25] 
+[53.62; 
+54.26] 
+[53.63;
+54.27] 
+[53.65;
+54.29] 
+[53.66;
+54.30] 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+Male 
+[45.77;
+46.47] 
+[45.77;
+46.46] 
+[45.76; 
+46.43] 
+[45.76;
+46.42] 
+[45.75; 
+46.41] 
+[45.75;
+46.39] 
+[45.74; 
+46.38] 
+[45.73;
+46.37] 
+[45.71;
+46.35] 
+[45.7; 
+46.34] 
+ 
+Ethnicity/skin color 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+White 
+[32.82;
+45.61] 
+[32.9; 
+45.95] 
+[33.54; 
+46.76] 
+[35.57;
+51.77] 
+[33.72; 
+47.82] 
+[34.45;
+48.85] 
+[33.23; 
+46.66] 
+[33.72;
+48.29] 
+[35.97;
+51.55] 
+[34.83;
+49.60] 
+ 
+Black to brown and indigenous 
+[54.39;
+67.18] 
+[54.05;
+67.10] 
+[53.24; 
+66.46] 
+[48.23;
+64.43] 
+[52.18; 
+66.28] 
+[51.15;
+65.55] 
+[53.34; 
+66.77] 
+[51.71;
+66.28] 
+[48.45;
+64.03] 
+[50.40;
+65.17] 
+ 
+Marital status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+Married/stable union 
+[47.58;
+52.81] 
+[49.05;
+53.52] 
+[48.91; 
+54.30] 
+[46.91;
+51.71] 
+[48.72; 
+53.19] 
+[46.90;
+50.79] 
+[47.04; 
+53.57] 
+[44.10;
+51.24] 
+[43.98;
+51.62] 
+[42.75;
+49.94] 
+ 
+Single/divorced/widowed 
+[47.19;
+52.42] 
+[46.48;
+50.95] 
+[45.70; 
+51.09] 
+[48.29;
+53.09] 
+[46.81; 
+51.28] 
+[49.21;
+53.10] 
+[46.43; 
+52.96] 
+[48.76;
+55.90] 
+[48.38;
+56.02] 
+[50.06;
+57.25] 
+ 
+Educational attainment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0,001 
+0-8 years 
+[41.26;
+46.03] 
+[39.66;
+44.32] 
+[38.23; 
+42.96] 
+[36.12;
+41.34] 
+[34.53; 
+39.06] 
+[34.01;
+39.09] 
+[33.84; 
+38.09] 
+[32.26;
+36.98] 
+[30.21;
+34.86] 
+[28.84;
+32.83] 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+9-11 years 
+[32.39;
+37.14] 
+[33.10;
+38.69] 
+[33.22; 
+38.64] 
+[33.95;
+39.75] 
+[35.60; 
+41.58] 
+[34.92;
+40.31] 
+[36.12; 
+40.15] 
+[35.63;
+40.66] 
+[33.49;
+38.32] 
+[35.07;
+39.54] 
+ 
+≥ 12 years 
+[20.06;
+23.33] 
+[20.44;
+24.03] 
+[21.49; 
+25.72] 
+[22.86;
+26.22] 
+[23.06; 
+26.40] 
+[24.31;
+27.58] 
+[24.54; 
+27.41] 
+[25.40;
+29.28] 
+[29.84;
+33.49] 
+[29.79;
+34.13] 
+ 
+Occupation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.014 
+Working 
+[64.01;
+66.69] 
+[62.42;
+65.97] 
+[63.03; 
+67.48] 
+[63.08;
+68.29] 
+[63.29; 
+68.45] 
+[62.79;
+66.18] 
+[62.24; 
+65.81] 
+[59.92;
+65.13] 
+[61.25;
+67.8] 
+[62.35;
+65.89] 
+ 
+Not working 
+[33.31;
+35.99] 
+[34.03;
+37.58] 
+[32.52; 
+36.97] 
+[31.71;
+36.92] 
+[31.55; 
+36.71] 
+[33.82;
+37.21] 
+[34.19; 
+37.76] 
+[34.87;
+40.08] 
+[32.20;
+38.75] 
+[34.11;
+37.65] 
+ 
+Health characteristics 
+Overweight 
+[43.64;
+46.14] 
+[44.49;
+47.48] 
+[46.64; 
+49.76] 
+[47.62;
+50.02] 
+[49.85; 
+52.16] 
+[49.65;
+51.89] 
+[51.46; 
+53.58] 
+[52.39;
+55.45] 
+[52.66;
+54.97] 
+[52.58;
+55.41] 
+<0,001 
+Obesity 
+[13.18;
+14.15] 
+[13.32;
+15.42] 
+[14.10; 
+16.09] 
+[15.27;
+16.84] 
+[16.38; 
+18.45] 
+[16.41;
+18.71] 
+[16.97; 
+18.92] 
+[17.42;
+20.58] 
+[18.03;
+19.86] 
+[18.08;
+19.79] 
+<0,001 
+Diabetes diagnosis 
+[5.44; 
+[5.59; 
+[6.02; 
+[5.88; 
+[6.37; 
+[6.10; 
+[7.17; 
+[6.90; 
+[8.14; 
+[7.10; 
+<0,001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+7.09] 
+7.18] 
+7.63] 
+6.74] 
+8.51] 
+7.73] 
+8.99] 
+7.92] 
+9.80] 
+8.19] 
+Hypertension diagnosis 
+[23.07;
+27.71] 
+[23.94;
+27.12] 
+[22.52; 
+26.09] 
+[22.22;
+26.56] 
+[22.51; 
+26.24] 
+[22.50;
+25.75] 
+[23.52; 
+26.18] 
+[22.93;
+26.89] 
+[23.68;
+27.84] 
+[22.12;
+26.55] 
+0.093 
+Poor health status 
+[4.28; 
+4.89] 
+[4.24; 
+5.11] 
+[4.04; 
+4.95] 
+[4.00; 
+5.14] 
+[4.58; 
+5.54] 
+[4.58; 
+5.20] 
+[3.92; 
+5.02] 
+[4.38; 
+5.23] 
+[4.16; 
+4.64] 
+[3.85; 
+4.36] 
+0.083 
+Health behaviors 
+Screen-based sedentary behavior  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+≥ 3 hours a day in the week 
+[22.74; 
+26.57] 
+[22.40; 
+25.76] 
+[25.37; 
+29.22] 
+[23.99; 
+27.97] 
+[24.40; 
+28.52] 
+[26.73; 
+30.51] 
+[23.56; 
+27.15] 
+[21.11; 
+24.02] 
+[24.14; 
+27.33] 
+[22.80; 
+26.49] 
+ 
+< 3 hours a day in the week 
+[73.43; 
+77.26] 
+[74.24; 
+77.60] 
+[70.78; 
+74.63] 
+[72.03; 
+76.01] 
+[71.48; 
+75.60] 
+[69.49; 
+73.27] 
+[72.85; 
+76.44] 
+[75.98; 
+78.89] 
+[72.67; 
+75.86] 
+[73.51; 
+77.20] 
+ 
+Smoking 
+[12.73;
+17.07] 
+[12.54;
+16.25] 
+[11.63; 
+16.93] 
+[10.84;
+16.37] 
+[10.15; 
+14.39] 
+[9.22; 
+13.67] 
+[8.94; 
+12.9] 
+[8.42; 
+12.72] 
+[8.41; 
+12.24] 
+[7.94; 
+12.79] 
+<0.001 
+Alcohol abuse 
+[14.75;
+20.01] 
+[16.13;
+21.00] 
+[16.13; 
+20.22] 
+[14.85;
+18.34] 
+[16.96; 
+20.00] 
+[14.96;
+17.92] 
+[14.82; 
+18.34] 
+[15.22;
+19.33] 
+[17.18;
+21.16] 
+[17.7; 
+20.49] 
+<0.001 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+In natura foods consumption 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+<2 groups per day 
+[55.93;
+63.30] 
+[56.47;
+64.18] 
+[56.69; 
+64.44] 
+[54.40;
+61.61] 
+[53.98; 
+61.35] 
+[51.84;
+59.19] 
+[52.34; 
+59.21] 
+[51.77;
+59.01] 
+[54.79;
+62.11] 
+[56.04;
+63.19] 
+ 
+≥2 groups per day 
+[36.70;
+44.07] 
+[35.82;
+43.53] 
+[35.56; 
+43.31] 
+[38.39;
+45.60] 
+[38.65; 
+46.02] 
+[40.81;
+48.16] 
+[40.79; 
+47.66] 
+[40.99;
+48.23] 
+[37.89;
+45.21] 
+[36.81;
+43.96] 
+ 
+Soft drinks consumption 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+≥5 days a week 
+[23.10;
+30.01] 
+[23.19;
+28.93] 
+[23.86; 
+29.96] 
+[24.11;
+31.14] 
+[22.72; 
+29.49] 
+[20.70;
+26.06] 
+[18.03; 
+23.89] 
+[15.66;
+22.77] 
+[13.48;
+20.04] 
+[11.71;
+18.10] 
+ 
+<5 days a week 
+[69.99;
+76.90] 
+[71.07;
+76.81] 
+[70.04; 
+76.14] 
+[68.86;
+75.89] 
+[70.51; 
+77.28] 
+[73.94;
+79.30] 
+[76.11; 
+81.97] 
+[77.23;
+84.34] 
+[79.96;
+86.52] 
+[81.90;
+88.29] 
+ 
+Physical activity practice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<0.001 
+<150 minutes per week 
+[54.60;
+59.23] 
+[53.56;
+59.75] 
+[53.34; 
+59.79] 
+[51.76;
+57.33] 
+[49.91; 
+55.98] 
+[50.17;
+55.48] 
+[48.13; 
+52.89] 
+[44.55;
+53.02] 
+[42.91;
+49.88] 
+[42.79;
+50.43] 
+ 
+≥150 minutes per week 
+[40.77;
+45.40] 
+[40.25;
+46.44] 
+[40.21; 
+46.66] 
+[42.67;
+48.24] 
+[44.02; 
+50.09] 
+[44.52;
+49.83] 
+[47.11; 
+51.87] 
+[46.98;
+55.45] 
+[50.12;
+57.09] 
+[49.57;
+57.21] 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)
+P-values obtained from Pearson’s chi-square test among years of the survey. 95%CI = 95% confidence interval. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/1980-549720210014.supl.1
+Powered by TCPDF (www.tcpdf.org)

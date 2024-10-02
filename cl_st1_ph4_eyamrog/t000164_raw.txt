@@ -1,0 +1,1131 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.5334/gh.891
+COVID-19: Implications for People with Chagas Disease
+Ezequiel Zaidel, Colin Forsyth, Gabriel Novick, Rachel Marcus, Antonio Luiz Ribeiro, Maria Jesus
+Pinazo, Carlos Morillo, Luis Eduardo Echeverria, Maria Aparecida Shikanai-Yasuda, Pierre
+Buekens, Pablo Perel, Sheba Meymandi, Kate Ralston, Fausto Pinto, Sergio Sosa-Estani
+https://doi.org/10.1590/SciELOPreprints.1144
+Submitted on: 2020-08-27
+Posted on: 2020-09-01 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+ 
+ 
+COVID-19:  
+ 
+Implications for People with Chagas Disease 
+ 
+The Chagas Disease and COVID-19 Writing Group 
+ 
+Ezequiel José Zaidel (0000-0001-8349-7507),1,2 Colin J. Forsyth (0000-0003-1481-8367),3 
+Gabriel Novick (0000-0001-5664-7522),4,5 Rachel Marcus (0000-0002-6229-8864),6 Antonio 
+Luiz P. Ribeiro (0000-0002-2740-0042),7,8 Maria Jesus Pinazo (0000-0002-4237-1075),9 
+Carlos A. Morillo (0000-0002-8739-2099),10 Luis Eduardo Echeverría (0000-0001-5784-
+3859),11 Maria Aparecida Shikanai-Yasuda (0000-0003-3864-041X),12 Pierre Buekens 
+(0000-0002-4294-8559),13 Pablo Perel (0000-0002-2342-301X),14,15 Sheba K. Meymandi 
+(0000-0002-0734-0329),16 Kate Ralston (0000-0003-4653-5679),14 Fausto Pinto (0000-0002-
+8034-4529),14,17 Sergio Sosa-Estani (0000-0001-8701-5456)3, 18 
+ 
+1. Sanatorio Güemes, Buenos Aires, Argentina 
+2. Pharmacology Department, School of Medicine, University of Buenos Aires, Argentina 
+3. Drugs for Neglected Diseases initiative-Latin America, Rio de Janeiro, Brazil. 
+4. Swiss Medical Group, Buenos Aires, Argentina 
+5. Friedman School of Nutrition Science and Policy, Tufts University, Boston, USA 
+6. Latin American Society of Chagas, Washington, DC, USA 
+7. Internal Medicine Department, School of Medicine, Federal University of Minas Gerais (UFMG), 
+Belo Horizonte, Brazil 
+8. Hospital das Clínicas, UFMG, Belo Horizonte, Brazil  
+9. ISGlobal, Hospital Clínic - University of Barcelona, Barcelona, Spain 
+10. Libin Cardiovascular Institute, University of Calgary, Calgary, Canada 
+11. Department of Cardiology, Cardiovascular Foundation of Colombia, Floriblanca, Colombia 
+12. Department of Infectious and Parasitic Diseases, School of Medicine, University of São Paulo, 
+São Paulo, Brazil 
+13. Tulane University School of Public Health and Tropical Medicine, New Orleans, USA 
+2 
+ 
+14. World Heart Federation, Geneva, Switzerland 
+15. Department of Non Communicable Disease Epidemiology, London School of Hygiene and 
+Tropical Medicine, London, UK 
+16. Center of Excellence for Chagas Disease at Olive View-UCLA Medical Center, Sylmar, USA 
+17. Department of Cardiology, CCUL, Lisbon School of Medicine, Universidade de Lisboa, Portugal  
+18. Epidemiology and Public Health Research Center, (CIESP-CONICET), Buenos Aires, Argentina 
+3 
+ 
+Abstract 
+As the global COVID-19 pandemic advances, it increasingly impacts the vulnerable 
+populations who already bear a heavy burden of neglected tropical diseases. Chagas disease 
+(CD), a neglected parasitic infection, is of particular concern because of its potential to cause 
+cardiac, gastrointestinal, and other complications which could increase susceptibility to 
+COVID-19. The over one million people worldwide with chronic Chagas cardiomyopathy 
+require special consideration because of COVID-19’s potential impact on the heart, yet the 
+pandemic also affects treatment provision to people with acute or chronic indeterminate CD. 
+In this document, a follow-up to the WHF-IASC Roadmap on CD, we assess the implications 
+of coinfection with SARS-CoV-2 and Trypanosoma cruzi, the etiological agent of CD. Based 
+on the limited evidence available, we provide preliminary guidance for testing, treatment, and 
+management of patients affected by both diseases, while highlighting emerging healthcare 
+access challenges and future research needs.  
+ 
+4 
+ 
+COVID-19: Implications for People with Chagas Disease 
+  
+Introduction 
+ 
+In 2020, the SARS CoV-2 virus, which causes, COVID-19, took the world by storm. The 
+biological and social implications of this global pandemic may not be fully understood for 
+years. However, what is increasingly clear is that like other diseases, COVID-19 
+disproportionately affects those living at the social margins, while also being particularly 
+severe in older individuals and those with certain underlying health conditions. These are both 
+key considerations as COVID-19 increasingly intersects with the world’s neglected diseases, 
+including Chagas disease (CD), a multi-systemic disorder caused by Trypanosoma cruzi (T. 
+cruzi) that can affect the cardiovascular, digestive and central nervous systems (1). CD is 
+endemic in much of Latin America, which is increasingly bearing the brunt of the pandemic. 
+The first reported Latin American case was on February 26th, 2020 in Brazil; by June 30th, there 
+were nearly 2.5 million confirmed infections and over 110,000 deaths in the region (2), with 
+numbers still increasingly rapidly at the time of writing this paper. Several aspects of CD are 
+concerning in light of what we know about COVID-19: many people living with CD are 
+socioeconomically vulnerable, and with limited access to healthcare; the vast majority are 
+undiagnosed; most are aging, and over a million have already progressed to a cardiac form of 
+the disease (3, 4). In this paper we focus on the potential interactions between CD and COVID-
+19 in coinfected individuals, which become increasingly important as the pandemic spreads 
+rapidly through the Latin American countries where CD is endemic.  
+In early 2020 the Inter-American Society of Cardiology and World Heart Federation published 
+a roadmap that provides a comprehensive overview of CD, with steps for improving healthcare 
+access (5) In April, the Drugs for Neglected Diseases initiative’s Chagas Research Platform 
+reconvened some members of the roadmap writing group and other experts to write a follow-
+up paper exploring how COVID-19 might impact people living with CD, and to provide 
+preliminary guidance based on the limited amount of evidence available on the topic. The group 
+consisted of several CD experts, some of whom have been on the front lines during the current 
+crisis treating patients with COVID-19 or performing research on new treatments. The 
+following document summarizes the consensus opinion of these experts on SARS CoV-2/T. 
+cruzi coinfection.  
+5 
+ 
+ 
+Pathophysiology of COVID-19 infection in relation to that of CD 
+ 
+CD is mainly transmitted through various species of hematophagous insects, although it can 
+also be transmitted transplacentally, through infected blood transfusions or organ donations, 
+laboratory accidents, needle sharing among intravenous drug users (IVDU), and orally through 
+food and drink contaminated with triatomines, their feces, or secretions from some host 
+reservoir species. After infection and an incubation period that ranges from 15 to 40 days, the 
+acute phase of the disease generally lasts for one to two months and is followed by an 
+indeterminate phase, when no clinical manifestations are observed. After decades of this silent 
+state, roughly one-third of patients may develop a chronic form of the disease characterized by 
+organ damage, mainly cardiovascular and gastrointestinal. The most serious sequelae of CD 
+are stroke, sudden death from brady- or tachyarrhythmias, and congestive heart failure (1, 6). 
+COVID-19 interacts with the cardiovascular system on multiple levels. SARS-CoV-2 binds to 
+the human angiotensin-converting enzyme 2 (ACE2) receptor mainly expressed in the lungs, 
+heart, and vascular endothelium.  Although analysis of the precise consequences is in its 
+infancy, this may trigger an inflammatory response that in turn may lead to increasing 
+myocardial injury and dysfunction (7, 8). There is uncertainty whether COVID-19 disease, as 
+an altered immune state, can act as a potential trigger for CD progression, also influenced by 
+both certain parasitic factors (type of strains, load of parasites) as well as host factors (genetic 
+susceptibility and immune state, specifically IFN-Ɣ axis). 
+While parasitemia is low-level and evanescent in chronic CD, pharmacologic and disease-
+induced immunosuppression cause a risk for reactivation of parasitemia (9, 10), therefore there 
+is a potential concern that COVID-19 disease could trigger reactivation of CD, either due to an 
+acquired hemophagocytic lymphohistiocytosis-like disease (cytokine storm), the virus itself, 
+or even the use of some COVID-19 treatments such as steroids, hydroxychloroquine (5) and 
+other immune-modulating drugs (i.e. tocilizumab or other interleukin inhibitors), as 
+interleukins are related to the progression of CD (11, 12). This may be influenced by certain 
+parasitic factors (parasite load and/or T. cruzi strain) as well as host factors (genetic 
+susceptibility and immune state, specifically IFN-Ɣ axis).   
+ 
+6 
+ 
+ 
+Implications for chronic Chagas cardiomyopathy 
+The pathogenesis of Chronic Chagas cardiomyopathy (CCC) involves a complex interaction 
+of different processes, related to tissue damage due to parasite persistence, inflammation, 
+autoimmunity, fibrosis, dysautonomia, and microvascular changes (13). Chronic, persistent 
+infection of the myocardium elicits an inflammatory response which, although necessary for 
+the control of parasite proliferation, results in tissue damage leading to myocardial fibrosis and 
+cardiac remodeling (14). The pro-inflammatory response includes, but is not limited to, 
+secretion of Th1 cytokines and chemokines, eicosanoids, and endothelin-1 (14).  
+Similar to T. cruzi infection, direct cytotoxicity of cardiac tissue also is possible with SARS-
+CoV-2, which binds to the ACE2 receptor to enter type 2 pneumocytes, macrophages, 
+perivascular pericytes, and cardiomyocytes. This may lead to myocardial dysfunction and 
+damage, endothelial dysfunction, microvascular dysfunction, plaque instability, and 
+myocardial infarction (MI) (15). Initial immune and inflammatory responses induce a severe 
+cytokine storm (16), including cytokines and chemokines frequently related to the 
+inflammatory response implicated in the pathogenesis of CCC, such as interleukin (IL)-6, TNF-
+alpha and CXCL10 (17, 18). Indeed, COVID-19-related myocarditis cases have been reported 
+and are thought to be a combination of direct viral injury and cardiac damage due to the host’s 
+immune response (19).  
+Further depression of the ventricular function by COVID-19 could be caused by additional 
+mechanisms, such as myocardial infarction and microvascular dysfunction, also found in T. 
+cruzi infection (15).  Furthermore, arrhythmia is recognized as one of the possible clinical 
+manifestations of COVID-19 patients, and could plausibly precipitate arrhythmias in patients 
+with an arrhythmogenic substrate, such as CCC (19).  
+Finally, COVID-19 may predispose patients to thrombotic disease, both in the venous and 
+arterial circulations, due to excessive inflammation, platelet activation, endothelial 
+dysfunction, and stasis (20). There are reports of upregulated procoagulative activity in plasma 
+of chronic CD patients (21) and thromboembolic manifestations are also more frequent in CCC 
+patients (22), although it is not clear if this interaction has clinical relevance.  
+ 
+ 
+7 
+ 
+Implications for chronic indeterminate CD 
+While patients living with the indeterminate form of CD are usually outpatients without 
+manifest symptoms, these patients still require ongoing surveillance and care which has 
+become increasingly difficult due to the pandemic.  For instance, patients with chronic 
+indeterminate CD need yearly follow up for cardiac tests, as annually 2-5% progress to chronic 
+symptomatic disease, and ultimately 30-40% develop cardiac or gastrointestinal complications 
+(1). They may also benefit from antiparasitic treatment, which in the case of women of 
+childbearing age, can interrupt congenital transmission (23, 24). However, the 2-month course 
+of treatment requires ongoing monitoring and laboratory testing due to the potential for side 
+effects. This necessary care for patients with chronic indeterminate CD is likely to be hampered 
+by the pandemic, both because of the potential risk of SARS-CoV-2 infection from attending 
+healthcare facilities for routine appointments, (or the need to use public transportation to travel 
+to and from appointments), and postponements or delays in routine care as healthcare personnel 
+and resources are focused on COVID-19 cases. 
+Furthermore, if assessed with more sensitive technology, including echocardiography, Holter, 
+and magnetic resonance with late gadolinium enhancement, a small number of indeterminate-
+phase patients may be reclassified as having CCC due to the presence of areas of fibrosis with 
+wall motion abnormalities (25-30). Therefore, an unknown proportion of individuals classified 
+as indeterminate form patients may indeed develop arrhythmias or other cardiovascular 
+complications if challenged with a cytokine storm such as that triggered by COVID-19. 
+ 
+Implications for gastrointestinal and neurological forms of CD  
+Atypical chest pain, abdominal pain, and nausea are nonspecific symptoms related to upper 
+digestive CD involvement, and both have been related to COVID-19 pulmonary and 
+extrapulmonary clinical presentation (31, 32). However, constipation as the main symptom of 
+lower digestive tract involvement due to T. cruzi infection is the opposite to diarrhea, the main 
+gastrointestinal (GI) symptom observed in extrapulmonary forms of COVID-19. The presence 
+of GI symptoms, widely described in COVID-19 series and present in 3-11.6% of patients with 
+COVID-19 (31), has been associated with high ACE2 expression in the GI tract, that could 
+indicate the potential of virus mutation towards increased transmissibility, decreased virulence 
+and multiorgan infection (31). When GI symptoms that occur in both diseases are noted in an 
+individual in an area of high SARS-CoV-2 transmission, etiological consideration must be 
+8 
+ 
+given to either CD progression or COVID-19, considering its implications in terms of mutation 
+and transmissibility. 
+There is increasing evidence that coronaviruses are associated with neurological disorders (33).  
+Studies on severe acute respiratory syndrome (SARS) and the Middle East respiratory 
+syndrome (MERS) suggest that coronaviruses are neurotropic. A systematic review of the 
+literature until April 2020 associates multiple neurological disorders with COVID-19, 
+including encephalitis, demyelination, and neuropathy (34).  It could potentially induce the 
+development of the chagasic neuropathy which is sometimes observed in chronic CD. 
+ 
+Congenital cases 
+Maternal fetal transmission of T. cruzi occurs in an average of 5% of the pregnancies of mothers 
+with chronic CD (35). Parasite load is a key determinant of congenital transmission (36). The 
+immunological response to COVID-19 is extensive, and its impact on T. cruzi parasitic load is 
+unknown. Should it be found that COVID-19 increased parasitemia in pregnant women with 
+CD, it could increase the likelihood of maternal-fetal transmission. Screening of infants born 
+to T. cruzi-infected mothers remains crucial and could potentially be disrupted by the negative 
+impact of COVID-19 on access to care (37, 38).   
+ 
+Immunosuppressed patients 
+Immunosuppressed patients are at increased risk of severe COVID-19, especially those with 
+aggressive underlying disease, immunosuppressive active treatment, or lymphopenia. The 
+overproduction of cytokines during COVID-19 infection leads to significant tissular damage, 
+particularly in the lungs. This intense inflammatory process in immunosuppressed patients 
+infected by COVID-19 and CD could influence the evolution of CCC and potentially trigger 
+CD reactivation due either to viral infection interference, such as in HIV infection (39), or 
+possible immunosuppressive therapy for COVID-19 (9,10) associated with the severity of 
+underlying diseases. Conversely, any approach to improve the immune response at this level is 
+desirable, either by using antiviral or cytokine blocking agents  (IL-6, IL-1β, TNF-a) (40). On 
+the other hand, we may consider the risk of inducing clinical activation of autoimmune disease 
+in individuals with asymptomatic COVID-19 and, consequently, a potential reactivation of CD 
+(41). 
+9 
+ 
+Epidemiological Considerations 
+The spread of the COVID-19 pandemic in countries affected by CD raises concerns for several 
+reasons. The population with T. cruzi infection, which numbers over six million people 
+worldwide (3, 42), is aging, at risk of CCC, has a significant burden of comorbidities, and is 
+socioeconomically vulnerable. All of these factors could potentially increase the impact of 
+COVID-19 in this population, especially within a scenario of weakened and overloaded health 
+systems.  
+First, although the incidence of new CD infections is around 30,000 annually (3), this number 
+has declined in recent decades, meaning a high proportion of people living with CD are older 
+or aging (43). While >80% of COVID-19 cases are mild or asymptomatic, severe cases are 
+more common among older adults. In a retrospective study the risk of mortality increased by 
+0.03-1.17 with every year of increased age in patients from Wuhan (44). Another study using 
+data from various countries estimated a case fatality ratio of 4.5% in individuals older than 60, 
+compared to 1.4% in those younger than 60, with the highest rates in patients over 80 (45). In 
+the United States, 78.6% of deaths have occurred in people 65 or older (46).  
+Over one million people in the Americas suffer from CCC (3), and underlying cardiovascular 
+disease is a major risk factor for hospitalization and death from COVID-19. The incidence of 
+acute cardiac injury from COVID-19 has been reported as 8% in hospitalized patients (47), and 
+in one Chinese study was much more prevalent in deaths (59%) than recovering patients (1%) 
+(48). Cardiovascular disease was also identified in 30% of COVID-19 related deaths in Italy 
+(49), while age>60 and Charlson Comorbidity Index >3 were associated with greater mortality 
+in a U.S. cohort of 1305 hospitalized patients (50). 
+Finally, several studies have noted high levels of comorbidities among both patients with CD 
+and those with severe forms of COVID-19. One Brazilian study identified a mean of 2.7 
+chronic comorbidities in CD patients (51). In 168 CD patients in São Paulo, 51.2% had 
+hypertension and 23.8% diabetes mellitus (52). Another study in a younger sample of 137 
+patients in Switzerland found 2.9% had diabetes and 17% hypertension (53). Both hypertension 
+and diabetes were associated with high mortality rates from COVID-19 in China (7.3 and 6.0% 
+respectively) (54), and were 2-3 times more prevalent in severe vs. non-severe hospitalizations 
+(47).  Diabetes was also prevalent in a third of deaths in an analysis of Italian data (55). It is 
+important to note that these comorbidities also reflect the older age of the populations which 
+are especially impacted by both CD and COVID-19. 
+10 
+ 
+ 
+Social Context and Access to Healthcare 
+As the pandemic progresses from Europe and the United States into the Global South, it is 
+increasingly impacting vulnerable populations. In the U.S., COVID-19 has thus far had a 
+greater impact on Blacks and Latinos. According to the CDC, these groups have a higher 
+prevalence of infection and higher weighted distribution of deaths than their share of the 
+general population (56) . A higher rate of deaths among people in Brazil who self-identify as 
+black has also been reported (57, 58). These racial disparities are in turn framed by historically 
+rooted socioeconomic considerations which often determine who is able to self-isolate and 
+avoid exposure. 
+Moreover, social vulnerability has long been documented in people with CD (59), and groups 
+with high burdens of CD, including indigenous people, the rural poor, and migrants may face 
+particular challenges in accessing healthcare. People living at or near the poverty level are also 
+especially vulnerable to the economic impact of the pandemic, as experts have warned that 
+years of gains in reducing poverty are now in jeopardy. The UN predicts that as the global GDP 
+shrinks by 3.2% in 2020, 34 million more people will be pushed into extreme poverty (60). The 
+worsening economic situation threatens to make access to healthcare even more precarious for 
+people living with CD, who are often forced to make difficult decisions between spending time 
+and money on healthcare or other pressing priorities. Many work in the informal sector or in 
+positions that do not offer paid time off or health insurance.  
+Also, people with CD may feel more reluctant to seek care in a clinic for fear of exposure to 
+COVID-19, and may, therefore, put off addressing complications related to CD. Indeed, there 
+have been reports of low utilization of services and delayed presentation for chronic conditions 
+since the onset of the pandemic (61, 62). Finally, CD can create a significant emotional burden 
+for affected people who worry about the progression of the disease, and the pandemic may 
+make it harder to access both mental health services and traditional support networks of 
+families and friends. Patients with CD who acquire COVID-19 may experience particular 
+concern and anxiety. As COVID-19 becomes more a part of daily reality, creative responses 
+will be needed from patient groups, social workers, mental health practitioners, and others to 
+continue providing support to people with CD.  
+ 
+ 
+11 
+ 
+Recommendations for Healthcare Providers 
+ 
+Screening/testing of Chagas disease during the pandemic  
+While the indications for screening and diagnosing CD are unchanged during the COVID-19 
+pandemic, the timing of testing depends on the degree to which the diagnosis of Chagas disease 
+will affect short term management of the individual being tested. Urgent testing remains 
+appropriate for pregnant women, infants born to seropositive mothers, and any individual who 
+will imminently receive immunosuppression. Screening of blood donations also remains 
+critical. Patients presenting with clinical syndromes suggestive of CD should also receive 
+urgent testing to guide evaluation and therapy.  Women from CD- endemic countries who are 
+pregnant should also be screened to evaluate for the possibility of maternal-fetal transmission. 
+At present, widespread screening of individuals without symptoms from endemic countries 
+could be postponed, depending on the state of SARS-CoV-2 circulation in the community and 
+local guidelines, until it can be performed safely, with the understanding that while antiparasitic 
+therapy may be indicated it can generally be delayed until the patient can report for lab testing 
+and follow-up visits without significant risk of exposure. 
+ 
+Management of patients coinfected with Chagas disease and COVID-19 
+Below preliminary recommendations are provided for patients with CD who acquire COVID-
+19. The recommendations are divided depending on the patient’s form of CD.  
+ 
+Acute forms of CD 
+Acute cases of CD following congenital, vector, or oral transmission or via transfusion, laboratory 
+accidents, and other routes generally warrant antiparasitic treatment as early as possible, even in the 
+context of the COVID-19 pandemic. If the patient is coinfected and has both the acute form of CD and 
+COVID-19, timely antiparasitic treatment of CD is also needed, but clinicians should be mindful of the 
+severity of COVID-19 symptoms.  
+ 
+Congenital CD: Cases of congenital transmission are acute cases of CD, and treatment is effective with 
+few side effects. COVID-19 is generally not severe in infants and children (63). If the child does not 
+12 
+ 
+have COVID-19 symptoms, antiparasitic treatment should be given as soon as the diagnosis of T. cruzi 
+infection is established (37).   
+ 
+Reactivation: Patients must be admitted to the hospital and receive antiparasitic treatment with 
+benznidazole (BZN) for 60 days. However, if a full 60 days of treatment is not possible because of 
+adverse events, treatment should still be continued for as close to 60 days as possible using anti-
+histaminic and/or anti-inflammatory drugs. Reactivation involving myocarditis/meningoencephalitis is 
+of particular concern, due to the occurrence of vascular/ nervous system/ myocardium involvement by 
+COVID-19 and should be carefully monitored in the intensive care unit. 
+ 
+Immunosuppression without reactivation: In this case, antiparasitic treatment could be delayed until the 
+patient can safely attend clinic, depending on self-isolation guidelines and risk of exposure to COVID-
+19. However, CD reactivation with signs in target organs should be closely monitored by clinical 
+follow-up, direct microscopy (concentration methods) on peripheral blood and/or secretions (39), and, 
+if possible, quantitative PCR during COVID-19 infection according to local protocols. 
+ 
+Indeterminate chronic CD 
+From an individual health management point of view, people with asymptomatic infection (in 
+the indeterminate clinical form of CD) are those in whom there is evidence of T. cruzi infection, 
+but no evidence of organ damage (mainly cardiovascular or digestive), assessed by (1) non-
+specific symptoms and (2) low sensitivity tests to detect early organ damage, such as 
+electrocardiogram, chest X-ray, and barium swallow and enema (64). With or without 
+antiparasitic treatment, regular monitoring is recommended to evaluate the clinical condition 
+during follow-up and to quickly detect treatment failure and/or clinical progression.    
+As a general recommendation, and given the current epidemiological situation, it is important 
+to assess the risk-benefit of referring a patient to a healthcare center. It is essential to preserve 
+patient safety in terms of preventing new cases of COVID-19. However, it is also important 
+from a public health perspective to optimize existing resources for health care. Outpatient visits 
+as well as regular cardiovascular and gastrointestinal tests could be delayed if CD patients are 
+stable. The use of telehealth tools for virtual consultation is highly recommended, including 
+incorporating advice to patients about the need to contact healthcare facilities in case of the 
+onset of symptoms, either from CD or possible COVID-19 infection. 
+  
+13 
+ 
+Etiological treatment of Chagas disease  
+Etiological (antiparasitic) treatment in patients with CD without evidence of organ 
+involvement, is recommended for acute cases and most chronic cases in the indeterminate form 
+or with only mild cardiomyopathy (5, 65). In the current context of the pandemic, however, 
+two main aspects should be taken into account: 1) drug characteristics and potential interactions 
+with current treatment of COVID-19, and 2) the urgency of the indication for anti-T. cruzi 
+drugs. 
+ 
+Drug characteristics 
+Benznidazole (BZN) and Nifurtimox (NFX) are the two drugs accepted by regulatory agencies 
+for antiparasitic treatment of CD. Benznidazole (N-benzyl-2-nitro-1-imidazole acetamide, 
+BZN) is a nitroimidazole that inhibits DNA, RNA, and protein synthesis of T. cruzi. Nifurtimox 
+(5-nitrofuran 3-methyl-4-(5’- nitrofurfurylideneamine) tetrahydro-4H-1,4-tiazine-1,1- dioxide, 
+NFX) is a nitrofuran derivative whose mechanism of action involves various reduction and 
+oxidation reactions of its nitro constituent, leading to the production by parasite enzymes of a 
+variety of reactive oxygen species that react with cellular macromolecules and are lethal to the 
+parasite. NFX also leads to the inactivation of a critical trypanosomal enzyme, trypanothione 
+reductase (66). 
+In both cases, the mechanism of action is not completely described, and exploration of the 
+potential interactions between BZN and NFX with most common drugs used in COVID-19 
+management should be taken into consideration and further explored. Due to the hepatic 
+metabolism of BZN (95%) and NFX (>99%), hepatotoxicity in combination with anti-COVID-
+19 drugs must be monitored. 
+ 
+ 
+Treatment indications and follow-up of patients under treatment  
+Etiological treatment of T. cruzi infection is an emergency only under very specific 
+circumstances (67). Even if adverse drug reactions (ADRs) related to BZN and NFX are non-
+severe in most cases (68), close follow-up of patients who start a BZN or NFX regime is 
+recommended to identify side effects promptly and to monitor hepatic and hematologic 
+function (53, 69, 70). To avoid unnecessary risks, during the COVID-19 pandemic, delaying 
+14 
+ 
+initiation of etiological treatment regimens for chronic T. cruzi infection without organ 
+involvement is a valid course of action to avoid unnecessary exposure to COVID-19 in the 
+healthcare setting, and because of limitations in follow-up due to decreased in-person care. 
+Nevertheless, patients diagnosed with COVID-19 may receive immunosuppressive therapy, 
+and close monitoring to diagnose CD reactivation early in its course is recommended. In the 
+case of clinical and/ or parasitological evidence of reactivation, starting treatment with BZN or 
+NFX is an emergency (67). 
+If a patient is already receiving BZN or NFX, treatment should be continued, and self-
+quarantine measures to avoid COVID-19 should be taken. Telehealth tools for treatment 
+follow-up are recommended as well as minimization of contact with healthcare facilities, which 
+would primarily only be indicated to perform laboratory tests usually recommended during 
+treatment to monitor hepatotoxicity and hemogram alterations due to BZN or NFX, or in the 
+event of concerning ADRs. If a patient under treatment with BZN or NFX develops 
+symptomatic COVID-19 infection, providers could consider on a case-by-case basis whether 
+to interrupt treatment, depending on the severity of symptoms and the type of treatment 
+required.  There is no evidence of drug-drug interaction among antiparasitics for CD and drugs 
+required to treat COVID-19, and treatment of CD in the indeterminate form is non-urgent. 
+Table 1 summarizes guidance for providing etiological treatment of CD during the pandemic, 
+taking into account both the patient’s form of CD and their COVID-19 status. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+Table 1.  Etiological treatment recommendations for Chagas disease in the context of 
+COVID-19 coinfection* 
+Chagas Disease Status 
+COVID-19 Status 
+Guidance for Etiological Treatment with 
+Benznidazole or Nifurtimox 
+Chronic, indeterminate 
+Negative 
+Consider delaying treatment to minimize risk of 
+COVID-19 exposure to patients, based on local 
+epidemiological context and current physical 
+distancing regulations 
+Chronic, indeterminate  
+Positive, 
+with 
+or 
+without symptoms 
+Consider delaying treatment until COVID-19 is 
+completely resolved, and based on local 
+epidemiological context and current physical 
+distancing regulations 
+Acute cases 
+Negative or positive, 
+with 
+or 
+without 
+symptoms 
+Initiate treatment.  
+Clinical and/ or 
+parasitological evidence 
+of reactivation 
+Negative or positive, 
+with 
+or 
+without 
+symptoms 
+Initiate treatment. 
+Chronic, indeterminate, 
+currently undergoing 
+etiological treatment 
+Positive, 
+symptomatic 
+Postpone treatment and closely monitor for 
+reactivation of T. cruzi infection by direct 
+microscopy on peripheral blood or fluids and/or 
+quantitative PCR (if available) if 
+immunosuppressive drugs are prescribed in the 
+context of COVID-19 management. If 
+reactivation is evident, re-start benznidazole/ 
+nifurtimox treatment. 
+Chronic, indeterminate, 
+currently undergoing 
+etiological treatment 
+Positive, 
+asymptomatic 
+Continue treatment. 
+16 
+ 
+ 
+In all cases, etiological treatment of Chagas disease should be accompanied by appropriate 
+close follow-up including liver enzymes and blood count parameters. See Echeverria et al 2020 
+(67). 
+ 
+Management of patients with Chagas cardiomyopathy and COVID-19 
+ 
+COVID-19 has been associated with multiple cardiac manifestations that include cardiac 
+arrhythmias, Type 2 and 1 myocardial infarction, heart failure exacerbations and acute 
+fulminant myocarditis (71, 72). Potential implications between COVID-19 and CCC may be 
+expected primarily due to the common immunological pathways shared by both diseases, as 
+angiotensin-converting enzyme 2 (ACE2) is involved in heart function and the development of 
+hypertension and diabetes mellitus, risk factors frequently observed in patients with CCC. 
+ACE2 levels can be increased by the use of ACE inhibitors and/or angiotensin receptor blockers 
+(ARBs) which are frequently used for the management of CCC. There is no evidence to date 
+to support discontinuation of either ACE or ARBs based on the theoretical potential of 
+increasing the susceptibility to COVID-19 infection. Most cardiovascular societies including 
+ESC, ACC, AHA, CCS, and the IASC have indicated that these medications should be 
+continued regardless of the presence of concomitant COVID-19 manifestations. This should 
+also be true in patients with CCC.  
+Other potential interactions may occur in patients with CCC currently treated for cardiac 
+arrhythmias such as atrial fibrillation or life-threatening ventricular arrhythmias receiving 
+amiodarone, as the potential for increased QT interval with treatments that have been proposed 
+for COVID-19 such as hydroxychloroquine and/or azithromycin may increase the risk of 
+torsade de points. 
+Patients with CCC must continue their usual treatments during the COVID-19 pandemic. 
+Outpatient clinics may use telehealth if available, to avoid putting these vulnerable patients at 
+risk of COVID-19 infection. With proper hygiene and self-care measures, cardiac tests like 
+EKG, echo, stress tests or Holter may be performed or slightly delayed, always weighting risk-
+benefit and regional SARS-CoV-2 circulation status. If a patient with CCC develops new 
+arrhythmias, stroke, or acute or worsening chronic heart failure, hospitalization must not be 
+17 
+ 
+delayed. As hospitals in some regions may be severely strained by COVID, care of these acute 
+events may be compromised, putting CCC patients at risk. 
+Table 2 lists potential interactions between cardiovascular drugs used to treat CCC and some 
+proposed COVID-19 treatments. 
+ 
+Table 2: Potential Interactions between COVID-19 Treatments under Investigation and 
+CCM Drugs 
+Chloroquine-
+hydroxychloroquine 
+Inhibits CYP2D6 ( increasing half-life of most of the beta blockers (73) 
+and amiodarone), and inhibits and downregulates P-gP (74). They do 
+not interact with NOACS or VKAs (75). 
+Protease inhibitors 
+(lopinavir-ritonavir) 
+By inhibiting CYP3A4, they increase plasma levels of most of CV 
+drugs. May lower the effect of VKAs by induction of CYP2C19 and 
+increase plasma levels of NOACs. Also may Increase amiodarone 
+levels (76).   
+Azithromycin 
+Increases levels of warfarin/acenocoumarol, these anticoagulants 
+should be withdrawn during Azithromycin treatment. Due to PgP 
+inhibition, dose reduction of NOACs may be required. 
+Atazanavir 
+Increases levels of VKA´s and NOACs (should be discontinued). May 
+increase amiodarone levels and effect. May increase digoxin levels. 
+Mild increase in atenolol levels (beta blocker) (76). 
+ 
+Remdesivir 
+ No relevant interactions. 
+ 
+Favipiravir, 
+Bevacizumab, 
+Ecolizumab, 
+Fingolimod, 
+Pirfenidone, 
+Interferon 
+Methylprednisone 
+No relevant interactions. 
+Tocilizumab 
+May lower effect of anticoagulants. 
+Nitazoxanide 
+May increase VKas levels; do not use concomitantly. 
+Sarilumab 
+It is a CYP3A4 inducer, but dose modifications are not recommended. 
+18 
+ 
+Interferon and 
+Methylprednisolone 
+Reduction of VKAs is advised. 
+Ribavirin 
+Interferes with the absorption of VKAs, possibly increasing the dose. 
+Enalapril and other ACE2-is may provoke dry cough as well as 
+ribavirin (77).  
+Ivermectin 
+May decrease the effect of warfarin and dicoumarol. Risk of myopathy 
+with captopril (78). 
+Oseltamivir 
+No CYP interactions with CV drugs. However, case reports and series 
+show some increase in the effect of VKAs (75).  
+Arbidol 
+(Umifenovir) 
+May decrease metabolism of labetalol (beta-blocker) (79).  
+Canakinumab 
+No known drug interaction, but upregulation of CYP enzymes may 
+further modify metabolization of CV drugs (80, 81). 
+Anakinra 
+No drug interactions. 
+Emapalumab 
+No known drug interaction, but upregulation of CYP enzymes may 
+further modify metabolization of CV drugs (82). 
+Siltuximab 
+Vitamin K antagonist interaction through CYP3450. Close monitoring 
+(83).  
+Cyclosporin A 
+Cyclosporin may increase in Digoxin levels. Amiodarone, losartan and 
+valsartan increase cyclosporine levels; ACE inhibitors increase 
+nephrotoxicity (84, 85).  
+Sirolimus 
+Serious warning; may increase risk of ACE inhibitors angioedema. 
+CYP450 and PgP interactions (86). 
+Darunavir/cobicistat 
+Drugs metabolized by CYP3A4, CYP2D6, or that use the transporters 
+P-glycoprotein, BCRP, MATE1, OATP1B1 or OATP1B3, may have 
+interactions (87).  
+Anticoagulants, beta blockers, and digoxin should be used with caution. 
+ 
+Future Needs 
+Our current understanding of the potential interrelations between CD and COVID-19 is still 
+limited; there are substantial needs for future research. The recommendations provided in this 
+document should be considered preliminary and may require refinement and adjustment as 
+19 
+ 
+our understanding of both diseases develops. Table 3 lists some of the most important gaps in 
+our current clinical knowledge. Research from other disciplines will also be needed to better 
+understand the epidemiology of both diseases, the social and psychological impacts of the 
+pandemic on people with CD, new access barriers that emerge in the context of the pandemic 
+and the economic dislocation it causes, and the particular contexts of vulnerable populations 
+including migrants and indigenous communities.  
+ 
+Table 3: Understanding the Interaction of COVID-19 and Chagas Disease: Gaps and 
+Needs 
+Disease interaction 
+Clinical questions 
+Drug development needs 
+● How is the natural 
+history of Chagas 
+disease affected by 
+COVID-19? 
+● Can the cytokine 
+storm trigger 
+reactivation of 
+parasitemia? 
+● Does the cytokine 
+storm trigger disease 
+progression? 
+● Do viral and parasitic 
+immune response 
+pathways cross 
+react? 
+● Does the chronic 
+inflammatory state of 
+CD lead to more 
+severe COVID-19 
+disease 
+● Does the 
+prothrombotic state 
+from both diseases 
+behave 
+synergistically? 
+● What cautions are 
+necessary regarding 
+COVID-19 treatment 
+in CD patients? 
+● What are the 
+hemodynamic and 
+arrhythmic risks of 
+COVID-19 in 
+patients with CCC? 
+● What is the impact of 
+delaying CD 
+treatments during 
+COVID-19 
+infection? 
+● What is the impact of 
+delays in access to 
+CD diagnosis and 
+cardiac evaluation? 
+● What is the impact of 
+possible health 
+system collapse on 
+quality of care of CD 
+patients with 
+symptomatic 
+disease?  
+● What are the antiviral 
+effects of 
+antiparasitic drugs 
+for CD (benznidazole 
+and nifurtimox)? 
+● Can anti-
+inflammatory drugs 
+improve host 
+response to COVID-
+19 and complement 
+antiparasitic 
+treatment of CD? 
+● Can allopurinol or 
+colchicine help delay 
+or avoid thrombotic 
+complications? 
+● Is full anticoagulant 
+therapy useful for 
+COVID-19 (88) and 
+CD (89)?  
+● Could cardiovascular 
+CD treatments such 
+as amiodarone treat 
+COVID-19? 
+20 
+ 
+ 
+Conclusion 
+While global in scope and indiscriminate in whom it infects, COVID-19 poses a particular risk 
+to people with CD. Both diseases are more prevalent in marginalized populations, whose access 
+to appropriate care is limited, and whose exposure to risk factors is proportionally higher. 
+COVID-19 is more lethal in individuals with cardiac disease, and/or other cardiac risk factors, 
+such as diabetes and obesity, which are also prevalent in individuals with CD. The mechanisms 
+of COVID-19 disease, while not completely understood, theoretically pose a risk of both 
+exacerbation of cardiac dysfunction from CD and acute reactivation of CD due either to 
+disease-induced immunomodulation or therapeutic immunosuppression. The economic impact 
+of the pandemic hits hardest in the lowest socioeconomic strata, further complicating the ability 
+of many individuals with CD to obtain the care that they need for either illness. Efforts to 
+mitigate the spread of COVID-19 by limiting medical facilities to all but the most urgent care 
+complicates efforts to diagnose, treat, and monitor patients with CD, which may lead to clinical 
+deterioration, increased maternal fetal transmission, and underdiagnosis, all of which were 
+significant concerns even before the onset of the pandemic.  
+Roadblocks to accessing proper care for CD were recently described in the WHF-IASC 
+Roadmap on CD (5). Using a similar framework, Table 4 assesses the potential effect of the 
+pandemic on key roadblocks to CD healthcare.  
+ 
+ 
+21 
+ 
+ 
+Table 4.  Potential Impact of COVID-19 on Chagas Disease Healthcare Roadblocks 
+Area 
+Potential Impact of SARS-CoV-2 on Roadblocks 
+Prevention 
+-Reduced commitment from governments 
+-Diversion of clinical research to COVID-19 
+-Public health resources diverted to COVID-19 
+-Lower media interest in neglected diseases 
+-Limitations on health fairs, campaigns, and community events.  
+Diagnosis 
+-Decreased visits to healthcare facilities out of fear of contagion 
+-Testing/laboratory resources strained by COVID-19 
+Etiological Treatment 
+-Decreased visits to healthcare facilities out of fear of contagion 
+-Healthcare personnel strained by COVID-19 
+-Lack of knowledge on drug interactions with COVID-19, or with COVID-19 
+drugs 
+Diagnosis and treatment of 
+clinical complications 
+-Limited knowledge of interaction between COVID-19 and chronic Chagas 
+cardiomyopathy (CCC) 
+-Potential impact of COVID-19 drugs on CCC 
+-Strains on health facilities’ ability to manage CCC 
+Psychosocial 
+-Increasing poverty due to economic impact of pandemic 
+-Isolation from support networks 
+-Fears about susceptibility to COVID-19 because of CD diagnosis 
+ 
+The end of the pandemic in Latin America is still far from sight and its full impact on healthcare 
+and healthcare access, in particular, remains to be seen. CD has long been a hidden disease, 
+with low awareness among healthcare professionals and people at risk, and limited 
+commitment from governments. In the short-term, as public health resources are intently 
+focused on mitigating the pandemic, it could become even more of a challenge to bring 
+awareness to CD. At the same time, the pandemic could serve as an opportunity to strengthen 
+public concern for addressing comorbid conditions and meeting the healthcare needs of 
+underserved populations. Still, the current reality requires us to rethink traditional approaches 
+to CD and other neglected diseases, to ensure we continue to make progress toward their 
+eradication even as new public health challenges emerge. Ultimately, neither CD nor COVID-
+19 can be separated from its socioeconomic context, and winning the struggle against both 
+diseases will involve implementing comprehensive programs that focus on strengthening the 
+healthcare rights and access of the marginalized people who are currently most impacted.  
+ 
+22 
+ 
+Contributions 
+All authors contributed to the drafting and review of the manuscript.  
+ 
+Conflicts of Interest 
+None.  
+ 
+Acknowledgments 
+The authors would like to thank Marina Certo, DNDi Platforms Coordination Officer, for 
+invaluable support of the writing group. DNDi is grateful to its donors, public and private, who 
+have provided funding to DNDi since its inception in 2003. A full list of DNDi donors can be 
+found at http://www.dndi.org/donors/donors. MASY is grateful for financial support from 
+FAPESP 2012/50273-0. 
+ 
+ 
+ 
+ 
+23 
+ 
+ 
+References  
+ 
+1. 
+Rassi A, Jr., Rassi A, Marin-Neto JA. Chagas disease. The Lancet. 2010;375(9723):1388-402. 
+2. 
+Johns Hopkins Coronavirus Resource Center. COVID-19 Dashboard by the Center for 
+Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) 2020 [updated June 30, 
+2020. Available from: https://coronavirus.jhu.edu/map.html. 
+3. 
+World Health Organization. Chagas disease in Latin America: an epidemiological update 
+based on 2010 estimates Weekly Epidemiological Record. 2015;90(6):33-44. 
+4. 
+World Health Organization. Fourth WHO Report on Neglected Tropical Diseases. Geneva; 
+2017. 
+5. 
+Echeverría LE, Marcus R, Novick G, Sosa-Estani S, Ralston K, Zaidel EJ, et al. WHF IASC 
+Roadmap on Chagas Disease. Glob Heart. 2020;15(1):26-. 
+6. 
+Ribeiro AL, Nunes MP, Teixeira MM, Rocha MOC. Diagnosis and management of Chagas 
+disease and cardiomyopathy. Nature Reviews Cardiology. 2012;9(10):576-89. 
+7. 
+Oudit GY, Kassiri Z, Jiang C, Liu PP, Poutanen SM, Penninger JM, et al. SARS-coronavirus 
+modulation of myocardial ACE2 expression and inflammation in patients with SARS. European 
+journal of clinical investigation. 2009;39(7):618-25. 
+8. 
+Chen L, Li X, Chen M, Feng Y, Xiong C. The ACE2 expression in human heart indicates 
+new potential mechanism of heart injury among patients infected with SARS-CoV-2. Cardiovascular 
+Research. 2020;116(6):1097-100. 
+9. 
+Rassi A, Amato Neto V, de Siqueira AF, Ferriolli Filho F, Amato VS, Rassi Júnior A. 
+[Protective effect of benznidazole against parasite reactivation in patients chronically infected with 
+Trypanosoma cruzi and treated with corticoids for associated diseases]. Revista da Sociedade 
+Brasileira de Medicina Tropical. 1999;32(5):475-82. 
+10. 
+dos Santos-Neto LL, Polcheira MF, Castro C, Lima RA, Simaan CK, Corrêa-Lima FA. 
+[Trypanosoma cruzi high parasitemia in patient with systemic lupus erythematosus]. Revista da 
+Sociedade Brasileira de Medicina Tropical. 2003;36(5):613-5. 
+11. 
+López L, Arai K, Giménez E, Jiménez M, Pascuzo C, Rodríguez-Bonfante C, et al. [C-
+reactive protein and interleukin-6 serum levels increase as Chagas disease progresses towards cardiac 
+failure]. Revista espanola de cardiologia. 2006;59(1):50-6. 
+12. 
+Keating SM, Deng X, Fernandes F, Cunha-Neto E, Ribeiro AL, Adesina B, et al. 
+Inflammatory and cardiac biomarkers are differentially expressed in clinical stages of Chagas disease. 
+International journal of cardiology. 2015;199:451-9. 
+13. 
+Benziger CP, do Carmo GAL, Ribeiro ALP. Chagas Cardiomyopathy: Clinical Presentation 
+and Management in the Americas. Cardiology clinics. 2017;35(1):31-47. 
+14. 
+Tanowitz HB, Machado FS, Spray DC, Friedman JM, Weiss OS, Lora JN, et al. 
+Developments in the management of Chagas cardiomyopathy. Expert review of cardiovascular 
+therapy. 2015;13(12):1393-409. 
+15. 
+Guzik TJ, Mohiddin SA, Dimarco A, Patel V, Savvatis K, Marelli-Berg FM, et al. COVID-19 
+and the cardiovascular system: implications for risk assessment, diagnosis, and treatment options. 
+Cardiovasc Res. 2020. 
+16. 
+Schett G, Sticherling M, Neurath MF. COVID-19: risk for cytokine targeting in chronic 
+inflammatory diseases? Nature reviews Immunology. 2020;20(5):271-2. 
+24 
+ 
+17. 
+de Araújo FF, Lima Torres KC, Viana Peixoto S, Pinho Ribeiro AL, Vaz Melo Mambrini J, 
+Bortolo Rezende V, et al. CXCL9 and CXCL10 display an age-dependent profile in Chagas patients: 
+a cohort study of aging in Bambui, Brazil. Infectious diseases of poverty. 2020;9(1):51. 
+18. 
+Dutra WO, Menezes CA, Magalhães LM, Gollob KJ. Immunoregulatory networks in human 
+Chagas disease. Parasite immunology. 2014;36(8):377-87. 
+19. 
+Siripanthong B, Nazarian S, Muser D, Deo R, Santangeli P, Khanji MY, et al. Recognizing 
+COVID-19-related myocarditis: The possible pathophysiology and proposed guideline for diagnosis 
+and management. Heart rhythm. 2020. 
+20. 
+Bikdeli B, Madhavan MV, Jimenez D, Chuich T, Dreyfus I, Driggin E, et al. COVID-19 and 
+Thrombotic or Thromboembolic Disease: Implications for Prevention, Antithrombotic Therapy, and 
+Follow-Up: JACC State-of-the-Art Review. Journal of the American College of Cardiology. 
+2020;75(23):2950-73. 
+21. 
+Pinazo MJ, Posada Ede J, Izquierdo L, Tassies D, Marques AF, de Lazzari E, et al. Altered 
+Hypercoagulability Factors in Patients with Chronic Chagas Disease: Potential Biomarkers of 
+Therapeutic Response. PLoS neglected tropical diseases. 2016;10(1):e0004269. 
+22. 
+Nunes MCP, Beaton A, Acquatella H, Bern C, Bolger AF, Echeverría LE, et al. Chagas 
+Cardiomyopathy: An Update of Current Clinical Knowledge and Management: A Scientific Statement 
+From the American Heart Association. Circulation. 2018;138(12):e169-e209. 
+23. 
+Sosa-Estani S, Cura E, Velazquez E, Yampotis C, Segura EL. Etiological treatment of young 
+women infected with Trypanosoma cruzi, and prevention of congenital transmission. Revista da 
+Sociedade Brasileira de Medicina Tropical. 2009;42(5):484-7. 
+24. 
+Fabbro DL, Danesi E, Olivera V, Codebó MO, Denner S, Heredia C, et al. Trypanocide 
+treatment of women infected with Trypanosoma cruzi and its effect on preventing congenital Chagas. 
+PLoS neglected tropical diseases. 2014;8(11):e3312. 
+25. 
+Regueiro A, García-Álvarez A, Sitges M, Ortiz-Pérez JT, De Caralt MT, Pinazo MJ, et al. 
+Myocardial involvement in Chagas disease: insights from cardiac magnetic resonance. International 
+journal of cardiology. 2013;165(1):107-12. 
+26. 
+Nunes MCP, Badano LP, Marin-Neto JA, Edvardsen T, Fernández-Golfín C, Bucciarelli-
+Ducci C, et al. Multimodality imaging evaluation of Chagas disease: an expert consensus of Brazilian 
+Cardiovascular Imaging Department (DIC) and the European Association of Cardiovascular Imaging 
+(EACVI). European heart journal cardiovascular Imaging. 2018;19(4):459-60n. 
+27. 
+Torreão JA, Ianni BM, Mady C, Naia E, Rassi CH, Nomura C, et al. Myocardial tissue 
+characterization in Chagas' heart disease by cardiovascular magnetic resonance. Journal of 
+cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic 
+Resonance. 2015;17:97. 
+28. 
+Barros ML, Ribeiro A, Nunes Mdo C, Rocha MO. [Association between left ventricular wall 
+motion abnormalities and ventricular arrhythmia in the indeterminate form of Chagas disease]. 
+Revista da Sociedade Brasileira de Medicina Tropical. 2011;44(2):213-6. 
+29. 
+Furtado RG, Frota Ddo C, Silva JB, Romano MM, Almeida Filho OC, Schmidt A, et al. Right 
+ventricular Doppler echocardiographic study of indeterminate form of chagas disease. Arquivos 
+brasileiros de cardiologia. 2015;104(3):209-17. 
+30. 
+Cianciulli TF, Saccheri MC, Papantoniou A, Méndez RJ, Gagliardi JA, Prado NG, et al. Use 
+of tissue doppler imaging for the early detection of myocardial dysfunction in patients with the 
+indeterminate form of Chagas disease. Revista da Sociedade Brasileira de Medicina Tropical. 
+2020;53:e20190457. 
+25 
+ 
+31. 
+Jin X, Lian JS, Hu JH, Gao J, Zheng L, Zhang YM, et al. Epidemiological, clinical and 
+virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with 
+gastrointestinal symptoms. Gut. 2020;69(6):1002-9. 
+32. 
+Lin L, Jiang X, Zhang Z, Huang S, Zhang Z, Fang Z, et al. Gastrointestinal symptoms of 95 
+cases with SARS-CoV-2 infection. Gut. 2020;69(6):997-1001. 
+33. 
+Nath A. Neurologic complications of coronavirus infections. Neurology. 2020;94(19):809-10. 
+34. 
+Montalvan V, Lee J, Bueso T, De Toledo J, Rivas K. Neurological manifestations of COVID-
+19 and other coronavirus infections: A systematic review. Clin Neurol Neurosurg. 2020;194:105921. 
+35. 
+Howard EJ, Xiong X, Carlier Y, Sosa-Estani S, Buekens P. Frequency of the congenital 
+transmission of Trypanosoma cruzi: a systematic review and meta-analysis. BJOG : an international 
+journal of obstetrics and gynaecology. 2014;121(1):22-33. 
+36. 
+Kaplinski M, Jois M, Galdos-Cardenas G, Rendell VR, Shah V, Do RQ, et al. Sustained 
+Domestic Vector Exposure Is Associated With Increased Chagas Cardiomyopathy Risk but Decreased 
+Parasitemia and Congenital Transmission Risk Among Young Women in Bolivia. Clinical infectious 
+diseases : an official publication of the Infectious Diseases Society of America. 2015;61(6):918-26. 
+37. 
+Carlier Y, Altcheh J, Angheben A, Freilij H, Luquetti AO, Schijman AG, et al. Congenital 
+Chagas disease: Updated recommendations for prevention, diagnosis, treatment, and follow-up of 
+newborns and siblings, girls, women of childbearing age, and pregnant women. PLoS neglected 
+tropical diseases. 2019;13(10):e0007694. 
+38. 
+Buekens P, Alger J, Bréart G, Cafferata ML, Harville E, Tomasso G. A call for action for 
+COVID-19 surveillance and research during pregnancy. The Lancet Global health. 2020;8(7):e877-e8. 
+39. 
+Sartori AM, Ibrahim KY, Nunes Westphalen EV, Braz LM, Oliveira OC, Jr., Gakiya E, et al. 
+Manifestations of Chagas disease (American trypanosomiasis) in patients with HIV/AIDS. Annals of 
+tropical medicine and parasitology. 2007;101(1):31-50. 
+40. 
+Gosain R, Abdou Y, Singh A, Rana N, Puzanov I, Ernstoff MS. COVID-19 and Cancer: a 
+Comprehensive Review. Current oncology reports. 2020;22(5):53. 
+41. 
+Zingone F, Savarino EV. Viral screening before initiation of biologics in patients with 
+inflammatory bowel disease during the COVID-19 outbreak. The lancet Gastroenterology & 
+hepatology. 2020;5(6):525. 
+42. 
+Manne-Goehler J, Umeh CA, Montgomery SP, Wirtz VJ. Estimating the Burden of Chagas 
+Disease in the United States. PLoS neglected tropical diseases. 2016;10(11):e0005033. 
+43. 
+Martins-Melo FR, Ramos AN, Jr., Alencar CH, Heukelbach J. Prevalence of Chagas disease 
+in Brazil: a systematic review and meta-analysis. Acta tropica. 2014;130:167-74. 
+44. 
+Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for mortality 
+of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet (London, 
+England). 2020;395(10229):1054-62. 
+45. 
+Verity R, Okell LC, Dorigatti I, Winskill P, Whittaker C, Imai N, et al. Estimates of the 
+severity of coronavirus disease 2019: a model-based analysis. The Lancet Infectious diseases. 
+2020;20(6):669-77. 
+46. 
+Centers for Disease Control. CDC COVID Data Tracker 2020 [updated June 30, 2020. 
+Available from: https://www.cdc.gov/covid-data-tracker/index.html#demographics. 
+47. 
+Li B, Yang J, Zhao F, Zhi L, Wang X, Liu L, et al. Prevalence and impact of cardiovascular 
+metabolic diseases on COVID-19 in China. Clinical research in cardiology : official journal of the 
+German Cardiac Society. 2020;109(5):531-8. 
+48. 
+Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical Characteristics of 138 
+Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama. 
+2020;323(11):1061-9. 
+26 
+ 
+49. 
+Moccia F, Gerbino A, Lionetti V, Miragoli M, Munaron LM, Pagliaro P, et al. COVID-19-
+associated cardiovascular morbidity in older adults: a position paper from the Italian Society of 
+Cardiovascular Researches. GeroScience. 2020. 
+50. 
+Imam Z, Odish F, Gill I, O'Connor D, Armstrong J, Vanood A, et al. Older age and 
+comorbidity are independent mortality predictors in a large cohort of 1305 COVID-19 patients in 
+Michigan, United States. Journal of internal medicine. 2020. 
+51. 
+Alves RM, Thomaz RP, Almeida EA, Wanderley Jda S, Guariento ME. Chagas' disease and 
+ageing: the coexistence of other chronic diseases with Chagas' disease in elderly patients. Revista da 
+Sociedade Brasileira de Medicina Tropical. 2009;42(6):622-8. 
+52. 
+Oliveira Junior LR, Carvalho TB, da Costa ÉAPN, Marques Pereira PC, Kurokawa CS. 
+Cardiovascular comorbidities in patients with chronic Chagas disease. AME Medical Journal. 2018. 
+53. 
+Jackson Y, Castillo S, Hammond P, Besson M, Brawand-Bron A, Urzola D, et al. Metabolic, 
+mental health, behavioural and socioeconomic characteristics of migrants with Chagas disease in a 
+non-endemic country. Tropical medicine & international health : TM & IH. 2012;17(5):595-603. 
+54. 
+Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus 
+Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the 
+Chinese Center for Disease Control and Prevention. Jama. 2020. 
+55. 
+Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in 
+Relation to COVID-19 in Italy. Jama. 2020;323(18):1775-6. 
+56. 
+Centers for Disease Control. Provisional Death Counts for Coronavirus Disease 2019 
+(COVID-19): Race and Hispanic Origin 2020 [updated June 24, 2020. Available from: 
+https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#Race_Hispanic. 
+57. 
+Batista A AB, Faveret G, Peres I, Marchesi J, Cunha JP, Dantas L, Bastos L, Carrilho L, 
+Aguilar S, Baiao F, Macaira P, Hamacher S, Bozza F. Análise socioeconômica da taxa de letalidade 
+da COVID-19 no Brasil. Nucleo de Operacoes e Inteligencia em Saude (NOIS); 2020 May 27, 2020.  
+Contract No.: Nota Tecnica 11. 
+58. 
+Baqui P BI, Marra V, Ercole A, van der Schaar M. Ethnic and regional variations in hospital 
+mortality from COVID-19 in Brazil: a cross-sectional observational study. The Lancet Global Health. 
+2020. 
+59. 
+Viotti R, Vigliano CA, Alvarez MG, Lococo BE, Petti MA, Bertocchi GL, et al. The impact 
+of socioeconomic conditions on chronic Chagas disease progression. Revista espanola de cardiologia. 
+2009;62(11):1224-32. 
+60. 
+United Nations. World Economic Situation and Prospects as of mid-2020 New York, NY; 
+2020. 
+61. 
+Pessoa-Amorim G, Camm CF, Gajendragadkar P, De Maria GL, Arsac C, Laroche C, et al. 
+Admission of patients with STEMI since the outbreak of the COVID-19 pandemic: a survey by the 
+European Society of Cardiology. European Heart Journal - Quality of Care and Clinical Outcomes. 
+2020. 
+62. 
+Reza N, DeFilippis EM, Jessup M. Secondary Impact of the COVID-19 Pandemic on Patients 
+With Heart Failure. Circulation: Heart Failure. 2020;13(5):e007219. 
+63. 
+Mustafa NM, A Selim L. Characterisation of COVID-19 Pandemic in Paediatric Age Group: 
+A Systematic Review and Meta-Analysis. J Clin Virol. 2020;128:104395-. 
+64. 
+Alvar J, Alves F, Bucheton B, Burrows L, Büscher P, Carrillo E, et al. Implications of 
+asymptomatic infection for the natural history of selected parasitic tropical diseases. Semin 
+Immunopathol. 2020;42(3):231-46. 
+65. 
+Pan American Health Organization. Guidelines for the diagnosis and treatment of Chagas 
+disease Washington, DC; 2019. 
+27 
+ 
+66. 
+Urbina JA. Ergosterol biosynthesis and drug development for Chagas disease. Memorias do 
+Instituto Oswaldo Cruz. 2009;104 Suppl 1:311-8. 
+67. 
+Bern C, Montgomery SP, Herwaldt BL, Rassi A, Jr., Marin-Neto JA, Dantas RO, et al. 
+Evaluation and treatment of chagas disease in the United States: a systematic review. Jama. 
+2007;298(18):2171-81. 
+68. 
+Sperandio da Silva GM, Mediano MFF, Hasslocher-Moreno AM, Holanda MTd, Sousa ASd, 
+Sangenis LHC, et al. Benznidazole treatment safety: the Médecins Sans Frontières experience in a 
+large cohort of Bolivian patients with Chagas’ disease—authors’ response. Journal of Antimicrobial 
+Chemotherapy. 2018;73(4):1115-6. 
+69. 
+Pinazo MJ, Muñoz J, Posada E, López-Chejade P, Gállego M, Ayala E, et al. Tolerance of 
+benznidazole in treatment of Chagas' disease in adults. Antimicrobial agents and chemotherapy. 
+2010;54(11):4896-9. 
+70. 
+Forsyth CJ, Hernandez S, Olmedo W, Abuhamidah A, Traina MI, Sanchez DR, et al. Safety 
+Profile of Nifurtimox for Treatment of Chagas Disease in the United States. Clinical infectious 
+diseases : an official publication of the Infectious Diseases Society of America. 2016;63(8):1056-62. 
+71. 
+Zheng Y-Y, Ma Y-T, Zhang J-Y, Xie X. COVID-19 and the cardiovascular system. Nature 
+Reviews Cardiology. 2020;17(5):259-60. 
+72. 
+Libby P. The Heart in COVID-19: Primary Target or Secondary Bystander? JACC: Basic to 
+Translational Science. 2020;5(5):537-42. 
+73. 
+Shin J, Johnson JA. Pharmacogenetics of beta-blockers. Pharmacotherapy. 2007;27(6):874-
+87. 
+74. 
+Salaroglio IC, Gazzano E, Abdullrahman A, Mungo E, Castella B, Abd-Elrahman G, et al. 
+Increasing intratumor C/EBP-β LIP and nitric oxide levels overcome resistance to doxorubicin in 
+triple negative breast cancer. Journal of experimental & clinical cancer research : CR. 2018;37(1):286. 
+75. 
+Zaidel E WQF, Sosa Liprandi A, Mendoza I, Marquez MF, Nunez E, Barbosa M, Baranchuk 
+A. Hidroxicloroquina. Mensajes desde la cardiología en tiempos de pandemia por coronavirus 
+[Hydroxychloroquine: Cardiology's viewpoint in times of coronavirus pandemic]. Medicina (B Aires). 
+2020;80(3):271-4. 
+76. 
+University of California-San Francisco. Interactions with Amiodarone and Antiretrovirals 
+2019 [Available from: http://arv.ucsf.edu/insite?page=ar-00-02&post=8&param=116. 
+77. 
+Milazzo L, Cattaneo D, Cheli S, Ferraris L, Colella E, Clementi E, et al. ACE inhibitors and 
+ribavirin-associated cough: a common undefined predisposing factor? European journal of clinical 
+pharmacology. 2013;69(3):743-5. 
+78. 
+DrugBank. Ivermectin 2020 [updated June 30, 2020. Available from: 
+https://www.drugbank.ca/drugs/DB00602. 
+79. 
+DrugBank. Umifenovir 2020 [updated June 12, 2020. Available from: 
+https://www.drugbank.ca/drugs/DB13609. 
+80. 
+Chakraborty A, Tannenbaum S, Rordorf C, Lowe PJ, Floch D, Gram H, et al. 
+Pharmacokinetic and Pharmacodynamic Properties of Canakinumab, a Human Anti-Interleukin-1β 
+Monoclonal Antibody. Clinical Pharmacokinetics. 2012;51(6):e1-e18. 
+81. 
+Novartis Pharmaceuticals Corporation. ILARIS (canakinumab) Full Prescribing 
+Information2012. 
+82. 
+Patheon Italia. GAMIFANTTM (emapalumab-lzsg) injection, for intravenous use. 2018. 
+83. 
+Janssen Biotech. SYLVANT. Full Prescribing Information2014. 
+84. 
+Campana C, Regazzi MB, Buggia I, Molinaro M. Clinically significant drug interactions with 
+cyclosporin. An update. Clin Pharmacokinet. 1996;30(2):141-79. 
+28 
+ 
+85. 
+Lill J, Bauer LA, Horn JR, Hansten PD. Cyclosporine–drug interactions and the influence of 
+patient age. American Journal of Health-System Pharmacy. 2000;57(17):1579-84. 
+86. 
+Pfizer Inc. RAPAMUNE. 2017. 
+87. 
+Janssen Pharmaceutical Companies. PREZCOBIX (darunavir and cobicistat) tablets, for oral 
+use. 2019. 
+88. 
+Paranjpe I, Fuster V, Lala A, Russak AJ, Glicksberg BS, Levin MA, et al. Association of 
+Treatment Dose Anticoagulation With In-Hospital Survival Among Hospitalized Patients With 
+COVID-19. Journal of the American College of Cardiology. 2020;76(1):122-4. 
+89. 
+Sousa AS, Xavier SS, Freitas GR, Hasslocher-Moreno A. Prevention strategies of 
+cardioembolic ischemic stroke in Chagas' disease. Arquivos brasileiros de cardiologia. 
+2008;91(5):306-10. 
+ 

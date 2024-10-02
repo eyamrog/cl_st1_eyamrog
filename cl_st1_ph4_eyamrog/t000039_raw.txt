@@ -1,0 +1,1321 @@
+Publication status: Not informed by the submitting author
+Cellulose nanocrystals as additives in Nafion membranes for
+water electrolysis applications
+Jéssica de Aguiar, Marcelo Carmo, Caue Ribeiro de Oliveira, Luiz Henrique Capparelli Mattoso,
+José Manoel Marconcini
+https://doi.org/10.1590/SciELOPreprints.4294
+Submitted on: 2022-06-16
+Posted on: 2022-06-23 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Cellulose nanocrystals as additives in Nafion membranes for water 
+electrolysis applications 
+Jéssica de Aguiar1, https://orcid.org/0000-0002-4202-9309 
+Marcelo Carmo2, https://orcid.org/0000-0002-0186-317X  
+Cauê Ribeiro de Oliveira3, https://orcid.org/0000-0002-8908-6343  
+Luiz Henrique C. Mattoso1,3 , https://orcid.org/0000-0001-7586-1014  
+ José Manoel Marconcini 1,3 https://orcid.org/0000-0002-0419-9796  
+ 
+1 Federal University of Sao Carlos, Graduate Program in Materials Science and Engineering, 
+Rodovia Washington Luis, km 235, São Carlos, SP, 13565-905, Brazil 
+2 Forschungszentrum Julich GmbH, Julich, Germany 
+3 Nanotechnology National Laboratory for Agriculture (LNNA), Embrapa Instrumentation, Rua 
+XV de Novembro, 1452, São Carlos, SP, 13561-206, Brazil 
+Conflict of interest: The authors have no conflict of interest to disclose. 
+Author contributions 
+• Conceptualization: Jéssica de Aguiar, Marcelo Carmo, Cauê Ribeiro de Oliveira, José 
+Manoel Marconcini 
+• Formal analysis: Jéssica de Aguiar, Marcelo Carmo, Cauê Ribeiro de Oliveira, José 
+Manoel Marconcini 
+• Funding acquisition: Marcelo Carmo, José Manoel Marconcini, Luiz Henrique C. Mattoso, 
+Cauê Ribeiro de Oliveira 
+• Investigation: Jéssica de Aguiar 
+• Methodology: Jéssica de Aguiar, Marcelo Carmo 
+• Project administration: Jéssica de Aguiar 
+• Resources: José Manoel Marconcini, Marcelo Carmo, Luiz Henrique C. Mattoso, Cauê 
+Ribeiro de Oliveira 
+• Supervision: José Manoel Marconcini, Marcelo Carmo, Luiz Henrique C. Mattoso 
+• Writing – original draft: Jéssica de Aguiar 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+2 
+ 
+• Writing – review & editing: Jéssica de Aguiar, José Manoel Marconcini, Luiz Henrique C. 
+Mattoso 
+ 
+ABSTRACT: Proton exchange membrane water electrolysis (PEMWE) performs the electrolysis 
+of water to produce hydrogen, a source of clean and renewable energy. The most used commercial 
+electrolyte in PEMWE is the Nafion membrane, a material that is expensive and difficult to 
+recycle. The partial replacement of Nafion with cellulose nanocrystals (CNCs) can produce 
+composite membranes can increased electrical, mechanical and biodegradability properties. In this 
+sense, the objective of this work is to study the elaboration of nanocomposites (Nafion-CNC) 
+aiming at developing high-performance electrolytes for application in PEMWE. The effects of 
+adding CNCs to Nafion were evaluated. Nafion membranes were produced with two types of 
+CNCs, one obtained by enzymatic hydrolysis and the other by acid hydrolysis (commercial). The 
+addition of both CNCs has similar effects on Nafion's properties. For samples with both 
+commercial and enzymatic CNC, an increase in the modulus of elasticity (10% and 40% 
+respectively) and maximum stress (10% and 13% respectively) was observed. The two 
+nanocomposites showedlower initial thermal degradation temperatures, however, they still showed 
+sufficient stability (Tonset > 170°C) for application in PEMWE (standard operating temperature 
+<100°C). Furthermore, there was a significant increase in the humidification capacity and increase 
+in conductivity. Composite membranes were tested in PEMWE and their usability was proven. 
+ 
+KEYWORDS: Proton Exchange Membrane Water Electrolysis (PEMWE), Cellulose 
+Nanocrystals (CNCs); Nafion; 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+3 
+ 
+ 
+ 
+INTRODUCTION 
+In recent decades, the need for environmental conservation has become increasingly 
+evident, resulting in a growing search for environmentally friendly materials such as those 
+produced from renewable sources 1. In this sense, research aimed at the development of new 
+materials has demonstrated the importance of agro-industrial waste as a raw material for the 
+preparation of products with higher added value. The use of these residues besides being 
+economically viable, is also able to minimize environmental problems related to its disposal 2.  
+ 
+Among the various agricultural sectors, sugarcane is known not only for its production 
+volume, but also for its vast waste generation capacity 3. Currently, Brazil is the largest producer 
+of sugarcane in the world with production between 650 and 700 million tons per year, followed by 
+India (340 million) and China (115 million) 4. Sugarcane bagasse, a residue of alcohol and sugar 
+production, has been used in the production of second generation ethanol (2G) and has the potential 
+to be used to obtain products of higher added value, such as nanocellulose 5. In recent studies 6–8 cnc 
+extraction has been explored within the biorefinery concept, since lignocellulosic materials such 
+as sugarcane biomass can be used in a variety of compounds (soluble sugars), structures (micro 
+and nanofibers) 9, biofuels and other bio-based products 10. 
+Another material from sugarcane production is straw, a residue of the harvesting process, 
+consisting of dried leaves and green tops, kept in the field for soil protection or harvested for 
+bioenergy production 11. The chemical and morphological properties of straw fibers are similar to 
+those presented by bagasse, making them another potential raw material for the production of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+4 
+ 
+nanocellulose 12. However, to date, no studies on the use of sugarcane straw to obtain nanocellulose 
+have been found in the literature.  
+There are different studies investigating the extraction of nanocellulose from sugarcane 
+bagasse. The routes for obtaining these nanostructures mainly include chemical methods 3,13–19, 
+mechanical 20,21 or an association of methods, such as mechanical and enzymatic 22–24. 
+Nanocellulose has characteristics such as high strength and stiffness, low density, good chemical 
+modification capacity and biodegradability 24,25. Nanocellulose can be used in the manufacture of 
+nanocomposites, packaging, cosmetics, medical and pharmaceutical products, electronic devices 24,26 and 
+recently in the production of nanocomposites based on Nafion and CNCs for application in fuel 
+cells 27,28.  
+The presence of large amounts of hydroxyl groups on the surface of nanocellulose is able 
+to ensure a high water absorption capacity, easy functionalization and considerable ability to 
+establish hydrogen bonds with polar polymeric substrates. In the literature, nanocellulose has been 
+investigated for applications where these properties are desired such as photonic films, electrolytic 
+membranes, fuel cells and other related systems 29. For example, Jiang and 30 collaborators studied 
+film production from bacterial cellulose (BC) and Nafion (through the solvent evaporation forming 
+method) and observed that the materials produced exhibited an increase in ionic conductivity and 
+maintained acceptable thermal stability for applications below 100 °C.  In another study, Gadim 
+et al. 28 obtained Nafion membranes with bacterial cellulose (BC) that showed increases in 
+mechanical properties as well as ionic conductivity. In addition, in the work of Hasani-Sadrabad 
+and 31 CNCs collaborators were successfully included in the Nafion membrane to maximize fuel 
+cell performance. The analysis of electrochemical impedance showed that the addition of 5% 
+(m/m) of CNCs can positively affect the protonic conductivity.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+5 
+ 
+However, all these studies have concentrated their efforts to produce nafion and 
+nanocellulose membranes for application in fuel cells. However, the properties presented by these 
+nanocomposites are promising for inclusion in other devices, such as electrolyte cells with proton-
+changing membrane (PEMECs). 
+PEMECs are electrochemical devices that perform water electrolysis for hydrogen production. 
+These devices have the potential to revolutionize the energy sector and help society overcome the 
+need to use fossil fuels. PEMECs use water and electric current for hydrogen production without 
+emitting greenhouse gases and have relatively high efficiency 27,32,33. 
+ 
+The basic structure of a PEMEC comprises two porous electrodes, whose composition 
+depends on the type of cell, separated by an electrolyte and connected by an external circuit. The 
+most commonly used membrane is Nafion, which has high proton conductivity (> 100 mS cm-1), 
+good mechanical strength and chemical stability. However, Nafion is an expensive material, 
+difficult to recycle at the end of life, has proton conductivity that relies heavily on humidification 
+and its mechanical stability is compromised at temperatures greater than 100°C 32–34. 
+In view of the above, it is clear the exploration potential of the properties of nanocomposite 
+electrolytes based on Nafion-CNCs for application in PEMEC.  It is also possible to use CNCs 
+obtained from the use of agro-industrial residuas and produced through greener processes such as 
+enzymatic hydrolysis. 
+ 
+EXPERIMENTAL 
+Chemicals and materials 
+Nafion solution D1021 as 10 wt% dispersion in water 10 wt% was supplied by Dupont. The freeze-
+dried Cellulose nanocrystals (CNC) was purchased from the Process Development Center at 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+6 
+ 
+University of Maine (USA) and the graphite oxide dispersion (4 mg/mL, dispersion in water) was 
+obtained from Sigma-Aldrich.  Other chemicals and solvents were of laboratory grids. 
+ 
+Preparation of pure Nafion and Nafion/CNC membranes 
+For the elaboration of electrolyte membranes, cellulose nanocrystals obtained by enzymatic route 
+were used from residues of sugarcane production. The protocol for the production of CNCs was 
+defined based on the results observed in the first stage of this study (item 3.1). The method selected 
+is the one that employs enzymatic hydrolysis lasting 72 h in treated fibers of sugarcane straw. This 
+protocol was one of the most promising methods studied because it showed greater balance of 
+properties in relation to aspect ratio, crystalline index and thermal stability.  
+ 
+For the investigation of the properties presented by membranes produced with chemically 
+and morphologically different nanoparticles, membranes with cellulose nanocrystals acquired 
+from the University of Maine were also produced. According to the manufacturer, this commercial 
+CNC has 0.94 % (m/m) of sulphur, diameters between 5 and 20 nm and length between 150 and 
+200 nm, density of 1.5 g cm-3 and hydrophilic surface35. 
+Polymeric membranes (100% Nafion) and Nafion nanocomposites containing CNCs 
+(enzymatic or commercial) were produced through the mold evaporation forming technique 
+(casting). The membranes were prepared from 10% (m/m) Nafion solution in water (D1021, 
+DuPont). The solvent used in the preparation of polymeric films was dimethylsulfoxide (DMSO, 
+Aldrich, PA).  
+The production of Nafion membranes by casting has already been studied, evidencing the 
+need for the use of high boiling point solvents, such as dimethylsulxioxide (DMSO). The use of 
+these solvents allows the processing of materials at higher temperatures, promoting a plasticizing 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+7 
+ 
+effect thus allowing the production of films with properties similar to commercial membranes 36. 
+In addition, cellulose nanocrystals have considerable dispersal capacity in mixtures in organic 
+solvents with high dielectric constants, such as DMSO 37,38. 
+Due to the need for a high boiling point solvent, the water used as a commercial Nafion 
+solvent was replaced through evaporation followed by polymer resolubilization in DMSO. For 
+this, the Nafion solution was maintained at 80 ºC in a beaker on a magnetic stirrer until a viscous 
+residue was obtained. Next, this residue was redissolved in DMSO, obtaining again a solution of 
+10% (m/m) of Nafion. The solution was kept under magnetic agitation for 24 h. This solution was 
+used in the manufacture of nafion polymeric films without the addition of nanocharges (Ncast) 
+and nanocomposite membranes containing Nafion and 10% (m/m) of commercial CNC 
+(N/CNC_C) and Nafion and 10% (m/m) of enzymatic CNC (N/CNC_ENZ). 
+As the objective of this work was to perform a partial replacement of the nafion by a 
+biodegradable material, we chose to work with samples containing high concentrations of CNCs. 
+Membranes containing different concentrations of CNCs (10, 15, 25, 50% m/m) were then 
+produced. However, the samples with concentrations of CNCs above 10% (m/m) presented high 
+frailty and were not suitable for application.   
+For the preparation of the nanocomposites, in addition to the preparation of the Nafion 
+solution in DMSO obtained by the procedure described above, CNC dispersions with the desired 
+mass percentage were prepared using DMSO as dispersant. The CNCs were dispersed in the 
+DMSO using a tip ultrasound operating at 10% amplitude for 15 min, with cooling to avoid 
+overheating. Then, the dispersions were maintained 24 h under mechanical agitation. After this 
+process, nafion solution and CNC dispersions were mixed and maintained under mechanical 
+agitation for 24 h. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+8 
+ 
+Membrane conformation was performed by deposition of CNC/Nafion dispersions in petri 
+dishes for dmso evaporation in a resistive oven. The evaporation process was carried out in two 
+stages, initially the samples were kept at 80 ºC for 18h and then the oven temperature was increased 
+to 120 ºC and maintained for two hours.  
+After being made, the membranes were washed with deionized water to clean surface impurities 
+and dilute the residual solvent. Next, the sulphonic groups were activation by immersion of the 
+membranes in a sulfuric acid solution (0.5 M) 80 ºC for 1h. Finally, the membranes were washed 
+with deionized water and dried at room temperature.  
+ 
+Physico-chemical characterizations 
+ 
+The analysis of infrared spectroscopy with fourrier transform (FTIR) of the membranes 
+was performed in a Bruker infrared spectrophotometer equipment, model Vertex 70, with ATR 
+accessory (Attenuated Total Reflectance). Measurements of total attenuated  reflectance were 
+performed with variation of the wave number from 4000 to 650 cm-1, resolution of 4 cm-1 and 32 
+spectral accumulations per sample. 
+X-ray diffatometry analysis was performed on a Shimadzu 6000 diffometer using Cu Kα 
+radiation (λ = 1.54 Å) in continuous scanning mode with a speed of 2º.min-1 in the Bragg angle 
+range (2θ) from 5 to 45º. The samples were cut into squares and fixed with double-sided tape under 
+a glass blade. 
+Atomic force microscopy (AFM) images of the membrane surface were obtained under a 
+Dimension V microscope (Veeco) (CNPEM-Campinas/SP). The images were obtained in tapping 
+mode at 1 Hz, using silicon needles with a curvature radius of 15 nm and an inclination of 12°.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+9 
+ 
+ 
+The membranes were analyzed by thermogravimetry in a TGA Instruments equipment, 
+model Q500. The samples were heated to a heating ratio of 10 ºC/min in the range of 25 ºC to 900 
+ºC, under the nitrogen gas flow of 20 mL min-1. The thermal degradation start-up temperatures 
+(Tonset) were determined by the analysis of the thermogravimetric (TG) and derived 
+thermogravimetric (DTG) curves. The onset T was calculated by the intersection of the 
+extrapolation line from the beginning of the thermal event with the tangent to the curve at the 
+temperature of the maximum rate of thermal degradation of the material (observed in the DTG 
+curve). 
+The differential exploratory calorimetry (CSD) measurements of the membranes were 
+performed in a TA Instruments equipment, model DSC Q-100. The tests were performed in 
+nitrogen atmosphere under a heating rate of 20 ºC min-1 in the range of -50 ºC to 300 ºC. 
+For the dynamic-mechanical thermal analysis (DMTA) assay, the membranes were cut 
+with the aid of a mold and a scalpel with stainless steel blade for the manufacture of rectangular 
+specimens (5 x 30 mm2). The tests were performed on a DMA Q800 equipment from TA 
+Instruments operating in traction mode at 1 Hz and with a amplitude of 0.005 mm. The temperature 
+was varied from -30 to 180 °C with a constant heating rate of 2 °C min− 1.  
+In the same equipment and with the same standard of specimens, mechanical tests were 
+performed under traction to obtain stress curves – strain according to ASTM D882-18 standard 
+with modifications 39. The test was performed at room temperature and test speed of 1 N min-1. 
+From the curves σ – ε the values of maximum stress (MPa), deformation at rupture (%) and elastic 
+modulus (MPa) were determined. For these assays, at least 6 specimens of each sample were tested.   
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+10 
+ 
+To analyze the water absorption capacity, the moistened and dried masses of the 
+membranes were obtained on an analytical scale. The water absorption capacity of the membranes 
+(ΔM) was calculated from equation (16):(16)1 
+∆𝑀= 𝑀𝑢−𝑀𝑆
+𝑀𝑆
+ 
+(16)1 
+ 
+ 
+where Mu is the moist membrane mass and Ms is the dry mass. Dry mass (Ms) was obtained after 
+heat treatment of the sample in an oven at 60 ºC for 24h. To measure the wet mass (Mu) the 
+membranes were kept in deionized water at 80 ºC for 1h. Before the mass check, the excess water 
+from the membrane surface was carefully removed with filter paper. 
+The proton conductivity (σ) of the membranes was determined by Electrochemical 
+Impedance Spectroscopy (EIE) using a Solartron 1260 frequency analyzer and a teflon sample port 
+equipped with two electrical connection terminals. Measurements were performed at room 
+temperature with dry and wet samples.  
+For this analysis, an ac excitation of 200 mV was used in the frequency range of 30 MHz to 10 
+MHz, with ten points per decade of frequency.  
+The resulting Nyquist diagrams were treated using Zahner's THALES software to 
+determine the values of the resistances of the samples (R). Conductivity (σ) was calculated using 
+Equation (17), using membrane thickness L (cm), Resistance of Membrane R (Ω) and cross-
+sectional area of membrane A (cm(17)22) 27. 
+ 
+𝜎=
+𝐿
+𝑅. 𝐴 
+(17)2 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+11 
+ 
+Preparation of catalyst coated membranes (CCM) 
+The manufactured membranes and the commercial Nafion membrane were used for testing 
+in an electrolytic cell with proton exchange membrane (PEMEC). To perform these tests, catalyst-
+coated membranes (MCC) were manufactured. The MCC is composed of an electrolyte 
+(membrane) positioned between two electrodes (anode and cato). 
+The CCMs with an active area of 3.98cm2 were prepared using the Decal method (also called 
+the transfer method) where the electrodes (catoand anode) are initially deposited on inert teflon 
+substrates and then transferred to the membrane by hot pressing 40.  
+Initially for the preparation of the electrodes, paints containing catalyst powder, 10% 
+Nafion solution (m/m) were produced in water (D1021, DuPont) and organic alcohol. The catalyst 
+powders used in the production of anodic and cathode electrodes were IrO2 (Alfa Aesar, Premion, 
+99.99%) and 60% Pt/C (HiSPEC 9100, Johnson & Matthey), respectively.  
+The inks were dispersed in an ultrasonic homogenizer (Bandelin Sonopuls HD 3200) and 
+deposited on inert teflon substrates with the aid of a dosing blade (Coatmaster 509 MCI, Erichsen 
+GmbH & Co. KG). The electrodes were dried in a resistive oven at 60°C for 3h. Finally, the dry 
+electrodes were positioned one on each side of the membranes and hot pressed at 100 ºC under 
+pressure of 200 kgf cm-2 for 3min. The catalytic layers of the anode and the orpt obtained final loads 
+of 2.1 mg Ir cm-2 and 0.8 mg Pt cm-2, respectively.  
+ 
+Electrolytic cell test with proton-changing membrane (PEMEC) 
+The membranes coated with catalyst (CCMs) manufactured were tested in an electrolytic 
+cell with proton exchange membrane (PEMEC) to obtain polarization curves. The tests were 
+performed using a Greenlight E60 test station. The porous transport layers (PTLs) used in the box 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+12 
+ 
+and anode were manufactured from titanium plates (Bekaert) with 68% porosity and 350 μm 
+thickness of Bekaert. The anodic and cathode PTLs were coated with iridium creating superficial 
+layers 0.5 mg cm−2. 
+To perform the tests each CCM was positioned between the PTL and then the set was placed inside 
+the electrolyte cell. The cell was then compressed using a press and then positioned at the test 
+station where all inputs and outputs were connected. 
+The start of the test occurred with the heating of the electrolytic cell up to 80 °C.  Ultrapure 
+water was preheated to the same cell temperature and supplied at a flow rate of 50 mL min-1 to the 
+anode compartment. Before the beginning of the generation of the polarization curve, the 
+electrolytic cell was preconditioned the current densities of 0.2 and 1 A cm-2 for  1h. After this step, 
+the polarization curve was made by applying predetermined current values, each current applied 
+was maintained for 5min for the verification of the voltage obtained. The current has been 
+increased to a maximum of 2.0 V. The results presented are the result of an average of at least 
+three polarization curves. 
+ 
+RESULTS AND DISCUSSION 
+In order to verify the effect of the incorporation of the different nanocellulose nanocrystals 
+in the Nafion matrix, a characterization was performed in terms of composition, structure, 
+morphology, thermal and viscoelastic properties and prosthetic conductivity. In addition, the 
+membranes were tested in an electrolytic cell with proton-changing membrane.  
+The analysis of Nafion and its nanocomposites by means of vibrational spectra in the 
+infrared region provides information on the chemical and morphological characteristics of the 
+obtained material. Commercial Nafion (Nafion 115), Conformation Nafion (Ncast) and 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+13 
+ 
+nanocomposites with the addition of commercial cellulose nanocrystals (N/CNC_C) and obtained 
+by enzymatic hydrolysis of sugarcane straw (N/CNC_ENZ) were analyzed using the FT-IR 
+technique and the spectra obtained are presented in Figure 1.  
+ 
+ 
+Figure 1 – (a) Fourier transform infrared spectroscopy spectra (FTIR) for commercial Nafion 
+membrane (N115), Nafion obtained by casting (Ncast), Nafion nanocomposite with commercial 
+CNCs (N/CNC_C) and Nafion nanocomposite with CNCs obtained by enzymatic hydrolysis of 
+sugarcane straw (N/CNC_ENZ); (b) magnifications of the same spectra in the spectral range from 
+1600 to 800 cm-1. 
+ 
+All analyzed samples showed the main characteristic bands of Nafion, the positions in the 
+spectrum of these energy absorption bands in the infrared region are found in Table 1. The 
+maintenance of these bands in the samples produced by the forming process is indicative that the 
+method adopted did not affect the integrity of the polymer chains, branches and sulphonic groups, 
+responsible for the morphology, mechanical and electrical properties of the polymer.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+14 
+ 
+Table 1 - Main absorption bands characteristic of Nafion 28.41 
+Band position (cm-1) 
+Connection 
+Denomination 
+2360 
+-CF 2-CF2- 
+Stretch 
+1620 
+OH 
+Angular deformation 
+1200 
+CF2 and SO3− 
+Asymmetric stretch 
+1142 
+CF2 and SO3− 
+Symmetrical stretch 
+1060 
+-SO3- 
+Symmetrical stretch 
+980 
+-C-O-C- 
+Stretch 
+960 
+-C-O-C- 
+Symmetrical stretch 
+ 
+The band observed at 2360 cm-1 is associated with the main polishing chain formed by -CF 
+2-CF 2-bonds. The band at 1620 cm-1 is generated by the presence of water contained in the polymer 
+structure. The bands observed at 1200, 1142 and 1060 cm-1 may indicate the existence of sulphonic 
+groups on the membrane, and represented respectively the asymmetric stretch vibration of the S=O 
+bond, the symmetrical stretch vibration of the S=O lead and the symmetrical S=O stretch.  can also 
+be attributed to the asymmetric and symmetrical stretch of the C-F bond present in the main chain 
+of the Nafion. The bands at 980 and 960 cm-1 present the typical absorbance of the C-O-C bond 
+present in the lateral chains of Nafion 30,41. 
+In addition to the verification of the characteristic bands of Nafion, the FTIR spectra of the 
+obtained materials were also analyzed to verify the presence of residual solvents of the forming 
+process.  The solvent used in the conformation process was DMSO, when the incomplete removal 
+of this solvent from the polymer matrix occurs, the spectra of the samples can present three 
+characteristic bands of this solvent in 2657, 1659, and 1410 cm-1. The bands at 2657 and 1410 cm-1 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+15 
+ 
+are associated with the C-H binding of the methyl group present in the DMSO.  The band at 1659 
+cm-1 is assigned the C=O and S=O bonds of the solvent 36. In the spectra of the membranes 
+produced, none of the characteristic bands of DMSO were observed, suggesting that there is no 
+solvent residue in the manufactured membranes. 
+Regarding the spectra of the nanocomposites, the observed patterns are consistent with the 
+expected chemical structure and composition due to the presence beyond the characteristic bands 
+of Nafion also of the absorption bands of cellulose nanocrystals (Table 4.2). The main bands 
+observed that evidence the maintenance of CNCs in the matrix are 3340 cm-1 (stretch O-H), 2900 
+cm-1 (stretch C-H), 1430 cm-1 (asymmetric deformation C-H and C-O), 1315 cm-1 (c-h angular 
+symmetric deformation), 897 cm-1 (c-o-c and c-h stretch). The characteristic band of cellulose at 
+1061 cm-1 referring to the stretching of groups C-O and C-H cannot be identified, because it may 
+overlap the symmetrical stretch band of the sulphonic group present in the Nafion.  
+The effect of the introduction of cellulose nanocrystals in the polymermatrix of Nafion in 
+relation to the crystallinity of the membrane obtained was evaluated by X-ray diffraction. 
+According to difratograms presented in Figure 2, the X-ray pattern of pure Nafion membranes 
+(N115 and Ncast) are similar and characteristic of a semicrystalline material with a wide diffraction 
+peak at 2θ between 12 º and 20 º. This observed peak is the result of the overlap of a crystalline 
+peak (2θ = 17.5º) and an amorphic halo (2θ = 16º) of the perfluoroeter lateral chains of Nafion36,42. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+16 
+ 
+ 
+Figure 2 X-ray diphrates for commercial Nafion membrane (N115), Nafion obtained by casting 
+(Ncast), Nafion nanocomposite with commercial CNCs (N/CNC_C) and Nafion nanocomposite 
+with CNCs obtained by enzymatic hydrolysis of sugarcane straw (N/CNC_ENZ).  
+ 
+As expected, the diffraction pattern of nanocomposite membranes (N/CNC_C and 
+N/CNC_ENZ) corresponds to an overlap of the difratograms of the isolated components (Nafion 
+and cellulose). In these materials it was possible to observe mainly the appearance of the peak in 
+2θ = 23° referring to the cellulose plan 002 43–46. There was also a considerable increase in the 
+peak of broad diffraction at 2θ between 12 º and 20 º probably caused by the overlap of the 
+characteristic peaks of the Nafion with the peaks of cellulose at 2θ equal to 15 ° (plane 101), 17 ° 
+(plane 10) 1̅43–46. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+17 
+ 
+Finally, the appearance of crystalline peaks characteristic of cellulose in the difratograms 
+of the nanocomposite membranes produced can be considered evidence that the embedded 
+cellulose nanocrystals did not suffer degradation during the acquisition of membranes.  
+To evaluate the changes in the morphology of the Nafion matrix caused by the 
+incorporation of the different nanostructures, the samples were analyzed by atomic force 
+microscopy (AFM), as can be observed in Figure 3. The observed surfaces for the commercial 
+Nafion samples (Figure 3a) and for the Nafion obtained by the solvent evaporation process (Figure 
+3b) have a rough surface characteristic of Nafion, formed by aggregates in the form of nanometric 
+particles approximately cylindrical. 
+In order to evaluate the distribution of cellulose nanocrystals along the polymer matrix, 
+AFM images were obtained from both sides of the samples (top and bottom). In both samples 
+containing commercial and enzymatic CNCs, there was a homogeneous distribution of 
+nanoparticles, and a similar number of nanoparticles can be observed both at the top and bottom 
+of the membranes.  
+Regarding the dispersion of the nanoparticles, it was evident that the membranes prepared 
+from the commercial CNC presented more homogeneous dispersion when compared to 
+membranes with enzymatic CNC. The probable cause of the variation in dispersion is due to the 
+difference in loads on the surface of the nanostructures due to the different methods of obtaining.  
+Commercial cellulose nanocrystals are produced through acid hydrolysis using sulfuric acid, a 
+process that generates charged nanoparticles, which facilitates the dispersion process 44. According 
+to reports in the literature, suspensions of the commercial CNC (Maine) present high zeta potential 
+values ~70 mV, being considered highly stable suspensions 48,49. On the other hand, CNCs 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+18 
+ 
+obtained by enzymatic hydrolysis are nanostructures with lower amounts of loads and can be 
+considered moderately stable (zeta potential between ~25 and 31 mV).  
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+19 
+ 
+Figure 3 - Images obtained by atomic force microscopy (AFM) from the surface of (a) commercial 
+Nafion membrane (N115), (b) Nafion obtained by casting (Ncast), (c-d) nano Nafion composite 
+with commercial CNC (N/CNC_C) and (e-f) Nafion nanocomposite with CNC obtained by 
+enzymatic hydrolysis of sugarcane straw (N/CNC_ENZ). 
+  
+The thermal stability of Nafion membranes with and without cellulose nanocrystals was 
+investigated using thermogravimetric analysis and the results can be observed in Figure 4 and 
+Table 2.  
+ 
+ 
+Figure 4 - TG/DTG thermogravimetry curves for (a) commercial Nafion membrane (N115), (b) 
+Nafion obtained by casting (Ncast), (c) Nafion nanocomposite with commercial CNC (N/CNC_C) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+20 
+ 
+and (d) Nafion nanocomposite with CNC obtained by enzymatic hydrolysis of sugarcane straw 
+(N/CNC_ENZ). 
+ 
+Table 2 - Data obtained by TG/DTG for commercial Nafion samples (N115), Nafion obtained by 
+casting (Ncast), Nafion nanocomposite with commercial CNC (N/CNC_C) and Nafion 
+nanocomposite with CNC obtained by enzymatic hydrolysis of sugarcane straw straw 
+(N/CNC_ENZ).  
+Sample 
+Temperature 
+range (°C) 
+Tonset (°C) 
+Tmax (°C) 
+Mass 
+Loss 
+(%) 
+Stable residue 
+at 900 °C (%) 
+N115 
+25 to 230 
+150,3 
+172,0 
+2,87 
+  
+230 to 370 
+321,5 
+344,7 
+8,49 
+1,17 
+370 to 600 
+471,5 
+503,9 
+86,49 
+  
+Ncast 
+25 to 230 
+204,8 
+210,8 
+3,79 
+  
+230 to 370 
+300,0 
+338,2 
+9,60 
+0,65 
+370 to 600 
+460,8 
+505,8 
+82,66 
+  
+N/CNC_C 
+25 to 170 
+135,0 
+149,8 
+5,55 
+  
+  
+3,04 
+  
+170 to 230 
+178,8 
+188,07 
+2,28 
+230 to 370 
+304,0 
+324,9 
+12,49 
+370 to 600 
+452,9 
+496,5 
+69,62 
+N/CNC_ENZ 
+25 to 170 
+134,7 
+148,8 
+3,93 
+  
+  
+5,34 
+  
+170 to 230 
+174,0 
+183,0 
+1,74 
+230 to 370 
+306,1 
+323,7 
+13,20 
+370 to 600 
+451,1 
+485,0 
+68,55 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+21 
+ 
+ 
+As can be seen in Table 4.7 (a) both commercial Nafion and Nafion produced by casting presented 
+three mass loss events typical of this type of material. The first event of mass loss is due to moisture 
+evaporation and extends to approximately 230 °C, between 230 and 370 °C occurs the second 
+event attributed to the degradation of the sulphonic groups present in the side chains 50, since the 
+mass loss observed between 370 and 600 °C is associated with degradation of the main chain of 
+Nafion 50.  
+In relation to the membranes produced with cellulose nanocrystals Table 4.7 (c-d) the 
+thermal degradation profile was similar for the two samples. Through the analysis of the DTG 
+graphs of these samples it is possible to observe four thermal events with maximum decomposition 
+temperatures at approximately 150, 185, 325 and 490 °C.  In addition to moisture loss, thermal 
+events that have the highest maximum decomposition temperatures (325 and 490 °C) occur in the 
+same interval as the events observed for Nafion, suggesting the same origin. On the other hand, 
+the events observed with maximum decomposition temperatures at approximately 185 °C may 
+originate due to the degradation of the cellulose nanocrystals contained in the samples. Although 
+the CNCs both commercial and those produced by enzymatic hydrolysis present thermal 
+degradation onset temperatures above 200 °C51 and 300 °C, respectively, there are studies that 
+point to a compromise of the thermal stability of cellulose when used for the production of 
+nanocomposites 28,30. According to Noonan et al. 29 the sulphonic groups present in Nafion are 
+capable of generating a catalytic effect that facilitates the thermal degradation of the hydroxyl 
+groups that make up cellulose.  
+ 
+Although the membranes with CNCs present thermal decomposition onset temperatures 
+below those observed for pure Nafion membranes, the nanocomposites produced presented 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+22 
+ 
+sufficient stability to be used in electrolytic cells with proton-changing membrane since the 
+operating temperature of these equipments is less than 100 °C.  
+Differential exploratory calorimetry (CSD) analysis was used to investigate the thermal 
+behavior of pure Nafion membranes with CNCs. Figure 5 presents the DSC curves of the first 
+heating for polymer membranes.  
+ 
+Figure 5 – Differential scanning calorimetry curves of commercial Nafion membranes (N115), 
+Nafion obtained by casting (Ncast), Nafion nanocomposite with commercial CNC (N/CNC_C) 
+and Nafion nanocomposite with CNC obtained by enzymatic hydrolysis of sugarcane straw 
+(N/CNC_ENZ).  
+ 
+The CSD curve obtained for commercial Nafion presented two endothermic peaks, one at 
+approximately 130 ºC and the other with a wider characteristic at approximately 230 ºC, results 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+23 
+ 
+that agree with what has already been reported in the literature for this material 52,53.  The first peak at 
+approximately 130 ºC can be attributed to the glass transition temperature (Tg) of the sulfion groups 
+53 and the second peak, around 230 ºC, to the fusion of the crystalline regions 53. 
+The DSC curve of the Nafion membrane obtained by casting also presented the two most 
+endothermic peaks characteristic of Nafion. Tg for this material showed a slight reduction of 
+approximately 5 ºC when compared to commercial Nafion. This reduction in Nafion Tg obtained 
+by casting when compared to the commercial has already been reported in the literature 50. 
+According to Matos et al. 50 Nafion membranes obtained by casting may present a lower 
+crystallinity when compared to the commercial membrane produced by extrusion. This reduction 
+in crystallineness facilitates the mobility of polymer chains thus reducing the glass transition 
+temperature.  
+In membranes with CNCs, the addition of both types of nanoparticles caused an overlap of 
+thermal events that can be related both to the fusion of the Nafion matrix and to the thermal 
+degradation of the CNCs, as already observed in the TGA analysis (Figure 4).  
+Dynamic-mechanical thermal analysis (DMTA) was performed to evaluate the viscoelastic 
+properties of membranes produced with and without CNCs, the results can be observed in Figure 
+6.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+24 
+ 
+ 
+Figure 6 – Dynamic-mechanical thermal analysis (a) storage module and (b) damping factor as a 
+function of the temperature of the membranes of commercial Nafion (N115), Nafion obtained by 
+casting (Ncast), Nafion nanocomposite with commercial CNC (N/CNC_C) and Nafion 
+nanocomposite with CNC obtained by enzymatic hydrolysis of sugarcane straw (N/CNC_ENZ).  
+ 
+For the commercial Nafion membrane the storage module (E') decreases with the 
+temperature increase and between ~90 and ~140 ºC this reduction of E' becomes more pronounced. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+25 
+ 
+The associated transition presents a maximum in the tanδ curve at ~120ºC and represents the 
+vitreous transition of material 54. 
+The Nafion membrane produced by conformation presented a viscoelastic behavior similar 
+to the commercial membrane. For this material, the tanδ curve presented a maximum of 
+approximately 110 ºC, evidencing a reduction in the Tg of the material when compared to the 
+commercial membrane, a result that agrees with what was already observed through the results of 
+the CSD analysis. 
+The storage module for membranes produced with CNC was superior to that observed for 
+pure membranes throughout the temperature range analyzed. This result confirms the role of CNCs 
+in reducing membrane deformation during heating. Moreover, the increase in the storage module 
+was more evident for the membrane produced with commercial CNC, this difference is probably 
+due to the greater dispersion of cncs in the Nafion matrix, as already observed through the Analysis 
+of AFM (Figure 3). In the tanδ curve it is possible to observe an overlap of peaks between ~80 and 
+~180 ºC, this overlap of events can be correlated both the vitreous transition of the Nafion and the 
+process of mass loss already observed for the same temperature range through thermogravimetric 
+analysis (Figure 4). In addition, this displacement from peak to higher temperatures may be related 
+to the restriction of movement of Nafion chains caused by the insertion of CNCs, a factor that also 
+generates an increase in the glass transition temperature of the material.  
+Mechanical properties of the samples were investigated by tensile tests.  The stress-strain 
+curves that best represent the behavior of the materials are illustrated in Figure 7, and the results 
+calculated by analyzing the replicate assays of each material are presented in Table 3.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+26 
+ 
+ 
+Figure 7 - Representative stress curves as a function of the deformation of membranes with and 
+without cellulose nanocrystals.  
+ 
+Table 3 - Mechanical engineering properties of membranes with and without cellulose 
+nanocrystals.  
+Sample 
+Mechanical properties 
+Elastic module 
+(MPa) 
+Maximum 
+voltage 
+(MPa) 
+Deformation 
+(%) 
+N115 
+245.6 ± 8.5 
+14.3 ± 0.5 
+100.4 ± 9.0 
+Ncast 
+149.3 ± 4.9 
+13.9 ± 0.3 
+124.3 ± 8.8 
+N/CNC_C 
+272.9 ± 8.1 
+15.9 ± 0.8 
+98.3 ±  
+N/CNC_ENZ 
+403.3 ± 9.0 
+16.5 ± 0.7 
+78.9 ± 5.0 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+27 
+ 
+From the stress-strain curves (Figure 7) it is possible to notice that the Nafion obtained by 
+casting presented a more dubious behavior, represented by the higher level of deformation, while 
+commercial Nafion presented a slightly more fragile behavior, represented by higher mechanical 
+resistance. The incorporation of CNCs in the Nafion matrix caused a decrease in the level of 
+deformation and an associated stress gain, thus altering the mechanical behavior of the polymer.  
+These results corroborate those already reported in the studies of Noonan and collaborators 
+29. The authors also used cellulose nanoparticles (nanofibrils) to produce Nafion matrix 
+nanocomposites from solvent evaporation conformation. The result of this study also demonstrated 
+that the incorporation of this type of nanoparticle in the Nafion generates an increase in the 
+maximum stress, but a lower deformation of the material. 
+The mean values of the elastic modulus, maximum stress and strain for nafion samples 
+with and without CNC are presented in Table 4.8. These results show that the sample prepared 
+with enzymatic CNC presented the largest elastic modulus. However, in this sample, the lowest 
+deformation in rupture was also observed. This result may be associated with the formation of 
+clusters, as already observed by AFM images (Figure 3). The clusters of CNCs acted as stress 
+concentration points that accelerated the failure and resulted in lower tensile strength of the 
+nanocomposites  
+The hydration capacity of membranes is another important parameter to be investigated, 
+because it influences the proton conductivity of the membrane, an essential factor for its 
+application in electrolytic cells with proton-changing membrane (PEMECs). The prosthetic 
+conductivity of the membrane can be increased by increasing humidification 56. Water absorption 
+capacity was measured for all membranes studied and the results are presented in Table 4.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+28 
+ 
+Table 4 - Water absorption capacity in the membranes of commercial Nafion (N115), Nafion 
+obtained by casting (Ncast), Nafion nanocomposite with commercial CNC (N/CNC_C) and 
+Nafion nanocomposite with CNC obtained by enzymatic hydrolysis of sugarcane straw 
+(N/CNC_ENZ).  
+Sample 
+Water 
+absorption 
+(% by mass) 
+N115 
+35.5 ± 0.5 
+Ncast 
+47.7 ± 0.5 
+N/CNC_C 
+54.6 ± 0.1 
+N/CNC_ENZ 
+58.2 ± 0.1 
+ 
+ 
+The experimental data regarding the water absorption capacity observed for the 
+commercial membrane Nafion 115 are similar to those found in articles and manufacturer 
+specifications 50.57. On the other, the water absorption capacity of the membrane obtained by 
+casting was higher than that observed for the commercial membrane. This variation in 
+humidification capacity may be associated with the difference in crystallineness of the members. 
+The crystalline regions limit the expansion of polymer chains and ensure the mechanical stability 
+of the material. Thus, for the sulphonic group to expand and absorb water, the expansion must 
+overcome the elastic energy of the polymer chains, and this energy is greater when the material 
+has greater crystallineity 58. The membrane obtained by conformation presents a lower crystalline 
+ity when compared to the commercial one obtained by an extrusion process. Thus, a lower 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+29 
+ 
+crystalline of the chain gives the polymer a lower resistance to its expansion, a factor that increases 
+the membrane's water absorption capacity. 
+The insertion of CNCs (commercial or enzymatic) in the Nafion matrix conferred the 
+membranes a significant increase in humidification capacity when compared with the 100% 
+Nafion membrane also obtained by conformation. This behavior can be explained by the presence 
+of hydroxyl groups on the surface of cellulose nanocrystals, which guarantees this material a high 
+water absorption capacity 59. Furthermore, a more evident increase in water absorption capacity 
+can be observed for membranes produced with enzymatic CNC. This increase in this property may 
+be due to the process of obtaining the nanocrystals. With the above, the enzymatic CNC, unlike 
+the commercial CNC, is produced through hydrolysis without the use of strong acids, such as 
+sulfuric acid, which promotes the extraction of nanoparticles with a surface predominantly 
+composed of hydroxyls 60.    
+In the literature there are reports of increased water absorption capacity with the 
+incorporation of nanocellulose in Nafion matrices 30,56. In the work of Jiang et al. 30, where Nafion 
+membranes were produced through the solvent evaporation conformation technique, an increase 
+in the ability to absorb water was observed with the incorporation of nanocellulose into the Nafion 
+matrix (between 10 and 50% (m/m)).  
+The analysis of the electrical conductivity (ionic) of the samples was performed by means 
+of impedance spectroscopy measurements using the dry and moistened membranes.  Figure 8 
+shows impedance spectroscopy diagrams for (a) wet and (b) dried samples. From the experimental 
+data, it was possible to determine the conductivity of the membranes, the values obtained are 
+presented in Table 5.  
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+30 
+ 
+ 
+Figure 8 - Nyquist graphs obtained by electrochemical impedance spectroscopy at 200 mV 
+obtained from wet and (b) dry membranes.  
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+31 
+ 
+Table 5 - Estimated protein conductivity from nyquist graphs of wet and dry membranes.  
+Sample 
+ Conductivity σ (mS.cm-
+1) 
+N115 (dry) 
+0,7 
+Ncast (dry) 
+0,4 
+N/CNC_C (dry) 
+0,2 
+N/CNC_ENZ (dry) 
+0,1 
+N115 (wet) 
+27,1 
+Ncast (wet) 
+28,0 
+N/CNC_C (wet) 
+33,7 
+N/CNC_ENZ (wet) 
+47,3 
+ 
+ 
+With dry membranes it is possible to observe that the added CNCs led to the reduction of 
+the conductivity of the membranes. Nanocelluloses (such as CNCs and CNFs) at low humidity 
+present very low conductivity (~ 1x10-4 mS.cm-1), especially when compared to the conductivity of 
+Nafion 27. Thus, CNCs added to Nafion at low humidity can be considered isolated. Thus, causing 
+a reduction of the electrical conductivity of the electrolyte by the volumetric fraction occupied by 
+isolated particles. 
+The objective of this work is to use the membranes produced as proton exchange 
+membranes in water electrolysis cells. During the electrolysis process, the membranes are kept in 
+contact with water, so it is important to analyze their behavior in the wet state. By comparing the 
+tests performed with the wet and dry membranes it was possible to observe that the conductivity 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+32 
+ 
+of all samples is increased with the enposition of the material. This is a typical behavior for proton-
+conducting polymers such as Nafion, where water acts as a means for transporting loads 27. 
+The conductivity values obtained for wet commercial Nafion are in accordance with the 
+values reported for this polymeric electrolyte under similar conditions 27. The wet Ncast membrane 
+presented conductivity superior to that of commercial Nafion. This difference can be explained by 
+the fact that Ncast has a higher water absorption capacity. The greater humidification of the 
+membranes produced by conformation decreases the average free path for the conduction of the 
+protonic conduction, thus increasing the conductivity of the material 58.  
+The data presented in Table 5 show that the conductivity of wet samples increases with the 
+addition of CNCs. For nanocomposites formed from the addition of commercial CNC this increase 
+is ~ 6 mS.cm-1. The nanocomposites formed with enzymatic CNC this increase is even more evident 
+reaching an increase of ~ 20 mS.cm-1. This more expressive increase for samples produced in zymatic 
+CNC may be caused by the greater capacity to absorb water from these membranes, as can be 
+observed in Table 4.9. 
+An increase in the conductivity of Nafion by the insertion of cellulose nanocrystals was 
+also reported in the work of Hasani-Sadrabadi and 31 collaborators. In this study, Nafion membranes 
+with 5% (m/m) of CNC were produced through the conformation technique and an increase in 
+proton conductivity was observed in the entire temperature range between 25 and 120 ºC. 
+According to the authors, the CNCs act by connecting the hydrophilic domains of The Nafion 
+(Closters), thus increasing the number of channels available for proton transport. 
+The membranes produced and the commercial membrane were tested in an electrolytic cell 
+with proton exchange membrane (PEMEC). To perform the tests at least three samples of each 
+membrane were coated with standardized loads: 2.1 mg cm-2 of iridium on the anodyne side and 0.8 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+33 
+ 
+mg cm-2 of platinum on the cathode side. The tests were performed on all samples using the same 
+parameters. Figure 9 shows the current versus voltage profiles (polarization curves) obtained 
+during the tests of the membranes in electrolytic cell. The values of the potentials (V) presented 
+by the electrolyte cell during the application of certain current densities in each membrane can be 
+observed in Table 6.  
+ 
+ 
+Figure 9 - Polarization curve of the electrolytic cell with proton-changing membrane. 
+ 
+Table 6 - Potentials presented by the electrolyte cell during the application of different current 
+densities.  
+Membrane 
+ Cell potential at 1 A·cm−2 
+(V) 
+Cell potential at 2 2 
+A·cm−2 (V) 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+34 
+ 
+N115  
+1.63 ± 0.00 
+1.78 ± 0.00 
+Ncast 
+1.64 ± 0.00 
+1.79 ± 0.00 
+N/CNC_C  
+1.67 ± 0.00 
+1.81 ± 0.00 
+N/CNC_ENZ  
+1.68 ± 0.01 
+1.84 ± 0.03 
+ 
+The polarization curves presented for all samples present the two typical regions of 
+polarization curves of a PEM electrolysis. At low current densities, the cell's potential rises sharply 
+as a result of activation polarization. At higher current densities, the cell potential rises linearly 
+with the current as a result of ohmic fall (cell resistance) 40.  
+  
+The membranes produced by conformation containing 100% Nafion showed a slight 
+decrease in performance when compared to that of commercial Nafion. As can be seen in Table 6, 
+with the application of a current density of 1 A∙cm−2, a performance fall of ~ 10mV was verified. 
+The same performance fall was also verified for higher current densities. 
+A reduction in performance was observed for cnc-containing membranes. For the 
+membrane with commercial CNC during the application of a current density of 1 A cm−2, a 
+performance fall of ~ 40mV was observed in relation to the commercial membrane. The membrane 
+containing enzymatic CNC also promoted a performance fall when compared to the commercial 
+membrane. However, due to the greater deviations observed among the replicates of the tests of 
+these samples, it is not possible to affirm that the membrane with enzymatic CNC has a 
+performance different from that with commercial CNC.  
+According to the electrochemical impedance spectroscopy assays (Table 5) it was already 
+possible to observe that the addition of CNCs in the Nafion matrix helps to increase the 
+conductivity of the material, a fact that should contribute to the increase of membrane performance. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+35 
+ 
+Thus, a possible explanation for the fall of remains of this material would be a lower addition of 
+the catalytic layers (anode and cato) the membrane. As can be seen in AFM images (Figure 3), the 
+membranes produced with CNC showed a higher roughness on both sides of the membranes. These 
+reliefs on the surfaces of the membranes are able to decrease contact with the catalyst during its 
+deposition reducing the connection between the parts.  
+Despite the slightly lower performance of cnc-containing membranes, the results observed 
+here prove the possibility of application of these nanocomposite membranes in electrolytic cell 
+with proton-changing membrane (PEMEC). 
+ 
+CONCLUSIONS 
+The results showed that CNCs can be effectively extracted from lignocellulosic biomasses 
+of sugarcane (bagasse and straw), using the enzymatic route. These results revealed a more 
+environmentally correct alternative route for the production of CNCs, which could be explored in 
+order to add value to agroindustrial lignocellulosic biomass residues. 
+The yields and properties of CNCs varied according to the duration of hydrolysis reaction, 
+indicating that this variable can be modulated to obtain a nanomaterial with greater crystallineity 
+and more homogeneous size distribution. On the other hand, the thermal stability of the CNC 
+suffered small variations with the enzymatic hydrolysis time, presenting onset T values of 
+approximately 310 °C for the different samples. Therefore, the enzymatic hydrolysis conditions 
+used resulted in nanocellulose with high crystalline and thermal stability, important parameters for 
+the use of this material in various applications, including as reinforcement in nanocomposites.  
+Among the protocols for the production of CNC via enzymatic hydrolysis studied, the 
+production route that was shown to be the most promising was the 72-hour duration in fibers 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+36 
+ 
+treated with sugarcane straw. This protocol showed a higher balance of properties in relation to 
+aspect ratio, crystalline index and thermal stability. 
+Cnc-based nanocomposite membranes were produced, both enzymatic and commercial. 
+The solvent evaporation forming technique adopted was able to produce CNC-containing 
+membranes distributed throughout the material. However, due to the absence of loads in the 
+enzymatic CNC, in this material it was possible to observe the formation of nanoparticle 
+agglomerates. 
+Although the membranes with CNCs presented lower thermal stability when compared to 
+those observed for pure Nafion membranes, the nanocomposites produced presented sufficient 
+stability to be used in PEMEC, since the operating temperature of these equipments is less than 
+100 °C. 
+Through the DMTA technique it was possible to observe that both the conformation 
+process caused a reduction in the glass transition temperature, however the results of the 
+mechanical tests showed that the incorporation of CNCs in nafion generates an increase in the 
+modulus and maximum stress, but a lower deformation of the material.  
+The insertion of CNCs in the Nafion matrix conferred the membranes a significant increase 
+in humidification capacity when compared with the 100% Nafion membrane also obtained by 
+conformation. In addition, an increase in the conductivity of the cntonic with the insertion of cncs 
+was observed. 
+Despite the increase in conductivity, the performance of nanocomposite membranes when 
+tested in a PEMEC was slightly lower than the commercial membranes. One reason for this result 
+may be tied to the increased roughness of the surface of composite membranes. The lower 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+37 
+ 
+uniformity of the membrane surface may hinder the fixation of catalysts during the deposition 
+process, which causes a performance to fall.   
+ 
+ 
+ACKNOWLEDGMENTS 
+The authors would like to thank the Brazilian research funding agencies FAPESP (grant 
+#2016/10636-8), CNPq, SISNANO/MCTI, the Agronano Network, and the Brazilian Agricultural 
+Research Corporation (Embrapa). To the German Scholarship Co-funded Research Grants – Short-
+Term Grants, Process 91752074. To Coordenação de Aperfeiçoamento de Pessoal de Nível 
+Superior - Brasil (CAPES) for financial support to carry out this work with scholarship, process 
+no. 88882.332728/2019-01. This study was financed in part by the Coordenação de 
+Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001. 
+ 
+REFERENCES 
+(1) Siqueira, G.; Fraschini, C.; Bras, J.; Dufresne, A.; Prud'Homme, R.; Laborie, M. P. Impact of 
+the Nature and Shape of Cellulosic Nanoparticles on the Isothermal Crystallization Kinetics 
+of 
+Poly(-Caprolactone). 
+Eur. 
+Polym. 
+J. 
+J. 
+ 
+2011, 
+47 
+(12), 
+2216–2227. 
+https://doi.org/10.1016/j.eurpolymj.2011.09.014. 
+(2) Siqueira, G.; Abdillahi, H.; Bras, J.; Dufresne, A. High Reinforcing Capability Cellulose 
+Nanocrystals from Extracted Syngonanthus Nitens (Golden Grass). Cellulose 2010, 17 (2), 
+289–298. https://doi.org/10.1007/s10570-009-9384-z. 
+(3) Oliveira, F.B. de; Bras, J.; Pepper, M. T.B.; Curvelo, A.A. da S.; Belgacem, M. N. Production 
+of Cellulose Nanocrystals from Sugarcane Bagasse Fibers and Pith. Ind. Prod Crops.  2016, 
+93, 48–57. https://doi.org/10.1016/j.indcrop.2016.04.064. 
+(4) FAOSTAT. Top Production - Sugar Cane. Food And Agriculture Organization Of The United 
+Nations. http://www.fao.org/faostat/en/#home (accessed 2019-08-05). 
+(5) Camargo, L. A.; Pereira, S.C.; Correa, A.C.; Farinas, C.S.; Marconcini, J.M.; Mattoso, L. H.C. 
+Feasibility of Manufacturing Cellulose Nanocrystals from the Solid Residues of Second-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+38 
+ 
+Generation Ethanol Production from Sugarcane Bagasse. Bioenergy Res.  2016, 9 (3), 894–
+906. https://doi.org/10.1007/s12155-016-9744-0. 
+(6) Bondancia, T. J.; From Aguiar, J.; Batista, G.; Cruz, A.J.G.; Marconcini, J.M.; Mattoso, L. 
+H.C.; Farinas, C. S. Production of Nanocellulose Using Citric Acid in a Biorefinery 
+Concept: Effect of the Hydrolysis Reaction Time and Techno-Economic Analysis. Ind. 
+Chem. Res.  2020, 59 (25), 11505–11516. https://doi.org/10.1021/acs.iecr.0c01359. 
+(7) Bondancia, T. J.; Batista, G.; Aguiar, J. De; Lorevice, V.V.; Cruz, A.J.G.; Marconcini, J.M.; 
+Mattoso, L. H.C.; Farinas, C. S. Cellulose Nanocrystals from Sugar Cane Bagasse Using 
+Organic and/ or Inorganic Acids: Techno-Economic Analysis and Life Cycle Assessment. 
+2022. https://doi.org/10.1021/acssuschemeng.2c00061. 
+(8) Vanderfleet, O.M.; Cranston, E. D. Production Routes to Tailor The. Nat. Rev. Mater.  
+https://doi.org/10.1038/s41578-020-00239-y. 
+(9) Squinca, P.; Bilatto, S.; Badino, A.C.; Farinas, C. S. Nanocellulose Production in Future Biore 
+Fi 
+Neries: 
+An 
+Integrated 
+Approach 
+Using 
+Tailor-Made 
+Enzymes. 
+2020. 
+https://doi.org/10.1021/acssuschemeng.9b06790. 
+(10) Ximenes, E.; Resources, R.; Carlos, S. Biomass into High-Value Products : Outcomes from 
+a Long-Term. 2021, 563–573. https://doi.org/10.1002/bbb.2179. 
+(11) Menander, L.M. S.; Cantarella, H.; Franco, H.C. J.; Kölln, O. T.; Pepper, M. T.B.; Sanches, 
+G.M.; Rabelo, S.C.; Carvalho, J. L. N. Comprehensive Assessment of Sugarcane Straw: 
+Implications for Biomass and Bioenergy Production. Biofuels, Bioprod. Biorefining 2017, 
+11 (3), 488–504. https://doi.org/10.1002/bbb.1760. 
+(12) De Carvalho, D.M.; Colodette, J.L.; Perez, A.; García, J.C.; López, F.; Diaz, M. J. Ethanol-
+Soda Pulping of Sugarcane Bagasse and Straw. Mr. Cellul. Chem. Technol.  2014, 48 (3–
+4), 355–364. 
+(13) El Miri, N.; Abdelouahdi, K.; Barakat, A.; Zahouily, M.; Fihri, A.; Solhy, A.; El Achaby, M. 
+Bio-Nanocomposite Films Reinforced with Cellulose Nanocrystals: Rheology of Film-
+Forming Solutions, Transparency, Water Vapor Barrier and Tensile Properties of Films. 
+Carbohydr. Polym.  2015, 129, 156–167. https://doi.org/10.1016/j.carbpol.2015.04.051. 
+(14) El Achaby, M.; El Miri, N.; Aboulkas, A.; Zahouily, M.; Bilal, E.; Barakat, A.; Solhy, A. 
+Processing and Properties of Eco-Friendly Bio-Nanocomposite Films Filled with Cellulose 
+Nanocrystals from Sugarcane Bagasse. Int. J. Biol. Macromol.  2017, 96, 340–352. 
+https://doi.org/10.1016/j.ijbiomac.2016.12.040. 
+(15) Teixeira, E. de M.; Bondancia, T. J.; Theodore, K.B. R.; Corrêa, A.C.; Marconcini, J.M.; 
+Mattoso, L. H.C. Sugarcane Bagasse Whiskers: Extraction and Characterizations. Ind. Prod 
+Crops.  2011, 33 (1), 63–66. https://doi.org/10.1016/j.indcrop.2010.08.009. 
+(16) Leo, R.M.; Mileo, P.C.; Maia, J.M. L.L.; Luz, S.M. Environmental and Technical Feasibility 
+of Cellulose Nanocrystal Manufacturing from Sugarcane Bagasse. Carbohydr. Polym.  
+2017, 175, 518–529. https://doi.org/10.1016/j.carbpol.2017.07.087. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+39 
+ 
+(17) Mandal, A.; Chakrabarty, D. Studies on the Mechanical, Thermal, Morphological and Barrier 
+Properties of Nanocomposites Based on Poly(Vinyl Alcohol) and Nanocellulose from 
+Sugarcane 
+Bagasse. 
+J. 
+Chem. 
+ 
+2014, 
+20 
+(2), 
+462–473. 
+https://doi.org/10.1016/j.jiec.2013.05.003. 
+(18) Lam, N. T.; Chollakup, R.; Smitthipong, W.; Nimchua, T.; Sukyai, P. Utilizing Cellulose 
+from Sugarcane Bagasse Mixed with Poly(Vinyl Alcohol) for Tissue Engineering Scaffold 
+Fabrication. 
+Ind. 
+Prod 
+Crops. 
+ 
+2017, 
+100, 
+183–197. 
+https://doi.org/10.1016/j.indcrop.2017.02.031. 
+(19) Slavutsky, A.M.; Bertuzzi, M. A. Water Barrier Properties of Starch Films Reinforced with 
+Cellulose Nanocrystals Obtained from Sugarcane Bagasse. Carbohydr. Polym.  2014, 110, 
+53–61. https://doi.org/10.1016/j.carbpol.2014.03.049. 
+(20) Ghaderi, M.; Mousavi, M.; Yousefi, H.; Labbafi, M. All-Cellulose Nanocomposite Film Made 
+from Bagasse Cellulose Nanofibers for Food Packaging Application. Carbohydr. Polym.  
+2014, 104 (1), 59–65. https://doi.org/10.1016/j.carbpol.2014.01.013. 
+(21) Li, J.; Wang, Y.; Wei, X.; Wang, F.; Han, D.; Wang, Q.; Kong, L. Homogeneous Isolation of 
+Nanocelluloses by Controlling the Shearing Force and Pressure in Microenvironment. 
+Carbohydr. Polym.  2014, 113, 388–393. https://doi.org/10.1016/j.carbpol.2014.06.085. 
+(22) Teixeira, R. S. S.; Da Silva, A. S. A.; Jang, J.H.; Kim, H.W.; Ishikawa, K.; Endo, T.; Lee, 
+S.H.; Bon, E. P. S. Combining Biomass Wet Disk Milling and Endoglucanase/β-
+Glucosidase Hydrolysis for the Production of Cellulose Nanocrystals. Carbohydr. Polym.  
+2015, 128, 75–81. https://doi.org/10.1016/j.carbpol.2015.03.087. 
+(23) Campos, A. De; Carolina, A.; David, C.; Eliangela, C. ́ and Sugarcane Bagasse Obtaining 
+Nanofibers from Curaua Fibers Using Enzymatic Hydrolysis Followed by Sonication. 2013. 
+https://doi.org/10.1007/s10570-013-9909-3. 
+(24) Santucci, B. S.; Bras, J.; Belgacem, M. N.; Curvelo, A.A. da S.; Pepper, M. T.B. Evaluation 
+of the Effects of Chemical Composition and Refining Treatments on the Properties of 
+Nanofibrillated Cellulose Films from Sugarcane Bagasse. Ind. Prod Crops.  2016, 91, 238–
+248. https://doi.org/10.1016/j.indcrop.2016.07.017. 
+(25) Oksman, K.; Aitomäki, Y.; Mathew, A.P.; Siqueira, G.; Zhou, Q.; Butyline, S.; Tanpichai, S.; 
+Zhou, X.; Hooshmand, S. Review of the Recent Developments in Cellulose Nanocomposite 
+Processing. 
+Composed. 
+Part 
+A 
+Appl. 
+Sci. 
+Manuf. 
+ 
+2016, 
+83, 
+2–18. 
+https://doi.org/10.1016/j.compositesa.2015.10.041. 
+(26) Abdul Khalil, H. P. S.; Davoudpour, Y.; Islam, M. N.; Mustapha, A.; Sudesh, K.; Dungani, 
+R.; Jawaid, M. Production and Modification of Nanofibrillated Cellulose Using Various 
+Mechanical Processes: A Review. Carbohydr. Polym.  2014, 99, 649–665. 
+https://doi.org/10.1016/j.carbpol.2013.08.069. 
+(27) Bayer, T.; Cunning, B.V.; Selyanchyn, R.; Nishihara, M.; Fujikawa, S.; Sasaki, K.; Lyth, S.M. 
+High Temperature Proton Conduction in Nanocellulose Membranes: Paper Fuel Cells. 
+Chem. Mater.  2016, 28 (13), 4805–4814. https://doi.org/10.1021/acs.chemmater.6b01990. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+40 
+ 
+(28) Gadim, T.D.O.; Vilela, C.; Laurel, F. J. A.; Silvestre, A. J. D.; Freire, C. S. R.; Figueiredo, 
+F.M. L. Nafion® and Nanocellulose: A Partnership for Greener Polymer Electrolyte 
+Membranes. 
+Ind. 
+Prod 
+Crops. 
+ 
+2016, 
+93, 
+212–218. 
+https://doi.org/10.1016/j.indcrop.2016.01.028. 
+(29) Noonan, C.; Tajvidi, M.; Tayeb, A.H.; Shahinpoor, M.; Tabatabaie, S. E. Structure-Property 
+Relationships in Hybrid Cellulose Nanofibrils/Nafion-Based Ionic Polymer-Metal 
+Composites. Materials (Basel).  2019, 12 (8), 7–9. https://doi.org/10.3390/ma12081269. 
+(30) Jiang, G. P.; Zhang, J.; Qiao, J.L.; Jiang, Y.M.; Zarrin, H.; Chen, Z.; Hong, F. Bacterial 
+Nanocellulose/Nafion Composite Membranes for Low Temperature Polymer Electrolyte 
+Fuel 
+Cells. 
+J. 
+Power 
+Sources 
+2015, 
+273, 
+697–706. 
+https://doi.org/10.1016/j.jpowsour.2014.09.145. 
+(31) Hasani-Sadrabadi, M.M.; Dashtimoghadam, E.; Nasseri, R.; Karkhaneh, A.; Majedi, F.S.; 
+Mokarram, N.; Renaud, P.; Jacob, K. I. Cellulose Nanowhiskers to Regulate the 
+Microstructure of Perfluorosulfonate Ionomers for High-Performance Fuel Cells. J. Mater. 
+Chem. To 2014, 2 (29), 11334–11340. https://doi.org/10.1039/c4ta00635f. 
+(32) Larminie, J.; Dicks, A. Fuel Cell Systems Explained; Wiley: Chichester, 2003. 
+(33) Bagotsky, V.S. Fuel Cells: Problems and Solutions. , WILEY.; John Wiley & Sons: New 
+Jersey, 2012. https://doi.org/10.1002/9780470432204. 
+(34) Yee, R. S.L.; Rozendal, R. A.; Zhang, K.; Ladewig, B. P. Cost Effective Cation Exchange 
+Membranes: A Review. Chem. Eng. Res. Des.  2012, 90 (7), 950–959. 
+https://doi.org/10.1016/j.cherd.2011.10.015. 
+(35) University of Maine. Product specification. Available in: <https://umaine.edu/pdc/wp-
+content/uploads/sites/398/2016/03/Specs-CNC.pdf>. Accessed: 01, September, 2019. 
+(36) Dai, J.; Teng, X.; Song, Y.; Ren, J. Effect of Casting Solvent and Annealing Temperature on 
+Recast Nafion Membranes for Vanadium Redox Flow Battery. J. Memb. Sci.  2017, 522, 
+56–67. https://doi.org/10.1016/j.memsci.2016.09.014. 
+(37) Klemm, D.; Kramer, F.; Moritz, S.; Lindström, T.; Ankerfors, M.; Gray, D.; Dorris, A. 
+Nanocelluloses: A New Family of Nature-Based Materials. Angew. Chemie - Int. Ed.  2011, 
+50 (24), 5438–5466. https://doi.org/10.1002/anie.201001273. 
+(38) Camarero Espinosa, S.; Kuhnt, T.; Foster, E. J.; Weder, C. Isolation of Thermally Stable 
+Cellulose Nanocrystals by Phosphoric Acid Hydrolysis. Biomacromolecules 2013, 14 (4), 
+1223–1230. https://doi.org/10.1021/bm400219u. 
+(39) American Society for Testing and Materials (ASTM). D 882-18: Standard Test Method for 
+Tensile Properties of Thin Plastic Sheeting. 2018. 
+(40) Carmo, M.; Fritz, D.L.; Mergel, J.; Stolten, D. A Comprehensive Review on PEM Water 
+Electrolysis. 
+Int. 
+J. 
+Hydrogen 
+Energy 
+2013, 
+38 
+(12), 
+4901–4934. 
+https://doi.org/10.1016/j.ijhydene.2013.01.151. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+41 
+ 
+(41) Liang, Z.; Chen, W.; Liu, J.; Wang, S.; Zhou, Z.; Li, W.; Sun, G.; Xin, Q. FT-IR Study of the 
+Microstructure of Nafion® Membrane. J. Memb. Sci.  2004, 233 (1–2), 39–44. 
+https://doi.org/10.1016/j.memsci.2003.12.008. 
+(42) Xu, W.; Lu, T.; Liu, C.; Xing, W. Low Methanol Permeable Composite Nafion/Silica/PWA 
+Membranes for Low Temperature Direct Methanol Fuel Cells. Electrochim. Act 2005, 50 
+(16–17), 3280–3285. https://doi.org/10.1016/j.electacta.2004.12.014. 
+(43) Neto;, W. P. F.; Alves, H.; Oliveira, N.; Pasquini, D. Extraction and Characterization of 
+Cellulose Nanocrystals from Agro-Industrial Residue – Soy Hulls. Ind. Crop. Prod.  2013, 
+42, 480–488. https://doi.org/10.1016/j.indcrop.2012.06.041. 
+(44) New, L. P.; Bras, J.; García, A.; Belgacem, N.; Curvelo, A. A. S. Subcritical Water: A Method 
+for Green Production of Cellulose Nanocrystals. Acs sustain. Chem. Eng.  2015, 3 (11), 
+2839–2846. https://doi.org/10.1021/acssuschemeng.5b00762. 
+(45) Schroeder, L. R.; Gentile, V.M.; Atalla, R. H. Nondegradative Preparation of Amorphous 
+Cellulose. 
+J. 
+Chem 
+Wood. 
+Technol. 
+ 
+1986, 
+6 
+(1), 
+1–14. 
+https://doi.org/10.1080/02773818608085213. 
+(46) Garvey, C. J.; Parker, I.H.; Simon, G. P. On the Interpretation of X-Ray Diffraction Powder 
+Patterns in Terms of the Nanostructure of Cellulose I Fibres. 2005, 1568–1575. 
+https://doi.org/10.1002/macp.200500008. 
+(47) Rubatat, L.; Gebel, G.; Diat, O. Fibrillar Structure of Nafion: Matching Fourier and Real 
+Space Studies of Corresponding Films and Solutions. Macromolecules 2004, 37 (20), 7772–
+7783. https://doi.org/10.1021/ma049683j. 
+(48) Varanasi, S.; Henzel, L.; Mendoza, L.; Prathapan, R.; Batchelor, W.; Tabor, R.; Garnier, G. 
+Pickering Emulsions Electrostatically Stabilized by Cellulose Nanocrystals. Front. Chem.  
+2018, 6 (September), 1–9. https://doi.org/10.3389/fchem.2018.00409. 
+(49) Lin, M.; Singh Raghuwanshi, V.; Browne, C.; Simon, G.P.; Garnier, G. Modulating the Chiral 
+Nanoarchitecture of Cellulose Nanocrystals through Interaction with Salts and Polymer. J. 
+Colloid Sci Interface.  2022, 613, 207–217. https://doi.org/10.1016/j.jcis.2021.12.182. 
+(50) Matos, B. R.; Aucó, E.M.; Linardi, M.; Ferlauto, A.S.; Santiago, E. I.; Fonseca, F.C. Thermal 
+Properties of Nafion-TiO2 Composite Electrolytes for PEM Fuel Cell. J. therm. Anal. 
+Calorim.  2009, 97 (2), 591–594. https://doi.org/10.1007/s10973-009-0365-0. 
+(51) Erbas Kiziltas, E.; Kiziltas, A.; Bollin, S.C.; Gardner, D. J. Preparation and Characterization 
+of Transparent PMMA-Cellulose-Based Nanocomposites. Carbohydr. Polym.  2015, 127, 
+381–389. https://doi.org/10.1016/j.carbpol.2015.03.029. 
+(52) Dias, D. T.; Lopes, G.; Ferreira, T.; Oliveira, I. L.; Rosa, C. D. Thermo-Optical Properties of 
+Perfluorinated Sulfonic Acid Membranes : An Investigation of Hydration Based on 
+Absorption 
+Spectra. 
+2017, 
+71 
+(11), 
+2504–2511. 
+https://doi.org/10.1177/0003702817723649. 
+(53) Matos, B. R.; Isidore, R. A.; Santiago, E. I.; Tavares, A.C.; Ferlauto, A.S.; Muccillo, R.; 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+42 
+ 
+Fonseca, F.C. Nafion-Titanate Nanotubes Composites Prepared by in Situ Crystallization 
+and Casting for Direct Ethanol Fuel Cells. Int. J. Hydrogen Energy 2015, 40 (4), 1859–
+1867. https://doi.org/10.1016/j.ijhydene.2014.11.102. 
+(54) Cele, N.; Ray, S. S. Recent Progress on Nafion-Based Nanocomposite Membranes for Fuel 
+Cell 
+Applications. 
+Macromol. 
+Mater. 
+Eng. 
+ 
+2009, 
+294 
+(11), 
+719–738. 
+https://doi.org/10.1002/mame.200900143. 
+(55) Diloreto, E.; Haque, E.; Berman, A.; Moon, R. J. Freeze Dried Cellulose Nanocrystal 
+Reinforced Unsaturated Polyester Composites : Challenges and Potential. Cellulose 2019, 
+1. https://doi.org/10.1007/s10570-019-02377-1. 
+(56) Hosseinpour, M.; Sahoo, M.; Perez-Page, M.; Baylis, S.R.; Patel, F.; Holmes, S.M. Improving 
+the Performance of Direct Methanol Fuel Cells by Implementing Multilayer Membranes 
+Blended with Cellulose Nanocrystals. Int. J. Hydrogen Energy 2019, 44 (57), 30409–30419. 
+https://doi.org/10.1016/j.ijhydene.2019.09.194. 
+(57) Chemours. Product Information: Nafion N115, N117, N1110; 2016. 
+(58) Gebel, G. Structural Evolution of Water Swollen Perfluorosulfonated Ionomers from Dry 
+Membrane 
+to 
+Solution. 
+Polymer 
+(Guildf). 
+ 
+2000, 
+41 
+(15), 
+5829–5838. 
+https://doi.org/10.1016/S0032-3861(99)00770-3. 
+(59) Tayeb, A.H.; Amini, E.; Ghasemi, S.; Tajvidi, M. Cellulose Nanomaterials-Binding 
+Properties 
+and 
+Applications: 
+A 
+Review. 
+Molecules 
+2018, 
+23 
+(10), 
+1–24. 
+https://doi.org/10.3390/molecules23102684. 
+(60) Anderson, S. R.; Esposito, D.; Gillette, W.; Zhu, J.Y.; Baxa, U.; McNeil, S. E. Enzymatic 
+Preparation of Nanocrystalline and Microcrystalline Cellulose. J. Tappi.  2014, 13 (5), 35–
+42. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.4294
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

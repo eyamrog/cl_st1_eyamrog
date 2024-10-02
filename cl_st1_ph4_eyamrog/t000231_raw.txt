@@ -1,0 +1,219 @@
+  1/3
+Revista da Sociedade Brasileira de Medicina Tropical
+Journal of the Brazilian Society of Tropical Medicine
+Vol.:53:e20200231: 2020
+doi: 10.1590/0037-8682-0231-2020
+*Medical Microbiology and Immunology, Zagazig Faculty of Medicine, Zagazig, 
+Egypt. Chair of Viral Infection Working Group/ISAC. Board member of ISID.
+Corresponding author: Prof. Fatma Abdelaziz Amer.
+e-mail: egyamer@yahoo.com
+ 0000-0001-6684-0107
+Received 8 May 2020
+Accepted 11 May 2020
+Letter
+Individuals with covert severe acute respiratory syndrome 
+coronavirus 2 infection: Are they a critical booby-trap?
+Fatma Abdelaziz Amer[1]*
+[1]. Zagazig Faculty of Medicine, Department of Medical Microbiology and Immunology, Zagazig, Egypt.
+Dear Editor:
+I believe that in Egypt, the first phase of the coronavirus disease 
+(COVID-19) pandemic was characterized by symptomless (covert) 
+carriers. Covert carriers are individuals who test positive for the 
+virus on laboratory testing but are symptomless and can shed the 
+virus. Numerous researchers assume that there is an unobserved 
+pool of these carriers because in many cases, severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2) infections could not be 
+related to contact with persons with infection or to travel to epidemic 
+areas. Recent studies have revealed that some populations may have 
+up to 50% of covert carriers1. The sequence of events leading up to 
+the current full-blown epidemic may provide some explanation on 
+this aspect. On February 14, 2020, the first case of SARS-CoV-2 
+infection was confirmed in Egypt in a Chinese national2. He was 
+diagnosed on arrival in Cairo. His lengthy stay in a confined place 
+(the plane) provided a good opportunity for virus shedding (the time 
+required to travel from China to Cairo is nearly 15 hours). Considering 
+the additional time taken to arrive at the testing area, the person had 
+sufficient time for transmitting the virus to the surroundings. At that 
+time, SARS-CoV-2 testing of all contacts showed negative results. 
+On February 28, four foreigners who had travelled to Egypt 
+were reported to be infected: two French nationals, one Canadian 
+national, and one Taiwanese national3. At that time, not a single case 
+of SARS-CoV-2 infection had been recorded in Egypt, which raises 
+many inquiries. The next incident which added to the dilemma was 
+provided by the Egyptian Cruise Ship MS A’ Sara in late February 
+and early March. Nearly 18 Americans were reported to have 
+SARS-CoV-2 infection after their voyage to Luxor”? . Investigations 
+revealed that 12 of the crew members were positive for SARS-CoV-2 
+and that the index case involved a Taiwanese-American female 
+tourist4, who had traveled on the ship between late January and early 
+February. She apparently passed on the virus to the crewmembers. 
+None of the 12 crew members positive for SARS-CoV-2 showed 
+any symptoms. At that time, no cases of SARS-CoV-2 infection 
+had been officially reported by the Egyptian Health Authorities. 
+On March 6, three overt cases involving Egyptian nationals were 
+recorded. By March 9, 59 COVID-19 cases had been announced4. 
+This indicates that with the initiation of exposure on February 142, 
+nearly 1 month passed until the appearance of obvious cases; this 
+appears to be a long duration in a country of 100 million people. 
+Furthermore, all patients who tested positive for SARS-CoV-2 earlier3 
+had neither signs nor symptoms. A convincing explanation for this 
+epidemiological puzzle is that the SARS-CoV-2 caused covert/
+asymptomatic infection in patients over this period. As reported 
+by researchers from the United States of America1, asymptomatic 
+patients play a major role in the transmission of SARS-CoV-2.
+After March 6, overt and symptomatic cases have continued to 
+appear. Postulated sequences involved in the SARS-CoV-2 outbreak 
+over time among Egyptians are shown in Figure 1. By May 6, 
+a total of 7201 cases have been confirmed. A thorough analysis 
+of data carried out on a scientific basis and guided by the most 
+recent publications resulted in the following important preliminary 
+conclusions. In addition to research on the important role of covert 
+carriers in the initiation of the pandemic, more research is needed on 
+the type of patient–virus interactions encountered among Egyptians. 
+Theoretically, this interaction can be attributed to host and/or viral 
+factors. Host factors are related to angiotensin converting enzyme 2 
+(ACE2). ACE2 is known as the key human target for the attachment 
+of the viral spike (S) protein, which is followed by entry of  
+SARS-CoV-2 into cells with subsequent viral multiplication5. Since 
+the expression level and pattern of ACE2 vary6,7, various forms and 
+degrees of disease may be expected. 
+2/3
+Amer FA - Covert SARS-CoV-2 infection
+Virus
+Infection
+Human
+Covert case
+Patients factors
+1. ACE2 variation
+2. Role of TMPRSS2 and cathepsin
+Viral factors
+1. Selective pressure
+2. Mutation in NSP2 and NSP3
+3. Fourth mutant10,11
+Egypt
+Usually*
+Overt case
+Pass to another person
+Overt case
+Wild type
+resumed
+Same
+Darwinian selection
+forces OR
+Fourth mutant10,11
+Overt case
+Covert case
+FIGURE 1: Schematic representation of the postulated sequence involved in the severe acute respiratory syndrome coronavirus 
+2 infection outbreak over time among Egyptians. Host and/or viral factors may affect patient/virus interaction. Host factors include 
+ACE2 receptor, and other enzymes priming the entry process, e. g., TMPRSS2 and cathepsin. Viral factors include mutation or 
+other subtypes. When the virus infects others, it may remain covert. Overt infection usually results owing to potency restoration 
+(wild type) due to Darwinian selection force or the emergence of a fourth mutant. *Usually: most of the cases but not all.
+TMPRSS2: transmembrane protease, serine 2; NSP2: non-structural protein 2; 
+NSP3: non-structural protein 3.
+Viral factors that may be implicated in patient–virus interactions 
+include a possible change in viral characteristics due to selective 
+pressure, which may be either biotic or abiotic8. Another significant 
+factor is virus mutation9. Very recently, it has been assumed that there 
+are three distinct mutants of SARS-CoV-210, which raises the possibility 
+of other mutants in other geographic locations with differences in the 
+type of clinical infections and outcomes. Very recently, researchers 
+from England11 discovered at least 12 strains of coronavirus in the 
+United Kingdom (UK), one of which has only ever been found in the 
+UK; this indicates that this virus mutated on British soil. 
+The magnitude of asymptomatic individuals with SARS-
+CoV-2 infection or other infections represent a critical medical 
+problem. A recent article has shown an increase in the proportion 
+of asymptomatic carriers of severe acute respiratory syndrome 
+coronavirus (SARS-CoV) from 0% to 28.6%12. 
+Contrary to the generally acknowledged notion that early on in 
+the course of any outbreak, the detection of severe cases is followed 
+by that of less severe cases (paucisymptomatic or asymptomatic), 
+it appears that SARS-CoV-2 transmission started in Egypt with 
+asymptomatic carriers. Perhaps other outbreaks worldwide also 
+started in a similar manner; it is possible that people were not ill 
+enough to seek medical help or to undergo appropriate testing. 
+However, after the infection of more than 3 million people and 
+the continuous spread of COVID-19 worldwide, a new approach 
+is urgently needed that expands COVID-19 testing to include 
+asymptomatic persons in prioritized settings1.
+Further investigation is required to determine whether all of the 
+above assumptions are true or false and whether they are applicable 
+to various geographic locations and different ethnic groups. 
+Indeed, it is crucial to understand the natural history of coronavirus 
+outbreaks in different geographic locations so as to allow policy 
+makers to plan sound prevention strategies, adjust the length bias 
+for the effective implementation of surveillance programs, and to 
+predict prognosis and evaluate interventions. Moreover, intensive 
+research at a molecular level is required to characterize the subtypes 
+of SARS-CoV-2 prevalent in Egypt.
+ACKNOWLEDGMENTS 
+Thanks are due to Noha Hammad, Assistant Professor, Medical 
+Microbiology and Immunology, Zagazig Faculty of Medicine, for 
+help in choosing the title.
+  3/3
+AUTHOR’ CONTRIBUTION
+All the work was performed by Fatma Amer, the only author. 
+ CONFLICT OF INTEREST
+The author declares that there is no conflict of interest. 
+REFERENCES				
+1.
+Gandhi M, Yokoe DS,  Havlir DV. Asymptomatic transmission, the 
+Achilles’ heel of current strategies to control COVID-19. New Eng J 
+Med. May 7, 2020. Available from: https://www.nejm.org/doi/
+pdf/10.1056/NEJMe2009758?articleTools=true, accessed 5/7/2020.
+2.
+France 24. Egypt's health ministry announces first confirmed coronavirus 
+case. Available from: https://www.france24.com/en/20200214-egypt-s-
+health-ministry-announces-first-confirmed-coronavirus-case, accessed 
+4/24/2020.
+3.
+Enterprise 2020. Four new covid-19 cases linked to Egypt: [updated 
+1 
+March 
+2020]. 
+Available 
+from: 
+145 
+https://enterprise.press/
+stories/2020/03/01/four-new-covid-19-cases-linked-to 146 egypt-12734/, 
+accessed 4/20/2020.
+4.
+Walsh D, Nada R. "On Nile Cruiser, 12 Crew Test Positive for Virus, 
+and Egypt Fears Broader Outbreak". The New York Times. 7 March 
+2020. Available from: https://www.nytimes.com/2020/03/06/world/
+middleeast/egypt-nile-coronavirus.html. Accessed 4/24/2020, accessed 
+5/7/2020. 								
+5.
+Wan Y, Shang J, Graham R, Baric RS, Li F, Cao Y, et al. Receptor 
+recognition by the novel coronavirus from Wuhan: an analysis based 
+on decade-long structural studies of SARS coronavirus. J Virol. 
+2020:17;94(7):1-9. 
+6.
+Leung JN, Yang CH, Tam A, Shaipanich T, Hackett T, Singhera GK, et al. 
+ACE-2 Expression in the Small Airway Epithelia of Smokers and COPD 
+Patients: Implications for COVID-19. Eur Respir J. Jan 2020, 2000688.
+7.
+Cao Y, Li L, Feng Z, Wan S, Huang P, Sun X, et al. Comparative genetic 
+analysis of the novel coronavirus (2019-nCoV/SARS-CoV-2) receptor 
+ACE2 in different populations. Cell Discov. 2020;6(11):1-4.
+8.
+Selective Pressure - Research Article from World of Biology: BookRags; 
+March 25, 2020]. Available from: http://www.bookrags.com/research/
+selective pressure-wob/#gsc.tab=0, accessed 4/20/2020
+9.
+Angeletti S, Benvenuto D, Bianchi M, Giovanetti M, Pascarella 
+S, Ciccozzi M. COVID-2019: the role of the nsp2 and nsp3 in its 
+pathogenesis. J Med Virol. 2020.
+10. Peter F, Lucy F, Colin R, Colin Renfrew, Michael F. Phylogenetic 
+network analysis of SARS-CoV-2 genomes. PNAS. April 8, 2020. 
+Available from https://doi.org/10.1073/pnas.200499911712.
+11. Boyd C. At least 12 different strains of coronavirus were circulating 
+in the UK in March - including one that has only ever been found in 
+Britain, Government-funded study finds. MailOnline. 15:06 BST, 5 May 
+2020 | Updated: 17:51 BST, 5 May 2020.
+12. Grant R, Malik MR, Elkholy A, Van Kerkhove MD. A review of 
+asymptomatic and sub-clinical Middle East Respiratory Syndrome 
+Coronavirus Infections. Epidemiologic reviews. 2019. 
+OPEN ACCESS
+https://creativecommons.org/licenses/by/4.0/
+Rev Soc Bras Med Trop | on line | Vol.:53:e20200231, 2020

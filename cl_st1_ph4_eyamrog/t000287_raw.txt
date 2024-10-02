@@ -1,0 +1,262 @@
+Universal Screening of SARS-CoV-2 of Oncology Healthcare Work-
+ers — a Brazilian experience 
+Carla Ismael1; Pedro Ismael2; Catarina Marchon da Silva3; Mauro Sergio Vieira de Melo;1 Ber-
+nardino Alves Ferreira Neto1; Julio de Melo1; Renato Macario1; Vinicius Agibert1; Lívia Moura4; 
+Christian Domenge5. 
+Affiliations 
+1.
+Centro de Terapia Oncológica (CTO), Petrópolis, RJ — Brazil. 
+a.
+Carla Ismael: https://orcid.org/0000-0001-5460-4326 
+b.
+Mauro Sergio Vieira de Melo: https://orcid.org/0000-0003-0508-9895 
+c.
+Bernardino Alves Ferreira Neto: https://orcid.org/0000-0003-3463-0214 
+d.
+Julio de Melo: https://orcid.org/0000-0001-8894-584X 
+e.
+Renato Macario:  https://orcid.org/0000-0001-7532-8252 
+f.
+Vinicius Agibert: https://orcid.org/0000-0002-3823-5732 
+2.
+Residência Médica em Oncologia Clínica, Hospital Alemão Oswaldo Cruz, São 
+Paulo, SP — Brazil; 
+a.
+Pedro Ismael:  https://orcid.org/0000-0002-7012-7600 
+3.
+Faculdade de Medicina, Universidade Municipal de São Caetano do Sul, São 
+Caetano do Sul, SP — Brazil;  
+a.
+Catarina Marchon da Silva: https://orcid.org/0000-0001-9725-5015 
+4.
+Residência Médica em Oncologia Clínica, Instituto Nacional de Câncer, Rio de 
+Janeiro – Brazil 
+a.
+Lívia Moura:  https://orcid.org/0000-0002-5499-6742 
+5.
+Hospital 9 de Julho, Juiz de Fora, MG - Brazil 
+a.
+Christian Domenge: https://orcid.org/0000-0002-9597-4697 
+Corresponding 
+Christian Domenge: cdomenge@gmail.com, Rua Santos Dumont, 56 - Granbery,  ZIP 
+code 36010 - 510, Juiz de Fora/MG – Brazil. 
+Key-words: COVID-19; Mass testing; Asymptomatic health-care workers; Oncology; 
+Health-care workforce. 
+Disclosure statement: The authors declare that they have no conflict of interest and 
+that the costs of the elaboration of this study were borne by the clinic itself — Centro 
+de Terapia Oncológica, Petrópolis, RJ — Brazil. 
+Abstract 
+The first confirmed case of coronavirus disease 2019 (COVID-19) in Brazil and 
+Latin America was reported on February 26, 2020, in São Paulo. The outbreak 
+of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has 
+placed unprecedented strain on health-care services worldwide. Asymptomatic 
+health-care workers (HCW) are a potential source of SARS-CoV-2 transmission, 
+especially to immunocompromised Oncology patients. Screening of these 
+HCWs may help contain transmission and isolate only those who require it. 
+At Centro de Terapia Oncológica (CTO), an Oncology clinic in Petrópolis, RJ —
+Brazil, all HCWs were screened for SARS-CoV-2 in order to isolate those who 
+were asymptomatic/symptomatic and positive for the virus. They were all tested 
+through IgM/IgG rapid testing and those who had symptoms were also tested 
+with nasopharyngeal swabs for reverse transcription polymerase chain reaction 
+(RT-PCR) tests besides IgM/IgG reactivity. 
+Amongst the 60 tested employees, 4 were positive for SARS-CoV-2 and were 
+isolated. This method may be useful for health-care services to detect asymp-
+tomatic HCW and maintain workers’ and patients’ health, as transmission prob-
+ability could be reduced while avoiding becoming short-staffed during this time 
+of crisis. 
+Introduction 
+Testing, diagnosing and isolating is the key to controlling the spread of Severe 
+Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), and its clinical syn-
+dromic manifestations known as coronavirus disease (COVID-19), according to 
+the World Health Organization1. Asymptomatic health-care workers (HCWs) are 
+an underestimated potential source of infection and are worthy of testing2. 
+At present, Brazil has 85,380 (30/04/20) confirmed cases3 and 5,901 (30/04/20) 
+deaths3; sub notification and sub-testing due to social distancing and lack of 
+testing kits compromise the data, indicating that the published numbers do not 
+faithfully represent Brazil’s reality. In the meantime, Rio de Janeiro (RJ) state 
+registered 9,453 (30/04/20) diagnosed patients3 and 854 (30/04/20) deaths3.  
+Centro de Terapia Oncológica (CTO) is a Oncology clinic in Petrópolis, country-
+side of Rio de Janeiro, Brazil. Chemotherapy infusions are about 565 monthly 
+alone, not considering hormone therapy treatments. From January until the end 
+of March 2020, around 7,291 outpatients consultations were performed at this 
+oncology center. 
+While there are data suggesting that chemotherapy-treated patients with cancer 
+are at risk for severe complications of influenza4,5, it is unclear how this might 
+apply to COVID-19. A recent study has reported increased incidence and mor-
+bidity of COVID-19 in patients with cancer6, but those findings were directly 
+challenged by others7. Preliminary data by Zhang et al have shown a relatively 
+high mortality of 8 of 28 (29%) hospitalized patients with COVID-19 who were 
+previously diagnosed with cancer8.  
+Given that asymptomatic transmission has been well documented18-22, this dis-
+cussion aims to appoint the necessity of mass testing of both symptomatic and 
+asymptomatic HCWs, in order to avoid workforce necessary quarantine, reduce 
+spread in asymptomatic or mild cases and protect the health of HCWs and pa-
+tients. 
+Methodology 
+Between 09 and 29 April of 2020, 60 HCWs of CTO were tested for COVID-19; 
+this number represents the total number of employees at the clinic. All HCW 
+were tested through IgM/IgG rapid testing by near-patient lateral flow devices, 
+while nasopharyngeal swabs and real-time polymerase-chain-reaction (RT-
+PCR) for SARS-CoV-2 were added as a secondary investigational method 
+amongst symptomatic HCWs (e.g., fever, cough, shortness of breath, or sore 
+throat). 
+The test results produced two main outcomes: (1) Asymptomatic and/or symp-
+tomatic positive IgM results and/or positive RT-PCR were quarantined immedi-
+ately for 14 days; (2) HCW with negative serology and no symptoms were in-
+structed to maintain protective measures and personal protection equipment 
+(PPE); (3) HCW with indeterminate IgM results were re-tested after one week 
+accompanied by an infectious diseases physician’s guidance. 
+In total, all 60 employees were tested, 61 IgM/IgG tests were done (considering 
+the one HCW who had to be re-tested) and 1 nasopharyngeal swabs for re-
+verse transcription polymerase chain reaction (RT-PCR) testing, totalizing 62 
+tests. Flowchart 1 illustrates the testing outline. 
+Flowchart 1. Testing outline of CTO HCWs. All HCW were tested through IgM/IgG 
+serology, and symptomatic HCWs were tested with Nasopharynx swab and RT-
+PCR. 1 HCW with indeterminate results was re-tested after 1 (one) week.
+Results 
+A total of 4 HCW tested positive among 62 tests on 28 April 2020. They were all 
+immediately quarantined for 14 days and represent almost 7% of the service’s 
+total workforce (4 out of 60 HCWs). Out of the 4 positive cases, 2 were female, 
+with 60 years or more, and the remaining 2 were men aged between 30 and 42 
+years; 3 of these HCW were asymptomatic and only 1 had symptoms of the 
+disease. 
+Among the 3 asymptomatic HCWs, 2 had positive IgM and negative IgG results 
+and 1 had positive IgM and IgG results; 1 had to be re-tested after one week 
+due to an indeterminate result, testing positively for IgM and negatively for IgG. 
+The only confirmed symptomatic case was IgM and IgG negative and RT-PCR 
+positive.  
+No HCW had only IgG positive results. 
+Results are illustrated in Tables 1 and 2. 
+ 
+Conclusions 
+Its urgent and important to address the impact of testing HCW at any given ser-
+vice. In this case, detecting 3 asymptomatic and 1 symptomatic workers gave 
+the service the opportunity to correctly isolate those who could put themselves 
+and patients at risk, especially given the type of patients who frequent the CTO, 
+who are mostly immunosuppressed to some degree. 
+Furthermore, wide availability of testing for antibodies and the universal testing 
+of HCW would be a game changer as it: 1) reduces in-hospital transmission16; 
+2) reduces a potential source of asymptomatic ongoing transmission during a 
+IgM
+IgG
+Symptomatic
+RT-PCR Swab 
+Test
+Positive HCW 1
+-
+-
+Yes
++
+Positive HCW 2
++
++
+No
+NT
+Positive HCW 3
++
+-
+No
+NT
+Positive HCW 4
++
+-
+No
+NT
+IgM/IgG
+RT-PCR Swab Test
+Asymptomatic HCWs
+59
+0
+Symptomatic HCWs
+1
+1
+Tables 1 and 2. Results outline obtained ater CTO HCWs’ testing. All HCW were tested through IgM/IgG serology, 
+and symptomatic HCWs were tested with Nasopharynx swab and RT-PCR. 1 HCW with indeterminate results was 
+re-tested after 1 (one) week. NT = Not Tested.
+period of social distancing; 3) promotes the wellbeing of HCW ensuring that in-
+fected colleagues are promptly tested and isolated17; 5) enables the service to 
+isolate those who require it, avoiding being short-staffed due to self-isolation or 
+widespread contamination of the HCW.  
+Unfortunately, mass testing is still not a tangible reality for most healthcare ser-
+vices in Brazil, especially in the public health sector, mainly due to financial rea-
+sons.  
+Finally, it manifests itself as a wise decision for healthcare services, particularly 
+in the Oncology area, as it lessens disease transmission, reduces potencial 
+high costs due to patient profile while allowing almost usual service functioning.  
+As of April 30 2020, no CTO oncological patient was officially diagnosed with 
+COVID-19 and mass testing of its HCW may have contributed to diminish 
+asymptomatic SARS-CoV-2 transmission and maintain the service’s patients 
+health. 
+Bibliography 
+1. World Health Oragnization (WHO). Laboratory testing strategy recommenda-
+tions for COVID-19: Interim guidance. March 2020. https://apps.who.int/
+iris/bitstream/handle/10665/331509/WHO-COVID-19-lab_testing-2020.1-
+eng.pdf. 
+2. Black JRM, Bailey C, Przewrocka J, Dijkstra KK, Swanton C. COVID-19: the 
+case for health-care worker screening to prevent hospital transmission. 
+The Lancet. April 2020:S014067362030917X. doi:10.1016/
+S0140-6736(20)30917-X. 
+3. Ministry of Health of Brazil. Coronavirus Panel. April 2020. https://
+covid.saude.gov.br/. 
+4. Kunisaki KM, Janoff EN. Influenza in immunosuppressed populations: a re-
+view of infection frequency, morbidity, mortality, and vaccine responses. 
+The Lancet Infectious Diseases. 2009;9(8):493-504. doi:10.1016/S1473-
+3099(09)70175-6 
+5. Bitterman R, Eliakim-Raz N, Vinograd I, Zalmanovici Trestioreanu A, Leibovici 
+L, Paul M. Influenza vaccines in immunosuppressed adults with cancer. 
+Cochrane Gynaecological, Neuro-oncology and Orphan Cancer Group, 
+ed. Cochrane Database of Systematic Reviews. February 2018. doi:
+10.1002/14651858.CD008983.pub3 
+6. Liang W, Guan W, Chen R, et al. Cancer patients in SARS-CoV-2 infection: a 
+nationwide analysis in China. The Lancet Oncology. 2020;21(3):
+335-337. doi:10.1016/S1470-2045(20)30096-6 
+7. Wang H, Zhang L. Risk of COVID-19 for patients with cancer. The Lancet 
+Oncology. 2020;21(4):e181. doi:10.1016/S1470-2045(20)30149-2 
+8. Zhang L, Zhu F, Xie L, et al. Clinical characteristics of COVID-19-infected 
+cancer patients: a retrospective case study in three hospitals within 
+Wuhan, China. Annals of Oncology. March 2020:S0923753420363833. 
+doi:10.1016/j.annonc.2020.03.296. 
+9. European Centre for Disease Control. Novel coronavirus disease 2019 
+(COVID-19) pandemic: increased transmission in the EU/EEA and the 
+UK – sixth update. March 2020. https://www.ecdc.europa.eu/sites/de-
+fault/files/documents/RRA-sixth-update-Outbreak-of-novel-coronavirus-
+disease-2019-COVID-19.pdf. 
+10.Centers for Disease Control and Prevention. Evaluating and testing persons 
+for coronavirus disease 2019 (COVID-19). April 2020. https://www.cdc.-
+gov/coronavirus/2019-ncov/hcp/clinical-criteria.html. 
+11.The Economist. An antibody test for the novel coronavirus will soon be avail-
+able. The Economist. April 2020. https://www.economist.com/science-
+and-technology/2020/04/02/an-antibody-test-for-the-novel-coronavirus-
+will-soon-be-available. 
+12.Beeching NJ, Fletcher TE, Beadsworth MBJ. Covid-19: testing times. BMJ. 
+April 2020:m1403. doi:10.1136/bmj.m1403 
+13.van de Haar J, Hoes LR, Coles CE, et al. Caring for patients with cancer in 
+the COVID-19 era. Nat Med. April 2020. doi:10.1038/s41591-020-0874-8 
+14.Black JRM, Bailey C, Przewrocka J, Dijkstra KK, Swanton C. COVID-19: the 
+case for health-care worker screening to prevent hospital transmission. 
+The Lancet. April 2020:S014067362030917X. doi:10.1016/
+S0140-6736(20)30917-X 
+15.Centers for Disease Control and Prevention. Evaluating and testing persons 
+for coronavirus disease 2019 (COVID-19). April 2020. https://www.cdc.-
+gov/coronavirus/2019-ncov/hcp/clinical-criteria.html. 
+16.  Wang D, Hu B, Chang H, et al. Clinical characteristics of 138 hospitalized 
+patients with 2019 novel coronavirus-infected pneumonia in Wuhan, 
+China. JAMA 2020; 323: 1061–69 
+17.Shanafelt T, Ripp J, Trockel M. Understanding and addressing sources of 
+anxiety among health care professionals during the COVID-19 pandem-
+ic. JAMA 2020; published online April 7. DOI:10.1001/jama.2020.5893. 
+18.Bai Y, Yao L, Wei T, et al. Presumed asymptomatic carrier transmission of 
+COVID-19. JAMA 2020; 323: 1406–07.  
+19.Rothe C, Schunk M, Sothmann P, et al. Transmission of 2019-nCOV infec-
+tion from an asymptomatic contact in Germany. N Engl J Med 2020; 382: 
+970–71. 
+20.Tong Z-D, Tang A, Li K-F, et al. Potential presymptomatic transmission of 
+SARS-CoV-2, Zhejiang Province, China, 2020. Emerg Infect Dis 2020; 
+published online May 17. DOI:10.3201/eid2605.200198.  
+21.Ye F, Xu S, Rong Z, et al. Delivery of infection from asymptomatic carriers of 
+COVID-19 in a familial cluster. Int J Infect Dis 2020; published online 
+April 2. DOI:10.1016/j.ijid.2020.03.042 
+22.Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the asymptomatic 
+proportion of coronavirus disease 2019 (COVID-19) cases on board the 
+Diamond Princess cruise ship, Yokohama, Japan, 2020. Euro Surveill 
+2020; 25: pii=2000180

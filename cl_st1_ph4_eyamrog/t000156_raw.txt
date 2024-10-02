@@ -1,0 +1,675 @@
+Status: Preprint has not been submitted for publication
+Inappropriate requests for tumor markers in patients aged 50
+years and older: lessons not learned.
+Einstein Camargos, Valter Paz Nascimento-Júnior
+DOI: 10.1590/SciELOPreprints.1228
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees are described in the manuscript, when
+applicable.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server.
+The submitting author declares that all authors responsible for preparing the manuscript agree with this
+deposit.
+The authors declare that in the event that this manuscript has previously been submitted to a journal and
+being evaluated, they have received the journal's consent to make the deposit on the SciELO Preprints
+server.
+The submitting author declares that all authors' contributions are included on the manuscript.
+The authors declare that if the manuscript is posted on the SciELO Preprints server, it will be available
+under a Creative Commons CC-BY license.
+The deposited manuscript is in PDF format.
+If the manuscript is being reviewed and published by a journal, the authors declare that they have received
+authorization from the journal to make this deposit.
+Submitted on (YYYY-MM-DD): 2020-09-18
+Posted on (YYYY-MM-DD): 2020-09-24
+Powered by TCPDF (www.tcpdf.org)
+1 
+ 
+Inappropriate requests for tumor markers in patients aged 50 years 
+and older: lessons not learned. 
+Valter Paz Nascimento-Júnior, MsC1 ORCID: 0000-0003-4498-2811 
+Einstein Francisco Camargos, PhD1 ORCID: 0000-0003-1991-5529 
+ 
+ 
+1 Programa de Pós-Graduação em Ciências Médicas, Faculdade de Medicina, Universidade 
+de Brasília - UnB 
+ 
+Corresponding author: Dr. Einstein Francisco Camargos, Ph.D, M.D. Brasilia University 
+Hospital Universitário de Brasília (HUB) - Setor de Grandes Áreas Norte (SGAN), 605 Av. L2 norte - 
+Asa Norte - Brasilia, DF 70840-901 Brazil - 55 61 999798345 einsteinfc@gmail.com 
+ 
+CONFLICTS OF INTEREST 
+The authors do not have any financial or non-financial conflicts of interest. 
+ 
+Author Contribution 
+VPNJ and EFC contributed to: Study concepts, Study design, Data acquisition, Quality control of data 
+and algorithms, Data analysis and interpretation, Manuscript preparation, Manuscript editing and 
+Manuscript review. 
+ 
+Abstract: 
+Tumor marker (TM) requests are common in the clinical practice when screening for 
+neoplasms. Objectives: To investigate, within a private health insurance, the ordering 
+frequency and the costs related to inappropriate TM test orders. Methods: This study 
+analyzed data regarding TM requests within a private health insurance between 2010 
+and 2017. Patients included in this analysis were ≥ 50 years old, had available medical 
+records, and had at least 1 TM tested within the study period. Tests were considered 
+inappropriate when TMs were used in screening for neoplasms, ie, when there was no 
+previous diagnosis. We evaluated data regarding age, sex, the ordering physician’s 
+medical specialty, and test costs. Results: Between 2010 and 2017, 1112 TM tests 
+were performed and increased from 52 to 262 per year. Our sample consisted mostly 
+of women (69.5%) with a mean age of 59.4 (SD, 8.2) years. Most orders were 
+inappropriate (87.8%) and represented 79.4% of all expenses with TM tests. 
+2 
+ 
+Cardiology professionals were the medical specialty that requested the most TM tests 
+(23.9%), followed by internal medicine specialists (22.7%) and gynecologists (19.2%). 
+Conclusion: We observed a high percentage of inappropriate test orders in the study 
+period, resulting in elevated costs. Studies of this nature deserve the attention of health 
+care managers, and interventions should be performed in order to reduce the 
+inappropriate use of TM tests in clinical practice. 
+ 
+Resumo: 
+A solicitação de marcadores tumorais (MTs) para rastreio de neoplasias na prática 
+clínica tem sido comum. Objetivos: investigar no âmbito de um plano de saúde 
+privado a frequência de solicitação e os custos relacionados à solicitação inapropriada 
+de MTs. Métodos: utilizou-se a base de dados de um plano de saúde privado entre 
+os anos de 2010 a 2017. Foram incluídos na pesquisa, sujeitos com idade ≥ 50 anos, 
+que apresentavam prontuários médicos acessíveis e que havia realizado a dosagem 
+de algum MTs no período. Considerou-se como “exame inapropriado” quando o MT 
+foi utilizado como rastreio de neoplasia, ou seja, quando não havia o diagnóstico 
+prévio. Foram avaliados os dados referentes à idade, sexo, especialidade do médico 
+solicitante e informações sobre os custos desses exames. Resultados: Foram 
+realizados um total 1.112 testes no período, representando um aumento de 52 para 
+262 exames/ano. A amostra foi composta na maioria pelo sexo feminino (69,5%), com 
+média de idade de 59,4 ± 8,2 anos. A maioria das solicitações foram inapropriadas 
+(87,8%). Notou-se que a solicitação desses exames, impactaram cerca de 79,4% dos 
+gastos totais do plano de saúde com MTs. Os cardiologistas foram a especialidade 
+que mais solicitaram MTs em 23,9% das ocasiões, seguidos pelos especialistas em 
+clínica médica (22,7%) e ginecologistas (19,2%). Conclusão: Observamos um alto 
+percentual de pedidos de exames inadequados no período do estudo, resultando em 
+custos elevados. Estudos dessa natureza merecem a atenção dos gestores de saúde 
+e intervenções devem ser realizadas a fim de reduzir o uso inadequado de testes de 
+MT na prática clínica. 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Introduction 
+ 
+The technological advances of medicine in recent years are undeniable, 
+especially regarding new diagnostic tests and laboratory prognoses. However, along 
+with this development, new technologies have also brought substantial increases in 
+financial costs to health care services, thus burdening patients and governments, 
+particularly in countries with limited financial resources. The inappropriate use of new 
+health care technologies has grown in many countries, and despite attempts by several 
+publications and guidelines to standardize their use, impactful statistics are shown in 
+the literature regarding the excessive use of these technologies.1 Beyond financial 
+costs, other possible damages are associated with the inappropriate use of diagnostic 
+tests, especially the risk of excessive diagnostic test requests and unnecessary 
+treatments.2 The definition of inappropriate or unsuitable test is broad and can be 
+interpreted in many ways. According to Zhi et al. (2013), an inappropriate test is one 
+which is requested without a clear indication of a diagnostic hypothesis for a specific 
+case.3 Additionally, an adequate clinical indication for testing should also consider 
+sensitivity, specificity, and predictive value studies for the diseases it aims to diagnose; 
+these are generally established by guidelines published by governments, institutes, or 
+medical specialties such as the United States Preventive Services Task Force 
+(USPSTF). However, unlike pharmaceutical clinical studies, studies on the sensitivity 
+and specificity of diagnostic tests are not commonly found in the literature. 
+In this context, tumor markers (TMs) have been frequently used in clinical 
+practice as screening tests for people aged 50 years and older.4 TMs include various 
+substances such as cell surface antigens, cytoplasmic proteins, enzymes, hormones, 
+oncofetal antigens, receptors, and oncogenes and their products. According to Sharma 
+(2009), the 3 most important characteristics of an ideal TM are high specificity for a 
+certain type of tumor, reasonable lead-time over the clinical diagnosis, and high 
+sensitivity to avoid false-positive results.5,6 Unfortunately, these characteristics are 
+relatively hard to come by in clinical practice, which has led to a general 
+recommendation of not ordering TM tests in routine screening procedures in 
+asymptomatic patients.7-9 
+Considering that the financial costs of health care services have grown 
+significantly in recent years, optimizing expenses is important. Conversely, various 
+5 
+ 
+studies have indicated a high percentage of inadequate orders for TM tests. In Greece, 
+Ntaios et al. (2009) identified only 10% of correctly requested TM tests among 10921 
+tests, notably cancer antigen 125 (CA 125), alpha-fetoprotein (AFP), cancer antigen 
+19-9 (CA 19-9), cytokeratin 19 fragment (CYFRA 21-1), and neuron-specific enolase 
+(NSE).10 
+Studies evaluating the inadequate request of TM tests are scarce in Brazil. 
+This study investigated, within a private health insurance, the ordering frequency and 
+the costs related to inadequate orders of TM tests such as CA 125, carcinoembryonic 
+antigen (CEA), CA 19-9, cancer antigen 15-3 (CA 15-3), cancer antigen 72-4 (CA 72-
+4), and cancer antigen 27-29 (CA 27-29). 
+ 
+Methods 
+ 
+This retrospective study was performed within a non-profit, private 
+employer-sponsored health insurance. This health insurance is managed by a federal 
+public institution located in Brasília, Federal District, Brazil. Its financial resources are 
+mostly provided by the government, whereas a smaller fraction is funded by the users 
+(approximately 20%). This health insurance covers an annual average of 5979 users, 
+including current or retired employees and their dependents. 
+The study population consisted of all the individuals who performed 
+complementary blood tests through their health insurance plans between 2010 and 
+2017. Only active employees (and not those retired or dependents) aged 50 years and 
+older with accessible medical records were included. This age threshold was 
+established in order to select patients who commonly undergo screening tests. The 
+year 2012 was not analyzed due to data inconsistency, since there was a change in 
+the management software that could result in possible methodological bias. 
+The “inappropriate tests” variable was considered present when no previous 
+neoplasm diagnosis had been performed and at least one of the following TMs were 
+present on the medical records: CA 125, CEA, CA 15-3, CA 72-4, CA 19-9, and CA 
+27-29; these were grouped under the “TM” variable. The criteria for this classification 
+were established following recommendations by USPSTF11-13, The Royal Australian 
+College of General Practitioners (RACGP)14, and the American Society of Clinical 
+Oncology (ASCO)15. 
+6 
+ 
+Other variables analyzed in this study include age (completed years at the 
+time of testing), sex (male/female), the ordering physician’s medical specialty, and 
+information on costs (individual test costs and user co-participation) as informed by the 
+insurance manager. Values in reais (Brazilian currency, R$) were converted to US 
+dollars considering the exchange rate in February 2020 (US$ 1.00 = R$ 4.06). 
+It is reasonable to consider that all cancer diagnoses were recorded, since 
+any sick leave, notification, or even early retirement due to cancer are reported on the 
+patients’ medical records. The medical records were reviewed by the study’s 
+designated physician. 
+All statistical analyses used SPSS v. 25.0. Descriptive statistics were used 
+in measures of position (mean, median, and standard deviation), and the chi-square 
+test, Fisher’s exact test, and binary logistic regression were performed as appropriate. 
+The study was approved by the Research Ethics Committee of the Medical 
+School of the University of Brasília (CAAE 88696318.9.0000.5558). 
+ 
+ 
+ 
+7 
+ 
+Results 
+Between 2010 and 2017, 1112 TM tests were ordered, and yearly orders 
+increased from 52 to 262. Our sample consisted mostly of women (69.5%) with a mean 
+age of 59.4 (SD, 8.2) years. 
+The analysis of medical records showed that 12.2% (n = 136) of tests were 
+appropriately ordered (that is, were ordered after cancer diagnosis) and 87.8% (n = 
+976) were inappropriately ordered. 
+Of 136 orders considered appropriate, 80.9% were for female patients, with 
+a mean age of 60.4 (SD, 7.4) years. The odds of adequate test ordering were 
+associated with patient age (odds ratio [OR] = 1.08, 95% [confidence interval] CI: 1.03-
+1.13) and female patients (OR = 8.37, 95%CI: 4.08-17.17) (X2(2) = 43.965; p < 0.001, 
+Nagelkerke R2 = 0.273). 
+A progressive increase was observed in absolute and per capita numbers 
+of inappropriate test orders over the years, from 48 test orders in 2010 (mean of 8.7 
+orders per 1000 registered users) to 227 orders in 2017, corresponding to 34.9 orders 
+per 1000 registered users. 
+ 
+Figure 1 – Number of inappropriate tumor marker requests per 1000 health insurance 
+users between 2010 and 2017 and related costs. 
+ 
+ 
+The total costs of TM tests in the study period were US$ 156 452.60. Of 
+these, US$ 124 222.91 (79.4%) were spent on inappropriate orders, which increased 
+from US$ 3127.17 in 2010 to US$ 26 776.83 in 2017. The mean cost of inappropriate 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+ -
+ 5
+ 10
+ 15
+ 20
+ 25
+ 30
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Tests/1000 users
+Thousands of US$
+Cost
+ Test orders
+8 
+ 
+tests was US$ 16.81 (SD, US$ 15.58) for the patient and US$ 110.43 (SD, US$ 91.16) 
+for the government. Between 2010 and 2017, the mean cost of inappropriate test 
+orders was US$ 2.90 for every health insurance user (Table 1). 
+ 
+Table 1: Expenses (in US$) on appropriate and inappropriate test orders between 2010 
+and 2017. 
+Year 
+ 
+ 
+Appropriate orders 
+Inappropriate orders 
+No. 
+Insurance cost 
+Total cost 
+No. 
+Insurance cost 
+Total cost 
+2010 
+4 
+204.46 
+265.80 
+48 
+2406.32 
+3127.17 
+2011 
+4 
+204.46 
+255.59 
+29 
+908.81 
+1136.97 
+2013 
+17 
+5040.52 
+5762.00 
+125 
+22 597.68 
+25 746.49 
+2014 
+22 
+5635.15 
+6392.13 
+163 
+21 480.95 
+24 311.31 
+2015 
+29 
+5482.97 
+6180.53 
+185 
+17 008.55 
+19 425.57 
+2016 
+25 
+5078.47 
+5799.02 
+199 
+20 672.39 
+23 698.56 
+2017 
+35 
+6548.59 
+7574.61 
+227 
+22 706.55 
+26 776.83 
+ 
+136 
+28 194.62 
+32 229.69 
+976 
+107 781.25 
+124 222.91 
+ 
+Regarding the medical specialty of ordering physicians, most were 
+cardiologists (23.9%), internal medicine specialists (22.7%), obstetricians and 
+gynecologists (19.2%), and general practitioners (10.14%). Although clinical 
+oncologists were ranked seventh on this list, with only 5.6% of all orders, they 
+presented the most adequate test orders in comparison with other specialties, with a 
+statistically significant association. Data on test orders by medical specialty are shown 
+in Table 2. 
+ 
+Table 2: Association between medical specialties and appropriate TM test orders 
+Specialty1 
+No. of 
+tests 
+Appropriate 
+tests 
+Inappropriate 
+tests 
+p 
+value 
+n (%) 
+n (%) 
+Cardiology 
+266 
+19 (7.1) 
+247 (92.9) 
+0.000 
+Internal medicine 
+252 
+33 (13.1) 
+219 (86.9) 
+0.000 
+Obstetrics/gynecology 
+213 
+21 (9.9) 
+192 (90.1) 
+0.000 
+General practice 
+179 
+13 (7.3) 
+166 (92.7) 
+0.000 
+Urology 
+88 
+4 (4.5) 
+84 (95.5) 
+0.000 
+Endocrinology and 
+metabolism 
+68 
+5 (7.4) 
+63 (92.6) 
+0.000 
+Medical oncology 
+62 
+47 (75.8) 
+15 (24.2) 
+0.000 
+General surgery 
+51 
+9 (17.6) 
+42 (82.4) 
+0.000 
+9 
+ 
+Gastroenterology 
+30 
+0 
+30 (100) 
+- 
+Infectious disease 
+29 
+4 (13.8) 
+25 (86.2) 
+0.000 
+Breast surgery 
+29 
+8 (27.6) 
+21 (72.4) 
+0.016 
+Gastrointestinal 
+endoscopy 
+21 
+0 
+21 (100) 
+- 
+Geriatrics 
+18 
+2 (11.1) 
+16 (88.9) 
+0.001 
+Intensive care medicine 
+18 
+2 (11.1) 
+16 (88.9) 
+0.001 
+Dietetics 
+18 
+0 
+18 (100) 
+- 
+Nephrology 
+16 
+0 
+16 (100) 
+- 
+Occupational medicine 
+15 
+2 (13.3) 
+13 (86.7) 
+0.005 
+Pediatrics 
+14 
+5 (35.7) 
+9 (64.3) 
+0.285 
+Other specialties2 
+111 
+- 
+- 
+- 
+1 Medical specialty as informed by the respective professional boards: Regional Councils of Medicine of 
+Distrito Federal (CRM-DF), Goiás (CRM-GO), and São Paulo states (CREMESP) in 2018. 
+2 Medical specialties that individually accounted for ≤ 1%: orthopedics and traumatology, neurology, 
+proctology, homeopathy, sports medicine, allergy and immunology, acupuncture, dermatology, 
+hematology and hemotherapy, otolaryngology, oncology, vascular surgery, psychiatry, surgical 
+oncology, gastrointestinal surgery, nuclear medicine, neurosurgery, ophthalmology, pulmonology, 
+rheumatology, health care administration, hospital administration, hepatology, traffic medicine; 
+angiology and vascular surgery, anesthesiology, cardiovascular surgery, head and neck surgery, 
+pathology, peroral endoscopy. 
+ 
+Discussion 
+ 
+In this study, performed within a private health insurance, we observed a 
+significant and progressive increase in the number of inappropriate TM test orders 
+without the appropriate cancer diagnosis and in contrast with what is recommended by 
+scientific societies. We observed a substantially high rate of inappropriate requests 
+(85.2%), generating expenses that accounted for 79.4% of all expenses with TM tests. 
+Brazilian studies on this field are scarce. However, a high frequency of 
+inappropriate test requests was also observed in other countries. In Greece, 90% of 
+TM test orders were inappropriate.10 In Modena, Italy, a study reported that 62% of 
+patients admitted to an internal medicine unit were ordered at least one TM test.18 In 
+Padua, less than 40% of 23 059 TM test orders within a university hospital were 
+considered adequate.19 Another broad Italian study revealed an estimate of more than 
+one request for biomarker testing for every 5 people, which did not correspond to the 
+cancer prevalence in the country.20 In Turkey, inappropriate TM test orders were also 
+impressive: around 90% of 1858 patients were ordered TM tests in benign conditions.21 
+In Canada, studies showed that the rate of inappropriately ordered tests (not only TMs) 
+could reach 20%, leading to unnecessary costs of the order of millions of dollars.1,22  
+10 
+ 
+Regarding medical specialties, we observed that oncologists ordered a 
+larger number of appropriate TM tests compared with other specialists. To the best of 
+our knowledge, to date, no studies have investigated this relationship. Moss et al. 
+(2008), evaluating the knowledge of medical professionals regarding the sensitivity and 
+specificity of CA 125 for ovarian cancer, reported that 54% of general practitioners 
+believed that this marker should not be restricted to disease monitoring, but 40% of 
+these physicians were unable to identify the causes of false-positive results despite 
+believing they were fit to request this type of test.23 In addition, a study by the same 
+authors showed that general practitioners did not feel confident on how to manage 
+patients with a raised CA 125, even in the presence of a normal ultrasound scan, thus 
+referring these patients for secondary evaluations; this reflects an unfamiliarity of these 
+physicians with the interpretation of TM results.24 Considering our results, test orders 
+by oncologists may have had an enhanced sensitivity and consequent appropriateness 
+since these, even when indicated for screening, were based on other diagnostic clues. 
+Some studies have attempted to explain the reasons that lead physicians to 
+request inappropriate tests, and these reasons include technical unfamiliarity, pressure 
+by the patient and family members, financial gain, and fear of ethical and legal 
+complaints.25,26 One study involving 1768 primary care physicians in the United States 
+identified that one-third of them were unfamiliar and uncertain when requesting and 
+interpreting laboratory results for diagnoses in primary care.27 It is well known that 
+patients usually ask their doctors for tests and referrals to other specialties. Kravitz et 
+al. (2003) reported that 1 in every 5 patients made this type of request.28 Moreover, the 
+patient’s family influences half of all medical decisions.29 It seems that oncologists are 
+less influenced by patients when it comes to requesting procedures and tests. 
+Gogineni et al. (2015), studying the demands and requests of patients receiving 
+anticancer treatment, showed that the physician complied with less than 1% of these 
+demands or requests.30  
+In this context, some studies have proposed strategies and interventions to 
+reduce the number of inappropriately requested tests.25,26 Adopting clinical protocols 
+to guide the medical conduct in order to reduce unnecessary or redundant diagnostic 
+tests seems to generate savings of up to 57%.31 A study performed within a laboratory 
+of a university hospital in Croatia showed that standardizing minimum intervals for 
+performing tests could lead to a significant reduction (approximately 50%) in TM test 
+11 
+ 
+orders, and consequently to a reduction in overall costs.32 Similarly, Torre et al. (2015) 
+indicated that the number of adequately requested TMs increased from 31 to 78% once 
+their utilization protocol was standardized.33 Educational programs directed at primary 
+care physicians could lead to a reduction of up to 51% in performed tests (TMs or not), 
+saving approximately US$ 60 000 per year.34 In Northern Ireland, researchers showed 
+that 72% of TM tests were adequately requested, justifying these results by effective 
+audit methods combined with the publication of guidelines.35 Physicians believe that 
+evidence-based practice supported by the use of electronic medical records, structured 
+care programs, and continuous quality monitoring and by the identification of barriers 
+and facilitators of clinical practice guidelines are effective strategies to avoid the 
+unnecessary use of tests.36 
+Limitations of this study include its retrospective nature, the fact that only 
+one health insurance and not all its users were included in the sample, and the absence 
+of information from year 2012. Grouping all TMs (CA 125, CEA, CA 15-3, CA 72-4, CA 
+19-9, and CA 27-29) into one category precluded a more thorough analysis. 
+Nevertheless, the strengths of this study include its large sample size, the period 
+evaluated (7 years), and the quality of the medical records and performed tests, in 
+addition to the fact that this is the first Brazilian study on this topic. 
+ 
+Conclusion 
+ 
+In the present study, performed within a private health insurance over 7 
+years, we observed a high frequency (87.8%) of inappropriate TM test orders. 
+Oncologists were apparently the professionals with the best judgement for ordering 
+these tests. Considering the perspective of a substantial increase in health care costs 
+in the next years, especially in countries such as Brazil, initiatives that aim to reduce 
+the use of unnecessary technologies/tests are of utmost importance. It is possible that 
+audits, physician education programs, well-established protocols, and patient 
+education may contribute to the correct use of these tumor biomarkers. 
+ 
+Conflicts of interest 
+ 
+The authors do not have any financial or non-financial conflicts of interest. 
+12 
+ 
+ 
+REFERENCES 
+1. 
+Chami N, Simons JE, Sweetman A, Don-Wauchope AC. Rates of inappropriate laboratory test 
+utilization in Ontario. Clin Biochem. 2017;50(15):822-827. 
+2. 
+Camargos EF. The excessive growth of complementary tests in geriatric practice. Geriatr 
+Gerontol Aging. 2017;11(3). 
+3. 
+Zhi M, Ding EL, Theisen-Toupal J, Whelan J, Arnaout R. The landscape of inappropriate 
+laboratory testing: a 15-year meta-analysis. PLoS One. 2013;8(11):e78962. 
+4. 
+Zhang H, Song Y, Zhang X, Hu J, Yuan S, Ma J. Extent and cost of inappropriate use of tumour 
+markers in patients with pulmonary disease: a multicentre retrospective study in Shanghai, 
+China. BMJ Open. 2018;8(2):e019051. 
+5. 
+Sharma S. Tumor markers in clinical practice: General principles and guidelines. Indian J Med 
+Paediatr Oncol. 2009;30(1):1-8. 
+6. 
+Diamandis EP. Tumor markers : physiology, pathobiology, technology, and clinical 
+applications. Washington, DC: AACC Press; 2002. 
+7. 
+Duffy MJ. Serum tumor markers in breast cancer: are they of clinical value? Clin Chem. 
+2006;52(3):345-351. 
+8. 
+Zieliniska K, Karczmarek-Borowska B. [Usefulness of the chosen tumor markers at diagnostics 
+and monitoring the treatment]. Przegl Lek. 2013;70(11):986-990. 
+9. 
+Perkins GL, Slater ED, Sanders GK, Prichard JG. Serum tumor markers. Am Fam Physician. 
+2003;68(6):1075-1082. 
+10. 
+Ntaios G, Hatzitolios A, Chatzinikolaou A, et al. An audit of tumour marker utilization in 
+Greece. Eur J Intern Med. 2009;20(3):e66-69. 
+11. 
+Force UPST. Screening for Colorectal Cancer: US Preventive Services Task Force 
+Recommendation Statement. JAMA. 2016;315(23):2564-2575. 
+12. 
+Force UPST. Screening for Ovarian Cancer: US Preventive Services Task Force 
+Recommendation Statement. JAMA. 2018;319(6):588-594. 
+13. 
+Force UPST. Screening for Pancreatic Cancer: US Preventive Services Task Force 
+Reaffirmation Recommendation Statement. JAMA. 2019;322(5):438-444. 
+14. 
+Royal Australian College of General Practitioners. National P, Community Medicine C. 
+Guidelines for preventive activities in general practice. Aust Fam Physician. 2018;Spec 
+No:S1i-xvi, S1-1-61. 
+15. 
+Oncology ASoC. Five things physicians and patients should question. The Journal of the 
+Oklahoma State Medical Association. 2013;106(2):66. 
+16. 
+Merchán-Hamann E, Tauil PL, Costa MP. Terminologia das medidas e indicadores em 
+epidemiologia: subsídios para uma possível padronização da nomenclatura. Informe 
+Epidemiológico do Sus. 2000;9:276-284. 
+17. 
+Suplementar ANdS. Dados Gerais - Beneficiários de planos privados de saúde, por cobertura 
+assistencial (Brasil – 2009-2019). In: Beneficiários-SIB/ANS/MS SdId, ed. Brasília DF: 
+Ministério da Saúde; 2020. 
+18. 
+Arioli D, Pipino M, Boldrini E, et al. Tumour markers in internal medicine: a low-cost test or 
+an unnecessary expense? A retrospective study based on appropriateness. Intern Emerg 
+Med. 2007;2(2):88-94. 
+19. 
+Moreno-Campoy EE, Merida-De la Torre FJ, Martos-Crespo F, Plebani M. Identifying risk in 
+the use of tumor markers to improve patient safety. Clin Chem Lab Med. 2016;54(12):1947-
+1953. 
+20. 
+Gion M, Peloso L, Trevisiol C, Squarcina E, Zappa M, Fabricio AS. An epidemiology-based 
+model as a tool to monitor the outbreak of inappropriateness in tumor marker requests: a 
+national scale study. Clin Chem Lab Med. 2016;54(3):473-482. 
+13 
+ 
+21. 
+Cure MC, Cure E, Kirbas A, Yazici T, Yuce S. Requests for tumor marker tests in Turkey 
+without indications and frequency of elevation in benign conditions. Asian Pac J Cancer Prev. 
+2012;13(12):6485-6489. 
+22. 
+Morgen EK, Naugler C. Inappropriate repeats of six common tests in a Canadian city: a 
+population cohort study within a laboratory informatics framework. Am J Clin Pathol. 
+2015;144(5):704-712. 
+23. 
+Moss EL, Hollingworth J, Holland M, Murphy DJ, Fernando I, Reynolds TM. The use and 
+understanding of CA125 as a tumor marker for ovarian cancer: a questionnaire-based survey. 
+Int J Gynecol Cancer. 2008;18(3):439-445. 
+24. 
+Moss EL, Moran A, Reynolds TM, Stokes-Lampard H. Views of general practitioners on the 
+role of CA125 in primary care to diagnose ovarian cancer. BMC Womens Health. 2013;13:8. 
+25. 
+Freedman DB. Towards Better Test Utilization - Strategies to Improve Physician Ordering and 
+Their Impact on Patient Outcomes. EJIFCC. 2015;26(1):15-30. 
+26. 
+Brownlee S, Chalkidou K, Doust J, et al. Evidence for overuse of medical services around the 
+world. Lancet. 2017;390(10090):156-168. 
+27. 
+Hickner J, Thompson PJ, Wilkinson T, et al. Primary care physicians' challenges in ordering 
+clinical laboratory tests and interpreting results. J Am Board Fam Med. 2014;27(2):268-274. 
+28. 
+Kravitz RL, Bell RA, Azari R, Kelly-Reif S, Krupat E, Thom DH. Direct observation of requests for 
+clinical services in office practice: what do patients want and do they get it? Arch Intern Med. 
+2003;163(14):1673-1681. 
+29. 
+Hobbs GS, Landrum MB, Arora NK, et al. The role of families in decisions regarding cancer 
+treatments. Cancer. 2015;121(7):1079-1087. 
+30. 
+Gogineni K, Shuman KL, Chinn D, Gabler NB, Emanuel EJ. Patient Demands and Requests for 
+Cancer Tests and Treatments. JAMA Oncol. 2015;1(1):33-39. 
+31. 
+Kosimbei G, Hanson K, English M. Do clinical guidelines reduce clinician dependent costs? 
+Health Res Policy Syst. 2011;9:24. Accessed 2011/06//. 
+32. 
+Lapic I, Rogic D, Fucek M, Galovic R. Effectiveness of minimum retesting intervals in 
+managing repetitive laboratory testing: experience from a Croatian university hospital. 
+Biochem Med (Zagreb). 2019;29(3):030705. 
+33. 
+Torre LA, Bray F, Siegel RL, Ferlay J, Lortet-Tieulent J, Jemal A. Global cancer statistics, 2012. 
+CA Cancer J Clin. 2015;65(2):87-108. 
+34. 
+Elnenaei MO, Campbell SG, Thoni AJ, Lou A, Crocker BD, Nassar BA. An effective utilization 
+management strategy by dual approach of influencing physician ordering and gate keeping. 
+Clin Biochem. 2016;49(3):208-212. 
+35. 
+McDonnell M, Northern Ireland Regional Audit G. An audit of tumour marker requests in 
+Northern Ireland. Ann Clin Biochem. 2004;41(Pt 5):378-384. 
+36. 
+Baynouna Al Ketbi LM, Zein Al Deen S. The attitudes and beliefs of general practitioners 
+towards clinical practice guidelines: a qualitative study in Al Ain, United Arab Emirates. Asia 
+Pac Fam Med. 2018;17:5. 
+ 

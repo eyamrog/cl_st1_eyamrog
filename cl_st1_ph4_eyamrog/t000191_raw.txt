@@ -1,0 +1,549 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/pboci.2020.152
+Characterization of dental surgeons of Pernambuco in the
+COVID-19 pandemic context: preliminary data.
+Gabriela da Silveira Gaspar, Nilcema Figueiredo, Edson Hilan Gomes de  Lucena, Cindy Avani
+Silva Ceissler, Ronald Pereira Cavalcanti, Paulo Sávio Angeiras de  Goes
+https://doi.org/10.1590/SciELOPreprints.832
+Submitted on: 2020-06-22
+Posted on: 2020-06-23 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+Characterization of dental surgeons of Pernambuco in the COVID-19 pandemic 
+context: preliminary data. 
+Gabriela da Silveira Gaspar (author of correspondence)  
+(81) 9.9147-3749/gabrielasgaspar@gmail.com 
+Public Health Center, Academic Center of Vitória, Federal University of Pernambuco, 
+Vitória de Santo Antão, Pernambuco, Brazil. 
+ORCID: 0000-0001-8391-7524 
+Nilcema Figueiredo 
+(81)9.9975-1015/nilcema.figueiredo@ufpe.br 
+Academic Area of Social Medicine, Center of Medical Sciences, Federal University of 
+Pernambuco, Recife, Pernambuco, Brazil. 
+ORCID: 0000-0001-6181-8728 
+Edson Hilan Gomes de Lucena 
+(81) 9.9770-0510/ehglucena@gmail.com 
+Department of Clinical and Social Dentistry, Center of Health Sciences, Federal 
+University of Paraíba, João Pessoa, Paraíba, Brazil. 
+ORCID: 0000-0003-3431-115X 
+Cindy Avani Silva Ceissler 
+(81) 9.9875-4900/ cindyceissler@gmail.com 
+Federal University of Pernambuco, Oral health observatory, Recife, Pernambuco, 
+Brazil. 
+ORCID: 0000-0002-4077-9245 
+Ronald Pereira Cavalcanti 
+(81) 9.9949-1632/ronald.cavalcanti@ufpe.br 
+Public Health Center, Academic Center of Vitória, Federal University of Pernambuco, 
+Vitória de Santo Antão, Pernambuco, Brazil. 
+ORCID: 0000-0002-4088-0765 
+Paulo Sávio Angeiras de Goes 
+(81) 9.9173-5200/paulosaviogoes@gmail.com 
+Postgraduate Program in Child and Adolescent Health, Federal University of 
+Pernambuco, Recife, Pernambuco, Brazil. 
+ORCID: 0000-0002-6708-0450 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+Author’s contributions: 
+GSG contributed to the study design, data collection, analysis and interpretation and 
+writing of the manuscript, NF contributed to the data collection and analysis and writing 
+of the manuscript, EHGL contributed to the data collection and interpretation and 
+writing of the manuscript, CASC performed data analysis and interpretation and wrote 
+the manuscript, RPC collected and interpreted the data and wrote the manuscript, PSAG 
+contributed to the study design, data analysis and interpretation and to the critical 
+review of the manuscript. 
+ 
+ABSTRACT 
+This study aimed to present preliminary research results about the impact of COVID-19 
+on the professional practice of dentists in Pernambuco. This is a cross-sectional, 
+descriptive, and exploratory study, whose population was composed of dental surgeons 
+with active enrollment in the Regional Dentistry Council of Pernambuco. Data 
+collection was performed using an electronic form and included characterization of 
+professionals (gender, age, time since graduation, marital status, family income and 
+field of work) and health status (vaccination schedule, presence of comorbidities, 
+biosafety knowledge and testing for COVID-19). Preliminary data correspond to the 
+first week of collection, which were analyzed from the frequency, proportions, and 
+measures of central tendency distributions. Of the 363 dental surgeons, for the field of 
+work, 38.6% work in both the public and private sectors. Comorbidities related to the 
+worsening of COVID-19 were identified in 35.0% of participants, 24.5% are not up to 
+date with influenza and hepatitis vaccines, and 79.3% have not been tested for COVID-
+19. Regarding the biosafety instructions for COVID-19, 30.7% received no training. It 
+is necessary to immunize dental surgeons to prevent from immunilogical diseases and 
+expansion of the testing capacity for COVID-19, especially for professionals belonging 
+to the risk group. In addition to guaranteeing the offer of qualification courses on 
+biosafety, which is essential for the safe resumption of activities. 
+  
+Keywords: Oral Health; Dentistry; Dentists; Prevention and Control; COVID-19  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+INTRODUCTION 
+ 
+ 
+The first cases of SARS-CoV-2 infection (Severe Acute Respiratory Syndrome 
+Coronavirus 2), the causative agent of COVID-19 (Coronavirus Disease), appeared in 
+the city of Wuhan, Hubei province, China (Chen N et al, 2020 ). The disease spread 
+rapidly through Chinese territory and, subsequently, cases were identified in other 
+countries such as Japan, Thailand, and the Republic of Korea. With the significant 
+global expansion of cases, the World Health Organization (WHO) declared the disease 
+as a pandemic in March 2020 (WHO, 2020). 
+            The first case of COVID-19 in Brazil was registered on February 26, 2020. And, 
+a month later, community transmission was acknowledged throughout the territory. In 
+the context of a public health emergency of national importance, the Secretariat of 
+Health Surveillance of the Ministry of Health (SVS) adapted the Surveillance System 
+for Acute Respiratory Syndromes, aiming to guide the National Health Surveillance 
+System for simultaneous circulation of coronavirus, influenza and other respiratory 
+viruses (Brasil, 2020). 
+            According to the Epidemiological Bulletin number 18, of the Ministry of Health, 
+of June 15, 2020, in Brazil there were 888 thousand cases confirmed by COVID-19 and 
+43,959 deaths (Brasil, 2020). However, these data do not reflect the real prevalence of 
+COVID-19 in the population, since, in the country, the tests are almost exclusively 
+performed on people with symptoms, especially in the most severe cases, that is, it fails 
+to diagnose the great majority of those contaminated, who present mild symptoms, or 
+even, are asymptomatic (HALLAL et al., 2020). 
+ 
+The state of Pernambuco, according to the Epidemiological Bulletin of the State 
+Health Secretariat, 06/16/2020, registered 46,427 confirmed cases, of which 17,405 
+were serious and 29,022 were mild, placing it in second place in the Northeast Region, 
+with the highest number of deaths of the disease. So far, confirmed severe cases of the 
+disease are distributed in 168 (90.8%) municipalities in Pernambuco, in addition to the 
+Fernando de Noronha Archipelago (PERNAMBUCO, 2020). 
+ 
+Once the virus is present within oral tissue cells, this causes the aerosol 
+generated during dental procedures to be potentially contaminated. Thus, dental 
+practice, although indispensable for maintaining general health, has been considered to 
+be at high risk of contagion (PENG et al, 2020). The fear of contamination has led some 
+people to avoid attending the dental service, considered after the reopening of health 
+services, which tends to increase the number of emergencies or more complex 
+procedures. Another effect to be analyzed will consider possible needs for adaptations 
+in the dental office to reduce or eliminate the viruses present in aerosols and on the 
+surfaces of the service environment, and also, dentists need to adapt to this new routine, 
+preserving their health and that of the patient. 
+Due to the profound impacts of the pandemic on the provision of dental services, 
+investigating mechanisms to adapt this practice may contribute to guarantee the 
+provision of this essential service to society. As it is a topic of national and international 
+interest, the results obtained with this study intend to generate evidence about the risk 
+that dental activity presents during the pandemic period for professionals in the area. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+Thus, the objective is to quantify this risk with protective measures, identification of 
+dentists with comorbidities, testing for COVID-19 and through information received by 
+the professionals. 
+             
+MATERIAL AND METHODS 
+ 
+The present study has a quantitative, cross-sectional, descriptive, and 
+exploratory approach. For the communication, respondents were considered in the first 
+eigh  d     f  he     e   f       e  ʰ      ʰ, 2020. 
+The population consisted of all 9,793 dental surgeons in the state of Pernambuco 
+with active enrollment in Regional Dentistry Council of Pernambuco (CRO-PE). All 
+dental surgeons with active enrollment in the Regional Dentistry Council of 
+Pernambuco were included until the beginning of the research. Those who did not have 
+an e-mail, who showed any inconsistency in the e-mail or telephone number, who did 
+not have the Whatsapp messaging app, which did not make access to the form possible, 
+and professionals with unsigned or suspended registrations were excluded. 
+The instrument for data collection was developed and applied in an electronic 
+form, using Google® Forms. These were sent through the official email list of the CRO-
+PE, through the message transmission list of the Whatsapp messaging app, via text 
+messaging type messages and posted on the social media networks of that entity. This 
+protocol was established to minimize losses and enhance results in order to have a high 
+response rate and due to the need for social distancing, which would make it impossible 
+to collect data face-to-face. 
+The characterization of the investigated professionals considered the 
+socioeconomic profile: gender, age, time since graduation, marital status, family income 
+and field of work (public and/or private). To analyze the health situation, the variables: 
+updated vaccination schedule, knowledge about biosafety for COVID-19, testing for 
+COVID-19 and presence of comorbidities were analyzed. 
+The data were exported to the Excel program, version 2000 (Microsoft Corp, 
+United States), and subsequently analyzed from the distribution of frequencies, 
+percentages, mean and median. To guarantee the respondent's identity, the professional's 
+registration number provided by the CRO-PE and the one registered by the respondent 
+in the questionnaire were crossed. However, to guarantee the confidentiality of the 
+participant, all participants were identified by a number, thus guaranteeing 
+confidentiality, and making it impossible for the professional to be recognized. 
+The research followed all the precepts of the Resolution 466/12 of the National 
+Health Council, related to research in human beings, and was approved by the Research 
+Ethics Committee of the Academic Center of Vitória (CEP/CAV) of the Federal 
+University of Pernambuco, under CAAE n°. 32362120.3.0000.9430, and report n°. 
+4.068.546. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+RESULTS 
+One week after the start, the survey received responses from 363 dental 
+surgeons. 72.5% of these (n = 263) are female, 58.1% (n = 211) are married or in a 
+common-law marriage and 33.9% (n = 123) are single. As for family income, 66.1% (n 
+= 240) is equal to or greater than five minimum wages, 23.1% (n = 84) is 3 to 4 
+minimum wages and 10.7% (n = 39 ) corresponds to a maximum of 2 minimum wages. 
+On average, the participants have 14.6 years of graduation. Regarding postgraduate 
+education, 55.9% (n = 203) have specialization or residency as the highest degree and 
+22% (n = 80) do not have postgraduate degrees. 38.6% (n = 140) work professionally in 
+both public and private sectors. 
+Analyzing the health situation of these professionals, it was identified that 
+35.0% (n = 127) has some type of comorbidities related to the worsening of the 
+symptoms of COVID-19. Among the main ones, arterial hypertension (14.3%), 
+pulmonary disease, respiratory failure or asthma (9.6%), obesity (8.8%), and diabetes 
+(4.1%) stand out. Regarding the vaccination schedule, 24.5% are not up to date with one 
+of the influenza or hepatitis vaccines, 79.3% (n = 288) of the dentists were not tested for 
+COVID-19, among those who performed testing, 70.6% (n = 53) had negative results. 
+As for training for clinical care, 30.3% (n = 110) of the respondents said they had not 
+received any instruction through training or a course on biosafety for COVID-19 
+(table1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+Table 1 - Characterization of dental surgeons according to socioeconomic profile and 
+health situation, Pernambuco, 2020.  
+ 
+ 
+Variables 
+Frequency 
+Percentage 
+Socioeconomic 
+Profile 
+Gender 
+Female 
+263 
+72,5% 
+Male 
+100 
+27,5% 
+Marital status 
+Married/Common-law 
+marriage 
+211 
+50,1% 
+Divorced 
+25 
+6,9% 
+Single 
+124 
+34,1% 
+Widow 
+3 
+0,8% 
+Family Income (consider the 
+minimum wage in the amount of 
+R$ 1,045.00): 
+Less than 1 minimum wage 
+3 
+0,8% 
+1 to 2 minimum wages 
+36 
+9,9% 
+3 to 4 minimum wages 
+84 
+23,1% 
+Equal to or greater than 5 
+minimum wages 
+240 
+66,1% 
+Mean of graduation time (in years) 
+14,6 
+  
+Highest degree, in case of 
+postgraduate education 
+Doctorate 
+39 
+10,7% 
+Masters 
+41 
+11,3% 
+Specilization/residency 
+203 
+55,9% 
+No postgraduate degree 
+80 
+22,0% 
+Field of work you carry out 
+professional activities 
+Only in the private sector 
+123 
+33,9% 
+Only in the public sector 
+92 
+25,3% 
+In both (private and public 
+sectors) 
+140 
+38,6% 
+Does not practice clinical 
+dentistry 
+8 
+2,2% 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+Health situation Presence of comorbidity 
+Yes 
+127 
+35,0% 
+No, none 
+236 
+65,0% 
+Testing 
+Was tested for COVID-19 and 
+the result was negative 
+53 
+14,6% 
+Was tested for COVID-19 and 
+the result was positive 
+22 
+6,1% 
+Was not tested for COVID-19 
+288 
+79,3% 
+Updated vaccination schedule 
+No, for both 
+18 
+5,0% 
+Yes, for both (hepatitis and 
+influenza) 
+274 
+75,5% 
+Yes, only for influenza (2020 
+vaccine) 
+25 
+6,9% 
+Yes, only for hepatitis B 
+46 
+12,7% 
+Received instructions on 
+biosafety for COVID-19 
+Não 
+110 
+30,3% 
+Sim 
+253 
+69,7% 
+ 
+DISCUSSION 
+ 
+The present work is the first report that seeks to trace the impact of the COVID-
+19 pandemic on the oral health team on different aspects; including the establishment of 
+a situational picture of the health conditions of dentists, which are the financial and 
+emotional impact, and change in the work process. Their findings will help to reflect on 
+the necessary changes to be adopted by this professional group in the post-pandemic 
+period. 
+ The research findings point to a predominance of women in accordance with the 
+literature on the participation of this gender in Dentistry (MORITA; HADDAD; 
+ARAÚJO, 2010). Therefore, it is important to reflect on gender issues within the 
+discussions of the impact of COVID-19 and its economic and social effects for 
+Dentistry, considering the greater risk of women becoming infected because they are the 
+majority, but also the consequences of informal occupational bonds, greater economic 
+vulnerability, greater burden of responsibility for family care within the domestic 
+environment and little occupation in the representation spaces and leadership 
+(WENHAM; SMITH; MORGAN, 2020). 
+The National Oral Health Policy - Smiling Brazil (“B   il S   ide  e”) opened 
+jobs in the public service (CAYETANO et al., 2019) and thus brought dentis ’  
+aspiration for occupation in the public sector, aiming at financial stability, easing the 
+uncertainty of practicing in the private sector. Data from 2014 indicate that one third of 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+the country's dental surgeons work in the Unified Health System - SUS (CASCAES; 
+DOTTO; BOMFIM, 2018), however they also seek to work in the private sector 
+(CARDOSO; VIEIRA; MACHADO, 2010), corroborating the results of this study, in 
+which most respondents reported working in both sectors. Thus, discussions about the 
+transformations in the routine of dental work imposed by the pandemic must consider 
+this double relation in the economy fields, since it is the same professional practicing in 
+different workplaces. 
+Health professionals are immersed in a background where occupational risk is 
+part of their daily lives. These risks and, consequently, the fear of becoming ill and/or 
+its realization directly interfere in the performance of workers with repercussions on 
+their quality of life (NORONHA, 2013). A study carried out with dental surgeons in 
+India shows that only 10% are confident with the return of post-pandemic care. Among 
+the factors considered for those who reported being hesitant are their personal health 
+and financial issues (KINARIWALA et al., 2020). 
+Personal health is an important issue to be considered in the face of the risk of 
+contamination, since the findings of this research identified an important number of 
+professionals with chronic diseases that are risk factors for COVID-19. This health 
+condition can keep them away from work for fear of getting worse in case of 
+contamination. The literature reports the association between the presence of 
+comorbidities and the worsening of the outcomes of patients with the infection of the 
+new coronavirus, in addition to pointing out that the increase in the number of these 
+comorbidities increases the severity of the outcomes (YE et al., 2020). 
+It was observed that almost one third of the professionals did not receive any 
+instructions through training or a course on biosafety for COVID-19, which can result 
+in contamination. An alternative to fill this gap may be the use of virtual courses, being 
+a possible educational tool in periods of social isolation (QUIJANO-ESCATE et al., 
+2020). 
+To minimize occupational risk, the vaccination schedule needs to be updated, 
+since immunization promotes protection for professionals and users. In addition to 
+being safe and efficient, it is available in the Unified Health System (SUS). There is 
+evidence that points to the effectiveness of the influenza vaccine in reducing the 
+incidence of cases and absence from work among health workers (IMAI et al., 2018). 
+For hepatitis B, similar findings were identified in dental surgeons in the public health 
+system in São Paulo (GARBIN et al., 2019). 
+The small amount of testing that is being carried out in all regions of Brazil is 
+reflected in the preliminary results of this study, where less than a quarter of the 
+professionals took the test for COVID-19. The expansion of the testing capacity of the 
+population and health professionals is an imperative measure to generate the 
+information and indicators necessary to support the best strategies to develop 
+projections that can reflect the social and demographic diversity of the society, allowing 
+a safe return to normal and minimizing the possibility of subsequent epidemic outbreaks 
+(BARRETO et al., 2020). 
+This study has the limitation of presenting preliminary data, however, it is 
+possible to reflect on the health situation of dental surgeons in Pernambuco in the face 
+of the greatest public health crisis of this century. It is noteworthy that data collection 
+will continue to be carried out and with a larger number of the sample, analytical 
+measures can be evaluated and inferences about the financial and emotional impact, and 
+change in the work process, in addition to enabling the expansion of the analysis to 
+other categories of oral health professionals, such as oral health assistants and 
+technicians.  
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+ 
+ 
+CONCLUSION 
+The performance of the dental surgeon is essential for people's health and should 
+be based on safe clinical practice for the oral health team and users of health services. 
+The new coronavirus has brought about new demands for dentistry, both immediately 
+and long term, and for its solution, partnerships between professionals, professional 
+entities, government and universities are necessary to propose, implement and monitor 
+actions that subsidize them.  
+The research of the impact of COVID-19 in the professional practice of dental 
+surgeons presents, as preliminary results, the need for immunization of these 
+professionals for immunological diseases, the expansion of the testing capacity for 
+COVID-19 to improve the accuracy of the actions to control the disease, including 
+special attention to professionals belonging to the risk group. Another verified demand 
+was qualification on biosafety, which is fundamental for the safe resumption of 
+activities. These results are expected to be used for the planning and reorganization of 
+health services in the public and private sectors. 
+ 
+ 
+ACKNOWLEDGEMENTS 
+We thank the support of the Regional Council of Dentistry and the Pernambuco 
+Health Secretariat through the State Coordination of Oral Health.  
+ 
+CONFLICT OF INTERESTS 
+All authors have declared that there is no conflict of interest related to the 
+manuscript. 
+REFERENCES 
+Aquilante AG, Aciole GG. Oral health care after the National Policy on Oral Health - 
+"Smiling Brazil": a case study. Ciên Saúde Coletiva 2015 Jan;20(1):239-48. 
+https://doi.org/10.1590/1413-81232014201.21192013  
+Barreto ML, Barros AJD, Carvalho MS, Codeço CT, Hallal PRC, Medronho RA et al. 
+O que é urgente e necessário para subsidiar as políticas de enfrentamento da pandemia 
+de COVID-19 no Brasil? Rev. bras. epidemiol. 2020 Apr;23:e200032. 
+https://doi.org/10.1590/1980-549720200032  
+Brasil. Ministério da Saúde. Secretaria de Vigilância à Saúde. Painel de casos de doença 
+pelo coronavírus 2019 (COVID-19) no Brasil. 2020.  https://covid.saude.gov.br/.  
+Cardoso AL, Vieira ALS, Machado MH. Mercado de Trabalho dos Odontólogos no 
+Brasil. Divulg Saúde Debate. 2010 May;45(5):71-9. 
+Cascaes AM, Dotto L, Bomfim RA. Trends in the dental surgeon workforce in Brazil 
+2007-2014: a time series study using data from the National Registry of Health 
+Services. Epidemiol. Serv. Saúde [Internet]. 2018 [cited 2020 June 17]; 
+27(1):e201723615. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2237-
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+96222018000100313&lng=en. Epub Mar 05, 2018. https://doi.org/10.5123/s1679-
+49742018000100015  
+Cayetano MH, Carrer FC, Gabriel M, Martins FC, Pucca Jr. GA, Araujo MA. Política 
+Nacional de Saúde Bucal Brasileira (Brasil Sorridente): Um resgate da história, 
+aprendizados e futuro. Univ Odontol. 2019 ene-jun; 38(80). 
+https://doi.org/10.11144/Javeriana.uo38-80.pnsb 
+Chen, N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, 
+Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 
+2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 395, 
+507–513 (2020). 
+Garbin CAS, Vanzo KLT, Moimaz SAS, Garbin AJI, Chiba FY. Vaccination coverage 
+and immunity against hepatitis B in public health dentists. Rev. Soc. Bras. Med. Trop. 
+2019;52:e20180534. https://doi.org/10.1590/0037-8682-0534-2018  
+Garbin CAS, Wakayama B, Saliba TA, Saliba Junior OA, Garbin AJI. A cross-sectional 
+stud     de   l    ge   ’ i    e         g i    hep  i i  B  i    i   he P blic He l h 
+System. Rev. Inst. Med. trop. São Paulo. 2020;62:e18. https://doi.org/10.1590/s1678-
+9946202062018  
+Hallal PC, Horta BL, Barros AJD, Dellagostin OA, Hartwig FP, Silveira MF et al. 
+Evolução da prevalência de infecção por COVID-19 no Rio Grande do Sul: inquéritos 
+sorológicos seriados. Ciência e Saúde Coletiva. 2020 Abr;65. 
+https://preprints.scielo.org/index.php/scielo/preprint/view/41>. 
+Imai C, Toizumi M, Hall L, Lambert S, Halton K, Merollini K. A systematic review and 
+meta-analysis of the direct epidemiological and economic effects of seasonal influenza 
+vaccination on healthcare workers. PLoS One. 2018 Jun 7;13(6):e0198685. 
+doi:10.1371/journal.pone.0198685  
+Kinariwala N, Perera Samaranayake L, Perera I, Patel Z. Concerns and Fears of Indian 
+Dentists on Professional Practice During the Coronavirus Disease-2019 (COVID-19) 
+Pandemic [published online ahead of print, 2020 Jun 7]. Oral Dis. 
+2020;10.1111/odi.13459. doi:10.1111/odi.13459 
+Morita MC, Haddad AE, Araújo ME. Perfil atual e tendências do cirurgião-dentista 
+brasileiro. 1st ed. Maringá: Dental Press International; 2010. 
+Noronha MSM. Riscos ocupacionais e patologias em cirurgiões-dentistas de centro de 
+especialidades odontológicas. RFO UPF [online]. 2013; 18(3):316-320.  
+Peng X, Xu X, Li Y, Chend L, Zhou X, Ren B. Transmission routes of 2019-nCoV and 
+controls in dental practice. Int J Oral Sci. 2020 Mar; 12(1):9.  
+Pernambuco. Secretaria de Saúde de Pernambuco. Secretaria Executiva de Vigilância à 
+Saúde. Centro de Informações Estratégicas de Vigilância em Saúde de Pernambuco. 
+Informe Epidemiológico nº 107/2020. https://www.cievspe.com/novo-coronavirus-
+2019-ncov 
+Quijano-Escate R, Rebatta-Acuña A, Garayar-Peceros H, Gutierrez-Flores KE, 
+Bendezu-Quispe G. Aprendizaje en tiempos de aislamiento social: cursos masivos 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+abiertos en línea sobre la COVID-19. Rev Peru Med Exp Salud Publica. 2020; 
+37(2):375-7. doi: https://doi.org/10.17843/rpmesp.2020.372.5478  
+Wenham C, Smith J, Morgan R. COVID-19: the gendered impacts of the outbreak. The 
+Lancet. 2020 Mar; 395(10227):846-848. https://doi.org/10.1016/S0140-6736(20)30526-
+2  
+World Health Organization, Coronavirus disease (COVID-19) pandemic [Internet]. 
+Novel coronavirus(2019-nCoV) Situation Report - 52. 2020. 
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200312-
+sitrep-52-covid-19.pdf?sfvrsn=e2bfc9c0_4 
+Ye C, Zhang S, Zhang X, Cai H, Gu J, Lian J et al. Impact of comorbidities on patients 
+with COVID‐ 19: A large retrospective study in Zhejiang, China. J Med Virol. 2020 
+Jun Accepted Author Manuscript. doi:10.1002/jmv.26183. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.832
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

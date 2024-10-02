@@ -1,0 +1,797 @@
+Critical Review
+Public Health
+Luciano José PEREIRA(a)
+
+Cassio Vicente PEREIRA(b)
+
+Ramiro Mendonça MURATA(c)
+
+Vanessa PARDI(c)
+
+Stela Márcia PEREIRA-DOURADO(a)
+	
+(a)	Universidade Federal de Lavras – UFLA, 
+Departamento de Ciências da Saúde, 
+Lavras, MG, Brazil.
+	
+(b)	Centro Universitário de Lavras – Unilavras, 
+Faculdade de Odontologia, Lavras, 
+MG, Brazil.
+	
+(c)	East Carolina University – ECU, School of 
+Dental Medicine, Greenville, SC, USA.
+Biological and social aspects of 
+Coronavirus Disease 2019 (COVID-19) 
+related to oral health
+Abstract: The expansion of coronavirus disease 2019 (COVID-19) 
+throughout the world has alarmed all health professionals. Especially 
+in dentistry, there is a growing concern due to it’s high virulence 
+and routes of transmission through saliva aerosols. The virus keeps 
+viable on air for at least 3 hours and on plastic and stainless-steel 
+surfaces up to 72 hours. In this sense, dental offices, both in the public 
+and private sectors, are high-risk settings of cross infection among 
+patients, dentists and health professionals in the clinical environment 
+(including hospital’s intensive dental care facilities). This manuscript 
+aims to compile current available evidence on prevention strategies for 
+dental professionals. Besides, we briefly describe promising treatment 
+strategies recognized until this moment. The purpose is to clarify 
+dental practitioners about the virus history and microbiology, besides 
+guiding on how to proceed during emergency consultations based on 
+international documents. Dentists should consider that a substantial 
+number of individuals (including children) who do not show any signs 
+and symptoms of COVID-19 may be infected and can disseminate the 
+virus. Currently, there is no effective treatment and fast diagnosis is still 
+a challenge. All elective dental treatments and non-essential procedures 
+should be postponed, keeping only urgent and emergency visits to the 
+dental office. The use of teledentistry (phone calls, text messages) is a 
+very promising tool to keep contact with the patient without being at 
+risk of infection. 
+Keywords: Coronavirus; Public Health; Practice Management, Dental; 
+Infections; Dentistry.
+Introduction
+Coronavirus is a family of viruses that causes respiratory infections 
+including the new coronavirus (SARS-CoV-2) discovered in December 2019 
+in China. Coronaviruses represent enveloped, positive stranded RNA virus 
+that contains four genera: Alpha-, Beta-, Gamma-, and Deltacoronavirus.1 Six 
+different coronavirus have been identified in humans: HCoV-OC43, -229E, 
+HCoV-NL63, HKU1, the Middle East respiratory syndrome (MERS)-CoV 
+and (SARS)-CoV.2 Although the latter virus became widely discussed 
+recently, the first human coronaviruses were isolated for the first time in 
+1937.3 The denomination coronavirus was due to its microscopic aspect 
+Declaration of Interests: The authors 
+certify that they have no commercial or 
+associative interest that represents a conflict 
+of interest in connection with the manuscript.
+Corresponding Author:
+Luciano José Pereira
+E-mail: lucianopereiraufla@gmail.com
+https://doi.org/10.1590/1807-3107bor-2020.vol34.0041
+Submitted: April 7, 2020
+Accepted for publication: April 13, 2020
+Last revision: April 14, 2020
+1
+Braz. Oral Res. 2020;34:e041
+Biological and social aspects of Coronavirus Disease 2019 (COVID-19) related to oral health
+resembling crown-like spikes on its surface and 
+the main host receptor for humans seems to be the 
+angiotensin-converting enzyme 2 (ACE2).4 
+This recent COVID-19 turned into a global 
+public health outbreak.5,6 It is transmitted after 
+contact with infected surfaces and with infected 
+patient’s fluids, including saliva and aerosol.6,7 These 
+characteristics place the dental offices as main risk 
+settings of cross infection among patients, dentists 
+and health professionals in the clinical environment, 
+including hospital’s dental intensive care facilities.8 
+Dental practitioners are exposed to close contact to 
+patients, to saliva aerosol, blood and handle sharp 
+contaminated instruments.9 
+After the World Health Organization (WHO) 
+pandemic declaration, institutions like the General 
+Coordination of Oral Health from the Brazilian Health 
+Ministry published a Technical Note with the main 
+clarifications regarding dental practice considering 
+the Coronavirus pandemic.10 Centers for Disease 
+Control and Prevention (CDC) and American Dental 
+Association (ADA) are recommending dentists to 
+postpone elective procedures and concentrating on 
+emergency or urgent dental care in order to reduce 
+COVID-19 infection,11,12 similar to what several cities 
+in China have done.13
+As health professionals, it is extremely relevant 
+that dentists be aware of the biological and social 
+characteristics involved in COVID-19 pandemic, 
+contributing to the clarification of the population and 
+adopting finest clinical measures to avoid unnecessary 
+risks to contain the perioperative transmission.8 Based 
+on the current available evidence related to oral health 
+care, the aim of the present critical appraisal is to 
+compile prevention strategies for dental professionals 
+and clarify dental practitioners about the virus history, 
+pathogenesis, current pharmacological clinical trials, 
+and measures to minimize economic and health 
+consequences to the oral health system.
+Microbiological aspects
+This new health problem emerged from a public 
+market in which animals are kept and traded alive in 
+Wuham – China. It became the focus of global attention 
+after the spread of an unknown cause epidemic 
+pneumonia. At first, these cases of pneumonia 
+were monitored and tested in the laboratory for 
+coronavirus and possible influenza infections. On 
+January 7, 2020, Chinese authorities announced that 
+a new type of Coronavirus was isolated: the new 
+Coronavirus, nCoV.14
+This new viral agent, which until that moment 
+has not been identified in humans before, was called 
+SARS-CoV-2 and is able to cause respiratory infectious 
+disease that is called COVID-19. Previous occurrence 
+of coronavirus such as the Severe Acute Respiratory 
+Syndrome (SARS) (SARS-CoV) and Middle East 
+Respiratory Syndrome (MERS) (MERS-CoV) left 774 
+and 850 dead, respectively, reflecting the severity 
+of the threat and the urgency to control this new 
+outbreak as soon as possible.15
+The genomic sequence of the new viral 
+Coronavirus was immediately defined by public 
+health support and online community resources 
+“virological.org” on January 10th (Wuhan-Hu-1, 
+GenBank accession number MN908947)16 followed 
+by four other deposited genomes on January 12th in 
+the database of viral genomic sequences maintained 
+by the Global Initiative on Sharing All Influenza 
+Data (GISAID).17 The clinical signs and symptoms 
+in the beginning suggested the presence of a virus 
+closely related to SARS outbreak in 2002/2003. This 
+species also comprised a large number of viruses 
+detected in rhinolophid bats in Asia and Europe. 
+17 After sequencing, the SARS-CoV-2 genome was 
+found to be 96.2% identical to the Bat RaTG13 coV, 
+while sharing 79.5% identity with the SARS-CoV. In 
+this way, the similarity between the genomes of the 
+viruses shows that the bat is the natural host of the 
+virus and SARSCoV-2 may have been transmitted to 
+humans, in an unknown way, through intermediate 
+hosts. Several studies suggest that the bat is the 
+potential reservoir of SARS-CoV-2. However, there 
+is evidence that the origin of SARS-CoV-2 was the 
+seafood market in Wuhan, China.18 Coronaviruses 
+(CoV) α- and β-CoV are capable of infecting mammals, 
+while γ- and δ-CoV tend to infect birds. Although 
+the six CoVs identified as human-susceptible viruses, 
+presented low pathogenicity, causing mild respiratory 
+symptoms similar to a common cold; SARS-CoV and 
+MERS-CoV may lead to severe and potentially fatal 
+respiratory tract infections.18,19
+2
+Braz. Oral Res. 2020;34:e041
+Pereira LJ, Pereira CV, Murata RM, Pardi V, Pereira-Dourado SM
+Viruses are complex pathogens with a high capacity 
+to infect multiple host species, causing a variety 
+of diseases with numerous symptoms. CoVs are 
+pleomorphic RNA-viruses (subgenus sarbecovirus, 
+subfamily Orthocoronavirinae) characterized by high 
+speed of gene recombination due to constant errors 
+in their RNA polymerase-dependent replication 
+process (RdRP).18,20 The main steps involved in the 
+replication cycle of SARS-CoV-2 are: recognition 
+and binding to the host cell via membrane fusion 
+or endocytosis mechanism. After the invasion, the 
+viral genome is released; then occurs translation of 
+the viral polymerase protein; RNA replication; sub-
+genomic transcription; translation of viral structural 
+proteins; viral structural proteins combination with 
+the nucleocapsid; formation of mature virions and 
+finally the release of mature virions by exocytosis. At 
+the end of the cycle, newly mature virions are released 
+and may infect new targets and the cycle repeats 
+itself continuously.15 During their replication cycle, 
+two-thirds of the viral RNA encode 16 non-structural 
+proteins (NSPs). The other one-third of the virus 
+genome encodes four essential structural proteins, 
+including: spike glycoprotein (S), small envelope 
+protein (E), matrix protein (M) and nucleocapsid 
+protein (N), and also other accessory proteins.18,21
+Host factors can also influence susceptibility to 
+infection and disease progression. Research shows 
+that SARS-CoV-2 use angiotensin-converting enzyme 
+2 (ACE2). The S-glycoprotein located on the surface of 
+the coronavirus can bind to the ACE2 receptor on the 
+surface of human cells. After binding to the host cell 
+membrane, the RNA of the viral genome is released 
+into the cytoplasm and translates two polyproteins, 
+pp1a and pp1ab that encode non-structural proteins 
+and form the replication and transcription complex 
+(RTC) and the replication cycle continues as stated 
+above 18. Host antiviral defense plays an important 
+role in the course of SARS-CoV-2 infection. As the 
+first line of defense against viruses, type I interferon 
+(IFN) plays a critical role in initiating host antiviral 
+responses. Following virus infection, the host innate 
+immune system is activated by the recognition of 
+viral-specific components such as ssRNA, dsRNA or 
+glycoproteins.22 The Toll-like and RIG-I-like receptors 
+are the most common host pattern recognition 
+receptors (PRRs) that respond to RNA viruses.23 The 
+domains then initiate an antiviral signaling cascade 
+by leading the phosphorylation and activation of 
+IRF3 and NF-κB, leading to the production of type I 
+IFN. IFN-β secretion induces IFN-stimulated genes, 
+which will induce the expression of host antiviral 
+effector factors.24 
+Viruses have developed the capacity to escape 
+host immune detection and to suppress the host 
+IFN system.25 Viruses encode viral proteins 
+that interfere with PRRs signaling pathways to 
+increase an early benefit against host defense. For 
+example, the SARS-CoV N proteins inhibit RIG-I 
+ubiquitination and thus suppress the release of type 
+I IFN,26 SARS-CoV M proteins prevents the TRAF3/
+TBK1 complex formation and inhibits TBK1/IKKε-
+dependent activation of IRF3/IRF7 transcription 
+factors.27 Lastly, the repressive modifications that 
+are induced by the nonstructural SARS-CoV nsp1 
+protein blocks host mRNA translation28 and mediates 
+host mRNA degradation.29
+Human-to-human transmission of SARS-CoV-2 
+occurs primarily between family members, including 
+relatives and friends who have more intimate contact 
+with infected or asymptomatic patients or carriers. 
+As an emerging acute respiratory infectious disease, 
+COVID-19 spreads mainly through the respiratory tract 
+pathways through droplets, respiratory secretions and 
+direct contact even at a low infectious dose. Likewise, 
+the presence of SARS-CoV-2 in swabs from fecal and 
+blood samples has been identified, indicating the 
+possibility of multiple routes of infection.18
+Based on the current epidemiological investigation, 
+the incubation period is from 1 to 14 days, mainly from 
+3 to 7 days, being contagious in its latency period. It 
+is highly transmissible in humans, especially in the 
+elderly and people with underlying diseases. Patients 
+with COVID-19 have symptoms such as fever, malaise 
+and cough. Most adults or children infected with 
+SARS-CoV-2 have mild flu-like symptoms. However, 
+a few patients also progress to a critical condition and 
+rapidly develop acute respiratory distress syndrome, 
+respiratory failure, multiple organ failure and even 
+die.18,30 There are still many gaps in knowledge about 
+the epidemiology and clinical overview of COVID-19, 
+including the exact incubation period, the possibility 
+3
+Braz. Oral Res. 2020;34:e041
+Biological and social aspects of Coronavirus Disease 2019 (COVID-19) related to oral health
+of transmission from asymptomatic carriers and the 
+rate of transmissibility. However, human-human 
+transmission has been rapidly proven and remains 
+responsible for the continued spread of the disease. 
+Reliable laboratory diagnosis is among the 
+priorities to facilitate public health interventions. In 
+acute respiratory infections, RT-PCR is routinely used 
+to detect viruses caused by respiratory secretions. 
+During international health emergencies, the viability 
+of real-time detection of the virus by real-time 
+RT-PCR has been demonstrated through coordination 
+between public laboratories and universities. 17
+SARS-CoV-2 Drug Therapy
+Drugs tested effective for SARS-CoV and/or MERS 
+have been included in the WHO mega clinical trial – 
+SOLIDARITY.31 For its study, WHO chose a nucleotide 
+analogue Remdesivir; the malaria medication 
+chloroquine (and its analog hydroxychloroquine); 
+a combination of the anti-HIV drugs lopinavir and 
+ritonavir; and that combination plus interferon-b. 
+Remdesivir is an antiviral prodrug of 
+remdesivirtriphosphate with in vitro activity against 
+coronaviruses.32,33 Remdesivir-TP acts as an inhibitor of 
+RNA-dependent RNA polymerases and competes with 
+adenosine-TP for incorporation into emerging viral 
+RNA chains.34 Hydroxyhloroquine and chloroquine 
+have in vitro activity against SARS-CoV-2 32,35–37 
+and the mechanism of action includes inhibition 
+of viral enzymes (RNA polymerase), viral protein 
+glycosylation, virus assembly, new virus particle 
+transport, and virus release. Other mechanisms 
+may also involve ACE2 receptor inhibition, decrease 
+acidity in endosomes, and immunomodulation of 
+cytokine release.5,32,36 
+The third arm of SOLIDARITY combines two 
+HIV protease inhibitor drugs, lopinavir-ritonavir. 
+The combination shown in vitro and in vivo potential 
+activity for SARS-CoV and MERS-CoV 38,39 and the 
+mechanism of action involves the inhibition of Mpro, 
+an essential enzyme for coronavirus replication 40. 
+Recent report published in The New England Journal of 
+Medicine41 was not encouraging and the combination 
+of lopinavir-ritonavir did not differ significantly from 
+“standard care” group. 
+The fourth arm of SOLIDARITY combines 
+lopinavir-ritonavir with interferon-b. The activation 
+of innate antiviral response by interferon should 
+have beneficial effects at least in the initial stage of 
+infection. However, cautions should still be observed 
+and the possibility that interferon might exacerbate 
+inflammation during the late phase of SARS-CoV-2 
+infection cannot be excluded.42
+Lastly, clinical trials are being conducted to 
+evaluate the use of SARS-CoV-2 convalescent plasma 
+from persons who have recovered from COVID-19 
+that potentially contain antibodies to treat patients 
+with life-threatening viral infections.43 A group led 
+by Lei Liu44 gave convalescent plasma (total dose: 
+400 mL with a SARS-CoV-2-specific antibody-IgG 
+titer greater than 1:1,000) to five critically ill patients 
+and the symptoms diminished in all of them within 
+ten days. Even though these cases reported by Shen 
+et al 44 are compelling, this investigation has some 
+limitations. The intervention was not evaluated 
+in a randomized clinical trial, and the outcomes 
+in the treatment group were not compared with 
+outcomes in a control group - patients who did not 
+receive the intervention. Moreover, patients received 
+numerous other therapies (antiviral and steroids), 
+and the convalescent plasma was administered up 
+to 21 days, and it is not clear whether this timing is 
+optimal or if earlier administration potentially have 
+been associated with different outcomes. Despite 
+these limitations, the study does provide important 
+evidence to support the possibility of evaluating this 
+therapy in more rigorous studies.
+Dental practice in the Covid-19 
+scenario
+Risk scenario
+Dentists are among the professionals with the 
+greatest exposure to COVID-19. The oral cavity and the 
+work environment represent a high potential source 
+for transmissibility and susceptibility to this and other 
+etiological agents.7,45,46 The context of undocumented 
+infections is significant, which facilitates the rapid 
+spread of SARS-CoV-2. A substantial number of 
+individuals do not show any signs and symptoms 
+or have mild symptoms. These individuals serve 
+4
+Braz. Oral Res. 2020;34:e041
+Pereira LJ, Pereira CV, Murata RM, Pardi V, Pereira-Dourado SM
+as the primary source for the majority of reported 
+cases and, therefore, for health teams that can 
+become multipliers.47,48
+The rapid identification of COVID-19 cases is crucial 
+for the containment of the pandemic. However, it is 
+still challenging due to the lack of pathognomonic 
+symptoms, coupled with the limited capacity to 
+perform specialized polymerase chain reaction 
+(PCR) tests49 - which also have limitations. The need 
+to develop fast accurate molecular diagnostics is 
+mandatory to identify a large number of infected 
+patients and asymptomatic carriers, in order to 
+prevent the transmission of the virus and ensure 
+proper conduct.50,51 Rapid tests can facilitate elective 
+care in the future since the risk of contamination by 
+SARS-CoV-2 would be ruled out. However, the dentist 
+can never neglect the existence of other diseases 
+transmitted by saliva and aerosol, such as hepatitis 
+B, measles and tuberculosis.52,53,54
+Dentists should receive and make great efforts 
+regarding preventive care and testing, as they can 
+seriously affect the flattening of the epidemic curve, 
+avoiding the collapse of the health system. Several 
+modeling studies and scenario comparisons - both 
+related to the current pandemic situation and those 
+already experienced especially in China and Italy 
+- have shown that combined interventions must 
+be implemented, both for the population and for 
+health professionals. General measures for all health 
+professionals including dentists comprise daily 
+monitoring of the temperature and testing the health 
+care provider team; use of N95 masks; distance from 
+the workplace (when possible) with the implementation 
+of network communication technologies with patients; 
+social distance; mobility restriction measures; avoid 
+crowd places; diagnostic tests and isolation of infected 
+individuals as well as their families.55–60 Especially for 
+dentists it is necessary to follow guidance protocols 
+and new tools/technologies for dental practice aimed 
+at safeguarding oral health professionals, as well as 
+the population under their care.59,61
+Dental treatment during the Covid-19 
+Pandemic 
+Due to the nature of the dental treatment, several 
+procedures, as the use of high-speed handpiece 
+or ultrasonic scalers generates aerosol (very small 
+particles or droplets) that can be inhaled, absorbed 
+by the skin or set in nearby surfaces.62 According 
+to the last Scientific Brief published by the World 
+Health Organization,63 the transmission of the 
+SARS-CoV-2 can occur by respiratory droplets from 
+direct contact with an infected person (distance 
+less than 1m), indirect contact with contaminated 
+surfaces or objects and by aerosol produced during 
+procedures performed on infected patients. Based 
+on that, dental and health organizations have issued 
+recommendations to postpone all elective dental 
+treatments and non-essential procedures and limit 
+services only to urgent and emergency visits.10,11,12 
+Dental health care personnel (DHCP) should be aware 
+of the mechanisms of transmission, the expanded 
+infection control procedures, be able to identify 
+patients with signs / symptoms of COVID-19 and 
+have a clear understanding of what characterizes 
+a dental emergency, urgent dental care and non-
+emergency dental treatment. 
+During the COVID-19 pandemic, DCHP should use 
+telecommunication or teledentistry prior the dental 
+treatment to evaluate the needs of the patient and 
+to minimize the risk of infection, asking if patient 
+has fever, cough or shortness of breath (ADA)64 and 
+have traveled national or internationally (CDC).65,66 
+When possible, dentist should offer advice, prescribe 
+medication for analgesia and/or antimicrobial (when 
+appropriate) and postpone the visit of the patient to 
+the office, but keep direct contact with the patient 
+by phone or text message.67 If patient presents a 
+dental emergency (potentially life threatening), as 
+an uncontrolled bleeding, or an urgent dental need 
+that requires relieve of severe pain and/or risk of 
+infection,68 and present sign/symptom of respiratory 
+infection, this patient should not be seen in a dental 
+office and should be referred for an emergency care 
+facility where Transmission-Based Precautions (N95 
+masks, Airborne Infection Isolation Room for example) 
+are available (ADA).64 
+In the United Kingdom, the National Health 
+Service (NHS) is working with dental practices 
+and community dental services to establish Local 
+Dental Urgent Care System in every region. These 
+dental offices will accommodate visits of all types of 
+5
+Braz. Oral Res. 2020;34:e041
+Biological and social aspects of Coronavirus Disease 2019 (COVID-19) related to oral health
+patients, including those with suspected or confirmed 
+COVID-19, patients that are shielded, vulnerable or 
+patients without any of those specific conditions. In 
+those places dental public health practitioners will be 
+available and will have access to the FFP3 respirator 
+to perform the treatment.67
+In most countries, cases of dental emergency or 
+urgent dental care on patients without any signs and 
+symptoms of COVID-19 can be treated at the dental 
+office. However, since there is a large number of 
+asymptomatic cases of Covid-19,47 the dentist should 
+take extra precautions when seeing the patient 
+and not assume he/she is COVID-19 free. Besides 
+the asymptomatic patients, dental practitioners 
+should be aware that children represent a significant 
+transmission risk to the virus since they present 
+milder symptoms than adults.69 It is important to 
+maintain patient isolation (have only one patient in 
+the waiting room), adhere to the infection control 
+protocol: standard procedure of putting on and 
+removing all Personal Protective Equipment (PPE), 
+including gown, goggles, N95 mask with face full 
+shield and gloves.64 Before every treatment, patient 
+should use a mouth rinse with 1% or 1.5% hydrogen 
+peroxide or 0.2% povidone 9,64 and should wear goggles 
+and bib during the whole procedure. To minimize 
+the aerosol production, dentists should use hand 
+instrumentation, high-volume saliva ejector and 
+dental dam during the treatment and refrain to use 
+3-in-1 syringe.61 
+Intraoral radiographs should be avoided since 
+it can induce coughing; the office space should 
+be limited to the patient and to the operator and 
+dental assistant. After the treatment, the DCHP 
+should wear appropriate PPE to proceed with the 
+cleaning and disinfection of the room and equipment 
+using the recommended disinfecting products.64 
+Besides, dentists should reconsider the use of sedation 
+(inhalation and pharmacological) to manage severe 
+anxiety or phobia in the dental settings and focus 
+on non-pharmacological techniques to minimize the 
+potential risk of needing life support measures that 
+involve the manipulation of airways and aerosolization 
+(inhalation sedation).8
+In a specific situation where the patient has an 
+unavoidable emergency and no signs and symptoms 
+of COVID-19 and the dentist does not have a N95 
+mask or higher level, he/she must wear surgical 
+mask in a single use, goggles and face shield to treat 
+a patient, but be aware that the risk of contamination 
+will be moderate.64 There is a limitation in following 
+this procedure since there is current community 
+spread of COVID-19 with asymptomatic cases in 
+the population. Current research shows that the 
+prognosis of patients with COVID-19 is worst for those 
+older than 60 years of age or presenting underlying 
+diseases (diabetes, hypertension or cardiovascular 
+disease, for example).70 In this sense, members of the 
+health team must use clinical judgment and take all 
+precautions to prevent transmission. 
+In this unprecedented situation, it is advisable 
+to look for and apply the most recent protocols and 
+guidance from your local dental organizations in 
+your country that are based in the current literature 
+and be aware that the COVID-19 pandemic brings 
+challenges to the dental health care providers 
+not only on their practices but on their financial 
+situation as well. A general flowchart (Figure) was 
+constructed based on the ADA’s Interim guidance 
+on minimizing COVID-19 transmission risk when 
+treating dental emergencies.64 As also stated in this 
+ADA’s document,64 Figure 1 does not constitute legal 
+advice or legal guidance. It only helps clinicians 
+for their own judgment about the risks of infection 
+while working in dental offices. 
+Perspectives
+Health professionals are facing new challenges in 
+providing care to their patients. Remote treatment via 
+chat, video conversation, telemedicine, teledentistry 
+and other technologies have given rise to a new look 
+at the professional-patient relationship, opening 
+doors to an untapped universe, since most dentists 
+do not use them as part of their daily work.71It is 
+estimated that by 2025 over 60% of the population 
+will be using mobile internet.72 Therefore, mobile 
+technologies, including phones, are great allies to 
+community health even in low and middle-income 
+population.73–75 Individuals that still do not have 
+access to mobile services would also benefit due to 
+diminishing waiting lines in local health assistance, 
+at the nearest Primary Health Units. 
+6
+Braz. Oral Res. 2020;34:e041
+Pereira LJ, Pereira CV, Murata RM, Pardi V, Pereira-Dourado SM
+In private offices, the limitation on dental and 
+medical activities to only urgent and emergency 
+procedures presents a strong impact on the economy 
+of these sectors.76 This economic crises have raised 
+reflections and concerns that go beyond clinical 
+security and social detachment and have highlighted 
+the importance of social security and financial 
+education. Such factors must also be taken into account 
+by the entities that guide dental practice, in order to 
+generate discussions to support the dentists on those 
+occasions where they will have to keep distance from 
+their routine clinical tasks during COVID-19.
+The dental class, which comprises in its vast 
+majority, autonomous professionals, should recover 
+the issues of financial education, frequently so distant 
+from the contents of the academic curriculum. There 
+is an evident scarcity of articles related to financial 
+education for dental offices. Emergency financial 
+reserve, funds to deposit this reserve and long-term 
+investments, public or private pension, should be 
+part of the incisive recommendations to this group. 
+Other professional classes are raising these issues 
+concerning this urgent moment to guarantee social 
+security for all and to go beyond the packages 
+proposed by governments.77 Such strategies must 
+be sustainable, long-term, with a view to protecting 
+the self-employed and avoiding an unprecedented 
+economic crisis. 
+Conclusions
+This recent COVID-19 turned into a global public 
+health outbreak. It is transmitted after contact with 
+infected surfaces and with infected patient’s fluids, 
+including saliva and aerosol. A substantial number 
+of individuals do not show any signs and symptoms 
+and may disseminate the virus. These characteristics 
+put the dental offices as main risk settings of cross 
+infection among patients and dentists. Currently 
+there is no effective treatment and fast diagnosis is 
+still a challenge. All elective dental treatments and 
+non-essential procedures should be postponed, 
+keeping only urgent and emergency visits to the dental 
+office.  Unexpected situations like this pandemic, 
+*Use of N95 mask denotes low risk of infection
+# If no N95 available, refer patient to a facility that has N95. If not feasible, use your clinical judgment and precautions of infection control. 
+Dentist and staff must wear surgical facemasks, goggles and full-face shields, with other basic clinical PPE and follow disinfection procedures 
+immediately after every procedure. Use of surgical facemasks denotes moderate risk of infection. DCHP should quarantine for 14 days and 
+communicate with patients that were seen after that day. Procedures involving aerosol should be scheduled for the last appointment of the 
+day. Dentists should avoid intra-oral radiographs, prefer hand instrumentation, and use high-volume saliva ejector and dental dam during the 
+treatment.
+This figure was constructed using free images obtained at: https://smart.servier.com/ and https://www.freepik.com/. 
+Figure 1. Flowchart based on the American Dental Association Interim Guidance for Management of Emergency and Urgent 
+Dental Care on 04/01/2020 and do not constitute legal advice or legal guidance.
+7
+Braz. Oral Res. 2020;34:e041
+Biological and social aspects of Coronavirus Disease 2019 (COVID-19) related to oral health
+brings financial issues to the dental team; in this way, 
+financial education become very important subject 
+to be discussed during the professional school. The 
+use of telecommunication (phone calls, text messages) 
+and teledentistry are very promising tools to keep 
+contact with the patient without put them in high 
+risk of infection.
+Acknowledgments
+National Council for Scientific and Technological 
+Development (Conselho Nacional de Desenvolvimento 
+Científico and Tecnológico - CNPq), and the 
+Coordination for the Improvement of Higher Education 
+Personnel (Coordenação de Aperfeiçoamento de Nível 
+Superior - CAPES).
+1.	Corman VM, Muth D, Niemeyer D, Drosten C. Hosts and sources of endemic human coronaviruses. Adv Virus Res. 2018;100:163-88. 
+https://doi.org/10.1016/bs.aivir.2018.01.001
+2.	Marra MA., Jones SJM., Astell CR., Holt RA., Brooks-Wilson A., Butterfield YSN., et al. The genome sequence of the SARS-associated 
+coronavirus. Science. 2003 May;300(5624):1399-404. https://doi.org/10.1126/science.1085953
+3.	Wolff MH, Sattar SA, Adegbunrin O, Tetro J. Environmental survival and microbicide inactivation of coronaviruses. In: Schmidt A, Wolff 
+MH, Weber O. Coronaviruses with special emphasis on first insights concerning SARS. Base: Birkhäuser; 2005. p. 201-12. 
+4.	Abbag HF, El-Mekki AA, Al Bshabshe AA, Mahfouz AA, Al-Dosry AA, Mirdad RT, et al. Knowledge and attitude towards the Middle East 
+respiratory syndrome coronavirus among healthcare personnel in the southern region of Saudi Arabia. J Infect Public Health. 
+2018 Sep - Oct;11(5):720-2. https://doi.org/10.1016/j.jiph.2018.02.001
+5.	Cortegiani A, Ingoglia G, Ippolito M, Giarratano A, Einav S. A systematic review on the efficacy and safety of chloroquine for the 
+treatment of COVID-19. J Crit Care. 2020 Mar; pii::S0883-9441(20)30390-7. https://doi.org/10.1016/j.jcrc.2020.03.005
+6.	Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, et al. Aerosol and surface stability of SARS-CoV-2 as 
+compared with SARS-CoV-1. N Engl J Med. 2020 Mar;NEJMc2004973. https://doi.org/10.1056/NEJMc2004973
+7.	Sabino-Silva R, Jardim AC, Siqueira WL. Coronavirus COVID-19 impacts to dentistry and potential salivary diagnosis. Clin Oral Investig. 
+2020 Apr;24(4):1619-21. https://doi.org/10.1007/s00784-020-03248-x
+8.	Souza RC, Costa PS, Costa LR. Dental sedation precautions and recommendations during the COVID-19 pandemic. Braz J Dent. 2020 
+Apr;77(0):1-3. https://doi.org/10.18363/RBO.V77.2020.E1788
+9.	Peng X, Xu X, Li Y, Cheng L, Zhou X, Ren B. Transmission routes of 2019-nCoV and controls in dental practice. Int J Oral Sci. 2020 
+Mar;12(1):9. https://doi.org/10.1038/s41368-020-0075-9
+10.	Ministério da Saúde (BR). Secretaria de Atenção Primária à Saúde (SAPS). . Atendimento odontológico no SUS. Brasília, DF; 2020. [cited 
+2020 Mar 31]. Available from: http://www.crosp.org.br/uploads/arquivo/ab69d79b87d04780af08a70d8cee9d70.pdf
+11.	Centers of Disease Control and Prevention – CDC. Recommendation: postpone non-urgent dental procedures, surgeries, and visits. 
+centers of disease control and prevention. 2020 [cited 2020 Mar 31]. Available from: https://www.cdc.gov/oralhealth/infectioncontrol/
+statement-COVID.html
+12.	American Dental Association – ADA. ADA recommending dentists postpone elective procedures. American Dental Assocaition. 2020 
+[cited 2020 Mar 31]. Available from: https://www.ada.org/en/publications/ada-news/2020-archive/march/ada-recommending-dentists-
+postpone-elective-procedures
+13.	Meng L, Hua F, Bian Z. Coronavirus disease 2019 (COVID-19): emerging and future challenges for dental and oral medicine. J Dent Res. 
+2020 Mar:22034520914246. https://doi.org/10.1177/0022034520914246
+14.	Sahin A, Erdogan A, Mutlu Agaoglu P, Dineri Y, Cakirci A, Senel M, et al. 2019 Novel Coronavirus (COVID-19) outbreak: a review of the 
+current literature. Eurasian J Med Investig. 2020;4(1):1-7. https://doi.org/10.14744/ejmo.2020.12220
+15.	Iqbal HM, Romero-Castillo KD, Bilal M, Parra-Saldivar R. The emergence of novel-coronavirus and its replication cycle: an overview. 
+J Pure Appl Microbiol. 2020;14(March):6146.
+16.	Wu F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, et al. A new coronavirus associated with human respiratory disease in China. Nature. 
+2020 Mar;579(7798):265-9. https://doi.org/10.1038/s41586-020-2008-3
+17.	Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer A, Chu DK, et al. Detection of 2019 novel coronavirus (2019-nCoV) by real-time 
+RT-PCR. Euro Surveill. 2020 Jan;25(3). https://doi.org/10.2807/1560-7917.ES.2020.25.3.2000045
+18.	Chen Y, Liu Q, Guo D. Emerging coronaviruses: genome structure, replication, and pathogenesis. J Med Virol. 2020 Apr;92(4):418-23. 
+https://doi.org/10.1002/jmv.25681
+References
+8
+Braz. Oral Res. 2020;34:e041
+Pereira LJ, Pereira CV, Murata RM, Pardi V, Pereira-Dourado SM
+19.	Cui J, Li F, Shi ZL. Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol. 2019 Mar;17(3):181-92. 
+https://doi.org/10.1038/s41579-018-0118-9
+20.	Su S, Wong G, Shi W, Liu J, Lai AC, Zhou J, et al. Epidemiology, genetic recombination, and pathogenesis of coronaviruses. Trends 
+Microbiol. 2016 Jun;24(6):490-502. https://doi.org/10.1016/j.tim.2016.03.003
+21.	Hussain S, Pan J, Chen Y, Yang Y, Xu J, Peng Y, et al. Identification of novel subgenomic RNAs and noncanonical 
+transcription initiation signals of severe acute respiratory syndrome coronavirus. J Virol. 2005 May;79(9):5288-95. 
+https://doi.org/10.1128/JVI.79.9.5288-5295.2005
+22.	Kato H, Takeuchi O, Sato S, Yoneyama M, Yamamoto M, Matsui K, et al. Differential roles of MDA5 and RIG-I helicases in the 
+recognition of RNA viruses. Nature. 2006 May;441(7089):101-5. https://doi.org/10.1038/nature04734
+23.	Chan YK, Gack MU. Viral evasion of intracellular DNA and RNA sensing. Nat Rev Microbiol. 2016 Jun;14(6):360-73. 
+https://doi.org/10.1038/nrmicro.2016.45
+24.	Schneider WM, Chevillotte MD, Rice CM. Interferon-stimulated genes: a complex web of host defenses. Annu Rev Immunol. 
+2014;32(1):513-45. https://doi.org/10.1146/annurev-immunol-032713-120231
+25.	Kindler E, Thiel V, Weber F. Interaction of SARS and MERS Coronaviruses with the Antiviral Interferon Response. Adv Virus Res. 
+2016;96:219-43. https://doi.org/10.1016/bs.aivir.2016.08.006
+26.	Hu Y, Li W, Gao T, Cui Y, Jin Y, Li P, et al. The severe acute respiratory syndrome coronavirus nucleocapsid inhibits type 
+i interferon production by interfering with TRIM25-Mediated RIG-I Ubiquitination. J Virol. 2017 Mar;91(8):e02143-16. 
+https://doi.org/10.1128/JVI.02143-16
+27.	Siu KL, Kok KH, Ng MH, Poon VK, Yuen KY, Zheng BJ, et al. Severe acute respiratory syndrome coronavirus M protein inhibits type I 
+interferon production by impeding the formation of TRAF3.TANK.TBK1/IKKepsilon complex. J Biol Chem. 2009 Jun;284(24):16202-9. 
+https://doi.org/10.1074/jbc.M109.008227
+28.	Tanaka T, Kamitani W, DeDiego ML, Enjuanes L, Matsuura Y. Severe acute respiratory syndrome coronavirus nsp1 facilitates 
+efficient propagation in cells through a specific translational shutoff of host mRNA. J Virol. 2012 Oct;86(20):11128-37. 
+https://doi.org/10.1128/JVI.01700-12
+29.	Huang C, Lokugamage KG, Rozovics JM, Narayanan K, Semler BL, Makino S. SARS coronavirus nsp1 protein induces template-
+dependent endonucleolytic cleavage of mRNAs: viral mRNAs are resistant to nsp1-induced RNA cleavage. PLoS Pathog. 2011 
+Dec;7(12):e1002433. https://doi.org/10.1371/journal.ppat.1002433
+30.	Sun J, He WT, Wang L, Lai A, Ji X, Zhai X, et al. COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives. Trends Mol 
+Med. 2020 Mar 21.https://doi.org/10.1016/j.molmed.2020.02.008
+31.	World Health Organization – WHO. “Solidarity” clinical trial for COVID-19 treatments. 2020 [cited 2020 Apr 10]. Available from: 
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/solidarity-clinical-
+trial-for-covid-19-treatments
+32.	Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al. Remdesivir and chloroquine effectively inhibit the recently emerged novel 
+coronavirus (2019-nCoV) in vitro. Cell Res. 2020 Mar;30(3):269-71. https://doi.org/10.1038/s41422-020-0282-0
+33.	Agostini ML, Andres EL, Sims AC, Graham RL, Sheahan TP, Lu X, et al. Coronavirus susceptibility to the antiviral remdesivir 
+(GS-5734) is mediated by the viral polymerase and the proofreading exoribonuclease. MBio. 2018 Mar;9(2):e00221-18. 
+https://doi.org/10.1128/mBio.00221-18
+34.	Brown AJ, Won JJ, Graham RL, Dinnon KH 3rd, Sims AC, Feng JY, et al. Broad spectrum antiviral remdesivir inhibits human endemic 
+and zoonotic deltacoronaviruses with a highly divergent RNA dependent RNA polymerase. Antiviral Res. 2019 Sep;169:104541. 
+https://doi.org/10.1016/j.antiviral.2019.104541
+35.	Gao J, Tian Z, Yang X. Breakthrough: chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated 
+pneumonia in clinical studies. Biosci Trends. 2020 Mar;14(1):72-3. https://doi.org/10.5582/bst.2020.01047
+36.	Yao X, Ye F, Zhang M, Cui C, Huang B, Niu P, et al. In Vitro antiviral activity and projection of optimized dosing design of 
+Hydroxychloroquine for the treatment of severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2). Clin Infect Dis. 2020 
+Mar:ciaa237. https://doi.org/10.1093/cid/ciaa237
+37.	Colson P, Rolain JM, Lagier JC, Brouqui P, Raoult D. Chloroquine and hydroxychloroquine as available weapons to fight COVID-19. Int J 
+Antimicrob Agents. 2020 Mar;105932:105932. https://doi.org/10.1016/j.ijantimicag.2020.105932  
+38.	Chen F, Chan KH, Jiang Y, Kao RY, Lu HT, Fan KW, et al. In vitro susceptibility of 10 clinical isolates of SARS coronavirus to selected 
+antiviral compounds. J Clin Virol. 2004 Sep;31(1):69-75. https://doi.org/10.1016/j.jcv.2004.03.003
+39.	Yao TT, Qian JD, Zhu WY, Wang Y, Wang GQ. A systematic review of lopinavir therapy for SARS coronavirus and MERS coronavirus: 
+a possible reference for coronavirus disease-19 treatment option. J Med Virol. 2020 Feb:jmv.25729. https://doi.org/10.1002/jmv.25729
+40.	Liu X, Wang XJ. Potential inhibitors against 2019-nCoV coronavirus M protease from clinically approved medicines. J Genet Genomics. 
+2020 Feb;47(2):119-21. https://doi.org/10.1016/j.jgg.2020.02.001
+9
+Braz. Oral Res. 2020;34:e041
+Biological and social aspects of Coronavirus Disease 2019 (COVID-19) related to oral health
+41.	Cao B, Wang Y, Wen D, Liu W, Wang J, Fan G, et al. A trial of lopinavir-ritonavir in adults hospitalized with Severe Covid-19. N Engl J 
+Med. 2020 Mar:NEJMoa2001282. https://doi.org/10.1056/NEJMoa2001282
+42.	Kupferschmidt K., Cohen J. Race to find COVID-19 treatments accelerates. Science. 2020 Mar;367(6485):1412-3. 
+https://doi.org/10.1126/science.367.6485.1412
+43.	FDA. Recommendations for investigational COVID-19 Convalescent Plasma. 2020 [cited 2020 Apr 6]. Available from: https://www.
+fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/investigational-covid-19-
+convalescent-plasma-emergency-inds
+44.	Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, et al. Treatment of 5 critically ill patients with COVID-19 with convalescent plasma. JAMA. 
+2020 Mar. https://doi.org/10.1001/jama.2020.4783
+45.	Harrel SK, Molinari J. Aerosols and splatter in dentistry: a brief review of the literature and infection control implications. J Am Dent 
+Assoc. 2004 Apr;135(4):429-37. https://doi.org/10.14219/jada.archive.2004.0207
+46.	Xu H, Zhong L, Deng J, Peng J, Dan H, Zeng X, et al. High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral 
+mucosa. Int J Oral Sci. 2020 Feb;12(1):8. https://doi.org/10.1038/s41368-020-0074-x
+47.	Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et al. Substantial undocumented infection facilitates the rapid dissemination of novel 
+coronavirus (SARS-CoV2). Science. 2020 Mar;eabb3221. https://doi.org/10.1126/science.abb3221
+48.	Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-
+Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb;323(11):1061. https://doi.org/10.1001/jama.2020.1585
+49.	Sun Y, Koh V, Marimuthu K, Ng OT, Young B, Vasoo S, et al. Epidemiological and clinical predictors of COVID-19. Clin Infect Dis. 2020 
+Mar:ciaa322. https://doi.org/10.1093/cid/ciaa322
+50.	Lee Y, Kang BH, Kang M, Chung DR, Yi GS, Lee LP, et al. Nanoplasmonic on-chip PCR for rapid precision molecular diagnostics. ACS 
+Appl Mater Interfaces. 2020 Mar;12(11):12533-40. https://doi.org/10.1021/acsami.9b23591
+51.	Li Z, Yi Y, Luo X, Xiong N, Liu Y, Li S, et al. Development and clinical application of a rapid IgM-IgG combined antibody test for SARS-
+CoV-2 infection diagnosis. J Med Virol. 2020 Feb:jmv.25727. https://doi.org/10.1002/jmv.25727
+52.	Centers of Disease Control and Prevention – CDC. How TB Spreads. 2020 [Cited 2020 Apr 6]. Available from: 
+https://www.cdc.gov/tb/topic/basics/howtbspreads.htm.evention. 
+53.	Centers of Disease Control and Prevention – CDC. Transmission of measles. 2020 [cited 2020 Apr 6]. Available from: 
+https://www.cdc.gov/measles/transmission.html
+54.	Centers of Disease Control and Prevention – CDC. Hepatitis B questions and answers for health professionals. 2020 [cited 2020 Apr 6]. 
+Available from: https://www.cdc.gov/hepatitis/hbv/hbvfaq.htm#treatmenthttps://www.cdc.gov/measles/transmission.html
+55.	Lau H, Khosrawipour V, Kocbach P, Mikolajczyk A, Schubert J, Bania J, et al. The positive impact of lockdown in Wuhan on containing the 
+COVID-19 outbreak in China. J Travel Med. 2020 Mar:taaa037. https://doi.org/10.1093/jtm/taaa037
+56.	Ma QX, Shan H, Zhang HL, Li GM, Yang RM, Chen JM. Potential utilities of mask-wearing and instant hand hygiene for fighting 
+SARS-CoV-2. J Med Virol. 2020 Mar: https://doi.org/10.1002/jmv.25805  
+57.	Pan X, Ojcius DM, Gao T, Li Z, Pan C, Pan C. Lessons learned from the 2019-nCoV epidemic on prevention of future infectious diseases. 
+Microbes Infect. 2020 Mar;22(2):86-91. https://doi.org/10.1016/j.micinf.2020.02.004  
+58.	Kraemer MUG, Yang C-H, Gutierrez B, Wu C-H, Klein B, Pigott DM, et al. The effect of human mobility and control measures on the 
+COVID-19 epidemic in China. Science. 2020;4218(March):eabb4218. https://doi.org/10.1126/science.abb4218
+59.	Tan CC. SARS in Singapore: key lessons from an epidemic. Ann Acad Med Singapore. 2006 May;35(5):345-9.  
+60.	Koo JR, Cook AR, Park M, Sun Y, Sun H, Lim JT, et al. Articles Interventions to mitigate early spread of SARS-CoV-2 in Singapore: a 
+modelling study. Lancet Infect Dis. 2020;3099(20):1-11. https://doi.org/10.1016/S1473-3099(20)30162-6
+61.	Kharma MY, Alalwani MS, Amer MF, Tarakji B, Aws G. Assessment of the awareness level of dental students 
+toward Middle East Respiratory Syndrome-coronavirus. J Int Soc Prev Community Dent. 2015 May-Jun;5(3):163-9. 
+https://doi.org/10.4103/2231-0762.159951
+62.	Centers of Disease Control and Prevention – CDC. Aerosols | NIOSH | CDC. 2020 [cited 2020 Apr 6]. Available from: 
+https://www.cdc.gov/niosh/topics/aerosols/
+63.	World Health Organization – WHO. Modes of transmission of virus causing COVID-19: implications for IPC precaution 
+recommendations. 2020 [cited 2020 Apr 6]. Available from: https://www.who.int/news-room/commentaries/detail/modes-of-
+transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations
+64.	American Dentistry Association – ADA. ADA interim guidance for minimizing risk of COVID-19 transmission. 2020 [cited 2020 Apr 1]. 
+Available from: https://www.ada.org/~/media/CPS/Files/COVID/ADA_COVID_Int_Guidance_Treat_Pts.pdf 
+65.	Centers of Disease Control and Prevention – CDC. Coronavirus and travel in the United States. 2020 [cited 2020 Apr 6]. Available from: 
+https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html
+66.	Centers of Disease Control and Prevention – CDC. Travelers returning from international travel. 2020 [cited 2020 Apr 6]. Available from: 
+https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html
+10
+Braz. Oral Res. 2020;34:e041
+Pereira LJ, Pereira CV, Murata RM, Pardi V, Pereira-Dourado SM
+67.	NHS. NHS England and NHS Improvement. Issue 3, Preparedness letter for primary dental care. 2020 Mar 25 [cited 2020 Apr 2]. 
+Available from: https://www.england.nhs.uk/coronavirus/wp-content/uploads/sites/52/2020/03/issue-3-preparedness-letter-for-
+primary-dental-care-25-march-2020.pdf
+68.	American Dentistry Association – ADA. What constitutes a dental emergency? 2020 [cited 2020 Apr 6]. Available from: https://success.
+ada.org/~/media/CPS/Files/OpenFiles/ADA_COVID19_Dental_Emergency_DDS.pdf?utm_source=adaorg&utm_medium=covid-
+resources-lp&utm_content=cv-pm-emerg-def&utm_campaign=covid-19&_ga=2.171390569.899008890.1586126066-
+1720481024.1573059269
+69.	Mallineni SK, Innes NP, Raggio DP, Araujo MP, Robertson MD, Jayaraman J. Coronavirus disease (COVID-19): characteristics in children 
+and considerations for Dentists providing their care. Int J Paediatr Dent. 2020 Apr. https://doi.org/10.1111/ipd.12653
+70.	Cheng H, Wang Y, Wang GQ. Organ-protective effect of angiotensin-converting enzyme 2 and its effect on the prognosis of COVID-19. 
+J Med Virol. 2020 Mar. https://doi.org/10.1002/jmv.25785
+71.	Wright JH, Caudill R. Remote treatment delivery in response to the COVID-19 Pandemic. Psychother Psychosom. 2020 Mar;1-3:1-3. 
+https://doi.org/10.1159/000507376
+72.	GSMA. The mobile economy 2020. London: GSMA, 2020 [cited 2020 Apr 10]. Available from: https://www.gsma.com/mobileeconomy/
+wp-content/uploads/2020/03/GSMA_MobileEconomy2020_Global.pdf
+73.	Ryan-Pettes SR, Lange LL, Magnuson KI. Mobile phone access and preference for technology-assisted aftercare among low-income 
+caregivers of teens enrolled in outpatient substance use treatment: questionnaire study. JMIR Mhealth Uhealth. 2019 Sep;7(9):e12407. 
+https://doi.org/10.2196/12407
+74.	Willcox M, Moorthy A, Mohan D, Romano K, Hutchful D, Mehl G, et al. Mobile technology for community health in Ghana: is maternal 
+messaging and provider use of technology cost-effective in improving maternal and child health outcomes at scale? J Med Internet Res. 
+2019 Feb;21(2):e11268. https://doi.org/10.2196/11268
+75.	Pattnaik A, Mohan D, Chipokosa S, Wachepa S, Katengeza H, Misomali A, et al. Testing the validity and feasibility of using a mobile 
+phone-based method to assess the strength of implementation of family planning programs in Malawi. BMC Health Serv Res. 2020 
+Mar;20(1):221. https://doi.org/10.1186/s12913-020-5066-1
+76.	Spagnuolo G, De Vito D, Rengo S, Tatullo M. COVID-19 outbreak: an overview on dentistry. Int J Environ Res Public Health. 2020 
+Mar;17(6):E2094. https://doi.org/10.3390/ijerph17062094
+77.	European Federation of Journalists – EFJ. COVID-19: It is time to guarantee social security for all. 2020 [cited 2020 Apr 6]. Available 
+from: https://europeanjournalists.org/blog/2020/03/23/covid-19-it-is-time-to-guarantee-social-security-for-all/
+11
+Braz. Oral Res. 2020;34:e041

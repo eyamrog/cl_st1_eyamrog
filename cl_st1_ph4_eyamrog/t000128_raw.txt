@@ -1,0 +1,964 @@
+Status: Preprint has not been submitted for publication
+Libidibia ferrea antimicrobial and disinfectant activity
+Jamile Rodrigues Cosme de  Holanda, Francisco Marlon Carneiro  Feijó, Nilza Dutra  Alves, Caio
+Sérgio  Santos, Gardênia Silvana de Oliveira Rodrigues, Wesley Adson Costa  Coelho
+https://doi.org/10.1590/SciELOPreprints.2141
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The deposited manuscript is in PDF format.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors agree that if the manuscript is accepted and posted on the SciELO Preprints server, it will be
+withdrawn upon retraction.
+Submitted on (YYYY-MM-DD): 2021-04-28
+Posted on (YYYY-MM-DD): 2021-05-03
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+1 
+ 
+Libidibia ferrea antimicrobial and disinfectant activity 
+ 
+Jamile Rodrigues Cosme de Holanda1, orcid.org/0000-0002-9558-4496 
+Francisco Marlon Carneiro Feijó2, orcid.org/0000-0002-7941-8949 
+Nilza Dutra Alves2, orcid.org/0000-0002-2332-9293 
+Caio Sérgio Santos2, orcid.org/0000-0001-9133-1857 
+Gardênia Silvana de Oliveira Rodrigues2*, orcid.org/0000-0003-0980-5561 
+Wesley Adson Costa Coelho1, orcid.org/0000-0001-7039-9481 
+ 
+1Faculdade de Enfermagem e Medicina Nova Esperança – Mossoró (RN), Brazil.  
+2Universidade Federal Rural do Semi-Árido – Mossoró (RN), Brazil. 
+*Corresponding author: jamileholanda40@gmail.com 
+ 
+ABSTRACT 
+Microorganisms are becoming resistant to the commonly used chemical disinfectants. 
+Thereby, these chemical products should now be replaced by natural ones. In this context, this 
+research aimed to evaluate the disinfectant activity of the extract and decoction of Libidibia 
+ferrea leaves in different surfaces. Thus, two forms of jucá leaf extraction (decoction and 
+hydroalcoholic extraction) were tested through the diffusion disk technique from Kirby and 
+Bauer, growth curve, acceptability test with the population, and surface test. Results showed 
+sensibility to decoction of S. aureus and E. faecalis strains; however, for the extract, the 
+strains that demonstrated sensibility were S. aureus, P. aeruginosa, Micrococcus spp. 
+Corynebacterium spp., and S. Typhimurium in the diffusion disk test. A reduction of the 
+bacterial charge throughout the growth curve was seen through the absorbance values after 24 
+hours to the strains of E. coli, E. feacalis, Micrococcus spp. and K. pneumoniae in the 
+concentration of 100 mg/mL of the decoction and extract. Regarding the surfaces test, there 
+was a reduction in the bacterial charge in all tested strains. Therefore, the L. ferrea may be 
+used as an effective alternative disinfectant measure. 
+Keywords: Fabaceae; jucá; plants, medicinal; plant extracts. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+2 
+ 
+ 
+ 
+INTRODUCTION 
+ 
+ 
+Microorganisms, such as Staphylococcus aureus and Pseudomonas aeruginosa, can 
+adapt to different environments and be easily spread by humans through food, and they can 
+also be distributed in the environment, air, dust, and sewage water. In general, 
+microorganisms are becoming resistant to the commonly used chemical disinfectants, either 
+by its use and incorrect destination or by the formation of biofilms or resistance transfer 
+(DOLAN; COSTERTON, 2002). 
+Therefore, these products should now be replaced by natural ones, which present a 
+lower degree of toxicity, being more economically viable and more accessible to the 
+population (VOLKART; SPAGIARI; BIZZANI, 2017; NÓBREGA; DANTAS; SILVA, 
+2010). Among the species of used plants is the Libidibia ferrea (Febaceae) that is natural of 
+the Caatinga biome and has been described from the Northeast to the South of Brazil. It is 
+popularly known as Pau-ferro, Pau-caí or Jucá (MOTA; FERREIRA; IMAÑA, 2012). The 
+Libidibia ferrea has antifungal, antibacterial, antiulcerogenic, anti-inflammatory, antidiabetic, 
+anti-flu, antitussive, anti-asthmatic, antianemia, antidiarrheal, anticoagulant, analgesic, and 
+healing actions. It is also a larvicide against the Aedes aegypti, and it is indicated for feeding 
+animals as in sheep and goat farming, widely used in rural areas, given the difficulty of food 
+(GOMES et al., 2017; MOREIRA; OLIVEIRA, 2017; REIS et al., 2017; PEREIRA et al., 
+2016; HASSAN et al., 2015; FREITAS et al., 2015; MAGALHÃES et al., 2014; VÁSQUEZ; 
+MENDONÇA; NODA, 2014; LIMA et al., 2012; VASCONCELOS et al., 2011). 
+Despite the proven action of Libidibia ferrea, more studies that explore its use as a 
+disinfectant for surfaces is required in this context. Thus, this research aimed at evaluating the 
+disinfectant activity of the extract and decoction of Libidibia ferrea leaves in different 
+surfaces. 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+3 
+ 
+ 
+ 
+MATERIALS AND METHODS 
+ 
+ 
+Microbiological analyzes and decoction production of Libidibia ferrea leaves were 
+carried out at the Veterinary Microbiology Laboratory (LAMIV) of Universidade Federal do 
+Semi-Árido (UFERSA). The analyses of phytochemical compounds and extract 
+hydroalcoholic production of Libidibia ferrea leaves were performed at the Chromatography 
+Laboratory of Universidade Estadual do Rio Grande do Norte (UERN). 
+Microorganisms isolated from the environment (Staphylococcus aureus, Micrococcus 
+spp., Corynebacterium spp. – LAMIV) and standard strains (Staphylococcus aureus – 
+American Type Culture Collection – ATCC 25923, Escherichia coli – ATCC 25922, 
+Enterococcus faecalis – ATCC 29212, Pseudomonas aeruginosa – ATCC 27853, 
+Streptococcus agalactiae – ATCC 13813, Salmonella Typhimurium – ATCC 14028, 
+Klebsiella pneumoniae – ATCC 700603) were used for this research. 
+100 g of leaves from L. ferrea were used for decoction and they were deposited at a 
+container with 200 mL of distilled water. Then, they were successively boiled at water bath 
+for 15 minutes to produce 200 mL of decoction. The produced solution was considered at the 
+concentration of 1:2 (LEONEZ et al., 2018). In the hydroalcoholic extract production, the 
+leaves were shredded, weighted and wrapped into a properly identified amber glass container 
+that was immersed during seven days in a hydroalcoholic solvent solution (ethanol 70%), 
+which was agitated every 24 hours. After the immersion time, the compound was taken to 
+vacuum filtration, and afterwards to the evaporated in water bath at a temperature of 50 ± ºC. 
+Microorganisms with the 1.5 × 108 UFC/mL concentration were equivalent to the 
+pattern 5 of the McFarland’s scale. These were cultivated in brain heart infusion (BHI) broth 
+at 37ºC. Five microdilution plates with 96 wells each were utilized (ALAMAR®, Diadema, 
+São Paulo, Brazil). Each microorganism had its growth analyzed in triplicate at the 
+concentrations of 100 mg/mL from the extract and from the decoction, as well with the 
+positive control with the alcoholic solution of chlorhexidine (CP) at 0.5% and the negative 
+control of dimethyl sulfoxide (DMSO). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+4 
+ 
+The methodology proposed by Engel et al. (2017) was adapted in order to evaluate the 
+surface disinfectant effects. Plastic, steel, and ceramics surfaces were washed and sterilized 
+for use. Afterwards, the surfaces were left in contact with the inoculum in a concentration of 
+approximately 108 UFC/mL during 30 minutes for biofilm formation. Posteriorly, the 
+disinfectant solutions were sprayed at 100 mg/mL and control product, for 15 minutes, in an 
+area of 1 cm3. Then, the samples were collected with a sterilized swab, and the number of 
+microorganisms was quantified by the plate count technique (TORTORA; FUNKE; CASE, 
+2012). 
+50 judges belonging to the traditional rural communities of Mossoró/RN were randomly 
+chosen to perform the acceptability test on the action of L. ferrea-based disinfectant at the 
+concentration of 100 mg/mL, which was noticed in the in vitro test (PAGANI et al., 2015). A 
+hedonic scale adapted from Pagani et al. (2015) and Beserra et al. (2003) was applied to 
+evaluate the two surfaces: one with the commonly used disinfectant and the other with the 
+disinfectant made of jucá leaves. Each judge received a file including the sensorial evaluation, 
+with a nine-point structure, from “extremely liked” to “extremely disliked”, to each evaluated 
+attribute (aroma, color, texture, and surface aspect). 
+Data were expressed in mean values ± standard deviation as well with frequency (%) 
+through the SigmaPlot program (Systat Software, Inc.), version 12.0. After analysis of the 
+parametric assumptions and statistical differences between the experimental groups, in the 
+different studied variables, there was a comparative analysis between the microorganisms and 
+the decoction and extract, as well as between the varied concentrations applied to both the 
+decoction and the extract, for one-way ANOVA and one-way ANOVA repeated measures 
+(RM) followed by Turkey’s test, respectively. The nonparametric data were tested by 
+Kruskal-Wallis and Friedman tests. Lastly, the statistical differences of the scores related to 
+the sensorial analysis between groups were obtained by Wilcoxon’s text. Values of p < 0.05 
+were considered significant. 
+ 
+ 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+5 
+ 
+RESULTS AND DISCUSSION 
+ 
+ 
+Diffusion test results in wells used the decoction and the hydroalcoholic extract from C. 
+ferrea leaves to the bacteria are described in Tables 1 and 2. It has been noticed that the 
+strains of Staphylococcus aureus and Enterococcus faecalis demonstrated sensibility at the 
+concentration of 100 mg/mL regarding the decoction of L. ferrea with halos of 10 and 10.67 
+mm, respectively. According to Thomazi, Bertolin and Pinto (2010), such values were 
+considered satisfactorily, whereas they were sensitive for halos equal to or larger than 10 mm. 
+ 
+Table 1. Mean values and standard deviation of the formed halos used in the diffusion disk 
+test in wells to the decoction of Libidibia ferrea leaves. 
+Microorganisms 
+Concentration 
+100 
+50 
+25 
+12.5 
+Positive Control 
+Chlorhexidine 0.5% 
+DMSO 
+S.A. – Standard strain 
+10.0 ± 
+0.0b 
+- 
+- 
+- 
+24.5 ± 0.5Aa 
+- 
+E.coli 
+- 
+- 
+- 
+- 
+23.5 ± 1.5A 
+- 
+P.A. 
+- 
+- 
+- 
+- 
+17.67 ± 0.58C 
+- 
+Micrococcus 
+- 
+- 
+- 
+- 
+11.67 ± 0.58D 
+- 
+Corynebacterium 
+- 
+- 
+- 
+- 
+20.0 ± 1.0B 
+- 
+E.F. 
+10.67 ± 
+0.58ab 
+9.0 ± 
+0.0bc 
+6.67 ± 
+5.77bc 
+3.0 ± 
+5.20c 
+12.43 ± 0.51Da 
+- 
+S. agalactiae 
+- 
+- 
+- 
+- 
+20.67 ± 0.58B 
+- 
+Salmonella 
+- 
+- 
+- 
+- 
+16.5 ± 0.5C 
+- 
+Klebsiella 
+- 
+- 
+- 
+- 
+22.0 ± 1.0AB 
+- 
+S.A. – Environmental 
+strain 
+- 
+- 
+- 
+- 
+23.33 ± 2.31AB 
+- 
+A,BAverages accompanied by capital letters in the column mean statistical difference (p < 
+0.05); a,baverages accompanied by lowercase letters on the line means statistical difference (p 
+< 0.05); PC: positive control; *absence of inhibition halo; DMSO: dimethyl sulfoxide. 
+ 
+Regarding to the results of the L. ferrea extract (Table 2), the strains of Escherichia 
+coli, Streptococcus agalactiae and Klebsiella pneumoniae did not form satisfactory inhibition 
+halos. The decoction utilized at the concentrations of 100, 50, 25 and 12.5 mg/mL inhibited 
+the growth of the E. faecalis strains, being the highest statistical concentration similar to the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+6 
+ 
+positive control. These results are justified by the cell wall composition of the Gram-positive 
+microbial agent, which is more simplified than Gram-negative bacteria. It is noteworthy that 
+these results are promising, since the decoction technique of L. ferrea is simple, decreasing 
+the quantity of these microorganisms in surfaces of tools. 
+ 
+Table 2. Mean values and standard deviation of the formed halos according to the diffusion disk 
+test in wells utilizing the hydroalcoholic extract of the Libidibia ferrea leaves. 
+Microorganisms 
+Concentration 
+100 
+50 
+25 
+12.5 
+Positive Control   
+Chlorhexidine 0.5% 
+DMSO 
+S.A – Standard 
+strain 
+18.33 ± 
+0.58Aab 
+17.0 ± 
+0.0Ab 
+11.67 ± 
+0.58Abc 
+8.0 ± 
+1.73Ac 
+24.5 ± 0.50Aa 
+- 
+E. coli 
+- 
+- 
+- 
+- 
+23.33 ± 1.52A 
+- 
+P.A 
+13.0 ± 
+0.0Ba 
+12.0 ± 
+1.0Ba 
+- 
+- 
+17.67 ± 0.58aB 
+- 
+Micrococcus 
+13.33 ± 
+0.58Ba 
+11.67 ± 
+0.58Ba 
+- 
+- 
+11.67 ± 0.58aC 
+- 
+Corynebacterium 
+14.0 ± 
+0.0Bb 
+12.33 ± 
+0.58Bb 
+- 
+- 
+20.0 ± 1.0aA 
+- 
+E.F 
+17.33 ± 
+0.58Aa 
+15.33 ± 
+1.53Aab 
+11.33 ± 
+0.58Ab 
+10.0 ± 
+1.0Ab 
+13.33 ± 1.53BCab 
+- 
+S. agalactiae 
+- 
+- 
+- 
+- 
+20.67 ± 0.58A 
+- 
+Salmonella 
+13.0 ± 
+0.0Ba 
+12.0 ± 
+0.0Ba 
+- 
+- 
+15.67 ± 1.53aC 
+- 
+Klebsiella 
+- 
+- 
+- 
+- 
+21.0 ± 2.0A 
+- 
+S.A – 
+Environmental 
+strain 
+11.0 ± 
+1.0Cb 
+7.67 ± 
+0.58Cb 
+- 
+- 
+23.33 ± 2.31aA 
+- 
+A,BAverages accompanied by capital letters in the mean statistical difference column (p < 
+0.05); a,baverages accompanied by lowercase letters on the line mean statistical difference (p < 
+0.05); PC: positive control; *absence of inhibition halos; DMSO: dimethyl sulfoxide. 
+ 
+The decoction did not inhibit the strains of Klebsiella pneumoniae, E. coli, 
+Pseudomonas aeruginosas, and Salmonella Typhimurium. These bacteria are Gram-negative 
+and present structures at the cell wall, as the outer membrane, composed by lipids and 
+lipopolysaccharides (TORTORA; FUNKE; CASE, 2012) that may hinder the entrance of 
+hydrophilic molecules present in the decoction. 
+Table 3 includes the results of the growth curve utilizing the hydroalcoholic extract and 
+the decoction of L. ferrea to strains that presented sensibility utilizing the best concentration 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+7 
+ 
+(100 mg/mL), which was noticed in the diffusion technique in wells. In the decoction, we 
+noticed that the E. feacalis strain obtained a reduction in the absorbance value of 0.24. 
+Although the S. aureus had its absorbance value reduced in 0.07, there was no statistical 
+difference. Since for the extract there was a reduction in the bacterial number considering the 
+absorbance after 24 hours, in the strains of P. aeruginosa, we obtained a difference in the 
+absorbance value of 0.36. It was verified that although there was an increase in the absorbance 
+value of Corynebacterium spp., E. feacalis and Salmonella Typhimurium of 0.06, 0.03, and 
+0.14, respectively, these did not present statistical difference as for the positive control.  
+ 
+Table 3. Mean values ± standard deviation of the growth curve for the microdilution 
+technique of the hydroalcoholic extract and the decoction of Libidibia ferrea leaves to the 
+microorganisms in the dilution of 100 mg/mL in 24 hours. 
+ 
+Microorganisms 
+Groups 
+0h 
+24h 
+S.A. – standard strain 
+Extract 
+1.46 ± 0.27bA 
+1.70 ± 0.10aA 
+Decoction 
+0.48 ± 0.0aB 
+0.41 ± 0.12aB 
+ 
+ 
+ 
+ 
+E. coli 
+Extract 
+1.20 ± 0.06aA 
+1.19 ± 0.04aA 
+Decoction 
+0.56 ± 0.01aB 
+0.42 ± 0.09bB 
+ 
+Extract 
+ 
+ 
+P.A. 
+Decoction 
+1.43 ± 0.29aA 
+1.07 ± 0.07bA 
+Extract 
+0.65 ± 0.06aB 
+1.31 ± 0.19bA 
+ 
+Decoction 
+ 
+ 
+Micrococcus 
+Extract 
+1.53 ± 0.15bA 
+1.76 ± 0.10aA 
+Decoction 
+0.61 ± 0.03aB 
+0.36 ± 0.02bB 
+ 
+Extract 
+ 
+ 
+Corynebacterium 
+Decoction 
+1.18 ± 0.20aA 
+1.24 ± 0.20aA 
+Extract 
+0.72 ± 0.21aA 
+0.68 ± 0.11aB 
+ 
+Decoction 
+ 
+ 
+E.F. 
+Extract 
+1.33 ± 0.21aA 
+1.39 ± 0.21aA 
+Decoction 
+0.59 ± 0.12aB 
+0.35 ± 0.02bB 
+ 
+Extract 
+ 
+ 
+S. agalactiae 
+Decoction 
+1.55 ± 0.36aA 
+1.33 ± 0.15bA 
+Extract 
+0.48 ± 0.03aB 
+0.46 ± 0.05aA 
+ 
+Decoction 
+ 
+ 
+S.T. 
+Extract 
+1.55 ± 0.36bA 
+1.69 ± 0.41aA 
+Decoction 
+0.52 ± 0.01aA 
+0.41 ± 0.13aB 
+ 
+Extract 
+ 
+ 
+Klebsiella 
+Decoction 
+1.18 ± 0.19aA 
+1.26 ± 0.05aA 
+Extract 
+0.55 ± 0.02aB 
+0.28 ± 0.22bB 
+ 
+Decoction 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+8 
+ 
+S.A. – environmental strain 
+Extract 
+1.05 ± 0.17bA 
+1.20 ± 0.13aA 
+Decoction 
+0.37 ± 0.03aB 
+0.40± 0.11aB 
+A,BAverages accompanied by capital letters in the mean statistical difference column (p < 0.05 
+— Mann-Whitney); a,baverages accompanied by lowercase letters on the line means statistical 
+difference (p < 0.05 — Wilcoxon); *it was not tested because there were no results in the 
+diffusion disk test. 
+ 
+The results indicate that the hydroalcoholic extract presented a more efficient effect than 
+that presented by the decoction, since the absorbance values were lower after 24 hours and it 
+has inhibited the development and growth of microorganisms as P. aeruginosas and 
+Salmonella Typhimurium. When comparing the results between the microorganisms, it may 
+be observed a lower bacterial charge between themselves, presenting a statistical difference. 
+Such variation may occur due to the different forms of extraction, since the extract may 
+have molecules that can penetrate the outer membrane of the Gram-negative bacteria cell 
+wall, but not in Gram-positive ones (DUFFY; POWER, 2001). Or yet, it can happen due to 
+phytochemical compounds in the extract that presented a higher bioactivity on Gram-negative 
+bacteria, because of a higher affinity from these by its membrane lipid structure that 
+surrounds them, as evidenced by Engel et al. (2017), where the utilized strains of Salmonella 
+were more sensible than the strains of S. aureus both for the disinfectant containing carvacrol 
+and for the disinfectant containing timol. 
+A reduction of UFC/mL/cm2 was observed considering all tested microorganisms 
+(Table 4). As a result, in all tested strains, there was bacterial reduction of the extract and 
+decoction with statistical difference, considering the negative control, in all surfaces, with the 
+exception of the Salmonella Typhimurium in relation to the steel. Therefore, it was observed 
+that the related data are according to Oliveira et al. (2017). In order to have a good 
+disinfectant it is necessary that it has the capacity to destroy or to inactivate the pathogenic 
+organisms to be eliminated, in a reasonable time, with a good cost/benefit, presenting facility 
+and safety in its transport, storage, handling, and application. 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+9 
+ 
+Table 4. Mean values of the bacterial number according to the hydroalcoholic extract based 
+disinfectant and the decoction of the Libidibia ferrea leaves in steel, plastic, and ceramics 
+surfaces. 
+A,BAverages accompanied by capital letters in the column means statistical difference (p < 
+0.05); a,baverages accompanied by lowercase letters on the line means statistical difference  (p 
+< 0.05); the results are in UFC/mL/cm2; *reading in the value of 0; **it was not tested on the 
+decoction; PC: positive control; NC: negative control. 
+ 
+Microorganisms (UFC x 
+) 
+Groups 
+PC 
+NC 
+Extract 
+Decoction 
+Staphylococcus aureus  
+Steel 
+-* 
+0.564x105Bb 0.39x106Aa 0.22x106Aa
+b 
+Plastic 
+0.3x105c 
+0.243x106Aa 0.124x106A
+b 
+0.39x105Bc 
+Ceramics 
+-* 
+0.176x107Aa 0.35x105Bb 0.31x105Bb 
+Pseudomonas aeruginosa 
+Steel 
+0.16x104Ac 0.144x106Aa 0.51x105Ab 
+-** 
+Plastic 
+-* 
+0.83x105Ba 0.38x105Ab 
+-** 
+Ceramics 
+0.12x104Ab 0.378x105Ba 0.58x105Aa 
+-** 
+Micrococcus spp.  
+Steel 
+0.147x104A
+a 
+0.657x104Ba 0.43x104Aa 
+-** 
+Plastic 
+0.37x103Ab 0.87x104Ba 0.97x103Bb 
+-** 
+Ceramics 
+0.47x103Ab 0.126x105Aa 0.41x104Ab 
+-** 
+Corynebacterium spp.  
+Steel 
+0.33x103Ab 0.21x105Ba 0.197x104A
+b 
+-** 
+Plastic 
+0.173x104A
+b 
+0.22x106Aa 
+0.2x104Ab 
+-** 
+Ceramics 
+0.3x102Ac 0.149x106Aa 0.113x104A
+b 
+-** 
+Enterococcus faecalis  
+Steel 
+-* 
+0.251x105Ba 0.57x103Ac 0.28x104A
+b 
+Plastic 
+0.3x102b 
+0.13x105Aa 0.17x103Ab 0.17x103Bb 
+Ceramics 
+-* 
+0.727x104Ba 0.7x102Ab 
+0.4x103Bb 
+Salmonella Typhimurium  
+Steel 
+0.23x103Ac 0.162x106Aa 0.239x105A
+b 
+-** 
+Plastic 
+0.11x104Ab 
+0.5x104Bb 
+0.647x105A
+a 
+-** 
+Ceramics 
+-* 
+0.256x105A
+Ba 
+0.767x104B
+b 
+-** 
+Staphylococcus aureus  
+Steel 
+0.7x102Ac 0.293x106Aa 0.6x103Ab 
+-** 
+Plastic 
+0.37x103Ab 0.303x104Ba 0.47x103Ab 
+-** 
+Ceramics 
+0.7x102Aa 
+0.2x103Ca 
+0.17x103Aa 
+-** 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+10 
+ 
+The results, according to the variables smell, color, texture, surface aspect (based on its 
+cleanliness and brightness), utilized to evaluate the acceptability of the disinfectant are 
+described in Table 5. In all the evaluated criteria there was a higher acceptability of the 
+disinfectant made from L. ferrea leaves, with a higher frequency of acceptance (83.6%) in the 
+aroma. There is no report of natural products utilized as disinfectants, regarding acceptability. 
+However, Teixeira and Becker (2017) claim that the best product for disinfection and 
+sanitation in surfaces is the 70% alcohol, since it is so effective as sodium hypochlorite, with 
+a contact of at least 10 minutes. 
+ 
+Table 5. Mean values ± standard deviation (SD) and accumulated frequency (%) of the notes 
+between 6 and 9 assigned to the acceptability criteria of the utilized disinfectants. 
+Variables 
+Experimental groups 
+p-value 
+Jucá disinfectant 
+Common disinfectant 
+Mean ± SD 
+% 
+Mean ± SD 
+% 
+Aroma 
+7.33 ± 1.52 
+83.6 
+4.36 ± 2.05 
+27.3 
+<0.001* 
+Color 
+5.44 ± 1.18 
+36.4  
+4.64 ± 1.41 
+23.6 
+<0.001* 
+Texture 
+6.35 ± 1.21 
+74.5  
+4.91 ± 1.55 
+30.9 
+<0.001* 
+Surface aspect 
+6.95 ± 1.38 
+81.8  
+4.67 ± 1.72 
+25.5 
+<0.001* 
+*Statistical difference (p < 0.05 — Wilcoxon); SD: standard deviation. 
+ 
+ 
+CONCLUSION 
+ 
+ 
+The decoction and extract of L. ferrea may be utilized as an efficient alternative of 
+disinfectant measurement, because it has antimicrobial activity in Gram-positive and negative 
+strains. It can also be used due to its reduction of the bacterial charge in the tested surfaces 
+and its excellent acceptability by the audience. 
+ 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+11 
+ 
+ETHICS AND BIOSAFETY COMMITTEE 
+ 
+ 
+It was submitted and consequently approved by the Comitê em Ética e Pesquisa da 
+Universidade Estadual do Rio Grande do Norte under CAAE: 03621718.0.0000.5294 and 
+protocol number: 3.147.117. 
+ 
+ 
+AUTHORS’ CONTRIBUTIONS 
+ 
+ 
+Francisco Marlon Caneiro Feijó and Nilza Dutra Alves created the research project and 
+monitored all the research stages. Jamile Rodrigues Cosme de Holanda, Caio Sérgio Santos 
+and Gardênia Silvana de Oliveira Rodrigues set up the experiments and collected the data. 
+After data collection, Wesley Adson Costa Coelho and Jamile Rodrigues Cosme de Holanda 
+analyzed the data and prepared the entire article. All authors read and approved the final 
+article. 
+ 
+ 
+CONFLICT OF INTERESTS 
+ 
+ 
+The authors declare there is no conflict of interests. 
+ 
+ 
+FINANCING 
+ 
+ 
+None. 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+12 
+ 
+REFERENCES 
+ 
+ 
+BESERRA, F. J.; MELO, L. R. R.; RODRIGUES, M. C. P.; SILVA, E. M. C.; NASSU, R. T. 
+Development and physico-chemical and sensory characterization of a ham-like cooked 
+product 
+of 
+goat 
+meat. 
+Ciência 
+Rural, 
+v. 
+33, 
+n. 
+6, 
+p. 
+1141-1147, 
+2003. 
+http://dx.doi.org/10.1590/S0103-84782003000600022 
+DOLAN, R. M.; COSTERTON, W. Bioﬁlms: Survival Mechanisms of Clinically Relevant 
+Microorganisms. 
+Clinical 
+Microbiology, 
+v. 
+15, 
+n. 
+2, 
+p. 
+167-193, 
+2002. 
+https://doi.org/10.1128/CMR.15.2.167-193.2002 
+DUFFY, C. F.; POWER, R. F. Antioxidant and antimicrobial properties of some Chinese 
+plant extracts. International Journal of Antimicrobial Agents, v. 17, n. 6, p. 527-529, 2001. 
+https://doi.org/10.1016/S0924-8579(01)00326-0 
+ENGEL, J. B.; HECKLER, C.; TONDO, E. C.; DAROIT, D. J.; MALHEIROS, P. S. 
+Antimicrobial activity of free and liposome-encapsulated thymol and carvacrol against 
+Salmonella and Staphylococcus aureus adhered to stainless steel. International Journal of 
+Food 
+Microbiology, 
+v. 
+252, 
+p. 
+18-23, 
+2017. 
+https://doi.org/10.1016/j.ijfoodmicro.2017.04.003 
+FREITAS, A. V. L.; COELHO, M. F. B.; PEREIRA, Y. B.; FREITAS NETO, E. C.; 
+AZEVEDO, R. A. B. Diversidade e usos de plantas medicinais nos quintais da comunidade de 
+São João da Várzea em Mossoró, RN. Revista Brasileira de Plantas Medicinais, v. 17, n. 4, 
+suppl. 2, p. 845-856, 2015. https://doi.org/10.1590/1983-084X/14_080 
+GOMES, T. M. F.; LOPES, J. B.; BARROS, R. F. M.; ALENCAR, N. L. Plantas de uso 
+terapêutico na comunidade rural Bezerro Morto, São João da Canabrava, Piauí, Brasil. Gaia 
+Scientia, 
+v. 
+11, 
+n. 
+1, 
+p. 
+253-268, 
+2017. 
+https://doi.org/10.22478/ufpb.1981-
+1268.2017v11n1.33683 
+HASSAN, S. K.; EL-SAMMAD, N. M.; MOUSA, A. M.; MOHAMMED, M. H.; FARRAG, 
+A. R. H.; HASHIM, A. N. E.; WERNER, V.; LINDEQUIST, U.; NAWWAR, M. A. El-M. 
+Hypoglycemic and antioxidant activities of Caesalpinia ferrea Martius leaf extract in 
+streptozotocin-induced diabetic rats. Asian Pacific Journal of Tropical Biomedicine, v. 5, n. 
+6, p. 462-471, 2015. https://doi.org/10.1016/j.apjtb.2015.03.004 
+LEONEZ, C. F.; FEIJÓ, F. M. C.; ALVES, N. D.; SANTOS, C. S.; RODRIGUES, G. S. O.; 
+FERNANDES, F. C.; MATOS, T. M. Efficacy of the decoction of cashew leaf (Spondias 
+mombin L.) as a natural antiseptic in dairy goat matrices. African Journal of Agricultural 
+Research, v. 13, n. 13, p. 644-649, 2018. https://doi.org/10.5897/AJAR2017.12751 
+LIMA, S. M. A.; ARAÚJO, L. C. C.; SITÔNIO, M. M.; FREITAS, A. C. C.; MOURA, S. L.; 
+CORREIA, M. T. S.; MALTA, D. J. N.; GONÇALVES-SILVA, T. Anti-inflammatory and 
+analgesic potential of Caesalpinia ferrea. Brazilian Journal of Pharmacognosy, v. 22, n. 1, 
+p. 169-175, 2012. https://doi.org/10.1590/S0102-695X2011005000197 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+13 
+ 
+MAGALHÃES, I. L.; PINTO, F. C. L.; BRAZ FILHO, R.; FERREIRA, D. A.; LEMOS, T. L. 
+G.; MONTE, F. J. Q. Chemical Constituents from Caesalpinia ferrea: Identification and 1H 
+and 13C Resonance Assignment. American Journal of Analytical Chemistry, v. 5, n. 10, p. 
+688-694, 2014. https://doi.org/10.4236/ajac.2014.510077 
+MOREIRA, F. R.; OLIVEIRA, F. Q. Levantamento de plantas medicinais e fitoterapicos 
+utilizados na comunidade quilombola - pontinha de paraopeba, Minas Gerais, Brasil. Revista 
+Brasileira de Ciência da Vida, v. 5, n. 5, p. 1-24, 2017. 
+MOTA, F. C. M.; FERREIRA, J. C. S.; IMAÑA, J. M. E. Analysis of growth Caesalpinia 
+ferrea MART. on campus of the University of Brasilia, Federal District. Revista Verde de 
+Agroecologia e Desenvolvimento Sustentável, Mossoró, v. 7, n. 4, p. 195-200, 2012. 
+Available 
+at: 
+<https://www.researchgate.net/publication/303820543_Analise_do_crescimento_de_Caesalpi
+nia_ferrea_MART_no_campus_da_Universidade_de_Brasilia_DF>. Accessed on: jul., 2018. 
+NÓBREGA, G. A.; DANTAS, W. S.; SILVA, V. P. Percepção ambiental de donas de casa 
+sobre o uso de produtos químicos em domicílios e estratégias sustentáveis. Holos, ano 26, v. 
+4, p. 47-73, 2010. https://doi.org/10.15628/holos.2010.435 
+OLIVEIRA, A. D. N.; ANDRADE, K.; MENDES, L. G.; KOHLER, L. M. Análise da ação 
+antibacteriana de desinfetantes de uso doméstico e desafios no uso correto: Uma Revisão. 
+Revista de Educação Meio Ambiente e Saúde, v. 7, n. 3, p. 57-68, 2017. Disponível em: 
+<http://www.faculdadedofuturo.edu.br/revista1/index.php/remas/article/view/147/234>. 
+Accessed on: jan., 2019. 
+PAGANI, A. A. C.; SILVA, G. F., CARNELOSSI, M. A. G.; MORAIS, A. B. L.; FRANÇA, 
+K. L.; SANTOS, J. Processamento de sorvete por congelamento convencional e criogênico: 
+Teste de aceitabilidade. In: INTERNATIONAL SYMPOSIUM ON TECHNOLOGICAL 
+INNOVATION, 6., 2015. Annals […], p. 37-46, 2015. https://doi.org/10.7198/S2318-
+3403201500030005 
+PEREIRA, L. P.; MOTA, M. R. L.; BRIZENO, L. A. C.; NOGUEIRA, F. C.; FERREIRA, E. 
+G. M.; PEREIRA, M. G.; ASSEREUY, M. S. Modulating effect of a polysaccharide-rich 
+extract of Caesalpinia ferrea stem bark on wound healing of rats: role of TNF-α, IL-1β, NO, 
+TGF-β. 
+Journal 
+of 
+Ethnopharmacology, 
+v. 
+187, 
+p. 
+213-223, 
+2016. 
+https://doi.org/10.1016/j.jep.2016.04.043 
+REIS, C. R. M.; PEREIRA, A. F. N.; CANSANÇÃO, I. F. Levantamento etnobotânico de 
+plantas medicinais utilizadas por moradores do entorno do Parque Nacional Serra Da 
+Capivara – PI. Journal of Biology & Pharmacy Agricultural Management, v. 13, n. 4, p. 
+7-21, 
+2017. 
+Available 
+at: 
+<http://revista.uepb.edu.br/index.php/biofarm/article/view/2924/2369>. Accessed on: nov., 
+2018. 
+TEIXEIRA, C. A.; BECKER, A. P. Evaluation of the viability of pathogenic bacteria on 
+surfaces and the efficacy of sanitizers. Disciplinarum Scientia, v. 18, n. 2, p. 207-213, 2017. 
+Disponível 
+em: 
+<https://www.periodicos.ufn.edu.br/index.php/disciplinarumS/article/view/2160/2072>. 
+Accessed on: fev., 2019. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+14 
+ 
+THOMAZI, G. C.; BERTOLIN, A. O.; PINTO, M. D. S. Atividade antibacteriana in vitro do 
+barbatimão e da mangabeira contra bactérias relacionadas às infecções do trato urinário. In: I 
+Seminário Internacional de Ciências do Ambiente e Sustentabilidade na Amazônia, 1., 2010, 
+Manaus. Annals [...]. Manaus: UFAM. Available at: <www.even3.com.br/anais/5SICASA>. 
+Accessed on: Jan. 8, 2019. 
+TORTORA, G. J.; FUNKE, B. R.; CASE, C. L. Microbiologia. Porto Alegre: Artmed, 2012. 
+VASCONCELOS, C. F. B.; MARANHÃO, H. M. L.; BATISTA, T. M.; CARNEIRO, E. M.; 
+FERREIRA, F.; COSTA, J.; SOARES, L. A. L.; SÁ, M. D. C.; SOUZA, T. P.; 
+WANDERLEY, A. G. Hypoglycemic and chronic activity of Caesalpinia ferrea Martius bark 
+extract in streptozotocin-induced diabetes in Wistar rats. Journal of Ethnopharmacology, v. 
+137, n. 3, p. 1533-1541, 2011. https://doi.org/10.1016/j.jep.2011.08.059 
+VÁSQUEZ, S. P. F.; MENDONÇA, M. S.; NODA, S. N. Etnobotânica de plantas medicinais 
+em comunidades ribeirinhas do Município de Manacapuru, Amazonas, Brasil. Acta 
+Amazônica, v. 44, n. 4, p. 457-472, 2014. https://doi.org/10.1590/1809-4392201400423 
+VOLKART, P. A.; SPAGIARI, M. S.; BIZZANI, D. Avaliação da susceptibilidade e 
+resistência bacteriana aos agentes controladores do crescimento de uso hospitalar e industrial. 
+Arquivos de Ciências da Saúde da UNIPAR, v. 21, n. 1, p. 25-32, 2017. 
+https://doi.org/10.25110/arqsaude.v21i1.2017.5729 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/SciELOPreprints.2141
+Powered by TCPDF (www.tcpdf.org)

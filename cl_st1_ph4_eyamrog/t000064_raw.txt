@@ -1,0 +1,800 @@
+Publication status: Preprint has been published in a journal as an article
+DOI of the published article: https://doi.org/10.1590/2236-8906-109/2020
+Leaf anatomy and photosynthetic parameters of Vellozia
+squamata Pohl (Velloziaceae) grown under different light
+intensities along in vitro cultivation
+Elson Rangel Calazans Júnior, Conceição Eneida dos Santos Silveira, Olegário Garcia de Freitas-
+Neto, Dario Palhares, Luiz Alfredo Rodrigues Pereira, Sueli Maria Gomes
+https://doi.org/10.1590/2236-8906-109/2020
+Submitted on: 2022-01-27
+Posted on: 2022-01-28 (version 1)
+(YYYY-MM-DD)
+Powered by TCPDF (www.tcpdf.org)
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+Leaf anatomy and photosynthetic parameters of Vellozia squamata Pohl (Velloziaceae) grown 
+under different light intensities along in vitro cultivation1 
+ 
+ 
+Elson Rangel Calazans Júnior2, Conceição Eneida dos Santos Silveira2, Olegário Garcia de Freitas-Neto2, 
+Dario Martins Palhares de Melo2,3, Luiz Alfredo Rodrigues Pereira2 and Sueli Maria Gomes2 
+ 
+ 
+Short title: Leaf anatomy and photosynthetic parameters of Vellozia squamata 
+ 
+ 
+ 
+Elson Rangel Calazans Júnior: https://orcid.org/0000-0003-1744-7477 
+Conceição Eneida dos Santos Silveira: https://orcid.org/0000-0002-2854-2835 
+Olegário Garcia de Freitas-Neto: https://orcid.org/0000-0002-4009-9602 
+Dario Palhares: https://orcid.org/0000-0001-7409-1521 
+Luiz Alfredo Rodrigues Pereira: https://orcid.org/0000-0001-8204-2586 
+Sueli Maria Gomes: https://orcid.org/0000-0002-6234-7777 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Part of Master of Science of Olegário Garcia de Freitas-Neto 
+2. Universidade de Brasília, Instituto de Ciências Biológicas, Campus Universitário Darcy Ribeiro, 
+Bloco E s/n 1º andar, Asa Norte, 70919-900 Brasília, DF, Brazil 
+3. Corresponding author: dariompm@unb.br 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+ABSTRACT – (Leaf anatomy and photosynthetic parameters of Vellozia squamata Pohl 
+(Velloziaceae) grown under different light intensities along in vitro cultivation). The present work 
+evaluates photosynthetic parameters and the leaf anatomy of plants of Vellozia squamata Pohl 
+(Velloziaceae) in each phase of in vitro production, with wild plants serving as a control. The 
+anatomical approach was done for the leaf middle portion. The photosynthetic curves were obtained 
+with an infra-red gas analyzer. The in vitro plantlets showed the thinner and poorest developed leaves, 
+the wild plants had the thickest and most developed leaves, and the plants in acclimatization showed 
+intermediate features. The physiological pattern was similar, and the in vitro plantlets were not 
+capable of net carbon absorption. The young seedlings at the garden showed a maximal net carbon 
+assimilation rate inferior to the wild plants. In conclusion, the light intensity for the in vitro phase 
+should be adjusted to produce seedlings. 
+Keywords: acclimatization, Cerrado, conservation, cultivation, shading 
+ 
+RESUMO – (Anatomia foliar e parâmetros fotossintéticos de Vellozia squamata Pohl (Velloziaceae) 
+desenvolvendo-se sob diferentes intensidades luminosas ao longo do cultivo in vitro). O presente 
+trabalho avalia parâmetros fotossintéticos e a anatomia foliar de Vellozia squamata Pohl 
+(Velloziaceae) em cada etapa da produção in vitro, sendo as plantas silvestres o grupo-controle. A 
+abordagem anatômica foi feita para a porção mediana foliar. As curvas fotossintéticas foram obtidas 
+com analisador de gases por infravermelho. As plântulas in vitro apresentaram folhas mais delgadas 
+e menos desenvolvidas, as silvestres apresentaram folhas mais espessas e desenvolvidas e aquelas em 
+aclimatação exibiram características intermediárias. As plântulas in vitro não foram capazes de 
+absorção líquida de carbono. As plântulas jovens de casa-de-vegetação exibiram taxa líquida de 
+assimilação de carbono inferior às selvagens. Em conclusão, para o cultivo in vitro as intensidades 
+luminosas para a produção de mudas devem ser melhor ajustadas. 
+Palavras-chave: aclimatação, Cerrado, conservação, cultivo, sombreamento 
+ 
+Introduction 
+ 
+Plants of the genus Vellozia (Velloziaceae) grow in the African and South American 
+savannahs and are more frequent in open vegetations, such as rupestrian fields or Cerrado stricto 
+sensu (Ayensu 1969, Coetzee 1974, Mello-Silva & Menezes 1999, Batista 2016). They are highly 
+resistant to fire and drought (Owoseye & Sanford 1972) and show stems capable to absorb water 
+(Oliveira et al. 2005). Often, they produce resins and several secondary metabolites of medicinal 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+interest (Quintao et al. 2013), including the inhibition of the venom of snakes (Tribuiani et al. 2014). 
+Some species have been used as ornamental (Souza 2005), and it can be attributed to their big showy 
+flowers and peculiar architecture. Unfortunately, these plants are somehow endangered by the 
+extractivism and expansion of crop cultures. 
+The plants of the genus Vellozia produce a large amount of small seeds that are transported 
+by wind, they are resistant to high temperatures, and show high and quick germinability (Menezes 
+1977, Oliveira et al. 1991, Garcia & Diniz 2003, Palhares 2004, Garcia et al. 2007, Jacobi & Sarto 
+2007, Mota & Garcia 2013, Vieira et al. 2017). However, Alves (1994) observed that the growth is 
+very slow in Vellozia species, ranges from about 0.5 to 2.0 cm per year, and almost no young plants 
+were seen in the field, in spite of their high frequency in the Campo Rupestre. The plants of about 
+1.80 to 3.30 m were actually centenary plants, therefore, although they occupy the open fields, they 
+are not pioneer plants but establish later in the ecosystem, i.e. they are climax plants (Alves 1994). 
+Vellozia squamata Pohl, sometimes named by its synonym, Vellozia flavicans Mart ex Schult 
+(Smith & Ayensu 1974), is a common species from the Cerrado of the central region of Brazil (Flora 
+do Brasil 2020). The obtention of seedlings from seeds of this species failed due to a high mortality 
+of the young plants (Neto 2009), just as other Vellozia species (Alves 1994). Also, the production of 
+seedlings by stem cuttings ended unsuccessfully (Neto 2009). 
+While Borges (2015) reported only a partial success in the micropropagation of V. sincorana, 
+Neto (2009) managed to micropropagate V. squamata. Some individuals of the micropropagated V. 
+squamata were planted in gardens and have been growing since then, for more than a decade, having 
+reached about 20 cm (figure 5 e, C.E.S. Silveira, not published data). So, the in vitro propagation 
+protocol of Vellozia squamata somehow overcame unknown factors that generate high loss of 
+seedlings produced via seeds. 
+Overall, the transition between the in vitro phase to rooting phase has been a limiting point in 
+the production of seedlings, as the seedlings, which had grown heterotrophically and under low light 
+intensities, are then planted in a place where they must turn into plentifully autotrophic (Kaur 2015). In 
+the protocol of Neto (2009), this transition has given to a loss of about 55% of the seedlings, but once 
+passed this phase, the survival has been high, of about 95%, that is, once surviving and grown under 
+greenhouse conditions, the seedlings could be cultivated outside. As for a comparison, in the protocol 
+of micropropagation of the Cerrado species Jacaranda ulei Bureau & K. Schum., the survival in the 
+transition between in vitro and rooting phase has been around 80% (Silveira et al. 2018). 
+To improve the in vitro protocol, it is important to know physiological aspects of the wild 
+species and seedlings at each one of their phases (Kaur 2015). The leaf photosynthetic curves are one 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+of the most important physiological features to be known, as these curves can point out the ability of 
+a small plant in establishing an autotrophic metabolism (Leite et al. 2017). 
+There have been many reports on the anatomy of Velloziaceae species (Ayensu 1968, 1969, 
+1974; Menezes 1977, 1988; Coetzee 1974; Ayensu & Skvarla 1974; Menezes & Semir 1991; Amaral 
+& Mello-Silva 2008; Mello-Silva 2010), including V. squamata (Ayensu 1974, Menezes 1977). 
+However, none of which described the leaf anatomy of micropropagated plants either anatomical 
+responses to shading for those species. In addition, there is no anatomical report of Vellozia species 
+grown in vitro at all. Therefore, the present paper aims to verify the impact of the conditions of in 
+vitro micropropagation in the photosynthetic responses and in the leaf anatomical structure of V. 
+squamata. 
+ 
+Materials and Methods 
+ 
+Plant material and treatments - The control group was five individuals of Vellozia squamata naturally 
+found at Parque Ecológico Burle Max, Brasília, DF, Brazil, selected in a convenience sample due to 
+easy access and apparently healthy vigor. For details of climate and soil, consult Bucci et al. (2006). 
+Voucher specimens were deposited at the herbarium UB under the numbers UB0028356 and 
+UB0028358. Seeds were harvested, put to germinate and the plantlets were sectioned and submitted 
+to the protocol of micropropagation of Neto (2009). The hallmarks of this protocol for the present 
+study area: a) plantlets in culture medium (Murashige-Skoog medium added with sucrose and 
+phytoregulators kinetin, indol-butyric acid and gibberellin); b) seedlings under acclimatization in a 
+greenhouse in pots containing soil; c) cultivation outside, in garden conditions. Thus, the following 
+experimental treatments were: a) plantlets in culture medium growing under photosynthetically active 
+radiation (PAR) of 32 µmol m-2 s-1, photoperiod of 12/12 h and controlled temperature of 27 ± 2 °C; 
+b) rooted seedlings in condition of a greenhouse, under partial shade, with maximal PAR of 412 µmol 
+m-2 s-1, as measured by a portable refractometer Apogee Instruments®; c) plants obtained by 
+micropropagation and cultivated in an external garden, in treated and fertilized soil, exposed to the 
+natural environmental conditions of Cerrado (annual cycle of drought and rains). The wild plants 
+were the control. 
+Leaf anatomy - The leaf anatomy was carried out by transversal sections of the middle third of three 
+well developed leaves in each of the groups. The fresh sections were fixed in FAA70 under vacuum, 
+dehydrated in ethanolic series, included in resin Leica® and stained with toluidine blue or safranine 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+plus Astra blue, according Johansen (1940) and Kraus & Arduin (1997). The slides were mounted 
+with colourless glass varnish according to Paiva et al. (2006). 
+Light response curves - For each treatment, two leaves per plant from five plants (n = 10 
+measurements) were analyzed. From each leaf, the curve of light intensity/net carbon absorption (A, 
+µmol CO2 m-2 s-1) was obtained with a portable infra-red gas analyzer (IRGA) model LI-6400XT, 
+manufactured by LI-COR Bioscience®. Since the leaves of the in vitro plantlets and the recently 
+rooted seedlings were too small to completely fill the leaf chamber of the IRGA, data were adjusted 
+according to the leaf area. 
+The IRGA was adjusted as to keep an air flow of 500 µL.s-1 and carbon dioxide of reference 
+of 400 ppm. The relative air humidity of the reference air was about the same in the treatments, as 
+follows: control group: 45%; plantlets in vitro: 38%; seedlings in the greenhouse: 36%; garden 
+condition: 44%. The air temperature at the time of the measurements were in a favorable physiologic 
+condition, as follows: control group: 25.5 ± 0.5 °C; in vitro plantlets: 26.0 ± 0.1 °C; seedlings in the 
+greenhouse: 30.4 ± 0.7 °C; garden condition: 31.3 ± 1.2 °C. The light intensities were previously 
+selected, varying from zero to 1,600 µmol m-2 s-1. 
+After each change in the light intensity, the IRGA was programmed to record the value after 
+it had stabilized. In half of the measurements, the curve was carried out in ascendant way and in the 
+other half, in descendant way of light intensity. For the plants of open conditions (garden and control 
+group - ecological park), the measurements were taken between 09:00 and 10:00 AM during the rainy 
+season; and besides the curve A/light, the gas exchange rates were also measured under the natural 
+light intensity, of about 2,200 µmol m-2 s-1. 
+Also, the transpiration rate was measured, and the water use efficiency (WUE) was considered 
+as the ratio between the mean of the carbon absorption rate and the transpiration rate as seen in Field 
+et al. (1983) and Medrano et al. (2015). 
+Chlorophyll content - The leaf chlorophyll content was estimated with a chlorophylometer Opti-
+Sciences CCM-200®, in two leaves per plant of five plants in each experimental treatment. According 
+to the manufacturer, this device does not measure the chlorophyll content directly, since it analyzes 
+the leaf transmittance of light, expressing the results in CCI - chlorophyll content index. Hence, it 
+serves as for comparison among treatments. 
+Statistical analysis - The light response curves were adjusted to the model of Prado & Moraes (1997): 
+Ameas = Amax (1- e-k(PAR-Lcp)), in which Ameas means carbon assimilation rate under a given light 
+intensity; Amax means the maximal carbon assimilation rate measured; k is a constant calculated for 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+each curve; PAR means the given light intensity and Lcp means the light compensation point. Data 
+were compared via Student´s T-test with the support of the open access graph software Libre Office. 
+ 
+Results 
+ 
+Physiological parameters and light response curves - The physiological parameters obtained are 
+summarized in table 1 and figures 1 to 4 show the curves of light response of CO2 absorbance. In the 
+control group and in the plants growing in the garden, at a light intensity of 900 µmol m-2 s-1, the 
+leaves reached about 90% of the maximum carbon absorption rate. Since most of the leaves had 
+peaked in the carbon absorption rate, this was considered as the light saturation point. For the light 
+intensities of more than the double of this point, the carbon absorption rate was kept, hence there were 
+no signs of photoinhibition (figures 1, 2, 4). In the open groups (wild plants and garden plants), the 
+carbon absorption rates under the natural sun light (PAR of about 2,000 µmol m-2 s-1) were the same 
+as the maximal rates measured by the IRGA (maximal PAR of 1,600 µmol m-2 s-1), so the data of 
+Amax were grouped together. 
+There were clear differences in the photosynthetic parameters among the treatments. In the in 
+vitro plants, some leaves were capable to absorb some carbon dioxide, mostly under light intensities 
+between 100 and 200 µmol m-2 s-1, but overall, the measurements showed only the respiration values, 
+as the maximal values of A were of -0.35± 1.25 µmol CO2 m-2 s-1. As seen in figure 3, the leaves of 
+the in vitro plantlets showed a random pattern of respiration up to light intensity of 100 µmol m-2 s-1, 
+above which they showed a reduction of the respiration rates up to the light intensity of 900 µmol m-
+2 s-1. To light intensities higher than that, there was a slight deterioration in the respiration rate, 
+suggesting photodamage. In this way, to the in vitro plants, there was no light compensation point. 
+The plants growing in the greenhouse were exposed to a maximum light intensity of about 
+412 µmol m-2 s-1, that is, a little bit less than half of the light saturation point of the wild (control) 
+plants (table 1). The maximum carbon absorption rate was inferior to the wild and the garden plants, 
+but the shape of the light response curve followed a pattern as expected. To the greenhouse plants, 
+although the light saturation point was of about 200 µmol.m-2.s-1, the carbon absorption rate was kept 
+under higher light intensities, suggesting there was no photoinhibition (figure 2). 
+The leaf transpiration rates were kept constant throughout the measurements for the light 
+response curves but varied among the experimental groups. The wild plants showed the higher 
+transpiration rates, followed by the in vitro plants. The plants growing in the greenhouse and at the 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+garden showed similar transpiration rates, but inferior to the wild plants. Thus, the instantaneous 
+water use efficiency was higher in the young, garden growing plants than adult wild plants (table 1). 
+The chlorophyll content was slightly greater in the plants growing in the greenhouse than in 
+vitro, but significantly inferior to those in the garden (table 1). This content was greater in the garden 
+plants than the greenhouse ones, but inferior to the wild plants, and the leaves presented a tonality of 
+a lighter green, but not suggesting chlorosis, since the color intensity was uniform (figure 5). 
+Leaf anatomy - The anatomical analysis showed the effects of environmental and growth conditions 
+on the structure of V. squamata leaves (figure 6). In all leaves, the epidermis was single layered and 
+without trichomes. In leaves of field grown plants (control group) and of garden condition (figures 6 
+a, f), the abaxial surface was smooth and the adaxial was corrugated. On the other hand, there was no 
+visible epidermal ornamentation in leaves of in vitro grown plantlets nor of greenhouse acclimatizing 
+plants (figures 6 d, e). 
+In the control group and in the garden group, the external periclinal cell wall and cuticle could 
+not be distinguished from one another (figures 6 a, b, f), and these layers are called here the outer 
+layer of epidermal cells. Hence, this layer in the plants under plentiful sunlight was considerably 
+thicker (figures 6 a-c) than those in the other growth conditions (figures 6 d-e). Nonetheless, the 
+epidermis presented an intermediate thickness in plants in the greenhouse condition (figure 6 e). 
+With respect to stomata disposition, V. squamata leaves were amphistomatic, and the stomata 
+on the abaxial face were mainly found in crypts, which reached about a quarter of the leaf thickness 
+(figure 6 a). These features were more noticeable in the control group and in the garden plants. It is 
+noteworthy that in vitro plantlets did not develop stomatal crypts, and the stomata were rudimentary 
+(figure 6 d). Additionally, plants in the greenhouse process had smaller and shallower crypts (figure 
+6 e) than those of field plants (control group) with fully developed stomata (figure 6 a). 
+The leaf mesophyll from control group plants was dorsiventral and composed of 21-25 
+parenchyma layers, which cells are elongated on the adaxial side and gradually diminishes in height 
+towards the abaxial side, getting a rounded shape (figure 6 a, f). Both in vitro and greenhouse plants had 
+a dorsiventral mesophyll (figures 6 d-e). Nevertheless, in these plants, the mesophyll presented a less 
+dense cell arrangement than the mature leaves from the control (figures 6 a, f). Additionally, each leaf 
+face of greenhouse, garden and control plants, the mesophyll possessed subepidermal fibre fascicles, 
+which was more abundant in leaves from the control and garden plants (figures 6 a, f). Conversely, these 
+fibre fascicles were not observed in leaves from the in vitro grown plants (figure 6 d). 
+The paralellodromous leaf veins from the control plants, garden and in greenhouse had a 
+conspicuous vascular bundle sheath (figures 6 a, e-f). In addition, the bundle sheaths had extensions 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+on the adaxial side with large colourless palisade cells termed as aquiferous (figures 6 a, e-f). This 
+parenchyma connected the bundle sheath to subepidermal fibre fascicles on the adaxial epidermis 
+(figures 6 a, e-f). On the abaxial epidermal face, the sheath was in direct contact with the epidermis 
+(figures 6 a, e-f). Leaves from in vitro plants have bundle sheaths with no extensions (figure 6 d). 
+The vascular bundles were heavily fibrous with two strands of phloem placed laterally to the 
+xylem (figures 6 a, e-f). However, this feature was less pronounced in leaves from in vitro plants 
+(figure 6 d). The vascular fibres had thick lignified cell walls (figures 6 a, e-f). The vascular fibres 
+were present in a greater amount in the control plants, in an intermediate amount in the greenhouse 
+plants and in a small amount in the in vitro plants (figures 6 a, e-f). 
+ 
+Discussion 
+ 
+The species of Vellozia grown in open fields show a strong photodissipating apparatus, which 
+is important to protect the leaves from the stressful conditions of Cerrado - the dry season together 
+with a high solar irradiance. Tocotrienols, which are strong antioxidant compounds of vitamin E 
+complex basically found in seeds, have been identified in leaves of V. gigantea (Morales et al. 2014, 
+2015). Thus, at the same time those plants dissipate excess of light, they need high light intensities 
+for total development of the photosynthetic apparatus and leaf structure. 
+The light intensity effect on photosynthetic aspects of Vellozia leaves has been more frequently 
+evaluated by the electron transport rate. In several species of Vellozia, this rate is maximal under 
+photosynthetically active radiation (PAR) intensities of about 2,100 µmol.m-2.s-1, which is coincident 
+to the values commonly found in Cerrado, i.e. ca. 1,800 to 2,200 µmol.m-2.s-1 at midday (Lüttge et al. 
+2007). As for a comparison, the maximal electron transport rate of Smilax goyazana, a common shrub 
+of Cerrado, occurs at about half of the maximal PAR of the environment (Palhares et al. 2011). 
+The leaves from plants grown in vitro conditions show typical effects of shading (Barboza et 
+al. 2006, Chaari-Rkhis et al. 2015, Ziv & Chen 2008), with poorly developed anatomical structures, 
+including stomata. Moreover, some ultrastructural features of shaded leaves are the limited 
+cytoplasmic content and flattened chloroplast with an irregularly arranged internal membrane system 
+and a higher proportion of intercellular spaces (Wetzstein & Sommer 1982, Chirinéa et al. 2012). In 
+the present work, some of these features include qualitative alterations, as the absence of aquiferous 
+cells, subepidermal sclerenchyma fascicles, and stomatal crypts. 
+It is noteworthy that the depth of the crypts reflected the growth condition. The stomatal crypts 
+in the leaves are deeper in the control (field) and garden than greenhouse plants, and they were totally 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+absent in plants grown in vitro. They are already present in the young leaves of field plants (figure 6 
+d). It is surprising that the presence of leaf crypts is not a genetical imposition for V. squamata. 
+Furthermore, leaves from in vitro plants of V. squamata presented several structural 
+differences in comparison with plants in acclimatization: they had no subepidermal fibres, subtler 
+dorsiventral mesophyll, undifferentiated bundle sheath extension, fewer vascular system fibres, as 
+well as a lack of aquiferous parenchyma. The aquiferous tissue remains in the leaves from pineapple 
+(Ananas comosus L.) grown in vitro (Barboza et al. 2006), so qualitative alterations like those 
+observed in V. squamata are no ordinary thing, mainly the absence of stomatal crypts and 
+subepidermal fibres. 
+The above differences can be directly associated with the low light levels and perhaps to the 
+high humidity of the in vitro condition. The anatomical results indicated that V. squamata grown in 
+vitro requires a longer and careful conducted acclimatization process. 
+The anatomical immaturity is linked to the immaturity of the photosynthetic apparatus. In the 
+present case, the in vitro plantlets have inability of net carbon absorption, together with a high leaf 
+transpiration rate, indicating dysfunctional stomata. A given light intensity may be enough for the 
+plain development of the leaves of a given species, but insufficient for others. Thus, comparing with 
+other Cerrado species cultivated in vitro, Lippia rotundifolia develops leaves capable of liquid carbon 
+absorption under PAR of 78 µmol m-2 s-1 (Hsie et al. 2019), while Hanconia speciosa and Hyptis 
+marrubioides showed carbon absorption under PAR of 50 µmol m-2 s-1 (Costa et al. 2014). 
+Regarding crop cultures, in the production of in vitro seedlings of strawberry (Grout & Millan 
+1985) and grape (Amancio et al. 1999), the growth under a PAR of 90 µmol m-2 s-1 generates 
+photosynthetically capable leaves with light saturation point around 450 µmol m-2 s-1, while in V. 
+squamata, the growth under maximal PAR of 412 µmol m-2 s-1 still showed shade effects. In the 
+Cerrado species Pouteria gardneriana, there were clear differences in the structural development of 
+leaves growing under PAR varying from 75 to 150 µmol m-2 s-1, but the authors had not shown data 
+of wild plants as a control (Leite et al. 2017). 
+According to the data herein presented, even under low PAR intensities there is chlorophyll 
+formation. However, the photosynthetic ability depends on the development of other elements that 
+require higher light intensities. According to Leite et al. (2017), in Pouteria gardneriana the 
+chlorophyll fluorescence did not vary substantially among the plantlets grown under the different 
+PAR intensities, but the anatomical structure was more developed under the higher ones. In grape, 
+the leaves grown in very low PAR intensities (as of 20 µmol m-2 s-1) release oxygen, indicating that 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+the photosynthetic apparatus is capable of carrying out photolysis of water, but they are not capable 
+of carrying out net absorption of carbon dioxide (Amancio et al. 1999). 
+In the present experiment, the chlorophyll content was not directly measured, but the 
+comparison carried out showed that the plants in the greenhouse, partially shaded, had about the 
+double of chlorophyll (2.99 CCI) as the plantlets in vitro (1.37 CCI) but a little bit less than half of 
+the open garden plants (8.70 CCI). However, all the experimental groups showed much less 
+chlorophyll compared to the wild plants (24.6 CCI). Certainly, the improvement of PAR intensity 
+from in vitro to garden condition could explain those differences seen, but it was not clear why the 
+young plants at the garden showed a chlorophyll content of about one third of the wild plants. It is 
+noteworthy that the anatomical structure of the leaves of the plants grown in the garden was overall 
+similar to the plants in the fields, except for a smaller thickness. So, the growth under plentiful 
+sunlight resulted in anatomically mature leaves, but photosynthetically they showed a pattern of 
+relative immaturity. 
+Moreover, the maximum carbon absorption rate of the plants at the garden was about 45% 
+higher than the plants in the greenhouse but about 70% smaller than the wild plants. Spite the 
+statistically significant differences among the experimental groups, some measurements of the 
+maximum carbon absorption rate of the plants at the garden were close to the plants in the greenhouse. 
+It is difficult to find in the field young plants of Vellozia squamata that could serve as for a 
+comparison. It is not clear if the photosynthetic performance of the younger plants is something 
+inherent to their youthfulness or if it is sort of a side effect of the protocol of micropropagation. 
+Indeed, Durkovic et al. (2016) described that the way of obtaining seedlings can interfere in the leaf 
+development, generating leaves with different photosynthetic parameters. 
+Regarding the leaf transpiration rates, the leaves of the plants of either the garden or inside 
+the greenhouse showed differences compared to the wild plants, suggesting that the youthfulness of 
+the plant is a factor that interferes with the physiological parameter of the leaves. Compared to other 
+Cerrado species (Palhares et al. 2010), the adult wild plants of V. squamata showed a low water use 
+efficiency. In this way, the leaves of the younger plants (of garden and greenhouse) presented a lower 
+carbon assimilation rate but a better water use efficiency. Regarding the plantlets of in vitro condition, 
+the higher transpiration rate is common to in vitro plantlets overall. The epidermis and stomata are 
+poorly developed, both structurally and functionally, hence the control of the transpiration is weak, 
+and this is one of the stressing factors during transition from in vitro to greenhouse growth (Van 
+Huylenbroeck et al. 1998, Amancio et al. 1999, Kaur 2015). 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+According Van Huylenbroeck et al. (1998) and Kaur (2015), the in vitro propagated plants 
+can be divided into two functional categories regarding the transition from in vitro to greenhouse 
+phase: plants with photosynthetically incapable, in a which the leaves serve only as reservoir organ 
+for the sprouting, and those photosynthetically active, whose leaves have at least partial development. 
+In this last group, it is often seen that during the first days of transplantation there is a typical stress 
+acute response, such as great rates of transpiration and respiration and eventually a reduction in the 
+chlorophyll content (photobleaching; Van Huylenbroeck et al. 1998, Kaur 2015). 
+After this initial period, not only the leaves become photosynthetically active, but also they 
+often show anatomical changes, such as cellular growth with reduction of stomatal density and 
+differentiation of hairs (Van Huylenbroeck et al. 1998, Kaur 2015). Anyway, in both functional 
+groups the in vitro shaded leaves cannot tolerate the environmental light intensities, but the newer 
+leaves formed under those intermediary light intensities tend to present a light compensation point 
+and a light saturating point like the wild plants, as well as a photo-dissipating apparatus better 
+developed (Van Huylenbroeck et al. 1998, Kaur 2015). 
+The carbon assimilation rates verified in Vellozia squamata are relatively low, compared to 
+other Cerrado species (Palhares et al. 2010), and according to Nogueira et al. (2004) are more typical 
+of secondary than pioneer plants. That is, in spite of the large production of seeds with high 
+germinability, the establishment of Vellozia squamata is related to a complex ecological interaction, 
+highlighting the importance of the conservation of this species in the environment, since even the 
+seedlings herein obtained are of a very slow growth. 
+As a conclusion, for improving the protocols, it is useful to compare the responses of the wild 
+and the in vitro plants. The data herein presented may help to adjust the PAR intensity to obtain more 
+mature seedlings with perhaps a higher survival rate at the transition between in vitro and greenhouse 
+conditions. Therefore, the development of technology for producing seedlings of Cerrado species is 
+a complex task, but of great importance for their conservation and domestication. 
+ 
+Acknowledgements 
+ 
+To the Programa de Pós-Graduação em Botânica, Universidade de Brasília, Instituto de 
+Ciências Biológicas, Brasília, DF, Brazil. This research was sponsored by Coordenação de 
+Aperfeiçoamento de Pessoal de Nível Superior, Fundação de Empreendimentos Científicos e 
+Tecnológicos, and Conselho Nacional de Desenvolvimento Científico e Tecnológico. Janet Nimoh 
+Sallis Mensah reviewed the English grammar and spelling. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+Author Contributions 
+ 
+Elson Calazans: Contribution to data collection; Contribution to data analysis and interpretation; 
+Contribution to critical revision; Contribution to manuscript preparation. 
+Conceição Eneida: Contribution in the concept and design of the study; Contribution to manuscript 
+preparation; Contribution to critical revision, adding intellectual content. 
+Olegário Garcia: Contribution to data collection. 
+Dario Palhares: Contribution in the concept and design of the study; Contribution to data analysis 
+and interpretation; Contribution to manuscript preparation; Contribution to critical revision, adding 
+intellectual content. 
+Luiz Alfredo: Contribution in the concept and design of the study; Contribution to manuscript 
+preparation; Contribution to critical revision, adding intellectual content. 
+Sueli Gomes: Contribution in the concept and design of the study; Contribution to manuscript 
+preparation; Contribution to critical revision, adding intellectual content. 
+ 
+Conflicts of interest 
+ 
+There is no conflict of interest. 
+ 
+Literature cited 
+ 
+Alves, R. 1994. Morphological age determination and longevity in some Vellozia populations in 
+Brazil. Folia Geobotanica et Phytotaxonomica 29: 55-59. 
+Amancio, S., Rebordão, J. & Chaves, M. 1999. Improvement of acclimatization of 
+micropropagated grapevine: photosynthetic competence and carbon allocation. Plant Cell Tissue 
+and Organ Culture 58: 31-37. 
+Amaral, M. & Mello-Silva, R. 2008. Ontogenesis of stomata in Velloziaceae: paracytic versus 
+tetracytic. Acta Botanica Brasilica 31(3): 529-536. 
+Ayensu, E.S. 1968. The anatomy of Barbaceniopsis a new genus recently described in the 
+Velloziaceae. American Journal of Botany 55(4): 399-405. 
+Ayensu, E.S. 1969. Leaf anatomy and systematics of Old World Velloziaceae. Kew Bulletin 23(2): 
+315-335. 
+Ayensu, E.S. 1974. Leaf anatomy and systematics of New World Velloziaceae. Smithsonian 
+Contributions to Botany 15:1-125. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+Ayensu, E.S. & Skvarla, J.J. 1974. Fine Structure of Velloziaceae pollen. Bulletin of the Torrey 
+Botanical Club 101(5): 250-206. 
+Barboza, S.B., Graciano-Ribeiro, D., Teixeira, J.B., Pontes, T.A. & Souza, L.A. 2006. Anatomia 
+foliar de plantas micropropagadas de abacaxi. Pesquisa Agropecuária Brasileira 41(2): 185-194. 
+Batista, D. 2016. Vellozia ramosissima: estrutura populacional, anatomia foliar e avaliação 
+nutricional em áreas de complexos rupestres, sob diferentes substratos, Serra do Espinhaço, MG. 
+Dissertação de Mestrado, Universidade Federal do Vale do Jequitinhonha e Mucuri, Diamantina. 
+Borges, B. 2015. Regeneração in vitro de Vellozia sincorana Ayensu & Smith. M.Sci Dissertation, 
+University of Feira de Santana. 
+Bucci, S.J., Scholz, F.G., Goldstein, G., Meinzer, F.C., Franco, A.C., Campanello, 
+P.,Villalobos-Vega, R., Bustamante, M. & Miralles-Wilhelm, F. 2006. Nutrient availability 
+constraints the hydraulic architecture and water relation in savannah trees. Plant Cell and 
+Environment 29(12): 2153-2167. 
+Chaari-Rkhis, A., Maalej, M., Chelli-Chaabouni, A., Fki, L. & Drira N. 2015. Photosynthesis 
+parameters during acclimattization of in vitro-grown olive plantlets. Photosynthetica 53(4): 613-
+616. 
+Chirinéa, C.F., Pasqual, M., Araujo, A.G., Pereira, A.R. & Castro, E.M. 2012. Acclimatization 
+and leaf anatomy of micropropagated fig plantlets. Revista Brasileira de Fruticultura 34(4): 1180-
+1188. 
+Coetzee, H. 1974. Anatomy of the leaves of the Velloziaceae in South Africa and South West Africa 
+and a key based on leaf anatomy. Dinteria 10: 19-33. 
+Costa, A.C., Rosa, M., Megguer, C.A., Silva, F.G., Pereira, F.D. & Otoni, W. 2014. A reliable 
+methodology for assessing the in vitro photosynthetic competence of two Brazilian savanna 
+species: Hyptis marrubioides and Hancornia speciosa. Plant, Cell, Tissue and Organ Culture 
+117: 433-454. 
+Durkovic, J., Canova, I., Javorikova, L., Kardosova, M., Lagana, R., Priwitzer, T., Longauer, 
+R. & Krajnakova, J. 2016. The effects of propagation techniques on leaf vascular anatomy, 
+modulus of elasticity and photosynthetic traits in micropropagated and grafted plants of the Dutch 
+elm hybrid “Dodoens”. Journal of the American Society for Horticultural Science 141(4): 351-
+362. 
+Field, C., Merino, J. & Mooney, H. 1983. Compromises between water-use efficiency and 
+nitrogen-use efficiency in five species of California evergreens. Oecologia 60: 384-389. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+Flora 
+do 
+Brasil. 
+2020. 
+Jardim 
+Botânico 
+do 
+Rio 
+de 
+Janeiro. 
+Available 
+at 
+http://floradobrasil.jbrj.gov.br (access 26-VI-2021). 
+Garcia, Q. & Diniz, I. 2003. Germinative behavior of three species of Vellozia from Serra do Cipo, 
+MG. Acta Botanica Brasilica 17(4): 487-494. 
+Garcia, Q., Jacobi, C. & Ribeiro, B. 2007. Germination response of two species of Vellozia 
+(Velloziaceae) from the campos rupestres of Minas Gerais, Brazil. Acta Botanica Brasilica 21(2): 
+451-456. 
+Grout, B. & Millam, S. 1985. Photosynthetic development of micropropagated strawberry plantlets 
+following transplanting. Annals of Botany 55: 129-131. 
+Hsie, B.S., Bueno, A.I., Bertolucci, S.K., Carvalho, A.A., Cunha, S.H., Martins, E.R. & Pinto, 
+J.E. 2019. Study of the influence of wavelengths and intensities of LEDs on the growth, 
+photosynthetic pigment, and volatile compounds production of Lippia rotundifolia Cham in 
+vitro. Journal of Photochemistry and Photobiology B. 198: 111577. 
+Jacobi, C. & Sarto, M. 2007. Pollination of two species of Vellozia (Velloziaceae) from high 
+altitude quartzitic grasslands, Brazil. Acta Botanica Brasilica 21(2): 325-333. 
+Johansen, D.A. 1940. Plant microtechnique. Mc Graw Hill, New York, 140 p. 
+Kaur, R. 2015. Photoautotrophic micropropagation, an emerging new vista in micropropagation. 
+Agricultural Reviews 36(3): 198-207. 
+Kraus, J.E. & Arduin, M. 1997. Manual básico de métodos em morfologia vegetal. - Editora da 
+Universidade Rural, Seropédica: Editora da Universidade Rural. 
+Leite, M., Silva, F.G., Assis, E.S., Neto, A.R., Mendes, G.C. & Rosa, M. 2017. Morphoanatomy 
+and physiology of Pouteria gardneriana Radlk plantlets grown in vitro at varied photosynthetic 
+photon flux densities. Acta Scientiarum 39(2): 217-224. 
+Lüttge, U., Duarte, H., Scarano, F., Mattos, E., Cavalin, P., Franco, A. & Fernandes G. 2007. 
+Physiological ecology of photosynthesis of five sympatric species of Velloziaceae in the 
+rupestrian fields of Serra do Cipo, Minas Gerais, Brazil. Flora 202: 637-646. 
+Medrano, H., Tomás, M., Martorell, S., Flexas, J., Hernández, E., Rosselló, J., Pou, A., 
+Escalona, J.M., Bota, J. 2015. From leaf to whole-plant water use efficiency (WUE) in complex 
+canopies: Limitations of leaf WUE as a selection target. The Crop Journal 3(3): 220-228. 
+Mello-Silva, R. & Menezes, N. 1999. Two new Brazilian Velloziaceae, Vellozia auriculata and 
+Vellozia gigantea and a key to the related dracenoid species of Vellozia. Novon 9(4): 536-541. 
+Mello-Silva, R. 2010. Circumscribing Vellozia hirsuta and V. tubiflora (Velloziaceae). Hoehnea 
+37(3): 617-646. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+Menezes, N.L. 1977. Aspectos morfológicos e anatômicos do desenvolvimento de plântulas de 
+Velloziaceae. Boletim de Botânica da Universidade de São Paulo 5:65-77. 
+Menezes, N.L. 1988. Evolution of the anther in the family Velloziaceae. Boletim de Botânica da 
+Universidade de São Paulo 10: 33-41. 
+Menezes, N.L. & Semir, J. 1991. Burlemarxia, a new genus of Velloziaceae. Taxon 40(3): 413-
+426. 
+Morales, M., Garcia, Q., Siqueira-Silva, A., Silva, M. & Munné-Bosch S. 2014. Tocotrienols in 
+Vellozia gigantea leaves: occurrence and modulation by seasonal and plant size effects. Planta 
+240: 437-446. 
+Morales, M., Garcia, Q. & Munné-Bosch, S. 2015. Ecophysiological response to seasonal 
+variations in water availability in the arborescent, endemic plant Vellozia gigantea. Tree 
+Physiology 35: 253-265 
+Mota, L. & Garcia, Q. 2013. Germination patterns and ecological characteristics of Vellozia seeds 
+from high-altitude sites in south-eastern Brazil. Seed Science Research 23: 67-74. 
+Neto, O. 2009. Micropropagação e anatomia foliar de canela-de-ema (Vellozia flavicans Mart. ex 
+Schult f. - Velloziaceae) em diferentes condições ambientais. Masters dissertation, University of 
+Brasília, Brasília. 
+Nogueira, A., Martinez, C., Ferreira, L. & Prado, C. 2004. Photosynthesis and water use 
+efficiency in twenty tropical tree species of differing succession status in a Brazilian 
+reforestation. Photosynthetica 42(3): 351-35. 
+Oliveira, P., Gibbs, P. & Proença, C. 1991. Pollination and breeding system of Vellozia squamata 
+(Liliales: Velloziaceae): a species of the Brazilian Cerrados. Botanica Acta 104(5): 392-398. 
+Oliveira, R., Dawson, T. & Burgess, S. 2005. Evidence for direct water absorption by the shoot of 
+the desiccation-tolerant plant Vellozia flavicans in the savannas of Central Brazil. Journal of 
+Tropical Ecology 21: 585-588. 
+Owoseye, J. & Sanford, W. 1972. An ecological study of Vellozia schnitzleinia, a drought-enduring 
+plant of Northern Nigeria. Journal of Ecology 60(3): 807-817. 
+Paiva, J., Fank-de-Carvalho, S., Magalhães, M. & Graciano-Ribeiro, D. 2006. Verniz vitral 
+incolor 500: a mounting medium alternative and economically viable. Acta Botanica Brasilica 
+20(2): 257-264. 
+Palhares, D. 2004. Practical class proposal based on the germination of Vellozia flavicans Mart. ex 
+Schult (Velloziaceae). Lecta-USF 22(1/2): 7-9. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+Palhares, D., Franco, A. & Zaidan, L. 2010. Respostas fotossintéticas de plantas do Cerrado nas 
+estações seca e chuvosa. Revista Brasileira de Biociências 8(2): 213-220. 
+Palhares, D., Franco, A. & Zaidan, L. 2011. Photosynthetic responses of Smilax goyazana 
+(Smilacaceae). Phyton 51(1): 115-132. 
+Prado, C.H.B. & Moraes, J.A. 1997. Photosynthetic capacity and specific leaf mass in twenty 
+woody species of Cerrado vegetation under field conditions. Photosynthetica 33(1): 103-112. 
+Quintao, F., Tavares, R., Vieira-Filho, S., Souza, G. & Santos, H. 2013. Hydroalcoholic extracts 
+of Vellozia squamata: study of its nanoemulsions for pharmaceutical or cosmetic applications. 
+Brazilian Journal of Pharmacognosy 23(1): 101-107. 
+Silveira, C., Fukuda, D., Palhares, D., Cury, N. & Pereira, L. 2018. A micropropagation protocol 
+for the domestication of Jacaranda ulei (Bignoniaceae). Phyton 58(2): 165-174. 
+Smith, L.B. & Ayensu, E.S. 1974. Classification of Old World Velloziaceae. Kew Bulletin 29(1): 
+181-205. 
+Souza, V.C. 2005. Systematic botany: an illustrated guide for the identification of angiosperm 
+families of the Brazilian flora, based on APG II. Instituto Plantarum, Nova Odessa. 
+Tribuiani, N., Silva, A., Ferraz, M., Silva, M., Bentes, A., Graziano, T., Santos, M., Cogo, J., 
+Varanda, E. & Groppo, F. 2014. Vellozia flavicans Mart. ex Schult. Hydroalcoholic extract 
+inhibits the neuromuscular blockade induced by Bothrops jararacussu venom. BMC 
+complementary and alternative medicine 14: 48. 
+Van Huylenbroeck, J.M., Piqueras, A. & Debergh, P.C. 1998. Photosynthesis and carbon 
+metabolism in leaves formed prior and during ex vitro acclimatization of micropropagated plants. 
+Plant Science 134: 21-30. 
+Vieira, B., Bicalho, E., Munné-Bosch, S. & Garcia, Q. 2017. Abscisic acid regulates seed 
+germination of Vellozia species in response to temperature. Plant Biology 19: 211-216. 
+Wetzstein, H.Y. & Sommer, H.E. 1982. Leaf anatomy of tissue-cultured Liquidambar stryraciflua 
+(Hamamelidaceae) during acclimatization. American Journal of Botany 69(10):1579-1586. 
+Ziv, M. & Chen, J. 2008. The anatomy and morphology of tissue cultured plants. Pages 465-478 
+In: George EF, MA Hall, G-JD Klerk (eds.). Plant propagation by tissue culture. Vol. 1. Springer, 
+Dordrecht. 
+ 
+ 
+ 
+Received: 04/05/2020 
+Accepted: 18/01/2022 
+Associate Editor: Ana Paula Souza Caetano 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+ 
+ 
+Table 1. Parameters of the experimental treatments with Vellozia squamata Pohl (Velloziaceae). A 
+max: maximal CO2 absorption rate, µmol CO2.m-2.s-1 ; E: transpiration rate, mmol H2O .m-2.s-1 ; LCP: 
+light compensation point, µmol photon.m-2.s-1 ; LSP: light saturation point, µmol photon.m-2.s-1 ; L 
+max: maximal PAR to which the plants are exposed, µmol photon.m-2.s-1 ; Chlorophyll: chlorophyll 
+content, unities of chlorophyll (CCI); WUE: water use efficiency (µmol CO2/mmol H2O). Letters 
+compare data in the same column. Distinct letters mean statistically significant difference (P<0.05) 
+by Student´s T-test. 
+ 
+ 
+Treatments 
+A max 
+E 
+LCP LSP 
+Lmax 
+Chlorophyll 
+WUE 
+Cerrado 
+8.57±1.07 a 
+4.76± 0.90 a 
+80 
+900 
+1,925 
+24.6±3.97 a 
+1.8 
+Greenhouse 
+3.42±0.28 b 
+0.92±0.54 b 
+60 
+200 
+412 
+2.99±1.48 b 
+3.7 
+In vitro 
+n/a 
+3.44±0.03 c 
+n/a 
+n/a 
+40 
+1.37±0.44 c 
+n/a 
+Garden 
+4.97 ± 1.43 d 
+1.16 ± 0.06 b 
+60 
+900 
+1,925 
+8.70 ± 3.2 d 
+4.3 
+ 
+ 
+ 
+Figure 1. Light-response curve of A (net carbon assimilation rate) of leaves (n=10) of Vellozia 
+squamata Pohl (Velloziaceae) in field conditions during the rainy season under different values of 
+photosynthetically active radiation (PAR). Non-linear adjustment by the equation Ameas: 8.57 (1-e-
+0.001658(PAR-80)) 
+ 
+ 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+ 
+Figure 2. Light-response curve of A (net carbon assimilation rate) of leaves (n=10) of seedlings of 
+Vellozia squamata Pohl (Velloziaceae) acclimatizing in greenhouse conditions under different values 
+of photosynthetically active radiation (PAR). Non-linear adjustment by the equation Ameas: 3.42(1-e-
+0.0176833(PAR-60)) 
+ 
+ 
+Figure 3. Light-response curve of A (net carbon assimilation rate) of leaves (n=10) of plantlets of 
+Vellozia squamata Pohl (Velloziaceae) in vitro conditions under different values of 
+photosynthetically active radiation (PAR). No adjustment of the curve was carried out. 
+ 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+ 
+ 
+Figure 4. Light-response curve of A (net CO2 assimilation rate) of leaves (n=10) of Vellozia squamata 
+Pohl (Velloziaceae) seedlings obtained by in vitro propagation and growing in a garden during the 
+rainy season under different values of photosynthetically active radiation (PAR). Non-linear 
+adjustment by the equation Ameas: 4.97 (1-e-0.00125(PAR-60)) 
+ 
+ 
+ 
+Figure 5. Plants of Vellozia squamata Pohl (Velloziaceae). a-b. In the field, showy lilac flower (b). c. 
+In vitro condition. d. Greenhouse condition. e. Plants produced in vitro now growing at the garden. 
+Bars: A = 1 m, B = 5 cm, C = 1 cm, D = 5 cm, E = 1 cm. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+ 
+ 
+Figure 6. Leaf anatomy of Vellozia squamata Pohl (Velloziaceae). a-d. Plants from the field (b-c: 
+details of a): adult (a-c) and young (d) leaves, showing the early formation of the stomatal crypts and 
+later differentiation of the cuticle, subepidermal fibres, palisade parenchyma, and the vascular bundle 
+sheath. e. Plants from micropropagation, not acclimatized: absence of stomatal crypts and 
+subepidermal fibres. f. Plants from acclimatization similar to the adult leaf of the field, but with less 
+deep crypts. g. Plants growing at garden condition. Arrows: stomata. AP: aqueous parenchyma, Ct: 
+cuticle, Fi: fibres, PP: palisade parenchyma (elongated cells), SC: stomatal crypt, SP: spongy 
+parenchyma (isodiametric cells). Bars a, d-g = 50 µm, b-c = 25 µm. 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+ 
+Article 
+https://doi.org/10.1590/2236-8906-109/2020 
+ 
+CARTA DE AUTORIZAÇÃO DE PUBLICAÇÃO NO PORTAL DE PREPRINTS DO SCIELO 
+ 
+ 
+ 
+Ao Comitê Editorial de HOEHNEA 
+ 
+ 
+Declaro, em meu próprio nome e nos dos demais Autores, que concordo com a publicação 
+do Artigo Aceito pelo Corpo Editorial de Hoehnea, intitulado “Leaf anatomy and photosynthetic 
+parameters of Vellozia squamata Pohl (Velloziaceae) grown under different light intensities along 
+in vitro cultivation” de autoria de Elson Rangel Calazans Júnior, Conceição Eneida dos Santos 
+Silveira , Olegário Garcia de Freitas-Neto, Dario Palhares, Luiz Alfredo Rodrigues Pereira e Sueli 
+Maria 
+Gomes, 
+no 
+Portal 
+de 
+Preprints 
+do 
+SciELO 
+Brasil 
+(https://preprints.scielo.org/index.php/scielo/preprints/section/biological). 
+Declaro, ainda, que o referido artigo é original, sendo que o conteúdo não foi ou não está 
+sendo considerado para publicação em outro periódico, quer seja no formato impresso e/ou 
+eletrônico. 
+ 
+Brasília, 26 de Fevereiro de 2022. 
+ 
+ 
+ 
+Elson Rangel Calazans Júnior 
+SciELO Preprints - This document is a preprint and its current status is available at: https://doi.org/10.1590/2236-8906-109/2020
+This preprint was submitted under the following conditions: 
+The authors declare that they are aware that they are solely responsible for the content of the preprint and
+that the deposit in SciELO Preprints does not mean any commitment on the part of SciELO, except its
+preservation and dissemination.
+The authors declare that the necessary Terms of Free and Informed Consent of participants or patients in
+the research were obtained and are described in the manuscript, when applicable.
+The authors declare that the preparation of the manuscript followed the ethical norms of scientific
+communication.
+The authors declare that the data, applications, and other content underlying the manuscript are
+referenced.
+The deposited manuscript is in PDF format.
+The authors declare that the research that originated the manuscript followed good ethical practices and
+that the necessary approvals from research ethics committees, when applicable, are described in the
+manuscript.
+The authors declare that once a manuscript is posted on the SciELO Preprints server, it can only be taken
+down on request to the SciELO Preprints server Editorial Secretariat, who will post a retraction notice in its
+place.
+The authors agree that the approved manuscript will be made available under a Creative Commons CC-BY
+license.
+The submitting author declares that the contributions of all authors and conflict of interest statement are
+included explicitly and in specific sections of the manuscript.
+The authors declare that the manuscript was not deposited and/or previously made available on another
+preprint server or published by a journal.
+If the manuscript is being reviewed or being prepared for publishing but not yet published by a journal, the
+authors declare that they have received authorization from the journal to make this deposit.
+The submitting author declares that all authors of the manuscript agree with the submission to SciELO
+Preprints.
+Powered by TCPDF (www.tcpdf.org)

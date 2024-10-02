@@ -1,0 +1,1284 @@
+REVIEW ARTICLE
+250
+Arq Bras Oftalmol. 2020;83(3):250-61
+http://dx.doi.org/10.5935/0004-2749.20200067 ■
+A r q u i v o s  B r a s i l e i r o s  d e
+This content is licensed under a Creative Commons Attributions 4.0 International License.
+COVID-19 and the eye: how much do we really know?  
+A best evidence review
+COVID-19 e o olho: quanto sabemos realmente? Uma revisão  
+das melhores evidências
+Juan Pablo Olivares-de Emparan1,2, Carolina Sardi-Correa3, Juan Alberto López-Ulloa2, Jaime Viteri-Soria4,5, 
+Jason A. Penniecook2,6, Jesús Jimenez-Román1,2, Van C. Lansingh2,7,8 
+1. Asociación para evitar la ceguera en México, Mexico City, Mexico.
+2. Centro Mexicano de Salud Visual Preventiva, Mexico City, Mexico.
+3. Instituto Nacional de Investigación en Oftalmología, Medellin, Colombia.
+4. Universidad de Especialidades Espíritu Santo, Guayaquil, Ecuador.
+5. Universidad Católica Santiago de Guayaquil, Guayaquil, Ecuador.
+6. Instituto de la Visión, Montemorelos University, Montemorelos, Mexico.
+7. Instituto Mexicano de Oftalmología, Queretaro, Mexico.
+8. Help Me See, New York City, NY, USA.
+Submitted for publication: April 25, 2020 
+Accepted for publication: April 27, 2020
+Funding: This study received no specific financial support. Latinofarma partially 
+funded the drugs used in this study.
+Disclosure of potential conflicts of interest: None of the authors have any potential 
+conflicts of interest to disclose.
+Corresponding author: Van C. Lansingh. 
+E-mail: vancharles@helpmesee.org
+ABSTRACT | To identify and classify available information 
+regarding COVID-19 and eye care according to the level of 
+evidence, within four main topics of interest: evidence of 
+the virus in tears and the ocular surface, infection via the 
+conjunctival route, ocular manifestations, and best practice 
+recommendations. A structured review was conducted in 
+PubMed, ScienceDirect, LILACS, SciELO, the Cochrane Library 
+and Google Scholar on COVID-19 and ophthalmology. The 
+Oxford Centre for Evidence Based Medicine 2011 Levels of 
+Evidence worksheet was used for quality assessments. 1018 
+items were identified in the search; 26 records were included 
+in the qualitative synthesis, which encompassed 6 literature 
+reviews, 10 case series or cross-sectional studies, 4 case 
+reports, and 6 intervention descriptions. Seventeen out of 26 
+records (65%) were categorized as level 5 within the Oxford 
+CBME methodology grading system, the rest were level 4.  
+The evidence generated on COVID-19 and ophthalmology 
+to date is limited, although this is understandable given the 
+circumstances. Both the possible presence of viral particles 
+in tears and conjunctiva, and the potential for conjunctival 
+transmission remain controversial. Ocular manifestations are 
+not frequent and could resemble viral infection of the ocular 
+surface. Most recommendations are based on the strategies 
+implemented by Asian countries during previous coronavirus 
+outbreaks. There is a need for substantive studies evaluating 
+these strategies in the setting of SARS-CoV-2. In the meantime, 
+plans for applying these measures must be implemented with 
+caution, taking into account the context of each individual 
+country, and undergo regular evaluation. 
+Keywords: COVID-19; Ophthalmology; SARS-CoV-2; Conjunc-
+tiva; Ocular
+RESUMO | Identificar e classificar as informações disponíveis 
+sobre o COVID-19 e o tratamento oftalmológico de acordo com o 
+nível de evidência, dentro de quatro tópicos principais de interesse: 
+evidência do vírus nas lágrimas e na superfície ocular, infecção 
+pela via conjuntival, manifestações oculares e recomendações 
+de melhores práticas. Foi realizada uma revisão estruturada no 
+PubMed, ScienceDirect, LILACS, SciELO, Biblioteca Cochrane 
+e Google Scholar no COVID-19 e oftalmologia. A planilha de 
+Níveis de Evidência 2011 do Oxford Centre for Evidence Based 
+Medicine 2011 foi usada para avaliações de qualidade. Mil e 
+dezoito itens foram identificados na busca; Foram incluídos 26 
+registros na síntese qualitativa, que incluiu 6 revisões de literatura, 
+10 séries de casos ou estudos transversais, 4 relatos de casos e 
+6 descrições de intervenções. Dezessete dos 26 registros (65%) 
+foram classificados como nível 5 no sistema de classificação da 
+metodologia Oxford CBME, o restante foi no nível 4. As evidências 
+geradas no COVID-19 e na oftalmologia até o momento são 
+limitadas, embora isso seja compreensível dadas as circunstân-
+cias. Tanto a possível presença de partículas virais em lágrimas 
+e conjuntiva quanto o potencial de transmissão conjuntival 
+permanecem controversos. As manifestações oculares não são 
+frequentes e podem se assemelhar a infecção viral da superfície 
+Olivares-de Emparan JP, et al.
+251
+Arq Bras Oftalmol. 2020;83(3):250-61
+ocular. A maioria das recomendações baseia-se nas estratégias 
+implementadas pelos países asiáticos durante surtos anteriores  
+de coronavírus. Há necessidade de estudos aprofundados 
+avaliando essas estratégias no cenário da SARS-CoV-2. Enquanto 
+isso, os planos para a aplicação dessas medidas devem ser im-
+plementados com cautela, levando em consideração o contexto 
+de cada país e submetidos a auditorias periódicas.
+Descritores: COVID-19; Oftalmologia; SARS-CoV-2; Conjuntiva; 
+Ocular
+INTRODUCTION
+Coronavirus disease 19 (COVID-19) is caused by the 
+Severe Acute Respiratory Syndrome coronavirus type 2 
+(SARS-CoV-2), previously named 2019 novel coronavi-
+rus (2019-nCoV)(1). The ongoing SARS-CoV-2 pandemic 
+has been linked to ophthalmology since its beginnings. 
+On December 30, 2019, Dr. Li Wenliang, a Chinese 
+ophthalmologist, warned his colleagues through the 
+social network WeChat about a SARS-like outbreak in 
+Wuhan and its possible link to a local market(2). On 
+January 30, 2020, the World Health Organization (WHO) 
+confirmed the outbreak as a public health emergency of 
+international interest(3), and on March 11, 2020 it was 
+declared a pandemic(4).
+Coronaviruses (CoVs) are known to cause infections in 
+humans and other mammals(5,6), they gained public atten-
+tion during the Severe Acute Respiratory Syndrome (SARS) 
+outbreak in East Asia in 2003 and the spread of Midd-
+le Eastern Respiratory Syndrome (MERS) in 2012(5,7). 
+SARS-CoV-2 is a single-stranded, positive-sense, enve-
+loped RNA virus(1). The main method of transmission is 
+human-to-human through direct contact and droplets; 
+transmission from asymptomatic carriers has also been 
+reported(8). Viral stability in aerosols on different surfa-
+ces has been demonstrated(9), supporting evidence on 
+indirect viral acquisition from fomites(10), through the 
+mucous membranes of the mouth, nose and eyes(11). At 
+present, conjunctival transmission of CoVs has not been 
+confirmed and remains controversial.
+Out of the seven types of human coronaviruses 
+(HCoV), HCoV-NL63 is the only one that has been con-
+firmed to produce ocular disease, specifically conjunc-
+tivitis(12), although the pathogenic mechanism of ocular 
+infection has not been elucidated(2). Ocular symptoms 
+from SARS-CoV and MERS-CoV, which produce simi-
+lar respiratory manifestations to SARS-CoV-2, have 
+not been reported(2). On the other hand, detection of  
+SARS-CoV RNA in tears was confirmed in three out  
+of 36 patients with SARS during the 2003 outbreak; fur-
+ther studies failed to confirm these results(13,14).
+Reports on SARS-CoV-2 conjunctival transmission, 
+viral shedding through tears, and ocular manifestations 
+in COVID-19 patients have emerged(15-17). As the current 
+pandemic progresses, so does the need for reliable in-
+formation to help generate evidence-based recommen-
+dations on best practices. Incentives to rapidly produce 
+scientific reports and positive results lead to the risk of 
+disseminating poorly supported evidence and overloa-
+ding the public with uncertain or even false informa-
+tion(18,19). In this review we aim to identify the available 
+information regarding COVID-19 and eye care and to 
+classify it according to four main topics of interest: 
+evidence of the virus in tears and the ocular surface, in-
+fection via the conjunctival route, ocular manifestations, 
+and best practice recommendations.
+METHODS
+Search strategy and searching other sources
+A search strategy was developed using MeSH terms 
+and free-text terms in the following databases: PubMed, 
+ScienceDirect, LILACS, Scielo and the Cochrane Library. 
+A verification search was performed on Google Scholar 
+to identify articles on archival services such as bioRxiv, 
+medRxiv and others. 
+The search strategy was designed to identify stu-
+dies providing data on issues related to COVID-19 and 
+ophthalmology. The final search was conducted on April 
+21. Table 1 lists the keywords included in the search 
+strategy, which were as follows: (“ophthal*” OR “ocular” 
+OR “vision” OR “visual” OR “eye” OR “conjunctiv*” OR 
+“tear”) AND (“covid-19” OR “covid19” OR “2019-nCoV” 
+OR “coronavirus” OR “coronavirus19” OR “coronavi-
+rus-19” OR “SARS-Cov-2” OR “severe acute respiratory 
+syndrome 2” OR “SARS2”). Finally, we searched the 
+reference lists of the identified screened publications.
+Table 1. List of keywords used for the search strategy
+COVID-19
+Ophthalmology
+COVID19
+Ophthalmic
+2019-nCoV
+Ocular
+Coronavirus
+Visions
+Coronavirus-19
+Visual
+Coronavirus19
+Eye
+SARS-Cov-2
+Conjunctiva
+Severe acute respiratory syndrome coronavirus 2
+Conjunctivitis
+Tear
+COVID-19 and the eye: how much do we really know? A best evidence review
+252
+Arq Bras Oftalmol. 2020;83(3):250-61
+Study selection and data extraction
+Results were limited to publications from 2020, as 
+the report from Chinese authorities to the WHO was 
+filed on December 31, 2019. No language restrictions 
+were used, and all publication types were retrieved. 
+Articles in languages other than English, Spanish, Portu-
+guese and French were translated using three different 
+online platforms: Google Translator®, DocTranslator® 
+and DeepL®; all included articles had at least an abstract 
+available in English. Duplicates were excluded. 
+Two reviewers independently extracted data using 
+a pre‐defined template (Microsoft® Excel spreadsheet). 
+Disagreements were resolved through discussion or by 
+a third reviewer. All articles that required an online 
+platform translation were assessed by three reviewers.
+Data synthesis
+Previous validated methods were selected to assess 
+the appropriateness of the publications: CARE(20) gui-
+delines checklists for case reports and case series, and 
+STROBE(21) checklists for observational studies. A nar-
+rative approach was used to synthesize the extracted 
+data. The Oxford Centre for Evidence Based Medicine 
+(OCEBM) 2011 Levels of Evidence worksheet was used 
+for quality assessments.22 The risk-of-bias assessment 
+used a qualitative approach, taking into consideration 
+the study design, limitations in the methodology and  
+the rigor of execution.
+During the selection phase, it was noted that the 
+identified articles corresponded to a limited number of 
+authors. A reference list was created to determine the 
+number of citations for each author when reporting on 
+this topic.
+Ethics approval was not required, as the review 
+involved publicly available data. The report was con-
+ducted in accordance with the requirements of the Pre-
+ferred Information Elements for Systematic Testing and  
+Me­ta-Analyses (PRISMA)(23).
+RESULTS
+Search results
+A total of 1018 records were retrieved from data-
+bases and ten others were found through referencing. 
+After screening by title and/or abstract, 918 records 
+were excluded. Duplicates and grey literature were 
+removed, leaving 80 records which met the eligibility 
+criteria. Correspondence and editorials accounted for 
+43 records (54%) which were reassessed and excluded. 
+A full text assessment for eligibility was carried out for 
+the remaining documents. Further analysis led to the 
+exclusion of three publications which were deemed 
+opinion pieces, four due to incoherent translation; and 
+three others, which focused on topics outside the scope 
+of this review. One case report was excluded as it did not 
+fulfill the CARE checklist guidelines. Finally, 26 records 
+were included in the qualitative synthesis: 6 literature 
+reviews, 10 case series or cross-sectional studies, 4 case 
+reports, and 6 intervention descriptions (miscellaneous) 
+(Figure 1). 
+Included studies 
+The included studies are presented in tabular form 
+in Table 2. Additional information is provided regarding 
+the author, journal, type of study, main question and 
+other comments. Seventeen out of 26 records (65%) 
+were categorized as level 5 within the Oxford CBME 
+methodology grading system, the rest were level 4. 
+The six reviews focused on different subjects: 1) 
+ocular involvement of coronaviruses in humans and 
+animals(6), 2) variations of ocular manifestations(24), 3) 
+preventive strategies in hospital-based ophthalmology 
+departments(25), 4) recommendations for contact lens 
+practices(26), 5) recommendations for eye care facili-
+ties(27), and 6) evidence of ocular manifestations and PCR 
+positivity in COVID-19 patients(28). The ten case-series 
+or cross-sectional studies reported findings regarding 
+Figure 1. Methodology flowchart. Adapted from the Preferred Information 
+Elements for Systematic Testing and Meta-Analyses (PRISMA)23.
+Olivares-de Emparan JP, et al.
+253
+Arq Bras Oftalmol. 2020;83(3):250-61
+Table 2. Records included in the qualitative analysis: main characteristics and Oxford Center for Evidence Based Medicine (OCEBM) score
+Authors and reference 
+Study type
+Main question
+Peer reviewed
+OCEBM methodology grading
+Seah I, et al.(6)
+Literature review
+What is the evidence on ocular compromise by 
+coronaviruses?
+Yes
+5
+Yu A, et al.(24
+Literature review
+What do we know so far about SARS-CoV-2 and 
+ocular manifestations?
+Yes
+5
+Romano M, et al.(25)
+Literature review
+What preventive strategies can personnel in an 
+ophthalmology department employ to reduce 
+transmission?
+Yes
+5
+Jones L, et al.(26)
+Literature review
+Are there special measures that contact-lens wearers 
+should consider?
+Yes
+5
+Sadhu S, et al.(27)
+Literature review
+What measures could be implemented in an 
+ophthalmic facility?
+Yes
+5
+Sarma P, et al.(28)
+Literature review and 
+meta-analysis
+What is the evidence of ocular manifestations and 
+PCR positivity in COVID-19 patients?
+No; pre-print
+4
+Yu Jun I, et al.(29
+Cross sectional study
+Are there viral particles on the ocular surfaces of 
+COVID-19 patients?
+Yes; journal pre-proof
+4
+Guan WJ, et al.(30)
+Cross sectional study
+What are the clinical manifestations of COVID-19 
+patients according to severity of disease?
+Yes
+4
+Deng C, et al.(31)
+Cross sectional study
+Are there viral particles in conjunctiva or tears in 
+COVID-19 pneumonia patients?
+No; pre-print
+4
+Zhang X, et al.(32)
+Cross sectional study
+Are there viral particles on the ocular surfaces of 
+COVID-19 patients with ocular manifestations?
+Yes; journal pre-proof
+4
+Chen L, et al.(33)
+Cross sectional study
+What are the ocular manifestations of 
+COVID-19 patients?
+No; pre-print
+4
+Xia J, et al.(15)
+Case series
+Are there viral particles on the ocular surfaces of 
+COVID-19 patients?
+Yes
+4
+Wu P, et al.(16)
+Case series
+What are the ocular findings in COVID-19 patients?
+Yes
+4
+Zhou Y, et al.(34) 
+Case series
+Is there evidence to suspect interpersonal 
+transmission of SARS-CoV-2 via aerosol contact 
+with the conjunctiva?
+No; pre-print
+4
+Lan Q, et al.(35)
+Case series
+What are the ocular findings on slit lamp 
+exam in COVID-19 patients? 
+Yes
+5
+Zhou Y, et al.(36)
+Case series
+Are there viral particles on the ocular surfaces of 
+COVID-19 patients with ocular manifestations?
+Yes; journal pre-proof
+5
+Colavita F, et al.(37)
+Case report
+N/A
+Yes
+5
+Chen Lu, et al.(38)
+Case report
+N/A
+Yes
+5
+Cheema M, et al.(39)
+Case report
+N/A
+Yes
+5
+Li XJ, et al.(40)
+Case report
+N/A
+Yes
+5
+Lai THT, et al.(41)
+Miscellaneous 
+(Intervention)
+What preventive measures can be implemented to 
+reduce the risk of transmission?
+ Yes
+5
+Wang N, et al.(42)
+Miscellaneous 
+(Intervention)
+What preventive strategies can personnel 
+take to reduce transmission?
+Yes
+5
+Zhang MC, et al.(43)
+Miscellaneous 
+(Intervention)
+What measures for ophthalmic equipment and 
+personnel can reduce transmission?
+Yes
+5
+Society of Public Health 
+Ophthalmology, Chinese 
+Preventive Medicine 
+Association(44).
+Miscellaneous 
+(Intervention)
+What measures can personnel take to reduce 
+transmission?
+Yes
+5
+Sengupta S, et al.(45)
+Miscellaneous 
+(Intervention)
+What measures could be implemented in an 
+ophthalmic practice setting?
+Yes
+5
+Gharebaghi R, et al.(46)
+Miscellaneous 
+(Intervention)
+What preventive strategies can personnel take in an 
+ophthalmology department to reduce transmission?
+Yes
+5
+N/A= Not applicable.
+COVID-19 and the eye: how much do we really know? A best evidence review
+254
+Arq Bras Oftalmol. 2020;83(3):250-61
+ocular manifestations; six reported on conjunctival and 
+tear samples tested for viral material. Nine studies were 
+carried out in China, and one in Singapore. Four case 
+reports provide detailed descriptions of ocular manifes-
+tations in COVID-19 patients. The six intervention des-
+criptions present recommendations for ophthalmology 
+departments and healthcare workers (HCW) to decrease 
+the risk of transmission. Three of these were extracted 
+from Chinese literature and include recommendations 
+by the Society of Public Health Ophthalmology, Chinese 
+Preventive Medicine Association. The other three papers 
+were from Indian, Iranian and Italian authorship. The 
+publication from India included recommendations  
+from the All India Ophthalmological Society.
+Risk of bias
+Due to the purely descriptive nature of the publi-
+cations and their limited internal validity, they pose a 
+high risk of bias. Qualitative assessment determined 
+the presence of various confounders and covariates that 
+may have influenced the results, and consequently the 
+final analyses.
+Primary outcomes
+Evidence of viral particles on the ocular surface
+Eight case series or cross-sectional studies and four 
+case reports included testing for the presence of viral 
+particles or genetic material from SARS-CoV-2. Ten 
+studies collected samples using conjunctival swabs and 
+performed reverse‐transcription polymerase chain reac-
+tion (RT‐PCR) assay for the detection of viral RNA. One 
+cross-sectional study used tears collected via Schirmer 
+strip and performed viral isolation through Vero-6 cell 
+inoculation. Another study used conjunctival swabs 
+for RT-PCR and Vero-6 cell inoculation. The four case 
+reports observed positive results for RT-PCR of con-
+junctival swabs; one of them reports on a patient with 
+repetitive positive conjunctival swabs from day 3 to 21 
+with samples taken almost daily. The results are summa-
+rized in table 3.
+In all these studies, the percentage of patients with 
+evidence of viral particles in tears or conjunctiva re-
+mained low, ranging from 0 to 7.14%. Across studies, 
+there were variations in testing procedures and the type 
+of patients tested. The days at which the samples were 
+taken also show significant variation. The earliest timing 
+was reported as early as day 2 after the initial onset of 
+symptoms. Four studies do not specify the timing of the 
+samples. Case reports included a total of five cases with 
+ocular manifestations; all of these tested positive via 
+conjunctival RT-PCR. 
+In their review, Sarma et al.(28) conducted a meta-ana­
+lysis of pooled patients across 5 studies (four items in­
+cluded in the current revision; the other one was discar-
+ded during the screening process). They concluded that 
+the proportion of conjunctival/tear sample that were 
+positive for the virus was 1.95% (95% C.I. 0.74 to 4.11). 
+The literature review by Seah et al. comments on the 
+similarities of SARS-CoV-2 to other CoVs with the possi-
+bility of viral shedding in conjunctiva and tears(6). Yu A 
+et al. mention the proven evidence of aerosol formation 
+through air puff tonometry and the possibility of trans-
+mission through contact with conjunctiva(24). They both 
+conclude that the evidence about the virus in tears and 
+on the ocular surface remains controversial. 
+The conjunctiva as an infection route
+A few anecdotal reports describe non-specific ocular 
+symptoms as the first manifestation of COVID-19. We 
+found one case report of keratoconjunctivitis as the 
+initial presentation. Additionally, Li et al. describe two 
+cases of HCW who tested positive for SARS-CoV-2 in 
+nasopharyngeal (NP) and conjunctival swabs, despite 
+having worn appropriate personal protective equipment 
+(PPE) except for eye protection(40). The first case involved 
+an anesthesiologist who performed an intubation pro­
+cedure on a COVID-19 patient without ocular protection. 
+She later presented with red eye and viscous conjunctival 
+discharge; after three days she developed respiratory 
+symptoms and was diagnosed with COVID-19. The se-
+cond case was a nurse with respiratory symptoms and 
+pruritus as well as conjunctival congestion. Both reports 
+support the theory of the conjunctival mucosa acting  
+as an entrance route for the virus. 
+Ocular manifestations 
+The ten case series or cross-sectional studies repor­
+ted ocular manifestations, particularly conjunctival con­
+gestion. Four case reports presented with signs compa-
+tible with follicular conjunctivitis and one as unilateral 
+keratoconjunctivitis. The timing of onset of ocular mani-
+festations varies across the studies, with these symptoms 
+appearing to be most prominent in the early stages of 
+the disease. Most manifestations are bilateral and seem 
+to cause little to no discomfort. Only the study by Chen 
+et al. focuses on patient-reported ocular symptoms(33), 
+Olivares-de Emparan JP, et al.
+255
+Arq Bras Oftalmol. 2020;83(3):250-61
+Table 3. Studies reporting evidence of viral particles on the ocular surface
+Authors
+Collection method/type of test
+Tested positive
+Percentage positive
+Day of sampling
+Remarks
+Yu Jun I, et al.(29)
+Schirmer strips/viral isolation with cell 
+culture and qRT-PCR
+0/17
+Null
+Between days 3 
+and 20
+- Samples collected over a 3-week 
+span (64 samples).
+- The number of conjunctival swabs 
+varied among patients.
+Deng C, et al.(31)
+Conjunctival swabs / qRT-PCR
+0/114
+Null
+11 ± 6.3
+ 
+Zhang X, et al.(32)
+Conjunctival swabs / RT-PCR
+1/72  (confirmed)* 
+1/102 (total)
+1.4% (confirmed)* 
+0.9% (total)
+18.15 ± 7.57
+Xia J, et al.(15)
+Conjunctival swabs / RT-PCR
+1/30
+3.33%
+7.33 ± 3.82
+- Two samples per patient, 
+at 2- to 3-day intervals.
+- The only patient with ocular 
+manifestations (conjunctivitis) 
+tested positive in 2 samples. 
+Wu P, et al.(16)
+Conjunctival swabs/RT-PCR
+2/28 (confirmed)* 
+2/38 (total)
+7.14% (confirmed)* 
+5.26% (total)
+Not specified
+ 
+Zhou Y, et al.(34)
+Conjunctival swabs/qRT-PCR
+1/63 (confirmed)* 
+1/67 (total)
+1.6% (confirmed)* 
+1.4% (total)
+Not specified
+- Two patients (2.9%) had probable 
+positive results.^
+- One patient with conjunctivitis 
+had a negative result in conjunctiva 
+but positive NP. 
+Lan Q, et al.(35)
+Conjunctival swabs/RT-PCR
+0/81
+Null
+Not specified
+- Examinations happened days after 
+the initial ocular complaints
+Zhou Y, et al.(36)
+Conjunctival swabs/qRT-PCR
+3/121
+2.5%
+Not specified
+Colavita F, et al.(37)
+Conjunctival swabs/qRT-PCR, viral 
+isolation with cell culture
+1
+100% (Case report)
+Day 3 to 21, 
+almost daily
+Case report
+Cytopathic effects were observed in 
+Vero-6 cells; viral replication was 
+confirmed via qRT-PCT
+Chen Lu, et al.(38)
+Conjunctival swabs/qRT-PCR
+1
+100% (Case report) 
+14
+Case report
+Cheema M, et al.(39)
+Conjunctival swabs/qRT-PCR
+1
+100% (Case report)
+6
+Case report
+Li XJ, et al.(40)
+Conjunctival swabs/RT-PCR
+2
+100% (Case report)
+2
+Case report
+Sarma P, et al.(28)
+Conjunctival swabs/RT-PCR or qRT-PCR
+(5 studies, 320 
+patients)
+1.95% (95% C.I. 0.74 
+to 4.11)
+Pooled analysis
+Pooled analysis 
+NP= nasopharyngeal swab; RT-PCR= reverse transcription polymerase chain reaction; qRT-PCR= real-time qualitative reverse transcription polymerase chain reaction. 
+*Study makes a distinction between COVID-19 patients confirmed via nasopharyngeal swabs and those who presented only clinical symptoms. Percentage is shown both for 
+laboratory-confirmed and for the total number of patients.
+^Probable positive result definition is not stated in the manuscript.
+while the remaining case series focus on observable 
+signs. The results are summarized in table 4. 
+Overall, ocular manifestations are not common in 
+COVID-19 patients. Six of the case series show less than 
+5% of patients with any sign, while two report no ma-
+nifestations. Wu et al. report on hospitalized patients 
+with moderate to severe pneumonia; their findings 
+show 31.6% of patients with ocular signs. They also 
+report that according to univariate analysis, patients with 
+ocular symptoms were more likely to suffer more severe 
+presentations of the disease.
+The timing of ocular manifestations during the evolu-
+tion of COVID-19 is ill-defined. Six studies report ocular 
+findings in eight patients before day 5 of the disease. 
+A case report describes conjunctival congestion more 
+prominently from day 8(38). Another study reports on a 
+patient who showed ocular symptoms from day 8 to 12, 
+characterized by congestion and tearing(33). An additio-
+nal series describes manifestations averaging from 
+day 7 until day 25(35). Two studies do not specify the 
+onset of manifestations, while the remaining report 
+no ocular findings. 
+Sarma et al also conducted a meta-analysis of poo-
+led patients across 6 studies (5 items included in the 
+current revision; the other one was discarded during 
+the screening process) to study ocular manifes­tations. 
+They concluded the proportion of patients presenting 
+with conjunctivitis/red eye was 3.17% (95% C.I. 1.16 to 
+6.13)(28).
+COVID-19 and the eye: how much do we really know? A best evidence review
+256
+Arq Bras Oftalmol. 2020;83(3):250-61
+Table 4. Reported ocular manifestations in COVID-19 patients
+Author 
+Patients with ocular 
+manifestations (percentage)
+Ocular manifestations 
+Onset of 
+manifestations
+Ocular manifestations collection methods
+Yu Jun I, et al.(29)
+0/17
+Null
+-
+EMR
+Guan WJ, et al.(30)
+9/1009 (0.9%)
+- Conjunctival congestion
+ Not specified
+EMR
+Deng C, et al.(31)
+0/114
+Null
+-
+EMR
+Zhang X, et al.(32)
+2/72 (2.8%)*
+2/102 (1.96%)
+- Epiphora
+Day 2 to 5
+Not specified
+- Conjunctival hyperemia
+- Normal visual acuity
+Chen L, et al.(33)
+25/534 (4.7%)
+- Conjunctival congestion
+Day 8 to 12
+Ophthalmologists via telephone, face-to-face 
+survey, or smartphone application
+- Secretion
+- Dry eye (20.97%)
+- Blurred vision (12.73%)
+- Foreign body sensation (11.80%)
+- Ophthalmalgia
+- Photophobia
+Xia J, et al.(15)
+1/30 (3.3%)
+- Conjunctival hyperemia
+Day 3
+Not specified
+- Aqueous secretion
+Wu P, et al.(16)
+12/38 (31.6%)
+- Chemosis
+Not specified
+Not specified
+- Epiphora
+- Conjunctival hyperemia
+- Secretion
+Zhou Y, et al.(34)
+1/63 (1.6%)*
+- Conjunctival hyperemia
+Not specified
+Retrospectively patient-reported outcomes (survey)
+1/67 (1.5%)
+- Aqueous secretion
+Lan Q, et al.(35
+3/81 (3.7%)
+- Not specified
+Day 16.67± 9.29
+Full ophthalmological assessment by 
+ophthalmologist
+- Abstract states signs not compatible 
+with conjunctivitis
+Zhou Y, et al.(36)
+8/121 (6.6%)
+- Itching 
+Not specified
+EMR, eye examination with a penlight.
+- Conjunctival hyperemia
+- Aqueous secretion
+- Discharge
+- Foreign body sensation
+Colavita F, et al.(37)
+ 1 (case report)
+- Conjunctival hyperemia
+Day 2 to 21
+Full ophthalmological assessment by 
+ophthalmologist
+- Chemosis
+- Epiphora
+Chen Lu, et al.(38)
+1 (case report)
+- Bilateral conjunctival injection
+ Day 13
+Full ophthalmological assessment by 
+ophthalmologist 
+- Watery discharge
+- Conjunctival follicles
+- Tender & palpable preauricular 
+lymph nodes
+Cheema M, et al.(39)
+1 (case report)
+- Unilateral keratoconjunctivitis
+ Day 1
+Full ophthalmological assessment by 
+ophthalmologist
+- Swollen eyelid
+- Conjunctival follicles
+- Aqueous/mucous discharge
+- Subepithelial infiltrates
+- Pseudodendrite
+- Tender and palpable preauricular 
+lymph nodes
+Li X, et al.(40)
+2 (case report)
+- Conjunctival hyperemia
+Day 3
+Full ophthalmological assessment by 
+ophthalmologist 
+- Viscous discharge
+Sarma P, et al.(28)
+3.17% (6 studies, 854 patients)
+- Conjunctivitis/red eye
+Pooled analysis
+Pooled analysis of 6 studies
+Conjunctivits & red eye pooled in same category
+EMR= Electronic medical records.
+Olivares-de Emparan JP, et al.
+257
+Arq Bras Oftalmol. 2020;83(3):250-61
+Recommendations to prevent propagation  
+of the virus
+Nine articles describe measures that can be imple-
+mented in ophthalmology departments and practices in 
+order to prevent SARS-CoV-2 infection. Three are lite­
+rature reviews(25-27) and six are intervention protocols 
+with low levels of evidence(41-46).
+Table 5. Current recommendations on the management of eye care services during the COVID-19 epidemic
+Hierarchy
+Recommendations
+Administrative Control
+- Patient workflow management, including rescheduling and reducing non-urgent appointments(25-27,41,42,44-46)
+- Patient triage algorithms(25-27,41,42,44-46)
+- TOCC questionnaires(25,27,41,45,46) 
+- Temperature checks(25,41,45,46) 
+- Reducing aerosol-inducing procedures (avoid non-contact air-puff tonometer)(25,27,41,42,45)
+- Tonopen is recommended(25,41,45,46) 
+- Avoiding accompanying persons if possible(25,45,46)
+- Minimizing examination time and extending waiting time between examinations(25,42,45,46) 
+- Requesting diagnostic aids only if critical to decision making(25,45,46) 
+- Rescheduling surgical cases according to level of urgency(25,41,43,45,46) 
+- Promote the use of tele-assistance/tele-medicine to orient patients about their condition(25,27,42,44-46)
+- Using indirect ophthalmoscopy for fundus evaluation(25,27,41,43,45,46)
+- Adapting waiting rooms to maintain two-meter space between patients(25,27,41,45,46) 
+- Specific recommendations are made for each subspecialty, according to three levels of care: emergency, urgent and routine(45)
+- Reduce admission time and avoid paperwork exchange(45,46)
+- Requesting specific informed consent to authorize care in the context of the pandemic(45,46)
+- In the case of a COVID-19 positive patient, ophthalmological care should be provided in a multi-specialty hospital(27,45,46) 
+- Patients with conjunctivitis to be evaluated in an isolated office with maximum protection(45)
+- Patients with conjunctivitis or keratoconjunctivitis should be asked about risk factors for COVID-19(25)
+- Choose the shortest procedure and local anesthesia over general anesthesia(27,45,46)
+- Perform chest x-rays on all patients requiring surgery(45)
+Environmental control
+- Use of ventilation and HEPA units(27,41,45)
+- No-AC policy if possible(45)
+- Protective shields on slit lamps(25,27,41,43,45,46) 
+- Avoid talking during the evaluation(27,45,46) 
+- Disinfection guidelines for office spaces and equipment(25,27,41,43,45,46)
+- Ultraviolet light sterilization units can be installed(45)
+Use of personal protective equipment (PPE)
+- Universal masking:(41,45,46)  
+- Use of surgical masks(25,27,43,46) (in non-suspect patients)
+- N95 respirators for health staff: in suspected COVID-19 cases;(41,46) and aerosol-generating procedures(25)
+- Eye protection (goggles)(25,27,41,43,45,46) 
+- Full personal protective equipment in suspicious and confirmed cases(25,27,41,45,46)
+- Long-sleeved gowns (non-sterile and waterproof) if COVID positive or suspected patients are to be treated(25,45,46)
+- Use of long gloves(25,27,45,46)
+- The patient should wear gloves during the evaluation(41)
+- Hand washing with soap and water and/or alcohol gel(25-27,41,43,45,46) 
+- Testing for symptomatic staff members or self-isolation for 7 days(25,27,46)
+- Avoid touching eyes, nose, and mouth(26,43,46)
+- Prophylactic use of hydroxychloroquine under internal medicine supervision(45)
+Throughout the four intervention descriptions by Chi­
+nese authors, recommendations are based on general 
+strategies built upon a three-level hierarchy system 
+employed in mainland China and Hong Kong: adminis­
+trative control measures, environmental control mea­
+sures and the use of personal protective equipment 
+(Table 5).
+COVID-19 and the eye: how much do we really know? A best evidence review
+258
+Arq Bras Oftalmol. 2020;83(3):250-61
+The review by Lyndon et al. gives evidence for con-
+tact-lens practices, concluding that there is no evidence 
+suggesting contact lens wearers who are asymptomatic 
+should cease using contact lenses due to an increased 
+risk of developing COVID-19. It also states there is no 
+evidence suggesting that wearing prescription glasses 
+provides protection against SARS-CoV-2(26). 
+References in the analyzed literature
+Among the screened records, 47% referenced the 
+case series by Xia et al.(5) in which 1 of 30 patients 
+had positive RT-PCR results in conjunctival secretions 
+(1.3%); this was the most cited item. Similarly, 40% 
+referenced a letter by Lu et al. stating the hypothesis 
+of transmission through the conjunctiva(47). The rest of 
+the screened documents were referenced at an average 
+rate of 3%.
+DISCUSSION
+We found that current recommendations regarding 
+COVID-19 and ophthalmology are based on levels of 
+evidence 4 and 5 according to the Oxford CBME metho-
+dology grading system. The amount of research conduc-
+ted to date is limited; the nature of the disease and the 
+scarcity of cases with ocular involvement pose challen-
+ging circumstances for research efforts. As the pandemic 
+evolves so will the need for further data to bolster our 
+understanding on COVID-19, its implications for eye 
+care and the outcomes of the implemented strategies. 
+In a small percentage of patients, SARS-CoV-2 RNA 
+has been isolated in the tear film. In the published li-
+terature, positive findings were reported in 0 to 7.14% 
+of subjects across different studies; Sarma et al. found 
+that the virus was present in 1.95% (95% C.I. 0.74 to 
+4.11) of samples(28). Possible explanations for a negati-
+ve finding of viral particles on the ocular surface have 
+been set forth: sensitivity of the tests; time of sampling 
+collection; antimicrobial mechanisms of the conjuncti-
+va; collection techniques; and washing of viral particles 
+by tearing and passage to the nasopharynx through the 
+lacrimal duct(6,48). 
+The reviewed publications showed wide heteroge-
+neity in their methodology. First, the time of sample 
+collection, counted from the onset of any symptom, 
+varied on average from 2 to 18 days, and in some studies 
+was not even specified. Second, the number of samples 
+taken was not consistent across the studies and even 
+within them; some, such as case reports, performed only 
+one test, and others up to four. Lastly, the methods for 
+sample collection and processing included conjunctival 
+swabbing and RT-PCR in the majority of the studies, 
+while one collected tears using Schirmer strips and two 
+also performed viral isolation through cell culture. The-
+refore, pooling of the data was not deemed appropriate. 
+Until further evidence is available, we cannot rule out 
+the possibility of viral particles being present in tears 
+and conjunctiva; therefore, precautionary measures 
+should be insisted upon.
+Possible conjunctival transmission is mainly based 
+on anecdotal reports of HCW who did not use eye 
+protection(40), early conjunctival congestion symptoms 
+reported in some patients, or the presence of viral RNA 
+in the tear film(15,16). Several hypothetical transmission 
+me­chanisms have been proposed. First, the virus adhe-
+res to ACE2 receptors found on the conjunctival and 
+corneal epithelia(49,50). Second, the nasolacrimal duct 
+would serve as a pathway from the conjunctiva to the 
+upper respiratory tract where the virus can infect the 
+host(51). However, some authors believe that this is not 
+enough evidence to confirm the conjunctival route 
+of transmission and suggest the following counter-
+-arguments: a) the presence of the ACE2 protein in the 
+conjunctiva is low compared to the lung; b) lactoferrin 
+and secretory IgA present in the tears could eliminate 
+the virus; and c) the presence of the virus in tears could 
+be explained by fomites transmitted to the conjunctiva 
+via splashed droplets or by direct contact with a con-
+taminated hand(51). Qiao et al. report that the overall 
+incidence of COVID-19 among eye professionals across 
+10 hospitals was 2.52% (95% CI: 1.68-3.63%); the 
+incidence of the disease was similar in ophthalmolo-
+gists as that of general practitioners(52). Although there 
+is currently no confirmed conjunctival transmission  
+route, the authors agree with the WHO and other orga-
+nizations´ recommendations that PPE must include eye 
+protection such as goggles or face shields(2,24).
+A wide range of non-specific ocular manifestations 
+has been reported for COVID-19; at this time, a charac-
+teristic presentation has not been clearly determined. 
+The most common ocular manifestations were conjunc-
+tival hyperemia and watery discharge. This presentation 
+varies, as can be observed with the report of Cheema et 
+al. on a patient presenting with keratoconjunctivitis(39). 
+The methodology of the reports also varies widely, as can 
+be seen in the approaches taken by two of the studies. 
+Wu et al. examined hospitalized COVID-19 patients who 
+were more severely ill, including intubated patients, fin-
+Olivares-de Emparan JP, et al.
+259
+Arq Bras Oftalmol. 2020;83(3):250-61
+ding that patients with ocular manifestations presented 
+more severe systemic disease or abnormal findings on 
+blood tests(16). Chen et al. obtained data via telephone, 
+face-to-face surveys, or a smartphone application(33). If 
+statistical measures to overcome the underlying studies 
+limitations and the appropriateness of a pooled analysis 
+are accepted, then Sarma et al. report that conjunc­
+tivitis/red eye is featured in 3.17% (95%CI 1.16 to 6.13) 
+of patients(28). The normal prevalence of dry eye and  
+allergic conjunctivitis could explain some of the repor-
+ted ocular symptoms; other explanations may be related 
+to poor hygiene or face mask misuse. Overall, severe eye 
+manifestations have not been reported, and more speci-
+fic observations will be needed to establish a particular 
+set of findings.
+Because of a lack of interventional studies, recommen­
+dations in current publications are based on lower-level 
+evidence. Most derive from the experience gained and 
+the general strategies implemented during the SARS  
+outbreak in 2002-2004(41,53). Administrative, environ-
+mental and PPE measures should be implemented, and 
+attention should be given to protecting both HCW and 
+patients. There is a need for studies that test or certify 
+the effectiveness of these intervention measures during 
+the current SARS-CoV-2 pandemic; however, erring on 
+the side of safety is currently necessary. As better evi-
+dence continues to accumulate, it will be important to 
+update these measures and adapt to a rapidly evolving 
+scenario.
+It was of particular interest to the authors that a con­
+siderable proportion of the analyzed literature referen-
+ced an anecdotal report about a Chinese respiratory 
+expert who contracted COVID-19 despite having worn 
+appropriate PPE except eye protection(2,47,54). This report 
+was cited in 40% of the screened publications and might 
+have been the initial source for many of the recom-
+mendations on ocular protection(47). This phenomenon 
+illustrates how quickly information with low levels of 
+evidence can be widely disseminated. 
+This is the first review on the level of evidence for 
+ophthalmology recommendations and COVID-19 con-
+ducted to date. It includes an independent full text re-
+view performed by five reviewers. This study was limited 
+to SARS-CoV-2; therefore, data obtained from previous 
+coronavirus epidemics might have been outside of its 
+purview. Some of that information may be as important 
+as what has been reviewed here; the article by Seah et al. 
+on the evidence of ocular involvement in coronavirus 
+cases might have served to counteract this shortcoming. 
+An additional limitation is the dependence on third-party 
+translation for Chinese publications; in order to address 
+this limitation, translations were performed on multiple 
+platforms, and an additional reviewer was added to 
+these papers. Publication bias was approached by sear-
+ching through grey literature, editorials, opinion pieces, 
+pre-published works, and non-peer-reviewed articles 
+alongside traditional publications, without language 
+restrictions.
+COVID-19 is a novel disease that has caused a 
+pandemic unlike any we have experienced in modern 
+medicine, not only because of the characteristics of the 
+disease, but because of the speed of the spread of in-
+formation. The pandemic has only begun to be studied 
+properly; therefore, the scarcity of medical appraisals, 
+randomized controlled trials and case control studies 
+is not surprising. In this structured review we classified 
+the available evidence and recommendations relating 
+to ophthalmology during the COVID-19 pandemic. 
+Overall, the level of available evidence for current re-
+commendations is rising. 
+Currently, there is not sufficient evidence to rule out 
+the possibility of viral particles being present in tears 
+and conjunctiva. A few hypothetical mechanisms have 
+been proposed suggesting that the conjunctiva may act 
+as an entry route for SARS-CoV-2. With the varying de-
+grees of evidence supporting or refuting it, conjunctival 
+transmission remains controversial. Ocular manifesta-
+tions are not common in COVID-19 patients; evidence 
+suggests that they can resemble a viral infection of the 
+ocular surface, with hyperemia and watery discharge 
+as the cardinal signs. Most of the literature published 
+to date consists of anecdotal reports, editorials, and 
+opinion pieces with a high level of cross-referencing. 
+The documents that currently contribute to expanding 
+the knowledge of ocular involvement in COVID-19 are 
+ranked as having low levels of evidence. Most recom-
+mendations are based on the strategies implemented in 
+Asian countries during previous CoVs outbreaks, many of 
+them are likely to prevail and set new standards of pre-
+ventive measures in health systems. During the evolution 
+of this worldwide phenomenon, reliable information will 
+be crucial to elucidate recommendations to mitigate the 
+propagation of SARS-CoV-2. As new studies and cases are 
+reported, it will be fundamental to evaluate their level of 
+evidence to correctly assess the recommendations and 
+adapt them to the local circumstances. 
+COVID-19 and the eye: how much do we really know? A best evidence review
+260
+Arq Bras Oftalmol. 2020;83(3):250-61
+REFERENCES
+1.	 Coronaviridae study Group of the International Committee on 
+Taxonomy of Viruses. The species Severe acute respiratory syn-
+drome-related coronavirus: classifying 2019-nCoV and naming it 
+SARS-CoV-2. Nat Microbiol. 2020;5(4):536-44
+2.	 Li JO, Lam DSC, Chen Y, Ting DSW. Novel Coronavirus disease 
+2019 (COVID-19): The importance of recognising possible early 
+ocular manifestation and using protective eyewear. British Journal 
+of Ophthalmology. 2020; 104(3): 297-8.
+3.	 WHO Emergency Committee. Statement on the second meeting 
+of the international health regulations (2005) emergency 
+committee regarding the outbreak of novel coronavirus (CO-
+VID-19). Geneva: WHO https://www.who.int/news-room/detail/ 
+30-01-2020-statement-on-the-second-meeting-of-the-internatio-
+nal-health-regulations-(2005)-emergency-committee-regarding-the-
+-outbreak-of-novel-coronavirus-(COVID-19) (2020).
+4.	 World Health Organization. WHO Director- General´s opening  
+remarks at the media briefing on COVID-19, 11 March 2020. 
+https://www.who.int/dg/speeches/detail/who-director-general-s-ope-
+ning-remarks-at-the-media-briefing-on-covid-19---11-march-2020 
+(2020).
+5.	 Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features 
+of patients infected with 2019 novel coronavirus in Wuhan, China. 
+Lancet. 2020;395(10223):497-506.
+6.	 Seah I, Agrawal R. Can the Coronavirus Disease 2019 (COVID-19) 
+Affect the Eyes? A Review of Coronaviruses and Ocular Implica-
+tions in Humans and Animals. Ocul Immunol Inflamm. 2020; 
+28(3):391-5.
+7.	 Li JO, Lam DSC, Chen Y, Ting DSW. Novel Coronavirus disease 
+2019 (COVID-19): The importance of recognising possible early 
+ocular manifestation and using protective eyewear. Br J Ophthal-
+mol. 2020;104(3):297-8.
+8.	 Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute res-
+piratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus 
+disease-2019 (COVID-19): The epidemic and the challenges. Int J 
+Antimicrob Agents. 2020;55(3):105924.
+9.	 van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, 
+Gamble A, Williamson BN, et al. Aerosol and Surface Stability of 
+SARS-CoV-2 as Compared with SARS-CoV-1. N Engl J Med. 2020; 
+382(16):1564-7.
+10.	Pung R, Chiew CJ, Young BE, Chin S, Chen MI, Clapham HE, 
+Cook AR, Maurer-Stroh S, Toh MPHS, Poh C, Low M, Lum J, Koh 
+VTJ, Mak TM, Cui L, Lin RVTP, Heng D, Leo YS,Lye DC, Lee VJM, 
+Singapore 2019 Novel Coronavirus Outbreak Research Team. 
+Investigation of three clusters of COVID-19 in Singapore: implica-
+tions for surveillance and response measures. Lancet. 2020 Mar 
+28;395(10229):1039-46.
+11.	Wu D, Wu T, Liu Q, Yang Z. The SARS-CoV-2 outbreak: what 
+we know. Int J Infect Dis. 2020 Mar12;94:44-8. doi:10.1016/J.
+IJID.2020.03.004.
+12.	van der Hoek L, Pyrc K, Vermeulen-Oost W, Berkhout RJ, Wolthers 
+KC, et al. Identification of a new human coronavirus. Nat Med. 
+2004;10(4):368-73.
+13.	Bonn D. SARS virus in tears? Lancet Infect Dis. 2004;4(8):480.
+14.	Loon SC, Teoh SC, Oon LL, Se-Thoe SY, Ling AE, Leo YS, et al. 
+The severe acute respiratory syndrome coronavirus in tears. Br J 
+Ophthalmol. 2004;88(7):861-3.
+15.	Xia J, Tong J, Liu M, Shen Y, Guo D. Evaluation of coronavirus in 
+tears and conjunctival secretions of patients with SARS-CoV-2 in-
+fection. J Med Virol. 2020 Feb 26. doi:10.1002/jmv.25725.
+16.	Wu P, Duan F, Luo C, Liu Q, Qu X, Liang L, et al. Characteristics 
+of Ocular Findings of Patients with Coronavirus Disease 2019 
+(COVID-19) in Hubei Province, China. JAMA Ophthalmol. 2020 
+Mar 31 doi:10.1001/jamaophthalmol.2020.1291.
+17.	WHO-China Joint Mission on Coronavirus Disease 2019 (CO-
+VID-19). Report of the WHO-China Joint Mission on Coronavirus 
+Disease 2019 (COVID-19). Report of the WHO-China Joint Mission 
+on Coronavirus Disease 2019 vol. 2019 https://www.who.int/
+docs/default-source/coronaviruse/who-china-joint-mission-on-
+-covid-19-final-report.pdf (2020).
+18.	Hofmann B. Fake facts and alternative truths in medical research. 
+BMC Med Ethics. 2018;19(1):4.
+19.	Lindner MD, Torralba KD, Khan NA. Scientific productivity: 
+An exploratory study of metrics and incentives. PLoS One. 
+2018;13(4):e0195321.
+20.	Gagnier JJ, Kienle G, Altman DG, Moher D, Sox H, Riley D, et al. 
+The CARE guidelines: Consensus-based clinical case reporting gui-
+deline development. J Med Case Rep. 2013 Sep 10;7:223.
+21.	von Elm E, Altman DG, Egger M, Pocock SJ, Gotzsche PC, 
+Vanderbroucke JP, STROBE Initiative. The strengthening the 
+reporting of observational studies in epidemiology (STROBE) sta-
+tement: Guidelines for reporting observational studies. Int J Surg. 
+2014;12(12):1495-9.
+22.	OCEBM Levels of Evidence Working Group. Oxford Center for 
+Evidence Based Medicine. The Oxford Levels of Evidence 2. https://
+www.cebm.net/index.aspx?o=5653.
+23.	Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew 
+M, Shekelle P, Stewart LA, PRISMA-P Group. Preferred reporting 
+items for systematic review and meta-analysis protocols (PRISMA-P) 
+2015 statement. Syst Rev. 2015 Jan 1;4:1.
+24.	Yu AY, Tu R, Shao X, Zhou K, Huang J. A comprehensive Chinese 
+experience against SARS-CoV-2 in ophthalmology. Eye Vis (Lond). 
+2020 Apr 7;7:19 (2020).
+25.	Romano MR, Montericcio A, Montalbano C, Raimondi R, Allegrini 
+D, Ricciardelli G, et al. Facing COVID-19 in Ophthalmology De-
+partment. Curr Eye Res. 2020 Apr 23:1-6. doi:10.1080/0271368
+3.2020.1752737.
+26.	Jones L, Walsh K, Willcox M, Morgan P, Nichols J. The CO-
+VID-19 pandemic: Important considerations for contact lens 
+practitioners. Cont Lens Anterior Eye. 2020 Apr 3. doi:10.1016/j.
+clae.2020.03.012.
+27.	Sadhu S, Agrawal R, Pyare R, Pavesio C, Zierhut M, Khatri A, et 
+al. COVID-19: Limiting the Risks for Eye Care Professionals. Ocul 
+Immunol Inflamm. 2020 Apr 20; 1-7. doi:10.1080/09273948.20
+20.1755442.
+28.	Sarma P, Kaur H, Kaur H, Bhattacharyya J, Prajapat M, Shekhar N, 
+et al. Ocular Manifestations and Tear or Conjunctival Swab PCR 
+Positivity for 2019-nCoV in Patients with COVID-19: A Systematic 
+Review and Meta-Analysis. SSRN Electronic Journal. 2020 Apr 15. 
+doi:10.2139/ssrn.3566161.
+29.	Seah IYJ, Anderson DE, Kang AEZ, Wang L, Rao P, Young BE, et 
+al. Assessing Viral Shedding and Infectivity of Tears in Coronavirus 
+Disease 2019 (COVID-19) Patients. Ophthalmology. 2020 Mar 24. 
+doi: 10.1016/j.ophtha.2020.03.026.
+30.	Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, et al. Clinical Characteris-
+tics of Coronavirus Disease 2019 in China. N Engl J Med. 2020;Feb 
+28. doi:10.1056/nejmoa2002032.
+31.	Deng C, Yang Y, Chen H, Chen W, Chen Z, Ma K, et al. Ocular 
+Detection of SARS-CoV-2 in 114 Cases of COVID-19 Pneumo-
+nia in Wuhan, China: An Observational Study. SSRN Electronic 
+Journal. 2020 Feb 27. https://ssrn.com/abstract=3543587 (2020) 
+doi:10.2139/ssrn.3543587.
+Olivares-de Emparan JP, et al.
+261
+Arq Bras Oftalmol. 2020;83(3):250-61
+32.	Zhang X, Chen X, Chen L, Deng C, Zou X, Liu W, et al. The evidence 
+of SARS-CoV-2 infection on ocular surface. Ocul Surf. 2020 Apr 
+11. doi: 10.1016/j.jtos.2020.03.010
+33.	Chen L, Deng C, Chen X, Zhang X, Chen B, Yu H, et al. Ocular ma-
+nifestations and clinical characteristics of 534 cases of COVID-19 
+in China: A cross-sectional study. medRxiv. 2020. doi:10.1101/2
+020.03.12.20034678.
+34.	Zhou Y, Zeng Y, Tong Y, Chen C. Ophthalmologic evidence against 
+the interpersonal transmission of 2019 novel coronavirus through 
+conjunctiva. medRxiv. 2020. doi:doi.org/10.1101/2020.02.11.20
+021956.
+35.	Lan QQ, Zeng SM, Liao X, Xu F, Qi H, Li M. Screening for novel 
+coronavirus related conjunctivitis among the patients with coro-
+navirus disease-19. [Zhonghua Yan Ke Za Zhi] Chin J Ophthalmol. 
+2020;56: E009. Chinese.
+36.	Zhou Y, Duan C, Zeng Y, Tong Y, Nie Y, Yang Y, et al. Ocular 
+Findings and Proportion with Conjunctival SARS-COV-2 in CO-
+VID-19 Patients. Ophthalmology. 2020 Apr 21. doi:10.1016/j.
+ophtha.2020.04.028.
+37.	Colavita F, Lapa D, Carletti F, Lalle E, Bordi L, Marsella P, et al. 
+SARS-CoV-2 Isolation from Ocular Secretions of a Patient with 
+COVID-19 in Italy with Prolonged Viral RNA Detection. Ann Intern 
+Med. 2020 Apr 17. doi:10.7326/M20-1176.
+38.	Chen L, Liu M, Zhang Z, Qiao K, Huang T, Chen M, et al. Ocular 
+manifestations of a hospitalised patient with confirmed 2019 novel 
+coronavirus disease. Br J Ophthalmol. 2020 Apr 7. doi:10.1136/
+bjophthalmol-2020-316304.
+39.	Cheema M, Aghazadeh H, Nazarali S, Ting A, Hodges J, McFarlane 
+A, et al. Keratoconjunctivitis as the initial medical presentation of 
+the novel coronavirus disease 2019 (COVID-19). Can J Ophthal-
+mol. 2020 Apr 2. doi:10.1016/j.jcjo.2020.03.003.
+40.	Li X, et al. Novel coronavirus disease with conjunctivitis as 
+first symptom: Two cases report. Chin J Exp Ophthalmol. 
+2020;38:E002. Chinese
+41.	Lai T, Tang E, Chau S, Fung K, Li K. Stepping up infection con-
+trol measures in ophthalmology during the novel coronavirus 
+outbreak: an experience from Hong Kong. Graefe’s Arch Clin 
+Exp Ophthalmol. 2020;258(5)1049-55. doi:10.1007/s00417-020-
+04641-8.
+42.	Wang N, Ying J, Fangbiao T. Precautions in ophthalmic practice 
+in the prevention and control of the novel coronavirus pneu-
+monia epidemic. [Zhonghua Yan Ke Za Zhi] Chin J Ophthalmol. 
+2020;56:E007. Chinese.
+43.	Zhang M, Xie H, Xu K, Cao Y. Suggestions for disinfection of 
+ophthalmic examination equipment and protection of ophthal-
+mologist against 2019 novel coronavirus infection. [Zhonghua Yan 
+Ke Za Zhi] Chinese Journal of Ophthalmology 56, E001 (2020). 
+Chinese.
+44.	Society of Public Health Ophthalmology, Chinese Preventive 
+Medicine Association, Beijing Ophthalmological Society & Youth 
+Committee of Beijing Ophthalmological Society. Suggestions from 
+ophthalmic experts on eye protection during the novel coronavirus 
+pneumonia epidemic. [Zhonghua Yan Ke Za Zhi] Chin J Ophthal-
+mol. 2020;56:E002. Chinse.
+45.	Sengupta S, honar SG, Sachdev MS, Sharma N, Kumar A, Ram J, 
+Shetty R, Ro GS, Ramasamy K, Khanna R, Jain E, Bhattacharjee K, 
+Agarwal A, Natarajan S, Lahane TP, Writing Committee on behalf 
+of the All India Ophthalmological Society. All India Ophthalmologi-
+cal Society - Indian Journal of Ophthalmology consensus statement 
+on preferred practices during the COVID-19 pandemic. Indian J 
+Ophthalmol. 2020;68(5):711-24.
+46.	Gharebaghi R, Moshifar M, Desuatels J, Parvizi M, Daryabary SH, 
+Heidary F. COVID-19: Preliminary Clinical Guidelines for Ophthal-
+mology Practices. Med Hypothesis Discov Innov Ophthalmol. 
+2020;9(2):149-58.
+47.	Lu CW, Liu XF, Jia ZF. 2019-nCoV transmission through the ocular 
+surface must not be ignored. Lancet. 2020 Feb 22;395(10224):e39.
+48.	Qing H, Li Z, Yang Z, Shi M, Huang Z, Song J, et al. The possibility 
+of COVID-19 transmission from eye to nose. Acta Ophthalmol. 
+2020 Mar 18. doi:10.1111/aos.14412.
+49.	Walls AC, Park YJ, Tortorici MA, Wall A, McGuire AT, Veesler D. 
+Structure, Function, and Antigenicity of the SARS-CoV-2 Spike 
+Glycoprotein. Cell. 2020 Apr 16;181(2)281-92. doi:10.1016/j.cell. 
+2020.02.058.
+50.	Yin X, Zhang J. Advance in research of beta coronavirus receptors 
+on ocular surface. Chin J Exp Ophthalmol. 2020;38:254-6. Chinese
+51.	Liu Z, Sun CB. Conjunctiva is not a preferred gateway of entry for 
+SARS-CoV-2 to infect respiratory tract. J Med Virol. 2020 Apr 10. 
+doi:10.1002/jmv.25859.
+52.	Qiao C, Zhang H, He M, Ying G, Chen C, Song Y, et al. Sympto-
+matic COVID-19 Infection in Eye Professionals in Wuhan China. 
+Ophthalmology. 2020. Article in Press. doi:10.1016/j.ophtha. 
+2020.04.026.
+53.	Jun ISY, Hui KKO, Songbo PZ. Perspectives on Coronavirus Dise-
+ase 2019 Control Measures for Ophthalmology Clinics Based on 
+a Singapore Center Experience. JAMA Ophthalmol. 2020 Mar 31. 
+doi:10.1001/jamaophthalmol.2020.1288.
+54.	Wan KH, Huang SS, Young A, Chiu Lam DS. Precautionary 
+mea­sures needed for ophthalmologists during pandemic of the 
+coronavirus disease 2019 (COVID-19). Acta Ophthalmol. 2020 Mar 
+29. doi:10.1111/aos.14438.

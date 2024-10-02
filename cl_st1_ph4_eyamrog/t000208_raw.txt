@@ -1,0 +1,358 @@
+Dental care and the COVID-19 pandemic: the precautionary principle and the best 
+available evidence 
+ 
+Cassiano Kuchenbecker Rösing1 
+Juliano Cavagni2 
+Gerson Pedro José Langa3 
+Thais Mazzetti4 
+Francisco Wilker Mustafa Gomes Muniz5  
+ 
+1) Department of Periodontology, Federal University of Rio Grande do Sul, Porto 
+Alegre, Rio Grande do Sul, Brazil. E-mail: ckrosing@hotmail.com; telephone: 
++5551995119123. ORCID: 0000-0002-8499-5759. 
+2) Department of Periodontology, Federal University of Rio Grande do Sul, Porto 
+Alegre, Rio Grande do Sul, Brazil. E-mail: jcavagni@hotmail.com; telephone: 
++55519995911703. ORCID: 0000-0003-0062-6604. 
+3) Department of Periodontology, Federal University of Rio Grande do Sul, Porto 
+Alegre, Rio Grande do Sul, Brazil. E-mail: gerson_pedro002@hotmail.com; 
+telephone: +55519982391908. ORCID: 
+4) Post-graduation program in Dentistry, Federal University of Pelotas, Pelotas, Rio 
+Grande 
+do 
+Sul, 
+Brazil. 
+E-mail: 
+thmazzetti@gmail.com; 
+telephone: 
++55539984552970. ORCID: 0000-0001-6877-2099. 
+5) Department of Periodontology, Federal University of Pelotas, Pelotas, Rio Grande 
+do Sul, Brazil. E-mail: wilkermustafa@gmail.com; telephone: +5553991253611. 
+ORCID: 0000-0002-3945-1752. 
+ 
+Authors’ contribution: 
+All authors have made substantial contributions to conception and design of the study. 
+CKR, CJ, TM and FWMGM drafted the manuscript. All authors revised the manuscript 
+critically and have given final approval of the version to be published. 
+Abstract 
+The precautionary principle is part of evidence-based healthcare. However, since it is not 
+always based in the most qualified evidence, it is frequently questioned. The emergence 
+of a highly contagious disease, with increased levels of morbimortality, an acute 
+respiratory syndrome, the so called Coronavirus Disease 2019 (COVID-19), led health 
+professionals to look for the best alternatives to save lives. In this sense, the precautionary 
+principle was evocated. The precautionary principle is used both preventively and 
+therapeutically when knowledge about how to manage problems/diseases/conditions that 
+are especially life-threatening. The aim of this short communication is to make a 
+reflection about the precautionary principle, the dental profession and COVID-19. It is 
+important to have in mind that in such a disease, guidelines, protocols and approaches can 
+change very fast, since a continuous evaluation of all policies is mandatory.  
+Keywords: Coronavirus; Dental Health Services; Evidence-Based Practice. 
+ 
+Introduction 
+ 
+ 
+Evidence-based healthcare has been considered the current paradigm for all health 
+professions [1]. This movement started with evidence-based medicine and spread for all 
+health approaches. In such paradigm, the best available evidence should be used to treat 
+individuals. This means that the so-called authority-based healthcare is increasingly 
+questioned. Dentistry has a considerable difference from Medicine, since the majority of 
+the situations faced by the profession does not have death as an outcome. Death is 
+undoubtedly a true outcome. In Dentistry, with some exceptions, the loss of a tooth is one 
+of the most typical true outcomes [2]. Of course, patient-related outcome measures are 
+also true outcomes (e.g, masticatory function, esthetics, oral health-related quality of life, 
+among others) and have to be always considered. 
+ 
+The paradigm of evidence-based dentistry combines three fundamental aspects: 
+the best available evidence, the expertise of the professional and patient values and 
+preferences. All of these aspects should be taken into consideration in the decision-
+making processes.  
+ 
+However, there are some situations in which the best available evidence is of low 
+quality or, even, inexistent. In 2020, a pandemic emerged: the Coronavirus Disease 2019 
+(COVID-19). It has been responsible for a very high number of deaths worldwide. The 
+contamination with the SARS-CoV-2 (coronavirus) generates a strong respiratory 
+syndrome, which, especially for the older adults and for those with chronic diseases has 
+high mortality rate [3]. Therefore, different preventive and therapeutic measures have 
+been advocated. Some of the measures are not based on high quality evidence and others 
+might even not have any support. Their indication is frequently based in the so-called 
+precautionary principle [4]. The present article aims at making a deep thought about the 
+precautionary principle in dental care, especially taking into consideration the COVID-
+19 pandemic. 
+ 
+The precautionary principle – definition and reflections 
+ 
+The precautionary principle is a preventive concept. Traditionally, it comes from 
+epidemiological studies that identify potential risk factors and, even without the complete 
+proof, start to be part of the preventive policies [4]. It is used when the evidence neither 
+clearly supports nor refutes the hypothesis. Of course, the inclusion of an action on the 
+preventive policy needs to be under continuous and close surveillance, up to the moment 
+in which the evidence supports or discards the measure. Figure 1 summarizes the 
+precautionary principle in the context of evidence-based healthcare. 
+ 
+One very important situation in the use of the precautionary principle is that the 
+adverse events are also taken into consideration [5]. Moreover, the nature and 
+morbimortality of the situation under consideration is of utmost importance. The 
+precautionary principle is much more useful in situations in which morbimortality is high, 
+which is specifically the case with COVID-19 [4].  
+ 
+In addition to preventive measurements, the precautionary principle is useful in 
+therapeutic approaches. For example, in some types of cancer, a therapy starts to be used 
+even before statistically significant differences are observed in comparison to a control 
+group [6]. However, in such situations, in the same manner that in preventive approaches, 
+a close surveillance of the positive and negative effects is mandatory. 
+ 
+It is very important that the ones understanding, advocating or even analyzing the 
+precautionary principle are aware of the fact that uncertainty is present in these situations 
+in various levels [4]. Evidence-based healthcare tries to rule out uncertainty with the best 
+possible means, however when life is threatened, higher levels of uncertainty need to be 
+tolerated. 
+ 
+In this respect, one situation that needs to be strengthened is that the “absence of 
+evidence is not evidence of absence”. This means that when you do not have evidence in 
+a specific situation, it does not support that this situation is useless or does not work. This 
+is a very popular epidemiological sentence that needs to be always taken into 
+consideration both in the decision-making process as well as in the planning and 
+censuring of research projects. Sometimes it is not ethical not to perform a study, if there 
+is no evidence to it, just because of an individual’s belief. So, the precautionary principle 
+is also used with proposals that, if continued under adequate surveillance, will be accepted 
+or refuted. 
+ 
+On the other hand, one very important situation comes with the precautionary 
+principle. This is: which is the outcome of the problem/disease/condition? If the outcome 
+is death, high levels of handicap, or similar situations, evidence of less quality might 
+support the approaches until a definitive answer is achieved. However, this is not adequate 
+if the problem/disease/condition does not have a very harmful outcome. In Dentistry, the 
+precautionary principle is, therefore, very limited [5]. One argument frequently comes 
+into the picture: “if it does not harm, why not to use it?”.  This is completely inadequate 
+in evidence-based healthcare, unless specific reasons are raised to use the precautionary 
+principle. 
+ 
+Several points of view are extremely critical to the precautionary principle, 
+especially due to the misuse of it. Some reports even put it in a perspective of a scientific 
+fallacy or incoherence. Clearly, this is not a situation that has only one side. A more 
+comprehensive understanding of the principle is mandatory, with a critical analysis of 
+every situation involving the precautionary principle. 
+ 
+An analysis of COVID-19 
+ 
+The pandemic of COVID-19 probably started in China and has spread worldwide 
+[7]. This is a highly contagious disease that inputs high levels of uncertainty for healthcare 
+professionals. This is mainly related to the fact that it is a new disease and lack of 
+knowledge exacerbates the situation. 
+ 
+The present study was written between May 20th and June 5th, 2020. This is of 
+high importance to be highlighted, since even during this 2-week interval, several 
+situations changed and the information is being updated sometimes more than once a day. 
+It is known that the pandemic has reached all continents of the world and that in absolute 
+numbers of death, the United States of America and Brazil are the countries with high 
+figures [8, 9]. It is estimated that more than 370 thousand people died worldwide up to 
+the end of May 2020 and that the number of infected people is of more than 6.2 million 
+[10]. 
+ 
+Research is emerging from different countries and it seems that keeping social 
+distance is one of the measurements that decreases infectivity [11, 12]. This is also of 
+importance, since a flattening of the curve may be possible, allowing the health systems 
+to get prepared to it. Together with the uncertainty of any kind of approach comes the 
+need for governmental investment worldwide, which elicits high levels of polemics.  
+ 
+The World Health Organization is trying to lead the understanding process of the 
+pandemic and has already declared that we are facing a public health emergency, with the 
+need of conjunct efforts from every citizen of every country [10]. Based on the 
+precautionary principle (since no evidence was available for this specific disease), 
+different protective measures utilized collateral evidence trying to protect the populations 
+and the continuous evaluation of such measurements constitutes the current best available 
+evidence. 
+ 
+As in any situation in evidence-based healthcare, the methods used to evaluate 
+anything are essential. In this respect, data on prevalence is not available. This is due to 
+the fact that different countries have different protocols for testing individuals, different 
+ways of counting for death causes, etc. It is probable that a significant number of deaths 
+by COVID-19 were not reported as such, especially due to under notification or even due 
+to lack of testing of the dead individuals. 
+ 
+Some countries with more established healthcare systems have better forms of 
+notifications. For example, in the United States of America, a public-private partnership 
+for community-based testing is happening. In Germany, there is a private partnership for 
+testing. Additionally, patients can go to a hospital to test, and in case of a high demand of 
+testing, medical students in universities are also able to perform these tests. 
+ 
+One point that needs to be analyzed is that associations between some measures 
+and elevation or flattening of the disease curve are available. Social isolation has been 
+demonstrated to be effective [11]. The use of masks has been proposed [13], but the World 
+Health Organization does not recommend the use of mask for healthy individuals, except 
+for health workers or for individuals with direct contact with a sick person [14]. CDC 
+recommends the use of cloth face coverings associated with hand washing, or hand 
+sanitizer with at least 60% alcohol, social distancing (at least 1.8m), clean and disinfection 
+of surfaces [15]. 
+ 
+Another interesting situation that cannot be forgotten is that a hypothesis of a 
+possible positive effect of chloroquine and hydroxychloroquine in patients with COVID-
+19 was raised. This was a first hypothesis that led to a wrong understanding by parts of 
+the healthcare systems. If in one hand a possible interesting effect was demonstrated, on 
+the other the evidence was very weak and mainly observational. After some weeks of 
+usage by those that understood the potential benefits would be worth, studies are not 
+confirming such benefit. On the contrary, it seems that the posed risks are very high [16]. 
+Therefore, in a very short period of time, higher quality evidence transformed a possibility 
+of treatment in an inadequate approach.  
+ 
+The reality is that we are facing an unknown disease, with high level of mortality 
+and that direct qualified evidence is not available neither for prevention nor for treatment. 
+In this respect, taking into consideration the idea of the precautionary principle, measures 
+based on collateral evidence might be taken and need continuous evaluation in order to, 
+if proven consistently beneficial, become part of established protocols and, in case of not 
+a proven benefit or a demonstration of important adverse effects, to be banned from the 
+strategies. 
+ 
+The precautionary principle, COVID-19 and oral care 
+ 
+In the context of COVID-19, Dentistry is facing a new challenge. Similarly to 
+professionals that work in intubation of infected patients, dental professionals deal with 
+an important situation regarding aerosol. Saliva is contaminated and a source of infection 
+both for health professionals as well as for other patients that are in the same environment. 
+The literature also suggests that salivary glands could be a potential reservoir for the virus 
+[17]. 
+ 
+Also, it should be highlighted that elective procedures should be limited at this 
+time point of the pandemic. This means that maintenance visits, for example are probably 
+postponed. Despite that, Center of Diseases Control and Prevention (CDC) (USA) 
+removed the recommendation to postpone elective procedures in May 18th [18]. In Brazil, 
+there are different recommendations, varying for each state. Clinicians must be updated 
+about the local current policies. They all depend on the numbers of infected people and 
+the capacity of the health system.  
+One important information that has to be given for the population is that oral 
+hygiene methods should be even emphasized, in order to avoid, to the best possible 
+means, the necessity of urgent dental care or, even, deterioration of oral health [19]. 
+ 
+On the other hand, there are cases in which in-office dental care is unavoidable, 
+such as individuals with pain, spontaneous bleeding, dental trauma, etc [19]. In these 
+situations, biosafety is fundamental. In this respect, Dentistry has a lot to teach other 
+professions. However, traditional biosafety measurements are probably not enough. 
+Hence, evidence-based approaches should be preferred. Moreover, part of the decisions 
+will not be evidence-based or, at least, not based on the best quality evidence. But one 
+has to decide and, taking into consideration the best available direct or collateral evidence, 
+guidelines should be constructed. 
+ 
+Different organizations have worked on this topic and, up to the moment of the 
+present article, some recommendations were made by them. CDC and ADA 
+recommendations include previous contact with the patients for COVID-19 screening, 
+avoid non-emergent dental care when the patient has COVID-19 symptoms, limit the 
+number of companions whenever possible, minimize the number of patients in the waiting 
+room and check the patient's temperature before dental care [18, 20]. 
+ 
+One example of the included suggested procedures is rinsing with H2O2. For this 
+suggestion, direct evidence is not available. The potential of H2O2 in reducing viral load 
+is an example of the use of the precautionary principle. However, this needs continuous 
+evaluation. 
+ 
+Since evidence-based Dentistry also relies on patient participation, it is very 
+important to clearly inform the individuals seeking dental care about the whole situation 
+and have it in a signed written informed consent. 
+ 
+Final remarks 
+ 
+In the moment of the writing of the present article, very little high-quality evidence 
+was available for prevention and treatment of COVID-19. The precautionary principle 
+should be, therefore, used. However, caution needs to be taken and continuous 
+surveillance necessary. Science has to be mature to take steps further and steps back, with 
+the main aim of healthcare, which is the well-being of humanity. 
+ 
+Acknowledgments 
+This study was financed in part by the Coordenação de Aperfeiçoamento de 
+Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001. All other funding was 
+self-supported by the authors. The authors report no conflict of interest. 
+ 
+Figure legend 
+Figure 1. Summary of the evidence-based healthcare and precautionary principle. 
+ 
+References 
+1. 
+Dodson TB. Evidence-based medicine: its role in the modern practice and 
+teaching of dentistry. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 1997; 
+83(2):192-197. 
+2. 
+Hujoel PP, DeRouen TA. A survey of endpoint characteristics in periodontal 
+clinical trials published 1988-1992, and implications for future studies. J Clin Periodontol 
+1995; 22(5):397-407. 
+3. 
+Wang X, Fang X, Cai Z, Wu X, Gao X, Min J, et al. Comorbid Chronic Diseases 
+and Acute Organ Injuries Are Strongly Correlated with Disease Severity and Mortality 
+among COVID-19 Patients: A Systemic Review and Meta-Analysis. Research (Wash D 
+C) 2020; 2020:2402961. 
+4. 
+Resnik DB. The precautionary principle and medical decision making. J Med 
+Philos 2004; 29(3):281-299. 
+5. 
+Tickner J, Coffin M. What does the precautionary principle mean for evidence-
+based dentistry? J Evid Based Dent Pract 2006; 6(1):6-15. 
+6. 
+Weiss NS. When can the result of epidemiologic research not eliminate the need 
+to invoke the precautionary principle? J Evid Based Dent Pract 2006; 6(1):16-18. 
+7. 
+Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus 
+from Patients with Pneumonia in China, 2019. N Engl J Med 2020; 382(8):727-733. 
+8. 
+de Souza Ferreira LP, Valente TM, Tiraboschi FA, da Silva GPF. Description of 
+Covid-19 Cases in Brazil and Italy. SN Compr Clin Med 2020; 2020:1-4. 
+9. 
+Team CC-R. Characteristics of Health Care Personnel with COVID-19 - United 
+States, February 12-April 9, 2020. MMWR Morb Mortal Wkly Rep 2020; 69(15):477-
+481. 
+10. 
+World Health Organization (WHO). Coronavirus disease (COVID-2019) 
+situation 
+reports 
+2020 
+[Available 
+from: 
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports]. 
+[Accessed on May 31, 2020]. 
+11. 
+Nussbaumer-Streit B, Mayr V, Dobrescu AI, Chapman A, Persad E, Klerings I, et 
+al. Quarantine alone or in combination with other public health measures to control 
+COVID-19: a rapid review. Cochrane Database Syst Rev 2020; 4:CD013574. 
+12. 
+Duczmal LH, Almeida ACL, Duczmal DB, Alves CRL, Magalhães FCO, Lima 
+MS, et al. Vertical social distancing policy is ineffective to contain the COVID-19 
+pandemic. Cad Saude Publica 2020; 36(5):e00084420. 
+13. 
+Prather KA, Wang CC, Schooley RT. Reducing transmission of SARS-CoV-2. 
+Science 2020; eabc6197. doi: 10.1126/science.abc6197. 
+14. 
+World Health Organization (WHO). When and how to use masks. 2020 [Available 
+from: 
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-
+public/when-and-how-to-use-masks]. [Accessed on May 31, 2020]. 
+15. 
+Centers for Disease Control and Prevention (CDC). How to Protect Yourself & 
+Others 2020 [Available from: https://www.cdc.gov/coronavirus/2019-ncov/prevent-
+getting-sick/prevention.html]. [Accessed on May 31, 2020]. 
+16. 
+Mehra MR, Desai SS, Ruschitzka F, Patel AN. Hydroxychloroquine or 
+chloroquine with or without a macrolide for treatment of COVID-19: a multinational 
+registry analysis. Lancet 2020; S0140-6736(20): 31180-31186. 
+17. 
+Xu J, Li Y, Gan F, Du Y, Yao Y. Salivary Glands: Potential Reservoirs for 
+COVID-19 Asymptomatic Infection. J Dent Res 2020: 22034520918518. 
+18. 
+Centers for Disease Control and Prevention (CDC). Guidance for Dental Settings  
+[Available 
+from: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/dental-
+settings.html#Management]. [Accessed on May 31, 2020]. 
+19. 
+Pereira LJ, Pereira CV, Murata RM, Pardi V, Pereira-Dourado SM. Biological and 
+social aspects of Coronavirus Disease 2019 (COVID-19) related to oral health. Braz Oral 
+Res 2020; 34:e041. 
+20. 
+American Dental Association (ADA). Return to Work Interim Guidance Toolkit 
+(Updated 
+5/7/2020) 
+[Available 
+from: 
+https://success.ada.org/en/practice-
+management/patients/infectious-diseases-2019-novel-
+coronavirus?utm_source=adaorg&utm_medium=globalheader&utm_content=coronavir
+us&utm_campaign=covid-19]. [Accessed on June 1st, 2020]. 
+ 
+Figure 1 
+ 
+ 
