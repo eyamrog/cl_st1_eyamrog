@@ -1,5 +1,5 @@
 # Revising the paragraphs with ChatGPT
-# Usage: (my_env) eyamrog@Rog-ASUS:~/work/cl_st1_eyamrog$ python cl_st1_ph4_eyamrog.py cl_st1_ph4_eyamrog cl_st1_ph4_eyamrog
+# Usage: (my_env) eyamrog@Rog-ASUS:~/work/cl_st1_eyamrog$ nohup python cl_st1_ph4_eyamrog.py cl_st1_ph4_eyamrog cl_st1_ph4_eyamrog &
 
 import argparse
 from dotenv import load_dotenv
