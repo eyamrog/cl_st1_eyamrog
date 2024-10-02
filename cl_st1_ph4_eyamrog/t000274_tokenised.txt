@@ -1,0 +1,52 @@
+Currently doctors and health professionals are facing a challenging pandemic caused by a new strain called 2019 Novel Coronavirus (COVID-19). Human infection with COVID-19 does not yet have the clinical spectrum fully described, and the pattern of lethality, mortality, infectivity and transmissibility is not known with precision. There is no specific vaccine or medication available. Treatment is supportive and nonspecific. In Brazil, as in the rest of the world, the number of COVID-19 cases has grown alarmingly, leading to an increase in the number of hospitalizations as well as in mortality from the disease. Currently, the states with the highest number of cases are, respectively, São Paulo, Rio de Janeiro, Distrito Federal and Ceará. The objective of this work is to offer alternatives in order to guide surgeons regarding the surgical management of the airways in patients with suspicion and / or confirmation for COVID-19 infection.
+Doctors and healthcare professionals are currently facing a challenging pandemic caused by a new strain called 2019 Novel Coronavirus (COVID-19). Human infection by COVID-19 does yet not have the clinical spectrum fully described, and the pattern of lethality, mortality, infectivity and transmissibility is not precisely known. There is no specific vaccine or medication available. Treatment is supportive and nonspecific. The numbers of COVID-19 cases all over the world have grown alarmingly, resulting in increased number of hospitalizations, and mortality1,2.
+Health professionals who work in the emergency room or with acute care patients need to adapt their procedures in order to reduce potential contamination and the spread of the disease. As of early March, China has reported more than 3,300 infected health workers and at least 22 deaths3,4. To follow protective guidelines for invasive procedures is essential at this time for emergency professionals and surgeons.
+Considering that the establishment of a definitive airway is directly related to the generation of aerosol in an inevitable way, especially when using high-speed flow, we must be aware of the required safety measures in order to minimize the risks of spreading the disease. Positive pressure ventilation during non-invasive ventilation (NIV) or when using a face mask or supraglottic devices are considered to be high risk factors for aerosol generation, since these procedures do not offer adequate sealing, which is inferior when compared to a definitive airway with an inflated cuff inside the trachea.
+Laryngoscopy, tracheal intubation and bronchoscopy will promote aerosol production only if there is a cough stimulus or if other procedures that can generate aerosol are performed (e.g. aspiration). Many of these events that can precipitate aerosol production can be prevented by adequate neuromuscular block and avoiding simultaneously different procedures.
+The objective of this paper is to offer guidelines in order to guide surgeons regarding the surgical management of the airways in patients suspected and/or confirmed for infection by COVID-19.
+All patients admitted to the emergency departments should be considered carriers of COVID-19, until proven otherwise, under the current pandemic. Furthermore, patients with any respiratory symptoms should be treated as infected until an appropriate confirmation diagnosis is provided, since there is no rapid test for this situation so far5.
+Airway management in general must be SAF: Safe, Accurate and Fast. Safe for professionals and patients; accurate and precise avoiding unreliable, unknown or repeated techniques; fast avoiding delays not only for the indication but also for the procedure6. Figure 1.
+Alternatives to airway obstruction5
+• Tracheal intubation (TI) should always be the first route of choice, avoiding the surgical airway in an untimely manner, so always try to follow the guidelines for handling a difficult airway;
+• Avoid using high flow oxygen;
+• The physician who will perform the airway management should preferably be experienced to maximize the success of the first TI attempt;
+• In case of suspect difficult airway, it is recommended to have the concurrent aid of a professional with experience in surgical airways;
+• Minimize the number of people at the bedside. There is a recommendation for 3 professionals: the doctor, an assistant (eg nurse) and a medication / monitoring administrator (eg nurse technician)6.
+Surgical cricothyroidotomy, when needed, is preferable to needle cricothyroidotomy because it is more effective and reduces the spread of aerosols. The puncture technique is reserved for exceptional cases under emergency scenarios.
+An attempt is made to identify and palpate the cricothyroid membrane, with two potential scenarios5, as depicted in table 1.
+The maximum time that a patient can be kept on TI, without the risk of tracheal injury, is controversial, but several studies have proven the benefit of doing an early TQT, which, according to different definitions, can be performed within 2, 7 or 10 days of mechanical ventilation8.
+Considering that a tracheostomy is an elective procedure, prior diagnostic confirmation of COVID-19 and the patient’s clinical stabilization are recommended, as this is a high-risk procedure due to the ability to generate aerosols5.
+The precise indication and the correct assessment for the indication of the procedure must be considered in order to avoid unnecessary risks of spreading the disease.
+If the test is negative for COVID-19, it is recommended to perform the standard operating procedure (liquid-resistant surgical mask, surgical gown, gloves and eye protection).
+Standard operative procedure for tracheostomy in a COVID-19 positive patient / unknown status5
+• Specialists who will perform anesthesia and the surgical procedure must ensure that it is safe, accurate and fast (SAF).
+• Reduce team members to just the essential required professionals.
+• Preparation and attire:
+1. Use the FFP3 / N95 mask;
+2. Use eye / face protection whenever performing TCT or changing a TCT tube due to the risk of respiratory secretions or body fluids. One of the following options is suitable:
+a. surgical mask with integrated visor;
+b. full face shield / visor.
+3. Wear disposable gowns resistant to liquids / fluids (waterproof). If a permeable gown is used, use a disposable plastic gown underneath. The gown must be sterilized, with long sleeves, mesh or elastic cuff and a rear opening. In addition, it must be made of good quality, non-allergenic and resistant material. It must provide an effective antimicrobial barrier, allow the performance of activities under a comfortable feeling, and be available in various sizes9.
+4. Gloves must be comfortable to allow precise movements. Consider using “two gloves”. In some countries there is the availability of gloves with a biogel content that externalizes and signals a perforation.
+• Use a conventional tracheostome, avoiding the fenestrated models;
+• Every effort should be made not to damage the cuff of the endotracheal tube when performing TCT;
+• Perform an initial advance of the endotracheal tube before the TCT window is performed to reduce aerosol elimination;
+• If possible, stop ventilation while the tracheal incision is being performed, and check that the cuff is already inflated before restarting ventilation;
+• Ventilation should be stopped before the insertion of the tracheostome, and perform a fast and accurate placement of the tracheostome with immediate inflation of the cuff;
+• Confirm the adequate placement, preferentially, with capnography, if available;
+• Check that there are no leaks and that the tracheostome is well fixed;
+• An HME type filter (Heat and moisture exchanger) must be placed on the tracheostome to reduce the exposure of the virus, in case of disconnection. A suggested alternative, either in elective and/or emergency procedures is to use an extension, obstructed by the plunger of a syringe, and then immediately use forceps for obstruction, followed by the removal of the plunger and connection to the mechanical ventilation system (figure 2).
+Post-tracheostomy care
+• The Royal College of Anaesthetists suggests avoiding humidified circuits, as it will theoretically reduce the risk of contamination of the room if there is an unexpected disconnection from the circuit;
+• Avoid changing the tracheostome until the patient has a COVID-19 negative test;
+• Check the inflated cuff for leaks
+• Make every effort not to disconnect the circuit;
+• Only closed-circuit suction should be used.
+Personal protective equipment (PPE) is only part of a system to prevent healthcare professionals’ contamination. In addition to the protective equipment, procedures such as decontamination of surfaces and equipments, minimizing unnecessary contact with the patient and surfaces, as well as careful waste management are essential to reduce risks5.
+The virus can remain viable in the air for a prolonged period and on non-absorbent surfaces for many hours and even days10. However, clearance of infectious particles after an aerosol generating procedure are dependent on the mechanical/natural ventilation and air change per hour in the room. A single air change is estimated to remove 63% of airborne contaminants. Based on this, the minimum time considered for cleaning the environment after aerosol release is 20 minutes6,11.
+Airway procedures are, currently, classified according to their risk as follows (expressed in decreasing order)10:
+- Tracheal intubation
+- Tracheostomy / Cricothyroidotomy
+- Noninvasive ventilation (NIV)
+- Ventilation mask
+On the opposite side of social isolation, health professionals are at the forefront of the battle against COVID-19, with greater risks of infection. Personal protective equipment must be prioritized, and must be associated with procedures adapted to offer adequate care, including surgery, in order to reduce the risks of infection. Procedures with exposure to the patient’s aerosols, such as cricothyroidotomy and tracheostomy, must be adapted, and require the appropriate education of emergency physicians and surgeons. Health professionals are the most valuable resources at the moment.

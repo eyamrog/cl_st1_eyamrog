@@ -1,0 +1,161 @@
+(A first review of Gasteroid fungi (Agaricomycetes, Basidiomycota) in Paraguay). Based on the available literature, a list of 40 gasteroid species recorded in Paraguay since the earliest known collection is presented. A total of forty species are reported, distributed among 16 genera and 4 families. This work represents the first compilation of data available on this group of fungi for Paraguay. These numbers reveal the scarce amount of species formally cited for the Paraguayan Funga.
+Gasteroid fungi present a wide range of basidiomata structure and these distinctive characteristics lead to the designation of many genera as monotypic or with few species represented.
+The existing bibliographic information on the group of gasteroid Funga in the last century was limited to a few citations made by Spegazzinii (1884, 1888, 1891) who recorded 12 species from the country:Geastrum saccatum Fr. [as Geaster saccatus], Tulostoma cyclophorum Lloyd [as Tylostoma berteroanum], Lycoperdon lilacinum (Mont. & Berk.) Speg., Lycoperdon pseudo-lilacinum Speg., Lycoperdon pseudogemmatum Speg., Simblum sphaerocephalum Schltdl., Geastrum saccatum [Geaster spegazzinianus], Lanopila guaranitica Speg., Bovista dubiosa Speg. and Lycoperdon scleroderma Speg.
+Most of the new citations were made by contemporary mycologists since the last publication of Spegazzini, 122 years ago. The next recording of gasteroid fungi in the country occurred in 2013 (Campi et al. 2013), and more recent studies have been carried out by Campi and collaborators (Campi et al. 2015, Campi & Maubet 2015a, 2015b, Campi et al. 2017, Maubet et al. 2018)
+In the last decade the record of gasteroid fungi has increased but despite the efforts of mycologists in recent years, knowledge about the gasteroid mycobiota in Paraguay remains scattered and incomplete since the collections have been made sporadically and in very few areas.
+Paraguay comprises two distinct geographical regions, the eastern and western, which are separated by the Paraguay River. The western region is also known as the Chaco. Which include 3 ecoregions: Humid Chaco, Dry Chaco, and Pantanal. The ecoregions of eastern Paraguay includes the Humid Chaco, Atlantic Forest, and Cerrado (Dinerstein et al. 1995).
+This study is a revision of the available data and an update of the records of species of gasteroid fungi from Paraguay.
+This checklist has been compiled based on literature records of gasteroid fungi recorded from Paraguay. The information retrieved from the literature includes distribution records per department (figure 1), notes about habitat and substrate, and detailed descriptions and remarks of the basidiomata. The current taxonomic position is indicated, as have been described in previous publications and a brief introduction of the most outstanding characteristics of each species is provided. The classification and nomenclature followed the database Mycobank (http://www.mycobank.org). Genera and species are listed alphabetically (table 1) and the authorities for the binomials, as well as the author names and spellings, are in accordance to Robert et al. (2005) database.
+The 40 gasteroid fungi species recorded in Paraguay are distributed among 16 genera and four families. The most highly represented family is Agaricaceae with 14 species (39%), followed by Phallaceae and Geastraceae (with 10 species each respectively, 28%). Geastrum is the genus with the highest number of species with nine taxa (25%). The departments with the most records were the Central department, corresponding to the humid Chaco ecoregion, with 19 records (47.5%) and the Paraguarí department, corresponding to the transition ecoregion between humid Chaco and Atlantic Forest, with 15 records (37.5%), two species of gasteroid fungi were cited for the Atlantic Forest ecoregion (5%), eight species for the Pantanal ecoregion (20%) and two species for the dry Chaco (5%).
+It is not possible to speak of the most represented species in terms of distribution since the country lacks extensive samplings to represent all the ecoregions appropriately. Dring (1973) and Miller & Miller (1988) estimated a hundred genera of gasteromycetes, therefore the diversity of this group is still not well represented in Paraguay, since only 15 genera are recorded in the literature.
+Agaricaceae Chevall.
+Battarrea phalloides (Dicks.) Pers.
+Basionym: Lycoperdon phalloides Dicks.
+Locality: BO (Campi et al. 2016b).
+Identification. Species easily recognizable for presenting a high basidiome about 10-30 cm including the spore sac, rapid development, rust in color, stipe expending up to 25 cm in length and bearing a spore sac; exoperidium remaining as a volva and apically as scales on the endoperidium; endoperidium and spore sac hemispherical to conical, 2.8 cm to 7.2 cm in diam., later splitting circular along the middle and deteriorating. Volva membranous up to 15 cm in diameter, presenting similar color and surface as the stipe, partially adhered to the stipe base (Rea 1942, Garrido-Benavent 2014, Campi et al. 2016b).
+Calvatia cyathiformis (Bosc) Morgan
+Basionym: Lycoperdon cyathiforme Bosc
+Localities: CE (Campi et al. in press)
+Identification. The main characteristic of this species is a globose, compact basidiome when young, which develop a basal portion like an inverted pear or a loaf of bread at maturity. The surface can be commonly brown and broken up into mosaic-like scales. The gleba is purplish and pulverulent at maturity (Zeller & Smith 1964, Morales & Kimbrough 1978).
+Calvatia rugosa (Berk. & M.A. Curtis) D.A. Reid
+Basionym: Lycoperdon rugosum Berk. & M.A. Curtis
+Locality: SP, AP (Campi & Maubet 2016, Campi et al. in press)
+Identification. The main characteristic is the presence of the orange pigment that stains the basidioma when it is cut (Cortez et al. 2008). Another distinctive feature is its long rhizomorphic extension of 20-200 mm in diameter and 10-100 mm high, which folds at the base and is attached by one or more thin rhizomorphs (Wright & Albertó 2006).
+Calvatia lilacina (Mont. & Berk.) Henn
+Basionym: Bovista lilacina Berk. & Mont.
+Locality: PR (Spegazzini 1884, 1888).
+Identification. Bates et al. (2009) reported Calvatia lilacina as a synonym of Calvatia fragilis in Arizona, USA. On the other hand both species are treated as independent by Trierveiler-Pereira & Baseia (2009) in Brazil. Cortez et al. (2012) consider this species a synonym of C. cyathiformis but other authors differ and consider C. cyathiformis as a different species (Verma et al. 2018).
+Comments: C. lilacina was recorded for Spegazzinii (1884) as Lycoperdon lilacinum.
+Cyathus earlei Lloyd
+Locality: PR (Campi et al. in press).
+Identification. This species is characterized by an exoperidium without plication, covered by a light color tomentum, organized in small tufts, endoperidium smooth or inconspicuously plicate, with a light, shiny color, contrasting with the exterior layer and peridioles with a double-layer cortex (Cruz et al. 2014).
+Cyathus limbatus Tul. & C. Tul
+Basionym: Cyathodes limbatum (Tul. & C. Tul.)
+Localities: AP, CE, PR (Maubet et al. 2017, Campi et al. in press).
+Identification. This species is characterized by having plicate peridium on the internal and external surface, large peridioles (7-10 mm × 6-7 mm) with bilayered cortex, dark brown to black peridioles and basidiospores of 10-12 × 16-22 μm. Another distinctive feature of the species is that at the base of the pseudostipe a woolly golden brown subicule is formed (Brodie & Dennis 1954, Trierveiler- Pereira & Baseia 2010).
+Cyathus poeppigii Tul. & C. Tul
+Basionym: Cyathodes poeppigii (Tul. & C. Tul.)
+Localities: CE (Campi & Maubet 2015a, Maubet et al. 2017).
+Identification. The most remarkable diagnostic characteristics of the species are the large size of the basidiospores (20-28 × 30-42 µm) and the deep internal and external striations of the peridium (Brodie and Dennis 1954).
+Cyathus setosus H.J. Brodie
+Localities: PR (Maubet et al. 2017).
+Identification. C. setosus is characterized by a conical peridium, of intense dark brown coloration, smooth external surface and a slightly plicated internal surface, with dark conspicuous setae 0.5-1 mm long, large peridioles without a tunic, double cortex, and a small subiculum (Brodie 1967, Trierveiler-Pereira & Baseia 2013).
+Cyathus stercoreus (Schwein.) De Toni
+Basionym: Nidularia stercorea Schwein.
+Locality: CG, PR, SP (Maubet et al. 2017, Campi et al. 2013b).
+Identification. The morphological characteristics of the species are the absence of folds, either internal or external, in the peridium, the presence of hairs grouped into golden brown strands covering the entire basidioma in the immature state, these hairs fall with age leaving the peridium with smooth appearance at maturity and taking a dark color ranging from light brown to gray (Maubet et al. 2017).
+Cyathus striatus (Huds.) Willd.
+Basionym: Peziza striata Huds.
+Locality: AR (Gullón 2011).
+Identification. Easy to recognize by the hirsute exoperidium with a shiny and striate inner surface. Microscopically, it has large ovoid basidiospores (14-17 × 7-9) (Baseia & Milanez 2001).
+Podaxis pistillaris (L.) Fr.
+Basionym: Lycoperdon pistillare L.
+Localities: BO, CR (Campi et al. 2015b, Campi et al. in press).
+Identification. This species is characterized by the hard and fibrous pseudostipe that penetrates the gleba. The gleba is covered by a scaly, sub-cylindrical peridium which turns dark and powdery in the mature stage (Morse 1933).
+Lycoperdon pseudogemmatum Speg.
+Locality: PR (Spegazzinii 1884).
+Identification. Cortez et al. (2013) consider this species a possible synonym of Lycoperdon perlatum, a highly variable species, which is characterized by the presence of spines in the conical exoperidium with a rounded apex.
+Lycoperdon pseudolilacinum Speg.
+Locality: PR (Spegazzinii 1884).
+Identification. This species resembles L. lilacinum but differs in the color of the gleba and the very fragile peridium (Spegazzini 1884).
+Tulostoma cyclophorum Lloyd
+Basionym: Tulostoma berteroanum f. pampeanum Speg.
+Locality: CE, PR (Spegazzini 1884, Campi et al. 2016a).
+Identification. This species is easily distinguishable by persistent membranous exoperidium in old specimens, endoperidium with a velvety texture and abundant mycosclereids well visible to the stereoscope on its surface, a mamiform and fimbriated mouth, and by the globose basidiospores with ridges which offer a characteristic cross-linked to sub-crosslinked morphology (Campi et al. 2016a).
+Comments: This species was recorded as Tulostoma berteroanum by Spegazzini (1884).
+Tulostoma pygmaeum Lloyd
+Locality: PR (Campi et al. in press)
+Identification. This species is characterized by its tubular mouth, hyphal exoperidium, and basidiospores with a distinct verrucose ornamentation (Moreno et al. 1995).
+Vascellum pampeanum (Speg.) Homrich, in Homrich & Wright
+Basionym: Lycoperdon pampeanum Speg.
+Locality: CE (Campi & Maubet 2016).
+Identification. V. pampeanum is characterized by having a diaphragm that separates the gleba from the subgleba, the presence of mycosclereids on the surface of the exoperidium and the presence of eucapilicium (Homrich & Wright 1988).
+Geastraceae Corda
+Geastrum argentinum (Speg.)
+Basionym: Geastrum argentines Speg.
+Locality: AP (Campi et al. 2018).
+Identification. G. argentinum is characterized by emerging from a whitish subicule and by an external surface of the velvety mycelial layer which is detached from fibrous tissue (Zamora et al. 2014).
+Geastrum coronatum Pers.
+Basionym: Geastrum limbatum Fr.
+Locality: CE (Campi & Maubet 2015b).
+Identification. This species is mainly characterized by arched basidiomata, dark brown and asperulate endoperidium, a myceliar layer covered with abundant debris, a fibrillose peristome, larger pedicel (up to 4 mm high), and basidiospores with prominent truncate warts (Sunhede 1989, Soto & Wright 2000, Alves & Cortez 2016).
+Geastrum hariotii Lloyd
+Basionym: Geaster harioti Lloyd
+Locality: AP (Campi et al. 2018).
+Identification. The species is characterized by having non-hygroscopic exoperidium, endoperidium sessile or with a very short stipe, peristoma strongly plicated and well defined. (Trierveiler-Pereira & Silveira 2012).
+Geastrum minimum Schwein.
+Locality: CE (Campi et al. 2015a).
+Identification. G. minimum is normally treated as a single, rather variable species, mostly small-sized and often showing quite large crystals of calcium oxalate on the endoperidial surface (Zamora et al. 2014)
+Geastrum pampeanum var. pallidum Speg.
+Basionym: Geastrum pampeanus var. pallidus Speg.
+Locality: AP (Campi et al. 2018).
+Identification. This species is characterized by a small basidiomata (17-30 mm wide), non- hygroscopic exoperidium, sessile endoperidium and basidiospores of 3.5-5 μm diam. (Campi et al. 2018).
+Geastrum pusillipilosum J.O. Sousa, Alfredo, R.J. Ferreira, M.P Martín & Baseia
+Locality: PR (Campi et al. in press).
+Identification. Recognized by a small basidiomata (up to 17 mm wide), an exoperidium covered with short hairs (up to 1 mm), a fibrillose peristome and basidiospores of 4.4-6 × 4.3-5.9 (-6.8) μm diam (Crous et al. 2016, Lima & Baseia 2018).
+Geastrum saccatum Fr.
+Localities: AP, CE, PR (Spegazzini 1884, Campi et al. 2018).
+Identification. This species is characterized by a large basidiomata (up to 8 cm in diameter), involute lacinias, non-hygroscopic, a prominent conspicuous collar around the endoperidium from the pseudoparenchymal layer of exoperidium, sessile endoperidium, delimited or unbounded fibrous peristoma (Sunhede 1989).
+Geastrum schweinitzii (Berk. & M.A. Curtis) Zeller
+Basionym: Coilomyces schweinitzii Berk. & M.A. Curtis
+Locality: CE (Campi & Maubet 2015b).
+Identification. This species is recognized by small cespitose basidiomata and by the presence of a white to yellowish, subiculum that spreads throughout the substrate, which is generally decomposing wood (Baseia et al. 2003). Some specimens previously identified as G. schweinitzii for the neotropics were different species based on phylogenetic analysis and thus the species could be endemic of the region were the type material was collected (Accioly et al. 2019)
+Geastrum triplex Jungh. in Tijdschr
+Locality: SP, CE, AP (Campi et al. 2013b, Campi et al. 2018).
+Identification. This species is characterized by large basidiomata (up to 8 cm in diameter), involute lacinias, non-hygroscopic, prominent conspicuous collar around the endoperidium from the pseudoparenchymal layer of exoperidium, sessile endoperidium, delimited or unbounded fibrous peristoma. (Campi et al. 2018). Recent phylogenetic studies suggest that the morphological concept of the species actually represents an assemblage of closely related species which vary in the distribution patterns (Kasuya et al. 2012).
+Geastrum violaceum Rick
+Locality: AR (Campi et al. 2013a).
+Identification. This species is mainly distinguished by the pink, red to pale violet color of the exoperidium, a character that easily separates it from other species of the genus (Trierveiler-Pereira & Silveira 2012).
+Myriostoma calongei Baseia, J.O. Sousa & M.P. Martín
+Locality: PR (Campi et al. in press).
+Identification. This species is characterized by a verrucose endoperidium, with prominent triangular processes and could be restricted to South America (Sousa et al. 2017).
+Phallaceae Corda
+Blumenavia rhacodes Möller
+Locality: CR (Campi et al. in press).
+Identification. The species is characterized by a pale orange to greyish orange (beige) receptacle consisting of 3-5 columns, and glebifers occuring on lateral expansions (“teeth”) distributed along the column’s margins (Trierveiler-Pereira et al. 2019, Melanda et al. 2020).
+Clathrus argentinus Domínguez
+Locality: CE (Campi et al. in press).
+Identification. This species is characterized by having the receptacle arms not joined at the base and a strongly yellow basal mycelium, and glebiferous zones with digitiform extensions, are at the intersection of the arms that form the network (Domínguez de Toledo 1985).
+Clathrus chrysomycelinus Möller
+Basionym: Clathrella chrysomycelina (Möller) E. Fisch.
+Locality: PR (Maubet et al. 2018).
+Identification. This species is characterized by obovoid, perforate, white to yellowish receptacle, isodiametric meshes, having the receptacle arms joined at the base and a strong yellow basal mycelium. In addition, the glebe is confined to glebifers at the inner side of the arm’s intersections (Dring et al. 1971, Dring 1980).
+Comments: Maubet et al. (2018) mention that the material was collected in Ybycui city, reviewing the herbarium material, the right collection site corresponds to Piribebuy city, Cordillera Department.
+Clathrus columnatus Bosc
+Basionym: Laternea columnata (Bosc) Nees
+Locality: CE (Campi et al. 2017).
+Identification. Species characterized by having 2-5 robust spongy reddish to orange columns free at the base and fused at the apex. The gleba is spread on the internal portion of the columns and not confined to a glebifer (Sandoval-Leiva et al. 2014, Magnago et al. 2013).
+Clathrus crispus Turpin
+Basionym: Clathrella crispa (Turpin) E. Fisch.
+Locality: AP (Maubet et al. 2018).
+Identification. This species is characterized by having a small receptacle (5 cm or less, some larger up to 15 cm), globose to subglobose of reddish coloration, with somewhat regular meshes (usually round at the apex and more elongated towards the base) and with a corrugated and folded membrane surrounding the meshes where the gleba is located (Dring 1980).
+Itajahya galericulata Möller, Bras.
+Localities: CE, PR (Campi et al. 2017, in press).
+Identification. Characterized by massive ‘eggs’ (3‒8 cm high), a white pseudostipe, a hemispherical, wig-like receptacle with a flat apex that is covered with a calyptra (membranous cap) (Trierveiler- Pereira et al. 2019).
+Itajahya rosea (Delile) E. Fisch.
+Basionym: Phallus roseus Delile
+Localities: CE (Campi et al. 2017)
+Identification. This species, which has a phalloid shape, is characterized by the presence of a calyptra at the apex of the receptacle and the pinkish pseudostipe (Ottoni et al. 2010).
+Lysurus sphaerocephalum (Schltdl.) Hern. Caff., Urcelay, Hosaka & L.S. Domínguez
+Basionym: Simblum sphaerocephalum Schltdl.
+Localities: CE, PR (Spegazzini 1891, Campi et al. in press)
+Identification. The diagnostic features of the species are the fertile portion of the receptacle that is an irregular net, reddish, enclosing the stipe, which exceeds the stipe width. Stipe reddish and stylized, length clearly exceeds width, not striate (Hernández-Caffot et al. 2018).
+Mutinus argentinus Speg.
+Localities: CE, CR (Campi et al. 2017, Maubet et al. 2018).
+Identification. The species is characterized by a pinkish pseudostipe that tapers towards the apex, and a granulose, bright red fertile part with a small pore at the tip when mature (Trierveiler-Pereira et al. 2019).
+Comments: Maubet et al. (2018) mention that the material was collected in Ybycui city, reviewing the herbarium material the right collection site corresponds to Piribebuy city, Cordillera Department.
+Phallus campanulatus Berk.
+Locality: CE (Campi et al. in press)
+Identification. The species is characterized by a whitish pseudostipe with small perforations, an off white, perforate, narrow campanulate, wrinkled to minutely rugulose receptacle with a toothed margin. The pore at the receptacle apex is so prominent that a ring-like structure can be observed around it (Trierveiler-Pereira et al. 2019).
+Phallus indusiatus Vent.
+Localities: CE (Maubet et al. 2018).
+Identification. The species is characterized by a whitish pseudostipe, a reticulate, white receptacle and the long, white indusium. Mycelial strands are often abundant and have purplish pigments (Trierveiler-Pereira et al. 2019).
+Sclerodermataceae Corda
+Pisolithus arhizus (Scop.) Rauschert
+Basionym: Lycoperdon arrizon Scop.
+Locality: CE (Campi et al. 2015a)
+Identification. This species is recognized by its epigeous, globose basidiomata, echinate basidiospores (Campi et al. 2015a).
+Scleroderma bovista Fr.
+Locality: CE (Campi et al. 2015a)
+Identification. The species is characterized by the presence of a smooth yellowish-brown peridium, with some reddish dark brown areas, basidiospores (11‒) 12‒14 (‒16) µm in diameter, with a well- developed crosshair (Nouhra et al. 2012).
+This work was carried out within the framework of the project PINV18-699 “Development of molecular tools for the taxonomic identification of fungi from 3 Ecoregions of Paraguay”, funded by the Consejo Nacional de Ciencias y Tecnología (CONACYT). The authors thanks to Professor Andrea Weiler, for the contribution with the map. Anonymous reviewers are generous acknowledged, for discussions and comments that improved the manuscript. Sc. Andrew G. Cervantes is acknowledged, for the revision of the manuscript’s English and for the valuable contribution to the writing.
