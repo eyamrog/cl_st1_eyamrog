@@ -72,7 +72,7 @@ def main(input_directory, output_directory):
                 improved_paragraphs.append(paragraph)  # Keep original if there's an error
         return '\n'.join(improved_paragraphs)
 
-    # Applying the function to the 'Text' column with progress indication
+    # Applying the function to the 'Text Paragraphs' column with progress indication
     improved_texts = []
     for text in tqdm(df_scielo_preprint_preChatGPT_en['Text Paragraphs'], desc='Processing texts'):
         improved_texts.append(improve_text(text))
