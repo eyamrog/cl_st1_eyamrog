@@ -74,7 +74,7 @@ def main(input_directory, output_directory):
 
     # Applying the function to the 'Text' column with progress indication
     improved_texts = []
-    for text in tqdm(df_scielo_preprint_preChatGPT_en['Text'], desc='Processing texts'):
+    for text in tqdm(df_scielo_preprint_preChatGPT_en['Text Paragraphs'], desc='Processing texts'):
         improved_texts.append(improve_text(text))
 
     df_scielo_preprint_preChatGPT_en['Text ChatGPT'] = improved_texts
