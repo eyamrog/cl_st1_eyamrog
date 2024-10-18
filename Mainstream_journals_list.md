@@ -14,7 +14,7 @@ Would it be possible for you to complete each entry with the respective website?
 
 ### Agricultural Sciences
 - Nature Food
-- Plant Biotechnology Journal
+- Plant Biotechnology Journal: https://onlinelibrary.wiley.com/journal/14677652?msockid=0525cb73d9a76a060b80df20d87e6b4b
 - Annual Review of Plant Biology
 - Nature Sustainability
 - Annual Review of Plant Biology
