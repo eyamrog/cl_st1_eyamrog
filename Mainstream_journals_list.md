@@ -22,10 +22,10 @@ Would it be possible for you to complete each entry with the respective website?
 
 ### Applied Social Sciences
 - [Journal of Applied Social Science](https://journals.sagepub.com/home/jax)
-- Social Science & Medicine
+- [Social Science & Medicine](https://www.sciencedirect.com/journal/social-science-and-medicine)
 - Journal of Social Issues
 - Journal of Applied Social Science
-- Sociological Practice Association
+- [Sociological Practice Association](https://digitalcommons.wayne.edu/socprac/)
 
 ### Biological Sciences
 - Nature Reviews Molecular Cell Biology
