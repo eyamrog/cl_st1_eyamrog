@@ -21,7 +21,7 @@ Would it be possible for you to complete each entry with the respective website?
 - Nature Reviews Molecular Cell Biology
 
 ### Applied Social Sciences
-- Journal of Applied Social Science
+- [Journal of Applied Social Science](https://journals.sagepub.com/home/jax)
 - Social Science & Medicine
 - Journal of Social Issues
 - Journal of Applied Social Science
