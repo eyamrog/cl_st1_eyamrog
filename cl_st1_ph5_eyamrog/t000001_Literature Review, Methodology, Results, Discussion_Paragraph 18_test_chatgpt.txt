@@ -1,0 +1,1 @@
+Users should not assume that automated assemblies are devoid of errors. Specifically, structural inaccuracies, such as fragmented replicons and duplicated plasmids, may occur, which is precisely the issue that Trycycler seeks to mitigate.
