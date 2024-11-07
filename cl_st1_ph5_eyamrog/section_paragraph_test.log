@@ -3,3 +3,18 @@
 2024-11-06 16:01:56,346 - INFO - Text ID: t000002 - Dictionary and text have the same number of paragraphs (65)
 2024-11-06 16:01:56,348 - INFO - Text ID: t000003 - Dictionary and text have the same number of paragraphs (58)
 2024-11-06 16:01:56,360 - INFO - Merging of DataFrames complete.
+2024-11-07 11:14:48,510 - INFO - Text ID: t000000 - Dictionary and text have the same number of paragraphs (29)
+2024-11-07 11:14:48,511 - INFO - Text ID: t000001 - Dictionary and text have the same number of paragraphs (31)
+2024-11-07 11:14:48,513 - INFO - Text ID: t000002 - Dictionary and text have the same number of paragraphs (65)
+2024-11-07 11:14:48,516 - INFO - Text ID: t000003 - Dictionary and text have the same number of paragraphs (58)
+2024-11-07 11:14:48,528 - INFO - Merging of DataFrames complete.
+2024-11-07 11:16:25,227 - INFO - Text ID: t000000 - Dictionary and text have the same number of paragraphs (29)
+2024-11-07 11:16:25,228 - INFO - Text ID: t000001 - Dictionary and text have the same number of paragraphs (31)
+2024-11-07 11:16:25,229 - INFO - Text ID: t000002 - Dictionary and text have the same number of paragraphs (65)
+2024-11-07 11:16:25,229 - INFO - Text ID: t000003 - Dictionary and text have the same number of paragraphs (58)
+2024-11-07 11:16:25,233 - INFO - Merging of DataFrames complete.
+2024-11-07 11:17:24,776 - INFO - Text ID: t000000 - Dictionary and text have the same number of paragraphs (29)
+2024-11-07 11:17:24,776 - INFO - Text ID: t000001 - Dictionary and text have the same number of paragraphs (31)
+2024-11-07 11:17:24,777 - INFO - Text ID: t000002 - Dictionary and text have the same number of paragraphs (65)
+2024-11-07 11:17:24,778 - INFO - Text ID: t000003 - Dictionary and text have the same number of paragraphs (58)
+2024-11-07 11:17:24,781 - INFO - Merging of DataFrames complete.
