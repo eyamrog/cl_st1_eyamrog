@@ -1,6 +1,7 @@
 # Validating the section and paragraph mapping
 # (my_env) eyamrog@Rog-ASUS:~/work/cl_st1_eyamrog/cl_st1_ph5_eyamrog$ clear && python section_paragraph_mapping_validate.py
 # "Abstract, Introduction, Literature Review, Methodology, Results, Discussion, Conclusion, Acknowledgements"
+# "Comments to the Editor"
 
 import pandas as pd
 import json
