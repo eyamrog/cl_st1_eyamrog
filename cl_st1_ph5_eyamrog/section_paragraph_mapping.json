@@ -2597,7 +2597,12 @@
         "Abstract": [
             "Paragraph 1"
         ],
-        "Introduction, Literature Review, Methodology, Results, Discussion": [
+        "Introduction": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+        ],
+        "Literature Review, Methodology, Results, Discussion": [
             "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
@@ -2613,10 +2618,7 @@
             "Paragraph 13",
             "Paragraph 14",
             "Paragraph 15",
-            "Paragraph 16",
-            "Paragraph 17",
-            "Paragraph 18",
-            "Paragraph 19"
+            "Paragraph 16"
         ],
         "Conclusion": [
             "Paragraph 1",
@@ -5478,82 +5480,10 @@
         "Abstract": [
             "Paragraph 1"
         ],
-        "Introduction, Literature Review, Methodology, Results, Discussion": [
-            "Paragraph 1",
-            "Paragraph 2",
-            "Paragraph 3",
-            "Paragraph 4",
-            "Paragraph 5",
-            "Paragraph 6",
-            "Paragraph 7",
-            "Paragraph 8",
-            "Paragraph 9",
-            "Paragraph 10",
-            "Paragraph 11",
-            "Paragraph 12",
-            "Paragraph 13",
-            "Paragraph 14",
-            "Paragraph 15",
-            "Paragraph 16",
-            "Paragraph 17",
-            "Paragraph 18",
-            "Paragraph 19",
-            "Paragraph 20",
-            "Paragraph 21",
-            "Paragraph 22",
-            "Paragraph 23",
-            "Paragraph 24",
-            "Paragraph 25",
-            "Paragraph 26",
-            "Paragraph 27",
-            "Paragraph 28",
-            "Paragraph 29",
-            "Paragraph 30",
-            "Paragraph 31",
-            "Paragraph 32",
-            "Paragraph 33",
-            "Paragraph 34",
-            "Paragraph 35",
-            "Paragraph 36",
-            "Paragraph 37",
-            "Paragraph 38",
-            "Paragraph 39",
-            "Paragraph 40",
-            "Paragraph 41",
-            "Paragraph 42",
-            "Paragraph 43",
-            "Paragraph 44",
-            "Paragraph 45",
-            "Paragraph 46",
-            "Paragraph 47",
-            "Paragraph 48",
-            "Paragraph 49",
-            "Paragraph 50",
-            "Paragraph 51",
-            "Paragraph 52",
-            "Paragraph 53",
-            "Paragraph 54",
-            "Paragraph 55",
-            "Paragraph 56",
-            "Paragraph 57",
-            "Paragraph 58",
-            "Paragraph 59",
-            "Paragraph 60",
-            "Paragraph 61",
-            "Paragraph 62",
-            "Paragraph 63",
-            "Paragraph 64"
-        ],
-        "Conclusion": [
-            "Paragraph 1",
-            "Paragraph 2"
-        ]
-    },
-    "t000090": {
-        "Abstract": [
+        "Introduction": [
             "Paragraph 1"
         ],
-        "Introduction, Literature Review, Methodology, Results, Discussion": [
+        "Literature Review, Methodology, Results, Discussion": [
             "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
@@ -5620,18 +5550,26 @@
         ],
         "Conclusion": [
             "Paragraph 1",
+            "Paragraph 2"
+        ]
+    },
+    "t000090": {
+        "Abstract": [
+            "Paragraph 1"
+        ],
+        "Introduction": [
+            "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
             "Paragraph 4",
             "Paragraph 5",
-            "Paragraph 6"
-        ]
-    },
-    "t000091": {
-        "Abstract": [
-            "Paragraph 1"
+            "Paragraph 6",
+            "Paragraph 7",
+            "Paragraph 8",
+            "Paragraph 9",
+            "Paragraph 10"
         ],
-        "Introduction, Literature Review, Methodology, Results, Discussion": [
+        "Literature Review, Methodology, Results, Discussion": [
             "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
@@ -5677,7 +5615,77 @@
             "Paragraph 43",
             "Paragraph 44",
             "Paragraph 45",
-            "Paragraph 46"
+            "Paragraph 46",
+            "Paragraph 47",
+            "Paragraph 48",
+            "Paragraph 49",
+            "Paragraph 50",
+            "Paragraph 51",
+            "Paragraph 52",
+            "Paragraph 53"
+        ],
+        "Conclusion": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4",
+            "Paragraph 5",
+            "Paragraph 6"
+        ]
+    },
+    "t000091": {
+        "Abstract": [
+            "Paragraph 1"
+        ],
+        "Introduction": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4",
+            "Paragraph 5",
+            "Paragraph 6",
+            "Paragraph 7"
+        ],
+        "Literature Review, Methodology, Results, Discussion": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4",
+            "Paragraph 5",
+            "Paragraph 6",
+            "Paragraph 7",
+            "Paragraph 8",
+            "Paragraph 9",
+            "Paragraph 10",
+            "Paragraph 11",
+            "Paragraph 12",
+            "Paragraph 13",
+            "Paragraph 14",
+            "Paragraph 15",
+            "Paragraph 16",
+            "Paragraph 17",
+            "Paragraph 18",
+            "Paragraph 19",
+            "Paragraph 20",
+            "Paragraph 21",
+            "Paragraph 22",
+            "Paragraph 23",
+            "Paragraph 24",
+            "Paragraph 25",
+            "Paragraph 26",
+            "Paragraph 27",
+            "Paragraph 28",
+            "Paragraph 29",
+            "Paragraph 30",
+            "Paragraph 31",
+            "Paragraph 32",
+            "Paragraph 33",
+            "Paragraph 34",
+            "Paragraph 35",
+            "Paragraph 36",
+            "Paragraph 37",
+            "Paragraph 38",
+            "Paragraph 39"
         ],
         "Conclusion": [
             "Paragraph 1"
@@ -11502,7 +11510,44 @@
         "Abstract": [
             "Paragraph 1"
         ],
-        "Introduction, Literature Review, Methodology, Results, Discussion, Conclusion": [
+        "Introduction": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+        ],
+        "Literature Review, Methodology, Results, Discussion, Conclusion": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4",
+            "Paragraph 5",
+            "Paragraph 6",
+            "Paragraph 7",
+            "Paragraph 8",
+            "Paragraph 9",
+            "Paragraph 10",
+            "Paragraph 11",
+            "Paragraph 12",
+            "Paragraph 13",
+            "Paragraph 14",
+            "Paragraph 15",
+            "Paragraph 16",
+            "Paragraph 17",
+            "Paragraph 18",
+            "Paragraph 19",
+            "Paragraph 20"
+        ]
+    },
+    "t000208": {
+        "Abstract": [
+            "Paragraph 1"
+        ],
+        "Introduction": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+        ],
+        "Literature Review, Methodology, Results, Discussion": [
             "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
@@ -11526,39 +11571,6 @@
             "Paragraph 21",
             "Paragraph 22",
             "Paragraph 23"
-        ]
-    },
-    "t000208": {
-        "Abstract": [
-            "Paragraph 1"
-        ],
-        "Introduction, Literature Review, Methodology, Results, Discussion": [
-            "Paragraph 1",
-            "Paragraph 2",
-            "Paragraph 3",
-            "Paragraph 4",
-            "Paragraph 5",
-            "Paragraph 6",
-            "Paragraph 7",
-            "Paragraph 8",
-            "Paragraph 9",
-            "Paragraph 10",
-            "Paragraph 11",
-            "Paragraph 12",
-            "Paragraph 13",
-            "Paragraph 14",
-            "Paragraph 15",
-            "Paragraph 16",
-            "Paragraph 17",
-            "Paragraph 18",
-            "Paragraph 19",
-            "Paragraph 20",
-            "Paragraph 21",
-            "Paragraph 22",
-            "Paragraph 23",
-            "Paragraph 24",
-            "Paragraph 25",
-            "Paragraph 26"
         ],
         "Conclusion": [
             "Paragraph 1"
@@ -11571,7 +11583,12 @@
         "Abstract": [
             "Paragraph 1"
         ],
-        "Introduction, Literature Review, Methodology, Results, Discussion": [
+        "Introduction": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+        ],
+        "Literature Review, Methodology, Results, Discussion": [
             "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
@@ -11607,10 +11624,7 @@
             "Paragraph 33",
             "Paragraph 34",
             "Paragraph 35",
-            "Paragraph 36",
-            "Paragraph 37",
-            "Paragraph 38",
-            "Paragraph 39"
+            "Paragraph 36"
         ],
         "Conclusion": [
             "Paragraph 1",
@@ -11757,7 +11771,12 @@
         "Abstract": [
             "Paragraph 1"
         ],
-        "Introduction, Literature Review, Methodology, Results, Discussion": [
+        "Introduction": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+        ],
+        "Literature Review, Methodology, Results, Discussion": [
             "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
@@ -11783,10 +11802,7 @@
             "Paragraph 23",
             "Paragraph 24",
             "Paragraph 25",
-            "Paragraph 26",
-            "Paragraph 27",
-            "Paragraph 28",
-            "Paragraph 29"
+            "Paragraph 26"
         ],
         "Conclusion": [
             "Paragraph 1"
@@ -12258,14 +12274,9 @@
             "Paragraph 2",
             "Paragraph 3",
             "Paragraph 4",
-            "Paragraph 5",
-            "Paragraph 6",
-            "Paragraph 7",
-            "Paragraph 8",
-            "Paragraph 9",
-            "Paragraph 10"
+            "Paragraph 5"
         ],
-        "Literature Review": [
+        "Literature Review, Methodology, Results": [
             "Paragraph 1",
             "Paragraph 2",
             "Paragraph 3",
@@ -12276,90 +12287,7 @@
             "Paragraph 8",
             "Paragraph 9",
             "Paragraph 10",
-            "Paragraph 11",
-            "Paragraph 12",
-            "Paragraph 13",
-            "Paragraph 14",
-            "Paragraph 15",
-            "Paragraph 16",
-            "Paragraph 17",
-            "Paragraph 18",
-            "Paragraph 19",
-            "Paragraph 20",
-            "Paragraph 21",
-            "Paragraph 22",
-            "Paragraph 23",
-            "Paragraph 24",
-            "Paragraph 25",
-            "Paragraph 26",
-            "Paragraph 27",
-            "Paragraph 28",
-            "Paragraph 29",
-            "Paragraph 30"
-        ],
-        "Methodology": [
-            "Paragraph 1",
-            "Paragraph 2",
-            "Paragraph 3",
-            "Paragraph 4",
-            "Paragraph 5",
-            "Paragraph 6",
-            "Paragraph 7",
-            "Paragraph 8",
-            "Paragraph 9",
-            "Paragraph 10",
-            "Paragraph 11",
-            "Paragraph 12",
-            "Paragraph 13",
-            "Paragraph 14",
-            "Paragraph 15",
-            "Paragraph 16",
-            "Paragraph 17",
-            "Paragraph 18",
-            "Paragraph 19",
-            "Paragraph 20",
-            "Paragraph 21",
-            "Paragraph 22",
-            "Paragraph 23",
-            "Paragraph 24",
-            "Paragraph 25",
-            "Paragraph 26",
-            "Paragraph 27",
-            "Paragraph 28",
-            "Paragraph 29",
-            "Paragraph 30"
-        ],
-        "Results": [
-            "Paragraph 1",
-            "Paragraph 2",
-            "Paragraph 3",
-            "Paragraph 4",
-            "Paragraph 5",
-            "Paragraph 6",
-            "Paragraph 7",
-            "Paragraph 8",
-            "Paragraph 9",
-            "Paragraph 10",
-            "Paragraph 11",
-            "Paragraph 12",
-            "Paragraph 13",
-            "Paragraph 14",
-            "Paragraph 15",
-            "Paragraph 16",
-            "Paragraph 17",
-            "Paragraph 18",
-            "Paragraph 19",
-            "Paragraph 20",
-            "Paragraph 21",
-            "Paragraph 22",
-            "Paragraph 23",
-            "Paragraph 24",
-            "Paragraph 25",
-            "Paragraph 26",
-            "Paragraph 27",
-            "Paragraph 28",
-            "Paragraph 29",
-            "Paragraph 30"
+            "Paragraph 11"
         ],
         "Discussion": [
             "Paragraph 1",
@@ -12371,41 +12299,9 @@
             "Paragraph 7",
             "Paragraph 8",
             "Paragraph 9",
-            "Paragraph 10",
-            "Paragraph 11",
-            "Paragraph 12",
-            "Paragraph 13",
-            "Paragraph 14",
-            "Paragraph 15",
-            "Paragraph 16",
-            "Paragraph 17",
-            "Paragraph 18",
-            "Paragraph 19",
-            "Paragraph 20",
-            "Paragraph 21",
-            "Paragraph 22",
-            "Paragraph 23",
-            "Paragraph 24",
-            "Paragraph 25",
-            "Paragraph 26",
-            "Paragraph 27",
-            "Paragraph 28",
-            "Paragraph 29",
-            "Paragraph 30"
-        ],
-        "Conclusion": [
-            "Paragraph 1",
-            "Paragraph 2",
-            "Paragraph 3",
-            "Paragraph 4",
-            "Paragraph 5",
-            "Paragraph 6",
-            "Paragraph 7",
-            "Paragraph 8",
-            "Paragraph 9",
             "Paragraph 10"
         ],
-        "Acknowledgements": [
+        "Conclusion": [
             "Paragraph 1"
         ]
     },
