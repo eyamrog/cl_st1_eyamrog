@@ -20,7 +20,7 @@ def main(input_directory, output_directory):
             raise FileNotFoundError(f"The output directory '{output_directory}' does not exist.")
 
         # Define input variables
-        log_filename = 'chatgpt_review.log'
+        log_filename = f"{output_directory}/chatgpt_review.log"
         chatgpt_model = 'gpt-4.1'
 
         # Set up logging
