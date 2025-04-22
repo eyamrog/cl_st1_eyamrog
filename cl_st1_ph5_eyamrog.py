@@ -110,6 +110,8 @@ def main(input_directory, output_directory):
         logging.info("Exporting improved text to output files...")
         df_scielo_preprint_preChatGPT_en.to_json(f"{output_directory}/scielo_chatgpt_erpp_pp.jsonl", orient='records', lines=True)
         logging.info("Export to JSON completed successfully.")
+        df_scielo_preprint_preChatGPT_en.to_excel(f"{output_directory}/scielo_chatgpt_erpp_pp.xlsx")
+        logging.info("Export to EXCEL completed successfully.")
 
     except FileNotFoundError as e:
         logging.error(f"File or Directory Error: {e}")
