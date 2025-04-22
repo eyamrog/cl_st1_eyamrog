@@ -34,7 +34,7 @@ def main(input_directory, output_directory):
     assert openai.api_key
 
     # Defining a function to query ChatGPT with exponential backoff
-    def get_completion(prompt, model='gpt-4o-mini', max_retries=5):
+    def get_completion(prompt, model='gpt-4.1', max_retries=5):
         client = openai.OpenAI()
         messages = [{'role': 'user', 'content': prompt}]
         for attempt in range(max_retries):
