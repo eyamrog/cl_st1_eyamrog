@@ -10,6 +10,7 @@ import logging
 from tqdm import tqdm
 import time
 
+
 def main(input_directory, output_directory):
     '''Process and improve text using ChatGPT.'''
     try:
@@ -35,9 +36,11 @@ def main(input_directory, output_directory):
         df_scielo_preprint_preChatGPT_en = pd.read_json(f'{input_directory}/scielo_erpp_pp.jsonl', lines=True)
         if df_scielo_preprint_preChatGPT_en.empty:
             raise ValueError("The input file contains no data. Please check the file content.")
-        
-        df_scielo_preprint_preChatGPT_en['Submitted'] = pd.to_datetime(df_scielo_preprint_preChatGPT_en['Submitted'], unit='ms')
-        df_scielo_preprint_preChatGPT_en['Posted'] = pd.to_datetime(df_scielo_preprint_preChatGPT_en['Posted'], unit='ms')
+
+        df_scielo_preprint_preChatGPT_en['Submitted'] = pd.to_datetime(df_scielo_preprint_preChatGPT_en['Submitted'],
+                                                                       unit='ms')
+        df_scielo_preprint_preChatGPT_en['Posted'] = pd.to_datetime(df_scielo_preprint_preChatGPT_en['Posted'],
+                                                                    unit='ms')
 
         # Load environment variables from '.env'
         logging.info("Loading environment variables...")
@@ -101,14 +104,15 @@ def main(input_directory, output_directory):
         df_scielo_preprint_preChatGPT_en['Text Paragraph ChatGPT'] = improved_texts
 
         ## Export each paragraph processed by ChatGPT to individual files for inspection
-        #for index, row in df_scielo_preprint_preChatGPT_en.iterrows():
+        # for index, row in df_scielo_preprint_preChatGPT_en.iterrows():
         #    file_name = f"{output_directory}/{row['Text ID']}_{row['Section']}_{row['Paragraph']}_chatgpt.txt"
         #    with open(file_name, 'w', encoding='utf-8') as file:
         #        file.write(row['Text Paragraph ChatGPT'])
 
         # Export to a file
         logging.info("Exporting improved text to output files...")
-        df_scielo_preprint_preChatGPT_en.to_json(f"{output_directory}/scielo_chatgpt_erpp_pp.jsonl", orient='records', lines=True)
+        df_scielo_preprint_preChatGPT_en.to_json(f"{output_directory}/scielo_chatgpt_erpp_pp.jsonl", orient='records',
+                                                 lines=True)
         logging.info("Export to JSON completed successfully.")
         df_scielo_preprint_preChatGPT_en.to_excel(f"{output_directory}/scielo_chatgpt_erpp_pp.xlsx")
         logging.info("Export to EXCEL completed successfully.")
@@ -121,6 +125,7 @@ def main(input_directory, output_directory):
         logging.error(f"Data Validation Error: {e}")
     except Exception as e:
         logging.error(f"Unexpected error occurred: {e}")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process and improve text using ChatGPT.')
